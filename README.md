@@ -13,6 +13,10 @@
 
 - [AtCoder Rating Comparison](https://atcoder-rating-comparison.herokuapp.com/?q=) - 2人以上のレートの比較をする。
 
+## 統計
+
+- [AtCoder Stats](https://atcoderstats.appspot.com/) - コンテスト、問題、ユーザに関する様々な統計情報が閲覧できる。
+
 ## 関連プロジェクト
 
 [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
