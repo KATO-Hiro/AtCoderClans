@@ -11,7 +11,7 @@
 ## レート・パフォーマンスの計算
 
 - [AtCoder Rating Estimator](https://koba-e964.github.io/atcoder-rating-estimator/test-handle.html) - 所定のレーティングに到達するために、次のコンテストで必要なパフォーマンスを計算する。
-- [AtCoder Rating Comparison](https://atcoder-rating-comparison.herokuapp.com/?q=) - 2人以上のレートの比較をする。
+- [AtCoder Rating Comparison](https://atcoder-rating-comparison.herokuapp.com/?q=) - 指定した2人以上のレーティングの比較ができる。
 
 ## 統計
 
