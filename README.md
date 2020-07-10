@@ -11,6 +11,8 @@
 
 - [AtCoder Rating Estimator](https://koba-e964.github.io/atcoder-rating-estimator/test-handle.html) - 所定のレーティングに到達するために、次のコンテストで必要なパフォーマンスを計算する。
 
+- [AtCoder Rating Comparison](https://atcoder-rating-comparison.herokuapp.com/?q=) - 2人以上のレートの比較をする。
+
 ## 関連プロジェクト
 
 [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
