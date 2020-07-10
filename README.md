@@ -2,6 +2,11 @@
 
 競技プログラミングサイト[AtCoder](https://atcoder.jp/)の有志による非公式サービス・ツールのキュレーションサイトです
 
+## 過去問
+
+- [AtCoder Problems](https://kenkoooo.com/atcoder#/table/) - 開催されたコンテストの問題を一覧できる。問題の正誤状況や各種集計結果を確認できるだけでなく、バーチャルコンテストなどの機能もある。
+- [AtCoder Scores](http://atcoder-scores.herokuapp.com/) - AGC001以降の問題が点数順に並んでいる。
+
 ## 関連プロジェクト
 
 [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
