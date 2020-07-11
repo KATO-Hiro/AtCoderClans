@@ -86,9 +86,9 @@ AtCoderのハンドルネームなどを入力するだけで、気軽に各種�
 - [maspyのHP](https://maspypy.com/category/atcoder) - [maspy](https://atcoder.jp/users/maspy)さんの解説ブログ。Pythonで実装されている。
 - [けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/) - [drken](https://atcoder.jp/users/drken)さんの解説ブログ。C++で実装されている。
 
-## 書籍
-
 ## YouTube
+
+## 書籍
 
 ## 関連プロジェクト
 
