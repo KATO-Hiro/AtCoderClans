@@ -63,6 +63,7 @@ AtCoderのハンドルネームなどを入力するだけで、気軽に各種�
 ### UIの変更
 
 - [AtCoderPerformanceColorizer](https://greasyfork.org/ja/scripts/371693-atcoderperformancecolorizer) - コンテスト成績表のパフォーマンス値、レーティング値に色付けする。
+- [AtCoder Submission Status](https://greasyfork.org/ja/scripts/383817-atcoder-submission-status) - 提出した解答について、テストケースの結果(AC、WA、…)が一目でわかるように表示
 
 ### 通知
 
