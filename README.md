@@ -33,6 +33,7 @@ AtCoderのハンドルネームなどを入力するだけで、気軽に各種�
 ### 統計情報を見る
 
 - [AtCoder Stats](https://atcoderstats.appspot.com/) - コンテスト、問題、ユーザに関する様々な統計情報が閲覧できる。
+- [AtCoder Code Evaluate](https://ac-code-eval.com/) - 問題の実装の重さをAC(Accepted)コードをもとに評価している。
 
 ### レーティング・パフォーマンスを表示する
 
