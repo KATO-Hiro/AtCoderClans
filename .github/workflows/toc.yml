@@ -1,4 +1,6 @@
-on: push
+on:
+  push:
+    - master
 name: TOC Generator
 jobs:
   generateTOC:
