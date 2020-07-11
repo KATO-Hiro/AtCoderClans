@@ -100,6 +100,12 @@ AtCoderのハンドルネームなどを入力するだけで、気軽に各種�
 
 ## ボット
 
+### LINE
+
+- [Contests-Line-Bot](https://github.com/granddaifuku/Contests-Line-Bot) - 「コンテスト」を含む文章を送ると、コンテストの日程が通知される。AtCoderだけでなく、[Codeforces](https://codeforces.com/)にも対応している。
+
+### Twitter
+
 - [競プロer Bot](https://twitter.com/cper_bot) - AC(Accepted)、日単位のランキング、コンテストの予定を通知する。
 
 ## コマンドラインツール
