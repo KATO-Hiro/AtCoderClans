@@ -55,6 +55,10 @@ AtCoderのハンドルネームなどを入力するだけで、気軽に各種�
 
 - [ac-predictor](https://greasyfork.org/ja/scripts/369954-ac-predictor) - コンテスト中にパフォーマンスを予測する。[Webページ版](https://ac-predictor.com/)もある。
 
+## ボット
+
+- [競プロer Bot](https://twitter.com/cper_bot) - AC(Accepted)、日単位のランキング、コンテストの予定を通知する。
+
 ## コマンドラインツール
 
 キーボードの操作で特定の処理を簡単に行うことができます。
