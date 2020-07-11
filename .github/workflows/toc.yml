@@ -1,0 +1,12 @@
+on:
+  push:
+    - master
+name: TOC Generator
+jobs:
+  generateTOC:
+    name: TOC Generator
+    runs-on: ubuntu-latest
+    steps:
+      - uses: technote-space/toc-generator@v2
+        with:
+          FOLDING: true
