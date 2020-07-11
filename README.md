@@ -81,6 +81,11 @@ AtCoderのハンドルネームなどを入力するだけで、気軽に各種�
 
 ## 解説ブログ
 
+- [ARMERIA](https://betrue12.hateblo.jp/) - [betrue12](https://atcoder.jp/users/betrue12)さんの解説ブログ。RubyとC++で実装されている。
+- [kmjp's blog](https://kmjp.hatenablog.jp/) - [kmjp](https://atcoder.jp/users/kmjp)さんの解説ブログ。C++で実装されている。
+- [maspyのHP](https://maspypy.com/category/atcoder) - [maspy](https://atcoder.jp/users/maspy)さんの解説ブログ。Pythonで実装されている。
+- [けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/) - [drken](https://atcoder.jp/users/drken)さんの解説ブログ。C++で実装されている。
+
 ## 書籍
 
 ## YouTube
