@@ -88,6 +88,9 @@ AtCoderのハンドルネームなどを入力するだけで、気軽に各種�
 
 ## YouTube
 
+- [きりみんちゃん kirimin-chan](https://www.youtube.com/c/kiriminchan/playlists) - [kirimin](https://atcoder.jp/users/kirimin)さんのチャンネル。競技プログラミングやライブコーディングだけでなく、幅広い話題の動画が公開されている。
+- [じょえチャンネル](https://www.youtube.com/channel/UCRXsI3FL_kvaVL9zoolBfbQ/videos) - [xuzijian629](https://atcoder.jp/users/xuzijian629)さんのチャンネル。
+
 ## 書籍
 
 ## 関連プロジェクト
