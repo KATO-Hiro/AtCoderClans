@@ -87,9 +87,10 @@ AtCoderのハンドルネームなどを入力するだけで、気軽に各種�
 
 ユーザスクリプトを利用するときは、スクリプトマネージャと呼ばれるツールを導入する必要があります。[こちら](https://greasyfork.org/ja)を参照してください。
 
-### レーティング・パフォーマンスを表示する
+### レーティング・パフォーマンスなどを表示する
 
 - [ac-predictor](https://greasyfork.org/ja/scripts/369954-ac-predictor) - コンテスト中にパフォーマンスを予測する。[Webページ版](https://ac-predictor.com/)もある。
+- [AtCoder Difficulty Display](https://greasyfork.org/ja/scripts/397185-atcoder-difficulty-display) - AtCoderの問題のページに[AtCoder Problems](https://kenkoooo.com/atcoder)の難易度を表示する。
 
 ### UIの変更
 
