@@ -20,6 +20,8 @@
 
 [ガイドライン](https://github.com/KATO-Hiro/AtCoderHub/blob/master/CONTRIBUTING.md)を試作しましたので、ご参照ください。
 
+## 目次
+
 <!-- START doctoc -->
 <!-- END doctoc -->
 
