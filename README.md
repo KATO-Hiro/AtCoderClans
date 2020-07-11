@@ -93,6 +93,8 @@ AtCoderのハンドルネームなどを入力するだけで、気軽に各種�
 
 ## 書籍
 
+- [準備中]() - 準備中。
+
 ## 関連プロジェクト
 
 [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
