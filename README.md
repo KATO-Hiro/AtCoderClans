@@ -84,8 +84,9 @@ AtCoderのハンドルネームなどを入力するだけで、気軽に各種�
 
 - [AtCoder Games](https://atcoder-games.herokuapp.com/games/) - 過去問に登場したゲームで遊ぶことができる。
 
-### コンテストの開催予定を確認する
+### コンテストの開催予定を確認する・登録する
 
+- [AtCoder Calendar](https://atcoder-calendar.tkt989.info/) - 指定したURLをGoogleカレンダーに登録する。
 - [future-contest](https://future-contest.appspot.com/) - 開催予定のコンテスト情報を表示する。[yukicoder](https://yukicoder.me/)、[CS Academy](https://csacademy.com/)、[Codeforces](https://codeforces.com/)にも対応している。
 
 ### 統計情報を見る
