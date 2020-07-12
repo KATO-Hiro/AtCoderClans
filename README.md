@@ -316,17 +316,17 @@ Google Chromeに機能を追加します。
 
 ### C++
 
-- [beet-aizu/library](https://beet-aizu.github.io/library/) - [beet](https://atcoder.jp/users/beet)さんのC++で実装されたアルゴリズムのライブラリ。
-- [drken1215/algorithm](https://github.com/drken1215/algorithm) - [drken](https://atcoder.jp/users/drken)さんのC++で実装されたアルゴリズムのライブラリ。
+- [beet-aizu/library](https://beet-aizu.github.io/library/) - [beet](https://atcoder.jp/users/beet)さんのライブラリ。
+- [drken1215/algorithm](https://github.com/drken1215/algorithm) - [drken](https://atcoder.jp/users/drken)さんのライブラリ。
 - [fumiphys/programming_contest](https://github.com/fumiphys/programming_contest) - 主にC++で実装されたアルゴリズムのライブラリ。
-- [hiramekun/Algorithm](https://github.com/hiramekun/Algorithm) - [hiramekun](https://atcoder.jp/users/hiramekun)さんのC++で実装されたアルゴリズムのライブラリ。
-- [kazunetakahashi/library](https://github.com/kazunetakahashi/library) - [kazunetakahashi](https://atcoder.jp/users/kazunetakahashi)さんのC++で実装されたアルゴリズムのライブラリ。
-- [kmyk/competitive-programming-library](https://kmyk.github.io/competitive-programming-library/) - [kimiyuki](https://atcoder.jp/users/kimiyuki)さんのC++で実装されたアルゴリズムのライブラリ。
-- [koba-e964/contest](https://github.com/koba-e964/contest) - [kobae964](https://atcoder.jp/users/kobae964)さんのC++で実装されたアルゴリズムのライブラリ。
+- [hiramekun/Algorithm](https://github.com/hiramekun/Algorithm) - [hiramekun](https://atcoder.jp/users/hiramekun)さんのライブラリ。
+- [kazunetakahashi/library](https://github.com/kazunetakahashi/library) - [kazunetakahashi](https://atcoder.jp/users/kazunetakahashi)さんのライブラリ。
+- [kmyk/competitive-programming-library](https://kmyk.github.io/competitive-programming-library/) - [kimiyuki](https://atcoder.jp/users/kimiyuki)さんのライブラリ。
+- [koba-e964/contest](https://github.com/koba-e964/contest) - [kobae964](https://atcoder.jp/users/kobae964)さんのライブラリ。
 - [KryKsk/Algorithm](https://github.com/KryKsk/Algorithm) - C++で実装されたアルゴリズムのライブラリ。
 - [kumaraditya1999/Algorithms](https://github.com/kumaraditya1999/Algorithms) - CとC++で実装されたアルゴリズムのライブラリ。
-- [satanic0258/library](https://github.com/satanic0258/library) - [satanic0258](https://atcoder.jp/users/satanic0258)さんのC++で実装されたアルゴリズムのライブラリ。
-- [yosupo06/Algorithm](https://github.com/yosupo06/Algorithm) - [yosupo](https://atcoder.jp/users/yosupo)さんのC++で実装されたアルゴリズムのライブラリ。
+- [satanic0258/library](https://github.com/satanic0258/library) - [satanic0258](https://atcoder.jp/users/satanic0258)さんのライブラリ。
+- [yosupo06/Algorithm](https://github.com/yosupo06/Algorithm) - [yosupo](https://atcoder.jp/users/yosupo)さんのライブラリ。
 
 ### FSharp
 
