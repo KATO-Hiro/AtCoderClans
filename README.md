@@ -250,8 +250,8 @@ Google Chromeに機能を追加します。
 - [atcoder-cli](https://github.com/Tatamo/atcoder-cli) - AtCoderでの利用に特化したCLIツール。一部の機能は、後述の[oj](https://github.com/online-judge-tools/oj)に依存しており、導入が必要。
 - [AtCoder Tools](https://github.com/kyuridenamida/atcoder-tools) - サンプルケースのダウンロードが便利になる。
 - [cargo-atcoder](https://github.com/tanakh/cargo-atcoder) - サンプルケースのダウンロード、テスト、提出ができるCLIツール。RustとRustのビルドシステムおよびパッケージマネージャであるCargoが必要。
-- [ICIE](https://marketplace.visualstudio.com/items?itemName=pustaczek.icie) - 競技プログラミングに参加する上で、必要な機能を揃えた[Visual Studio Code](https://code.visualstudio.com/)の拡張機能。
 - [GreenDay](https://qiita.com/QWYNG/items/0e2e6b72bd1969d0d751) - サンプルケースのテスト、提出ができるCLIツール。Rubyのパッケージ管理システムであるGemが必要。
+- [ICIE](https://marketplace.visualstudio.com/items?itemName=pustaczek.icie) - 競技プログラミングに参加する上で、必要な機能を揃えた[Visual Studio Code](https://code.visualstudio.com/)の拡張機能。
 - [oj](https://github.com/online-judge-tools/oj) - サンプルケースのダウンロード、テスト、提出ができるCLIツール。複数のコンテストサイトに対応。PythonとPythonのパッケージ管理システムであるpipが必要。
 - [vim-atcoder](https://github.com/cannot-fly-pig/vim-atcoder) - [Vim](https://www.vim.org/)でサンプルケースのテストするためのプラグイン。対応言語は、C++。企業コンテストには、今後対応予定。
 
