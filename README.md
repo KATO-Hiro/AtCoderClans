@@ -137,6 +137,7 @@ AtCoderのハンドルネームなどを入力するだけで、気軽に各種�
 
 - ["Atcoder" Finder](https://greasyfork.org/ja/scripts/373742-atcoder-finder) - Twitterのツイートに含まれる"Atcoder"の文字列を赤色にする。
 - [AtCoder Problems Marker](https://greasyfork.org/ja/scripts/395711-atcoder-problems-marker) - [AtCoder Problems](https://kenkoooo.com/atcoder) で表示される問題に、ユーザが独自のマーカー(解説ACなど)を付けられるようにする。
+- [AtCoder Problems Penalty Counter](https://greasyfork.org/ja/scripts/395755-atcoder-problems-penalty-counter) -  [AtCoder Problems](https://kenkoooo.com/atcoder)のTableページで、各問題のコンテスト中のペナルティ数を表示する。
 
 ### 便利な機能を手軽に実行できるボタン・リンクなどを設置する
 
