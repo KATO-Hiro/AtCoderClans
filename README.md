@@ -179,6 +179,7 @@ Google Chromeに機能を追加します。
 ### UIを見やすく色付けする・表示を簡略化する
 
 - [AtCoder Color](https://chrome.google.com/webstore/detail/atcoder-color/mcefknoiablejellmicpmokcaelpdaec?hl=ja&gl=UA) - 「問題」ページで提出状況に応じて色付けする。
+- [AtCoder Color Mark](https://chrome.google.com/webstore/detail/atcoder-color-mark/dogcmibkiolcdafifopmnghhlajpbmga?hl=ja&gl=UA) - 「順位表」や「コンテスト成績表」のページにレーティングを示す円を表示する。
 
 ### 便利な機能を手軽に実行できるボタン・リンクなどを設置する
 
