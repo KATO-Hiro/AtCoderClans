@@ -179,6 +179,7 @@ Google Chromeに機能を追加します。
 ### 自動的に通知する
 
 - [AtCoder judge notifier](https://chrome.google.com/webstore/detail/atcoder-judge-notifier/hcjjfcidaloadjcemebolmdphhbpehba?hl=ja&gl=UA) - 「提出」ページのジャッジ結果を通知する。
+- [Coding Shout](https://chrome.google.com/webstore/detail/coding-shout/nggokghmfinpljihgjkkbogpgbbjjjme?hl=ja&gl=UA) - ジャッジ結果を通知する。CodechefやCodeforcesにも対応している。
 
 ### レーティング・パフォーマンスなどを表示する
 
