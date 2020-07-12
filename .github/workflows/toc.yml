@@ -1,11 +1,14 @@
-on: push: master
-name: TOC Generator
-jobs:
-  generateTOC:
-    name: TOC Generator
-    runs-on: ubuntu-latest
-    steps:
-      - uses: technote-space/toc-generator@v2
-        with:
-          TOC_TITLE: 'ç›®æ¬¡'
-          FOLDING: true
+on:
+  push:
+    branches:
+      - master
+  name: TOC Generator
+  jobs:
+    generateTOC:
+      name: TOC Generator
+      runs-on: ubuntu-latest
+      steps:
+        - uses: technote-space/toc-generator@v2
+          with:
+            TOC_TITLE: 'ç›®æ¬¡'
+            FOLDING: true
