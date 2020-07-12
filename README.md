@@ -259,6 +259,14 @@ Google Chromeに機能を追加します。
 
 - [準備中]() - 準備中。
 
+## 提供・開発が終了したサービス・ツールなど
+
+諸事情により提供・開発が終了したサービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+- [AtCoder Virtual Contest](https://not-522.appspot.com/) - 仮想コンテスト(本番のコンテストに近い状態で練習できる)を開催できるWebサービス。
+  - 理由: [AtCoder](https://atcoder.jp/)の仕様変更に伴うもの。
+  - 代替手段: 公式のバーチャル参加や[AtCoder Problems](https://kenkoooo.com/atcoder)の[Vitual Contests](https://kenkoooo.com/atcoder/#/contest/recent)がある。
+
 ## 関連プロジェクト
 
 [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
