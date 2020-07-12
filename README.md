@@ -235,6 +235,7 @@ Google Chromeに機能を追加します。
 
 ### Slack
 
+- [atcoder-rate-notify](https://github.com/ysk1180/atcoder-rate-notify) - レーティングを毎週お知らせしてくれる。
 - [Notificate AtCoder Date to Slack](https://github.com/EisKern/notification-slack-atcoder-date) - コンテストの1、24時間前に通知する。ベータ版。
 
 ### Twitter
