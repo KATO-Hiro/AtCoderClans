@@ -114,12 +114,18 @@ AtCoderのハンドルネームなどを入力するだけで、気軽に各種�
 
 ### UIを見やすく色付けする・表示を簡略化する
 
+#### AtCoder
+
 - [AtCoderDarkTheme](https://greasyfork.org/ja/scripts/388076-atcoderdarktheme) - ダークテーマに変更する。
 - [AtCoderPerformanceColorizer](https://greasyfork.org/ja/scripts/371693-atcoderperformancecolorizer) - コンテスト成績表のパフォーマンス値、レーティング値に色付けする。
-- [AtCoder Problems Marker](https://greasyfork.org/ja/scripts/395711-atcoder-problems-marker) - [AtCoder Problems](https://kenkoooo.com/atcoder) で表示される問題に、ユーザが独自のマーカー(解説ACなど)を付けられるようにする。
 - [AtCoder Submission Status](https://greasyfork.org/ja/scripts/383817-atcoder-submission-status) - 提出した解答について、テストケースの結果(AC、WA、…)が一目でわかるように表示。
 - [AtCoder Submission User Colorizer](https://greasyfork.org/ja/scripts/397710-atcoder-submission-user-colorizer) - AtCoderの提出一覧のユーザ名を色付けする。
 - [atcoder-tasks-page-colorizer](https://greasyfork.org/ja/scripts/380404-atcoder-tasks-page-colorizer) - AtCoderの問題ページで、提出した問題に色付けする。
+
+#### 非公式サービス・ツール・外部サービスなど
+
+- ["Atcoder" Finder](https://greasyfork.org/ja/scripts/373742-atcoder-finder) - Twitterのツイートに含まれる"Atcoder"の文字列を赤色にする。
+- [AtCoder Problems Marker](https://greasyfork.org/ja/scripts/395711-atcoder-problems-marker) - [AtCoder Problems](https://kenkoooo.com/atcoder) で表示される問題に、ユーザが独自のマーカー(解説ACなど)を付けられるようにする。
 
 ### 便利な機能を手軽に実行できるボタン・リンクなどを設置する
 
