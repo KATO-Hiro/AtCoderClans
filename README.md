@@ -28,8 +28,11 @@
 - [Webアプリ・Webページ](#web%E3%82%A2%E3%83%97%E3%83%AA%E3%83%BBweb%E3%83%9A%E3%83%BC%E3%82%B8)
   - [過去問を解く](#%E9%81%8E%E5%8E%BB%E5%95%8F%E3%82%92%E8%A7%A3%E3%81%8F)
   - [過去問などについて質問・回答する](#%E9%81%8E%E5%8E%BB%E5%95%8F%E3%81%AA%E3%81%A9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%B3%AA%E5%95%8F%E3%83%BB%E5%9B%9E%E7%AD%94%E3%81%99%E3%82%8B)
+  - [過去問に登場したゲームで遊ぶ](#%E9%81%8E%E5%8E%BB%E5%95%8F%E3%81%AB%E7%99%BB%E5%A0%B4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%A7%E9%81%8A%E3%81%B6)
+  - [コンテストの開催予定を確認する・登録する](#%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E3%81%AE%E9%96%8B%E5%82%AC%E4%BA%88%E5%AE%9A%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B%E3%83%BB%E7%99%BB%E9%8C%B2%E3%81%99%E3%82%8B)
+  - [TwitterでフォローしているAtCoderユーザを表示](#twitter%E3%81%A7%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%81%97%E3%81%A6%E3%81%84%E3%82%8Batcoder%E3%83%A6%E3%83%BC%E3%82%B6%E3%82%92%E8%A1%A8%E7%A4%BA)
   - [統計情報を見る](#%E7%B5%B1%E8%A8%88%E6%83%85%E5%A0%B1%E3%82%92%E8%A6%8B%E3%82%8B)
-  - [レーティング・パフォーマンスを表示する](#%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B)
+  - [レーティング・パフォーマンス・順位などを表示する・比較する](#%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%83%BB%E9%A0%86%E4%BD%8D%E3%81%AA%E3%81%A9%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E3%83%BB%E6%AF%94%E8%BC%83%E3%81%99%E3%82%8B)
 - [ユーザスクリプト](#%E3%83%A6%E3%83%BC%E3%82%B6%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88)
   - [レーティング・パフォーマンスなどを表示する](#%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%81%AA%E3%81%A9%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B)
   - [自動的に通知する](#%E8%87%AA%E5%8B%95%E7%9A%84%E3%81%AB%E9%80%9A%E7%9F%A5%E3%81%99%E3%82%8B)
@@ -47,14 +50,25 @@
     - [AtCoder](#atcoder-1)
     - [非公式サービス・ツール・外部サービスなど](#%E9%9D%9E%E5%85%AC%E5%BC%8F%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%BB%E3%83%84%E3%83%BC%E3%83%AB%E3%83%BB%E5%A4%96%E9%83%A8%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AA%E3%81%A9-1)
 - [ボット](#%E3%83%9C%E3%83%83%E3%83%88)
+  - [Discord](#discord)
   - [LINE](#line)
+  - [Slack](#slack)
   - [Twitter](#twitter)
 - [コマンドラインツール](#%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB)
+  - [事前コンパイルによる計算の高速化](#%E4%BA%8B%E5%89%8D%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%AB%E3%81%AB%E3%82%88%E3%82%8B%E8%A8%88%E7%AE%97%E3%81%AE%E9%AB%98%E9%80%9F%E5%8C%96)
   - [ローカル環境でサンプルのテストを実行する](#%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E7%92%B0%E5%A2%83%E3%81%A7%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88%E3%82%92%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B)
   - [環境構築](#%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89)
+  - [提出コードの自動バックアップ](#%E6%8F%90%E5%87%BA%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E8%87%AA%E5%8B%95%E3%83%90%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97)
+- [ライブラリ・スニペット](#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%83%BB%E3%82%B9%E3%83%8B%E3%83%9A%E3%83%83%E3%83%88)
+  - [C++](#c)
+  - [FSharp](#fsharp)
+  - [Python](#python)
+- [Web API](#web-api)
+- [Google Apps Script](#google-apps-script)
+- [TouchBarアプリ](#touchbar%E3%82%A2%E3%83%97%E3%83%AA)
 - [解説ブログ](#%E8%A7%A3%E8%AA%AC%E3%83%96%E3%83%AD%E3%82%B0)
 - [YouTube](#youtube)
-- [書籍](#%E6%9B%B8%E7%B1%8D)
+- [書籍・オンラインブック](#%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%96%E3%83%83%E3%82%AF)
 - [提供・開発が終了したサービス・ツールなど](#%E6%8F%90%E4%BE%9B%E3%83%BB%E9%96%8B%E7%99%BA%E3%81%8C%E7%B5%82%E4%BA%86%E3%81%97%E3%81%9F%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%BB%E3%83%84%E3%83%BC%E3%83%AB%E3%81%AA%E3%81%A9)
 - [関連プロジェクト](#%E9%96%A2%E9%80%A3%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88)
 - [リンク](#%E3%83%AA%E3%83%B3%E3%82%AF)
@@ -71,27 +85,49 @@ AtCoderのハンドルネームなどを入力するだけで、気軽に各種�
 ### 過去問を解く
 
 - [AtCoder Problems](https://kenkoooo.com/atcoder) - 開催されたコンテストの問題を一覧できる。問題の正誤状況や各種集計結果を確認できるだけでなく、バーチャルコンテストなどの機能もある。
+- [AtCoder Problems 4 Me](compro.192.works) - [AtCoder Problems](https://kenkoooo.com/atcoder)をオマージュしたサービス。
 - [AtCoder Scores](http://atcoder-scores.herokuapp.com/) - AGC001以降の問題が点数順に並んでいる。
 - [AtCoder Tags](https://atcoder-tags.herokuapp.com/) - 問題のカテゴリーを分類する。ユーザ登録を行えば、問題にふさわしいと思うカテゴリーを投票できる。[AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper)を導入すると、AtCoderの問題ページからも投票できる。
+- [AtCoderTranslations](https://github.com/ADJA/AtCoderTranslations) - 日本語で出題されているコンテストの問題を英語に翻訳している。
 
 ### 過去問などについて質問・回答する
 
 - [PROCON Q&A](https://procon-qa.herokuapp.com/) - 競技プログラミングを対象とした質問と回答を投稿できる。
+
+### 過去問に登場したゲームで遊ぶ
+
+- [AtCoder Games](https://atcoder-games.herokuapp.com/games/) - 過去問に登場したゲームで遊ぶことができる。
+
+### コンテストの開催予定を確認する・登録する
+
+- [AtCoder Calendar](https://atcoder-calendar.tkt989.info/) - 指定したURLをGoogleカレンダーに登録する。
+- [future-contest](https://future-contest.appspot.com/) - 開催予定のコンテスト情報を表示する。[yukicoder](https://yukicoder.me/)、[CS Academy](https://csacademy.com/)、[Codeforces](https://codeforces.com/)にも対応している。
+
+### TwitterでフォローしているAtCoderユーザを表示
+
+- [AtCoder Friend Finder](http://atcoder-friend-finder.herokuapp.com/) - TwitterでフォローしているAtCoderユーザを表示する。
 
 ### 統計情報を見る
 
 - [AtCoder Code Evaluate](https://ac-code-eval.com/) - 問題の実装の重さをAC(Accepted)コードをもとに評価している。
 - [AtCoder Stats](https://atcoderstats.appspot.com/) - コンテスト、問題、ユーザに関する様々な統計情報が閲覧できる。
 
-### レーティング・パフォーマンスを表示する
+### レーティング・パフォーマンス・順位などを表示する・比較する
 
 - [AtCoder相性診断](https://atcoder-aisho-shindan.vercel.app/) - レーティングを元に相性を診断する。
 - [AtCoder Badges](https://atcoder-badges.now.sh/) - 任意のユーザのレーティングと色を表示するバッジを生成する。
+- [AtCoder Charts](atcoder-charts.netlify.com/) - 任意のユーザのレーティングとパフォーマンスの推移を表示する。
+- [atcoder-janken](https://atcoder-janken.appspot.com/) - 指定した2人のユーザが共通して出場したコンテストの順位を比較する。
+- [atcoder_marathon_ranking](https://github.com/tomerun/atcoder_marathon_ranking) - マラソン系コンテストの順位を[AtCoder レースランキング](https://atcoder.jp/posts/170)と同じ形式でポイント化し、ランキングをつける。
 - [AtCoder Performances](https://atcoderapps.herokuapp.com/atcoderperformances/) - 指定した2人以上のパフォーマンスの推移が比較できる。
 - [AtCoder Rating Comparison](https://atcoder-rating-comparison.herokuapp.com/?q=) - 指定した2人以上のレーティングの比較ができる。
 - [AtCoder Rating Estimator](https://koba-e964.github.io/atcoder-rating-estimator/test-handle.html) - 所定のレーティングに到達するために、次のコンテストで必要なパフォーマンスを計算する。
+- [AtCoder Rating Graph](https://github.com/hiramekun/AtCoderRatingGraph) - 任意のユーザのレーティングの推移を比較できる。
+- [AtCoder Rivals](https://atcoder-rivals.herokuapp.com/) - パフォーマンスやレーティングの遷移、日々の精進などをライバルと比べることができる。
 - [atcoder-synchronicity](https://phocom.github.io/atcoder-synchronicity/) - 指定した2人のユーザのシンクロ率(**要確認:** 両者のパフォーマンス値の相関をとった値?)を表示する。
 - [AtCoder TL](https://github.com/shirakia/atcoder_tl) - レーティング別のTwitterタイムラインを生成する。
+- [AtCoder Widget](https://github.com/rdrgn/atcoder-widget) - ユーザのレーティングの推移をWebページに表示するためウィジェット。
+- [Devotter](https://devotter.app/) - 1日1回AC(Accepted)数をTwitterにツイートする。
 - [Rating History](https://rating-history.herokuapp.com/index.html) - 複数のコンテストサイトで、解いた問題数とレーティングの推移を表示。
 
 ## ユーザスクリプト
@@ -221,9 +257,22 @@ Google Chromeに機能を追加します。
 
 ## ボット
 
+### Discord
+
+- [AtCoderChokuZen](https://github.com/KATO-Hiro/AtCoderChokuZen) - コンテスト当日に、コンテスト情報をスマートフォンにプッシュ通知する。
+- [shino-sky/AtCoder-bot](https://github.com/shino-sky/AtCoder-bot) - レーティング(色)をもとに、自動でメンバーにロールを割り当てる。
+
 ### LINE
 
+- [AtCoder Notify](https://atcoder-bot.firebaseapp.com/) - コンテスト情報を通知する。
 - [Contests-Line-Bot](https://github.com/granddaifuku/Contests-Line-Bot) - 「コンテスト」を含む文章を送ると、コンテストの日程が通知される。AtCoderだけでなく、[Codeforces](https://codeforces.com/)にも対応している。
+
+### Slack
+
+- [atcoder-rate-notify](https://github.com/ysk1180/atcoder-rate-notify) - レーティングを毎週お知らせしてくれる。
+- [atcoder_useful](https://github.com/Kota-Y/atcoder_useful) - [AtCoder Problems](https://kenkoooo.com/atcoder)のCurrent Streakを切らさないように通知する。
+- [Notificate AtCoder Date to Slack](https://github.com/EisKern/notification-slack-atcoder-date) - コンテストの1、24時間前に通知する。ベータ版。
+- [rcoder-todays-problem](https://github.com/mmck328/rcoder-todays-problem) - 今日の問題をおすすめしてくれる。
 
 ### Twitter
 
@@ -233,16 +282,71 @@ Google Chromeに機能を追加します。
 
 キーボードの操作で特定の処理を簡単に行うことができます。
 
+### 事前コンパイルによる計算の高速化
+
+- [atcoder-numba](https://github.com/pyatcoder/atcoder-numba) - NumbaのJITを使用したコードをAOT(事前)コンパイルして、提出することができる。Pythonのパッケージ管理システムであるpipが必要。
+
 ### ローカル環境でサンプルのテストを実行する
 
+- [acc](https://github.com/Takachiha/acc) - Rustで実装されたテスト、提出ができるCLIツール。
+- [atc](https://github.com/nasjp/atc) - Goで実装された軽量のテストツール。
 - [atcoder-cli](https://github.com/Tatamo/atcoder-cli) - AtCoderでの利用に特化したCLIツール。一部の機能は、後述の[oj](https://github.com/online-judge-tools/oj)に依存しており、導入が必要。
+- [AtCoderSupporter](https://github.com/shun0923/AtCoderSupporter) - サンプルケースのテストと提出ができる。PythonとPythonのパッケージ管理システムであるpipが必要。
 - [AtCoder Tools](https://github.com/kyuridenamida/atcoder-tools) - サンプルケースのダウンロードが便利になる。
 - [cargo-atcoder](https://github.com/tanakh/cargo-atcoder) - サンプルケースのダウンロード、テスト、提出ができるCLIツール。RustとRustのビルドシステムおよびパッケージマネージャであるCargoが必要。
+- [GreenDay](https://qiita.com/QWYNG/items/0e2e6b72bd1969d0d751) - サンプルケースのテスト、提出ができるCLIツール。Rubyのパッケージ管理システムであるGemが必要。
+- [ICIE](https://marketplace.visualstudio.com/items?itemName=pustaczek.icie) - 競技プログラミングに参加する上で、必要な機能を揃えた[Visual Studio Code](https://code.visualstudio.com/)の拡張機能。
 - [oj](https://github.com/online-judge-tools/oj) - サンプルケースのダウンロード、テスト、提出ができるCLIツール。複数のコンテストサイトに対応。PythonとPythonのパッケージ管理システムであるpipが必要。
+- [procon.vim](https://github.com/ogura01/procon.nvim) - [Neovim](https://neovim.io/)プラグイン。
+- [vim-atcoder](https://github.com/cannot-fly-pig/vim-atcoder) - [Vim](https://www.vim.org/)でサンプルケースのテストするためのプラグイン。対応言語は、C++。企業コンテストには、今後対応予定。
+- [WrongAnswer](https://github.com/takoha-cpp/WrongAnswer) - 指定した問題のテストケースをダウンロードする。
 
 ### 環境構築
 
 - [atcoder_docker_sample](https://github.com/yamatia/atcoder_docker_sample) - [Visual Studio Code](https://code.visualstudio.com/)・[Docker](https://www.docker.com/)・[Git](https://git-scm.com/downloads)を使って、PythonとC++の実行環境を構築。
+- [at-coder-with-php](https://github.com/KushibikiMashu/at-coder-with-php) - PHPの実行環境を構築。
+- [atcoder-rs](https://github.com/catupper/atcoder-rs) - Rustのテンプレートプロジェクト。
+- [AtCoder with Rust in mac](https://github.com/hppRC/AtCoder-with-Rust-in-mac) - [cargo-atcoder](https://github.com/tanakh/cargo-atcoder)を使用して、Mac OSでRustの実行環境を構築。
+
+### 提出コードの自動バックアップ
+
+- [AtCoder_GitCommit](https://github.com/xryuseix/AtCoder_GitCommit) - 提出したコードをGitHubに自動でバックアップする。
+
+## ライブラリ・スニペット
+
+### C++
+
+- [beet-aizu/library](https://beet-aizu.github.io/library/) - [beet](https://atcoder.jp/users/beet)さんのC++で実装されたアルゴリズムのライブラリ。
+- [drken1215/algorithm](https://github.com/drken1215/algorithm) - [drken](https://atcoder.jp/users/drken)さんのC++で実装されたアルゴリズムのライブラリ。
+- [fumiphys/programming_contest](https://github.com/fumiphys/programming_contest) - 主にC++で実装されたアルゴリズムのライブラリ。
+- [hiramekun/Algorithm](https://github.com/hiramekun/Algorithm) - [hiramekun](https://atcoder.jp/users/hiramekun)さんのC++で実装されたアルゴリズムのライブラリ。
+- [kazunetakahashi/library](https://github.com/kazunetakahashi/library) - [kazunetakahashi](https://atcoder.jp/users/kazunetakahashi)さんのC++で実装されたアルゴリズムのライブラリ。
+- [kmyk/competitive-programming-library](https://kmyk.github.io/competitive-programming-library/) - [kimiyuki](https://atcoder.jp/users/kimiyuki)
+- [koba-e964/contest](https://github.com/koba-e964/contest) - [kobae964](https://atcoder.jp/users/kobae964)さんのC++で実装されたアルゴリズムのライブラリ。
+- [KryKsk/Algorithm](https://github.com/KryKsk/Algorithm) - C++で実装されたアルゴリズムのライブラリ。
+- [kumaraditya1999/Algorithms](https://github.com/kumaraditya1999/Algorithms) - CとC++で実装されたアルゴリズムのライブラリ。
+- [satanic0258/library](https://github.com/satanic0258/library) - [satanic0258](https://atcoder.jp/users/satanic0258)さんのC++で実装されたアルゴリズムのライブラリ。
+- [yosupo06/Algorithm](https://github.com/yosupo06/Algorithm) - [yosupo](https://atcoder.jp/users/yosupo)さんのC++で実装されたアルゴリズムのライブラリ。
+
+### FSharp
+
+- [AtCoderTools_FSharp](https://github.com/kazurego7/AtCoderTools_FSharp) - F#で実装されたアルゴリズムのライブラリ。
+
+### Python
+
+- [AtCoderLibrary](https://github.com/kerroggu/AtCoderLibrary) - Pythonで実装されたアルゴリズムのライブラリ。
+
+## Web API
+
+- [AtCoderUsersAPI](https://github.com/miozune/AtCoderUsersAPI) - 登録されているユーザー情報を取得できるAPI。作者注: AtCoder公式のサーバへの負荷を下げるため、スクレイピングの間隔を一定時間空けており、全ユーザの情報取得には長時間かかる。
+
+## Google Apps Script
+
+- [AtCoder Daily AC Checker](https://github.com/purple-jwl/atcoder-daily-ac-checker) - AC(Accepted)している人をSlack上で褒める（紹介する）。
+
+## TouchBarアプリ
+
+- [ACTouchBar](https://github.com/tallestorange/ACTouchBar) - コンテストでの正解者数/提出者数、提出状況、レーティング・解いた問題数などの確認やメモを残すことができる。
 
 ## 解説ブログ
 
@@ -256,17 +360,23 @@ Google Chromeに機能を追加します。
 - [きりみんちゃん kirimin-chan](https://www.youtube.com/c/kiriminchan/playlists) - [kirimin](https://atcoder.jp/users/kirimin)さんのチャンネル。競技プログラミングやライブコーディングだけでなく、幅広い話題の動画が公開されている。
 - [じょえチャンネル](https://www.youtube.com/channel/UCRXsI3FL_kvaVL9zoolBfbQ/videos) - [xuzijian629](https://atcoder.jp/users/xuzijian629)さんのチャンネル。
 
-## 書籍
+## 書籍・オンラインブック
 
-- [準備中]() - 準備中。
+- [atcoder-rust-resources](https://doc.rust-jp.rs/atcoder-rust-resources/) - コンテストにRustで参加するための資料集。現在は、日本語のみ対応。
 
 ## 提供・開発が終了したサービス・ツールなど
 
 諸事情により提供・開発が終了したサービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
 
+- [AtCoderEditorials](https://github.com/null-null-programming/AtCoder-Editorials) - 解法ブログの投稿・閲覧と知見の集約を目指したWebサービス。
+  - 理由: 記載なし。
+  - 代替手段: 公式解説や個々の解説ブログ、提出コードを見る。
 - [AtCoder Virtual Contest](https://not-522.appspot.com/) - 仮想コンテスト(本番のコンテストに近い状態で練習できる)を開催できるWebサービス。
   - 理由: [AtCoder](https://atcoder.jp/)の仕様変更に伴うもの。
   - 代替手段: 公式のバーチャル参加や[AtCoder Problems](https://kenkoooo.com/atcoder)の[Vitual Contests](https://kenkoooo.com/atcoder/#/contest/recent)がある。
+- [wacchoz/kyopro](https://github.com/wacchoz/kyopro) - 過去問の難易度を推定している。2019年11月以降は、更新が途絶えている。
+  - 理由: 記載なし。
+  - 代替手段: [AtCoder Problems](https://kenkoooo.com/atcoder)で確認できる。
 
 ## 関連プロジェクト
 
