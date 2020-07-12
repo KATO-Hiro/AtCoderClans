@@ -307,6 +307,7 @@ Google Chromeに機能を追加します。
 - [fumiphys/programming_contest](https://github.com/fumiphys/programming_contest) - 主にC++で実装されたアルゴリズムのライブラリ。
 - [hiramekun/Algorithm](https://github.com/hiramekun/Algorithm) - [hiramekun](https://atcoder.jp/users/hiramekun)さんのC++で実装されたアルゴリズムのライブラリ。
 - [kazunetakahashi/library](https://github.com/kazunetakahashi/library) - [kazunetakahashi](https://atcoder.jp/users/kazunetakahashi)さんのC++で実装されたアルゴリズムのライブラリ。
+- [kmyk/competitive-programming-library](https://kmyk.github.io/competitive-programming-library/) - [kimiyuki](https://atcoder.jp/users/kimiyuki)
 - [koba-e964/contest](https://github.com/koba-e964/contest) - [kobae964](https://atcoder.jp/users/kobae964)さんのC++で実装されたアルゴリズムのライブラリ。
 - [KryKsk/Algorithm](https://github.com/KryKsk/Algorithm) - C++で実装されたアルゴリズムのライブラリ。
 - [kumaraditya1999/Algorithms](https://github.com/kumaraditya1999/Algorithms) - CとC++で実装されたアルゴリズムのライブラリ。
