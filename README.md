@@ -203,6 +203,7 @@ Google Chromeに機能を追加します。
 - [Coder's Calendar](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll?hl=ja&gl=UA) - 開催予定のコンテスト情報を表示する。Codechef、 HackerEarth、Hackerrank、Topcoder、Codeforces、CSAcademy、 LeetCode、Kaggleなどにも対応している。
 - [Coding Schedule](https://chrome.google.com/webstore/detail/coding-schedule/jbekfkgidfgnjgnnaiklfjhepdbhclme?hl=ja&gl=UA) - 開催中・開催予定のコンテスト情報を表示する。Codeforces、Codechef、Csacademy、Hackerearth、Hackerrank、Topcoder、Spojなどにも対応している。
 - [Comfortable Atcoder](https://chrome.google.com/webstore/detail/comfortable-atcoder/ipmmkccdccnephfilbjdnmnfcbopbpaj?hl=ja&gl=UA) - 提出結果の通知、問題をドロップダウンリストで表示、などを設定できる。
+- [KONTESTS](https://chrome.google.com/webstore/detail/kontests/agpdemlkalmmeenclchlajdcmbcacoea?hl=ja&gl=UA) - コンテスト情報を表示する。Codeforces、Codeforces::Gym、TopCoder、CS Academyにも対応している。
 - [NextPage](https://chrome.google.com/webstore/detail/nextpage/mhhmddcnnehdkpclpjpmidpeejohlmfb?hl=ja&gl=UA) - あるコンテストの次の回のページに移動できる。
 
 #### 非公式サービス・ツール・外部サービスなど
