@@ -253,6 +253,7 @@ Google Chromeに機能を追加します。
 ### ローカル環境でサンプルのテストを実行する
 
 - [atcoder-cli](https://github.com/Tatamo/atcoder-cli) - AtCoderでの利用に特化したCLIツール。一部の機能は、後述の[oj](https://github.com/online-judge-tools/oj)に依存しており、導入が必要。
+- [AtCoderSupporter](https://github.com/shun0923/AtCoderSupporter) - サンプルケースのテストと提出ができる。PythonとPythonのパッケージ管理システムであるpipが必要。
 - [AtCoder Tools](https://github.com/kyuridenamida/atcoder-tools) - サンプルケースのダウンロードが便利になる。
 - [cargo-atcoder](https://github.com/tanakh/cargo-atcoder) - サンプルケースのダウンロード、テスト、提出ができるCLIツール。RustとRustのビルドシステムおよびパッケージマネージャであるCargoが必要。
 - [GreenDay](https://qiita.com/QWYNG/items/0e2e6b72bd1969d0d751) - サンプルケースのテスト、提出ができるCLIツール。Rubyのパッケージ管理システムであるGemが必要。
