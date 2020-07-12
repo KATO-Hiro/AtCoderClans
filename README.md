@@ -89,23 +89,12 @@ AtCoderのハンドルネームなどを入力するだけで、気軽に各種�
 - [AtCoder Scores](http://atcoder-scores.herokuapp.com/) - AGC001以降の問題が点数順に並んでいる。
 - [AtCoder Tags](https://atcoder-tags.herokuapp.com/) - 問題のカテゴリーを分類する。ユーザ登録を行えば、問題にふさわしいと思うカテゴリーを投票できる。[AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper)を導入すると、AtCoderの問題ページからも投票できる。
 - [AtCoderTranslations](https://github.com/ADJA/AtCoderTranslations) - 日本語で出題されているコンテストの問題を英語に翻訳している。
-
-### 過去問などについて質問・回答する
-
 - [PROCON Q&A](https://procon-qa.herokuapp.com/) - 競技プログラミングを対象とした質問と回答を投稿できる。
-
-### 過去問に登場したゲームで遊ぶ
-
-- [AtCoder Games](https://atcoder-games.herokuapp.com/games/) - 過去問に登場したゲームで遊ぶことができる。
 
 ### コンテストの開催予定を確認する・登録する
 
 - [AtCoder Calendar](https://atcoder-calendar.tkt989.info/) - 指定したURLをGoogleカレンダーに登録する。
 - [future-contest](https://future-contest.appspot.com/) - 開催予定のコンテスト情報を表示する。[yukicoder](https://yukicoder.me/)、[CS Academy](https://csacademy.com/)、[Codeforces](https://codeforces.com/)にも対応している。
-
-### TwitterでフォローしているAtCoderユーザを表示
-
-- [AtCoder Friend Finder](http://atcoder-friend-finder.herokuapp.com/) - TwitterでフォローしているAtCoderユーザを表示する。
 
 ### 統計情報を見る
 
@@ -114,10 +103,7 @@ AtCoderのハンドルネームなどを入力するだけで、気軽に各種�
 
 ### レーティング・パフォーマンス・順位などを表示する・比較する
 
-- [AtCoder相性診断](https://atcoder-aisho-shindan.vercel.app/) - レーティングを元に相性を診断する。
-- [AtCoder Badges](https://atcoder-badges.now.sh/) - 任意のユーザのレーティングと色を表示するバッジを生成する。
 - [AtCoder Charts](atcoder-charts.netlify.com/) - 任意のユーザのレーティングとパフォーマンスの推移を表示する。
-- [atcoder-janken](https://atcoder-janken.appspot.com/) - 指定した2人のユーザが共通して出場したコンテストの順位を比較する。
 - [atcoder_marathon_ranking](https://github.com/tomerun/atcoder_marathon_ranking) - マラソン系コンテストの順位を[AtCoder レースランキング](https://atcoder.jp/posts/170)と同じ形式でポイント化し、ランキングをつける。
 - [AtCoder Performances](https://atcoderapps.herokuapp.com/atcoderperformances/) - 指定した2人以上のパフォーマンスの推移が比較できる。
 - [AtCoder Rating Comparison](https://atcoder-rating-comparison.herokuapp.com/?q=) - 指定した2人以上のレーティングの比較ができる。
@@ -125,10 +111,18 @@ AtCoderのハンドルネームなどを入力するだけで、気軽に各種�
 - [AtCoder Rating Graph](https://github.com/hiramekun/AtCoderRatingGraph) - 任意のユーザのレーティングの推移を比較できる。
 - [AtCoder Rivals](https://atcoder-rivals.herokuapp.com/) - パフォーマンスやレーティングの遷移、日々の精進などをライバルと比べることができる。
 - [atcoder-synchronicity](https://phocom.github.io/atcoder-synchronicity/) - 指定した2人のユーザのシンクロ率(**要確認:** 両者のパフォーマンス値の相関をとった値?)を表示する。
+- [Rating History](https://rating-history.herokuapp.com/index.html) - 複数のコンテストサイトで、解いた問題数とレーティングの推移を表示。
+
+### その他
+
+- [AtCoder相性診断](https://atcoder-aisho-shindan.vercel.app/) - レーティングを元に相性を診断する。
+- [AtCoder Badges](https://atcoder-badges.now.sh/) - 任意のユーザのレーティングと色を表示するバッジを生成する。
+- [AtCoder Friend Finder](http://atcoder-friend-finder.herokuapp.com/) - TwitterでフォローしているAtCoderユーザを表示する。
+- [AtCoder Games](https://atcoder-games.herokuapp.com/games/) - 過去問に登場したゲームで遊ぶことができる。
+- [atcoder-janken](https://atcoder-janken.appspot.com/) - 指定した2人のユーザが共通して出場したコンテストの順位を比較する。
 - [AtCoder TL](https://github.com/shirakia/atcoder_tl) - レーティング別のTwitterタイムラインを生成する。
 - [AtCoder Widget](https://github.com/rdrgn/atcoder-widget) - ユーザのレーティングの推移をWebページに表示するためウィジェット。
 - [Devotter](https://devotter.app/) - 1日1回AC(Accepted)数をTwitterにツイートする。
-- [Rating History](https://rating-history.herokuapp.com/index.html) - 複数のコンテストサイトで、解いた問題数とレーティングの推移を表示。
 
 ## ユーザスクリプト
 
@@ -234,7 +228,7 @@ Google Chromeに機能を追加します。
 
 - [AtCoder Color](https://chrome.google.com/webstore/detail/atcoder-color/mcefknoiablejellmicpmokcaelpdaec?hl=ja&gl=UA) - 「問題」ページで提出状況に応じて色付けする。
 - [AtCoder Color Mark](https://chrome.google.com/webstore/detail/atcoder-color-mark/dogcmibkiolcdafifopmnghhlajpbmga?hl=ja&gl=UA) - 「順位表」や「コンテスト成績表」のページにレーティングを示す円を表示する。
-- [AtCoder の Score を見やすくする](https://chrome.google.com/webstore/detail/atcoder-%E3%81%AE-score-%E3%82%92%E8%A6%8B%E3%82%84%E3%81%99%E3%81%8F%E3%81%99%E3%82%8B/ndnmjoimfdcpjbnnlkieikajbbcaockp?hl=ja&gl=UA) - マラソン形式のスコアをカンマ区切りやlogで表示する。
+- [AtCoderのScoreを見やすくする](https://chrome.google.com/webstore/detail/atcoder-%E3%81%AE-score-%E3%82%92%E8%A6%8B%E3%82%84%E3%81%99%E3%81%8F%E3%81%99%E3%82%8B/ndnmjoimfdcpjbnnlkieikajbbcaockp?hl=ja&gl=UA) - マラソン形式のスコアをカンマ区切りやlogで表示する。
 
 ### 便利な機能を手軽に実行できるボタン・リンクなどを設置する
 
@@ -282,10 +276,6 @@ Google Chromeに機能を追加します。
 
 キーボードの操作で特定の処理を簡単に行うことができます。
 
-### 事前コンパイルによる計算の高速化
-
-- [atcoder-numba](https://github.com/pyatcoder/atcoder-numba) - NumbaのJITを使用したコードをAOT(事前)コンパイルして、提出することができる。Pythonのパッケージ管理システムであるpipが必要。
-
 ### ローカル環境でサンプルのテストを実行する
 
 - [acc](https://github.com/Takachiha/acc) - Rustで実装されたテスト、提出ができるCLIツール。
@@ -304,13 +294,14 @@ Google Chromeに機能を追加します。
 ### 環境構築
 
 - [atcoder_docker_sample](https://github.com/yamatia/atcoder_docker_sample) - [Visual Studio Code](https://code.visualstudio.com/)・[Docker](https://www.docker.com/)・[Git](https://git-scm.com/downloads)を使って、PythonとC++の実行環境を構築。
-- [at-coder-with-php](https://github.com/KushibikiMashu/at-coder-with-php) - PHPの実行環境を構築。
 - [atcoder-rs](https://github.com/catupper/atcoder-rs) - Rustのテンプレートプロジェクト。
+- [at-coder-with-php](https://github.com/KushibikiMashu/at-coder-with-php) - PHPの実行環境を構築。
 - [AtCoder with Rust in mac](https://github.com/hppRC/AtCoder-with-Rust-in-mac) - [cargo-atcoder](https://github.com/tanakh/cargo-atcoder)を使用して、Mac OSでRustの実行環境を構築。
 
-### 提出コードの自動バックアップ
+### その他
 
 - [AtCoder_GitCommit](https://github.com/xryuseix/AtCoder_GitCommit) - 提出したコードをGitHubに自動でバックアップする。
+- [atcoder-numba](https://github.com/pyatcoder/atcoder-numba) - NumbaのJITを使用したコードをAOT(事前)コンパイルして、提出することができる。Pythonのパッケージ管理システムであるpipが必要。
 
 ## ライブラリ・スニペット
 
@@ -340,11 +331,13 @@ Google Chromeに機能を追加します。
 
 - [AtCoderUsersAPI](https://github.com/miozune/AtCoderUsersAPI) - 登録されているユーザー情報を取得できるAPI。作者注: AtCoder公式のサーバへの負荷を下げるため、スクレイピングの間隔を一定時間空けており、全ユーザの情報取得には長時間かかる。
 
-## Google Apps Script
+## その他
+
+### Google Apps Script
 
 - [AtCoder Daily AC Checker](https://github.com/purple-jwl/atcoder-daily-ac-checker) - AC(Accepted)している人をSlack上で褒める（紹介する）。
 
-## TouchBarアプリ
+### TouchBarアプリ
 
 - [ACTouchBar](https://github.com/tallestorange/ACTouchBar) - コンテストでの正解者数/提出者数、提出状況、レーティング・解いた問題数などの確認やメモを残すことができる。
 
@@ -366,7 +359,7 @@ Google Chromeに機能を追加します。
 
 ## 提供・開発が終了したサービス・ツールなど
 
-諸事情により提供・開発が終了したサービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
 
 - [AtCoderEditorials](https://github.com/null-null-programming/AtCoder-Editorials) - 解法ブログの投稿・閲覧と知見の集約を目指したWebサービス。
   - 理由: 記載なし。
