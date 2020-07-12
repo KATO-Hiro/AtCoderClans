@@ -74,6 +74,7 @@ AtCoderのハンドルネームなどを入力するだけで、気軽に各種�
 - [AtCoder Problems 4 Me](compro.192.works) - [AtCoder Problems](https://kenkoooo.com/atcoder)をオマージュしたサービス。
 - [AtCoder Scores](http://atcoder-scores.herokuapp.com/) - AGC001以降の問題が点数順に並んでいる。
 - [AtCoder Tags](https://atcoder-tags.herokuapp.com/) - 問題のカテゴリーを分類する。ユーザ登録を行えば、問題にふさわしいと思うカテゴリーを投票できる。[AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper)を導入すると、AtCoderの問題ページからも投票できる。
+- [AtCoderTranslations](https://github.com/ADJA/AtCoderTranslations) - 日本語で出題されているコンテストの問題を英語に翻訳している。
 
 ### 過去問などについて質問・回答する
 
