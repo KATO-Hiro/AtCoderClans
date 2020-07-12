@@ -55,6 +55,7 @@
 - [解説ブログ](#%E8%A7%A3%E8%AA%AC%E3%83%96%E3%83%AD%E3%82%B0)
 - [YouTube](#youtube)
 - [書籍](#%E6%9B%B8%E7%B1%8D)
+- [提供・開発が終了したサービス・ツールなど](#%E6%8F%90%E4%BE%9B%E3%83%BB%E9%96%8B%E7%99%BA%E3%81%8C%E7%B5%82%E4%BA%86%E3%81%97%E3%81%9F%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%BB%E3%83%84%E3%83%BC%E3%83%AB%E3%81%AA%E3%81%A9)
 - [関連プロジェクト](#%E9%96%A2%E9%80%A3%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88)
 - [リンク](#%E3%83%AA%E3%83%B3%E3%82%AF)
 - [レポジトリ作者](#%E3%83%AC%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E4%BD%9C%E8%80%85)
@@ -258,6 +259,14 @@ Google Chromeに機能を追加します。
 ## 書籍
 
 - [準備中]() - 準備中。
+
+## 提供・開発が終了したサービス・ツールなど
+
+諸事情により提供・開発が終了したサービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+- [AtCoder Virtual Contest](https://not-522.appspot.com/) - 仮想コンテスト(本番のコンテストに近い状態で練習できる)を開催できるWebサービス。
+  - 理由: [AtCoder](https://atcoder.jp/)の仕様変更に伴うもの。
+  - 代替手段: 公式のバーチャル参加や[AtCoder Problems](https://kenkoooo.com/atcoder)の[Vitual Contests](https://kenkoooo.com/atcoder/#/contest/recent)がある。
 
 ## 関連プロジェクト
 
