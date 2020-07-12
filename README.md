@@ -288,8 +288,17 @@ Google Chromeに機能を追加します。
 
 ## ライブラリ・スニペット
 
-- [AtCoderLibrary](https://github.com/kerroggu/AtCoderLibrary) - Pythonで実装されたアルゴリズムのライブラリ。
+### C++
+
+- [hiramekun/Algorithm](https://github.com/hiramekun/Algorithm) - [hiramekun](https://atcoder.jp/users/hiramekun)さんのC++で実装されたアルゴリズムのライブラリ。
+
+### FSharp
+
 - [AtCoderTools_FSharp](https://github.com/kazurego7/AtCoderTools_FSharp) - F#で実装されたアルゴリズムのライブラリ。
+
+### Python
+
+- [AtCoderLibrary](https://github.com/kerroggu/AtCoderLibrary) - Pythonで実装されたアルゴリズムのライブラリ。
 
 ## Web API
 
