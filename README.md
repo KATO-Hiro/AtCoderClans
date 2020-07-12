@@ -302,6 +302,7 @@ Google Chromeに機能を追加します。
 
 ### C++
 
+- [beet-aizu/library](https://beet-aizu.github.io/library/) - [beet](https://atcoder.jp/users/beet)さんのC++で実装されたアルゴリズムのライブラリ。
 - [drken1215/algorithm](https://github.com/drken1215/algorithm) - [drken](https://atcoder.jp/users/drken)さんのC++で実装されたアルゴリズムのライブラリ。
 - [fumiphys/programming_contest](https://github.com/fumiphys/programming_contest) - 主にC++で実装されたアルゴリズムのライブラリ。
 - [hiramekun/Algorithm](https://github.com/hiramekun/Algorithm) - [hiramekun](https://atcoder.jp/users/hiramekun)さんのC++で実装されたアルゴリズムのライブラリ。
