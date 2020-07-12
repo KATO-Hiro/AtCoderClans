@@ -258,7 +258,6 @@ Google Chromeに機能を追加します。
 
 キーボードの操作で特定の処理を簡単に行うことができます。
 
-
 ### 事前コンパイルによる計算の高速化
 
 - [atcoder-numba](https://github.com/pyatcoder/atcoder-numba) - NumbaのJITを使用したコードをAOT(事前)コンパイルして、提出することができる。Pythonのパッケージ管理システムであるpipが必要。
