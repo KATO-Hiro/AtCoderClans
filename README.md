@@ -280,6 +280,10 @@ Google Chromeに機能を追加します。
 - [AtCoder with Rust in mac](https://github.com/hppRC/AtCoder-with-Rust-in-mac) - [cargo-atcoder](https://github.com/tanakh/cargo-atcoder)を使用して、Mac OSでRustの実行環境を構築。
 - [atcoder-rs](https://github.com/catupper/atcoder-rs) - Rustのテンプレートプロジェクト。
 
+## ライブラリ・スニペット
+
+- [AtCoderLibrary](https://github.com/kerroggu/AtCoderLibrary) - Pythonで実装されたアルゴリズムのライブラリ。
+
 ## Web API
 
 - [AtCoderUsersAPI](https://github.com/miozune/AtCoderUsersAPI) - 登録されているユーザー情報を取得できるAPI。作者注: AtCoder公式のサーバへの負荷を下げるため、スクレイピングの間隔を一定時間空けており、全ユーザの情報取得には長時間かかる。
