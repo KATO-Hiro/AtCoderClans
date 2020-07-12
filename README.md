@@ -245,6 +245,7 @@ Google Chromeに機能を追加します。
 
 ### Discord
 
+- [AtCoderChokuZen](https://github.com/KATO-Hiro/AtCoderChokuZen) - コンテスト当日に、コンテスト情報をスマートフォンにプッシュ通知する。
 - [shino-sky/AtCoder-bot](https://github.com/shino-sky/AtCoder-bot) - レーティング(色)をもとに、自動でメンバーにロールを割り当てる。
 
 ### LINE
