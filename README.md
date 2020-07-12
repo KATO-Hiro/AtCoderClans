@@ -292,6 +292,7 @@ Google Chromeに機能を追加します。
 ### C++
 
 - [hiramekun/Algorithm](https://github.com/hiramekun/Algorithm) - [hiramekun](https://atcoder.jp/users/hiramekun)さんのC++で実装されたアルゴリズムのライブラリ。
+- [KryKsk/Algorithm](https://github.com/KryKsk/Algorithm) - C++で実装されたアルゴリズムのライブラリ。
 
 ### FSharp
 
