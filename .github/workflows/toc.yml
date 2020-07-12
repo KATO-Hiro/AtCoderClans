@@ -8,4 +8,3 @@ jobs:
       - uses: technote-space/toc-generator@v2
         with:
           TOC_TITLE: '目次'
-          FOLDING: true
