@@ -321,6 +321,7 @@ Google Chromeに機能を追加します。
 - [drafear/competitive-library](https://github.com/drafear/competitive-library) - [drafear](https://atcoder.jp/users/drafear)さんのライブラリ。
 - [drken1215/algorithm](https://github.com/drken1215/algorithm) - [drken](https://atcoder.jp/users/drken)さんのライブラリ。
 - [fumiphys/programming_contest](https://github.com/fumiphys/programming_contest) - 主にC++で実装されたアルゴリズムのライブラリ。
+- [Ganariya/library](https://ganariya.github.io/library/) - [ganariya2525](https://atcoder.jp/users/ganariya2525)さんのライブラリ。
 - [hiramekun/Algorithm](https://github.com/hiramekun/Algorithm) - [hiramekun](https://atcoder.jp/users/hiramekun)さんのライブラリ。
 - [kazunetakahashi/library](https://github.com/kazunetakahashi/library) - [kazunetakahashi](https://atcoder.jp/users/kazunetakahashi)さんのライブラリ。
 - [kmyk/competitive-programming-library](https://kmyk.github.io/competitive-programming-library/) - [kimiyuki](https://atcoder.jp/users/kimiyuki)さんのライブラリ。
