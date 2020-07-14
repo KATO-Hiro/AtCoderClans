@@ -327,6 +327,7 @@ Google Chromeに機能を追加します。
 - [koba-e964/contest](https://github.com/koba-e964/contest) - [kobae964](https://atcoder.jp/users/kobae964)さんのライブラリ。
 - [KryKsk/Algorithm](https://github.com/KryKsk/Algorithm) - C++で実装されたアルゴリズムのライブラリ。
 - [kumaraditya1999/Algorithms](https://github.com/kumaraditya1999/Algorithms) - CとC++で実装されたアルゴリズムのライブラリ。
+- [morioprog/cpplib](https://morioprog.github.io/cpplib/) - [morio__](https://atcoder.jp/users/morio__)さんのライブラリ。
 - [ngtkana/ngtlibcpp](https://github.com/ngtkana/ngtlibcpp) - [ngtkana](https://atcoder.jp/users/ngtkana)さんのライブラリ。
 - [primenumber/ProconLib](https://github.com/primenumber/ProconLib) - [primenumber](https://atcoder.jp/users/primenumber)さんのライブラリ。
 - [satanic0258/library](https://github.com/satanic0258/library) - [satanic0258](https://atcoder.jp/users/satanic0258)さんのライブラリ。
