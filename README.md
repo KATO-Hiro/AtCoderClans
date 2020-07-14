@@ -347,6 +347,7 @@ Google Chromeに機能を追加します。
 
 ### Rust
 
+- [kenkoooo/competitive-programming-rs](https://github.com/kenkoooo/competitive-programming-rs) - [kenkoooo](https://atcoder.jp/users/kenkoooo)さんのスニペット集。
 - [tanakh/competitive-rs](https://github.com/tanakh/competitive-rs) - [tanakh](https://atcoder.jp/users/tanakh)さんのライブラリ。
 
 ## Web API
