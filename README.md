@@ -311,6 +311,7 @@ Google Chromeに機能を追加します。
 
 ### CSharp
 
+- [camypaper/complib](https://github.com/camypaper/complib) - [camypaper](https://atcoder.jp/users/camypaper)さんのライブラリ。
 - [key-moon/Library](https://github.com/key-moon/Library) - [keymoon](https://atcoder.jp/users/keymoon)さんのライブラリ。
 
 ### C++
