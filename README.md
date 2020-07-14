@@ -76,7 +76,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Webアプリ・Webページ
+## Webアプリ、Webページ
 
 [AtCoder](https://atcoder.jp/)のハンドルネームなどを入力するだけで、気軽に各種サービスを利用することができます。
 
