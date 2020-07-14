@@ -343,6 +343,10 @@ Google Chromeに機能を追加します。
 - [kerroggu/AtCoderLibrary](https://github.com/kerroggu/AtCoderLibrary) - Pythonで実装されたアルゴリズムのライブラリ。
 - [maspypy/compro_library](https://github.com/maspypy/compro_library) - [maspy](https://atcoder.jp/users/maspy)さんのライブラリ。
 
+### Rust
+
+- [tanakh/competitive-rs](https://github.com/tanakh/competitive-rs) - [tanakh](https://atcoder.jp/users/tanakh)さんのライブラリ。
+
 ## Web API
 
 - [AtCoderUsersAPI](https://github.com/miozune/AtCoderUsersAPI) - 登録されているユーザー情報を取得できるAPI。作者注: [AtCoder](https://atcoder.jp/)公式のサーバへの負荷を下げるため、スクレイピングの間隔を一定時間空けており、全ユーザの情報取得には長時間かかる。
