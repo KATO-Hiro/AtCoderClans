@@ -343,7 +343,7 @@ Google Chromeに機能を追加します。
 
 ### FSharp
 
-- [AtCoderTools_FSharp](https://github.com/kazurego7/AtCoderTools_FSharp) - F#で実装されたアルゴリズムのライブラリ。
+- [kazurego7/AtCoderTools_FSharp](https://github.com/kazurego7/AtCoderTools_FSharp) - F#で実装されたアルゴリズムのライブラリ。
 
 ### Python
 
