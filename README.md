@@ -336,6 +336,7 @@ Google Chromeに機能を追加します。
 - [rsk0315/library](https://github.com/rsk0315/library) - [rsk0315](https://atcoder.jp/users/rsk0315)さんのライブラリ。
 - [satanic0258/library](https://github.com/satanic0258/library) - [satanic0258](https://atcoder.jp/users/satanic0258)さんのライブラリ。
 - [snuke/LibraryPaste](https://github.com/snuke/LibraryPaste) - [snuke](https://atcoder.jp/users/snuke)さんの[Sublime Text](https://www.sublimetext.com/3)プラグイン。
+- [square1001/algorithm-contest-library](https://github.com/square1001/algorithm-contest-library) - [square1001](https://atcoder.jp/users/square1001)さんのライブラリ。
 - [yosupo06/Algorithm](https://github.com/yosupo06/Algorithm) - [yosupo](https://atcoder.jp/users/yosupo)さんのライブラリ。
 
 ### D
