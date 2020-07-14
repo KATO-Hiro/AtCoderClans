@@ -332,6 +332,7 @@ Google Chromeに機能を追加します。
 - [ngtkana/ngtlibcpp](https://github.com/ngtkana/ngtlibcpp) - [ngtkana](https://atcoder.jp/users/ngtkana)さんのライブラリ。
 - [ningenMe/compro-library](https://github.com/ningenMe/compro-library) - [ningenMe](https://atcoder.jp/users/ningenMe)さんのライブラリ。
 - [primenumber/ProconLib](https://github.com/primenumber/ProconLib) - [primenumber](https://atcoder.jp/users/primenumber)さんのライブラリ。
+- [rsk0315/library](https://github.com/rsk0315/library) - [rsk0315](https://atcoder.jp/users/rsk0315)さんのライブラリ。
 - [satanic0258/library](https://github.com/satanic0258/library) - [satanic0258](https://atcoder.jp/users/satanic0258)さんのライブラリ。
 - [yosupo06/Algorithm](https://github.com/yosupo06/Algorithm) - [yosupo](https://atcoder.jp/users/yosupo)さんのライブラリ。
 
