@@ -58,9 +58,13 @@
   - [環境構築](#%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89)
   - [コードの高速化、バックアップなど](#%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E9%AB%98%E9%80%9F%E5%8C%96%E3%83%90%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%81%AA%E3%81%A9)
 - [ライブラリ、スニペット](#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%82%B9%E3%83%8B%E3%83%9A%E3%83%83%E3%83%88)
+  - [ライブラリチェッカー](#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%83%81%E3%82%A7%E3%83%83%E3%82%AB%E3%83%BC)
+  - [CSharp](#csharp)
   - [C++](#c)
+  - [D](#d)
   - [FSharp](#fsharp)
   - [Python](#python)
+  - [Rust](#rust)
 - [Web API](#web-api)
 - [その他](#%E3%81%9D%E3%81%AE%E4%BB%96)
   - [Google Apps Script](#google-apps-script)
@@ -278,6 +282,7 @@ Google Chromeに機能を追加します。
 ### ローカル環境でサンプルのテストを実行する
 
 - [acc](https://github.com/Takachiha/acc) - Rustで実装されたテスト、提出ができるCLIツール。
+- [AC Deck](https://github.com/sachaos/ac-deck) - Goで実装されたテスト([Docker](https://www.docker.com/)にも対応)、提出が可能なCLIツール。組み込みのテンプレートが用意されており、主要な言語に対応している。
 - [atc](https://github.com/nasjp/atc) - Goで実装された軽量のテストツール。
 - [atcoder-cli](https://github.com/Tatamo/atcoder-cli) - AtCoderでの利用に特化したCLIツール。一部の機能は、後述の[oj](https://github.com/online-judge-tools/oj)に依存しており、導入が必要。
 - [AtCoderSupporter](https://github.com/shun0923/AtCoderSupporter) - サンプルケースのテストと提出ができる。PythonとPythonのパッケージ管理システムであるpipが必要。
@@ -304,27 +309,58 @@ Google Chromeに機能を追加します。
 
 ## ライブラリ、スニペット
 
+### ライブラリチェッカー
+
+- [Library Checker Problems](https://judge.yosupo.jp/) - オンラインジャッジシステムにより、ライブラリが正しく実装されているか確認できる。
+
+### CSharp
+
+- [camypaper/complib](https://github.com/camypaper/complib) - [camypaper](https://atcoder.jp/users/camypaper)さんのライブラリ。
+- [key-moon/Library](https://github.com/key-moon/Library) - [keymoon](https://atcoder.jp/users/keymoon)さんのライブラリ。
+
 ### C++
 
+- [asi1024/competitive-library](https://github.com/asi1024/competitive-library) - [asi1024](https://atcoder.jp/users/asi1024)さんのライブラリ。
 - [beet-aizu/library](https://beet-aizu.github.io/library/) - [beet](https://atcoder.jp/users/beet)さんのライブラリ。
+- [drafear/competitive-library](https://github.com/drafear/competitive-library) - [drafear](https://atcoder.jp/users/drafear)さんのライブラリ。
 - [drken1215/algorithm](https://github.com/drken1215/algorithm) - [drken](https://atcoder.jp/users/drken)さんのライブラリ。
 - [fumiphys/programming_contest](https://github.com/fumiphys/programming_contest) - 主にC++で実装されたアルゴリズムのライブラリ。
+- [Ganariya/library](https://ganariya.github.io/library/) - [ganariya2525](https://atcoder.jp/users/ganariya2525)さんのライブラリ。
 - [hiramekun/Algorithm](https://github.com/hiramekun/Algorithm) - [hiramekun](https://atcoder.jp/users/hiramekun)さんのライブラリ。
 - [kazunetakahashi/library](https://github.com/kazunetakahashi/library) - [kazunetakahashi](https://atcoder.jp/users/kazunetakahashi)さんのライブラリ。
 - [kmyk/competitive-programming-library](https://kmyk.github.io/competitive-programming-library/) - [kimiyuki](https://atcoder.jp/users/kimiyuki)さんのライブラリ。
 - [koba-e964/contest](https://github.com/koba-e964/contest) - [kobae964](https://atcoder.jp/users/kobae964)さんのライブラリ。
 - [KryKsk/Algorithm](https://github.com/KryKsk/Algorithm) - C++で実装されたアルゴリズムのライブラリ。
 - [kumaraditya1999/Algorithms](https://github.com/kumaraditya1999/Algorithms) - CとC++で実装されたアルゴリズムのライブラリ。
+- [monkukui/Library](https://github.com/monkukui/Library) - [monkukui](https://atcoder.jp/users/monkukui)さんのライブラリ。
+- [morioprog/cpplib](https://morioprog.github.io/cpplib/) - [morio__](https://atcoder.jp/users/morio__)さんのライブラリ。
+- [ngtkana/ngtlibcpp](https://github.com/ngtkana/ngtlibcpp) - [ngtkana](https://atcoder.jp/users/ngtkana)さんのライブラリ。
+- [ningenMe/compro-library](https://github.com/ningenMe/compro-library) - [ningenMe](https://atcoder.jp/users/ningenMe)さんのライブラリ。
+- [primenumber/ProconLib](https://github.com/primenumber/ProconLib) - [primenumber](https://atcoder.jp/users/primenumber)さんのライブラリ。
+- [rsk0315/library](https://github.com/rsk0315/library) - [rsk0315](https://atcoder.jp/users/rsk0315)さんのライブラリ。
 - [satanic0258/library](https://github.com/satanic0258/library) - [satanic0258](https://atcoder.jp/users/satanic0258)さんのライブラリ。
+- [snuke/LibraryPaste](https://github.com/snuke/LibraryPaste) - [snuke](https://atcoder.jp/users/snuke)さんの[Sublime Text](https://www.sublimetext.com/3)プラグイン。
+- [square1001/algorithm-contest-library](https://github.com/square1001/algorithm-contest-library) - [square1001](https://atcoder.jp/users/square1001)さんのライブラリ。
 - [yosupo06/Algorithm](https://github.com/yosupo06/Algorithm) - [yosupo](https://atcoder.jp/users/yosupo)さんのライブラリ。
+
+### D
+
+- [hos-lyric/libra](https://github.com/hos-lyric/libra) - [hos_lyric](https://atcoder.jp/users/hos_lyric)さんのライブラリ。
 
 ### FSharp
 
-- [AtCoderTools_FSharp](https://github.com/kazurego7/AtCoderTools_FSharp) - F#で実装されたアルゴリズムのライブラリ。
+- [kazurego7/AtCoderTools_FSharp](https://github.com/kazurego7/AtCoderTools_FSharp) - F#で実装されたアルゴリズムのライブラリ。
 
 ### Python
 
-- [AtCoderLibrary](https://github.com/kerroggu/AtCoderLibrary) - Pythonで実装されたアルゴリズムのライブラリ。
+- [kerroggu/AtCoderLibrary](https://github.com/kerroggu/AtCoderLibrary) - Pythonで実装されたアルゴリズムのライブラリ。
+- [maspypy/compro_library](https://github.com/maspypy/compro_library) - [maspy](https://atcoder.jp/users/maspy)さんのライブラリ。
+- [matsu7874/competitive-programming-snippets](https://github.com/matsu7874/competitive-programming-snippets) - [matsu7874](https://atcoder.jp/users/matsu7874)さんのスニペット集。
+
+### Rust
+
+- [kenkoooo/competitive-programming-rs](https://github.com/kenkoooo/competitive-programming-rs) - [kenkoooo](https://atcoder.jp/users/kenkoooo)さんのスニペット集。
+- [tanakh/competitive-rs](https://github.com/tanakh/competitive-rs) - [tanakh](https://atcoder.jp/users/tanakh)さんのライブラリ。
 
 ## Web API
 
