@@ -330,6 +330,7 @@ Google Chromeに機能を追加します。
 - [monkukui/Library](https://github.com/monkukui/Library) - [monkukui](https://atcoder.jp/users/monkukui)さんのライブラリ。
 - [morioprog/cpplib](https://morioprog.github.io/cpplib/) - [morio__](https://atcoder.jp/users/morio__)さんのライブラリ。
 - [ngtkana/ngtlibcpp](https://github.com/ngtkana/ngtlibcpp) - [ngtkana](https://atcoder.jp/users/ngtkana)さんのライブラリ。
+- [ningenMe/compro-library](https://github.com/ningenMe/compro-library) - [ningenMe](https://atcoder.jp/users/ningenMe)さんのライブラリ。
 - [primenumber/ProconLib](https://github.com/primenumber/ProconLib) - [primenumber](https://atcoder.jp/users/primenumber)さんのライブラリ。
 - [satanic0258/library](https://github.com/satanic0258/library) - [satanic0258](https://atcoder.jp/users/satanic0258)さんのライブラリ。
 - [yosupo06/Algorithm](https://github.com/yosupo06/Algorithm) - [yosupo](https://atcoder.jp/users/yosupo)さんのライブラリ。
