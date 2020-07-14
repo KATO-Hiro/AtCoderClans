@@ -305,6 +305,10 @@ Google Chromeに機能を追加します。
 
 ## ライブラリ、スニペット
 
+### ライブラリチェッカー
+
+- [Library Checker Problems](https://judge.yosupo.jp/) - オンラインジャッジシステムにより、ライブラリが正しく実装されているか確認できる。
+
 ### C++
 
 - [beet-aizu/library](https://beet-aizu.github.io/library/) - [beet](https://atcoder.jp/users/beet)さんのライブラリ。
