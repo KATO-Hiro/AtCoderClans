@@ -333,7 +333,7 @@ Google Chromeに機能を追加します。
 
 ### Python
 
-- [AtCoderLibrary](https://github.com/kerroggu/AtCoderLibrary) - Pythonで実装されたアルゴリズムのライブラリ。
+- [kerroggu/AtCoderLibrary](https://github.com/kerroggu/AtCoderLibrary) - Pythonで実装されたアルゴリズムのライブラリ。
 
 ## Web API
 
