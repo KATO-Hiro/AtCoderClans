@@ -323,6 +323,10 @@ Google Chromeに機能を追加します。
 - [satanic0258/library](https://github.com/satanic0258/library) - [satanic0258](https://atcoder.jp/users/satanic0258)さんのライブラリ。
 - [yosupo06/Algorithm](https://github.com/yosupo06/Algorithm) - [yosupo](https://atcoder.jp/users/yosupo)さんのライブラリ。
 
+### D
+
+- [hos-lyric/libra](https://github.com/hos-lyric/libra) - [hos_lyric](https://atcoder.jp/users/hos_lyric)さんのライブラリ。
+
 ### FSharp
 
 - [AtCoderTools_FSharp](https://github.com/kazurego7/AtCoderTools_FSharp) - F#で実装されたアルゴリズムのライブラリ。
