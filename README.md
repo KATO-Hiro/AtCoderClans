@@ -334,6 +334,7 @@ Google Chromeに機能を追加します。
 ### Python
 
 - [kerroggu/AtCoderLibrary](https://github.com/kerroggu/AtCoderLibrary) - Pythonで実装されたアルゴリズムのライブラリ。
+- [maspypy/compro_library](https://github.com/maspypy/compro_library) - [maspy](https://atcoder.jp/users/maspy)さんのライブラリ。
 
 ## Web API
 
