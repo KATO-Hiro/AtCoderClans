@@ -6,7 +6,7 @@
 
 - [AtCoder](https://atcoder.jp/)公式の仕様変更や諸事情により、公開されているサービス・ツールなどが予告なく利用できなくなる場合があります。ご了承ください。
 
-- サービス・ツールなどに関するお問い合わせは、**開発者が公開している連絡先に直接行ってください**。公式のサポート対象外のため、運営チームへの問い合わせは絶対しないでください。
+- サービス・ツールなどに関するお問い合わせは、<span style="color: red">**開発者が公開している連絡先に直接行ってください**</span>。公式のサポート対象外のため、運営チームへの問い合わせは絶対しないでください。
 
 - 各サービス・ツールなどの説明ページにあるように、ご利用は自己責任でお願いします。
 
@@ -436,6 +436,8 @@ Google Chromeに機能を追加します。
 ## リンク
 
 [AtCoder](https://atcoder.jp/)
+
+[How to publish markdown as homepage using GitHub Pages](https://qiita.com/MahoTakara/items/3800e9dc83b530d0a050)
 
 [Readme Driven Development; RDD](https://qiita.com/b4b4r07/items/c80d53db9a0fd59086ec)
 
