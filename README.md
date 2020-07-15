@@ -74,6 +74,7 @@
 - [Web API](#web-api)
 - [その他](#%E3%81%9D%E3%81%AE%E4%BB%96)
   - [Google Apps Script](#google-apps-script)
+  - [Google Sheets](#google-sheets)
   - [TouchBarアプリ](#touchbar%E3%82%A2%E3%83%97%E3%83%AA)
 - [記事、ブログ](#%E8%A8%98%E4%BA%8B%E3%83%96%E3%83%AD%E3%82%B0)
   - [コードを快適に書くための環境構築](#%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E5%BF%AB%E9%81%A9%E3%81%AB%E6%9B%B8%E3%81%8F%E3%81%9F%E3%82%81%E3%81%AE%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89)
@@ -449,6 +450,10 @@ Google Chromeに機能を追加します。
 ### Google Apps Script
 
 - [AtCoder Daily AC Checker](https://github.com/purple-jwl/atcoder-daily-ac-checker) - AC(Accepted)している人をSlack上で褒める（紹介する）。
+
+### Google Sheets
+
+- [AtCoder賞金ランキング](https://docs.google.com/spreadsheets/d/1E7Ho85znRw7ebB7ZATWBQckM2P_7qZYc35XZExlL_a4/edit#gid=1741891477) - 賞金付きコンテストの獲得額(目安)を集計している。[元ツイート](https://twitter.com/gojira_kyopro/status/1281199066408292353)を参照。
 
 ### TouchBarアプリ
 
