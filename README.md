@@ -423,6 +423,7 @@ Google Chromeに機能を追加します。
 
 ### Java
 
+- [hamadu/competitive-programming-snippets](https://github.com/hamadu/competitive-programming-snippets) ![GitHub stars](https://img.shields.io/github/stars/hamadu/competitive-programming-snippets?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/hamadu/competitive-programming-snippets?style=plastic) - [hamadu](https://atcoder.jp/users/hamadu)さんのライブラリ。レポジトリ作成者注: 数少ないJavaで実装されたライブラリのため掲載。ただし、最終commitが3年以上前となっているため、最新のジャッジシステムで意図した通りに計算できるか保証がない。
 - [tomerun/CompLib](https://github.com/tomerun/CompLib) ![GitHub stars](https://img.shields.io/github/stars/tomerun/CompLib?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/tomerun/CompLib?style=plastic) - [tomerun](https://atcoder.jp/users/tomerun)さんのライブラリ。CrystalやC++のライブラリも含まれている。
 
 ### Python
