@@ -4,7 +4,6 @@
 [![Issues](https://img.shields.io/github/issues/KATO-Hiro/AtCoderHub)](https://github.com/KATO-Hiro/AtCoderHub/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/KATO-Hiro/AtCoderHub.svg)](https://github.com/KATO-Hiro/AtCoderHub/pulls)
 [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/KATO-Hiro/AtCoderHub/blob/master/LICENSE)
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/k_hiro1818?style=social)](https://twitter.com/k_hiro1818)
 
 【非公式】競技プログラミングサイト[AtCoder](https://atcoder.jp/)の有志による非公式サービス・ツールなどをまとめています。
