@@ -68,6 +68,7 @@
   - [C++](#c)
   - [D](#d)
   - [FSharp](#fsharp)
+  - [Java](#java)
   - [Python](#python-1)
   - [Rust](#rust-1)
 - [Web API](#web-api)
