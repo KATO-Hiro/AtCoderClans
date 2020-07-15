@@ -338,58 +338,58 @@ Google Chromeに機能を追加します。
 
 ### ライブラリチェッカー
 
-- [Library Checker Problems](https://judge.yosupo.jp/) - オンラインジャッジシステムにより、ライブラリが正しく実装されているか確認できる。
+- [Library Checker Problems](https://judge.yosupo.jp/) ![GitHub stars](https://img.shields.io/github/stars/yosupo06/library-checker-problems?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/yosupo06/library-checker-problems?style=plastic) - オンラインジャッジシステムにより、ライブラリが正しく実装されているか確認できる。
 
 ### CSharp
 
-- [camypaper/complib](https://github.com/camypaper/complib) - [camypaper](https://atcoder.jp/users/camypaper)さんのライブラリ。
-- [key-moon/Library](https://github.com/key-moon/Library) - [keymoon](https://atcoder.jp/users/keymoon)さんのライブラリ。
+- [camypaper/complib](https://github.com/camypaper/complib) ![GitHub stars](https://img.shields.io/github/stars/camypaper/complib?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/camypaper/complib?style=plastic) - [camypaper](https://atcoder.jp/users/camypaper)さんのライブラリ。
+- [key-moon/Library](https://github.com/key-moon/Library) ![GitHub stars](https://img.shields.io/github/stars/key-moon/Library?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/key-moon/Library?style=plastic) - [keymoon](https://atcoder.jp/users/keymoon)さんのライブラリ。
 
 ### C++
 
-- [asi1024/competitive-library](https://github.com/asi1024/competitive-library) - [asi1024](https://atcoder.jp/users/asi1024)さんのライブラリ。C++11(gcc-4.8)、C++17(gcc-7)、C++14(clang-3.8)に対応。
-- [beet-aizu/library](https://beet-aizu.github.io/library/) - [beet](https://atcoder.jp/users/beet)さんのライブラリ。
-- [drafear/competitive-library](https://github.com/drafear/competitive-library) - [drafear](https://atcoder.jp/users/drafear)さんのライブラリ。
+- [asi1024/competitive-library](https://github.com/asi1024/competitive-library) ![GitHub stars](https://img.shields.io/github/stars/asi1024/competitive-library?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/asi1024/competitive-library?style=plastic) - [asi1024](https://atcoder.jp/users/asi1024)さんのライブラリ。C++11(gcc-4.8)、C++17(gcc-7)、C++14(clang-3.8)に対応。
+- [beet-aizu/library](https://beet-aizu.github.io/library/) ![GitHub stars](https://img.shields.io/github/stars/beet-aizu/library?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/beet-aizu/library?style=plastic) - [beet](https://atcoder.jp/users/beet)さんのライブラリ。
+- [drafear/competitive-library](https://github.com/drafear/competitive-library) ![GitHub stars](https://img.shields.io/github/stars/drafear/competitive-library?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/drafear/competitive-library?style=plastic) - [drafear](https://atcoder.jp/users/drafear)さんのライブラリ。
 - [drken1215/algorithm](https://github.com/drken1215/algorithm) ![GitHub stars](https://img.shields.io/github/stars/drken1215/algorithm?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/drken1215/algorithm?style=plastic) - [drken](https://atcoder.jp/users/drken)さんの実装例・ライブラリ。C++14で実装されている。
-- [fumiphys/programming_contest](https://github.com/fumiphys/programming_contest) - [fumiphys](https://atcoder.jp/users/fumiphys)さんのライブラリ。
-- [Ganariya/library](https://ganariya.github.io/library/) - [ganariya2525](https://atcoder.jp/users/ganariya2525)さんのライブラリ。
-- [hiramekun/Algorithm](https://github.com/hiramekun/Algorithm) - [hiramekun](https://atcoder.jp/users/hiramekun)さんのライブラリ。
-- [kazunetakahashi/library](https://github.com/kazunetakahashi/library) - [kazunetakahashi](https://atcoder.jp/users/kazunetakahashi)さんのライブラリ。
-- [kmyk/competitive-programming-library](https://kmyk.github.io/competitive-programming-library/) - [kimiyuki](https://atcoder.jp/users/kimiyuki)さんのライブラリ。
-- [koba-e964/contest](https://github.com/koba-e964/contest) - [kobae964](https://atcoder.jp/users/kobae964)さんのライブラリ。
-- [KryKsk/Algorithm](https://github.com/KryKsk/Algorithm) - C++で実装されたアルゴリズムのライブラリ。
-- [kumaraditya1999/Algorithms](https://github.com/kumaraditya1999/Algorithms) - [kumaraditya1999](https://atcoder.jp/users/kumaraditya1999)さんのライブラリ。
-- [monkukui/Library](https://github.com/monkukui/Library) - [monkukui](https://atcoder.jp/users/monkukui)さんのライブラリ。
-- [morioprog/cpplib](https://morioprog.github.io/cpplib/) - [morio__](https://atcoder.jp/users/morio__)さんのライブラリ。
-- [ngtkana/ngtlibcpp](https://github.com/ngtkana/ngtlibcpp) - [ngtkana](https://atcoder.jp/users/ngtkana)さんのライブラリ。Rust版もある。
-- [ningenMe/compro-library](https://github.com/ningenMe/compro-library) - [ningenMe](https://atcoder.jp/users/ningenMe)さんのライブラリ。
-- [primenumber/ProconLib](https://github.com/primenumber/ProconLib) - [primenumber](https://atcoder.jp/users/primenumber)さんのライブラリ。
-- [rsk0315/library](https://github.com/rsk0315/library) - [rsk0315](https://atcoder.jp/users/rsk0315)さんのライブラリ。
-- [satanic0258/library](https://github.com/satanic0258/library) - [satanic0258](https://atcoder.jp/users/satanic0258)さんのライブラリ。
-- [snuke/LibraryPaste](https://github.com/snuke/LibraryPaste) - [snuke](https://atcoder.jp/users/snuke)さんの[Sublime Text](https://www.sublimetext.com/3)プラグイン。
-- [square1001/algorithm-contest-library](https://github.com/square1001/algorithm-contest-library) - [square1001](https://atcoder.jp/users/square1001)さんのライブラリ。
-- [yosupo06/Algorithm](https://github.com/yosupo06/Algorithm) - [yosupo](https://atcoder.jp/users/yosupo)さんのライブラリ。C++11で実装されている。
+- [fumiphys/programming_contest](https://github.com/fumiphys/programming_contest) ![GitHub stars](https://img.shields.io/github/stars/fumiphys/programming_contest?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/fumiphys/programming_contest?style=plastic) - [fumiphys](https://atcoder.jp/users/fumiphys)さんのライブラリ。
+- [Ganariya/library](https://ganariya.github.io/library/) ![GitHub stars](https://img.shields.io/github/stars/Ganariya/library?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/Ganariya/library?style=plastic) - [ganariya2525](https://atcoder.jp/users/ganariya2525)さんのライブラリ。
+- [hiramekun/Algorithm](https://github.com/hiramekun/Algorithm) ![GitHub stars](https://img.shields.io/github/stars/hiramekun/Algorithm?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/hiramekun/Algorithm?style=plastic) - [hiramekun](https://atcoder.jp/users/hiramekun)さんのライブラリ。
+- [kazunetakahashi/library](https://github.com/kazunetakahashi/library) ![GitHub stars](https://img.shields.io/github/stars/kazunetakahashi/library?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/kazunetakahashi/library?style=plastic) - [kazunetakahashi](https://atcoder.jp/users/kazunetakahashi)さんのライブラリ。
+- [kmyk/competitive-programming-library](https://kmyk.github.io/competitive-programming-library/) ![GitHub stars](https://img.shields.io/github/stars/kmyk/competitive-programming-library?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/kmyk/competitive-programming-library?style=plastic) - [kimiyuki](https://atcoder.jp/users/kimiyuki)さんのライブラリ。
+- [koba-e964/contest](https://github.com/koba-e964/contest) ![GitHub stars](https://img.shields.io/github/stars/koba-e964/contest?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/koba-e964/contest?style=plastic) - [kobae964](https://atcoder.jp/users/kobae964)さんのライブラリ。
+- [KryKsk/Algorithm](https://github.com/KryKsk/Algorithm) ![GitHub stars](https://img.shields.io/github/stars/KryKsk/Algorithm?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/KryKsk/Algorithm?style=plastic) - C++で実装されたアルゴリズムのライブラリ。
+- [kumaraditya1999/Algorithms](https://github.com/kumaraditya1999/Algorithms) ![GitHub stars](https://img.shields.io/github/stars/kumaraditya1999/Algorithms?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/kumaraditya1999/Algorithms?style=plastic) - [kumaraditya1999](https://atcoder.jp/users/kumaraditya1999)さんのライブラリ。
+- [monkukui/Library](https://github.com/monkukui/Library) ![GitHub stars](https://img.shields.io/github/stars/monkukui/Library?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/monkukui/Library?style=plastic) - [monkukui](https://atcoder.jp/users/monkukui)さんのライブラリ。
+- [morioprog/cpplib](https://morioprog.github.io/cpplib/) ![GitHub stars](https://img.shields.io/github/stars/morioprog/cpplib?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/morioprog/cpplib?style=plastic) - [morio__](https://atcoder.jp/users/morio__)さんのライブラリ。
+- [ngtkana/ngtlibcpp](https://github.com/ngtkana/ngtlibcpp) ![GitHub stars](https://img.shields.io/github/stars/ngtkana/ngtlibcpp?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/ngtkana/ngtlibcpp?style=plastic) - [ngtkana](https://atcoder.jp/users/ngtkana)さんのライブラリ。Rust版もある。
+- [ningenMe/compro-library](https://github.com/ningenMe/compro-library) ![GitHub stars](https://img.shields.io/github/stars/ningenMe/compro-library?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/ningenMe/compro-library?style=plastic) - [ningenMe](https://atcoder.jp/users/ningenMe)さんのライブラリ。
+- [primenumber/ProconLib](https://github.com/primenumber/ProconLib) ![GitHub stars](https://img.shields.io/github/stars/primenumber/ProconLib?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/primenumber/ProconLib?style=plastic) - [primenumber](https://atcoder.jp/users/primenumber)さんのライブラリ。
+- [rsk0315/library](https://github.com/rsk0315/library) ![GitHub stars](https://img.shields.io/github/stars/rsk0315/library?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/rsk0315/library?style=plastic) - [rsk0315](https://atcoder.jp/users/rsk0315)さんのライブラリ。
+- [satanic0258/library](https://github.com/satanic0258/library) ![GitHub stars](https://img.shields.io/github/stars/satanic0258/library?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/satanic0258/library?style=plastic) - [satanic0258](https://atcoder.jp/users/satanic0258)さんのライブラリ。
+- [snuke/LibraryPaste](https://github.com/snuke/LibraryPaste) ![GitHub stars](https://img.shields.io/github/stars/snuke/LibraryPaste?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/snuke/LibraryPaste?style=plastic) - [snuke](https://atcoder.jp/users/snuke)さんの[Sublime Text](https://www.sublimetext.com/3)プラグイン。
+- [square1001/algorithm-contest-library](https://github.com/square1001/algorithm-contest-library) ![GitHub stars](https://img.shields.io/github/stars/square1001/algorithm-contest-library?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/square1001/algorithm-contest-library?style=plastic) - [square1001](https://atcoder.jp/users/square1001)さんのライブラリ。
+- [yosupo06/Algorithm](https://github.com/yosupo06/Algorithm) ![GitHub stars](https://img.shields.io/github/stars/yosupo06/Algorithm?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/yosupo06/Algorithm?style=plastic) - [yosupo](https://atcoder.jp/users/yosupo)さんのライブラリ。C++11で実装されている。
 
 ### D
 
-- [hos-lyric/libra](https://github.com/hos-lyric/libra) - [hos_lyric](https://atcoder.jp/users/hos_lyric)さんのライブラリ。
+- [hos-lyric/libra](https://github.com/hos-lyric/libra) ![GitHub stars](https://img.shields.io/github/stars/hos-lyric/libra?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/hos-lyric/libra?style=plastic) - [hos_lyric](https://atcoder.jp/users/hos_lyric)さんのライブラリ。
 
 ### FSharp
 
-- [kazurego7/AtCoderTools_FSharp](https://github.com/kazurego7/AtCoderTools_FSharp) - F#で実装されたアルゴリズムのライブラリ。
+- [kazurego7/AtCoderTools_FSharp](https://github.com/kazurego7/AtCoderTools_FSharp) ![GitHub stars](https://img.shields.io/github/stars/kazurego7/AtCoderTools_FSharp?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/kazurego7/AtCoderTools_FSharp?style=plastic) - F#で実装されたアルゴリズムのライブラリ。
 
 ### Python
 
-- [kerroggu/AtCoderLibrary](https://github.com/kerroggu/AtCoderLibrary) - Pythonで実装されたアルゴリズムのライブラリ。
-- [Coki628/Python/lib](https://github.com/Coki628/Python/tree/master/lib) - [Coki628](https://atcoder.jp/users/Coki628)さんのライブラリ。
-- [maspypy/compro_library](https://github.com/maspypy/compro_library) - [maspy](https://atcoder.jp/users/maspy)さんのライブラリ。
-- [matsu7874/competitive-programming-snippets](https://github.com/matsu7874/competitive-programming-snippets) - [matsu7874](https://atcoder.jp/users/matsu7874)さんのスニペット集。
+- [kerroggu/AtCoderLibrary](https://github.com/kerroggu/AtCoderLibrary) ![GitHub stars](https://img.shields.io/github/stars/kerroggu/AtCoderLibrary?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/kerroggu/AtCoderLibrary?style=plastic) - Pythonで実装されたアルゴリズムのライブラリ。
+- [Coki628/Python/lib](https://github.com/Coki628/Python/tree/master/lib) ![GitHub stars](https://img.shields.io/github/stars/Coki628/Python?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/Coki628/Python?style=plastic) - [Coki628](https://atcoder.jp/users/Coki628)さんのライブラリ。
+- [maspypy/compro_library](https://github.com/maspypy/compro_library) ![GitHub stars](https://img.shields.io/github/stars/maspypy/compro_library?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/maspypy/compro_library?style=plastic) - [maspy](https://atcoder.jp/users/maspy)さんのライブラリ。
+- [matsu7874/competitive-programming-snippets](https://github.com/matsu7874/competitive-programming-snippets) ![GitHub stars](https://img.shields.io/github/stars/matsu7874/competitive-programming-snippets?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/matsu7874/competitive-programming-snippets?style=plastic) - [matsu7874](https://atcoder.jp/users/matsu7874)さんのスニペット集。
 
 ### Rust
 
-- [kenkoooo/competitive-programming-rs](https://github.com/kenkoooo/competitive-programming-rs) - [kenkoooo](https://atcoder.jp/users/kenkoooo)さんのスニペット集。
-- [ngtkana/ac-adapter-rs](https://github.com/ngtkana/ac-adapter-rs) - [ngtkana](https://atcoder.jp/users/ngtkana)さんのライブラリ。C++版もある。
-- [tanakh/competitive-rs](https://github.com/tanakh/competitive-rs) - [tanakh](https://atcoder.jp/users/tanakh)さんのライブラリ。
+- [kenkoooo/competitive-programming-rs](https://github.com/kenkoooo/competitive-programming-rs) ![GitHub stars](https://img.shields.io/github/stars/kenkoooo/competitive-programming-rs?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/kenkoooo/competitive-programming-rs?style=plastic) - [kenkoooo](https://atcoder.jp/users/kenkoooo)さんのスニペット集。
+- [ngtkana/ac-adapter-rs](https://github.com/ngtkana/ac-adapter-rs) ![GitHub stars](https://img.shields.io/github/stars/ngtkana/ac-adapter-rs?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/ngtkana/ac-adapter-rs?style=plastic) - [ngtkana](https://atcoder.jp/users/ngtkana)さんのライブラリ。C++版もある。
+- [tanakh/competitive-rs](https://github.com/tanakh/competitive-rs) ![GitHub stars](https://img.shields.io/github/stars/tanakh/competitive-rs?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/tanakh/competitive-rs?style=plastic) - [tanakh](https://atcoder.jp/users/tanakh)さんのライブラリ。
 
 ## Web API
 
