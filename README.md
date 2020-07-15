@@ -350,7 +350,7 @@ Google Chromeに機能を追加します。
 - [asi1024/competitive-library](https://github.com/asi1024/competitive-library) - [asi1024](https://atcoder.jp/users/asi1024)さんのライブラリ。C++11(gcc-4.8)、C++17(gcc-7)、C++14(clang-3.8)に対応。
 - [beet-aizu/library](https://beet-aizu.github.io/library/) - [beet](https://atcoder.jp/users/beet)さんのライブラリ。
 - [drafear/competitive-library](https://github.com/drafear/competitive-library) - [drafear](https://atcoder.jp/users/drafear)さんのライブラリ。
-- [drken1215/algorithm](https://github.com/drken1215/algorithm) - [drken](https://atcoder.jp/users/drken)さんの実装例・ライブラリ。C++14で実装されている。
+- [drken1215/algorithm](https://github.com/drken1215/algorithm) ![GitHub stars](https://img.shields.io/github/stars/drken1215/algorithm?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/drken1215/algorithm?style=plastic) - [drken](https://atcoder.jp/users/drken)さんの実装例・ライブラリ。C++14で実装されている。
 - [fumiphys/programming_contest](https://github.com/fumiphys/programming_contest) - [fumiphys](https://atcoder.jp/users/fumiphys)さんのライブラリ。
 - [Ganariya/library](https://ganariya.github.io/library/) - [ganariya2525](https://atcoder.jp/users/ganariya2525)さんのライブラリ。
 - [hiramekun/Algorithm](https://github.com/hiramekun/Algorithm) - [hiramekun](https://atcoder.jp/users/hiramekun)さんのライブラリ。
