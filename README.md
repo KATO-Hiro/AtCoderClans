@@ -82,6 +82,9 @@
     - [Macintosh](#macintosh)
     - [Windows](#windows)
   - [コンテストで出題された問題の解説](#%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E3%81%A7%E5%87%BA%E9%A1%8C%E3%81%95%E3%82%8C%E3%81%9F%E5%95%8F%E9%A1%8C%E3%81%AE%E8%A7%A3%E8%AA%AC)
+  - [Qiita](#qiita)
+    - [記事](#%E8%A8%98%E4%BA%8B)
+    - [アカウント](#%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88)
 - [YouTube](#youtube)
 - [書籍、オンラインブック](#%E6%9B%B8%E7%B1%8D%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%96%E3%83%83%E3%82%AF)
   - [書籍](#%E6%9B%B8%E7%B1%8D)
@@ -490,6 +493,16 @@ Google Chromeに機能を追加します。
 - [kmjp's blog](https://kmjp.hatenablog.jp/) - [kmjp](https://atcoder.jp/users/kmjp)さんの解説ブログ。C++で実装されている。
 - [maspyのHP](https://maspypy.com/category/atcoder) - [maspy](https://atcoder.jp/users/maspy)さんの解説ブログ。Pythonで実装されている。
 - [けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/) - [drken](https://atcoder.jp/users/drken)さんの解説ブログ。C++で実装されている。
+
+### Qiita
+
+#### 記事
+
+- [AtCoderに登録したら次にやること ～ これだけ解けば十分闘える！過去問精選10問 ～](https://qiita.com/drken/items/fd4e5e3630d0f5859067) - [drken](https://atcoder.jp/users/drken)さんによる、[AtCoder](https://atcoder.jp/)のコンテストに初めて参加する方に向けた精選10問。さまざまな言語による回答例のリンクなどの資料も充実している。
+
+#### アカウント
+
+- [けんちょん (Otsuki)](https://qiita.com/drken) - [drken](https://atcoder.jp/users/drken)さんのアカウント。初見では理解が難しい概念について、丁寧な解説かつ読みやすい記事が多数掲載されている。
 
 ## YouTube
 
