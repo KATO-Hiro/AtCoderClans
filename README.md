@@ -491,6 +491,16 @@ Google Chromeに機能を追加します。
 - [maspyのHP](https://maspypy.com/category/atcoder) - [maspy](https://atcoder.jp/users/maspy)さんの解説ブログ。Pythonで実装されている。
 - [けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/) - [drken](https://atcoder.jp/users/drken)さんの解説ブログ。C++で実装されている。
 
+### Qiita
+
+#### 記事
+
+- [AtCoderに登録したら次にやること ～ これだけ解けば十分闘える！過去問精選10問 ～](https://qiita.com/drken/items/fd4e5e3630d0f5859067) - [drken](https://atcoder.jp/users/drken)さんによる、[AtCoder](https://atcoder.jp/)のコンテストに初めて参加する方に向けた精選10問。さまざまな言語による回答例のリンクなどの資料も充実している。
+
+#### アカウント
+
+- [けんちょん (Otsuki)](https://qiita.com/drken) - [drken](https://atcoder.jp/users/drken)さんのアカウント。初見では理解が難しい概念について、丁寧な解説かつ読みやすい記事が多数掲載されている。
+
 ## YouTube
 
 - [きりみんちゃん kirimin-chan](https://www.youtube.com/c/kiriminchan/playlists) - [kirimin](https://atcoder.jp/users/kirimin)さんのチャンネル。競技プログラミングやライブコーディングだけでなく、幅広い話題の動画が公開されている。
