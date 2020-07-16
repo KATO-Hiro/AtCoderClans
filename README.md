@@ -499,7 +499,7 @@ Google Chromeに機能を追加します。
 #### 記事
 
 - [AtCoderに登録したら次にやること ～ これだけ解けば十分闘える！過去問精選10問 ～](https://qiita.com/drken/items/fd4e5e3630d0f5859067) - [drken](https://atcoder.jp/users/drken)さんによる、[AtCoder](https://atcoder.jp/)のコンテストに初めて参加する方に向けた精選10問。さまざまな言語による回答例のリンクなどの資料も充実している。
-- [AtCoder版！蟻本 (初級編)](https://qiita.com/drken/items/e77685614f3c6bf86f44) - [drken](https://atcoder.jp/users/drken)さんによる、蟻本(書籍の項目で後述)の例題を[AtCoder](https://atcoder.jp/)などで出題された問題に対応づけようという試みた記事。[中級編](https://qiita.com/drken/items/2f56925972c1d34e05d8)、[上級編](https://qiita.com/drken/items/9b311d553aa434bb26e4)もある。
+- [AtCoder版！蟻本 (初級編)](https://qiita.com/drken/items/e77685614f3c6bf86f44) - [drken](https://atcoder.jp/users/drken)さんによる、蟻本(書籍の項目で後述)の例題を[AtCoder](https://atcoder.jp/)などで出題された問題に対応づけた記事。[中級編](https://qiita.com/drken/items/2f56925972c1d34e05d8)、[上級編](https://qiita.com/drken/items/9b311d553aa434bb26e4)もある。
 
 #### アカウント
 
