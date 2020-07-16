@@ -494,6 +494,7 @@ Google Chromeに機能を追加します。
 ### 書籍
 
 - [アルゴリズム図鑑 絵で見てわかる26のアルゴリズム](https://www.amazon.co.jp/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E5%9B%B3%E9%91%91-%E7%B5%B5%E3%81%A7%E8%A6%8B%E3%81%A6%E3%82%8F%E3%81%8B%E3%82%8B26%E3%81%AE%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0-%E7%9F%B3%E7%94%B0%E4%BF%9D%E8%BC%9D-ebook/dp/B07179Q3MJ/ref=sr_1_1?adgrpid=53580540432&dchild=1&gclid=Cj0KCQjw9b_4BRCMARIsADMUIypTVBpp3F1zRTZ8Z64q-uNIeZsDZubHRllJGE6wW3Z9mg6r2OIqrlMaAtOREALw_wcB&hvadid=338526404085&hvdev=c&hvlocphy=1009415&hvnetw=g&hvqmt=e&hvrand=18408823048340533151&hvtargid=kwd-305038205424&hydadcr=15818_11177339&jp-ad-ap=0&keywords=%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E5%9B%B3%E9%91%91&qid=1594903975&sr=8-1&tag=googhydr-22) - アルゴリズムが絵で説明されており、雰囲気をつかむのに向いている。コードを書くときは、別の書籍を読む必要がある。スマートフォンアプリ([Android](https://play.google.com/store/apps/details?id=wiki.algorithm.algorithms&hl=ja)、[iOS](https://apps.apple.com/jp/app/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E5%9B%B3%E9%91%91/id1047532631))だと無料で読むことができる。
+- [なっとく！アルゴリズム](https://www.amazon.co.jp/%E3%81%AA%E3%81%A3%E3%81%A8%E3%81%8F%EF%BC%81%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0-%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%82%A2%E3%83%BBY%E3%83%BB%E3%83%90%E3%83%BC%E3%82%AC%E3%83%90-ebook/dp/B01N14WBX3/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1594869441&sr=8-1) - 解説の丁寧さと図の豊富さが特徴。注: サンプルコードがPython2(公式のサポート終了)で書かれているため、print文などはPython3の書き方を調べる必要がある。
 
 ### オンラインブック
 
