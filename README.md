@@ -373,6 +373,7 @@ Google Chromeに機能を追加します。
 
 - [AtCoder_GitCommit](https://github.com/xryuseix/AtCoder_GitCommit) - 提出したコードをGitHubに自動でバックアップする。
 - [atcoder-numba](https://github.com/pyatcoder/atcoder-numba) - NumbaのJITを使用したコードをAOT(事前)コンパイルして、提出することができる。Pythonのパッケージ管理システムであるpipが必要。
+- [AtCoderStreak](https://github.com/naminodarie/AtCoderStreak) - 遅延提出で[AtCoder Problems](https://kenkoooo.com/atcoder)のStreakをつなぐ。
 
 ## ライブラリ、スニペット
 
@@ -389,6 +390,8 @@ Google Chromeに機能を追加します。
 - [camypaper/complib](https://github.com/camypaper/complib) ![GitHub stars](https://img.shields.io/github/stars/camypaper/complib?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/camypaper/complib?style=plastic) - [camypaper](https://atcoder.jp/users/camypaper)さんのライブラリ。
 - [hibatibati/My-Competitive-Programming-Library](https://github.com/hibatibati/My-Competitive-Programming-Library) ![GitHub stars](https://img.shields.io/github/stars/hibatibati/My-Competitive-Programming-Library?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/hibatibati/My-Competitive-Programming-Library?style=plastic) - [hibatibati](https://atcoder.jp/users/hibatibati)さんのライブラリ。
 - [key-moon/Library](https://github.com/key-moon/Library) ![GitHub stars](https://img.shields.io/github/stars/key-moon/Library?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/key-moon/Library?style=plastic) - [keymoon](https://atcoder.jp/users/keymoon)さんのライブラリ。
+- [mban259/CompLib](https://github.com/mban259/CompLib) ![GitHub stars](https://img.shields.io/github/stars/mban259/CompLib?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/mban259/CompLib?style=plastic) - [mban](https://atcoder.jp/users/mban)さんのライブラリ。
+- [naminodarie/AtCoderProject](https://github.com/naminodarie/AtCoderProject) ![GitHub stars](https://img.shields.io/github/stars/naminodarie/AtCoderProject?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/naminodarie/AtCoderProject?style=plastic) - [naminodarie](https://atcoder.jp/users/naminodarie)さんのライブラリ。
 - [riantkb/csharp](https://github.com/riantkb/csharp) ![GitHub stars](https://img.shields.io/github/stars/riantkb/csharp?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/riantkb/csharp?style=plastic) - [riantkb](https://atcoder.jp/users/riantkb)さんのスニペット集。
 
 ### C++
