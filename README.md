@@ -491,6 +491,10 @@ Google Chromeに機能を追加します。
 
 ## 書籍、オンラインブック
 
+### 書籍
+
+### オンラインブック
+
 - [atcoder-rust-resources](https://doc.rust-jp.rs/atcoder-rust-resources/) - コンテストにRustで参加するための資料集。現在は、日本語のみ対応。
 
 ## 提供、開発が終了したサービス、ツールなど
