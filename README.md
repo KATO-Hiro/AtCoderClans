@@ -497,6 +497,7 @@ Google Chromeに機能を追加します。
 - [なっとく！アルゴリズム](https://www.amazon.co.jp/%E3%81%AA%E3%81%A3%E3%81%A8%E3%81%8F%EF%BC%81%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0-%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%82%A2%E3%83%BBY%E3%83%BB%E3%83%90%E3%83%BC%E3%82%AC%E3%83%90-ebook/dp/B01N14WBX3/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1594869441&sr=8-1) - 解説の丁寧さと図の豊富さが特徴。注: サンプルコードがPython2(公式のサポート終了)で書かれているため、print文などはPython3の書き方を調べる必要がある。
 - [最強最速アルゴリズマー養成講座 プログラミングコンテストTopCoder攻略ガイド](https://www.amazon.co.jp/dp/B00E4FW2TE/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - 通称、チーター本。著者が[AtCoder](https://atcoder.jp/)社長[chokudai](https://twitter.com/chokudai)さんの書籍。
 - [プログラミングコンテスト攻略のためのアルゴリズムとデータ構造](https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E6%94%BB%E7%95%A5%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%A8%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0-%E6%B8%A1%E9%83%A8-%E6%9C%89%E9%9A%86-ebook/dp/B00U5MVXZO/ref=sr_1_3?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0&qid=1589179447&s=digital-text&sr=1-3) - 通称、螺旋本。後述する蟻本と比べると初心者向け。基本的なアルゴリズムが詳しく解説されている。
+- [プログラミングコンテストチャレンジブック [第2版] ～問題解決のアルゴリズム活用力とコーディングテクニックを鍛える～](https://www.amazon.co.jp/dp/B00CY9256C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - 通称、蟻本。初級編からかなり難しいが、典型的なアルゴリズムと考え方が収録されている。解説がとてもシンプル、かつ、第2版発行からやや時間が経過していることから、Web記事・解説ブログとともに参照することを推奨。
 
 ### オンラインブック
 
