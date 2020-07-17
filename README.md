@@ -450,6 +450,7 @@ Google Chromeに機能を追加します。
 ### Go
 
 - [aruaru0/golang_myatcoder](https://github.com/aruaru0/golang_myatcoder/tree/master/algo) ![GitHub stars](https://img.shields.io/github/stars/aruaru0/golang_myatcoder?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/aruaru0/golang_myatcoder?style=plastic) - [Aruaru0](https://atcoder.jp/users/Aruaru0)さんのライブラリ。
+- [naipia/competitive-programming-go](https://github.com/naipia/competitive-programming-go) ![GitHub stars](https://img.shields.io/github/stars/naipia/competitive-programming-go?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/naipia/competitive-programming-go?style=plastic) - [naipia](https://atcoder.jp/users/naipia)さんのライブラリ。
 
 ### Java
 
