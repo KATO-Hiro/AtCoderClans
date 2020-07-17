@@ -74,6 +74,7 @@
   - [Haskell](#haskell-1)
   - [Java](#java)
   - [Python](#python-1)
+  - [Ruby](#ruby-1)
   - [Rust](#rust-1)
 - [Web API](#web-api)
 - [その他](#%E3%81%9D%E3%81%AE%E4%BB%96)
