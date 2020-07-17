@@ -447,6 +447,10 @@ Google Chromeに機能を追加します。
 
 - [kazurego7/AtCoderTools_FSharp](https://github.com/kazurego7/AtCoderTools_FSharp) ![GitHub stars](https://img.shields.io/github/stars/kazurego7/AtCoderTools_FSharp?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/kazurego7/AtCoderTools_FSharp?style=plastic) - F#で実装されたアルゴリズムのライブラリ。
 
+### Go
+
+- [aruaru0/golang_myatcoder](https://github.com/aruaru0/golang_myatcoder/tree/master/algo) ![GitHub stars](https://img.shields.io/github/stars/aruaru0/golang_myatcoder?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/aruaru0/golang_myatcoder?style=plastic) - [Aruaru0](https://atcoder.jp/users/Aruaru0)さんのライブラリ。
+
 ### Java
 
 - [hamadu/competitive-programming-snippets](https://github.com/hamadu/competitive-programming-snippets) ![GitHub stars](https://img.shields.io/github/stars/hamadu/competitive-programming-snippets?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/hamadu/competitive-programming-snippets?style=plastic) - [hamadu](https://atcoder.jp/users/hamadu)さんのライブラリ。レポジトリ作成者注: Javaで実装された数少ないライブラリのため掲載。ただし、最終commitが3年以上前となっているため、最新のジャッジシステムで意図した通りに計算できるか検証が必要。
