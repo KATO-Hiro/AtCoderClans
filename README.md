@@ -395,6 +395,7 @@ Google Chromeに機能を追加します。
 - [mban259/CompLib](https://github.com/mban259/CompLib) ![GitHub stars](https://img.shields.io/github/stars/mban259/CompLib?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/mban259/CompLib?style=plastic) - [mban](https://atcoder.jp/users/mban)さんのライブラリ。
 - [naminodarie/AtCoderProject](https://github.com/naminodarie/AtCoderProject) ![GitHub stars](https://img.shields.io/github/stars/naminodarie/AtCoderProject?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/naminodarie/AtCoderProject?style=plastic) - [naminodarie](https://atcoder.jp/users/naminodarie)さんのライブラリ。
 - [riantkb/csharp](https://github.com/riantkb/csharp) ![GitHub stars](https://img.shields.io/github/stars/riantkb/csharp?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/riantkb/csharp?style=plastic) - [riantkb](https://atcoder.jp/users/riantkb)さんのスニペット集。
+- [yupiteru/AtCoder](https://github.com/yupiteru/AtCoder) ![GitHub stars](https://img.shields.io/github/stars/yupiteru/AtCoder?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/yupiteru/AtCoder?style=plastic) - [yupiteru](https://atcoder.jp/users/yupiteru)さんのライブラリとテンプレート。
 
 ### C++
 
