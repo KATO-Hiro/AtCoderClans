@@ -69,6 +69,7 @@
   - [C++](#c)
   - [D](#d)
   - [FSharp](#fsharp)
+  - [Go](#go-1)
   - [Java](#java)
   - [Python](#python-1)
   - [Rust](#rust-1)
