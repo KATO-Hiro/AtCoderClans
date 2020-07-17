@@ -303,6 +303,7 @@ Google Chromeに機能を追加します。
 ### LINE
 
 - [AtCoder Notify](https://atcoder-bot.firebaseapp.com/) - コンテスト情報を通知する。
+- [AtCoder Stalker](https://line.me/R/ti/p/@381fkvdg) - ライバルが精進したときLINEにプッシュ通知される。
 - [Contests-Line-Bot](https://github.com/granddaifuku/Contests-Line-Bot) - 「コンテスト」を含む文章を送ると、コンテストの日程が通知される。AtCoderだけでなく、[Codeforces](https://codeforces.com/)にも対応している。
 
 ### Slack
