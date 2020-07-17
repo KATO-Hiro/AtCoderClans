@@ -74,6 +74,7 @@
   - [Haskell](#haskell-1)
   - [Java](#java)
   - [Python](#python-1)
+  - [Ruby](#ruby-1)
   - [Rust](#rust-1)
 - [Web API](#web-api)
 - [その他](#%E3%81%9D%E3%81%AE%E4%BB%96)
@@ -486,6 +487,11 @@ Google Chromeに機能を追加します。
 - [nrkt/Algorithms](https://github.com/nrkt/Algorithms) ![GitHub stars](https://img.shields.io/github/stars/nrkt/Algorithms?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/nrkt/Algorithms?style=plastic) - [nrkt](https://atcoder.jp/users/nrkt)さんのライブラリ。
 - [tachyon777/AtCoder](https://github.com/tachyon777/AtCoder) ![GitHub stars](https://img.shields.io/github/stars/tachyon777/AtCoder?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/tachyon777/AtCoder?style=plastic) - [tachyon777](https://atcoder.jp/users/tachyon777)さんのライブラリ。
 - [tjkendev/procon-library](https://github.com/tjkendev/procon-library) ![GitHub stars](https://img.shields.io/github/stars/tjkendev/procon-library?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/tjkendev/procon-library?style=plastic) - [yaketake08](https://atcoder.jp/users/yaketake08)さんのライブラリ。
+
+### Ruby
+
+- [corvvs/shorthanded](https://github.com/corvvs/shorthanded) ![GitHub stars](https://img.shields.io/github/stars/corvvs/shorthanded?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/corvvs/shorthanded?style=plastic) - [Corvvs](https://atcoder.jp/users/Corvvs)さんのライブラリ。
+- [universato/compro](https://github.com/universato/compro) ![GitHub stars](https://img.shields.io/github/stars/universato/compro?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/universato/compro?style=plastic) - [universato](https://atcoder.jp/users/universato)さんのライブラリ。
 
 ### Rust
 
