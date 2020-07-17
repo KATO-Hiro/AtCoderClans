@@ -70,6 +70,7 @@
   - [D](#d)
   - [FSharp](#fsharp)
   - [Go](#go-1)
+  - [Haskell](#haskell)
   - [Java](#java)
   - [Python](#python-1)
   - [Rust](#rust-1)
@@ -452,6 +453,12 @@ Google Chromeに機能を追加します。
 
 - [aruaru0/golang_myatcoder](https://github.com/aruaru0/golang_myatcoder/tree/master/algo) ![GitHub stars](https://img.shields.io/github/stars/aruaru0/golang_myatcoder?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/aruaru0/golang_myatcoder?style=plastic) - [Aruaru0](https://atcoder.jp/users/Aruaru0)さんのライブラリ。
 - [naipia/competitive-programming-go](https://github.com/naipia/competitive-programming-go) ![GitHub stars](https://img.shields.io/github/stars/naipia/competitive-programming-go?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/naipia/competitive-programming-go?style=plastic) - [naipia](https://atcoder.jp/users/naipia)さんのライブラリ。
+
+### Haskell
+
+- [cojna/iota](https://cojna.github.io/iota/) ![GitHub stars](https://img.shields.io/github/stars/cojna/iota?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/cojna/iota?style=plastic) - [cojna](https://atcoder.jp/users/cojna)さんのライブラリ。
+- [jasy/alglib](https://github.com/jasy/alglib) ![GitHub stars](https://img.shields.io/github/stars/jasy/alglib?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/jasy/alglib?style=plastic) - [jasy](https://atcoder.jp/users/jasy)さんのライブラリ。レポジトリ作成者注: Haskellで実装された数少ないライブラリのため掲載。ただし、実質的な最終commitが4年以上前となっているため、最新のジャッジシステムで意図した通りに計算できるか検証が必要。
+- [tjnt/atcoder-haskell](https://github.com/tjnt/atcoder-haskell/tree/master/src) ![GitHub stars](https://img.shields.io/github/stars/tjnt/atcoder-haskell?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/tjnt/atcoder-haskell?style=plastic) - [tjnt](https://atcoder.jp/users/tjnt)さんのライブラリ。
 
 ### Java
 
