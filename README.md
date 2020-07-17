@@ -487,6 +487,10 @@ Google Chromeに機能を追加します。
 - [tachyon777/AtCoder](https://github.com/tachyon777/AtCoder) ![GitHub stars](https://img.shields.io/github/stars/tachyon777/AtCoder?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/tachyon777/AtCoder?style=plastic) - [tachyon777](https://atcoder.jp/users/tachyon777)さんのライブラリ。
 - [tjkendev/procon-library](https://github.com/tjkendev/procon-library) ![GitHub stars](https://img.shields.io/github/stars/tjkendev/procon-library?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/tjkendev/procon-library?style=plastic) - [yaketake08](https://atcoder.jp/users/yaketake08)さんのライブラリ。
 
+### Ruby
+
+- [corvvs/shorthanded](https://github.com/corvvs/shorthanded) ![GitHub stars](https://img.shields.io/github/stars/corvvs/shorthanded?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/corvvs/shorthanded?style=plastic) - [Corvvs](https://atcoder.jp/users/Corvvs)さんのライブラリ。
+
 ### Rust
 
 - [hatoo/competitive-rust-snippets](https://github.com/hatoo/competitive-rust-snippets) ![GitHub stars](https://img.shields.io/github/stars/hatoo/competitive-rust-snippets?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/hatoo/competitive-rust-snippets?style=plastic) - [hatoo](https://atcoder.jp/users/hatoo)さんのスニペット集。
