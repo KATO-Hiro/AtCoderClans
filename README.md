@@ -55,6 +55,7 @@
 - [コマンドラインツール](#%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB)
   - [ローカル環境でサンプルのテストを実行する](#%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E7%92%B0%E5%A2%83%E3%81%A7%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88%E3%82%92%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B)
     - [Go](#go)
+    - [Haskell](#haskell)
     - [Node.js](#nodejs)
     - [Python](#python)
     - [Ruby](#ruby)
@@ -70,7 +71,7 @@
   - [D](#d)
   - [FSharp](#fsharp)
   - [Go](#go-1)
-  - [Haskell](#haskell)
+  - [Haskell](#haskell-1)
   - [Java](#java)
   - [Python](#python-1)
   - [Rust](#rust-1)
@@ -331,6 +332,10 @@ Google Chromeに機能を追加します。
 
 - [AC Deck](https://github.com/sachaos/ac-deck) ![GitHub stars](https://img.shields.io/github/stars/sachaos/ac-deck?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/sachaos/ac-deck?style=plastic) - テスト([Docker](https://www.docker.com/)にも対応)、提出ができる。組み込みのテンプレートが用意されており、主要な言語に対応している。
 - [atc](https://github.com/nasjp/atc) ![GitHub stars](https://img.shields.io/github/stars/nasjp/atc?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/nasjp/atc?style=plastic) - 軽量のテストツール。
+
+#### Haskell
+
+- [atsubmit](https://github.com/flow6852/atsubmit) - サンプルの取得・テスト、提出、結果の閲覧を自動で行うことができる。
 
 #### Node.js
 
