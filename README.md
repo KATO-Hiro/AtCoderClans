@@ -483,6 +483,7 @@ Google Chromeに機能を追加します。
 - [Neterukun1993/algorithm](https://github.com/Neterukun1993/algorithm) ![GitHub stars](https://img.shields.io/github/stars/Neterukun1993/algorithm?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/Neterukun1993/algorithm?style=plastic) - [neterukun](https://atcoder.jp/users/neterukun)さんのライブラリ。
 - [nrkt/Algorithms](https://github.com/nrkt/Algorithms) ![GitHub stars](https://img.shields.io/github/stars/nrkt/Algorithms?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/nrkt/Algorithms?style=plastic) - [nrkt](https://atcoder.jp/users/nrkt)さんのライブラリ。
 - [tachyon777/AtCoder](https://github.com/tachyon777/AtCoder) ![GitHub stars](https://img.shields.io/github/stars/tachyon777/AtCoder?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/tachyon777/AtCoder?style=plastic) - [tachyon777](https://atcoder.jp/users/tachyon777)さんのライブラリ。
+- [tjkendev/procon-library](https://github.com/tjkendev/procon-library) ![GitHub stars](https://img.shields.io/github/stars/tjkendev/procon-library?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/tjkendev/procon-library?style=plastic) - [yaketake08](https://atcoder.jp/users/yaketake08)さんのライブラリ。
 
 ### Rust
 
