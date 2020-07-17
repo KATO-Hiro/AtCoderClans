@@ -453,6 +453,10 @@ Google Chromeに機能を追加します。
 - [aruaru0/golang_myatcoder](https://github.com/aruaru0/golang_myatcoder/tree/master/algo) ![GitHub stars](https://img.shields.io/github/stars/aruaru0/golang_myatcoder?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/aruaru0/golang_myatcoder?style=plastic) - [Aruaru0](https://atcoder.jp/users/Aruaru0)さんのライブラリ。
 - [naipia/competitive-programming-go](https://github.com/naipia/competitive-programming-go) ![GitHub stars](https://img.shields.io/github/stars/naipia/competitive-programming-go?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/naipia/competitive-programming-go?style=plastic) - [naipia](https://atcoder.jp/users/naipia)さんのライブラリ。
 
+### Haskell
+
+- [cojna/iota](https://cojna.github.io/iota/) ![GitHub stars](https://img.shields.io/github/stars/cojna/iota?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/cojna/iota?style=plastic) - [cojna](https://atcoder.jp/users/cojna)さんのライブラリ。
+
 ### Java
 
 - [amotoma3/competitive-programming-java](https://github.com/amotoma3/competitive-programming-java) ![GitHub stars](https://img.shields.io/github/stars/amotoma3/competitive-programming-java?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/amotoma3/competitive-programming-java?style=plastic) - [amotoma3](https://atcoder.jp/users/amotoma3)さんのライブラリ。
