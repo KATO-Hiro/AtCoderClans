@@ -435,6 +435,7 @@ Google Chromeに機能を追加します。
 
 ### D
 
+- [arkark/d-prolog](https://github.com/arkark/d-prolog) ![GitHub stars](https://img.shields.io/github/stars/arkark/d-prolog?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/arkark/d-prolog?style=plastic) - [arkark](https://atcoder.jp/users/arkark)さんのライブラリ。
 - [cedretaber/competitive_programming_library](https://github.com/cedretaber/competitive_programming_library) ![GitHub stars](https://img.shields.io/github/stars/cedretaber/competitive_programming_library?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/cedretaber/competitive_programming_library?style=plastic) - [cedretaber](https://atcoder.jp/users/cedretaber)さんのライブラリ。RubyやRustのライブラリも含まれている。
 - [hos-lyric/libra](https://github.com/hos-lyric/libra) ![GitHub stars](https://img.shields.io/github/stars/hos-lyric/libra?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/hos-lyric/libra?style=plastic) - [hos_lyric](https://atcoder.jp/users/hos_lyric)さんのライブラリ。
 
