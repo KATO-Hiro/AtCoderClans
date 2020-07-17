@@ -439,6 +439,7 @@ Google Chromeに機能を追加します。
 - [cedretaber/competitive_programming_library](https://github.com/cedretaber/competitive_programming_library) ![GitHub stars](https://img.shields.io/github/stars/cedretaber/competitive_programming_library?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/cedretaber/competitive_programming_library?style=plastic) - [cedretaber](https://atcoder.jp/users/cedretaber)さんのライブラリ。RubyやRustのライブラリも含まれている。
 - [fluffyowl/algo-d](https://github.com/fluffyowl/algo-d) ![GitHub stars](https://img.shields.io/github/stars/fluffyowl/algo-d?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/fluffyowl/algo-d?style=plastic) - [nebukuro09](https://atcoder.jp/users/nebukuro09)さんのライブラリ。
 - [hos-lyric/libra](https://github.com/hos-lyric/libra) ![GitHub stars](https://img.shields.io/github/stars/hos-lyric/libra?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/hos-lyric/libra?style=plastic) - [hos_lyric](https://atcoder.jp/users/hos_lyric)さんのライブラリ。
+- [private-yusuke/Competitive-Programming](https://github.com/private-yusuke/Competitive-Programming/tree/master/template) ![GitHub stars](https://img.shields.io/github/stars/private-yusuke/Competitive-Programming?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/private-yusuke/Competitive-Programming?style=plastic) - [private_yusuke](https://atcoder.jp/users/private_yusuke)さんのライブラリ。
 
 ### FSharp
 
