@@ -334,7 +334,7 @@ Google Chromeに機能を追加します。
 
 #### Haskell
 
-- [atsubmit](https://github.com/flow6852/atsubmit) - サンプルの取得・テスト、提出、結果の閲覧を自動で行うことができる。
+- [atsubmit](https://github.com/flow6852/atsubmit) ![GitHub stars](https://img.shields.io/github/stars/flow6852/atsubmit?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/flow6852/atsubmit?style=plastic) - サンプルの取得・テスト、提出、結果の閲覧を自動で行うことができる。
 
 #### Node.js
 
