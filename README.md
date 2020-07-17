@@ -297,7 +297,7 @@ Google Chromeに機能を追加します。
 
 ### Discord
 
-- [AtCoderChokuZen](https://github.com/KATO-Hiro/AtCoderChokuZen) - コンテスト当日に、コンテスト情報(開始日時・残り時間)をスマートフォンにプッシュ通知する。
+- [AtCoderChokuZen](https://github.com/KATO-Hiro/AtCoderChokuZen) - コンテスト当日に、コンテスト情報(開催日時・開始までの残り時間)をスマートフォンにプッシュ通知する。
 - [shino-sky/AtCoder-bot](https://github.com/shino-sky/AtCoder-bot) - レーティング(色)をもとに、自動でメンバーにロールを割り当てる。
 
 ### LINE
@@ -440,7 +440,7 @@ Google Chromeに機能を追加します。
 
 ### Java
 
-- [hamadu/competitive-programming-snippets](https://github.com/hamadu/competitive-programming-snippets) ![GitHub stars](https://img.shields.io/github/stars/hamadu/competitive-programming-snippets?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/hamadu/competitive-programming-snippets?style=plastic) - [hamadu](https://atcoder.jp/users/hamadu)さんのライブラリ。レポジトリ作成者注: 数少ないJavaで実装されたライブラリのため掲載。ただし、最終commitが3年以上前となっているため、最新のジャッジシステムで意図した通りに計算できるか保証がない。
+- [hamadu/competitive-programming-snippets](https://github.com/hamadu/competitive-programming-snippets) ![GitHub stars](https://img.shields.io/github/stars/hamadu/competitive-programming-snippets?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/hamadu/competitive-programming-snippets?style=plastic) - [hamadu](https://atcoder.jp/users/hamadu)さんのライブラリ。レポジトリ作成者注: Javaで実装された数少ないライブラリのため掲載。ただし、最終commitが3年以上前となっているため、最新のジャッジシステムで意図した通りに計算できるか検証が必要。
 - [tomerun/CompLib](https://github.com/tomerun/CompLib) ![GitHub stars](https://img.shields.io/github/stars/tomerun/CompLib?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/tomerun/CompLib?style=plastic) - [tomerun](https://atcoder.jp/users/tomerun)さんのライブラリ。CrystalやC++のライブラリも含まれている。
 
 ### Python
