@@ -490,6 +490,7 @@ Google Chromeに機能を追加します。
 ### Ruby
 
 - [corvvs/shorthanded](https://github.com/corvvs/shorthanded) ![GitHub stars](https://img.shields.io/github/stars/corvvs/shorthanded?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/corvvs/shorthanded?style=plastic) - [Corvvs](https://atcoder.jp/users/Corvvs)さんのライブラリ。
+- [universato/compro](https://github.com/universato/compro) ![GitHub stars](https://img.shields.io/github/stars/universato/compro?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/universato/compro?style=plastic) - [universato](https://atcoder.jp/users/universato)さんのライブラリ。
 
 ### Rust
 
