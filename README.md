@@ -479,6 +479,7 @@ Google Chromeに機能を追加します。
 - [shin2ro/algorithms-in-kotlin](https://github.com/shin2ro/algorithms-in-kotlin) ![GitHub stars](https://img.shields.io/github/stars/shin2ro/algorithms-in-kotlin?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/shin2ro/algorithms-in-kotlin?style=plastic) - [shin2ro](https://atcoder.jp/users/shin2ro)さんのライブラリ。
 - [kirimin/AtCoderLog](https://github.com/kirimin/AtCoderLog/tree/master/src/main/kotlin/utilities) ![GitHub stars](https://img.shields.io/github/stars/kirimin/AtCoderLog?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/kirimin/AtCoderLog?style=plastic) - [kirimin](https://atcoder.jp/users/kirimin)さんのライブラリ。
 - [sciencesakura/atcoder-sandbox](https://github.com/sciencesakura/atcoder-sandbox) ![GitHub stars](https://img.shields.io/github/stars/sciencesakura/atcoder-sandbox?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/sciencesakura/atcoder-sandbox?style=plastic) - [sciencesakura](https://atcoder.jp/users/sciencesakura)さんのライブラリ。
+- [t-matsumo/myLibForKotlin](https://github.com/t-matsumo/myLibForKotlin) ![GitHub stars](https://img.shields.io/github/stars/t-matsumo/myLibForKotlin?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/t-matsumo/myLibForKotlin?style=plastic) - [mt_kum](https://atcoder.jp/users/mt_kuma)さんのライブラリ。
 
 ### Python
 
