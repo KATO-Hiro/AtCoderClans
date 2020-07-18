@@ -73,6 +73,7 @@
   - [Go](#go-1)
   - [Haskell](#haskell-1)
   - [Java](#java)
+  - [Kotlin](#kotlin)
   - [Python](#python-1)
   - [Ruby](#ruby-1)
   - [Rust](#rust-1)
@@ -473,6 +474,13 @@ Google Chromeに機能を追加します。
 - [Hiromi-Ayase/competitive-programming-old](https://github.com/Hiromi-Ayase/competitive-programming-old) ![GitHub stars](https://img.shields.io/github/stars/Hiromi-Ayase/competitive-programming-old?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/Hiromi-Ayase/competitive-programming-old?style=plastic) - [hiromi_ayase](https://atcoder.jp/users/hiromi_ayase)さんのライブラリ。ライブラリ作成者による注: 最新のデータ構造に合っていないため使う場合は注意。
 - [hiro116s/atcoder_library](https://github.com/hiro116s/atcoder_library) ![GitHub stars](https://img.shields.io/github/stars/hiro116s/atcoder_library?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/hiro116s/atcoder_library?style=plastic) - [hiro116s](https://atcoder.jp/users/hiro116s)さんのライブラリ。
 - [tomerun/CompLib](https://github.com/tomerun/CompLib) ![GitHub stars](https://img.shields.io/github/stars/tomerun/CompLib?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/tomerun/CompLib?style=plastic) - [tomerun](https://atcoder.jp/users/tomerun)さんのライブラリ。CrystalやC++のライブラリも含まれている。
+
+### Kotlin
+
+- [shin2ro/algorithms-in-kotlin](https://github.com/shin2ro/algorithms-in-kotlin) ![GitHub stars](https://img.shields.io/github/stars/shin2ro/algorithms-in-kotlin?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/shin2ro/algorithms-in-kotlin?style=plastic) - [shin2ro](https://atcoder.jp/users/shin2ro)さんのライブラリ。
+- [kirimin/AtCoderLog](https://github.com/kirimin/AtCoderLog/tree/master/src/main/kotlin/utilities) ![GitHub stars](https://img.shields.io/github/stars/kirimin/AtCoderLog?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/kirimin/AtCoderLog?style=plastic) - [kirimin](https://atcoder.jp/users/kirimin)さんのライブラリ。
+- [sciencesakura/atcoder-sandbox](https://github.com/sciencesakura/atcoder-sandbox) ![GitHub stars](https://img.shields.io/github/stars/sciencesakura/atcoder-sandbox?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/sciencesakura/atcoder-sandbox?style=plastic) - [sciencesakura](https://atcoder.jp/users/sciencesakura)さんのライブラリ。
+- [t-matsumo/myLibForKotlin](https://github.com/t-matsumo/myLibForKotlin) ![GitHub stars](https://img.shields.io/github/stars/t-matsumo/myLibForKotlin?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/t-matsumo/myLibForKotlin?style=plastic) - [mt_kum](https://atcoder.jp/users/mt_kuma)さんのライブラリ。
 
 ### Python
 
