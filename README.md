@@ -74,6 +74,7 @@
   - [Haskell](#haskell-1)
   - [Java](#java)
   - [Kotlin](#kotlin)
+  - [Nim](#nim)
   - [Python](#python-1)
   - [Ruby](#ruby-1)
   - [Rust](#rust-1)
