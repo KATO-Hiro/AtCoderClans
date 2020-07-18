@@ -76,6 +76,7 @@
   - [Kotlin](#kotlin)
   - [Nim](#nim)
   - [Node.js](#nodejs-1)
+  - [PHP](#php)
   - [Python](#python-1)
   - [Ruby](#ruby-1)
   - [Rust](#rust-1)
@@ -492,6 +493,12 @@ Google Chromeに機能を追加します。
 ### Node.js
 
 - [DecoratedKnight/js-cp-template](https://github.com/DecoratedKnight/js-cp-template/tree/0a09186b4bbf8dcb040f23e202957b40071f8b35) ![GitHub stars](https://img.shields.io/github/stars/DecoratedKnight/js-cp-template?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/DecoratedKnight/js-cp-template?style=plastic) - [decoratedknight](https://atcoder.jp/users/decoratedknight)さんのテンプレート。
+
+### PHP
+
+- [hideyuk1-jp/AtCoder](https://github.com/hideyuk1-jp/AtCoder/tree/master/php/lib) ![GitHub stars](https://img.shields.io/github/stars/hideyuk1-jp/AtCoder?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/hideyuk1-jp/AtCoder?style=plastic) - [hideyuk1](https://atcoder.jp/users/hideyuk1)さんのライブラリ。
+- [takamiyaatusi/algorithm](https://github.com/takamiyaatusi/algorithm) ![GitHub stars](https://img.shields.io/github/stars/takamiyaatusi/algorithm?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/takamiyaatusi/algorithm?style=plastic) - [takamiyaatusi](https://atcoder.jp/users/takamiyaatusi)さんのライブラリ。
+- [takepan/mylib](https://github.com/takepan/mylib) ![GitHub stars](https://img.shields.io/github/stars/takepan/mylib?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/takepan/mylib?style=plastic) - [takepan](https://atcoder.jp/users/takepan)さんのライブラリ。
 
 ### Python
 
