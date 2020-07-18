@@ -76,6 +76,7 @@
   - [Kotlin](#kotlin)
   - [Nim](#nim)
   - [Node.js](#nodejs-1)
+  - [PHP](#php)
   - [Python](#python-1)
   - [Ruby](#ruby-1)
   - [Rust](#rust-1)
