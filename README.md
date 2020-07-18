@@ -78,6 +78,7 @@
   - [Python](#python-1)
   - [Ruby](#ruby-1)
   - [Rust](#rust-1)
+  - [Scala](#scala)
 - [Web API](#web-api)
 - [その他](#%E3%81%9D%E3%81%AE%E4%BB%96)
   - [Google Apps Script](#google-apps-script)
@@ -516,6 +517,12 @@ Google Chromeに機能を追加します。
 - [ngtkana/ac-adapter-rs](https://github.com/ngtkana/ac-adapter-rs) ![GitHub stars](https://img.shields.io/github/stars/ngtkana/ac-adapter-rs?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/ngtkana/ac-adapter-rs?style=plastic) - [ngtkana](https://atcoder.jp/users/ngtkana)さんのライブラリ。C++版もある。
 - [tanakh/competitive-rs](https://github.com/tanakh/competitive-rs) ![GitHub stars](https://img.shields.io/github/stars/tanakh/competitive-rs?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/tanakh/competitive-rs?style=plastic) - [tanakh](https://atcoder.jp/users/tanakh)さんのライブラリ。
 - [yoshrc/rust-atcoder-snippets](https://github.com/yoshrc/rust-atcoder-snippets) ![GitHub stars](https://img.shields.io/github/stars/yoshrc/rust-atcoder-snippets?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/yoshrc/rust-atcoder-snippets?style=plastic) - [yoshrc](https://atcoder.jp/users/yoshrc)さんのスニペット集。
+
+### Scala
+
+- [Goryudyuma/scala-work](https://github.com/Goryudyuma/scala-work) ![GitHub stars](https://img.shields.io/github/stars/Goryudyuma/scala-work?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/Goryudyuma/scala-work?style=plastic) - [goryudyuma](https://atcoder.jp/users/goryudyuma)さんのライブラリ。template.scalaにまとめられている。
+- [RheoTommy/AtCoder-Scala](https://github.com/RheoTommy/AtCoder-Scala) ![GitHub stars](https://img.shields.io/github/stars/RheoTommy/AtCoder-Scala?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/RheoTommy/AtCoder-Scala?style=plastic) - [RheoTommy](https://atcoder.jp/users/RheoTommy)さんのライブラリ。
+- [yakamoto69/atcoder_scala](https://github.com/yakamoto69/atcoder_scala) ![GitHub stars](https://img.shields.io/github/stars/yakamoto69/atcoder_scala?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/yakamoto69/atcoder_scala?style=plastic) - [yakamoto](https://atcoder.jp/users/yakamoto)さんのライブラリ。
 
 ## Web API
 
