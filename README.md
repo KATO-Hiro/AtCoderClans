@@ -465,7 +465,7 @@ Google Chromeに機能を追加します。
 ### FSharp
 
 - [guricerin/compro-fsharp](https://github.com/guricerin/compro-fsharp) ![GitHub stars](https://img.shields.io/github/stars/guricerin/compro-fsharp?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/guricerin/compro-fsharp?style=plastic) - [guricerin](https://atcoder.jp/users/guricerin)さんのライブラリ。
-- [kazurego7/AtCoderTools_FSharp](https://github.com/kazurego7/AtCoderTools_FSharp) ![GitHub stars](https://img.shields.io/github/stars/kazurego7/AtCoderTools_FSharp?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/kazurego7/AtCoderTools_FSharp?style=plastic) - F#で実装されたアルゴリズムのライブラリ。
+- [kazurego7/AtCoderTools_FSharp](https://github.com/kazurego7/AtCoderTools_FSharp) ![GitHub stars](https://img.shields.io/github/stars/kazurego7/AtCoderTools_FSharp?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/kazurego7/AtCoderTools_FSharp?style=plastic) - [kazurego7](https://atcoder.jp/users/kazurego7)さんのライブラリ。
 
 ### Go
 
