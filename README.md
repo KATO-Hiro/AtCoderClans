@@ -74,6 +74,7 @@
   - [Haskell](#haskell-1)
   - [Java](#java)
   - [Kotlin](#kotlin)
+  - [Nim](#nim)
   - [Python](#python-1)
   - [Ruby](#ruby-1)
   - [Rust](#rust-1)
@@ -481,6 +482,10 @@ Google Chromeに機能を追加します。
 - [kirimin/AtCoderLog](https://github.com/kirimin/AtCoderLog/tree/master/src/main/kotlin/utilities) ![GitHub stars](https://img.shields.io/github/stars/kirimin/AtCoderLog?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/kirimin/AtCoderLog?style=plastic) - [kirimin](https://atcoder.jp/users/kirimin)さんのライブラリ。
 - [sciencesakura/atcoder-sandbox](https://github.com/sciencesakura/atcoder-sandbox) ![GitHub stars](https://img.shields.io/github/stars/sciencesakura/atcoder-sandbox?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/sciencesakura/atcoder-sandbox?style=plastic) - [sciencesakura](https://atcoder.jp/users/sciencesakura)さんのライブラリ。
 - [t-matsumo/myLibForKotlin](https://github.com/t-matsumo/myLibForKotlin) ![GitHub stars](https://img.shields.io/github/stars/t-matsumo/myLibForKotlin?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/t-matsumo/myLibForKotlin?style=plastic) - [mt_kum](https://atcoder.jp/users/mt_kuma)さんのライブラリ。
+
+### Nim
+
+- [chaemon/library-nim](https://github.com/chaemon/library-nim) ![GitHub stars](https://img.shields.io/github/stars/chaemon/library-nim?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/chaemon/library-nim?style=plastic) - [chaemon](https://atcoder.jp/users/chaemon)さんのライブラリ。
 
 ### Python
 
