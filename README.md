@@ -458,6 +458,7 @@ Google Chromeに機能を追加します。
 
 ### Fortran
 
+- [otafuro/library1](https://github.com/otafuro/library1) ![GitHub stars](https://img.shields.io/github/stars/otafuro/library1?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/otafuro/library1?style=plastic) - [otafuro](https://atcoder.jp/users/otafuro)さんのライブラリ。
 - [ue1221/fortran-utilities](https://github.com/ue1221/fortran-utilities) ![GitHub stars](https://img.shields.io/github/stars/ue1221/fortran-utilities?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/ue1221/fortran-utilities?style=plastic) - [ue1221](https://atcoder.jp/users/ue1221)さんのライブラリ。
 
 ### FSharp
