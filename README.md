@@ -456,6 +456,10 @@ Google Chromeに機能を追加します。
 - [Sobaya007/sbylib](https://github.com/Sobaya007/sbylib) ![GitHub stars](https://img.shields.io/github/stars/Sobaya007/sbylib?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/Sobaya007/sbylib?style=plastic) - [sobaya](https://atcoder.jp/users/sobaya)さんのライブラリ。
 - [yosupo06/dunkelheit](https://github.com/yosupo06/dunkelheit) ![GitHub stars](https://img.shields.io/github/stars/yosupo06/dunkelheit?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/yosupo06/dunkelheit?style=plastic) - [yosupo](https://atcoder.jp/users/yosupo)さんのライブラリ。
 
+### Fortran
+
+- [ue1221/fortran-utilities](https://github.com/ue1221/fortran-utilities) ![GitHub stars](https://img.shields.io/github/stars/ue1221/fortran-utilities?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/ue1221/fortran-utilities?style=plastic) - [ue1221](https://atcoder.jp/users/ue1221)さんのライブラリ。
+
 ### FSharp
 
 - [kazurego7/AtCoderTools_FSharp](https://github.com/kazurego7/AtCoderTools_FSharp) ![GitHub stars](https://img.shields.io/github/stars/kazurego7/AtCoderTools_FSharp?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/kazurego7/AtCoderTools_FSharp?style=plastic) - F#で実装されたアルゴリズムのライブラリ。
