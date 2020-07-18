@@ -519,6 +519,7 @@ Google Chromeに機能を追加します。
 
 ### Scala
 
+- [Goryudyuma/scala-work](https://github.com/Goryudyuma/scala-work) ![GitHub stars](https://img.shields.io/github/stars/Goryudyuma/scala-work?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/Goryudyuma/scala-work?style=plastic) - [goryudyuma](https://atcoder.jp/users/goryudyuma)さんのライブラリ。template.scalaにまとめられている。
 - [yakamoto69/atcoder_scala](https://github.com/yakamoto69/atcoder_scala) ![GitHub stars](https://img.shields.io/github/stars/yakamoto69/atcoder_scala?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/yakamoto69/atcoder_scala?style=plastic) - [yakamoto](https://atcoder.jp/users/yakamoto)
 
 ## Web API
