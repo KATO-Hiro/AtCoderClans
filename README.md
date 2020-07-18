@@ -477,6 +477,7 @@ Google Chromeに機能を追加します。
 ### Kotlin
 
 - [shin2ro/algorithms-in-kotlin](https://github.com/shin2ro/algorithms-in-kotlin) ![GitHub stars](https://img.shields.io/github/stars/shin2ro/algorithms-in-kotlin?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/shin2ro/algorithms-in-kotlin?style=plastic) - [shin2ro](https://atcoder.jp/users/shin2ro)さんのライブラリ。
+- [kirimin/AtCoderLog](https://github.com/kirimin/AtCoderLog/tree/master/src/main/kotlin/utilities) ![GitHub stars](https://img.shields.io/github/stars/kirimin/AtCoderLog?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/kirimin/AtCoderLog?style=plastic) - [kirimin](https://atcoder.jp/users/kirimin)さんのライブラリ。
 
 ### Python
 
