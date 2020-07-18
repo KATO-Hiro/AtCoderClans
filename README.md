@@ -75,6 +75,7 @@
   - [Java](#java)
   - [Kotlin](#kotlin)
   - [Nim](#nim)
+  - [Node.js](#nodejs-1)
   - [Python](#python-1)
   - [Ruby](#ruby-1)
   - [Rust](#rust-1)
@@ -487,6 +488,10 @@ Google Chromeに機能を追加します。
 ### Nim
 
 - [chaemon/library-nim](https://github.com/chaemon/library-nim) ![GitHub stars](https://img.shields.io/github/stars/chaemon/library-nim?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/chaemon/library-nim?style=plastic) - [chaemon](https://atcoder.jp/users/chaemon)さんのライブラリ。
+
+### Node.js
+
+- [DecoratedKnight/js-cp-template](https://github.com/DecoratedKnight/js-cp-template/tree/0a09186b4bbf8dcb040f23e202957b40071f8b35) ![GitHub stars](https://img.shields.io/github/stars/DecoratedKnight/js-cp-template?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/DecoratedKnight/js-cp-template?style=plastic) - [decoratedknight](https://atcoder.jp/users/decoratedknight)さんのテンプレート。
 
 ### Python
 
