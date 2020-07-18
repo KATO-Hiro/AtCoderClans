@@ -517,6 +517,10 @@ Google Chromeに機能を追加します。
 - [tanakh/competitive-rs](https://github.com/tanakh/competitive-rs) ![GitHub stars](https://img.shields.io/github/stars/tanakh/competitive-rs?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/tanakh/competitive-rs?style=plastic) - [tanakh](https://atcoder.jp/users/tanakh)さんのライブラリ。
 - [yoshrc/rust-atcoder-snippets](https://github.com/yoshrc/rust-atcoder-snippets) ![GitHub stars](https://img.shields.io/github/stars/yoshrc/rust-atcoder-snippets?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/yoshrc/rust-atcoder-snippets?style=plastic) - [yoshrc](https://atcoder.jp/users/yoshrc)さんのスニペット集。
 
+### Scala
+
+- [yakamoto69/atcoder_scala](https://github.com/yakamoto69/atcoder_scala) ![GitHub stars](https://img.shields.io/github/stars/yakamoto69/atcoder_scala?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/yakamoto69/atcoder_scala?style=plastic) - [yakamoto](https://atcoder.jp/users/yakamoto)
+
 ## Web API
 
 - [AtCoderUsersAPI](https://github.com/miozune/AtCoderUsersAPI) - 登録されているユーザー情報を取得できるAPI。作者注: [AtCoder](https://atcoder.jp/)公式のサーバへの負荷を下げるため、スクレイピングの間隔を一定時間空けており、全ユーザの情報取得には長時間かかる。
