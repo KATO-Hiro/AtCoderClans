@@ -347,7 +347,7 @@ Google Chromeに機能を追加します。
 #### Node.js
 
 - [atcoder-cli](https://github.com/Tatamo/atcoder-cli) ![GitHub stars](https://img.shields.io/github/stars/Tatamo/atcoder-cli?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/Tatamo/atcoder-cli?style=plastic) - AtCoderでの利用に特化しているのが特徴。一部の機能は、後述の[oj](https://github.com/online-judge-tools/oj)に依存しており、導入が必要。日本語・英語ともにドキュメントが充実している。
-- [Procon Tools](https://github.com/naipia/procon-tools) - online judgesを利用した[Visual Studio Code](https://code.visualstudio.com/)の拡張機能。C++とGoに対応している。
+- [Procon Tools](https://github.com/naipia/procon-tools) ![GitHub stars](https://img.shields.io/github/stars/naipia/procon-tools?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/naipia/procon-tools?style=plastic) - online judgesを利用した[Visual Studio Code](https://code.visualstudio.com/)の拡張機能。C++とGoに対応している。
 
 #### Python
 
