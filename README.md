@@ -78,6 +78,7 @@
   - [Python](#python-1)
   - [Ruby](#ruby-1)
   - [Rust](#rust-1)
+  - [Scala](#scala)
 - [Web API](#web-api)
 - [その他](#%E3%81%9D%E3%81%AE%E4%BB%96)
   - [Google Apps Script](#google-apps-script)
