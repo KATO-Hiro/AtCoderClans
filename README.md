@@ -69,6 +69,7 @@
   - [CSharp](#csharp)
   - [C++](#c)
   - [D](#d)
+  - [Fortran](#fortran)
   - [FSharp](#fsharp)
   - [Go](#go-1)
   - [Haskell](#haskell-1)
