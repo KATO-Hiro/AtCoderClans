@@ -483,6 +483,7 @@ Google Chromeに機能を追加します。
 ### Haskell
 
 - [cojna/iota](https://cojna.github.io/iota/) ![GitHub stars](https://img.shields.io/github/stars/cojna/iota?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/cojna/iota?style=plastic) - [cojna](https://atcoder.jp/users/cojna)さんのライブラリ。
+- [jasy/alglib](https://github.com/jasy/alglib) ![GitHub stars](https://img.shields.io/github/stars/jasy/alglib?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/jasy/alglib?style=plastic) - [jasy](https://atcoder.jp/users/jasy)さんのライブラリ。
 - [tjnt/atcoder-haskell](https://github.com/tjnt/atcoder-haskell/tree/master/src) ![GitHub stars](https://img.shields.io/github/stars/tjnt/atcoder-haskell?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/tjnt/atcoder-haskell?style=plastic) - [tjnt](https://atcoder.jp/users/tjnt)さんのライブラリ。
 
 ### Java
