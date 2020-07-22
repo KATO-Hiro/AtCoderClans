@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/KATO-Hiro/AtCoderHub/blob/master/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/k_hiro1818?style=social)](https://twitter.com/k_hiro1818)
 
-【非公式】競技プログラミングサイト[AtCoder](https://atcoder.jp/)の有志による非公式サービス・ツールなどをまとめています。
+【非公式】競技プログラミングサイト[AtCoder](https://atcoder.jp/)がもっと楽しくなるリンク集です。有志による非公式サービス・ツール・ライブラリ・記事などをまとめています。
 
 ## 注意事項
 
