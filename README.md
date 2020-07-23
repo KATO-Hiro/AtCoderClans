@@ -615,6 +615,10 @@ Google Chromeに機能を追加します。
 - [DFS(深さ優先探索)超入門！ 〜 グラフ・アルゴリズムの世界への入口 〜【前編】](https://qiita.com/drken/items/4a7869c5e304883f539b) - 探索手法の一つである深さ優先探索について、問題を解きながら慣れることを目指した記事。[後編](https://qiita.com/drken/items/a803d4fc4a727e02f7ba)もある。
 - [典型的なDP(動的計画法)のパターンを整理 Part1 ～ ナップサックDP編 ～](https://qiita.com/drken/items/a5e6fe22863b7992efdb) - 動的計画法(DP)を学び始めた人向けの記事。また、動的計画法を初めて聞く人や経験が浅い人向けに、[AtCoder](https://atcoder.jp/)では[入門コンテンツ](https://atcoder.jp/contests/dp/)が公開されている。非公式ではあるが、[問題の解説・類題集](https://qiita.com/drken/items/dc53c683d6de8aeacf5a)も併せて読むと理解がとても深まる。
 
+#### アルゴリズム・最適化手法を活用した事例
+
+- [高校生がアルゴリズムとスパコンの力で、京都の碁盤目状道路を13.9%効率化した話](https://qiita.com/e869120/items/e463500da29f76a37b15) - 「碁盤目状道路の最適化」をテーマに、課題として思いついた背景・問題設定・分析と改善・効率化による意義を考察した記事。
+
 #### アカウント
 
 - [けんちょん (Otsuki)](https://qiita.com/drken) - [drken](https://atcoder.jp/users/drken)さんのアカウント。初見では理解が難しい概念について、丁寧な解説かつ読みやすい記事が多数掲載されている。
