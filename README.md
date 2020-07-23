@@ -327,6 +327,7 @@ Google Chromeに機能を追加します。
 
 ### Twitter
 
+- [AtCoderカレンダー通知](https://twitter.com/AtcoderCalendar) - イベント開始15分前に通知する。
 - [競プロer Bot](https://twitter.com/cper_bot) - AC(Accepted)、日単位のランキング、コンテストの予定を通知する。
 
 ## コマンドラインツール
