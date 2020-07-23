@@ -620,8 +620,9 @@ Google Chromeに機能を追加します。
 
 - [高校生がアルゴリズムとスパコンの力で、京都の碁盤目状道路を13.9%効率化した話](https://qiita.com/e869120/items/e463500da29f76a37b15) - 「碁盤目状道路の最適化」をテーマに、課題として思いついた背景・問題設定・分析と改善・効率化による意義を考察した記事。
 
-#### コンテストに向けた練習方法・特定の言語における実装のTips
+#### コンテストに向けた練習方法・特定の言語における実装のTipsなど
 
+- [AtCoderの問題を分類しました](https://qiita.com/KoyanagiHitoshi/items/32dc42d8c5ee75339e54) - [AtCoder](https://atcoder.jp/)で開催されたコンテストについて、問題の分類とPythonでの解答例が示されている。AtCoder Beginner Contest(ABC)のABC001〜ABC158のA問題・B問題・C問題と、AtCoder Regular Contest(ARC)のARC001〜ARC103のA問題が対象となっている。動作環境は、Python3.4.3。
 - [PythonでAtCoder青になるまで -Pythonで競プロやるときに気をつけること-](https://qiita.com/Kentaro_okumura/items/a6917572756a2e3c0da9) - コンテストでPythonを利用している人に向けた練習方法が書かれている。他の言語を使っている人にも参考になる部分が多い。
 - [Pythonで競プロやるときによく書くコードをまとめてみた](https://qiita.com/y-tsutsu/items/aa7e8e809d6ac167d6a1) - コンテストにPythonで参加する人に向けて、入出力やデータ操作、リスト内包表記などについて解説されている。
 
