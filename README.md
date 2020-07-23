@@ -92,6 +92,7 @@
     - [Macintosh](#macintosh)
     - [Windows](#windows)
   - [コンテストで出題された問題の解説](#%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E3%81%A7%E5%87%BA%E9%A1%8C%E3%81%95%E3%82%8C%E3%81%9F%E5%95%8F%E9%A1%8C%E3%81%AE%E8%A7%A3%E8%AA%AC)
+  - [言語特性](#%E8%A8%80%E8%AA%9E%E7%89%B9%E6%80%A7)
   - [Qiita](#qiita)
     - [記事](#%E8%A8%98%E4%BA%8B)
     - [アカウント](#%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88)
@@ -592,6 +593,10 @@ Google Chromeに機能を追加します。
 - [kmjp's blog](https://kmjp.hatenablog.jp/) - [kmjp](https://atcoder.jp/users/kmjp)さんの解説ブログ。C++で実装されている。
 - [maspyのHP](https://maspypy.com/category/atcoder) - [maspy](https://atcoder.jp/users/maspy)さんの解説ブログ。Pythonで実装されている。
 - [けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/) - [drken](https://atcoder.jp/users/drken)さんの解説ブログ。C++で実装されている。
+
+### 言語特性
+
+- [【プログラミング言語速度比較】Collatz数列ベンチマークを言語別比較しよー！](https://rheotommy.hatenablog.com/entry/2020/07/18/205343) - [RheoTommy](https://atcoder.jp/users/RheoTommy)さんによる記事。[Collatz数列](https://en.wikipedia.org/wiki/Collatz_conjecture#:~:text=Unsolved%20problem%20in%20mathematics%3A&text=The%20Collatz%20conjecture%20is%20a,half%20of%20the%20previous%20term.)を題材に、各言語の実行速度を比較・分類している。
 
 ### Qiita
 
