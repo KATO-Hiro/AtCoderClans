@@ -622,6 +622,7 @@ Google Chromeに機能を追加します。
 #### コンテストに向けた練習方法・特定の言語における実装のTips
 
 - [PythonでAtCoder青になるまで -Pythonで競プロやるときに気をつけること-](https://qiita.com/Kentaro_okumura/items/a6917572756a2e3c0da9) - コンテストでPythonを利用している人に向けた練習方法が書かれている。他の言語を使っている人にも参考になる部分が多い。
+- [Pythonで競プロやるときによく書くコードをまとめてみた](https://qiita.com/y-tsutsu/items/aa7e8e809d6ac167d6a1) - コンテストにPythonで参加する人に向けて、入出力やデータ操作、リスト内包表記などについて解説されている。
 
 #### アカウント
 
