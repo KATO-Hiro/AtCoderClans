@@ -608,6 +608,10 @@ Google Chromeに機能を追加します。
 - [AtCoder版！蟻本 (初級編)](https://qiita.com/drken/items/e77685614f3c6bf86f44) - [drken](https://atcoder.jp/users/drken)さんによる、蟻本(書籍の項目で後述)の例題を[AtCoder](https://atcoder.jp/)などで出題された問題に対応づけた記事。[中級編](https://qiita.com/drken/items/2f56925972c1d34e05d8)、[上級編](https://qiita.com/drken/items/9b311d553aa434bb26e4)もある。
 - [レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【初級編：競プロを始めよう】](https://qiita.com/e869120/items/f1c6f98364d1443148b3) - [AtCoder](https://atcoder.jp/)でレッドコーダーの[E869120](https://atcoder.jp/users/E869120)さんによる記事。初心者に向けて競技プログラミングの特徴・面白さ、アカウントの登録方法やレーティングの説明がされている。さらに、上達するためのガイドラインが丁寧に解説されている。[中級編](https://qiita.com/e869120/items/eb50fdaece12be418faa)や[上級編](https://qiita.com/e869120/items/acba3dd8649d913102b5)もある。
 
+#### アルゴリズムの解説
+
+- [ソートを極める！ 〜 なぜソートを学ぶのか 〜](https://qiita.com/drken/items/44c60118ab3703f7727f) - ソートそのものの解説だけでなく、ライブラリの使い方・アルゴリズムの使いどころまで説明されている。「ソート」という題材を通じたさまざまなアルゴリズムの技法・概念を学ぶきっかけになる記事。
+
 #### アカウント
 
 - [けんちょん (Otsuki)](https://qiita.com/drken) - [drken](https://atcoder.jp/users/drken)さんのアカウント。初見では理解が難しい概念について、丁寧な解説かつ読みやすい記事が多数掲載されている。
