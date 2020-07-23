@@ -614,6 +614,7 @@ Google Chromeに機能を追加します。
 - [再帰関数を学ぶと、どんな世界が広がるか](https://qiita.com/drken/items/23a4f604fa3f505dd5ad) - 使いどころや動作がつかみづらい再帰関数について、豊富な実例とともに解説されている記事。
 - [DFS(深さ優先探索)超入門！ 〜 グラフ・アルゴリズムの世界への入口 〜【前編】](https://qiita.com/drken/items/4a7869c5e304883f539b) - 探索手法の一つである深さ優先探索について、問題を解きながら慣れることを目指した記事。[後編](https://qiita.com/drken/items/a803d4fc4a727e02f7ba)もある。
 - [典型的なDP(動的計画法)のパターンを整理 Part1 ～ ナップサックDP編 ～](https://qiita.com/drken/items/a5e6fe22863b7992efdb) - 動的計画法(DP)を学び始めた人向けの記事。また、動的計画法を初めて聞く人や経験が浅い人向けに、[AtCoder](https://atcoder.jp/)では[入門コンテンツ](https://atcoder.jp/contests/dp/)が公開されている。非公式ではあるが、[問題の解説・類題集](https://qiita.com/drken/items/dc53c683d6de8aeacf5a)も併せて読むと理解がとても深まる。
+- [FFT（高速フーリエ変換）を完全に理解する話](https://qiita.com/ageprocpp/items/0d63d4ed80de4a35fe79) - 高速フーリエ変換について、丁寧に解説された記事。記事を読む前提として、数IIまでの知識が求められる。
 
 #### アルゴリズム・最適化手法を活用した事例
 
