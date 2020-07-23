@@ -601,8 +601,9 @@ Google Chromeに機能を追加します。
 
 ### Qiita
 
-#### 記事
+#### 入門者・初心者向けの記事
 
+- [アルゴリズムとは何か！？ ～ 文系理系問わず楽しめる精選6問 ～](https://qiita.com/drken/items/f909b79ee03e679c7142) - [drken](https://atcoder.jp/users/drken)さんによる記事。アルゴリズムとは何か?という疑問に対して、平易で分かりやすい文章と図表を駆使して解説されている。また、アルゴリズムを学ぶ意義・メリットについても書かれている。
 - [AtCoderに登録したら次にやること ～ これだけ解けば十分闘える！過去問精選10問 ～](https://qiita.com/drken/items/fd4e5e3630d0f5859067) - [drken](https://atcoder.jp/users/drken)さんによる、[AtCoder](https://atcoder.jp/)のコンテストに初めて参加する方に向けた精選10問。さまざまな言語による回答例のリンクなどの資料も充実している。
 - [AtCoder版！蟻本 (初級編)](https://qiita.com/drken/items/e77685614f3c6bf86f44) - [drken](https://atcoder.jp/users/drken)さんによる、蟻本(書籍の項目で後述)の例題を[AtCoder](https://atcoder.jp/)などで出題された問題に対応づけた記事。[中級編](https://qiita.com/drken/items/2f56925972c1d34e05d8)、[上級編](https://qiita.com/drken/items/9b311d553aa434bb26e4)もある。
 - [レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【初級編：競プロを始めよう】](https://qiita.com/e869120/items/f1c6f98364d1443148b3) - [AtCoder](https://atcoder.jp/)でレッドコーダーの[E869120](https://atcoder.jp/users/E869120)さんによる記事。初心者に向けて競技プログラミングの特徴・面白さ、アカウントの登録方法やレーティングの説明がされている。さらに、上達するためのガイドラインが丁寧に解説されている。[中級編](https://qiita.com/e869120/items/eb50fdaece12be418faa)や[上級編](https://qiita.com/e869120/items/acba3dd8649d913102b5)もある。
