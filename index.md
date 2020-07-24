@@ -18,7 +18,6 @@ filename: index
   - [LINE](#line)
   - [Slack](#slack)
   - [Twitter](#twitter)
-- [Web API](#web-api)
 - [その他](#%E3%81%9D%E3%81%AE%E4%BB%96)
   - [Google Apps Script](#google-apps-script)
   - [Google Sheets](#google-sheets)
@@ -80,10 +79,6 @@ filename: index
 
 - [AtCoderカレンダー通知](https://twitter.com/AtcoderCalendar) - イベント開始15分前に通知する。
 - [競プロer Bot](https://twitter.com/cper_bot) - AC(Accepted)、日単位のランキング、コンテストの予定を通知する。
-
-## Web API
-
-- [AtCoderUsersAPI](https://github.com/miozune/AtCoderUsersAPI) - 登録されているユーザー情報を取得できるAPI。作者注: [AtCoder](https://atcoder.jp/)公式のサーバへの負荷を下げるため、スクレイピングの間隔を一定時間空けており、全ユーザの情報取得には長時間かかる。
 
 ## その他
 
