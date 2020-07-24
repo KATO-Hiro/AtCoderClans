@@ -1,3 +1,9 @@
+---
+title: Home
+layout: template
+filename: README
+---
+
 # AtCoderClans
 
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/KATO-Hiro/AtCoderHub/TOC%20Generator)
