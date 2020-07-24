@@ -606,6 +606,7 @@ Google Chromeに機能を追加します。
 
 - [アルゴリズムとは何か！？ ～ 文系理系問わず楽しめる精選6問 ～](https://qiita.com/drken/items/f909b79ee03e679c7142) - [drken](https://atcoder.jp/users/drken)さんによる記事。アルゴリズムとは何か?という疑問に対して、平易で分かりやすい文章と図表を駆使して解説されている。また、アルゴリズムを学ぶ意義・メリットについても書かれている。
 - [AtCoderに登録したら次にやること ～ これだけ解けば十分闘える！過去問精選10問 ～](https://qiita.com/drken/items/fd4e5e3630d0f5859067) - [drken](https://atcoder.jp/users/drken)さんによる、[AtCoder](https://atcoder.jp/)のコンテストに初めて参加する方に向けた精選10問。さまざまな言語による回答例のリンクなどの資料も充実している。
+- [AtCoderで始めるPython入門](https://qiita.com/KoyanagiHitoshi/items/3286fbc65d56dd67737c) - [AtCoder](https://atcoder.jp/)で開催されているAtCoder Beginner Contest (ABC)のA問題、B問題をPython(3.8.2)で解くための解説記事。
 - [AtCoder版！蟻本 (初級編)](https://qiita.com/drken/items/e77685614f3c6bf86f44) - [drken](https://atcoder.jp/users/drken)さんによる、蟻本(書籍の項目で後述)の例題を[AtCoder](https://atcoder.jp/)などで出題された問題に対応づけた記事。[中級編](https://qiita.com/drken/items/2f56925972c1d34e05d8)、[上級編](https://qiita.com/drken/items/9b311d553aa434bb26e4)もある。
 - [レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【初級編：競プロを始めよう】](https://qiita.com/e869120/items/f1c6f98364d1443148b3) - [AtCoder](https://atcoder.jp/)でレッドコーダーの[E869120](https://atcoder.jp/users/E869120)さんによる記事。初心者に向けて競技プログラミングの特徴・面白さ、アカウントの登録方法やレーティングの説明がされている。さらに、上達するためのガイドラインが丁寧に解説されている。[中級編](https://qiita.com/e869120/items/eb50fdaece12be418faa)や[上級編](https://qiita.com/e869120/items/acba3dd8649d913102b5)もある。
 
@@ -623,7 +624,6 @@ Google Chromeに機能を追加します。
 
 - [AtCoder コンテストについてのtips](https://qiita.com/drken/items/8a6f139158cde8a61dce) - [AtCoder](https://atcoder.jp/)におけるコンテストの成績の解釈方法、参加に関するTips、プログラミングコンテストサイトの紹介について書かれている。
 - [AtCoderで青色（8割以上のIT企業でアルゴリズム力はカンスト）になったので青になるまでに必要そうなことをまとめる](https://qiita.com/kami634/items/e452f804ba9d585a8b57) - [kami634](https://atcoder.jp/users/kami634)さんによる記事。[AtCoder](https://atcoder.jp/)で、青コーダー(レーティング1600〜1999）を目指す人に向けた記事。コンテストの過去問の練習方法、問題を解くのに必要なアルゴリズム・データ構造、Twitterの利活用、便利なAtCoderの非公式ツールや外部ツールが紹介されている。学んだアルゴリズムを[まとめサイト](https://qiita.com/kami634/items/e452f804ba9d585a8b57)としてアウトプットされているのも特徴。
-- [AtCoderで始めるPython入門](https://qiita.com/KoyanagiHitoshi/items/3286fbc65d56dd67737c) - [AtCoder](https://atcoder.jp/)で開催されているAtCoder Beginner Contest (ABC)のA問題、B問題をPython(3.8.2)で解くための解説記事。
 - [AtCoder緑になるまでに勉強した基本的なアルゴリズムやデータ構造まとめ](https://qiita.com/Takayoshi_Makabe/items/65f20edbd970070419f4) - 筆者が緑コーダー（[AtCoder](https://atcoder.jp/)の分類で、レーティング800〜1199）に到達するまでに学習したアルゴリズムが掲載されている。各種アルゴリズム(bit全探索・二分探索、幅優先探索、深さ優先探索、尺取り法、いもす法、ダイクストラ法、貪欲法、動的計画法、優先度付きキュー、UnionFind木)に対して、Pythonによる実装例もある。
 - [AtCoderの問題を分類しました](https://qiita.com/KoyanagiHitoshi/items/32dc42d8c5ee75339e54) - [AtCoder](https://atcoder.jp/)で開催されたコンテストについて、問題の分類とPythonでの解答例が示されている。AtCoder Beginner Contest(ABC)のABC001〜ABC158のA問題・B問題・C問題と、AtCoder Regular Contest(ARC)のARC001〜ARC103のA問題が対象となっている。動作環境は、Python3.4.3。
 - [競プロ界隈でpython強者がやっていることをまとめてみた] - Python利用者に向けて、入出力や上位陣が利用している便利なコード集をまとめた記事。
