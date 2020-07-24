@@ -4,6 +4,26 @@ layout: template
 filename: cli
 ---
 
+## 目次
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [コマンドラインツール](#%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB)
+  - [ローカル環境でサンプルのテストを実行する](#%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E7%92%B0%E5%A2%83%E3%81%A7%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88%E3%82%92%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B)
+    - [Go](#go)
+    - [Haskell](#haskell)
+    - [Node.js](#nodejs)
+    - [Python](#python)
+    - [Ruby](#ruby)
+    - [Rust](#rust)
+    - [Vim、Neovim](#vimneovim)
+  - [環境構築](#%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89)
+  - [コードの高速化、バックアップなど](#%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E9%AB%98%E9%80%9F%E5%8C%96%E3%83%90%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%81%AA%E3%81%A9)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## コマンドラインツール
 
 キーボードの操作で特定の処理を簡単に行うことができます。
