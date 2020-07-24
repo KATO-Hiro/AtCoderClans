@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: template
-filename: README
+filename: index
 ---
 
 # AtCoderClans
