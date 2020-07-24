@@ -1,5 +1,5 @@
 ---
-title: Articles, Books, YouTube
+title: Articles, Books and YouTube
 layout: template
 filename: media
 ---
