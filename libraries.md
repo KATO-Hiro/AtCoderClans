@@ -1,5 +1,5 @@
 ---
-title: Libraries and snippets
+title: Libraries and Snippets
 layout: template
 filename: libraries
 ---
