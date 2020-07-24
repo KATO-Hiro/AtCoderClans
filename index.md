@@ -4,24 +4,6 @@ layout: template
 filename: index
 ---
 
-# AtCoderClans
-
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/KATO-Hiro/AtCoderHub/TOC%20Generator)
-[![Issues](https://img.shields.io/github/issues/KATO-Hiro/AtCoderHub)](https://github.com/KATO-Hiro/AtCoderHub/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/KATO-Hiro/AtCoderHub.svg)](https://github.com/KATO-Hiro/AtCoderHub/pulls)
-[![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/KATO-Hiro/AtCoderHub/blob/master/LICENSE)
-[![Twitter Follow](https://img.shields.io/twitter/follow/k_hiro1818?style=social)](https://twitter.com/k_hiro1818)
-
-【非公式】競技プログラミングサイト[AtCoder](https://atcoder.jp/)がもっと楽しくなるリンク集です。有志による非公式サービス・ツール・ライブラリ・記事などをまとめています。
-
-## 注意事項
-
-- [AtCoder](https://atcoder.jp/)公式（以降、公式と表記）の仕様変更や諸事情により、公開されているサービス・ツールなどが予告なく利用できなくなる場合があります。ご了承ください。
-
-- サービス・ツールなどに関するお問い合わせは、<span style="color: red">**開発者が公開している連絡先に直接行ってください**</span>。公式のサポート対象外のため、運営チームへの問い合わせは絶対しないでください。
-
-- 各サービス・ツールなどの説明ページにあるように、ご利用は自己責任でお願いします。
-
 ## 目次
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
