@@ -622,6 +622,7 @@ Google Chromeに機能を追加します。
 
 - [AtCoder コンテストについてのtips](https://qiita.com/drken/items/8a6f139158cde8a61dce) - [AtCoder](https://atcoder.jp/)におけるコンテストの成績の解釈方法、参加に関するTips、プログラミングコンテストサイトの紹介について書かれている。
 - [AtCoderの問題を分類しました](https://qiita.com/KoyanagiHitoshi/items/32dc42d8c5ee75339e54) - [AtCoder](https://atcoder.jp/)で開催されたコンテストについて、問題の分類とPythonでの解答例が示されている。AtCoder Beginner Contest(ABC)のABC001〜ABC158のA問題・B問題・C問題と、AtCoder Regular Contest(ARC)のARC001〜ARC103のA問題が対象となっている。動作環境は、Python3.4.3。
+- [競プロ界隈でpython強者がやっていることをまとめてみた] - Python利用者に向けて、入出力や上位陣が利用している便利なコード集をまとめた記事。
 - [PythonでAtCoder青になるまで -Pythonで競プロやるときに気をつけること-](https://qiita.com/Kentaro_okumura/items/a6917572756a2e3c0da9) - コンテストでPythonを利用している人に向けた練習方法が書かれている。他の言語を使っている人にも参考になる部分が多い。
 - [Pythonで競プロやるときによく書くコードをまとめてみた](https://qiita.com/y-tsutsu/items/aa7e8e809d6ac167d6a1) - コンテストにPythonで参加する人に向けて、入出力やデータ操作、リスト内包表記などについて解説されている。
 - [浮動小数点数オタクが AtCoder Beginner Contest 169 のC問題をガチで解説してみる](https://qiita.com/mod_poppo/items/910b5fb9303baf864bf7) - 浮動小数点数に関する計算精度・誤差に関する解説記事。コンテストで実際に出題された問題を題材に、各種言語による実装例と実行結果が記載ささている。
