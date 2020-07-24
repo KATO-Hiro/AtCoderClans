@@ -75,7 +75,13 @@ filename: index
 
 [AtCoder](https://atcoder.jp/)
 
+[GitHub Pages in Japanese](https://docs.github.com/ja/github/working-with-github-pages/creating-a-github-pages-site)
+
 [How to publish markdown as homepage using GitHub Pages](https://qiita.com/MahoTakara/items/3800e9dc83b530d0a050)
+
+[How to Create a Multi-page Website using Github Pages](https://phuston.github.io/patrickandfrantonarethebestninjas/howto)
+
+[TOC Generator](https://github.com/technote-space/toc-generator)
 
 [Readme Driven Development; RDD](https://qiita.com/b4b4r07/items/c80d53db9a0fd59086ec)
 
