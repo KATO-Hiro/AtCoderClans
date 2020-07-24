@@ -4,6 +4,11 @@ layout: template
 filename: scripts
 ---
 
+## 目次
+
+<!-- START doctoc -->
+<!-- END doctoc -->
+
 ## ユーザスクリプト
 
 主に[AtCoder](https://atcoder.jp/)のWebページにある機能を拡張することができます。

@@ -4,6 +4,11 @@ layout: template
 filename: cli
 ---
 
+## 目次
+
+<!-- START doctoc -->
+<!-- END doctoc -->
+
 ## コマンドラインツール
 
 キーボードの操作で特定の処理を簡単に行うことができます。
