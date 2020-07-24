@@ -8,6 +8,10 @@
 
 【非公式】競技プログラミングサイト[AtCoder](https://atcoder.jp/)がもっと楽しくなる[リンク集](https://kato-hiro.github.io/AtCoderClans/)です。有志による非公式サービス・ツール・ライブラリ・記事などをまとめています。
 
+***DEMO***
+
+![demo](images/demo.gif)
+
 ## 注意事項
 
 - [AtCoder](https://atcoder.jp/)公式（以降、公式と表記）の仕様変更や諸事情により、公開されているサービス・ツールなどが予告なく利用できなくなる場合があります。ご了承ください。
