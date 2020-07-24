@@ -1,7 +1,7 @@
 ---
-title: Articles and Books
+title: Articles, Books, YouTube
 layout: template
-filename: articles
+filename: media
 ---
 
 ## 記事、ブログ
@@ -90,3 +90,8 @@ filename: articles
 ### オンラインブック
 
 - [atcoder-rust-resources](https://doc.rust-jp.rs/atcoder-rust-resources/) - コンテストにRustで参加するための資料集。現在は、日本語のみ対応。
+
+## YouTube
+
+- [きりみんちゃん kirimin-chan](https://www.youtube.com/c/kiriminchan/playlists) - [kirimin](https://atcoder.jp/users/kirimin)さんのチャンネル。競技プログラミングやライブコーディングだけでなく、幅広い話題の動画が公開されている。
+- [じょえチャンネル](https://www.youtube.com/channel/UCRXsI3FL_kvaVL9zoolBfbQ/videos) - [xuzijian629](https://atcoder.jp/users/xuzijian629)さんのチャンネル。
