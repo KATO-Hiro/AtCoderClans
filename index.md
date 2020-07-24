@@ -34,6 +34,22 @@ filename: index
 
 - 企業の採用担当者 - [AtCoder](https://atcoder.jp/)ユーザの実務能力および、そのポテンシャルを評価する材料の一つになると思います。ひいては人材発掘の効率化にも、つながるかもしれません。
 
+## 各ページの説明
+
+[Home](https://kato-hiro.github.io/AtCoderClans/) - 本ページです。リンク集の作成経緯、利用者のメリット、注意事項などをまとめています。
+
+[Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app) - Webアプリ、WebサイトおよびBotなどを紹介しています。
+
+[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts) - [AtCoder](https://atcoder.jp/)のWebページにある機能を拡張することができるスクリプト(ユーザスクリプトやChrome拡張機能)を掲載しています。
+
+[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli) - キーボードの操作で特定の処理を簡単に行うことができるツールのリストです。
+
+[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries) - 主要言語で実装されたアルゴリズムのライブラリ・スニペットを紹介しています。
+
+[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media) - 環境構築、アルゴリズムや過去問を解説した記事、書籍などを掲載しています。
+
+[Archived](https://kato-hiro.github.io/AtCoderClans/archived) - 諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するためのページです。
+
 ## ご要望、ご報告、お気付きの点などについて
 
 新しいサービス・ツールなどを公開した場合や見つけた場合の情報提供、カテゴリや説明の加筆・修正案を歓迎しています。この他にも、誤字脱字やリンク切れなどのご報告も大変ありがたいと考えています。
