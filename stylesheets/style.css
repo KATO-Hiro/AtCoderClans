@@ -38,7 +38,7 @@ https://cotodama.co/pagetop/
 }
 
 #page_top a::after{
-  content: 'Page TOP';
+  content: 'Page Top';
   font-size: 13px;
   color: #fff;
   position: absolute;
