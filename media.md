@@ -49,9 +49,12 @@ filename: media
 ### コンテストで出題された問題・アルゴリズムの解説
 
 - [アルゴリズムロジック](https://algo-logic.info/) - [kami634](https://atcoder.jp/users/kami634)さんのアルゴリズム解説サイト。サンプルコードは、C++で実装されている。
+- [いかたこのたこつぼ](https://ikatakos.com/pot/programming_algorithm/contest_history/atcoder) - [ikatakos](https://atcoder.jp/users/ikatakos)さんの解説ブログ。Pythonで実装されている。
+- [うさぎ小屋](https://kimiyuki.net/) - [kimiyuki](https://atcoder.jp/users/kimiyuki)さんの解説ブログ。C++で実装されている。
+- [けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/) - [drken](https://atcoder.jp/users/drken)さんの解説ブログ。C++で実装されている。
+- [はまやん はまやん はまやん](https://www.hamayanhamayan.com/archive/category/%E7%AB%B6%E6%8A%80%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0) - [hamayanhamayan](https://atcoder.jp/users/hamayanhamayan)さんの解説ブログ。C++で実装されている。
 - [ARMERIA](https://betrue12.hateblo.jp/) - [betrue12](https://atcoder.jp/users/betrue12)さんの解説ブログ。RubyとC++で実装されている。
 - [kmjp's blog](https://kmjp.hatenablog.jp/) - [kmjp](https://atcoder.jp/users/kmjp)さんの解説ブログ。C++で実装されている。
-- [けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/) - [drken](https://atcoder.jp/users/drken)さんの解説ブログ。C++で実装されている。
 - [maspyのHP](https://maspypy.com/category/atcoder) - [maspy](https://atcoder.jp/users/maspy)さんの解説ブログ。Pythonで実装されている。
 
 ### 言語特性
