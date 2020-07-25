@@ -46,7 +46,7 @@ filename: media
 - [Visual Studio Codeで競プロ環境構築(実践編)](https://qiita.com/AokabiC/items/af685bfd205dda44ec45) - 便利なショートカット、コードスニペット、拡張機能、サンプルケースの自動検証、デバッグツールについて紹介されている。
 - [【VScode＋WSLで始める】競プロ用C++デバッグ環境構築](https://qiita.com/2019Shun/items/5ab290a4117a00e373b6) - C++のコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)で構築したあとの拡張機能の導入・設定ファイルについて紹介されている。
 
-### コンテストで出題された問題・アルゴリズムの解説
+### コンテストで出題された問題、アルゴリズムの解説
 
 - [アルゴリズムロジック](https://algo-logic.info/) - [kami634](https://atcoder.jp/users/kami634)さんのアルゴリズム解説サイト。サンプルコードは、C++で実装されている。
 - [いかたこのたこつぼ](https://ikatakos.com/pot/programming_algorithm/contest_history/atcoder) - [ikatakos](https://atcoder.jp/users/ikatakos)さんの解説ブログ。Pythonで実装されている。
@@ -63,7 +63,7 @@ filename: media
 
 ### Qiita
 
-#### 入門者・初心者向けの記事
+#### 入門者、初心者向けの記事
 
 - [アルゴリズムとは何か！？ ～ 文系理系問わず楽しめる精選6問 ～](https://qiita.com/drken/items/f909b79ee03e679c7142) - [drken](https://atcoder.jp/users/drken)さんによる記事。アルゴリズムとは何か?という疑問に対して、平易で分かりやすい文章と図表を駆使して解説されている。また、アルゴリズムを学ぶ意義・メリットについても書かれている。
 - [AtCoderに登録したら次にやること ～ これだけ解けば十分闘える！過去問精選10問 ～](https://qiita.com/drken/items/fd4e5e3630d0f5859067) - [drken](https://atcoder.jp/users/drken)さんによる、[AtCoder](https://atcoder.jp/)のコンテストに初めて参加する方に向けた精選10問。さまざまな言語による回答例のリンクなどの資料も充実している。
@@ -82,7 +82,7 @@ filename: media
 - [実世界で超頻出！二部マッチング (輸送問題、ネットワークフロー問題）の解法を総整理！](https://qiita.com/drken/items/e805e3f514acceb87602) - 二部マッチング問題(2つのカテゴリ間で最適なマッチングを構成していく問題)について、実社会における豊富な実例とともに、解法が説明されている。
 - [FFT（高速フーリエ変換）を完全に理解する話](https://qiita.com/ageprocpp/items/0d63d4ed80de4a35fe79) - 高速フーリエ変換について、丁寧に解説された記事。記事を読む前提として、数IIまでの知識が求められる。
 
-#### コンテストに向けた練習方法・特定の言語における実装のTipsなど
+#### コンテストに向けた練習方法、特定の言語における実装のTipsなど
 
 - [AtCoder コンテストについてのtips](https://qiita.com/drken/items/8a6f139158cde8a61dce) - [AtCoder](https://atcoder.jp/)におけるコンテストの成績の解釈方法、参加に関するTips、プログラミングコンテストサイトの紹介について書かれている。
 - [AtCoderで青色（8割以上のIT企業でアルゴリズム力はカンスト）になったので青になるまでに必要そうなことをまとめる](https://qiita.com/kami634/items/e452f804ba9d585a8b57) - [kami634](https://atcoder.jp/users/kami634)さんによる記事。[AtCoder](https://atcoder.jp/)で、青コーダー(レーティング1600〜1999）を目指す人に向けた記事。コンテストの過去問の練習方法、問題を解くのに必要なアルゴリズム・データ構造、Twitterの利活用、便利なAtCoderの非公式ツールや外部ツールが紹介されている。学んだアルゴリズムを[まとめサイト](https://qiita.com/kami634/items/e452f804ba9d585a8b57)としてアウトプットされているのも特徴。
@@ -97,7 +97,7 @@ filename: media
 - [Pythonで競プロやるときによく書くコードをまとめてみた](https://qiita.com/y-tsutsu/items/aa7e8e809d6ac167d6a1) - コンテストにPythonで参加する人に向けて、入出力やデータ操作、リスト内包表記などについて解説されている。
 - [浮動小数点数オタクが AtCoder Beginner Contest 169 のC問題をガチで解説してみる](https://qiita.com/mod_poppo/items/910b5fb9303baf864bf7) - 浮動小数点数に関する計算精度・誤差に関する解説記事。コンテストで実際に出題された問題を題材に、各種言語による実装例と実行結果が記載されている。
 
-#### アルゴリズム・最適化手法を活用した事例
+#### アルゴリズム、最適化手法を活用した事例
 
 - [高校生がアルゴリズムとスパコンの力で、京都の碁盤目状道路を13.9%効率化した話](https://qiita.com/e869120/items/e463500da29f76a37b15) - 「碁盤目状道路の最適化」をテーマに、課題として思いついた背景・問題設定・分析と改善・効率化による意義を考察した記事。
 

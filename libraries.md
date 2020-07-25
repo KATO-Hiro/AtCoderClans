@@ -32,7 +32,7 @@ filename: libraries
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## ライブラリ・スニペット
+## ライブラリ、スニペット
 
 ライブラリ・スニペットを採用するときの判断材料となるよう、GitHubのStar数やFork数、[AtCoder](https://atcoder.jp/)のユーザアカウント情報を掲載しています。
 
