@@ -122,6 +122,10 @@ filename: web_app
 - [AtCoder Rivals](https://atcoder-rivals.herokuapp.com/) - パフォーマンスやレーティングの遷移、日々の精進などをライバルと比べることができる。
 - [Rating History](https://rating-history.herokuapp.com/index.html) - 複数のコンテストサイトで、解いた問題数とレーティングの推移を表示する。
 
+  <div align="center">
+    <img loading = "lazy" src="images/rating_history.png" alt="rating history">
+  </div>
+
 ### レーティング、パフォーマンス、順位などを使った派生サービス
 
 - [AtCoder相性診断](https://atcoder-aisho-shindan.vercel.app/) - レーティングを元に相性を診断する。
