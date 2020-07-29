@@ -38,37 +38,37 @@ filename: web_app
 - [AtCoder Problems](https://kenkoooo.com/atcoder) - 開催されたコンテストの問題を一覧できる。問題の正誤状況や各種集計結果を確認できるだけでなく、バーチャルコンテストなどの機能もある。
 
 <div align="center">
-  <img loading = "lazy" src="images/atcoder_problems.png" width="540" height="276" alt="library checker">
+  <img loading = "lazy" src="images/atcoder_problems.png" width="540" height="276" alt="atcoder problems">
 </div>
 
 - [AtCoder Problems 4 Me](https://compro.192.works/#/problems) - [AtCoder Problems](https://kenkoooo.com/atcoder)をオマージュしたサービス。
 
 <div align="center">
-  <img loading = "lazy" src="images/atcoder_problems_4_me.png" width="540" height="276" alt="library checker">
+  <img loading = "lazy" src="images/atcoder_problems_4_me.png" width="540" height="276" alt="atcoder problems 4 me">
 </div>
 
 - [AtCoder Scores](http://atcoder-scores.herokuapp.com/) - AtCoder Grand Contest 001(AGC 001)以降の問題が点数順に並んでいる。
 
 <div align="center">
-  <img loading = "lazy" src="images/atcoder_scores.png" width="540" height="276" alt="library checker">
+  <img loading = "lazy" src="images/atcoder_scores.png" width="540" height="276" alt="atcoder scores">
 </div>
 
 - [AtCoder Tags](https://atcoder-tags.herokuapp.com/) - 問題のカテゴリーを分類する。ユーザ登録を行えば、問題にふさわしいと思うカテゴリーを投票できる。[AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper)を導入すると、[AtCoder](https://atcoder.jp/)の「問題」ページからも投票できる。
 
 <div align="center">
-  <img loading = "lazy" src="images/atcoder_tags.png" width="540" height="276" alt="library checker">
+  <img loading = "lazy" src="images/atcoder_tags.png" width="540" height="276" alt="atcoder tags">
 </div>
 
 - [AtCoderTranslations](https://github.com/ADJA/AtCoderTranslations) - 日本語で出題されているコンテストの問題を英語に翻訳している。
 
 <div align="center">
-  <img loading = "lazy" src="images/atcoder_translations.png" width="540" height="276" alt="library checker">
+  <img loading = "lazy" src="images/atcoder_translations.png" width="540" height="276" alt="atcoder translations">
 </div>
 
 - [PROCON Q&A](https://procon-qa.herokuapp.com/) - 競技プログラミングを対象とした質問と回答を投稿できる。
 
 <div align="center">
-  <img loading = "lazy" src="images/procon_q&a.png" width="540" height="276" alt="library checker">
+  <img loading = "lazy" src="images/procon_q&a.png" width="540" height="276" alt="procon q&a">
 </div>
 
 ### コンテストの開催予定を確認する、登録する
