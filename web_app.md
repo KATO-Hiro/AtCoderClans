@@ -50,7 +50,7 @@ filename: web_app
 - [AtCoder Scores](http://atcoder-scores.herokuapp.com/) - AtCoder Grand Contest 001(AGC 001)以降の問題が点数順に並んでいる。
 
 <div align="center">
-  <img loading = "lazy" src="" width="540" height="276" alt="library checker">
+  <img loading = "lazy" src="images/atcoder_scores.png" width="540" height="276" alt="library checker">
 </div>
 
 - [AtCoder Tags](https://atcoder-tags.herokuapp.com/) - 問題のカテゴリーを分類する。ユーザ登録を行えば、問題にふさわしいと思うカテゴリーを投票できる。[AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper)を導入すると、[AtCoder](https://atcoder.jp/)の「問題」ページからも投票できる。
