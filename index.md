@@ -4,6 +4,24 @@ layout: template
 filename: index
 ---
 
+# AtCoder Clans
+
+<p><img src="https://img.shields.io/github/workflow/status/KATO-Hiro/AtCoderHub/TOC%20Generator" alt="GitHub Workflow Status" />
+<a href="https://github.com/KATO-Hiro/AtCoderHub/issues"><img src="https://img.shields.io/github/issues/KATO-Hiro/AtCoderHub" alt="Issues" /></a>
+<a href="https://github.com/KATO-Hiro/AtCoderHub/pulls"><img src="https://img.shields.io/github/issues-pr/KATO-Hiro/AtCoderHub.svg" alt="Pull Requests" /></a>
+<a href="https://github.com/KATO-Hiro/AtCoderHub/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-brightgreen.svg" alt="License: MIT" /></a>
+<a href="https://twitter.com/k_hiro1818"><img src="https://img.shields.io/twitter/follow/k_hiro1818?style=social" alt="Twitter Follow" /></a></p>
+
+【非公式】競技プログラミングサイト[AtCoder](https://atcoder.jp/)がもっと楽しくなるリンク集です。有志による非公式サービス・ツール・ライブラリ・記事などをまとめています。
+
+## 注意事項
+
++ [AtCoder](https://atcoder.jp/)公式（以降、公式と表記）の仕様変更や諸事情により、公開されているサービス・ツールなどが予告なく利用できなくなる場合があります。ご了承ください。
+
++ サービス・ツールなどに関するお問い合わせは、<span style="color: red"><strong>開発者が公開している連絡先に直接行ってください</strong></span>。公式のサポート対象外のため、運営チームへの問い合わせは絶対しないでください。
+
++ ご利用は自己責任でお願いします。
+
 ## 目次
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
