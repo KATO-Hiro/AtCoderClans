@@ -106,7 +106,6 @@ filename: web_app
 - [AtCoder Performances](https://atcoderapps.herokuapp.com/atcoderperformances/) - 指定した2人以上のパフォーマンスの推移が比較できる。
 - [AtCoder Rating Comparison](https://atcoder-rating-comparison.herokuapp.com/?q=) - 指定した2人以上のレーティングの比較ができる。
 
-
   <div align="center"> <img loading = "lazy" src="images/atcoder_rating_comparison.png" alt="atcoder rating comparison">
   </div>
 
