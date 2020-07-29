@@ -90,6 +90,10 @@ filename: web_app
 - [AtCoder Code Evaluate](https://ac-code-eval.com/) - 問題の実装の重さをAC(Accepted)コードをもとに評価している。
 - [AtCoder Stats](https://atcoderstats.appspot.com/) - コンテスト、問題、ユーザに関する様々な統計情報が閲覧できる。
 
+  <div align="center">
+    <img loading = "lazy" src="images/atcoder_stats.png" alt="atcoder stats">
+  </div>
+
 ### レーティング、パフォーマンス、順位などを表示する、比較する
 
 - [AtCoder Charts](atcoder-charts.netlify.com/) - 任意のユーザのレーティングとパフォーマンスの推移を表示する。
