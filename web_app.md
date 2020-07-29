@@ -134,6 +134,11 @@ filename: web_app
   </div>
 
 - [AtCoder Rivals](https://atcoder-rivals.herokuapp.com/) - パフォーマンスやレーティングの遷移、日々の精進などをライバルと比べることができる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/atcoder_rivals.png" alt="atcoder rivals">
+  </div>
+
 - [Rating History](https://rating-history.herokuapp.com/index.html) - 複数のコンテストサイトで、解いた問題数とレーティングの推移を表示する。
 
   <div align="center">
