@@ -104,6 +104,11 @@ filename: web_app
 
 - [atcoder_marathon_ranking](https://github.com/tomerun/atcoder_marathon_ranking) - マラソン系コンテストの順位を[AtCoder レースランキング](https://atcoder.jp/posts/170)と同じ形式でポイント化し、ランキングをつける。
 - [AtCoder Performances](https://atcoderapps.herokuapp.com/atcoderperformances/) - 指定した2人以上のパフォーマンスの推移が比較できる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/atcoder_performances.png" alt="atcoder performances">
+  </div>
+
 - [AtCoder Rating Comparison](https://atcoder-rating-comparison.herokuapp.com/?q=) - 指定した2人以上のレーティングの比較ができる。
 
   <div align="center"> <img loading = "lazy" src="images/atcoder_rating_comparison.png" alt="atcoder rating comparison">
