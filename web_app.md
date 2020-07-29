@@ -62,7 +62,7 @@ filename: web_app
 - [AtCoderTranslations](https://github.com/ADJA/AtCoderTranslations) - 日本語で出題されているコンテストの問題を英語に翻訳している。
 
 <div align="center">
-  <img loading = "lazy" src="" width="540" height="276" alt="library checker">
+  <img loading = "lazy" src="images/atcoder_translations.png" width="540" height="276" alt="library checker">
 </div>
 
 - [PROCON Q&A](https://procon-qa.herokuapp.com/) - 競技プログラミングを対象とした質問と回答を投稿できる。
