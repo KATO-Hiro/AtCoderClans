@@ -196,6 +196,11 @@ filename: web_app
   </div>
 
 - [AtCoder Widget](https://github.com/rdrgn/atcoder-widget) - ユーザのレーティングの推移をWebページに表示するためウィジェット。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_widget.png" alt="atcoder widget">
+  </div>
+
 - [Devotter](https://devotter.app/) - 1日1回AC(Accepted)数を[Twitter](https://twitter.com/)にツイートする。
 
 ## ボット
