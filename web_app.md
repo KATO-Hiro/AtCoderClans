@@ -170,6 +170,10 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_games.png" alt="atcoder games"> </div>
 
 - [atcoder-janken](https://atcoder-janken.appspot.com/) - 指定した2人のユーザが共通して出場したコンテストの順位を比較する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_janken.png" alt="atcoder janken"> </div>
+
 - [AtCoder Prophet](https://sotanishy.github.io/atcoder-prophet) - 機械学習モデルを使って、将来のレーティングを予測する。
 - [atcoder-synchronicity](https://phocom.github.io/atcoder-synchronicity/) - 指定した2人のユーザのシンクロ率(**要確認:** 両者のパフォーマンス値の相関をとった値?)を表示する。
 - [AtCoder TL](https://github.com/shirakia/atcoder_tl) - レーティング帯ごとのTwitterタイムラインを生成する。
