@@ -148,6 +148,11 @@ filename: web_app
 ### レーティング、パフォーマンス、順位などを使った派生サービス
 
 - [AtCoder相性診断](https://atcoder-aisho-shindan.vercel.app/) - レーティングを元に相性を診断する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_aishosinndan.png" alt="atcoder aishosinndan">
+  </div>
+
 - [AtCoder Badges](https://atcoder-badges.now.sh/) - 任意のユーザのレーティングとレーティングに対応した色を表示するバッジを生成する。
 - [AtCoder Friend Finder](http://atcoder-friend-finder.herokuapp.com/) - [Twitter](https://twitter.com/)でフォローしている[AtCoder](https://atcoder.jp/)ユーザを表示する。
 - [AtCoder Games](https://atcoder-games.herokuapp.com/games/) - 過去問に登場したゲームで遊ぶことができる。
