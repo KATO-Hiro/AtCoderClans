@@ -148,15 +148,64 @@ filename: web_app
 ### レーティング、パフォーマンス、順位などを使った派生サービス
 
 - [AtCoder相性診断](https://atcoder-aisho-shindan.vercel.app/) - レーティングを元に相性を診断する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_aishosinndan.png" alt="atcoder aishosinndan">
+  </div>
+
 - [AtCoder Badges](https://atcoder-badges.now.sh/) - 任意のユーザのレーティングとレーティングに対応した色を表示するバッジを生成する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_badges.png" alt="atcoder badges">
+  </div>
+
 - [AtCoder Friend Finder](http://atcoder-friend-finder.herokuapp.com/) - [Twitter](https://twitter.com/)でフォローしている[AtCoder](https://atcoder.jp/)ユーザを表示する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_friend_finder.png" alt="atcoder friend finder">
+  </div>
+
 - [AtCoder Games](https://atcoder-games.herokuapp.com/games/) - 過去問に登場したゲームで遊ぶことができる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_games.png" alt="atcoder games">
+  </div>
+
 - [atcoder-janken](https://atcoder-janken.appspot.com/) - 指定した2人のユーザが共通して出場したコンテストの順位を比較する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_janken.png" alt="atcoder janken">
+  </div>
+
 - [AtCoder Prophet](https://sotanishy.github.io/atcoder-prophet) - 機械学習モデルを使って、将来のレーティングを予測する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_prophet.png" alt="atcoder prophet">
+  </div>
+
 - [atcoder-synchronicity](https://phocom.github.io/atcoder-synchronicity/) - 指定した2人のユーザのシンクロ率(**要確認:** 両者のパフォーマンス値の相関をとった値?)を表示する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_synchronicity.png" alt="atcoder synchronicity">
+  </div>
+
 - [AtCoder TL](https://github.com/shirakia/atcoder_tl) - レーティング帯ごとのTwitterタイムラインを生成する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_tl.png" alt="atcoder tl">
+  </div>
+
 - [AtCoder Widget](https://github.com/rdrgn/atcoder-widget) - ユーザのレーティングの推移をWebページに表示するためウィジェット。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_widget.png" alt="atcoder widget">
+  </div>
+
 - [Devotter](https://devotter.app/) - 1日1回AC(Accepted)数を[Twitter](https://twitter.com/)にツイートする。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/devotter.png" alt="devotter">
+  </div>
 
 ## ボット
 
