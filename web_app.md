@@ -203,6 +203,10 @@ filename: web_app
 
 - [Devotter](https://devotter.app/) - 1日1回AC(Accepted)数を[Twitter](https://twitter.com/)にツイートする。
 
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/devotter.png" alt="devotter">
+  </div>
+
 ## ボット
 
 ### Discord
