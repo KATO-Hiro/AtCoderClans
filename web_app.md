@@ -223,6 +223,11 @@ filename: web_app
 
 - [AtCoder Notify](https://atcoder-bot.firebaseapp.com/) - コンテスト情報を通知する。
 - [AtCoder Stalker](https://line.me/R/ti/p/@381fkvdg) - ライバルが精進したときLINEにプッシュ通知される。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_stalker.jpg" alt="atcoder stalker">
+  </div>
+
 - [Contests-Line-Bot](https://github.com/granddaifuku/Contests-Line-Bot) - 「コンテスト」を含む文章を送ると、コンテストの日程が通知される。AtCoderだけでなく、[Codeforces](https://codeforces.com/)にも対応している。
 
 ### Slack
