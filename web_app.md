@@ -79,7 +79,7 @@ filename: web_app
     <img loading = "lazy" src="images/competitive_programming_contests_calendar.png" alt="competitive programming contests calendar">
   </div>
 
-- [future-contest](https://future-contest.appspot.com/) - 開催予定のコンテスト情報を表示する。[yukicoder](https://yukicoder.me/)、[CS Academy](https://csacademy.com/)、[Codeforces](https://codeforces.com/)にも対応している。
+- [Future Contest](https://future-contest.appspot.com/) - 開催予定のコンテスト情報を表示する。[yukicoder](https://yukicoder.me/)、[CS Academy](https://csacademy.com/)、[Codeforces](https://codeforces.com/)にも対応している。
 
   <div align="center">
     <img loading = "lazy" src="images/future_contest.png" alt="competitive programming contests calendar">
@@ -171,7 +171,7 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_games.png" alt="atcoder games">
   </div>
 
-- [atcoder-janken](https://atcoder-janken.appspot.com/) - 指定した2人のユーザが共通して出場したコンテストの順位を比較する。
+- [Atcoder じゃんけん](https://atcoder-janken.appspot.com/) - 指定した2人のユーザが共通して出場したコンテストの順位を比較する。
 
   <div align="center">
     <img loading = "lazy" src="images/web_app/atcoder_janken.png" alt="atcoder janken">
