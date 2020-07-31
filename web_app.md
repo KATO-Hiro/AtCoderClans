@@ -230,6 +230,10 @@ filename: web_app
 
 - [Contests-Line-Bot](https://github.com/granddaifuku/Contests-Line-Bot) - 「コンテスト」を含む文章を送ると、コンテストの日程が通知される。AtCoderだけでなく、[Codeforces](https://codeforces.com/)にも対応している。
 
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/contests_line_bot.png" alt="contests line bot">
+  </div>
+
 ### Slack
 
 - [atcoder-rate-notify](https://github.com/ysk1180/atcoder-rate-notify) - レーティングを毎週お知らせしてくれる。
