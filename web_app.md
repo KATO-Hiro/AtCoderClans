@@ -212,6 +212,11 @@ filename: web_app
 ### Discord
 
 - [AtCoderChokuZen](https://github.com/KATO-Hiro/AtCoderChokuZen) - コンテスト当日に、コンテスト情報(開催日時・開始までの残り時間)をスマートフォンにプッシュ通知する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_chokuzen.png" alt="atcoder chokuzen">
+  </div>
+
 - [shino-sky/AtCoder-bot](https://github.com/shino-sky/AtCoder-bot) - レーティング(色)をもとに、自動でメンバーにロールを割り当てる。
 
 ### LINE
