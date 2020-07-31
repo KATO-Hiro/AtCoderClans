@@ -249,6 +249,11 @@ filename: web_app
 ### Twitter
 
 - [競プロer Bot](https://twitter.com/cper_bot) - AC(Accepted)、日単位のランキング、コンテストの予定を通知する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/cper_bot.png" alt="cper bot">
+  </div>
+
 - [競プロリマインダー](https://twitter.com/ComproReminder) - 毎朝8:00にコンテスト情報を通知する。[Codeforces](https://codeforces.com/)、[CSAcademy](https://csacademy.com/)、[Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)、[LeetCode](https://leetcode.com/)、[Topcoder](https://www.topcoder.com/)、[yukicoder](https://yukicoder.me/)にも対応している。
 
 ## Web API
