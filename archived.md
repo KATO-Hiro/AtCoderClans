@@ -14,7 +14,7 @@ filename: archived
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## 提供、開発が終了したサービス、ツールなど
+## 開発、提供が終了したサービス、ツールなど
 
 諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
 
