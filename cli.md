@@ -35,6 +35,11 @@ filename: cli
 #### Go
 
 - [AC Deck](https://github.com/sachaos/ac-deck) ![GitHub stars](https://img.shields.io/github/stars/sachaos/ac-deck?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/sachaos/ac-deck?style=plastic) - テスト([Docker](https://www.docker.com/)にも対応)、提出ができる。組み込みのテンプレートが用意されており、主要な言語に対応している。
+
+  <div align="center">
+    <img loading = "lazy" src="images/cli/ac_deck.gif" alt="ac deck">
+  </div>
+
 - [atc](https://github.com/nasjp/atc) ![GitHub stars](https://img.shields.io/github/stars/nasjp/atc?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/nasjp/atc?style=plastic) - 軽量のテストツール。
 
 #### Haskell
@@ -52,8 +57,22 @@ filename: cli
 
 - [AtCoderSupporter](https://github.com/shun0923/AtCoderSupporter) ![GitHub stars](https://img.shields.io/github/stars/shun0923/AtCoderSupporter?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/shun0923/AtCoderSupporter?style=plastic) - サンプルケースのテストと提出ができる。
 - [AtCoder Tools](https://github.com/kyuridenamida/atcoder-tools) ![GitHub stars](https://img.shields.io/github/stars/kyuridenamida/atcoder-tools?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/kyuridenamida/atcoder-tools?style=plastic) - サンプルケースのダウンロードが便利になる。ログイン、サンプルのローカルテスト、コード提出、テンプレートからのコード自動生成機能などを備えている。
+
+  <div align="center">
+    <img loading = "lazy" src="images/cli/atcoder_tools.gif" alt="atcoder tools">
+  </div>
+
 - [oj](https://github.com/online-judge-tools/oj) ![GitHub stars](https://img.shields.io/github/stars/online-judge-tools/oj?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/online-judge-tools/oj?style=plastic) - サンプルケースのダウンロード、テスト、提出ができる。[Codeforces](https://codeforces.com/)や[Hackerrank](https://www.hackerrank.com/)などの複数のコンテストサイトにも対応している(詳細は、[対応表](https://github.com/online-judge-tools/api-client#supported-websites)を参照)。
+
+  <div align="center">
+    <img loading = "lazy" src="images/cli/oj.gif" alt="oj">
+  </div>
+
 - [WrongAnswer](https://github.com/takoha-cpp/WrongAnswer) ![GitHub stars](https://img.shields.io/github/stars/takoha-cpp/WrongAnswer?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/takoha-cpp/WrongAnswer?style=plastic) - 指定した問題のテストケースをダウンロードする。使い方が日本語・英語で説明されている。
+
+  <div align="center">
+    <img loading = "lazy" src="images/cli/wronganswer.gif" alt="wrong answer">
+  </div>
 
 #### Ruby
 
@@ -67,6 +86,11 @@ filename: cli
 
 - [acc](https://github.com/Takachiha/acc) ![GitHub stars](https://img.shields.io/github/stars/Takachiha/acc?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/Takachiha/acc?style=plastic) - テスト、提出ができる。提出する言語は、オプションで新旧システムのいずれかを選択できる。
 - [cargo-atcoder](https://github.com/tanakh/cargo-atcoder) ![GitHub stars](https://img.shields.io/github/stars/tanakh/cargo-atcoder?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/tanakh/cargo-atcoder?style=plastic) - サンプルケースのダウンロード、テスト、提出ができる。使い方が日本語で丁寧に説明されている。
+
+  <div align="center">
+    <img loading = "lazy" src="images/cli/cargo_atcoder.gif" alt="cargo atcoder">
+  </div>
+
 - [ICIE](https://marketplace.visualstudio.com/items?itemName=pustaczek.icie) ![GitHub stars](https://img.shields.io/github/stars/pustaczek/icie?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/pustaczek/icie?style=plastic) - 競技プログラミングに参加する上で、必要な機能を揃えた[Visual Studio Code](https://code.visualstudio.com/)の拡張機能。
 - [kunai](https://github.com/mouri111/kunai) ![GitHub stars](https://img.shields.io/github/stars/mouri111/kunai?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/mouri111/kunai?style=plastic) - サンプルケースのテストができる。
 
@@ -74,6 +98,10 @@ filename: cli
 
 - [procon.vim](https://github.com/ogura01/procon.nvim) ![GitHub stars](https://img.shields.io/github/stars/ogura01/procon.nvim?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/ogura01/procon.nvim?style=plastic) - [Neovim](https://neovim.io/)プラグイン。
 - [vim-atcoder](https://github.com/cannot-fly-pig/vim-atcoder) ![GitHub stars](https://img.shields.io/github/stars/cannot-fly-pig/vim-atcoder?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/cannot-fly-pig/vim-atcoder?style=plastic) - [Vim](https://www.vim.org/)でサンプルケースのテストするためのプラグイン。対応言語は、C++。企業コンテストには、今後対応予定。
+
+  <div align="center">
+    <img loading = "lazy" src="images/cli/vim_atcoder.jpg" alt="vim atcoder">
+  </div>
 
 ### 環境構築
 
