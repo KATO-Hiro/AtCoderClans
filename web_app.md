@@ -114,7 +114,11 @@ filename: web_app
   <div align="center"> <img loading = "lazy" src="images/atcoder_rating_comparison.png" alt="atcoder rating comparison">
   </div>
 
-- [AtCoder Rating Estimator](https://koba-e964.github.io/atcoder-rating-estimator/test-handle.html) - 所定のレーティングに到達するために、次のコンテストで必要なパフォーマンスを計算する。
+- [AtCoder Rating Estimator](https://koba-e964.github.io/atcoder-rating-estimator/test-last.html) - 所定のレーティングに到達するために、次のコンテストで必要なパフォーマンスを計算する。
+
+  <div align="center"> <img loading = "lazy" src="images/web_app/atcoder_rating_estimator.png" alt="atcoder rating estimator">
+  </div>
+
 - [AtCoder Rating Graph](https://github.com/hiramekun/AtCoderRatingGraph) - 任意のユーザのレーティングの推移を比較できる。
 
   <div align="center">
