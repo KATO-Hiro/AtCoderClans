@@ -99,6 +99,10 @@ filename: cli
 - [procon.vim](https://github.com/ogura01/procon.nvim) ![GitHub stars](https://img.shields.io/github/stars/ogura01/procon.nvim?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/ogura01/procon.nvim?style=plastic) - [Neovim](https://neovim.io/)プラグイン。
 - [vim-atcoder](https://github.com/cannot-fly-pig/vim-atcoder) ![GitHub stars](https://img.shields.io/github/stars/cannot-fly-pig/vim-atcoder?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/cannot-fly-pig/vim-atcoder?style=plastic) - [Vim](https://www.vim.org/)でサンプルケースのテストするためのプラグイン。対応言語は、C++。企業コンテストには、今後対応予定。
 
+  <div align="center">
+    <img loading = "lazy" src="images/cli/vim_atcoder.jpg" alt="vim atcoder">
+  </div>
+
 ### 環境構築
 
 - [atcoder_docker_sample](https://github.com/yamatia/atcoder_docker_sample) - [Visual Studio Code](https://code.visualstudio.com/)・[Docker](https://www.docker.com/)・[Git](https://git-scm.com/downloads)を使って、PythonとC++の実行環境を構築。
