@@ -38,37 +38,37 @@ filename: web_app
 - [AtCoder Problems](https://kenkoooo.com/atcoder) - 開催されたコンテストの問題を一覧できる。問題の正誤状況や各種集計結果を確認できるだけでなく、バーチャルコンテストなどの機能もある。
 
   <div align="center">
-    <img loading = "lazy" src="images/atcoder_problems.png" alt="atcoder problems">
+    <img loading = "lazy" src="images/web_app/atcoder_problems.png" alt="atcoder problems">
   </div>
 
 - [AtCoder Problems 4 Me](https://compro.192.works/#/problems) - [AtCoder Problems](https://kenkoooo.com/atcoder)をオマージュしたサービス。
 
   <div align="center">
-    <img loading = "lazy" src="images/atcoder_problems_4_me.png" alt="atcoder problems 4 me">
+    <img loading = "lazy" src="images/web_app/atcoder_problems_4_me.png" alt="atcoder problems 4 me">
   </div>
 
 - [AtCoder Scores](http://atcoder-scores.herokuapp.com/) - AtCoder Grand Contest 001(AGC 001)以降の問題が点数順に並んでいる。
 
   <div align="center">
-    <img loading = "lazy" src="images/atcoder_scores.png" alt="atcoder scores">
+    <img loading = "lazy" src="images/web_app/atcoder_scores.png" alt="atcoder scores">
   </div>
 
 - [AtCoder Tags](https://atcoder-tags.herokuapp.com/) - 問題のカテゴリーを分類する。ユーザ登録を行えば、問題にふさわしいと思うカテゴリーを投票できる。[AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper)を導入すると、[AtCoder](https://atcoder.jp/)の「問題」ページからも投票できる。
 
   <div align="center">
-    <img loading = "lazy" src="images/atcoder_tags.png" alt="atcoder tags">
+    <img loading = "lazy" src="images/web_app/atcoder_tags.png" alt="atcoder tags">
   </div>
 
 - [AtCoderTranslations](https://github.com/ADJA/AtCoderTranslations) - 日本語で出題されているコンテストの問題を英語に翻訳している。
 
   <div align="center">
-    <img loading = "lazy" src="images/atcoder_translations.png" alt="atcoder translations">
+    <img loading = "lazy" src="images/web_app/atcoder_translations.png" alt="atcoder translations">
   </div>
 
 - [PROCON Q&A](https://procon-qa.herokuapp.com/) - 競技プログラミングを対象とした質問と回答を投稿できる。
 
   <div align="center">
-    <img loading = "lazy" src="images/procon_q&a.png" alt="procon q&a">
+    <img loading = "lazy" src="images/web_app/procon_q&a.png" alt="procon q&a">
   </div>
 
 ### コンテストの開催予定を確認する、登録する
@@ -76,13 +76,13 @@ filename: web_app
 - [Competitive Programming Contests Calendar](https://competitiveprogramming.info/calendar) - 開催予定のコンテスト情報をカレンダー形式で表示する。[Codeforces](https://codeforces.com/)、[CSAcademy](https://csacademy.com/)、[Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart/about)、[HackerRank](https://www.hackerrank.com/)、[LeetCode](https://leetcode.com/)、[Topcoder](https://www.topcoder.com/)、[yukicoder](https://yukicoder.me/)にも対応している。
 
   <div align="center">
-    <img loading = "lazy" src="images/competitive_programming_contests_calendar.png" alt="competitive programming contests calendar">
+    <img loading = "lazy" src="images/web_app/competitive_programming_contests_calendar.png" alt="competitive programming contests calendar">
   </div>
 
 - [Future Contest](https://future-contest.appspot.com/) - 開催予定のコンテスト情報を表示する。[yukicoder](https://yukicoder.me/)、[CS Academy](https://csacademy.com/)、[Codeforces](https://codeforces.com/)にも対応している。
 
   <div align="center">
-    <img loading = "lazy" src="images/future_contest.png" alt="competitive programming contests calendar">
+    <img loading = "lazy" src="images/web_app/future_contest.png" alt="competitive programming contests calendar">
   </div>
 
 ### 統計情報を見る
@@ -91,7 +91,7 @@ filename: web_app
 - [AtCoder Stats](https://atcoderstats.appspot.com/) - コンテスト、問題、ユーザに関する様々な統計情報が閲覧できる。
 
   <div align="center">
-    <img loading = "lazy" src="images/atcoder_stats.png" alt="atcoder stats">
+    <img loading = "lazy" src="images/web_app/atcoder_stats.png" alt="atcoder stats">
   </div>
 
 ### レーティング、パフォーマンス、順位などを表示する、比較する
@@ -99,19 +99,19 @@ filename: web_app
 - [AtCoder Charts](https://atcoder-charts.netlify.com/) - 任意のユーザのレーティングとパフォーマンスの推移を表示する。
 
   <div align="center">
-    <img loading = "lazy" src="images/atcoder_charts.png" alt="atcoder charts">
+    <img loading = "lazy" src="images/web_app/atcoder_charts.png" alt="atcoder charts">
   </div>
 
 - [atcoder_marathon_ranking](https://github.com/tomerun/atcoder_marathon_ranking) - マラソン系コンテストの順位を[AtCoder レースランキング](https://atcoder.jp/posts/170)と同じ形式でポイント化し、ランキングをつける。
 - [AtCoder Performances](https://atcoderapps.herokuapp.com/atcoderperformances/) - 指定した2人以上のパフォーマンスの推移が比較できる。
 
   <div align="center">
-    <img loading = "lazy" src="images/atcoder_performances.png" alt="atcoder performances">
+    <img loading = "lazy" src="images/web_app/atcoder_performances.png" alt="atcoder performances">
   </div>
 
 - [AtCoder Rating Comparison](https://atcoder-rating-comparison.herokuapp.com/?q=) - 指定した2人以上のレーティングの比較ができる。
 
-  <div align="center"> <img loading = "lazy" src="images/atcoder_rating_comparison.png" alt="atcoder rating comparison">
+  <div align="center"> <img loading = "lazy" src="images/web_app/atcoder_rating_comparison.png" alt="atcoder rating comparison">
   </div>
 
 - [AtCoder Rating Estimator](https://koba-e964.github.io/atcoder-rating-estimator/test-last.html) - 所定のレーティングに到達するために、次のコンテストで必要なパフォーマンスを計算する。
@@ -122,31 +122,31 @@ filename: web_app
 - [AtCoder Rating Graph](https://github.com/hiramekun/AtCoderRatingGraph) - 任意のユーザのレーティングの推移を比較できる。
 
   <div align="center">
-    <img loading = "lazy" src="images/atcoder_rating_graph.png" alt="atcoder rating graph">
+    <img loading = "lazy" src="images/web_app/atcoder_rating_graph.png" alt="atcoder rating graph">
   </div>
 
 - [Atcoder RatingGraph Generator](https://atcoder-ratinggraph-generator.herokuapp.com/) - 任意のユーザのレーティンググラフを表示する。PCの場合、グラフの点をつまむと自由に形状を変えられる。
 
   <div align="center">
-    <img loading = "lazy" src="images/atcoder_ratinggraph_generator.png" alt="atcoder ratinggraph generator">
+    <img loading = "lazy" src="images/web_app/atcoder_ratinggraph_generator.png" alt="atcoder ratinggraph generator">
   </div>
 
 - [AtCoder Replay](https://atcoder-replay.kakira.dev/) - 任意のユーザを対象として、参加したコンテストの開始〜終了までの順位変化を表示する。
 
   <div align="center">
-    <img loading = "lazy" src="images/atcoder_replay.png" alt="atcoder replay">
+    <img loading = "lazy" src="images/web_app/atcoder_replay.png" alt="atcoder replay">
   </div>
 
 - [AtCoder Rivals](https://atcoder-rivals.herokuapp.com/) - パフォーマンスやレーティングの遷移、日々の精進などをライバルと比べることができる。
 
   <div align="center">
-    <img loading = "lazy" src="images/atcoder_rivals.png" alt="atcoder rivals">
+    <img loading = "lazy" src="images/web_app/atcoder_rivals.png" alt="atcoder rivals">
   </div>
 
 - [Rating History](https://rating-history.herokuapp.com/index.html) - 複数のコンテストサイトで、解いた問題数とレーティングの推移を表示する。
 
   <div align="center">
-    <img loading = "lazy" src="images/rating_history.png" alt="rating history">
+    <img loading = "lazy" src="images/web_app/rating_history.png" alt="rating history">
   </div>
 
 ### レーティング、パフォーマンス、順位などを使った派生サービス
