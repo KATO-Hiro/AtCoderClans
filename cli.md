@@ -70,6 +70,10 @@ filename: cli
 
 - [WrongAnswer](https://github.com/takoha-cpp/WrongAnswer) ![GitHub stars](https://img.shields.io/github/stars/takoha-cpp/WrongAnswer?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/takoha-cpp/WrongAnswer?style=plastic) - 指定した問題のテストケースをダウンロードする。使い方が日本語・英語で説明されている。
 
+  <div align="center">
+    <img loading = "lazy" src="images/cli/wronganswer.gif" alt="wrong answer">
+  </div>
+
 #### Ruby
 
 利用するときは、Rubyのパッケージ管理システムであるGemが必要。
