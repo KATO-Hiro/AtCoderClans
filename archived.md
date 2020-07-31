@@ -20,7 +20,10 @@ filename: archived
 
 - [AtCoder Calendar](https://atcoder-calendar.tkt989.info/) - 指定したURLをGoogleカレンダーに登録する。
   - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
-  - 代替手段: [Competitive Programming Contests Calendar](https://competitiveprogramming.info/calendar)や[future-contest](https://future-contest.appspot.com/)などを利用する。
+  - 代替手段: [Competitive Programming Contests Calendar](https://competitiveprogramming.info/calendar)や[Future Contest](https://future-contest.appspot.com/)などを利用する。
+- [AtCoderカレンダー通知](https://twitter.com/AtcoderCalendar) - イベント開始15分前に通知する。
+  - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
+  - 代替手段: [競プロリマインダー](https://twitter.com/ComproReminder)などを利用する。
 - [AtCoderEditorials](https://github.com/null-null-programming/AtCoder-Editorials) - 解法ブログの投稿・閲覧と知見の集約を目指したWebサービス。
   - 理由: 記載なし。
   - 代替手段: 公式解説や個々の解説ブログ、提出コードを見る。
