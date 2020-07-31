@@ -222,6 +222,11 @@ filename: web_app
 ### LINE
 
 - [AtCoder Notify](https://atcoder-bot.firebaseapp.com/) - コンテスト情報を通知する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_notify.png" alt="atcoder notify">
+  </div>
+
 - [AtCoder Stalker](https://line.me/R/ti/p/@381fkvdg) - ライバルが精進したときLINEにプッシュ通知される。
 
   <div align="center">
