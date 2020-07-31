@@ -171,7 +171,7 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_games.png" alt="atcoder games">
   </div>
 
-- [Atcoder じゃんけん](https://atcoder-janken.appspot.com/) - 指定した2人のユーザが共通して出場したコンテストの順位を比較する。
+- [AtCoder じゃんけん](https://atcoder-janken.appspot.com/) - 指定した2人のユーザが共通して出場したコンテストの順位を比較する。
 
   <div align="center">
     <img loading = "lazy" src="images/web_app/atcoder_janken.png" alt="atcoder janken">
