@@ -281,3 +281,7 @@ filename: web_app
 ### TouchBarアプリ
 
 - [ACTouchBar](https://github.com/tallestorange/ACTouchBar) - コンテストでの正解者数/提出者数、提出状況、レーティング・解いた問題数などの確認やメモを残すことができる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/ac_touch_bar.png" alt="ac touch bar">
+  </div>
