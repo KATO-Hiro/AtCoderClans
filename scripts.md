@@ -300,6 +300,11 @@ Google Chromeに機能を追加します。
 ### 自動的に通知する
 
 - [AtCoder judge notifier](https://chrome.google.com/webstore/detail/atcoder-judge-notifier/hcjjfcidaloadjcemebolmdphhbpehba?hl=ja&gl=UA) - 「提出」ページのジャッジ結果を通知する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/chrome_extension/atcoder_judge_notifier.png" alt="atcoder judge notifier">
+  </div>
+
 - [Coding Shout](https://chrome.google.com/webstore/detail/coding-shout/nggokghmfinpljihgjkkbogpgbbjjjme?hl=ja&gl=UA) - ジャッジ結果を通知する。[Codechef](https://www.codechef.com/)や[Codeforces](https://codeforces.com/)にも対応している。
 
 ### UIを見やすく色付けする、表示を簡略化する
