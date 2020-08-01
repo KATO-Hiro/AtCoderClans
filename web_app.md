@@ -252,6 +252,12 @@ filename: web_app
 
 ### Twitter
 
+- [AtCoder コンテスト実況 Bot](https://twitter.com/cpcontest_bot?lang=en) - コンテスト開催中に登録されているユーザの順位が上がったら通知する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_contest_live.png" alt="atcoder contest live">
+  </div>
+
 - [競プロer Bot](https://twitter.com/cper_bot) - AC(Accepted)、日単位のランキング、コンテストの予定を通知する。
 
   <div align="center">
