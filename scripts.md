@@ -394,3 +394,7 @@ Google Chromeに機能を追加します。
 #### 非公式サービス、ツール、外部サービスなど
 
 - [Solve Later Again](https://chrome.google.com/webstore/detail/solve-later-again/emndffmnlppiaelhdneheagpaancfahk?hl=ja&gl=UA) - [AtCoder Problems](https://kenkoooo.com/atcoder)のTableページに、「Solve Later Again（またあとで解く）」テーブルを追加し、解き直したい問題を管理できる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/chrome_extension/solve_later_again.jpg" alt="solve later again">
+  </div>
