@@ -30,6 +30,9 @@ filename: archived
 - [AtCoderEditorials](https://github.com/null-null-programming/AtCoder-Editorials) - 解法ブログの投稿・閲覧と知見の集約を目指したWebサービス。
   - 理由: 記載なし。
   - 代替手段: 公式解説や個々の解説ブログ、提出コードを見る。
+- [AtCoder Problems Penalty Counter](https://greasyfork.org/ja/scripts/395755-atcoder-problems-penalty-counter) -  [AtCoder Problems](https://kenkoooo.com/atcoder)のTableページで、各問題のコンテスト中のペナルティ数を表示する。
+  - 理由: [AtCoder Problems](https://kenkoooo.com/atcoder)で実装されており、追加で導入する必要性は薄いと思われるため。
+  - 代替手段: [AtCoder Problems](https://kenkoooo.com/atcoder)を利用する。
 - [AtCoder Virtual Contest](https://not-522.appspot.com/) - 仮想コンテスト(本番のコンテストに近い状態で練習できる)を開催できるWebサービス。
   - 理由: [AtCoder](https://atcoder.jp/)の仕様変更に伴うもの。
   - 代替手段: 公式のバーチャル参加や[AtCoder Problems](https://kenkoooo.com/atcoder)の[Vitual Contests](https://kenkoooo.com/atcoder/#/contest/recent)がある。
