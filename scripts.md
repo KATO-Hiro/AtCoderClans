@@ -38,6 +38,11 @@ filename: scripts
 ### レーティング、パフォーマンスなどを表示する
 
 - [ac-predictor](https://greasyfork.org/ja/scripts/369954-ac-predictor) - コンテスト開催中に推定パフォーマンスを表示する。[Webページ版](https://ac-predictor.com/)もある。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_predictor.png" alt="ac predictor">
+  </div>
+
 - [ac-predictor-minimal](https://greasyfork.org/ja/scripts/386999-ac-predictor-minimal) - [ac-predictor](https://greasyfork.org/ja/scripts/369954-ac-predictor)の機能限定版。スクリプトの透明性を確保する観点から、パフォーマンスを表示するのは「順位表」ページに限定される。
 - [ac-writers script](https://greasyfork.org/ja/scripts/369965-ac-writers-script) - ユーザの「コンテスト成績表」ページにコンテストのWriterを表示する。
 - [AtCoder Difficulty Display](https://greasyfork.org/ja/scripts/397185-atcoder-difficulty-display) - AtCoderの「問題」のページに[AtCoder Problems](https://kenkoooo.com/atcoder)の難易度を表示する。
