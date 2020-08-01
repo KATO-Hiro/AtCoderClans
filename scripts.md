@@ -220,6 +220,11 @@ filename: scripts
   </div>
 
 - [AtCoder Fav Rating](https://greasyfork.org/en/scripts/406745-atcoder-fav-rating) - 「アカウント」ページにお気に入りの順位・レーティング(現在・最高)・参加回数を一覧で表示するボタンを設置する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_fav_rating.png" alt="atcoder fav rating">
+  </div>
+
 - [AtCoder-Google-Calender](https://greasyfork.org/ja/scripts/390758-atcoder-google-calender) - 予定されたコンテストの日時をGoogle Calenderに追加するリンクを設置する。
 - [AtCoder Language Filter](https://greasyfork.org/ja/scripts/398148-atcoder-language-filter) - 「提出」ページで、提出する言語のフィルタリングと並び替えを行う。
 - [atcoder-problem-navigator](https://greasyfork.org/en/scripts/383360-atcoder-problem-navigator) - 「問題」ページで、各問題のリンクに飛べるナビゲーションバーを追加。
