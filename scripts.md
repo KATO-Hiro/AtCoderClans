@@ -69,7 +69,6 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_submission_wo_ikki_ni_miiru.png" alt="atcoder submission wo ikki ni miiru">
   </div>
 
-
 ### 自動的に通知する
 
 - [ac-standings-notifier](https://greasyfork.org/ja/scripts/372988-ac-standings-notifier) - コンテスト中に「順位表」ページを開いておくと、順位を通知する。
