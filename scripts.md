@@ -113,6 +113,10 @@ filename: scripts
 - [AtCoderSubmitSearchSettings](https://greasyfork.org/ja/scripts/390424-atcodersubmitsearchsettings) - 「すべての提出」ページで、古いバージョンで提出されたコードを検索できる。検索のデフォルト設定も指定できる。
 - [AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper) - 「問題」ページから[AtCoderTags](https://atcoder-tags.herokuapp.com/)に投票できる。
 
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcodertags_helper.png" alt="atcodertags helper">
+  </div>
+
 ### UIを見やすく色付けする、表示を簡略化する
 
 #### AtCoder
