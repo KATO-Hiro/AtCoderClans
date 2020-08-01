@@ -198,6 +198,11 @@ filename: scripts
   </div>
 
 - [AtCoder Problems Penalty Counter](https://greasyfork.org/ja/scripts/395755-atcoder-problems-penalty-counter) -  [AtCoder Problems](https://kenkoooo.com/atcoder)のTableページで、各問題のコンテスト中のペナルティ数を表示する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_problems_penalty_counter.png" alt="atcoder problems penalty counter">
+  </div>
+
 - [AtCoderProblemsRush](https://greasyfork.org/en/scripts/373299-atcoderproblemsrush) - [AtCoder Problems](https://kenkoooo.com/atcoder)のクローラが実行される前に、提出データをブラウザに保存し進捗状況を表示する。
 
 ### 便利な機能を手軽に実行できるボタン、リンクなどを設置する
