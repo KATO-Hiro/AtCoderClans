@@ -18,6 +18,9 @@ filename: archived
 
 諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
 
+- [acscores-link](https://greasyfork.org/ja/scripts/377267-acscores-link) - ユーザ名のドロップダウンメニューに[AtCoder Scores](http://atcoder-scores.herokuapp.com/)へのリンクを追加する。
+  - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
+  - 代替手段: [AtCoder Scores](http://atcoder-scores.herokuapp.com/)のリンクから閲覧する。
 - [AtCoder Calendar](https://atcoder-calendar.tkt989.info/) - 指定したURLをGoogleカレンダーに登録する。
   - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
   - 代替手段: [Competitive Programming Contests Calendar](https://competitiveprogramming.info/calendar)や[Future Contest](https://future-contest.appspot.com/)などを利用する。
