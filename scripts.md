@@ -81,6 +81,10 @@ filename: scripts
 
 - [AtCoderResultNotifier](https://greasyfork.org/ja/scripts/371225-atcoderresultnotifier) - 提出結果を通知する。
 
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_result_notifier.gif" alt="atcoder result notifier">
+  </div>
+
 ### ショートカットによる効率化
 
 - [acscores-link](https://greasyfork.org/ja/scripts/377267-acscores-link) - ユーザ名のドロップダウンメニューに[AtCoder Scores](http://atcoder-scores.herokuapp.com/)へのリンクを追加する。
