@@ -293,6 +293,10 @@ Google Chromeに機能を追加します。
 
 - [AtCoder ACer](https://chrome.google.com/webstore/detail/atcoder-acer/pmdfjdiiiacncpgmjmeicdoidkaadjde?hl=ja&gl=UA) - 「問題一覧」ページにコンテスト中にAC(Accepted)した人数を表示する。
 
+  <div align="center">
+    <img loading = "lazy" src="images/chrome_extension/atcoder_acer.png" alt="atcoder acer">
+  </div>
+
 ### 自動的に通知する
 
 - [AtCoder judge notifier](https://chrome.google.com/webstore/detail/atcoder-judge-notifier/hcjjfcidaloadjcemebolmdphhbpehba?hl=ja&gl=UA) - 「提出」ページのジャッジ結果を通知する。
