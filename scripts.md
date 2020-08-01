@@ -384,6 +384,11 @@ Google Chromeに機能を追加します。
   </div>
 
 - [KONTESTS](https://chrome.google.com/webstore/detail/kontests/agpdemlkalmmeenclchlajdcmbcacoea?hl=ja&gl=UA) - コンテスト情報を表示する。[Codeforces](https://codeforces.com/)、Codeforces::Gym、[TopCoder](https://www.topcoder.com/)、[CSAcademy](https://csacademy.com/)にも対応している。
+
+  <div align="center">
+    <img loading = "lazy" src="images/chrome_extension/kontests.png" alt="kontests">
+  </div>
+
 - [NextPage](https://chrome.google.com/webstore/detail/nextpage/mhhmddcnnehdkpclpjpmidpeejohlmfb?hl=ja&gl=UA) - あるコンテストの次の回のページに移動できる。
 
 #### 非公式サービス、ツール、外部サービスなど
