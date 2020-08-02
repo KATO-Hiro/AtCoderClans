@@ -10,7 +10,11 @@
 
 ***DEMO***
 
-![demo](images/demo.gif)
+<div align="center">
+
+  ![demo](images/demo.gif)
+
+</div>
 
 ## 注意事項
 
