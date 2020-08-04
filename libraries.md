@@ -98,6 +98,7 @@ filename: libraries
 - [Tiramister/CppLibrary](https://github.com/Tiramister/CppLibrary) ![GitHub stars](https://img.shields.io/github/stars/Tiramister/CppLibrary?style=plastic) - [Tiramister](https://atcoder.jp/users/Tiramister)さんのライブラリ。
 - [tubuann/library](https://github.com/tubuann/library) ![GitHub stars](https://img.shields.io/github/stars/tubuann/library?style=plastic) - [tubuann](https://atcoder.jp/users/tubuann)さんのライブラリ。
 - [yosupo06/Algorithm](https://github.com/yosupo06/Algorithm) ![GitHub stars](https://img.shields.io/github/stars/yosupo06/Algorithm?style=plastic) - [yosupo](https://atcoder.jp/users/yosupo)さんのライブラリ。C++11で実装されている。
+- [zerokpr/Kpr_Library](https://github.com/zerokpr/Kpr_Library) ![GitHub stars](https://img.shields.io/github/stars/zerokpr/Kpr_Library?style=plastic) - [zero_kpr](https://atcoder.jp/users/zero_kpr)さんのライブラリ。
 
 ### D
 
