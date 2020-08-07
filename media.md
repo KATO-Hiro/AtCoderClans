@@ -82,6 +82,7 @@ filename: media
 - [計算量オーダーの求め方を総整理！ 〜 どこから log が出て来るか 〜](https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0) - 計算量の概念・意義・表記方法から、計算量の求め方について豊富な例が紹介されている。
 - [特集！知らないと損をする計算量の話](https://qiita.com/drken/items/18b3b3db5735241465ef) - 実務でありがちな遅いコードの書き方を例に、計算量を意識することの意義を解説した記事。C++、Java、Pythonの典型的な処理について計算量が示されている。
 - [再帰関数を学ぶと、どんな世界が広がるか](https://qiita.com/drken/items/23a4f604fa3f505dd5ad) - 使いどころや動作がつかみづらい再帰関数について、豊富な実例とともに解説されている記事。
+- [スタックとキューを極める！ 〜 考え方と使い所を特集 〜](https://qiita.com/drken/items/6a95b57d2e374a3d3292) - 基本的なデータ構造であるスタックとキューの考え方と活用方法について解説された記事。
 - [DFS(深さ優先探索)超入門！ 〜 グラフ・アルゴリズムの世界への入口 〜【前編】](https://qiita.com/drken/items/4a7869c5e304883f539b) - 探索手法の一つである深さ優先探索について、問題を解きながら慣れることを目指した記事。[後編](https://qiita.com/drken/items/a803d4fc4a727e02f7ba)もある。
 - [BFS (幅優先探索) 超入門！ 〜 キューを鮮やかに使いこなす 〜](https://qiita.com/drken/items/996d80bcae64649a6580) - 探索手法の一つである幅優先探索について解説されている記事。異なる視点・方法で問題を解くことで、グラフの性質について深く親しむことを目指しているのが特徴。また、[深さ優先探索の記事](https://qiita.com/drken/items/4a7869c5e304883f539b)とは、独立に読むことができるよう工夫されている。
 - [典型的なDP(動的計画法)のパターンを整理 Part1 ～ ナップサックDP編 ～](https://qiita.com/drken/items/a5e6fe22863b7992efdb) - 動的計画法(DP)を学び始めた人向けの記事。また、動的計画法を初めて聞く人や経験が浅い人向けに、[AtCoder](https://atcoder.jp/)では[入門コンテンツ](https://atcoder.jp/contests/dp/)が公開されている。非公式ではあるが、[問題の解説・類題集](https://qiita.com/drken/items/dc53c683d6de8aeacf5a)も併せて読むと理解がとても深まる。
