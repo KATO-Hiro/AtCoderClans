@@ -88,7 +88,7 @@ filename: libraries
 - [ningenMe/compro-library](https://github.com/ningenMe/compro-library) ![GitHub stars](https://img.shields.io/github/stars/ningenMe/compro-library?style=plastic) - [ningenMe](https://atcoder.jp/users/ningenMe)さんのライブラリ。
 - [noshi91/Library](https://noshi91.github.io/Library/) ![GitHub stars](https://img.shields.io/github/stars/noshi91/Library?style=plastic) - [noshi91](https://atcoder.jp/users/noshi91)さんのライブラリ。
 - [primenumber/ProconLib](https://github.com/primenumber/ProconLib) ![GitHub stars](https://img.shields.io/github/stars/primenumber/ProconLib?style=plastic) - [primenumber](https://atcoder.jp/users/primenumber)さんのライブラリ。
-- [rsk0315/library](https://github.com/rsk0315/library) ![GitHub stars](https://img.shields.io/github/stars/rsk0315/library?style=plastic) - [rsk0315](https://atcoder.jp/users/rsk0315)さんのライブラリ。Rust版もある。
+- [rsk0315/library](https://github.com/rsk0315/library) ![GitHub stars](https://img.shields.io/github/stars/rsk0315/library?style=plastic) - [rsk0315](https://atcoder.jp/users/rsk0315)さんのライブラリ。[Rust版](https://github.com/rsk0315/rust-library)もある。
 - [satanic0258/library](https://github.com/satanic0258/library) ![GitHub stars](https://img.shields.io/github/stars/satanic0258/library?style=plastic) - [satanic0258](https://atcoder.jp/users/satanic0258)さんのライブラリ。
 - [sigma425/library](https://github.com/sigma425/library) ![GitHub stars](https://img.shields.io/github/stars/sigma425/library?style=plastic) - [sigma425](https://atcoder.jp/users/sigma425)さんのライブラリ。
 - [smiken/kyopuro-library](https://github.com/smiken/kyopuro-library) ![GitHub stars](https://img.shields.io/github/stars/smiken/kyopuro-library?style=plastic) - [smiken](https://atcoder.jp/users/smiken)さんのライブラリ。
@@ -188,7 +188,7 @@ filename: libraries
 - [koba-e964/contest](https://github.com/koba-e964/contest/tree/master/comm) ![GitHub stars](https://img.shields.io/github/stars/koba-e964/contest?style=plastic) - [kobae964](https://atcoder.jp/users/kobae964)さんのライブラリ。C++の実装も含まれている。
 - [manta1130/Competitive_Programming_Template_Rust](https://github.com/manta1130/Competitive_Programming_Template_Rust) ![GitHub stars](https://img.shields.io/github/stars/manta1130/Competitive_Programming_Template_Rust?style=plastic) - [manta1130](https://atcoder.jp/users/manta1130)さんのライブラリ。
 - [ngtkana/ac-adapter-rs](https://github.com/ngtkana/ac-adapter-rs) ![GitHub stars](https://img.shields.io/github/stars/ngtkana/ac-adapter-rs?style=plastic) - [ngtkana](https://atcoder.jp/users/ngtkana)さんのライブラリ。[C++版](https://github.com/ngtkana/ngtlibcpp)もある。
-- [rsk0315/rust-library](https://github.com/rsk0315/rust-library) ![GitHub stars](https://img.shields.io/github/stars/rsk0315/rust-library?style=plastic) - [rsk0315](https://atcoder.jp/users/rsk0315)さんのライブラリ。C++版もある。
+- [rsk0315/rust-library](https://github.com/rsk0315/rust-library) ![GitHub stars](https://img.shields.io/github/stars/rsk0315/rust-library?style=plastic) - [rsk0315](https://atcoder.jp/users/rsk0315)さんのライブラリ。[C++版](https://github.com/rsk0315/library)もある。
 - [tanakh/competitive-rs](https://github.com/tanakh/competitive-rs) ![GitHub stars](https://img.shields.io/github/stars/tanakh/competitive-rs?style=plastic) - [tanakh](https://atcoder.jp/users/tanakh)さんのライブラリ。
 - [yoshrc/rust-atcoder-snippets](https://github.com/yoshrc/rust-atcoder-snippets) ![GitHub stars](https://img.shields.io/github/stars/yoshrc/rust-atcoder-snippets?style=plastic) - [yoshrc](https://atcoder.jp/users/yoshrc)さんのスニペット集。
 
