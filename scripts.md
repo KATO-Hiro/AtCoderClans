@@ -126,6 +126,11 @@ filename: scripts
 #### AtCoder
 
 - [ac-clar-shaper](https://greasyfork.org/ja/scripts/388211-ac-clar-shaper) - Clarから非本質な情報（アカウント名・全体公開の有無・投稿/更新日時）を消し、問題順にソートする。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/ac_clar_shaper.png" alt="ac clar shaper">
+  </div>
+
 - [ac-search-old-languages](https://greasyfork.org/ja/scripts/405745-ac-search-old-languages) - 「提出結果」ページで、judge-update-202004以前の言語による提出コードを検索できるようにする。
 
   <div align="center">
