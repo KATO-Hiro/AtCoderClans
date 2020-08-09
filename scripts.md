@@ -168,6 +168,11 @@ filename: scripts
   </div>
 
 - [AtCoder Print Task Copy](https://greasyfork.org/ja/scripts/394999-atcoder-print-task-copy) - 「問題」ページにある「印刷用問題文」にCopyボタンを追加する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_print_task_copy.png" alt="atcoder print task copy">
+  </div>
+
 - [AtCoderScoreHider](https://greasyfork.org/ja/scripts/371898-atcoderscorehider) - 「提出」ページなどの配点を隠す。日本語版のみ対応。
 
   <div align="center">
