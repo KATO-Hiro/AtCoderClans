@@ -187,6 +187,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_prophet.png" alt="atcoder prophet">
   </div>
 
+- [AtCoder Rating Simulator](https://atcoderratingsimulator.herokuapp.com/) - 目標とするレーティングに到達するまでに必要なパフォーマンスを表示する。任意の回数だけ同じパフォーマンスを取ったと仮定した場合についても計算できる。[TwitterのBot](https://twitter.com/AtCoderRS)に登録すれば、コンテスト当日に通知される。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_rating_simulator_web.png" alt="atcoder rating simulator web">
+  </div>
+
 - [atcoder-synchronicity](https://phocom.github.io/atcoder-synchronicity/) - 指定した2人のユーザのシンクロ率(**要確認:** 両者のパフォーマンス値の相関をとった値?)を表示する。
 
   <div align="center">
@@ -256,6 +262,12 @@ filename: web_app
 
   <div align="center">
     <img loading = "lazy" src="images/web_app/atcoder_contest_live.png" alt="atcoder contest live">
+  </div>
+
+- [AtCoder Rating Simulator](https://twitter.com/AtCoderRS) - Ratedコンテスト当日に、所定のレーティングに到達するのに必要なパフォーマンスを自動返信する。事前に登録が必要。[Webページ版](https://atcoderratingsimulator.herokuapp.com/)もある。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_rating_simulator.png" alt="atcoder rating simulator">
   </div>
 
 - [atgolfer](https://twitter.com/atgolfer1) - [コードゴルフ](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%82%B4%E3%83%AB%E3%83%95)の記録更新を通知する。
