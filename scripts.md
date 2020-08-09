@@ -144,6 +144,11 @@ filename: scripts
   </div>
 
 - [AtCoderColouringDifference](https://greasyfork.org/en/scripts/371703-atcodercolouringdifference) - ユーザの「コンテスト成績表」ページで"差分"の部分を色づけする。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_colouring_difference.png" alt="atcoder colouring difference">
+  </div>
+
 - [AtCoder Custom Default Submissions](https://greasyfork.org/ja/scripts/393705-atcoder-custom-default-submissions) - 「すべての提出」ページにおける絞り込み、並び替え設定のデフォルト値を設定できる。
 
   <div align="center">
