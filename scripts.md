@@ -108,6 +108,11 @@ filename: scripts
 
 - [atcoder-keyboard-shortcuts](https://greasyfork.org/ja/scripts/397575-atcoder-keyboard-shortcuts) - Shift+[1-5]で、「問題」ページにあるサンプルの入力をクリップボードにコピーする。
 - [AtCoderLinkCompletionForJOI](https://greasyfork.org/ja/scripts/382313-atcoderlinkcompletionforjoi) - JOIの問題ページにPDFへのリンクを追加する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_link_completion_for_joi.png" alt="atcoder link completion for joi">
+  </div>
+
 - [AtCoder_submit_keyboard_shortcut](https://greasyfork.org/ja/scripts/378760-atcoder-submit-keyboard-shortcut) - 問題の提出が、Ctrl+Enterでできる。レポジトリ作成者による注: ドキュメントから対応しているOSを確認することが難しいため、一部のOSでは動作しない可能性もある(**要確認**)。
 - [AtCoderSubmitSearchSettings](https://greasyfork.org/ja/scripts/390424-atcodersubmitsearchsettings) - 「すべての提出」ページで、古いバージョンで提出されたコードを検索できる。検索のデフォルト設定も指定できる。
 - [AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper) - 「問題」ページから[AtCoderTags](https://atcoder-tags.herokuapp.com/)に投票できる。
@@ -121,6 +126,11 @@ filename: scripts
 #### AtCoder
 
 - [ac-clar-shaper](https://greasyfork.org/ja/scripts/388211-ac-clar-shaper) - Clarから非本質な情報（アカウント名・全体公開の有無・投稿/更新日時）を消し、問題順にソートする。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/ac_clar_shaper.png" alt="ac clar shaper">
+  </div>
+
 - [ac-search-old-languages](https://greasyfork.org/ja/scripts/405745-ac-search-old-languages) - 「提出結果」ページで、judge-update-202004以前の言語による提出コードを検索できるようにする。
 
   <div align="center">
@@ -134,6 +144,11 @@ filename: scripts
   </div>
 
 - [AtCoderColouringDifference](https://greasyfork.org/en/scripts/371703-atcodercolouringdifference) - ユーザの「コンテスト成績表」ページで"差分"の部分を色づけする。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_colouring_difference.png" alt="atcoder colouring difference">
+  </div>
+
 - [AtCoder Custom Default Submissions](https://greasyfork.org/ja/scripts/393705-atcoder-custom-default-submissions) - 「すべての提出」ページにおける絞り込み、並び替え設定のデフォルト値を設定できる。
 
   <div align="center">
@@ -153,6 +168,11 @@ filename: scripts
   </div>
 
 - [AtCoder Print Task Copy](https://greasyfork.org/ja/scripts/394999-atcoder-print-task-copy) - 「問題」ページにある「印刷用問題文」にCopyボタンを追加する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_print_task_copy.png" alt="atcoder print task copy">
+  </div>
+
 - [AtCoderScoreHider](https://greasyfork.org/ja/scripts/371898-atcoderscorehider) - 「提出」ページなどの配点を隠す。日本語版のみ対応。
 
   <div align="center">
@@ -178,6 +198,11 @@ filename: scripts
   </div>
 
 - [AtCoder TLE Police](https://greasyfork.org/ja/scripts/381104-atcoder-tle-police) - 提出したコードが'TLE'(Time Limit Exceeded)となった場合に'AR'(ArRested)に置き換える。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_tle_police.png" alt="atcoder tle police">
+  </div>
+
 - [AtCoderタイマー削除](https://greasyfork.org/ja/scripts/393176-calmatcoder) - コンテストが開催されている間のみ、タイマーを非表示にする。
 - [Snuke? Smeke?](https://greasyfork.org/ja/scripts/377622-snuke-smeke) - 問題文の「すぬけ」と「すめけ」をハイライトする。
 
@@ -186,6 +211,10 @@ filename: scripts
   </div>
 
 - [Time Limit Emphasizer](https://greasyfork.org/ja/scripts/406381-time-limit-emphasizer) - 問題の実行時間制限が2secでない場合に赤大文字で強調する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/time_limit_emphasizer.png" alt="time limit emphasizer">
+  </div>
 
 #### 非公式サービス、ツール、外部サービスなど
 
