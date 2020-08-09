@@ -212,6 +212,10 @@ filename: scripts
 
 - [Time Limit Emphasizer](https://greasyfork.org/ja/scripts/406381-time-limit-emphasizer) - 問題の実行時間制限が2secでない場合に赤大文字で強調する。
 
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/time_limit_emphasizer.png" alt="time limit emphasizer">
+  </div>
+
 #### 非公式サービス、ツール、外部サービスなど
 
 - ["Atcoder" Finder](https://greasyfork.org/ja/scripts/373742-atcoder-finder) - [Twitter](https://twitter.com/)のツイートに含まれる"Atcoder"の文字列を赤色にする。
