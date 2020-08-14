@@ -98,7 +98,7 @@ filename: libraries
 - [tatyam-prime/kyopro_library](https://github.com/tatyam-prime/kyopro_library) ![GitHub stars](https://img.shields.io/github/stars/tatyam-prime/kyopro_library?style=plastic) - [tatyam](https://atcoder.jp/users/tatyam)さんのライブラリ。
 - [Tiramister/CppLibrary](https://github.com/Tiramister/CppLibrary) ![GitHub stars](https://img.shields.io/github/stars/Tiramister/CppLibrary?style=plastic) - [Tiramister](https://atcoder.jp/users/Tiramister)さんのライブラリ。
 - [tubuann/library](https://github.com/tubuann/library) ![GitHub stars](https://img.shields.io/github/stars/tubuann/library?style=plastic) - [tubuann](https://atcoder.jp/users/tubuann)さんのライブラリ。
-- [yosupo06/Algorithm](https://github.com/yosupo06/Algorithm) ![GitHub stars](https://img.shields.io/github/stars/yosupo06/Algorithm?style=plastic) - [yosupo](https://atcoder.jp/users/yosupo)さんのライブラリ。C++11で実装されている。
+- [yosupo06/Algorithm](https://github.com/yosupo06/Algorithm) ![GitHub stars](https://img.shields.io/github/stars/yosupo06/Algorithm?style=plastic) - [yosupo](https://atcoder.jp/users/yosupo)さんのライブラリ。C++11で実装されている。[D版](https://github.com/yosupo06/dunkelheit)もある。
 - [zerokpr/Kpr_Library](https://github.com/zerokpr/Kpr_Library) ![GitHub stars](https://img.shields.io/github/stars/zerokpr/Kpr_Library?style=plastic) - [zero_kpr](https://atcoder.jp/users/zero_kpr)さんのライブラリ。
 
 ### D
@@ -109,7 +109,7 @@ filename: libraries
 - [hos-lyric/libra](https://github.com/hos-lyric/libra) ![GitHub stars](https://img.shields.io/github/stars/hos-lyric/libra?style=plastic) - [hos_lyric](https://atcoder.jp/users/hos_lyric)さんのライブラリ。
 - [private-yusuke/Competitive-Programming](https://github.com/private-yusuke/Competitive-Programming/tree/master/template) ![GitHub stars](https://img.shields.io/github/stars/private-yusuke/Competitive-Programming?style=plastic) - [private_yusuke](https://atcoder.jp/users/private_yusuke)さんのライブラリ。
 - [Sobaya007/sbylib](https://github.com/Sobaya007/sbylib) ![GitHub stars](https://img.shields.io/github/stars/Sobaya007/sbylib?style=plastic) - [sobaya](https://atcoder.jp/users/sobaya)さんのライブラリ。
-- [yosupo06/dunkelheit](https://github.com/yosupo06/dunkelheit) ![GitHub stars](https://img.shields.io/github/stars/yosupo06/dunkelheit?style=plastic) - [yosupo](https://atcoder.jp/users/yosupo)さんのライブラリ。
+- [yosupo06/dunkelheit](https://github.com/yosupo06/dunkelheit) ![GitHub stars](https://img.shields.io/github/stars/yosupo06/dunkelheit?style=plastic) - [yosupo](https://atcoder.jp/users/yosupo)さんのライブラリ。[C++版](https://github.com/yosupo06/Algorithm)もある。
 
 ### Fortran
 
