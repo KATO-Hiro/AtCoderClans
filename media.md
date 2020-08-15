@@ -88,6 +88,7 @@ filename: media
 - [典型的なDP(動的計画法)のパターンを整理 Part1 ～ ナップサックDP編 ～](https://qiita.com/drken/items/a5e6fe22863b7992efdb) - 動的計画法(DP)を学び始めた人向けの記事。また、動的計画法を初めて聞く人や経験が浅い人向けに、[AtCoder](https://atcoder.jp/)では[入門コンテンツ](https://atcoder.jp/contests/dp/)が公開されている。非公式ではあるが、[問題の解説・類題集](https://qiita.com/drken/items/dc53c683d6de8aeacf5a)も併せて読むと理解がとても深まる。
 - [実世界で超頻出！二部マッチング (輸送問題、ネットワークフロー問題）の解法を総整理！](https://qiita.com/drken/items/e805e3f514acceb87602) - 二部マッチング問題(2つのカテゴリ間で最適なマッチングを構成していく問題)について、実社会における豊富な実例とともに、解法が説明されている。
 - [FFT（高速フーリエ変換）を完全に理解する話](https://qiita.com/ageprocpp/items/0d63d4ed80de4a35fe79) - 高速フーリエ変換について、丁寧に解説された記事。記事を読む前提として、数IIまでの知識が求められる。
+- [[数学・numpy] 高速フーリエ変換(FFT)による畳み込み](https://maspypy.com/%e6%95%b0%e5%ad%a6%e3%83%bbnumpy-%e9%ab%98%e9%80%9f%e3%83%95%e3%83%bc%e3%83%aa%e3%82%a8%e5%a4%89%e6%8f%9bfft%e3%81%ab%e3%82%88%e3%82%8b%e7%95%b3%e3%81%bf%e8%be%bc%e3%81%bf) - 競技プログラミングで高速フーリエ変換を活用するための基礎知識が整理されている。Pythonのライブラリnumpyを利用した実装例もある。
 
 #### 実装に関するTips
 
