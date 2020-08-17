@@ -95,6 +95,7 @@ filename: media
 - [実装力で戦える！　～競プロにおける実装テクニック14選～](https://qiita.com/e869120/items/920a6e63435bf6efe539) - 競技プログラミングで実装を楽にする方法、より可読性の高いコードを書く方法を解説した記事。実際のコードの改善例も示されている。
 - [atcoderでよく使う手法python版](https://qiita.com/chun1182/items/ddf2b6cba932b2bb0d4e) - Python利用者に向けたスッキリしたコードを書くための記事。基本的な文法、典型的なアルゴリズム・データ構造だけでなく、ライブラリnumpy・scipyの使い方も掲載されている。
 - [AtCoder緑になるまでに勉強した基本的なアルゴリズムやデータ構造まとめ](https://qiita.com/Takayoshi_Makabe/items/65f20edbd970070419f4) - 筆者が緑コーダー（[AtCoder](https://atcoder.jp/)の分類で、レーティング800〜1199）に到達するまでに学習したアルゴリズムが掲載されている。各種アルゴリズム(bit全探索・二分探索、幅優先探索、深さ優先探索、尺取り法、いもす法、ダイクストラ法、貪欲法、動的計画法、優先度付きキュー、UnionFind木)に対して、Pythonによる実装例もある。
+- [競技プログラミングにおけるC++の定数倍高速化テク](https://qiita.com/ageprocpp/items/7bda728d109c953ece3c) - C++で実装したコードを高速化するテクニックをまとめた記事。
 - [競プロ界隈でpython強者がやっていることをまとめてみた](https://qiita.com/dekamisako/items/1c104e332351ab9389a6) - Python利用者に向けて、入出力や上位陣が利用している便利なコード集をまとめた記事。
 - [厳選！C++ アルゴリズム実装に使える25のSTL機能【前編】](https://qiita.com/e869120/items/518297c6816adb67f9a5) - 競技プログラミングコンテストへの参加やアルゴリズムの学習で便利なC++の標準ライブラリ(STL)と実装例が紹介されている。[後編](https://qiita.com/e869120/items/702ca1c1ed6ff6770257)もある。
 - [超高速！多倍長整数の計算手法【前編：大きな数の四則計算を圧倒的な速度で！】](https://qiita.com/square1001/items/1aa12e04934b6e749962) - 大きな数を計算(多倍長整数演算)するときの工夫を解説した記事。[後編](https://qiita.com/square1001/items/def73e29dd46b156c248)もある。
