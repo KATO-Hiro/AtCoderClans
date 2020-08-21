@@ -21,6 +21,7 @@ filename: media
     - [アルゴリズムの解説](#%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%AE%E8%A7%A3%E8%AA%AC)
     - [実装に関するTips](#%E5%AE%9F%E8%A3%85%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8Btips)
     - [コンテストに向けた練習方法など](#%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E7%B7%B4%E7%BF%92%E6%96%B9%E6%B3%95%E3%81%AA%E3%81%A9)
+    - [問題作成と準備](#%E5%95%8F%E9%A1%8C%E4%BD%9C%E6%88%90%E3%81%A8%E6%BA%96%E5%82%99)
     - [アルゴリズム、最適化手法を活用した事例](#%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E6%9C%80%E9%81%A9%E5%8C%96%E6%89%8B%E6%B3%95%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E4%BA%8B%E4%BE%8B)
     - [アカウント](#%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88)
 - [書籍、オンラインブック](#%E6%9B%B8%E7%B1%8D%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%96%E3%83%83%E3%82%AF)
@@ -110,6 +111,10 @@ filename: media
 - [AtCoderの問題を分類しました](https://qiita.com/KoyanagiHitoshi/items/32dc42d8c5ee75339e54) - [AtCoder](https://atcoder.jp/)で開催されたコンテストについて、問題の分類とPythonでの解答例が示されている。AtCoder Beginner Contest(ABC)のABC001〜ABC158のA問題・B問題・C問題と、AtCoder Regular Contest(ARC)のARC001〜ARC103のA問題が対象となっている。動作環境は、Python3.4.3。
 - [精進について](https://kyopro-friends.hatenablog.com/entry/2020/02/03/202835) - [kyopro_friends](https://atcoder.jp/users/kyopro_friends)さんの練習に対する考え方や方法について書かれた記事。
 - [PythonでAtCoder青になるまで -Pythonで競プロやるときに気をつけること-](https://qiita.com/Kentaro_okumura/items/a6917572756a2e3c0da9) - コンテストでPythonを利用している人に向けた練習方法が書かれている。他の言語を使っている人にも参考になる部分が多い。
+
+#### 問題作成と準備
+
+- [競技プログラミングにおける作問テクニックを総整理！ 〜初心者から経験者まで〜](https://qiita.com/e869120/items/45a0132263094b83fc44) - コンテストの問題を作りたい人に向けて、役割分担・作業工程の説明から、問題文・テストケースの作成手順とそれらの注意事項について網羅的にまとめられている。
 
 #### アルゴリズム、最適化手法を活用した事例
 
