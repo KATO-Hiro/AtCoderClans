@@ -48,6 +48,10 @@ filename: media
 - [Visual Studio Codeで競プロ環境構築(実践編)](https://qiita.com/AokabiC/items/af685bfd205dda44ec45) - 便利なショートカット、コードスニペット、拡張機能、サンプルケースの自動検証、デバッグツールについて紹介されている。
 - [【VScode＋WSLで始める】競プロ用C++デバッグ環境構築](https://qiita.com/2019Shun/items/5ab290a4117a00e373b6) - C++のコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)で構築したあとの拡張機能の導入・設定ファイルについて紹介されている。
 
+### コードを実装するときの工夫
+
+- [AtCoder 黄色の私が気を付けていること](https://ngtkana.hatenablog.com/entry/2019/07/15/002340) - C++での実装における工夫を紹介した記事。言語で用意されている機能を活用して、バグを埋め込みにくく、バグを埋め込んだとしても気付きやすく・直しやすくすることに重点が置かれているのが特徴。
+
 ### コンテストで出題された問題、アルゴリズムの解説
 
 - [アルゴリズムロジック](https://algo-logic.info/) - [kami634](https://atcoder.jp/users/kami634)さんのアルゴリズム解説サイト。サンプルコードは、C++で実装されている。
