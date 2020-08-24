@@ -68,6 +68,10 @@ filename: media
 
 - [【プログラミング言語速度比較】Collatz数列ベンチマークを言語別比較しよー！](https://rheotommy.hatenablog.com/entry/2020/07/18/205343) - [RheoTommy](https://atcoder.jp/users/RheoTommy)さんによる記事。[Collatz数列](https://en.wikipedia.org/wiki/Collatz_conjecture#:~:text=Unsolved%20problem%20in%20mathematics%3A&text=The%20Collatz%20conjecture%20is%20a,half%20of%20the%20previous%20term.)を題材に、各言語の実行速度を比較・分類している。
 
+### 数学の知識
+
+- [競技プログラミングに関係する数学の整理 ～文系出身や数学苦手erが、もっと競プロを楽しむために～](https://terumiyake.hatenablog.com/entry/2020/08/23/133659) - 競技プログラミングの問題を解く上で必要となる数学の分野・キーワードなどを網羅的にまとめた記事。
+
 ### Qiita
 
 #### 入門者、初心者向けの記事
