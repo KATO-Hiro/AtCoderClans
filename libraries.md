@@ -46,6 +46,55 @@ filename: libraries
     <img loading = "lazy" src="images/library/library_checker.png" alt="library checker">
   </div>
 
+### AtCoder Library (ACL)の各言語への移植
+
+[AtCoder](https://atcoder.jp/)公式が、様々なアルゴリズムをC++で実装したライブラリを[AtCoder Library (ACL)](https://atcoder.jp/posts/517)として公開しています。有志によって、各言語への移植が試みられています。
+
+#### ライブラリの内容に関する記事
+
+- [AtCoder Library - 西尾泰和のScrapbox](https://scrapbox.io/nishio/AtCoder_Library) - ライブラリの見出しを1ページにまとめた記事。概略を把握するのに便利。
+- [AtCoder Library (日本語訳)](https://drken1215.hatenablog.com/) - [drken](https://atcoder.jp/users/drken)さんによる[公式記事](https://codeforces.com/blog/entry/82400)の日本語訳。
+
+#### C
+
+- [siumai1223/ac-library-c](https://github.com/siumai1223/ac-library-c) ![GitHub stars](https://img.shields.io/github/stars/siumai1223/ac-library-c?style=plastic) - C版。[slack](https://ac-library-c.slack.com/join/shared_invite/zt-h4ka7x46-kFrvaf836kJzGZkfNYCq_w#/)も作成されている。
+
+#### C++
+
+- [TumoiYorozu/single-file-ac-library](https://github.com/TumoiYorozu/single-file-ac-library) ![GitHub stars](https://img.shields.io/github/stars/TumoiYorozu/single-file-ac-library?style=plastic) - [公式ライブラリ](https://atcoder.jp/posts/517)をシングルファイルとして使えるようにしている。また、公式ドキュメントを[ブラウザ](https://tumoiyorozu.github.io/single-file-ac-library/document_ja/)で見ることもできる。
+
+#### CSharp
+
+- [key-moon/ac-library-cs](https://github.com/key-moon/ac-library-cs) ![GitHub stars](https://img.shields.io/github/stars/key-moon/ac-library-cs?style=plastic) - C#版。
+
+#### Go
+
+- [monkukui/ac-library-go](https://github.com/monkukui/ac-library-go) ![GitHub stars](https://img.shields.io/github/stars/monkukui/ac-library-go?style=plastic) - Go版。
+
+#### Java
+
+- [NASU41/AtCoderLibraryForJava](https://github.com/NASU41/AtCoderLibraryForJava) ![GitHub stars](https://img.shields.io/github/stars/NASU41/AtCoderLibraryForJava?style=plastic) - Java版。このレポジトリから派生した[Kotlin版](https://github.com/da-louis/ac-library-kt)もある。
+
+#### Julia
+
+- [abap34/ACL.jl](https://github.com/abap34/ACL.jl) ![GitHub stars](https://img.shields.io/github/stars/abap34/ACL.jl?style=plastic) - Julia版。
+
+#### Kotlin
+
+- [da-louis/ac-library-kt](https://github.com/da-louis/ac-library-kt) ![GitHub stars](https://img.shields.io/github/stars/da-louis/ac-library-kt?style=plastic) - Kotlin版。[Java版](https://github.com/NASU41/AtCoderLibraryForJava)をベースに作成されている。
+
+#### Nim
+
+- [zer0-star/Nim-ACL](https://github.com/zer0-star/Nim-ACL) ![GitHub stars](https://img.shields.io/github/stars/zer0-star/Nim-ACL?style=plastic) - Nim版。
+
+#### Python
+
+- [not522/ac-library-python](https://github.com/not522/ac-library-python) ![GitHub stars](https://img.shields.io/github/stars/not522/ac-library-python?style=plastic) - Python版。
+
+#### Rust
+
+- [rust-lang-ja/ac-library-rs](https://github.com/rust-lang-ja/ac-library-rs) ![GitHub stars](https://img.shields.io/github/stars/rust-lang-ja/ac-library-rs?style=plastic) - Rust版。
+
 ### 複数の言語
 
 - [TheAlgorithms](https://github.com/TheAlgorithms) - 競技プログラミング専用ではないが、有名なアルゴリズムが複数の言語で実装されたレポジトリ群。Python, Java, C++, C, Go, JavaScriptなどが公開されている。
