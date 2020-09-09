@@ -158,7 +158,7 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_aishosinndan.png" alt="atcoder aishosinndan">
   </div>
 
-- [AtCoder Badges](https://atcoder-badges.now.sh/) - 任意のユーザのレーティングとレーティングに対応した色を表示するバッジを生成する。
+- [AtCoder Badges](https://atcoder-badges.now.sh/) - 任意のユーザのレーティングとレーティングに対応した色を表示するバッジを生成する。[M5StickC](https://github.com/makutamoto/atcoder-badges-for-m5stickc)に表示させることもできる。
 
   <div align="center">
     <img loading = "lazy" src="images/web_app/atcoder_badges.png" alt="atcoder badges">
