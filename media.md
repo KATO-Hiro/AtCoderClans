@@ -32,6 +32,8 @@ filename: media
   - [書籍](#%E6%9B%B8%E7%B1%8D)
   - [オンラインブック](#%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%96%E3%83%83%E3%82%AF)
 - [YouTube](#youtube)
+  - [チャンネル](#%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB)
+  - [公開動画](#%E5%85%AC%E9%96%8B%E5%8B%95%E7%94%BB)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
