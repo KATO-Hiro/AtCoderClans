@@ -144,6 +144,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_rivals.png" alt="atcoder rivals">
   </div>
 
+- [AtCoder Rollback](https://phocom.github.io/atcoder-rollback/index.html) - 指定した日時までのレーティングの推移を表示する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_rollback.png" alt="atcoder rollback">
+  </div>
+
 - [Rating History](https://rating-history.herokuapp.com/index.html) - 複数のコンテストサイトで、解いた問題数とレーティングの推移を表示する。
 
   <div align="center">
