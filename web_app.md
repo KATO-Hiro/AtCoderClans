@@ -206,7 +206,7 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_rating_simulator_web.png" alt="atcoder rating simulator web">
   </div>
 
-- [atcoder-synchronicity](https://phocom.github.io/atcoder-synchronicity/) - 指定した2人のユーザのシンクロ率(**要確認:** 両者のパフォーマンス値の相関をとった値?)を表示する。
+- [atcoder-synchronicity](https://phocom.github.io/atcoder-synchronicity/) - 指定した2人のユーザのシンクロ率(両者のパフォーマンス値の相関係数)を表示する。
 
   <div align="center">
     <img loading = "lazy" src="images/web_app/atcoder_synchronicity.png" alt="atcoder synchronicity">
