@@ -109,6 +109,12 @@ filename: cli
     <img loading = "lazy" src="images/cli/vim_atcoder.jpg" alt="vim atcoder">
   </div>
 
+### 複数のファイルを一つにまとめるツール
+
+#### Go
+
+- [gpcg](https://github.com/monkukui/gpcg) ![GitHub stars](https://img.shields.io/github/stars/monkukui/gpcg?style=plastic) - 複数のファイルにまたがるGoのコードを一つにまとめて、提出用のコードを生成するツール。注: レポジトリのREADMEによると、未完成の状態。
+
 ### 環境構築
 
 - [atcoder_docker_sample](https://github.com/yamatia/atcoder_docker_sample) - [Visual Studio Code](https://code.visualstudio.com/)・[Docker](https://www.docker.com/)・[Git](https://git-scm.com/downloads)を使って、PythonとC++の実行環境を構築。
