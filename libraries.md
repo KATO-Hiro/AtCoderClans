@@ -91,7 +91,7 @@ filename: libraries
 
 #### Java
 
-- [NASU41/AtCoderLibraryForJava](https://github.com/NASU41/AtCoderLibraryForJava) ![GitHub stars](https://img.shields.io/github/stars/NASU41/AtCoderLibraryForJava?style=plastic) - Java版。このレポジトリから派生した[Kotlin版](https://github.com/da-louis/ac-library-kt)もある。
+- [NASU41/AtCoderLibraryForJava](https://github.com/NASU41/AtCoderLibraryForJava) ![GitHub stars](https://img.shields.io/github/stars/NASU41/AtCoderLibraryForJava?style=plastic) - Java版。[Slack](https://aclforjava.slack.com/join/shared_invite/zt-h7q1ytaa-qr2PMhMZCECG30hJTm5kjw#/)も用意されている。また、このレポジトリから派生した[Kotlin版](https://github.com/da-louis/ac-library-kt)もある。
 
 #### Julia
 
@@ -112,11 +112,11 @@ filename: libraries
 
 #### Ruby
 
-- [universato/ac-library-rb](https://github.com/universato/ac-library-rb) ![GitHub stars](https://img.shields.io/github/stars/universato/ac-library-rb?style=plastic) - Ruby版。
+- [universato/ac-library-rb](https://github.com/universato/ac-library-rb) ![GitHub stars](https://img.shields.io/github/stars/universato/ac-library-rb?style=plastic) - Ruby版。[Slack](https://ruby-jp.github.io/)ワークスペースが用意されている。
 
 #### Rust
 
-- [rust-lang-ja/ac-library-rs](https://github.com/rust-lang-ja/ac-library-rs) ![GitHub stars](https://img.shields.io/github/stars/rust-lang-ja/ac-library-rs?style=plastic) - Rust版。
+- [rust-lang-ja/ac-library-rs](https://github.com/rust-lang-ja/ac-library-rs) ![GitHub stars](https://img.shields.io/github/stars/rust-lang-ja/ac-library-rs?style=plastic) - Rust版。詳しい情報は、[Slack](https://rust-jp.rs/)で得られる。
 
 ### 複数の言語
 
