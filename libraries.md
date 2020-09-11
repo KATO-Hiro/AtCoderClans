@@ -17,6 +17,7 @@ filename: libraries
     - [C](#c)
     - [C++](#c)
     - [CSharp](#csharp)
+    - [D](#d)
     - [Go](#go)
     - [Java](#java)
     - [Julia](#julia)
@@ -27,7 +28,7 @@ filename: libraries
   - [複数の言語](#%E8%A4%87%E6%95%B0%E3%81%AE%E8%A8%80%E8%AA%9E)
   - [CSharp](#csharp-1)
   - [C++](#c-1)
-  - [D](#d)
+  - [D](#d-1)
   - [Fortran](#fortran)
   - [FSharp](#fsharp)
   - [Go](#go-1)
@@ -78,6 +79,10 @@ filename: libraries
 #### CSharp
 
 - [key-moon/ac-library-cs](https://github.com/key-moon/ac-library-cs) ![GitHub stars](https://img.shields.io/github/stars/key-moon/ac-library-cs?style=plastic) - C#版。
+
+#### D
+
+- [arkark/ac-library-d](https://github.com/arkark/ac-library-d) ![GitHub stars](https://img.shields.io/github/stars/arkark/ac-library-d?style=plastic) - D版。
 
 #### Go
 
