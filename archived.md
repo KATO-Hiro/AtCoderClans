@@ -18,6 +18,9 @@ filename: archived
 
 諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
 
+- [ac-library-mirror](https://github.com/TonalidadeHidrica/ac-library-mirror) - [AtCoder Library (ACL)](https://atcoder.jp/posts/518)の非公式ミラー。別言語へのラッパー作成などに役立てるため、公式ライブラリの変更を管理している。
+  - 理由: [公式レポジトリ](https://github.com/atcoder/ac-library)が公開されているため。
+  - 代替手段: [公式レポジトリ](https://github.com/atcoder/ac-library)を参照する。
 - [acscores-link](https://greasyfork.org/ja/scripts/377267-acscores-link) - ユーザ名のドロップダウンメニューに[AtCoder Scores](http://atcoder-scores.herokuapp.com/)へのリンクを追加する。
   - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
   - 代替手段: [AtCoder Scores](http://atcoder-scores.herokuapp.com/)のリンクから閲覧する。
