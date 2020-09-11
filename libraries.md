@@ -24,6 +24,7 @@ filename: libraries
     - [Kotlin](#kotlin)
     - [Nim](#nim)
     - [Python](#python)
+    - [Ruby](#ruby)
     - [Rust](#rust)
   - [複数の言語](#%E8%A4%87%E6%95%B0%E3%81%AE%E8%A8%80%E8%AA%9E)
   - [CSharp](#csharp-1)
@@ -39,7 +40,7 @@ filename: libraries
   - [Node.js](#nodejs)
   - [PHP](#php)
   - [Python](#python-1)
-  - [Ruby](#ruby)
+  - [Ruby](#ruby-1)
   - [Rust](#rust-1)
   - [Scala](#scala)
 
@@ -108,6 +109,10 @@ filename: libraries
 
 - [Mitarushi/ACL-Python](https://github.com/Mitarushi/ACL-Python) ![GitHub stars](https://img.shields.io/github/stars/Mitarushi/ACL-Python?style=plastic) - PyPy版。
 - [not522/ac-library-python](https://github.com/not522/ac-library-python) ![GitHub stars](https://img.shields.io/github/stars/not522/ac-library-python?style=plastic) - Python版。
+
+#### Ruby
+
+- [universato/ac-library-rb](https://github.com/universato/ac-library-rb) ![GitHub stars](https://img.shields.io/github/stars/universato/ac-library-rb?style=plastic) - Ruby版。
 
 #### Rust
 
