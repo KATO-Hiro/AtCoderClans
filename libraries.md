@@ -24,6 +24,7 @@ filename: libraries
     - [Kotlin](#kotlin)
     - [Nim](#nim)
     - [Python](#python)
+    - [Ruby](#ruby)
     - [Rust](#rust)
   - [複数の言語](#%E8%A4%87%E6%95%B0%E3%81%AE%E8%A8%80%E8%AA%9E)
   - [CSharp](#csharp-1)
@@ -39,7 +40,7 @@ filename: libraries
   - [Node.js](#nodejs)
   - [PHP](#php)
   - [Python](#python-1)
-  - [Ruby](#ruby)
+  - [Ruby](#ruby-1)
   - [Rust](#rust-1)
   - [Scala](#scala)
 
