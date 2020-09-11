@@ -109,6 +109,10 @@ filename: libraries
 - [Mitarushi/ACL-Python](https://github.com/Mitarushi/ACL-Python) ![GitHub stars](https://img.shields.io/github/stars/Mitarushi/ACL-Python?style=plastic) - PyPy版。
 - [not522/ac-library-python](https://github.com/not522/ac-library-python) ![GitHub stars](https://img.shields.io/github/stars/not522/ac-library-python?style=plastic) - Python版。
 
+#### Ruby
+
+- [universato/ac-library-rb](https://github.com/universato/ac-library-rb) ![GitHub stars](https://img.shields.io/github/stars/universato/ac-library-rb?style=plastic) - Ruby版。
+
 #### Rust
 
 - [rust-lang-ja/ac-library-rs](https://github.com/rust-lang-ja/ac-library-rs) ![GitHub stars](https://img.shields.io/github/stars/rust-lang-ja/ac-library-rs?style=plastic) - Rust版。
