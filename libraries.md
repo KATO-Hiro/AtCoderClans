@@ -71,8 +71,7 @@ filename: libraries
 
 #### 各言語コミュニティでの活動状況
 
-- [Unofficial Portings of AtCoder Library](https://docs.google.com/spreadsheets/d/19jMAqUbv98grVkLV_Lt54x5B8ILoTcvBzG8EbSvf5gY/edit#gid=0) - [not_522
-](https://twitter.com/not_522)さんによる、コミュニティの一覧表。
+- [Unofficial Portings of AtCoder Library](https://docs.google.com/spreadsheets/d/19jMAqUbv98grVkLV_Lt54x5B8ILoTcvBzG8EbSvf5gY/edit#gid=0) - [not](https://atcoder.jp/users/not)さんによる、コミュニティの一覧表。
 
 #### C
 
