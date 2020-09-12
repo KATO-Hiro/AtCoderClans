@@ -69,6 +69,11 @@ filename: libraries
 - [AtCoder Library - 西尾泰和のScrapbox](https://scrapbox.io/nishio/AtCoder_Library) - ライブラリの見出しを1ページにまとめた記事。概略を把握するのに便利。
 - [AtCoder Library (日本語訳)](https://drken1215.hatenablog.com/) - [drken](https://atcoder.jp/users/drken)さんによる[公式記事](https://codeforces.com/blog/entry/82400)の日本語訳。
 
+#### 各言語コミュニティでの活動状況
+
+- [Unofficial Portings of AtCoder Library](https://docs.google.com/spreadsheets/d/19jMAqUbv98grVkLV_Lt54x5B8ILoTcvBzG8EbSvf5gY/edit#gid=0) - [not_522
+](https://twitter.com/not_522)さんによる、コミュニティの一覧表。
+
 #### C
 
 - [siumai1223/ac-library-c](https://github.com/siumai1223/ac-library-c) ![GitHub stars](https://img.shields.io/github/stars/siumai1223/ac-library-c?style=plastic) - C版。[slack](https://ac-library-c.slack.com/join/shared_invite/zt-h4ka7x46-kFrvaf836kJzGZkfNYCq_w#/)も作成されている。
