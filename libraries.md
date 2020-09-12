@@ -14,6 +14,7 @@ filename: libraries
   - [ライブラリチェッカー](#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%83%81%E3%82%A7%E3%83%83%E3%82%AB%E3%83%BC)
   - [AtCoder Library (ACL)の各言語への移植](#atcoder-library-acl%E3%81%AE%E5%90%84%E8%A8%80%E8%AA%9E%E3%81%B8%E3%81%AE%E7%A7%BB%E6%A4%8D)
     - [ライブラリの内容に関する記事](#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%81%AE%E5%86%85%E5%AE%B9%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%A8%98%E4%BA%8B)
+    - [各言語コミュニティでの活動状況](#%E5%90%84%E8%A8%80%E8%AA%9E%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%81%A7%E3%81%AE%E6%B4%BB%E5%8B%95%E7%8A%B6%E6%B3%81)
     - [C](#c)
     - [C++](#c)
     - [CSharp](#csharp)
@@ -69,9 +70,14 @@ filename: libraries
 - [AtCoder Library - 西尾泰和のScrapbox](https://scrapbox.io/nishio/AtCoder_Library) - ライブラリの見出しを1ページにまとめた記事。概略を把握するのに便利。
 - [AtCoder Library (日本語訳)](https://drken1215.hatenablog.com/) - [drken](https://atcoder.jp/users/drken)さんによる[公式記事](https://codeforces.com/blog/entry/82400)の日本語訳。
 
+#### 各言語コミュニティでの活動状況
+
+- [Unofficial Portings of AtCoder Library](https://docs.google.com/spreadsheets/d/19jMAqUbv98grVkLV_Lt54x5B8ILoTcvBzG8EbSvf5gY/edit#gid=0) - [not_522
+](https://twitter.com/not_522)さんによる、コミュニティの一覧表。
+
 #### C
 
-- [siumai1223/ac-library-c](https://github.com/siumai1223/ac-library-c) ![GitHub stars](https://img.shields.io/github/stars/siumai1223/ac-library-c?style=plastic) - C版。[slack](https://ac-library-c.slack.com/join/shared_invite/zt-h4ka7x46-kFrvaf836kJzGZkfNYCq_w#/)も作成されている。
+- [siumai1223/ac-library-c](https://github.com/siumai1223/ac-library-c) ![GitHub stars](https://img.shields.io/github/stars/siumai1223/ac-library-c?style=plastic) - C版。[Slack](https://ac-library-c.slack.com/join/shared_invite/zt-h4ka7x46-kFrvaf836kJzGZkfNYCq_w#/)も作成されている。
 
 #### C++
 
@@ -91,7 +97,7 @@ filename: libraries
 
 #### Java
 
-- [NASU41/AtCoderLibraryForJava](https://github.com/NASU41/AtCoderLibraryForJava) ![GitHub stars](https://img.shields.io/github/stars/NASU41/AtCoderLibraryForJava?style=plastic) - Java版。このレポジトリから派生した[Kotlin版](https://github.com/da-louis/ac-library-kt)もある。
+- [NASU41/AtCoderLibraryForJava](https://github.com/NASU41/AtCoderLibraryForJava) ![GitHub stars](https://img.shields.io/github/stars/NASU41/AtCoderLibraryForJava?style=plastic) - Java版。[Slack](https://aclforjava.slack.com/join/shared_invite/zt-h7q1ytaa-qr2PMhMZCECG30hJTm5kjw#/)も用意されている。また、このレポジトリから派生した[Kotlin版](https://github.com/da-louis/ac-library-kt)もある。
 
 #### Julia
 
@@ -112,11 +118,11 @@ filename: libraries
 
 #### Ruby
 
-- [universato/ac-library-rb](https://github.com/universato/ac-library-rb) ![GitHub stars](https://img.shields.io/github/stars/universato/ac-library-rb?style=plastic) - Ruby版。
+- [universato/ac-library-rb](https://github.com/universato/ac-library-rb) ![GitHub stars](https://img.shields.io/github/stars/universato/ac-library-rb?style=plastic) - Ruby版。[Slack](https://ruby-jp.github.io/)ワークスペースが用意されている。
 
 #### Rust
 
-- [rust-lang-ja/ac-library-rs](https://github.com/rust-lang-ja/ac-library-rs) ![GitHub stars](https://img.shields.io/github/stars/rust-lang-ja/ac-library-rs?style=plastic) - Rust版。
+- [rust-lang-ja/ac-library-rs](https://github.com/rust-lang-ja/ac-library-rs) ![GitHub stars](https://img.shields.io/github/stars/rust-lang-ja/ac-library-rs?style=plastic) - Rust版。詳しい情報は、[Slack](https://rust-jp.rs/)で得られる。
 
 ### 複数の言語
 
