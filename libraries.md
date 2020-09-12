@@ -76,7 +76,7 @@ filename: libraries
 
 #### C
 
-- [siumai1223/ac-library-c](https://github.com/siumai1223/ac-library-c) ![GitHub stars](https://img.shields.io/github/stars/siumai1223/ac-library-c?style=plastic) - C版。[slack](https://ac-library-c.slack.com/join/shared_invite/zt-h4ka7x46-kFrvaf836kJzGZkfNYCq_w#/)も作成されている。
+- [siumai1223/ac-library-c](https://github.com/siumai1223/ac-library-c) ![GitHub stars](https://img.shields.io/github/stars/siumai1223/ac-library-c?style=plastic) - C版。[Slack](https://ac-library-c.slack.com/join/shared_invite/zt-h4ka7x46-kFrvaf836kJzGZkfNYCq_w#/)も作成されている。
 
 #### C++
 
