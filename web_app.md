@@ -176,6 +176,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_beginner_contest_tournament.png" alt="abc tournament">
   </div>
 
+- [AtCoder Diff Scores](https://atcoder-diff-scores.herokuapp.com/home) - レーティングと[AtCoder Problems](https://kenkoooo.com/atcoder)で推定されたDifficultyの累計値の推移を表示する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_diff_scores.png" alt="Atcoder Diff Scores">
+  </div>
+
 - [AtCoder Friend Finder](http://atcoder-friend-finder.herokuapp.com/) - [Twitter](https://twitter.com/)でフォローしている[AtCoder](https://atcoder.jp/)ユーザを表示する。
 
   <div align="center">
