@@ -82,6 +82,7 @@ filename: media
 - [データ構造 Fenwick tree (binary indexed tree, BIT) にどっぷりと入門し、その美しき構造に心を洗われたい方のための紹介記事です！](https://qiita.com/ngtkana/items/7d50ff180a4e5c294cb7) - データ構造の一つであるFenwick tree(Binary Indexed Tree、BIT)の基本的な理論について数式とグラフを用いた詳しい説明や実装のコツが解説されている。また、応用例として、二分探索の実行、二次元への拡張方法などが解説されている。
 - [平方分割の練習をしようにも難しい問題ばかり、そんなお悩みに狙いを決めて手取り足取りのレクチャーです！](https://caddi.tech/archives/1259) - [Aizu Online Judge](https://onlinejudge.u-aizu.ac.jp/home)の[Range Sum Query](https://onlinejudge.u-aizu.ac.jp/courses/library/3/DSL/2/DSL_2_B)を題材に、平方分割の本質部分を実装するための方法が解説されている。
 - [実世界で超頻出！二部マッチング (輸送問題、ネットワークフロー問題）の解法を総整理！](https://qiita.com/drken/items/e805e3f514acceb87602) - 二部マッチング問題(2つのカテゴリ間で最適なマッチングを構成していく問題)について、実社会における豊富な実例とともに、解法が説明されている。
+- [離散フーリエ変換(DFT)の仕組みを完全に理解する](https://qiita.com/TumoiYorozu/items/5855d75a47ef2c7e62c8) - 高速フーリエ変換の前提知識である「離散フーリエ変換」の原理・公式の導出を丁寧、かつ、分かりやすく解説することを目指した記事。
 - [FFT（高速フーリエ変換）を完全に理解する話](https://qiita.com/ageprocpp/items/0d63d4ed80de4a35fe79) - 高速フーリエ変換について、丁寧に解説された記事。記事を読む前提として、数IIまでの知識が求められる。
 - [[数学・numpy] 高速フーリエ変換(FFT)による畳み込み](https://maspypy.com/%e6%95%b0%e5%ad%a6%e3%83%bbnumpy-%e9%ab%98%e9%80%9f%e3%83%95%e3%83%bc%e3%83%aa%e3%82%a8%e5%a4%89%e6%8f%9bfft%e3%81%ab%e3%82%88%e3%82%8b%e7%95%b3%e3%81%bf%e8%be%bc%e3%81%bf) - 競技プログラミングで高速フーリエ変換を活用するための基礎知識が整理されている。Pythonのライブラリnumpyを利用した実装例もある。
 - [高速フーリエ変換の実装を難しそうかなと思っている方が、なんだ簡単じゃないですか！！ となるための実装講座です](https://qiita.com/ngtkana/items/a41344ad3304d2315c46) - 高速フーリエ変換の知識があることを前提に、実装方法に重点を置いた解説記事。C#での実装例もある。
