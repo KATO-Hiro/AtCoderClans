@@ -111,7 +111,7 @@ filename: cli
 
 ### テンプレートを生成するツール
 
-- [Online Judge Template Generator](https://github.com/online-judge-tools/template-generator) ![GitHub stars](https://img.shields.io/github/stars/online-judge-tools/template-generator?style=plastic) - コンテストの問題を解析して、提出用のコードやランダムケース生成に関するテンプレートを出力できるツール。C++とPythonに対応している。
+- [Online Judge Template Generator](https://github.com/online-judge-tools/template-generator) ![GitHub stars](https://img.shields.io/github/stars/online-judge-tools/template-generator?style=plastic) - コンテストの問題を解析して、提出用のコードやランダムケース生成に関するテンプレートを出力できるツール。C++とPythonに対応している。また、有志による[紹介記事](https://hamukichi.hatenablog.jp/entry/2020/09/17/230818)もある。
 
 ### 複数のファイルを一つにまとめるツール
 
