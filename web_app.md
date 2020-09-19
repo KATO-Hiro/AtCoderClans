@@ -237,6 +237,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_widget.png" alt="atcoder widget">
   </div>
 
+- [CP-Badges](https://github.com/kehsihba19/CP-Badges) - 複数のコンテストサイトのレーティングをGitHubのプロフィールなどに掲載することができる。[AtCoder](https://atcoder.jp/)だけでなく、[Codeforces](https://codeforces.com/)、[CodeChef](https://www.codechef.com/)、[Topcoder](https://www.topcoder.com/)、[yukicoder](https://yukicoder.me/)にも対応している。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/cp_badges.png" alt="cp badges">
+  </div>
+
 - [Devotter](https://devotter.app/) - 1日1回AC(Accepted)数を[Twitter](https://twitter.com/)にツイートする。
 
   <div align="center">
