@@ -18,6 +18,7 @@ filename: cli
     - [Python](#python)
     - [Ruby](#ruby)
     - [Rust](#rust)
+  - [テンプレートを生成するツール](#%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%82%92%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B%E3%83%84%E3%83%BC%E3%83%AB)
   - [複数のファイルを一つにまとめるツール](#%E8%A4%87%E6%95%B0%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E4%B8%80%E3%81%A4%E3%81%AB%E3%81%BE%E3%81%A8%E3%82%81%E3%82%8B%E3%83%84%E3%83%BC%E3%83%AB)
     - [Go](#go)
   - [環境構築](#%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89)
@@ -107,6 +108,10 @@ filename: cli
   </div>
 
 - [kunai](https://github.com/mouri111/kunai) ![GitHub stars](https://img.shields.io/github/stars/mouri111/kunai?style=plastic) - サンプルケースのテストができる。
+
+### テンプレートを生成するツール
+
+- [Online Judge Template Generator](https://github.com/online-judge-tools/template-generator) ![GitHub stars](https://img.shields.io/github/stars/online-judge-tools/template-generator?style=plastic) - コンテストの問題を解析して、提出用のコードやランダムケース生成に関するテンプレートを出力できるツール。C++とPythonに対応している。
 
 ### 複数のファイルを一つにまとめるツール
 
