@@ -33,7 +33,8 @@ filename: media
   - [オンラインブック](#%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%96%E3%83%83%E3%82%AF)
 - [YouTube](#youtube)
   - [チャンネル](#%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB)
-  - [公開動画](#%E5%85%AC%E9%96%8B%E5%8B%95%E7%94%BB)
+  - [講座、講演](#%E8%AC%9B%E5%BA%A7%E8%AC%9B%E6%BC%94)
+  - [プロモーションビデオ](#%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%93%E3%83%87%E3%82%AA)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -177,7 +178,11 @@ filename: media
 - [きりみんちゃん kirimin-chan](https://www.youtube.com/c/kiriminchan/playlists) - [kirimin](https://atcoder.jp/users/kirimin)さんのチャンネル。競技プログラミングやライブコーディングだけでなく、幅広い話題の動画が公開されている。
 - [じょえチャンネル](https://www.youtube.com/channel/UCRXsI3FL_kvaVL9zoolBfbQ/videos) - [xuzijian629](https://atcoder.jp/users/xuzijian629)さんのチャンネル。
 
-### 公開動画
+### 講座、講演
 
 - [プログラミングコンテストのすゝめ 〜競プロはキャリアであり、趣味でもあり、学びである〜](https://www.youtube.com/watch?v=Jb0-8ZuRpNM&feature=youtu.be) - 2020年7月に開催された日本最大の学生向けテックカンファレンス「技育祭」（ぎいくさい）の講演動画。[chokudai](https://twitter.com/chokudai)さんが、競技プログラミングの面白さ・楽しさを解説している。
 - [ワンランク上に行くプロコン講座](https://www.youtube.com/watch?v=_Je4rukUcqE) - [chokudai](https://twitter.com/chokudai)さんによるトークライブ。競技プログラミングの典型的な問題に対して、上位陣が一瞬で解ける理由と考え方のコツを解説している。
+
+### プロモーションビデオ
+
+- [AtCoder 布教 PV](https://www.youtube.com/watch?v=-z3bTeA_SEY&feature=youtu.be) - 有志による[AtCoder](https://atcoder.jp/)のプロモーションビデオ。特に、競技プログラミングを始めようと思っている人や周囲に布教したい人におすすめ。
