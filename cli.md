@@ -108,6 +108,10 @@ filename: cli
 
 - [kunai](https://github.com/mouri111/kunai) ![GitHub stars](https://img.shields.io/github/stars/mouri111/kunai?style=plastic) - サンプルケースのテストができる。
 
+### テンプレートを生成するツール
+
+- [Online Judge Template Generator](https://github.com/online-judge-tools/template-generator) ![GitHub stars](https://img.shields.io/github/stars/online-judge-tools/template-generator?style=plastic) - コンテストの問題を解析して、提出用のコードやランダムケース生成に関するテンプレートを出力できるツール。C++とPythonに対応している。
+
 ### 複数のファイルを一つにまとめるツール
 
 #### Go
