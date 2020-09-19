@@ -146,4 +146,5 @@ filename: cli
 
 ### 問題の作成と準備を支援するツール
 
+- [Rime](https://github.com/icpc-jag/rime) ![GitHub stars](https://img.shields.io/github/stars/icpc-jag/rime?style=plastic) - コンテストの問題セット作成を補助するツール。少なくとも国内では、デファクトスタンダードになっている([出典](https://github.com/KATO-Hiro/AtCoderClans/issues/489))。[日本語のドキュメント](https://rime.readthedocs.io/ja/latest/)も充実している。
 - [rules_contest](https://github.com/nya3jp/rules_contest) ![GitHub stars](https://img.shields.io/github/stars/nya3jp/rules_contest?style=plastic) - コンテストの問題準備に関するタスクを自動化するツール。
