@@ -31,4 +31,8 @@ filename: related_contest_sites
 
 ### Topcoder
 
-+ 準備中。
+- [Greed](https://github.com/zen0wu/topcoder-greed) ![GitHub stars](https://img.shields.io/github/stars/zen0wu/topcoder-greed?style=plastic) - 問題を解くときに、普段使っているエディタを使えるようにするためのJava Arenaプラグイン。入出力フォーマットに沿ったテンプレートコードの生成やサンプルのテストができる。対応言語は、C++、C#、Java、Python。注: 近年は更新頻度がかなり低下しており、最新の環境に対応していない可能性もある。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/topcoder/greed.png" alt="greed">
+  </div>
