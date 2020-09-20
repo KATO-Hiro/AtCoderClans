@@ -17,7 +17,11 @@ filename: related_contest_sites
 
 ### Codeforces
 
-+ 準備中。
+- [Hightail](https://github.com/dj3500/hightail) ![GitHub Repo stars](https://img.shields.io/github/stars/dj3500/Hightail?style=plastic) - サンプルの入出力を取得し、ローカル環境でテストするGUIツール。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/codeforces/hightail.png" alt="hightail">
+  </div>
 
 ### Topcoder
 
