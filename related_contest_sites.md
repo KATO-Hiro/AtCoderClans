@@ -15,6 +15,8 @@ filename: related_contest_sites
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+サービス・ツールのサポート対象に[AtCoder](https://atcoder.jp/)が含まれていないものの、歴史的な経緯・利用者数の多さなどの理由から掲載しています。
+
 ### Codeforces
 
 - [Codeforces Tool](https://github.com/xalanq/cf-tool) ![GitHub stars](https://img.shields.io/github/stars/xalanq/cf-tool?style=plastic) - サンプルの入出力の取得、テスト、解答コードの提出などができるCLIツール。
