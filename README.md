@@ -22,7 +22,7 @@
 
 - サービス・ツールなどに関するお問い合わせは、<span style="color: red">**開発者が公開している連絡先に直接行ってください**</span>。公式のサポート対象外のため、運営チームへの問い合わせは絶対しないでください。
 
-- 各サービス・ツールなどの説明ページにあるように、ご利用は自己責任でお願いします。
+- ご利用は自己責任でお願いします。
 
 ## 目次
 
@@ -68,6 +68,8 @@
 [Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries) - 主要言語で実装されたアルゴリズムのライブラリ・スニペットを紹介しています。
 
 [Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media) - 環境構築、アルゴリズムや過去問を解説した記事、書籍などを掲載しています。
+
+[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites) - 世界各地で開催されている競技プログラミングのコンテストサイトに関連するサービス・ツールなどをまとめています。
 
 [Archived](https://kato-hiro.github.io/AtCoderClans/archived) - 諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するためのページです。
 
