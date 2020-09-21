@@ -27,6 +27,7 @@ filename: web_app
   - [Desktop App](#desktop-app)
   - [Google Apps Script](#google-apps-script)
   - [Google Sheets](#google-sheets)
+  - [IDE](#ide)
   - [TouchBarアプリ](#touchbar%E3%82%A2%E3%83%97%E3%83%AA)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
