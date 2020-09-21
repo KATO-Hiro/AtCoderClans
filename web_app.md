@@ -27,6 +27,7 @@ filename: web_app
   - [Desktop App](#desktop-app)
   - [Google Apps Script](#google-apps-script)
   - [Google Sheets](#google-sheets)
+  - [IDE](#ide)
   - [TouchBarアプリ](#touchbar%E3%82%A2%E3%83%97%E3%83%AA)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -358,6 +359,14 @@ filename: web_app
 
   <div align="center">
     <img loading = "lazy" src="images/web_app/atcoder_prize_ranking.png" alt="atcoder prize ranking">
+  </div>
+
+### IDE
+
+- [Rujaion](https://github.com/fukatani/rujaion) - 競技プログラミングのためのRust IDE。C++とPythonも試験的にサポートされている。サンプルのテスト、解答コードの提出、コードの補完・移動・自動整形、テンプレートの生成、グラフの構造の可視化などの機能がある。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/rujaion.gif" alt="rujaion">
   </div>
 
 ### TouchBarアプリ
