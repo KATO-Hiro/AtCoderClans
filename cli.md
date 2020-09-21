@@ -80,6 +80,12 @@ filename: cli
 
 - [Procon Tools](https://github.com/naipia/procon-tools) ![GitHub stars](https://img.shields.io/github/stars/naipia/procon-tools?style=plastic) - 競技プログラミングサイトに参加する上で必要な機能を提供している[Visual Studio Code](https://code.visualstudio.com/)の拡張機能。C++とGoに対応している。
 
+- [Snowchains](https://github.com/qryxip/snowchains) ![GitHub stars](https://img.shields.io/github/stars/qryxip/snowchains?style=plastic) - サンプルケースのテスト、解答コードの提出に加えて、システムテストの取得もできる。C++とRustが利用可能。また、一部の機能を除いて、[Codeforces](https://codeforces.com/)、[yukicoder](https://yukicoder.me/)にも対応している。
+
+  <div align="center">
+    <img loading = "lazy" src="images/cli/snowchains.gif" alt="snowchains">
+  </div>
+
 #### C++
 
 - [procon.vim](https://github.com/ogura01/procon.nvim) ![GitHub stars](https://img.shields.io/github/stars/ogura01/procon.nvim?style=plastic) - [Neovim](https://neovim.io/)プラグイン。
