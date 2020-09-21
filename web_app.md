@@ -360,6 +360,14 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_prize_ranking.png" alt="atcoder prize ranking">
   </div>
 
+### IDE
+
+- [Rujaion](https://github.com/fukatani/rujaion) - 競技プログラミングのためのRust IDE。C++とPythonも試験的にサポートされている。サンプルのテスト、解答コードの提出、コードの補完・移動・自動整形、テンプレートの生成、グラフの構造の可視化などの機能がある。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/rujaion.gif" alt="rujaion">
+  </div>
+
 ### TouchBarアプリ
 
 - [ACTouchBar](https://github.com/tallestorange/ACTouchBar) - コンテストでの正解者数/提出者数、提出状況、レーティング・解いた問題数などの確認やメモを残すことができる。
