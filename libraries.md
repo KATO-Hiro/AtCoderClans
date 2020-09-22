@@ -28,13 +28,16 @@ filename: libraries
     - [Python](#python)
     - [Ruby](#ruby)
     - [Rust](#rust)
+  - [複数のファイルを一つにまとめるツール](#%E8%A4%87%E6%95%B0%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E4%B8%80%E3%81%A4%E3%81%AB%E3%81%BE%E3%81%A8%E3%82%81%E3%82%8B%E3%83%84%E3%83%BC%E3%83%AB)
+    - [Go](#go-1)
+    - [Rust](#rust-1)
   - [複数の言語](#%E8%A4%87%E6%95%B0%E3%81%AE%E8%A8%80%E8%AA%9E)
   - [CSharp](#csharp-1)
   - [C++](#c-1)
   - [D](#d-1)
   - [Fortran](#fortran)
   - [FSharp](#fsharp)
-  - [Go](#go-1)
+  - [Go](#go-2)
   - [Haskell](#haskell)
   - [Java](#java-1)
   - [Kotlin](#kotlin-1)
@@ -43,7 +46,7 @@ filename: libraries
   - [PHP](#php)
   - [Python](#python-1)
   - [Ruby](#ruby-1)
-  - [Rust](#rust-1)
+  - [Rust](#rust-2)
   - [Scala](#scala)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -66,7 +69,7 @@ filename: libraries
 
 ### AtCoder Library (ACL)の各言語への移植
 
-[AtCoder](https://atcoder.jp/)公式が、様々なアルゴリズムをC++で実装したライブラリを[AtCoder Library (ACL)](https://atcoder.jp/posts/517)として公開しています([GitHubレポジトリ](https://github.com/atcoder/ac-library))。有志によって、各言語への移植が試みられています。
+[AtCoder](https://atcoder.jp/)公式が、様々なアルゴリズムをC++で実装したライブラリを[AtCoder Library (ACL)](https://atcoder.jp/posts/517)として公開しています([GitHubレポジトリ](https://github.com/atcoder/ac-library))。有志によって、各言語への移植が試みられています。また、一部の言語では、移植されたライブラリから必要な部分だけを取り出して、一つの提出用ファイルにまとめることができるツールが公開されています。
 
 #### ライブラリの内容に関する記事
 
@@ -129,6 +132,17 @@ filename: libraries
 #### Rust
 
 - [rust-lang-ja/ac-library-rs](https://github.com/rust-lang-ja/ac-library-rs) ![GitHub stars](https://img.shields.io/github/stars/rust-lang-ja/ac-library-rs?style=plastic) - Rust版。詳しい情報は、[Slack](https://rust-jp.rs/)で得られる。
+
+### 複数のファイルを一つにまとめるツール
+
+#### Go
+
+- [gpcg](https://github.com/monkukui/gpcg) ![GitHub stars](https://img.shields.io/github/stars/monkukui/gpcg?style=plastic) - 複数のファイルにまたがるGoのコードを一つにまとめて、提出用のコードを生成するツール。注: レポジトリのREADMEによると、未完成の状態。
+
+#### Rust
+
+- [cargo-auto-bundle](https://github.com/shino16/cargo-auto-bundle) ![GitHub stars](https://img.shields.io/github/stars/shino16/cargo-auto-bundle?style=plastic) - Rustのライブラリを一つのファイルにまとめて提出するときに、コピー&ペーストの作業を補助するツール。注: レポジトリのREADMEによると、一部の機能は今後実装される可能性がある。
+- [cargo-concat](https://github.com/kenkoooo/cargo-concat) ![GitHub Repo stars](https://img.shields.io/github/stars/kenkoooo/cargo-concat?style=plastic) - コマンド一つで、Rustの依存モジュールを一つのファイルにまとめるツール。
 
 ### 複数の言語
 

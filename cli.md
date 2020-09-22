@@ -19,9 +19,6 @@ filename: cli
     - [Ruby](#ruby)
     - [Rust](#rust)
   - [テンプレートを生成するツール](#%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%82%92%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B%E3%83%84%E3%83%BC%E3%83%AB)
-  - [複数のファイルを一つにまとめるツール](#%E8%A4%87%E6%95%B0%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E4%B8%80%E3%81%A4%E3%81%AB%E3%81%BE%E3%81%A8%E3%82%81%E3%82%8B%E3%83%84%E3%83%BC%E3%83%AB)
-    - [Go](#go)
-    - [Rust](#rust-1)
   - [環境構築](#%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89)
   - [コードの高速化、バックアップなど](#%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E9%AB%98%E9%80%9F%E5%8C%96%E3%83%90%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%81%AA%E3%81%A9)
   - [問題の作成と準備を支援するツール](#%E5%95%8F%E9%A1%8C%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E6%BA%96%E5%82%99%E3%82%92%E6%94%AF%E6%8F%B4%E3%81%99%E3%82%8B%E3%83%84%E3%83%BC%E3%83%AB)
@@ -128,17 +125,6 @@ filename: cli
 ### テンプレートを生成するツール
 
 - [Online Judge Template Generator](https://github.com/online-judge-tools/template-generator) ![GitHub stars](https://img.shields.io/github/stars/online-judge-tools/template-generator?style=plastic) - [Online Judge Tools](https://github.com/online-judge-tools/oj)と連携したツール。コンテストの問題を解析して、提出用のコードやランダムケース生成に関するテンプレートを出力できる。C++とPythonに対応。また、有志による[紹介記事](https://hamukichi.hatenablog.jp/entry/2020/09/17/230818)もある。
-
-### 複数のファイルを一つにまとめるツール
-
-#### Go
-
-- [gpcg](https://github.com/monkukui/gpcg) ![GitHub stars](https://img.shields.io/github/stars/monkukui/gpcg?style=plastic) - 複数のファイルにまたがるGoのコードを一つにまとめて、提出用のコードを生成するツール。注: レポジトリのREADMEによると、未完成の状態。
-
-#### Rust
-
-- [cargo-auto-bundle](https://github.com/shino16/cargo-auto-bundle) ![GitHub stars](https://img.shields.io/github/stars/shino16/cargo-auto-bundle?style=plastic) - Rustのライブラリを一つのファイルにまとめて提出するときに、コピー&ペーストの作業を補助するツール。注: レポジトリのREADMEによると、一部の機能は今後実装される可能性がある。
-- [cargo-concat](https://github.com/kenkoooo/cargo-concat) ![GitHub Repo stars](https://img.shields.io/github/stars/kenkoooo/cargo-concat?style=plastic) - コマンド一つで、Rustの依存モジュールを一つのファイルにまとめるツール。
 
 ### 環境構築
 
