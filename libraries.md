@@ -17,6 +17,7 @@ filename: libraries
     - [各言語コミュニティでの活動状況](#%E5%90%84%E8%A8%80%E8%AA%9E%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%81%A7%E3%81%AE%E6%B4%BB%E5%8B%95%E7%8A%B6%E6%B3%81)
     - [C](#c)
     - [C++](#c)
+    - [Crystal](#crystal)
     - [CSharp](#csharp)
     - [D](#d)
     - [Go](#go)
