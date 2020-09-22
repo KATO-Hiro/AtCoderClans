@@ -84,6 +84,10 @@ filename: libraries
 
 - [TumoiYorozu/single-file-ac-library](https://github.com/TumoiYorozu/single-file-ac-library) ![GitHub stars](https://img.shields.io/github/stars/TumoiYorozu/single-file-ac-library?style=plastic) - [公式ライブラリ](https://atcoder.jp/posts/517)をシングルファイルとして使えるようにしている。また、公式ドキュメントを[ブラウザ](https://tumoiyorozu.github.io/single-file-ac-library/document_ja/)で見ることもできる。
 
+#### Crystal
+
+- [google/ac-library.cr](https://github.com/google/ac-library.cr) ![GitHub Repo stars](https://img.shields.io/github/stars/google/ac-library.cr?style=plastic) - Crystal版。
+
 #### CSharp
 
 - [key-moon/ac-library-cs](https://github.com/key-moon/ac-library-cs) ![GitHub stars](https://img.shields.io/github/stars/key-moon/ac-library-cs?style=plastic) - C#版。
