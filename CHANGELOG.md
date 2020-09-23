@@ -2,6 +2,10 @@
 
 ## 2020-09-23
 
+- [#521](https://github.com/KATO-Hiro/AtCoderClans/pull/521) - ライブラリの変換ツール「ac-library-cs-expander」を追加。
+- [#520](https://github.com/KATO-Hiro/AtCoderClans/pull/520) - C++ライブラリのテスト用問題集「libtest」を追加。
+- [#519](https://github.com/KATO-Hiro/AtCoderClans/pull/519) - 記事「遅延評価セグメント木をソラで書きたいあなたに」を追加。
+- [#518](https://github.com/KATO-Hiro/AtCoderClans/pull/518) - Issueテンプレートを重要度(高・中・低)に応じて複数のサービス・ツールを推薦できる形式に変更。
 - [#515](https://github.com/KATO-Hiro/AtCoderClans/pull/515) - 「問題作成と準備」と「問題の作成と準備を支援するツール」に、相互参照するためのリンクを追加。
 - [#513](https://github.com/KATO-Hiro/AtCoderClans/pull/513) - 記事「AtCoder LibraryのLazy Segtreeの使い方」とチートシートを追加。
 - [#512](https://github.com/KATO-Hiro/AtCoderClans/pull/512) - [naskya](https://github.com/naskya)さんのご紹介で、コマンドラインツール「testcase-generator」を追加。
