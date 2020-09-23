@@ -151,5 +151,7 @@ filename: cli
 
 ### 問題の作成と準備を支援するツール
 
+問題を作成されるときには、役割分担・作業工程などを把握するために、[関連記事](https://kato-hiro.github.io/AtCoderClans/media#%E5%95%8F%E9%A1%8C%E4%BD%9C%E6%88%90%E3%81%A8%E6%BA%96%E5%82%99)を参照することを推奨いたします。
+
 - [Rime](https://github.com/icpc-jag/rime) ![GitHub stars](https://img.shields.io/github/stars/icpc-jag/rime?style=plastic) - コンテストの問題セット作成を補助するツール。少なくとも国内では、デファクトスタンダードになっている([出典](https://github.com/KATO-Hiro/AtCoderClans/issues/489))。[日本語のドキュメント](https://rime.readthedocs.io/ja/latest/)も充実している。
 - [rules_contest](https://github.com/nya3jp/rules_contest) ![GitHub stars](https://img.shields.io/github/stars/nya3jp/rules_contest?style=plastic) - コンテストの問題準備に関するタスクを自動化するツール。
