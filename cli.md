@@ -126,6 +126,14 @@ filename: cli
 
 - [Online Judge Template Generator](https://github.com/online-judge-tools/template-generator) ![GitHub stars](https://img.shields.io/github/stars/online-judge-tools/template-generator?style=plastic) - [Online Judge Tools](https://github.com/online-judge-tools/oj)と連携したツール。コンテストの問題を解析して、提出用のコードやランダムケース生成に関するテンプレートを出力できる。C++とPythonに対応。また、有志による[紹介記事](https://hamukichi.hatenablog.jp/entry/2020/09/17/230818)もある。
 
+### テストケースを生成するツール
+
+- [testcase-generator](https://github.com/naskya/testcase-generator) ![GitHub Repo stars](https://img.shields.io/github/stars/naskya/testcase-generator?style=plastic) - ランダムな整数や文字列を生成できる。生成できる整数・文字列は、利用している環境下でのC++の`long long`型、`char`型(一部の文字を除く)で扱えるものが対象である。また、多数のテストケースを生成して、愚直に実装した解法(愚直解)と比較することもできる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/cli/testcase_generator.gif" alt="testcase generator">
+  </div>
+
 ### 環境構築
 
 - [atcoder_docker_sample](https://github.com/yamatia/atcoder_docker_sample) - [Visual Studio Code](https://code.visualstudio.com/)・[Docker](https://www.docker.com/)・[Git](https://git-scm.com/downloads)を使って、PythonとC++の実行環境を構築。
