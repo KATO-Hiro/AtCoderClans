@@ -1,5 +1,10 @@
 # Change Log
 
+## 2020-09-24
+
+- [#527](https://github.com/KATO-Hiro/AtCoderClans/pull/527) - 記事「代数的構造を乗せるデータ構造の設計について」を追加。
+- [#526](https://github.com/KATO-Hiro/AtCoderClans/pull/526) - 「Home」ページに更新履歴を追加。
+
 ## 2020-09-23
 
 - [#521](https://github.com/KATO-Hiro/AtCoderClans/pull/521) - ライブラリの変換ツール「ac-library-cs-expander」を追加。
