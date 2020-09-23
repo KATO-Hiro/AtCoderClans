@@ -73,6 +73,7 @@ filename: libraries
 
 - [AtCoder Library - 西尾泰和のScrapbox](https://scrapbox.io/nishio/AtCoder_Library) - ライブラリの見出しを1ページにまとめた記事。概略を把握するのに便利。
 - [AtCoder Library (日本語訳)](https://drken1215.hatenablog.com/) - [drken](https://atcoder.jp/users/drken)さんによる[公式記事](https://codeforces.com/blog/entry/82400)の日本語訳。
+- [AtCoder LibraryのLazy Segtreeの使い方](https://betrue12.hateblo.jp/entry/2020/09/22/194541) - [betrue12](https://atcoder.jp/users/betrue12)さんによる遅延伝播機能を持つセグメント木の使用方法を解説した記事。`atcoder::lazy_segtree`を生成するときに、テンプレート引数に何を渡すのか、自分で考えられるようになることを目標としている。また、整数列に対するシンプルな機能の組み合わせについては、コピー&ペーストで利用できる[チートシート](https://betrue12.hateblo.jp/entry/2020/09/23/005940)も公開されている。
 
 #### 各言語コミュニティでの活動状況
 
