@@ -129,7 +129,7 @@ filename: cli
 
 ### テストケースを生成するツール
 
-- [testcase-generator](https://github.com/naskya/testcase-generator) ![GitHub Repo stars](https://img.shields.io/github/stars/naskya/testcase-generator?style=plastic) - ランダムな整数や文字列を生成できる。生成できる整数・文字列は、利用している環境下でのC++の`long long`型、`char`型(一部の文字を除く)で扱えるものが対象である。また、多数のテストケースを生成して、愚直に実装した解法(愚直解)と比較することもできる。
+- [testcase-generator](https://github.com/naskya/testcase-generator) ![GitHub Repo stars](https://img.shields.io/github/stars/naskya/testcase-generator?style=plastic) - ランダムな整数や文字列を生成できるツール。また、多数のテストケースを生成して、愚直に実装した解法(愚直解)と比較することも可能。
 
   <div align="center">
     <img loading = "lazy" src="images/cli/testcase_generator.gif" alt="testcase generator">
