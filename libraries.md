@@ -63,6 +63,7 @@ filename: libraries
   </div>
 
 - [Online Judge Verification Helper](https://github.com/online-judge-tools/verification-helper) ![GitHub stars](https://img.shields.io/github/stars/online-judge-tools/verification-helper?style=plastic) - ライブラリのテストを自動化するツールで、上述の[Library Checker Problems](https://judge.yosupo.jp/)などの問題を利用して実行する。また、ライブラリのドキュメント生成機能やC++のファイルをまとめて提出できるようにする機能もある。
+- [libtest](https://github.com/pachicobue/libtest) ![GitHub Repo stars](https://img.shields.io/github/stars/pachicobue/libtest?style=plastic) - C++ライブラリのテストのために使う問題集。CIでの利用を想定しており、入出力の自動生成と自動テストを行うことができる。
 
 ### AtCoder Library (ACL)の各言語への移植
 
