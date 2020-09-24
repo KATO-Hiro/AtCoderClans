@@ -2,6 +2,8 @@
 
 ## 2020-09-24
 
+- [#532](https://github.com/KATO-Hiro/AtCoderClans/pull/532) - 記事「AtCoder Pythonの新環境についてまとめていく-1- 組み込み関数&モジュール」を追加。
+- [#531](https://github.com/KATO-Hiro/AtCoderClans/pull/531) - ライブラリページに、コマンドラインツール「cargo-equip」を追加。
 - [#527](https://github.com/KATO-Hiro/AtCoderClans/pull/527) - 記事「代数的構造を乗せるデータ構造の設計について」を追加。
 - [#526](https://github.com/KATO-Hiro/AtCoderClans/pull/526) - 「Home」ページに更新履歴を追加。
 
