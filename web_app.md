@@ -238,7 +238,7 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_training_performance_visualizer.png" alt="atcoder training performance visualizer">
   </div>
 
-- [AtCoder Twitter Profile Updater](https://atcoder-twitter-profile-updater.vercel.app/) - レーティングとその推移をTwitterのプロフィール欄に自動で追加・更新できる。
+- [AtCoder Twitter Profile Updater](https://atcoder-twitter-profile-updater.vercel.app/) - レーティングの推移と最新の値をTwitterのプロフィール欄に自動で追加・更新できる。
 
   <div align="center">
     <img loading = "lazy" src="images/web_app/atcoder_twitter_profile_updater.png" alt="atcoder twitter profile updater">
