@@ -166,6 +166,7 @@ filename: libraries
 - [fumiphys/programming_contest](https://github.com/fumiphys/programming_contest) ![GitHub stars](https://img.shields.io/github/stars/fumiphys/programming_contest?style=plastic) - [fumiphys](https://atcoder.jp/users/fumiphys)さんのライブラリ。
 - [fuppy0716/kyopro](https://github.com/fuppy0716/kyopro) ![GitHub stars](https://img.shields.io/github/stars/fuppy0716/kyopro?style=plastic) - [fuppy0716](https://atcoder.jp/users/fuppy0716)さんのライブラリ。
 - [Ganariya/library](https://ganariya.github.io/library/) ![GitHub stars](https://img.shields.io/github/stars/Ganariya/library?style=plastic) - [ganariya2525](https://atcoder.jp/users/ganariya2525)さんのライブラリ。
+- [gzlcp/competitive-library](https://github.com/gzlcp/competitive-library) ![GitHub Repo stars](https://img.shields.io/github/stars/gzlcp/competitive-library?style=plastic) - [gazelle](https://atcoder.jp/users/gazelle)さんのライブラリ。
 - [hamko/procon](https://github.com/hamko/procon) ![GitHub stars](https://img.shields.io/github/stars/hamko/procon?style=plastic) - [hamko](https://atcoder.jp/users/hamko)さんのライブラリ。問題の典型的な要素を可視化する試みが行われている。
 - [hiramekun/Algorithm](https://github.com/hiramekun/Algorithm) ![GitHub stars](https://img.shields.io/github/stars/hiramekun/Algorithm?style=plastic) - [hiramekun](https://atcoder.jp/users/hiramekun)さんのライブラリ。
 - [hoget157/library](https://github.com/hoget157/library) ![GitHub stars](https://img.shields.io/github/stars/hoget157/library?style=plastic) - [hoget157](https://atcoder.jp/users/hoget157)さんのライブラリ。
