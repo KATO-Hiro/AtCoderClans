@@ -1,5 +1,14 @@
 # Change Log
 
+## 2020-09-25
+
+- [#539](https://github.com/KATO-Hiro/AtCoderClans/pull/539) - C++で実装されたライブラリを追加。
+  - gzlcp/competitive-library
+  - niuez/cp-cpp-library
+  - xuzijian629/library2
+- [#538](https://github.com/KATO-Hiro/AtCoderClans/pull/538) - ライブラリ「ac-library-python」の説明を追加。
+- [#536](https://github.com/KATO-Hiro/AtCoderClans/pull/536) - Webアプリ「AtCoder Twitter Profile Updater」を追加。
+
 ## 2020-09-24
 
 - [#532](https://github.com/KATO-Hiro/AtCoderClans/pull/532) - 記事「AtCoder Pythonの新環境についてまとめていく-1- 組み込み関数&モジュール」を追加。
