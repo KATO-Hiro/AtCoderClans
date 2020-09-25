@@ -238,6 +238,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_training_performance_visualizer.png" alt="atcoder training performance visualizer">
   </div>
 
+- [AtCoder Twitter Profile Updater](https://atcoder-twitter-profile-updater.vercel.app/) - レーティングとその推移をTwitterのプロフィール欄に自動で追加・更新できる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_twitter_profile_updater.png" alt="atcoder twitter profile updater">
+  </div>
+
 - [AtCoder Widget](https://github.com/rdrgn/atcoder-widget) - ユーザのレーティングの推移をWebページに表示するためウィジェット。
 
   <div align="center">
