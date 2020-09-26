@@ -68,6 +68,12 @@ filename: cli
     <img loading = "lazy" src="images/cli/ac_deck.gif" alt="ac deck">
   </div>
 
+- [AI-virtual-assistant-python](https://github.com/Saurav-Paul/AI-virtual-assistant-python) ![GitHub Repo stars](https://img.shields.io/github/stars/Saurav-Paul/AI-virtual-assistant-python?style=plastic) - サンプルのテスト、ログイン・コードの提出だけでなく、テンプレートやテストケースの生成などの多くの機能を備えているツール。C++とPythonに対応している。
+
+  <div align="center">
+    <img loading = "lazy" src="images/cli/ai_virtual_assistant_python.png" alt="ai virtual assistant python">
+  </div>
+
 - [AtCoderFriends](https://github.com/nejiko96/at_coder_friends) ![GitHub stars](https://img.shields.io/github/stars/nejiko96/at_coder_friends?style=plastic) - サンプルのテスト・提出が[36言語](https://github.com/nejiko96/at_coder_friends/blob/master/docs/CONFIGURATION.md)に対応している。また、テンプレートコードの生成機能もある（RubyとC++はデフォルトで対応しており、他の言語もプラグインで追加できる）。
 - [atsubmit](https://github.com/flow6852/atsubmit) ![GitHub stars](https://img.shields.io/github/stars/flow6852/atsubmit?style=plastic) - サンプルの取得・テスト、提出、結果の閲覧を自動で行うことができる。テストケースの正誤判定は、HaskellとRustが可能。
 - [getac](https://github.com/fukamachi/getac) ![GitHub stars](https://img.shields.io/github/stars/fukamachi/getac?style=plastic) - サンプルのテストを実行できる。対応言語は、C、C++、Clojure、Common Lisp、Go、Haskell、Java、Node.js、Python、Ruby、Scheme。
