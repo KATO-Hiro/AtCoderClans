@@ -1,5 +1,33 @@
 # Change Log
 
+## 2020-09-26
+
+- [#558](https://github.com/KATO-Hiro/AtCoderClans/pull/558), [#559](https://github.com/KATO-Hiro/AtCoderClans/pull/559) - 記事ページにサブカテゴリ「開発に関心のある人向けの記事」を新設。
+  - 記事「競技プログラマーがWeb開発者の卵になるまでの軌跡」を追加。
+- [#556](https://github.com/KATO-Hiro/AtCoderClans/pull/556) - 記事ページにサブカテゴリ「数学に関する知識」を新設。
+  - 記事「競プロerのための群論 (swapと順列と対称群)」を追加。
+  - 記事のサブカテゴリ「コンテストに向けた練習方法など」に掲載していた「競技プログラミングに関係する数学の整理 ～文系出身や数学苦手erが、もっと競プロを楽しむために～」に新設カテゴリに移動。
+- [#555](https://github.com/KATO-Hiro/AtCoderClans/pull/555) - リンクに関する不具合と掲載順序を修正。
+  - ライブラリページの目次にあるリンクをクリックしても、意図した見出しに移動しない不具合を修正。具体的には、C++の表記をCPlusPlusに変更することで対処。
+  - 有志がGitHubで公開しているライブラリのうち、C++とCSharpのカテゴリがアルファベット順になっていなかったため修正。
+- [#551](https://github.com/KATO-Hiro/AtCoderClans/pull/551) - 解説放送で作成されたC++ライブラリを追加。
+  - atcoder/live_library
+- [#550](https://github.com/KATO-Hiro/AtCoderClans/pull/550) - Pythonで実装されたライブラリを追加。
+  - mts1104/atcoder
+  - nanoseeing/AtCoder
+  - rkato5680/CompetitiveProgramming
+  - yaumu3/cpl-python3
+- [#549](https://github.com/KATO-Hiro/AtCoderClans/pull/549) - Rustで実装されたライブラリを追加。
+  - cympfh/procon-rs
+  - MiSawa/ralgo
+- [#548](https://github.com/KATO-Hiro/AtCoderClans/pull/548) - コマンドラインツール「AI-virtual-assistant-python」を追加。
+- [#547](https://github.com/KATO-Hiro/AtCoderClans/pull/547) - 記事「競技プログラミング入門者の成長のためのメモ」を追加。
+- [#546](https://github.com/KATO-Hiro/AtCoderClans/pull/546) - 記事「部分列DP --- 文字列の部分文字列を重複なく走査するDPの特集」を追加。
+- [#545](https://github.com/KATO-Hiro/AtCoderClans/pull/545) - 記事「二部グラフの最小点被覆、最大安定集合 (最大独立集合)、最小辺被覆を総整理！」を追加。
+- [#544](https://github.com/KATO-Hiro/AtCoderClans/pull/544) - 記事「任意modでの畳み込み演算をO(nlog(n))で」を追加。
+- [#543](https://github.com/KATO-Hiro/AtCoderClans/pull/543) - 記事「[競プロ] 割と真面目にPythonからC++のsetを使えるようにしたのでみんな使ってみてほしい」を追加。
+- [#542](https://github.com/KATO-Hiro/AtCoderClans/pull/542) - 記事「UnionFindTreeに関する知見の諸々」を追加。
+
 ## 2020-09-25
 
 - [#539](https://github.com/KATO-Hiro/AtCoderClans/pull/539) - C++で実装されたライブラリを追加。
