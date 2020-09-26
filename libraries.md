@@ -280,11 +280,13 @@ filename: libraries
 
 ### Rust
 
+- [cympfh/procon-rs](https://github.com/cympfh/procon-rs) ![GitHub Repo stars](https://img.shields.io/github/stars/cympfh/procon-rs?style=plastic) - [cympfh](https://atcoder.jp/users/cympfh)さんのライブラリ。
 - [hatoo/competitive-rust-snippets](https://github.com/hatoo/competitive-rust-snippets) ![GitHub stars](https://img.shields.io/github/stars/hatoo/competitive-rust-snippets?style=plastic) - [hatoo](https://atcoder.jp/users/hatoo)さんのスニペット集。
 - [ichyo/algorithms](https://github.com/ichyo/algorithms) ![GitHub stars](https://img.shields.io/github/stars/ichyo/algorithms?style=plastic) - [ichyo](https://atcoder.jp/users/ichyo)さんのライブラリ。
 - [kenkoooo/competitive-programming-rs](https://github.com/kenkoooo/competitive-programming-rs) ![GitHub stars](https://img.shields.io/github/stars/kenkoooo/competitive-programming-rs?style=plastic) - [kenkoooo](https://atcoder.jp/users/kenkoooo)さんのスニペット集。
 - [koba-e964/contest](https://github.com/koba-e964/contest/tree/master/comm) ![GitHub stars](https://img.shields.io/github/stars/koba-e964/contest?style=plastic) - [kobae964](https://atcoder.jp/users/kobae964)さんのライブラリ。C++の実装も含まれている。
 - [manta1130/Competitive_Programming_Template_Rust](https://github.com/manta1130/Competitive_Programming_Template_Rust) ![GitHub stars](https://img.shields.io/github/stars/manta1130/Competitive_Programming_Template_Rust?style=plastic) - [manta1130](https://atcoder.jp/users/manta1130)さんのライブラリ。
+- [MiSawa/ralgo](https://github.com/MiSawa/ralgo) ![GitHub Repo stars](https://img.shields.io/github/stars/MiSawa/ralgo?style=plastic) - [MiSawa](https://atcoder.jp/users/MiSawa)さんのライブラリ。
 - [ngtkana/ac-adapter-rs](https://github.com/ngtkana/ac-adapter-rs) ![GitHub stars](https://img.shields.io/github/stars/ngtkana/ac-adapter-rs?style=plastic) - [ngtkana](https://atcoder.jp/users/ngtkana)さんのライブラリ。[C++版](https://github.com/ngtkana/ngtlibcpp)もある。
 - [niuez/cp-rust-library](https://github.com/niuez/cp-rust-library) ![GitHub stars](https://img.shields.io/github/stars/niuez/cp-rust-library?style=plastic) - [niuez](https://atcoder.jp/users/niuez)さんのライブラリ。[C++版](https://github.com/niuez/cp-cpp-library)もある。
 - [rsk0315/rust-library](https://github.com/rsk0315/rust-library) ![GitHub stars](https://img.shields.io/github/stars/rsk0315/rust-library?style=plastic) - [rsk0315](https://atcoder.jp/users/rsk0315)さんのライブラリ。[C++版](https://github.com/rsk0315/library)もある。
