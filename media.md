@@ -16,6 +16,7 @@ filename: media
     - [Macintosh](#macintosh)
     - [Windows](#windows)
   - [アルゴリズムの解説](#%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%AE%E8%A7%A3%E8%AA%AC)
+  - [数学に関する知識](#%E6%95%B0%E5%AD%A6%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%9F%A5%E8%AD%98)
   - [難問に対するアプローチ方法](#%E9%9B%A3%E5%95%8F%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E3%82%A2%E3%83%97%E3%83%AD%E3%83%BC%E3%83%81%E6%96%B9%E6%B3%95)
   - [コードを実装するときの工夫](#%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AE%E5%B7%A5%E5%A4%AB)
     - [特定の言語に依存しない内容](#%E7%89%B9%E5%AE%9A%E3%81%AE%E8%A8%80%E8%AA%9E%E3%81%AB%E4%BE%9D%E5%AD%98%E3%81%97%E3%81%AA%E3%81%84%E5%86%85%E5%AE%B9)
@@ -93,6 +94,11 @@ filename: media
 - [高速フーリエ変換の実装を難しそうかなと思っている方が、なんだ簡単じゃないですか！！ となるための実装講座です](https://qiita.com/ngtkana/items/a41344ad3304d2315c46) - 高速フーリエ変換の知識があることを前提に、実装方法に重点を置いた解説記事。C#での実装例もある。
 - [遅延評価セグメント木をソラで書きたいあなたに](https://tsutaj.hatenablog.com/entry/2017/03/30/224339) - 遅延評価セグメント木に関する理論と実装方法を解説した記事。前提条件として、セグメント木の理論を理解して実装できることが求められる。
 
+### 数学に関する知識
+
+- [競技プログラミングに関係する数学の整理 ～文系出身や数学苦手erが、もっと競プロを楽しむために～](https://terumiyake.hatenablog.com/entry/2020/08/23/133659) - 競技プログラミングの問題を解く上で必要となる数学の分野・キーワードなどを網羅的にまとめた記事。
+- [競プロerのための群論 (swapと順列と対称群)](https://koboshi-kyopro.hatenablog.com/entry/2020/08/21/211615) - 競技プログラミングにおけるswapや順列に関する問題を群論（特に対称群）の視点から捉えることを目標にした記事。群論の入門という位置付けにもなっている。
+
 ### 難問に対するアプローチ方法
 
 - [平面上のロシアゲー（構築ゲー）を解くためのそこそこ一般的なテクについて](https://kokiymgch.hatenablog.com/entry/2017/12/12/153419) - 平面上で何かを構築するタイプの問題へのアプローチ方法を解説した記事。
@@ -144,7 +150,6 @@ filename: media
 - [AtCoder コンテストについてのtips](https://qiita.com/drken/items/8a6f139158cde8a61dce) - [AtCoder](https://atcoder.jp/)におけるコンテストの成績の解釈方法、参加に関するTips、プログラミングコンテストサイトの紹介について書かれている。
 - [AtCoderで青色（8割以上のIT企業でアルゴリズム力はカンスト）になったので青になるまでに必要そうなことをまとめる](https://qiita.com/kami634/items/e452f804ba9d585a8b57) - [kami634](https://atcoder.jp/users/kami634)さんによる記事。[AtCoder](https://atcoder.jp/)で、青コーダー(レーティング1600〜1999）を目指す人に向けた記事。コンテストの過去問の練習方法、問題を解くのに必要なアルゴリズム・データ構造、Twitterの利活用、便利なAtCoderの非公式ツールや外部ツールが紹介されている。学んだアルゴリズムを[まとめサイト](https://qiita.com/kami634/items/e452f804ba9d585a8b57)としてアウトプットされているのも特徴。
 - [AtCoderの問題を分類しました](https://qiita.com/KoyanagiHitoshi/items/32dc42d8c5ee75339e54) - [AtCoder](https://atcoder.jp/)で開催されたコンテストについて、問題の分類とPythonでの解答例が示されている。AtCoder Beginner Contest(ABC)のABC001〜ABC158のA問題・B問題・C問題と、AtCoder Regular Contest(ARC)のARC001〜ARC103のA問題が対象となっている。動作環境は、Python3.4.3。
-- [競技プログラミングに関係する数学の整理 ～文系出身や数学苦手erが、もっと競プロを楽しむために～](https://terumiyake.hatenablog.com/entry/2020/08/23/133659) - 競技プログラミングの問題を解く上で必要となる数学の分野・キーワードなどを網羅的にまとめた記事。
 - [精進について](https://kyopro-friends.hatenablog.com/entry/2020/02/03/202835) - [kyopro_friends](https://atcoder.jp/users/kyopro_friends)さんの練習に対する考え方や方法について書かれた記事。
 - [PythonでAtCoder青になるまで -Pythonで競プロやるときに気をつけること-](https://qiita.com/Kentaro_okumura/items/a6917572756a2e3c0da9) - コンテストでPythonを利用している人に向けた練習方法が書かれている。他の言語を使っている人にも参考になる部分が多い。
 
