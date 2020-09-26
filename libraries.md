@@ -274,6 +274,7 @@ filename: libraries
 - [rkato5680/CompetitiveProgramming](https://github.com/rkato5680/CompetitiveProgramming) ![GitHub Repo stars](https://img.shields.io/github/stars/rkato5680/CompetitiveProgramming?style=plastic) - [rkato5680](https://atcoder.jp/users/rkato5680)さんのライブラリ。
 - [tachyon777/AtCoder](https://github.com/tachyon777/AtCoder) ![GitHub stars](https://img.shields.io/github/stars/tachyon777/AtCoder?style=plastic) - [tachyon777](https://atcoder.jp/users/tachyon777)さんのライブラリ。
 - [tjkendev/procon-library](https://github.com/tjkendev/procon-library) ![GitHub stars](https://img.shields.io/github/stars/tjkendev/procon-library?style=plastic) - [yaketake08](https://atcoder.jp/users/yaketake08)さんのライブラリ。
+- [yaumu3/cpl-python3](https://github.com/yaumu3/cpl-python3) ![GitHub Repo stars](https://img.shields.io/github/stars/yaumu3/cpl-python3?style=plastic) - [yaumu3](https://atcoder.jp/users/yaumu3)さんのライブラリ。
 
 ### Ruby
 
