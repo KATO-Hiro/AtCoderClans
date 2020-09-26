@@ -143,18 +143,6 @@ filename: libraries
 - [TheAlgorithms](https://github.com/TheAlgorithms) - 競技プログラミング専用ではないが、有名なアルゴリズムが複数の言語で実装されたレポジトリ群。Python, Java, C++, C, Go, JavaScriptなどが公開されている。
 - [VAR-solutions/Algorithms](https://var-solutions.github.io/Algorithms/) ![GitHub stars](https://img.shields.io/github/stars/VAR-solutions/Algorithms?style=plastic) - アルゴリズムやデータ構造について、シンプルな例が複数の言語で実装されている。
 
-### CSharp
-
-- [camypaper/complib](https://github.com/camypaper/complib) ![GitHub stars](https://img.shields.io/github/stars/camypaper/complib?style=plastic) - [camypaper](https://atcoder.jp/users/camypaper)さんのライブラリ。
-- [hibatibati/My-Competitive-Programming-Library](https://github.com/hibatibati/My-Competitive-Programming-Library) ![GitHub stars](https://img.shields.io/github/stars/hibatibati/My-Competitive-Programming-Library?style=plastic) - [hibatibati](https://atcoder.jp/users/hibatibati)さんのライブラリ。
-- [key-moon/Library](https://github.com/key-moon/Library) ![GitHub stars](https://img.shields.io/github/stars/key-moon/Library?style=plastic) - [keymoon](https://atcoder.jp/users/keymoon)さんのライブラリ。
-- [kuuso/comp_pro_csharp](https://github.com/kuuso/comp_pro_csharp) ![GitHub stars](https://img.shields.io/github/stars/kuuso/comp_pro_csharp?style=plastic) - [kuuso](https://atcoder.jp/users/kuuso)さんのライブラリ。[Python版](https://github.com/kuuso/comp_pro_python)もある。
-- [mban259/CompLib](https://github.com/mban259/CompLib) ![GitHub stars](https://img.shields.io/github/stars/mban259/CompLib?style=plastic) - [mban](https://atcoder.jp/users/mban)さんのライブラリ。
-- [naminodarie/AtCoderProject](https://github.com/naminodarie/AtCoderProject) ![GitHub stars](https://img.shields.io/github/stars/naminodarie/AtCoderProject?style=plastic) - [naminodarie](https://atcoder.jp/users/naminodarie)さんのライブラリ。
-- [riantkb/csharp](https://github.com/riantkb/csharp) ![GitHub stars](https://img.shields.io/github/stars/riantkb/csharp?style=plastic) - [riantkb](https://atcoder.jp/users/riantkb)さんのスニペット集。
-- [terry-u16/AtCoderTemplateForNetCore](https://github.com/terry-u16/AtCoderTemplateForNetCore) ![GitHub stars](https://img.shields.io/github/stars/terry-u16/AtCoderTemplateForNetCore?style=plastic) - [terry_u16](https://atcoder.jp/users/terry_u16)さんのテンプレート。
-- [yupiteru/AtCoder](https://github.com/yupiteru/AtCoder) ![GitHub stars](https://img.shields.io/github/stars/yupiteru/AtCoder?style=plastic) - [yupiteru](https://atcoder.jp/users/yupiteru)さんのライブラリとテンプレート。
-
 ### Cplusplus
 
 - [AokabiC/compro-lib](https://github.com/AokabiC/compro-lib) ![GitHub stars](https://img.shields.io/github/stars/AokabiC/compro-lib?style=plastic) - [AokabiC](https://atcoder.jp/users/AokabiC)さんのライブラリ。
@@ -198,6 +186,18 @@ filename: libraries
 - [xuzijian629/library2](https://github.com/xuzijian629/library2) ![GitHub Repo stars](https://img.shields.io/github/stars/xuzijian629/library2?style=plastic) - [xuzijian629](https://atcoder.jp/users/xuzijian629)さんのライブラリ
 - [yosupo06/Algorithm](https://github.com/yosupo06/Algorithm) ![GitHub stars](https://img.shields.io/github/stars/yosupo06/Algorithm?style=plastic) - [yosupo](https://atcoder.jp/users/yosupo)さんのライブラリ。C++11で実装されている。[D版](https://github.com/yosupo06/dunkelheit)もある。
 - [zerokpr/Kpr_Library](https://github.com/zerokpr/Kpr_Library) ![GitHub stars](https://img.shields.io/github/stars/zerokpr/Kpr_Library?style=plastic) - [zero_kpr](https://atcoder.jp/users/zero_kpr)さんのライブラリ。
+
+### CSharp
+
+- [camypaper/complib](https://github.com/camypaper/complib) ![GitHub stars](https://img.shields.io/github/stars/camypaper/complib?style=plastic) - [camypaper](https://atcoder.jp/users/camypaper)さんのライブラリ。
+- [hibatibati/My-Competitive-Programming-Library](https://github.com/hibatibati/My-Competitive-Programming-Library) ![GitHub stars](https://img.shields.io/github/stars/hibatibati/My-Competitive-Programming-Library?style=plastic) - [hibatibati](https://atcoder.jp/users/hibatibati)さんのライブラリ。
+- [key-moon/Library](https://github.com/key-moon/Library) ![GitHub stars](https://img.shields.io/github/stars/key-moon/Library?style=plastic) - [keymoon](https://atcoder.jp/users/keymoon)さんのライブラリ。
+- [kuuso/comp_pro_csharp](https://github.com/kuuso/comp_pro_csharp) ![GitHub stars](https://img.shields.io/github/stars/kuuso/comp_pro_csharp?style=plastic) - [kuuso](https://atcoder.jp/users/kuuso)さんのライブラリ。[Python版](https://github.com/kuuso/comp_pro_python)もある。
+- [mban259/CompLib](https://github.com/mban259/CompLib) ![GitHub stars](https://img.shields.io/github/stars/mban259/CompLib?style=plastic) - [mban](https://atcoder.jp/users/mban)さんのライブラリ。
+- [naminodarie/AtCoderProject](https://github.com/naminodarie/AtCoderProject) ![GitHub stars](https://img.shields.io/github/stars/naminodarie/AtCoderProject?style=plastic) - [naminodarie](https://atcoder.jp/users/naminodarie)さんのライブラリ。
+- [riantkb/csharp](https://github.com/riantkb/csharp) ![GitHub stars](https://img.shields.io/github/stars/riantkb/csharp?style=plastic) - [riantkb](https://atcoder.jp/users/riantkb)さんのスニペット集。
+- [terry-u16/AtCoderTemplateForNetCore](https://github.com/terry-u16/AtCoderTemplateForNetCore) ![GitHub stars](https://img.shields.io/github/stars/terry-u16/AtCoderTemplateForNetCore?style=plastic) - [terry_u16](https://atcoder.jp/users/terry_u16)さんのテンプレート。
+- [yupiteru/AtCoder](https://github.com/yupiteru/AtCoder) ![GitHub stars](https://img.shields.io/github/stars/yupiteru/AtCoder?style=plastic) - [yupiteru](https://atcoder.jp/users/yupiteru)さんのライブラリとテンプレート。
 
 ### D
 
