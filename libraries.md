@@ -268,10 +268,14 @@ filename: libraries
 - [kuuso/comp_pro_python](https://github.com/kuuso/comp_pro_python) ![GitHub stars](https://img.shields.io/github/stars/kuuso/comp_pro_python?style=plastic) - [kuuso](https://atcoder.jp/users/kuuso)さんのライブラリ。[C#版](https://github.com/kuuso/comp_pro_csharp)もある。
 - [maspypy/compro_library](https://github.com/maspypy/compro_library) ![GitHub stars](https://img.shields.io/github/stars/maspypy/compro_library?style=plastic) - [maspy](https://atcoder.jp/users/maspy)さんのライブラリ。
 - [matsu7874/competitive-programming-snippets](https://github.com/matsu7874/competitive-programming-snippets) ![GitHub stars](https://img.shields.io/github/stars/matsu7874/competitive-programming-snippets?style=plastic) - [matsu7874](https://atcoder.jp/users/matsu7874)さんのスニペット集。
+- [mts1104/atcoder](https://github.com/mts1104/atcoder/tree/master/python/lib) ![GitHub Repo stars](https://img.shields.io/github/stars/mts1104/atcoder?style=plastic) - [parentheses](https://atcoder.jp/users/parentheses)さんのライブラリ。レポジトリには、[C++のライブラリ](https://github.com/mts1104/atcoder/tree/master/cpp/lib)も含まれている。
+- [nanoseeing/AtCoder](https://github.com/nanoseeing/AtCoder) ![GitHub Repo stars](https://img.shields.io/github/stars/nanoseeing/AtCoder?style=plastic) - [nanoseeing](https://atcoder.jp/users/nanoseeing)さんのライブラリ。
 - [Neterukun1993/algorithm](https://github.com/Neterukun1993/algorithm) ![GitHub stars](https://img.shields.io/github/stars/Neterukun1993/algorithm?style=plastic) - [neterukun](https://atcoder.jp/users/neterukun)さんのライブラリ。
 - [nrkt/Algorithms](https://github.com/nrkt/Algorithms) ![GitHub stars](https://img.shields.io/github/stars/nrkt/Algorithms?style=plastic) - [nrkt](https://atcoder.jp/users/nrkt)さんのライブラリ。
+- [rkato5680/CompetitiveProgramming](https://github.com/rkato5680/CompetitiveProgramming) ![GitHub Repo stars](https://img.shields.io/github/stars/rkato5680/CompetitiveProgramming?style=plastic) - [rkato5680](https://atcoder.jp/users/rkato5680)さんのライブラリ。
 - [tachyon777/AtCoder](https://github.com/tachyon777/AtCoder) ![GitHub stars](https://img.shields.io/github/stars/tachyon777/AtCoder?style=plastic) - [tachyon777](https://atcoder.jp/users/tachyon777)さんのライブラリ。
 - [tjkendev/procon-library](https://github.com/tjkendev/procon-library) ![GitHub stars](https://img.shields.io/github/stars/tjkendev/procon-library?style=plastic) - [yaketake08](https://atcoder.jp/users/yaketake08)さんのライブラリ。
+- [yaumu3/cpl-python3](https://github.com/yaumu3/cpl-python3) ![GitHub Repo stars](https://img.shields.io/github/stars/yaumu3/cpl-python3?style=plastic) - [yaumu3](https://atcoder.jp/users/yaumu3)さんのライブラリ。
 
 ### Ruby
 
