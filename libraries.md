@@ -84,7 +84,7 @@ filename: libraries
 
 - [siumai1223/ac-library-c](https://github.com/siumai1223/ac-library-c) ![GitHub stars](https://img.shields.io/github/stars/siumai1223/ac-library-c?style=plastic) - C版。[Slack](https://ac-library-c.slack.com/join/shared_invite/zt-h4ka7x46-kFrvaf836kJzGZkfNYCq_w#/)も作成されている。
 
-#### Cplusplus
+#### CPlusPlus
 
 - [TumoiYorozu/single-file-ac-library](https://github.com/TumoiYorozu/single-file-ac-library) ![GitHub stars](https://img.shields.io/github/stars/TumoiYorozu/single-file-ac-library?style=plastic) - [公式ライブラリ](https://atcoder.jp/posts/517)をシングルファイルとして使えるようにしている。また、公式ドキュメントを[ブラウザ](https://tumoiyorozu.github.io/single-file-ac-library/document_ja/)で見ることもできる。
 
@@ -143,7 +143,7 @@ filename: libraries
 - [TheAlgorithms](https://github.com/TheAlgorithms) - 競技プログラミング専用ではないが、有名なアルゴリズムが複数の言語で実装されたレポジトリ群。Python, Java, C++, C, Go, JavaScriptなどが公開されている。
 - [VAR-solutions/Algorithms](https://var-solutions.github.io/Algorithms/) ![GitHub stars](https://img.shields.io/github/stars/VAR-solutions/Algorithms?style=plastic) - アルゴリズムやデータ構造について、シンプルな例が複数の言語で実装されている。
 
-### Cplusplus
+### CPlusPlus
 
 - [AokabiC/compro-lib](https://github.com/AokabiC/compro-lib) ![GitHub stars](https://img.shields.io/github/stars/AokabiC/compro-lib?style=plastic) - [AokabiC](https://atcoder.jp/users/AokabiC)さんのライブラリ。
 - [asi1024/competitive-library](https://github.com/asi1024/competitive-library) ![GitHub stars](https://img.shields.io/github/stars/asi1024/competitive-library?style=plastic) - [asi1024](https://atcoder.jp/users/asi1024)さんのライブラリ。C++11(gcc-4.8)、C++17(gcc-7)、C++14(clang-3.8)に対応。
