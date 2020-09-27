@@ -1,5 +1,11 @@
 # Change Log
 
+## 2020-09-27
+
+- [#570](https://github.com/KATO-Hiro/AtCoderClans/pull/570) - 記事「"データ構造をマージする一般的なテク"とは？」を追加。
+- [#569](https://github.com/KATO-Hiro/AtCoderClans/pull/569) - Webアプリ「AtCoder Twitter Profile Updater」([#536](https://github.com/KATO-Hiro/AtCoderClans/pull/536))の紹介文に、使用技術を解説した記事を追加。
+- [#568](https://github.com/KATO-Hiro/AtCoderClans/pull/568) - 記事「遅延伝播セグメント木の使い方，ACLPC: K – Range Affine Range Sumの解説」を追加。
+
 ## 2020-09-26
 
 - [#558](https://github.com/KATO-Hiro/AtCoderClans/pull/558), [#559](https://github.com/KATO-Hiro/AtCoderClans/pull/559) - 記事ページにサブカテゴリ「開発に関心のある人向けの記事」を新設。
