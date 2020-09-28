@@ -70,10 +70,11 @@ filename: libraries
 - [AtCoder](https://atcoder.jp/)公式が、様々なアルゴリズムをC++で実装したライブラリを[AtCoder Library (ACL)](https://atcoder.jp/posts/517)として公開しています([GitHubレポジトリ](https://github.com/atcoder/ac-library))。
 - 有志によって、各言語への移植が試みられています。また、一部の言語では、移植されたライブラリから必要な部分だけを取り出して、一つの提出用ファイルにまとめることができるツールが公開されています。
 
-#### ライブラリの内容に関する記事
+#### ライブラリの内容に関連する記事
 
 - [AtCoder Library - 西尾泰和のScrapbox](https://scrapbox.io/nishio/AtCoder_Library) - ライブラリの見出しを1ページにまとめた記事。概略を把握するのに便利。
 - [AtCoder Library (日本語訳)](https://drken1215.hatenablog.com/) - [drken](https://atcoder.jp/users/drken)さんによる[公式記事](https://codeforces.com/blog/entry/82400)の日本語訳。
+- [ACL Beginner ContestのC問題〜F問題の解説](https://drken1215.hatenablog.com/archive/2020/9) - [drken](https://atcoder.jp/users/drken)さんによる、[ACL Beginner Contest](https://atcoder.jp/contests/abl)の[C問題](https://drken1215.hatenablog.com/entry/2020/09/27/080100)、[D問題](https://drken1215.hatenablog.com/entry/2020/09/27/080300)、[E問題](https://drken1215.hatenablog.com/entry/2020/09/27/080500)、[F問題](https://drken1215.hatenablog.com/entry/2020/09/27/122900)の解説記事。
 - [遅延伝播セグメント木の使い方，ACLPC: K – Range Affine Range Sumの解説](https://opt-cp.com/cp/lazysegtree-aclpc-k/) - [opt](https://atcoder.jp/users/opt)さんによる遅延伝播セグメント木(lazysegtree)の使い方を解説した記事。`lazysegtree`をブラックボックスとして使えるようになることを目標としており、「モノイド」などの用語を一切使わずに説明されている点が特徴。例題として、[コンテストで出題された問題](https://atcoder.jp/contests/practice2/tasks/practice2_k)の解説もある。
 - [AtCoder LibraryのLazy Segtreeの使い方](https://betrue12.hateblo.jp/entry/2020/09/22/194541) - [betrue12](https://atcoder.jp/users/betrue12)さんによる遅延伝播機能を持つセグメント木の使用方法を解説した記事。`atcoder::lazy_segtree`を生成するときに、テンプレート引数に何を渡すのか、自分で考えられるようになることを目標としている。また、整数列に対するシンプルな機能の組み合わせについては、コピー&ペーストで利用できる[チートシート](https://betrue12.hateblo.jp/entry/2020/09/23/005940)も公開されている。
 
