@@ -1,5 +1,15 @@
 # Change Log
 
+## 2020-09-28
+
+- [#579](https://github.com/KATO-Hiro/AtCoderClans/pull/579) - ライブラリページに、有志によるACL Beginner Contestの解説記事を追加。
+  - C問題
+  - D問題
+  - E問題
+  - F問題
+- [#578](https://github.com/KATO-Hiro/AtCoderClans/pull/578) - 関連するコンテストサイトのページにサブカテゴリ「yukicoder」を新設。
+  - Webアプリ「yukicoder problems」を追加。
+
 ## 2020-09-27
 
 - [#574](https://github.com/KATO-Hiro/AtCoderClans/pull/574) - Webアプリ「GRAPH × GRAPH」を追加。
