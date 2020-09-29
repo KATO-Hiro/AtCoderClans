@@ -1,5 +1,10 @@
 # Change Log
 
+## 2020-09-29
+
+- [#588](https://github.com/KATO-Hiro/AtCoderClans/pull/588) - Webアプリ「AtCoder Difficult Quiz」を追加。
+- [#587](https://github.com/KATO-Hiro/AtCoderClans/pull/587) -ライブラリページに、[#568](https://github.com/KATO-Hiro/AtCoderClans/pull/568)に関連する記事「遅延セグ木に慣れる AtCoderの練習問題3問」のリンクを追加。
+
 ## 2020-09-28
 
 - [#579](https://github.com/KATO-Hiro/AtCoderClans/pull/579) - ライブラリページに、有志によるACL Beginner Contestの解説記事を追加。
