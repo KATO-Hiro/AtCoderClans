@@ -196,6 +196,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_diff_scores.png" alt="Atcoder Diff Scores">
   </div>
 
+- [AtCoder Difficult Quiz](https://atcoder-difficulty-quiz.appspot.com/) - 2つの問題のうち、難易度が高いほう選ぶクイズ。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_difficulty_quiz.png" alt="atcoder difficulty quiz">
+  </div>
+
 - [AtCoder Friend Finder](http://atcoder-friend-finder.herokuapp.com/) - [Twitter](https://twitter.com/)でフォローしている[AtCoder](https://atcoder.jp/)ユーザを表示する。
 
   <div align="center">
