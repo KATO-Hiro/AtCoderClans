@@ -68,7 +68,7 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_translations.png" alt="atcoder translations">
   </div>
 
-- [GRAPH × GRAPH](https://hello-world-494ec.firebaseapp.com/) - グラフの問題の入力例を可視化する。
+- [GRAPH × GRAPH](https://hello-world-494ec.firebaseapp.com/) - グラフの問題の入力例を可視化する。ターミナル上で同サイトを起動するためのCLIツール[ggg(go GRAPH × GRAPH)](https://github.com/monkukui/ggg)もある。
 
   <div align="center">
     <img loading = "lazy" src="images/web_app/graph_graph.png" alt="graph graph">
