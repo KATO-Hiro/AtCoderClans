@@ -1,5 +1,13 @@
 # Change Log
 
+## 2020-10-01
+
+- [#594](https://github.com/KATO-Hiro/AtCoderClans/pull/594) - [#574](https://github.com/KATO-Hiro/AtCoderClans/pull/574)の説明に、コマンドラインツール「ggg」を追加。
+- [#592](https://github.com/KATO-Hiro/AtCoderClans/pull/592), [#593](https://github.com/KATO-Hiro/AtCoderClans/pull/593) - 書籍「問題解決力を鍛える!アルゴリズムとデータ構造」の説明を加筆・修正。
+  - GitHubに掲載されている補足資料を追加。
+  - Qiitaのリンクが切れていたため、削除。
+  - 「予約受付中」の文言を削除。
+
 ## 2020-09-29
 
 - [#588](https://github.com/KATO-Hiro/AtCoderClans/pull/588) - Webアプリ「AtCoder Difficult Quiz」を追加。
