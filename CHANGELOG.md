@@ -1,5 +1,11 @@
 # Change Log
 
+## 2020-10-02
+
+- [#600](https://github.com/KATO-Hiro/AtCoderClans/pull/600) - コマンドラインツールのページに「statements-manager」を追加。
+- [#599](https://github.com/KATO-Hiro/AtCoderClans/pull/599) - Goで実装されたライブラリを追加。
+  - my0k/go-competitive
+
 ## 2020-10-01
 
 - [#594](https://github.com/KATO-Hiro/AtCoderClans/pull/594) - [#574](https://github.com/KATO-Hiro/AtCoderClans/pull/574)の説明に、コマンドラインツール「ggg」を追加。
