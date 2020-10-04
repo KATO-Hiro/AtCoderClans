@@ -2,6 +2,8 @@
 
 ## 2020-10-04
 
+- [#612](https://github.com/KATO-Hiro/AtCoderClans/pull/612) - 記事「作問の失敗 判例集」を追加。
+- [#611](https://github.com/KATO-Hiro/AtCoderClans/pull/611) - 記事「DEGwer式作問法」を追加。
 - [#606](https://github.com/KATO-Hiro/AtCoderClans/pull/606) - 記事ページに「数え上げテクニック集」を追加。
 - [#605](https://github.com/KATO-Hiro/AtCoderClans/pull/605) - [#491](https://github.com/KATO-Hiro/AtCoderClans/pull/491)で追加したコマンドラインツール「Rime」に関する日本語の記事を追加。
   - Rimeの拡張プラグインRime+の作者による解説記事。現在では、Rime本体に取り込まれていることを追記。
