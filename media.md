@@ -166,6 +166,7 @@ filename: media
 
 - [競技プログラミングにおける作問テクニックを総整理！ 〜初心者から経験者まで〜](https://qiita.com/e869120/items/45a0132263094b83fc44) - コンテストの問題を作りたい人に向けて、役割分担・作業工程の説明から、問題文・テストケースの作成手順とそれらの注意事項について網羅的にまとめられている。
 - [競プロ作問チェックリスト (初心者向け)](https://drive.google.com/file/d/1kTfrNKGXMhJOgUdyDhYo2dswbwPAhZ7a/view) - 新規writerを対象として、各フェーズの注意事項がチェックリストの形式でまとめられている。
+- [DEGwer式作問法](https://note.com/degwer/n/n270f59cb7809) - [DEGwer](https://atcoder.jp/users/DEGwer)さんによる、問題の原案を量産するための方法論。記事を全文読むためには、購入する必要がある。
 
 ### アルゴリズム、最適化手法を活用した事例
 
