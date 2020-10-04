@@ -104,6 +104,7 @@ filename: media
 ### 難問に対するアプローチ方法
 
 - [平面上のロシアゲー（構築ゲー）を解くためのそこそこ一般的なテクについて](https://kokiymgch.hatenablog.com/entry/2017/12/12/153419) - 平面上で何かを構築するタイプの問題へのアプローチ方法を解説した記事。
+- [数え上げテクニック集](https://drive.google.com/file/d/1WC7Y2Ni-8elttUgorfbix9tO1fvYN3g3/view) - [DEGwer](https://atcoder.jp/users/DEGwer)さんによる「数え上げ」の問題を解くコツが凝縮された資料集。難易度は、後述の書籍「プログラミングコンテストチャレンジブック」(通称、蟻本)よりも、やや難しい程度と記載されている。資料作成者の注: AtCoder Grand Contestなどの問題のネタバレを多分に含んでいる。
 
 ### コードを実装するときの工夫
 
