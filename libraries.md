@@ -97,7 +97,7 @@ filename: libraries
 #### CSharp
 
 - [key-moon/ac-library-cs](https://github.com/key-moon/ac-library-cs) ![GitHub stars](https://img.shields.io/github/stars/key-moon/ac-library-cs?style=plastic) - C#版。
-- [naminodarie/ac-library-cs-expander](https://github.com/naminodarie/ac-library-cs-expander) ![GitHub Repo stars](https://img.shields.io/github/stars/naminodarie/ac-library-cs-expander?style=plastic) - [key-moon/ac-library-cs](https://github.com/key-moon/ac-library-cs)を利用したコードをジャッジシステムに提出できる形式に変換するライブラリ。
+- [naminodarie/SourceExpander](https://github.com/naminodarie/SourceExpander) ![GitHub Repo stars](https://img.shields.io/github/stars/naminodarie/SourceExpander?style=plastic) - [key-moon/ac-library-cs](https://github.com/key-moon/ac-library-cs)を利用したコードをジャッジシステムに提出できる形式に変換するライブラリ。
 
 #### D
 
