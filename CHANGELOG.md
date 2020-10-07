@@ -1,5 +1,9 @@
 # Change Log
 
+## 2020-10-07
+
+- [#616](https://github.com/KATO-Hiro/AtCoderClans/pull/616) - ライブラリ関連ツールのリンクを最新のものに修正。
+
 ## 2020-10-04
 
 - [#612](https://github.com/KATO-Hiro/AtCoderClans/pull/612) - 記事「作問の失敗 判例集」を追加。
