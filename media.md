@@ -197,6 +197,10 @@ filename: media
 - [atcoder-rust-resources](https://doc.rust-jp.rs/atcoder-rust-resources/) - コンテストにRustで参加するための資料集。現在は、日本語のみ対応。
 - [OI Public Library](https://github.com/enkerewpo/OI-Public-Library) - アルゴリズムに関する資料集。中国語と英語で提供されている。
 
+## オンラインイベント
+
+- [アルゴリズム・データ構造を語る会](https://drive.google.com/drive/folders/1htiwJtiSZ_ruYJYRk54cuJlJgea_XGrH) - 有志が主催するアルゴリズムやデータ構造のトークイベント(通称: ア・デの会)のスライド・動画をまとめたリンク集。
+
 ## YouTube
 
 ### チャンネル
