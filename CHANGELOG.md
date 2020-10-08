@@ -1,5 +1,12 @@
 # Change Log
 
+## 2020-10-08
+
+- [#625](https://github.com/KATO-Hiro/AtCoderClans/pull/625) - ライブラリページに、コマンドラインツール「gottani」を追加。
+- [#624](https://github.com/KATO-Hiro/AtCoderClans/pull/624) - 記事「容量スケーリング法のすゝめ」を追加。
+- [#623](https://github.com/KATO-Hiro/AtCoderClans/pull/623) - 記事・書籍・動画ページに、オンラインイベントを新設。
+  - 「アルゴリズム・データ構造を語る会」のスライド資料・動画のリンク集を追加。
+
 ## 2020-10-07
 
 - [#616](https://github.com/KATO-Hiro/AtCoderClans/pull/616) - ライブラリ関連ツールのリンクを最新のものに修正。
