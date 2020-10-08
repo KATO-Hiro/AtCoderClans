@@ -33,6 +33,7 @@ filename: media
 - [書籍、オンラインブック](#%E6%9B%B8%E7%B1%8D%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%96%E3%83%83%E3%82%AF)
   - [書籍](#%E6%9B%B8%E7%B1%8D)
   - [オンラインブック](#%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%96%E3%83%83%E3%82%AF)
+- [オンラインイベント](#%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88)
 - [YouTube](#youtube)
   - [チャンネル](#%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB)
   - [講座、講演](#%E8%AC%9B%E5%BA%A7%E8%AC%9B%E6%BC%94)
@@ -196,6 +197,10 @@ filename: media
 
 - [atcoder-rust-resources](https://doc.rust-jp.rs/atcoder-rust-resources/) - コンテストにRustで参加するための資料集。現在は、日本語のみ対応。
 - [OI Public Library](https://github.com/enkerewpo/OI-Public-Library) - アルゴリズムに関する資料集。中国語と英語で提供されている。
+
+## オンラインイベント
+
+- [アルゴリズム・データ構造を語る会](https://drive.google.com/drive/folders/1htiwJtiSZ_ruYJYRk54cuJlJgea_XGrH) - 有志が主催するアルゴリズムやデータ構造のトークイベント(通称: ア・デの会)のスライド・動画をまとめたリンク集。
 
 ## YouTube
 
