@@ -2,6 +2,7 @@
 
 ## 2020-10-10
 
+- [#637](https://github.com/KATO-Hiro/AtCoderClans/pull/637) - Webアプリ「今日のコンテスト結果占い」を追加。
 - [#632](https://github.com/KATO-Hiro/AtCoderClans/pull/632) - ライブラリページの「Library Checker Problems」に、初心者向けの解説をまとめた記事のリンクを追加。
 - [#631](https://github.com/KATO-Hiro/AtCoderClans/pull/631) - 記事「【競技プログラミング】形式的冪級数の応用テクニック(前編)」を追加。
 - [#629](https://github.com/KATO-Hiro/AtCoderClans/pull/629) - 記事ページに「整数論テクニック集」を追加。
