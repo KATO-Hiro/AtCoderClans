@@ -56,7 +56,7 @@ filename: libraries
 
 ### ライブラリチェッカー
 
-- [Library Checker Problems](https://judge.yosupo.jp/) ![GitHub stars](https://img.shields.io/github/stars/yosupo06/library-checker-problems?style=plastic) - オンラインジャッジシステムにより、ライブラリが正しく実装されているか確認できる。
+- [Library Checker Problems](https://judge.yosupo.jp/) ![GitHub stars](https://img.shields.io/github/stars/yosupo06/library-checker-problems?style=plastic) - オンラインジャッジシステムにより、ライブラリが正しく実装されているか確認できる。初心者向けに[有志による解説記事のまとめ](https://qiita.com/hotman78/items/b8986a23b8fdfe25c9fb)も公開されている。
 
   <div align="center">
     <img loading = "lazy" src="images/library/library_checker.png" alt="library checker">
