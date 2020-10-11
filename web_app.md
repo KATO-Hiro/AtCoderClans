@@ -274,6 +274,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/devotter.png" alt="devotter">
   </div>
 
+- [今日のコンテスト結果占い](https://shindanmaker.com/1019867) - コンテストの結果を事前に占う。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_shindanmaker.png" alt="atcoder shindanmaker">
+  </div>
+
 ### チーム戦に参加する
 
 - [TeamMaker](https://compro.tsutajiro.com/cp-teammaker/index.php) - 競技プログラミングでチーム分けを補助する。beta版。

@@ -1,5 +1,21 @@
 # Change Log
 
+## 2020-10-11
+
+- [#644](https://github.com/KATO-Hiro/AtCoderClans/pull/644) - 記事ページに以下の記事を追加。
+  - 最短経路問題総特集！！！～BFSから拡張ダイクストラまで～
+  - 競プロに便利な C++17 新機能まとめ
+  - Pythonで"in list"から"in set"に変えただけで爆速になった件とその理由
+  - 競技プログラマーにおすすめするセキュリティエンジニアというお仕事
+- [#642](https://github.com/KATO-Hiro/AtCoderClans/pull/642) - 記事ページに解説ブログ「noshi91のメモ」を追加。
+
+## 2020-10-10
+
+- [#637](https://github.com/KATO-Hiro/AtCoderClans/pull/637) - Webアプリ「今日のコンテスト結果占い」を追加。
+- [#632](https://github.com/KATO-Hiro/AtCoderClans/pull/632) - ライブラリページの「Library Checker Problems」に、初心者向けの解説をまとめた記事のリンクを追加。
+- [#631](https://github.com/KATO-Hiro/AtCoderClans/pull/631) - 記事「【競技プログラミング】形式的冪級数の応用テクニック(前編)」を追加。
+- [#629](https://github.com/KATO-Hiro/AtCoderClans/pull/629) - 記事ページに「整数論テクニック集」を追加。
+
 ## 2020-10-08
 
 - [#625](https://github.com/KATO-Hiro/AtCoderClans/pull/625) - ライブラリページに、コマンドラインツール「gottani」を追加。
