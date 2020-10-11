@@ -38,7 +38,7 @@ filename: web_app
 
 ### 過去問を解く
 
-- [AtCoder Problems](https://kenkoooo.com/atcoder) - 開催されたコンテストの問題を一覧できる。問題の正誤状況や各種集計結果を確認できるだけでなく、バーチャルコンテストなどの機能もある。
+- [AtCoder Problems](https://kenkoooo.com/atcoder#/table/) - 開催されたコンテストの問題を一覧できる。問題の正誤状況や各種集計結果を確認できるだけでなく、バーチャルコンテストなどの機能もある。
 
   <div align="center">
     <img loading = "lazy" src="images/web_app/atcoder_problems.png" alt="atcoder problems">
@@ -94,20 +94,9 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/competitive_programming_contests_calendar.png" alt="competitive programming contests calendar">
   </div>
 
-- [Future Contest](https://future-contest.appspot.com/) - 開催予定のコンテスト情報を表示する。[yukicoder](https://yukicoder.me/)、[CS Academy](https://csacademy.com/)、[Codeforces](https://codeforces.com/)にも対応している。
-
-  <div align="center">
-    <img loading = "lazy" src="images/web_app/future_contest.png" alt="competitive programming contests calendar">
-  </div>
-
 ### 統計情報を見る
 
 - [AtCoder Code Evaluate](https://ac-code-eval.com/) - 問題の実装の重さをAC(Accepted)コードをもとに評価している。
-- [AtCoder Stats](https://atcoderstats.appspot.com/) - コンテスト、問題、ユーザに関する様々な統計情報が閲覧できる。
-
-  <div align="center">
-    <img loading = "lazy" src="images/web_app/atcoder_stats.png" alt="atcoder stats">
-  </div>
 
 ### レーティング、パフォーマンス、順位などを表示する、比較する
 
@@ -212,12 +201,6 @@ filename: web_app
 
   <div align="center">
     <img loading = "lazy" src="images/web_app/atcoder_games.png" alt="atcoder games">
-  </div>
-
-- [AtCoder じゃんけん](https://atcoder-janken.appspot.com/) - 指定した2人のユーザが共通して出場したコンテストの順位を比較する。
-
-  <div align="center">
-    <img loading = "lazy" src="images/web_app/atcoder_janken.png" alt="atcoder janken">
   </div>
 
 - [AtCoder Prophet](https://sotanishy.github.io/atcoder-prophet) - 機械学習モデルを使って、将来のレーティングを予測する。

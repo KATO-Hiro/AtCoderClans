@@ -14,6 +14,37 @@ filename: archived
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## リンク切れと思われるサービス、ツールなど
+
+リンクが切れていると思われるサービス・ツールなどを掲載しています。一定の期間(3〜6か月程度)更新されない場合は、下記の「開発、提供が終了したサービス、ツールなど」へ移動させたいと思います。
+
+- [AtCoder じゃんけん](https://atcoder-janken.appspot.com/) - 指定した2人のユーザが共通して出場したコンテストの順位を比較できるWebアプリ。
+  - 確認した日: 2020/10/12
+  - 理由: Google Cloud Platform(GCP)で、Go1.9の提供が終了したため。
+  - 対処方法: Goの新しいランタイムに移行する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_janken.png" alt="atcoder janken">
+  </div>
+
+- [AtCoder Stats](https://atcoderstats.appspot.com/) - コンテスト、問題、ユーザに関する様々な統計情報が閲覧できるWebアプリ。
+  - 確認した日: 2020/10/12
+  - 理由: Google Cloud Platform(GCP)で、Go1.9の提供が終了したため。
+  - 対処方法: Goの新しいランタイムに移行する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_stats.png" alt="atcoder stats">
+  </div>
+
+- [Future Contest](https://future-contest.appspot.com/) - 開催予定のコンテスト情報を表示するWebアプリ。[yukicoder](https://yukicoder.me/)、[CS Academy](https://csacademy.com/)、[Codeforces](https://codeforces.com/)にも対応している。
+  - 確認した日: 2020/10/12
+  - 理由: Google Cloud Platform(GCP)で、Go1.9の提供が終了したため。
+  - 対処方法: Goの新しいランタイムに移行する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/future_contest.png" alt="competitive programming contests calendar">
+  </div>
+
 ## 開発、提供が終了したサービス、ツールなど
 
 諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
