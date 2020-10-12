@@ -10,9 +10,45 @@ filename: archived
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
+- [リンク切れと思われるサービス、ツールなど](#%E3%83%AA%E3%83%B3%E3%82%AF%E5%88%87%E3%82%8C%E3%81%A8%E6%80%9D%E3%82%8F%E3%82%8C%E3%82%8B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%84%E3%83%BC%E3%83%AB%E3%81%AA%E3%81%A9)
 - [開発、提供が終了したサービス、ツールなど](#%E9%96%8B%E7%99%BA%E6%8F%90%E4%BE%9B%E3%81%8C%E7%B5%82%E4%BA%86%E3%81%97%E3%81%9F%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%84%E3%83%BC%E3%83%AB%E3%81%AA%E3%81%A9)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## リンク切れと思われるサービス、ツールなど
+
+リンクが切れていると思われるサービス・ツールなどを掲載しています。一定の期間(3〜6か月程度)更新されない場合は、下記の「開発、提供が終了したサービス、ツールなど」へ移動させたいと思います。
+
+<!-- markdown-link-check-disable -->
+
+- [AtCoder じゃんけん](https://atcoder-janken.appspot.com/) - 指定した2人のユーザが共通して出場したコンテストの順位を比較できるWebアプリ。
+  - 確認した日: 2020/10/12
+  - 理由: Google Cloud Platform(GCP)で、Go1.9の提供が終了したため。
+  - 対処方法: Goの新しいランタイムに移行する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_janken.png" alt="atcoder janken">
+  </div>
+
+- [AtCoder Stats](https://atcoderstats.appspot.com/) - コンテスト、問題、ユーザに関する様々な統計情報が閲覧できるWebアプリ。
+  - 確認した日: 2020/10/12
+  - 理由: Google Cloud Platform(GCP)で、Go1.9の提供が終了したため。
+  - 対処方法: Goの新しいランタイムに移行する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_stats.png" alt="atcoder stats">
+  </div>
+
+- [Future Contest](https://future-contest.appspot.com/) - 開催予定のコンテスト情報を表示するWebアプリ。[yukicoder](https://yukicoder.me/)、[CS Academy](https://csacademy.com/)、[Codeforces](https://codeforces.com/)にも対応している。
+  - 確認した日: 2020/10/12
+  - 理由: Google Cloud Platform(GCP)で、Go1.9の提供が終了したため。
+  - 対処方法: Goの新しいランタイムに移行する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/future_contest.png" alt="competitive programming contests calendar">
+  </div>
+
+<!-- markdown-link-check-enable -->
 
 ## 開発、提供が終了したサービス、ツールなど
 
@@ -26,25 +62,25 @@ filename: archived
   - 代替手段: [AtCoder Scores](http://atcoder-scores.herokuapp.com/)のリンクから閲覧する。
 - [AtCoder Calendar](https://atcoder-calendar.tkt989.info/) - 指定したURLをGoogleカレンダーに登録する。
   - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
-  - 代替手段: [Competitive Programming Contests Calendar](https://competitiveprogramming.info/calendar)や[Future Contest](https://future-contest.appspot.com/)などを利用する。
+  - 代替手段: [CLIST](https://clist.by/)や[Competitive Programming Contests Calendar](https://competitiveprogramming.info/calendar)などを利用する。
 - [AtCoderカレンダー通知](https://twitter.com/AtcoderCalendar) - イベント開始15分前に通知する。
   - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
   - 代替手段: [競プロリマインダー](https://twitter.com/ComproReminder)などを利用する。
 - [AtCoderEditorials](https://github.com/null-null-programming/AtCoder-Editorials) - 解法ブログの投稿・閲覧と知見の集約を目指したWebサービス。
   - 理由: 記載なし。
   - 代替手段: 公式解説や個々の解説ブログ、提出コードを見る。
-- [AtCoder Problems Penalty Counter](https://greasyfork.org/ja/scripts/395755-atcoder-problems-penalty-counter) -  [AtCoder Problems](https://kenkoooo.com/atcoder)のTableページで、各問題のコンテスト中のペナルティ数を表示する。
-  - 理由: [AtCoder Problems](https://kenkoooo.com/atcoder)で実装されており、追加で導入する必要性は薄いと思われるため。
-  - 代替手段: [AtCoder Problems](https://kenkoooo.com/atcoder)を利用する。
+- [AtCoder Problems Penalty Counter](https://greasyfork.org/ja/scripts/395755-atcoder-problems-penalty-counter) -  [AtCoder Problems](https://kenkoooo.com/atcoder#/table/)のTableページで、各問題のコンテスト中のペナルティ数を表示する。
+  - 理由: [AtCoder Problems](https://kenkoooo.com/atcoder#/table/)で実装されており、追加で導入する必要性は薄いと思われるため。
+  - 代替手段: [AtCoder Problems](https://kenkoooo.com/atcoder#/table/)を利用する。
 - [AtCoder Virtual Contest](https://not-522.appspot.com/) - 仮想コンテスト(本番のコンテストに近い状態で練習できる)を開催できるWebサービス。
   - 理由: [AtCoder](https://atcoder.jp/)の仕様変更に伴うもの。
-  - 代替手段: 公式のバーチャル参加や[AtCoder Problems](https://kenkoooo.com/atcoder)の[Vitual Contests](https://kenkoooo.com/atcoder/#/contest/recent)がある。
+  - 代替手段: 公式のバーチャル参加や[AtCoder Problems](https://kenkoooo.com/atcoder#/table/)の[Vitual Contests](https://kenkoooo.com/atcoder/#/contest/recent)がある。
 - [comp-prog-jp-library-standard/competitive-programming-library](https://github.com/comp-prog-jp-library-standard/competitive-programming-library) - 競技プログラミングのための共通ライブラリをまとめようとしたプロジェクト。
   - 理由: 記載なし。
   - 代替手段: [AtCoder Library (ACL)](https://atcoder.jp/posts/517)や[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)などで公開されているライブラリを利用するか、自分で作成する。
 - [wacchoz/kyopro](https://github.com/wacchoz/kyopro) - 過去問の難易度を推定している。2019年11月以降は、更新が途絶えている。
   - 理由: 記載なし。
-  - 代替手段: [AtCoder Problems](https://kenkoooo.com/atcoder)で確認できる。
+  - 代替手段: [AtCoder Problems](https://kenkoooo.com/atcoder#/table/)で確認できる。
 - [ばちゃこんお知らせbot](https://twitter.com/vtcon_bot?lang=ja) - [AtCoder Virtual Contest](https://not-522.appspot.com/)に関する情報をつぶやくbot。
   - 理由: [AtCoder](https://atcoder.jp/)の仕様変更および[AtCoder Virtual Contest](https://not-522.appspot.com/)のサービス終了に伴い、新たな情報提供が困難な状況。
   - 代替手段: 調査中。
