@@ -51,7 +51,7 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/ac_writers_script.png" alt="ac writers script">
   </div>
 
-- [AtCoder Difficulty Display](https://greasyfork.org/ja/scripts/397185-atcoder-difficulty-display) - AtCoderの「問題」のページに[AtCoder Problems](https://kenkoooo.com/atcoder#/table/)の難易度を表示する。
+- [AtCoder Difficulty Display](https://greasyfork.org/ja/scripts/397185-atcoder-difficulty-display) - AtCoderの「問題」のページに[AtCoder Problems](https://kenkoooo.com/atcoder/)の難易度を表示する。
 
   <div align="center">
     <img loading = "lazy" src="images/userscript/atcoder_difficulty_display.png" alt="atcoder difficulty display">
@@ -220,13 +220,13 @@ filename: scripts
 #### 非公式サービス、ツール、外部サービスなど
 
 - ["Atcoder" Finder](https://greasyfork.org/ja/scripts/373742-atcoder-finder) - [Twitter](https://twitter.com/)のツイートに含まれる"Atcoder"の文字列を赤色にする。
-- [AtCoder Problems Marker](https://greasyfork.org/ja/scripts/395711-atcoder-problems-marker) - [AtCoder Problems](https://kenkoooo.com/atcoder#/table/) で表示される問題に、ユーザが独自のマーカー(解説ACなど)を付けられるようにする。
+- [AtCoder Problems Marker](https://greasyfork.org/ja/scripts/395711-atcoder-problems-marker) - [AtCoder Problems](https://kenkoooo.com/atcoder/) で表示される問題に、ユーザが独自のマーカー(解説ACなど)を付けられるようにする。
 
   <div align="center">
     <img loading = "lazy" src="images/userscript/atcoder_problems_marker.png" alt="atcoder problems marker">
   </div>
 
-- [AtCoderProblemsRush](https://greasyfork.org/en/scripts/373299-atcoderproblemsrush) - [AtCoder Problems](https://kenkoooo.com/atcoder#/table/)のクローラが実行される前に、提出データをブラウザに保存し進捗状況を表示する。
+- [AtCoderProblemsRush](https://greasyfork.org/en/scripts/373299-atcoderproblemsrush) - [AtCoder Problems](https://kenkoooo.com/atcoder/)のクローラが実行される前に、提出データをブラウザに保存し進捗状況を表示する。
 
 ### 便利な機能を手軽に実行できるボタン、リンクなどを設置する
 
@@ -431,7 +431,7 @@ Google Chromeに機能を追加します。
 
 #### 非公式サービス、ツール、外部サービスなど
 
-- [Solve Later Again](https://chrome.google.com/webstore/detail/solve-later-again/emndffmnlppiaelhdneheagpaancfahk?hl=ja&gl=UA) - [AtCoder Problems](https://kenkoooo.com/atcoder#/table/)のTableページに、「Solve Later Again（またあとで解く）」テーブルを追加し、解き直したい問題を管理できる。
+- [Solve Later Again](https://chrome.google.com/webstore/detail/solve-later-again/emndffmnlppiaelhdneheagpaancfahk?hl=ja&gl=UA) - [AtCoder Problems](https://kenkoooo.com/atcoder/)のTableページに、「Solve Later Again（またあとで解く）」テーブルを追加し、解き直したい問題を管理できる。
 
   <div align="center">
     <img loading = "lazy" src="images/chrome_extension/solve_later_again.jpg" alt="solve later again">
