@@ -18,6 +18,8 @@ filename: archived
 
 リンクが切れていると思われるサービス・ツールなどを掲載しています。一定の期間(3〜6か月程度)更新されない場合は、下記の「開発、提供が終了したサービス、ツールなど」へ移動させたいと思います。
 
+<!-- markdown-link-check-disable -->
+
 - [AtCoder じゃんけん](https://atcoder-janken.appspot.com/) - 指定した2人のユーザが共通して出場したコンテストの順位を比較できるWebアプリ。
   - 確認した日: 2020/10/12
   - 理由: Google Cloud Platform(GCP)で、Go1.9の提供が終了したため。
@@ -44,6 +46,8 @@ filename: archived
   <div align="center">
     <img loading = "lazy" src="images/web_app/future_contest.png" alt="competitive programming contests calendar">
   </div>
+
+<!-- markdown-link-check-enable -->
 
 ## 開発、提供が終了したサービス、ツールなど
 
