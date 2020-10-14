@@ -1,0 +1,15 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^https://github.com/"
+    },
+    {
+      "pattern": "^https://img.shields.io/github/stars/"
+    },
+    {
+      "pattern": "^https://kenkoooo.com/atcoder/"
+    }
+  ],
+  "showProgressBar": true,
+  "retryOn429": true
+}
