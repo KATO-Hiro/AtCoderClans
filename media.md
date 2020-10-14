@@ -210,6 +210,10 @@ filename: media
 
 - [アルゴリズム・データ構造を語る会](https://drive.google.com/drive/folders/1htiwJtiSZ_ruYJYRk54cuJlJgea_XGrH) - 有志が主催するアルゴリズムやデータ構造のトークイベント(通称: ア・デの会)のスライド・動画をまとめたリンク集。
 
+## Discord
+
+- [競プロer集会所](http://discord.gg/2xCjYvK) - [mencotton](https://atcoder.jp/users/mencotton)さんによって管理・運営されている、競技プログラミングの話題に特化した会話ができるグループ。2020年10月時点で500人以上が参加している。有志による「質問への回答」や「記事の紹介」など多数のチャンネルが用意されている。
+
 ## YouTube
 
 ### チャンネル
