@@ -2,7 +2,7 @@
 
 ## 2020-10-14
 
-- [#660](https://github.com/KATO-Hiro/AtCoderClans/pull/660) - 記事ページにサブカテゴリ「Discord」を新設
+- [#660](https://github.com/KATO-Hiro/AtCoderClans/pull/660) - 記事ページにサブカテゴリ「Discord」を新設。
   - Discordサーバ「競プロer集会所」を追加。
 
 - [#633](https://github.com/KATO-Hiro/AtCoderClans/pull/633), [#648](https://github.com/KATO-Hiro/AtCoderClans/pull/648), [#649](https://github.com/KATO-Hiro/AtCoderClans/pull/649), [#656](https://github.com/KATO-Hiro/AtCoderClans/pull/656), [#657](https://github.com/KATO-Hiro/AtCoderClans/pull/657)
