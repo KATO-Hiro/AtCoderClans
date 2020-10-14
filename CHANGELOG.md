@@ -1,5 +1,17 @@
 # Change Log
 
+## 2020-10-14
+
+- [#660](https://github.com/KATO-Hiro/AtCoderClans/pull/660) - 記事ページにサブカテゴリ「Discord」を新設
+  - Discordサーバ「競プロer集会所」を追加。
+
+- [#633](https://github.com/KATO-Hiro/AtCoderClans/pull/633), [#648](https://github.com/KATO-Hiro/AtCoderClans/pull/648), [#649](https://github.com/KATO-Hiro/AtCoderClans/pull/649), [#656](https://github.com/KATO-Hiro/AtCoderClans/pull/656), [#657](https://github.com/KATO-Hiro/AtCoderClans/pull/657)
+  - Markdownに記載したリンクをGitHub Actionsを利用して自動的にチェック。
+  - リンクが切れているサービス・ツールを「Archived」ページに暫定的に移動。
+  - 「Markdown link check」の設定ファイルを追加。
+  - 一部のリンクに関しては、バッジのステータスを確認することで暫定的に対処。
+  - READMEとHomeページに、「Markdown link check」に関するURLを追加。
+
 ## 2020-10-11
 
 - [#644](https://github.com/KATO-Hiro/AtCoderClans/pull/644) - 記事ページに以下の記事を追加。
