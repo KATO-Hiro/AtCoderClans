@@ -1,3 +1,12 @@
 {
+  "ignorePatterns": [
+    {
+      "pattern": "^https://github.com/"
+    },
+    {
+      "pattern": "^https://img.shields.io/github/stars/"
+    }
+  ],
+  "showProgressBar": true,
   "retryOn429": true
 }
