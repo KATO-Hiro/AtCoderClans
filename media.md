@@ -221,7 +221,7 @@ filename: media
 
 - [AtCoder Live](https://www.youtube.com/channel/UCtG3StnbhxHxXfE6Q4cPZwQ) - [AtCoder](https://atcoder.jp/)の公式チャンネル。コンテストで出題された問題の解説や公式生放送「あーだこーだー」に関する動画が公開されている。
 - [chokudai](https://www.youtube.com/channel/UC_MfyqDBL5GPoAmX3_k-UWw) - [chokudai](https://atcoder.jp/users/chokudai)さんのチャンネル。
-- [Gennady Korotkevich](https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw) - [tourist](https://atcoder.jp/users/tourist)さんのチャンネル。
+- [Gennady Korotkevich](https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw) - 世界最強の競技プログラマーである[tourist](https://atcoder.jp/users/tourist)さんのチャンネル。
 - [Tozan Southerpacks Redcoder レッドコーダー](https://www.youtube.com/channel/UCwsapfci2p1oDVO4Q2sJOQw) - [tozangezan](https://atcoder.jp/users/tozangezan)さんのチャンネル。
 - [かつっぱ競プロ](https://www.youtube.com/channel/UCqqeYOh1gk_TJ16sxazWhUg) - [catupper](https://atcoder.jp/users/catupper)さんのチャンネル。
 - [きりみんちゃん kirimin-chan](https://www.youtube.com/c/kiriminchan/playlists) - [kirimin](https://atcoder.jp/users/kirimin)さんのチャンネル。競技プログラミングやライブコーディングだけでなく、幅広い話題の動画が公開されている。
