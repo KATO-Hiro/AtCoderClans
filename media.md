@@ -219,6 +219,7 @@ filename: media
 
 ### チャンネル
 
+- [かつっぱ競プロ](https://www.youtube.com/channel/UCqqeYOh1gk_TJ16sxazWhUg) - [catupper](https://atcoder.jp/users/catupper)さんのチャンネル。
 - [きりみんちゃん kirimin-chan](https://www.youtube.com/c/kiriminchan/playlists) - [kirimin](https://atcoder.jp/users/kirimin)さんのチャンネル。競技プログラミングやライブコーディングだけでなく、幅広い話題の動画が公開されている。
 - [じょえチャンネル](https://www.youtube.com/channel/UCRXsI3FL_kvaVL9zoolBfbQ/videos) - [xuzijian629](https://atcoder.jp/users/xuzijian629)さんのチャンネル。
 
