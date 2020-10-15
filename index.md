@@ -72,9 +72,7 @@ filename: index
 
 [Archived](https://kato-hiro.github.io/AtCoderClans/archived) - 諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するためのページです。
 
-## 更新履歴
-
-サービス・ツールなどの追加・修正情報を[更新履歴](https://github.com/KATO-Hiro/AtCoderClans/blob/master/CHANGELOG.md)にまとめています。
+[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG) - サービス・ツールなどの更新情報をまとめています。
 
 ## ご要望、ご報告、お気付きの点などについて
 
