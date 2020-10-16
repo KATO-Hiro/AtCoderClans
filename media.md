@@ -219,13 +219,13 @@ filename: media
 
 ### チャンネル
 
-- [AtCoder Live](https://www.youtube.com/channel/UCtG3StnbhxHxXfE6Q4cPZwQ) - [AtCoder](https://atcoder.jp/)の公式チャンネル。コンテストで出題された問題の解説や公式生放送「あーだこーだー」に関する動画が公開されている。
-- [chokudai](https://www.youtube.com/channel/UC_MfyqDBL5GPoAmX3_k-UWw) - [chokudai](https://atcoder.jp/users/chokudai)さんのチャンネル。
+- [AtCoder Live](https://www.youtube.com/channel/UCtG3StnbhxHxXfE6Q4cPZwQ) - [AtCoder](https://atcoder.jp/)の公式チャンネル。コンテストで出題された問題の解説や最新情報が入手できる生放送「あーだこーだー」に関する動画が公開されている。
+- [chokudai](https://www.youtube.com/channel/UC_MfyqDBL5GPoAmX3_k-UWw) - 世界大会で数多くの実績がある競技プログラマーであり、[AtCoder](https://atcoder.jp/)社長の[chokudai](https://atcoder.jp/users/chokudai)さんのチャンネル。
 - [Gennady Korotkevich](https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw) - 世界最強の競技プログラマーである[tourist](https://atcoder.jp/users/tourist)さんのチャンネル。
-- [Tozan Southerpacks Redcoder レッドコーダー](https://www.youtube.com/channel/UCwsapfci2p1oDVO4Q2sJOQw) - [tozangezan](https://atcoder.jp/users/tozangezan)さんのチャンネル。
-- [かつっぱ競プロ](https://www.youtube.com/channel/UCqqeYOh1gk_TJ16sxazWhUg) - [catupper](https://atcoder.jp/users/catupper)さんのチャンネル。
+- [Tozan Southerpacks Redcoder レッドコーダー](https://www.youtube.com/channel/UCwsapfci2p1oDVO4Q2sJOQw) - レッドコーダー（競技プログラマーとして世界最高峰の実力の持ち主であることを示す）の[tozangezan](https://atcoder.jp/users/tozangezan)さんのチャンネル。
+- [かつっぱ競プロ](https://www.youtube.com/channel/UCqqeYOh1gk_TJ16sxazWhUg) - [AtCoder](https://atcoder.jp/)でレッドコーダーになったことがある[catupper](https://atcoder.jp/users/catupper)さんのチャンネル。コンテストの実況動画が公開されている。
 - [きりみんちゃん kirimin-chan](https://www.youtube.com/c/kiriminchan/playlists) - [kirimin](https://atcoder.jp/users/kirimin)さんのチャンネル。競技プログラミングやライブコーディングだけでなく、幅広い話題の動画が公開されている。
-- [じょえチャンネル](https://www.youtube.com/channel/UCRXsI3FL_kvaVL9zoolBfbQ/videos) - [xuzijian629](https://atcoder.jp/users/xuzijian629)さんのチャンネル。
+- [じょえチャンネル](https://www.youtube.com/channel/UCRXsI3FL_kvaVL9zoolBfbQ/videos) - [xuzijian629](https://atcoder.jp/users/xuzijian629)さんのチャンネル。斬新な企画が数多く公開されている。
 
 ### 講座、講演
 
