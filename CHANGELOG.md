@@ -6,6 +6,15 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-10-16
+
+- [#684](https://github.com/KATO-Hiro/AtCoderClans/pull/684) - YouTubeページに著名なYouTuberのチャンネルを追加。
+  - AtCoder Live
+  - chokudai
+  - Gennady Korotkevich
+  - Tozan Southerpacks Redcoder レッドコーダー
+  - かつっぱ競プロ
+
 ### 2020-10-15
 
 - [#667](https://github.com/KATO-Hiro/AtCoderClans/pull/667), [#669](https://github.com/KATO-Hiro/AtCoderClans/pull/669) - 拙サイトのヘッダーに更新履歴(Change Log)へのリンクを新設。
