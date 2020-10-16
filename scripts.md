@@ -144,6 +144,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_background_colorizer.png" alt="atcoder background colorizer">
   </div>
 
+- [AtCoder Better Highlighter](https://greasyfork.org/ja/scripts/412865-atcoder-better-highlighter) - 「提出結果」ページのコードをハイライトして見やすくする。デフォルトで10種類以上の言語をサポートしており、対応言語の拡張や配色の変更も可能。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_better_highlighter.png" alt="atcoder background colorizer">
+  </div>
+
 - [AtCoderColouringDifference](https://greasyfork.org/en/scripts/371703-atcodercolouringdifference) - ユーザの「コンテスト成績表」ページで"差分"の部分を色づけする。レポジトリ作成者注: スクリプトの実行対象URLがベータ版のため、修正が必要。
 
   <div align="center">
