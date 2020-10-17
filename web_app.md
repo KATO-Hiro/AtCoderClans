@@ -80,6 +80,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/procon_q&a.png" alt="procon q&a">
   </div>
 
+- [Virtual Judge](https://vjudge.net/) - 30以上のコンテストサイトの問題を利用して、バーチャルコンテストが開催できる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/virtual_judge.png" alt="virtual judge">
+  </div>
+
 ### コンテストの開催予定を確認する、登録する
 
 - [CLIST](https://clist.by/) - [60以上のコンテストサイト](https://clist.by/resources/)を対象として開始・終了時刻、コンテスト時間と閲覧時点での残り時間が一覧で表示される。また、順位表や問題の一覧なども確認できる。
