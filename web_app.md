@@ -80,6 +80,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/procon_q&a.png" alt="procon q&a">
   </div>
 
+- [Virtual Judge](https://vjudge.net/) - 30以上のコンテストサイトの問題を利用して、バーチャルコンテストが開催できる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/virtual_judge.png" alt="virtual judge">
+  </div>
+
 ### コンテストの開催予定を確認する、登録する
 
 - [CLIST](https://clist.by/) - [60以上のコンテストサイト](https://clist.by/resources/)を対象として開始・終了時刻、コンテスト時間と閲覧時点での残り時間が一覧で表示される。また、順位表や問題の一覧なども確認できる。
@@ -160,6 +166,12 @@ filename: web_app
   </div>
 
 ### レーティング、パフォーマンス、順位などを使った派生サービス
+
+- [AC heatmap](https://rika0384.github.io/ac-heatmap/?handle_atcoder=&handle_codeforces=&handle_aoj=&handle_yukicoder=) - 任意のユーザが[AtCoder](https://atcoder.jp/)、[Codeforces](https://codeforces.com/)、[AOJ (AIZU ONLINE JUDGE)](https://onlinejudge.u-aizu.ac.jp/home)、[yukicoder](https://yukicoder.me/)で解いた問題のうち、unique ACをヒートマップで表示する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/ac_heatmap.png" alt="ac heatmap">
+  </div>
 
 - [AtCoder相性診断](https://atcoder-aisho-shindan.vercel.app/) - レーティングを元に相性を診断する。
 
@@ -267,6 +279,12 @@ filename: web_app
 
   <div align="center">
     <img loading = "lazy" src="images/web_app/atcoder_shindanmaker.png" alt="atcoder shindanmaker">
+  </div>
+
+- [配列のサイズと型を入力すると何MBか教えてくれるうし](https://ei1333.github.io/beet/memory.html) - 配列のサイズと型を入力すると消費メモリ量が表示される。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/memory.png" alt="memory">
   </div>
 
 ### チーム戦に参加する
