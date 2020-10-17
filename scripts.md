@@ -138,6 +138,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/ac_search_old_languages.png" alt="ac search old languages">
   </div>
 
+- [AtCoder Anonymizer](https://greasyfork.org/ja/scripts/413425-atcoder-anonymizer) - 自分のIDを「Anonymous」で置き換える。スクリプト作成者による注: プロフィールページのURLやTwitter IDなどは変更されない。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_anonymizer.png" alt="atcoder anonymizer">
+  </div>
+
 - [AtCoderBackGroundColorizer](https://greasyfork.org/en/scripts/377844-atcoderbackgroundcolorizer) - 各ページの背景を任意の色に変更する。
 
   <div align="center">
