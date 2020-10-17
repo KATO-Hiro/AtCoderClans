@@ -281,6 +281,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_shindanmaker.png" alt="atcoder shindanmaker">
   </div>
 
+- [配列のサイズと型を入力すると何MBか教えてくれるうし](https://ei1333.github.io/beet/memory.html) - 配列のサイズと型を入力すると消費メモリ量が表示される。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/memory.png" alt="memory">
+  </div>
+
 ### チーム戦に参加する
 
 - [TeamMaker](https://compro.tsutajiro.com/cp-teammaker/index.php) - 競技プログラミングでチーム分けを補助する。beta版。
