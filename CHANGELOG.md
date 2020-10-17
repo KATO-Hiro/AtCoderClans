@@ -6,6 +6,18 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-10-17
+
+- [#699](https://github.com/KATO-Hiro/AtCoderClans/pull/699) - Scriptページにユーザスクリプト「AtCoder Anonymizer」を追加。
+- [#698](https://github.com/KATO-Hiro/AtCoderClans/pull/698) - Webアプリ「atcoder じゃんけん(not 本家)」を追加。
+- [#697](https://github.com/KATO-Hiro/AtCoderClans/pull/697) - 以下のWebアプリを追加。
+  - AC heatmap
+  - Virtual Judge
+  - 配列のサイズと型を入力すると何MBか教えてくれるうし
+- [#695](https://github.com/KATO-Hiro/AtCoderClans/pull/695) - Webアプリ「AtCoder平均」を追加。
+- [#690](https://github.com/KATO-Hiro/AtCoderClans/pull/690) - Scriptページにユーザスクリプト「AtCoder Better Highlighter」を追加。
+- [#689](https://github.com/KATO-Hiro/AtCoderClans/pull/689) - 記事ページの「【競技プログラミング】形式的冪級数の応用テクニック(前編)」の説明に、形式的冪級数が活用できる問題リストをまとめた記事のリンクを追加。
+
 ### 2020-10-16
 
 - [#684](https://github.com/KATO-Hiro/AtCoderClans/pull/684) - YouTubeページに著名なYouTuberのチャンネルを追加。
