@@ -170,7 +170,7 @@ filename: web_app
 - [AtCoder平均](http://rating-history.herokuapp.com/average.html) - 直近nか月における各種コンテストの平均順位とパフォーマンスを表示する。
 
   <div align="center">
-    <img loading = "lazy" src="images/web_app/atcoder_average.png" alt="atcoder aishosinndan">
+    <img loading = "lazy" src="images/web_app/atcoder_average.png" alt="atcoder average">
   </div>
 
 - [AtCoder Badges](https://atcoder-badges.now.sh/) - 任意のユーザのレーティングとレーティングに対応した色を表示するバッジを生成する。[M5StickC](https://github.com/makutamoto/atcoder-badges-for-m5stickc)に表示させることもできる。
