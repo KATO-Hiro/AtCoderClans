@@ -221,6 +221,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_games.png" alt="atcoder games">
   </div>
 
+- [atcoder じゃんけん(not 本家)](https://hotman78.github.io/atcoder-janken/) - 指定した2人のユーザが共通して出場したコンテストの順位を比較できる。[本家](https://kato-hiro.github.io/AtCoderClans/archived)のリンク切れに伴い、有志が新たに作成・公開した。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_janken_2nd.png" alt="atcoder janken 2nd">
+  </div>
+
 - [AtCoder Prophet](https://sotanishy.github.io/atcoder-prophet) - 機械学習モデルを使って、将来のレーティングを予測する。
 
   <div align="center">
