@@ -297,7 +297,7 @@ filename: libraries
 - [MiSawa/ralgo](https://github.com/MiSawa/ralgo) ![GitHub Repo stars](https://img.shields.io/github/stars/MiSawa/ralgo?style=plastic) - [MiSawa](https://atcoder.jp/users/MiSawa)さんのライブラリ。
 - [ngtkana/ac-adapter-rs](https://github.com/ngtkana/ac-adapter-rs) ![GitHub stars](https://img.shields.io/github/stars/ngtkana/ac-adapter-rs?style=plastic) - [ngtkana](https://atcoder.jp/users/ngtkana)さんのライブラリ。[C++版](https://github.com/ngtkana/ngtlibcpp)もある。
 - [niuez/cp-rust-library](https://github.com/niuez/cp-rust-library) ![GitHub stars](https://img.shields.io/github/stars/niuez/cp-rust-library?style=plastic) - [niuez](https://atcoder.jp/users/niuez)さんのライブラリ。[C++版](https://github.com/niuez/cp-cpp-library)もある。
-- [rsk0315/rust-library](https://github.com/rsk0315/rust-library) ![GitHub stars](https://img.shields.io/github/stars/rsk0315/rust-library?style=plastic) - [rsk0315](https://atcoder.jp/users/rsk0315)さんのライブラリ。[C++版](https://github.com/rsk0315/library)もある。
+- [rsk0315/library-rs](https://github.com/rsk0315/library-rs) ![GitHub stars](https://img.shields.io/github/stars/rsk0315/library-rs?style=plastic) - [rsk0315](https://atcoder.jp/users/rsk0315)さんのライブラリ。[C++版](https://github.com/rsk0315/library)もある。
 - [tanakh/competitive-rs](https://github.com/tanakh/competitive-rs) ![GitHub stars](https://img.shields.io/github/stars/tanakh/competitive-rs?style=plastic) - [tanakh](https://atcoder.jp/users/tanakh)さんのライブラリ。
 - [yoshrc/rust-atcoder-snippets](https://github.com/yoshrc/rust-atcoder-snippets) ![GitHub stars](https://img.shields.io/github/stars/yoshrc/rust-atcoder-snippets?style=plastic) - [yoshrc](https://atcoder.jp/users/yoshrc)さんのスニペット集。
 
