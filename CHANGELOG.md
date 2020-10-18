@@ -6,6 +6,13 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-10-18
+
+- [#708](https://github.com/KATO-Hiro/AtCoderClans/pull/708) - 入門者・初心者向けのページの新設に向けて準備中。
+  - 対象者が直面すると思われる疑問・困りごとを列挙
+  - それらの疑問・困りごとを解消するためのおすすめのサービス・ツール・記事などの紹介文(草稿)を用意
+- [#707](https://github.com/KATO-Hiro/AtCoderClans/pull/707) - ライブラリページに掲載しているRustライブラリのレポジトリ名とそのリンクを更新。
+
 ### 2020-10-17
 
 - [#699](https://github.com/KATO-Hiro/AtCoderClans/pull/699) - Scriptページにユーザスクリプト「AtCoder Anonymizer」を追加。
