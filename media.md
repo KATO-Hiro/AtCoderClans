@@ -93,6 +93,7 @@ filename: media
 - ["データ構造をマージする一般的なテク"とは？](http://web.archive.org/web/20181213115442/http://topcoder.g.hatena.ne.jp/iwiwi/20131226/1388062106) - データ構造に効率的なマージ機能を追加する方法を解説した記事。Union Find Treeの`merge`を高速化したときの工夫を応用している。注: 原典は記事投稿サービスの終了で閲覧できないため、アーカイブを掲載。
 - [データ構造 Fenwick tree (binary indexed tree, BIT) にどっぷりと入門し、その美しき構造に心を洗われたい方のための紹介記事です！](https://qiita.com/ngtkana/items/7d50ff180a4e5c294cb7) - データ構造の一つであるFenwick tree(Binary Indexed Tree、BIT)の基本的な理論について数式とグラフを用いた詳しい説明や実装のコツが解説されている。また、応用例として、二分探索の実行、二次元への拡張方法などが解説されている。
 - [容量スケーリング法のすゝめ](https://misawa.github.io/others/flow/lets_use_capacity_scaling.html) - 最小費用流問題に対する容量スケーリング法と、その実装方法を紹介した記事。
+- [「1000000007で割ったあまり」の求め方を総特集！ 〜 逆元から離散対数まで 〜](https://qiita.com/drken/items/3b4fdf0a78e7a138cd9a) - コンテストで頻出の「10000000071000000007 で割ったあまり」を求める問題への対策をまとめた記事。このような問題が出題される理由の説明から、四則演算・累乗・二項係数など幅広い話題について解説されている。
 - [平方分割の練習をしようにも難しい問題ばかり、そんなお悩みに狙いを決めて手取り足取りのレクチャーです！](https://caddi.tech/archives/1259) - [Aizu Online Judge](https://onlinejudge.u-aizu.ac.jp/home)の[Range Sum Query](https://onlinejudge.u-aizu.ac.jp/courses/library/3/DSL/2/DSL_2_B)を題材に、平方分割の本質部分を実装するための方法が解説されている。
 - [実世界で超頻出！二部マッチング (輸送問題、ネットワークフロー問題）の解法を総整理！](https://qiita.com/drken/items/e805e3f514acceb87602) - 二部マッチング問題(2つのカテゴリ間で最適なマッチングを構成していく問題)について、実社会における豊富な実例とともに、解法が説明されている。
 - [二部グラフの最小点被覆、最大安定集合 (最大独立集合)、最小辺被覆を総整理！](https://qiita.com/drken/items/7f98315b56c95a6181a4) - グラフ上の最適化問題である、最大マッチング問題・最小点被覆問題・最大安定集合問題・最小辺被覆問題について、問題の定義から二部グラフにおける各問題の具体的な構成まで解説した記事。また、記事の冒頭に問題別の構成に関する早見表もある。
