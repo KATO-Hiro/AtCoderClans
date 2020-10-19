@@ -141,6 +141,7 @@ filename: media
 - [競プロ界隈でpython強者がやっていることをまとめてみた](https://qiita.com/dekamisako/items/1c104e332351ab9389a6) - Python利用者に向けて、入出力や上位陣が利用している便利なコード集をまとめた記事。
 - [[競プロ] 割と真面目にPythonからC++のsetを使えるようにしたのでみんな使ってみてほしい](https://nagiss.hateblo.jp/entry/2020/09/08/203701) - データ構造の一つである平行二分木が必要になったときに、PythonからC++のstd::setを利用する方法を紹介した記事。Pythonのラッパークラスについて、各メソッドの仕様と計算量が丁寧に解説されている。
 - [Python3で競技プログラミングする時に知っておきたいtips（入力編）](https://qiita.com/kyuna/items/8ee8916c2f4e36321a1c) - Python利用者に向けて、初心者がつまづきがちなデータの入力方法を詳細に解説した記事。
+- [Pythonで競技プログラミング -ライブラリ編-](https://qiita.com/Kentaro_okumura/items/5b95b767a2e691cd5482) - 筆者がPythonの標準ライブラリでよく利用する機能をまとめた記事。利用する問題例のリンクも掲載されている。注: 記事の最終更新が2019年4月とやや時間が経過しているため、コンテスト前にジャッジシステムで動作確認を行うことを推奨。
 - [Pythonで競プロやるときによく書くコードをまとめてみた](https://qiita.com/y-tsutsu/items/aa7e8e809d6ac167d6a1) - コンテストにPythonで参加する人に向けて、入出力やデータ操作、リスト内包表記などについて解説されている。
 - [Pythonで"in list"から"in set"に変えただけで爆速になった件とその理由](https://qiita.com/kitadakyou/items/6f877edd263f097e78f4) - 要素群の中に特定の要素があるか探す処理を、listの代わりにsetを使って高速化する方法を紹介した記事。また、listとsetの実装の違いについても解説されている。
 
