@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-10-19
+
+- [#721](https://github.com/KATO-Hiro/AtCoderClans/pull/721) - 記事「「1000000007で割ったあまり」の求め方を総特集！ 〜 逆元から離散対数まで 〜」を追加。
+- [#719](https://github.com/KATO-Hiro/AtCoderClans/pull/719) - 記事「しゃくとり法(尺取り法)の解説と、それを用いる問題のまとめ」を追加。
+- [#717](https://github.com/KATO-Hiro/AtCoderClans/pull/717) - 記事「ビット演算(bit演算)の使い方を総特集！ 〜 マスクビットからbitDPまで 〜」を追加。
+
 ### 2020-10-18
 
 - [#708](https://github.com/KATO-Hiro/AtCoderClans/pull/708) - 入門者・初心者向けのページの新設に向けて準備中。
