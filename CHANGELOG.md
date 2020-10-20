@@ -6,6 +6,13 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-10-20
+
+- [#733](https://github.com/KATO-Hiro/AtCoderClans/pull/733) - 記事「Pythonで使う競技プログラミング用チートシート」を追加。
+- [#731](https://github.com/KATO-Hiro/AtCoderClans/pull/731) - 記事「絶対に競プロ以外では書いてはいけない！書いたら○されると思え！なテクニック集」を追加。
+- [#729](https://github.com/KATO-Hiro/AtCoderClans/pull/729) - 記事の紹介文の誤字を修正。
+- [#727](https://github.com/KATO-Hiro/AtCoderClans/pull/727) - 記事「Pythonで競技プログラミング -ライブラリ編-」を追加。
+
 ### 2020-10-19
 
 - [#721](https://github.com/KATO-Hiro/AtCoderClans/pull/721) - 記事「「1000000007で割ったあまり」の求め方を総特集！ 〜 逆元から離散対数まで 〜」を追加。
