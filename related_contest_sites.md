@@ -40,6 +40,12 @@ filename: related_contest_sites
 
 #### ユーザスクリプト
 
+- [cf-fast-submit](https://greasyfork.org/ja/scripts/371117-cf-fast-submit) - コンテストの問題ページに提出用のフォームを設置し、直接submitすることができる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/codeforces/cf_fast_submit.png" alt="cf fast submit">
+  </div>
+
 - [Codeforces Performance](https://greasyfork.org/ja/scripts/402180-codeforces-performance) - コンテストでのパフォーマンスの推定値をコンテスト履歴に表示する。また、レーティングやパフォーマンスの色付けも可能。
 
   <div align="center">
