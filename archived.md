@@ -12,6 +12,8 @@ filename: archived
 
 - [リンク切れと思われるサービス、ツールなど](#%E3%83%AA%E3%83%B3%E3%82%AF%E5%88%87%E3%82%8C%E3%81%A8%E6%80%9D%E3%82%8F%E3%82%8C%E3%82%8B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%84%E3%83%BC%E3%83%AB%E3%81%AA%E3%81%A9)
 - [開発、提供が終了したサービス、ツールなど](#%E9%96%8B%E7%99%BA%E6%8F%90%E4%BE%9B%E3%81%8C%E7%B5%82%E4%BA%86%E3%81%97%E3%81%9F%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%84%E3%83%BC%E3%83%AB%E3%81%AA%E3%81%A9)
+  - [AtCoder](#atcoder)
+  - [Codeforces](#codeforces)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -56,6 +58,8 @@ filename: archived
 
 諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
 
+### AtCoder
+
 - [ac-library-mirror](https://github.com/TonalidadeHidrica/ac-library-mirror) - [AtCoder Library (ACL)](https://atcoder.jp/posts/518)の非公式ミラー。別言語へのラッパー作成などに役立てるため、公式ライブラリの変更を管理している。
   - 理由: [公式レポジトリ](https://github.com/atcoder/ac-library)が公開されているため。
   - 代替手段: [公式レポジトリ](https://github.com/atcoder/ac-library)を参照する。
@@ -86,3 +90,9 @@ filename: archived
 - [ばちゃこんお知らせbot](https://twitter.com/vtcon_bot?lang=ja) - [AtCoder Virtual Contest](https://not-522.appspot.com/)に関する情報をつぶやくbot。
   - 理由: [AtCoder](https://atcoder.jp/)の仕様変更および[AtCoder Virtual Contest](https://not-522.appspot.com/)のサービス終了に伴い、新たな情報提供が困難な状況。
   - 代替手段: 調査中。
+
+### Codeforces
+
+- [Codeforces Problems](https://yang33-kassa.jp/Codeforces-Problems/) - 開催されたコンテストの問題を一覧できるwebアプリ。
+  - 理由: 記載なし。
+  - 代替手段: [CONTEST MANIA](https://contestmania.web.app/)や[CF Problems](https://cf-problems.glitch.me/)を利用する。
