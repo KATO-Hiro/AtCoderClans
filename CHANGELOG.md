@@ -6,6 +6,23 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-10-21
+
+- [#745](https://github.com/KATO-Hiro/AtCoderClans/pull/745) - 関連するコンテストサイトのページにCodeforcesに関するWebアプリ・ユーザスクリプトを追加。細分化に伴い、該当するサブカテゴリを新設。
+  - Webアプリ「CF-Predictor」を追加。
+  - Webアプリ「Codeforces Anytime」を追加。
+  - Webアプリ「CONTEST MANIA」を追加。
+  - Webアプリ「CF Problems」を追加。
+  - ユーザスクリプト「cf-fast-submit」を追加。
+  - ユーザスクリプト「Codeforces Performance」を追加。
+
+- [#744](https://github.com/KATO-Hiro/AtCoderClans/pull/744) - 記事「高速な比較安定ソートアルゴリズム「颯式」の紹介（ベンチマークあり）」を追加。
+- [#742](https://github.com/KATO-Hiro/AtCoderClans/pull/742) - 以下の記事を追加。
+  - 記事「貰うDPと配るDP、メモ化再帰、個数制限なしナップサック問題」を追加。
+  - 記事「ゲームを解く！Educational DP Contest K, L問題の解説」を追加。
+- [#740](https://github.com/KATO-Hiro/AtCoderClans/pull/740) - 記事「大好評！たった6種類の文法で塗り絵パズルが楽しめる、新感覚プログラミング言語「Painter Programming」を作った話」を追加。
+- [#736](https://github.com/KATO-Hiro/AtCoderClans/pull/736), [#737](https://github.com/KATO-Hiro/AtCoderClans/pull/737), [#738](https://github.com/KATO-Hiro/AtCoderClans/pull/738) - 入門者・初心者を対象としたおすすめのサービス・ツール・記事などの紹介ページを新設。
+
 ### 2020-10-20
 
 - [#733](https://github.com/KATO-Hiro/AtCoderClans/pull/733) - 記事「Pythonで使う競技プログラミング用チートシート」を追加。
