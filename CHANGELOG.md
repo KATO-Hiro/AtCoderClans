@@ -15,7 +15,6 @@ filename: CHANGELOG
   - Webアプリ「CF Problems」を追加。
   - ユーザスクリプト「cf-fast-submit」を追加。
   - ユーザスクリプト「Codeforces Performance」を追加。
-
 - [#744](https://github.com/KATO-Hiro/AtCoderClans/pull/744) - 記事「高速な比較安定ソートアルゴリズム「颯式」の紹介（ベンチマークあり）」を追加。
 - [#742](https://github.com/KATO-Hiro/AtCoderClans/pull/742) - 以下の記事を追加。
   - 記事「貰うDPと配るDP、メモ化再帰、個数制限なしナップサック問題」を追加。
