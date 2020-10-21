@@ -34,7 +34,7 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/codeforces/codeforces_anytime.png" alt="cf predictor">
   </div>
 
-- [CONTEST MANIA](https://contestmania.web.app/) - 開催されたコンテストの問題を一覧できるwebアプリ「[Codeforces Problems](https://yang33-kassa.jp/Codeforces-Problems/)」の後継プロジェクトの一つ。ユーザ名を入力することで、正誤状況を把握できる。また、類似した機能を持つアプリに[CF Problems](https://cf-problems.glitch.me/)がある。
+- [CONTEST MANIA](https://contestmania.web.app/) - 開催されたコンテストの問題を一覧できるWebアプリ「[Codeforces Problems](https://yang33-kassa.jp/Codeforces-Problems/)」の後継プロジェクトの一つ。ユーザ名を入力することで、正誤状況を把握できる。また、類似した機能を持つアプリに[CF Problems](https://cf-problems.glitch.me/)がある。
 
   <div align="center">
     <img loading = "lazy" src="images/related_contest_sites/codeforces/contest_mania.png" alt="contest mania">
