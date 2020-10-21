@@ -38,6 +38,14 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/codeforces/cf_problems.png" alt="cf problems">
   </div>
 
+#### ユーザスクリプト
+
+- [Codeforces Performance](https://greasyfork.org/ja/scripts/402180-codeforces-performance) - コンテストでのパフォーマンスの推定値をコンテスト履歴に表示する。また、レーティングやパフォーマンスの色付けも可能。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/codeforces/codeforces_performance.png" alt="codeforces performance">
+  </div>
+
 #### コマンドラインツール、GUIツール
 
 - [Codeforces Tool](https://github.com/xalanq/cf-tool) ![GitHub stars](https://img.shields.io/github/stars/xalanq/cf-tool?style=plastic) - サンプルの入出力の取得、テスト、解答コードの提出などができるCLIツール。
