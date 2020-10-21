@@ -85,7 +85,7 @@ filename: related_contest_sites
 
 ### yukicoder
 
-- [yukicoder problems](https://iilj.github.io/yukicoder-problems/#/table/) - 開催されたコンテストの問題一覧、ユーザの正誤状況などを確認できるWepアプリ。
+- [yukicoder problems](https://iilj.github.io/yukicoder-problems/#/table/) - 開催されたコンテストの問題一覧、ユーザの正誤状況などを確認できるWebアプリ。
 
   <div align="center">
     <img loading = "lazy" src="images/related_contest_sites/yukicoder/yukicoder_problems.png" alt="yukicoder problems">
