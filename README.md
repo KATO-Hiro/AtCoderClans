@@ -59,6 +59,8 @@
 
 [Home](https://kato-hiro.github.io/AtCoderClans/) - 本ページです。リンク集の作成経緯、利用者のメリット、注意事項などをまとめています。
 
+[For Beginners](https://kato-hiro.github.io/AtCoderClans/for_beginners) - [AtCoder](https://atcoder.jp/)に興味・関心がある方、アカウントを登録したものの何をすればよいか困っている方のために、おすすめのサービス・ツール・記事などを紹介するページです。
+
 [Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app) - Webアプリ、WebサイトおよびBotなどを紹介しています。
 
 [Scripts](https://kato-hiro.github.io/AtCoderClans/scripts) - [AtCoder](https://atcoder.jp/)のWebページにある機能を拡張することができるスクリプト(ユーザスクリプトやChrome拡張機能)を掲載しています。
