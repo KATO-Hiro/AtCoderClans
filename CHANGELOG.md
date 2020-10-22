@@ -6,8 +6,15 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-10-22
+
+- [#752](https://github.com/KATO-Hiro/AtCoderClans/pull/752) - 以下の記事を追加。
+  - 記事「アルゴリズムで実社会を捉える～評価関数の作り方～」を追加。
+  - 記事「競プロ解法紹介～レベル別マラソンの戦い方～」を追加。
+
 ### 2020-10-21
 
+- [#748](https://github.com/KATO-Hiro/AtCoderClans/pull/748) - [@iiljj](https://twitter.com/iiljj)さんのプルリクエストにより、紹介文の誤字を修正。
 - [#745](https://github.com/KATO-Hiro/AtCoderClans/pull/745) - 関連するコンテストサイトのページにCodeforcesに関するWebアプリ・ユーザスクリプトを追加。細分化に伴い、該当するサブカテゴリを新設。
   - Webアプリ「CF-Predictor」を追加。
   - Webアプリ「Codeforces Anytime」を追加。
