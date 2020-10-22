@@ -118,7 +118,7 @@ filename: media
 - [整数論テクニック集](http://kirika-comp.hatenablog.com/entry/2018/03/12/210446) - [kirika_comp](https://atcoder.jp/users/kirika_comp)さんによる「整数論」に関するテクニックをまとめた資料集。資料作成者の注: コンテストで出題された問題をもとに解説しているため、ネタバレを非常に多く含む。
 - [数え上げテクニック集](https://drive.google.com/file/d/1WC7Y2Ni-8elttUgorfbix9tO1fvYN3g3/view) - [DEGwer](https://atcoder.jp/users/DEGwer)さんによる「数え上げ」の問題を解くコツが凝縮された資料集。難易度は、後述の書籍「プログラミングコンテストチャレンジブック」(通称、蟻本)よりも、やや難しい程度と記載されている。資料作成者の注: AtCoder Grand Contestなどの問題のネタバレを多分に含んでいる。
 
-### 最適解を求めるコンテストに関する知見
+### 最適解を求める問題に関する知見
 
 - [競プロ解法紹介～レベル別マラソンの戦い方～](https://qiita.com/tsukammo/items/7041a00e429f9f5ac4ae) - マラソン形式の問題である[Hack To The Future 予選問題](https://atcoder.jp/contests/future-contest-2018-qual/)を題材に、初心者から上級者までを対象として、それぞれのレベルに応じた戦い方を紹介した記事。
 
