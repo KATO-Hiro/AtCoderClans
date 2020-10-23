@@ -21,6 +21,14 @@ filename: related_contest_sites
 
 サービス・ツールのサポート対象に[AtCoder](https://atcoder.jp/)が含まれていないものの、歴史的な経緯・利用者数の多さなどの理由から掲載しています。
 
+### AOJ (Aizu Online Judge)
+
+- [AOJ Problems by Category](http://aoj-problem-category-list.appspot.com/) - [AOJ](https://onlinejudge.u-aizu.ac.jp/home)のAPIを利用して、問題をカテゴリ分けしたWebサイト。作成者注: すべての問題が分類されているわけではない。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/aoj/aoj_problems_by_category.png" alt="aoj problems by category">
+  </div>
+
 ### Codeforces
 
 #### Webアプリ、Webサイト
