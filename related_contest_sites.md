@@ -23,7 +23,7 @@ filename: related_contest_sites
 
 ### AOJ (Aizu Online Judge)
 
-- [AOJ Problems by Category](http://aoj-problem-category-list.appspot.com/) - [AOJ](https://onlinejudge.u-aizu.ac.jp/home)のAPIを利用して、問題をカテゴリ分けしたWebサイト。作成者注: すべての問題が分類されているわけではない。
+- [AOJ Problems by Category](http://aoj-problem-category-list.appspot.com/) - [AOJ](https://onlinejudge.u-aizu.ac.jp/home)のAPIを利用して、問題をカテゴリ分けしたWebサイト。
 
   <div align="center">
     <img loading = "lazy" src="images/related_contest_sites/aoj/aoj_problems_by_category.png" alt="aoj problems by category">
