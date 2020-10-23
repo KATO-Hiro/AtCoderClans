@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-10-23
+
+- [#758](https://github.com/KATO-Hiro/AtCoderClans/issues/758) - Webアプリ「AtCoder Code Evaluate」にバグがあることが判明し、主要な機能が動作していないことを追記(バグか修正されたら、注釈を削除する予定)。
+
 ### 2020-10-22
 
 - [#752](https://github.com/KATO-Hiro/AtCoderClans/pull/752) - 以下の記事を追加。
