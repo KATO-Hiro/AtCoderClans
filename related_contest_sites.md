@@ -15,6 +15,9 @@ filename: related_contest_sites
   - [Webアプリ、Webサイト](#web%E3%82%A2%E3%83%97%E3%83%AAweb%E3%82%B5%E3%82%A4%E3%83%88)
   - [ユーザスクリプト](#%E3%83%A6%E3%83%BC%E3%82%B6%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88)
   - [コマンドラインツール、GUIツール](#%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%84%E3%83%BC%E3%83%ABgui%E3%83%84%E3%83%BC%E3%83%AB)
+- [JOI (Japanese Olympiad in  Informatics)と関連サービス](#joi-japanese-olympiad-in--informatics%E3%81%A8%E9%96%A2%E9%80%A3%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9)
+  - [JOI](#joi)
+  - [JOIの関連サービス](#joi%E3%81%AE%E9%96%A2%E9%80%A3%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9)
 - [Topcoder](#topcoder)
   - [Webサイトと関連リンク](#web%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A8%E9%96%A2%E9%80%A3%E3%83%AA%E3%83%B3%E3%82%AF)
   - [プラグイン](#%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3)
@@ -96,6 +99,42 @@ filename: related_contest_sites
 
   <div align="center">
     <img loading = "lazy" src="images/related_contest_sites/codeforces/hightail.png" alt="hightail">
+  </div>
+
+### JOI (Japanese Olympiad in  Informatics)と関連サービス
+
+#### JOI
+
+- [日本情報オリンピック](https://www.ioi-jp.org/) - 情報オリンピック日本委員会のWebページ。[予選・本選で出題された問題と解説](https://www.ioi-jp.org/problem_archive.php)や[春季トレーニング合宿の過去問](https://www.ioi-jp.org/camp/index.html)などが掲載されている。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/joi/joi.png" alt="joi">
+  </div>
+
+- [AOJ/Atcoder-JOI](https://joi.goodbaton.com/) - [AOJ](http://judge.u-aizu.ac.jp/onlinejudge/)や[AtCoder](https://atcoder.jp/)のユーザIDを利用して、難易度別の回答状況や個別の問題の正誤状況を把握できるWebサイト。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/joi/aoj_atcoder_joi.png" alt="aoj atcoder joi">
+  </div>
+
+- [JOI非公式難易度表](https://docs.google.com/spreadsheets/d/1zXDtkFmskO5NSxkqck8uDbcJtAhTVZtzPh2hLw64Sw4/edit#gid=0) - JOIで出題された問題に関する非公式の難易度表。有志の投票に基づいて決められている。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/joi/difficulty_table.png" alt="difficulty table">
+  </div>
+
+#### JOIの関連サービス
+
+- [oj.uz](https://oj.uz/) - 海外の情報オリンピックの問題を閲覧・回答できるWebサイト。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/joi/oj_uz.png" alt="oj uz">
+  </div>
+
+- [OI Checklist](https://oichecklist.pythonanywhere.com/) - [oj.uz]の回答状況を把握するためのWebサイト。注: 回答状況の更新は自動で行われず、利用者が手動で行う必要がある。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/joi/oi_checklist.png" alt="oj uz">
   </div>
 
 ### Topcoder
