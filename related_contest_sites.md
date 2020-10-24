@@ -98,7 +98,9 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/codeforces/hightail.png" alt="hightail">
   </div>
 
-### JOI (Japanese Olympiad in  Informatics)
+### JOI (Japanese Olympiad in  Informatics)と関連サービス
+
+#### JOI
 
 - [日本情報オリンピック](https://www.ioi-jp.org/) - 情報オリンピック日本委員会のWebページ。[予選・本選で出題された問題と解説](https://www.ioi-jp.org/problem_archive.php)や[春季トレーニング合宿の過去問](https://www.ioi-jp.org/camp/index.html)などが掲載されている。
 
@@ -116,6 +118,14 @@ filename: related_contest_sites
 
   <div align="center">
     <img loading = "lazy" src="images/related_contest_sites/joi/difficulty_table.png" alt="difficulty table">
+  </div>
+
+#### JOIの関連サービス
+
+- [oj.uz](https://oj.uz/) - 海外の情報オリンピックの問題を閲覧・回答できるWebサイト。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/joi/oj_uz.png" alt="oj uz">
   </div>
 
 ### Topcoder
