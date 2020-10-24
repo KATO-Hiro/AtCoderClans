@@ -191,6 +191,7 @@ filename: media
 
 - [競技プログラミングにおける作問テクニックを総整理！ 〜初心者から経験者まで〜](https://qiita.com/e869120/items/45a0132263094b83fc44) - コンテストの問題を作りたい人に向けて、役割分担・作業工程の説明から、問題文・テストケースの作成手順とそれらの注意事項について網羅的にまとめられている。
 - [競プロ作問チェックリスト (初心者向け)](https://drive.google.com/file/d/1kTfrNKGXMhJOgUdyDhYo2dswbwPAhZ7a/view) - 新規writerを対象として、各フェーズの注意事項がチェックリストの形式でまとめられている。
+- [競技プログラミングの作問環境構築（wiki設置編）](https://wakuwinmail.hatenablog.com/entry/2020/05/01/180054) - コンテストの問題の作成を希望する人に向けて、環境構築する手順をまとめた記事(全7回の予定)。第1回は問題の原案を共有するための[PukiWiki](https://pukiwiki.osdn.jp/)をサーバに設置する方法について、第2回はPukiWikiが編集されたときにSlackにメッセージを通知するための方法がそれぞれ解説されている。2020年10月下旬時点で、第3回以降は公開されておらず、続編が望まれる。
 - [作問の失敗 判例集](https://tozangezan.hatenablog.com/entry/2015/12/02/000030) - コンテストの問題を作成するときに陥りがちな失敗について、実例と対処方法がまとめられている。
 - [DEGwer式作問法](https://note.com/degwer/n/n270f59cb7809) - [DEGwer](https://atcoder.jp/users/DEGwer)さんによる、問題の原案を量産するための方法論。記事を全文読むためには、購入する必要がある。
 
