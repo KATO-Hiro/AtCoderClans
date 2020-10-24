@@ -128,6 +128,12 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/joi/oj_uz.png" alt="oj uz">
   </div>
 
+- [OI Checklist](https://oichecklist.pythonanywhere.com/) - [oj.uz]の回答状況を把握するためのWebサイト。注: 回答状況の更新は自動で行われず、利用者が手動で行う必要がある。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/joi/oi_checklist.png" alt="oj uz">
+  </div>
+
 ### Topcoder
 
 #### Webサイトと関連リンク
