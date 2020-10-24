@@ -98,6 +98,20 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/codeforces/hightail.png" alt="hightail">
   </div>
 
+### JOI (Japanese Olympiad in  Informatics)
+
+- [日本情報オリンピック](https://www.ioi-jp.org/) - 情報オリンピック日本委員会のWebページ。[予選・本選で出題された問題と解説](https://www.ioi-jp.org/problem_archive.php)や[春季トレーニング合宿の過去問](https://www.ioi-jp.org/camp/index.html)などが掲載されている。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/joi/joi.png" alt="joi">
+  </div>
+
+- [AOJ/Atcoder-JOI](https://joi.goodbaton.com/) - [AtCoder](https://atcoder.jp/)や[AOJ](http://judge.u-aizu.ac.jp/onlinejudge/)のユーザIDを利用して、難易度別の回答状況や個別の問題の正誤状況を把握できるWebサイト。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/joi/aoj_atcoder_joi.png" alt="aoj atcoder joi">
+  </div>
+
 ### Topcoder
 
 #### Webサイトと関連リンク
@@ -130,12 +144,4 @@ filename: related_contest_sites
 
   <div align="center">
     <img loading = "lazy" src="images/related_contest_sites/yukicoder/yukicoder_problems.png" alt="yukicoder problems">
-  </div>
-
-### JOI (Japanese Olympiad in  Informatics)
-
-- [日本情報オリンピック](https://www.ioi-jp.org/) - 情報オリンピック日本委員会のWebページ。[予選・本選で出題された問題と解説](https://www.ioi-jp.org/problem_archive.php)や[春季トレーニング合宿の過去問](https://www.ioi-jp.org/camp/index.html)などが掲載されている。
-
-  <div align="center">
-    <img loading = "lazy" src="images/related_contest_sites/joi/joi.png" alt="joi">
   </div>
