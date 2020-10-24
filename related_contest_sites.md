@@ -106,7 +106,7 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/joi/joi.png" alt="joi">
   </div>
 
-- [AOJ/Atcoder-JOI](https://joi.goodbaton.com/) - [AtCoder](https://atcoder.jp/)や[AOJ](http://judge.u-aizu.ac.jp/onlinejudge/)のユーザIDを利用して、難易度別の回答状況や個別の問題の正誤状況を把握できるWebサイト。
+- [AOJ/Atcoder-JOI](https://joi.goodbaton.com/) - [AOJ](http://judge.u-aizu.ac.jp/onlinejudge/)や[AtCoder](https://atcoder.jp/)のユーザIDを利用して、難易度別の回答状況や個別の問題の正誤状況を把握できるWebサイト。
 
   <div align="center">
     <img loading = "lazy" src="images/related_contest_sites/joi/aoj_atcoder_joi.png" alt="aoj atcoder joi">
