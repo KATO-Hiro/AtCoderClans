@@ -100,6 +100,8 @@ filename: related_contest_sites
 
 #### Webサイト
 
+- [How To Compete in SRMs](https://www.topcoder.com/community/competitive-programming/how-to-compete) - Single Round Match (SRM) に登録・参加するための方法を説明した公式サイトのページ。
+
 - [Topcoder ARENA (Practice Problem List)](https://arena.topcoder.com/index.html#/u/practiceProblemList) - 過去問の一覧とその詳細が閲覧できるWebサイト。
 
   <div align="center">
