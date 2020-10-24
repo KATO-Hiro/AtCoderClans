@@ -131,3 +131,11 @@ filename: related_contest_sites
   <div align="center">
     <img loading = "lazy" src="images/related_contest_sites/yukicoder/yukicoder_problems.png" alt="yukicoder problems">
   </div>
+
+### JOI (Japanese Olympiad in  Informatics)
+
+- [日本情報オリンピック](https://www.ioi-jp.org/) - 情報オリンピック日本委員会のWebページ。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/joi/joi.png" alt="joi">
+  </div>
