@@ -167,7 +167,6 @@ filename: media
 - [けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/) - [drken](https://atcoder.jp/users/drken)さんの解説ブログ。C++で実装されている。
 - [はまやん はまやん はまやん](https://www.hamayanhamayan.com/archive/category/%E7%AB%B6%E6%8A%80%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0) - [hamayanhamayan](https://atcoder.jp/users/hamayanhamayan)さんの解説ブログ。C++で実装されている。
 - [ARMERIA](https://betrue12.hateblo.jp/) - [betrue12](https://atcoder.jp/users/betrue12)さんの解説ブログ。RubyとC++で実装されている。
-- [data-structures](https://scrapbox.io/data-structures/) - 有志によって、データ構造に関する知見がまとめられている記事集。データ構造の説明と実装に必要な要件が簡潔に記載されている。また、C++やRustを用いた実装例やコンテストでの出題例も掲載されている。
 - [kmjp's blog](https://kmjp.hatenablog.jp/) - [kmjp](https://atcoder.jp/users/kmjp)さんの解説ブログ。C++で実装されている。
 - [maspyのHP](https://maspypy.com/category/atcoder) - [maspy](https://atcoder.jp/users/maspy)さんの解説ブログ。Pythonで実装されている。
 - [noshi91のメモ](https://noshi91.hatenablog.com/) - [noshi91](https://atcoder.jp/users/noshi91)さんの解説ブログ。C++で実装されている。データ構造に関する記事が多いのが特徴。
@@ -226,9 +225,10 @@ filename: media
 - [atcoder-rust-resources](https://doc.rust-jp.rs/atcoder-rust-resources/) - コンテストにRustで参加するための資料集。現在は、日本語のみ対応。
 - [OI Public Library](https://github.com/enkerewpo/OI-Public-Library) - アルゴリズムに関する資料集。中国語と英語で提供されている。
 
-## オンラインイベント、公開講座
+## オンラインイベント、公開講座などの資料集
 
 - [アルゴリズム・データ構造を語る会](https://drive.google.com/drive/folders/1htiwJtiSZ_ruYJYRk54cuJlJgea_XGrH) - 有志が主催するアルゴリズムやデータ構造のトークイベント(通称: ア・デの会)のスライド・動画をまとめたリンク集。
+- [data-structures](https://scrapbox.io/data-structures/) - 有志によって、データ構造に関する知見がまとめられている記事集。データ構造の説明と実装に必要な要件が簡潔に記載されている。また、C++やRustを用いた実装例やコンテストでの出題例も掲載されている。
 - [KCLC公開講座](https://drive.google.com/drive/folders/12XfIWr37AiDJpvZkygd8H2fJjJdlQOxx) - Kaisei Computer Lovers' Club (KCLC)の有志によって作成された公開資料集。競技プログラミングの入門者・初心者向けに、興味を持ってもらうためのきっかけ作り、データ構造、基礎文法などの資料が用意されている。
 
 ## Discord
