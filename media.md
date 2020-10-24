@@ -226,9 +226,10 @@ filename: media
 - [atcoder-rust-resources](https://doc.rust-jp.rs/atcoder-rust-resources/) - コンテストにRustで参加するための資料集。現在は、日本語のみ対応。
 - [OI Public Library](https://github.com/enkerewpo/OI-Public-Library) - アルゴリズムに関する資料集。中国語と英語で提供されている。
 
-## オンラインイベント
+## オンラインイベント、公開講座
 
 - [アルゴリズム・データ構造を語る会](https://drive.google.com/drive/folders/1htiwJtiSZ_ruYJYRk54cuJlJgea_XGrH) - 有志が主催するアルゴリズムやデータ構造のトークイベント(通称: ア・デの会)のスライド・動画をまとめたリンク集。
+- [KCLC公開講座](https://drive.google.com/drive/folders/12XfIWr37AiDJpvZkygd8H2fJjJdlQOxx) - Kaisei Computer Lovers' Club (KCLC)の有志によって作成された公開資料集。競技プログラミングの入門者・初心者向けに、興味を持ってもらうためのきっかけ作り、データ構造、基礎文法などの資料が用意されている。
 
 ## Discord
 
