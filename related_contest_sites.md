@@ -118,12 +118,6 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/joi/difficulty_table.png" alt="difficulty table">
   </div>
 
-- [AtCoderLinkCompletionForJOI](https://greasyfork.org/ja/scripts/382313-atcoderlinkcompletionforjoi) - [AtCoder](https://atcoder.jp/)でJOIの問題を解くときに、問題PDFのリンクを「問題」ページに追加する。
-
-  <div align="center">
-    <img loading = "lazy" src="images/userscript/atcoder_link_completion_for_joi.png" alt="atcoder link completion for joi">
-  </div>
-
 ### Topcoder
 
 #### Webサイトと関連リンク
