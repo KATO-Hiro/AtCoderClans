@@ -134,7 +134,7 @@ filename: related_contest_sites
 
 ### JOI (Japanese Olympiad in  Informatics)
 
-- [日本情報オリンピック](https://www.ioi-jp.org/) - 情報オリンピック日本委員会のWebページ。
+- [日本情報オリンピック](https://www.ioi-jp.org/) - 情報オリンピック日本委員会のWebページ。[予選・本選で出題された問題と解説](https://www.ioi-jp.org/problem_archive.php)や[春季トレーニング合宿の過去問](https://www.ioi-jp.org/camp/index.html)などが掲載されている。
 
   <div align="center">
     <img loading = "lazy" src="images/related_contest_sites/joi/joi.png" alt="joi">
