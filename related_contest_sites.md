@@ -112,6 +112,12 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/joi/aoj_atcoder_joi.png" alt="aoj atcoder joi">
   </div>
 
+- [JOI非公式難易度表](https://docs.google.com/spreadsheets/d/1zXDtkFmskO5NSxkqck8uDbcJtAhTVZtzPh2hLw64Sw4/edit#gid=0) - JOIで出題された問題に関する非公式の難易度表。有志の投票に基づいて決められている。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/joi/difficulty_table.png" alt="difficulty table">
+  </div>
+
 ### Topcoder
 
 #### Webサイトと関連リンク
