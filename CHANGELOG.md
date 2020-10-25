@@ -6,6 +6,54 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-10-25
+
+- [#776](https://github.com/KATO-Hiro/AtCoderClans/pull/776) - 記事ページに以下の記事・資料を追加。
+  - 記事「Windowsで競プロに必要なNeovim環境を整える」を追加。
+  - 記事「誰でも分かる！ランダム性を利用した平衡二分木」を追加。
+  - 記事「桁DPの痒いところに手が届く解説」を追加。
+  - 記事「【競技プログラミング】online dynamic connectivity(削除可能union-find)の作り方を詳しく解説！！！」を追加。
+  - 記事「Prime CountのPDFを書きました」を追加。
+  - 記事「二項係数の和の処理（形式的べき級数）」を追加。
+  - 資料「もう数え上げも怖くない ―競プロ数え上げ問題40選―」を追加。
+- [#775](https://github.com/KATO-Hiro/AtCoderClans/pull/775) - 記事ページに「「写像12相」を総整理！ 〜 数え上げ問題の学びの宝庫 〜」を追加。
+- [#774](https://github.com/KATO-Hiro/AtCoderClans/pull/774) - 記事ページに「接続行列を係数にもつ線形方程式 (PDF)」を追加。
+- [#773](https://github.com/KATO-Hiro/AtCoderClans/pull/773) - 個人の希望により、YouTubeのチャンネルのリンクを削除。
+- [#771](https://github.com/KATO-Hiro/AtCoderClans/pull/771) - 記事ページに「オンラインプログラミング検定」を新設。
+  - 記事「第4回アルゴリズム実技検定を10/25(日)〜11/8(日)に開催 2021年の年間試験日程も発表」を追加。
+- [#770](https://github.com/KATO-Hiro/AtCoderClans/pull/770) - 記事ページおよび関連するコンテストサイトのサブカテゴリCodeforcesとJOIに関する記事などを追加。
+  - 記事「三角形の頂点の座標から五心の座標を求める」を追加。
+  - 記事「競技プログラミングの作問環境構築（wiki設置編）」を追加。
+  - 記事「Codeforcesのすすめ for AtCoderユーザー」を追加。
+  - 記事「はじめてのCodeforces 前編 (参加登録〜コンテスト本番)」を追加。
+  - 記事「JOI春合宿2020 参加記」を追加。
+  - 記事「IOI2020 参加記」を追加。
+  - 記事「国際情報オリンピック (IOI 2020) 参加記 ~ 情報オリンピックへの感謝の気持ちを込めて ~」を追加。
+  - Webサイト「Markov Algorithm Online」を追加。
+
+### 2020-10-24
+
+- [#766](https://github.com/KATO-Hiro/AtCoderClans/pull/766) - 書籍や公開講座の資料集の追加および既存の記事の説明文を更新。
+  - 書籍「アルゴリズム ビジュアル大事典」を追加。
+  - 記事「問題解決力を鍛える!アルゴリズムとデータ構造」の説明を更新。
+  - 資料集「data-structures」を追加。
+  - 公開講座の資料「KCLC公開講座」を追加。
+- [#764](https://github.com/KATO-Hiro/AtCoderClans/pull/764) - 関連するコンテストサイトのサブカテゴリJOIを新設、以下のWebサイトや関連サービスをなど追加。
+  - Webサイト「日本情報オリンピック」を追加。
+  - Webサイト「AOJ/Atcoder-JOI」を追加。
+  - スプレッドシート「JOI非公式難易度表」を追加。
+  - Webサイト「oj.uz」を追加。
+  - Webサイト「OI Checklist」を追加。
+- [#763](https://github.com/KATO-Hiro/AtCoderClans/pull/763) - 関連するコンテストサイトのサブカテゴリTopCoderに以下のWebサイトと関連リンクを追加。
+  - Webサイト「How To Compete in SRMs」を追加。
+  - Topcoder ARENA (Applet)のアプリをダウンロードするリンクを追加。
+  - Webサイト「Topcoder ARENA (Practice Problem List)」を追加。
+  - Webサイト「Topcoder (Problem Search)」を追加。
+- [#762](https://github.com/KATO-Hiro/AtCoderClans/pull/762) - 関連するコンテストサイトのページにサブカテゴリをAOJを新設し、以下のWebサイトを追加
+  - Webサイト「AOJ-ICPC」を追加。
+  - Webサイト「AOJ-PCK」を追加。
+  - Webサイト「AOJ Problems by Category」を追加。
+
 ### 2020-10-23
 
 - [#758](https://github.com/KATO-Hiro/AtCoderClans/issues/758) - Webアプリ「AtCoder Code Evaluate」にバグがあることが判明し、主要な機能が動作していないことを追記(バグが修正されたら、注釈を削除する予定)。
