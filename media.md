@@ -95,6 +95,7 @@ filename: media
 - [部分列DP --- 文字列の部分文字列を重複なく走査するDPの特集](https://qiita.com/drken/items/a207e5ae3ea2cf17f4bd) - 文字列の部分文字列に対し、条件を満たすものを重複なく数える問題について、その難しさと動的計画法による解法(部分列DP)を解説した記事。例題や類題のリンクも掲載されている。
 - [ゲームを解く！Educational DP Contest K, L問題の解説](https://qiita.com/drken/items/4e1bcf8413af16cb62da) - 「ゲームを解く」という定義から、ゲーム探索の考え方やシンプルなゲームをプログラムで解く方法などついて解説した記事。
 - [UnionFindTreeに関する知見の諸々](https://noshi91.hatenablog.com/entry/2018/05/30/191943) - データ構造の一つであるUnion Find Treeに関する実装のバリエーションを解説した記事。また、同アルゴリズムの派生系とC++の実装例も紹介されている。
+- [【競技プログラミング】online dynamic connectivity(削除可能union-find)の作り方を詳しく解説！！！](https://qiita.com/hotman78/items/78cd3aa50b05a57738d4) - Dynamic Connectivityの構築と実装方法を解説した記事。前提として、平行二分木に関する知識が求められる。
 - ["データ構造をマージする一般的なテク"とは？](http://web.archive.org/web/20181213115442/http://topcoder.g.hatena.ne.jp/iwiwi/20131226/1388062106) - データ構造に効率的なマージ機能を追加する方法を解説した記事。Union Find Treeの`merge`を高速化したときの工夫を応用している。注: 原典は記事投稿サービスの終了で閲覧できないため、アーカイブを掲載。
 - [データ構造 Fenwick tree (binary indexed tree, BIT) にどっぷりと入門し、その美しき構造に心を洗われたい方のための紹介記事です！](https://qiita.com/ngtkana/items/7d50ff180a4e5c294cb7) - データ構造の一つであるFenwick tree(Binary Indexed Tree、BIT)の基本的な理論について数式とグラフを用いた詳しい説明や実装のコツが解説されている。また、応用例として、二分探索の実行、二次元への拡張方法などが解説されている。
 - [容量スケーリング法のすゝめ](https://misawa.github.io/others/flow/lets_use_capacity_scaling.html) - 最小費用流問題に対する容量スケーリング法と、その実装方法を紹介した記事。
