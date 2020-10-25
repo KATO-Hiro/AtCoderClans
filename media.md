@@ -71,6 +71,7 @@ filename: media
 - [Visual Studio Codeで競プロ環境構築(導入編)](https://qiita.com/AokabiC/items/e9312856f588dd9303ed) - C++(GCC)のコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)で構築する方法が丁寧に解説されている。
 - [Visual Studio Codeで競プロ環境構築(実践編)](https://qiita.com/AokabiC/items/af685bfd205dda44ec45) - 便利なショートカット、コードスニペット、拡張機能、サンプルケースの自動検証、デバッグツールについて紹介されている。
 - [【VScode＋WSLで始める】競プロ用C++デバッグ環境構築](https://qiita.com/2019Shun/items/5ab290a4117a00e373b6) - C++のコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)で構築したあとの拡張機能の導入・設定ファイルについて紹介されている。
+- [Windowsで競プロに必要なNeovim環境を整える](https://qiita.com/KowerKoint/items/89d1952b54dec57a1a07) - カスタマイズ性の高いエディタの一つである[NeoVim](https://neovim.io/)を利用して、C++(clang)環境構築するための記事。関連ツールの導入方法や設定ファイル・プラグインのおすすめ情報も紹介されている。
 - [WSL2とVSCodeでC++環境構築した（AtCoder Libraryを使えるようになるまで）](https://ntk-ta01.hatenablog.com/entry/2020/09/09/181155) - C++やRustのコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)で構築するための記事。設定ファイルや[AtCoder Library](https://atcoder.jp/posts/517)に関する説明もある。
 
 ### アルゴリズムの解説
@@ -88,13 +89,16 @@ filename: media
 - [BFS (幅優先探索) 超入門！ 〜 キューを鮮やかに使いこなす 〜](https://qiita.com/drken/items/996d80bcae64649a6580) - 探索手法の一つである幅優先探索について解説されている記事。異なる視点・方法で問題を解くことで、グラフの性質について深く親しむことを目指しているのが特徴。また、[深さ優先探索の記事](https://qiita.com/drken/items/4a7869c5e304883f539b)とは、独立に読むことができるよう工夫されている。
 - [最短経路問題総特集！！！～BFSから拡張ダイクストラまで～](https://qiita.com/ageprocpp/items/cdf67e828e1b09316f6e) - コンテストで超頻出の最短経路問題に関するアルゴリズムをまとめた記事。幅優先探索などの基本的なアルゴリズムから経路復元、拡張ダイクストラといった応用的な内容まで網羅されている。例題のリンクも豊富に掲載されている。
 - [ビット演算(bit演算)の使い方を総特集！ 〜 マスクビットからbitDPまで 〜](https://qiita.com/drken/items/7c6ff2aa4d8fce1c9361) - ビット演算を用いて実現できる処理について、基本的な内容(フラグ管理、マスクビット)から高度な内容まで解説した記事。
+- [誰でも分かる！ランダム性を利用した平衡二分木](https://qiita.com/Kodaman_KoD/items/5868462d530782e0a3a0) - ランダム性を利用した平行二分木について、丁寧に解説した記事。平行二分木の図解、ランダム性を利用する方法やC++による実装について説明されている。
 - [しゃくとり法(尺取り法)の解説と、それを用いる問題のまとめ](https://qiita.com/drken/items/ecd1a472d3a0e7db8dce) - 処理が遅い状況を改善するために有効なテクニックの一つである「しゃくとり法」について解説した記事。しゃくとり法が利用できる状況や応用方法が紹介されているだけでなく、例題の解説と実装も豊富に掲載されている。
 - [尺取り法の実装で嵌ったあの日の涙を数え切れないあなたにお送りする、尺取り法実装の † ソウル † です。](https://qiita.com/ngtkana/items/0b8f619a406d5f5b89de) - 尺取り法の難しいポイントを2つに分けて、それぞれ実装の基本を解説した記事。また、応用に向けた説明と記事のリンクが記載されている。
 - [典型的なDP(動的計画法)のパターンを整理 Part1 ～ ナップサックDP編 ～](https://qiita.com/drken/items/a5e6fe22863b7992efdb) - 動的計画法(DP)を学び始めた人向けの記事。また、動的計画法を初めて聞く人や経験が浅い人向けに、[AtCoder](https://atcoder.jp/)では[入門コンテンツ](https://atcoder.jp/contests/dp/)が公開されている。非公式ではあるが、[問題の解説・類題集](https://qiita.com/drken/items/dc53c683d6de8aeacf5a)も併せて読むと理解がとても深まる。
 - [貰うDPと配るDP、メモ化再帰、個数制限なしナップサック問題](https://qiita.com/drken/items/ace3142967c4f01d42e9) - [AtCoder Beginner Contest 099 C問題](https://atcoder.jp/contests/abc099/tasks/abc099_c)を題材に、メモ化再帰・貰うDP・配るDP・幅優先探索・個数制限なしナップサックDP・全探索+Greedyといった複数のアプローチについて解説した記事。
+- [桁DPの痒いところに手が届く解説](https://qiita.com/pinokions009/items/1e98252718eeeeb5c9ab) - 桁DPについて入門者が疑問に感じるポイントを解説した記事。特に、桁DPを利用することでうまく計算できる理由、数えている内容、初期条件の与え方に重点が置かれている。
 - [部分列DP --- 文字列の部分文字列を重複なく走査するDPの特集](https://qiita.com/drken/items/a207e5ae3ea2cf17f4bd) - 文字列の部分文字列に対し、条件を満たすものを重複なく数える問題について、その難しさと動的計画法による解法(部分列DP)を解説した記事。例題や類題のリンクも掲載されている。
 - [ゲームを解く！Educational DP Contest K, L問題の解説](https://qiita.com/drken/items/4e1bcf8413af16cb62da) - 「ゲームを解く」という定義から、ゲーム探索の考え方やシンプルなゲームをプログラムで解く方法などついて解説した記事。
 - [UnionFindTreeに関する知見の諸々](https://noshi91.hatenablog.com/entry/2018/05/30/191943) - データ構造の一つであるUnion Find Treeに関する実装のバリエーションを解説した記事。また、同アルゴリズムの派生系とC++の実装例も紹介されている。
+- [【競技プログラミング】online dynamic connectivity(削除可能union-find)の作り方を詳しく解説！！！](https://qiita.com/hotman78/items/78cd3aa50b05a57738d4) - Dynamic Connectivity(Union-Findの削除可能版)の構築と実装方法を解説した記事。前提として、平行二分木に関する知識が求められる。注: 筆者によると、作成難易度はかなり高い。
 - ["データ構造をマージする一般的なテク"とは？](http://web.archive.org/web/20181213115442/http://topcoder.g.hatena.ne.jp/iwiwi/20131226/1388062106) - データ構造に効率的なマージ機能を追加する方法を解説した記事。Union Find Treeの`merge`を高速化したときの工夫を応用している。注: 原典は記事投稿サービスの終了で閲覧できないため、アーカイブを掲載。
 - [データ構造 Fenwick tree (binary indexed tree, BIT) にどっぷりと入門し、その美しき構造に心を洗われたい方のための紹介記事です！](https://qiita.com/ngtkana/items/7d50ff180a4e5c294cb7) - データ構造の一つであるFenwick tree(Binary Indexed Tree、BIT)の基本的な理論について数式とグラフを用いた詳しい説明や実装のコツが解説されている。また、応用例として、二分探索の実行、二次元への拡張方法などが解説されている。
 - [容量スケーリング法のすゝめ](https://misawa.github.io/others/flow/lets_use_capacity_scaling.html) - 最小費用流問題に対する容量スケーリング法と、その実装方法を紹介した記事。
@@ -113,14 +117,17 @@ filename: media
 - [競技プログラミングに関係する数学の整理 ～文系出身や数学苦手erが、もっと競プロを楽しむために～](https://terumiyake.hatenablog.com/entry/2020/08/23/133659) - 競技プログラミングの問題を解く上で必要となる数学の分野・キーワードなどを網羅的にまとめた記事。
 - [三角形の頂点の座標から五心の座標を求める](https://qiita.com/Ebishu/items/6115f2364a2e5fab5e4d) - 三角形の頂点の座標から、五心(重心・外心・内心・垂心・傍心)を求める方法を解説した記事。C++での実装も紹介されている。
 - [競プロerのための群論 (swapと順列と対称群)](https://koboshi-kyopro.hatenablog.com/entry/2020/08/21/211615) - 競技プログラミングにおけるswapや順列に関する問題を群論（特に対称群）の視点から捉えることを目標にした記事。群論の入門という位置付けにもなっている。
+- [Prime CountのPDFを書きました](https://tk0-math.hatenablog.com/entry/2020/04/16/181024) - 素数の個数を求めるアルゴリズムであるMeissel-Lehmer Algorithmとその高速化方法について紹介した記事。
 - [接続行列を係数にもつ線形方程式 (PDF)](https://opt-cp.com/cp/linear-system-incidence/) - 「グラフの接続行列を係数にもつ線形方程式」の解法を説明した記事。また、解法の擬似コードやコンテストの例題も掲載されている。
 - [「写像12相」を総整理！ 〜 数え上げ問題の学びの宝庫 〜](https://qiita.com/drken/items/f2ea4b58b0d21621bd51) - 条件を満たすものを数え上げるタイプの問題(「数え上げ」の問題)で登場する写像12相を整理した記事。写像12相の中でも特に高度な内容とされる「スターリング数」と「分割数」の解説および実装について紙面が割かれている。また、写像12相に関連する例題のリンクも掲載されている。
+- [二項係数の和の処理（形式的べき級数）](https://shino-sky.hateblo.jp/entry/2020/04/16/230753) - 後述する[数え上げテクニック集](https://drive.google.com/file/d/1WC7Y2Ni-8elttUgorfbix9tO1fvYN3g3/view)に掲載されている「14.1 頻出公式集」を形式的べき級数などを用いて証明した記事。前提知識として、形式的べき級数の定義や基本的な演算方法に対する理解が求められる。
 - [【競技プログラミング】形式的冪級数の応用テクニック(前編)](https://qiita.com/hotman78/items/f0e6d2265badd84d429a) - 数え上げなどの問題を解くときに用いられる「形式的冪級数」の応用テクニックをまとめた記事([hotman78](https://atcoder.jp/users/hotman78)さん)。前提知識として、フーリエ変換や形式的冪級数の基礎について理解していることが求められる。また、[opt](https://atcoder.jp/users/opt)さんによって、形式的冪級数が活用できる[問題リスト](https://opt-cp.com/cp/fps-problem-list/)が公開されている。
 
 ### 難問に対するアプローチ方法
 
 - [平面上のロシアゲー（構築ゲー）を解くためのそこそこ一般的なテクについて](https://kokiymgch.hatenablog.com/entry/2017/12/12/153419) - 平面上で何かを構築するタイプの問題へのアプローチ方法を解説した記事。
 - [整数論テクニック集](http://kirika-comp.hatenablog.com/entry/2018/03/12/210446) - [kirika_comp](https://atcoder.jp/users/kirika_comp)さんによる「整数論」に関するテクニックをまとめた資料集。資料作成者の注: コンテストで出題された問題をもとに解説しているため、ネタバレを非常に多く含む。
+- [もう数え上げも怖くない ―競プロ数え上げ問題40選―](https://zrkkkk.hatenablog.com/entry/2020/03/26/002932) - [Rho17](https://atcoder.jp/users/Rho17)さんによる「数え上げ」の問題の定石と考え方を解説した資料。後述の「数え上げテクニック集」よりも簡単な部分に焦点を絞っているのが特徴。また、紹介されている定石や考え方を利用した例題とヒントが掲載されている。
 - [数え上げテクニック集](https://drive.google.com/file/d/1WC7Y2Ni-8elttUgorfbix9tO1fvYN3g3/view) - [DEGwer](https://atcoder.jp/users/DEGwer)さんによる「数え上げ」の問題を解くコツが凝縮された資料集。難易度は、後述の書籍「プログラミングコンテストチャレンジブック」(通称、蟻本)よりも、やや難しい程度と記載されている。資料作成者の注: AtCoder Grand Contestなどの問題のネタバレを多分に含んでいる。
 
 ### 最適解を求める問題に関する知見
