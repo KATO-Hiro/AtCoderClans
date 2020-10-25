@@ -117,7 +117,7 @@ filename: CHANGELOG
 
 - [#684](https://github.com/KATO-Hiro/AtCoderClans/pull/684) - YouTubeページに著名なYouTuberのチャンネルを追加。
   - AtCoder Live
-  - chokudai
+  - chokudai（個人の希望により、[#773](https://github.com/KATO-Hiro/AtCoderClans/pull/773)で削除）
   - Gennady Korotkevich
   - Tozan Southerpacks Redcoder レッドコーダー
   - かつっぱ競プロ
