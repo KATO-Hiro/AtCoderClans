@@ -93,6 +93,7 @@ filename: media
 - [尺取り法の実装で嵌ったあの日の涙を数え切れないあなたにお送りする、尺取り法実装の † ソウル † です。](https://qiita.com/ngtkana/items/0b8f619a406d5f5b89de) - 尺取り法の難しいポイントを2つに分けて、それぞれ実装の基本を解説した記事。また、応用に向けた説明と記事のリンクが記載されている。
 - [典型的なDP(動的計画法)のパターンを整理 Part1 ～ ナップサックDP編 ～](https://qiita.com/drken/items/a5e6fe22863b7992efdb) - 動的計画法(DP)を学び始めた人向けの記事。また、動的計画法を初めて聞く人や経験が浅い人向けに、[AtCoder](https://atcoder.jp/)では[入門コンテンツ](https://atcoder.jp/contests/dp/)が公開されている。非公式ではあるが、[問題の解説・類題集](https://qiita.com/drken/items/dc53c683d6de8aeacf5a)も併せて読むと理解がとても深まる。
 - [貰うDPと配るDP、メモ化再帰、個数制限なしナップサック問題](https://qiita.com/drken/items/ace3142967c4f01d42e9) - [AtCoder Beginner Contest 099 C問題](https://atcoder.jp/contests/abc099/tasks/abc099_c)を題材に、メモ化再帰・貰うDP・配るDP・幅優先探索・個数制限なしナップサックDP・全探索+Greedyといった複数のアプローチについて解説した記事。
+- [桁DPの痒いところに手が届く解説](https://qiita.com/pinokions009/items/1e98252718eeeeb5c9ab) - 桁DPについて入門者が疑問に感じるポイントを解説した記事。特に、桁DPを利用することでうまく計算できる理由、数えている内容、初期条件の与え方に重点が置かれている。
 - [部分列DP --- 文字列の部分文字列を重複なく走査するDPの特集](https://qiita.com/drken/items/a207e5ae3ea2cf17f4bd) - 文字列の部分文字列に対し、条件を満たすものを重複なく数える問題について、その難しさと動的計画法による解法(部分列DP)を解説した記事。例題や類題のリンクも掲載されている。
 - [ゲームを解く！Educational DP Contest K, L問題の解説](https://qiita.com/drken/items/4e1bcf8413af16cb62da) - 「ゲームを解く」という定義から、ゲーム探索の考え方やシンプルなゲームをプログラムで解く方法などついて解説した記事。
 - [UnionFindTreeに関する知見の諸々](https://noshi91.hatenablog.com/entry/2018/05/30/191943) - データ構造の一つであるUnion Find Treeに関する実装のバリエーションを解説した記事。また、同アルゴリズムの派生系とC++の実装例も紹介されている。
