@@ -52,11 +52,11 @@ filename: media
 - [AtCoderに登録したら次にやること ～ これだけ解けば十分闘える！過去問精選10問 ～](https://qiita.com/drken/items/fd4e5e3630d0f5859067) - [drken](https://atcoder.jp/users/drken)さんによる、[AtCoder](https://atcoder.jp/)のコンテストに初めて参加する方に向けた精選10問。さまざまな言語による回答例のリンクなどの資料も充実している。
 - [AtCoderで始めるPython入門](https://qiita.com/KoyanagiHitoshi/items/3286fbc65d56dd67737c) - [AtCoder](https://atcoder.jp/)で開催されているAtCoder Beginner Contest (ABC)のA問題、B問題をPython(3.8.2)で解くための解説記事。
 - [AtCoder版！蟻本 (初級編)](https://qiita.com/drken/items/e77685614f3c6bf86f44) - [drken](https://atcoder.jp/users/drken)さんによる、蟻本(書籍の項目で後述)の例題を[AtCoder](https://atcoder.jp/)などで出題された問題に対応づけた記事。[中級編](https://qiita.com/drken/items/2f56925972c1d34e05d8)、[上級編](https://qiita.com/drken/items/9b311d553aa434bb26e4)もある。
-- [Competitive Programming](https://kotlinlang.org/docs/tutorials/competitive-programming.html) - 競技プログラミングにおいて、[Kotlin](https://kotlinlang.org/)で参加する方法を解説した公式チュートリアル。
 - [レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【初級編：競プロを始めよう】](https://qiita.com/e869120/items/f1c6f98364d1443148b3) - [AtCoder](https://atcoder.jp/)でレッドコーダーの[E869120](https://atcoder.jp/users/E869120)さんによる記事。初心者に向けて競技プログラミングの特徴・面白さ、アカウントの登録方法やレーティングの説明がされている。さらに、上達するためのガイドラインが丁寧に解説されている。[中級編](https://qiita.com/e869120/items/eb50fdaece12be418faa)や[上級編](https://qiita.com/e869120/items/acba3dd8649d913102b5)もある。また、[TeruMiyake](https://atcoder.jp/users/TeruMiyake)さんが、[精選100+50問チャレンジシート](https://terumiyake.hatenablog.com/entry/2020/08/01/131528)を公開している。
 - [情報オリンピックへのいざない　～日本一の競技プログラマーを決める戦い～](https://qiita.com/e869120/items/43181c2084e6e5337ca9) - 主に高校生以下を対象としたコンテストである「情報オリンピック」の説明から、大会の面白さ・上位に入るためテクニックを解説した記事。高専・大学生以上の人にも一読の価値があると思われる。
 - [競技プログラミング入門者の成長のためのメモ](https://qiita.com/masakinihirota/items/d1ffac54e70a1adf084c) - 競技プログラミングを始めるにあたって、チーム開発との違い、目標設定の重要性、言語や各種ツールの選定、コンテストサイトの紹介、学習方法など幅広い内容について解説されている。
 - [やってみよう競技プログラミング](https://docs.google.com/presentation/d/1N5MTwRdZPCtUwTwQTajOwkyEvHWSSiRl8xIx-BPfOl0/view#slide=id.p) - 競技プログラミングそのものの説明から、コンテストの参加にまつわるアンチパターンとオススメの練習方法が解説されている。
+- [Competitive Programming](https://kotlinlang.org/docs/tutorials/competitive-programming.html) - 競技プログラミングにおいて、[Kotlin](https://kotlinlang.org/)で参加する方法を解説した公式チュートリアル。
 
 ### コードを快適に書くための環境構築
 
