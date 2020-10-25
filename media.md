@@ -205,6 +205,10 @@ filename: media
 
 - [けんちょん (Otsuki)](https://qiita.com/drken) - [drken](https://atcoder.jp/users/drken)さんのアカウント。初見では理解が難しい概念について、丁寧な解説かつ読みやすい記事が多数掲載されている。
 
+### オンラインプログラミング検定
+
+- [第4回アルゴリズム実技検定を10/25(日)〜11/8(日)に開催 2021年の年間試験日程も発表](https://prtimes.jp/main/html/rd/p/000000030.000028415.html) - [AtCoder](https://atcoder.jp/)が開催するオンラインプログラミング検定「アルゴリズム実技検定」の日程を紹介した記事。同検定では、「1からプログラムを作成する能力を問う、実践を想定した日本初の検定」である点に特徴がある([過去問のリンク](https://atcoder.jp/contests/archive?ratedType=0&category=50&keyword=))。また、成績に応じた認定証が発行される。
+
 ### 開発に関心のある人向けの記事
 
 - [競技プログラマーがWeb開発者の卵になるまでの軌跡](https://qiita.com/__Null_Null_/items/940305f068ef9df659d9) - Web開発に興味のある競技プログラマーに向けて、シンプルなWebアプリを作るために必要な知識・学習順序を紹介した記事。
