@@ -14,7 +14,7 @@ filename: cli
   - [ローカル環境でサンプルのテストを実行する](#%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E7%92%B0%E5%A2%83%E3%81%A7%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88%E3%82%92%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B)
     - [任意の言語](#%E4%BB%BB%E6%84%8F%E3%81%AE%E8%A8%80%E8%AA%9E)
     - [複数の言語](#%E8%A4%87%E6%95%B0%E3%81%AE%E8%A8%80%E8%AA%9E)
-    - [C++](#c)
+    - [C&#043;&#043;](#c043043)
     - [Python](#python)
     - [Ruby](#ruby)
     - [Rust](#rust)
@@ -90,7 +90,7 @@ filename: cli
     <img loading = "lazy" src="images/cli/snowchains.gif" alt="snowchains">
   </div>
 
-#### C++
+#### C&#043;&#043;
 
 - [procon.vim](https://github.com/ogura01/procon.nvim) ![GitHub stars](https://img.shields.io/github/stars/ogura01/procon.nvim?style=plastic) - [Neovim](https://neovim.io/)プラグイン。
 - [vim-atcoder](https://github.com/cannot-fly-pig/vim-atcoder) ![GitHub stars](https://img.shields.io/github/stars/cannot-fly-pig/vim-atcoder?style=plastic) - [Vim](https://www.vim.org/)でサンプルケースのテストするためのプラグイン。企業コンテストには、今後対応予定。
