@@ -143,7 +143,7 @@ filename: media
 - [超高速！多倍長整数の計算手法【前編：大きな数の四則計算を圧倒的な速度で！】](https://qiita.com/square1001/items/1aa12e04934b6e749962) - 大きな数を計算(多倍長整数演算)するときの工夫を解説した記事。[後編](https://qiita.com/square1001/items/def73e29dd46b156c248)もある。
 - [間違っているテストケースが見つけられないときの手法](https://sumatome.com/su/1294961358119739392) - [chokudai](https://twitter.com/chokudai)さんによる一連のツイートをまとめた記事。[ABC175-C問題](https://atcoder.jp/contests/abc175/tasks/abc175_c)を例に、間違っているテストケースを見つける方法が解説されている。併せて、[テストを自動化するツール](https://kato-hiro.github.io/AtCoderClans/cli)の導入についても前向きなコメントがされている。
 
-#### C&#043;&#043;
+#### C++
 
 - [AtCoder 黄色の私が気を付けていること](https://ngtkana.hatenablog.com/entry/2019/07/15/002340) - C++での実装における工夫を紹介した記事。言語で用意されている機能を活用して、バグを埋め込みにくく、バグを埋め込んだとしても気付きやすく・直しやすくすることに重点が置かれているのが特徴。
 - [競技プログラミングにおけるC++の定数倍高速化テク](https://qiita.com/ageprocpp/items/7bda728d109c953ece3c) - C++で実装したコードを高速化するテクニックをまとめた記事。

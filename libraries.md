@@ -82,59 +82,59 @@ filename: libraries
 
 - [Unofficial Portings of AtCoder Library](https://docs.google.com/spreadsheets/d/19jMAqUbv98grVkLV_Lt54x5B8ILoTcvBzG8EbSvf5gY/edit#gid=0) - [not](https://atcoder.jp/users/not)さんによる、コミュニティの一覧表。
 
-#### C
+#### ACL C
 
 - [siumai1223/ac-library-c](https://github.com/siumai1223/ac-library-c) ![GitHub stars](https://img.shields.io/github/stars/siumai1223/ac-library-c?style=plastic) - C版。[Slack](https://ac-library-c.slack.com/join/shared_invite/zt-h4ka7x46-kFrvaf836kJzGZkfNYCq_w#/)も作成されている。
 
-#### C&#043;&#043;
+#### ACL C++
 
 - [TumoiYorozu/single-file-ac-library](https://github.com/TumoiYorozu/single-file-ac-library) ![GitHub stars](https://img.shields.io/github/stars/TumoiYorozu/single-file-ac-library?style=plastic) - [公式ライブラリ](https://atcoder.jp/posts/517)をシングルファイルとして使えるようにしている。また、公式ドキュメントを[ブラウザ](https://tumoiyorozu.github.io/single-file-ac-library/document_ja/)で見ることもできる。
 
-#### Crystal
+#### ACL Crystal
 
 - [google/ac-library.cr](https://github.com/google/ac-library.cr) ![GitHub Repo stars](https://img.shields.io/github/stars/google/ac-library.cr?style=plastic) - Crystal版。
 
-#### C&#035;
+#### ACL C#
 
 - [key-moon/ac-library-cs](https://github.com/key-moon/ac-library-cs) ![GitHub stars](https://img.shields.io/github/stars/key-moon/ac-library-cs?style=plastic) - C#版。
 - [naminodarie/SourceExpander](https://github.com/naminodarie/SourceExpander) ![GitHub Repo stars](https://img.shields.io/github/stars/naminodarie/SourceExpander?style=plastic) - [key-moon/ac-library-cs](https://github.com/key-moon/ac-library-cs)を利用したコードをジャッジシステムに提出できる形式に変換するライブラリ。
 
-#### D
+#### ACL D
 
 - [arkark/ac-library-d](https://github.com/arkark/ac-library-d) ![GitHub stars](https://img.shields.io/github/stars/arkark/ac-library-d?style=plastic) - D版。
 
-#### Go
+#### ACL Go
 
 - [monkukui/ac-library-go](https://github.com/monkukui/ac-library-go) ![GitHub stars](https://img.shields.io/github/stars/monkukui/ac-library-go?style=plastic) - Go版。
 - [ktateish/gottani](https://github.com/ktateish/gottani) ![GitHub Repo stars](https://img.shields.io/github/stars/ktateish/gottani?style=plastic) - 回答コードとライブラリを一つのファイルにまとめるツール。
 - [monkukui/gpcg](https://github.com/monkukui/gpcg) ![GitHub stars](https://img.shields.io/github/stars/monkukui/gpcg?style=plastic) - 複数のファイルにまたがるGoのコードを一つにまとめて、提出用のコードを生成するツール。注: レポジトリのREADMEによると、未完成の状態。
 
-#### Java
+#### ACL Java
 
 - [NASU41/AtCoderLibraryForJava](https://github.com/NASU41/AtCoderLibraryForJava) ![GitHub stars](https://img.shields.io/github/stars/NASU41/AtCoderLibraryForJava?style=plastic) - Java版。[Slack](https://aclforjava.slack.com/join/shared_invite/zt-h7q1ytaa-qr2PMhMZCECG30hJTm5kjw#/)も用意されている。また、このレポジトリから派生した[Kotlin版](https://github.com/da-louis/ac-library-kt)もある。
 
-#### Julia
+#### ACL Julia
 
 - [abap34/ACL.jl](https://github.com/abap34/ACL.jl) ![GitHub stars](https://img.shields.io/github/stars/abap34/ACL.jl?style=plastic) - Julia版。
 
-#### Kotlin
+#### ACL Kotlin
 
 - [da-louis/ac-library-kt](https://github.com/da-louis/ac-library-kt) ![GitHub stars](https://img.shields.io/github/stars/da-louis/ac-library-kt?style=plastic) - Kotlin版。[Java版](https://github.com/NASU41/AtCoderLibraryForJava)をベースに作成されている。
 
-#### Nim
+#### ACL Nim
 
 - [zer0-star/Nim-ACL](https://github.com/zer0-star/Nim-ACL) ![GitHub stars](https://img.shields.io/github/stars/zer0-star/Nim-ACL?style=plastic) - Nim版。
 
-#### Python
+#### ACL Python
 
 - [Mitarushi/ACL-Python](https://github.com/Mitarushi/ACL-Python) ![GitHub stars](https://img.shields.io/github/stars/Mitarushi/ACL-Python?style=plastic) - PyPy版。
 - [not522/ac-library-python](https://github.com/not522/ac-library-python) ![GitHub stars](https://img.shields.io/github/stars/not522/ac-library-python?style=plastic) - Python版。オンラインジャッジで実行できるように、コードを一つのファイルにまとめる機能も含まれている。
 
-#### Ruby
+#### ACL Ruby
 
 - [universato/ac-library-rb](https://github.com/universato/ac-library-rb) ![GitHub stars](https://img.shields.io/github/stars/universato/ac-library-rb?style=plastic) - Ruby版。[Slack](https://ruby-jp.github.io/)ワークスペースが用意されている。
 
-#### Rust
+#### ACL Rust
 
 - [rust-lang-ja/ac-library-rs](https://github.com/rust-lang-ja/ac-library-rs) ![GitHub stars](https://img.shields.io/github/stars/rust-lang-ja/ac-library-rs?style=plastic) - Rust版。詳しい情報は、[Slack](https://rust-jp.rs/)で得られる。
 - [kenkoooo/cargo-concat](https://github.com/kenkoooo/cargo-concat) ![GitHub Repo stars](https://img.shields.io/github/stars/kenkoooo/cargo-concat?style=plastic) - コマンド一つで、Rustの依存モジュールを一つのファイルにまとめるツール。
@@ -146,7 +146,7 @@ filename: libraries
 - [TheAlgorithms](https://github.com/TheAlgorithms) - 競技プログラミング専用ではないが、有名なアルゴリズムが複数の言語で実装されたレポジトリ群。Python, Java, C++, C, Go, JavaScriptなどが公開されている。
 - [VAR-solutions/Algorithms](https://var-solutions.github.io/Algorithms/) ![GitHub stars](https://img.shields.io/github/stars/VAR-solutions/Algorithms?style=plastic) - アルゴリズムやデータ構造について、シンプルな例が複数の言語で実装されている。
 
-### C&#043;&#043;
+### C++
 
 - [AokabiC/compro-lib](https://github.com/AokabiC/compro-lib) ![GitHub stars](https://img.shields.io/github/stars/AokabiC/compro-lib?style=plastic) - [AokabiC](https://atcoder.jp/users/AokabiC)さんのライブラリ。
 - [asi1024/competitive-library](https://github.com/asi1024/competitive-library) ![GitHub stars](https://img.shields.io/github/stars/asi1024/competitive-library?style=plastic) - [asi1024](https://atcoder.jp/users/asi1024)さんのライブラリ。C++11(gcc-4.8)、C++17(gcc-7)、C++14(clang-3.8)に対応。
@@ -190,7 +190,7 @@ filename: libraries
 - [yosupo06/Algorithm](https://github.com/yosupo06/Algorithm) ![GitHub stars](https://img.shields.io/github/stars/yosupo06/Algorithm?style=plastic) - [yosupo](https://atcoder.jp/users/yosupo)さんのライブラリ。C++11で実装されている。[D版](https://github.com/yosupo06/dunkelheit)もある。
 - [zerokpr/Kpr_Library](https://github.com/zerokpr/Kpr_Library) ![GitHub stars](https://img.shields.io/github/stars/zerokpr/Kpr_Library?style=plastic) - [zero_kpr](https://atcoder.jp/users/zero_kpr)さんのライブラリ。
 
-### C&#035;
+### C#
 
 - [camypaper/complib](https://github.com/camypaper/complib) ![GitHub stars](https://img.shields.io/github/stars/camypaper/complib?style=plastic) - [camypaper](https://atcoder.jp/users/camypaper)さんのライブラリ。
 - [hibatibati/My-Competitive-Programming-Library](https://github.com/hibatibati/My-Competitive-Programming-Library) ![GitHub stars](https://img.shields.io/github/stars/hibatibati/My-Competitive-Programming-Library?style=plastic) - [hibatibati](https://atcoder.jp/users/hibatibati)さんのライブラリ。
