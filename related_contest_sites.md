@@ -109,7 +109,7 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/codeforces/hightail.png" alt="hightail">
   </div>
 
-### JOI (Japanese Olympiad in  Informatics)と関連サービス
+### JOI (Japanese Olympiad in Informatics)と関連サービス
 
 #### JOI
 
@@ -131,7 +131,7 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/joi/difficulty_table.png" alt="difficulty table">
   </div>
 
-#### 記事
+#### JOIに関連する記事
 
 - [JOI春合宿2020 参加記](https://drive.google.com/file/d/1iW2sTAz9VyhzWbO0ByVHiha0jG0aIJ7H/view) - [E869120](https://atcoder.jp/users/E869120)さんによる2020年日本情報オリンピック春季トレーニング合宿の参加記。情報オリンピック日本代表の選考までの練習過程と選考会での立ち回りについて詳細に書かれている。
 - [IOI2020 参加記](https://drive.google.com/file/d/1UOFW6Vtxz5S5hWBK78swQg368F6L15kp/view) - [E869120](https://atcoder.jp/users/E869120)さんによる第32回国際情報オリンピック(IOI2020)の参加記。「金メダルを確実に取る」という観点から、本番での立ち回りが詳細に解説されている。また、筆者が5年間の競技生活を通して得た経験は、後進に勇気と希望を与えてくれる内容だと思われる。
