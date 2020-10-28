@@ -16,9 +16,9 @@ filename: related_contest_sites
   - [Webアプリ、Webサイト](#web%E3%82%A2%E3%83%97%E3%83%AAweb%E3%82%B5%E3%82%A4%E3%83%88)
   - [ユーザスクリプト](#%E3%83%A6%E3%83%BC%E3%82%B6%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88)
   - [コマンドラインツール、GUIツール](#%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%84%E3%83%BC%E3%83%ABgui%E3%83%84%E3%83%BC%E3%83%AB)
-- [JOI (Japanese Olympiad in  Informatics)と関連サービス](#joi-japanese-olympiad-in--informatics%E3%81%A8%E9%96%A2%E9%80%A3%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9)
+- [JOI (Japanese Olympiad in Informatics)と関連サービス](#joi-japanese-olympiad-in-informatics%E3%81%A8%E9%96%A2%E9%80%A3%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9)
   - [JOI](#joi)
-  - [記事](#%E8%A8%98%E4%BA%8B-1)
+  - [JOIに関連する記事](#joi%E3%81%AB%E9%96%A2%E9%80%A3%E3%81%99%E3%82%8B%E8%A8%98%E4%BA%8B)
   - [JOIの関連サービス](#joi%E3%81%AE%E9%96%A2%E9%80%A3%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9)
 - [MAO (Markov Algorithm Online)](#mao-markov-algorithm-online)
 - [Topcoder](#topcoder)
@@ -109,7 +109,7 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/codeforces/hightail.png" alt="hightail">
   </div>
 
-### JOI (Japanese Olympiad in  Informatics)と関連サービス
+### JOI (Japanese Olympiad in Informatics)と関連サービス
 
 #### JOI
 
@@ -131,7 +131,7 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/joi/difficulty_table.png" alt="difficulty table">
   </div>
 
-#### 記事
+#### JOIに関連する記事
 
 - [JOI春合宿2020 参加記](https://drive.google.com/file/d/1iW2sTAz9VyhzWbO0ByVHiha0jG0aIJ7H/view) - [E869120](https://atcoder.jp/users/E869120)さんによる2020年日本情報オリンピック春季トレーニング合宿の参加記。情報オリンピック日本代表の選考までの練習過程と選考会での立ち回りについて詳細に書かれている。
 - [IOI2020 参加記](https://drive.google.com/file/d/1UOFW6Vtxz5S5hWBK78swQg368F6L15kp/view) - [E869120](https://atcoder.jp/users/E869120)さんによる第32回国際情報オリンピック(IOI2020)の参加記。「金メダルを確実に取る」という観点から、本番での立ち回りが詳細に解説されている。また、筆者が5年間の競技生活を通して得た経験は、後進に勇気と希望を与えてくれる内容だと思われる。
