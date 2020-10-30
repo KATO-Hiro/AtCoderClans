@@ -9,7 +9,6 @@ filename: related_contest_sites
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [AOJ (Aizu Online Judge)](#aoj-aizu-online-judge)
 - [Codeforces](#codeforces)
   - [記事](#%E8%A8%98%E4%BA%8B)
