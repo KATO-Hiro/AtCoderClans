@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-10-30
+
+- [#806](https://github.com/KATO-Hiro/AtCoderClans/pull/806) - 記事ページにスライド資料「社会に出て感じたギャップTOP10」を追加。
+
 ### 2020-10-28
 
 - [#794](https://github.com/KATO-Hiro/AtCoderClans/pull/794), [#795](https://github.com/KATO-Hiro/AtCoderClans/pull/795) - 関連するコンテストサイトページのサブカテゴリJOIにおける表記を修正。
