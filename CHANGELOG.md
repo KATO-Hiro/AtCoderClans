@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-11-01
+
+- [#813](https://github.com/KATO-Hiro/AtCoderClans/pull/813) - スクリプトページのChrome拡張機能「NextPage」に注釈と図を追加。
+
 ### 2020-10-30
 
 - [#806](https://github.com/KATO-Hiro/AtCoderClans/pull/806) - 記事ページにスライド資料「社会に出て感じたギャップTOP10」を追加。
