@@ -438,7 +438,11 @@ Google Chromeに機能を追加します。
     <img loading = "lazy" src="images/chrome_extension/kontests.png" alt="kontests">
   </div>
 
-- [NextPage](https://chrome.google.com/webstore/detail/nextpage/mhhmddcnnehdkpclpjpmidpeejohlmfb?hl=ja&gl=UA) - あるコンテストの次の回のページに移動できる。
+- [NextPage](https://chrome.google.com/webstore/detail/nextpage/mhhmddcnnehdkpclpjpmidpeejohlmfb?hl=ja&gl=UA) - あるコンテストの次の回のページに移動できる。レポジトリ作成者注: 拡張機能のアイコンが表示されていない場合は、ピン止めをする必要がある。青矢印のマークをクリックすると動作する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/chrome_extension/next_page.png" alt="next page">
+  </div>
 
 #### 非公式サービス、ツール、外部サービスなど
 
