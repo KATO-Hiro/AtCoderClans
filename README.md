@@ -70,6 +70,8 @@
 
 [Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media) - 環境構築、アルゴリズムや過去問を解説した記事、書籍などを掲載しています。
 
+[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones) - コンテストの参加者が所定のレーティングに達した喜びをつづった記事を共有・祝福するためのページです。
+
 [Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites) - 世界各地で開催されている競技プログラミングのコンテストサイトに関連するサービス・ツールなどをまとめています。
 
 [Archived](https://kato-hiro.github.io/AtCoderClans/archived) - 諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するためのページです。
