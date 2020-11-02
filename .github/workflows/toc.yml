@@ -7,5 +7,5 @@ jobs:
     steps:
       - uses: technote-space/toc-generator@v2
         with:
-          TARGET_PATHS: README*.md,index.md,for_beginners.md,web_app.md,scripts.md,cli.md,libraries.md,media.md,archived.md,related_contest_sites.md
+          TARGET_PATHS: README*.md,index.md,for_beginners.md,web_app.md,scripts.md,cli.md,libraries.md,media.md,milestones.md,archived.md,related_contest_sites.md
           TOC_TITLE: ''
