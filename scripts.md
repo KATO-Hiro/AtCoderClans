@@ -307,12 +307,6 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_submission_radiobutton.png" alt="atcoder submission radiobutton">
   </div>
 
-- [AtCoder Twitter Avatar](https://greasyfork.org/en/scripts/372507-atcoder-twitter-avatar) - 「ユーザ」ページのtwitter IDの欄に、[Twitter](https://twitter.com/)のアバターを追加する。
-
-  <div align="center">
-    <img loading = "lazy" src="images/userscript/atcoder_twitter_avatar.png" alt="atcoder twitter avatar">
-  </div>
-
 - [AutoSubmissionsSettings.js](https://greasyfork.org/ja/scripts/390514-autosubmissionssettings-js) - 「すべての提出」画面で、指定した言語と結果で検索するボタンを追加する。
 
   <div align="center">
