@@ -56,7 +56,6 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_difficulty_display.png" alt="atcoder difficulty display">
   </div>
 
-- [AtCoder Graduation](https://greasyfork.org/ja/scripts/394079-atcoder-graduation) - ユーザの「プロフィール」ページに卒業・修了年度を表示する。
 - [AtCoderStandingsAnalysis](https://greasyfork.org/ja/scripts/398439-atcoderstandingsanalysis) - 「順位表」ページから、自分の得点・正解者数 / 提出者数・正解率・平均ペナルティ数・ペナルティ率・内部レートの分布を集計する。注: コンテスト中にSNSでの言及や投稿は避ける。
 
   <div align="center">

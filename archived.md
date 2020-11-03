@@ -24,6 +24,10 @@ filename: archived
   - 理由: 記載なし。
   - 代替手段: 調査中。
 
+- [AtCoder Graduation](https://greasyfork.org/ja/scripts/394079-atcoder-graduation) - ユーザの「プロフィール」ページに卒業・修了年度を表示するユーザスクリプト。
+  - 理由: 記載なし。
+  - 代替手段: 調査中。
+
 - [AtCoder Twitter Avatar](https://greasyfork.org/en/scripts/372507-atcoder-twitter-avatar) - 「ユーザ」ページのtwitter IDの欄に、[Twitter](https://twitter.com/)のアバターを追加するユーザスクリプト。
   - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
   - 代替手段: 調査中。
