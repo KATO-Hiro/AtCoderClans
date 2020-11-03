@@ -32,7 +32,17 @@ filename: archived
     <img loading = "lazy" src="images/userscript/atcoder_twitter_avatar.png" alt="atcoder twitter avatar">
   </div>
 
+- [AtCoderBook](https://chrome.google.com/webstore/detail/atcoderbook/lcojnofidkanlkoaagdbjkdnelbnlnng?hl=ja&gl=UA) - 問題のリンクを保存するChrome拡張機能。復習やお気に入りの管理用など。[Codeforces](https://codeforces.com/)にも対応している。
+  - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
+  - 代替手段: 調査中。
+
+  <div align="center">
+    <img loading = "lazy" src="images/chrome_extension/atcoder_book.jpg" alt="atcoder book">
+  </div>
+
 - [AtCoder judge notifier](https://chrome.google.com/webstore/detail/atcoder-judge-notifier/hcjjfcidaloadjcemebolmdphhbpehba?hl=ja&gl=UA) - 「提出」ページのジャッジ結果を通知するChrome拡張機能。
+  - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
+  - 代替手段: [AtCoderResultNotifier](https://greasyfork.org/ja/scripts/371225-atcoderresultnotifier)などを利用する。
 
   <div align="center">
     <img loading = "lazy" src="images/chrome_extension/atcoder_judge_notifier.png" alt="atcoder judge notifier">

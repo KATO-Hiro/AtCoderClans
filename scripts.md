@@ -370,12 +370,6 @@ Google Chromeに機能を追加します。
 
 #### AtCoder
 
-- [AtCoderBook](https://chrome.google.com/webstore/detail/atcoderbook/lcojnofidkanlkoaagdbjkdnelbnlnng?hl=ja&gl=UA) - 問題のリンクを保存する。復習やお気に入りの管理用など。[Codeforces](https://codeforces.com/)にも対応している
-
-  <div align="center">
-    <img loading = "lazy" src="images/chrome_extension/atcoder_book.jpg" alt="atcoder book">
-  </div>
-
 - [AtCoder Calendar](https://chrome.google.com/webstore/detail/atcoder-calendar/dokfhaljgioiaeappgnmibgoipegbldf?hl=ja&gl=UA) - コンテストの「トップ」ページにGoogle Calendarのスケジュール作成リンクを生成する。
 
   <div align="center">
