@@ -408,7 +408,7 @@ Google Chromeに機能を追加します。
     <img loading = "lazy" src="images/chrome_extension/atcoder_testcase_extension.png" alt="atcoder testcase extension">
   </div>
 
-- [AtCoder Unit Test](https://chrome.google.com/webstore/detail/atcoder-unit-test/lmahhninbclefepjbcdfbcjnancipfmi?hl=ja&gl=UA) - 「問題」ページから、単体(ユニット)テストを生成する。Java (JUnit)、C# (MS Test)、Python3 (unittest)に対応。
+- [AtCoder Unit Test](https://chrome.google.com/webstore/detail/atcoder-unit-test/lmahhninbclefepjbcdfbcjnancipfmi?hl=ja&gl=UA) - 「問題」ページから、単体(ユニット)テストを生成する。Java (JUnit)、Kotlin (JUnit)、C# (MS Test)、Python3 (unittest)に対応。デフォルトは、Java (JUnit)となっている。対応言語の切り替えは、「拡張機能 / アドオン」 → 「AC Unit Test」 のオプションで行うことができる。
 
   <div align="center">
     <img loading = "lazy" src="images/chrome_extension/atcoder_unit_test.png" alt="atcoder unit test">
