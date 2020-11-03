@@ -82,7 +82,7 @@ filename: archived
   - 代替手段: 公式のバーチャル参加や[AtCoder Problems](https://kenkoooo.com/atcoder/)のVitual Contestsを利用する。
 - [Coding Shout](https://chrome.google.com/webstore/detail/coding-shout/nggokghmfinpljihgjkkbogpgbbjjjme?hl=ja&gl=UA) - ジャッジ結果を通知する。[Codechef](https://www.codechef.com/)や[Codeforces](https://codeforces.com/)にも対応している。
   - 理由: [AtCoder](https://atcoder.jp/)の仕様変更に伴うもの。
-  - 代替手段: [AtCoder judge notifier](https://chrome.google.com/webstore/detail/atcoder-judge-notifier/hcjjfcidaloadjcemebolmdphhbpehba?hl=ja&gl=UA)を利用する。
+  - 代替手段: [AtCoderResultNotifier](https://greasyfork.org/ja/scripts/371225-atcoderresultnotifier)などを利用する。
 
   <div align="center">
     <img loading = "lazy" src="images/chrome_extension/coding_shout.png" alt="coding shout">
