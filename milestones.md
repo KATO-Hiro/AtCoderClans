@@ -32,7 +32,7 @@ filename: milestones
 
 ### レーティング800から1199まで(緑色)
 
-+ 準備中。
+- [【AtCoder】普通の人である私が緑になるまでにしたこと](https://qiita.com/Kota-Y/items/396ab3c57830dad65cfb) - [kota0501](https://atcoder.jp/users/kota0501)さんが、2020年8月22日に達成。
 
 ### レーティング1200から1599まで(水色)
 
