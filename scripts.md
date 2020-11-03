@@ -343,14 +343,6 @@ Google Chromeに機能を追加します。
     <img loading = "lazy" src="images/chrome_extension/atcoder_acer.png" alt="atcoder acer">
   </div>
 
-### 自動的に通知する
-
-- [AtCoder judge notifier](https://chrome.google.com/webstore/detail/atcoder-judge-notifier/hcjjfcidaloadjcemebolmdphhbpehba?hl=ja&gl=UA) - 「提出」ページのジャッジ結果を通知する。
-
-  <div align="center">
-    <img loading = "lazy" src="images/chrome_extension/atcoder_judge_notifier.png" alt="atcoder judge notifier">
-  </div>
-
 ### UIを見やすく色付けする、表示を簡略化する
 
 - [AtCoder Color](https://chrome.google.com/webstore/detail/atcoder-color/mcefknoiablejellmicpmokcaelpdaec?hl=ja&gl=UA) - 「問題」ページで提出状況に応じて色付けする。

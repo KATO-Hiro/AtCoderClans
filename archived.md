@@ -16,6 +16,32 @@ filename: archived
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## 本サイトの運営者の環境では動作が確認できていないサービス、ツールなど
+
+少なくとも本サイトの運営者の環境では動作が確認できていないサービス・ツールなどの一覧です。皆さまの環境で動作する可能性があります。該当するサービス・ツールなどの作者の方や動作を確認された方は[本サイトの運営者](https://twitter.com/k_hiro1818)まで、ご一報いただけると幸いです。
+
+- [AtCoder Twitter Avatar](https://greasyfork.org/en/scripts/372507-atcoder-twitter-avatar) - 「ユーザ」ページのtwitter IDの欄に、[Twitter](https://twitter.com/)のアバターを追加するユーザスクリプト。
+  - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
+  - 代替手段: 調査中。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_twitter_avatar.png" alt="atcoder twitter avatar">
+  </div>
+
+- [AtCoder judge notifier](https://chrome.google.com/webstore/detail/atcoder-judge-notifier/hcjjfcidaloadjcemebolmdphhbpehba?hl=ja&gl=UA) - 「提出」ページのジャッジ結果を通知するChrome拡張機能。
+
+  <div align="center">
+    <img loading = "lazy" src="images/chrome_extension/atcoder_judge_notifier.png" alt="atcoder judge notifier">
+  </div>
+
+- [Coding Shout](https://chrome.google.com/webstore/detail/coding-shout/nggokghmfinpljihgjkkbogpgbbjjjme?hl=ja&gl=UA) - ジャッジ結果を通知するChrome拡張機能。[Codechef](https://www.codechef.com/)や[Codeforces](https://codeforces.com/)にも対応している。
+  - 理由: [AtCoder](https://atcoder.jp/)の仕様変更に伴うもの。
+  - 代替手段: [AtCoderResultNotifier](https://greasyfork.org/ja/scripts/371225-atcoderresultnotifier)などを利用する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/chrome_extension/coding_shout.png" alt="coding shout">
+  </div>
+
 ## リンク切れと思われるサービス、ツールなど
 
 リンクが切れていると思われるサービス・ツールなどを掲載しています。一定の期間(3〜6か月程度)更新されない場合は、下記の「開発、提供が終了したサービス、ツールなど」へ移動させたいと思います。
@@ -79,25 +105,9 @@ filename: archived
   - 代替手段: [AtCoder Problems](https://kenkoooo.com/atcoder/)を利用する。
 - [AtCoderProblemsRush](https://greasyfork.org/en/scripts/373299-atcoderproblemsrush) - [AtCoder Problems](https://kenkoooo.com/atcoder/)のクローラが実行される前に、提出データをブラウザに保存し進捗状況を表示する。
   - 理由: [AtCoder Problems](https://kenkoooo.com/atcoder/)での進捗状況が短時間で更新されるようになり、追加で導入する必要性は薄いと思われるため。
-- [AtCoder Twitter Avatar](https://greasyfork.org/en/scripts/372507-atcoder-twitter-avatar) - 「ユーザ」ページのtwitter IDの欄に、[Twitter](https://twitter.com/)のアバターを追加する。
-  - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
-  - 代替手段: 調査中。
-
-  <div align="center">
-    <img loading = "lazy" src="images/userscript/atcoder_twitter_avatar.png" alt="atcoder twitter avatar">
-  </div>
-
 - [AtCoder Virtual Contest](https://not-522.appspot.com/) - 仮想コンテスト(本番のコンテストに近い状態で練習できる)を開催できるWebサービス。
   - 理由: [AtCoder](https://atcoder.jp/)の仕様変更に伴うもの。
   - 代替手段: 公式のバーチャル参加や[AtCoder Problems](https://kenkoooo.com/atcoder/)のVitual Contestsを利用する。
-- [Coding Shout](https://chrome.google.com/webstore/detail/coding-shout/nggokghmfinpljihgjkkbogpgbbjjjme?hl=ja&gl=UA) - ジャッジ結果を通知する。[Codechef](https://www.codechef.com/)や[Codeforces](https://codeforces.com/)にも対応している。
-  - 理由: [AtCoder](https://atcoder.jp/)の仕様変更に伴うもの。
-  - 代替手段: [AtCoderResultNotifier](https://greasyfork.org/ja/scripts/371225-atcoderresultnotifier)などを利用する。
-
-  <div align="center">
-    <img loading = "lazy" src="images/chrome_extension/coding_shout.png" alt="coding shout">
-  </div>
-
 - [comp-prog-jp-library-standard/competitive-programming-library](https://github.com/comp-prog-jp-library-standard/competitive-programming-library) - 競技プログラミングのための共通ライブラリをまとめようとしたプロジェクト。
   - 理由: 記載なし。
   - 代替手段: [AtCoder Library (ACL)](https://atcoder.jp/posts/517)や[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)などで公開されているライブラリを利用するか、自分で作成する。
