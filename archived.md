@@ -127,6 +127,14 @@ filename: archived
   - 代替手段: [AtCoder Problems](https://kenkoooo.com/atcoder/)を利用する。
 - [AtCoderProblemsRush](https://greasyfork.org/en/scripts/373299-atcoderproblemsrush) - [AtCoder Problems](https://kenkoooo.com/atcoder/)のクローラが実行される前に、提出データをブラウザに保存し進捗状況を表示する。
   - 理由: [AtCoder Problems](https://kenkoooo.com/atcoder/)での進捗状況が短時間で更新されるようになり、追加で導入する必要性は薄いと思われるため。
+- [AtCoder Rating Simulator](https://twitter.com/AtCoderRS) - Ratedコンテスト当日に、所定のレーティングに到達するのに必要なパフォーマンスを自動返信するTwitter Bot。
+  - 理由: 開発者により、Twitterアカウントの運用終了が告知されたため([出典](https://twitter.com/AtCoderRS/status/1323666246173413376))。
+  - 代替手段: 同名の[Webページ版](https://atcoderratingsimulator.herokuapp.com/)を利用する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_rating_simulator.png" alt="atcoder rating simulator">
+  </div>
+
 - [AtCoder Virtual Contest](https://not-522.appspot.com/) - 仮想コンテスト(本番のコンテストに近い状態で練習できる)を開催できるWebサービス。
   - 理由: [AtCoder](https://atcoder.jp/)の仕様変更に伴うもの。
   - 代替手段: 公式のバーチャル参加や[AtCoder Problems](https://kenkoooo.com/atcoder/)のVitual Contestsを利用する。

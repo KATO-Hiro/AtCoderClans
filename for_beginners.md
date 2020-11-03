@@ -136,10 +136,10 @@ A7: さまざまな要因が考えられます。現時点では、[AtCoder](htt
 
 - コンテストの参加前に目標とするレーティング・パフォーマンスを設定しましょう。
   - 1．自分の実力と相談しながら、目標とするレーティング(もしくは、特定のレーティング帯に相当する色)と達成するまで期限を設定してみましょう。[AtCoder](https://atcoder.jp/)社長の[chokudai](https://twitter.com/chokudai)さんによる、[レーティングとアルゴリズムに関する実力の関係を説明した記事](http://chokudai.hatenablog.com/entry/2019/02/11/155904)も参考になると思います(注: 2020年6月下旬に更新されているものの、特定のレーティング帯については到達するまでの要求水準がさらに上がっている可能性があります)。
-  - 2．次に参加するコンテストで、どの程度の成績(パフォーマンス値)を目指すか設定してみましょう。有志が公開している[登録制のTwitter Bot](https://twitter.com/AtCoderRS)をフォローすると、簡単に目標とするレーティングとパフォーマンス値を知ることができます。
+  - 2．次に参加するコンテストで、どの程度の成績(パフォーマンス値)を目指すか設定してみましょう。有志が公開している[Webサービス](https://atcoderratingsimulator.herokuapp.com/)を利用すると、簡単に目標とするレーティングとパフォーマンス値を知ることができます。
 
     <div align="center">
-      <img loading = "lazy" src="images/web_app/atcoder_rating_simulator.png" alt="atcoder rating simulator">
+      <img loading = "lazy" src="images/web_app/atcoder_rating_simulator_web.png" alt="atcoder rating simulator web">
     </div>
 
   - 3．また、コンテスト開催中に[参加者のパフォーマンス値の推定値をリアルタイムで見られるスクリプト](https://greasyfork.org/ja/scripts/369954-ac-predictor)が公開されています。注: 初めてユーザスクリプトを利用される方は、[スクリプトマネージャ](https://greasyfork.org/ja)を事前にインストールしてください。下の図は、左側がパフォーマンス値を、右側がレーティングの変動と前回との差分をそれぞれ表しています。
