@@ -36,7 +36,7 @@ filename: milestones
 
 ### レーティング1200から1599まで(水色)
 
-+ 準備中。
+[AtCoder水色になりました！ - ntk log ntk](https://ntk-ta01.hatenablog.com/entry/2020/10/15/221729) - [ntk_ta01](https://atcoder.jp/users/ntk_ta01)さんが、2020年10月12日に達成。
 
 ### レーティング1600から1999まで(青色)
 
