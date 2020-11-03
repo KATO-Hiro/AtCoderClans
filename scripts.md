@@ -315,6 +315,10 @@ filename: scripts
 
 - [AutoSubmissionsSettings.js](https://greasyfork.org/ja/scripts/390514-autosubmissionssettings-js) - 「すべての提出」画面で、指定した言語と結果で検索するボタンを追加する。
 
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/auto_submissions_settings_js.png" alt="auto submissions settings js">
+  </div>
+
 - [Save_Paken_AtCoder_Account](https://greasyfork.org/ja/scripts/401642-save-paken-atcoder-account) - パ研の共有アカウントで誤ってコンテストに参加するのを防ぐ。
 
 ## Google Chromeの拡張機能
