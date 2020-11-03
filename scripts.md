@@ -354,12 +354,6 @@ Google Chromeに機能を追加します。
     <img loading = "lazy" src="images/chrome_extension/atcoder_judge_notifier.png" alt="atcoder judge notifier">
   </div>
 
-- [Coding Shout](https://chrome.google.com/webstore/detail/coding-shout/nggokghmfinpljihgjkkbogpgbbjjjme?hl=ja&gl=UA) - ジャッジ結果を通知する。[Codechef](https://www.codechef.com/)や[Codeforces](https://codeforces.com/)にも対応している。
-
-  <div align="center">
-    <img loading = "lazy" src="images/chrome_extension/coding_shout.png" alt="coding shout">
-  </div>
-
 ### UIを見やすく色付けする、表示を簡略化する
 
 - [AtCoder Color](https://chrome.google.com/webstore/detail/atcoder-color/mcefknoiablejellmicpmokcaelpdaec?hl=ja&gl=UA) - 「問題」ページで提出状況に応じて色付けする。
