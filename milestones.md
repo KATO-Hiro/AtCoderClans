@@ -40,7 +40,7 @@ filename: milestones
 
 ### レーティング1600から1999まで(青色)
 
-+ 準備中。
+- [AtCoderで青色になりました - TERRYのブログ](https://www.terry-u16.net/entry/atcoder-blue) - [terry_u16](https://atcoder.jp/users/terry_u16)さんが、2020年8月15日に達成。
 
 ### レーティング2000から2399まで(黄色)
 
