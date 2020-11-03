@@ -6,6 +6,38 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-11-01
+
+- [#813](https://github.com/KATO-Hiro/AtCoderClans/pull/813) - スクリプトページのChrome拡張機能「NextPage」に注釈と図を追加。
+
+### 2020-10-30
+
+- [#806](https://github.com/KATO-Hiro/AtCoderClans/pull/806) - 記事ページにスライド資料「社会に出て感じたギャップTOP10」を追加。
+
+### 2020-10-28
+
+- [#794](https://github.com/KATO-Hiro/AtCoderClans/pull/794), [#795](https://github.com/KATO-Hiro/AtCoderClans/pull/795) - 関連するコンテストサイトページのサブカテゴリJOIにおける表記を修正。
+  - 見出しの誤字およびタイトルを修正。
+  - 参照しているリンクが抜けていたため追加。
+- [#792](https://github.com/KATO-Hiro/AtCoderClans/pull/792) - (破壊的な変更) ライブラリページに記載していた「OI Public Library」を、関連するコンテストサイトページのサブカテゴリJOIに移動。
+- [#791](https://github.com/KATO-Hiro/AtCoderClans/pull/791) - 記事「ミニマックス定理の意味と初等的証明」を追加。
+
+### 2020-10-27
+
+- [#790](https://github.com/KATO-Hiro/AtCoderClans/pull/790) - 以下の指摘に対して修正を試みたが、現状では解決できずに元の表記に戻した。
+  - [@hotpepsi](https://twitter.com/hotpepsi)さんから、ライブラリページの見出しにあるCPlusPlus、CSharpの表記をC++、C#にしたほうが一般的ではないかというご指摘を受けた。
+    - [#555](https://github.com/KATO-Hiro/AtCoderClans/pull/555)で未解決の問題。
+    - 対処方法: 「#」や「+」を見出しに直接記載。
+    - エラー: 目次の表示が正しく表示されず、見出しへの移動もできず。
+  - [@kenkoooo](https://twitter.com/kenkoooo)さんからASCIIコードの利用を勧められた。
+    - エラー: 目次は本来あるべき形式で表示されるものの、目次から見出しに移動できないことが判明。
+    - 原因: Markdownから目次を自動生成したときに、「+」、「#」、「&」などが目次のリンクから強制的に削除されていたため。
+
+### 2020-10-26
+
+- [#781](https://github.com/KATO-Hiro/AtCoderClans/pull/781) - 記事「Competitive Programming」を追加。
+  - Note: [Kotlin](https://kotlinlang.org/)で競技プログラミングに参加する方法を解説した公式チュートリアル。
+
 ### 2020-10-25
 
 - [#776](https://github.com/KATO-Hiro/AtCoderClans/pull/776) - 記事ページに以下の記事・資料を追加。

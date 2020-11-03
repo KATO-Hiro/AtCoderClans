@@ -9,7 +9,6 @@ filename: media
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [記事](#%E8%A8%98%E4%BA%8B)
   - [入門者、初心者向けの記事](#%E5%85%A5%E9%96%80%E8%80%85%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%81%AE%E8%A8%98%E4%BA%8B)
   - [コードを快適に書くための環境構築](#%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E5%BF%AB%E9%81%A9%E3%81%AB%E6%9B%B8%E3%81%8F%E3%81%9F%E3%82%81%E3%81%AE%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89)
@@ -225,6 +224,7 @@ filename: media
 
 - [競技プログラマーがWeb開発者の卵になるまでの軌跡](https://qiita.com/__Null_Null_/items/940305f068ef9df659d9) - Web開発に興味のある競技プログラマーに向けて、シンプルなWebアプリを作るために必要な知識・学習順序を紹介した記事。
 - [競技プログラマーにおすすめするセキュリティエンジニアというお仕事](https://qiita.com/shioshiota/items/6f6cc42303ac72388693) - 競技プログラミングの経験が仕事に活きるケースの一例が紹介されている記事。競技プログラミングが得意な人とセキュリティエンジニアの業務との関連について解説されている。
+- [社会に出て感じたギャップTOP10](https://docs.google.com/presentation/d/16hCteY3ap_IIIyaT4KMmRBHM4X_4wt0Ge_kd9V_xg8s/edit#slide=id.g2cb369b990_0_113) - [kyuridenamida](https://atcoder.jp/users/kyuridenamida)さんがソフトウェア開発会社に就職する前後で感じたギャップをランキング形式で紹介したスライド資料。
 
 ## 書籍、オンラインブック
 

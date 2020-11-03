@@ -27,7 +27,6 @@ filename: index
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [モチベーション](#%E3%83%A2%E3%83%81%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
 - [メリット](#%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88)
 - [各ページの説明](#%E5%90%84%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E8%AA%AC%E6%98%8E)
@@ -68,6 +67,8 @@ filename: index
 [Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries) - 主要言語で実装されたアルゴリズムのライブラリ・スニペットを紹介しています。
 
 [Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media) - 環境構築、アルゴリズムや過去問を解説した記事、書籍などを掲載しています。
+
+[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones) - コンテストの参加者が所定のレーティングに達した喜びをつづった記事を共有・祝福するためのページです。
 
 [Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites) - 世界各地で開催されている競技プログラミングのコンテストサイトに関連するサービス・ツールなどをまとめています。
 
