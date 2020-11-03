@@ -237,8 +237,6 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_problems_marker.png" alt="atcoder problems marker">
   </div>
 
-- [AtCoderProblemsRush](https://greasyfork.org/en/scripts/373299-atcoderproblemsrush) - [AtCoder Problems](https://kenkoooo.com/atcoder/)のクローラが実行される前に、提出データをブラウザに保存し進捗状況を表示する。
-
 ### 便利な機能を手軽に実行できるボタン、リンクなどを設置する
 
 - [ac-favorite-manager](https://greasyfork.org/ja/scripts/387728-ac-favorite-manager) - ユーザ名のドロップダウンメニューに、お気に入りの管理画面のリンクを追加する。
