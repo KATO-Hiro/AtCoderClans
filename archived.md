@@ -20,6 +20,10 @@ filename: archived
 
 少なくとも本サイトの運営者の環境では動作が確認できていないサービス・ツールなどの一覧です。皆さまの環境で動作する可能性があります。該当するサービス・ツールなどの作者の方や動作を確認された方は[本サイトの運営者](https://twitter.com/k_hiro1818)まで、ご一報いただけると幸いです。
 
+- ["Atcoder" Finder](https://greasyfork.org/ja/scripts/373742-atcoder-finder) - [Twitter](https://twitter.com/)のツイートに含まれる"Atcoder"の文字列を赤色にするユーザスクリプト。
+  - 理由: 記載なし。
+  - 代替手段: 調査中。
+
 - [AtCoder Twitter Avatar](https://greasyfork.org/en/scripts/372507-atcoder-twitter-avatar) - 「ユーザ」ページのtwitter IDの欄に、[Twitter](https://twitter.com/)のアバターを追加するユーザスクリプト。
   - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
   - 代替手段: 調査中。
