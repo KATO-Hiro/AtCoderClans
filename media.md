@@ -227,7 +227,7 @@ filename: media
 - [競技プログラマーがWeb開発者の卵になるまでの軌跡](https://qiita.com/__Null_Null_/items/940305f068ef9df659d9) - Web開発に興味のある競技プログラマーに向けて、シンプルなWebアプリを作るために必要な知識・学習順序を紹介した記事。
 - [競技プログラマーにおすすめするセキュリティエンジニアというお仕事](https://qiita.com/shioshiota/items/6f6cc42303ac72388693) - 競技プログラミングの経験が仕事に活きるケースの一例が紹介されている記事。競技プログラミングが得意な人とセキュリティエンジニアの業務との関連について解説されている。
 - [社会に出て感じたギャップTOP10](https://docs.google.com/presentation/d/16hCteY3ap_IIIyaT4KMmRBHM4X_4wt0Ge_kd9V_xg8s/edit#slide=id.g2cb369b990_0_113) - [kyuridenamida](https://atcoder.jp/users/kyuridenamida)さんがソフトウェア開発会社に就職する前後で感じたギャップをランキング形式で紹介したスライド資料。
-- [フューチャーでjobsバイト、競プロ入社を経験して](https://future-architect.github.io/articles/20201102/) - 筆者の就業体験、競技プログラミングがITコンサルティングの業務に役に立っている点について紹介した記事。
+- [フューチャーでjobsバイト、競プロ入社を経験して](https://future-architect.github.io/articles/20201102/) - 競技プログラミングの経験が就業やITコンサルティング業務に役立った事例を紹介した記事。
 
 ## 書籍、オンラインブック
 
