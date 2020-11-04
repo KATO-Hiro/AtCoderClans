@@ -112,6 +112,8 @@ filename: index
 
 [markdown-link-check](https://github.com/tcort/markdown-link-check)
 
+[How to add Emoji Prefix to commit message](https://qiita.com/Jung0/items/0a9a7a97a2c17f92d3c5)
+
 [Readme Driven Development; RDD](https://qiita.com/b4b4r07/items/c80d53db9a0fd59086ec)
 
 ## レポジトリ作者
