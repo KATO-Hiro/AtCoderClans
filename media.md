@@ -116,6 +116,7 @@ filename: media
 
 - [競技プログラミングに関係する数学の整理 ～文系出身や数学苦手erが、もっと競プロを楽しむために～](https://terumiyake.hatenablog.com/entry/2020/08/23/133659) - 競技プログラミングの問題を解く上で必要となる数学の分野・キーワードなどを網羅的にまとめた記事。
 - [三角形の頂点の座標から五心の座標を求める](https://qiita.com/Ebishu/items/6115f2364a2e5fab5e4d) - 三角形の頂点の座標から、五心(重心・外心・内心・垂心・傍心)を求める方法を解説した記事。C++での実装も紹介されている。
+- [集合 列 多重集合 違い](https://kimiyuki.net/blog/2020/11/03/set-sequence-multiset/) - 集合・列・多重集合の違いと記法について解説した記事。
 - [競プロerのための群論 (swapと順列と対称群)](https://koboshi-kyopro.hatenablog.com/entry/2020/08/21/211615) - 競技プログラミングにおけるswapや順列に関する問題を群論（特に対称群）の視点から捉えることを目標にした記事。群論の入門という位置付けにもなっている。
 - [Prime CountのPDFを書きました](https://tk0-math.hatenablog.com/entry/2020/04/16/181024) - 素数の個数を求めるアルゴリズムであるMeissel-Lehmer Algorithmとその高速化方法について紹介した記事。
 - [ミニマックス定理の意味と初等的証明](https://opt-cp.com/minimax-game-proof/) - ミニマックス定理のゲーム理論的な意味の解釈方法と同定理の証明を紹介した記事。
@@ -203,6 +204,7 @@ filename: media
 
 - [競技プログラミングにおける作問テクニックを総整理！ 〜初心者から経験者まで〜](https://qiita.com/e869120/items/45a0132263094b83fc44) - コンテストの問題を作りたい人に向けて、役割分担・作業工程の説明から、問題文・テストケースの作成手順とそれらの注意事項について網羅的にまとめられている。
 - [競プロ作問チェックリスト (初心者向け)](https://drive.google.com/file/d/1kTfrNKGXMhJOgUdyDhYo2dswbwPAhZ7a/view) - 新規writerを対象として、各フェーズの注意事項がチェックリストの形式でまとめられている。
+- [集合 列 多重集合 違い](https://kimiyuki.net/blog/2020/11/03/set-sequence-multiset/) - 集合・列・多重集合の違いと記法について解説した記事。これらの要素を含む問題を作成・公開する前に確認すると、回答者に誤解されにくい問題文を用意できると思われる。
 - [競技プログラミングの作問環境構築（wiki設置編）](https://wakuwinmail.hatenablog.com/entry/2020/05/01/180054) - コンテストの問題の作成を希望する人に向けて、環境構築する手順をまとめた記事(全7回の予定)。第1回は問題の原案を共有するための[PukiWiki](https://pukiwiki.osdn.jp/)をサーバに設置する方法について、第2回はPukiWikiが編集されたときにSlackにメッセージを通知するための方法がそれぞれ解説されている。2020年10月下旬時点で、第3回以降は公開されておらず、続編が望まれる。
 - [作問の失敗 判例集](https://tozangezan.hatenablog.com/entry/2015/12/02/000030) - コンテストの問題を作成するときに陥りがちな失敗について、実例と対処方法がまとめられている。
 - [DEGwer式作問法](https://note.com/degwer/n/n270f59cb7809) - [DEGwer](https://atcoder.jp/users/DEGwer)さんによる、問題の原案を量産するための方法論。記事を全文読むためには、購入する必要がある。
