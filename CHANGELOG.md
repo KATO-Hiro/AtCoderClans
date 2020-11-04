@@ -6,6 +6,26 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-11-04
+
+- [#854](https://github.com/KATO-Hiro/AtCoderClans/pull/854) - Gitのコミットメッセージに絵文字のプレフィックスを試行的に導入。
+- [#852](https://github.com/KATO-Hiro/AtCoderClans/pull/852), [#853](https://github.com/KATO-Hiro/AtCoderClans/pull/853) - 記事「フューチャーでjobsバイト、競プロ入社を経験して」を追加。
+- [#851](https://github.com/KATO-Hiro/AtCoderClans/pull/851) - Archivedページに、ユーザスクリプト「AtCoderACPercentage」を記載。
+- [#849](https://github.com/KATO-Hiro/AtCoderClans/pull/849) - 記事「集合 列 多重集合 違い」を追加。
+- [#848](https://github.com/KATO-Hiro/AtCoderClans/pull/848) - (破壊的な変更) AtCoder Rating SimulatorのTwitter Botが運用終了。これに伴って、該当する説明文と図をArchivedページに移動。代替手段として、同名のWebサービスを利用することを追記。
+- [#847](https://github.com/KATO-Hiro/AtCoderClans/pull/847) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング800から1199まで(緑色)に[kota0501](https://atcoder.jp/users/kota0501)さんの記事を追加。
+
+### 2020-11-03
+
+- [#831](https://github.com/KATO-Hiro/AtCoderClans/pull/831), [#834](https://github.com/KATO-Hiro/AtCoderClans/pull/834), [#843](https://github.com/KATO-Hiro/AtCoderClans/pull/843) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1200から1599まで(水色)に[ntk_ta01](https://atcoder.jp/users/ntk_ta01)さんの記事を追加。
+  - レーティング1600から1999まで(青色)に [terry_u16](https://atcoder.jp/users/terry_u16)さんの記事を追加。
+  - レーティング1600から1999まで(青色)に [pitsu](https://atcoder.jp/users/pitsu)さんの記事を追加。
+- [#827](https://github.com/KATO-Hiro/AtCoderClans/pull/827) - 「Archived」ページにサブカテゴリ「本サイトの運営者の環境では動作が確認できていないサービス、ツールなど」を新設。該当するサービス・ツールを同カテゴリに移動。
+- [#822](https://github.com/KATO-Hiro/AtCoderClans/pull/822), [#823](https://github.com/KATO-Hiro/AtCoderClans/pull/823) - 「For Beginners」ページに、記事「AtCoder（競技プログラミング）の色・ランクと実力評価、問題例」を追加。
+- [#820](https://github.com/KATO-Hiro/AtCoderClans/pull/820), [#821](https://github.com/KATO-Hiro/AtCoderClans/pull/821)  - 「レーティングの節目に到達した喜びをつづった記事」を掲載するページを新設。
+
 ### 2020-11-01
 
 - [#813](https://github.com/KATO-Hiro/AtCoderClans/pull/813) - スクリプトページのChrome拡張機能「NextPage」に注釈と図を追加。
