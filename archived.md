@@ -113,6 +113,9 @@ filename: archived
 - [ac-standings-notifier](https://greasyfork.org/ja/scripts/372988-ac-standings-notifier) - コンテスト中に「順位表」ページを開いておくと、順位を通知する。
   - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
   - 代替手段: [AtCoder コンテスト実況 Bot](https://twitter.com/cpcontest_bot?lang=en)を利用する。
+- [AtCoderACPercentage](https://greasyfork.org/ja/scripts/388000-atcoderacpercentage) - ある問題について、同じレーティング帯の参加者が正解している割合を順位表に表示するユーザスクリプト。
+  - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
+  - 対処方法: 該当する[Issue](https://github.com/null-null-programming/AtCoderACPercentage/issues/14)を修正して、Pull Requestを送る。
 - [AtCoder Calendar](https://atcoder-calendar.tkt989.info/) - 指定したURLをGoogleカレンダーに登録する。
   - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
   - 代替手段: [CLIST](https://clist.by/)や[Competitive Programming Contests Calendar](https://competitiveprogramming.info/calendar)などを利用する。
