@@ -6,8 +6,19 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-11-05
+
+- [#869](https://github.com/KATO-Hiro/AtCoderClans/pull/869) - 記事「競プロ解法紹介～大局観で高得点を取る！～」を追加。
+- [#862](https://github.com/KATO-Hiro/AtCoderClans/pull/862) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2400から2799まで(橙色)に[Kiri8128](https://atcoder.jp/users/kiri8128)さんの記事を追加。
+
 ### 2020-11-04
 
+- [#860](https://github.com/KATO-Hiro/AtCoderClans/pull/862) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2000から2399まで(黄色)に[Personify20](https://atcoder.jp/users/Personify20)さんの記事を追加。
+- [#859](https://github.com/KATO-Hiro/AtCoderClans/pull/859) - [#555](https://github.com/KATO-Hiro/AtCoderClans/pull/555)および[#790](https://github.com/KATO-Hiro/AtCoderClans/pull/790)で未解決だった問題を解決。
+  - [TOC Generator](https://github.com/technote-space/toc-generator)の作者[@technote15](https://twitter.com/technote15)さんに[特殊文字への対応](https://github.com/technote-space/toc-generator/issues/274)をしていただけたため。
+  - ライブラリページの目次でCPlusPlus、CSharpをそれぞれC++、C#と表記。さらに、これらの目次から見出しへのジャンプが可能になった。
 - [#854](https://github.com/KATO-Hiro/AtCoderClans/pull/854) - Gitのコミットメッセージに絵文字のプレフィックスを試行的に導入。
 - [#852](https://github.com/KATO-Hiro/AtCoderClans/pull/852), [#853](https://github.com/KATO-Hiro/AtCoderClans/pull/853) - 記事「フューチャーでjobsバイト、競プロ入社を経験して」を追加。
 - [#851](https://github.com/KATO-Hiro/AtCoderClans/pull/851) - Archivedページに、ユーザスクリプト「AtCoderACPercentage」を記載。
