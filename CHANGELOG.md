@@ -6,6 +6,14 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-11-06
+
+- [#878](https://github.com/KATO-Hiro/AtCoderClans/pull/878) - 記事ページにサブカテゴリ「プログラミング言語の学習」を新設。
+  - Pythonの学習用サイト「Python-izm」を追加。
+- [#875](https://github.com/KATO-Hiro/AtCoderClans/pull/875) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2000から2399まで(黄色)に[Chanyuh](https://atcoder.jp/users/Chanyuh)さんの記事を追加。
+- [#873](https://github.com/KATO-Hiro/AtCoderClans/pull/873) - 記事ページにアルゴリズムの解説サイト「Kyopro Encyclopedia of Algorithms」を追加。
+
 ### 2020-11-05
 
 - [#869](https://github.com/KATO-Hiro/AtCoderClans/pull/869) - 記事「競プロ解法紹介～大局観で高得点を取る！～」を追加。
@@ -14,7 +22,7 @@ filename: CHANGELOG
 
 ### 2020-11-04
 
-- [#860](https://github.com/KATO-Hiro/AtCoderClans/pull/862) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+- [#860](https://github.com/KATO-Hiro/AtCoderClans/pull/860) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
   - レーティング2000から2399まで(黄色)に[Personify20](https://atcoder.jp/users/Personify20)さんの記事を追加。
 - [#859](https://github.com/KATO-Hiro/AtCoderClans/pull/859) - [#555](https://github.com/KATO-Hiro/AtCoderClans/pull/555)および[#790](https://github.com/KATO-Hiro/AtCoderClans/pull/790)で未解決だった問題を解決。
   - [TOC Generator](https://github.com/technote-space/toc-generator)の作者[@technote15](https://twitter.com/technote15)さんに[特殊文字への対応](https://github.com/technote-space/toc-generator/issues/274)をしていただけたため。
