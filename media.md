@@ -74,6 +74,12 @@ filename: media
 - [Windowsで競プロに必要なNeovim環境を整える](https://qiita.com/KowerKoint/items/89d1952b54dec57a1a07) - カスタマイズ性の高いエディタの一つである[NeoVim](https://neovim.io/)を利用して、C++(clang)のコンパイル・実行環境を構築するための記事。関連ツールの導入方法や設定ファイル・プラグインのおすすめ情報も紹介されている。
 - [WSL2とVSCodeでC++環境構築した（AtCoder Libraryを使えるようになるまで）](https://ntk-ta01.hatenablog.com/entry/2020/09/09/181155) - C++やRustのコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)で構築するための記事。設定ファイルや[AtCoder Library](https://atcoder.jp/posts/517)に関する説明もある。
 
+### プログラミング言語の学習
+
+#### Python
+
+- [Python-izm](https://www.python-izm.com/) - Pythonの習得を目的としたWebサイト。入門編、基礎編、応用編などに分かれている。
+
 ### アルゴリズムの解説
 
 - [たのしい探索アルゴリズムの世界【前編：全探索、bit全探索から半分全列挙まで】](https://qiita.com/e869120/items/25cb52ba47be0fd418d6) - 探索アルゴリズムについて、基礎から応用まで網羅的に図解された記事。問題に対して「探索的な視点からの見方・考え方」のイメージを深めることができる。[後編](https://qiita.com/e869120/items/72cc1370cbc0da1be9ef)では、実社会での活用例が示されている。
