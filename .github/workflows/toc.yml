@@ -9,3 +9,4 @@ jobs:
         with:
           TARGET_PATHS: README*.md,index.md,for_beginners.md,web_app.md,scripts.md,cli.md,libraries.md,media.md,milestones.md,archived.md,related_contest_sites.md
           TOC_TITLE: ''
+          COMMIT_MESSAGE: ':books: Update TOC'
