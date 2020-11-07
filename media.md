@@ -81,6 +81,7 @@ filename: media
 
 #### C&#43;&#43;
 
+- [C++入門 AtCoder Programming Guide for beginners (APG4b)](https://atcoder.jp/contests/APG4b) - [AtCoder](https://atcoder.jp/)公式が提供する汎用的なプログラミングの基礎を学ぶための入門教材。また、知識の定着を図るための練習問題と自分で書いたプログラムを自動で採点してくれるシステムがあるのが大きな特徴。
 - [cpprefjp - C++日本語リファレンス](https://cpprefjp.github.io/) - C++のリファレンスを日本語で提供するWebサイト。サンプルコードも用意されている。
 
 #### Python
