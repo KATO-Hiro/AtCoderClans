@@ -6,6 +6,15 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-11-07
+
+- [#896](https://github.com/KATO-Hiro/AtCoderClans/pull/896) - GitHub Actionsで、目次の自動生成および更新したときに、コミットメッセージのプレフィックスに絵文字を追加するよう試みた。
+- [#895](https://github.com/KATO-Hiro/AtCoderClans/pull/895) - 記事ページに「高校数学の美しい物語 〜定期試験から数学オリンピックまで800記事〜」を追加。
+- [#892](https://github.com/KATO-Hiro/AtCoderClans/pull/892), [#894](https://github.com/KATO-Hiro/AtCoderClans/pull/894) - 記事ページにあるサブカテゴリ「プログラミング言語の学習」にC++を追加。
+  - 「C++入門 AtCoder Programming Guide for beginners (APG4b)」を追加。
+  - 「cpprefjp - C++日本語リファレンス」を追加。
+- [#891](https://github.com/KATO-Hiro/AtCoderClans/pull/891) - (破壊的な変更) リンク切れのライブラリをアーカイブページへ移動。
+
 ### 2020-11-06
 
 - [#878](https://github.com/KATO-Hiro/AtCoderClans/pull/878) - 記事ページにサブカテゴリ「プログラミング言語の学習」を新設。
