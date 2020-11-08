@@ -23,7 +23,7 @@ filename: for_beginners
 
 ## For Beginners
 
-[AtCoder](https://atcoder.jp/)に興味・関心がある方、アカウントを登録したものの何をすればよいか困っている方のために、おすすめのサービス・ツール・記事などを紹介するページです。
+[AtCoder](https://atcoder.jp/)に興味・関心がある方、アカウントを登録したものの何をすればよいか困っている方のために、おすすめのサービス・ツール・記事・動画などを紹介するページです。
 
 ### Q1: アルゴリズムや競技プログラミングに興味はありますが、何から始めたらいいですか?
 
@@ -36,6 +36,8 @@ A1: 入門者、初心者向けの教材や記事を読んでみましょう。[
     <img loading = "lazy" src="images/official/home_apg4b.png" alt="atcoder problems">
   </div>
 
+- [AtCoder 布教 PV](https://www.youtube.com/watch?v=-z3bTeA_SEY&feature=youtu.be) - 有志による[AtCoder](https://atcoder.jp/)のプロモーションビデオです。特に、競技プログラミングを始めようと思っている人や周囲に布教したい人におすすめです。
+- [AtCoderの始め方。競プロに興味はあるけどやっていないという方へ。](https://www.youtube.com/watch?v=vxBOC08XZ44&feature=youtu.be) - 教育系エンジニアによる[AtCoder](https://atcoder.jp/)の紹介動画です。競技プログラミングの解説に加えて、便利なサービス・ツールが紹介されています。
 - [AtCoderに登録したら次にやること ～ これだけ解けば十分闘える！過去問精選10問 ～](https://qiita.com/drken/items/fd4e5e3630d0f5859067) - [AtCoder](https://atcoder.jp/)のコンテストに初めて参加する方に向けた精選10問を紹介した記事です。さまざまな言語による回答例のリンクなどの資料も充実しています。
 
   <div align="center">
