@@ -22,7 +22,7 @@ filename: milestones
 
 ## レーティングの節目に到達した喜びをつづった記事
 
-コンテストの参加者が所定のレーティングに達した喜びをつづった記事を掲載しています。
+コンテストの参加者が所定のレーティングに達した喜びをつづった記事などを掲載しています。また、コンテスト当日の立ち回り、実力を伸ばすための練習方法・心構えについて言及した記事・動画もあります。
 
 掲載を希望される方は、[本サイトの運営者](https://twitter.com/k_hiro1818)まで、[AtCoder](https://atcoder.jp/)のIDと記事のURLをご連絡いただけると幸いです。
 
@@ -37,6 +37,7 @@ filename: milestones
 ### レーティング1200から1599まで(水色)
 
 - [AtCoder水色になりました！ - ntk log ntk](https://ntk-ta01.hatenablog.com/entry/2020/10/15/221729) - [ntk_ta01](https://atcoder.jp/users/ntk_ta01)さんが、2020年10月12日に達成。
+- [AtCoderで水色になりました！ここまでの戦略・練習量・知識を紹介](https://www.youtube.com/watch?v=8YW5g2f8GKA&feature=youtu.be) - [hondo](https://atcoder.jp/users/hondo)さんが、2020年10月17日に達成。
 
 ### レーティング1600から1999まで(青色)
 
