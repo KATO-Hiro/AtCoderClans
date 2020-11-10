@@ -14,7 +14,7 @@ filename: CHANGELOG
 ### 2020-11-08
 
 - [#906](https://github.com/KATO-Hiro/AtCoderClans/pull/906) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
-  - [hondo](https://atcoder.jp/users/hondo)さんの動画を追加。
+  - レーティング1200から1599まで(水色)に[hondo](https://atcoder.jp/users/hondo)さんの動画を追加。
 - [#904](https://github.com/KATO-Hiro/AtCoderClans/pull/904) - 「For Beginners」ページに、YouTubeに投稿された動画を追加。
   - 動画「AtCoder 布教 PV」を追加。
   - 動画「AtCoderの始め方。競プロに興味はあるけどやっていないという方へ。」を追加。
