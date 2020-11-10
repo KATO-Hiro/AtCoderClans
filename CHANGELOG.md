@@ -218,6 +218,10 @@ filename: CHANGELOG
   - 一部のリンクに関しては、バッジのステータスを確認することで暫定的に対処。
   - READMEとHomeページに、「Markdown link check」に関するURLを追加。
 
+### 2020-10-13
+
+- AtCoderの[便利リンク集](https://atcoder.jp/posts/261)に本サイトが掲載されました([公式の告知ツイート](https://twitter.com/atcoder/status/1315989794795614208))。
+
 ### 2020-10-11
 
 - [#644](https://github.com/KATO-Hiro/AtCoderClans/pull/644) - 記事ページに以下の記事を追加。
