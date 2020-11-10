@@ -6,6 +6,15 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-11-08
+
+- [#906](https://github.com/KATO-Hiro/AtCoderClans/pull/906) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - [hondo](https://atcoder.jp/users/hondo)さんの動画を追加。
+- [#904](https://github.com/KATO-Hiro/AtCoderClans/pull/904) - 「For Beginners」ページに、YouTubeに投稿された動画を追加。
+  - 動画「AtCoder 布教 PV」を追加。
+  - 動画「AtCoderの始め方。競プロに興味はあるけどやっていないという方へ。」を追加。
+- [#903](https://github.com/KATO-Hiro/AtCoderClans/pull/903) - 記事「二分探索 二分法 違い」を記事「二分探索アルゴリズムを一般化 〜 めぐる式二分探索法のススメ 〜」の説明文に追加。
+
 ### 2020-11-07
 
 - [#896](https://github.com/KATO-Hiro/AtCoderClans/pull/896) - GitHub Actionsで、目次の自動生成および更新したときに、コミットメッセージのプレフィックスに絵文字を追加するよう試みた。
