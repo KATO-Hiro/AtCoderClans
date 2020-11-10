@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-11-10
+
+- [#918](https://github.com/KATO-Hiro/AtCoderClans/pull/918) - Webサービス・サイトのページに掲載している「ggg(go GRAPH × GRAPH)」の紹介記事を追加。
+- [#914](https://github.com/KATO-Hiro/AtCoderClans/pull/914) - 記事ページに「Google C++ スタイルガイド 日本語全訳」を追加。
+
 ### 2020-11-08
 
 - [#906](https://github.com/KATO-Hiro/AtCoderClans/pull/906) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
