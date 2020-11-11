@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-11-11
+
+- [#926](https://github.com/KATO-Hiro/AtCoderClans/pull/926) - 記事ページの「コードを実装するときの工夫」のサブカテゴリに「C#」を新設。
+  - 記事「JOI 2015 予選 財宝(Treasure) 解説 (with C#での定数倍高速化に関する知見)」を追加。
+
 ### 2020-11-10
 
 - [#918](https://github.com/KATO-Hiro/AtCoderClans/pull/918) - Webサービス・サイトのページに掲載している「ggg(go GRAPH × GRAPH)」の紹介記事を追加。
