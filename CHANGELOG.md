@@ -6,6 +6,13 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-11-12
+
+- [#933](https://github.com/KATO-Hiro/AtCoderClans/pull/933) - 記事「競プロ環境構築入門」を追加。
+- [#931](https://github.com/KATO-Hiro/AtCoderClans/pull/931) - [@naminodarie](https://github.com/naminodarie)さんから、説明文の誤りをご指摘いただいため修正。
+  - ライブラリ「naminodarie/SourceExpander」の説明文が誤っていたため修正。
+  - 上記の修正に伴い、ライブラリ「naminodarie/ac-library-csharp」を追加。
+
 ### 2020-11-11
 
 - [#926](https://github.com/KATO-Hiro/AtCoderClans/pull/926) - 記事ページの「コードを実装するときの工夫」のサブカテゴリに「C#」を新設。
