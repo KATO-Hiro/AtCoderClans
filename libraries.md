@@ -96,7 +96,8 @@ filename: libraries
 #### ACL C&#35;
 
 - [key-moon/ac-library-cs](https://github.com/key-moon/ac-library-cs) ![GitHub stars](https://img.shields.io/github/stars/key-moon/ac-library-cs?style=plastic) - C#版。
-- [naminodarie/SourceExpander](https://github.com/naminodarie/SourceExpander) ![GitHub Repo stars](https://img.shields.io/github/stars/naminodarie/SourceExpander?style=plastic) - [key-moon/ac-library-cs](https://github.com/key-moon/ac-library-cs)を利用したコードをジャッジシステムに提出できる形式に変換するライブラリ。
+- [naminodarie/ac-library-csharp](https://github.com/naminodarie/ac-library-csharp) ![GitHub Repo stars](https://img.shields.io/github/stars/naminodarie/ac-library-csharp?style=plastic) - [key-moon/ac-library-cs](https://github.com/key-moon/ac-library-cs)をベースに拡張したレポジトリ。ソースコードの埋め込み機能、C++ STLの移植、ac-libraryの最新版への追従対応を行っている。
+- [naminodarie/SourceExpander](https://github.com/naminodarie/SourceExpander) ![GitHub Repo stars](https://img.shields.io/github/stars/naminodarie/SourceExpander?style=plastic) - [naminodarie/ac-library-csharp](https://github.com/naminodarie/ac-library-csharp)を利用したコードをジャッジシステムに提出できる形式に変換するライブラリ。
 
 #### ACL D
 
