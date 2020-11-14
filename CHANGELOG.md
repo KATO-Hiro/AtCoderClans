@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-11-14
+
+- [#937](https://github.com/KATO-Hiro/AtCoderClans/pull/937) - 記事「Pythonで理解する蟻本（プログラミングコンテストチャレンジブック）」を追加。
+
 ### 2020-11-12
 
 - [#933](https://github.com/KATO-Hiro/AtCoderClans/pull/933) - 記事「競プロ環境構築入門」を追加。
