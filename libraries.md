@@ -44,6 +44,7 @@ filename: libraries
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Scala](#scala)
+  - [Swift](#swift)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
