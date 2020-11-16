@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-11-16
+
+- [#943](https://github.com/KATO-Hiro/AtCoderClans/pull/943) - Swiftで実装されたライブラリを追加。
+  - koher/AtCoderSupport
+
 ### 2020-11-14
 
 - [#937](https://github.com/KATO-Hiro/AtCoderClans/pull/937) - 記事「Pythonで理解する蟻本（プログラミングコンテストチャレンジブック）」を追加。
