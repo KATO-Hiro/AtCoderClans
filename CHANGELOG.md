@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-11-17
+
+- [#948](https://github.com/KATO-Hiro/AtCoderClans/pull/948) - Archivedページに移動していたライブラリが閲覧できることを確認したため、ライブラリページに戻した。
+- [#946](https://github.com/KATO-Hiro/AtCoderClans/pull/946) - Webアプリ「あなたのレートはどこから?」を追加。
+
 ### 2020-11-16
 
 - [#943](https://github.com/KATO-Hiro/AtCoderClans/pull/943) - Swiftで実装されたライブラリを追加。
