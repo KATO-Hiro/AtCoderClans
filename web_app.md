@@ -280,6 +280,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/devotter.png" alt="devotter">
   </div>
 
+- [あなたのレートはどこから?](https://rating-history.herokuapp.com/rating.html) - レーティングが、どのコンテスト区分(ABC、ARC、AGC、その他)から得られているかを求める。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/where_does_your_rating_come_from.png" alt="where does your rating come from?">
+  </div>
+
 - [今日のコンテスト結果占い](https://shindanmaker.com/1019867) - コンテストの結果を事前に占う。
 
   <div align="center">
