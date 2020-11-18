@@ -228,7 +228,6 @@ filename: libraries
 
 - [aruaru0/golang_myatcoder](https://github.com/aruaru0/golang_myatcoder/tree/master/algo) ![GitHub stars](https://img.shields.io/github/stars/aruaru0/golang_myatcoder?style=plastic) - [Aruaru0](https://atcoder.jp/users/Aruaru0)さんのライブラリ。
 - [my0k/go-competitive](https://github.com/my0k/go-competitive) ![GitHub Repo stars](https://img.shields.io/github/stars/my0k/go-competitive?style=plastic) - [maguroguma](https://atcoder.jp/users/maguroguma)さんのライブラリ。
-- [naipia/competitive-programming-go](https://github.com/naipia/competitive-programming-go) ![GitHub stars](https://img.shields.io/github/stars/naipia/competitive-programming-go?style=plastic) - [naipia](https://atcoder.jp/users/naipia)さんのライブラリ。
 
 ### Haskell
 
