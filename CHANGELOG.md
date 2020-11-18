@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-11-18
+
+- [#953](https://github.com/KATO-Hiro/AtCoderClans/pull/953) - リンクが切れているライブラリを「Archived」ページに暫定的に移動。
+
 ### 2020-11-17
 
 - [#948](https://github.com/KATO-Hiro/AtCoderClans/pull/948) - Archivedページに移動していたライブラリが閲覧できることを確認したため、ライブラリページに戻した。
