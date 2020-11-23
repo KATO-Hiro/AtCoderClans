@@ -122,4 +122,4 @@ filename: index
 
 ## ライセンス
 
-[MIT](http://KATO-Hiro.mit-license.org)
+[MIT](https://github.com/KATO-Hiro/AtCoderClans/blob/master/LICENSE)
