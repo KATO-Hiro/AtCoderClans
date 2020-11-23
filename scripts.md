@@ -61,6 +61,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_standings_analysis.png" alt="atcoder standings analysis">
   </div>
 
+- [atcoder-standings-lang](https://greasyfork.org/ja/scripts/415894-atcoder-standings-lang) - 「順位表」ページおよび「バーチャル順位表」ページで、ユーザ名の横にAC数の多い言語を表示する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder-standings-lang.png" alt="atcoder standings lang">
+  </div>
+
 - [atcoder-submission-wo-ikki-ni-miiru](https://greasyfork.org/ja/scripts/403062-atcoder-submission-wo-ikki-ni-miiru) - 「提出結果」ページにソースコードを表示する。
 
   <div align="center">
