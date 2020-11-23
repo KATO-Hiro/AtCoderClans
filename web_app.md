@@ -99,10 +99,6 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/competitive_programming_contests_calendar.png" alt="competitive programming contests calendar">
   </div>
 
-### 統計情報を見る
-
-- [AtCoder Code Evaluate](https://ac-code-eval.com/) - 問題の実装の重さをAC(Accepted)コードをもとに評価している。注: 2020年10月下旬時点では、バグにより主要な機能が動作していない模様([出典](https://twitter.com/IT_parsely/status/1319228723908857856))。
-
 ### レーティング、パフォーマンス、順位などを表示する、比較する
 
 - [AtCoder Charts](https://atcoder-charts.netlify.com/) - 任意のユーザのレーティングとパフォーマンスの推移を表示する。

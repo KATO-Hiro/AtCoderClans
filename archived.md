@@ -21,6 +21,10 @@ filename: archived
 
 少なくとも本サイトの運営者の環境では動作が確認できていないサービス・ツールなどの一覧です。皆さまの環境で動作する可能性があります。該当するサービス・ツールなどの作者の方や動作を確認された方は[本サイトの運営者](https://twitter.com/k_hiro1818)まで、ご一報いただけると幸いです。
 
+- [AtCoder Code Evaluate](https://ac-code-eval.com/) - 問題の実装の重さをAC(Accepted)コードをもとに評価しているWebアプリ。
+  - 理由: バグにより主要な機能が動作していない可能性が高いため([出典](https://twitter.com/IT_parsely/status/1319228723908857856))
+  - 代替手段: 調査中。
+
 - ["Atcoder" Finder](https://greasyfork.org/ja/scripts/373742-atcoder-finder) - [Twitter](https://twitter.com/)のツイートに含まれる"Atcoder"の文字列を赤色にするユーザスクリプト。
   - 理由: 記載なし。
   - 代替手段: 調査中。
