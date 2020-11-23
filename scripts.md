@@ -49,6 +49,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/ac_writers_script.png" alt="ac writers script">
   </div>
 
+- [AtcoderDevotionGraph](https://greasyfork.org/ja/scripts/416588-atcoderdevotiongraph) - 「ユーザ」ページのレーティンググラフに、ACした問題の総得点の推移を上書き表示する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_devotion_graph.png" alt="atcoder devotion graph">
+  </div>
+
 - [AtCoder Difficulty Display](https://greasyfork.org/ja/scripts/397185-atcoder-difficulty-display) - AtCoderの「問題」のページに[AtCoder Problems](https://kenkoooo.com/atcoder/)の難易度を表示する。
 
   <div align="center">
