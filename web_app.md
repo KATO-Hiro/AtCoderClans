@@ -22,7 +22,6 @@ filename: web_app
   - [Twitter](#twitter)
 - [Web API](#web-api)
 - [その他](#%E3%81%9D%E3%81%AE%E4%BB%96)
-  - [Desktop App](#desktop-app)
   - [Google Apps Script](#google-apps-script)
   - [Google Sheets](#google-sheets)
   - [IDE](#ide)
@@ -371,14 +370,6 @@ filename: web_app
 - [AtCoderUsersAPI](https://github.com/miozune/AtCoderUsersAPI) - 登録されているユーザー情報を取得できるAPI。作者注: [AtCoder](https://atcoder.jp/)公式のサーバへの負荷を下げるため、スクレイピングの間隔を一定時間空けており、全ユーザの情報取得には長時間かかる。
 
 ## その他
-
-### Desktop App
-
-- [AtCoder Review](https://github.com/jueve/atcoder-review) - コンテストの復習に焦点を置いたクロスプラットフォームのデスクトップアプリケーション。
-
-  <div align="center">
-    <img loading = "lazy" src="images/web_app/atcoder_review.png" alt="atcoder review">
-  </div>
 
 ### Google Apps Script
 

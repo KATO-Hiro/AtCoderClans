@@ -65,6 +65,14 @@ filename: archived
     <img loading = "lazy" src="images/chrome_extension/coding_shout.png" alt="coding shout">
   </div>
 
+- [AtCoder Review](https://github.com/jueve/atcoder-review) - コンテストの復習に焦点を置いたクロスプラットフォームのデスクトップアプリケーション。
+  - 理由: ドキュメントの記載はないが、ソースコードのビルドおよび配布されているインストーラの動作保証が困難な状況のため。
+  - 代替手段: 調査中。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_review.png" alt="atcoder review">
+  </div>
+
 ## リンク切れと思われるサービス、ツールなど
 
 リンクが切れていると思われるサービス・ツールなどを掲載しています。一定の期間(3〜6か月程度)更新されない場合は、下記の「開発、提供が終了したサービス、ツールなど」へ移動させたいと思います。
