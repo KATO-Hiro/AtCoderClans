@@ -6,6 +6,15 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-11-23
+
+- [#966](https://github.com/KATO-Hiro/AtCoderClans/pull/966) - デスクトップアプリ「AtCoder Review」を一時的に「Archived」ページへ移動。ソースコードのビルドおよび配布インストーラの動作が確認でき次第、元のページに掲載する予定。
+- [#965](https://github.com/KATO-Hiro/AtCoderClans/pull/965) - Webアプリ「AtCoder Code Evaluate」を一時的に「Archived」ページへ移動。[#758](https://github.com/KATO-Hiro/AtCoderClans/issues/758)で言及されているバグが修正されたら、元のページに掲載する予定。
+- [#962](https://github.com/KATO-Hiro/AtCoderClans/pull/962) - ユーザスクリプト「AtcoderDevotionGraph」を追加。
+- [#961](https://github.com/KATO-Hiro/AtCoderClans/pull/961) - ユーザスクリプト「atcoder-standings-lang」を追加。
+- [#960](https://github.com/KATO-Hiro/AtCoderClans/pull/960) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2800以上(赤色、銅王冠、銀王冠、金王冠)に[maspy](https://atcoder.jp/users/maspy)さんの記事を追加。
+
 ### 2020-11-18
 
 - [#953](https://github.com/KATO-Hiro/AtCoderClans/pull/953) - リンクが切れているライブラリを「Archived」ページに暫定的に移動。
