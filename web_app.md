@@ -372,14 +372,6 @@ filename: web_app
 
 ## その他
 
-### Desktop App
-
-- [AtCoder Review](https://github.com/jueve/atcoder-review) - コンテストの復習に焦点を置いたクロスプラットフォームのデスクトップアプリケーション。
-
-  <div align="center">
-    <img loading = "lazy" src="images/web_app/atcoder_review.png" alt="atcoder review">
-  </div>
-
 ### Google Apps Script
 
 - [AtCoder Daily AC Checker](https://github.com/purple-jwl/atcoder-daily-ac-checker) - AC(Accepted)している人をSlack上で褒める（紹介する）。
