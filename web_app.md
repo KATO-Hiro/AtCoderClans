@@ -22,7 +22,6 @@ filename: web_app
   - [Twitter](#twitter)
 - [Web API](#web-api)
 - [その他](#%E3%81%9D%E3%81%AE%E4%BB%96)
-  - [Desktop App](#desktop-app)
   - [Google Apps Script](#google-apps-script)
   - [Google Sheets](#google-sheets)
   - [IDE](#ide)
