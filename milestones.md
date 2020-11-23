@@ -55,4 +55,4 @@ filename: milestones
 
 ### レーティング2800以上(赤色、銅王冠、銀王冠、金王冠)
 
-+ 準備中。
+- [[AtCoder] 赤(2800+)になりました - maspyのHP](https://maspypy.com/atcoder-%e8%b5%a42800%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f) - [maspy](https://atcoder.jp/users/maspy)さんが、2020年11月21日に達成。
