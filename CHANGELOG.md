@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-11-24
+
+- [#973](https://github.com/KATO-Hiro/AtCoderClans/pull/973) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[marroncastle917](https://atcoder.jp/users/marroncastle917)さんの記事を追加。
+
 ### 2020-11-23
 
 - [#966](https://github.com/KATO-Hiro/AtCoderClans/pull/966) - デスクトップアプリ「AtCoder Review」を一時的に「Archived」ページへ移動。ソースコードのビルドおよび配布インストーラの動作が確認でき次第、元のページに掲載する予定。
