@@ -11,5 +11,7 @@
     }
   ],
   "showProgressBar": true,
-  "retryOn429": true
+  "timeout": "60s",
+  "retryOn429": true,
+  "retryCount": 5
 }
