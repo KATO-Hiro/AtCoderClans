@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-11-25
+
+- [#982](https://github.com/KATO-Hiro/AtCoderClans/pull/982) - 記事「競プロでWAが出たときのランダム入力データ生成入門」を追加。
+
 ### 2020-11-24
 
 - [#973](https://github.com/KATO-Hiro/AtCoderClans/pull/973) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
