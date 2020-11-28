@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-11-28
+
+- [#998](https://github.com/KATO-Hiro/AtCoderClans/pull/998), [#1000](https://github.com/KATO-Hiro/AtCoderClans/pull/1000) - 「For Beginners」ページおよび「YouTube」ページに、チャンネルを追加。
+  - 「どきんちゃんねる」を追加
+- [#997](https://github.com/KATO-Hiro/AtCoderClans/pull/997) - 記事「競技プログラミングやCTFの動画配信/生放送でのTips」を追加。
+
 ### 2020-11-27
 
 - [#990](https://github.com/KATO-Hiro/AtCoderClans/pull/990) - 記事のURLが抜けていたため記載。
