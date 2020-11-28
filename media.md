@@ -287,6 +287,10 @@ filename: media
 
 ## YouTube
 
+### 生放送、動画配信に関するTips
+
+- [競技プログラミングやCTFの動画配信/生放送でのTips](https://kurenaif.hatenablog.com/entry/2020/11/27/223351) - [kurenaif](https://atcoder.jp/users/kurenaif)さんが、YouTubeの生放送や動画配信の経験から得られたTipsを紹介した記事。
+
 ### チャンネル
 
 - [AtCoder Live](https://www.youtube.com/channel/UCtG3StnbhxHxXfE6Q4cPZwQ) - [AtCoder](https://atcoder.jp/)の公式チャンネル。コンテストで出題された問題の解説や最新情報が入手できる生放送「あーだこーだー」に関する動画が公開されている。
