@@ -297,6 +297,7 @@ filename: media
 - [AtCoder Live](https://www.youtube.com/channel/UCtG3StnbhxHxXfE6Q4cPZwQ) - [AtCoder](https://atcoder.jp/)の公式チャンネル。コンテストで出題された問題の解説や最新情報が入手できる生放送「あーだこーだー」に関する動画が公開されている。
 - [Gennady Korotkevich](https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw) - 世界最強の競技プログラマーである[tourist](https://atcoder.jp/users/tourist)さんのチャンネル。
 - [Tozan Southerpacks Redcoder レッドコーダー](https://www.youtube.com/channel/UCwsapfci2p1oDVO4Q2sJOQw) - レッドコーダー（競技プログラマーとして世界最高峰の実力の持ち主であることを示す）の[tozangezan](https://atcoder.jp/users/tozangezan)さんのチャンネル。
+- [えびまラボ](https://www.youtube.com/channel/UCw4Ty20l1DccGCQ2HWiEcgw) - [えびま](https://twitter.com/evima0)さんのチャンネル。
 - [かつっぱ競プロ](https://www.youtube.com/channel/UCqqeYOh1gk_TJ16sxazWhUg) - [AtCoder](https://atcoder.jp/)でレッドコーダーになったことがある[catupper](https://atcoder.jp/users/catupper)さんのチャンネル。コンテストの実況動画が公開されている。
 - [きりみんちゃん kirimin-chan](https://www.youtube.com/c/kiriminchan/playlists) - [kirimin](https://atcoder.jp/users/kirimin)さんのチャンネル。競技プログラミングやライブコーディングだけでなく、幅広い話題の動画が公開されている。
 - [坂道輪の競プロ](https://www.youtube.com/playlist?list=PLFi46EaoQjc-c4BoLQl7Gibo0ncGLX5A2) - [RinSakamichi](https://atcoder.jp/users/RinSakamichi)さんのチャンネル。コンテスト終了後に、問題の解答や感想を配信している。
