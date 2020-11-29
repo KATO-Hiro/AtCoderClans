@@ -6,6 +6,16 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-11-29
+
+- [#1007](https://github.com/KATO-Hiro/AtCoderClans/pull/1007), [#1008](https://github.com/KATO-Hiro/AtCoderClans/pull/1008) - 記事ページにサブカテゴリ「部活、サークル、同好会」を新設。
+  - 「ゼロから始める競プロ部 - 部長 次郎花」を追加。
+  - 「「ゆるふわ競技プログラミングオンサイト at FORCIA #2」を開催しました」を追加。
+- [#1003](https://github.com/KATO-Hiro/AtCoderClans/pull/1003), [#1004](https://github.com/KATO-Hiro/AtCoderClans/pull/1004), [#1010](https://github.com/KATO-Hiro/AtCoderClans/pull/1010) - 「YouTube」ページに、チャンネルを追加。
+  - 「kurenaif」を追加。
+  - 「えびまラボ」を追加。
+  - 「坂道輪の競プロ」を追加。
+
 ### 2020-11-28
 
 - [#998](https://github.com/KATO-Hiro/AtCoderClans/pull/998), [#1000](https://github.com/KATO-Hiro/AtCoderClans/pull/1000) - 「For Beginners」ページおよび「YouTube」ページに、チャンネルを追加。
