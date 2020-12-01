@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-12-01
+
+- [#1016](https://github.com/KATO-Hiro/AtCoderClans/pull/1016) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[Yoika](https://atcoder.jp/users/Yoika)さんの記事を追加。
+
+
 ### 2020-11-29
 
 - [#1007](https://github.com/KATO-Hiro/AtCoderClans/pull/1007), [#1008](https://github.com/KATO-Hiro/AtCoderClans/pull/1008) - 記事ページにサブカテゴリ「部活、サークル、同好会」を新設。
