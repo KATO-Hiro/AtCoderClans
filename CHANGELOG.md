@@ -6,11 +6,16 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-12-02
+
+- [#1024](https://github.com/KATO-Hiro/AtCoderClans/pull/1024) - 記事ページのサブカテゴリ「部活、サークル、同好会」に「Paken for beginners」を追加。
+- [#1022](https://github.com/KATO-Hiro/AtCoderClans/pull/1022) - 記事ページにサブカテゴリ「1年のふりかえり」を新設。
+  - 「競プロ流行語大賞2019」を追加。
+
 ### 2020-12-01
 
 - [#1016](https://github.com/KATO-Hiro/AtCoderClans/pull/1016) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
   - レーティング1600から1999まで(青色)に[Yoika](https://atcoder.jp/users/Yoika)さんの記事を追加。
-
 
 ### 2020-11-29
 
