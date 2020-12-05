@@ -6,6 +6,16 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-12-05
+
+- [#1044](https://github.com/KATO-Hiro/AtCoderClans/pull/1044) - ライブラリページに掲載している「Library Checker Problems」の説明文に、作者による技術記事のリンクを追加。
+- [#1042](https://github.com/KATO-Hiro/AtCoderClans/pull/1042) - 記事「競プロ実装テクニック - よすぽの日記」を追加
+- [#1040](https://github.com/KATO-Hiro/AtCoderClans/pull/1040) - 記事「競技プログラミングにおける個人的C++コーディングスタイル(2020)」を追加。
+- [#1038](https://github.com/KATO-Hiro/AtCoderClans/pull/1038) - 記事「AtCoder版！蟻本 (初級編)」の説明文に「発展的トピック編」のリンクを追加。
+- [#1034](https://github.com/KATO-Hiro/AtCoderClans/pull/1034), [#1036](https://github.com/KATO-Hiro/AtCoderClans/pull/1036) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2000から2399まで(黄色)に[Trineutron](https://atcoder.jp/users/Trineutron)さんの記事を追加。
+  - レーティング1600から1999まで(青色)に[asdf1](https://atcoder.jp/users/asdf1)さんの記事を追加。
+
 ### 2020-12-02
 
 - [#1024](https://github.com/KATO-Hiro/AtCoderClans/pull/1024) - 記事ページのサブカテゴリ「部活、サークル、同好会」に「Paken for beginners」を追加。
