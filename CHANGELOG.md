@@ -5,6 +5,12 @@ filename: CHANGELOG
 ---
 
 ## Change Log
+### 2020-12-06
+
+- [#1053](https://github.com/KATO-Hiro/AtCoderClans/pull/1053) - C#の実行環境をDockerで構築できるように、専用のディレクトリとファイルを追加。Visual Studio Codeと拡張機能「Remote - Containers」の利用を想定している。
+- [#1052](https://github.com/KATO-Hiro/AtCoderClans/pull/1052) - 「YouTube」ページに、チャンネルを追加。
+  - 「蟹江もなみ」を追加。
+- [#1050](https://github.com/KATO-Hiro/AtCoderClans/pull/1050) - 記事「競技プログラミングの生産性向上についてとその方法【AtCoder】」を追加。
 
 ### 2020-12-05
 
