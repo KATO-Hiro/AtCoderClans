@@ -225,6 +225,7 @@ filename: media
 - [AtCoderで青色（8割以上のIT企業でアルゴリズム力はカンスト）になったので青になるまでに必要そうなことをまとめる](https://qiita.com/kami634/items/e452f804ba9d585a8b57) - [kami634](https://atcoder.jp/users/kami634)さんによる記事。[AtCoder](https://atcoder.jp/)で、青コーダー(レーティング1600〜1999）を目指す人に向けた記事。コンテストの過去問の練習方法、問題を解くのに必要なアルゴリズム・データ構造、Twitterの利活用、便利なAtCoderの非公式ツールや外部ツールが紹介されている。学んだアルゴリズムを[まとめサイト](https://qiita.com/kami634/items/e452f804ba9d585a8b57)としてアウトプットされているのも特徴。
 - [AtCoderでの勉強の仕方（コンテスト編）](http://chokudai.hatenablog.com/entry/2014/08/07/212849) - [AtCoder](https://atcoder.jp/)社長の[chokudai](https://twitter.com/chokudai)さんによる記事。プログラミングコンテストの参加を通して、アルゴリズムの学習を継続的に行う方法について解説している。
 - [AtCoderの問題を分類しました](https://qiita.com/KoyanagiHitoshi/items/32dc42d8c5ee75339e54) - [AtCoder](https://atcoder.jp/)で開催されたコンテストについて、問題の分類とPythonでの解答例が示されている。AtCoder Beginner Contest(ABC)のABC001〜ABC158のA問題・B問題・C問題と、AtCoder Regular Contest(ARC)のARC001〜ARC103のA問題が対象となっている。動作環境は、Python3.4.3。
+- [競技プログラミングの生産性向上についてとその方法【AtCoder】](https://qiita.com/Kota-Y/items/0f3b9206516fe426188a) - コンテストで高い順位を目指す、練習では実力を高めるために多くの問題を解くという観点から方法論や便利ツールを紹介した記事。
 - [精進について](https://kyopro-friends.hatenablog.com/entry/2020/02/03/202835) - [kyopro_friends](https://atcoder.jp/users/kyopro_friends)さんの練習に対する考え方や方法について書かれた記事。
 - [PythonでAtCoder青になるまで -Pythonで競プロやるときに気をつけること-](https://qiita.com/Kentaro_okumura/items/a6917572756a2e3c0da9) - コンテストでPythonを利用している人に向けた練習方法が書かれている。他の言語を使っている人にも参考になる部分が多い。
 
