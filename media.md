@@ -267,6 +267,7 @@ filename: media
 
 - [ゼロから始める競プロ部 - 部長 次郎花](https://note.com/jirohhana2/n/n0c1233f14824) - 会社のプロジェクトメンバーと競プロ部を立ち上げた[jirohhana2](https://atcoder.jp/users/jirohhana2)さんが、コンテストの参加記を不定期に連載している。
 - [Paken for beginners](https://tkpaken.github.io/beginners/) - 筑波大附属駒場中・高等学校の「中高パーソナル・コンピューター研究部(通称、Paken)」の新入生に向けて、部活の雰囲気やプログラミングの基礎を紹介している。
+- [HCPC 北海道大学競技プログラミングサークル](https://hcpc-hokudai.github.io/) - 北海道大学にある競技プログラミングの練習会・勉強会を行うサークル。活動記録に加えて、勉強会のスライドや開催されたコンテストの過去問が掲載されている。
 - [「ゆるふわ競技プログラミングオンサイト at FORCIA #2」を開催しました](https://www.forcia.com/blog/001393.html) - 初級〜中級競技プログラマを対象としたオンサイトイベントについて、主催者がイベント当日の内容・感想をまとめた記事。
 
 ### 開発に関心のある人向けの記事
