@@ -310,9 +310,9 @@ filename: media
 ### チャンネル
 
 - [AtCoder Live](https://www.youtube.com/channel/UCtG3StnbhxHxXfE6Q4cPZwQ) - [AtCoder](https://atcoder.jp/)の公式チャンネル。コンテストで出題された問題の解説や最新情報が入手できる生放送「あーだこーだー」に関する動画が公開されている。
-- [kurenaif](https://www.youtube.com/playlist?list=PL6J0QYBvVReHBH_mkLCs8BbuAkx20gamN) - [kurenaif](https://atcoder.jp/users/kurenaif)さんのチャンネル。競技プログラミングの初心者に対して、コーチングを行いながら考察を進める過程を紹介した動画が公開されている。
 - [Gennady Korotkevich](https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw) - 世界最強の競技プログラマーである[tourist](https://atcoder.jp/users/tourist)さんのチャンネル。
 - [heno 239](https://www.youtube.com/channel/UCmYTD76ZGm8hcrzaI7xJLAg) - [heno239](https://atcoder.jp/users/heno239)さんのチャンネル。
+- [kurenaif](https://www.youtube.com/playlist?list=PL6J0QYBvVReHBH_mkLCs8BbuAkx20gamN) - [kurenaif](https://atcoder.jp/users/kurenaif)さんのチャンネル。競技プログラミングの初心者に対して、コーチングを行いながら考察を進める過程を紹介した動画が公開されている。
 - [Tozan Southerpacks Redcoder レッドコーダー](https://www.youtube.com/channel/UCwsapfci2p1oDVO4Q2sJOQw) - レッドコーダー（競技プログラマーとして世界最高峰の実力の持ち主であることを示す）の[tozangezan](https://atcoder.jp/users/tozangezan)さんのチャンネル。
 - [えびまラボ](https://www.youtube.com/channel/UCw4Ty20l1DccGCQ2HWiEcgw) - [えびま](https://twitter.com/evima0)さんのチャンネル。
 - [かつっぱ競プロ](https://www.youtube.com/channel/UCqqeYOh1gk_TJ16sxazWhUg) - [AtCoder](https://atcoder.jp/)でレッドコーダーになったことがある[catupper](https://atcoder.jp/users/catupper)さんのチャンネル。コンテストの実況動画が公開されている。
