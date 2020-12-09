@@ -298,6 +298,7 @@ filename: libraries
 - [ngtkana/ac-adapter-rs](https://github.com/ngtkana/ac-adapter-rs) ![GitHub stars](https://img.shields.io/github/stars/ngtkana/ac-adapter-rs?style=plastic) - [ngtkana](https://atcoder.jp/users/ngtkana)さんのライブラリ。[C++版](https://github.com/ngtkana/ngtlibcpp)もある。
 - [niuez/cp-rust-library](https://github.com/niuez/cp-rust-library) ![GitHub stars](https://img.shields.io/github/stars/niuez/cp-rust-library?style=plastic) - [niuez](https://atcoder.jp/users/niuez)さんのライブラリ。[C++版](https://github.com/niuez/cp-cpp-library)もある。
 - [rsk0315/library-rs](https://github.com/rsk0315/library-rs) ![GitHub stars](https://img.shields.io/github/stars/rsk0315/library-rs?style=plastic) - [rsk0315](https://atcoder.jp/users/rsk0315)さんのライブラリ。[C++版](https://github.com/rsk0315/library)もある。
+- [statiolake/proconio-rs](https://github.com/statiolake/proconio-rs) ![GitHub Repo stars](https://img.shields.io/github/stars/statiolake/proconio-rs?style=plastic) - [statiolake](https://atcoder.jp/users/statiolake)さんの入出力を簡単に行うためのライブラリ。
 - [tanakh/competitive-rs](https://github.com/tanakh/competitive-rs) ![GitHub stars](https://img.shields.io/github/stars/tanakh/competitive-rs?style=plastic) - [tanakh](https://atcoder.jp/users/tanakh)さんのライブラリ。
 - [yoshrc/rust-atcoder-snippets](https://github.com/yoshrc/rust-atcoder-snippets) ![GitHub stars](https://img.shields.io/github/stars/yoshrc/rust-atcoder-snippets?style=plastic) - [yoshrc](https://atcoder.jp/users/yoshrc)さんのスニペット集。
 
