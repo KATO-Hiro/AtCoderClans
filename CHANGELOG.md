@@ -5,6 +5,24 @@ filename: CHANGELOG
 ---
 
 ## Change Log
+
+### 2020-12-09
+
+- [#1079](https://github.com/KATO-Hiro/AtCoderClans/pull/1079) - 記事ページのサブカテゴリ「部活、サークル、同好会」に「HCPC 北海道大学競技プログラミングサークル」を追加。
+- [#1078](https://github.com/KATO-Hiro/AtCoderClans/pull/1078) - 「Articles, Books and YouTube」ページに「番組アーカイブ」を新設。
+  - 「【ローランド×金言】ビジネスは「世界一から逆算せよ」」を追加。
+- [#1077](https://github.com/KATO-Hiro/AtCoderClans/pull/1077) - ライブラリページにRustライブラリを追加。
+  - 「statiolake/proconio-rs」を追加。
+- [#1074](https://github.com/KATO-Hiro/AtCoderClans/pull/1074), [#1075](https://github.com/KATO-Hiro/AtCoderClans/pull/1075), [#1076](https://github.com/KATO-Hiro/AtCoderClans/pull/1076) - Scriptページに以下のユーザスクリプトを追加。
+  - 「AtCoder Easy Test」を追加。
+  - 「AtCoder-ngtkanaResult」を追加。
+  - 「View All Editorials」を追加。
+- [#1072](https://github.com/KATO-Hiro/AtCoderClans/pull/1072), [#1073](https://github.com/KATO-Hiro/AtCoderClans/pull/1073) - 「YouTube」ページに、動画を追加。
+  - 「AtCoderってなんだし？」を追加。
+  - 「AtCoder 日本人 レーティング TOP10 2016-2019」を追加。
+- [#1069](https://github.com/KATO-Hiro/AtCoderClans/pull/1069) - 「YouTube」の一部の項目がアルファベット順に並んでいなかったため修正。
+- [#1067](https://github.com/KATO-Hiro/AtCoderClans/pull/1067) - 「YouTube」ページに、チャンネルを追加。
+  - 「heno 239」を追加。
 ### 2020-12-06
 
 - [#1053](https://github.com/KATO-Hiro/AtCoderClans/pull/1053) - C#の実行環境をDockerで構築できるように、専用のディレクトリとファイルを追加。Visual Studio Codeと拡張機能「Remote - Containers」の利用を想定している。
