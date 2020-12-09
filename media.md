@@ -48,6 +48,7 @@ filename: media
   - [チャンネル](#%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB)
   - [講座、講演](#%E8%AC%9B%E5%BA%A7%E8%AC%9B%E6%BC%94)
   - [プロモーションビデオなど](#%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%93%E3%83%87%E3%82%AA%E3%81%AA%E3%81%A9)
+- [番組アーカイブ](#%E7%95%AA%E7%B5%84%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -333,3 +334,7 @@ filename: media
 - [AtCoder 日本人 レーティング TOP10 2016-2019](https://www.youtube.com/watch?v=1oct64q2V5g) - アクティブユーザを対象とした日本人上位10人のレーティングの変遷を紹介している。[全世界版](https://www.youtube.com/watch?v=CsBASF9skxE)もある。
 - [AtCoderの始め方。競プロに興味はあるけどやっていないという方へ。](https://www.youtube.com/watch?v=vxBOC08XZ44&feature=youtu.be) - 教育系エンジニアによる[AtCoder](https://atcoder.jp/)の紹介動画。競技プログラミングの解説に加えて、便利なサイト・ツールが紹介されている。
 - [AtCoder 布教 PV](https://www.youtube.com/watch?v=-z3bTeA_SEY&feature=youtu.be) - 有志による[AtCoder](https://atcoder.jp/)のプロモーションビデオ。特に、競技プログラミングを始めようと思っている人や周囲に布教したい人におすすめ。
+
+## 番組アーカイブ
+
+- [【ローランド×金言】ビジネスは「世界一から逆算せよ」](https://newspicks.com/live-movie/976/) - 起業家のプレゼンに対して、ローランドさんや著名な経営者がビジネスのヒントを贈る番組「Greatest Hints」のアーカイブ。[chokudai](https://twitter.com/chokudai)さんが[AtCoder](https://atcoder.jp/)の事業内容について、対外的に発信している(38:53頃から出演)。注: 動画を全て視聴するには、会員登録が必要な場合がある。
