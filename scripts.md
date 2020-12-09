@@ -187,6 +187,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_dark_theme.png" alt="atcoder dark theme">
   </div>
 
+- [AtCoder-ngtkanaResult](https://greasyfork.org/ja/scripts/416384-atcoder-ngtkanaresult) - 「提出結果」ページの「結果」を[ngtkana](https://atcoder.jp/users/ngtkana)さんの言葉に置き換える。作成者注: 不正解の詳細はマウスオーバーで表示される。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_ngtkanaresult.png" alt="atcoder ngtkanaresult">
+  </div>
+
 - [AtCoderPerformanceColorizer](https://greasyfork.org/ja/scripts/371693-atcoderperformancecolorizer) - ユーザの「コンテスト成績表」のパフォーマンス値、レーティング値に色付けする。
 
   <div align="center">
