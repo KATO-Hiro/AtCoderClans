@@ -163,6 +163,13 @@ A7: さまざまな要因が考えられます。現時点では、[AtCoder](htt
   </div>
 
 - 回答コードを提出する前に、サンプルを使った確認([自動テストツール](https://kato-hiro.github.io/AtCoderClans/cli)の活用)をおすすめします。
+
+  - [AtCoder Easy Test](https://greasyfork.org/ja/scripts/415946-atcoder-easy-test) - 「問題」ページで、入出力サンプルを使って素早くテストを実行できるユーザスクリプトです。また、自分で作成したテストケースも実行できます。注: 初めてユーザスクリプトを利用される方は、[スクリプトマネージャ](https://greasyfork.org/ja)を事前にインストールしてください。
+
+    <div align="center">
+      <img loading = "lazy" src="images/userscript/atcoder_easy_test.png" alt="atcoder easy test">
+    </div>
+
   - メリット1: サンプルの入出力例と合わないコードを提出し、不正解によるペナルティを受ける、といった可能性が低くなります。
   - メリット2: 提出した回答が不正解だったとしても、境界条件を含むようなコーナーケースを素早く特定することができます。
   - メリット3: 問題を正確かつ素早く解く力が身に付きます。これによって、高いパフォーマンス値(コンテスト当日の成績に相当)を得ることができ、レーティングの上昇につながる可能性があります。
