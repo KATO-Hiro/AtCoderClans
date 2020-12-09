@@ -23,6 +23,7 @@ filename: CHANGELOG
 - [#1069](https://github.com/KATO-Hiro/AtCoderClans/pull/1069) - 「YouTube」の一部の項目がアルファベット順に並んでいなかったため修正。
 - [#1067](https://github.com/KATO-Hiro/AtCoderClans/pull/1067) - 「YouTube」ページに、チャンネルを追加。
   - 「heno 239」を追加。
+
 ### 2020-12-06
 
 - [#1053](https://github.com/KATO-Hiro/AtCoderClans/pull/1053) - C#の実行環境をDockerで構築できるように、専用のディレクトリとファイルを追加。Visual Studio Codeと拡張機能「Remote - Containers」の利用を想定している。
