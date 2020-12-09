@@ -115,6 +115,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_jump_to_submissions_from_standings.gif" alt="atcoder jump to submissions from standings">
   </div>
 
+- [AtCoder Easy Test](https://greasyfork.org/ja/scripts/415946-atcoder-easy-test) - 「問題」ページで、入出力サンプルを使って素早くテストを実行できる。また、自分で作成したテストケースも実行できる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_easy_test.png" alt="atcoder easy test">
+  </div>
+
 - [atcoder-keyboard-shortcuts](https://greasyfork.org/ja/scripts/397575-atcoder-keyboard-shortcuts) - Shift+[1-5]で、「問題」ページにあるサンプルの入力をクリップボードにコピーする。
 - [AtCoderLinkCompletionForJOI](https://greasyfork.org/ja/scripts/382313-atcoderlinkcompletionforjoi) - JOIの問題ページにPDFへのリンクを追加する。
 
