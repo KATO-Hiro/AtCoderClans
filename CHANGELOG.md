@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-12-10
+
+- [#1084](https://github.com/KATO-Hiro/AtCoderClans/pull/1084) - Webアプリ「AtCoderノートブック」を追加。
+
 ### 2020-12-09
 
 - [#1079](https://github.com/KATO-Hiro/AtCoderClans/pull/1079) - 記事ページのサブカテゴリ「部活、サークル、同好会」に「HCPC 北海道大学競技プログラミングサークル」を追加。
