@@ -65,6 +65,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_translations.png" alt="atcoder translations">
   </div>
 
+- [AtCoderノートブック](https://atcoder-notebook.app/) - 過去問を繰り返し解くときに便利なメモアプリ。作成者による注: 解答状況を変更すると、過去の履歴が消える仕様になっている。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_notebook.png" alt="atcoder notebook">
+  </div>
+
 - [GRAPH × GRAPH](https://hello-world-494ec.firebaseapp.com/) - グラフの問題の入力例を可視化する。ターミナル上で同サイトを起動するためのCLIツール[ggg(go GRAPH × GRAPH)](https://github.com/monkukui/ggg)と[作者による紹介記事](https://monkukui.hatenablog.com/entry/2020/10/01/173918)もある。
 
   <div align="center">
