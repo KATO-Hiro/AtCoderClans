@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-12-13
+
+- [#1088](https://github.com/KATO-Hiro/AtCoderClans/pull/1088) - 記事「純粋培養競技プログラマが社会に出てみた感想」を追加。
+
 ### 2020-12-10
 
 - [#1084](https://github.com/KATO-Hiro/AtCoderClans/pull/1084) - Webアプリ「AtCoderノートブック」を追加。
