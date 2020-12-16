@@ -51,6 +51,7 @@ filename: milestones
 
 - [Atcoder黄色になるまでにしたこと＋α - Chanyuhのブログ](https://p-chanyuh.hatenablog.com/entry/2020/08/30/135814) - [Chanyuh](https://atcoder.jp/users/Chanyuh)さんが、2020年8月29日に達成。
 - [黄色になったので回想する](https://sites.google.com/view/s9tack-yellow/) - [Personify20](https://atcoder.jp/users/Personify20)さんが、2020年11月1日に達成。
+- [Y.Y. の Y は Yellow の Y](https://ygussany.hatenablog.com/entry/2020/12/04/000000) - [ygussany](https://atcoder.jp/users/ygussany)さんが、2020年11月15日に達成。
 - [AtCoderで黄色上位になるまでにやったこと](https://qiita.com/trineutron/items/f2d676d669db352260e7) - [Trineutron](https://atcoder.jp/users/Trineutron)さんが、2020年11月28日に達成。
 
 ### レーティング2400から2799まで(橙色)
