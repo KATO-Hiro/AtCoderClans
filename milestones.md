@@ -57,6 +57,7 @@ filename: milestones
 ### レーティング2400から2799まで(橙色)
 
 - [35歳で競プロを始めて橙になるまでにやったこと - Kiri8128の日記](https://kiri8128.hatenablog.com/entry/2020/11/01/021053) - [Kiri8128](https://atcoder.jp/users/kiri8128)さんが、2020年10月31日に達成。
+- [AtCoder橙になりました - Motsu_xe 競プロのhogeやfuga](https://motsu-xe.hatenablog.com/entry/2020/12/07/000807) - [Motsu_xe](https://atcoder.jp/users/Motsu_xe)さんが、2020年11月28日に達成。
 
 ### レーティング2800以上(赤色、銅王冠、銀王冠、金王冠)
 
