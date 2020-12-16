@@ -33,6 +33,7 @@ filename: milestones
 ### レーティング800から1199まで(緑色)
 
 - [【AtCoder】普通の人である私が緑になるまでにしたこと](https://qiita.com/Kota-Y/items/396ab3c57830dad65cfb) - [kota0501](https://atcoder.jp/users/kota0501)さんが、2020年8月22日に達成。
+- [AtCoder 緑になっている予定でした(緑になったほう)。 - harurun競プロ](https://harurunppp.hatenablog.com/entry/2020/12/16/000000) - [harurun](https://atcoder.jp/users/harurun)さんが、2020年11月28日に達成。
 
 ### レーティング1200から1599まで(水色)
 
@@ -46,16 +47,19 @@ filename: milestones
 - [AtCoderで青色になりました - pitsuの記事置き場](https://pitsu-kyopro.hatenablog.jp/entry/2020/09/24/204027) - [pitsu](https://atcoder.jp/users/pitsu)さんが、2020年9月19日に達成。
 - [AtCoder青色になりました - marocasの競プロ精進日記](https://marroncastle917.hatenablog.com/) - [marroncastle917](https://atcoder.jp/users/marroncastle917)さんが、2020年10月31日に達成。
 - [AtCoderで青色になるまで - Yoikaの復習用教材](https://minatoyoika.hatenablog.com/entry/2020/11/12/212346) - [Yoika](https://atcoder.jp/users/Yoika)さんが、2020年11月8日に達成。
+- [AtCoder 青 / Codeforces 紫 / Topcoder 黄 になりました - Growth Record of Lettuce Farm](https://fairy-lettuce.hatenadiary.com/entry/kyopro-colorchange-blue) - [fancy_lettuce](https://atcoder.jp/users/fancy_lettuce)さんが、2020年12月5日に達成。
 
 ### レーティング2000から2399まで(黄色)
 
 - [Atcoder黄色になるまでにしたこと＋α - Chanyuhのブログ](https://p-chanyuh.hatenablog.com/entry/2020/08/30/135814) - [Chanyuh](https://atcoder.jp/users/Chanyuh)さんが、2020年8月29日に達成。
 - [黄色になったので回想する](https://sites.google.com/view/s9tack-yellow/) - [Personify20](https://atcoder.jp/users/Personify20)さんが、2020年11月1日に達成。
+- [Y.Y. の Y は Yellow の Y](https://ygussany.hatenablog.com/entry/2020/12/04/000000) - [ygussany](https://atcoder.jp/users/ygussany)さんが、2020年11月15日に達成。
 - [AtCoderで黄色上位になるまでにやったこと](https://qiita.com/trineutron/items/f2d676d669db352260e7) - [Trineutron](https://atcoder.jp/users/Trineutron)さんが、2020年11月28日に達成。
 
 ### レーティング2400から2799まで(橙色)
 
 - [35歳で競プロを始めて橙になるまでにやったこと - Kiri8128の日記](https://kiri8128.hatenablog.com/entry/2020/11/01/021053) - [Kiri8128](https://atcoder.jp/users/kiri8128)さんが、2020年10月31日に達成。
+- [AtCoder橙になりました - Motsu_xe 競プロのhogeやfuga](https://motsu-xe.hatenablog.com/entry/2020/12/07/000807) - [Motsu_xe](https://atcoder.jp/users/Motsu_xe)さんが、2020年11月28日に達成。
 
 ### レーティング2800以上(赤色、銅王冠、銀王冠、金王冠)
 
