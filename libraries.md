@@ -240,7 +240,6 @@ filename: libraries
 - [amotoma3/competitive-programming-java](https://github.com/amotoma3/competitive-programming-java) ![GitHub stars](https://img.shields.io/github/stars/amotoma3/competitive-programming-java?style=plastic) - [amotoma3](https://atcoder.jp/users/amotoma3)さんのライブラリ。
 - [hamadu/competitive-programming-snippets](https://github.com/hamadu/competitive-programming-snippets) ![GitHub stars](https://img.shields.io/github/stars/hamadu/competitive-programming-snippets?style=plastic) - [hamadu](https://atcoder.jp/users/hamadu)さんのライブラリ。
 - [Hiromi-Ayase/competitive-programming-old](https://github.com/Hiromi-Ayase/competitive-programming-old) ![GitHub stars](https://img.shields.io/github/stars/Hiromi-Ayase/competitive-programming-old?style=plastic) - [hiromi_ayase](https://atcoder.jp/users/hiromi_ayase)さんのライブラリ。
-- [hiro116s/atcoder_library](https://github.com/hiro116s/atcoder_library) ![GitHub stars](https://img.shields.io/github/stars/hiro116s/atcoder_library?style=plastic) - [hiro116s](https://atcoder.jp/users/hiro116s)さんのライブラリ。
 - [tomerun/CompLib](https://github.com/tomerun/CompLib) ![GitHub stars](https://img.shields.io/github/stars/tomerun/CompLib?style=plastic) - [tomerun](https://atcoder.jp/users/tomerun)さんのライブラリ。CrystalやC++のライブラリも含まれている。
 
 ### Kotlin
