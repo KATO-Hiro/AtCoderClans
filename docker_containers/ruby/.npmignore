@@ -1,0 +1,8 @@
+README.md
+definition-manifest.json
+.devcontainer/library-scripts
+.vscode
+.npmignore
+.gitignore
+Gemfile
+Gemfile.lock
