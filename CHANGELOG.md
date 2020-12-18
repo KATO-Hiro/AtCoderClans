@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-12-18
+
+- [#1106](https://github.com/KATO-Hiro/AtCoderClans/pull/1106) - Rubyの実行環境をDockerで構築できるように、専用のディレクトリとファイルを追加。Visual Studio Codeと拡張機能「Remote - Containers」の利用を想定している。
+
 ### 2020-12-16
 
 - [#1100](https://github.com/KATO-Hiro/AtCoderClans/pull/1100) - 書籍「アルゴリズム実技検定 公式テキスト エントリー~中級編」を追加。
