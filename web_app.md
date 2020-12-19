@@ -111,7 +111,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_charts.png" alt="atcoder charts">
   </div>
 
-- [atcoder_marathon_ranking](https://github.com/tomerun/atcoder_marathon_ranking) - マラソン系コンテストの順位を[AtCoder レースランキング](https://atcoder.jp/posts/170)と同じ形式でポイント化し、ランキングをつける。
+- [AtCoderマラソンランキング](https://tomerun.github.io/atcoder_marathon_ranking/index.html) - マラソン系コンテストの順位を[AtCoder レースランキング](https://atcoder.jp/posts/170)と同じ形式でポイント化し、ランキングをつける。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_marathon_ranking.png" alt="atcoder marathon ranking">
+  </div>
+
 - [AtCoder Performances](https://atcoderapps.herokuapp.com/atcoderperformances/) - 指定した2人以上のパフォーマンスの推移が比較できる。
 
   <div align="center">
