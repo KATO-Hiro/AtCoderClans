@@ -97,6 +97,13 @@ filename: archived
     <img loading = "lazy" src="images/web_app/atcoder_stats.png" alt="atcoder stats">
   </div>
 
+- [Devotter](https://devotter.app/) - 1日1回AC(Accepted)数を[Twitter](https://twitter.com/)にツイートするWebアプリ。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/devotter.png" alt="devotter">
+  </div>
+  - 確認した日: 2020/12/20
+
 - [Future Contest](https://future-contest.appspot.com/) - 開催予定のコンテスト情報を表示するWebアプリ。[yukicoder](https://yukicoder.me/)、[CS Academy](https://csacademy.com/)、[Codeforces](https://codeforces.com/)にも対応している。
   - 確認した日: 2020/10/12
   - 理由: Google Cloud Platform(GCP)で、Go1.9の提供が終了したため。

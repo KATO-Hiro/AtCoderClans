@@ -279,12 +279,6 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/cp_badges.png" alt="cp badges">
   </div>
 
-- [Devotter](https://devotter.app/) - 1日1回AC(Accepted)数を[Twitter](https://twitter.com/)にツイートする。
-
-  <div align="center">
-    <img loading = "lazy" src="images/web_app/devotter.png" alt="devotter">
-  </div>
-
 - [あなたのレートはどこから?](https://rating-history.herokuapp.com/rating.html) - レーティングが、どのコンテスト区分(ABC、ARC、AGC、その他)から得られているかを求める。
 
   <div align="center">
