@@ -8,7 +8,7 @@ filename: CHANGELOG
 
 ### 2020-12-20
 
-- [#1125](https://github.com/KATO-Hiro/AtCoderClans/pull/1125) - 記事「ビット演算(bit演算)の使い方を総特集！ 〜 マスクビットからbitDPまで 〜]」に、bit全探索をより詳しく解説した記事のリンクを追加。
+- [#1125](https://github.com/KATO-Hiro/AtCoderClans/pull/1125) - 記事「ビット演算(bit演算)の使い方を総特集！ 〜 マスクビットからbitDPまで 〜」に、bit全探索をより詳しく解説した記事のリンクを追加。
 - [#1124](https://github.com/KATO-Hiro/AtCoderClans/pull/1124) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
   - レーティング2000から2399まで(黄色)に[kawara_y](https://atcoder.jp/users/kawara_y)さんの記事を追加。
 - [#1121](https://github.com/KATO-Hiro/AtCoderClans/pull/1121) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
