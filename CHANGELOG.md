@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-12-21
+
+- [#1135](https://github.com/KATO-Hiro/AtCoderClans/pull/1135) - Dockerで構築したGolnagの実行環境に、ポートの設定を追加しようと試みた。
+- [#1132](https://github.com/KATO-Hiro/AtCoderClans/pull/1132) - jupyterの実行環境をDockerで構築できるように、専用のディレクトリとファイルを追加。Visual Studio Codeと拡張機能「Remote - Containers」の利用を想定している。
+
 ### 2020-12-20
 
 - [#1125](https://github.com/KATO-Hiro/AtCoderClans/pull/1125) - 記事「ビット演算(bit演算)の使い方を総特集！ 〜 マスクビットからbitDPまで 〜」に、bit全探索をより詳しく解説した記事のリンクを追加。
