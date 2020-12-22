@@ -6,6 +6,14 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-12-22
+
+- [#1148](https://github.com/KATO-Hiro/AtCoderClans/pull/1148) - 記事「Bellman-Ford法の解説」を追加。
+- [#1147](https://github.com/KATO-Hiro/AtCoderClans/pull/1147) - 記事ページのサブカテゴリ「1年のふりかえり」に「色変記事 Advent Calendar 2020」を追加。
+- [#1145](https://github.com/KATO-Hiro/AtCoderClans/pull/1145) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2400から2799まで(橙色)に[dokin](https://atcoder.jp/users/dokin)さんの記事を追加。
+- [#1143](https://github.com/KATO-Hiro/AtCoderClans/pull/1143) - [#1132](https://github.com/KATO-Hiro/AtCoderClans/pull/1132)で追加した設定ファイルのうち、可読性を優先するためコメントアウトしていたコードを削除。
+
 ### 2020-12-21
 
 - [#1135](https://github.com/KATO-Hiro/AtCoderClans/pull/1135) - Dockerで構築したGolnagの実行環境に、ポートの設定を追加しようと試みた。
