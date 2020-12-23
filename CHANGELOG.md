@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-12-23
+
+- [#1154](https://github.com/KATO-Hiro/AtCoderClans/pull/1154) - 記事ページのサブカテゴリ「問題作成と準備」に、[えびま](https://twitter.com/evima0)さんによる問題文の添削例を追加。
+- [#1152](https://github.com/KATO-Hiro/AtCoderClans/pull/1152) - YouTube動画「「レッドコーダーの作り方」競プロに活かす㊙私生活」を追加。
+
 ### 2020-12-22
 
 - [#1148](https://github.com/KATO-Hiro/AtCoderClans/pull/1148) - 記事「Bellman-Ford法の解説」を追加。
