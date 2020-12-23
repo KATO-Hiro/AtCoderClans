@@ -331,6 +331,7 @@ filename: media
 ### 講座、講演
 
 - [プログラミングコンテストのすゝめ 〜競プロはキャリアであり、趣味でもあり、学びである〜](https://www.youtube.com/watch?v=Jb0-8ZuRpNM&feature=youtu.be) - 2020年7月に開催された日本最大の学生向けテックカンファレンス「技育祭」（ぎいくさい）の講演動画。[chokudai](https://twitter.com/chokudai)さんが、競技プログラミングの面白さ・楽しさを解説している。
+- [「レッドコーダーの作り方」競プロに活かす㊙私生活](https://www.youtube.com/watch?v=bQ9vSFDIxLo) - [iwiwi](https://twitter.com/iwiwi)さんが、オンサイトイベントの参加者からプログラミングコンテスト、私生活、研究に関する質問に対して回答している動画。
 - [ワンランク上に行くプロコン講座](https://www.youtube.com/watch?v=_Je4rukUcqE) - [chokudai](https://twitter.com/chokudai)さんによるトークライブ。競技プログラミングの典型的な問題に対して、上位陣が一瞬で解ける理由と考え方のコツを解説している。
 
 ### プロモーションビデオなど
