@@ -230,6 +230,7 @@ filename: media
 - [競技プログラミングの生産性向上についてとその方法【AtCoder】](https://qiita.com/Kota-Y/items/0f3b9206516fe426188a) - コンテストで高い順位を目指す、練習では実力を高めるために多くの問題を解くという観点から方法論や便利ツールを紹介した記事。
 - [精進について](https://kyopro-friends.hatenablog.com/entry/2020/02/03/202835) - [kyopro_friends](https://atcoder.jp/users/kyopro_friends)さんの練習に対する考え方や方法について書かれた記事。
 - [PythonでAtCoder青になるまで -Pythonで競プロやるときに気をつけること-](https://qiita.com/Kentaro_okumura/items/a6917572756a2e3c0da9) - コンテストでPythonを利用している人に向けた練習方法が書かれている。他の言語を使っている人にも参考になる部分が多い。
+- [rng_58さんがオススメする学習方法](https://twitter.com/rng_58/status/1238824295230361600) - [rng_58](https://twitter.com/rng_58)さんが、問題を楽に解くための方針を身につける方法についてコメントしている。
 
 ### 言語特性
 
