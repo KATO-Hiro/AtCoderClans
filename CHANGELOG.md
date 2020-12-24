@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-12-24
+
+- [#1159](https://github.com/KATO-Hiro/AtCoderClans/pull/1159) - 記事ページのサブカテゴリ「コンテストに向けた練習方法など」に、[rng_58](https://twitter.com/rng_58)さんがオススメする学習方法を追加。
+- [#1158](https://github.com/KATO-Hiro/AtCoderClans/pull/1158) - 「YouTube」ページに、チャンネルを追加。
+  - 「ナス太郎」を追加
+
 ### 2020-12-23
 
 - [#1154](https://github.com/KATO-Hiro/AtCoderClans/pull/1154) - 記事ページのサブカテゴリ「問題作成と準備」に、[えびま](https://twitter.com/evima0)さんによる問題文の添削例を追加。
