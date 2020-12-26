@@ -6,6 +6,13 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-12-26
+
+- [#1166](https://github.com/KATO-Hiro/AtCoderClans/pull/1166) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2800以上(赤色、銅王冠、銀王冠、金王冠)に[tatyam](https://atcoder.jp/users/tatyam)さんの記事を追加。
+- [#1164](https://github.com/KATO-Hiro/AtCoderClans/pull/1164) - 記事「bits/stdc++.hのインクルードを高速化しよう！」を追加。
+- [#1163](https://github.com/KATO-Hiro/AtCoderClans/pull/1163) - WebAPI「Kyopro-Ratings」を追加。
+
 ### 2020-12-24
 
 - [#1159](https://github.com/KATO-Hiro/AtCoderClans/pull/1159) - 記事ページのサブカテゴリ「コンテストに向けた練習方法など」に、[rng_58](https://twitter.com/rng_58)さんがオススメする学習方法を追加。
