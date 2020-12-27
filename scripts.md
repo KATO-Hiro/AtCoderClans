@@ -81,7 +81,7 @@ filename: scripts
 
 ### 自動的に通知する
 
-- [atcoder-bell](https://greasyfork.org/en/scripts/377923-atcoder-bell) - ジャッジシステムでの正誤判定が終了すると、ベルが鳴る。
+- [atcoder-bell](https://greasyfork.org/ja/scripts/377923-atcoder-bell) - ジャッジシステムでの正誤判定が終了すると、ベルが鳴る。
 - [AtcoderColorNEWS](https://greasyfork.org/ja/scripts/387896-atcodercolornews) - お気に入りに登録した人の色の変化を通知する。
 
   <div align="center">
@@ -108,7 +108,7 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_all_open.png" alt="atcoder all open">
   </div>
 
-- [AtCoder dos2unix UserScript](https://greasyfork.org/en/scripts/372122-atcoder-dos2unix-userscript) - 改行コードをCRLFからLFに変換して、コードを提出する。
+- [AtCoder dos2unix UserScript](https://greasyfork.org/ja/scripts/372122-atcoder-dos2unix-userscript) - 改行コードをCRLFからLFに変換して、コードを提出する。
 - [AtCoder Jump to Submissions from Standings](https://greasyfork.org/ja/scripts/397528-atcoder-jump-to-submissions-from-standings) - 「順位表」ページの得点をダブルクリックすると、該当するコンテスタントの実装を見ることができる。[Codeforces](https://codeforces.com/)の仕様を参考にしている。
 
   <div align="center">
@@ -163,7 +163,7 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_anonymizer.png" alt="atcoder anonymizer">
   </div>
 
-- [AtCoderBackGroundColorizer](https://greasyfork.org/en/scripts/377844-atcoderbackgroundcolorizer) - 各ページの背景を任意の色に変更する。
+- [AtCoderBackGroundColorizer](https://greasyfork.org/ja/scripts/377844-atcoderbackgroundcolorizer) - 各ページの背景を任意の色に変更する。
 
   <div align="center">
     <img loading = "lazy" src="images/userscript/atcoder_background_colorizer.png" alt="atcoder background colorizer">
@@ -175,7 +175,7 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_better_highlighter.png" alt="atcoder background colorizer">
   </div>
 
-- [AtCoderColouringDifference](https://greasyfork.org/en/scripts/371703-atcodercolouringdifference) - ユーザの「コンテスト成績表」ページで"差分"の部分を色づけする。レポジトリ作成者注: スクリプトの実行対象URLがベータ版のため、修正が必要。
+- [AtCoderColouringDifference](https://greasyfork.org/ja/scripts/371703-atcodercolouringdifference) - ユーザの「コンテスト成績表」ページで"差分"の部分を色づけする。レポジトリ作成者注: スクリプトの実行対象URLがベータ版のため、修正が必要。
 
   <div align="center">
     <img loading = "lazy" src="images/userscript/atcoder_colouring_difference.png" alt="atcoder colouring difference">
@@ -282,7 +282,7 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_collect_all_examples.png" alt="atcoder collect all examples">
   </div>
 
-- [AtCoder Fav Rating](https://greasyfork.org/en/scripts/406745-atcoder-fav-rating) - 「アカウント」ページにお気に入りの順位・レーティング(現在・最高)・参加回数を一覧で表示するボタンを設置する。
+- [AtCoder Fav Rating](https://greasyfork.org/ja/scripts/406745-atcoder-fav-rating) - 「アカウント」ページにお気に入りの順位・レーティング(現在・最高)・参加回数を一覧で表示するボタンを設置する。
 
   <div align="center">
     <img loading = "lazy" src="images/userscript/atcoder_fav_rating.png" alt="atcoder fav rating">
@@ -300,7 +300,7 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_language_filter.png" alt="atcoder language filter">
   </div>
 
-- [atcoder-problem-navigator](https://greasyfork.org/en/scripts/383360-atcoder-problem-navigator) - 「問題」ページで、各問題のリンクに飛べるナビゲーションバーを追加。
+- [atcoder-problem-navigator](https://greasyfork.org/ja/scripts/383360-atcoder-problem-navigator) - 「問題」ページで、各問題のリンクに飛べるナビゲーションバーを追加。
 
   <div align="center">
     <img loading = "lazy" src="images/userscript/atcoder_problem_navigator.png" alt="atcoder problem navigator">
