@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-12-27
+
+- [#1173](https://github.com/KATO-Hiro/AtCoderClans/pull/1173) - [hotate29](https://github.com/hotate29)さんのプルリクエストにより、ユーザスクリプトのURLに含まれている言語設定を日本語に統一。
+- [#1170](https://github.com/KATO-Hiro/AtCoderClans/pull/1170) - リンクが切れているライブラリを「Archived」ページに暫定的に移動。
+
 ### 2020-12-26
 
 - [#1166](https://github.com/KATO-Hiro/AtCoderClans/pull/1166) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
