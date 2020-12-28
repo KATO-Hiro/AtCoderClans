@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-12-28
+
+- [#1184](https://github.com/KATO-Hiro/AtCoderClans/pull/1184) - 記事「競技プログラマーのブログをまとめてみた」を追加。
+- [#1183](https://github.com/KATO-Hiro/AtCoderClans/pull/1183) - 記事ページのサブカテゴリ「問題作成と準備」に「AtCoderの作問体制」に関するツイートを追加。
+
 ### 2020-12-27
 
 - [#1173](https://github.com/KATO-Hiro/AtCoderClans/pull/1173) - [hotate29](https://github.com/hotate29)さんのプルリクエストにより、ユーザスクリプトのURLに含まれている言語設定を日本語に統一。
