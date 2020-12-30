@@ -326,7 +326,7 @@ filename: media
 - [kurenaif](https://www.youtube.com/playlist?list=PL6J0QYBvVReHBH_mkLCs8BbuAkx20gamN) - [kurenaif](https://atcoder.jp/users/kurenaif)さんのチャンネル。競技プログラミングの初心者に対して、コーチングを行いながら考察を進める過程を紹介した動画が公開されている。
 - [Tozan Southerpacks Redcoder レッドコーダー](https://www.youtube.com/channel/UCwsapfci2p1oDVO4Q2sJOQw) - レッドコーダー（競技プログラマーとして世界最高峰の実力の持ち主であることを示す）の[tozangezan](https://atcoder.jp/users/tozangezan)さんのチャンネル。
 - [えびまラボ](https://www.youtube.com/channel/UCw4Ty20l1DccGCQ2HWiEcgw) - [えびま](https://twitter.com/evima0)さんのチャンネル。
-- [かつっぱ競プロ](https://www.youtube.com/channel/UCqqeYOh1gk_TJ16sxazWhUg) - [AtCoder](https://atcoder.jp/)でレッドコーダーになったことがある[catupper](https://atcoder.jp/users/catupper)さんのチャンネル。コンテストの実況動画が公開されている。
+- [かつっぱ競プロ](https://www.youtube.com/channel/UCqqeYOh1gk_TJ16sxazWhUg) - [AtCoder](https://atcoder.jp/)でレッドコーダーの[catupper](https://atcoder.jp/users/catupper)さんのチャンネル。コンテストの実況動画が公開されている。
 - [蟹江もなみ](https://www.youtube.com/channel/UC5OB45jE0XqRyXdGETY-2-w) - [kanipanunu](https://atcoder.jp/users/kanipanunu)さんのチャンネル。
 - [きりみんちゃん kirimin-chan](https://www.youtube.com/c/kiriminchan/playlists) - [kirimin](https://atcoder.jp/users/kirimin)さんのチャンネル。競技プログラミングやライブコーディングだけでなく、幅広い話題の動画が公開されている。
 - [坂道輪の競プロ](https://www.youtube.com/playlist?list=PLFi46EaoQjc-c4BoLQl7Gibo0ncGLX5A2) - [RinSakamichi](https://atcoder.jp/users/RinSakamichi)さんのチャンネル。コンテスト終了後に、問題の解答や感想を配信している。
