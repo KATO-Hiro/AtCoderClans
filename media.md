@@ -272,6 +272,7 @@ filename: media
 
 ### 部活、サークル、同好会
 
+- [競技プログラミング部活動をはじめました - MMM公式ブログ](https://blog.mmmcorp.co.jp/blog/2020/12/26/competitive-programming-club/) - 株式会社MMMの「競技プログラミング部」に関する記事。部活動を始めたきっかけ、活動内容、部活動によるメリット、社内制度が紹介されている。
 - [ゼロから始める競プロ部 - 部長 次郎花](https://note.com/jirohhana2/n/n0c1233f14824) - 会社のプロジェクトメンバーと競プロ部を立ち上げた[jirohhana2](https://atcoder.jp/users/jirohhana2)さんが、コンテストの参加記を不定期に連載している。
 - [Paken for beginners](https://tkpaken.github.io/beginners/) - 筑波大附属駒場中・高等学校の「中高パーソナル・コンピューター研究部(通称、Paken)」の新入生に向けて、部活の雰囲気やプログラミングの基礎を紹介している。
 - [HCPC 北海道大学競技プログラミングサークル](https://hcpc-hokudai.github.io/) - 北海道大学にある競技プログラミングの練習会・勉強会を行うサークル。活動記録に加えて、勉強会のスライドや開催されたコンテストの過去問が掲載されている。
