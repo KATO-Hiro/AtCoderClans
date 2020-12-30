@@ -6,6 +6,14 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-12-30
+
+- [#1196](https://github.com/KATO-Hiro/AtCoderClans/pull/1196) - 関連するコンテストサイトにサブカテゴリ「OMC (OnlineMathContest)」を新設。
+  - Webアプリ「OMC problems」を追加。
+- [#1195](https://github.com/KATO-Hiro/AtCoderClans/pull/1195) - 記事ページのサブカテゴリ「部活、サークル、同好会」に「競技プログラミング部活動をはじめました - MMM公式ブログ」を追加。
+- [#1194](https://github.com/KATO-Hiro/AtCoderClans/pull/1194) - YouTubeのチャンネルの説明文を修正。
+- [#1193](https://github.com/KATO-Hiro/AtCoderClans/pull/1193) - Webアプリ「AtCoderFacts」を追加。
+
 ### 2020-12-28
 
 - [#1184](https://github.com/KATO-Hiro/AtCoderClans/pull/1184) - 記事「競技プログラマーのブログをまとめてみた」を追加。
