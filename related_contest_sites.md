@@ -160,6 +160,14 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/mao/markov_algorithm_online.png" alt="markov algorithm online">
   </div>
 
+### OMC (OnlineMathContest)
+
+- [OMC problems](https://rusa6111.github.io/OMCproblems/) - [OnlineMathContest](https://onlinemathcontest.com/)で開催されたコンテストの問題一覧を確認できる。ベータ版。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/omc/omc_problems.png" alt="omc problems">
+  </div>
+
 ### Topcoder
 
 #### Webサイトと関連リンク
