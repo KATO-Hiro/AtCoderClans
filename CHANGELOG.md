@@ -6,6 +6,16 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2020-12-31
+
+- [#1212](https://github.com/KATO-Hiro/AtCoderClans/pull/1212) - ユーザスクリプト「AtCoderRecentGraph」を追加。
+- [#1211](https://github.com/KATO-Hiro/AtCoderClans/pull/1211) - ユーザスクリプト「AtCoder_CustomTest_Run_Shortcut」を追加。
+- [#1210](https://github.com/KATO-Hiro/AtCoderClans/pull/1210) - ユーザスクリプト「AtCoder Rating Cumlative Distribution」を追加。
+- [#1208](https://github.com/KATO-Hiro/AtCoderClans/pull/1208) - ライブラリの変換ツール「dependency-expander-java」を追加。
+- [#1207](https://github.com/KATO-Hiro/AtCoderClans/pull/1207) - ライブラリ「java_competitive_programming_library」を追加。
+- [#1205](https://github.com/KATO-Hiro/AtCoderClans/pull/1205) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1200から1599まで(水色)に[ysk1180](https://atcoder.jp/users/ysk1180)さんの記事を追加。
+
 ### 2020-12-30
 
 - [#1196](https://github.com/KATO-Hiro/AtCoderClans/pull/1196) - 関連するコンテストサイトにサブカテゴリ「OMC (OnlineMathContest)」を新設。
