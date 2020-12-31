@@ -61,6 +61,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_difficulty_display.png" alt="atcoder difficulty display">
   </div>
 
+- [AtCoder Rating Cumlative Distribution](https://greasyfork.org/ja/scripts/419055-atcoder-rating-cumlative-distribution) - 「ユーザ」ページにあるRating分布の累積人数および累積パーセントを表示する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_rating_cumlative_distribution.png" alt="atcoder rating cumlative distribution">
+  </div>
+
 - [AtCoderStandingsAnalysis](https://greasyfork.org/ja/scripts/398439-atcoderstandingsanalysis) - 「順位表」ページから、自分の得点・正解者数 / 提出者数・正解率・平均ペナルティ数・ペナルティ率・内部レートの分布を集計する。注: コンテスト中にSNSでの言及や投稿は避ける。
 
   <div align="center">
