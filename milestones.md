@@ -32,6 +32,7 @@ filename: milestones
 
 ### レーティング800から1199まで(緑色)
 
+- [2人育児しながらATCODER続けて緑になった](https://tochi-y.github.io/slides/2020-12-29_atcoder/export/index.html#/) - [tochi_ondy](https://atcoder.jp/users/tochi_ondy)さんが、2019年7月14日に達成。
 - [【AtCoder】普通の人である私が緑になるまでにしたこと](https://qiita.com/Kota-Y/items/396ab3c57830dad65cfb) - [kota0501](https://atcoder.jp/users/kota0501)さんが、2020年8月22日に達成。
 - [AtCoder 緑になっている予定でした(緑になったほう)。 - harurun競プロ](https://harurunppp.hatenablog.com/entry/2020/12/16/000000) - [harurun](https://atcoder.jp/users/harurun)さんが、2020年11月28日に達成。
 
