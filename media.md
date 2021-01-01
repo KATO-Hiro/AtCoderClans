@@ -348,6 +348,10 @@ filename: media
 - [AtCoderの始め方。競プロに興味はあるけどやっていないという方へ。](https://www.youtube.com/watch?v=vxBOC08XZ44&feature=youtu.be) - 教育系エンジニアによる[AtCoder](https://atcoder.jp/)の紹介動画。競技プログラミングの解説に加えて、便利なサイト・ツールが紹介されている。
 - [AtCoder 布教 PV](https://www.youtube.com/watch?v=-z3bTeA_SEY&feature=youtu.be) - 有志による[AtCoder](https://atcoder.jp/)のプロモーションビデオ。特に、競技プログラミングを始めようと思っている人や周囲に布教したい人におすすめ。
 
+## ニコニコ動画
+
+- [AtCoder 参加してみた！【ゆっくり実況】](https://www.nicovideo.jp/series/140853) - [checheche](https://atcoder.jp/users/checheche)さんのコンテスト参加日記。
+
 ## 番組アーカイブ
 
 - [【ローランド×金言】ビジネスは「世界一から逆算せよ」](https://newspicks.com/live-movie/976/) - 起業家のプレゼンに対して、ローランドさんや著名な経営者がビジネスのヒントを贈る番組「Greatest Hints」のアーカイブ。[chokudai](https://twitter.com/chokudai)さんが[AtCoder](https://atcoder.jp/)の事業内容について、対外的に発信している(38:53頃から出演)。注: 動画を全て視聴するには、会員登録が必要な場合がある。
