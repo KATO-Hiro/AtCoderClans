@@ -48,7 +48,7 @@ filename: milestones
 - [AtCoderで青色になりました - pitsuの記事置き場](https://pitsu-kyopro.hatenablog.jp/entry/2020/09/24/204027) - [pitsu](https://atcoder.jp/users/pitsu)さんが、2020年9月19日に達成。
 - [AtCoder青色になりました - marocasの競プロ精進日記](https://marroncastle917.hatenablog.com/) - [marroncastle917](https://atcoder.jp/users/marroncastle917)さんが、2020年10月31日に達成。
 - [AtCoderで青色になるまで - Yoikaの復習用教材](https://minatoyoika.hatenablog.com/entry/2020/11/12/212346) - [Yoika](https://atcoder.jp/users/Yoika)さんが、2020年11月8日に達成。
-- [AtCoder 青 / Codeforces 紫 / Topcoder 黄 になりました - Growth Record of Lettuce Farm](https://fairy-lettuce.hatenadiary.com/entry/kyopro-colorchange-blue) - [fancy_lettuce](https://atcoder.jp/users/fancy_lettuce)さんが、2020年12月5日に達成。
+- [AtCoder 青 / Codeforces 紫 / Topcoder 黄 になりました - Growth Record of Lettuce Farm](https://fairy-lettuce.hatenadiary.com/entry/kyopro-colorchange-blue) - [fairy_lettuce](https://atcoder.jp/users/fairy_lettuce)さんが、2020年12月5日に達成。
 - [プログラミング未経験者がAtCoder青になった話](https://qiita.com/soraie/items/9c5ea617cdd6547e2853) - [soraie](https://atcoder.jp/users/soraie)さんが、2020年12月19日に達成。
 
 ### レーティング2000から2399まで(黄色)
