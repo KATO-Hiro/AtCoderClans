@@ -89,7 +89,7 @@ filename: CHANGELOG
 - [#1099](https://github.com/KATO-Hiro/AtCoderClans/pull/1099) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
   - レーティング2400から2799まで(橙色)に[Motsu_xe](https://atcoder.jp/users/Motsu_xe)さんの記事を追加。
   - レーティング2000から2399まで(黄色)に[ygussany](https://atcoder.jp/users/ygussany)さんの記事を追加。
-  - レーティング1600から1999まで(青色)に[fancy_lettuce](https://atcoder.jp/users/fancy_lettuce)さんの記事を追加。
+  - レーティング1600から1999まで(青色)に[fairy_lettuce](https://atcoder.jp/users/fairy_lettuce)さんの記事を追加。
   - レーティング800から1199まで(緑色)に[harurun](https://atcoder.jp/users/harurun)さんの記事を追加。
 
 - [#1098](https://github.com/KATO-Hiro/AtCoderClans/pull/1098) - リンクが切れているライブラリを「Archived」ページに暫定的に移動。
