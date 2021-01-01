@@ -6,6 +6,18 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-01-01
+
+- [#1223](https://github.com/KATO-Hiro/AtCoderClans/pull/1223) - 記事ページの「1年のふりかえり」に「競プロ流行語大賞2020」を追加。
+- [#1222](https://github.com/KATO-Hiro/AtCoderClans/pull/1222) - 「コマンドラインツール」ページにサブカテゴリ「テストケースの追加を簡易化するツール」を新設。
+  - 「editSampleCase」を追加。
+- [#1220](https://github.com/KATO-Hiro/AtCoderClans/pull/1220) - 「記事」ページにサブカテゴリ「ニコニコ動画」を新設。
+  - 「AtCoder 参加してみた！【ゆっくり実況】」を追加。
+- [#1219](https://github.com/KATO-Hiro/AtCoderClans/pull/1219) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング800から1199まで(緑色)に[tochi_ondy](https://atcoder.jp/users/tochi_ondy)さんのスライド資料を追加。
+- [#1218](https://github.com/KATO-Hiro/AtCoderClans/pull/1218) - セキュリティの脆弱性に関する通知を受け、Dockerコンテナで使用するGemfileのライブラリをアップデート。
+- [#1217](https://github.com/KATO-Hiro/AtCoderClans/pull/1217) - ユーザ名の変更告知に対応。
+
 ### 2020-12-31
 
 - [#1212](https://github.com/KATO-Hiro/AtCoderClans/pull/1212) - ユーザスクリプト「AtCoderRecentGraph」を追加。
