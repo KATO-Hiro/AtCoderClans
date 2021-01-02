@@ -73,6 +73,13 @@ filename: archived
     <img loading = "lazy" src="images/web_app/atcoder_review.png" alt="atcoder review">
   </div>
 
+## 記載されている情報が古くなったと思われる記事
+
+記載されている情報が古くなったと思われる記事を掲載しています。
+
+- [Rustで競技プログラミングの入力をスッキリ記述するマクロ](https://qiita.com/tanakh/items/0ba42c7ca36cd29d0ac8) - Rustで入力データを扱うコードを簡潔に書くためのinput!マクロが紹介されている記事。
+  - 代替手段: [AtCoder言語アップデートでRustの入出力が楽になっていた](https://qiita.com/koji-cw/items/0cce3b075faffe5e50ed)や[言語アップデートで追加されたライブラリ一覧](https://github.com/rust-lang-ja/atcoder-rust-base/blob/ja-all-enabled/Cargo.toml)を読む。
+
 ## リンク切れと思われるサービス、ツールなど
 
 リンクが切れていると思われるサービス・ツールなどを掲載しています。一定の期間(3〜6か月程度)更新されない場合は、下記の「開発、提供が終了したサービス、ツールなど」へ移動させたいと思います。
