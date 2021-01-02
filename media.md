@@ -247,6 +247,7 @@ filename: media
 - [AtCoderの作問体制](https://twitter.com/rng_58/status/1338131584042422272) - 初代コンテストマネージャーの[rng_58](https://twitter.com/rng_58)さんによって、2020年12月時点における作問体制が紹介されている。
 - [競技プログラミングにおける作問テクニックを総整理！ 〜初心者から経験者まで〜](https://qiita.com/e869120/items/45a0132263094b83fc44) - コンテストの問題を作りたい人に向けて、役割分担・作業工程の説明から、問題文・テストケースの作成手順とそれらの注意事項について網羅的にまとめられている。
 - [競プロ作問チェックリスト (初心者向け)](https://drive.google.com/file/d/1kTfrNKGXMhJOgUdyDhYo2dswbwPAhZ7a/view) - 新規writerを対象として、各フェーズの注意事項がチェックリストの形式でまとめられている。
+- [About Problemsetting (for AtCoder and Codeforces)](https://codeforces.com/blog/entry/85424?locale=en) - [dario2994](https://atcoder.jp/users/dario2994)さんが、Atcoder Grand Contest(AGC)やCodeforces Global Round(GR)での出題経験を通して得られた知見を体系的にまとめた記事。
 - [問題文の添削例](https://twitter.com/rng_58/status/1341339233043111940) - [えびま](https://twitter.com/evima0)さんが、問題文の不明瞭な点に対して添削を行っている。問題文を書く機会がある場合に、とても参考になると思われる。
 - [集合 列 多重集合 違い](https://kimiyuki.net/blog/2020/11/03/set-sequence-multiset/) - 集合・列・多重集合の違いと記法について解説した記事。これらの要素を含む問題を作成・公開する前に確認すると、回答者に誤解されにくい問題文を用意できると思われる。
 - [競技プログラミングの作問環境構築（wiki設置編）](https://wakuwinmail.hatenablog.com/entry/2020/05/01/180054) - コンテストの問題の作成を希望する人に向けて、環境構築する手順をまとめた記事(全7回の予定)。第1回は問題の原案を共有するための[PukiWiki](https://pukiwiki.osdn.jp/)をサーバに設置する方法について、第2回はPukiWikiが編集されたときにSlackにメッセージを通知するための方法がそれぞれ解説されている。2020年10月下旬時点で、第3回以降は公開されておらず、続編が望まれる。
