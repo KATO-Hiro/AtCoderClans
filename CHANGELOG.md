@@ -6,9 +6,24 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-01-02
+
+- [#1240](https://github.com/KATO-Hiro/AtCoderClans/pull/1240) - (破壊的な変更) 記事ページのサブカテゴリ「コードを実装するときの工夫」に以下の記事を追加。これに伴い、[#1237](https://github.com/KATO-Hiro/AtCoderClans/pull/1237)で掲載したリンクをArchivedページに新設したサブカテゴリ「記載されている情報が古くなったと思われる記事」に移動。
+  - AtCoder言語アップデートでRustの入出力が楽になっていた
+- [#1239](https://github.com/KATO-Hiro/AtCoderClans/pull/1239) - 記事ページのサブカテゴリ「プログラミング言語の学習」に以下の記事を追加。
+  - AtCoderとRustで始める！競技プログラミング入門（Rust版 APG4b）
+- [#1237](https://github.com/KATO-Hiro/AtCoderClans/pull/1237) - 記事ページのサブカテゴリ「コードを実装するときの工夫」に以下の記事を追加。
+  - Rustで競技プログラミングの入力をスッキリ記述するマクロ
+- [#1236](https://github.com/KATO-Hiro/AtCoderClans/pull/1236) - Milestonesページにサブカテゴリ「競技プログラマーが現役引退を表明した記事」を新設し、以下の記事を追加。
+  - Retiring from competitive competitive programming
+- [#1235](https://github.com/KATO-Hiro/AtCoderClans/pull/1235) - 記事ページのサブカテゴリ「コンテストに向けた練習方法など」に以下のGoogle Sheetsを追加。
+  - rng問題
+- [#1234](https://github.com/KATO-Hiro/AtCoderClans/pull/1234) - [fairy_lettuce](https://atcoder.jp/users/fairy_lettuce)さんのご紹介で、記事ページのサブカテゴリ「問題作成と準備」に以下の記事を追加。
+  - About Problemsetting (for AtCoder and Codeforces)
+
 ### 2021-01-01
 
-- [#1223](https://github.com/KATO-Hiro/AtCoderClans/pull/1223) - 記事ページの「1年のふりかえり」に「競プロ流行語大賞2020」を追加。
+- [#1223](https://github.com/KATO-Hiro/AtCoderClans/pull/1223) - 記事ページのサブカテゴリ「1年のふりかえり」に「競プロ流行語大賞2020」を追加。
 - [#1222](https://github.com/KATO-Hiro/AtCoderClans/pull/1222) - 「コマンドラインツール」ページにサブカテゴリ「テストケースの追加を簡易化するツール」を新設。
   - 「editSampleCase」を追加。
 - [#1220](https://github.com/KATO-Hiro/AtCoderClans/pull/1220) - 「記事」ページにサブカテゴリ「ニコニコ動画」を新設。
