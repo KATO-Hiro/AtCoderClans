@@ -102,6 +102,10 @@ filename: media
 
 - [Python-izm](https://www.python-izm.com/) - Pythonの習得を目的としたWebサイト。入門編、基礎編、応用編などに分かれている。
 
+#### Rust
+
+- [AtCoderとRustで始める！競技プログラミング入門（Rust版 APG4b）](https://zenn.dev/toga/books/apg4b-rust-ver) - 有志が[C++入門 AtCoder Programming Guide for beginners (APG4b)](https://atcoder.jp/contests/APG4b)のRust版を作成・公開している。
+
 ### アルゴリズムの解説
 
 - [たのしい探索アルゴリズムの世界【前編：全探索、bit全探索から半分全列挙まで】](https://qiita.com/e869120/items/25cb52ba47be0fd418d6) - 探索アルゴリズムについて、基礎から応用まで網羅的に図解された記事。問題に対して「探索的な視点からの見方・考え方」のイメージを深めることができる。[後編](https://qiita.com/e869120/items/72cc1370cbc0da1be9ef)では、実社会での活用例が示されている。
