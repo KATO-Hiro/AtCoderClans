@@ -214,7 +214,7 @@ filename: media
 
 #### Rust
 
-- [Rustで競技プログラミングの入力をスッキリ記述するマクロ](https://qiita.com/tanakh/items/0ba42c7ca36cd29d0ac8) - Rustで入力データを扱うコードを簡潔に書くためのinput!マクロが紹介されている記事。レポジトリ作成者注: 記事の最終更新(2018年8月下旬)以降にジャッジシステムの言語アップデートが行われている。これに伴い、よりシンプルに記述できる可能性があるため、公式ドキュメントを参照されたい。
+- [AtCoder言語アップデートでRustの入出力が楽になっていた](https://qiita.com/koji-cw/items/0cce3b075faffe5e50ed) - [AtCoder](https://atcoder.jp/)の言語アップデートに伴って追加された入出力関連の便利なライブラリが紹介されている記事。また、[追加されたライブラリ一覧](https://github.com/rust-lang-ja/atcoder-rust-base/blob/ja-all-enabled/Cargo.toml)も掲載されている。
 
 #### 複数の言語
 
