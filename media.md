@@ -234,6 +234,7 @@ filename: media
 - [精進について](https://kyopro-friends.hatenablog.com/entry/2020/02/03/202835) - [kyopro_friends](https://atcoder.jp/users/kyopro_friends)さんの練習に対する考え方や方法について書かれた記事。
 - [PythonでAtCoder青になるまで -Pythonで競プロやるときに気をつけること-](https://qiita.com/Kentaro_okumura/items/a6917572756a2e3c0da9) - コンテストでPythonを利用している人に向けた練習方法が書かれている。他の言語を使っている人にも参考になる部分が多い。
 - [rng_58さんがオススメする学習方法](https://twitter.com/rng_58/status/1238824295230361600) - [rng_58](https://twitter.com/rng_58)さんが、問題を楽に解くための方針を身につける方法についてコメントしている。
+- [rng問題](https://docs.google.com/spreadsheets/d/1-dwOvCUGF7ITCYXg2LUFo0YqvZc7PTNX3jz1USuXuBE/edit#gid=0) - [rng_58](https://twitter.com/rng_58)さんが作成した問題の難易度を[Topcoder](https://www.topcoder.com/)の基準で点数化している。また、有志によって難易度の評価やおすすめ問題の投票が行われている。
 
 ### 言語特性
 
