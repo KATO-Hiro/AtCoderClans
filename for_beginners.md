@@ -30,7 +30,7 @@ filename: for_beginners
 A1: 入門者、初心者向けの教材や記事を読んでみましょう。[AtCoder](https://atcoder.jp/)アカウントを登録し、コンテスト参加前に練習問題を解くことをおすすめします。
 
 - [アルゴリズムとは何か！？ ～ 文系理系問わず楽しめる精選6問 ～](https://qiita.com/drken/items/f909b79ee03e679c7142) - アルゴリズムとは何か?という疑問に対して、平易で分かりやすい文章と図表を駆使して解説されている記事です。また、アルゴリズムを学ぶ意義・メリットについても書かれています。
-- [C++入門 AtCoder Programming Guide for beginners (APG4b)](https://atcoder.jp/contests/APG4b) - 公式が提供する汎用的なプログラミングの基礎を学ぶための入門教材です。また、知識の定着を図るための練習問題と自分で書いたプログラムを自動で採点してくれるシステムがあるのが大きな特徴です。
+- [C++入門 AtCoder Programming Guide for beginners (APG4b)](https://atcoder.jp/contests/APG4b) - 公式が提供する汎用的なプログラミングの基礎を学ぶための入門教材です。また、知識の定着を図るための練習問題と自分で書いたプログラムを自動で採点してくれるシステムがあるのが大きな特徴です。また、有志により[Rust版](https://zenn.dev/toga/books/apg4b-rust-ver)も作成・公開されています。
 
   <div align="center">
     <img loading = "lazy" src="images/official/home_apg4b.png" alt="atcoder problems">
