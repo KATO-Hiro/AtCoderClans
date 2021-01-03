@@ -1,0 +1,9 @@
+README.md
+test-project
+definition-manifest.json
+.devcontainer/library-scripts
+target
+.vscode
+.npmignore
+Cargo.lock
+Cargo.toml
