@@ -127,7 +127,8 @@ filename: archived
   - 確認した日: 2020/12/14
 - [naipia/competitive-programming-go](https://github.com/naipia/competitive-programming-go) ![GitHub stars](https://img.shields.io/github/stars/naipia/competitive-programming-go?style=plastic) - [naipia](https://atcoder.jp/users/naipia)さんのGoライブラリ。
   - 確認した日: 2020/11/18
-
+- [Neterukun1993/algorithm](https://github.com/Neterukun1993/algorithm) ![GitHub stars](https://img.shields.io/github/stars/Neterukun1993/algorithm?style=plastic) - [neterukun](https://atcoder.jp/users/neterukun)さんのPythonライブラリ。
+  - 確認した日: 2021/01/03
 - [sciencesakura/atcoder-sandbox](https://github.com/sciencesakura/atcoder-sandbox) ![GitHub stars](https://img.shields.io/github/stars/sciencesakura/atcoder-sandbox?style=plastic) - [sciencesakura](https://atcoder.jp/users/sciencesakura)さんのライブラリ。
 
 <!-- markdown-link-check-enable -->
