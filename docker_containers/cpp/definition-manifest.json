@@ -1,0 +1,88 @@
+{
+	"variants": ["buster", "focal", "bionic", "stretch"],
+	"build": {
+		"latest": true,
+		"parent": {
+			"buster": "debian", 
+			"stretch": "debian", 
+			"focal": "ubuntu",
+			"bionic": "ubuntu"
+		},
+		"rootDistro": "debian",
+		"tags": [
+			"cpp:${VERSION}-${VARIANT}"
+		],
+		"variantTags": {
+			"buster": [
+				"cpp:${VERSION}-debian-10",
+				"cpp:${VERSION}-debian10",
+				"cpp:${VERSION}-debian"
+			],
+			"stretch": [
+				"cpp:${VERSION}-debian9",
+				"cpp:${VERSION}-debian-9"
+			],
+			"focal": [
+				"cpp:${VERSION}-ubuntu-20.04",
+				"cpp:${VERSION}-ubuntu20.04",
+				"cpp:${VERSION}-ubuntu"
+			],
+			"bionic": [
+				"cpp:${VERSION}-ubuntu-18.04",
+				"cpp:${VERSION}-ubuntu18.04"
+			]
+		}
+	},
+	"dependencies": {
+		"image": "buildpack-deps:${VARIANT}-curl",
+		"imageLink": "https://hub.docker.com/_/buildpack-deps",
+		"debian": [
+			"apt-utils",
+			"git",
+			"openssh-client",
+			"gnupg2",
+			"iproute2",
+			"procps",
+			"lsof",
+			"htop",
+			"net-tools",
+			"psmisc",
+			"curl",
+			"wget",
+			"rsync",
+			"ca-certificates",
+			"unzip",
+			"zip",
+			"tar",
+			"nano",
+			"vim-tiny",
+			"less",
+			"jq",
+			"lsb-release",
+			"apt-transport-https",
+			"dialog",
+			"libc6",
+			"libgcc1",
+			"libgssapi-krb5-2",
+			"libicu[0-9][0-9]",
+			"liblttng-ust0",
+			"libstdc++6",
+			"zlib1g",
+			"locales",
+			"sudo",
+			"ncdu",
+			"man-db",
+			"zsh",
+			"build-essential",
+			"cmake",
+			"cppcheck",
+			"valgrind",
+			"lldb",
+			"llvm",
+			"clang"
+		],
+		"git": {
+			"Oh My Zsh!": "/root/.oh-my-zsh"
+		}
+	}
+}
