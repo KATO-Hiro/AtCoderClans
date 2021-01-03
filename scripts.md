@@ -79,6 +79,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_standings_analysis.png" alt="atcoder standings analysis">
   </div>
 
+- [atcoder-standings-difficulty-analyzer](https://greasyfork.org/ja/scripts/419541-atcoder-standings-difficulty-analyzer) - 「順位表」ページに、問題別の推定難易度の推移・ACした人数の推移などを表示する。注: コンテスト中にSNSでの言及や投稿は避ける。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_standings_difficulty_analyzer.png" alt="atcoder standings difficulty analyzer">
+  </div>
+
 - [atcoder-standings-lang](https://greasyfork.org/ja/scripts/415894-atcoder-standings-lang) - 「順位表」ページおよび「バーチャル順位表」ページで、ユーザ名の横にAC数の多い言語を表示する。
 
   <div align="center">
