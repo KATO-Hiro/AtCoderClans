@@ -6,6 +6,13 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-01-03
+
+- [#1250](https://github.com/KATO-Hiro/AtCoderClans/pull/1250) - ユーザスクリプト「[atcoder-standings-difficulty-analyzer](https://kato-hiro.github.io/AtCoderClans/scripts#%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%81%AA%E3%81%A9%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B)」を追加。
+- [#1249](https://github.com/KATO-Hiro/AtCoderClans/pull/1249) - 記事「[競技プログラミングにおける数学的問題まとめ](https://kato-hiro.github.io/AtCoderClans/media#%E6%95%B0%E5%AD%A6%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%9F%A5%E8%AD%98)」を追加。
+- [#1247](https://github.com/KATO-Hiro/AtCoderClans/pull/1247), [#1248](https://github.com/KATO-Hiro/AtCoderClans/pull/1248) - C++とRustの実行環境をDockerで構築できるように、専用のディレクトリとファイルを追加。Visual Studio Codeと拡張機能「Remote - Containers」の利用を想定している。
+- [#1246](https://github.com/KATO-Hiro/AtCoderClans/pull/1246) - (破壊的な変更) リンクが切れているライブラリを「Archived」ページに暫定的に移動。
+
 ### 2021-01-02
 
 - [#1240](https://github.com/KATO-Hiro/AtCoderClans/pull/1240) - (破壊的な変更) 記事ページのサブカテゴリ「コードを実装するときの工夫」に以下の記事を追加。これに伴い、[#1237](https://github.com/KATO-Hiro/AtCoderClans/pull/1237)で掲載したリンクをArchivedページに新設したサブカテゴリ「記載されている情報が古くなったと思われる記事」に移動。
