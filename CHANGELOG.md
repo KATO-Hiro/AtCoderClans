@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-01-04
+
+- [#1261](https://github.com/KATO-Hiro/AtCoderClans/pull/1261) - Webアプリ「[AtCoder Rivals](https://atcoder-rivals.herokuapp.com/)」に、作者による技術記事の[リンク](https://note.com/sackey/n/nf0b7ed1e9d1a)を追加。
+- [#1260](https://github.com/KATO-Hiro/AtCoderClans/pull/1260) - (破壊的な変更) ユーザアカウントの削除を確認したため、一時的に該当するURLを削除。
+
 ### 2021-01-03
 
 - [#1253](https://github.com/KATO-Hiro/AtCoderClans/pull/1253) - CHANGELOGに掲載しているサービス・ツール・記事などに直接移動できるようにURLを追加。
