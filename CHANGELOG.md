@@ -103,7 +103,7 @@ filename: CHANGELOG
 
 - [#1125](https://github.com/KATO-Hiro/AtCoderClans/pull/1125) - 記事「[ビット演算(bit演算)の使い方を総特集！ 〜 マスクビットからbitDPまで 〜](https://qiita.com/drken/items/7c6ff2aa4d8fce1c9361)」に、bit全探索をより詳しく解説した記事の[リンク](https://drken1215.hatenablog.com/entry/2019/12/14/171657)を追加。
 - [#1124](https://github.com/KATO-Hiro/AtCoderClans/pull/1124) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
-  - レーティング2000から2399まで(黄色)に[kawara_y](https://atcoder.jp/users/kawara_y)さんの[記事](http://brokentile.hatenablog.com/entry/2020/12/18/073314)を追加。
+  - レーティング2000から2399まで(黄色)にkawara_yさんの[記事](http://brokentile.hatenablog.com/entry/2020/12/18/073314)を追加。
 - [#1121](https://github.com/KATO-Hiro/AtCoderClans/pull/1121) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
   - レーティング1600から1999まで(青色)に[soraie](https://atcoder.jp/users/soraie)さんの[記事](https://qiita.com/soraie/items/9c5ea617cdd6547e2853)を追加。
 - [#1120](https://github.com/KATO-Hiro/AtCoderClans/pull/1120) - Webアプリ「Devotter」がリンク切れのため、一旦「Archived」ページに移動。
