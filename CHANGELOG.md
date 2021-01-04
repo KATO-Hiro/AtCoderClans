@@ -8,6 +8,7 @@ filename: CHANGELOG
 
 ### 2021-01-03
 
+- [#1253](https://github.com/KATO-Hiro/AtCoderClans/pull/1253) - CHANGELOGに掲載しているサービス・ツール・記事などに直接移動できるようにURLを追加。
 - [#1250](https://github.com/KATO-Hiro/AtCoderClans/pull/1250) - ユーザスクリプト「[atcoder-standings-difficulty-analyzer](https://greasyfork.org/ja/scripts/419541-atcoder-standings-difficulty-analyzer)」を追加。
 - [#1249](https://github.com/KATO-Hiro/AtCoderClans/pull/1249) - 記事「[競技プログラミングにおける数学的問題まとめ](https://www.hamayanhamayan.com/entry/2017/10/14/125941)」を追加。
 - [#1247](https://github.com/KATO-Hiro/AtCoderClans/pull/1247), [#1248](https://github.com/KATO-Hiro/AtCoderClans/pull/1248) - C++とRustの実行環境をDockerで構築できるように、専用のディレクトリとファイルを追加。Visual Studio Codeと拡張機能「Remote - Containers」の利用を想定している。
