@@ -6,10 +6,17 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-01-05
+
+- [#1270](https://github.com/KATO-Hiro/AtCoderClans/pull/1270) - 記事「[競技プログラミング、日本の大会参加者急増　採用の指標に](https://www.chunichi.co.jp/article/180774)」を追加。
+- [#1269](https://github.com/KATO-Hiro/AtCoderClans/pull/1269) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1200から1599まで(水色)に[unos](https://atcoder.jp/users/unos)さんの[記事](https://unosss.hatenablog.com/entry/2020/07/06/194805)を追加。
+- [#1268](https://github.com/KATO-Hiro/AtCoderClans/pull/1268) - (破壊的な変更) Slackチャンネルのリンク切れを確認したため、該当するURLを一時的に削除。
+
 ### 2021-01-04
 
 - [#1261](https://github.com/KATO-Hiro/AtCoderClans/pull/1261) - Webアプリ「[AtCoder Rivals](https://atcoder-rivals.herokuapp.com/)」に、作者による技術記事の[リンク](https://note.com/sackey/n/nf0b7ed1e9d1a)を追加。
-- [#1260](https://github.com/KATO-Hiro/AtCoderClans/pull/1260) - (破壊的な変更) ユーザアカウントの削除を確認したため、一時的に該当するURLを削除。
+- [#1260](https://github.com/KATO-Hiro/AtCoderClans/pull/1260) - (破壊的な変更) ユーザアカウントの削除を確認したため、該当するURLを一時的に削除。
 
 ### 2021-01-03
 
