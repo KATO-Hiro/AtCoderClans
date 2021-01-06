@@ -6,6 +6,14 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-01-06
+
+- [#1283](https://github.com/KATO-Hiro/AtCoderClans/pull/1283) - YouTubeのチャンネルに関する説明を追加。
+- [#1281](https://github.com/KATO-Hiro/AtCoderClans/pull/1281) - [Contact](https://kato-hiro.github.io/AtCoderClans/contact)ページを新設。
+- [#1279](https://github.com/KATO-Hiro/AtCoderClans/pull/1279) - 記事「[競技プログラミングの作問環境構築 (GitとRime編)](https://wakuwinmail.hatenablog.com/entry/2020/12/05/015747)」を追加。
+- [#1278](https://github.com/KATO-Hiro/AtCoderClans/pull/1278) - 記事「[要素の追加・削除とmexを対数時間で処理するよ](https://rsk0315.hatenablog.com/entry/2020/10/11/125049)」を追加。
+- [#1276](https://github.com/KATO-Hiro/AtCoderClans/pull/1276) - 記事「[パソコン詳しくない系競プロ勢向け正規表現](https://snuke.hatenablog.com/entry/2017/12/27/191600)」を追加。
+
 ### 2021-01-05
 
 - [#1270](https://github.com/KATO-Hiro/AtCoderClans/pull/1270) - 記事「[競技プログラミング、日本の大会参加者急増　採用の指標に](https://www.chunichi.co.jp/article/180774)」を追加。
