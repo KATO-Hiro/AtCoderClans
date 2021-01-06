@@ -76,6 +76,8 @@ filename: index
 
 [Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG) - サービス・ツールなどの更新情報をまとめています。
 
+[Contact](https://kato-hiro.github.io/AtCoderClans/contact) - 本サイト運営者の連絡先です。
+
 ## ご要望、ご報告、お気付きの点などについて
 
 新しいサービス・ツールなどを公開した場合や見つけた場合の情報提供、カテゴリや説明の加筆・修正案を歓迎しています。この他にも、誤字脱字やリンク切れなどのご報告も大変ありがたいと考えています。
