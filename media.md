@@ -343,19 +343,21 @@ filename: media
 
 ### チャンネル
 
-- [AtCoder Live](https://www.youtube.com/channel/UCtG3StnbhxHxXfE6Q4cPZwQ) - [AtCoder](https://atcoder.jp/)の公式チャンネル。コンテストで出題された問題の解説や最新情報が入手できる生放送「あーだこーだー」に関する動画が公開されている。
+- [AtCoder Live](https://www.youtube.com/channel/UCtG3StnbhxHxXfE6Q4cPZwQ) - [AtCoder](https://atcoder.jp/)の公式チャンネル。
+  - コンテストで出題された問題の解説
+  - あーだこーだー: 運営チームによる最新情報の生放送
 - [Gennady Korotkevich](https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw) - 世界最強の競技プログラマーである[tourist](https://atcoder.jp/users/tourist)さんのチャンネル。
-- [heno 239](https://www.youtube.com/channel/UCmYTD76ZGm8hcrzaI7xJLAg) - レッドコーダー（競技プログラマーとして世界最高峰の実力の持ち主であることを示す）の[heno239](https://atcoder.jp/users/heno239)さんのチャンネル。
+- [heno 239](https://www.youtube.com/channel/UCmYTD76ZGm8hcrzaI7xJLAg) - レッドコーダー（競技プログラマーとして世界最高峰の実力の持ち主であることを示す）の[heno239](https://atcoder.jp/users/heno239)さんのチャンネル。過去問の早解き、2人で1行ずつ交互にコーディングしてACを目指す動画などが公開されている。
 - [kurenaif](https://www.youtube.com/playlist?list=PL6J0QYBvVReHBH_mkLCs8BbuAkx20gamN) - [kurenaif](https://atcoder.jp/users/kurenaif)さんのチャンネル。競技プログラミングの初心者に対して、コーチングを行いながら考察を進める過程を紹介した動画が公開されている。
-- [Tozan Southerpacks Redcoder レッドコーダー](https://www.youtube.com/channel/UCwsapfci2p1oDVO4Q2sJOQw) - レッドコーダーの[tozangezan](https://atcoder.jp/users/tozangezan)さんのチャンネル。
-- [えびまラボ](https://www.youtube.com/channel/UCw4Ty20l1DccGCQ2HWiEcgw) - [えびま](https://twitter.com/evima0)さんのチャンネル。
+- [Tozan Southerpacks Redcoder レッドコーダー](https://www.youtube.com/channel/UCwsapfci2p1oDVO4Q2sJOQw) - レッドコーダーの[tozangezan](https://atcoder.jp/users/tozangezan)さんのチャンネル。アルゴリズムやコンテスト後の解説が英語で行われている。
+- [えびまラボ](https://www.youtube.com/channel/UCw4Ty20l1DccGCQ2HWiEcgw) - コンテストのwriterとして長年活躍されている[えびま](https://twitter.com/evima0)さんのチャンネル。コンテストやアルゴリズムなどに関する「ゆっくり解説」が公開されている。
 - [かつっぱ競プロ](https://www.youtube.com/channel/UCqqeYOh1gk_TJ16sxazWhUg) - [AtCoder](https://atcoder.jp/)でレッドコーダーの[catupper](https://atcoder.jp/users/catupper)さんのチャンネル。コンテストの実況動画が公開されている。
-- [蟹江もなみ](https://www.youtube.com/channel/UC5OB45jE0XqRyXdGETY-2-w) - [kanipanunu](https://atcoder.jp/users/kanipanunu)さんのチャンネル。
+- [蟹江もなみ](https://www.youtube.com/channel/UC5OB45jE0XqRyXdGETY-2-w) - [kanipanunu](https://atcoder.jp/users/kanipanunu)さんのチャンネル。コンテストの過去問を解く動画が公開されている。
 - [きりみんちゃん kirimin-chan](https://www.youtube.com/c/kiriminchan/playlists) - [kirimin](https://atcoder.jp/users/kirimin)さんのチャンネル。競技プログラミングやライブコーディングだけでなく、幅広い話題の動画が公開されている。
 - [坂道輪の競プロ](https://www.youtube.com/playlist?list=PLFi46EaoQjc-c4BoLQl7Gibo0ncGLX5A2) - [RinSakamichi](https://atcoder.jp/users/RinSakamichi)さんのチャンネル。コンテスト終了後に、問題の解答や感想を配信している。
 - [じょえチャンネル](https://www.youtube.com/channel/UCRXsI3FL_kvaVL9zoolBfbQ/videos) - [xuzijian629](https://atcoder.jp/users/xuzijian629)さんのチャンネル。斬新な企画が数多く公開されている。
 - [どきんちゃんねる](https://www.youtube.com/channel/UCRtRY2sRe36LXjaiyhqEqCg) - [dokin](https://atcoder.jp/users/dokin)さんのチャンネル。入門者・初心者向けに、問題の考察・C++での実装過程が丁寧に解説されている。
-- [ナス太郎](https://www.youtube.com/channel/UCs7sxmQBTBqtuGzsEWCUupQ) - [DFNasutarou](https://atcoder.jp/users/DFNasutarou)さんのチャンネル。
+- [ナス太郎](https://www.youtube.com/channel/UCs7sxmQBTBqtuGzsEWCUupQ) - [DFNasutarou](https://atcoder.jp/users/DFNasutarou)さんのチャンネル。1問あたり15分以内で解き続ける動画などが公開されている。
 
 ### 講座、講演
 
