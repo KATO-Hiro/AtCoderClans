@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-01-07
+
+- [#1283](https://github.com/KATO-Hiro/AtCoderClans/pull/1288) - リンクを自動チェックするときに、タイムアウトが不定期で発生しているため設定値を変更。
+
 ### 2021-01-06
 
 - [#1283](https://github.com/KATO-Hiro/AtCoderClans/pull/1283) - YouTubeのチャンネルに関する説明を追加。
