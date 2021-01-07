@@ -11,7 +11,8 @@
     }
   ],
   "showProgressBar": true,
-  "timeout": "60s",
+  "timeout": "3m",
   "retryOn429": true,
-  "retryCount": 5
+  "fallbackRetryDelay": "75s",
+  "retryCount": 8
 }
