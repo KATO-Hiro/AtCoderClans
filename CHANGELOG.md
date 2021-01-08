@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-01-08
+
+- [#1294](https://github.com/KATO-Hiro/AtCoderClans/pull/1294), [#1293](https://github.com/KATO-Hiro/AtCoderClans/pull/1293) - Slack Botに、利用するときの注意事項を追加。
+
 ### 2021-01-07
 
 - [#1283](https://github.com/KATO-Hiro/AtCoderClans/pull/1288) - リンクを自動チェックするときに、タイムアウトが不定期で発生しているため設定値を変更。
