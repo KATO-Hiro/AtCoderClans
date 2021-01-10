@@ -6,6 +6,13 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-01-10
+
+- [#1301](https://github.com/KATO-Hiro/AtCoderClans/pull/1301) - C++で実装されたライブラリを追加。
+  - [kth-competitive-programming/kactl](https://github.com/kth-competitive-programming/kactl)
+- [#1298](https://github.com/KATO-Hiro/AtCoderClans/pull/1298) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2800以上(赤色、銅王冠、銀王冠、金王冠)に)[kort0n](https://atcoder.jp/users/kort0n)さんの[記事](https://kort0n.hatenablog.com/entry/2021/01/10/065058)を追加。
+
 ### 2021-01-08
 
 - [#1294](https://github.com/KATO-Hiro/AtCoderClans/pull/1294), [#1293](https://github.com/KATO-Hiro/AtCoderClans/pull/1293) - Slack Botに、利用するときの注意事項を追加。
