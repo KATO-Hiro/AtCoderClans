@@ -15,6 +15,7 @@ filename: media
     - [特定のOSに依存しない内容](#%E7%89%B9%E5%AE%9A%E3%81%AEos%E3%81%AB%E4%BE%9D%E5%AD%98%E3%81%97%E3%81%AA%E3%81%84%E5%86%85%E5%AE%B9)
     - [Macintosh](#macintosh)
     - [Windows](#windows)
+    - [実行環境のテンプレート、サンプルレポジトリ](#%E5%AE%9F%E8%A1%8C%E7%92%B0%E5%A2%83%E3%81%AE%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%83%AC%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA)
   - [プログラミング言語の学習](#%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E%E3%81%AE%E5%AD%A6%E7%BF%92)
     - [C&#43;&#43;](#c)
     - [Python](#python)
@@ -90,6 +91,14 @@ filename: media
 - [【VScode＋WSLで始める】競プロ用C++デバッグ環境構築](https://qiita.com/2019Shun/items/5ab290a4117a00e373b6) - C++のコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)で構築したあとの拡張機能の導入・設定ファイルについて紹介されている。
 - [Windowsで競プロに必要なNeovim環境を整える](https://qiita.com/KowerKoint/items/89d1952b54dec57a1a07) - カスタマイズ性の高いエディタの一つである[NeoVim](https://neovim.io/)を利用して、C++(clang)のコンパイル・実行環境を構築するための記事。関連ツールの導入方法や設定ファイル・プラグインのおすすめ情報も紹介されている。
 - [WSL2とVSCodeでC++環境構築した（AtCoder Libraryを使えるようになるまで）](https://ntk-ta01.hatenablog.com/entry/2020/09/09/181155) - C++やRustのコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)で構築するための記事。設定ファイルや[AtCoder Library](https://atcoder.jp/posts/517)に関する説明もある。
+
+#### 実行環境のテンプレート、サンプルレポジトリ
+
+- [atcoder_docker_sample](https://github.com/yamatia/atcoder_docker_sample) - [Visual Studio Code](https://code.visualstudio.com/)・[Docker](https://www.docker.com/)・[Git](https://git-scm.com/downloads)を使って、PythonとC++の実行環境を構築することができる。
+- [atcoder-rs](https://github.com/catupper/atcoder-rs) - Rustのテンプレートプロジェクト。
+- [at-coder-with-php](https://github.com/KushibikiMashu/at-coder-with-php) - PHPの実行環境を構築することができる。
+- [AtCoder with Rust in mac](https://github.com/hppRC/AtCoder-with-Rust-in-mac) - [cargo-atcoder](https://github.com/tanakh/cargo-atcoder)を使用して、Mac OSでRustの実行環境を構築することができる。
+- [rust-lang-ja/atcoder-rust-base](https://github.com/rust-lang-ja/atcoder-rust-base) - Rustの日本語ドキュメント作成チームによるCargoパッケージテンプレート。
 
 ### プログラミング言語の学習
 

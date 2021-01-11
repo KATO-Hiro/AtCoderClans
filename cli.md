@@ -20,7 +20,6 @@ filename: cli
   - [テンプレートを生成するツール](#%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%82%92%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B%E3%83%84%E3%83%BC%E3%83%AB)
   - [テストケースを生成するツール](#%E3%83%86%E3%82%B9%E3%83%88%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%92%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B%E3%83%84%E3%83%BC%E3%83%AB)
   - [テストケースの追加を簡易化するツール](#%E3%83%86%E3%82%B9%E3%83%88%E3%82%B1%E3%83%BC%E3%82%B9%E3%81%AE%E8%BF%BD%E5%8A%A0%E3%82%92%E7%B0%A1%E6%98%93%E5%8C%96%E3%81%99%E3%82%8B%E3%83%84%E3%83%BC%E3%83%AB)
-  - [環境構築](#%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89)
   - [コードの高速化、バックアップなど](#%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E9%AB%98%E9%80%9F%E5%8C%96%E3%83%90%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%81%AA%E3%81%A9)
   - [問題の作成と準備を支援するツール](#%E5%95%8F%E9%A1%8C%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E6%BA%96%E5%82%99%E3%82%92%E6%94%AF%E6%8F%B4%E3%81%99%E3%82%8B%E3%83%84%E3%83%BC%E3%83%AB)
 
@@ -148,14 +147,6 @@ filename: cli
   <div align="center">
     <img loading = "lazy" src="images/cli/editsamplecase.gif" alt="editsamplecase">
   </div>
-
-### 環境構築
-
-- [atcoder_docker_sample](https://github.com/yamatia/atcoder_docker_sample) - [Visual Studio Code](https://code.visualstudio.com/)・[Docker](https://www.docker.com/)・[Git](https://git-scm.com/downloads)を使って、PythonとC++の実行環境を構築。
-- [atcoder-rs](https://github.com/catupper/atcoder-rs) - Rustのテンプレートプロジェクト。
-- [at-coder-with-php](https://github.com/KushibikiMashu/at-coder-with-php) - PHPの実行環境を構築。
-- [AtCoder with Rust in mac](https://github.com/hppRC/AtCoder-with-Rust-in-mac) - [cargo-atcoder](https://github.com/tanakh/cargo-atcoder)を使用して、Mac OSでRustの実行環境を構築。
-- [rust-lang-ja/atcoder-rust-base](https://github.com/rust-lang-ja/atcoder-rust-base) - Rustの日本語ドキュメント作成チームによるCargoパッケージテンプレート。
 
 ### コードの高速化、バックアップなど
 
