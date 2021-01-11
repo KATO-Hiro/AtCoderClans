@@ -161,6 +161,14 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/mao/markov_algorithm_online.png" alt="markov algorithm online">
   </div>
 
+### New Year's Puzzles
+
+- [New Year's Puzzles](https://nyp.snuke.org/) - オートマトンなどを利用したパズル形式の問題を解くことができる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/nyp/new_year's_puzzles.png" alt="new year's puzzles">
+  </div>
+
 ### OMC (OnlineMathContest)
 
 - [OMC problems](https://rusa6111.github.io/OMCproblems/) - [OnlineMathContest](https://onlinemathcontest.com/)で開催されたコンテストの問題一覧を確認できる。ベータ版。
