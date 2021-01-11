@@ -6,6 +6,13 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-01-11
+
+- [#1306](https://github.com/KATO-Hiro/AtCoderClans/pull/1306) - (破壊的な変更) コマンドラインツールページのサブカテゴリ「環境構築」の内容を、記事ページの「コードを快適に書くための環境構築」に移動。これに伴い「[実行環境のテンプレート、サンプルレポジトリ](https://kato-hiro.github.io/AtCoderClans/media#%E5%AE%9F%E8%A1%8C%E7%92%B0%E5%A2%83%E3%81%AE%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%83%AC%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA)」を新設。
+- [#1305](https://github.com/KATO-Hiro/AtCoderClans/pull/1305) - YouTubeチャンネルの[AtCoder Live](https://www.youtube.com/channel/UCtG3StnbhxHxXfE6Q4cPZwQ)に、チャンネルの説明を加筆。
+- [#1304](https://github.com/KATO-Hiro/AtCoderClans/pull/1304) - 関連するコンテストサイトに、サブカテゴリ「New Year's Puzzles」を新設し、以下のWebサイトを追加。
+  - [New Year's Puzzles](https://nyp.snuke.org/)
+
 ### 2021-01-10
 
 - [#1301](https://github.com/KATO-Hiro/AtCoderClans/pull/1301) - C++で実装されたライブラリを追加。
