@@ -36,7 +36,7 @@ filename: scripts
 
 ### レーティング、パフォーマンスなどを表示する
 
-- [ac-predictor](https://greasyfork.org/ja/scripts/369954-ac-predictor) - コンテスト開催中に推定パフォーマンスを表示する。[Webページ版](https://ac-predictor.com/)もある。
+- [ac-predictor](https://greasyfork.org/ja/scripts/369954-ac-predictor) - コンテスト開催中に推定パフォーマンスとレーティングの推移を表示する。[Webページ版](https://ac-predictor.com/)もある。使用されている技術に興味がある方は、作者による[解説記事(2020年12月時点)](https://qiita.com/keymoon/items/e83259f882f26c8f10a1)を参照されたい。
 
   <div align="center">
     <img loading = "lazy" src="images/userscript/atcoder_predictor.png" alt="ac predictor">
