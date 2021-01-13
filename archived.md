@@ -66,6 +66,10 @@ filename: archived
     <img loading = "lazy" src="images/chrome_extension/coding_shout.png" alt="coding shout">
   </div>
 
+- [kunai](https://github.com/mouri111/kunai) ![GitHub stars](https://img.shields.io/github/stars/mouri111/kunai?style=plastic) - サンプルケースのテストができるコマンドラインツール。
+  - 理由: パッケージのインストールによる動作確認、ソースコードのビルドにおいて依存関係の解消が困難なため。
+  - 代替手段: 調査中。
+
 - [AtCoder Review](https://github.com/jueve/atcoder-review) - コンテストの復習に焦点を置いたクロスプラットフォームのデスクトップアプリケーション。
   - 理由: ドキュメントの記載はないが、ソースコードのビルドおよび配布されているインストーラの動作保証が困難な状況のため。
   - 代替手段: 調査中。
