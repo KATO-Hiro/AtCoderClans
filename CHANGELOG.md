@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-01-13
+
+- [#1313](https://github.com/KATO-Hiro/AtCoderClans/pull/1313) - (破壊的な変更) レポジトリ作成者の環境では、パッケージの動作確認やソースコードのビルドが困難なコマンドラインツールを一旦「Archived」ページへ移動。
+- [#1312](https://github.com/KATO-Hiro/AtCoderClans/pull/1312) - Rustライブラリの変換ツール「[ngtkana/procon-bundler](https://github.com/ngtkana/procon-bundler)」を追加。
+- [#1311](https://github.com/KATO-Hiro/AtCoderClans/pull/1311) - ユーザスクリプト「[ac-predictor](https://greasyfork.org/ja/scripts/369954-ac-predictor)」に、作者による技術記事の[リンク](https://qiita.com/keymoon/items/e83259f882f26c8f10a1)を追加。
+
 ### 2021-01-11
 
 - [#1306](https://github.com/KATO-Hiro/AtCoderClans/pull/1306) - (破壊的な変更) コマンドラインツールページのサブカテゴリ「環境構築」の内容を、記事ページの「コードを快適に書くための環境構築」に移動。これに伴い「[実行環境のテンプレート、サンプルレポジトリ](https://kato-hiro.github.io/AtCoderClans/media#%E5%AE%9F%E8%A1%8C%E7%92%B0%E5%A2%83%E3%81%AE%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%83%AC%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA)」を新設。
