@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-01-15
+
+- [#1320](https://github.com/KATO-Hiro/AtCoderClans/pull/1320) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[mogurin](https://atcoder.jp/users/mogurin)さんの[記事](https://mogurin1000000007.hatenablog.com/entry/2021/01/13/074016)を追加。
+
 ### 2021-01-13
 
 - [#1313](https://github.com/KATO-Hiro/AtCoderClans/pull/1313) - (破壊的な変更) レポジトリ作成者の環境では、パッケージの動作確認やソースコードのビルドが困難なコマンドラインツールを一旦「Archived」ページへ移動。
