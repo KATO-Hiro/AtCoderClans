@@ -77,6 +77,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/graph_graph.png" alt="graph graph">
   </div>
 
+- [online-judge-tools/template-generator-webapp](https://online-judge-tools.github.io/template-generator-webapp/) - コンテストの問題を解析して、提出用コードのテンプレートを出力する[Online Judge Template Generator](https://github.com/online-judge-tools/template-generator)のWebアプリ版。作者による注: コンテスト中はコマンドライン版のみ利用できる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/template_generator-webapp.png" alt="graph graph">
+  </div>
+
 - [PROCON Q&A](https://procon-qa.herokuapp.com/) - 競技プログラミングを対象とした質問と回答を投稿できる。
 
   <div align="center">
