@@ -6,6 +6,14 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-01-17
+
+- [#1326](https://github.com/KATO-Hiro/AtCoderClans/pull/1326) - Webアプリ「[online-judge-tools/template-generator-webapp](https://online-judge-tools.github.io/template-generator-webapp/)」を追加。
+- [#1325](https://github.com/KATO-Hiro/AtCoderClans/pull/1325) - 「YouTube」ページに、チャンネルを追加。
+  - [高井茅乃と毒芽えるのバ美nIQ](https://www.youtube.com/channel/UCTOxnI3eOI_o1HRgzq-LEZw/playlists)
+- [#1324](https://github.com/KATO-Hiro/AtCoderClans/pull/1324) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2400から2799まで(橙色)に[primenumber](https://atcoder.jp/users/primenumber)さんの[記事](https://primenumber.hatenadiary.jp/entry/2021/01/17/063650)を追加。
+
 ### 2021-01-15
 
 - [#1320](https://github.com/KATO-Hiro/AtCoderClans/pull/1320) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
