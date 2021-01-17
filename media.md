@@ -366,6 +366,7 @@ filename: media
 - [きりみんちゃん kirimin-chan](https://www.youtube.com/c/kiriminchan/playlists) - [kirimin](https://atcoder.jp/users/kirimin)さんのチャンネル。競技プログラミングやライブコーディングだけでなく、幅広い話題の動画が公開されている。
 - [坂道輪の競プロ](https://www.youtube.com/playlist?list=PLFi46EaoQjc-c4BoLQl7Gibo0ncGLX5A2) - [RinSakamichi](https://atcoder.jp/users/RinSakamichi)さんのチャンネル。コンテスト終了後に、問題の解答や感想を配信している。
 - [じょえチャンネル](https://www.youtube.com/channel/UCRXsI3FL_kvaVL9zoolBfbQ/videos) - [xuzijian629](https://atcoder.jp/users/xuzijian629)さんのチャンネル。斬新な企画が数多く公開されている。
+- [高井茅乃と毒芽えるのバ美nIQ](https://www.youtube.com/channel/UCTOxnI3eOI_o1HRgzq-LEZw/playlists) - [takaichino](https://atcoder.jp/users/takaichino)さんのチャンネル。コンテストの過去問を解いたり、反省会をしたりしている。
 - [どきんちゃんねる](https://www.youtube.com/channel/UCRtRY2sRe36LXjaiyhqEqCg) - [dokin](https://atcoder.jp/users/dokin)さんのチャンネル。入門者・初心者向けに、問題の考察・C++での実装過程が丁寧に解説されている。
 - [ナス太郎](https://www.youtube.com/channel/UCs7sxmQBTBqtuGzsEWCUupQ) - [DFNasutarou](https://atcoder.jp/users/DFNasutarou)さんのチャンネル。1問あたり15分以内で解き続ける動画などが公開されている。
 
