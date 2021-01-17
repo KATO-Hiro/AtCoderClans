@@ -68,6 +68,7 @@ filename: milestones
 - [35歳で競プロを始めて橙になるまでにやったこと - Kiri8128の日記](https://kiri8128.hatenablog.com/entry/2020/11/01/021053) - [Kiri8128](https://atcoder.jp/users/kiri8128)さんが、2020年10月31日に達成。
 - [AtCoder橙になりました - Motsu_xe 競プロのhogeやfuga](https://motsu-xe.hatenablog.com/entry/2020/12/07/000807) - [Motsu_xe](https://atcoder.jp/users/Motsu_xe)さんが、2020年11月28日に達成。
 - [AtCoder橙になりました。 - dokinの競技プログラミング](https://dokinac.hatenablog.com/entry/2020/12/21/170425) - [dokin](https://atcoder.jp/users/dokin)さんが、2020年11月28日に達成。
+- [AtCoder橙/Codeforces International Grandmasterになりました - prime's diary](https://primenumber.hatenadiary.jp/entry/2021/01/17/063650) - [primenumber](https://atcoder.jp/users/primenumber)さんが、2020年12月27日に達成。
 
 ### レーティング2800以上(赤色、銅王冠、銀王冠、金王冠)
 
