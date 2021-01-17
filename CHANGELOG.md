@@ -8,6 +8,7 @@ filename: CHANGELOG
 
 ### 2021-01-17
 
+- [#1330](https://github.com/KATO-Hiro/AtCoderClans/pull/1330) - [#1326](https://github.com/KATO-Hiro/AtCoderClans/pull/1326)の紹介文に、サポートされている言語を明記。
 - [#1326](https://github.com/KATO-Hiro/AtCoderClans/pull/1326) - Webアプリ「[online-judge-tools/template-generator-webapp](https://online-judge-tools.github.io/template-generator-webapp/)」を追加。
 - [#1325](https://github.com/KATO-Hiro/AtCoderClans/pull/1325) - 「YouTube」ページに、チャンネルを追加。
   - [高井茅乃と毒芽えるのバ美nIQ](https://www.youtube.com/channel/UCTOxnI3eOI_o1HRgzq-LEZw/playlists)
