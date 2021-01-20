@@ -261,6 +261,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_tle_police.png" alt="atcoder tle police">
   </div>
 
+- [AtCoder Traffic Light](https://greasyfork.org/ja/scripts/420136-atcoder-traffic-light) - 「問題」ページから、直接解説ページに移動できる。また、解説ボタンの色が読み込み状況に応じて変化する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_traffic_light.png" alt="snuke? smeke?">
+  </div>
+
 - [AtCoderタイマー削除](https://greasyfork.org/ja/scripts/393176-calmatcoder) - コンテストが開催されている間のみ、タイマーを非表示にする。
 - [Snuke? Smeke?](https://greasyfork.org/ja/scripts/377622-snuke-smeke) - 問題文の「すぬけ」と「すめけ」をハイライトする。
 
