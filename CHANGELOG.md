@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-01-20
+
+- [#1335](https://github.com/KATO-Hiro/AtCoderClans/pull/1335) - ユーザスクリプト「[AtCoder Traffic Light](https://greasyfork.org/ja/scripts/420136-atcoder-traffic-light)」を追加。
+
 ### 2021-01-17
 
 - [#1330](https://github.com/KATO-Hiro/AtCoderClans/pull/1330) - [#1326](https://github.com/KATO-Hiro/AtCoderClans/pull/1326)の紹介文に、サポートされている言語を明記。
