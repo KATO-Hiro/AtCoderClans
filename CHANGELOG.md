@@ -108,3 +108,8 @@ filename: CHANGELOG
 - [#1217](https://github.com/KATO-Hiro/AtCoderClans/pull/1217) - ユーザ名の変更告知に対応。
 
 ### Histories
+
+- [December, 2020](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2020_12.md)
+- [November, 2020](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2020_11.md)
+- [October, 2020](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2020_10.md)
+- [September, 2020](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2020_09.md)
