@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-01-23
+
+- [#1339](https://github.com/KATO-Hiro/AtCoderClans/pull/1339), [#1340](https://github.com/KATO-Hiro/AtCoderClans/pull/1340), [#1341](https://github.com/KATO-Hiro/AtCoderClans/pull/1341), [#1342](https://github.com/KATO-Hiro/AtCoderClans/pull/1342) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページが肥大化してきたため、月単位で閲覧できるように変更。
+
 ### 2021-01-20
 
 - [#1335](https://github.com/KATO-Hiro/AtCoderClans/pull/1335) - ユーザスクリプト「[AtCoder Traffic Light](https://greasyfork.org/ja/scripts/420136-atcoder-traffic-light)」を追加。
