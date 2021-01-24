@@ -15,6 +15,7 @@ filename: CHANGELOG
 - [#1350](https://github.com/KATO-Hiro/AtCoderClans/pull/1350) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
   - レーティング400から799まで(茶色)に[tyamahosen](https://atcoder.jp/users/tyamahosen)さんの[記事](https://segment-three.hatenablog.com/entry/2021/01/24/171947)を追加。
 - [#1347](https://github.com/KATO-Hiro/AtCoderClans/pull/1347) - [GitHub Action - Markdown link check](https://github.com/gaurav-nelson/github-action-markdown-link-check)のバージョンを1.0.8から1.0.12にアップデート。
+
 ### 2021-01-23
 
 - [#1339](https://github.com/KATO-Hiro/AtCoderClans/pull/1339), [#1340](https://github.com/KATO-Hiro/AtCoderClans/pull/1340), [#1341](https://github.com/KATO-Hiro/AtCoderClans/pull/1341), [#1342](https://github.com/KATO-Hiro/AtCoderClans/pull/1342) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページが肥大化してきたため、月単位で閲覧できるように変更。
