@@ -118,6 +118,12 @@
 
 [How to add Emoji Prefix to commit message](https://qiita.com/Jung0/items/0a9a7a97a2c17f92d3c5)
 
+[How to Add Twitter Card to a Web site created with Jekyll](https://blog.kakeragames.com/2015/12/15/twitter-card-with-jekyll.html)
+
+[Summary Card for Twitter](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/summary)
+
+[include tag for Jekyll](https://jekyllrb.com/docs/includes/)
+
 [Readme Driven Development; RDD](https://qiita.com/b4b4r07/items/c80d53db9a0fd59086ec)
 
 ## レポジトリ作者
