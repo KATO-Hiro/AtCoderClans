@@ -29,7 +29,7 @@ filename: milestones
 
 ### レーティング400から799まで(茶色)
 
-+ 準備中。
+- [灰色スタックしていた私が考える「茶色になるために必要なこと」 - segment_threeの日記](https://segment-three.hatenablog.com/entry/2021/01/24/171947) - [tyamahosen](https://atcoder.jp/users/tyamahosen)さんが、2021年1月23日に達成。
 
 ### レーティング800から1199まで(緑色)
 
