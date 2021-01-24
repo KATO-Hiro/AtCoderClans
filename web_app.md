@@ -237,6 +237,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_games.png" alt="atcoder games">
   </div>
 
+- [AtCoder 色別正解率](http://shobonvip.web.fc2.com/atcoder/cp/index.html) - 各種コンテストにおけるレーティング帯ごとの正解率を表示する。作者による注: 手動更新のため、最新情報の反映にやや時間を要する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_percentage_of correct_answers.png" alt="atcoder games">
+  </div>
+
 - [atcoder じゃんけん(not 本家)](https://hotman78.github.io/atcoder-janken/) - 指定した2人のユーザが共通して出場したコンテストの順位を比較できる。[本家](https://kato-hiro.github.io/AtCoderClans/archived)のリンク切れに伴い、有志が新たに作成・公開した。
 
   <div align="center">
