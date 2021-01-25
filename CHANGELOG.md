@@ -6,6 +6,13 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-01-25
+
+- [#1368](https://github.com/KATO-Hiro/AtCoderClans/pull/1368) - YouTube動画「[2分で始める競技プログラミング【高井茅乃 #31】](https://www.youtube.com/watch?v=F4_1yWI5Z-Y&feature=youtu.be)」を追加。
+- [#1366](https://github.com/KATO-Hiro/AtCoderClans/pull/1366) - リンク切れの資料集を暫定的に「archived」ページへ移動。
+- [#1365](https://github.com/KATO-Hiro/AtCoderClans/pull/1365) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1200から1599まで(水色)に[Makutamoto](https://atcoder.jp/users/Makutamoto)さんの[記事](https://qiita.com/makutamoto/items/46aad858376ea8768ec1?utm_content=bufferbfdce&utm_medium)を追加。
+
 ### 2021-01-24
 
 - [#1358](https://github.com/KATO-Hiro/AtCoderClans/pull/1358), [#1356](https://github.com/KATO-Hiro/AtCoderClans/pull/1356), [#1355](https://github.com/KATO-Hiro/AtCoderClans/pull/1355) - Twitter Cardを追加。
