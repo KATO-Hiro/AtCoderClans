@@ -338,7 +338,6 @@ filename: media
 
 - [アルゴリズム・データ構造を語る会](https://drive.google.com/drive/folders/1htiwJtiSZ_ruYJYRk54cuJlJgea_XGrH) - 有志が主催するアルゴリズムやデータ構造のトークイベント(通称: ア・デの会)のスライド・動画をまとめたリンク集。
 - [data-structures](https://scrapbox.io/data-structures/) - 有志によって、データ構造に関する知見がまとめられている記事集。データ構造の説明と実装に必要な要件が簡潔に記載されている。また、C++やRustを用いた実装例やコンテストでの出題例も掲載されている。
-- [KCLC公開講座](https://drive.google.com/drive/folders/12XfIWr37AiDJpvZkygd8H2fJjJdlQOxx) - Kaisei Computer Lovers' Club (KCLC)の有志によって作成された公開資料集。競技プログラミングの入門者・初心者向けに、興味を持ってもらうためのきっかけ作り、データ構造、基礎文法などの資料が用意されている。
 
 ## Discord
 
