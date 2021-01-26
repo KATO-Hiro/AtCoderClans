@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-01-26
+
+- [#1373](https://github.com/KATO-Hiro/AtCoderClans/pull/1373) - [#1366](https://github.com/KATO-Hiro/AtCoderClans/pull/1366)に関連して、CHANGELOGの月別アーカイブにおけるリンク切れに対応。
+
 ### 2021-01-25
 
 - [#1368](https://github.com/KATO-Hiro/AtCoderClans/pull/1368) - YouTube動画「[2分で始める競技プログラミング【高井茅乃 #31】](https://www.youtube.com/watch?v=F4_1yWI5Z-Y&feature=youtu.be)」を追加。
