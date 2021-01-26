@@ -8,7 +8,7 @@ filename: CHANGELOG
 
 ### 2021-01-26
 
-- [#1373](https://github.com/KATO-Hiro/AtCoderClans/pull/1373) - [#1366](https://github.com/KATO-Hiro/AtCoderClans/pull/1366)に関連して、CHANGELOGの月別アーカイブにおけるリンク切れに対応。
+- [#1373](https://github.com/KATO-Hiro/AtCoderClans/pull/1373) - [#1366](https://github.com/KATO-Hiro/AtCoderClans/pull/1366)に関連して、「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの月別アーカイブにおけるリンク切れに対応。
 
 ### 2021-01-25
 
