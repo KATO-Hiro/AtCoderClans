@@ -112,6 +112,14 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/codeforces/hightail.png" alt="hightail">
   </div>
 
+### Hamako Online Judge
+
+- [Hamako Online Judge](https://hoj.hamako-ths.ed.jp/onlinejudge/) - 不定期にコンテストが開催されている。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/hoj/hoj.png" alt="hoj">
+  </div>
+
 ### JOI (Japanese Olympiad in Informatics)と関連サービス
 
 #### JOI
