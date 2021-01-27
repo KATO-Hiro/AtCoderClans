@@ -204,6 +204,14 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/topcoder/greed.png" alt="greed">
   </div>
 
+### Wind Bel Contest
+
+- [Wind Bel Contest](https://mario.exout.net/contests/) - テーマ別のコンテストが不定期に開催されている。注: [AtCoder](https://atcoder.jp/)とは、提出方法やSNSへの書き込みのルールが異なるため、事前の確認を推奨。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/wind_bel_contest/wind_bel_contest.png" alt="wind bel contest">
+  </div>
+
 ### yukicoder
 
 - [yukicoder problems](https://iilj.github.io/yukicoder-problems/#/table/) - 開催されたコンテストの問題一覧、ユーザの正誤状況などを確認できるWebアプリ。
