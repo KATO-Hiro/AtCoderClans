@@ -25,6 +25,7 @@ filename: related_contest_sites
 - [Topcoder](#topcoder)
   - [Webサイトと関連リンク](#web%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A8%E9%96%A2%E9%80%A3%E3%83%AA%E3%83%B3%E3%82%AF)
   - [プラグイン](#%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3)
+- [Wind Bel Contest](#wind-bel-contest)
 - [yukicoder](#yukicoder)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
