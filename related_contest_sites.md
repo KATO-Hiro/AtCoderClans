@@ -155,6 +155,14 @@ filename: related_contest_sites
 
 - [OI Public Library](https://github.com/enkerewpo/OI-Public-Library) - アルゴリズムに関する資料集。中国語と英語で提供されている。
 
+### くそなぞなぞ Beginner Contest
+
+- [くそなぞなぞ Beginner Contest](https://twitter.com/BeginnerContest) - ウィットに富んだ「なぞなぞ」が出題されるコンテスト。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/kbc/kbc.png" alt="kbc">
+  </div>
+
 ### MAO (Markov Algorithm Online)
 
 - [Markov Algorithm Online](https://mao.snuke.org/) - マルコフアルゴリズムを利用したパズル形式の問題を解くことができるWebサイト。有志によって、[チュートリアル](https://dic.nicovideo.jp/a/%E3%83%9E%E3%83%AB%E3%82%B3%E3%83%95%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)が用意されている。
