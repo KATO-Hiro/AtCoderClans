@@ -6,6 +6,14 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-01-27
+
+「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、以下のオンラインジャッジ・コンテストサイトを追加。
+
+- [#1380](https://github.com/KATO-Hiro/AtCoderClans/pull/1380) - [Hamako Online Judge](https://hoj.hamako-ths.ed.jp/onlinejudge/)
+- [#1379](https://github.com/KATO-Hiro/AtCoderClans/pull/1379) - [くそなぞなぞ Beginner Contest](https://twitter.com/BeginnerContest)
+- [#1378](https://github.com/KATO-Hiro/AtCoderClans/pull/1378) - [Wind Bel Contest](https://mario.exout.net/contests/)
+
 ### 2021-01-26
 
 - [#1373](https://github.com/KATO-Hiro/AtCoderClans/pull/1373) - [#1366](https://github.com/KATO-Hiro/AtCoderClans/pull/1366)に関連して、「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの月別アーカイブにおけるリンク切れに対応。
