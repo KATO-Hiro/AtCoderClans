@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-01-28
+
+- [#1386](https://github.com/KATO-Hiro/AtCoderClans/pull/1386) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2000から2399まで(黄色)に[qumazaki](https://atcoder.jp/users/qumazaki)さんの[記事](https://qumazaki.hatenablog.com/entry/2021/01/27/224139)を追加。
+
 ### 2021-01-27
 
 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、以下のオンラインジャッジ・コンテストサイトを追加。
