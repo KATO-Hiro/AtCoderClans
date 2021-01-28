@@ -63,6 +63,7 @@ filename: milestones
 - [AtCoderで黄色になりましたか？ - かわらにかわらは割れない](http://brokentile.hatenablog.com/entry/2020/12/18/073314) - kawara_yさんが、2020年11月8日に達成。
 - [Y.Y. の Y は Yellow の Y](https://ygussany.hatenablog.com/entry/2020/12/04/000000) - [ygussany](https://atcoder.jp/users/ygussany)さんが、2020年11月15日に達成。
 - [AtCoderで黄色上位になるまでにやったこと](https://qiita.com/trineutron/items/f2d676d669db352260e7) - [Trineutron](https://atcoder.jp/users/Trineutron)さんが、2020年11月28日に達成。
+- [pythonでatcoderで黄色になりました - qumazakiのブログ](https://qumazaki.hatenablog.com/entry/2021/01/27/224139) - [qumazaki](https://atcoder.jp/users/qumazaki)さんが、2021年1月16日に達成。
 
 ### レーティング2400から2799まで(橙色)
 
