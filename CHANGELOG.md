@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-01-31
+
+- [#1393](https://github.com/KATO-Hiro/AtCoderClans/pull/1393) - 記事「[AtCoderに登録したら次にやること ～ これだけ解けば十分闘える！過去問精選10問 ～](https://qiita.com/drken/items/fd4e5e3630d0f5859067) ([AtCoder Beginners Selection](https://atcoder.jp/contests/abs))」に、主要言語の解答例を追加。
+- [#1392](https://github.com/KATO-Hiro/AtCoderClans/pull/1392) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2000から2399まで(黄色)に [shakayami](https://atcoder.jp/users/shakayami)さんの[記事](https://shakayami.hatenablog.com/entry/2020/12/06/020255)を追加。
+
 ### 2021-01-28
 
 - [#1386](https://github.com/KATO-Hiro/AtCoderClans/pull/1386) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
