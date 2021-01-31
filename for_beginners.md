@@ -40,11 +40,34 @@ A1: 入門者、初心者向けの教材や記事を読んでみましょう。[
 - [2分で始める競技プログラミング【高井茅乃 #31】](https://www.youtube.com/watch?v=F4_1yWI5Z-Y&feature=youtu.be) - 競技プログラミングの概説、[AtCoder](https://atcoder.jp/)のアカウント登録、練習問題を解く方法が2分で紹介されています。
 - [AtCoderの始め方。競プロに興味はあるけどやっていないという方へ。](https://www.youtube.com/watch?v=vxBOC08XZ44&feature=youtu.be) - 教育系エンジニアによる[AtCoder](https://atcoder.jp/)の紹介動画です。競技プログラミングの解説に加えて、便利なサービス・ツールが紹介されています。
 - [どきんちゃんねる](https://www.youtube.com/channel/UCRtRY2sRe36LXjaiyhqEqCg) - [dokin](https://atcoder.jp/users/dokin)さんのYouTubeチャンネルです。入門者・初心者向けに、問題の考察・C++での実装過程が丁寧に解説されています。
-- [AtCoderに登録したら次にやること ～ これだけ解けば十分闘える！過去問精選10問 ～](https://qiita.com/drken/items/fd4e5e3630d0f5859067) - [AtCoder](https://atcoder.jp/)のコンテストに初めて参加する方に向けた精選10問を紹介した記事です。さまざまな言語による回答例のリンクなどの資料も充実しています。
+- [AtCoderに登録したら次にやること ～ これだけ解けば十分闘える！過去問精選10問 ～](https://qiita.com/drken/items/fd4e5e3630d0f5859067) - [AtCoder](https://atcoder.jp/)のコンテストに初めて参加する方に向けた精選10問を紹介した記事です。さまざまな言語による解答例のリンクなどの資料も充実しています。
 
   <div align="center">
     <img loading = "lazy" src="images/official/home_abs.png" alt="atcoder problems">
   </div>
+
+  C++以外の言語による解答例(リンク元より一部抜粋。注:記事に掲載されているコードが最新のジャッジシステムで動作しない場合もあります)
+
+  - [C](https://qiita.com/cielavenir/items/ee1e47b844d05dcfc66e)
+  - [Crystal](https://qiita.com/tomerun/items/23ce2a2ed6ead291d222)
+  - [C#](https://qiita.com/NotFounds/items/7b166af69a6f52a332de)
+  - [D](http://takeo1116.sakura.ne.jp/ABS_D.html)
+  - [Elixir](https://qiita.com/koyo-miyamura/items/9f224a3e56ea75939dca)
+  - [Fortran](https://yukiutaai.wordpress.com/2018/03/21/atcoder%e3%81%ab%e7%99%bb%e9%8c%b2%e3%81%97%e3%81%9f%e3%82%89%e8%a7%a3%e3%81%8f%e3%81%b9%e3%81%8d%e7%b2%be%e9%81%b8%e9%81%8e%e5%8e%bb%e5%95%8f10%e3%82%92fortran%e3%81%a7%e8%a7%a3%e3%81%84%e3%81%a6/)
+  - [F#](https://qiita.com/kuuso1/items/606b75c172cafa1d07f6)
+  - [Go](https://qiita.com/ktateish/items/afdda77497c8e2ee0742)
+  - [Haskell](https://qiita.com/hsjoihs/items/25a08b426196ab2b9bb0)
+  - [Java](https://qiita.com/0x841/items/0ce887c86cf081312a08#)
+  - [JavaScript](https://qiita.com/ytanto/items/caf7bf0ba287da81b20f)
+  - [Kotlin](https://sites.google.com/view/ymatsux/atcoder-abs-kotlin)
+  - [Nim](https://qiita.com/Kutimoti_T/items/635bacddfa1304de40db)
+  - [Perl6 (Raku)](https://qiita.com/kotatsugame/items/dd73cf6441b17f27bb01)
+  - [PHP](https://qiita.com/rock619/items/3c4cc60416c94d081c54)
+  - [Python3](http://delta114514.hatenablog.jp/entry/2018/03/15/014555)
+  - [Ruby](https://qiita.com/d_nishiyama85/items/f79e034f6dcd4175cdc1)
+  - [Rust](https://qiita.com/tubo28/items/e6076e9040da57368845)
+  - [Scala](https://qiita.com/kgtkr/items/9b5798d02563e885d2ac)
+  - [Swift](https://qiita.com/cielavenir/items/b90a94dce60a620fa2dc)
 
 - [レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【初級編：競プロを始めよう】](https://qiita.com/e869120/items/f1c6f98364d1443148b3) - 初心者に向けて競技プログラミングの特徴・面白さ、アカウントの登録方法やレーティングの説明がされている記事です。さらに、上達するためのガイドラインが丁寧に解説されています。
 - [AtCoderでの勉強の仕方（コンテスト編）](http://chokudai.hatenablog.com/entry/2014/08/07/212849) - [AtCoder](https://atcoder.jp/)社長の[chokudai](https://twitter.com/chokudai)さんによる記事です。プログラミングコンテストの参加を通して、アルゴリズムの学習を継続的に行う方法が解説されています。
