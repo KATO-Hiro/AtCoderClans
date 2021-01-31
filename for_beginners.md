@@ -46,7 +46,7 @@ A1: 入門者、初心者向けの教材や記事を読んでみましょう。[
     <img loading = "lazy" src="images/official/home_abs.png" alt="atcoder problems">
   </div>
 
-  C++以外の言語による解答例(リンク元より一部抜粋、注:記事が古くなっている可能性もある)
+  C++以外の言語による解答例(リンク元より一部抜粋。注:記事に掲載されているコードが最新のジャッジシステムで動作しない場合もあります)
 
   - [C](https://qiita.com/cielavenir/items/ee1e47b844d05dcfc66e)
   - [Crystal](https://qiita.com/tomerun/items/23ce2a2ed6ead291d222)

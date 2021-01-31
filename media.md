@@ -63,7 +63,7 @@ filename: media
 - [アルゴリズムとは何か！？ ～ 文系理系問わず楽しめる精選6問 ～](https://qiita.com/drken/items/f909b79ee03e679c7142) - [drken](https://atcoder.jp/users/drken)さんによる記事。アルゴリズムとは何か?という疑問に対して、平易で分かりやすい文章と図表を駆使して解説されている。また、アルゴリズムを学ぶ意義・メリットについても書かれている。
 - [AtCoderに登録したら次にやること ～ これだけ解けば十分闘える！過去問精選10問 ～](https://qiita.com/drken/items/fd4e5e3630d0f5859067) - [drken](https://atcoder.jp/users/drken)さんによる、[AtCoder](https://atcoder.jp/)のコンテストに初めて参加する方に向けた精選10問。さまざまな言語による解答例のリンクなどの資料も充実している。
 
-  C++以外の言語による解答例(リンク元より一部抜粋、注:記事が古くなっている可能性もある)
+  C++以外の言語による解答例(リンク元より一部抜粋。注:記事に掲載されているコードが最新のジャッジシステムで動作しない場合もある)
 
   - [C](https://qiita.com/cielavenir/items/ee1e47b844d05dcfc66e)
   - [Crystal](https://qiita.com/tomerun/items/23ce2a2ed6ead291d222)
