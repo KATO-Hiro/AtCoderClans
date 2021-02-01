@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-02-01
+
+- [#1399](https://github.com/KATO-Hiro/AtCoderClans/pull/1399) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[Flkanjin](https://atcoder.jp/users/Flkanjin)さんの[記事](https://flkanjin.hatenablog.com/entry/2021/02/01/095417)を追加。
+
 ### 2021-01-31
 
 - [#1393](https://github.com/KATO-Hiro/AtCoderClans/pull/1393) - 記事「[AtCoderに登録したら次にやること ～ これだけ解けば十分闘える！過去問精選10問 ～](https://qiita.com/drken/items/fd4e5e3630d0f5859067) ([AtCoder Beginners Selection](https://atcoder.jp/contests/abs))」に、主要言語の解答例を追加。
