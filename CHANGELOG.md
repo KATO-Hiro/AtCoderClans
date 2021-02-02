@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-02-02
+
+- [#1404](https://github.com/KATO-Hiro/AtCoderClans/pull/1404) - 記事「[DPまとめコンテスト（EDPC）解説 目次](https://kyopro-friends.hatenablog.com/entry/2019/01/12/230754)」を追加。
+
 ### 2021-02-01
 
 - [#1399](https://github.com/KATO-Hiro/AtCoderClans/pull/1399) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
