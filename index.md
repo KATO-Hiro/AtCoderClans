@@ -124,6 +124,8 @@ filename: index
 
 [include tag for Jekyll](https://jekyllrb.com/docs/includes/)
 
+[Favicon Generator - Text to Favicon - favicon.io](https://favicon.io/favicon-generator/)
+
 [Readme Driven Development; RDD](https://qiita.com/b4b4r07/items/c80d53db9a0fd59086ec)
 
 ## レポジトリ作者
