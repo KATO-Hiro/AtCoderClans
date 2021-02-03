@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-02-03
+
+- [#1409](https://github.com/KATO-Hiro/AtCoderClans/pull/1409), [#1412](https://github.com/KATO-Hiro/AtCoderClans/pull/1412) - ブラウザのタブに、ページ名ではなくサイト名が表示されるように修正。HTMLのテンプレートファイルにmeta属性を追加。
+- [#1407](https://github.com/KATO-Hiro/AtCoderClans/pull/1407) - faviconを追加。
+
 ### 2021-02-02
 
 - [#1404](https://github.com/KATO-Hiro/AtCoderClans/pull/1404) - 記事「[DPまとめコンテスト（EDPC）解説 目次](https://kyopro-friends.hatenablog.com/entry/2019/01/12/230754)」を追加。
