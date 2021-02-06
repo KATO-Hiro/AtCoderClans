@@ -169,7 +169,6 @@ filename: media
 - [【競技プログラミング】online dynamic connectivity(削除可能union-find)の作り方を詳しく解説！！！](https://qiita.com/hotman78/items/78cd3aa50b05a57738d4) - Dynamic Connectivity(Union-Findの削除可能版)の構築と実装方法を解説した記事。前提として、平行二分木に関する知識が求められる。注: 筆者によると、作成難易度はかなり高い。
 - ["データ構造をマージする一般的なテク"とは？](http://web.archive.org/web/20181213115442/http://topcoder.g.hatena.ne.jp/iwiwi/20131226/1388062106) - データ構造に効率的なマージ機能を追加する方法を解説した記事。Union Find Treeの`merge`を高速化したときの工夫を応用している。注: 原典は記事投稿サービスの終了で閲覧できないため、アーカイブを掲載。
 - [データ構造 Fenwick tree (binary indexed tree, BIT) にどっぷりと入門し、その美しき構造に心を洗われたい方のための紹介記事です！](https://qiita.com/ngtkana/items/7d50ff180a4e5c294cb7) - データ構造の一つであるFenwick tree(Binary Indexed Tree、BIT)の基本的な理論について数式とグラフを用いた詳しい説明や実装のコツが解説されている。また、応用例として、二分探索の実行、二次元への拡張方法などが解説されている。
-- [Dinic法とその時間計算量](http://misawa.github.io/others/flow/dinic_time_complexity.html) - Dinic法(最大流問題を効率的に解くことができ、かつ、比較的実装が容易なアルゴリズム)について、標準的な実装方法を解説した記事。実装を間違えると、計算量が指数オーダーになることが指摘されている。
 - [容量スケーリング法のすゝめ](https://misawa.github.io/others/flow/lets_use_capacity_scaling.html) - 最小費用流問題に対する容量スケーリング法と、その実装方法を紹介した記事。
 - [「1000000007で割ったあまり」の求め方を総特集！ 〜 逆元から離散対数まで 〜](https://qiita.com/drken/items/3b4fdf0a78e7a138cd9a) - コンテストで頻出の「1000000007で割ったあまり」を求める問題への対策をまとめた記事。このような問題が出題される理由の説明から、四則演算・累乗・二項係数など幅広い話題について解説されている。
 - [平方分割の練習をしようにも難しい問題ばかり、そんなお悩みに狙いを決めて手取り足取りのレクチャーです！](https://caddi.tech/archives/1259) - [Aizu Online Judge](https://onlinejudge.u-aizu.ac.jp/home)の[Range Sum Query](https://onlinejudge.u-aizu.ac.jp/courses/library/3/DSL/2/DSL_2_B)を題材に、平方分割の本質部分を実装するための方法が解説されている。
@@ -226,6 +225,7 @@ filename: media
 - [競プロに便利な C++17 新機能まとめ](https://qiita.com/Reputeless/items/db7dda0096f3ae91d450) - 競技プログラミングに役立つC++17の標準ライブラリ、言語機能が16種類紹介されている。記事のサンプルコードは、[AtCoder](https://atcoder.jp/)のGCC9.2.1システムで動作確認済み。
 - [厳選！C++ アルゴリズム実装に使える25のSTL機能【前編】](https://qiita.com/e869120/items/518297c6816adb67f9a5) - 競技プログラミングコンテストへの参加やアルゴリズムの学習で便利なC++の標準ライブラリ(STL)と実装例が紹介されている。[後編](https://qiita.com/e869120/items/702ca1c1ed6ff6770257)もある。
 - [代数的構造を乗せるデータ構造の設計について](https://noshi91.hatenablog.com/entry/2020/04/22/212649) - 代数的構造を乗せるデータ構造の設計方法について、「静的メンバを実装した型を受け取る」方法を中心とした5種類を比較し、その利点・欠点を解説している。
+- [Dinic法とその時間計算量](http://misawa.github.io/others/flow/dinic_time_complexity.html) - Dinic法(最大流問題を効率的に解くことができ、かつ、比較的実装が容易なアルゴリズム)について、標準的な実装方法を解説した記事。実装を間違えると、計算量が指数オーダーになることが指摘されている。
 - [任意modでの畳み込み演算をO(nlog(n))で](https://math314.hateblo.jp/entry/2015/05/07/014908) - 畳み込み演算を行うときに、任意のmodを使って高速に計算する方法・実装について解説した記事。
 
 #### C&#35;
