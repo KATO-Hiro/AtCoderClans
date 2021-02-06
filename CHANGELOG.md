@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-02-06
+
+- [#1421](https://github.com/KATO-Hiro/AtCoderClans/pull/1421) - 記事「[atcoder::lazy_segtreeに1行書き足すだけの抽象化 Segment Tree Beats](https://rsm9.hatenablog.com/entry/2021/02/01/220408)」を追加。
+- [#1420](https://github.com/KATO-Hiro/AtCoderClans/pull/1420) - 記事「[Dinic法とその時間計算量](http://misawa.github.io/others/flow/dinic_time_complexity.html)」を追加。
+
 ### 2021-02-03
 
 - [#1409](https://github.com/KATO-Hiro/AtCoderClans/pull/1409), [#1412](https://github.com/KATO-Hiro/AtCoderClans/pull/1412) - ブラウザのタブに、ページ名ではなくサイト名が表示されるように修正。HTMLのテンプレートファイルにmeta属性を追加。
