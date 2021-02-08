@@ -10,6 +10,7 @@ filename: CHANGELOG
 
 - [#1433](https://github.com/KATO-Hiro/AtCoderClans/pull/1433) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
   - レーティング2000から2399まで(黄色)に[kaikey](https://atcoder.jp/users/kaikey)さんの[記事](https://kaikey.hatenablog.com/entry/2021/02/08/192647)を追加。
+
 ### 2021-02-07
 
 - [#1426](https://github.com/KATO-Hiro/AtCoderClans/pull/1426), - [#1428](https://github.com/KATO-Hiro/AtCoderClans/pull/1428) - Tweetボタンを試験的に設置。
