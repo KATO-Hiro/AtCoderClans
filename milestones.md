@@ -66,6 +66,7 @@ filename: milestones
 - [AtCoderで黄色上位になるまでにやったこと](https://qiita.com/trineutron/items/f2d676d669db352260e7) - [Trineutron](https://atcoder.jp/users/Trineutron)さんが、2020年11月28日に達成。
 - [AtCoderで黄色になった - shakayamiの日記](https://shakayami.hatenablog.com/entry/2020/12/06/020255) - [shakayami](https://atcoder.jp/users/shakayami)さんが、2020年12月5日に達成。
 - [pythonでatcoderで黄色になりました - qumazakiのブログ](https://qumazaki.hatenablog.com/entry/2021/01/27/224139) - [qumazaki](https://atcoder.jp/users/qumazaki)さんが、2021年1月16日に達成。
+- [AtCoder 黄 になりました - kaikey’s diary](https://kaikey.hatenablog.com/entry/2021/02/08/192647) - [kaikey](https://atcoder.jp/users/kaikey)さんが、2021年2月6日に達成。
 
 ### レーティング2400から2799まで(橙色)
 
