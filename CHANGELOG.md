@@ -13,7 +13,7 @@ filename: CHANGELOG
 
 ### 2021-02-07
 
-- [#1426](https://github.com/KATO-Hiro/AtCoderClans/pull/1426), - [#1428](https://github.com/KATO-Hiro/AtCoderClans/pull/1428) - Tweetボタンを試験的に設置。
+- [#1426](https://github.com/KATO-Hiro/AtCoderClans/pull/1426), [#1428](https://github.com/KATO-Hiro/AtCoderClans/pull/1428) - Tweetボタンを試験的に設置。
 - [#1425](https://github.com/KATO-Hiro/AtCoderClans/pull/1425) - スライド資料「[プログラミングコンテストにおける計算幾何入門](https://www.ioi-jp.org/camp/2017/2017-sp_camp-hide.pdf)」を追加。
 
 ### 2021-02-06
