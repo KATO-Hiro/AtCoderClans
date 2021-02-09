@@ -36,6 +36,7 @@ A1: 入門者、初心者向けの教材や記事を読んでみましょう。[
     <img loading = "lazy" src="images/official/home_apg4b.png" alt="atcoder problems">
   </div>
 
+- [APG4bからAtCoderを始めた人向けの導線](https://mogurin1000000007.hatenablog.com/entry/2021/02/09/162158) - [APG4b](https://atcoder.jp/contests/APG4b)の概説と、APG4bをある程度学習した人に向けた基本的な練習方法やTipsが紹介されている記事です。
 - [AtCoder 布教 PV](https://www.youtube.com/watch?v=-z3bTeA_SEY&feature=youtu.be) - 有志による[AtCoder](https://atcoder.jp/)のプロモーションビデオです。特に、競技プログラミングを始めようと思っている人や周囲に布教したい人におすすめです。
 - [2分で始める競技プログラミング【高井茅乃 #31】](https://www.youtube.com/watch?v=F4_1yWI5Z-Y&feature=youtu.be) - 競技プログラミングの概説、[AtCoder](https://atcoder.jp/)のアカウント登録、練習問題を解く方法が2分で紹介されています。
 - [AtCoderの始め方。競プロに興味はあるけどやっていないという方へ。](https://www.youtube.com/watch?v=vxBOC08XZ44&feature=youtu.be) - 教育系エンジニアによる[AtCoder](https://atcoder.jp/)の紹介動画です。競技プログラミングの解説に加えて、便利なサービス・ツールが紹介されています。
