@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-02-09
+
+- [#1442](https://github.com/KATO-Hiro/AtCoderClans/pull/1442) - [Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの誤字脱字を修正。
+- [#1441](https://github.com/KATO-Hiro/AtCoderClans/pull/1441) - 記事「[AtCoderを120%楽しむために便利な拡張機能](https://dailylife.dev/posts/79#body)」を追加。
+- [#1439](https://github.com/KATO-Hiro/AtCoderClans/pull/1439) - 記事「[APG4bからAtCoderを始めた人向けの導線](https://mogurin1000000007.hatenablog.com/entry/2021/02/09/162158)」を追加。
+
 ### 2021-02-08
 
 - [#1433](https://github.com/KATO-Hiro/AtCoderClans/pull/1433) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
