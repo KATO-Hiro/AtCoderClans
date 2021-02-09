@@ -28,6 +28,10 @@ filename: scripts
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## 便利なユーザスクリプト、拡張機能の紹介記事
+
+- [AtCoderを120%楽しむために便利な拡張機能](https://dailylife.dev/posts/79#body) - 記事の作成者が便利だと感じたユーザスクリプトや拡張機能が紹介されている記事。ユーザスクリプト、拡張機能を初めて使う方にもおすすめ。
+
 ## ユーザスクリプト
 
 主に[AtCoder](https://atcoder.jp/)のWebページにある機能を拡張することができます。
