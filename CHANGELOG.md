@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-02-10
+
+- [#1447](https://github.com/KATO-Hiro/AtCoderClans/pull/1447) - Google Chromeの拡張機能「[AtCoder Opener](https://chrome.google.com/webstore/detail/atcoder-opener/fcfbcmhldmilebbhlapaekahjlcflinl)」を追加。
+
 ### 2021-02-09
 
 - [#1442](https://github.com/KATO-Hiro/AtCoderClans/pull/1442) - 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの誤字脱字を修正。
