@@ -435,6 +435,12 @@ Google Chromeに機能を追加します。
     <img loading = "lazy" src="images/chrome_extension/atcoder_google_calender.png" alt="atcoder calendar">
   </div>
 
+- [AtCoder Opener](https://chrome.google.com/webstore/detail/atcoder-opener/fcfbcmhldmilebbhlapaekahjlcflinl) - コンテストの「トップ」ページで拡張機能のボタン(Aのマーク)をクリックすると、「印刷用問題文」と「提出」ページを新しいタブで開くことができる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/chrome_extension/atcoder_opener.png" alt="atcoder opener">
+  </div>
+
 - [AtCoder-Submission-RadioButton](https://chrome.google.com/webstore/detail/atcoder-submission-radiob/hkehpabdllmdfmflgjofmgcdbmjafcdd?hl=ja&gl=UA) - 「提出」ページに、各問題を選択するラジオボタンを設置する。[ユーザスクリプト版](https://greasyfork.org/ja/scripts/390828-atcoder-submission-radiobutton)もある。
 
   <div align="center">
