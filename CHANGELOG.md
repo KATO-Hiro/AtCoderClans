@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-02-12
+
+- [#1450](https://github.com/KATO-Hiro/AtCoderClans/pull/1450) - 「YouTube」ページに、VTuberのチャンネルを追加。
+  - [文月このは](https://www.youtube.com/playlist?list=PLhu1EKNfmGwS75JjK2YeMRm9AVcubN0WO)
+
 ### 2021-02-10
 
 - [#1447](https://github.com/KATO-Hiro/AtCoderClans/pull/1447) - Google Chromeの拡張機能「[AtCoder Opener](https://chrome.google.com/webstore/detail/atcoder-opener/fcfbcmhldmilebbhlapaekahjlcflinl)」を追加。
