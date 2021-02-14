@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-02-14
+
+- [#1457](https://github.com/KATO-Hiro/AtCoderClans/pull/1457) - ユーザスクリプト「[AtCoderUsers](https://greasyfork.org/ja/scripts/420811-atcoderusers)」を追加。
+
 ### 2021-02-12
 
 - [#1450](https://github.com/KATO-Hiro/AtCoderClans/pull/1450) - 「YouTube」ページに、VTuberのチャンネルを追加。
