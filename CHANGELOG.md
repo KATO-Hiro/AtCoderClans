@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-02-15
+
+- [#1462](https://github.com/KATO-Hiro/AtCoderClans/pull/1462) - 「YouTube」ページに、チャンネルを追加。
+  - [Rute _](https://www.youtube.com/channel/UCvB4r-9OCn84AohIsnvLYhA)
+
 ### 2021-02-14
 
 - [#1457](https://github.com/KATO-Hiro/AtCoderClans/pull/1457) - ユーザスクリプト「[AtCoderUsers](https://greasyfork.org/ja/scripts/420811-atcoderusers)」を追加。
