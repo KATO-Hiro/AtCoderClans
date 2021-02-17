@@ -6,6 +6,13 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-02-17
+
+- [#1467](https://github.com/KATO-Hiro/AtCoderClans/pull/1467) - 「YouTube」ページに、[chokudai](https://twitter.com/chokudai)さんが出演している動画を追加。
+  - [これから身につけるべきITスキルとは?](https://www.youtube.com/watch?v=oSIRyxJNBrI&feature=youtu.be)
+- [#1466](https://github.com/KATO-Hiro/AtCoderClans/pull/1466) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に [parentheses](https://atcoder.jp/users/parentheses)さんの[記事](https://mts1104.hatenablog.com/entry/2021/02/14/144505)を追加。
+
 ### 2021-02-15
 
 - [#1462](https://github.com/KATO-Hiro/AtCoderClans/pull/1462) - 「YouTube」ページに、チャンネルを追加。
