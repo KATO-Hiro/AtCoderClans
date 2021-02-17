@@ -8,10 +8,12 @@ filename: CHANGELOG
 
 ### 2021-02-17
 
+- [#1471](https://github.com/KATO-Hiro/AtCoderClans/pull/1471) - 記事作成者のご希望により、該当箇所を削除。
 - [#1467](https://github.com/KATO-Hiro/AtCoderClans/pull/1467) - 「YouTube」ページに、[chokudai](https://twitter.com/chokudai)さんが出演している動画を追加。
   - [これから身につけるべきITスキルとは?](https://www.youtube.com/watch?v=oSIRyxJNBrI&feature=youtu.be)
 - [#1466](https://github.com/KATO-Hiro/AtCoderClans/pull/1466) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
   - レーティング1600から1999まで(青色)に [parentheses](https://atcoder.jp/users/parentheses)さんの記事を追加。
+  - 追記: 記事作成者から掲載取り下げの依頼を受けたため、[#1471](https://github.com/KATO-Hiro/AtCoderClans/pull/1471)で該当箇所を削除。
 
 ### 2021-02-15
 
