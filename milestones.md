@@ -56,6 +56,7 @@ filename: milestones
 - [プログラミング未経験者がAtCoder青になった話](https://qiita.com/soraie/items/9c5ea617cdd6547e2853) - [soraie](https://atcoder.jp/users/soraie)さんが、2020年12月19日に達成。
 - [青色になりました - モグリンの競プロ備忘録](https://mogurin1000000007.hatenablog.com/entry/2021/01/13/074016) - [mogurin](https://atcoder.jp/users/mogurin)さんが、2021年1月10日に達成。
 - [AtCoder青コーダーになりました - Flkanjin’s 競プロ録](https://flkanjin.hatenablog.com/entry/2021/02/01/095417) - [Flkanjin](https://atcoder.jp/users/Flkanjin)さんが、2021年1月23日に達成。
+- [AtCoder青色になりました - mts1104’s blog](https://mts1104.hatenablog.com/entry/2021/02/14/144505) - [parentheses](https://atcoder.jp/users/parentheses)さんが、2021年2月13日に達成。
 
 ### レーティング2000から2399まで(黄色)
 
