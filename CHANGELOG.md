@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-02-18
+
+- [#1479](https://github.com/KATO-Hiro/AtCoderClans/pull/1479) - Webアプリ「[一度も冷えなかった◯◯](https://tarareba.herokuapp.com/vote/)」を追加。
+
 ### 2021-02-17
 
 - [#1474](https://github.com/KATO-Hiro/AtCoderClans/pull/1474) - 「レーティングの節目に到達した喜びをつづった記事」ページの説明に注釈を追加。
