@@ -8,6 +8,7 @@ filename: CHANGELOG
 
 ### 2021-02-17
 
+- [#1474](https://github.com/KATO-Hiro/AtCoderClans/pull/1474) - 「レーティングの節目に到達した喜びをつづった記事」ページの説明に注釈を追加。
 - [#1471](https://github.com/KATO-Hiro/AtCoderClans/pull/1471) - 記事作成者のご希望により、該当箇所を削除。
 - [#1467](https://github.com/KATO-Hiro/AtCoderClans/pull/1467) - 「YouTube」ページに、[chokudai](https://twitter.com/chokudai)さんが出演している動画を追加。
   - [これから身につけるべきITスキルとは?](https://www.youtube.com/watch?v=oSIRyxJNBrI&feature=youtu.be)
