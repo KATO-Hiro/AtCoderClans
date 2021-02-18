@@ -304,6 +304,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/where_does_your_rating_come_from.png" alt="where does your rating come from?">
   </div>
 
+- [一度も冷えなかった◯◯](https://tarareba.herokuapp.com/vote/) - 参加したコンテストのうち、レーティングが単調増加となる結果だけを用いて、その推移を表示する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/tarareba.png" alt="tarareba">
+  </div>
+
 - [今日のコンテスト結果占い](https://shindanmaker.com/1019867) - コンテストの結果を事前に占う。
 
   <div align="center">
