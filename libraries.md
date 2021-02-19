@@ -263,6 +263,7 @@ filename: libraries
 - [hideyuk1-jp/AtCoder](https://github.com/hideyuk1-jp/AtCoder/tree/master/php/lib) ![GitHub stars](https://img.shields.io/github/stars/hideyuk1-jp/AtCoder?style=plastic) - [hideyuk1](https://atcoder.jp/users/hideyuk1)さんのライブラリ。
 - [takamiyaatusi/algorithm](https://github.com/takamiyaatusi/algorithm) ![GitHub stars](https://img.shields.io/github/stars/takamiyaatusi/algorithm?style=plastic) - [takamiyaatusi](https://atcoder.jp/users/takamiyaatusi)さんのライブラリ。
 - [takepan/mylib](https://github.com/takepan/mylib) ![GitHub stars](https://img.shields.io/github/stars/takepan/mylib?style=plastic) [takepan](https://atcoder.jp/users/takepan)さんのライブラリ。
+- [ynishi2014/atcoder](https://github.com/ynishi2014/atcoder) ![GitHub Repo stars](https://img.shields.io/github/stars/ynishi2014/atcoder?style=plastic) - [yoichiro](https://atcoder.jp/users/yoichiro)さんのライブラリ。
 
 ### Python
 
