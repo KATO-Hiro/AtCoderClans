@@ -376,6 +376,7 @@ filename: media
 ### 生放送、動画配信に関するTips
 
 - [競技プログラミングやCTFの動画配信/生放送でのTips](https://kurenaif.hatenablog.com/entry/2020/11/27/223351) - [kurenaif](https://atcoder.jp/users/kurenaif)さんが、YouTubeの生放送や動画配信の経験から得られたTipsを紹介した記事。
+- [競プロ配信をするときの個人情報漏洩対策の注意点 (AtCoder)](https://harurunppp.hatenablog.com/entry/2021/02/18/235349) - 競技プログラミングの配信に興味がある方や実際に配信している方に向けて、実名・年齢・所属などの個人情報が漏洩する可能性と、その対策を紹介した記事。
 
 ### チャンネル
 
