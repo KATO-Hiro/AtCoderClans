@@ -6,6 +6,13 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-02-20
+
+- [#1498](https://github.com/KATO-Hiro/AtCoderClans/pull/1498) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[Linus](https://atcoder.jp/users/Linus)さんの[記事](https://linus-mk.hatenablog.com/entry/atcoder_blue)を追加。
+- [#1495](https://github.com/KATO-Hiro/AtCoderClans/pull/1495) - 記事「[競プロ配信をするときの個人情報漏洩対策の注意点 (AtCoder)](https://harurunppp.hatenablog.com/entry/2021/02/18/235349)」を追加。
+- [#1494](https://github.com/KATO-Hiro/AtCoderClans/pull/1494) - リンク切れの記事を一旦「Archived」ページへ移動。
+
 ### 2021-02-19
 
 - [#1489](https://github.com/KATO-Hiro/AtCoderClans/pull/1489) - PHPで実装されたライブラリを追加。
