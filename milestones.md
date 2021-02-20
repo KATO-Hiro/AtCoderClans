@@ -49,6 +49,7 @@ filename: milestones
 ### レーティング1600から1999まで(青色)
 
 - [AtCoderで青になりました - asdf1の日記](https://asdf1.hatenablog.com/entry/2020/01/13/134423) - [asdf1](https://atcoder.jp/users/asdf1)さんが、2019年12月28日に達成。
+- [AtCoder青になりました - 子供の落書き帳 Renaissance](https://linus-mk.hatenablog.com/entry/atcoder_blue) - [Linus](https://atcoder.jp/users/Linus)さんが、2020年3月14日に達成。
 - [AtCoderで青色になりました - TERRYのブログ](https://www.terry-u16.net/entry/atcoder-blue) - [terry_u16](https://atcoder.jp/users/terry_u16)さんが、2020年8月15日に達成。
 - [AtCoderで青色になりました - pitsuの記事置き場](https://pitsu-kyopro.hatenablog.jp/entry/2020/09/24/204027) - [pitsu](https://atcoder.jp/users/pitsu)さんが、2020年9月19日に達成。
 - [AtCoder青色になりました - marocasの競プロ精進日記](https://marroncastle917.hatenablog.com/) - [marroncastle917](https://atcoder.jp/users/marroncastle917)さんが、2020年10月31日に達成。
