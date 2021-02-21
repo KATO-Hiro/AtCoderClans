@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-02-21
+
+- [#1507](https://github.com/KATO-Hiro/AtCoderClans/pull/1507) - ユーザスクリプト「[AtCoder Auto Pager](https://greasyfork.org/ja/scripts/421991-atcoder-auto-pager)」を追加。
+
 ### 2021-02-20
 
 - [#1498](https://github.com/KATO-Hiro/AtCoderClans/pull/1498) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
