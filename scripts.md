@@ -307,6 +307,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/ac_favorite_manager.png" alt="ac favorite manager">
   </div>
 
+- [AtCoder Auto Pager](https://greasyfork.org/ja/scripts/421991-atcoder-auto-pager) - 「順位表」ページに、順位・得点・解答時間・パフォーマンスによる検索機能を追加する。注: パフォーマンスによる検索を行うためには、[ac-predictor](https://greasyfork.org/ja/scripts/369954-ac-predictor)を導入する必要がある。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_auto_pager.png" alt="atcoder auto pager">
+  </div>
+
 - [atcoder_collect_all_examples](https://greasyfork.org/ja/scripts/387240-atcoder-collect-all-examples) - 「問題」ページに入力例・出力例をまとめた項目を生成する。
 
   <div align="center">
