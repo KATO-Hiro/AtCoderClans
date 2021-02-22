@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-02-22
+
+- [#1510](https://github.com/KATO-Hiro/AtCoderClans/pull/1510) - 書籍「[アルゴリズム実技検定 公式テキスト[エントリー~中級編]](https://www.amazon.co.jp/gp/product/483997277X/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=rust-twitter-22&linkId=f436393e211c3e53630445f04c8d65c9&language=ja_JP)」に、著者の[解説記事](https://betrue12.hateblo.jp/entry/2021/02/20/123103)を追加。
+
 ### 2021-02-21
 
 - [#1507](https://github.com/KATO-Hiro/AtCoderClans/pull/1507) - ユーザスクリプト「[AtCoder Auto Pager](https://greasyfork.org/ja/scripts/421991-atcoder-auto-pager)」を追加。
