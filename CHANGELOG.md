@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-02-23
+
+- [#1520](https://github.com/KATO-Hiro/AtCoderClans/pull/1520) - ユーザスクリプト「[perf on standings](https://greasyfork.org/en/scripts/422106-perf-on-standings)」を追加。
+- [#1519](https://github.com/KATO-Hiro/AtCoderClans/pull/1519) - (破壊的な変更)「Archived」ページに移動していたスクリプトが作者によって削除されたため、該当リンクを削除。
+
 ### 2021-02-22
 
 - [#1510](https://github.com/KATO-Hiro/AtCoderClans/pull/1510) - 書籍「[アルゴリズム実技検定 公式テキスト[エントリー~中級編]](https://www.amazon.co.jp/gp/product/483997277X/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=rust-twitter-22&linkId=f436393e211c3e53630445f04c8d65c9&language=ja_JP)」に、著者の[解説記事](https://betrue12.hateblo.jp/entry/2021/02/20/123103)を追加。
