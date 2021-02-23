@@ -273,6 +273,13 @@ filename: scripts
   </div>
 
 - [AtCoderタイマー削除](https://greasyfork.org/ja/scripts/393176-calmatcoder) - コンテストが開催されている間のみ、タイマーを非表示にする。
+
+- [perf on standings](https://greasyfork.org/en/scripts/422106-perf-on-standings) - 「順位表」ページで、Rated対象者の順位をパフォーマンス値に対応した色で塗る。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/perf_on_standings.png" alt="perf on standings">
+  </div>
+
 - [Snuke? Smeke?](https://greasyfork.org/ja/scripts/377622-snuke-smeke) - 問題文の「すぬけ」と「すめけ」をハイライトする。
 
   <div align="center">
