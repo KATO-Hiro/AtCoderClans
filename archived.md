@@ -169,8 +169,9 @@ filename: archived
 - [AtCoder Problems Penalty Counter](https://greasyfork.org/ja/scripts/395755-atcoder-problems-penalty-counter) -  [AtCoder Problems](https://kenkoooo.com/atcoder/)のTableページで、各問題のコンテスト中のペナルティ数を表示する。
   - 理由: [AtCoder Problems](https://kenkoooo.com/atcoder/)で実装されており、追加で導入する必要性は薄いと思われるため。
   - 代替手段: [AtCoder Problems](https://kenkoooo.com/atcoder/)を利用する。
-- [AtCoderProblemsRush](https://greasyfork.org/en/scripts/373299-atcoderproblemsrush) - [AtCoder Problems](https://kenkoooo.com/atcoder/)のクローラが実行される前に、提出データをブラウザに保存し進捗状況を表示する。
+- AtCoderProblemsRush - [AtCoder Problems](https://kenkoooo.com/atcoder/)のクローラが実行される前に、提出データをブラウザに保存し進捗状況を表示する。
   - 理由: [AtCoder Problems](https://kenkoooo.com/atcoder/)での進捗状況が短時間で更新されるようになり、追加で導入する必要性は薄いと思われるため。
+  - 2021年2月23日追記: スクリプトのリンクが削除されているのを確認。
 - [AtCoder Rating Simulator](https://twitter.com/AtCoderRS) - Ratedコンテスト当日に、所定のレーティングに到達するのに必要なパフォーマンスを自動返信するTwitter Bot。
   - 理由: 開発者により、Twitterアカウントの運用終了が告知されたため([出典](https://twitter.com/AtCoderRS/status/1323666246173413376))。
   - 代替手段: 同名の[Webページ版](https://atcoderratingsimulator.herokuapp.com/)を利用する。
