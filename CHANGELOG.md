@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-02-24
+
+- [#1529](https://github.com/KATO-Hiro/AtCoderClans/pull/1529) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに「[42nd KCLC](https://kclc-kaisei.github.io/index.html)」を追加。
+- [#1528](https://github.com/KATO-Hiro/AtCoderClans/pull/1528) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに「[オンライン整数列大辞典 (OEIS)](https://oeis.org/?language=japanese)」を追加。
+
 ### 2021-02-23
 
 - [#1520](https://github.com/KATO-Hiro/AtCoderClans/pull/1520) - ユーザスクリプト「[perf on standings](https://greasyfork.org/en/scripts/422106-perf-on-standings)」を追加。
