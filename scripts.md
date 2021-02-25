@@ -338,6 +338,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_google_calender.png" alt="atcoder google calender">
   </div>
 
+- [AtCoderLanguageButtons](https://greasyfork.org/ja/scripts/421663-atcoderlanguagebuttons) - 「問題」「提出」「コードテスト」の各ページに、提出する言語を簡単に切り替えられるボタンを設置する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_language_buttons.png" alt="atcoder language buttons">
+  </div>
+
 - [AtCoder Language Filter](https://greasyfork.org/ja/scripts/398148-atcoder-language-filter) - 「提出」ページで、提出する言語のフィルタリングと並び替えを行う。
 
   <div align="center">
