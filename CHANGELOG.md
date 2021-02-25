@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-02-25
+
+- [#1535](https://github.com/KATO-Hiro/AtCoderClans/pull/1535) - ユーザスクリプト「[AtCoderLanguageButtons](https://greasyfork.org/ja/scripts/421663-atcoderlanguagebuttons)」を追加。
+
 ### 2021-02-24
 
 - [#1529](https://github.com/KATO-Hiro/AtCoderClans/pull/1529) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに「[42nd KCLC](https://kclc-kaisei.github.io/index.html)」を追加。
