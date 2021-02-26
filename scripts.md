@@ -338,6 +338,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_google_calender.png" alt="atcoder google calender">
   </div>
 
+- [AtCoder HashTag Setter](https://greasyfork.org/ja/scripts/422324-atcoder-hashtag-setter) - 「コンテスト」「問題」「提出」の各ページにあるTwitter Shareボタンを利用するときに、ツイートに関連したハッシュタグを追加する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_hashtag_setter.png" alt="atcoder hashtag setter">
+  </div>
+
 - [AtCoderLanguageButtons](https://greasyfork.org/ja/scripts/421663-atcoderlanguagebuttons) - 「問題」「提出」「コードテスト」の各ページに、提出する言語を簡単に切り替えられるボタンを設置する。
 
   <div align="center">
