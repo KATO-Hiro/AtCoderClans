@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-02-26
+
+- [#1545](https://github.com/KATO-Hiro/AtCoderClans/pull/1545) - [G4NP0N_kyopro](https://twitter.com/G4NP0N_kyopro)さんと[ngtkana](https://twitter.com/ngtkana)さんのご紹介で、ユーザスクリプト「[AtCoder HashTag Setter](https://greasyfork.org/ja/scripts/422324-atcoder-hashtag-setter)」を追加。
+
 ### 2021-02-25
 
 - [#1535](https://github.com/KATO-Hiro/AtCoderClans/pull/1535) - ユーザスクリプト「[AtCoderLanguageButtons](https://greasyfork.org/ja/scripts/421663-atcoderlanguagebuttons)」を追加。
