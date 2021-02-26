@@ -8,6 +8,7 @@ filename: CHANGELOG
 
 ### 2021-02-26
 
+- [#1549](https://github.com/KATO-Hiro/AtCoderClans/pull/1549) - [TOC Generator](https://github.com/technote-space/toc-generator)のバージョンを2.xから4.xにアップデート。
 - [#1545](https://github.com/KATO-Hiro/AtCoderClans/pull/1545) - [G4NP0N_kyopro](https://twitter.com/G4NP0N_kyopro)さんと[ngtkana](https://twitter.com/ngtkana)さんのご紹介で、ユーザスクリプト「[AtCoder HashTag Setter](https://greasyfork.org/ja/scripts/422324-atcoder-hashtag-setter)」を追加。
 
 ### 2021-02-25
