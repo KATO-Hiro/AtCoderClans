@@ -88,6 +88,16 @@ filename: index
 
 [ガイドライン](https://github.com/KATO-Hiro/AtCoderHub/blob/master/CONTRIBUTING.md)を試作しました。ご参照ください。
 
+## プライバシーポリシー
+
+### アクセス解析ツール
+
+本サイトでは、Googleによるアクセス解析ツール「Googleアナリティクス」を利用しています。
+
+同ツールでは、トラフィックデータの収集のためにCookieを使用しております。このトラフィックデータは匿名で収集されており、個人を特定するものではありません。 利用規約、および、プライバシーポリシーに関する説明は、[外部リンク](https://policies.google.com/technologies/partner-sites?hl=ja)をご覧ください。
+
+また、収集されたデータは、本サイトのサービスを改善する目的以外で利用することはありません。
+
 ## 関連プロジェクト
 
 [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
