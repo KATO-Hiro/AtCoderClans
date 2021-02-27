@@ -23,13 +23,3 @@ GitHubのアカウントを持っていない場合は、以下の情報を用�
 + パスワード
 
 参考までに、[GitHubへの登録方法](https://www.google.co.jp/search?q=github+%E7%99%BB%E9%8C%B2)や[GitHubでssh接続する手順](https://qiita.com/shizuma/items/2b2f873a0034839e47ce)を載せておきます。
-
-## 参考資料2
-
-> AtCoder勢で利用していない人はほとんどいないであろうAtCoder Problemsが、その圧倒的な知名度と比較してGitHubリポジトリについている★の数があまりに少ないのではないか、という話があります。
-
-> ★とはTwitterのふぁぼいいねのようなものです。 競プロ勢はGitHubの使い方もよくわからないのだ、という不名誉な評判がつきかねませんから、ぜひ良いと思ったリポジトリには★を投げてみましょう。
-
-> AtCoder Problemsは実際もっと★がついていてもよいのではと思っています。 皆さんどんどんGitHubで★を投げあいましょう
-
-[出典](http://tatamo.81.la/blog/2018/12/07/atcoder-cli/)
