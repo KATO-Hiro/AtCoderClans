@@ -6,6 +6,14 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-02-27
+
+- [#1559](https://github.com/KATO-Hiro/AtCoderClans/pull/1559) - (破壊的な変更)リンク切れを検知したため、該当箇所を削除。
+- [#1556](https://github.com/KATO-Hiro/AtCoderClans/pull/1556), [#1558](https://github.com/KATO-Hiro/AtCoderClans/pull/1558) - Google Analyticsを試験的に導入。これに伴い、プライバシーポリシーを追加。
+- [#1554](https://github.com/KATO-Hiro/AtCoderClans/pull/1554), [#1555](https://github.com/KATO-Hiro/AtCoderClans/pull/1555) - 書籍「[アルゴリズム実技検定 公式テキスト[エントリー~中級編]](https://www.amazon.co.jp/gp/product/483997277X/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=rust-twitter-22&linkId=f436393e211c3e53630445f04c8d65c9&language=ja_JP)」の説明を更新。
+  - 書籍が発売されたため、予約受付に関する文言を削除。
+  - 解答例のソースコードがアップロードされている[リンク](https://github.com/kenkoooo/pastbook-source-code)を追加。
+
 ### 2021-02-26
 
 - [#1549](https://github.com/KATO-Hiro/AtCoderClans/pull/1549) - [TOC Generator](https://github.com/technote-space/toc-generator)のバージョンを2.xから4.xにアップデート。
