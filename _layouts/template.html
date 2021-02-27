@@ -11,6 +11,10 @@
     <meta property="og:url" content="https://kato-hiro.github.io/AtCoderClans/">
     <meta property="og:image" content="https://kato-hiro.github.io/AtCoderClans/public/android-chrome-512x512.png">
 
+    {% if jekyll.environment == "production" %}
+      {% include google_analytics.html %}
+    {% endif %}
+
     {% include twitter-card.html %}
     <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
