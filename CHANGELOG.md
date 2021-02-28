@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-02-28
+
+- [#1567](https://github.com/KATO-Hiro/AtCoderClans/pull/1567) -  「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[nullkara_](https://atcoder.jp/users/nullkara_)さんの[記事](https://nullkara.jp/2021/02/28/atcoder_toblue/)を追加。
+
 ### 2021-02-27
 
 - [#1559](https://github.com/KATO-Hiro/AtCoderClans/pull/1559) - (破壊的な変更)リンク切れを検知したため、該当箇所を削除。
