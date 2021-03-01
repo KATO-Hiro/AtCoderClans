@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-03-01
+
+- [#1573](https://github.com/KATO-Hiro/AtCoderClans/pull/1573) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1200から1599まで(水色)に[rcnesly17](https://atcoder.jp/users/rcnesly17)さんの[記事](https://seashellpink-frostywhite.hatenablog.com/entry/2021/02/28/221137)を追加。
+
 ### 2021-02-28
 
 - [#1567](https://github.com/KATO-Hiro/AtCoderClans/pull/1567) -  「レーティングの節目に到達した喜びをつづった記事」を掲載。
