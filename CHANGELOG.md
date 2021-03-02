@@ -6,6 +6,15 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-03-02
+
+- [#1585](https://github.com/KATO-Hiro/AtCoderClans/pull/1585) - 「YouTube」ページに、VTuberのチャンネルを追加。
+  - [糟屋もふ](https://www.youtube.com/playlist?list=PLXzhjyS-h7aEH31fB0gAfy_gskIirxBS7)
+- [#1584](https://github.com/KATO-Hiro/AtCoderClans/pull/1584) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1200から1599まで(水色)に[at12](https://atcoder.jp/users/at12)さんの[記事](https://xkttqm.hatenablog.com/entry/2021/01/17/140000)を追加。
+- [#1583](https://github.com/KATO-Hiro/AtCoderClans/pull/1583) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2000から2399まで(黄色)に[terry_u16](https://atcoder.jp/users/terry_u16)さんの[記事](https://www.terry-u16.net/entry/atcoder-yellow)を追加。
+- [#1582](https://github.com/KATO-Hiro/AtCoderClans/pull/1582) - 記事「[土木とITをつないだプログラミングコンテストという選択肢--鹿島建設とAtCoderの新たな挑戦](https://japan.cnet.com/article/35166817/)」を追加。
 ### 2021-03-01
 
 - [#1573](https://github.com/KATO-Hiro/AtCoderClans/pull/1573) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
