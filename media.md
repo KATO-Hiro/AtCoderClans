@@ -345,6 +345,7 @@ filename: media
 - [競技プログラミング、日本の大会参加者急増　採用の指標に](https://www.chunichi.co.jp/article/180774) - 競技プログラミングの経験・実績が採用に活用されていることを紹介した記事。注: 全文を読むには、会員登録が必要。
 - [社会に出て感じたギャップTOP10](https://docs.google.com/presentation/d/16hCteY3ap_IIIyaT4KMmRBHM4X_4wt0Ge_kd9V_xg8s/edit#slide=id.g2cb369b990_0_113) - [kyuridenamida](https://atcoder.jp/users/kyuridenamida)さんがソフトウェア開発会社に就職する前後で感じたギャップをランキング形式で紹介したスライド資料。
 - [純粋培養競技プログラマが社会に出てみた感想](https://tsutaj.hatenablog.com/entry/2020/12/13/000000) - 学生時代の多くを競技プログラミングに捧げた[tsutaj](https://atcoder.jp/users/tsutaj)さんが、就職1年目で身につけたことやできるようになったことを紹介した記事。
+- [土木とITをつないだプログラミングコンテストという選択肢--鹿島建設とAtCoderの新たな挑戦](https://japan.cnet.com/article/35166817/) - 土木業界におけるITエンジニアの必要性・需要・将来性と、プログラミングコンテストを通したIT人材の確保に向けた取り組みを紹介した記事。
 - [フューチャーでjobsバイト、競プロ入社を経験して](https://future-architect.github.io/articles/20201102/) - 競技プログラミングの経験が就業やITコンサルティング業務に役立った事例を紹介した記事。
 
 ## 書籍、オンラインブック
