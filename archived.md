@@ -161,7 +161,7 @@ filename: archived
 <!-- markdown-link-check-disable -->
 
 - [AtCoder相性診断](https://atcoder-aisho-shindan.vercel.app/) - レーティングを元に相性を診断する。
-  - 理由: 作者からサービス終了の連絡があったため。
+  - 理由: 作者からサービスの提供終了の連絡を受けたため。
 
   <div align="center">
     <img loading = "lazy" src="images/web_app/atcoder_aishosinndan.png" alt="atcoder aishosinndan">
