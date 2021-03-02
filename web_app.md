@@ -184,12 +184,6 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/ac_heatmap.png" alt="ac heatmap">
   </div>
 
-- [AtCoder相性診断](https://atcoder-aisho-shindan.vercel.app/) - レーティングを元に相性を診断する。
-
-  <div align="center">
-    <img loading = "lazy" src="images/web_app/atcoder_aishosinndan.png" alt="atcoder aishosinndan">
-  </div>
-
 - [AtCoder平均](http://rating-history.herokuapp.com/average.html) - 直近nか月における各種コンテストの平均順位とパフォーマンスを表示する。
 
   <div align="center">

@@ -157,6 +157,18 @@ filename: archived
 - [AtCoderACPercentage](https://greasyfork.org/ja/scripts/388000-atcoderacpercentage) - ある問題について、同じレーティング帯の参加者が正解している割合を順位表に表示するユーザスクリプト。
   - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
   - 対処方法: 該当する[Issue](https://github.com/null-null-programming/AtCoderACPercentage/issues/14)を修正して、Pull Requestを送る。
+
+<!-- markdown-link-check-disable -->
+
+- [AtCoder相性診断](https://atcoder-aisho-shindan.vercel.app/) - レーティングを元に相性を診断する。
+  - 理由: 作者からサービス終了の連絡があったため。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_aishosinndan.png" alt="atcoder aishosinndan">
+  </div>
+
+<!-- markdown-link-check-enable -->
+
 - [AtCoder Calendar](https://atcoder-calendar.tkt989.info/) - 指定したURLをGoogleカレンダーに登録する。
   - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
   - 代替手段: [CLIST](https://clist.by/)や[Competitive Programming Contests Calendar](https://competitiveprogramming.info/calendar)などを利用する。
