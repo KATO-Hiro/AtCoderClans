@@ -267,7 +267,6 @@ filename: libraries
 
 ### Python
 
-- [Coki628/Python/lib](https://github.com/Coki628/Python/tree/master/lib) ![GitHub stars](https://img.shields.io/github/stars/Coki628/Python?style=plastic) - [Coki628](https://atcoder.jp/users/Coki628)さんのライブラリ。
 - [horiso0921/Mylib](https://github.com/horiso0921/Mylib) ![GitHub stars](https://img.shields.io/github/stars/horiso0921/Mylib?style=plastic) - [horiso0921](https://atcoder.jp/users/horiso0921)さんのライブラリ。
 - [iehn/lib](https://github.com/iehn/lib) ![GitHub stars](https://img.shields.io/github/stars/iehn/lib?style=plastic) - [iehn](https://atcoder.jp/users/iehn)さんのライブラリ。
 - [kerroggu/AtCoderLibrary](https://github.com/kerroggu/AtCoderLibrary) ![GitHub stars](https://img.shields.io/github/stars/kerroggu/AtCoderLibrary?style=plastic) - Pythonで実装されたアルゴリズムのライブラリ。
