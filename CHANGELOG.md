@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-03-03
+
+- [#1592](https://github.com/KATO-Hiro/AtCoderClans/pull/1592) - (破壊的な変更) リンク切れのライブラリを「Archived」ページに移動。
+- [#1589](https://github.com/KATO-Hiro/AtCoderClans/pull/1589) - (破壊的な変更) Webアプリ「AtCoder相性診断」の作者から公開終了の連絡を受けたため、「Archived」ページに移動。
+
 ### 2021-03-02
 
 - [#1585](https://github.com/KATO-Hiro/AtCoderClans/pull/1585) - 「YouTube」ページに、VTuberのチャンネルを追加。
