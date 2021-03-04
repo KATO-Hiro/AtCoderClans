@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-03-04
+
+- [#1601](https://github.com/KATO-Hiro/AtCoderClans/pull/1601) - Rustで実装されたライブラリを追加。
+  - [kuretchi/k7lib](https://github.com/kuretchi/k7lib)
+
 ### 2021-03-03
 
 - [#1592](https://github.com/KATO-Hiro/AtCoderClans/pull/1592) - (破壊的な変更) リンク切れのライブラリを「Archived」ページに移動。
