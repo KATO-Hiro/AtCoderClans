@@ -9,8 +9,8 @@ filename: CHANGELOG
 ### 2021-03-05
 
 - [#1606](https://github.com/KATO-Hiro/AtCoderClans/pull/1606), [#1607](https://github.com/KATO-Hiro/AtCoderClans/pull/1607) - C++で実装されたライブラリを追加。
- - [SSRS-cp/Competitive_Programming](https://github.com/SSRS-cp/Competitive_Programming)
- - [xirc/cp-algorithm](https://github.com/xirc/cp-algorithm)
+  - [SSRS-cp/Competitive_Programming](https://github.com/SSRS-cp/Competitive_Programming)
+  - [xirc/cp-algorithm](https://github.com/xirc/cp-algorithm)
 
 ### 2021-03-04
 
