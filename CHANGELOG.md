@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-03-05
+
+- [#1606](https://github.com/KATO-Hiro/AtCoderClans/pull/1606), [#1607](https://github.com/KATO-Hiro/AtCoderClans/pull/1607) - C++で実装されたライブラリを追加。
+  - [SSRS-cp/Competitive_Programming](https://github.com/SSRS-cp/Competitive_Programming)
+  - [xirc/cp-algorithm](https://github.com/xirc/cp-algorithm)
+
 ### 2021-03-04
 
 - [#1601](https://github.com/KATO-Hiro/AtCoderClans/pull/1601) - Rustで実装されたライブラリを追加。
