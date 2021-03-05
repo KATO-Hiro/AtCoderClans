@@ -188,6 +188,7 @@ filename: libraries
 - [tatyam-prime/kyopro_library](https://github.com/tatyam-prime/kyopro_library) ![GitHub stars](https://img.shields.io/github/stars/tatyam-prime/kyopro_library?style=plastic) - [tatyam](https://atcoder.jp/users/tatyam)さんのライブラリ。
 - [Tiramister/CppLibrary](https://github.com/Tiramister/CppLibrary) ![GitHub stars](https://img.shields.io/github/stars/Tiramister/CppLibrary?style=plastic) - [Tiramister](https://atcoder.jp/users/Tiramister)さんのライブラリ。
 - [tubuann/library](https://github.com/tubuann/library) ![GitHub stars](https://img.shields.io/github/stars/tubuann/library?style=plastic) - [tubuann](https://atcoder.jp/users/tubuann)さんのライブラリ。
+- [xirc/cp-algorithm](https://github.com/xirc/cp-algorithm) ![GitHub Repo stars](https://img.shields.io/github/stars/xirc/cp-algorithm?style=plastic) - [xirc](https://atcoder.jp/users/xirc)さんのライブラリ。
 - [xuzijian629/library2](https://github.com/xuzijian629/library2) ![GitHub Repo stars](https://img.shields.io/github/stars/xuzijian629/library2?style=plastic) - [xuzijian629](https://atcoder.jp/users/xuzijian629)さんのライブラリ
 - [yosupo06/Algorithm](https://github.com/yosupo06/Algorithm) ![GitHub stars](https://img.shields.io/github/stars/yosupo06/Algorithm?style=plastic) - [yosupo](https://atcoder.jp/users/yosupo)さんのライブラリ。C++11で実装されている。[D版](https://github.com/yosupo06/dunkelheit)もある。
 - [zerokpr/Kpr_Library](https://github.com/zerokpr/Kpr_Library) ![GitHub stars](https://img.shields.io/github/stars/zerokpr/Kpr_Library?style=plastic) - [zero_kpr](https://atcoder.jp/users/zero_kpr)さんのライブラリ。
