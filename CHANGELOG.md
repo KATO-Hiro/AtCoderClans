@@ -6,6 +6,14 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-03-06
+
+- [#1617](https://github.com/KATO-Hiro/AtCoderClans/pull/1617) - 記事「[競技プログラミングでprintデバッグ](https://naskya.net/post/0002/)
+」を追加。
+- [#1616](https://github.com/KATO-Hiro/AtCoderClans/pull/1616) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、Webアプリ「[CF Problems](https://cf.kira924age.com/#/table/)
+」を追加。
+- [#1615](https://github.com/KATO-Hiro/AtCoderClans/pull/1615) - (破壊的な変更) サービスの提供が終了したWebアプリを「Archived」ページに移動。
+
 ### 2021-03-05
 
 - [#1606](https://github.com/KATO-Hiro/AtCoderClans/pull/1606), [#1607](https://github.com/KATO-Hiro/AtCoderClans/pull/1607) - C++で実装されたライブラリを追加。
