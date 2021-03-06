@@ -223,13 +223,13 @@ filename: archived
 
 ### Codeforces
 
-- [Codeforces Problems](https://yang33-kassa.jp/Codeforces-Problems/) - 開催されたコンテストの問題を一覧できるwebアプリ。
-  - 理由: 記載なし。
-  - 代替手段: [CONTEST MANIA](https://contestmania.web.app/)や[CF Problems](https://cf-problems.glitch.me/)を利用する。
-
 - [CF Problems](https://cf-problems.glitch.me/) - 開催されたコンテストの問題を一覧できるwebアプリ。
   - 理由: 記載なし。
 
   <div align="center">
     <img loading = "lazy" src="images/related_contest_sites/codeforces/cf_problems.png" alt="cf problems">
   </div>
+
+- [Codeforces Problems](https://yang33-kassa.jp/Codeforces-Problems/) - 開催されたコンテストの問題を一覧できるwebアプリ。
+  - 理由: 記載なし。
+  - 代替手段: [CONTEST MANIA](https://contestmania.web.app/)や[CF Problems](https://cf-problems.glitch.me/)を利用する。
