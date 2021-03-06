@@ -223,14 +223,14 @@ filename: archived
 
 ### Codeforces
 
+<!-- markdown-link-check-disable -->
+
 - [CF Problems](https://cf-problems.glitch.me/) - 開催されたコンテストの問題を一覧できるwebアプリ。
   - 理由: 記載なし。
 
   <div align="center">
     <img loading = "lazy" src="images/related_contest_sites/codeforces/cf_problems.png" alt="cf problems">
   </div>
-
-<!-- markdown-link-check-disable -->
 
 - [Codeforces Problems](https://yang33-kassa.jp/Codeforces-Problems/) - 開催されたコンテストの問題を一覧できるwebアプリ。
   - 理由: 記載なし。
