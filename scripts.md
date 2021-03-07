@@ -406,6 +406,12 @@ filename: scripts
 
 - [Save_Paken_AtCoder_Account](https://greasyfork.org/ja/scripts/401642-save-paken-atcoder-account) - パ研の共有アカウントで誤ってコンテストに参加するのを防ぐ。
 
+- [VirtualContestUpSolver](https://greasyfork.org/ja/scripts/421963-virtualcontestupsolver) - [AtCoder Problems](https://kenkoooo.com/atcoder/)のバーチャルコンテストで出題された問題のうち、復習したかどうかを管理できる。注: スクリプトを有効活用するためには、バーチャルコンテストに参加できる状態(GitHubアカウントを利用してユーザ認証を済ませた状態)にあり、少なくとも1回以上の参加が必要。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/virtual_contest_upsolver.png" alt="virtual contest upsolver">
+  </div>
+
 ## Google Chromeの拡張機能
 
 Google Chromeに機能を追加します。
