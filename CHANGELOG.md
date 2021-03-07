@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-03-07
+
+- [#1626](https://github.com/KATO-Hiro/AtCoderClans/pull/1626) - ユーザスクリプト「[VirtualContestUpSolver](https://greasyfork.org/ja/scripts/421963-virtualcontestupsolver)」を追加。
+- [#1625](https://github.com/KATO-Hiro/AtCoderClans/pull/1625) - (破壊的な変更) 「[高校数学の美しい物語](https://manabitimes.jp/math)」のドメイン変更に対応。
+- [#1624](https://github.com/KATO-Hiro/AtCoderClans/pull/1624) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの月別アーカイブにおけるリンク切れに対応。
+
 ### 2021-03-06
 
 - [#1617](https://github.com/KATO-Hiro/AtCoderClans/pull/1617) - 記事「[競技プログラミングでprintデバッグ](https://naskya.net/post/0002/)」を追加。
