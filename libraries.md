@@ -67,7 +67,7 @@ filename: libraries
 
 ### AtCoder Library (ACL)の各言語への移植
 
-- [AtCoder](https://atcoder.jp/)公式が、様々なアルゴリズムをC++で実装したライブラリを[AtCoder Library (ACL)](https://atcoder.jp/posts/517)として公開しています([GitHubレポジトリ](https://github.com/atcoder/ac-library))。
+- [AtCoder](https://atcoder.jp/)公式が、様々なアルゴリズムをC++で実装したライブラリを[AtCoder Library (ACL)](https://atcoder.jp/posts/517)として公開しています([GitHubレポジトリ](https://github.com/atcoder/ac-library))。注: 最新バージョン(masterブランチ)とAtCoderにインストールされているバージョン(productionブランチ)が異なる可能性がある([出典](https://atcoder.github.io/ac-library/master/document_ja/))。
 - 有志によって、各言語への移植が試みられています。また、一部の言語では、移植されたライブラリから必要な部分だけを取り出して、一つの提出用ファイルにまとめることができるツールが公開されています。
 
 #### ライブラリの内容に関連する記事
