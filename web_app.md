@@ -232,6 +232,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_games.png" alt="atcoder games">
   </div>
 
+- [AtCoder Hot Problems](https://hot-problems.herokuapp.com/) - 1日あたりの問題別提出数を集計し、上位100問を表示する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_hot_problems.png" alt="atcoder hot problems">
+  </div>
+
 - [AtCoder 色別正解率](http://shobonvip.web.fc2.com/atcoder/cp/index.html) - 各種コンテストにおけるレーティング帯ごとの正解率を表示する。作者による注: 手動更新のため、最新情報の反映にやや時間を要する。
 
   <div align="center">
