@@ -8,7 +8,6 @@ filename: CHANGELOG
 
 ### 2021-03-08
 
-
 - [#1634](https://github.com/KATO-Hiro/AtCoderClans/pull/1634) - ライブラリ「[AtCoder Library (ACL)](https://atcoder.jp/posts/517)」の説明に、最新バーションとAtCoderにインストールされているバージョンが異なる可能性があることを明記([出典](https://atcoder.github.io/ac-library/master/document_ja/))。
 - [#1633](https://github.com/KATO-Hiro/AtCoderClans/pull/1633) - 「YouTube」ページに、VTuberのチャンネルを追加。
   - [ななみつき](https://www.youtube.com/playlist?list=PLKs3DZp2szRMAHKnNg2ZlIhW9uXfBQg6a)
