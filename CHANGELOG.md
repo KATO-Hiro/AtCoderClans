@@ -6,6 +6,13 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-03-08
+
+- [#1634](https://github.com/KATO-Hiro/AtCoderClans/pull/1634) - ライブラリ「[AtCoder Library (ACL)](https://atcoder.jp/posts/517)」の説明に、最新バーションとAtCoderにインストールされているバージョンが異なる可能性があることを明記([出典](https://atcoder.github.io/ac-library/master/document_ja/))。
+- [#1633](https://github.com/KATO-Hiro/AtCoderClans/pull/1633) - 「YouTube」ページに、VTuberのチャンネルを追加。
+  - [ななみつき](https://www.youtube.com/playlist?list=PLKs3DZp2szRMAHKnNg2ZlIhW9uXfBQg6a)
+- [#1632](https://github.com/KATO-Hiro/AtCoderClans/pull/1632) - [G4NP0N_kyopro](https://twitter.com/G4NP0N_kyopro)さんのご紹介で、Webアプリ「[AtCoder Hot Problems](https://hot-problems.herokuapp.com/)」を追加。
+
 ### 2021-03-07
 
 - [#1626](https://github.com/KATO-Hiro/AtCoderClans/pull/1626) - ユーザスクリプト「[VirtualContestUpSolver](https://greasyfork.org/ja/scripts/421963-virtualcontestupsolver)」を追加。
