@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-03-09
+
+- [#1640](https://github.com/KATO-Hiro/AtCoderClans/pull/1640), [#1642](https://github.com/KATO-Hiro/AtCoderClans/pull/1642) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの2021年1月分を[月別のアーカイブ](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2021_01.md)に移動。
+
 ### 2021-03-08
 
 - [#1634](https://github.com/KATO-Hiro/AtCoderClans/pull/1634) - ライブラリ「[AtCoder Library (ACL)](https://atcoder.jp/posts/517)」の説明に、最新バーションとAtCoderにインストールされているバージョンが異なる可能性があることを明記([出典](https://atcoder.github.io/ac-library/master/document_ja/))。
