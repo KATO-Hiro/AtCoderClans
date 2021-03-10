@@ -25,6 +25,7 @@ filename: related_contest_sites
 - [MORP (Math Olympiad Rating Project)](#morp-math-olympiad-rating-project)
 - [New Year's Puzzles](#new-years-puzzles)
 - [OMC (OnlineMathContest)](#omc-onlinemathcontest)
+- [Shitforces](#shitforces)
 - [Topcoder](#topcoder)
   - [Webサイトと関連リンク](#web%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A8%E9%96%A2%E9%80%A3%E3%83%AA%E3%83%B3%E3%82%AF)
   - [プラグイン](#%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3)
@@ -202,6 +203,14 @@ filename: related_contest_sites
 
   <div align="center">
     <img loading = "lazy" src="images/related_contest_sites/omc/omc_problems.png" alt="omc problems">
+  </div>
+
+### Shitforces
+
+- [Shitforces](https://shitforces.herokuapp.com/) - ウィットに富んだ「なぞなぞ」が出題されるコンテスト。[公式アカウント](https://twitter.com/shitforces)で、最新情報を確認することができる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/shitforces/shitforces.png" alt="shitforces">
   </div>
 
 ### Topcoder
