@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-03-10
+
+- [#1648](https://github.com/KATO-Hiro/AtCoderClans/pull/1648) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、「[Shitforces](https://shitforces.herokuapp.com/)」を追加。
+- [#1646](https://github.com/KATO-Hiro/AtCoderClans/pull/1646) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、「[Math Olympiad Rating Project](https://twitter.com/MORatingProject)」を追加。
+- [#1645](https://github.com/KATO-Hiro/AtCoderClans/pull/1645) - 記事「[AtCoder学生ユーザー座談会「内定先、どうやって決めましたか？」](https://saponet.mynavi.jp/column/knowhow/zadankai-gakusei/)」を追加。
+
 ### 2021-03-09
 
 - [#1640](https://github.com/KATO-Hiro/AtCoderClans/pull/1640), [#1642](https://github.com/KATO-Hiro/AtCoderClans/pull/1642) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの2021年1月分を[月別のアーカイブ](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2021_01.md)に移動。
