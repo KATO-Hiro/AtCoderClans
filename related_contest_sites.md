@@ -204,6 +204,14 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/omc/omc_problems.png" alt="omc problems">
   </div>
 
+### Shitforces
+
+- [Shitforces](https://shitforces.herokuapp.com/) - ウィットに富んだ「なぞなぞ」が出題されるコンテスト。[公式アカウント](https://twitter.com/shitforces)で、最新情報を確認することができる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/shitforces/shitforces.png" alt="shitforces">
+  </div>
+
 ### Topcoder
 
 #### Webサイトと関連リンク
