@@ -183,6 +183,10 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/mao/markov_algorithm_online.png" alt="markov algorithm online">
   </div>
 
+### MORP (Math Olympiad Rating Project)
+
+- [Math Olympiad Rating Project](https://twitter.com/MORatingProject) - 数学オリンピックの過去問を利用したコンテスト(が定期的に開催される予定)。この結果を用いて、問題の難易度を推定したデータベース「Math Olympiad problems」を作成することが最終目標として掲げられている。
+
 ### New Year's Puzzles
 
 - [New Year's Puzzles](https://nyp.snuke.org/) - オートマトンなどを利用したパズル形式の問題を解くことができる。
