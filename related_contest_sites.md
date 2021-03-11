@@ -177,6 +177,8 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/kbc/kbc.png" alt="kbc">
   </div>
 
+- [競技くそなぞなぞ関連ページ一覧：コンテストとその解説を中心に](https://hamukichi.hatenablog.jp/entry/kuso-nazonazo-portal#f-0e4fd4eb) - 「くそなぞなぞコンテスト」へのリンク、解説、支援ツールなどが網羅的にまとめられている記事。
+
 ### MAO (Markov Algorithm Online)
 
 - [Markov Algorithm Online](https://mao.snuke.org/) - マルコフアルゴリズムを利用したパズル形式の問題を解くことができるWebサイト。有志によって、[チュートリアル](https://dic.nicovideo.jp/a/%E3%83%9E%E3%83%AB%E3%82%B3%E3%83%95%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)が用意されている。
