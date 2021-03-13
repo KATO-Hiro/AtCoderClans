@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-03-13
+
+- [#1659](https://github.com/KATO-Hiro/AtCoderClans/pull/1659) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、記事「[TopCoderをはじめよう！(2021年版) Python/C++対応版](https://qiita.com/recuraki/items/a359624c2981e82853d5)」を追加。
+
 ### 2021-03-11
 
 - [#1653](https://github.com/KATO-Hiro/AtCoderClans/pull/1653) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、記事「[競技くそなぞなぞ関連ページ一覧：コンテストとその解説を中心に](https://hamukichi.hatenablog.jp/entry/kuso-nazonazo-portal#f-0e4fd4eb)」を追加。
