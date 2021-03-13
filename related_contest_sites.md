@@ -28,6 +28,7 @@ filename: related_contest_sites
 - [Shitforces](#shitforces)
 - [Topcoder](#topcoder)
   - [Webサイトと関連リンク](#web%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A8%E9%96%A2%E9%80%A3%E3%83%AA%E3%83%B3%E3%82%AF)
+  - [記事](#%E8%A8%98%E4%BA%8B-1)
   - [プラグイン](#%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3)
 - [Wind Bel Contest](#wind-bel-contest)
 - [yukicoder](#yukicoder)
@@ -232,6 +233,10 @@ filename: related_contest_sites
   <div align="center">
     <img loading = "lazy" src="images/related_contest_sites/topcoder/problem_search.png" alt="practice problem search">
   </div>
+
+#### 記事
+
+- [TopCoderをはじめよう！(2021年版) Python/C++対応版](https://qiita.com/recuraki/items/a359624c2981e82853d5) - Single Round Match (SRM)に参加するために必要な環境構築の方法と基本操作を日本語で解説した記事。注意事項が丁寧に解説されているのが特徴。
 
 #### プラグイン
 
