@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-03-14
+
+- [#1666](https://github.com/KATO-Hiro/AtCoderClans/pull/1666) - [ansainbdg](https://github.com/ansainbdg)さんのご紹介により、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2000から2399まで(黄色)に[ks2m](https://atcoder.jp/users/ks2m)さんの[記事](https://ks2m.hatenablog.com/entry/2021/03/08/230503)を追加。
+
 ### 2021-03-13
 
 - [#1659](https://github.com/KATO-Hiro/AtCoderClans/pull/1659) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、記事「[TopCoderをはじめよう！(2021年版) Python/C++対応版](https://qiita.com/recuraki/items/a359624c2981e82853d5)」を追加。
