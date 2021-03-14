@@ -72,6 +72,7 @@ filename: milestones
 - [AtCoderで黄色になった - shakayamiの日記](https://shakayami.hatenablog.com/entry/2020/12/06/020255) - [shakayami](https://atcoder.jp/users/shakayami)さんが、2020年12月5日に達成。
 - [pythonでatcoderで黄色になりました - qumazakiのブログ](https://qumazaki.hatenablog.com/entry/2021/01/27/224139) - [qumazaki](https://atcoder.jp/users/qumazaki)さんが、2021年1月16日に達成。
 - [AtCoder 黄 になりました - kaikey’s diary](https://kaikey.hatenablog.com/entry/2021/02/08/192647) - [kaikey](https://atcoder.jp/users/kaikey)さんが、2021年2月6日に達成。
+- [AtCoder黄色になるまでにやったこととやっていないこと - ks2mのブログ](https://ks2m.hatenablog.com/entry/2021/03/08/230503) - [ks2m](https://atcoder.jp/users/ks2m)さんが、2021年2月20日に達成。
 - [AtCoderで黄色になりました - TERRYのブログ](https://www.terry-u16.net/entry/atcoder-yellow) - [terry_u16](https://atcoder.jp/users/terry_u16)さんが、2021年2月27日に達成。
 
 ### レーティング2400から2799まで(橙色)
