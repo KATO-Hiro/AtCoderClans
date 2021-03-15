@@ -113,6 +113,12 @@ filename: web_app
 
 ### ヒューリスティック(マラソン)型コンテストにおける入出力の結果をWebブラウザなどで見やすく表示する
 
+- [ahc001-gen-vis-wasm](https://kenkoooo.github.io/ahc001-gen-vis-wasm/) - [AtCoder Heuristic Contest 001](https://atcoder.jp/contests/ahc001)で提供されている入力ジェネレータとビジュアライザをWebブラウザから利用することできる。ソースコードは、[GitHub](https://github.com/kenkoooo/ahc001-gen-vis-wasm)で公開されている。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/ahc001_gen_vis_wasm.jpeg" alt="ahc001 gen vis wasm">
+  </div>
+
 - [Marathon General Visualizer](https://github.com/kyuridenamida/marathon-general-visualizer) - ヒューリスティック型コンテストにおける入出力の結果をリアルタイムで表示させるためのビジュアライザフレームワーク。問題に応じて、表示する内容をカスタマイズできる。
 
   <div align="center">
