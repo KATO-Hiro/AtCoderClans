@@ -110,6 +110,14 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/competitive_programming_contests_calendar.png" alt="competitive programming contests calendar">
   </div>
 
+### ヒューリスティック(マラソン)型コンテストにおける入出力の結果をWebブラウザなどで見やすく表示する
+
+- [Marathon General Visualizer](https://github.com/kyuridenamida/marathon-general-visualizer) - ヒューリスティック型コンテストにおける入出力の結果をリアルタイムで表示させるためのビジュアライザフレームワーク。問題に応じて、表示する内容をカスタマイズできる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/marathon_general_visualizer.png" alt="marathon general visualizer">
+  </div>
+
 ### レーティング、パフォーマンス、順位などを表示する、比較する
 
 - [AtCoder Charts](https://atcoder-charts.netlify.com/) - 任意のユーザのレーティングとパフォーマンスの推移を表示する。
