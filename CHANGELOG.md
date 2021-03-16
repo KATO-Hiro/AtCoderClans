@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-03-16
+
+- [#1681](https://github.com/KATO-Hiro/AtCoderClans/pull/1681) - [#1672](https://github.com/KATO-Hiro/AtCoderClans/pull/1672), [#1673](https://github.com/KATO-Hiro/AtCoderClans/pull/1673)に関連して、コンテスト開催中における関連ツールの公開について注意事項を追加。
+
 ### 2021-03-15
 
 - [#1675](https://github.com/KATO-Hiro/AtCoderClans/pull/1675) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[最適解を求める問題に関する知見](https://kato-hiro.github.io/AtCoderClans/media#%E6%9C%80%E9%81%A9%E8%A7%A3%E3%82%92%E6%B1%82%E3%82%81%E3%82%8B%E5%95%8F%E9%A1%8C%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%9F%A5%E8%A6%8B)」に、以下の記事を追加。
