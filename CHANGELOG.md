@@ -8,6 +8,10 @@ filename: CHANGELOG
 
 ### 2021-03-17
 
+- [#1689](https://github.com/KATO-Hiro/AtCoderClans/pull/1689) - Webアプリ「[AtCoder Problems](https://kenkoooo.com/atcoder/)」の説明に、[定期的に開催されているバーチャルコンテスト(通称:くじかつ)の紹介記事](https://www.terry-u16.net/entry/kujikatsu-contest)を追加。
+- [#1688](https://github.com/KATO-Hiro/AtCoderClans/pull/1688) - C++で実装されたライブラリと関連記事を追加。
+  - ライブラリ「[hotman78/cpplib](https://github.com/hotman78/cpplib)」
+  - 記事「[atcoder黄色になるために必要になるかもしれないし、ならないかもしれないライブラリ一覧](https://hotman78.hatenablog.com/entry/2020/07/10/173053)」
 - [#1684](https://github.com/KATO-Hiro/AtCoderClans/pull/1684) - ユーザスクリプト「[ICPC-Yokohama-2020-Username-and-AtCoder-Color](https://github.com/TumoiYorozu/ICPC-Yokohama-2020-Username-and-AtCoder-Color)」を追加。
 
 ### 2021-03-16
