@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-03-17
+
+- [#1684](https://github.com/KATO-Hiro/AtCoderClans/pull/1684) - ユーザスクリプト「[ICPC-Yokohama-2020-Username-and-AtCoder-Color](https://github.com/TumoiYorozu/ICPC-Yokohama-2020-Username-and-AtCoder-Color)」を追加。
+
 ### 2021-03-16
 
 - [#1681](https://github.com/KATO-Hiro/AtCoderClans/pull/1681) - [#1672](https://github.com/KATO-Hiro/AtCoderClans/pull/1672), [#1673](https://github.com/KATO-Hiro/AtCoderClans/pull/1673)に関連して、コンテスト開催中における関連ツールの公開について注意事項を追加。
