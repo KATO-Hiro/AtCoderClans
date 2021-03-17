@@ -37,7 +37,7 @@ filename: web_app
 
 ### 過去問を解く
 
-- [AtCoder Problems](https://kenkoooo.com/atcoder/) - 開催されたコンテストの問題を一覧できる。問題の正誤状況や各種集計結果を確認できるだけでなく、バーチャルコンテストなどの機能もある。詳しくは、有志による[AtCoder Problemsの使い方](https://ntk-ta01.hatenablog.com/entry/2020/04/15/001405)を参照されたい。
+- [AtCoder Problems](https://kenkoooo.com/atcoder/) - 開催されたコンテストの問題を一覧できる。問題の正誤状況や各種集計結果を確認できるだけでなく、バーチャルコンテストなどの機能もある。詳しくは、有志による[AtCoder Problemsの使い方](https://ntk-ta01.hatenablog.com/entry/2020/04/15/001405)や[定期的に開催されているバーチャルコンテスト](https://www.terry-u16.net/entry/kujikatsu-contest)を参照されたい。
 
   <div align="center">
     <img loading = "lazy" src="images/web_app/atcoder_problems.png" alt="atcoder problems">
