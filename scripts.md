@@ -306,6 +306,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_problems_marker.png" alt="atcoder problems marker">
   </div>
 
+- [ICPC-Yokohama-2020-Username-and-AtCoder-Color](https://github.com/TumoiYorozu/ICPC-Yokohama-2020-Username-and-AtCoder-Color) - ICPC 2020 Yokohama Liveの[順位表](https://icpcsec.firebaseapp.com/standings/)に、ユーザ名とAtCoderのレーティングに対応した色を表示する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/icpc_yokohama_2020_username_and_atcoder_color.png" alt="icpc yokohama 2020 username and atcoder color">
+  </div>
+
 ### 便利な機能を手軽に実行できるボタン、リンクなどを設置する
 
 - [ac-favorite-manager](https://greasyfork.org/ja/scripts/387728-ac-favorite-manager) - ユーザ名のドロップダウンメニューに、お気に入りの管理画面のリンクを追加する。
