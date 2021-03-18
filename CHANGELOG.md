@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-03-18
+
+- [#1693](https://github.com/KATO-Hiro/AtCoderClans/pull/1693) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[数学に関する知識](https://kato-hiro.github.io/AtCoderClans/media#%E6%95%B0%E5%AD%A6%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%9F%A5%E8%AD%98)」に、Webサイト「[Cognicull](https://cognicull.com/ja)」を追加。
+
 ### 2021-03-17
 
 - [#1689](https://github.com/KATO-Hiro/AtCoderClans/pull/1689) - Webアプリ「[AtCoder Problems](https://kenkoooo.com/atcoder/)」の説明に、[定期的に開催されているバーチャルコンテスト(通称:くじかつ)の紹介記事](https://www.terry-u16.net/entry/kujikatsu-contest)を追加。
