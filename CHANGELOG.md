@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-03-19
+
+- [#1697](https://github.com/KATO-Hiro/AtCoderClans/pull/1697) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[番組アーカイブ](https://kato-hiro.github.io/AtCoderClans/media#%E7%95%AA%E7%B5%84%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96)」に、動画「[未経験者のアナタもハマる？競技プログラミング「AtCoder」って何だ？【理系通信】](https://www.youtube.com/watch?v=WGNQrH0AV2k)」を追加。
+
 ### 2021-03-18
 
 - [#1693](https://github.com/KATO-Hiro/AtCoderClans/pull/1693) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[数学に関する知識](https://kato-hiro.github.io/AtCoderClans/media#%E6%95%B0%E5%AD%A6%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%9F%A5%E8%AD%98)」に、Webサイト「[Cognicull](https://cognicull.com/ja)」を追加。
