@@ -65,26 +65,31 @@ filename: media
 
   C++以外の言語による解答例(リンク元より一部抜粋。注:記事に掲載されているコードが最新のジャッジシステムで動作しない場合もある)
 
-  - [C](https://qiita.com/cielavenir/items/ee1e47b844d05dcfc66e)
-  - [Crystal](https://qiita.com/tomerun/items/23ce2a2ed6ead291d222)
-  - [C#](https://qiita.com/NotFounds/items/7b166af69a6f52a332de)
-  - [D](http://takeo1116.sakura.ne.jp/ABS_D.html)
-  - [Elixir](https://qiita.com/koyo-miyamura/items/9f224a3e56ea75939dca)
-  - [Fortran](https://yukiutaai.wordpress.com/2018/03/21/atcoder%e3%81%ab%e7%99%bb%e9%8c%b2%e3%81%97%e3%81%9f%e3%82%89%e8%a7%a3%e3%81%8f%e3%81%b9%e3%81%8d%e7%b2%be%e9%81%b8%e9%81%8e%e5%8e%bb%e5%95%8f10%e3%82%92fortran%e3%81%a7%e8%a7%a3%e3%81%84%e3%81%a6/)
-  - [F#](https://qiita.com/kuuso1/items/606b75c172cafa1d07f6)
-  - [Go](https://qiita.com/ktateish/items/afdda77497c8e2ee0742)
-  - [Haskell](https://qiita.com/hsjoihs/items/25a08b426196ab2b9bb0)
-  - [Java](https://qiita.com/0x841/items/0ce887c86cf081312a08#)
-  - [JavaScript](https://qiita.com/ytanto/items/caf7bf0ba287da81b20f)
-  - [Kotlin](https://sites.google.com/view/ymatsux/atcoder-abs-kotlin)
-  - [Nim](https://qiita.com/Kutimoti_T/items/635bacddfa1304de40db)
-  - [Perl6 (Raku)](https://qiita.com/kotatsugame/items/dd73cf6441b17f27bb01)
-  - [PHP](https://qiita.com/rock619/items/3c4cc60416c94d081c54)
-  - [Python3](http://delta114514.hatenablog.jp/entry/2018/03/15/014555)
-  - [Ruby](https://qiita.com/d_nishiyama85/items/f79e034f6dcd4175cdc1)
-  - [Rust](https://qiita.com/tubo28/items/e6076e9040da57368845)
-  - [Scala](https://qiita.com/kgtkr/items/9b5798d02563e885d2ac)
-  - [Swift](https://qiita.com/cielavenir/items/b90a94dce60a620fa2dc)
+  <details>
+    <summary>各言語で実装された解答例のリンクを開く/閉じる</summary>
+    <ul>
+      <li><a href="https://qiita.com/cielavenir/items/ee1e47b844d05dcfc66e">C</a></li>
+      <li><a href="https://qiita.com/tomerun/items/23ce2a2ed6ead291d222">Crystal</a></li>
+      <li><a href="https://qiita.com/NotFounds/items/7b166af69a6f52a332de">C#</a></li>
+      <li><a href="http://takeo1116.sakura.ne.jp/ABS_D.html">D</a></li>
+      <li><a href="https://qiita.com/koyo-miyamura/items/9f224a3e56ea75939dca">Elixir</a></li>
+      <li><a href="https://yukiutaai.wordpress.com/2018/03/21/atcoder%e3%81%ab%e7%99%bb%e9%8c%b2%e3%81%97%e3%81%9f%e3%82%89%e8%a7%a3%e3%81%8f%e3%81%b9%e3%81%8d%e7%b2%be%e9%81%b8%e9%81%8e%e5%8e%bb%e5%95%8f10%e3%82%92fortran%e3%81%a7%e8%a7%a3%e3%81%84%e3%81%a6/">Fortran</a></li>
+      <li><a href="https://qiita.com/kuuso1/items/606b75c172cafa1d07f6">F#</a></li>
+      <li><a href="https://qiita.com/ktateish/items/afdda77497c8e2ee0742">Go</a></li>
+      <li><a href="https://qiita.com/hsjoihs/items/25a08b426196ab2b9bb0">Haskell</a></li>
+      <li><a href="https://qiita.com/0x841/items/0ce887c86cf081312a08#">Java</a></li>
+      <li><a href="https://qiita.com/ytanto/items/caf7bf0ba287da81b20f">JavaScript</a></li>
+      <li><a href="https://sites.google.com/view/ymatsux/atcoder-abs-kotlin">Kotlin</a></li>
+      <li><a href="https://qiita.com/Kutimoti_T/items/635bacddfa1304de40db">Nim</a></li>
+      <li><a href="https://qiita.com/kotatsugame/items/dd73cf6441b17f27bb01">Perl6 (Raku)</a></li>
+      <li><a href="https://qiita.com/rock619/items/3c4cc60416c94d081c54">PHP</a></li>
+      <li><a href="http://delta114514.hatenablog.jp/entry/2018/03/15/014555">Python3</a></li>
+      <li><a href="https://qiita.com/d_nishiyama85/items/f79e034f6dcd4175cdc1">Ruby</a></li>
+      <li><a href="https://qiita.com/tubo28/items/e6076e9040da57368845">Rust</a></li>
+      <li><a href="https://qiita.com/kgtkr/items/9b5798d02563e885d2ac">Scala</a></li>
+      <li><a href="https://qiita.com/cielavenir/items/b90a94dce60a620fa2dc">Swift</a></li>
+    </ul>
+  </details>
 
 - [APG4bからAtCoderを始めた人向けの導線](https://mogurin1000000007.hatenablog.com/entry/2021/02/09/162158) - [AtCoder](https://atcoder.jp/)が提供するプログラミングの入門教材[C++入門 AtCoder Programming Guide for beginners (APG4b)](https://atcoder.jp/contests/APG4b)の概説と、APG4bをある程度学習した人に向けた基本的な練習方法やTipsが紹介されている記事。
 - [AtCoderで始めるPython入門](https://qiita.com/KoyanagiHitoshi/items/3286fbc65d56dd67737c) - [AtCoder](https://atcoder.jp/)で開催されているAtCoder Beginner Contest (ABC)のA問題、B問題をPython(3.8.2)で解くための解説記事。
