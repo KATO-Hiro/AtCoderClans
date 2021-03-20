@@ -10,6 +10,7 @@ filename: for_beginners
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [For Beginners](#for-beginners)
+  - [Q0: アルゴリズム、競技プログラミングとは?](#q0-%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E7%AB%B6%E6%8A%80%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF)
   - [Q1: アルゴリズムや競技プログラミングに興味はありますが、何から始めたらいいですか?](#q1-%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%82%84%E7%AB%B6%E6%8A%80%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AB%E8%88%88%E5%91%B3%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8C%E4%BD%95%E3%81%8B%E3%82%89%E5%A7%8B%E3%82%81%E3%81%9F%E3%82%89%E3%81%84%E3%81%84%E3%81%A7%E3%81%99%E3%81%8B)
   - [Q2: プログラムの実行環境を用意するには?](#q2-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AE%E5%AE%9F%E8%A1%8C%E7%92%B0%E5%A2%83%E3%82%92%E7%94%A8%E6%84%8F%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
   - [Q3: コンテストは、いつ開催されていますか?](#q3-%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E3%81%AF%E3%81%84%E3%81%A4%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B)
@@ -25,22 +26,27 @@ filename: for_beginners
 
 [AtCoder](https://atcoder.jp/)に興味・関心がある方、アカウントを登録したものの何をすればよいか困っている方のために、おすすめのサービス・ツール・記事・動画などを紹介するページです。
 
+### Q0: アルゴリズム、競技プログラミングとは?
+
+A0: 入門者、初心者向けの記事や動画に目を通してみましょう。
+
+- [アルゴリズムとは何か！？ ～ 文系理系問わず楽しめる精選6問 ～](https://qiita.com/drken/items/f909b79ee03e679c7142) - アルゴリズムとは何か?という疑問に対して、平易で分かりやすい文章と図表を駆使して解説されている記事です。また、アルゴリズムを学ぶ意義・メリットについても書かれています。
+- [未経験者のアナタもハマる？競技プログラミング「AtCoder」って何だ？【理系通信】](https://www.youtube.com/watch?v=WGNQrH0AV2k) - テレビ東京総合ニュースサイト([テレ東NEWS](https://www.youtube.com/c/tvtokyonews/playlists))のサイエンスニュースで、[AtCoder](https://atcoder.jp/)が紹介されている動画です。番組ディレクターが、実際のコンテストで出題された問題を解きながら競技プログラミングの魅力を伝えるとともに、企業における高度IT人材の需要などについても取材しています。
+- [AtCoder 布教 PV](https://www.youtube.com/watch?v=-z3bTeA_SEY&feature=youtu.be) - 有志による[AtCoder](https://atcoder.jp/)のプロモーションビデオです。特に、競技プログラミングを始めようと思っている人や周囲に布教したい人におすすめです。
+- [2分で始める競技プログラミング【高井茅乃 #31】](https://www.youtube.com/watch?v=F4_1yWI5Z-Y&feature=youtu.be) - 競技プログラミングの概説、[AtCoder](https://atcoder.jp/)のアカウント登録、練習問題を解く方法が2分で紹介されています。
+- [AtCoderの始め方。競プロに興味はあるけどやっていないという方へ。](https://www.youtube.com/watch?v=vxBOC08XZ44&feature=youtu.be) - 教育系エンジニアによる[AtCoder](https://atcoder.jp/)の紹介動画です。競技プログラミングの解説に加えて、便利なサービス・ツールが紹介されています。
+
 ### Q1: アルゴリズムや競技プログラミングに興味はありますが、何から始めたらいいですか?
 
 A1: 入門者、初心者向けの教材や記事を読んでみましょう。[AtCoder](https://atcoder.jp/)アカウントを登録し、コンテスト参加前に練習問題を解くことをおすすめします。
 
-- [アルゴリズムとは何か！？ ～ 文系理系問わず楽しめる精選6問 ～](https://qiita.com/drken/items/f909b79ee03e679c7142) - アルゴリズムとは何か?という疑問に対して、平易で分かりやすい文章と図表を駆使して解説されている記事です。また、アルゴリズムを学ぶ意義・メリットについても書かれています。
+- [APG4bからAtCoderを始めた人向けの導線](https://mogurin1000000007.hatenablog.com/entry/2021/02/09/162158) - 公式が提供するプログラミングの入門教材[C++入門 AtCoder Programming Guide for beginners (通称APG4b)](https://atcoder.jp/contests/APG4b)の概説と、APG4bをある程度学習した人に向けた基本的な練習方法やTipsが紹介されている記事です。
 - [C++入門 AtCoder Programming Guide for beginners (APG4b)](https://atcoder.jp/contests/APG4b) - 公式が提供する汎用的なプログラミングの基礎を学ぶための入門教材です。また、知識の定着を図るための練習問題と自分で書いたプログラムを自動で採点してくれるシステムがあるのが大きな特徴です。また、有志により[Rust版](https://zenn.dev/toga/books/apg4b-rust-ver)も作成・公開されています。
 
   <div align="center">
     <img loading = "lazy" src="images/official/home_apg4b.png" alt="atcoder problems">
   </div>
 
-- [APG4bからAtCoderを始めた人向けの導線](https://mogurin1000000007.hatenablog.com/entry/2021/02/09/162158) - [APG4b](https://atcoder.jp/contests/APG4b)の概説と、APG4bをある程度学習した人に向けた基本的な練習方法やTipsが紹介されている記事です。
-- [AtCoder 布教 PV](https://www.youtube.com/watch?v=-z3bTeA_SEY&feature=youtu.be) - 有志による[AtCoder](https://atcoder.jp/)のプロモーションビデオです。特に、競技プログラミングを始めようと思っている人や周囲に布教したい人におすすめです。
-- [2分で始める競技プログラミング【高井茅乃 #31】](https://www.youtube.com/watch?v=F4_1yWI5Z-Y&feature=youtu.be) - 競技プログラミングの概説、[AtCoder](https://atcoder.jp/)のアカウント登録、練習問題を解く方法が2分で紹介されています。
-- [AtCoderの始め方。競プロに興味はあるけどやっていないという方へ。](https://www.youtube.com/watch?v=vxBOC08XZ44&feature=youtu.be) - 教育系エンジニアによる[AtCoder](https://atcoder.jp/)の紹介動画です。競技プログラミングの解説に加えて、便利なサービス・ツールが紹介されています。
-- [どきんちゃんねる](https://www.youtube.com/channel/UCRtRY2sRe36LXjaiyhqEqCg) - [dokin](https://atcoder.jp/users/dokin)さんのYouTubeチャンネルです。入門者・初心者向けに、問題の考察・C++での実装過程が丁寧に解説されています。
 - [AtCoderに登録したら次にやること ～ これだけ解けば十分闘える！過去問精選10問 ～](https://qiita.com/drken/items/fd4e5e3630d0f5859067) - [AtCoder](https://atcoder.jp/)のコンテストに初めて参加する方に向けた精選10問を紹介した記事です。さまざまな言語による解答例のリンクなどの資料も充実しています。
 
   <div align="center">
@@ -48,6 +54,9 @@ A1: 入門者、初心者向けの教材や記事を読んでみましょう。[
   </div>
 
   C++以外の言語による解答例(リンク元より一部抜粋。注:記事に掲載されているコードが最新のジャッジシステムで動作しない場合もあります)
+
+  <details>
+    <summary>各言語で実装された解答例のリンクを開く/閉じる</summary>
 
   - [C](https://qiita.com/cielavenir/items/ee1e47b844d05dcfc66e)
   - [Crystal](https://qiita.com/tomerun/items/23ce2a2ed6ead291d222)
@@ -70,13 +79,17 @@ A1: 入門者、初心者向けの教材や記事を読んでみましょう。[
   - [Scala](https://qiita.com/kgtkr/items/9b5798d02563e885d2ac)
   - [Swift](https://qiita.com/cielavenir/items/b90a94dce60a620fa2dc)
 
-- [レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【初級編：競プロを始めよう】](https://qiita.com/e869120/items/f1c6f98364d1443148b3) - 初心者に向けて競技プログラミングの特徴・面白さ、アカウントの登録方法やレーティングの説明がされている記事です。さらに、上達するためのガイドラインが丁寧に解説されています。
+  </details>
+
+- [どきんちゃんねる](https://www.youtube.com/channel/UCRtRY2sRe36LXjaiyhqEqCg) - [dokin](https://atcoder.jp/users/dokin)さんのYouTubeチャンネルです。入門者・初心者向けに、問題の考察・C++での実装過程が丁寧に解説されています。
 - [AtCoderでの勉強の仕方（コンテスト編）](http://chokudai.hatenablog.com/entry/2014/08/07/212849) - [AtCoder](https://atcoder.jp/)社長の[chokudai](https://twitter.com/chokudai)さんによる記事です。プログラミングコンテストの参加を通して、アルゴリズムの学習を継続的に行う方法が解説されています。
 - [AtCoder Problems](https://kenkoooo.com/atcoder/) - コンテストの過去問を一覧できるWebアプリです。登録したアカウント名を入力すると、問題の正誤状況や各種集計結果などを確認できます。有志による[使い方を解説した記事](https://ntk-ta01.hatenablog.com/entry/2020/04/15/001405)もご参照ください。
 
   <div align="center">
     <img loading = "lazy" src="images/web_app/atcoder_problems.png" alt="atcoder problems">
   </div>
+
+- [レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【初級編：競プロを始めよう】](https://qiita.com/e869120/items/f1c6f98364d1443148b3) - 初心者に向けて競技プログラミングの特徴・面白さ、アカウントの登録方法やレーティングの説明がされている記事です。さらに、上達するためのガイドラインが丁寧に解説されています。
 
 ### Q2: プログラムの実行環境を用意するには?
 
