@@ -6,6 +6,15 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-03-20
+
+- [#1707](https://github.com/KATO-Hiro/AtCoderClans/pull/1707) -「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[最適解を求める問題に関する知見](https://kato-hiro.github.io/AtCoderClans/media#%E6%9C%80%E9%81%A9%E8%A7%A3%E3%82%92%E6%B1%82%E3%82%81%E3%82%8B%E5%95%8F%E9%A1%8C%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%9F%A5%E8%A6%8B)」に、記事「[AHC001（マラソンマッチ）の参加者の使用言語の分布を調べてみた](https://wakabame.hatenablog.com/entry/2021/03/20/004612)」を追加。
+- [#1703](https://github.com/KATO-Hiro/AtCoderClans/pull/1703), [#1705](https://github.com/KATO-Hiro/AtCoderClans/pull/1705) - 「[For Beginners](https://kato-hiro.github.io/AtCoderClans/for_beginners)」ページと「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに掲載している記事「[AtCoderに登録したら次にやること ～ これだけ解けば十分闘える！過去問精選10問 ～](https://qiita.com/drken/items/fd4e5e3630d0f5859067)」の言語別実装例へのリンク一覧を、折りたたみ表示できるように変更。
+- [#1701](https://github.com/KATO-Hiro/AtCoderClans/pull/1701) - 「[For Beginners](https://kato-hiro.github.io/AtCoderClans/for_beginners)」ページの内容が分かりづらいとの[ご指摘](https://twitter.com/tamacake39/status/1369975572336545794)があったため、以下の修正を試みた。
+  - サブカテゴリ「[Q1: アルゴリズムや競技プログラミングに興味はありますが、何から始めたらいいですか?](https://kato-hiro.github.io/AtCoderClans/for_beginners#q1-%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%82%84%E7%AB%B6%E6%8A%80%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AB%E8%88%88%E5%91%B3%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8C%E4%BD%95%E3%81%8B%E3%82%89%E5%A7%8B%E3%82%81%E3%81%9F%E3%82%89%E3%81%84%E3%81%84%E3%81%A7%E3%81%99%E3%81%8B)」に掲載している内容が多くなってきたため、「アルゴリズム・競技プログラミングに親しむためのきっかけ作り」と「コンテストに参加するための学習方法」の観点から分割。
+  - アルゴリズム・競技プログラミング・[AtCoder](https://atcoder.jp/)を分かりやすく紹介している動画をまとめるため、サブカテゴリ「[Q0: アルゴリズム、競技プログラミングとは?](https://kato-hiro.github.io/AtCoderClans/for_beginners#q0-%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E7%AB%B6%E6%8A%80%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF)」を新設。
+  - サブカテゴリ「[Q1: アルゴリズムや競技プログラミングに興味はありますが、何から始めたらいいですか?](https://kato-hiro.github.io/AtCoderClans/for_beginners#q1-%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%82%84%E7%AB%B6%E6%8A%80%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AB%E8%88%88%E5%91%B3%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8C%E4%BD%95%E3%81%8B%E3%82%89%E5%A7%8B%E3%82%81%E3%81%9F%E3%82%89%E3%81%84%E3%81%84%E3%81%A7%E3%81%99%E3%81%8B)」では、プログラミング言語の学習教材やコンテスト参加に向けた学習方法について紹介した記事などを掲載。また、掲載の順序を一部修正。
+
 ### 2021-03-19
 
 - [#1697](https://github.com/KATO-Hiro/AtCoderClans/pull/1697) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[番組アーカイブ](https://kato-hiro.github.io/AtCoderClans/media#%E7%95%AA%E7%B5%84%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96)」に、動画「[未経験者のアナタもハマる？競技プログラミング「AtCoder」って何だ？【理系通信】](https://www.youtube.com/watch?v=WGNQrH0AV2k)」を追加。
