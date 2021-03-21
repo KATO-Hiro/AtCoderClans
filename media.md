@@ -351,6 +351,7 @@ filename: media
 ### 開発に関心のある人向けの記事
 
 - [AtCoder学生ユーザー座談会「内定先、どうやって決めましたか？」](https://saponet.mynavi.jp/column/knowhow/zadankai-gakusei/) - [AtCoder](https://atcoder.jp/)の学生ユーザ3人を対象に、AtCoderを始めたきっかけ・内定先の決め手・初任給など覆面座談会の内容を紹介した記事。
+- [おいしいキャベツの育て方](https://ngtkana.hatenablog.com/entry/2021/03/17/210830) - [ngtkana](https://atcoder.jp/users/ngtkana)さんが、プログラミングを始めたきっかけ・[AtCoder](https://atcoder.jp/)との出会い・アルバイトを経て現職に至るまでの過程を紹介した記事。
 - [競技プログラマーがWeb開発者の卵になるまでの軌跡](https://qiita.com/__Null_Null_/items/940305f068ef9df659d9) - Web開発に興味のある競技プログラマーに向けて、シンプルなWebアプリを作るために必要な知識・学習順序を紹介した記事。
 - [競技プログラマーにおすすめするセキュリティエンジニアというお仕事](https://qiita.com/shioshiota/items/6f6cc42303ac72388693) - 競技プログラミングの経験が仕事に活きるケースの一例が紹介されている記事。競技プログラミングが得意な人とセキュリティエンジニアの業務との関連について解説されている。
 - [競技プログラミング、日本の大会参加者急増　採用の指標に](https://www.chunichi.co.jp/article/180774) - 競技プログラミングの経験・実績が採用に活用されていることを紹介した記事。注: 全文を読むには、会員登録が必要。
