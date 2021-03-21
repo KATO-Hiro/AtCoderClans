@@ -31,6 +31,7 @@ filename: milestones
 ### レーティング400から799まで(茶色)
 
 - [灰色スタックしていた私が考える「茶色になるために必要なこと」 - segment_threeの日記](https://segment-three.hatenablog.com/entry/2021/01/24/171947) - [tyamahosen](https://atcoder.jp/users/tyamahosen)さんが、2021年1月23日に達成。
+- [[初投稿] AtCoder入茶してみたw [至って真面目です]](https://qiita.com/Shiroha_MK3/items/aacc2727b511682e1cf2) - [Shiroha_F14](https://atcoder.jp/users/shiroha_f14)さんが、2021年3月20日に達成。
 
 ### レーティング800から1199まで(緑色)
 
