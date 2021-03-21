@@ -8,6 +8,8 @@ filename: CHANGELOG
 
 ### 2021-03-21
 
+- [#1719](https://github.com/KATO-Hiro/AtCoderClans/pull/1719) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[G4NP0N](https://atcoder.jp/users/G4NP0N)さんの[記事](https://g4np0n-kyopro.hatenablog.com/entry/nyuao_mazime)を追加。
 - [#1714](https://github.com/KATO-Hiro/AtCoderClans/pull/1714) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[開発に関心のある人向けの記事](https://kato-hiro.github.io/AtCoderClans/media#%E9%96%8B%E7%99%BA%E3%81%AB%E9%96%A2%E5%BF%83%E3%81%AE%E3%81%82%E3%82%8B%E4%BA%BA%E5%90%91%E3%81%91%E3%81%AE%E8%A8%98%E4%BA%8B)」に、記事「[おいしいキャベツの育て方](https://ngtkana.hatenablog.com/entry/2021/03/17/210830)」を追加。
 - [#1713](https://github.com/KATO-Hiro/AtCoderClans/pull/1713) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
   - レーティング400から799まで(茶色)に[Shiroha_F14](https://atcoder.jp/users/shiroha_f14)さんの[記事](https://qiita.com/Shiroha_MK3/items/aacc2727b511682e1cf2)を追加。
