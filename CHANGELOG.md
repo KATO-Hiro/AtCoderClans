@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-03-21
+
+- [#1714](https://github.com/KATO-Hiro/AtCoderClans/pull/1714) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[開発に関心のある人向けの記事](https://kato-hiro.github.io/AtCoderClans/media#%E9%96%8B%E7%99%BA%E3%81%AB%E9%96%A2%E5%BF%83%E3%81%AE%E3%81%82%E3%82%8B%E4%BA%BA%E5%90%91%E3%81%91%E3%81%AE%E8%A8%98%E4%BA%8B)」に、記事「[おいしいキャベツの育て方](https://ngtkana.hatenablog.com/entry/2021/03/17/210830)」を追加。
+- [#1713](https://github.com/KATO-Hiro/AtCoderClans/pull/1713) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング400から799まで(茶色)に[Shiroha_F14](https://atcoder.jp/users/shiroha_f14)さんの[記事](https://qiita.com/Shiroha_MK3/items/aacc2727b511682e1cf2)を追加。
+
 ### 2021-03-20
 
 - [#1707](https://github.com/KATO-Hiro/AtCoderClans/pull/1707) -「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[最適解を求める問題に関する知見](https://kato-hiro.github.io/AtCoderClans/media#%E6%9C%80%E9%81%A9%E8%A7%A3%E3%82%92%E6%B1%82%E3%82%81%E3%82%8B%E5%95%8F%E9%A1%8C%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%9F%A5%E8%A6%8B)」に、記事「[AHC001（マラソンマッチ）の参加者の使用言語の分布を調べてみた](https://wakabame.hatenablog.com/entry/2021/03/20/004612)」を追加。
