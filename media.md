@@ -49,7 +49,7 @@ filename: media
 - [YouTube](#youtube)
   - [生放送、動画配信に関するTips](#%E7%94%9F%E6%94%BE%E9%80%81%E5%8B%95%E7%94%BB%E9%85%8D%E4%BF%A1%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8Btips)
   - [チャンネル](#%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB)
-  - [講座、講演](#%E8%AC%9B%E5%BA%A7%E8%AC%9B%E6%BC%94)
+  - [感想会、講座、講演、対談](#%E6%84%9F%E6%83%B3%E4%BC%9A%E8%AC%9B%E5%BA%A7%E8%AC%9B%E6%BC%94%E5%AF%BE%E8%AB%87)
   - [プロモーションビデオなど](#%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%93%E3%83%87%E3%82%AA%E3%81%AA%E3%81%A9)
 - [ニコニコ動画](#%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3%E5%8B%95%E7%94%BB)
 - [番組アーカイブ](#%E7%95%AA%E7%B5%84%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96)
@@ -418,8 +418,9 @@ filename: media
 - [ななみつき](https://www.youtube.com/playlist?list=PLKs3DZp2szRMAHKnNg2ZlIhW9uXfBQg6a) - [Nanamitsuki](https://atcoder.jp/users/Nanamitsuki)さんのチャンネル。コンテストの過去問を解く動画などが公開されている。
 - [文月このは](https://www.youtube.com/playlist?list=PLhu1EKNfmGwS75JjK2YeMRm9AVcubN0WO) - [kono_july](https://atcoder.jp/users/kono_july)さんのチャンネル。コンテストの過去問を解く動画などが公開されている。
 
-### 講座、講演
+### 感想会、講座、講演、対談
 
+- [AtCoder Heuristic Contest 001 感想会](https://www.youtube.com/watch?v=eV6dX8a0MeM) - [AtCoder Heuristic Contest 001](https://atcoder.jp/contests/ahc001)のオンライン感想会。参加者は、writerの[wata](https://atcoder.jp/users/wata)さん、同コンテスト2位の[ymatsux](https://atcoder.jp/users/ymatsux)さん、[AtCoder](https://atcoder.jp/)社長で世界大会での上位入賞経験もある[chokudai](https://twitter.com/chokudai)さん。ヒューリスティックコンテストでよく使われる手法、点数を上げるためのテクニック、アルゴリズムコンテストとの関連性などが紹介されている。
 - [これから身につけるべきITスキルとは?](https://www.youtube.com/watch?v=oSIRyxJNBrI&feature=youtu.be) - [chokudai](https://twitter.com/chokudai)さんと就活系YouTuberが、今後必要なITスキルについて対談している動画。ITスキルが求められる理由、意識的にプログラミングを学ぶ意義・必要性、今後減る・増える仕事について語られている。
 - [プログラミングコンテストのすゝめ 〜競プロはキャリアであり、趣味でもあり、学びである〜](https://www.youtube.com/watch?v=Jb0-8ZuRpNM&feature=youtu.be) - 2020年7月に開催された日本最大の学生向けテックカンファレンス「技育祭」（ぎいくさい）の講演動画。[chokudai](https://twitter.com/chokudai)さんが、競技プログラミングの面白さ・楽しさを解説している。
 - [「レッドコーダーの作り方」競プロに活かす㊙私生活](https://www.youtube.com/watch?v=bQ9vSFDIxLo) - [iwiwi](https://twitter.com/iwiwi)さんが、オンサイトイベントの参加者からプログラミングコンテスト、私生活、研究に関する質問に対して回答している動画。
