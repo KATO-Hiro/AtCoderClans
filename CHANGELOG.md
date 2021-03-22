@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-03-22
+
+- [#1726](https://github.com/KATO-Hiro/AtCoderClans/pull/1726) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、動画「[AtCoder Heuristic Contest 001 感想会](https://www.youtube.com/watch?v=eV6dX8a0MeM)」を追加。
+- [#1725](https://github.com/KATO-Hiro/AtCoderClans/pull/1725) - 記事「[初心者こそ、競技プログラミングに挑戦してほしい。髙橋直大の「世界にAtCoderを広める」という夢](https://persol-tech-s.co.jp/i-engineer/human/atcoder)」を追加。
+- [#1724](https://github.com/KATO-Hiro/AtCoderClans/pull/1724) - ユーザスクリプト「[AtCoderColorStandings](https://greasyfork.org/ja/scripts/423713-atcodercolorstandings)」を追加。
+
 ### 2021-03-21
 
 - [#1719](https://github.com/KATO-Hiro/AtCoderClans/pull/1719) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
