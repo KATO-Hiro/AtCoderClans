@@ -54,6 +54,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/ac_writers_script.png" alt="ac writers script">
   </div>
 
+- [AtCoderColorStandings](https://greasyfork.org/ja/scripts/423713-atcodercolorstandings) - 「順位表」ページと「バーチャル順位表」ページで、コンテスト参加者のレーティング別正解率を表示する。注: コンテスト中にSNSでの言及や投稿は避ける。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_color_standings.png" alt="atcoder color standings">
+  </div>
+
 - [AtcoderDevotionGraph](https://greasyfork.org/ja/scripts/416588-atcoderdevotiongraph) - 「ユーザ」ページのレーティンググラフに、ACした問題の総得点の推移を上書き表示する。
 
   <div align="center">
