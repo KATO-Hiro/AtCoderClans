@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-03-23
+
+- [#1729](https://github.com/KATO-Hiro/AtCoderClans/pull/1729) - 「YouTube」ページに、チャンネルを追加。
+  - [ことり兄貴【プログラマ】](https://www.youtube.com/channel/UCf86wNbQtsJKh2EpRm7-Mrg/videos)
+
 ### 2021-03-22
 
 - [#1726](https://github.com/KATO-Hiro/AtCoderClans/pull/1726) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、動画「[AtCoder Heuristic Contest 001 感想会](https://www.youtube.com/watch?v=eV6dX8a0MeM)」を追加。
