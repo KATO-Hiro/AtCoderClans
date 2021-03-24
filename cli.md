@@ -22,6 +22,7 @@ filename: cli
   - [テストケースの追加を簡易化するツール](#%E3%83%86%E3%82%B9%E3%83%88%E3%82%B1%E3%83%BC%E3%82%B9%E3%81%AE%E8%BF%BD%E5%8A%A0%E3%82%92%E7%B0%A1%E6%98%93%E5%8C%96%E3%81%99%E3%82%8B%E3%83%84%E3%83%BC%E3%83%AB)
   - [コードの高速化、バックアップなど](#%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E9%AB%98%E9%80%9F%E5%8C%96%E3%83%90%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%81%AA%E3%81%A9)
   - [問題の作成と準備を支援するツール](#%E5%95%8F%E9%A1%8C%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E6%BA%96%E5%82%99%E3%82%92%E6%94%AF%E6%8F%B4%E3%81%99%E3%82%8B%E3%83%84%E3%83%BC%E3%83%AB)
+  - [問題を自動で解くツール](#%E5%95%8F%E9%A1%8C%E3%82%92%E8%87%AA%E5%8B%95%E3%81%A7%E8%A7%A3%E3%81%8F%E3%83%84%E3%83%BC%E3%83%AB)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -159,3 +160,7 @@ filename: cli
 - [Rime](https://github.com/icpc-jag/rime) ![GitHub stars](https://img.shields.io/github/stars/icpc-jag/rime?style=plastic) - コンテストの問題セット作成を補助するツール。少なくとも国内では、デファクトスタンダードになっている([出典](https://github.com/KATO-Hiro/AtCoderClans/issues/489))。[日本語のドキュメント](https://rime.readthedocs.io/ja/latest/)も充実している。また、拡張プラグイン[Rime+](https://github.com/icpc-jag/rime-plus)の内容も取り込まれていることから、[Rime+の作者による紹介記事](https://qiita.com/hiroshi-cl/items/fbd0d0963d8207d33bc6)も参考になると思われる。
 - [rules_contest](https://github.com/nya3jp/rules_contest) ![GitHub stars](https://img.shields.io/github/stars/nya3jp/rules_contest?style=plastic) - コンテストの問題準備に関するタスクを自動化するツール。
 - [statements-manager](https://github.com/tsutaj/statements-manager) ![GitHub Repo stars](https://img.shields.io/github/stars/tsutaj/statements-manager?style=plastic) - 問題文の管理を便利にするツール。
+
+### 問題を自動で解くツール
+
+- [Jikka](https://github.com/kmyk/Jikka) ![GitHub Repo stars](https://img.shields.io/github/stars/kmyk/Jikka?style=plastic) - 式変形を行ったり、データ構造のライブラリを貼ったりするだけで解ける問題を自動で解くツール。
