@@ -17,6 +17,7 @@ filename: web_app
   - [レーティング、パフォーマンス、順位などを使った派生サービス](#%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E9%A0%86%E4%BD%8D%E3%81%AA%E3%81%A9%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%B4%BE%E7%94%9F%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9)
   - [競技プログラミングに関する問題を投稿する、解答する](#%E7%AB%B6%E6%8A%80%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%95%8F%E9%A1%8C%E3%82%92%E6%8A%95%E7%A8%BF%E3%81%99%E3%82%8B%E8%A7%A3%E7%AD%94%E3%81%99%E3%82%8B)
   - [チーム戦に参加する](#%E3%83%81%E3%83%BC%E3%83%A0%E6%88%A6%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%99%E3%82%8B)
+  - [公式グッズを購入する](#%E5%85%AC%E5%BC%8F%E3%82%B0%E3%83%83%E3%82%BA%E3%82%92%E8%B3%BC%E5%85%A5%E3%81%99%E3%82%8B)
 - [ボット](#%E3%83%9C%E3%83%83%E3%83%88)
   - [Discord](#discord)
   - [LINE](#line)
@@ -353,6 +354,14 @@ filename: web_app
 
   <div align="center">
     <img loading = "lazy" src="images/web_app/teammaker.png" alt="teammaker">
+  </div>
+
+### 公式グッズを購入する
+
+- [SUZURI](https://suzuri.jp/AtCoder) - [AtCoder](https://atcoder.jp/)のロゴマークが入ったグッズを購入できる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/suzuri.png" alt="suzuri">
   </div>
 
 ## ボット
