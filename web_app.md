@@ -355,6 +355,14 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/teammaker.png" alt="teammaker">
   </div>
 
+### 公式グッズを購入する
+
+- [SUZURI](https://suzuri.jp/AtCoder) - [AtCoder](https://atcoder.jp/)のロゴマークが入ったグッズを購入できる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/suzuri.png" alt="suzuri">
+  </div>
+
 ## ボット
 
 ### Discord
