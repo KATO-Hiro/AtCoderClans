@@ -130,6 +130,7 @@ filename: libraries
 
 - [Mitarushi/ACL-Python](https://github.com/Mitarushi/ACL-Python) ![GitHub stars](https://img.shields.io/github/stars/Mitarushi/ACL-Python?style=plastic) - PyPy版。
 - [not522/ac-library-python](https://github.com/not522/ac-library-python) ![GitHub stars](https://img.shields.io/github/stars/not522/ac-library-python?style=plastic) - Python版。オンラインジャッジで実行できるように、コードを一つのファイルにまとめる機能も含まれている。
+- [shakayami/ACL-for-python](https://github.com/shakayami/ACL-for-python) ![GitHub Repo stars](https://img.shields.io/github/stars/shakayami/ACL-for-python?style=plastic) - Python版。[Wiki](https://github.com/shakayami/ACL-for-python/wiki)ページに、使い方(日本語)とサンプルコードが記載されている。
 
 #### ACL Ruby
 
