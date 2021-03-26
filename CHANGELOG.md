@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-03-26
+
+- [#1744](https://github.com/KATO-Hiro/AtCoderClans/pull/1744) - [shakayami_kpro](https://twitter.com/shakayami_kpro)さんのご紹介で、[AtCoder Library (ACL)](https://atcoder.jp/posts/517)のPython版である「[shakayami/ACL-for-python](https://github.com/shakayami/ACL-for-python)」を追加。
+
 ### 2021-03-25
 
 - [#1737](https://github.com/KATO-Hiro/AtCoderClans/pull/1737), [#1739](https://github.com/KATO-Hiro/AtCoderClans/pull/1739) - 「[Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app)」ページにサブカテゴリ「[公式グッズを購入する](https://kato-hiro.github.io/AtCoderClans/web_app#%E5%85%AC%E5%BC%8F%E3%82%B0%E3%83%83%E3%82%BA%E3%82%92%E8%B3%BC%E5%85%A5%E3%81%99%E3%82%8B)」を新設。以下のWebサイトを追加。
