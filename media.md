@@ -217,6 +217,7 @@ filename: media
 - [AHC001（マラソンマッチ）の参加者の使用言語の分布を調べてみた](https://wakabame.hatenablog.com/entry/2021/03/20/004612) - [AtCoder Heuristic Contest 001](https://atcoder.jp/contests/ahc001)で一定の得点以上の提出コードを対象として、利用者の多い言語、使用言語と得点・順位との関係を調査した記事。ヒューリスティック型のコンテストにおいて、使用言語を選択する際に参考になると思われる。
 - [AtCoder Heuristic Contest 001 - じろうのブログ](https://shuu0914.hatenablog.com/entry/2021/03/14/200154) - [rstoick](https://atcoder.jp/users/rstoick)さんによる[AtCoder Heuristic Contest 001](https://atcoder.jp/contests/ahc001)の解答方針と、得点の増加につながった考え方・指標・調整方法などを紹介した記事。
 - [AtCoder Heuristic Contest 001 AtCoder Ad - びったんびったん](http://hakomof.hatenablog.com/entry/2021/03/14/202411) - [hakomo](https://atcoder.jp/users/hakomo)さんによる[AtCoder Heuristic Contest 001](https://atcoder.jp/contests/ahc001)の解答方針と頻出テクニックを紹介した記事。
+- [競技プログラミングにおいて焼きなまし法に堕ちずに落とすコツ](https://qiita.com/tsukammo/items/b410f3202372fe87c919) - ヒューリスティック型のコンテストでよく使われる手法の一つである「焼きなまし法」を適切に利用するための知見をまとめた記事。相性の良い/悪い問題の特徴、同手法の適用範囲、問題の特性を活用したアプローチ方法が紹介されている。
 - [競プロ解法紹介～大局観で高得点を取る！～](https://qiita.com/tsukammo/items/85ffbe907e89b051d715) - マラソン形式の問題である[Chokudai Contest 001](https://atcoder.jp/contests/chokudai001/)の解法を紹介した記事。愚直な解法から高得点を狙うための着眼点や方法が解説されている。
 - [競プロ解法紹介～レベル別マラソンの戦い方～](https://qiita.com/tsukammo/items/7041a00e429f9f5ac4ae) - マラソン形式の問題である[Hack To The Future 予選問題](https://atcoder.jp/contests/future-contest-2018-qual/)を題材に、初心者から上級者までを対象として、それぞれのレベルに応じた戦い方を紹介した記事。
 - [焼きなまし法のコツ Ver. 1.3](https://shindannin.hatenadiary.com/entry/2021/03/06/115415) - ヒューリスティック型のコンテストでよく使われる手法の一つである「焼きなまし法」について、使い方のコツが網羅的にまとめられている。
