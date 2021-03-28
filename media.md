@@ -239,6 +239,7 @@ filename: media
 - [競技プログラミングにおける個人的C++コーディングスタイル(2020)](https://kimiyuki.net/blog/2020/10/25/coding-style-for-competitive-programming/) - [kimiyuki](https://atcoder.jp/users/kimiyuki)さんの好みのコーディングスタイルについて、競技プログラミングという文脈での利点と批判の両面から紹介した記事。
 - [競技プログラミングにおけるC++の定数倍高速化テク](https://qiita.com/ageprocpp/items/7bda728d109c953ece3c) - C++で実装したコードを高速化するテクニックをまとめた記事。
 - [競プロ実装テクニック - よすぽの日記](https://yosupo.hatenablog.com/entry/2020/07/30/221504) - [yosupo](https://atcoder.jp/users/yosupo)さんが、コードの実装において効果が高い、もしくは、一般性がありそうだと判断した項目についてまとめた記事。
+- [競プロで踏みがちなC++の罠](https://rsk0315.hatenablog.com/entry/2019/12/17/002419) - 2019年12月時点におけるC++の未定義動作や言語仕様の勘違いなどにより、意図とは異なる結果になりうる事例を紹介した記事。注: ジャッジシステムの実行環境および言語仕様の確認を推奨。
 - [競プロに便利な C++17 新機能まとめ](https://qiita.com/Reputeless/items/db7dda0096f3ae91d450) - 競技プログラミングに役立つC++17の標準ライブラリ、言語機能が16種類紹介されている。記事のサンプルコードは、[AtCoder](https://atcoder.jp/)のGCC9.2.1システムで動作確認済み。
 - [厳選！C++ アルゴリズム実装に使える25のSTL機能【前編】](https://qiita.com/e869120/items/518297c6816adb67f9a5) - 競技プログラミングコンテストへの参加やアルゴリズムの学習で便利なC++の標準ライブラリ(STL)と実装例が紹介されている。[後編](https://qiita.com/e869120/items/702ca1c1ed6ff6770257)もある。
 - [代数的構造を乗せるデータ構造の設計について](https://noshi91.hatenablog.com/entry/2020/04/22/212649) - 代数的構造を乗せるデータ構造の設計方法について、「静的メンバを実装した型を受け取る」方法を中心とした5種類を比較し、その利点・欠点を解説している。
