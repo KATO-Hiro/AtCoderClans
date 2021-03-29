@@ -5,7 +5,7 @@ AtCoderの非公式サービス・ツールに関する内容を最新の状態�
 AtCoderに関する新しいサービス・ツールなどを公開した・見つけた、公開しないで欲しい、などのご要望を歓迎いたします。他にも、誤字脱字を見つけた・リンクが切れている、といったご報告も大変ありがたいと考えています。以下の方法で貢献することができます。
 
 + 当レポジトリで、[Issue](https://github.com/KATO-Hiro/AtCoderHub/issues/new)を作成する。
-+ 当レポジトリをForkして、[プルリクエスト(PR)](https://github.com/KATO-Hiro/AtCoderHub/pulls)を作成する。
++ 当レポジトリをForkして、[プルリクエスト(PR)](https://github.com/KATO-Hiro/AtCoderHub/pulls)を作成する。詳細は、「プルリクエストの作成方法」を参照。
 + GitやGitHubの利用が困難な場合は、[@KATO-Hiro](https://twitter.com/k_hiro1818)までDMしていただくのが、最も手軽です。
 
 頂いたIssueやPRは、可能な限り拝見いたします。
@@ -48,18 +48,25 @@ AtCoderに関する新しいサービス・ツールなどを公開した・見�
 
     `git commit -m ":sparkles: Add web app."`
 
-8. `git push root_branch <your-current-branch>`
-9. プルリクエストを作成します。
+8. プルリクエストを作成する前に、加筆・修正した内容を確認します。
+
+    `git diff origin <your-current-branch>`
+
+9. ご自身のリモートブランチを更新します。
+
+    `git push origin <your-current-branch>`
+
+10. プルリクエストを作成します。
 
 初めてのプルリクエストの作成は、いかがでしたか?
 
-2回目以降は、手順5〜9を行います。注: 内容の加筆・修正を行う前に、当レポジトリの最新の状態を反映させる必要があります。
+2回目以降は、手順5〜10を行います。注: 内容の加筆・修正を行う前に、当レポジトリの最新の状態を反映させる必要があります。
 
 1. 当レポジトリの最新の内容を取得します。
 
     `git fetch root_branch`
 
-2. 取得した内容をご自身のローカル上のブランチにマージします。`master`を変えれば、別のブランチにすることも可能です。
+2. 取得した内容をご自身のローカル上のブランチにマージします。`master`の部分を変えれば、別のブランチにすることも可能です。
 
     `git merge root_branch/master`
 
