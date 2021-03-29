@@ -6,6 +6,13 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-03-29
+
+- [#1765](https://github.com/KATO-Hiro/AtCoderClans/pull/1765) - 「[Home](https://kato-hiro.github.io/AtCoderClans/)」ページの「[ご要望、ご報告、お気付きの点などについて](https://kato-hiro.github.io/AtCoderClans/#%E3%81%94%E8%A6%81%E6%9C%9B%E3%81%94%E5%A0%B1%E5%91%8A%E3%81%8A%E6%B0%97%E4%BB%98%E3%81%8D%E3%81%AE%E7%82%B9%E3%81%AA%E3%81%A9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)」で記載している[ガイドライン](https://github.com/KATO-Hiro/AtCoderClans/blob/master/CONTRIBUTING.md)に、「プルリクエストの作成方法」を追加。
+- [#1762](https://github.com/KATO-Hiro/AtCoderClans/pull/1762) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[最適解を求める問題に関する知見](https://kato-hiro.github.io/AtCoderClans/media#%E6%9C%80%E9%81%A9%E8%A7%A3%E3%82%92%E6%B1%82%E3%82%81%E3%82%8B%E5%95%8F%E9%A1%8C%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%9F%A5%E8%A6%8B)」に以下の記事を追加。
+  - [誰でもできる焼きなまし法](http://gasin.hatenadiary.jp/entry/2019/09/03/162613)
+- [#1761](https://github.com/KATO-Hiro/AtCoderClans/pull/1761) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[入門者、初心者向けの記事](https://kato-hiro.github.io/AtCoderClans/media#%E5%85%A5%E9%96%80%E8%80%85%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%81%AE%E8%A8%98%E4%BA%8B)」に、「[競プロ典型90問](https://twitter.com/e869120/status/1376089196100653060)」を追加。
+
 ### 2021-03-28
 
 - [#1757](https://github.com/KATO-Hiro/AtCoderClans/pull/1757) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[最適解を求める問題に関する知見](https://kato-hiro.github.io/AtCoderClans/media#%E6%9C%80%E9%81%A9%E8%A7%A3%E3%82%92%E6%B1%82%E3%82%81%E3%82%8B%E5%95%8F%E9%A1%8C%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%9F%A5%E8%A6%8B)」に「[焼きなまし法に関する知見](https://kato-hiro.github.io/AtCoderClans/media#%E7%84%BC%E3%81%8D%E3%81%AA%E3%81%BE%E3%81%97%E6%B3%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%9F%A5%E8%A6%8B)」を新設。以下の記事を追加するとともに、同じカテゴリに該当する記事を加筆・修正。
