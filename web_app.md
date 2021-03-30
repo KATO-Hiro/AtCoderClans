@@ -304,6 +304,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_twitter_profile_updater.png" alt="atcoder twitter profile updater">
   </div>
 
+- [AtCoder Type Checker](https://atcoder-type-checker.herokuapp.com/) - コンテストの成績から、同じ(内部)レーティング帯で「多く解くタイプ」か「早く解くタイプ」かを判定してくれる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_type_checker.png" alt="atcoder type checker">
+  </div>
+
 - [AtCoder Widget](https://github.com/rdrgn/atcoder-widget) - ユーザのレーティングの推移をWebページに表示するためウィジェット。
 
   <div align="center">
