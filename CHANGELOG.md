@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-03-30
+
+- [#1772](https://github.com/KATO-Hiro/AtCoderClans/pull/1772) - 「[Home](https://kato-hiro.github.io/AtCoderClans/)」ページの「[ご要望、ご報告、お気付きの点などについて](https://kato-hiro.github.io/AtCoderClans/#%E3%81%94%E8%A6%81%E6%9C%9B%E3%81%94%E5%A0%B1%E5%91%8A%E3%81%8A%E6%B0%97%E4%BB%98%E3%81%8D%E3%81%AE%E7%82%B9%E3%81%AA%E3%81%A9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)」で記載している[ガイドライン](https://github.com/KATO-Hiro/AtCoderClans/blob/master/CONTRIBUTING.md)に、「コントリビュータの皆さま」を追加。
+- [#1771](https://github.com/KATO-Hiro/AtCoderClans/pull/1771) - [Tomii9273](https://twitter.com/Tomii9273)さんのご紹介で、Webアプリ「[AtCoder Type Checker](https://atcoder-type-checker.herokuapp.com/)」を追加。
+
 ### 2021-03-29
 
 - [#1765](https://github.com/KATO-Hiro/AtCoderClans/pull/1765) - 「[Home](https://kato-hiro.github.io/AtCoderClans/)」ページの「[ご要望、ご報告、お気付きの点などについて](https://kato-hiro.github.io/AtCoderClans/#%E3%81%94%E8%A6%81%E6%9C%9B%E3%81%94%E5%A0%B1%E5%91%8A%E3%81%8A%E6%B0%97%E4%BB%98%E3%81%8D%E3%81%AE%E7%82%B9%E3%81%AA%E3%81%A9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)」で記載している[ガイドライン](https://github.com/KATO-Hiro/AtCoderClans/blob/master/CONTRIBUTING.md)に、「プルリクエストの作成方法」を追加。
