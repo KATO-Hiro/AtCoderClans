@@ -304,7 +304,7 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_twitter_profile_updater.png" alt="atcoder twitter profile updater">
   </div>
 
-- [AtCoder Type Checker](https://atcoder-type-checker.herokuapp.com/) - コンテストの成績から、同じ(内部)レーティング帯で「多く解くタイプ」か「早く解くタイプ」かを判定してくれる。
+- [AtCoder Type Checker](https://atcoder-type-checker.herokuapp.com/) - コンテストの成績から、同じ(内部)レーティング帯で「多く解くタイプ」か「早く解くタイプ」かを判定してくれる。また、有志によりレーティング2800〜3000の日本人ユーザのスコアが集計されている([出典](https://twitter.com/gojira_kyopro/status/1377204092410327040))。
 
   <div align="center">
     <img loading = "lazy" src="images/web_app/atcoder_type_checker.png" alt="atcoder type checker">
