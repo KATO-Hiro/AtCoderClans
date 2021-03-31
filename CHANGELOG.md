@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-03-31
+
+- [#1782](https://github.com/KATO-Hiro/AtCoderClans/pull/1782) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[開発に関心のある人向けの記事](https://kato-hiro.github.io/AtCoderClans/media#%E9%96%8B%E7%99%BA%E3%81%AB%E9%96%A2%E5%BF%83%E3%81%AE%E3%81%82%E3%82%8B%E4%BA%BA%E5%90%91%E3%81%91%E3%81%AE%E8%A8%98%E4%BA%8B)」に、記事「[AtCoder純粋培養緑コーダーが転職ACするまで](https://seashellpink-frostywhite.hatenablog.com/entry/2021/03/31/185821)」を追加。
+- [#1779](https://github.com/KATO-Hiro/AtCoderClans/pull/1779) - Webアプリ「[AtCoder Type Checker](https://atcoder-type-checker.herokuapp.com/)」の説明文に、有志による集計結果の[リンク](https://twitter.com/gojira_kyopro/status/1377204092410327040)を追加。
+
 ### 2021-03-30
 
 - [#1772](https://github.com/KATO-Hiro/AtCoderClans/pull/1772) - 「[Home](https://kato-hiro.github.io/AtCoderClans/)」ページの「[ご要望、ご報告、お気付きの点などについて](https://kato-hiro.github.io/AtCoderClans/#%E3%81%94%E8%A6%81%E6%9C%9B%E3%81%94%E5%A0%B1%E5%91%8A%E3%81%8A%E6%B0%97%E4%BB%98%E3%81%8D%E3%81%AE%E7%82%B9%E3%81%AA%E3%81%A9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)」で記載している[ガイドライン](https://github.com/KATO-Hiro/AtCoderClans/blob/master/CONTRIBUTING.md)に、「コントリビュータの皆さま」を追加。
