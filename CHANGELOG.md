@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-04-01
+
+- [#1787](https://github.com/KATO-Hiro/AtCoderClans/pull/1787) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[開発に関心のある人向けの記事](https://kato-hiro.github.io/AtCoderClans/media#%E9%96%8B%E7%99%BA%E3%81%AB%E9%96%A2%E5%BF%83%E3%81%AE%E3%81%82%E3%82%8B%E4%BA%BA%E5%90%91%E3%81%91%E3%81%AE%E8%A8%98%E4%BA%8B)」に、記事「[競技プログラミングの在り方　～「競技プログラミングを我々が終わらせる」を受けて～](https://chokudai.hatenablog.com/entry/2021/04/01/115755)」を追加。
+- [#1786](https://github.com/KATO-Hiro/AtCoderClans/pull/1786) - (破壊的な変更) Webアプリのドメイン名変更が告知されていたため修正。
+
 ### 2021-03-31
 
 - [#1782](https://github.com/KATO-Hiro/AtCoderClans/pull/1782) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[開発に関心のある人向けの記事](https://kato-hiro.github.io/AtCoderClans/media#%E9%96%8B%E7%99%BA%E3%81%AB%E9%96%A2%E5%BF%83%E3%81%AE%E3%81%82%E3%82%8B%E4%BA%BA%E5%90%91%E3%81%91%E3%81%AE%E8%A8%98%E4%BA%8B)」に、記事「[AtCoder純粋培養緑コーダーが転職ACするまで](https://seashellpink-frostywhite.hatenablog.com/entry/2021/03/31/185821)」を追加。
