@@ -348,7 +348,7 @@ filename: web_app
 
 ### 競技プログラミングに関する問題を投稿する、解答する
 
-- [MojaCoder](https://mojacoder.vercel.app/) - 競技プログラミングに関する問題を投稿・解答できるオンラインジャッジシステム。解答で利用できる言語(2021年1月末時点)は、Brainfuck、C、C++、C#、Go、Python3、Rust、Text。また、[Twitter](https://twitter.com/MojaCoder)で更新告知も行われている。
+- [MojaCoder](https://mojacoder.app/) - 競技プログラミングに関する問題を投稿・解答できるオンラインジャッジシステム。解答で利用できる言語(2021年1月末時点)は、Brainfuck、C、C++、C#、Go、Python3、Rust、Text。また、[Twitter](https://twitter.com/MojaCoder)で更新告知も行われている。
 
   <div align="center">
     <img loading = "lazy" src="images/web_app/mojacoder.png" alt="mojacoder">
