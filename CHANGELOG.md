@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-04-02
+
+- [#1791](https://github.com/KATO-Hiro/AtCoderClans/pull/1791), [#1792](https://github.com/KATO-Hiro/AtCoderClans/pull/1792) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの2021年2月分を[月別のアーカイブ](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2021_02.md)に移動。
+
 ### 2021-04-01
 
 - [#1787](https://github.com/KATO-Hiro/AtCoderClans/pull/1787) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[開発に関心のある人向けの記事](https://kato-hiro.github.io/AtCoderClans/media#%E9%96%8B%E7%99%BA%E3%81%AB%E9%96%A2%E5%BF%83%E3%81%AE%E3%81%82%E3%82%8B%E4%BA%BA%E5%90%91%E3%81%91%E3%81%AE%E8%A8%98%E4%BA%8B)」に、記事「[競技プログラミングの在り方　～「競技プログラミングを我々が終わらせる」を受けて～](https://chokudai.hatenablog.com/entry/2021/04/01/115755)」を追加。
