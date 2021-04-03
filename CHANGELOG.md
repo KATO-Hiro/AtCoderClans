@@ -6,6 +6,13 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-04-03
+
+- [#1802](https://github.com/KATO-Hiro/AtCoderClans/pull/1802) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング400から799まで(茶色)に[malleus](https://atcoder.jp/users/malleus)さんの[記事](https://malleroid.hatenablog.com/entry/2021/04/03/204651)を追加。
+- [#1797](https://github.com/KATO-Hiro/AtCoderClans/pull/1797) - 記事「[現役高校生が、AtCoderでレッドコーダーになるまでにやってきたこと。プログラミング上達の秘訣を全て教えます](https://engineer-lab.findy-code.io/redcoder)」を追加。
+- [#1796](https://github.com/KATO-Hiro/AtCoderClans/pull/1796) - Webアプリ「[AtCoder Marathon Replay](https://iilj.github.io/AtCoderMarathonReplay/#/chart/)」を追加。
+
 ### 2021-04-02
 
 - [#1791](https://github.com/KATO-Hiro/AtCoderClans/pull/1791), [#1792](https://github.com/KATO-Hiro/AtCoderClans/pull/1792) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの2021年2月分を[月別のアーカイブ](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2021_02.md)に移動。
