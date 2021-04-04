@@ -77,7 +77,7 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/codeforces/cf_problems_2nd.png" alt="cf problems 2nd">
   </div>
 
-- [Codeforces Anytime](https://codeforces-anytime.firebaseapp.com/) - バーチャルコンテストの結果を利用して、レーティングの変動を表示するWebアプリ。
+- [Codeforces Anytime](https://codeforces-anytime.firebaseapp.com/) - バーチャルコンテストの結果を利用して、レーティングの変動を表示するWebアプリ。同一の作者により[AtCoder版](https://atcoder-anytime.sonoapp.page/)も公開されている。
 
   <div align="center">
     <img loading = "lazy" src="images/related_contest_sites/codeforces/codeforces_anytime.png" alt="cf predictor">
