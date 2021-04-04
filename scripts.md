@@ -380,6 +380,8 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_result_tweet_button.png" alt="atcoder result tweet button">
   </div>
 
+- [AtCoder ResultsPage Tweaks](https://greasyfork.org/ja/scripts/424079-atcoder-resultspage-tweaks) - 「提出結果」ページの「すべての提出」で、検索条件を変更したときに自動で検索する。
+
 - [AtCoderTags_Hint](https://greasyfork.org/ja/scripts/393337-atcodertags-hint) - 「問題」ページにカテゴリーを表すヒントボタンを設置する。
 
   <div align="center">
