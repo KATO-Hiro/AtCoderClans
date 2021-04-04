@@ -104,7 +104,7 @@
 
 [AtCoder](https://atcoder.jp/)
 
-[GitHub Pages in Japanese](https://docs.github.com/ja/github/working-with-github-pages/creating-a-github-pages-site)
+[GitHub Pages](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site)
 
 [How to publish markdown as homepage using GitHub Pages](https://qiita.com/MahoTakara/items/3800e9dc83b530d0a050)
 
