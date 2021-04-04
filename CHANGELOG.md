@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-04-04
+
+- [#1808](https://github.com/KATO-Hiro/AtCoderClans/pull/1808) - Webアプリ「[AtCoder Anytime](https://atcoder-anytime.sonoapp.page/)」を追加。
+- [#1807](https://github.com/KATO-Hiro/AtCoderClans/pull/1807) - ユーザスクリプト「[AtCoder ResultsPage Tweaks](https://greasyfork.org/ja/scripts/424079-atcoder-resultspage-tweaks)」を追加。
+- [#1805](https://github.com/KATO-Hiro/AtCoderClans/pull/1805) - (破壊的な変更) リンク切れと思われる関連サービスを一時的に「Archived」ページに移動。
+
 ### 2021-04-03
 
 - [#1802](https://github.com/KATO-Hiro/AtCoderClans/pull/1802) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
