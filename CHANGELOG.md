@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-04-05
+
+- [#1812](https://github.com/KATO-Hiro/AtCoderClans/pull/1812) - 「[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)」ページに「[AtCoder Library (ACL) クイックリファレンス](https://naoyat.hatenablog.jp/entry/ACLQuickReference)」を追加。
+
 ### 2021-04-04
 
 - [#1808](https://github.com/KATO-Hiro/AtCoderClans/pull/1808) - Webアプリ「[AtCoder Anytime](https://atcoder-anytime.sonoapp.page/)」を追加。
