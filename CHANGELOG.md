@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-04-06
+
+- [#1816](https://github.com/KATO-Hiro/AtCoderClans/pull/1816) - 「[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)」ページに「[AtCoder Library 解読 〜Pythonでの実装まで〜](https://qiita.com/R_olldIce)」を追加。
+
 ### 2021-04-05
 
 - [#1812](https://github.com/KATO-Hiro/AtCoderClans/pull/1812) - 「[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)」ページに「[AtCoder Library (ACL) クイックリファレンス](https://naoyat.hatenablog.jp/entry/ACLQuickReference)」を追加。
