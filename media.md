@@ -312,6 +312,12 @@ filename: media
 - [rng_58さんがオススメする学習方法](https://twitter.com/rng_58/status/1238824295230361600) - [rng_58](https://twitter.com/rng_58)さんが、問題を楽に解くための方針を身につける方法についてコメントしている。
 - [rng問題](https://docs.google.com/spreadsheets/d/1-dwOvCUGF7ITCYXg2LUFo0YqvZc7PTNX3jz1USuXuBE/edit#gid=0) - [rng_58](https://twitter.com/rng_58)さんが作成した問題の難易度を[Topcoder](https://www.topcoder.com/)の基準で点数化している。また、有志によって難易度の評価やおすすめ問題の投票が行われている。
 
+### レーティングの分布に関する集計結果
+
+有志により、レーティングの分布が集計されています。
+
+- [(2021年4月時点)AtCoderの大学別レート分布](https://saba-kpr.hatenablog.com/entry/2021/04/06/125306) - 所属大学別に集計されている。2021年4月6日時点。
+
 ### 言語特性
 
 - [【プログラミング言語速度比較】Collatz数列ベンチマークを言語別比較しよー！](https://rheotommy.hatenablog.com/entry/2020/07/18/205343) - [RheoTommy](https://atcoder.jp/users/RheoTommy)さんによる記事。[Collatz数列](https://en.wikipedia.org/wiki/Collatz_conjecture#:~:text=Unsolved%20problem%20in%20mathematics%3A&text=The%20Collatz%20conjecture%20is%20a,half%20of%20the%20previous%20term.)を題材に、各言語の実行速度を比較・分類している。
