@@ -6,6 +6,14 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-04-07
+
+- [#1821](https://github.com/KATO-Hiro/AtCoderClans/pull/1821), [#1822](https://github.com/KATO-Hiro/AtCoderClans/pull/1822), [#1823](https://github.com/KATO-Hiro/AtCoderClans/pull/1823) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[レーティングの分布に関する集計結果](https://kato-hiro.github.io/AtCoderClans/media#%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AE%E5%88%86%E5%B8%83%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E9%9B%86%E8%A8%88%E7%B5%90%E6%9E%9C)」を新設。以下の記事やツイートを追加。
+  - [年代別のAtCoderのレート分布](https://twitter.com/saba_kpr/status/1365221656818446339)
+  - [国ごとのAtCoderレート最大の人の色を世界地図に塗りました](https://twitter.com/gojira_kyopro/status/1368246952773644291)
+  - [(2021年4月時点)AtCoderの大学別レート分布](https://saba-kpr.hatenablog.com/entry/2021/04/06/125306)
+- [#1819](https://github.com/KATO-Hiro/AtCoderClans/pull/1819) - ユーザスクリプト「[AtCoder Theme: Solarized Dark](https://greasyfork.org/ja/scripts/423564-atcoder-theme-solarized-dark)」を追加。
+
 ### 2021-04-06
 
 - [#1816](https://github.com/KATO-Hiro/AtCoderClans/pull/1816) - 「[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)」ページに「[AtCoder Library 解読 〜Pythonでの実装まで〜](https://qiita.com/R_olldIce)」を追加。
