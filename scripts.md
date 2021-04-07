@@ -266,6 +266,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_tasks_page_colorizer.jpg" alt="atcoder tasks page colorizer">
   </div>
 
+- [AtCoder Theme: Solarized Dark](https://greasyfork.org/ja/scripts/423564-atcoder-theme-solarized-dark) - 背景のテーマを「Solarized Dark」に変更する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_theme_solarized_dark.png" alt="atcoder theme solarized dark">
+  </div>
+
 - [AtCoder TLE Police](https://greasyfork.org/ja/scripts/381104-atcoder-tle-police) - 提出したコードが'TLE'(Time Limit Exceeded)となった場合に'AR'(ArRested)に置き換える。
 
   <div align="center">
