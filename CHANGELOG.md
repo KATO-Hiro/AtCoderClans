@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-04-08
+
+- [#1826](https://github.com/KATO-Hiro/AtCoderClans/pull/1826) - (破壊的な変更) [#1805](https://github.com/KATO-Hiro/AtCoderClans/pull/1805)で「Archived」ページに移動していた関連サービスの動作を確認したため、元のページに戻した。
+
 ### 2021-04-07
 
 - [#1821](https://github.com/KATO-Hiro/AtCoderClans/pull/1821), [#1822](https://github.com/KATO-Hiro/AtCoderClans/pull/1822), [#1823](https://github.com/KATO-Hiro/AtCoderClans/pull/1823) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[レーティングの分布に関する集計結果](https://kato-hiro.github.io/AtCoderClans/media#%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AE%E5%88%86%E5%B8%83%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E9%9B%86%E8%A8%88%E7%B5%90%E6%9E%9C)」を新設。以下の記事やツイートを追加。
