@@ -349,6 +349,7 @@ filename: media
   - [競プロ流行語大賞2020](https://twitter.com/dem08656775/status/1344569069857488896)
   - [2019年と2020年の上位10位までの比較](https://twitter.com/0214sh7/status/1344604079943651331)
 - [色変記事 Advent Calendar 2020](https://adventar.org/calendars/5178) - [dokin](https://atcoder.jp/users/dokin)さんが企画した色変記事(所定のレーティングに到達したことを記念して書かれた記事)のアドベントカレンダー。
+- [Competitive Programming (1) Advent Calendar 2020](https://adventar.org/calendars/4969) - 競技プログラミングに関する話題を扱ったアドベントカレンダー。
 
 ### アルゴリズム、最適化手法を活用した事例
 
