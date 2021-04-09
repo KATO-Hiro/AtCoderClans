@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-04-09
+
+- [#1830](https://github.com/KATO-Hiro/AtCoderClans/pull/1830) - 記事「[Competitive Programming (1) Advent Calendar 2020](https://adventar.org/calendars/4969)」を追加。
+
 ### 2021-04-08
 
 - [#1826](https://github.com/KATO-Hiro/AtCoderClans/pull/1826) - (破壊的な変更) [#1805](https://github.com/KATO-Hiro/AtCoderClans/pull/1805)で「Archived」ページに移動していた関連サービスの動作を確認したため、元のページに戻した。
