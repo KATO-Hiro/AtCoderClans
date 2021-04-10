@@ -468,3 +468,4 @@ filename: media
 
 - [【ローランド×金言】ビジネスは「世界一から逆算せよ」](https://newspicks.com/live-movie/976/) - 起業家のプレゼンに対して、ローランドさんや著名な経営者がビジネスのヒントを贈る番組「Greatest Hints」のアーカイブ。[chokudai](https://twitter.com/chokudai)さんが[AtCoder](https://atcoder.jp/)の事業内容について、対外的に発信している(38:53頃から出演)。注: 動画を全て視聴するには、会員登録が必要な場合がある。
 - [未経験者のアナタもハマる？競技プログラミング「AtCoder」って何だ？【理系通信】](https://www.youtube.com/watch?v=WGNQrH0AV2k) - テレビ東京総合ニュースサイト([テレ東NEWS](https://www.youtube.com/c/tvtokyonews/playlists))のサイエンスニュースで、[AtCoder](https://atcoder.jp/)が紹介されている。番組ディレクターが、実際のコンテストで出題された問題を解きながら競技プログラミングの魅力を伝えるとともに、企業における高度IT人材の需要などについて取材している。
+- [逆転人生を描け！プログラミングの黄金比](https://newspicks.com/live-movie/1192) - 経済トークバラエティ番組「OFFRECO.」のアーカイブ。[chokudai](https://twitter.com/chokudai)さんが出演しており、ビジネスにおけるプログラミングの必要性についてコメントしている。注: 動画を全て視聴するには、会員登録が必要な場合がある。
