@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-04-10
+
+- [#1843](https://github.com/KATO-Hiro/AtCoderClans/pull/1843) - Webアプリ「[AtCoder Language Visualizer](https://inazuma110.github.io/atcoder_language_visualizer/)」を追加。
+- [#1842](https://github.com/KATO-Hiro/AtCoderClans/pull/1842) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[番組アーカイブ](https://kato-hiro.github.io/AtCoderClans/media#%E7%95%AA%E7%B5%84%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96)」に、動画「[逆転人生を描け！プログラミングの黄金比](https://newspicks.com/live-movie/1192)」を追加。
+
 ### 2021-04-09
 
 - [#1830](https://github.com/KATO-Hiro/AtCoderClans/pull/1830) - 記事「[Competitive Programming (1) Advent Calendar 2020](https://adventar.org/calendars/4969)」を追加。
