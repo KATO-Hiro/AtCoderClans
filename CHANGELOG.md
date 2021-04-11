@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-04-12
+
+- [#1865](https://github.com/KATO-Hiro/AtCoderClans/pull/1865) - (破壊的な変更) リンク切れのWebサイトを一旦「Archived」ページに移動。
+
 ### 2021-04-11
 
 - [#1859](https://github.com/KATO-Hiro/AtCoderClans/pull/1859) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[コードを実装するときの工夫](https://kato-hiro.github.io/AtCoderClans/media#%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AE%E5%B7%A5%E5%A4%AB)」に、記事「[競技プログラミングでC++を書くときに意識していること](https://blog.knshnb.com/posts/competitive-cplusplus-real/)」を追加。
