@@ -57,6 +57,14 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/aoj/aoj_problems_by_category.png" alt="aoj problems by category">
   </div>
 
+### CafeCoder
+
+- [CafeCoder](https://cafecoder.top/) - 有志によって、不定期にコンテストが開催されている。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/cafecoder/cafecoder.png" alt="cafecoder">
+  </div>
+
 ### Codeforces
 
 #### 記事
