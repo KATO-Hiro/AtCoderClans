@@ -280,7 +280,7 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_janken_2nd.png" alt="atcoder janken 2nd">
   </div>
 
-- [AtCoder Language Visualizer](https://inazuma110.github.io/atcoder_language_visualizer/) - 各問題の言語別提出数・割合を表示する。また、作者による使い方・技術解説に関する[記事](https://qiita.com/Inazuma110/items/e02b8b1c71e101b41635)もある。注: 2021年4月上旬時点で、[AtCoder Regular Contest 110](https://atcoder.jp/contests/arc110)以降の問題は未対応だと思われる。
+- [AtCoder Language Visualizer](https://inazuma110.github.io/atcoder_language_visualizer/) - 各問題の言語別提出数・割合を表示する。また、作者による使い方・技術解説に関する[記事](https://qiita.com/Inazuma110/items/e02b8b1c71e101b41635)もある。
 
   <div align="center">
     <img loading = "lazy" src="images/web_app/atcoder_language_visualizer.png" alt="atcoder language visualizer">
