@@ -6,6 +6,13 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-04-14
+
+- [#1874](https://github.com/KATO-Hiro/AtCoderClans/pull/1874), [#1875](https://github.com/KATO-Hiro/AtCoderClans/pull/1875) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[数学に関する知識](https://kato-hiro.github.io/AtCoderClans/media#%E6%95%B0%E5%AD%A6%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%9F%A5%E8%AD%98)」に、以下の記事を追加。
+  - [アルゴリズム・AtCoder のための数学【前編：数学的知識編①】](https://qiita.com/e869120/items/b4a0493aac567c6a7240)
+  - [アルゴリズム・AtCoder のための数学【中編：数学的知識編②】](https://qiita.com/e869120/items/bd7cfd2dbd2706cb8657)
+- [#1872](https://github.com/KATO-Hiro/AtCoderClans/pull/1872) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[部活、サークル、同好会](https://kato-hiro.github.io/AtCoderClans/media#%E9%83%A8%E6%B4%BB%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E5%90%8C%E5%A5%BD%E4%BC%9A)」に、記事「[「競技プログラミング」という青春　「開成―東大」天才学生たちの世界への挑戦](https://news.yahoo.co.jp/articles/661eadbe55e60252d12975592043abf0413c5b20)」を追加。
+
 ### 2021-04-13
 
 - [#1868](https://github.com/KATO-Hiro/AtCoderClans/pull/1868) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[コードを実装するときの工夫](https://kato-hiro.github.io/AtCoderClans/media#%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AE%E5%B7%A5%E5%A4%AB)」に、記事「[あまり知られていない〈algorithm〉](https://hackmd.io/@tatyam-prime/cpp_algorithm#)」を追加。
