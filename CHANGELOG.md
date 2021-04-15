@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-04-15
+
+- [#1880](https://github.com/KATO-Hiro/AtCoderClans/pull/1880) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[コンテストに向けた練習方法など](https://kato-hiro.github.io/AtCoderClans/media#%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E7%B7%B4%E7%BF%92%E6%96%B9%E6%B3%95%E3%81%AA%E3%81%A9)」に、記事「[競プロの精進の質を上げたい！ ~問題との向き合い方~](https://qiita.com/AIris_Solid/items/e9e1817f13e8d15b55ad)」を追加。
+
 ### 2021-04-14
 
 - [#1874](https://github.com/KATO-Hiro/AtCoderClans/pull/1874), [#1875](https://github.com/KATO-Hiro/AtCoderClans/pull/1875) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[数学に関する知識](https://kato-hiro.github.io/AtCoderClans/media#%E6%95%B0%E5%AD%A6%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%9F%A5%E8%AD%98)」に、以下の記事を追加。
