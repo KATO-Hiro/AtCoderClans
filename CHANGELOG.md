@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-04-16
+
+- [#1883](https://github.com/KATO-Hiro/AtCoderClans/pull/1883) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[コードを実装するときの工夫](https://kato-hiro.github.io/AtCoderClans/media#%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AE%E5%B7%A5%E5%A4%AB)」に、記事「[競技プログラミングとC++のアレコレ](https://koturn.hatenablog.com/entry/2018/07/29/180000)」を追加。
+
 ### 2021-04-15
 
 - [#1880](https://github.com/KATO-Hiro/AtCoderClans/pull/1880) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[コンテストに向けた練習方法など](https://kato-hiro.github.io/AtCoderClans/media#%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E7%B7%B4%E7%BF%92%E6%96%B9%E6%B3%95%E3%81%AA%E3%81%A9)」に、記事「[競プロの精進の質を上げたい！ ~問題との向き合い方~](https://qiita.com/AIris_Solid/items/e9e1817f13e8d15b55ad)」を追加。
