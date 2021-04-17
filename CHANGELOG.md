@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-04-17
+
+- [#1888](https://github.com/KATO-Hiro/AtCoderClans/pull/1888) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[数学に関する知識](https://kato-hiro.github.io/AtCoderClans/media#%E6%95%B0%E5%AD%A6%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%9F%A5%E8%AD%98)」に、記事「[異常modまとめ](https://hyado.hatenablog.jp/entry/2020/12/07/000000)」を追加。
+- [#1887](https://github.com/KATO-Hiro/AtCoderClans/pull/1887) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[オンラインブック](https://kato-hiro.github.io/AtCoderClans/media#%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%96%E3%83%83%E3%82%AF)」に、小説「[ようこそ、競プロの世界へ！～異世界転生～](https://kakuyomu.jp/works/1177354054890434440)」を追加。
+- [#1885](https://github.com/KATO-Hiro/AtCoderClans/pull/1885) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[コードを実装するときの工夫](https://kato-hiro.github.io/AtCoderClans/media#%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AE%E5%B7%A5%E5%A4%AB)」に、記事「[ハイパー LINQ集 (AtCoder 2020年4月)](https://avant-garde-code.hatenablog.com/entry/hyper-linq-atcoder-202004)」を追加。
+
 ### 2021-04-16
 
 - [#1883](https://github.com/KATO-Hiro/AtCoderClans/pull/1883) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[コードを実装するときの工夫](https://kato-hiro.github.io/AtCoderClans/media#%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AE%E5%B7%A5%E5%A4%AB)」に、記事「[競技プログラミングとC++のアレコレ](https://koturn.hatenablog.com/entry/2018/07/29/180000)」を追加。
