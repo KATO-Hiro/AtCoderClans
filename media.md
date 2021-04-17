@@ -202,6 +202,7 @@ filename: media
 - [集合 列 多重集合 違い](https://kimiyuki.net/blog/2020/11/03/set-sequence-multiset/) - 集合・列・多重集合の違いと記法について解説した記事。
 - [競プロerのための群論 (swapと順列と対称群)](https://koboshi-kyopro.hatenablog.com/entry/2020/08/21/211615) - 競技プログラミングにおけるswapや順列に関する問題を群論（特に対称群）の視点から捉えることを目標にした記事。群論の入門という位置付けにもなっている。
 - [オンライン整数列大辞典 (OEIS)](https://oeis.org/?language=japanese) - 整数列(各項が整数である数列)に関するオンラインのデータベース。公式、参考文献などの情報も含まれている。
+- [異常modまとめ](https://hyado.hatenablog.jp/entry/2020/12/07/000000) - 場合の数を大きな素数で割った余りを求める問題において、珍しい素数や有名な素数に近い値が出題された事例を紹介した記事。
 - [Prime CountのPDFを書きました](https://tk0-math.hatenablog.com/entry/2020/04/16/181024) - 素数の個数を求めるアルゴリズムであるMeissel-Lehmer Algorithmとその高速化方法について紹介した記事。
 - [ミニマックス定理の意味と初等的証明](https://opt-cp.com/minimax-game-proof/) - ミニマックス定理のゲーム理論的な意味の解釈方法と同定理の証明を紹介した記事。
 - [接続行列を係数にもつ線形方程式 (PDF)](https://opt-cp.com/cp/linear-system-incidence/) - 「グラフの接続行列を係数にもつ線形方程式」の解法を説明した記事。また、解法の擬似コードやコンテストの例題も掲載されている。
