@@ -408,6 +408,7 @@ filename: media
 ### オンラインブック
 
 - [atcoder-rust-resources](https://doc.rust-jp.rs/atcoder-rust-resources/) - コンテストにRustで参加するための資料集。現在は、日本語のみ対応。
+- [ようこそ、競プロの世界へ！～異世界転生～](https://kakuyomu.jp/works/1177354054890434440) - 競技プログラミングの世界に転生した高校生を描いた小説。
 
 ## オンラインイベント、公開講座などの資料集
 
