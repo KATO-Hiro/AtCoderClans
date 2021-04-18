@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-04-18
+
+- [#1895](https://github.com/KATO-Hiro/AtCoderClans/pull/1895) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[アルゴリズムの解説](https://kato-hiro.github.io/AtCoderClans/media#%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%AE%E8%A7%A3%E8%AA%AC)」に、記事「[ネットワークフロー問題たちの関係を俯瞰する](https://theory-and-me.hatenablog.com/entry/2021/04/15/171702)」を追加。
+- [#1892](https://github.com/KATO-Hiro/AtCoderClans/pull/1892) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[Kazu1998k](https://atcoder.jp/users/Kazu1998k)さんの[記事](https://qiita.com/Kazun_kyopro/items/ce222d6756603849279a)を追加。
+
 ### 2021-04-17
 
 - [#1888](https://github.com/KATO-Hiro/AtCoderClans/pull/1888) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[数学に関する知識](https://kato-hiro.github.io/AtCoderClans/media#%E6%95%B0%E5%AD%A6%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%9F%A5%E8%AD%98)」に、記事「[異常modまとめ](https://hyado.hatenablog.jp/entry/2020/12/07/000000)」を追加。
