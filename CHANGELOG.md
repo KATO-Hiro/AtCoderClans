@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-04-19
+
+- [#1900](https://github.com/KATO-Hiro/AtCoderClans/pull/1900) -
+「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、チャンネルを追加。
+  - [あずぱん動画](https://www.youtube.com/playlist?list=PLwlP26Z1O_DcMLLDADLUBQTTbE5dR1lCZ)
+
 ### 2021-04-18
 
 - [#1895](https://github.com/KATO-Hiro/AtCoderClans/pull/1895) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[アルゴリズムの解説](https://kato-hiro.github.io/AtCoderClans/media#%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%AE%E8%A7%A3%E8%AA%AC)」に、記事「[ネットワークフロー問題たちの関係を俯瞰する](https://theory-and-me.hatenablog.com/entry/2021/04/15/171702)」を追加。
