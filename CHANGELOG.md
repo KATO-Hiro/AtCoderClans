@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-04-21
+
+- [#1914](https://github.com/KATO-Hiro/AtCoderClans/pull/1914) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、記事「[Introducion to JOI](https://pro-ktmr.github.io/joig-course/text/index.html)」を追加。
+- [#1912](https://github.com/KATO-Hiro/AtCoderClans/pull/1912) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[入門者、初心者向けの記事](https://kato-hiro.github.io/AtCoderClans/media#%E5%85%A5%E9%96%80%E8%80%85%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%81%AE%E8%A8%98%E4%BA%8B)」で掲載している「[競プロ典型90問](https://twitter.com/e869120/status/1376089196100653060)」に、企画の意図・活用方法に関する記事の[リンク](https://qiita.com/e869120/items/1b2a5f0f07fd927e44e9)を追加。
+- [#1910](https://github.com/KATO-Hiro/AtCoderClans/pull/1910) - Webアプリ「[AtCoder Find Rivals](https://atcoder-find-rivals.herokuapp.com/)」を追加。
+
 ### 2021-04-20
 
 - [#1906](https://github.com/KATO-Hiro/AtCoderClans/issues/1906) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[入門者、初心者向けの記事](https://kato-hiro.github.io/AtCoderClans/media#%E5%85%A5%E9%96%80%E8%80%85%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%81%AE%E8%A8%98%E4%BA%8B)」で掲載している「[競プロ典型90問](https://twitter.com/e869120/status/1376089196100653060)」に、オンラインジャッジに関する説明と[リンク](https://atcoder.jp/contests/typical90)を追加。
