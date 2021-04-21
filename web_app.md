@@ -142,6 +142,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_charts.png" alt="atcoder charts">
   </div>
 
+- [AtCoder Find Rivals](https://atcoder-find-rivals.herokuapp.com/) - 指定したユーザに近いレーティングのユーザを探すことができる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_find_rivals.png" alt="atcoder find rivals">
+  </div>
+
 - [AtCoderマラソンランキング](https://tomerun.github.io/atcoder_marathon_ranking/index.html) - マラソン系コンテストの順位を[AtCoder レースランキング](https://atcoder.jp/posts/170)と同じ形式でポイント化し、ランキングをつける。
 
   <div align="center">
