@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-04-22
+
+- [#1922](https://github.com/KATO-Hiro/AtCoderClans/pull/1922) - ユーザスクリプト「[AtCoder Hide Editorial](https://greasyfork.org/ja/scripts/425127-atcoder-hide-editorial)」を追加。
+
 ### 2021-04-21
 
 - [#1914](https://github.com/KATO-Hiro/AtCoderClans/pull/1914) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、記事「[Introducion to JOI](https://pro-ktmr.github.io/joig-course/text/index.html)」を追加。
