@@ -362,6 +362,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_hashtag_setter.png" alt="atcoder hashtag setter">
   </div>
 
+- [AtCoder Hide Editorial](https://greasyfork.org/ja/scripts/425127-atcoder-hide-editorial) - 問題の「解説」に関するURLを取り除く。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_hide_editorial.png" alt="atcoder hide editorial">
+  </div>
+
 - [AtCoderLanguageButtons](https://greasyfork.org/ja/scripts/421663-atcoderlanguagebuttons) - 「問題」「提出」「コードテスト」の各ページに、提出する言語を簡単に切り替えられるボタンを設置する。
 
   <div align="center">
