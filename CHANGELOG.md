@@ -6,6 +6,8 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-04-23
+
 - [#1931](https://github.com/KATO-Hiro/AtCoderClans/pull/1931) - (破壊的な変更) リンク切れのWebサイトが復活していたため、元のページに戻した。
 - [#1927](https://github.com/KATO-Hiro/AtCoderClans/pull/1927) - (破壊的な変更) リンク切れと思われる記事を一時的に「Archived」ページに移動。
 
