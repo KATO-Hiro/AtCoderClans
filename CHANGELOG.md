@@ -6,6 +6,8 @@ filename: CHANGELOG
 
 ## Change Log
 
+- [#1927](https://github.com/KATO-Hiro/AtCoderClans/pull/1927) - (破壊的な変更) リンク切れと思われる記事を一時的に「Archived」ページに移動。
+
 ### 2021-04-22
 
 - [#1922](https://github.com/KATO-Hiro/AtCoderClans/pull/1922) - ユーザスクリプト「[AtCoder Hide Editorial](https://greasyfork.org/ja/scripts/425127-atcoder-hide-editorial)」を追加。
