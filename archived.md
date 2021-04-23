@@ -138,6 +138,8 @@ filename: archived
   - 確認した日: 2021/02/20
 - [Paken for beginners](https://tkpaken.github.io/beginners/) - 筑波大附属駒場中・高等学校の「中高パーソナル・コンピューター研究部(通称、Paken)」の新入生に向けて、部活の雰囲気やプログラミングの基礎を紹介している。
   - 確認した日: 2021/04/12
+- [AtCoder学生ユーザー座談会「内定先、どうやって決めましたか？」](https://saponet.mynavi.jp/column/knowhow/zadankai-gakusei/) - [AtCoder](https://atcoder.jp/)の学生ユーザ3人を対象に、AtCoderを始めたきっかけ・内定先の決め手・初任給など覆面座談会の内容を紹介した記事。
+  - 確認した日: 2021/04/23
 
 <!-- markdown-link-check-enable -->
 
