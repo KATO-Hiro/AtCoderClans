@@ -3,6 +3,9 @@
   width: 100%;
   max-width: 450px;
   margin: 0 0 0 auto;
+}
+
+.google-custom-search input#gsc-i-id1.gsc-input{
   color: black;
 }
 
