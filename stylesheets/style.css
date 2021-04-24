@@ -1,4 +1,10 @@
 
+.google-custom-search{
+  width: 100%;
+  max-width: 360px;
+  margin: 0 0 0 auto;
+}
+
 .twitter-share{
   text-align: right;
 }
