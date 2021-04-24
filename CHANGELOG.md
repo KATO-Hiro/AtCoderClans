@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-04-24
+
+- [#1937](https://github.com/KATO-Hiro/AtCoderClans/pull/1937), [#1948](https://github.com/KATO-Hiro/AtCoderClans/pull/1948), [#1951](https://github.com/KATO-Hiro/AtCoderClans/pull/1951) - 「サイト内検索」を試験的に導入。これに伴い、ボタンの配置や文字色なども修正。
+
 ### 2021-04-23
 
 - [#1931](https://github.com/KATO-Hiro/AtCoderClans/pull/1931) - (破壊的な変更) リンク切れのWebサイトが復活していたため、元のページに戻した。
