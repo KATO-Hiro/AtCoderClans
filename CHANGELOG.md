@@ -8,7 +8,7 @@ filename: CHANGELOG
 
 ### 2021-04-25
 
-- [#1958](https://github.com/KATO-Hiro/AtCoderClans/pull/1958) - ユーザ名の変更を検知したため、該当箇所を修正。
+- [#1958](https://github.com/KATO-Hiro/AtCoderClans/pull/1958) - ユーザ名の変更を確認したため、該当箇所を修正。
 
 ### 2021-04-24
 
