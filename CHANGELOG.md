@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-04-26
+
+- [#1963](https://github.com/KATO-Hiro/AtCoderClans/pull/1963) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1200から1599まで(水色)に[bouzuya](https://atcoder.jp/users/bouzuya)さんの[記事](https://bouzuya.hatenablog.com/entry/2021/04/24/234302)を追加。
+
 ### 2021-04-25
 
 - [#1958](https://github.com/KATO-Hiro/AtCoderClans/pull/1958) - ユーザ名の変更を確認したため、該当箇所を修正。
