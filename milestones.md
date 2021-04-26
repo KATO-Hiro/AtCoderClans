@@ -49,6 +49,7 @@ filename: milestones
 - [python使ってAtCoderで水色になるまで - xkttqm's blog](https://xkttqm.hatenablog.com/entry/2021/01/17/140000) - [at12](https://atcoder.jp/users/at12)さんが、2021年1月16日に達成。
 - [非情報科高専生がAtCoder水色になるまでの一年間の振り返り。](https://qiita.com/makutamoto/items/46aad858376ea8768ec1?utm_content=bufferbfdce&utm_medium) - [Makutamoto](https://atcoder.jp/users/Makutamoto)さんが、2021年1月23日に達成。
 - [Hello World! AtCoder水色になりました - すこしだけ欠けたピアノの音色](https://seashellpink-frostywhite.hatenablog.com/entry/2021/02/28/221137) - [riano_](https://atcoder.jp/users/riano_)さんが、2021年2月13日に達成。
+- [AtCoderで水色になった - bouzuya.hatenablog.com](https://bouzuya.hatenablog.com/entry/2021/04/24/234302) - [bouzuya](https://atcoder.jp/users/bouzuya)さんが、2021年4月24日に達成。
 
 ### レーティング1600から1999まで(青色)
 
