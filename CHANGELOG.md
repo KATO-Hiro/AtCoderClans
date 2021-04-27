@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-04-27
+
+- [#1970](https://github.com/KATO-Hiro/AtCoderClans/pull/1970) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング800から1199まで(緑色)に[shu8Cream](https://atcoder.jp/users/shu8Cream)さんの[記事](https://shu8cream.hatenablog.com/entry/2021/04/24/120002)を追加。
+- [#1968](https://github.com/KATO-Hiro/AtCoderClans/pull/1968) - WebアプリのUIイメージを最新ものに更新。
+
 ### 2021-04-26
 
 - [#1963](https://github.com/KATO-Hiro/AtCoderClans/pull/1963) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
