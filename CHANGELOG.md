@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-04-28
+
+- [#1973](https://github.com/KATO-Hiro/AtCoderClans/pull/1973) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ「[アルゴリズムの解説](https://kato-hiro.github.io/AtCoderClans/media#%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%AE%E8%A7%A3%E8%AA%AC)」に、記事「[重み付きUnion-Find木とそれが使える問題のまとめ、および、牛ゲーについて](https://qiita.com/drken/items/cce6fc5c579051e64fab)」を追加。
+
 ### 2021-04-27
 
 - [#1970](https://github.com/KATO-Hiro/AtCoderClans/pull/1970) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
