@@ -224,6 +224,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_dark_theme.png" alt="atcoder dark theme">
   </div>
 
+- [AtCoder Difficulty Colorizer for Typical 90](https://greasyfork.org/ja/scripts/425463-atcoder-difficulty-colorizer-for-typical-90) - 「[競プロ典型90問](https://atcoder.jp/contests/typical90)」の問題名を、問題の難易度に応じた色に変更する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_difficulty_colorizer_for_typical_90.png" alt="atcoder difficulty colorizer for typical 90">
+  </div>
+
 - [AtCoder-ngtkanaResult](https://greasyfork.org/ja/scripts/416384-atcoder-ngtkanaresult) - 「提出結果」ページの「結果」を[ngtkana](https://atcoder.jp/users/ngtkana)さんの言葉に置き換える。作成者注: 不正解の詳細はマウスオーバーで表示される。
 
   <div align="center">
