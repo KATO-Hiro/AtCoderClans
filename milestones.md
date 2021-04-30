@@ -48,6 +48,7 @@ filename: milestones
 - [Atcoderで入水しました - unosss’s diary](https://unosss.hatenablog.com/entry/2020/07/06/194805) - [unos](https://atcoder.jp/users/unos)さんが、2020年7月5日に達成。
 - [AtCoder水色になりました！ - ntk log ntk](https://ntk-ta01.hatenablog.com/entry/2020/10/15/221729) - [ntk_ta01](https://atcoder.jp/users/ntk_ta01)さんが、2020年10月12日に達成。
 - [AtCoderで水色になりました！ここまでの戦略・練習量・知識を紹介](https://www.youtube.com/watch?v=8YW5g2f8GKA&feature=youtu.be) - [hondo](https://atcoder.jp/users/hondo)さんが、2020年10月17日に達成。
+- [水コーダーになりました - Manuel1024の引きこもルーム](https://blog.manuel1024.com/archives/119) - [Manuel1024](https://atcoder.jp/users/Manuel1024)さんが、2020年11月8日に達成。
 - [python使ってAtCoderで水色になるまで - xkttqm's blog](https://xkttqm.hatenablog.com/entry/2021/01/17/140000) - [at12](https://atcoder.jp/users/at12)さんが、2021年1月16日に達成。
 - [非情報科高専生がAtCoder水色になるまでの一年間の振り返り。](https://qiita.com/makutamoto/items/46aad858376ea8768ec1?utm_content=bufferbfdce&utm_medium) - [Makutamoto](https://atcoder.jp/users/Makutamoto)さんが、2021年1月23日に達成。
 - [Hello World! AtCoder水色になりました - すこしだけ欠けたピアノの音色](https://seashellpink-frostywhite.hatenablog.com/entry/2021/02/28/221137) - [riano_](https://atcoder.jp/users/riano_)さんが、2021年2月13日に達成。
