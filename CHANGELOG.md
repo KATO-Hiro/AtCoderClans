@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-02
+
+- [#2002](https://github.com/KATO-Hiro/AtCoderClans/pull/2002) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2000から2399まで(黄色)に[fairy_lettuce](https://atcoder.jp/users/fairy_lettuce)さんの[記事](https://fairy-lettuce.hatenadiary.com/entry/kyopro-colorchange-yellow)を追加。
+
 ### 2021-05-01
 
 - [#1996](https://github.com/KATO-Hiro/AtCoderClans/pull/1996) - ユーザスクリプト「[AtCoder Tab 4matter](https://greasyfork.org/ja/scripts/425327-atcoder-tab-4matter)」を追加。
