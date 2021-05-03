@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-03
+
+- [#2012](https://github.com/KATO-Hiro/AtCoderClans/pull/2012) - 記事「[計算量オーダーの求め方を総整理！ 〜 どこから log が出て来るか 〜](https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0)」の説明に、時間計算量の種類を紹介した記事の[リンク](https://noshi91.hatenablog.com/entry/2019/10/08/235335)を追加。
+- [#2010](https://github.com/KATO-Hiro/AtCoderClans/pull/2010) - コマンドラインツール「[Online Judge Tools](https://github.com/online-judge-tools/oj)」の説明に、作者によるインストールの手順と使い方を紹介した[動画](https://www.youtube.com/watch?v=wOKuJyJIpUg)を追加。
+
 ### 2021-05-02
 
 - [#2002](https://github.com/KATO-Hiro/AtCoderClans/pull/2002) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
