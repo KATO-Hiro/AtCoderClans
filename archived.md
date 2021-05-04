@@ -194,6 +194,13 @@ filename: archived
     <img loading = "lazy" src="images/web_app/atcoder_rating_simulator.png" alt="atcoder rating simulator">
   </div>
 
+<!-- markdown-link-check-disable -->
+
+- [AtCoder Tab 4matter](https://greasyfork.org/ja/scripts/425327-atcoder-tab-4matter) - 「提出結果」ページで、ソースコードのタブ幅を4に揃える。
+  - 理由: 作者が公開を取りやめたと思われるため。
+
+<!-- markdown-link-check-enable -->
+
 - [AtCoder Virtual Contest](https://not-522.appspot.com/) - 仮想コンテスト(本番のコンテストに近い状態で練習できる)を開催できるWebサービス。
   - 理由: [AtCoder](https://atcoder.jp/)の仕様変更に伴うもの。
   - 代替手段: 公式のバーチャル参加や[AtCoder Problems](https://kenkoooo.com/atcoder/)のVitual Contestsを利用する。
