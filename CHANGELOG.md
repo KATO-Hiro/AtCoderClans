@@ -8,7 +8,7 @@ filename: CHANGELOG
 
 ### 2021-05-04
 
-- [#2017](https://github.com/KATO-Hiro/AtCoderClans/pull/2017) - (破壊的な変更) リンク切れのスクリプトを確認したため、一時的「Archived」ページに移動。
+- [#2017](https://github.com/KATO-Hiro/AtCoderClans/pull/2017) - (破壊的な変更) リンク切れのスクリプトを確認したため、一時的に「Archived」ページに移動。
 - [#2015](https://github.com/KATO-Hiro/AtCoderClans/pull/2015) -「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、YouTubeのチャンネルを追加。
   - [てぃーい企画](https://www.youtube.com/channel/UCfqYE4LdRYqAJSV_TKlsy9Q/videos)
 
