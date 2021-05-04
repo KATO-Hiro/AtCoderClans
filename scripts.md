@@ -266,8 +266,6 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_submission_user_colorizer.png" alt="atcoder submission user colorizer">
   </div>
 
-- [AtCoder Tab 4matter](https://greasyfork.org/ja/scripts/425327-atcoder-tab-4matter) - 「提出結果」ページで、ソースコードのタブ幅を4に揃える。
-
 - [atcoder-tasks-page-colorizer](https://greasyfork.org/ja/scripts/380404-atcoder-tasks-page-colorizer) - [AtCoder](https://atcoder.jp/)の「問題」ページで、提出した問題に色付けする。
 
   <div align="center">
