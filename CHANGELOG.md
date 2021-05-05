@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-05
+
+- [#2027](https://github.com/KATO-Hiro/AtCoderClans/pull/2027) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[あのアルゴリズムはどこ？　Pythonを使用してAtCoderの緑色や水色を目指す方に、30以上のアルゴリズムスニペットと100問以上の問題（ACコード付き）を紹介！](https://qiita.com/H20/items/1a066e242815961cd043)」を追加。
+
 ### 2021-05-04
 
 - [#2017](https://github.com/KATO-Hiro/AtCoderClans/pull/2017) - (破壊的な変更) リンク切れのスクリプトを確認したため、一時的に「Archived」ページに移動。
