@@ -24,7 +24,7 @@ filename: CHANGELOG
 
 ### 2021-05-01
 
-- [#1996](https://github.com/KATO-Hiro/AtCoderClans/pull/1996) - ユーザスクリプト「[AtCoder Tab 4matter](https://greasyfork.org/ja/scripts/425327-atcoder-tab-4matter)」を追加。
+- [#1996](https://github.com/KATO-Hiro/AtCoderClans/pull/1996) - ユーザスクリプト「AtCoder Tab 4matter」を追加。注: リンク切れを確認したため、「Archived」ページへ移動させた([#2017](https://github.com/KATO-Hiro/AtCoderClans/pull/2017))。
 - [#1995](https://github.com/KATO-Hiro/AtCoderClans/pull/1995) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、問題作成補助ツール「[yukicoder-md](https://github.com/koyumeishi/yukicoder-md)」を追加。
 - [#1994](https://github.com/KATO-Hiro/AtCoderClans/pull/1994) - Webアプリ「[Atcoder Beginner Contest Tournament](https://abc.kenkoooo.com/#/tournament/1)」に、告知用の[Twitterアカウント](https://twitter.com/abc_tournament)を追加。
 
