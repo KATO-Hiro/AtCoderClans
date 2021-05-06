@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-06
+
+- [#2035](https://github.com/KATO-Hiro/AtCoderClans/pull/2035) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング800から1199まで(緑色)に[ryusuke_h](https://atcoder.jp/users/ryusuke_h)さんの[記事](https://ryusuke920.hatenablog.jp/entry/2021/04/18/170331)を追加。
+
 ### 2021-05-05
 
 - [#2027](https://github.com/KATO-Hiro/AtCoderClans/pull/2027) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[あのアルゴリズムはどこ？　Pythonを使用してAtCoderの緑色や水色を目指す方に、30以上のアルゴリズムスニペットと100問以上の問題（ACコード付き）を紹介！](https://qiita.com/H20/items/1a066e242815961cd043)」を追加。
