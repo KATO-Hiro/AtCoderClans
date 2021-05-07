@@ -259,6 +259,7 @@ filename: libraries
 ### Nim
 
 - [chaemon/library-nim](https://github.com/chaemon/library-nim) ![GitHub stars](https://img.shields.io/github/stars/chaemon/library-nim?style=plastic) - [chaemon](https://atcoder.jp/users/chaemon)さんのライブラリ。
+- [Muratam/yukicoder-nim](https://github.com/Muratam/yukicoder-nim) ![GitHub Repo stars](https://img.shields.io/github/stars/Muratam/yukicoder-nim?style=plastic) - [murata](https://atcoder.jp/users/murata)さんのライブラリ。
 
 ### Node.js
 
