@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-07
+
+- [#2040](https://github.com/KATO-Hiro/AtCoderClans/pull/2040) - Nimで実装されたライブラリを追加。
+  - [Muratam/yukicoder-nim](https://github.com/Muratam/yukicoder-nim)
+
 ### 2021-05-06
 
 - [#2035](https://github.com/KATO-Hiro/AtCoderClans/pull/2035) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
