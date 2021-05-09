@@ -8,6 +8,8 @@ filename: CHANGELOG
 
 ### 2021-05-09
 
+- [#2057](https://github.com/KATO-Hiro/AtCoderClans/pull/2057) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2000から2399まで(黄色)に[hamamu](https://atcoder.jp/users/hamamu)さんの[記事](https://qiita.com/hamamu/items/2e342d46d9f54732d42c)を追加。
 - [#2053](https://github.com/KATO-Hiro/AtCoderClans/pull/2053) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[デバッグ力を高める！　～5年間の経験から学んだ、競プロ・アルゴリズム実装におけるバグ取りの戦略～](https://qiita.com/e869120/items/8be6521e72025d7b2a13)」を追加。
 
 ### 2021-05-08
