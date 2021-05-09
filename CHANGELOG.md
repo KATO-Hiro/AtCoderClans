@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-09
+
+- [#2053](https://github.com/KATO-Hiro/AtCoderClans/pull/2053) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[デバッグ力を高める！　～5年間の経験から学んだ、競プロ・アルゴリズム実装におけるバグ取りの戦略～](https://qiita.com/e869120/items/8be6521e72025d7b2a13)」を追加。
+
 ### 2021-05-08
 
 - [#2045](https://github.com/KATO-Hiro/AtCoderClans/pull/2045), [#2046](https://github.com/KATO-Hiro/AtCoderClans/pull/2046) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの2021年3月分を[月別のアーカイブ](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2021_03.md)に移動。
