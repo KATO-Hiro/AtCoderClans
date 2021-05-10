@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-10
+
+- [#2062](https://github.com/KATO-Hiro/AtCoderClans/pull/2062) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[バグった原因集](https://motsu-xe.hatenablog.com/entry/2019/11/15/173514)」を追加。
+- [#2061](https://github.com/KATO-Hiro/AtCoderClans/pull/2061) - (破壊的な変更) リンク切れの記事が閲覧できるようになっていたため、元の掲載箇所に戻した。
+
 ### 2021-05-09
 
 - [#2057](https://github.com/KATO-Hiro/AtCoderClans/pull/2057) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
