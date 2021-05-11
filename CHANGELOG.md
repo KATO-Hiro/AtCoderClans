@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-11
+
+- [#2066](https://github.com/KATO-Hiro/AtCoderClans/pull/2066) - ユーザスクリプト「[AtCoder Sample Downloader](https://greasyfork.org/ja/scripts/425977-atcoder-sample-downloader)」を追加。
+
 ### 2021-05-10
 
 - [#2062](https://github.com/KATO-Hiro/AtCoderClans/pull/2062) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[バグった原因集](https://motsu-xe.hatenablog.com/entry/2019/11/15/173514)」を追加。
