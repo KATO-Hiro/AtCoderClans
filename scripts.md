@@ -400,6 +400,12 @@ filename: scripts
 
 - [AtCoder ResultsPage Tweaks](https://greasyfork.org/ja/scripts/424079-atcoder-resultspage-tweaks) - 「提出結果」ページの「すべての提出」で、検索条件を変更したときに自動で検索する。
 
+- [AtCoder Sample Downloader](https://greasyfork.org/ja/scripts/425977-atcoder-sample-downloader) - 「問題」ページに、入出力のサンプルをダウンロードできるボタンを設置する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_sample_downloader.png" alt="atcoder sample downloader">
+  </div>
+
 - [AtCoderTags_Hint](https://greasyfork.org/ja/scripts/393337-atcodertags-hint) - 「問題」ページにカテゴリーを表すヒントボタンを設置する。
 
   <div align="center">
