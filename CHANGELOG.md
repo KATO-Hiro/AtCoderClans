@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-12
+
+- [#2070](https://github.com/KATO-Hiro/AtCoderClans/pull/2070) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[競技プログラミングの成績が就活の武器に、新手の人材サービスに登録急増のワケ](https://xtech.nikkei.com/atcl/nxt/column/18/00001/05563/)」を追加。
+- [#2069](https://github.com/KATO-Hiro/AtCoderClans/pull/2069) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、VTuberのチャンネルを追加。
+  - [西園寺まこ](https://www.youtube.com/channel/UClz8TzWlOzG-95FuH2TFD9g)
+
 ### 2021-05-11
 
 - [#2066](https://github.com/KATO-Hiro/AtCoderClans/pull/2066) - ユーザスクリプト「[AtCoder Sample Downloader](https://greasyfork.org/ja/scripts/425977-atcoder-sample-downloader)」を追加。
