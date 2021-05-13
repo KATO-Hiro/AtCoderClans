@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-13
+
+- [#2075](https://github.com/KATO-Hiro/AtCoderClans/pull/2075) - Pythonで実装されたライブラリを追加。
+  - [ryusuke920/AtCoder-Library](https://github.com/ryusuke920/AtCoder-Library)
+
 ### 2021-05-12
 
 - [#2070](https://github.com/KATO-Hiro/AtCoderClans/pull/2070) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[競技プログラミングの成績が就活の武器に、新手の人材サービスに登録急増のワケ](https://xtech.nikkei.com/atcl/nxt/column/18/00001/05563/)」を追加。
