@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-14
+
+- [#2080](https://github.com/KATO-Hiro/AtCoderClans/pull/2080) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[しゃくとり法のDequeを使ったバグりにくい実装](https://qiita.com/keroru/items/6e0a22e8c9bf2a24dc68)」を追加。
+
 ### 2021-05-13
 
 - [#2075](https://github.com/KATO-Hiro/AtCoderClans/pull/2075) - Pythonで実装されたライブラリを追加。
