@@ -60,6 +60,8 @@
 
 [For Beginners](https://kato-hiro.github.io/AtCoderClans/for_beginners) - [AtCoder](https://atcoder.jp/)に興味・関心がある方、アカウントを登録したものの何をすればよいか困っている方のために、おすすめのサービス・ツール・記事などを紹介するページです。
 
+[Recommendation](https://kato-hiro.github.io/AtCoderClans/recommendation) - [For Beginners](https://kato-hiro.github.io/AtCoderClans/for_beginners)を読み終えた方に向けて、快適なコンテスト生活を送るためのサービス・ツールを厳選して掲載しています。
+
 [Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app) - Webアプリ、WebサイトおよびBotなどを紹介しています。
 
 [Scripts](https://kato-hiro.github.io/AtCoderClans/scripts) - [AtCoder](https://atcoder.jp/)のWebページにある機能を拡張することができるスクリプト(ユーザスクリプトやChrome拡張機能)を掲載しています。
