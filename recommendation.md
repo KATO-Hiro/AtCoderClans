@@ -40,6 +40,10 @@ filename: recommendation
 
 ### 過去問を解く
 
+  <div align="right">
+    <a href="https://kato-hiro.github.io/AtCoderClans/web_app">もっと見る</a>
+  </div>
+
 #### 定番のサービスを利用する
 
 - [AtCoder Problems](https://kenkoooo.com/atcoder/) - 開催されたコンテストの問題を一覧できるWebアプリです。問題の正誤状況や各種集計結果を確認できるだけでなく、バーチャルコンテストなどの機能もあります。詳しくは、有志による[AtCoder Problemsの使い方](https://ntk-ta01.hatenablog.com/entry/2020/04/15/001405)や[定期的に開催されているバーチャルコンテスト(通称:くじかつ)の紹介記事](https://www.terry-u16.net/entry/kujikatsu-contest)などをご覧ください。
@@ -58,12 +62,20 @@ filename: recommendation
 
 ### ソースコードの提出前後の操作、確認を便利にする
 
+  <div align="right">
+    <a href="https://kato-hiro.github.io/AtCoderClans/scripts">もっと見る</a>
+  </div>
+
 #### 入出力例を使って、不正解となるソースコードを提出する可能性を減らす
 
 - [⭐ AtCoder Easy Test](https://greasyfork.org/ja/scripts/415946-atcoder-easy-test) - 「問題」ページで、入出力サンプルを使って素早くテストを実行できます。また、自分で作成したテストケースも実行できます。
 
   <div align="center">
     <img loading = "lazy" src="images/userscript/atcoder_easy_test.png" alt="atcoder easy test">
+  </div>
+
+  <div align="right">
+    <a href="https://kato-hiro.github.io/AtCoderClans/cli">もっと見る</a>
   </div>
 
 #### ショートカットを使って素早くソースコードを提出する
@@ -95,6 +107,10 @@ filename: recommendation
   </div>
 
 ### UIを見やすくする
+
+  <div align="right">
+    <a href="https://kato-hiro.github.io/AtCoderClans/scripts">もっと見る</a>
+  </div>
 
 #### コンテストの成績表をより見やすくする
 
