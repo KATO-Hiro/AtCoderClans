@@ -175,6 +175,7 @@ filename: media
 - [貰うDPと配るDP、メモ化再帰、個数制限なしナップサック問題](https://qiita.com/drken/items/ace3142967c4f01d42e9) - [AtCoder Beginner Contest 099 C問題](https://atcoder.jp/contests/abc099/tasks/abc099_c)を題材に、メモ化再帰・貰うDP・配るDP・幅優先探索・個数制限なしナップサックDP・全探索+Greedyといった複数のアプローチについて解説した記事。
 - [桁DPの痒いところに手が届く解説](https://qiita.com/pinokions009/items/1e98252718eeeeb5c9ab) - 桁DPについて入門者が疑問に感じるポイントを解説した記事。特に、桁DPを利用することでうまく計算できる理由、数えている内容、初期条件の与え方に重点が置かれている。
 - [部分列DP --- 文字列の部分文字列を重複なく走査するDPの特集](https://qiita.com/drken/items/a207e5ae3ea2cf17f4bd) - 文字列の部分文字列に対し、条件を満たすものを重複なく数える問題について、その難しさと動的計画法による解法(部分列DP)を解説した記事。例題や類題のリンクも掲載されている。
+- [LISでも大活躍！ DPの配列使いまわしテクニックを特集](https://qiita.com/drken/items/68b8503ad4ffb469624c) - 動的計画法において、配列を再利用することで、メモリの節約や根本的な計算量の改善につなげる方法をまとめた記事。ナップサック問題や最長増加部分列問題などが題材として扱われている。
 - [ゲームを解く！Educational DP Contest K, L問題の解説](https://qiita.com/drken/items/4e1bcf8413af16cb62da) - 「ゲームを解く」という定義から、ゲーム探索の考え方やシンプルなゲームをプログラムで解く方法などついて解説した記事。
 - [UnionFindTreeに関する知見の諸々](https://noshi91.hatenablog.com/entry/2018/05/30/191943) - データ構造の一つであるUnion Find Treeに関する実装のバリエーションを解説した記事。また、同アルゴリズムの派生系とC++の実装例も紹介されている。
 - [重み付きUnion-Find木とそれが使える問題のまとめ、および、牛ゲーについて](https://qiita.com/drken/items/cce6fc5c579051e64fab) - 重みつき(ポテンシャル)UnionFind木について、通常のUnionFind木との違い・C++による実装・例題などを紹介した記事。
