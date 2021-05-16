@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-16
+
+- [#2091](https://github.com/KATO-Hiro/AtCoderClans/pull/2091) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[LISでも大活躍！ DPの配列使いまわしテクニックを特集](https://qiita.com/drken/items/68b8503ad4ffb469624c)」を追加。
+
 ### 2021-05-15
 
 - [#2084](https://github.com/KATO-Hiro/AtCoderClans/pull/2084), [#2085](https://github.com/KATO-Hiro/AtCoderClans/pull/2085), [#2087](https://github.com/KATO-Hiro/AtCoderClans/pull/2087), [#2089](https://github.com/KATO-Hiro/AtCoderClans/pull/2089) - 「[Recommendation](https://kato-hiro.github.io/AtCoderClans/recommendation)」ページを新設。「[For Beginners](https://kato-hiro.github.io/AtCoderClans/for_beginners)」ページを読み終えた方に向けて、快適なコンテスト生活を送るためのサービス・ツールを厳選して掲載している。
