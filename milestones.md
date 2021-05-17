@@ -69,6 +69,7 @@ filename: milestones
 - [AtCoder青コーダーになりました - Flkanjin’s 競プロ録](https://flkanjin.hatenablog.com/entry/2021/02/01/095417) - [Flkanjin](https://atcoder.jp/users/Flkanjin)さんが、2021年1月23日に達成。
 - [Atcoderで青色になりました - ぬるからの雑記帳](https://nullkara.jp/2021/02/28/atcoder_toblue/) - [nullkara_](https://atcoder.jp/users/nullkara_)さんが、2021年2月27日に達成。
 - [AtCoder青色になりました【マジメ ver】 - G4NP0Nのブログ](https://g4np0n-kyopro.hatenablog.com/entry/nyuao_mazime) - [G4NP0N](https://atcoder.jp/users/G4NP0N)さんが、2021年3月13日に達成。
+- [入青！一年間やってきたこと - Milky Coffee](https://milkcoffee.hatenablog.jp/entry/2021/05/17/170110) - [milkcoffee](https://atcoder.jp/users/milkcoffee)さんが、2021年5月10日に達成。
 
 ### レーティング2000から2399まで(黄色)
 
