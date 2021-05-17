@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-17
+
+- [#2095](https://github.com/KATO-Hiro/AtCoderClans/pull/2095) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[milkcoffee](https://atcoder.jp/users/milkcoffee)さんの[記事](https://milkcoffee.hatenablog.jp/entry/2021/05/17/170110)を追加。
+
 ### 2021-05-16
 
 - [#2091](https://github.com/KATO-Hiro/AtCoderClans/pull/2091) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[LISでも大活躍！ DPの配列使いまわしテクニックを特集](https://qiita.com/drken/items/68b8503ad4ffb469624c)」を追加。
