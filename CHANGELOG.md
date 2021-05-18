@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-18
+
+- [#2100](https://github.com/KATO-Hiro/AtCoderClans/pull/2100) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング800から1199まで(緑色)に[brightcat](https://atcoder.jp/users/brightcat)さんの[記事](https://brightcat.hateblo.jp/entry/2020/08/30/190022)を追加。
+
 ### 2021-05-17
 
 - [#2095](https://github.com/KATO-Hiro/AtCoderClans/pull/2095) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
