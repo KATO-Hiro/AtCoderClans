@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-19
+
+- [#2103](https://github.com/KATO-Hiro/AtCoderClans/pull/2103) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、競技プログラミング専用IDE「[CP Editor](https://cpeditor.org/)」を追加。
+
 ### 2021-05-18
 
 - [#2100](https://github.com/KATO-Hiro/AtCoderClans/pull/2100) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
