@@ -121,6 +121,12 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/codeforces/cf_tool.gif" alt="cf_tool">
   </div>
 
+- [CP Editor](https://cpeditor.org/) ![GitHub Repo stars](https://img.shields.io/github/stars/cpeditor/cpeditor?style=plastic) - サンプルの入出力の取得、テスト、文法チェック、解答コードの提出などができる競技プログラミング専用のIDE。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/codeforces/cp_editor.jpg" alt="hightail">
+  </div>
+
 - [Hightail](https://github.com/dj3500/hightail) ![GitHub Repo stars](https://img.shields.io/github/stars/dj3500/Hightail?style=plastic) - サンプルの入出力を取得し、ローカル環境でテストするGUIツール。
 
   <div align="center">
