@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-20
+
+- [#2108](https://github.com/KATO-Hiro/AtCoderClans/pull/2108) -  「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、動画「[『フカシギの数え方』 おねえさんといっしょ！ みんなで数えてみよう！](https://www.youtube.com/watch?v=Q4gTV4r0zRs)」を追加。
+
 ### 2021-05-19
 
 - [#2103](https://github.com/KATO-Hiro/AtCoderClans/pull/2103) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、競技プログラミング専用IDE「[CP Editor](https://cpeditor.org/)」を追加。
