@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-21
+
+- [#2114](https://github.com/KATO-Hiro/AtCoderClans/pull/2114) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページにサブカテゴリ「ヒューリスティック型コンテストのためのテンプレートレポジトリ」を新設。以下のテンプレートレポジトリを追加。
+  - [kmyk/marathon-kit](https://github.com/kmyk/marathon-kit)
+
 ### 2021-05-20
 
 - [#2108](https://github.com/KATO-Hiro/AtCoderClans/pull/2108) -  「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、動画「[『フカシギの数え方』 おねえさんといっしょ！ みんなで数えてみよう！](https://www.youtube.com/watch?v=Q4gTV4r0zRs)」を追加。
