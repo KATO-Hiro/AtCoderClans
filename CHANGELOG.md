@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-22
+
+- [#2121](https://github.com/KATO-Hiro/AtCoderClans/pull/2121) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1200から1599まで(水色)に[Xenous](https://atcoder.jp/users/Xenous)さんの[記事](https://xenous.hatenablog.com/entry/2021/05/22/130844)を追加。
+
 ### 2021-05-21
 
 - [#2114](https://github.com/KATO-Hiro/AtCoderClans/pull/2114) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページにサブカテゴリ「ヒューリスティック型コンテストのためのテンプレートレポジトリ」を新設。以下のテンプレートレポジトリを追加。
