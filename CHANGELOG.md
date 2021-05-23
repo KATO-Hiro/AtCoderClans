@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-23
+
+- [#2128](https://github.com/KATO-Hiro/AtCoderClans/pull/2128) - Webアプリ「[AtCoder Heuristic Statistics](https://heuristic-statistics.herokuapp.com/)」を追加。
+
 ### 2021-05-22
 
 - [#2121](https://github.com/KATO-Hiro/AtCoderClans/pull/2121) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
