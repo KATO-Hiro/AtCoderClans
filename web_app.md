@@ -148,6 +148,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_find_rivals.png" alt="atcoder find rivals">
   </div>
 
+- [AtCoder Heuristic Statistics](https://heuristic-statistics.herokuapp.com/) - [AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=0&category=1200&keyword=AtCoder+Heuristic+Contest)のレーティング分布を表示する。
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_heuristic_statistics.png" alt="atcoder heuristic statistics">
+  </div>
+
+
 - [AtCoderマラソンランキング](https://tomerun.github.io/atcoder_marathon_ranking/index.html) - マラソン系コンテストの順位を[AtCoder レースランキング](https://atcoder.jp/posts/170)と同じ形式でポイント化し、ランキングをつける。
 
   <div align="center">
