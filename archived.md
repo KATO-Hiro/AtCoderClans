@@ -129,6 +129,8 @@ filename: archived
   - 確認した日: 2020/12/27
 - [hiro116s/atcoder_library](https://github.com/hiro116s/atcoder_library) ![GitHub stars](https://img.shields.io/github/stars/hiro116s/atcoder_library?style=plastic) - [hiro116s](https://atcoder.jp/users/hiro116s)さんのJavaライブラリ。
   - 確認した日: 2020/12/14
+- [maspypy/compro_library](https://github.com/maspypy/compro_library) ![GitHub stars](https://img.shields.io/github/stars/maspypy/compro_library?style=plastic) - [maspy](https://atcoder.jp/users/maspy)さんのPythonライブラリ。
+  - 確認した日: 2021/05/24
 - [naipia/competitive-programming-go](https://github.com/naipia/competitive-programming-go) ![GitHub stars](https://img.shields.io/github/stars/naipia/competitive-programming-go?style=plastic) - [naipia](https://atcoder.jp/users/naipia)さんのGoライブラリ。
   - 確認した日: 2020/11/18
 - [Neterukun1993/algorithm](https://github.com/Neterukun1993/algorithm) ![GitHub stars](https://img.shields.io/github/stars/Neterukun1993/algorithm?style=plastic) - [neterukun](https://atcoder.jp/users/neterukun)さんのPythonライブラリ。
