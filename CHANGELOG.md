@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-24
+
+- [#2141](https://github.com/KATO-Hiro/AtCoderClans/pull/2141) - (破壊的な変更) リンク切れと思われるライブラリを一時的に「Archived」ページに移動。
+
 ### 2021-05-23
 
 - [#2128](https://github.com/KATO-Hiro/AtCoderClans/pull/2128) - Webアプリ「[AtCoder Heuristic Statistics](https://heuristic-statistics.herokuapp.com/)」を追加。
