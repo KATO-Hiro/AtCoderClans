@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-25
+
+- [#2146](https://github.com/KATO-Hiro/AtCoderClans/pull/2146) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[physharp](https://atcoder.jp/users/physharp)さんの[記事](https://qiita.com/physharp/items/f9229ab879cac9a944d7)を追加。
+
 ### 2021-05-24
 
 - [#2141](https://github.com/KATO-Hiro/AtCoderClans/pull/2141) - (破壊的な変更) リンク切れと思われるライブラリを一時的に「Archived」ページに移動。
