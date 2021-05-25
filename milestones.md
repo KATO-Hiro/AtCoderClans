@@ -72,6 +72,7 @@ filename: milestones
 - [Atcoderで青色になりました - ぬるからの雑記帳](https://nullkara.jp/2021/02/28/atcoder_toblue/) - [nullkara_](https://atcoder.jp/users/nullkara_)さんが、2021年2月27日に達成。
 - [AtCoder青色になりました【マジメ ver】 - G4NP0Nのブログ](https://g4np0n-kyopro.hatenablog.com/entry/nyuao_mazime) - [G4NP0N](https://atcoder.jp/users/G4NP0N)さんが、2021年3月13日に達成。
 - [入青！一年間やってきたこと - Milky Coffee](https://milkcoffee.hatenablog.jp/entry/2021/05/17/170110) - [milkcoffee](https://atcoder.jp/users/milkcoffee)さんが、2021年5月10日に達成。
+- [AtCoderで青になりました！ － 競プロで勝つための戦略 －](https://qiita.com/physharp/items/f9229ab879cac9a944d7) - [physharp](https://atcoder.jp/users/physharp)さんが、2021年5月16日に達成。
 
 ### レーティング2000から2399まで(黄色)
 
