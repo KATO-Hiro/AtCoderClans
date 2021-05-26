@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-26
+
+- [#2150](https://github.com/KATO-Hiro/AtCoderClans/pull/2150) - ユーザスクリプト「[HighlightAtCoderContestNot2100](https://greasyfork.org/en/scripts/426911-highlightatcodercontestnot2100)」を追加。
+
 ### 2021-05-25
 
 - [#2146](https://github.com/KATO-Hiro/AtCoderClans/pull/2146) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
