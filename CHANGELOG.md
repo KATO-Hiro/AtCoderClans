@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-27
+
+- [#2155](https://github.com/KATO-Hiro/AtCoderClans/pull/2155), [#2156](https://github.com/KATO-Hiro/AtCoderClans/pull/2156) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2400から2799まで(橙色)に[ygussany](https://atcoder.jp/users/ygussany)さんの[記事](https://ygussany.hatenablog.com/entry/2021/05/23/230000)を追加。
+  - レーティング1600から1999まで(青色)に[hatamura5121](https://atcoder.jp/users/hatamura5121)さんの[記事](https://qiita.com/hatamura5121/items/4610b0867c5b210ebc83)を追加。
+
 ### 2021-05-26
 
 - [#2150](https://github.com/KATO-Hiro/AtCoderClans/pull/2150) - ユーザスクリプト「[HighlightAtCoderContestNot2100](https://greasyfork.org/en/scripts/426911-highlightatcodercontestnot2100)」を追加。
