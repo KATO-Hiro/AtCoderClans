@@ -95,6 +95,7 @@ filename: milestones
 - [AtCoder橙になりました - Motsu_xe 競プロのhogeやfuga](https://motsu-xe.hatenablog.com/entry/2020/12/07/000807) - [Motsu_xe](https://atcoder.jp/users/Motsu_xe)さんが、2020年11月28日に達成。
 - [AtCoder橙になりました。 - dokinの競技プログラミング](https://dokinac.hatenablog.com/entry/2020/12/21/170425) - [dokin](https://atcoder.jp/users/dokin)さんが、2020年11月28日に達成。
 - [AtCoder橙/Codeforces International Grandmasterになりました - prime's diary](https://primenumber.hatenadiary.jp/entry/2021/01/17/063650) - [primenumber](https://atcoder.jp/users/primenumber)さんが、2020年12月27日に達成。
+- [Y.Y. の Y は Yellow の Y ではなかった](https://ygussany.hatenablog.com/entry/2021/05/23/230000) - [ygussany](https://atcoder.jp/users/ygussany)さんが、2021年5月23日に達成。
 
 ### レーティング2800以上(赤色、銅王冠、銀王冠、金王冠)
 
