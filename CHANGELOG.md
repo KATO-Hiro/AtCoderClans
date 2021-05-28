@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-28
+
+- [#2162](https://github.com/KATO-Hiro/AtCoderClans/pull/2162), [#2163](https://github.com/KATO-Hiro/AtCoderClans/pull/2163) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、以下のチャンネルを追加。
+  - [skyaozora58](https://www.youtube.com/user/skyaozora58/videos)
+  - [こたつがめ](https://www.youtube.com/channel/UCL8EOznhSyreT9O0-KFxgZQ/videos)
+
 ### 2021-05-27
 
 - [#2155](https://github.com/KATO-Hiro/AtCoderClans/pull/2155), [#2156](https://github.com/KATO-Hiro/AtCoderClans/pull/2156) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
