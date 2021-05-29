@@ -232,6 +232,10 @@ filename: scripts
 
 - [AtCoder Heuristic Rating coloring](https://greasyfork.org/ja/scripts/427070-atcoder-heuristic-rating-coloring) - [AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=0&category=1200&keyword=AtCoder+Heuristic+Contest)の「順位表」ページで、ユーザ名を同コンテストのレーティングに応じて色付けする。
 
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_heuristic_rating_coloring.png" alt="atcoder heuristic rating coloring">
+  </div>
+
 - [AtCoder-ngtkanaResult](https://greasyfork.org/ja/scripts/416384-atcoder-ngtkanaresult) - 「提出結果」ページの「結果」を[ngtkana](https://atcoder.jp/users/ngtkana)さんの言葉に置き換える。作成者注: 不正解の詳細はマウスオーバーで表示される。
 
   <div align="center">
