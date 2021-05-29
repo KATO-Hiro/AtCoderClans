@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-29
+
+- [#2167](https://github.com/KATO-Hiro/AtCoderClans/pull/2167) - ユーザスクリプト「[AtCoder Heuristic Rating coloring](https://greasyfork.org/ja/scripts/427070-atcoder-heuristic-rating-coloring)」を追加。
+
 ### 2021-05-28
 
 - [#2162](https://github.com/KATO-Hiro/AtCoderClans/pull/2162), [#2163](https://github.com/KATO-Hiro/AtCoderClans/pull/2163) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、以下のチャンネルを追加。
