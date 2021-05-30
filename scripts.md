@@ -362,6 +362,8 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_collect_all_examples.png" alt="atcoder collect all examples">
   </div>
 
+- [AtCoder Editorial New Tab](https://greasyfork.org/ja/scripts/424207-atcoder-editorial-new-tab) - 「問題」ページにある「解説」ボタンを押すと、該当する解説を新しいタブで開くことができる。
+
 - [AtCoder Fav Rating](https://greasyfork.org/ja/scripts/406745-atcoder-fav-rating) - 「アカウント」ページにお気に入りの順位・レーティング(現在・最高)・参加回数を一覧で表示するボタンを設置する。
 
   <div align="center">
