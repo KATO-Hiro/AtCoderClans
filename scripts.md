@@ -140,6 +140,9 @@ filename: scripts
 - [AtCoder_CustomTest_Run_Shortcut](https://greasyfork.org/ja/scripts/418633-atcoder-customtest-run-shortcut) - 「コードテスト」ページで、Ctrl+Enterを押すと、標準入力の値を使用してソースコードを実行する。注: ショートカットを実行する前に、事前にソースコードと標準入力に入力を済ませておく必要がある。
 
 - [AtCoder dos2unix UserScript](https://greasyfork.org/ja/scripts/372122-atcoder-dos2unix-userscript) - 改行コードをCRLFからLFに変換して、コードを提出する。
+
+- [AtCoder Editorial New Tab](https://greasyfork.org/ja/scripts/424207-atcoder-editorial-new-tab) - 「問題」ページにある「解説」ボタンを押すと、該当する解説を新しいタブで開くことができる。
+
 - [AtCoder Jump to Submissions from Standings](https://greasyfork.org/ja/scripts/397528-atcoder-jump-to-submissions-from-standings) - 「順位表」ページの得点をダブルクリックすると、該当するコンテスタントの実装を見ることができる。[Codeforces](https://codeforces.com/)の仕様を参考にしている。
 
   <div align="center">
