@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-30
+
+- [#2170](https://github.com/KATO-Hiro/AtCoderClans/pull/2170) - ユーザスクリプト「[AtCoder Editorial New Tab](https://greasyfork.org/ja/scripts/424207-atcoder-editorial-new-tab)」を追加。
+
 ### 2021-05-29
 
 - [#2167](https://github.com/KATO-Hiro/AtCoderClans/pull/2167) - ユーザスクリプト「[AtCoder Heuristic Rating coloring](https://greasyfork.org/ja/scripts/427070-atcoder-heuristic-rating-coloring)」を追加。
