@@ -6,6 +6,13 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-05-31
+
+- [#2175](https://github.com/KATO-Hiro/AtCoderClans/pull/2175) - [Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)ページのサブカテゴリ「競技プログラマーが現役引退を表明した記事」に、以下の記事を追加。
+  - [競技プログラミングから離れるという選択肢](https://note.com/lyu_lu/n/nb4287c27e026)
+- [#2174](https://github.com/KATO-Hiro/AtCoderClans/pull/1963) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1200から1599まで(水色)にlyuluさんの[記事](https://note.com/lyu_lu/n/n5812f3988dd6)を追加。
+
 ### 2021-05-30
 
 - [#2170](https://github.com/KATO-Hiro/AtCoderClans/pull/2170) - ユーザスクリプト「[AtCoder Editorial New Tab](https://greasyfork.org/ja/scripts/424207-atcoder-editorial-new-tab)」を追加。
