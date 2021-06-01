@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-06-01
+
+- [#2186](https://github.com/KATO-Hiro/AtCoderClans/pull/2186) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[競プロは業務の役に立っているか？～ふるやんの場合～](https://www.creativ.xyz/shakaijin-first-anniversary/)」を追加。
+
 ### 2021-05-31
 
 - [#2175](https://github.com/KATO-Hiro/AtCoderClans/pull/2175) - [Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)ページのサブカテゴリ「競技プログラマーが現役引退を表明した記事」に、以下の記事を追加。
