@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-06-02
+
+- [#2189](https://github.com/KATO-Hiro/AtCoderClans/pull/2189) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページの[競プロ典型90問](https://twitter.com/e869120/status/1376089196100653060)の説明文に、[非公式の難易度表](https://docs.google.com/spreadsheets/d/1GG4Higis4n4GJBViVltjcbuNfyr31PzUY_ZY1zh2GuI/edit#gid=0)を追加。
+
 ### 2021-06-01
 
 - [#2186](https://github.com/KATO-Hiro/AtCoderClans/pull/2186) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[競プロは業務の役に立っているか？～ふるやんの場合～](https://www.creativ.xyz/shakaijin-first-anniversary/)」を追加。
