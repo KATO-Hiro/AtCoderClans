@@ -33,6 +33,7 @@ filename: milestones
 - [灰色スタックしていた私が考える「茶色になるために必要なこと」 - segment_threeの日記](https://segment-three.hatenablog.com/entry/2021/01/24/171947) - [tyamahosen](https://atcoder.jp/users/tyamahosen)さんが、2021年1月23日に達成。
 - [[初投稿] AtCoder入茶してみたw [至って真面目です]](https://qiita.com/Shiroha_MK3/items/aacc2727b511682e1cf2) - [Shiroha_F14](https://atcoder.jp/users/shiroha_f14)さんが、2021年3月20日に達成。
 - [社会人がAtCoder始めて入茶した話٩( ᐛ )و - ひたすらに雑記](https://malleroid.hatenablog.com/entry/2021/04/03/204651) - [malleus](https://atcoder.jp/users/malleus)さんが、2021年3月27日に達成。
+- [AtCoderのRatedコンテストに200回参加しても茶色だけど、もう少し続けるよという話](https://1783.hatenablog.com/entry/2021/06/01/194504) - [inaba3](https://atcoder.jp/users/inaba3)さんが、2021年6月1日に公開。
 
 ### レーティング800から1199まで(緑色)
 
