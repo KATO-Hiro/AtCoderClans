@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-06-03
+
+- [#2191](https://github.com/KATO-Hiro/AtCoderClans/pull/2191) - [Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)ページに、以下の記事を追加。
+  - [AtCoderのRatedコンテストに200回参加しても茶色だけど、もう少し続けるよという話](https://1783.hatenablog.com/entry/2021/06/01/194504)
+
 ### 2021-06-02
 
 - [#2189](https://github.com/KATO-Hiro/AtCoderClans/pull/2189) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページの[競プロ典型90問](https://twitter.com/e869120/status/1376089196100653060)の説明文に、[非公式の難易度表](https://docs.google.com/spreadsheets/d/1GG4Higis4n4GJBViVltjcbuNfyr31PzUY_ZY1zh2GuI/edit#gid=0)を追加。
