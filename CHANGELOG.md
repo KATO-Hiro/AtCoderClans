@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-06-04
+
+- [#2195](https://github.com/KATO-Hiro/AtCoderClans/pull/2195) - Webアプリ「[Atcoder Performance Chart](https://atcoder-chart.web.app/)」を追加。
+
 ### 2021-06-03
 
 - [#2191](https://github.com/KATO-Hiro/AtCoderClans/pull/2191) - [Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)ページに、以下の記事を追加。
