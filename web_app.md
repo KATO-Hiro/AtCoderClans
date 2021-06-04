@@ -172,6 +172,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_performances.png" alt="atcoder performances">
   </div>
 
+- [Atcoder Performance Chart](https://atcoder-chart.web.app/) - パフォーマンス値、それらの短期・長期平均値を表示する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_performance_chart.png" alt="atcoder performance chart">
+  </div>
+
 - [AtCoder Rating Comparison](https://atcoder-rating-comparison.herokuapp.com/?q=) - 指定した2人以上のレーティングの比較ができる。
 
   <div align="center"> <img loading = "lazy" src="images/web_app/atcoder_rating_comparison.png" alt="atcoder rating comparison">
