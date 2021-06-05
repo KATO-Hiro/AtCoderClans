@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-06-05
+
+- [#2199](https://github.com/KATO-Hiro/AtCoderClans/pull/2199) - ユーザスクリプト「[add-typical90-link](https://greasyfork.org/ja/scripts/427326-add-typical90-link)」を追加。
+
 ### 2021-06-04
 
 - [#2195](https://github.com/KATO-Hiro/AtCoderClans/pull/2195) - Webアプリ「[Atcoder Performance Chart](https://atcoder-chart.web.app/)」を追加。
