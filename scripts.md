@@ -131,6 +131,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/add_shortest_tab.jpeg" alt="add shortest tab">
   </div>
 
+- [add-typical90-link](https://greasyfork.org/ja/scripts/427326-add-typical90-link) - 「[競プロ典型90問](https://atcoder.jp/contests/typical90)」に、「解説リンク」タブを追加する。このタブから[GitHub](https://github.com/E869120/kyopro_educational_90/tree/main/editorial)で公開されている解説に移動できる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/add_typical90_link.png" alt="add typical90 link">
+  </div>
+
 - [atcoder_all_open](https://greasyfork.org/ja/scripts/387471-atcoder-all-open) - 「全ての問題をワンクリックで開く」タブを追加する。
 
   <div align="center">
