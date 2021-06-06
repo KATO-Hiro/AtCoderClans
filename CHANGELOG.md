@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-06-06
+
+- [#2202](https://github.com/KATO-Hiro/AtCoderClans/pull/2202) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング800から1199まで(緑色)に[Rute](https://atcoder.jp/users/Rute)さんの[記事](https://qiita.com/rute_not_route/items/c8b4f2251fdd852d29a0)を追加。
+
 ### 2021-06-05
 
 - [#2199](https://github.com/KATO-Hiro/AtCoderClans/pull/2199) - ユーザスクリプト「[add-typical90-link](https://greasyfork.org/ja/scripts/427326-add-typical90-link)」を追加。
