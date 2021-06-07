@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-06-07
+
+- [#2208](https://github.com/KATO-Hiro/AtCoderClans/pull/2208), [#2209](https://github.com/KATO-Hiro/AtCoderClans/pull/2209) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1200から1599まで(水色)に[ekaraage](https://atcoder.jp/users/ekaraage)さんの[記事](https://elekara.hatenablog.com/entry/2021/06/07/170401)を追加。
+  - レーティング1200から1599まで(水色)に[Kanten4205](https://atcoder.jp/users/Kanten4205)さんの[記事](https://qiita.com/kanten4205/items/60962a67ff36e647c373)を追加。
+
 ### 2021-06-06
 
 - [#2202](https://github.com/KATO-Hiro/AtCoderClans/pull/2202) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
