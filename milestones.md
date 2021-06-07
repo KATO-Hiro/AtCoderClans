@@ -58,6 +58,7 @@ filename: milestones
 - [Hello World! AtCoder水色になりました - すこしだけ欠けたピアノの音色](https://seashellpink-frostywhite.hatenablog.com/entry/2021/02/28/221137) - [riano_](https://atcoder.jp/users/riano_)さんが、2021年2月13日に達成。
 - [AtCoderで水色になった - bouzuya.hatenablog.com](https://bouzuya.hatenablog.com/entry/2021/04/24/234302) - [bouzuya](https://atcoder.jp/users/bouzuya)さんが、2021年4月24日に達成。
 - [AtCoder水色になりました - Xenousの精進記録](https://xenous.hatenablog.com/entry/2021/05/22/130844) - [Xenous](https://atcoder.jp/users/Xenous)さんが、2021年5月15日に達成。
+- [3年かかってやっと水色コーダーになった話](https://qiita.com/kanten4205/items/60962a67ff36e647c373) - [Kanten4205](https://atcoder.jp/users/Kanten4205)さんが、2021年6月6日に達成。
 
 ### レーティング1600から1999まで(青色)
 
