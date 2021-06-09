@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-06-09
+
+- [#2218](https://github.com/KATO-Hiro/AtCoderClans/pull/2218) - ユーザスクリプト「[AtCoder Profile2Ranking Link](https://greasyfork.org/en/scripts/426219-atcoder-profile2ranking-link)」を追加。
+- [#2217](https://github.com/KATO-Hiro/AtCoderClans/pull/2217) - ユーザスクリプト「[AtCoderDevotionScript](https://greasyfork.org/en/scripts/415819-atcoderdevotionscript)」を追加。
+- [#2216](https://github.com/KATO-Hiro/AtCoderClans/pull/2216) - 記事「[AHC003の2.926T解法+経緯](https://qiita.com/contramundum/items/b945400b81536df42d1a)」を追加。
+
 ### 2021-06-08
 
 - [#2211](https://github.com/KATO-Hiro/AtCoderClans/pull/2211) - 記事「[本番で使えるRubyの定数倍高速化手法【競技プログラミング | Atcoder】](https://kona0001.hatenablog.com/entry/2021/06/07/170343)」を追加。
