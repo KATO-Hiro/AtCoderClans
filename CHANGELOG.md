@@ -19,7 +19,7 @@ filename: CHANGELOG
 
 ### 2021-06-08
 
-- [#2211](https://github.com/KATO-Hiro/AtCoderClans/pull/2211) - 記事「[本番で使えるRubyの定数倍高速化手法【競技プログラミング | Atcoder】](https://kona0001.hatenablog.com/entry/2021/06/07/170343)」を追加。
+- [#2211](https://github.com/KATO-Hiro/AtCoderClans/pull/2211) - 記事「[本番で使えるRubyの定数倍高速化手法【競技プログラミング  Atcoder】](https://kona0001.hatenablog.com/entry/2021/06/07/170343)」を追加。
 
 ### 2021-06-07
 
