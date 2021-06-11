@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-06-11
+
+- [#2233](https://github.com/KATO-Hiro/AtCoderClans/pull/2233) - 誤字脱字を修正。
+
 ### 2021-06-10
 
 - [#2225](https://github.com/KATO-Hiro/AtCoderClans/pull/2225), [#2226](https://github.com/KATO-Hiro/AtCoderClans/pull/2226) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの2021年4月分を[月別のアーカイブ](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2021_04.md)に移動。
