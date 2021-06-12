@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-06-12
+
+- [#2239](https://github.com/KATO-Hiro/AtCoderClans/pull/2239) - 記事「[実生活に学ぶアルゴリズム【第1回：セブンイレブンでは500円で何カロリー得られるか？】](https://qiita.com/e869120/items/5d9d0fcbb6dc7dbf87f9)」と続編を追加。
+- [#2238](https://github.com/KATO-Hiro/AtCoderClans/pull/2238) - CLIツール「[Rime](https://github.com/icpc-jag/rime)」の説明文に、記事「[Rime on Windows10](https://nebocco.hatenablog.com/entry/2021/05/01/223000)」を追加。
+- [#2237](https://github.com/KATO-Hiro/AtCoderClans/pull/2237) - [tsutaj](https://github.com/tsutaj)さんのプルリクエストにより、Webアプリ「[AtCoder QQ](https://app.tsutaj.com/atcoder-qq/)」の紹介文を更新。
+
 ### 2021-06-11
 
 - [#2233](https://github.com/KATO-Hiro/AtCoderClans/pull/2233) - 誤字脱字を修正。
