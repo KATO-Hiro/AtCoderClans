@@ -310,7 +310,7 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_prophet.png" alt="atcoder prophet">
   </div>
 
-- [AtCoder QQ](https://app.tsutaj.com/atcoder-qq/) - コンテストで1位〜99位まで入った回数を、表形式(縦軸: 10の位、横軸: 1の位)で示す。
+- [AtCoder QQ](https://app.tsutaj.com/atcoder-qq/) - コンテストの順位を、最高順位が含まれる形で表形式 (縦軸: 10の位、横軸: 1の位) で示す。
 
   <div align="center">
     <img loading = "lazy" src="images/web_app/atcoder_qq.png" alt="atcoder qq">
