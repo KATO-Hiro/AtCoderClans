@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-06-13
+
+- [#2242](https://github.com/KATO-Hiro/AtCoderClans/pull/2242) - 記事「[PythonでAtCoderをするあれこれ](https://qiita.com/c-yan/items/dbf2838cdd89864ef5ac)」を追加。
+
 ### 2021-06-12
 
 - [#2239](https://github.com/KATO-Hiro/AtCoderClans/pull/2239) - 記事「[実生活に学ぶアルゴリズム【第1回：セブンイレブンでは500円で何カロリー得られるか？】](https://qiita.com/e869120/items/5d9d0fcbb6dc7dbf87f9)」と続編を追加。
