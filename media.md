@@ -297,7 +297,7 @@ filename: media
 
 #### Ruby
 
-- [本番で使えるRubyの定数倍高速化手法【競技プログラミング | Atcoder】](https://kona0001.hatenablog.com/entry/2021/06/07/170343) - Rubyにおける定数倍高速化の手法をまとめた記事。
+- [本番で使えるRubyの定数倍高速化手法【競技プログラミング  Atcoder】](https://kona0001.hatenablog.com/entry/2021/06/07/170343) - Rubyにおける定数倍高速化の手法をまとめた記事。
 
 #### Rust
 
