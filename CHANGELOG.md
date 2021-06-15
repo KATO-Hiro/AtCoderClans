@@ -8,6 +8,7 @@ filename: CHANGELOG
 
 ### 2021-06-15
 
+- [#2252](https://github.com/KATO-Hiro/AtCoderClans/pull/2252) - 誤字脱字を修正。
 - [#2249](https://github.com/KATO-Hiro/AtCoderClans/pull/2249) - 記事「[intXX_tに関して](https://rsk0315.hatenablog.com/entry/2021/05/03/203949)」を追加。
 
 ### 2021-06-14
