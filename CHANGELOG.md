@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-06-15
+
+- [#2249](https://github.com/KATO-Hiro/AtCoderClans/pull/2249) - 記事「[intXX_tに関して](https://rsk0315.hatenablog.com/entry/2021/05/03/203949)」を追加。
+
 ### 2021-06-14
 
 - [#2247](https://github.com/KATO-Hiro/AtCoderClans/pull/2247) - 記事「[三角関数は何に使えるのか 〜サイン・コサイン・タンジェントの活躍〜](https://qiita.com/drken/items/41b4ec6bde794cbcd0f6)」を追加。
