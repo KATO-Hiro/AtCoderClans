@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-06-16
+
+- [#2257](https://github.com/KATO-Hiro/AtCoderClans/pull/2257) - ユーザスクリプト「[AtCoder Editorial for Typical90](https://greasyfork.org/ja/scripts/427584-atcoder-editorial-for-typical90)」を追加。
+- [#2256](https://github.com/KATO-Hiro/AtCoderClans/pull/2256) - ユーザスクリプト「[atcoder-tasks-page-colorize-during-contests](https://greasyfork.org/ja/scripts/426049-atcoder-tasks-page-colorize-during-contests)」を追加。
+- [#2255](https://github.com/KATO-Hiro/AtCoderClans/pull/2255) - 記事「[Pythonで各要素にO(1)でランダムアクセスできるdeque(両端キュー)を書いてみた](https://prd-xxx.hateblo.jp/entry/2020/02/07/114818)」を追加。
+
 ### 2021-06-15
 
 - [#2252](https://github.com/KATO-Hiro/AtCoderClans/pull/2252) - 誤字脱字を修正。
