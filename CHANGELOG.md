@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-06-17
+
+- [#2260](https://github.com/KATO-Hiro/AtCoderClans/pull/2260) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、YouTubeのチャンネルを追加。
+  - [うさぎ](https://www.youtube.com/channel/UCAWN0xlHcDyMTaCIfn1GNXg/videos)
+
 ### 2021-06-16
 
 - [#2257](https://github.com/KATO-Hiro/AtCoderClans/pull/2257) - ユーザスクリプト「[AtCoder Editorial for Typical90](https://greasyfork.org/ja/scripts/427584-atcoder-editorial-for-typical90)」を追加。
