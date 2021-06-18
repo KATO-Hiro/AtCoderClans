@@ -295,6 +295,7 @@ filename: libraries
 
 ### Rust
 
+- [akiradeveloper/rust-comp-snippets](https://github.com/akiradeveloper/rust-comp-snippets) ![GitHub Repo stars](https://img.shields.io/github/stars/akiradeveloper/rust-comp-snippets?style=plastic) - [akiradeveloper](https://atcoder.jp/users/akiradeveloper)さんのスニペット集。
 - [cympfh/procon-rs](https://github.com/cympfh/procon-rs) ![GitHub Repo stars](https://img.shields.io/github/stars/cympfh/procon-rs?style=plastic) - [cympfh](https://atcoder.jp/users/cympfh)さんのライブラリ。
 - [hatoo/competitive-rust-snippets](https://github.com/hatoo/competitive-rust-snippets) ![GitHub stars](https://img.shields.io/github/stars/hatoo/competitive-rust-snippets?style=plastic) - [hatoo](https://atcoder.jp/users/hatoo)さんのスニペット集。
 - [ichyo/algorithms](https://github.com/ichyo/algorithms) ![GitHub stars](https://img.shields.io/github/stars/ichyo/algorithms?style=plastic) - [ichyo](https://atcoder.jp/users/ichyo)さんのライブラリ。
