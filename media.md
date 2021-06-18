@@ -468,6 +468,7 @@ filename: media
 - [かつっぱ競プロ](https://www.youtube.com/channel/UCqqeYOh1gk_TJ16sxazWhUg) - [AtCoder](https://atcoder.jp/)でレッドコーダーの[catupper](https://atcoder.jp/users/catupper)さんのチャンネル。コンテストの実況動画が公開されている。
 - [蟹江もなみ](https://www.youtube.com/channel/UC5OB45jE0XqRyXdGETY-2-w) - [kanipanunu](https://atcoder.jp/users/kanipanunu)さんのチャンネル。コンテストの過去問を解く動画が公開されている。
 - [きりみんちゃん kirimin-chan](https://www.youtube.com/c/kiriminchan/playlists) - [kirimin](https://atcoder.jp/users/kirimin)さんのチャンネル。競技プログラミングやライブコーディングだけでなく、幅広い話題の動画が公開されている。
+- [紅童ゆに](https://www.youtube.com/channel/UCJcNhhnFIomosRO9ZYWC1pQ/videos) - [紅童ゆに](https://twitter.com/koudou_uni)さんのチャンネル。
 - [こたつがめ](https://www.youtube.com/channel/UCL8EOznhSyreT9O0-KFxgZQ/videos) - [kotatsugame](https://atcoder.jp/users/kotatsugame)さんのチャンネル。コードゴルフに関する動画が多く公開されている。
 - [ことり兄貴【プログラマ】](https://www.youtube.com/channel/UCf86wNbQtsJKh2EpRm7-Mrg/videos) - [KotoriAniki](https://atcoder.jp/users/KotoriAniki)さんのチャンネル。コンテストの過去問を解く動画などが公開されている。
 - [西園寺まこ](https://www.youtube.com/channel/UClz8TzWlOzG-95FuH2TFD9g) - [saion_maco](https://atcoder.jp/users/saion_maco)さんのチャンネル。コンテストの過去問を解く動画などが公開されている。
