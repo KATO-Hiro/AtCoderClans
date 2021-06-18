@@ -6,6 +6,13 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-06-18
+
+- [#2269](https://github.com/KATO-Hiro/AtCoderClans/pull/2269) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、VTuberのチャンネルを追加。
+  - [紅童ゆに](https://www.youtube.com/channel/UCJcNhhnFIomosRO9ZYWC1pQ/videos)
+- [#2268](https://github.com/KATO-Hiro/AtCoderClans/pull/2268) - Rustで実装されたスニペット集を追加。
+  - [akiradeveloper/rust-comp-snippets](https://github.com/akiradeveloper/rust-comp-snippets)
+
 ### 2021-06-17
 
 - [#2260](https://github.com/KATO-Hiro/AtCoderClans/pull/2260) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、YouTubeのチャンネルを追加。
