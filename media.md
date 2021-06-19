@@ -319,6 +319,7 @@ filename: media
 - [けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/) - [drken](https://atcoder.jp/users/drken)さんの解説ブログ。C++で実装されている。
 - [はまやん はまやん はまやん](https://www.hamayanhamayan.com/archive/category/%E7%AB%B6%E6%8A%80%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0) - [hamayanhamayan](https://atcoder.jp/users/hamayanhamayan)さんの解説ブログ。C++で実装されている。
 - [ARMERIA](https://betrue12.hateblo.jp/) - [betrue12](https://atcoder.jp/users/betrue12)さんの解説ブログ。RubyとC++で実装されている。
+- [【AtCoder解説】PythonでABCxxxの(問題番号)問題を制する！](https://qiita.com/u2dayo) - [unidayo](https://atcoder.jp/users/unidayo)さんの解説記事。主にAtCoder Beginner ContestのA〜C問題を中心とした解説とPythonによる実装例が紹介されている。
 - [kmjp's blog](https://kmjp.hatenablog.jp/) - [kmjp](https://atcoder.jp/users/kmjp)さんの解説ブログ。C++で実装されている。
 - [Kyopro Encyclopedia of Algorithms](https://kmyk.github.io/algorithm-encyclopedia/) - 競技プログラミングに関するアルゴリズムの百科事典を目指している解説サイト(試験運用中)。想定読者は、[AtCoder](https://atcoder.jp/)の黄色以上(レーティングで2000以上)。
 - [maspyのHP](https://maspypy.com/category/atcoder) - [maspy](https://atcoder.jp/users/maspy)さんの解説ブログ。Pythonで実装されている。
