@@ -324,6 +324,7 @@ filename: media
 - [Kyopro Encyclopedia of Algorithms](https://kmyk.github.io/algorithm-encyclopedia/) - 競技プログラミングに関するアルゴリズムの百科事典を目指している解説サイト(試験運用中)。想定読者は、[AtCoder](https://atcoder.jp/)の黄色以上(レーティングで2000以上)。
 - [maspyのHP](https://maspypy.com/category/atcoder) - [maspy](https://atcoder.jp/users/maspy)さんの解説ブログ。Pythonで実装されている。
 - [noshi91のメモ](https://noshi91.hatenablog.com/) - [noshi91](https://atcoder.jp/users/noshi91)さんの解説ブログ。C++で実装されている。データ構造に関する記事が多いのが特徴。
+- [opt の競プロブログ](https://opt-cp.com/) - [opt](https://atcoder.jp/users/opt)さんの解説ブログ。C++で実装されている。数学に関する解説・証明を扱った記事が多い。
 
 ### コンテストに向けた練習方法など
 
