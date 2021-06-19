@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-06-19
+
+- [#2273](https://github.com/KATO-Hiro/AtCoderClans/pull/2273), [#2275](https://github.com/KATO-Hiro/AtCoderClans/pull/2275) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、解説ブログを追加。
+  - [【AtCoder解説】PythonでABCxxxの(問題番号)問題を制する！](https://qiita.com/u2dayo)
+  - [opt の競プロブログ](https://opt-cp.com/)
+
 ### 2021-06-18
 
 - [#2269](https://github.com/KATO-Hiro/AtCoderClans/pull/2269) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、VTuberのチャンネルを追加。
