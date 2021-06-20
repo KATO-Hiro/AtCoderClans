@@ -60,6 +60,7 @@ filename: milestones
 - [AtCoder水色になりました - Xenousの精進記録](https://xenous.hatenablog.com/entry/2021/05/22/130844) - [Xenous](https://atcoder.jp/users/Xenous)さんが、2021年5月15日に達成。
 - [AtCoder水色になりました - からあげの備忘録](https://elekara.hatenablog.com/entry/2021/06/07/170401) - [ekaraage](https://atcoder.jp/users/ekaraage)さんが、2021年6月6日に達成。
 - [3年かかってやっと水色コーダーになった話](https://qiita.com/kanten4205/items/60962a67ff36e647c373) - [Kanten4205](https://atcoder.jp/users/Kanten4205)さんが、2021年6月6日に達成。
+- [AtCoder水色になりました - ころも（競プロ）のブログ](https://koromo-kyopro.hatenablog.com/entry/2021/06/20/023359) - [uytvcc](https://atcoder.jp/users/uytvcc)さんが、2021年6月12日に達成。
 
 ### レーティング1600から1999まで(青色)
 
