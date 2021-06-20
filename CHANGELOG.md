@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-06-20
+
+- [#2281](https://github.com/KATO-Hiro/AtCoderClans/pull/2281), [#2282](https://github.com/KATO-Hiro/AtCoderClans/pull/2282) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1200から1599まで(水色)に[uytvcc](https://atcoder.jp/users/uytvcc)さんの[記事](https://koromo-kyopro.hatenablog.com/entry/2021/06/20/023359)を追加。
+  - レーティング400から799まで(茶色)に[shirumono](https://atcoder.jp/users/shirumono)さんの[記事](https://qiita.com/shirumono/items/0d6a3abb747d6b144cca)を追加。
+
 ### 2021-06-19
 
 - [#2273](https://github.com/KATO-Hiro/AtCoderClans/pull/2273), [#2275](https://github.com/KATO-Hiro/AtCoderClans/pull/2275) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、解説ブログを追加。
