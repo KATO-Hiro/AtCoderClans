@@ -115,3 +115,4 @@ filename: milestones
 
 - [Retiring from competitive competitive programming](https://codeforces.com/blog/entry/86174) - 競技プログラミングの世界大会で長年活躍された[rng_58](https://twitter.com/rng_58)さんが、現役引退を表明した記事。
 - [競技プログラミングから離れるという選択肢](https://note.com/lyu_lu/n/nb4287c27e026) - lyu_luさんが、2021年5月22日に退会。
+- [AtCoderを退会しました - cumin’s diary](https://ohirururu.hatenablog.com/entry/2021/06/20/001500) - cuminさんが、2021年6月19日に退会。
