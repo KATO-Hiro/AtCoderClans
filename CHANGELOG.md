@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-06-21
+
+- [#2287](https://github.com/KATO-Hiro/AtCoderClans/pull/2287) - [Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)ページのサブカテゴリ「競技プログラマーが現役引退を表明した記事」に、以下の記事を追加。
+  - [AtCoderを退会しました - cumin’s diary](https://ohirururu.hatenablog.com/entry/2021/06/20/001500)
+
 ### 2021-06-20
 
 - [#2281](https://github.com/KATO-Hiro/AtCoderClans/pull/2281), [#2282](https://github.com/KATO-Hiro/AtCoderClans/pull/2282) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
