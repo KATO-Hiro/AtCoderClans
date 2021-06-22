@@ -161,7 +161,7 @@ filename: libraries
 - [ei1333/library](https://ei1333.github.io/library/) ![GitHub stars](https://img.shields.io/github/stars/ei1333/library?style=plastic) - [ei13333](https://atcoder.jp/users/ei13333)さんのライブラリ。
 - [fumiphys/programming_contest](https://github.com/fumiphys/programming_contest) ![GitHub stars](https://img.shields.io/github/stars/fumiphys/programming_contest?style=plastic) - [fumiphys](https://atcoder.jp/users/fumiphys)さんのライブラリ。
 - [fuppy0716/kyopro](https://github.com/fuppy0716/kyopro) ![GitHub stars](https://img.shields.io/github/stars/fuppy0716/kyopro?style=plastic) - [fuppy0716](https://atcoder.jp/users/fuppy0716)さんのライブラリ。
-- [ganyariya/library](https://github.com/ganyariya/library) ![GitHub Repo stars](https://img.shields.io/github/stars/ganyariya/library?style=plastic) - [ganyariya](https://atcoder.jp/users/ganyariya)さんのライブラリ。
+- [ganyariya/library](https://github.com/ganyariya/library) ![GitHub stars](https://img.shields.io/github/stars/ganyariya/library?style=plastic) - [ganyariya](https://atcoder.jp/users/ganyariya)さんのライブラリ。
 - [hamko/procon](https://github.com/hamko/procon) ![GitHub stars](https://img.shields.io/github/stars/hamko/procon?style=plastic) - [hamko](https://atcoder.jp/users/hamko)さんのライブラリ。問題の典型的な要素を可視化する試みが行われている。
 - [hiramekun/Algorithm](https://github.com/hiramekun/Algorithm) ![GitHub stars](https://img.shields.io/github/stars/hiramekun/Algorithm?style=plastic) - [hiramekun](https://atcoder.jp/users/hiramekun)さんのライブラリ。
 - [hoget157/library](https://github.com/hoget157/library) ![GitHub stars](https://img.shields.io/github/stars/hoget157/library?style=plastic) - [hoget157](https://atcoder.jp/users/hoget157)さんのライブラリ。
