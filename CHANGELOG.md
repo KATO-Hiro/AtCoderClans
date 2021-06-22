@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-06-22
+
+- [#2290](https://github.com/KATO-Hiro/AtCoderClans/pull/2290) - 記事「[競技プログラミング練習問題集](https://blog.hamayanhamayan.com/entry/2100/01/01/000000)」を追加。
+
 ### 2021-06-21
 
 - [#2287](https://github.com/KATO-Hiro/AtCoderClans/pull/2287) - [Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)ページのサブカテゴリ「競技プログラマーが現役引退を表明した記事」に、以下の記事を追加。
