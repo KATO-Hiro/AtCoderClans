@@ -15,9 +15,9 @@ filename: libraries
     - [ライブラリの内容に関連する記事](#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%81%AE%E5%86%85%E5%AE%B9%E3%81%AB%E9%96%A2%E9%80%A3%E3%81%99%E3%82%8B%E8%A8%98%E4%BA%8B)
     - [各言語コミュニティでの活動状況](#%E5%90%84%E8%A8%80%E8%AA%9E%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%81%A7%E3%81%AE%E6%B4%BB%E5%8B%95%E7%8A%B6%E6%B3%81)
     - [ACL C](#acl-c)
-    - [ACL C&#43;&#43;](#acl-c-1)
+    - [ACL C&&#035;43;&#43;](#acl-c43)
     - [ACL Crystal](#acl-crystal)
-    - [ACL C&#35;](#acl-c-2)
+    - [ACL C&&#035;35;](#acl-c35)
     - [ACL D](#acl-d)
     - [ACL Go](#acl-go)
     - [ACL Java](#acl-java)
@@ -28,8 +28,8 @@ filename: libraries
     - [ACL Ruby](#acl-ruby)
     - [ACL Rust](#acl-rust)
   - [複数の言語](#%E8%A4%87%E6%95%B0%E3%81%AE%E8%A8%80%E8%AA%9E)
-  - [C&#43;&#43;](#c)
-  - [C&#35;](#c-1)
+  - [C&&#035;43;&#43;](#c43)
+  - [C&&#035;35;](#c35)
   - [D](#d)
   - [Fortran](#fortran)
   - [FSharp](#fsharp)
@@ -161,7 +161,7 @@ filename: libraries
 - [ei1333/library](https://ei1333.github.io/library/) ![GitHub stars](https://img.shields.io/github/stars/ei1333/library?style=plastic) - [ei13333](https://atcoder.jp/users/ei13333)さんのライブラリ。
 - [fumiphys/programming_contest](https://github.com/fumiphys/programming_contest) ![GitHub stars](https://img.shields.io/github/stars/fumiphys/programming_contest?style=plastic) - [fumiphys](https://atcoder.jp/users/fumiphys)さんのライブラリ。
 - [fuppy0716/kyopro](https://github.com/fuppy0716/kyopro) ![GitHub stars](https://img.shields.io/github/stars/fuppy0716/kyopro?style=plastic) - [fuppy0716](https://atcoder.jp/users/fuppy0716)さんのライブラリ。
-- [Ganariya/library](https://ganariya.github.io/library/) ![GitHub stars](https://img.shields.io/github/stars/Ganariya/library?style=plastic) - [ganariya2525](https://atcoder.jp/users/ganariya2525)さんのライブラリ。
+- [ganyariya/library](https://github.com/ganyariya/library) ![GitHub stars](https://img.shields.io/github/stars/ganyariya/library?style=plastic) - [ganyariya](https://atcoder.jp/users/ganyariya)さんのライブラリ。
 - [hamko/procon](https://github.com/hamko/procon) ![GitHub stars](https://img.shields.io/github/stars/hamko/procon?style=plastic) - [hamko](https://atcoder.jp/users/hamko)さんのライブラリ。問題の典型的な要素を可視化する試みが行われている。
 - [hiramekun/Algorithm](https://github.com/hiramekun/Algorithm) ![GitHub stars](https://img.shields.io/github/stars/hiramekun/Algorithm?style=plastic) - [hiramekun](https://atcoder.jp/users/hiramekun)さんのライブラリ。
 - [hoget157/library](https://github.com/hoget157/library) ![GitHub stars](https://img.shields.io/github/stars/hoget157/library?style=plastic) - [hoget157](https://atcoder.jp/users/hoget157)さんのライブラリ。
