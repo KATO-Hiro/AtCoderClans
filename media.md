@@ -138,7 +138,7 @@ filename: media
 
 ### プログラミング言語の学習
 
-#### C&#43;&#43;
+#### CPlusPlus
 
 - [C++入門 AtCoder Programming Guide for beginners (APG4b)](https://atcoder.jp/contests/APG4b) - [AtCoder](https://atcoder.jp/)公式が提供する汎用的なプログラミングの基礎を学ぶための入門教材。また、知識の定着を図るための練習問題と自分で書いたプログラムを自動で採点してくれるシステムがあるのが大きな特徴。
 - [cpprefjp - C++日本語リファレンス](https://cpprefjp.github.io/) - C++のリファレンスを日本語で提供するWebサイト。サンプルコードも用意されている。
@@ -253,7 +253,7 @@ filename: media
 - [バグった原因集](https://motsu-xe.hatenablog.com/entry/2019/11/15/173514) - [Motsu_xe](https://atcoder.jp/users/Motsu_xe)さんによって、競技プログラミングにおけるバグの原因が一覧としてまとめられている。
 - [間違っているテストケースが見つけられないときの手法](https://sumatome.com/su/1294961358119739392) - [chokudai](https://twitter.com/chokudai)さんによる一連のツイートをまとめた記事。[ABC175-C問題](https://atcoder.jp/contests/abc175/tasks/abc175_c)を例に、間違っているテストケースを見つける方法が解説されている。併せて、[テストを自動化するツール](https://kato-hiro.github.io/AtCoderClans/cli)の導入についても前向きなコメントがされている。
 
-#### C&#43;&#43;
+#### CPlusPlus
 
 - [AtCoder 黄色の私が気を付けていること](https://ngtkana.hatenablog.com/entry/2019/07/15/002340) - C++での実装における工夫を紹介した記事。言語で用意されている機能を活用して、バグを埋め込みにくく、バグを埋め込んだとしても気付きやすく・直しやすくすることに重点が置かれているのが特徴。
 - [atcoder::lazy_segtreeに1行書き足すだけの抽象化 Segment Tree Beats](https://rsm9.hatenablog.com/entry/2021/02/01/220408) - [Segment tree beats (列に対する複雑な更新・取得処理を高速かつオンラインに実現する手法)](https://codeforces.com/blog/entry/57319)に対する知識はあるが、これから実装したい人を対象とした記事。[AtCoder Library (ACL)](https://github.com/atcoder/ac-library)の```atcoder::lazy_segtree```に1行追加するだけで実装できる。
@@ -272,7 +272,7 @@ filename: media
 - [Dinic法とその時間計算量](http://misawa.github.io/others/flow/dinic_time_complexity.html) - Dinic法(最大流問題を効率的に解くことができ、かつ、比較的実装が容易なアルゴリズム)について、標準的な実装方法を解説した記事。実装を間違えると、計算量が指数オーダーになることが指摘されている。
 - [任意modでの畳み込み演算をO(nlog(n))で](https://math314.hateblo.jp/entry/2015/05/07/014908) - 畳み込み演算を行うときに、任意のmodを使って高速に計算する方法・実装について解説した記事。
 
-#### C&#35;
+#### CSharp
 
 - [ハイパー LINQ集 (AtCoder 2020年4月)](https://avant-garde-code.hatenablog.com/entry/hyper-linq-atcoder-202004) - LINQを利用して簡潔に書ける例題を紹介した記事。
 - [JOI 2015 予選 財宝(Treasure) 解説 (with C#での定数倍高速化に関する知見)](https://fairy-lettuce.hatenadiary.com/entry/2020/11/11/174913) - [第14回日本情報オリンピック予選のF問題](https://atcoder.jp/contests/joi2015yo/tasks/joi2015yo_f)を題材に、C#における定数倍高速化の知見をまとめた記事。
