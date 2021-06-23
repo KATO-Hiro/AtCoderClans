@@ -6,6 +6,13 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-06-23
+
+- [#2299](https://github.com/KATO-Hiro/AtCoderClans/pull/2299) - C++で実装されたライブラリを追加。
+  - [kopricky/My-Algorithm](https://kopricky.github.io/index.html)
+- [#2297](https://github.com/KATO-Hiro/AtCoderClans/pull/2297) - 自動生成している目次に特殊文字が含まれていると、該当する見出しに移動できないことを確認。暫定的に特殊文字をアルファベット表記することで対処。
+- [#2295](https://github.com/KATO-Hiro/AtCoderClans/pull/2295) - リンク切れのライブラリを検出したため、新しいURLに修正。
+
 ### 2021-06-22
 
 - [#2290](https://github.com/KATO-Hiro/AtCoderClans/pull/2290) - 記事「[競技プログラミング練習問題集](https://blog.hamayanhamayan.com/entry/2100/01/01/000000)」を追加。
