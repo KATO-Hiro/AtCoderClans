@@ -160,6 +160,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_marathon_ranking.png" alt="atcoder marathon ranking">
   </div>
 
+- [AtCoder Marathon Rating History](https://iilj.github.io/AtCoderMarathonRatingHistory/#/rating/) - [AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=0&category=1200&keyword=AtCoder+Heuristic+Contest)のレーティングの推移を表示する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_marathon_rating_history.png" alt="atcoder marathon rating history">
+  </div>
+
 - [AtCoder Marathon Replay](https://iilj.github.io/AtCoderMarathonReplay/#/chart/) - 任意のユーザを対象として、参加したマラソン系コンテストの開始〜終了までの順位や得点の推移を表示する。
 
   <div align="center">
