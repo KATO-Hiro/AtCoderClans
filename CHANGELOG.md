@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-06-25
+
+- [#2307](https://github.com/KATO-Hiro/AtCoderClans/pull/2307) - Webアプリ「[AtCoder Marathon Rating History](https://iilj.github.io/AtCoderMarathonRatingHistory/#/rating/)」を追加。
+
 ### 2021-06-24
 
 - [#2302](https://github.com/KATO-Hiro/AtCoderClans/pull/2302) - 記事「[エラトステネスの篩の活用法を総特集！ 〜高速素因数分解・メビウスの反転公式〜](https://qiita.com/drken/items/3beb679e54266f20ab63)」を追加。
