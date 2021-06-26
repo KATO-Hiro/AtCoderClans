@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-06-26
+
+- [#2315](https://github.com/KATO-Hiro/AtCoderClans/pull/2315), [#2317](https://github.com/KATO-Hiro/AtCoderClans/pull/2317) - 以下の記事を追加。
+  - [AtCoder版！マスター・オブ・整数 (素因数分解編)](https://qiita.com/drken/items/a14e9af0ca2d857dad23)
+  - [AtCoder版！マスター・オブ・整数 (最大公約数編)](https://qiita.com/drken/items/0c88a37eec520f82b788)
+
 ### 2021-06-25
 
 - [#2307](https://github.com/KATO-Hiro/AtCoderClans/pull/2307) - Webアプリ「[AtCoder Marathon Rating History](https://iilj.github.io/AtCoderMarathonRatingHistory/#/rating/)」を追加。
