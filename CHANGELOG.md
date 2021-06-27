@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-06-27
+
+- [#2320](https://github.com/KATO-Hiro/AtCoderClans/pull/2320) - 記事「[数学得意じゃない系の社会人エンジニアに競プロとAtCoderを全力で布教したい。あるいは競プロのよくある誤解と楽しむコツ](https://note.com/kirimin_chan/n/n821560df3165)」を追加。
+
 ### 2021-06-26
 
 - [#2315](https://github.com/KATO-Hiro/AtCoderClans/pull/2315), [#2317](https://github.com/KATO-Hiro/AtCoderClans/pull/2317) - 以下の記事を追加。
