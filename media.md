@@ -64,6 +64,7 @@ filename: media
 ### 入門者、初心者向けの記事
 
 - [初心者こそ、競技プログラミングに挑戦してほしい。髙橋直大の「世界にAtCoderを広める」という夢](https://persol-tech-s.co.jp/i-engineer/human/atcoder) - [AtCoder](https://atcoder.jp/)社長の[chokudai](https://twitter.com/chokudai)さんが、プログラミング初心者に競技プログラミングを勧めている記事。また、同氏がプログラミングと出会ったきっかけ・競技プログラミングの魅力・会社設立に至った経緯なども語られている。
+- [数学得意じゃない系の社会人エンジニアに競プロとAtCoderを全力で布教したい。あるいは競プロのよくある誤解と楽しむコツ](https://note.com/kirimin_chan/n/n821560df3165) - [kirimin](https://atcoder.jp/users/kirimin)さんが、社会人エンジニアに競技プログラミングを勧めている記事。自身の経験から、競技プログラミングの面白さ、コンテストの出題傾向、心構え(レーティングとの付き合い方、業務で求められる知識との違い)などを紹介している。
 - [アルゴリズムとは何か！？ ～ 文系理系問わず楽しめる精選6問 ～](https://qiita.com/drken/items/f909b79ee03e679c7142) - [drken](https://atcoder.jp/users/drken)さんによる記事。アルゴリズムとは何か?という疑問に対して、平易で分かりやすい文章と図表を駆使して解説されている。また、アルゴリズムを学ぶ意義・メリットについても書かれている。
 - [AtCoderに登録したら次にやること ～ これだけ解けば十分闘える！過去問精選10問 ～](https://qiita.com/drken/items/fd4e5e3630d0f5859067) - [drken](https://atcoder.jp/users/drken)さんによる、[AtCoder](https://atcoder.jp/)のコンテストに初めて参加する方に向けた精選10問。さまざまな言語による解答例のリンクなどの資料も充実している。
 
