@@ -340,6 +340,7 @@ filename: media
 - [競技プログラミングの生産性向上についてとその方法【AtCoder】](https://qiita.com/Kota-Y/items/0f3b9206516fe426188a) - コンテストで高い順位を目指す、練習では実力を高めるために多くの問題を解くという観点から方法論や便利ツールを紹介した記事。
 - [競プロの精進の質を上げたい！ ~問題との向き合い方~](https://qiita.com/AIris_Solid/items/e9e1817f13e8d15b55ad) - 普段の練習の質を高めることに注目した記事。問題を解く力を知識量・考察力・実装力の3つに分解して、それぞれ観点から必要なことがまとめられている。
 - [精進について](https://kyopro-friends.hatenablog.com/entry/2020/02/03/202835) - [kyopro_friends](https://atcoder.jp/users/kyopro_friends)さんの練習に対する考え方や方法について書かれた記事。
+- [早解きをするために大切なスキルとそれらの身に付け方について](https://twitter.com/e869120/status/1408803727415255045) - 問題を解く過程を3つに分けて、それぞれのスキルを高める方法と不正解を減らす工夫について紹介されている。
 - [PythonでAtCoder青になるまで -Pythonで競プロやるときに気をつけること-](https://qiita.com/Kentaro_okumura/items/a6917572756a2e3c0da9) - コンテストでPythonを利用している人に向けた練習方法が書かれている。他の言語を使っている人にも参考になる部分が多い。
 - [rng_58さんがオススメする学習方法](https://twitter.com/rng_58/status/1238824295230361600) - [rng_58](https://twitter.com/rng_58)さんが、問題を楽に解くための方針を身につける方法についてコメントしている。
 - [rng問題](https://docs.google.com/spreadsheets/d/1-dwOvCUGF7ITCYXg2LUFo0YqvZc7PTNX3jz1USuXuBE/edit#gid=0) - [rng_58](https://twitter.com/rng_58)さんが作成した問題の難易度を[Topcoder](https://www.topcoder.com/)の基準で点数化している。また、有志によって難易度の評価やおすすめ問題の投票が行われている。
