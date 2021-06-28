@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-06-28
+
+- [#2326](https://github.com/KATO-Hiro/AtCoderClans/pull/2326) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、「[早解きをするために大切なスキルとそれらの身に付け方について](https://twitter.com/e869120/status/1408803727415255045)」を追加。
+- [#2325](https://github.com/KATO-Hiro/AtCoderClans/pull/2325) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2000から2399まで(黄色)に[amentorimaru](https://atcoder.jp/users/amentorimaru)さんの[記事](https://amentorimaru.hatenablog.com/entry/2021/06/25/215100)を追加。
+
 ### 2021-06-27
 
 - [#2320](https://github.com/KATO-Hiro/AtCoderClans/pull/2320) - 記事「[数学得意じゃない系の社会人エンジニアに競プロとAtCoderを全力で布教したい。あるいは競プロのよくある誤解と楽しむコツ](https://note.com/kirimin_chan/n/n821560df3165)」を追加。
