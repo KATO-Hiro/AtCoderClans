@@ -82,6 +82,10 @@ filename: index
 
 [Contact](https://kato-hiro.github.io/AtCoderClans/contact) - 本サイト運営者の連絡先です。
 
+## 最新情報のお知らせ
+
+毎週水曜日の18:30〜19:30に、[Twitter](https://twitter.com/atcoderclans)でお届けする予定です。
+
 ## ご要望、ご報告、お気付きの点などについて
 
 新しいサービス・ツールなどを公開した場合や見つけた場合の情報提供、カテゴリや説明の加筆・修正案を歓迎しています。この他にも、誤字脱字やリンク切れなどのご報告も大変ありがたいと考えています。
