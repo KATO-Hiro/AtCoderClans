@@ -6,8 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
-### 2021-06-29
+### 2021-06-30
 
+- [#2340](https://github.com/KATO-Hiro/AtCoderClans/pull/2340) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」に、動画「[プログラミング学習の救世主？任天堂の“絶対に挫折させない”プログラミングゲームvs片渕アナ【理系通信】（2021年6月30日）](https://www.youtube.com/watch?v=Z9ki00Z5SWg)」を追加。
+- [#2338](https://github.com/KATO-Hiro/AtCoderClans/pull/2338) - 拙サイトの最新情報をお届けするための[告知専用アカウント](https://twitter.com/atcoderclans)を追加。
+
+### 2021-06-29
 
 - [#2331](https://github.com/KATO-Hiro/AtCoderClans/pull/2331) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
   - レーティング400から799まで(茶色)に[DY811](https://atcoder.jp/users/DY811)さんの[記事](https://mountkoara.hatenablog.com/entry/2021/06/29/Python%E6%9C%AA%E7%B5%8C%E9%A8%93%E3%81%8B%E3%82%89AtCoder%E8%8C%B6%E8%89%B2%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%82%88%EF%BC%81)を追加。
