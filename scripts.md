@@ -331,6 +331,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/highlight_atcoder_contest_not_2100.png" alt="highlight atcoder contest not 2100">
   </div>
 
+- [atcoder-typical90-sort](https://greasyfork.org/ja/scripts/428698-atcoder-typical90-sort) - 「[競プロ典型90問](https://atcoder.jp/contests/typical90)」の問題を、難易度が低い順に並び替える。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_typical90_sort.png" alt="atcoder typical90 sort">
+  </div>
+
 - [perf on standings](https://greasyfork.org/en/scripts/422106-perf-on-standings) - 「順位表」ページで、Rated対象者の順位をパフォーマンス値に対応した色で塗る。
 
   <div align="center">
