@@ -323,6 +323,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_traffic_light.png" alt="snuke? smeke?">
   </div>
 
+- [atcoder-typical90-sort](https://greasyfork.org/ja/scripts/428698-atcoder-typical90-sort) - 「[競プロ典型90問](https://atcoder.jp/contests/typical90)」の問題を、難易度が低い順に並び替える。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_typical90_sort.png" alt="atcoder typical90 sort">
+  </div>
+
 - [AtCoderタイマー削除](https://greasyfork.org/ja/scripts/393176-calmatcoder) - コンテストが開催されている間のみ、タイマーを非表示にする。
 
 - [HighlightAtCoderContestNot2100](https://greasyfork.org/en/scripts/426911-highlightatcodercontestnot2100) - レーティングの変動があるコンテストのうち、開始時間が21時でない場合に赤字で強調する。
