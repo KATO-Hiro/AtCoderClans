@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-01
+
+- [#2346](https://github.com/KATO-Hiro/AtCoderClans/pull/2346) - ユーザスクリプト「[atcoder-typical90-sort](https://greasyfork.org/ja/scripts/428698-atcoder-typical90-sort)」を追加。
+
 ### 2021-06-30
 
 - [#2340](https://github.com/KATO-Hiro/AtCoderClans/pull/2340) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」に、動画「[プログラミング学習の救世主？任天堂の“絶対に挫折させない”プログラミングゲームvs片渕アナ【理系通信】（2021年6月30日）](https://www.youtube.com/watch?v=Z9ki00Z5SWg)」を追加。
