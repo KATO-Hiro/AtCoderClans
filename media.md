@@ -29,6 +29,7 @@ filename: media
     - [特定の言語に依存しない内容](#%E7%89%B9%E5%AE%9A%E3%81%AE%E8%A8%80%E8%AA%9E%E3%81%AB%E4%BE%9D%E5%AD%98%E3%81%97%E3%81%AA%E3%81%84%E5%86%85%E5%AE%B9)
     - [CPlusPlus](#cplusplus-1)
     - [CSharp](#csharp)
+    - [dc](#dc)
     - [Python](#python-1)
     - [Ruby](#ruby)
     - [Rust](#rust-1)
