@@ -29,6 +29,7 @@ filename: media
     - [特定の言語に依存しない内容](#%E7%89%B9%E5%AE%9A%E3%81%AE%E8%A8%80%E8%AA%9E%E3%81%AB%E4%BE%9D%E5%AD%98%E3%81%97%E3%81%AA%E3%81%84%E5%86%85%E5%AE%B9)
     - [CPlusPlus](#cplusplus-1)
     - [CSharp](#csharp)
+    - [dc](#dc)
     - [Python](#python-1)
     - [Ruby](#ruby)
     - [Rust](#rust-1)
@@ -280,6 +281,10 @@ filename: media
 
 - [ハイパー LINQ集 (AtCoder 2020年4月)](https://avant-garde-code.hatenablog.com/entry/hyper-linq-atcoder-202004) - LINQを利用して簡潔に書ける例題を紹介した記事。
 - [JOI 2015 予選 財宝(Treasure) 解説 (with C#での定数倍高速化に関する知見)](https://fairy-lettuce.hatenadiary.com/entry/2020/11/11/174913) - [第14回日本情報オリンピック予選のF問題](https://atcoder.jp/contests/joi2015yo/tasks/joi2015yo_f)を題材に、C#における定数倍高速化の知見をまとめた記事。
+
+#### dc
+
+- [AtCoderのABCのA問題でdcで書きやすいものまとめ](https://qiita.com/shogo314/items/fff4be1573d2f86dba2a) - AtCoder Beginner Contest 100までのA問題を対象として、各問題の解答の方針がまとめられている。
 
 #### Python
 
