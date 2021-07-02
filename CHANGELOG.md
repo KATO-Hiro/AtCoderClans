@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-02
+
+- [#2351](https://github.com/KATO-Hiro/AtCoderClans/pull/2351) - 記事「[AtCoderのABCのA問題でdcで書きやすいものまとめ](https://qiita.com/shogo314/items/fff4be1573d2f86dba2a)」を追加。
+- [#2350](https://github.com/KATO-Hiro/AtCoderClans/pull/2350) - 記事「[AtCoder Beginner ContestのA問題の最短コードを読む（旧）](https://qiita.com/kotatsugame/items/184bfd63d9b21f214475)」を追加。
+
 ### 2021-07-01
 
 - [#2346](https://github.com/KATO-Hiro/AtCoderClans/pull/2346) - ユーザスクリプト「[atcoder-typical90-sort](https://greasyfork.org/ja/scripts/428698-atcoder-typical90-sort)」を追加。
