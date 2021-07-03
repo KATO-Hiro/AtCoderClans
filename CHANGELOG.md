@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-03
+
+- [#2355](https://github.com/KATO-Hiro/AtCoderClans/pull/2355) - [競プロ典型90問](https://twitter.com/e869120/status/1376089196100653060)に、有志によるPythonでの実装例を追加。
+  - [ryusuke920/kyopro_educational_90_python](https://github.com/ryusuke920/kyopro_educational_90_python) 
+
 ### 2021-07-02
 
 - [#2351](https://github.com/KATO-Hiro/AtCoderClans/pull/2351) - 記事「[AtCoderのABCのA問題でdcで書きやすいものまとめ](https://qiita.com/shogo314/items/fff4be1573d2f86dba2a)」を追加。
