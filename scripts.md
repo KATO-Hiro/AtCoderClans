@@ -123,6 +123,8 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_result_notifier.gif" alt="atcoder result notifier">
   </div>
 
+- [AtCoder Standings Watcher](https://greasyfork.org/ja/scripts/428862-atcoder-standings-watcher) - コンテスト中に、お気に入りに登録したユーザの正誤情報を通知する。
+
 ### ショートカットによる効率化
 
 - [Add Shortest Tab](https://greasyfork.org/ja/scripts/391692-add-shortest-tab) - 開いている問題について、コード長に並べた提出ページのタブを追加する。コンテスト中の利用は非推奨。
