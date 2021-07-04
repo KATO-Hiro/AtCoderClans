@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-04
+
+- [#2359](https://github.com/KATO-Hiro/AtCoderClans/pull/2359) - ユーザスクリプト「[AtCoder Standings Watcher](https://greasyfork.org/ja/scripts/428862-atcoder-standings-watcher)」を追加。
+
 ### 2021-07-03
 
 - [#2355](https://github.com/KATO-Hiro/AtCoderClans/pull/2355) - [競プロ典型90問](https://twitter.com/e869120/status/1376089196100653060)に、有志によるPythonでの実装例を追加。
