@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-05
+
+- [#2361](https://github.com/KATO-Hiro/AtCoderClans/pull/2361), [#2362](https://github.com/KATO-Hiro/AtCoderClans/pull/2362) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの2021年5月分を[月別のアーカイブ](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2021_05.md)に移動。
+
 ### 2021-07-04
 
 - [#2359](https://github.com/KATO-Hiro/AtCoderClans/pull/2359) - ユーザスクリプト「[AtCoder Standings Watcher](https://greasyfork.org/ja/scripts/428862-atcoder-standings-watcher)」を追加。
