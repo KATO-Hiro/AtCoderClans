@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-06
+
+- [#2368](https://github.com/KATO-Hiro/AtCoderClans/pull/2368) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング800から1199まで(緑色)に[shinsatt](https://atcoder.jp/users/shinsatt)さんの[記事](https://zenn.dev/shinsatt/articles/81a926fe88987f)を追加。
+
 ### 2021-07-05
 
 - [#2361](https://github.com/KATO-Hiro/AtCoderClans/pull/2361), [#2362](https://github.com/KATO-Hiro/AtCoderClans/pull/2362) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの2021年5月分を[月別のアーカイブ](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2021_05.md)に移動。
