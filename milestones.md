@@ -46,6 +46,7 @@ filename: milestones
 - [AtCoderでついに入緑しました！！！](https://ryusuke920.hatenablog.jp/entry/2021/04/18/170331) - [ryusuke_h](https://atcoder.jp/users/ryusuke_h)さんが、2021年4月17日に達成。
 - [【AtCoder】入緑しました！！！ - shuのブログ](https://shu8cream.hatenablog.com/entry/2021/04/24/120002) - [shu8Cream](https://atcoder.jp/users/shu8Cream)さんが、2021年4月18日に達成。
 - [～AtCoderで緑Ratingになりました～](https://qiita.com/rute_not_route/items/c8b4f2251fdd852d29a0) - [Rute](https://atcoder.jp/users/Rute)さんが、2021年5月30日に達成。
+- [30代プログラミング初心者がAtCoderで緑色になった所感](https://zenn.dev/shinsatt/articles/81a926fe88987f) - [shinsatt](https://atcoder.jp/users/shinsatt)さんが、2021年7月4日に達成。
 
 ### レーティング1200から1599まで(水色)
 
