@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-07
+
+- [#2371](https://github.com/KATO-Hiro/AtCoderClans/pull/2371) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング800から1199まで(緑色)に[kaede2020](https://atcoder.jp/users/kaede2020)さんの[記事](https://kaede2020.hatenablog.com/entry/2021/07/07/134334)を追加。
+
 ### 2021-07-06
 
 - [#2368](https://github.com/KATO-Hiro/AtCoderClans/pull/2368) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
