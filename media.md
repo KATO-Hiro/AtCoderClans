@@ -494,7 +494,7 @@ filename: media
 - [どきんちゃんねる](https://www.youtube.com/channel/UCRtRY2sRe36LXjaiyhqEqCg) - [dokin](https://atcoder.jp/users/dokin)さんのチャンネル。入門者・初心者向けに、問題の考察・C++での実装過程が丁寧に解説されている。
 - [ナス太郎](https://www.youtube.com/channel/UCs7sxmQBTBqtuGzsEWCUupQ) - [DFNasutarou](https://atcoder.jp/users/DFNasutarou)さんのチャンネル。1問あたり15分以内で解き続ける動画などが公開されている。
 - [ななみつき](https://www.youtube.com/playlist?list=PLKs3DZp2szRMAHKnNg2ZlIhW9uXfBQg6a) - [Nanamitsuki](https://atcoder.jp/users/Nanamitsuki)さんのチャンネル。コンテストの過去問を解く動画などが公開されている。
-- [浜ぬる](https://www.youtube.com/channel/UC_Fm2rtPE76XeuO-00I33cA/featured) - [hamanuru](https://twitter.com/hamanuru)さんのチャンネル。コンテストの過去問を解く動画などが公開されている。
+- [浜ぬる](https://www.youtube.com/channel/UC_Fm2rtPE76XeuO-00I33cA/featured) - [hamanuru](https://twitter.com/hamanuru)さんのチャンネル。コンテストの過去問を解く動画が公開されている。
 - [文月このは](https://www.youtube.com/playlist?list=PLhu1EKNfmGwS75JjK2YeMRm9AVcubN0WO) - [kono_july](https://atcoder.jp/users/kono_july)さんのチャンネル。コンテストの過去問を解く動画などが公開されている。
 
 ### 感想会、講座、講演、対談
