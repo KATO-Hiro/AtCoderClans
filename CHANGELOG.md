@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-08
+
+- [#2376](https://github.com/KATO-Hiro/AtCoderClans/pull/2376) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、VTuberのチャンネルを追加。
+  - [浜ぬる](https://www.youtube.com/channel/UC_Fm2rtPE76XeuO-00I33cA/featured)
+
 ### 2021-07-07
 
 - [#2371](https://github.com/KATO-Hiro/AtCoderClans/pull/2371) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
