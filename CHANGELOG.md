@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-09
+
+- [#2376](https://github.com/KATO-Hiro/AtCoderClans/pull/2376) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、[rng_58](https://twitter.com/rng_58)さん直伝の練習方法を共有したツイートを追加。
+  - [AtCoder Beginner Contest (ABC)を中心とした練習方法](https://twitter.com/kyopro_dekomor2/status/1412385847974895620)
+
 ### 2021-07-08
 
 - [#2376](https://github.com/KATO-Hiro/AtCoderClans/pull/2376) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、VTuberのチャンネルを追加。
