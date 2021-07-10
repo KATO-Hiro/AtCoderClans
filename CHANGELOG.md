@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-10
+
+- [#2382](https://github.com/KATO-Hiro/AtCoderClans/pull/2382) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページに、「[proof_assistant](https://github.com/kotatsugame/proof_assistant)」を追加。
+
 ### 2021-07-09
 
 - [#2376](https://github.com/KATO-Hiro/AtCoderClans/pull/2376) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、[rng_58](https://twitter.com/rng_58)さん直伝の練習方法を共有したツイートを追加。
