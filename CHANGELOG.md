@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-11
+
+- [#2385](https://github.com/KATO-Hiro/AtCoderClans/issues/2385) - ユーザスクリプト「[AtCoderAverageResult](https://greasyfork.org/ja/scripts/429155-atcoderaverageresult)」を追加。
+
 ### 2021-07-10
 
 - [#2382](https://github.com/KATO-Hiro/AtCoderClans/pull/2382) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページに、「[proof_assistant](https://github.com/kotatsugame/proof_assistant)」を追加。
