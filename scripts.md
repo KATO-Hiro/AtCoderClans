@@ -54,6 +54,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/ac_writers_script.png" alt="ac writers script">
   </div>
 
+- [AtCoderAverageResult](https://greasyfork.org/ja/scripts/429155-atcoderaverageresult) - 「提出結果」ページで、テストケースの実行時間・使用メモリの平均値をそれぞれ表示する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_average_result.png" alt="atcoder average result">
+  </div>
+
 - [AtCoderColorStandings](https://greasyfork.org/ja/scripts/423713-atcodercolorstandings) - 「順位表」ページと「バーチャル順位表」ページで、コンテスト参加者のレーティング別正解率を表示する。注: コンテスト中にSNSでの言及や投稿は避ける。
 
   <div align="center">
