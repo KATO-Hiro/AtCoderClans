@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-12
+
+- [#2391](https://github.com/KATO-Hiro/AtCoderClans/pull/2391) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページの[競プロ典型90問](https://twitter.com/e869120/status/1376089196100653060)の説明文に、[企画レポート 〜104日間の軌跡〜](https://drive.google.com/file/d/1YCRma2mD79njHtP88_FiB9ozdhnfEfpz/view)を追加。
+
 ### 2021-07-11
 
 - [#2385](https://github.com/KATO-Hiro/AtCoderClans/issues/2385) - ユーザスクリプト「[AtCoderAverageResult](https://greasyfork.org/ja/scripts/429155-atcoderaverageresult)」を追加。
