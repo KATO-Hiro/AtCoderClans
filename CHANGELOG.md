@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-14
+
+- [#2406](https://github.com/KATO-Hiro/AtCoderClans/pull/2406) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページの[競プロ典型90問](https://twitter.com/e869120/status/1376089196100653060)の説明文に、[表彰式・閉会式](https://www.youtube.com/watch?v=CIuTD1Igo1M)を追加。
+
 ### 2021-07-13
 
 - [#2397](https://github.com/KATO-Hiro/AtCoderClans/pull/2397) - 記事「[AtCoder座談会 - deepblue](https://deepblue-ts.co.jp/competition/atcoder_symposium/)」を追加。
