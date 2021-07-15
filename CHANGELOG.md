@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-15
+
+- [#2409](https://github.com/KATO-Hiro/AtCoderClans/pull/2409) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、スライド資料「[私と競プロと教育活動（Qiita Night LT 資料）](https://www.slideshare.net/MasatakaYoneda/qiita-night-lt)」を追加。
+
 ### 2021-07-14
 
 - [#2406](https://github.com/KATO-Hiro/AtCoderClans/pull/2406) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページの[競プロ典型90問](https://twitter.com/e869120/status/1376089196100653060)の説明文に、[表彰式・閉会式](https://www.youtube.com/watch?v=CIuTD1Igo1M)を追加。
