@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-17
+
+- [#2418](https://github.com/KATO-Hiro/AtCoderClans/pull/2418) - ユーザスクリプト「[AtCoder Editorial for Typical90](https://greasyfork.org/ja/scripts/427584-atcoder-editorial-for-typical90)」の仕様変更に伴い、説明文とイメージ図を修正。
+- [#2417](https://github.com/KATO-Hiro/AtCoderClans/pull/2417) - ユーザスクリプト「[AC Problems Ranking Colorizer](https://greasyfork.org/ja/scripts/429485-ac-problems-ranking-colorizer)」を追加。
+
 ### 2021-07-16
 
 - [#2411](https://github.com/KATO-Hiro/AtCoderClans/pull/2411) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、コンテストサイト「[入試数学コンテスト](https://manabitimes.jp/tests)」を追加。
