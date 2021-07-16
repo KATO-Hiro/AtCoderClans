@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-16
+
+- [#2411](https://github.com/KATO-Hiro/AtCoderClans/pull/2411) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、コンテストサイト「[入試数学コンテスト](https://manabitimes.jp/tests)」を追加。
+
 ### 2021-07-15
 
 - [#2409](https://github.com/KATO-Hiro/AtCoderClans/pull/2409) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、スライド資料「[私と競プロと教育活動（Qiita Night LT 資料）](https://www.slideshare.net/MasatakaYoneda/qiita-night-lt)」を追加。
