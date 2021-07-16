@@ -25,6 +25,7 @@ filename: related_contest_sites
 - [MAO (Markov Algorithm Online)](#mao-markov-algorithm-online)
 - [MORP (Math Olympiad Rating Project)](#morp-math-olympiad-rating-project)
 - [New Year's Puzzles](#new-years-puzzles)
+- [入試数学コンテスト](#%E5%85%A5%E8%A9%A6%E6%95%B0%E5%AD%A6%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88)
 - [OMC (OnlineMathContest)](#omc-onlinemathcontest)
 - [Shitforces](#shitforces)
 - [Topcoder](#topcoder)
