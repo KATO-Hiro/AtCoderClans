@@ -371,6 +371,12 @@ filename: scripts
 
 #### 非公式サービス、ツール、外部サービスなど
 
+- [AC Problems Ranking Colorizer](https://greasyfork.org/ja/scripts/429485-ac-problems-ranking-colorizer) - [AtCoder Problems](https://kenkoooo.com/atcoder/) のランキングページで、ユーザ名をAtCoderのレーティングに対応した色に変更する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/ac_problems_ranking_colorizer.png" alt="ac problems ranking colorizer">
+  </div>
+
 - [AtCoder Problems Marker](https://greasyfork.org/ja/scripts/395711-atcoder-problems-marker) - [AtCoder Problems](https://kenkoooo.com/atcoder/) で表示される問題に、ユーザが独自のマーカー(解説ACなど)を付けられるようにする。
 
   <div align="center">
