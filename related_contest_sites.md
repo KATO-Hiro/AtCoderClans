@@ -25,6 +25,7 @@ filename: related_contest_sites
 - [MAO (Markov Algorithm Online)](#mao-markov-algorithm-online)
 - [MORP (Math Olympiad Rating Project)](#morp-math-olympiad-rating-project)
 - [New Year's Puzzles](#new-years-puzzles)
+- [入試数学コンテスト](#%E5%85%A5%E8%A9%A6%E6%95%B0%E5%AD%A6%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88)
 - [OMC (OnlineMathContest)](#omc-onlinemathcontest)
 - [Shitforces](#shitforces)
 - [Topcoder](#topcoder)
@@ -214,6 +215,14 @@ filename: related_contest_sites
 
   <div align="center">
     <img loading = "lazy" src="images/related_contest_sites/nyp/new_year's_puzzles.png" alt="new year's puzzles">
+  </div>
+
+### 入試数学コンテスト
+
+- [入試数学コンテスト](https://manabitimes.jp/tests) - 数学の入試対策ができるコンテストサイト。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/math_test/math_test.png" alt="math test">
   </div>
 
 ### OMC (OnlineMathContest)
