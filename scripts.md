@@ -161,7 +161,7 @@ filename: scripts
 
 - [AtCoder dos2unix UserScript](https://greasyfork.org/ja/scripts/372122-atcoder-dos2unix-userscript) - 改行コードをCRLFからLFに変換して、コードを提出する。
 
-- [AtCoder Editorial for Typical90](https://greasyfork.org/ja/scripts/427584-atcoder-editorial-for-typical90) - 「[競プロ典型 90 問](https://atcoder.jp/contests/typical90)」に解説タブを追加し、[GitHub](https://github.com/E869120/kyopro_educational_90)で公開されている問題の解説・想定ソースコードなどのリンクを表示する。また、新着タブで、最新の問題とサンプルへのリンクを表示している。
+- [AtCoder Editorial for Typical90](https://greasyfork.org/ja/scripts/427584-atcoder-editorial-for-typical90) - 「[競プロ典型 90 問](https://atcoder.jp/contests/typical90)」に解説タブを追加し、[GitHub](https://github.com/E869120/kyopro_educational_90)で公開されている問題の解説・想定ソースコードなどのリンクを表示する。
 
   <div align="center">
     <img loading = "lazy" src="images/userscript/atcoder_editorial_for_typical90.png" alt="atcoder editorial for typical90">
