@@ -216,6 +216,14 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/nyp/new_year's_puzzles.png" alt="new year's puzzles">
   </div>
 
+### 入試数学コンテスト
+
+- [入試数学コンテスト](https://manabitimes.jp/tests) - 数学の入試対策ができるコンテストサイト。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/math_test/math_test.png" alt="math test">
+  </div>
+
 ### OMC (OnlineMathContest)
 
 - [OMC problems](https://rusa6111.github.io/OMCproblems/) - [OnlineMathContest](https://onlinemathcontest.com/)で開催されたコンテストの問題一覧を確認できる。ベータ版。
