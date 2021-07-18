@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-18
+
+- [#2423](https://github.com/KATO-Hiro/AtCoderClans/pull/2423) - 記事「[競プロのアルゴリズム関連略称まとめ](https://noshi91.hatenablog.com/entry/2020/02/19/200656)」を追加。
+
 ### 2021-07-17
 
 - [#2418](https://github.com/KATO-Hiro/AtCoderClans/pull/2418) - ユーザスクリプト「[AtCoder Editorial for Typical90](https://greasyfork.org/ja/scripts/427584-atcoder-editorial-for-typical90)」の仕様変更に伴い、説明文とイメージ図を修正。
