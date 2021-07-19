@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-19
+
+- [#2427](https://github.com/KATO-Hiro/AtCoderClans/pull/2427) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2800以上(赤色、銅王冠、銀王冠、金王冠)に[kotatsugame](https://atcoder.jp/users/kotatsugame)さんの[記事](https://kotatsugame.hatenablog.com/entry/2021/07/19/074506)を追加。
+
 ### 2021-07-18
 
 - [#2423](https://github.com/KATO-Hiro/AtCoderClans/pull/2423) - 記事「[競プロのアルゴリズム関連略称まとめ](https://noshi91.hatenablog.com/entry/2020/02/19/200656)」を追加。
