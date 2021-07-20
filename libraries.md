@@ -261,6 +261,7 @@ filename: libraries
 
 - [chaemon/library-nim](https://github.com/chaemon/library-nim) ![GitHub stars](https://img.shields.io/github/stars/chaemon/library-nim?style=plastic) - [chaemon](https://atcoder.jp/users/chaemon)さんのライブラリ。
 - [Muratam/yukicoder-nim](https://github.com/Muratam/yukicoder-nim) ![GitHub Repo stars](https://img.shields.io/github/stars/Muratam/yukicoder-nim?style=plastic) - [murata](https://atcoder.jp/users/murata)さんのライブラリ。
+- [soraiemame/expander](https://github.com/soraiemame/expander) ![GitHub Repo stars](https://img.shields.io/github/stars/soraiemame/expander?style=plastic) - [oj-bundle](https://github.com/online-judge-tools/verification-helper#autoexpansion-of-includes)のNim版。
 
 ### Node.js
 
