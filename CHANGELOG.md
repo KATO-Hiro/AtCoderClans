@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-20
+
+- [#2431](https://github.com/KATO-Hiro/AtCoderClans/pull/2431) - 「[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)」ページに、「[soraiemame/expander](https://github.com/soraiemame/expander)」を追加。
+
 ### 2021-07-19
 
 - [#2427](https://github.com/KATO-Hiro/AtCoderClans/pull/2427) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
