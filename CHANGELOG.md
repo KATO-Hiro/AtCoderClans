@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-21
+
+- [#2435](https://github.com/KATO-Hiro/AtCoderClans/pull/2435) - 「[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)」ページで掲載している[AtCoder Library (ACL)](https://atcoder.jp/posts/517)の説明に、[更新履歴](https://atcoder.jp/contests/language-test-202001)へのリンクを追加。
+
 ### 2021-07-20
 
 - [#2431](https://github.com/KATO-Hiro/AtCoderClans/pull/2431) - 「[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)」ページに、「[soraiemame/expander](https://github.com/soraiemame/expander)」を追加。
