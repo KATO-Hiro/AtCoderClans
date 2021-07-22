@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-22
+
+- [#2442](https://github.com/KATO-Hiro/AtCoderClans/pull/2442) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング800から1199まで(緑色)に[MDMA](https://atcoder.jp/users/MDMA)さんの[記事](https://mdrm1rou.hatenablog.com/entry/2021/07/12/013644)を追加。
+
 ### 2021-07-21
 
 - [#2435](https://github.com/KATO-Hiro/AtCoderClans/pull/2435) - 「[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)」ページで掲載している[AtCoder Library (ACL)](https://atcoder.jp/posts/517)の説明に、[更新履歴](https://atcoder.jp/contests/language-test-202001)へのリンクを追加。
