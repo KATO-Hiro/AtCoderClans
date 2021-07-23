@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-23
+
+- [#2447](https://github.com/KATO-Hiro/AtCoderClans/pull/2447) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング800から1199まで(緑色)に[imuraya](https://atcoder.jp/users/imuraya)さんの[記事](https://imuraya.hatenablog.com/entry/2020/12/10/000842)を追加。
+
 ### 2021-07-22
 
 - [#2442](https://github.com/KATO-Hiro/AtCoderClans/pull/2442) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
