@@ -523,6 +523,7 @@ filename: media
 ## ニコニコ動画
 
 - [AtCoder 参加してみた！【ゆっくり実況】](https://www.nicovideo.jp/series/140853) - [checheche](https://atcoder.jp/users/checheche)さんのコンテスト参加日記。
+- [崖っぷち黄色コーダーゆかりの精進記録](https://www.nicovideo.jp/series/163715?ref=pc_watch_description_series) - [koikotya](https://atcoder.jp/users/koikotya)さんが、コンテスト当日の様子と各問題の考察を紹介している動画。
 
 ## 番組アーカイブ
 
