@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-25
+
+- [#2460](https://github.com/KATO-Hiro/AtCoderClans/pull/2460) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2000から2399まで(黄色)に[N_hara](https://atcoder.jp/users/N_hara)さんの[記事](https://n-hara.hatenablog.com/entry/2021/07/25/172540)を追加。
+
 ### 2021-07-24
 
 - [#2455](https://github.com/KATO-Hiro/AtCoderClans/pull/2455) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページのサブカテゴリ[ニコニコ動画](https://kato-hiro.github.io/AtCoderClans/media#%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3%E5%8B%95%E7%94%BB)に動画を追加。
