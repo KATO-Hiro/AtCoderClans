@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-26
+
+- [#2466](https://github.com/KATO-Hiro/AtCoderClans/pull/2466) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[ReiVindicatio](https://atcoder.jp/users/ReiVindicatio)さんの[記事](https://elegy-wedh133.hatenablog.com/entry/2021/07/26/132520)を追加。
+
 ### 2021-07-25
 
 - [#2460](https://github.com/KATO-Hiro/AtCoderClans/pull/2460) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
