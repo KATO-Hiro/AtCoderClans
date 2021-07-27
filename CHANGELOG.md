@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-27
+
+- [#2470](https://github.com/KATO-Hiro/AtCoderClans/pull/2470) - [GitHub Action - Markdown link check](https://github.com/gaurav-nelson/github-action-markdown-link-check)のバージョンを1.0.12から1.0.13にアップデート。
+
 ### 2021-07-26
 
 - [#2466](https://github.com/KATO-Hiro/AtCoderClans/pull/2466) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
