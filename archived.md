@@ -131,6 +131,8 @@ filename: archived
   - 確認した日: 2020/12/14
 - [maspypy/compro_library](https://github.com/maspypy/compro_library) ![GitHub stars](https://img.shields.io/github/stars/maspypy/compro_library?style=plastic) - [maspy](https://atcoder.jp/users/maspy)さんのPythonライブラリ。
   - 確認した日: 2021/05/24
+- [mts1104/atcoder](https://github.com/mts1104/atcoder/tree/master/python/lib) ![GitHub Repo stars](https://img.shields.io/github/stars/mts1104/atcoder?style=plastic) - [parentheses](https://atcoder.jp/users/parentheses)さんのライブラリ。レポジトリには、[C++のライブラリ](https://github.com/mts1104/atcoder/tree/master/cpp/lib)も含まれている。
+  - 確認した日: 2021/07/27
 - [naipia/competitive-programming-go](https://github.com/naipia/competitive-programming-go) ![GitHub stars](https://img.shields.io/github/stars/naipia/competitive-programming-go?style=plastic) - [naipia](https://atcoder.jp/users/naipia)さんのGoライブラリ。
   - 確認した日: 2020/11/18
 - [Neterukun1993/algorithm](https://github.com/Neterukun1993/algorithm) ![GitHub stars](https://img.shields.io/github/stars/Neterukun1993/algorithm?style=plastic) - [neterukun](https://atcoder.jp/users/neterukun)さんのPythonライブラリ。
