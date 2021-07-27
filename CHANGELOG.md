@@ -8,6 +8,7 @@ filename: CHANGELOG
 
 ### 2021-07-27
 
+- [#2474](https://github.com/KATO-Hiro/AtCoderClans/pull/2474) - リンク切れのライブラリを一旦「Archived」ページに移動。
 - [#2470](https://github.com/KATO-Hiro/AtCoderClans/pull/2470) - [GitHub Action - Markdown link check](https://github.com/gaurav-nelson/github-action-markdown-link-check)のバージョンを1.0.12から1.0.13にアップデート。
 
 ### 2021-07-26
