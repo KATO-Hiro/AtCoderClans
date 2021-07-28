@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-28
+
+- [#2478](https://github.com/KATO-Hiro/AtCoderClans/pull/2477) - ユーザスクリプト「[AtCoderCharacterColorizer](https://greasyfork.org/ja/scripts/429815-atcodercharactercolorizer)」を追加。
+
 ### 2021-07-27
 
 - [#2474](https://github.com/KATO-Hiro/AtCoderClans/pull/2474) - リンク切れのライブラリを一旦「Archived」ページに移動。
