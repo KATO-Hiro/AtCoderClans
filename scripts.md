@@ -235,6 +235,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_better_highlighter.png" alt="atcoder background colorizer">
   </div>
 
+- [AtCoderCharacterColorizer](https://greasyfork.org/ja/scripts/429815-atcodercharactercolorizer) - 「問題」ページで、色を表す漢字(赤・青など)をハイライトする。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_character_colorizer.png" alt="atcoder character colorizer">
+  </div>
+
 - [AtCoderColouringDifference](https://greasyfork.org/ja/scripts/371703-atcodercolouringdifference) - ユーザの「コンテスト成績表」ページで"差分"の部分を色づけする。レポジトリ作成者注: スクリプトの実行対象URLがベータ版のため、修正が必要。
 
   <div align="center">
