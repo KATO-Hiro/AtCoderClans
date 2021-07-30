@@ -513,6 +513,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/auto_submissions_settings_js.png" alt="auto submissions settings js">
   </div>
 
+- [mod noticer](https://greasyfork.org/ja/scripts/429808-mod-noticer) - 「問題」ページで、剰余(mod)を取る必要がある問題に対して、提出ボタンに確認メッセージを追加する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/mod_noticer.png" alt="mod noticer">
+  </div>
+
 - [Save_Paken_AtCoder_Account](https://greasyfork.org/ja/scripts/401642-save-paken-atcoder-account) - パ研の共有アカウントで誤ってコンテストに参加するのを防ぐ。
 
 - [VirtualContestUpSolver](https://greasyfork.org/ja/scripts/421963-virtualcontestupsolver) - [AtCoder Problems](https://kenkoooo.com/atcoder/)のバーチャルコンテストで出題された問題のうち、復習したかどうかを管理できる。注: スクリプトを有効活用するためには、バーチャルコンテストに参加できる状態(GitHubアカウントを利用してユーザ認証を済ませた状態)にあり、少なくとも1回以上の参加が必要。
