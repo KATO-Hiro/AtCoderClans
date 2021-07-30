@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-30
+
+- [#2485](https://github.com/KATO-Hiro/AtCoderClans/pull/2485) - ユーザスクリプト「[mod noticer](https://greasyfork.org/ja/scripts/429808-mod-noticer)」を追加。
+
 ### 2021-07-29
 
 - [#2481](https://github.com/KATO-Hiro/AtCoderClans/pull/2481) - 記事「[日本最大のプログラミングコンテストサイト AtCoder 全世界での登録者数が30万人を突破！](https://prtimes.jp/main/html/rd/p/000000034.000028415.html)」を追加。
