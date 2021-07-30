@@ -513,7 +513,7 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/auto_submissions_settings_js.png" alt="auto submissions settings js">
   </div>
 
-- [mod noticer](https://greasyfork.org/ja/scripts/429808-mod-noticer/versions) - 「問題」ページで、剰余(mod)を取る必要がある問題に対して、提出ボタンに確認メッセージを追加する。
+- [mod noticer](https://greasyfork.org/ja/scripts/429808-mod-noticer) - 「問題」ページで、剰余(mod)を取る必要がある問題に対して、提出ボタンに確認メッセージを追加する。
 
   <div align="center">
     <img loading = "lazy" src="images/userscript/mod_noticer.png" alt="mod noticer">
