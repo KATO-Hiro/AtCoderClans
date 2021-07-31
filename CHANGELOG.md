@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-07-31
+
+- [#2492](https://github.com/KATO-Hiro/AtCoderClans/pull/2492) - ユーザスクリプト「[AtCoder-Style-Changer](https://greasyfork.org/ja/scripts/429929-atcoder-style-changer)」を追加。
+
 ### 2021-07-30
 
 - [#2485](https://github.com/KATO-Hiro/AtCoderClans/pull/2485) - ユーザスクリプト「[mod noticer](https://greasyfork.org/ja/scripts/429808-mod-noticer)」を追加。
