@@ -253,7 +253,7 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_custom_default_submissions.jpg" alt="atcoder custom default submissions">
   </div>
 
-- [AtCoderDarkTheme](https://greasyfork.org/ja/scripts/388076-atcoderdarktheme) - ダークテーマに変更する。
+- [AtCoderDarkTheme](https://greasyfork.org/ja/scripts/388076-atcoderdarktheme) - ダークテーマに変更する。類似したスクリプトに、[AtCoder-Style-Changer](https://greasyfork.org/ja/scripts/429929-atcoder-style-changer)がある。
 
   <div align="center">
     <img loading = "lazy" src="images/userscript/atcoder_dark_theme.png" alt="atcoder dark theme">
