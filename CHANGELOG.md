@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-08-01
+
+- [#2498](https://github.com/KATO-Hiro/AtCoderClans/pull/2498) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、YouTubeのチャンネルを追加。
+  - [長田歌菜](https://www.youtube.com/channel/UC9amFw1nimUfDGAf746HYXQ)
+
 ### 2021-07-31
 
 - [#2492](https://github.com/KATO-Hiro/AtCoderClans/pull/2492) - ユーザスクリプト「[AtCoder-Style-Changer](https://greasyfork.org/ja/scripts/429929-atcoder-style-changer)」を追加。
