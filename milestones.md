@@ -87,6 +87,7 @@ filename: milestones
 - [入青！一年間やってきたこと - Milky Coffee](https://milkcoffee.hatenablog.jp/entry/2021/05/17/170110) - [milkcoffee](https://atcoder.jp/users/milkcoffee)さんが、2021年5月10日に達成。
 - [AtCoderで青になりました！ － 競プロで勝つための戦略 －](https://qiita.com/physharp/items/f9229ab879cac9a944d7) - [physharp](https://atcoder.jp/users/physharp)さんが、2021年5月16日に達成。
 - [Atcoder青色になりました － ひとり言](https://elegy-wedh133.hatenablog.com/entry/2021/07/26/132520) - [ReiVindicatio](https://atcoder.jp/users/ReiVindicatio)さんが、2021年7月25日に達成。
+- [【競技プログラミング】青コーダーになりました【高井茅乃 #42】](https://www.youtube.com/watch?v=yhxaGTKNpgo) - [takaichino](https://atcoder.jp/users/takaichino)さんが、2021年7月31日に達成。
 
 ### レーティング2000から2399まで(黄色)
 
