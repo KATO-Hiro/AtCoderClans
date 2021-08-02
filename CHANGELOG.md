@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-08-02
+
+- [#2505](https://github.com/KATO-Hiro/AtCoderClans/pull/2505) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、Webアプリ「[アルゴ式](https://algo-method.com/)」を追加。
+- [#2503](https://github.com/KATO-Hiro/AtCoderClans/pull/2503) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[takaichino](https://atcoder.jp/users/takaichino)さんの[動画](https://www.youtube.com/watch?v=yhxaGTKNpgo)を追加。
+
 ### 2021-08-01
 
 - [#2498](https://github.com/KATO-Hiro/AtCoderClans/pull/2498) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、YouTubeのチャンネルを追加。
