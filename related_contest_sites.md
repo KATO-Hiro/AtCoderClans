@@ -9,6 +9,7 @@ filename: related_contest_sites
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+- [アルゴ式](#%E3%82%A2%E3%83%AB%E3%82%B4%E5%BC%8F)
 - [AOJ (Aizu Online Judge)](#aoj-aizu-online-judge)
 - [CafeCoder](#cafecoder)
 - [Codeforces](#codeforces)
@@ -38,6 +39,14 @@ filename: related_contest_sites
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 サービス・ツールのサポート対象に[AtCoder](https://atcoder.jp/)が含まれていないものの、歴史的な経緯・利用者数の多さなどの理由から掲載しています。
+
+### アルゴ式
+
+- [アルゴ式](https://algo-method.com/) - プログラミングを道具として利用しながら、論理的思考力やコーディング力を身につけることができるWebアプリ。注: サービスを利用する前に、作者によるサービス開始の理由とアルゴリズムを学ぶ意義について書かれた[記事](https://note.com/sak_algo/n/nfb0058237ed5)を一読されたい。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/algo_method/algo_method.png" alt="algo method">
+  </div>
 
 ### AOJ (Aizu Online Judge)
 
