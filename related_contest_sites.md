@@ -39,6 +39,14 @@ filename: related_contest_sites
 
 サービス・ツールのサポート対象に[AtCoder](https://atcoder.jp/)が含まれていないものの、歴史的な経緯・利用者数の多さなどの理由から掲載しています。
 
+### アルゴ式
+
+- [アルゴ式](https://algo-method.com/) - プログラミングを道具として利用しながら、論理的思考力やコーディング力を身につけることができるWebアプリ。注: サービスを利用する前に、作者によるサービス開始の理由とアルゴリズムを学ぶ意義について書かれた[記事](https://note.com/sak_algo/n/nfb0058237ed5)を一読されたい。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/algo_method/algo_method.png" alt="algo method">
+  </div>
+
 ### AOJ (Aizu Online Judge)
 
 - [AOJ-ICPC](http://aoj-icpc.ichyo.jp/) - [ICPC 日本リージョン](https://icpc.iisf.or.jp/)の国内予選・アジア地区予選および[ICPC OB/OG の会](https://jag-icpc.org/)で出題された問題の難易度を、有志が評価したWebサイト。
