@@ -42,7 +42,7 @@ filename: related_contest_sites
 
 ### アルゴ式
 
-- [アルゴ式](https://algo-method.com/) - プログラミングを道具として利用しながら、論理的思考力やコーディング力を身につけることができるWebアプリ。注: サービスを利用する前に、作者によるサービス開始の理由とアルゴリズムを学ぶ意義について書かれた[記事](https://note.com/sak_algo/n/nfb0058237ed5)を一読されたい。
+- [アルゴ式](https://algo-method.com/) - プログラミングを道具として利用しながら、論理的思考力やコーディング力を身につけることができるWebアプリ。[公式アカウント](https://twitter.com/algo_method)も用意されている。注: サービスを利用する前に、作者によるサービス開始の理由とアルゴリズムを学ぶ意義について書かれた[記事](https://note.com/sak_algo/n/nfb0058237ed5)を一読されたい。
 
   <div align="center">
     <img loading = "lazy" src="images/related_contest_sites/algo_method/algo_method.png" alt="algo method">
