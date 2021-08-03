@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-08-03
+
+- [#2509](https://github.com/KATO-Hiro/AtCoderClans/pull/2509) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、動画「[【Fresh Faces #309】髙橋直大（AtCoder株式会社 代表取締役社長）](https://www.youtube.com/watch?v=x1WJdK6qqDk)」を追加。
+
 ### 2021-08-02
 
 - [#2505](https://github.com/KATO-Hiro/AtCoderClans/pull/2505) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、Webアプリ「[アルゴ式](https://algo-method.com/)」を追加。
