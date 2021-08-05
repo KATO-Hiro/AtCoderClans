@@ -368,6 +368,7 @@ filename: media
 
 ### 言語特性
 
+- [プログラミング言語処理系の作り方 (競プロer向け)](https://kimiyuki.net/blog/2021/08/05/how-to-make-your-own-interpreter/) - 競技プログラマーに向けて、言語処理系の作り方やその難易度について説明した記事。
 - [【プログラミング言語速度比較】Collatz数列ベンチマークを言語別比較しよー！](https://rheotommy.hatenablog.com/entry/2020/07/18/205343) - [RheoTommy](https://atcoder.jp/users/RheoTommy)さんによる記事。[Collatz数列](https://en.wikipedia.org/wiki/Collatz_conjecture#:~:text=Unsolved%20problem%20in%20mathematics%3A&text=The%20Collatz%20conjecture%20is%20a,half%20of%20the%20previous%20term.)を題材に、各言語の実行速度を比較・分類している。
 - [大好評！たった6種類の文法で塗り絵パズルが楽しめる、新感覚プログラミング言語「Painter Programming」を作った話](https://qiita.com/e869120/items/92f19314ac5ea9a1e82a) - [E869120](https://atcoder.jp/users/E869120)さん、[square1001](https://atcoder.jp/users/square1001)さんによって作成されたプログラミング言語「Painter Programming」の面白さ・楽しさ・奥深さを解説した記事。
 
