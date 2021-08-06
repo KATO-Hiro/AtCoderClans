@@ -557,6 +557,12 @@ Google Chromeに機能を追加します。
     <img loading = "lazy" src="images/chrome_extension/atcoder_acer.png" alt="atcoder acer">
   </div>
 
+- [AtCoder VirtualContest-Connect](https://chrome.google.com/webstore/detail/atcoder-virtualcontest-co/cedjfjpgichjfeaaijciagaoggpagipg) - バーチャルコンテストの成績を利用して、コンテスト当日に得られた可能性がある順位・パフォーマンス値を表示する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/chrome_extension/atcoder_virtualcontest_connect.png" alt="atcoder virtualcontest connect">
+  </div>
+
 ### UIを見やすく色付けする、表示を簡略化する
 
 - [AtCoder Color](https://chrome.google.com/webstore/detail/atcoder-color/mcefknoiablejellmicpmokcaelpdaec?hl=ja&gl=UA) - 「問題」ページで提出状況に応じて色付けする。
