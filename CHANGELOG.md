@@ -173,6 +173,7 @@ filename: CHANGELOG
 
 ### Histories
 
+- [June, 2021](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2021_06.md)
 - [May, 2021](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2021_05.md)
 - [April, 2021](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2021_04.md)
 - [March, 2021](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2021_03.md)
