@@ -6,6 +6,8 @@ filename: CHANGELOG
 
 ## Change Log
 
+- [#2527](https://github.com/KATO-Hiro/AtCoderClans/pull/2527), [#2528](https://github.com/KATO-Hiro/AtCoderClans/pull/2528) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの2021年6月分を[月別のアーカイブ](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2021_06.md)に移動。
+
 ### 2021-08-06
 
 - [#2524](https://github.com/KATO-Hiro/AtCoderClans/pull/2524) - Chrome拡張機能「[AtCoder VirtualContest-Connect](https://chrome.google.com/webstore/detail/atcoder-virtualcontest-co/cedjfjpgichjfeaaijciagaoggpagipg)」を追加。
