@@ -343,6 +343,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_typical90_sort.png" alt="atcoder typical90 sort">
   </div>
 
+- [atcoder-wait-time-display](https://greasyfork.org/ja/scripts/430509-atcoder-wait-time-display) - 「問題」ページで、次の提出までに必要な待ち時間を表示する。また、直前の提出から経過した時間も見ることができる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_wait_time_display.png" alt="atcoder wait time display">
+  </div>
+
 - [AtCoderタイマー削除](https://greasyfork.org/ja/scripts/393176-calmatcoder) - コンテストが開催されている間のみ、タイマーを非表示にする。
 
 - [HighlightAtCoderContestNot2100](https://greasyfork.org/en/scripts/426911-highlightatcodercontestnot2100) - レーティングの変動があるコンテストのうち、開始時間が21時でない場合に赤字で強調する。
