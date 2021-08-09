@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-08-09
+
+- [#2534](https://github.com/KATO-Hiro/AtCoderClans/pull/2534) - ユーザスクリプト「[atcoder-wait-time-display](https://greasyfork.org/ja/scripts/430509-atcoder-wait-time-display)」を追加。
+
 ### 2021-08-08
 
 - [#2530](https://github.com/KATO-Hiro/AtCoderClans/pull/2530) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、スライド資料「[ネットワークフロー入門](http://hos.ac/slides/20150319_flow.pdf)」を追加。
