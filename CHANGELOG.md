@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-08-10
+
+- [#2538](https://github.com/KATO-Hiro/AtCoderClans/pull/2538) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2000から2399まで(黄色)に[lowking](https://atcoder.jp/users/lowking)さんの[記事](https://perarduaadastra.hatenablog.com/entry/2021/08/09/181811)を追加。
+
 ### 2021-08-09
 
 - [#2534](https://github.com/KATO-Hiro/AtCoderClans/pull/2534) - ユーザスクリプト「[atcoder-wait-time-display](https://greasyfork.org/ja/scripts/430509-atcoder-wait-time-display)」を追加。
