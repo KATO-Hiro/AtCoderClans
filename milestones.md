@@ -105,6 +105,7 @@ filename: milestones
 - [AtCoder黄色を目指してやってきたこと](https://qiita.com/hamamu/items/2e342d46d9f54732d42c) - [hamamu](https://atcoder.jp/users/hamamu)さんが、2021年4月11日に達成。
 - [【atCoder】黄入した7か月半の振り返り - amentorimaru’s diary](https://amentorimaru.hatenablog.com/entry/2021/06/25/215100) - [amentorimaru](https://atcoder.jp/users/amentorimaru)さんが、2021年5月16日に達成。
 - [AtCoder黄色になるまでにやったこと - N_haraのブログ](https://n-hara.hatenablog.com/entry/2021/07/25/172540) - [N_hara](https://atcoder.jp/users/N_hara)さんが、2021年7月24日に達成。
+- [実績解除：AtCoder黄色になった - perarduaadastra](https://perarduaadastra.hatenablog.com/entry/2021/08/09/181811) - [lowking](https://atcoder.jp/users/lowking)さんが、2021年8月8日に達成。
 
 ### レーティング2400から2799まで(橙色)
 
