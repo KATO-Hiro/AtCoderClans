@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-08-11
+
+- [#2546](https://github.com/KATO-Hiro/AtCoderClans/pull/2546) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、ニコニコ動画「[ペニーワイズが競技プログラミングをオススメしたいようです](https://www.nicovideo.jp/watch/sm33889972)」を追加。
+
 ### 2021-08-10
 
 - [#2538](https://github.com/KATO-Hiro/AtCoderClans/pull/2538) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
