@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-08-14
+
+- [#2554](https://github.com/KATO-Hiro/AtCoderClans/pull/2554) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1200から1599まで(水色)に[harurun](https://atcoder.jp/users/harurun)さんの[記事](https://harurunppp.hatenablog.com/entry/2021/08/11/010053)を追加。
+
 ### 2021-08-13
 
 - [#2550](https://github.com/KATO-Hiro/AtCoderClans/pull/2550) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、ニコニコ動画「[競プロ ゆっくり実況](https://www.nicovideo.jp/series/138667?ref=user_series)」を追加。
