@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-08-15
+
+- [#2557](https://github.com/KATO-Hiro/AtCoderClans/pull/2557) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページで掲載している「[Jikka](https://github.com/kmyk/Jikka)」の説明文に、GitHubレポジトリ「[jikka-example](https://github.com/uta8a/jikka-example)」を追加。
+
 ### 2021-08-14
 
 - [#2554](https://github.com/KATO-Hiro/AtCoderClans/pull/2554) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
