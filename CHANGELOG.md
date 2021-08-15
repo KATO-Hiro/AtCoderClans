@@ -8,7 +8,7 @@ filename: CHANGELOG
 
 ### 2021-08-15
 
-- [#2557](https://github.com/KATO-Hiro/AtCoderClans/pull/2557) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページで掲載している「[Jikka](https://github.com/kmyk/Jikka)」の説明文に、GitHubレポジトリ「[jikka-example](https://github.com/uta8a/jikka-example)」を追加。
+- [#2557](https://github.com/KATO-Hiro/AtCoderClans/pull/2557) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページで掲載している「[Jikka](https://github.com/kmyk/Jikka)」の説明文に、同ツールによる出力コードの正誤状況をまとめた「[jikka-example](https://github.com/uta8a/jikka-example)」を追加。
 
 ### 2021-08-14
 
