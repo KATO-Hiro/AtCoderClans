@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-08-16
+
+- [#2559](https://github.com/KATO-Hiro/AtCoderClans/pull/2559) - 記事「[競プロ環境構築 Ubuntu on Win10 #1 共通編](https://oucrc.net/articles/e6vkrz4uqtt/)」を追加。
+
 ### 2021-08-15
 
 - [#2557](https://github.com/KATO-Hiro/AtCoderClans/pull/2557) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページで掲載している「[Jikka](https://github.com/kmyk/Jikka)」の説明文に、同ツールによる出力コードの正誤状況をまとめた「[jikka-example](https://github.com/uta8a/jikka-example)」を追加。
