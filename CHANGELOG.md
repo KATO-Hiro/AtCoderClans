@@ -6,6 +6,8 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-08-17
+
 - [#2567](https://github.com/KATO-Hiro/AtCoderClans/pull/2567) - 記事「[「まずは一つ勝つ。それ以外は負けてもいい」。競技プログラミングやKaggleを極めたPFN秋葉拓哉の勝ち方](https://liiga.me/columns/761)」を追加。
 
 ### 2021-08-16
