@@ -271,6 +271,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_heuristic_rating_coloring.png" alt="atcoder heuristic rating coloring">
   </div>
 
+- [AtCoderJudgeProgressColorizer](https://greasyfork.org/ja/scripts/430903-atcoderjudgeprogresscolorizer) - 「提出結果」ページで、ジャッジの進行状況がプログレスバーで表示される。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_judge_progress_colorizer.png" alt="atcoder judge progress colorizer">
+  </div>
+
 - [AtCoder-ngtkanaResult](https://greasyfork.org/ja/scripts/416384-atcoder-ngtkanaresult) - 「提出結果」ページの「結果」を[ngtkana](https://atcoder.jp/users/ngtkana)さんの言葉に置き換える。作成者注: 不正解の詳細はマウスオーバーで表示される。
 
   <div align="center">
