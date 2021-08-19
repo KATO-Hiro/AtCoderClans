@@ -144,6 +144,14 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/codeforces/hightail.png" alt="hightail">
   </div>
 
+### CTF (Capture The Flag)
+
+- [CTF-Ratings](https://github.com/theoremoon/ctf-ratings) - CTF(Capture The Flag)のレーティングシステム。レーティングとパフォーマンスは、AtCoderに準拠している。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/ctf/ctf_ratings.png" alt="ctf ratings">
+  </div>
+
 ### HOJ (Hamako Online Judge)
 
 - [Hamako Online Judge](https://hoj.hamako-ths.ed.jp/onlinejudge/) - 不定期にコンテストが開催されている。
