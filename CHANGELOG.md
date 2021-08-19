@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-08-19
+
+- [#2575](https://github.com/KATO-Hiro/AtCoderClans/pull/2575) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、CTF(Capture The Flag)のレーティングシステム「[CTF-Ratings](https://github.com/theoremoon/ctf-ratings)」を追加。
+
 ### 2021-08-18
 
 - [#2571](https://github.com/KATO-Hiro/AtCoderClans/pull/2571) - ユーザスクリプト「[AtCoderJudgeProgressColorizer](https://greasyfork.org/ja/scripts/430903-atcoderjudgeprogresscolorizer)」を追加。
