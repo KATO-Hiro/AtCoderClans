@@ -91,6 +91,13 @@ filename: archived
 
 <!-- markdown-link-check-disable -->
 
+- [AtCoder Diff Scores](https://atcoder-diff-scores.herokuapp.com/home) - レーティングと[AtCoder Problems](https://kenkoooo.com/atcoder/)で推定されたDifficultyの累計値の推移を表示する。
+  - 確認した日: 2021/08/19
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_diff_scores.png" alt="Atcoder Diff Scores">
+  </div>
+
 - [AtCoder じゃんけん](https://atcoder-janken.appspot.com/) - 指定した2人のユーザが共通して出場したコンテストの順位を比較できるWebアプリ。
   - 確認した日: 2020/10/12
   - 理由: Google Cloud Platform(GCP)で、Go1.9の提供が終了したため。

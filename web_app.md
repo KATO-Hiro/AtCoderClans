@@ -256,12 +256,6 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_beginner_contest_tournament.png" alt="abc tournament">
   </div>
 
-- [AtCoder Diff Scores](https://atcoder-diff-scores.herokuapp.com/home) - レーティングと[AtCoder Problems](https://kenkoooo.com/atcoder/)で推定されたDifficultyの累計値の推移を表示する。
-
-  <div align="center">
-    <img loading = "lazy" src="images/web_app/atcoder_diff_scores.png" alt="Atcoder Diff Scores">
-  </div>
-
 - [AtCoder Difficult Quiz](https://atcoder-difficulty-quiz.appspot.com/) - 2つの問題のうち、難易度が高いほう選ぶクイズ。
 
   <div align="center">
