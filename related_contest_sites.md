@@ -153,6 +153,12 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/ctf/ctf_ratings.png" alt="ctf ratings">
   </div>
 
+- [CTF TIME](https://ctftime.org/) - CTFのコンテスト一覧(新着・アーカイブ)やレーティングをはじめとする統計情報などが閲覧できるWebサイト。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/ctf/ctf_time.png" alt="ctf time">
+  </div>
+
 ### HOJ (Hamako Online Judge)
 
 - [Hamako Online Judge](https://hoj.hamako-ths.ed.jp/onlinejudge/) - 不定期にコンテストが開催されている。
