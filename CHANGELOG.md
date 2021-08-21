@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-08-21
+
+- [#2585](https://github.com/KATO-Hiro/AtCoderClans/pull/2585) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、CTF(Capture The Flag)のWebサイト「[CTF TIME](https://ctftime.org/)」を追加。
+
 ### 2021-08-20
 
 - [#2578](https://github.com/KATO-Hiro/AtCoderClans/pull/2578) - リンク切れと思われるWebアプリを一時的に「Archived」ページに移動。
