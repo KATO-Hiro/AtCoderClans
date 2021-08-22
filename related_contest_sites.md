@@ -306,6 +306,12 @@ filename: related_contest_sites
 
 ### yukicoder
 
+- [comfortable-yukicoder](https://greasyfork.org/ja/scripts/431129-comfortable-yukicoder) - [yukicoder](https://yukicoder.me/)に、汎用的な機能を追加するユーザスクリプト。主な機能として、指定したページに移動できるタブ、提出結果のハイライト、正誤状況の要約などがある。注: ユーザスクリプトを初めて利用する場合は、事前に[スクリプトマネージャー](https://greasyfork.org/ja)を導入する必要がある。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/yukicoder/comfortable_yukicoder.png" alt="comfortable yukicoder">
+  </div>
+
 - [yukicoder-md](https://github.com/koyumeishi/yukicoder-md) - 問題の作成を補助するツール。[CommonMark](https://commonmark.org/)形式で書かれた問題文をHTMLに変換する。また、Webブラウザ上で利用できる[Playground](https://koyumeishi.github.io/yukicoder-md/)も公開されている(注: 一部の機能は利用不可)。
 
   <div align="center">
