@@ -6,6 +6,13 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-08-23
+
+- [#2593](https://github.com/KATO-Hiro/AtCoderClans/pull/2593), [#2595](https://github.com/KATO-Hiro/AtCoderClans/pull/2595), [#2596](https://github.com/KATO-Hiro/AtCoderClans/pull/2596) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1200から1599まで(水色)に[nizi24](https://atcoder.jp/users/nizi24)さんの[記事](https://qiita.com/nizi24/items/f370cf0abfd349884baa)を追加。
+  - レーティング800から1199まで(緑色)に[natsuozawa](https://atcoder.jp/users/natsuozawa)さんの[記事](https://qiita.com/natsuozawa/items/0c2a0df1450612866fa2)を追加。
+  - レーティング800から1199まで(緑色)に[kotakota1110](https://atcoder.jp/users/kotakota1110)さんの[記事](https://qiita.com/kotaaaa/items/ddcf7f3e92e789731a7e)を追加。
+
 ### 2021-08-22
 
 - [#2587](https://github.com/KATO-Hiro/AtCoderClans/pull/2587) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、ユーザスクリプト「[comfortable-yukicoder](https://greasyfork.org/ja/scripts/431129-comfortable-yukicoder)」を追加。
