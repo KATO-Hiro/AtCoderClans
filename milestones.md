@@ -50,6 +50,7 @@ filename: milestones
 - [30代プログラミング初心者がAtCoderで緑色になった所感](https://zenn.dev/shinsatt/articles/81a926fe88987f) - [shinsatt](https://atcoder.jp/users/shinsatt)さんが、2021年7月4日に達成。
 - [40代で競プロができるのかという話 - 競プロ始めました](https://kaede2020.hatenablog.com/entry/2021/07/07/134334) - [kaede2020](https://atcoder.jp/users/kaede2020)さんが、2021年7月7日に公開。
 - [緑コーダー(AtCoder)になった和洋 - みどマメモ](https://mdrm1rou.hatenablog.com/entry/2021/07/12/013644) - [MDMA](https://atcoder.jp/users/MDMA)さんが、2021年7月10日に達成。
+- [【WebエンジニアのAtcoder記】入緑しました！](https://qiita.com/kotaaaa/items/ddcf7f3e92e789731a7e) - [kotakota1110](https://atcoder.jp/users/kotakota1110)さんが、2021年8月21日に達成。
 
 ### レーティング1200から1599まで(水色)
 
