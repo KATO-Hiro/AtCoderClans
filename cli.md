@@ -136,6 +136,7 @@ filename: cli
 
 ### テストケースを生成するツール
 
+- [bug_finder](https://github.com/Eug1ena/bug_finder) ![GitHub Repo stars](https://img.shields.io/github/stars/Eug1ena/bug_finder?style=plastic) - テストケースをランダムに生成し、愚直な解法で実装したコードとバグを含むコードを比較できるツール。注: 対応言語は、C++17のみ。
 - [testcase-generator](https://github.com/naskya/testcase-generator) ![GitHub Repo stars](https://img.shields.io/github/stars/naskya/testcase-generator?style=plastic) - ランダムな整数や文字列を生成できるツール。また、多数のテストケースを生成して、愚直に実装した解法(愚直解)と比較することも可能。
 
   <div align="center">
