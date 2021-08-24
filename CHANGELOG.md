@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-08-25
+
+- [#2609](https://github.com/KATO-Hiro/AtCoderClans/pull/2609) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページに、「[bug_finder](https://github.com/Eug1ena/bug_finder)」を追加。
+
 ### 2021-08-24
 
 - [#2605](https://github.com/KATO-Hiro/AtCoderClans/pull/2605) - 記事「[アルゴリズム・AtCoder のための数学【前編：数学的知識編①】](https://qiita.com/e869120/items/b4a0493aac567c6a7240)」の説明文に、[【後編：数学的考察編】](https://qiita.com/e869120/items/1ccb2bdf16890637e767)を追加。
