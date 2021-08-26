@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-08-26
+
+- [#2612](https://github.com/KATO-Hiro/AtCoderClans/pull/2612) - [Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)ページのサブカテゴリ「競技プログラマーが現役引退を表明した記事」に、以下の記事を追加。
+  - [だから僕は競プロを辞めた](https://qiita.com/DaikiSuyama/items/ca5ccd40082cb9de5fcf)
+
 ### 2021-08-25
 
 - [#2609](https://github.com/KATO-Hiro/AtCoderClans/pull/2609) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページに、「[bug_finder](https://github.com/Eug1ena/bug_finder)」を追加。
