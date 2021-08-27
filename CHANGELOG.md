@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-08-27
+
+- [#2619](https://github.com/KATO-Hiro/AtCoderClans/pull/2619) - [naskya](https://github.com/naskya)さんのご依頼により、コマンドラインツール「[testcase-generator](https://github.com/naskya/testcase-generator)」の説明文からgifを削除。
+
 ### 2021-08-26
 
 - [#2612](https://github.com/KATO-Hiro/AtCoderClans/pull/2612) - [Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)ページのサブカテゴリ「競技プログラマーが現役引退を表明した記事」に、以下の記事を追加。
