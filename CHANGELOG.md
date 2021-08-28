@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-08-28
+
+- [#2624](https://github.com/KATO-Hiro/AtCoderClans/pull/2624) - Webアプリ「[AtCoder Rivals](https://atcoder-rivals.web.app/top)」 のURLを最新のものに更新。作者注: アカウント情報は引き継がれる。
+- [#2623](https://github.com/KATO-Hiro/AtCoderClans/pull/2623) - [naskya](https://github.com/naskya)さんのご提供により、コマンドラインツール「[testcase-generator](https://github.com/naskya/testcase-generator)」の説明文のgifを最新版に更新。
+
 ### 2021-08-27
 
 - [#2619](https://github.com/KATO-Hiro/AtCoderClans/pull/2619) - [naskya](https://github.com/naskya)さんのご依頼により、コマンドラインツール「[testcase-generator](https://github.com/naskya/testcase-generator)」の説明文からgifを削除。
