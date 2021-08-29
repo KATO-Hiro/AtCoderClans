@@ -30,6 +30,7 @@ filename: milestones
 
 ### レーティング400から799まで(茶色)
 
+- [茶色になるまでにやったこと - 文系ギャルが0から始める競技プログラミング](https://note.com/cbox360/n/n7dcaab5696a1) - cbox360さんが、2020年1月26日に達成。
 - [灰色スタックしていた私が考える「茶色になるために必要なこと」 - segment_threeの日記](https://segment-three.hatenablog.com/entry/2021/01/24/171947) - [tyamahosen](https://atcoder.jp/users/tyamahosen)さんが、2021年1月23日に達成。
 - [【AtCoder】プログラミング初心者が1カ月でAtCoder茶色になるまで【Python】](https://qiita.com/shirumono/items/0d6a3abb747d6b144cca) - [shirumono](https://atcoder.jp/users/shirumono)さんが、2021年2月27日に達成。
 - [[初投稿] AtCoder入茶してみたw [至って真面目です]](https://qiita.com/Shiroha_MK3/items/aacc2727b511682e1cf2) - [Shiroha_F14](https://atcoder.jp/users/shiroha_f14)さんが、2021年3月20日に達成。
