@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-08-29
+
+- [#2630](https://github.com/KATO-Hiro/AtCoderClans/pull/2630) - 記事「[AHC001の知識とpythonの力で、奇想の浮世絵師「歌川国芳」の絵を再現する](https://qiita.com/hari64/items/b651e9e83ff86992e590)」を追加。
+- [#2629](https://github.com/KATO-Hiro/AtCoderClans/pull/2629) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング400から799まで(茶色)にcbox360さんの[記事](https://note.com/cbox360/n/n7dcaab5696a1)を追加。
+
 ### 2021-08-28
 
 - [#2624](https://github.com/KATO-Hiro/AtCoderClans/pull/2624) - Webアプリ「[AtCoder Rivals](https://atcoder-rivals.web.app/top)」 のURLを最新のものに更新。作者注: アカウント情報は引き継がれる。
