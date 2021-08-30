@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-08-30
+
+- [#2638](https://github.com/KATO-Hiro/AtCoderClans/pull/2638) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング800から1199まで(緑色)に[burita083](https://atcoder.jp/users/burita083)さんの[記事](https://zenn.dev/burita083/articles/40a8b606152c06)を追加。
+
 ### 2021-08-29
 
 - [#2633](https://github.com/KATO-Hiro/AtCoderClans/pull/2633) - [#2612](https://github.com/KATO-Hiro/AtCoderClans/pull/2612)に関連して、記事「[「だから僕は競プロを辞めた」の批判への回答](https://note.com/daikisuyama/n/nac0543473eb1)」を追加。
