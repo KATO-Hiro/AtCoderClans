@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-08-31
+
+- [#2642](https://github.com/KATO-Hiro/AtCoderClans/pull/2642) - [daikisuyama](https://github.com/daikisuyama)さんのご依頼により、記事「[bits/stdc++.hのインクルードを高速化しよう！（MacOS版）](https://qiita.com/DaikiSuyama/items/e502e09a1090f4a2cee3)」の掲載カテゴリと説明文を修正。
+
 ### 2021-08-30
 
 - [#2638](https://github.com/KATO-Hiro/AtCoderClans/pull/2638) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
