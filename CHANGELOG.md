@@ -6,6 +6,13 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-09-01
+
+- [#2646](https://github.com/KATO-Hiro/AtCoderClans/pull/2646) - [daikisuyama](https://github.com/daikisuyama)さんのご紹介より、以下の記事を追加。
+  - [MacでGCCを"正しく"環境構築しよう！](https://qiita.com/DaikiSuyama/items/09f5aa399aad37783146)
+  - [Pythonで競プロするのに必要な機能をまとめてみた〜itertools〜](https://qiita.com/DaikiSuyama/items/11f63a94d63fa72e8bf4)
+  - [競プロの応用事項確認〜ランレングス圧縮〜](https://qiita.com/DaikiSuyama/items/07e237b7372e7c7b3432)
+
 ### 2021-08-31
 
 - [#2642](https://github.com/KATO-Hiro/AtCoderClans/pull/2642) - [daikisuyama](https://github.com/daikisuyama)さんのご依頼により、記事「[bits/stdc++.hのインクルードを高速化しよう！（MacOS版）](https://qiita.com/DaikiSuyama/items/e502e09a1090f4a2cee3)」の掲載カテゴリと説明文を修正。
