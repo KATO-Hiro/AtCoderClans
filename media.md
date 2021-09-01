@@ -115,7 +115,7 @@ filename: media
 
 ### コードを快適に書くための環境構築
 
-以下の記事は、2019年3月〜2021年3月に公開・更新されたものです。随時、最新の記事を追加する予定です。
+以下の記事は、2019年3月〜2021年8月に公開・更新されたものです。随時、最新の記事を追加する予定です。
 
 #### 特定のOSに依存しない内容
 
@@ -125,6 +125,7 @@ filename: media
 
 - [AtCoder用C++開発環境 (Mac編)](https://blog.spiralray.net/cp/devenv-cpp) - 動作環境は、macOS Catalina。C++17(デバッグ:Clang、テスト実行・提出: G++)のコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と、拡張機能を使って構築する方法が紹介されている。サンプルケースの実行や提出もできる。
 - [bits/stdc++.hのインクルードを高速化しよう！（MacOS版）](https://qiita.com/DaikiSuyama/items/e502e09a1090f4a2cee3) - GCCのヘッダファイルであるbits/stdc++.hを正しく使うことで、コンパイルを高速化する方法を紹介した記事。
+- [MacでGCCを"正しく"環境構築しよう！](https://qiita.com/DaikiSuyama/items/09f5aa399aad37783146) - MacでのGCCの環境構築を丁寧に解説した記事。パッケージ管理システムであるHomebrewを用いたGCCのインストールからパスの設定・コンパイルの実行まで紹介されている。
 - [Visual studio codeで競プロ環境構築[mac OS]](https://qiita.com/EngTks/items/ffa2a7b4d264e7a052c6) - 動作環境は、macOS Mojave。C++(GCC)のコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と、拡張機能を使って構築する方法が紹介されている。便利な標準ライブラリ(bits/std++.h)を使用することができる。
 
 #### Windows
@@ -302,6 +303,7 @@ filename: media
 - [AtCoder Pythonの新環境についてまとめていく-1- 組み込み関数&モジュール](https://it-for-pharma.com/atcoder-python%E3%81%AE%E6%96%B0%E7%92%B0%E5%A2%83%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E3%81%84%E3%81%8F-1-%E7%B5%84%E3%81%BF%E8%BE%BC%E3%81%BF%E9%96%A2%E6%95%B0) - ジャッジシステムのアップデートに伴って、利用できるようになった便利な組み込み関数やモジュールがまとめられている。
 - [あのアルゴリズムはどこ？　Pythonを使用してAtCoderの緑色や水色を目指す方に、30以上のアルゴリズムスニペットと100問以上の問題（ACコード付き）を紹介！](https://qiita.com/H20/items/1a066e242815961cd043) - 特定のアルゴリズムについてPythonで実装された記事の紹介と、そのアルゴリズムを利用して解くことができる例題と解答例がまとめられている。対象読者は、緑色・水色コーダーを目指しているユーザ。
 - [競プロ界隈でpython強者がやっていることをまとめてみた](https://qiita.com/dekamisako/items/1c104e332351ab9389a6) - Python利用者に向けて、入出力や上位陣が利用している便利なコード集をまとめた記事。
+- [競プロの応用事項確認〜ランレングス圧縮〜](https://qiita.com/DaikiSuyama/items/07e237b7372e7c7b3432) - 競技プログラミングにおけるランレングス圧縮の利用方法とPythonによる実装方法を解説した記事。また、例題が豊富に掲載されている。
 - [[競プロ] 割と真面目にPythonからC++のsetを使えるようにしたのでみんな使ってみてほしい](https://nagiss.hateblo.jp/entry/2020/09/08/203701) - データ構造の一つである平行二分木が必要になったときに、PythonからC++のstd::setを利用する方法を紹介した記事。Pythonのラッパークラスについて、各メソッドの仕様と計算量が丁寧に解説されている。
 - [しゃくとり法のDequeを使ったバグりにくい実装](https://qiita.com/keroru/items/6e0a22e8c9bf2a24dc68) - 添え字のミスが起こりがちな尺取り法について、両端キュー(deque)を利用して実装する方法が紹介されている。
 - [絶対に競プロ以外では書いてはいけない！書いたら○されると思え！なテクニック集](https://qiita.com/kotaro912214/items/575fd778d062703304ea) - 競技プログラミングでPythonのコードを素早く書くことを最優先としたテクニック集。注: 業務で書くコードでは可読性や再利用性などが重視されるため、記事で紹介されている方法は基本的に利用しないことを推奨。
@@ -309,6 +311,7 @@ filename: media
 - [PythonでAtCoderをするあれこれ](https://qiita.com/c-yan/items/dbf2838cdd89864ef5ac) - 入出力の方法に加えて、処理を高速化するための工夫が紹介されている記事。
 - [Pythonで各要素にO(1)でランダムアクセスできるdeque(両端キュー)を書いてみた](https://prd-xxx.hateblo.jp/entry/2020/02/07/114818) - `deque`モジュールの基本的な機能に加えて、ランダムアクセス(indexを指定したアクセス)による参照・変更がO(1)で実行できる方法を紹介した記事。
 - [Pythonで競技プログラミング -ライブラリ編-](https://qiita.com/Kentaro_okumura/items/5b95b767a2e691cd5482) - 筆者がPythonの標準ライブラリでよく利用する機能をまとめた記事。利用する問題例のリンクも掲載されている。注: 記事の最終更新が2019年4月とやや時間が経過しているため、コンテスト前にジャッジシステムで動作確認を行うことを推奨。
+- [Pythonで競プロするのに必要な機能をまとめてみた〜itertools〜](https://qiita.com/DaikiSuyama/items/11f63a94d63fa72e8bf4) - Pythonのitertoolsライブラリのうち、競技プログラミングでよく使う関数をドキュメント形式でまとめた記事。関数の使い方だけでなく、関連した例題も掲載されている。
 - [Pythonで競プロやるときによく書くコードをまとめてみた](https://qiita.com/y-tsutsu/items/aa7e8e809d6ac167d6a1) - コンテストにPythonで参加する人に向けて、入出力やデータ操作、リスト内包表記などについて解説されている。
 - [Pythonで使う競技プログラミング用チートシート](https://qiita.com/_-_-_-_-_/items/34f933adc7be875e61d0) - 競技プログラミングでPythonを利用するときに必要な入出力、二分探索、文字列操作に関するチートシート。注: 記事の最終更新日時が2019年8月のため、最新のジャッジシステムに対応した書き方を調べる必要がある。
 - [Pythonで理解する蟻本（プログラミングコンテストチャレンジブック）](https://kuruton.hatenablog.com/entry/2020/10/05/001533) - Pythonユーザが、後述する「[プログラミングコンテストチャレンジブック [第2版] ～問題解決のアルゴリズム活用力とコーディングテクニックを鍛える～](https://www.amazon.co.jp/dp/B00CY9256C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)」(通称、蟻本)を理解するために書かれた記事。原著のコード(C++)が忠実にPythonで書き直されている。
