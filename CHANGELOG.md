@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-09-02
+
+- [#2650](https://github.com/KATO-Hiro/AtCoderClans/pull/2650) - 「[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)」ページで掲載している[Library Checker Problems](https://judge.yosupo.jp/)の説明文に、[library-checker-testcases](https://github.com/hotman78/library-checker-testcases)を追加。
+
 ### 2021-09-01
 
 - [#2646](https://github.com/KATO-Hiro/AtCoderClans/pull/2646) - [daikisuyama](https://github.com/daikisuyama)さんのご紹介より、以下の記事を追加。
