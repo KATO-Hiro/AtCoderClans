@@ -181,3 +181,4 @@ filename: cli
 ### 競技プログラミング専用の言語
 
 - [cLay](http://rsujskf.s602.xrea.com/?cLay) - C++風のコードをC++のコードに変換する。
+- [Niu](https://github.com/niuez/Niu) ![GitHub Repo stars](https://img.shields.io/github/stars/niuez/Niu?style=plastic) - Rustで書かれたライブラリをC++のコードに変換する(開発中)。
