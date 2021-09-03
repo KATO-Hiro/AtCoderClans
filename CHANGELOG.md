@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-09-03
+
+- [#2653](https://github.com/KATO-Hiro/AtCoderClans/pull/2653) - 記事「[拡張ユークリッドの互除法 〜一次不定方程式 ax + by = c の解き方〜](https://qiita.com/drken/items/b97ff231e43bce50199a)」を追加。
+
 ### 2021-09-02
 
 - [#2650](https://github.com/KATO-Hiro/AtCoderClans/pull/2650) - 「[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)」ページで掲載している[Library Checker Problems](https://judge.yosupo.jp/)の説明文に、[library-checker-testcases](https://github.com/hotman78/library-checker-testcases)を追加。
