@@ -24,6 +24,7 @@ filename: cli
   - [コードの高速化、バックアップなど](#%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E9%AB%98%E9%80%9F%E5%8C%96%E3%83%90%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%81%AA%E3%81%A9)
   - [問題の作成と準備を支援するツール](#%E5%95%8F%E9%A1%8C%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E6%BA%96%E5%82%99%E3%82%92%E6%94%AF%E6%8F%B4%E3%81%99%E3%82%8B%E3%83%84%E3%83%BC%E3%83%AB)
   - [問題を自動で解くツール](#%E5%95%8F%E9%A1%8C%E3%82%92%E8%87%AA%E5%8B%95%E3%81%A7%E8%A7%A3%E3%81%8F%E3%83%84%E3%83%BC%E3%83%AB)
+  - [競技プログラミング専用の言語](#%E7%AB%B6%E6%8A%80%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%B0%82%E7%94%A8%E3%81%AE%E8%A8%80%E8%AA%9E)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -176,3 +177,7 @@ filename: cli
 - [Jikka](https://github.com/kmyk/Jikka) ![GitHub Repo stars](https://img.shields.io/github/stars/kmyk/Jikka?style=plastic) - 式変形を行ったり、データ構造のライブラリを貼ったりするだけで解ける問題を自動で解くツール。
   - [jikka-example](https://github.com/uta8a/jikka-example) ![GitHub Repo stars](https://img.shields.io/github/stars/uta8a/jikka-example?style=plastic) - AtCoder Beginner Contestで出題された問題を対象として、同ツールで生成されたC++コードの正誤状況を検証している。
 - [proof_assistant](https://github.com/kotatsugame/proof_assistant) ![GitHub Repo stars](https://img.shields.io/github/stars/kotatsugame/proof_assistant?style=plastic) - 対話形式で定理を証明するツール。
+
+### 競技プログラミング専用の言語
+
+- [cLay](http://rsujskf.s602.xrea.com/?cLay) - C++風のコードをC++のコードに変換する。
