@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-09-05
+
+- [#2662](https://github.com/KATO-Hiro/AtCoderClans/pull/2662) - 記事「[NTT(数論変換)のやさしい解説](https://sen-comp.hatenablog.com/entry/2021/02/06/180310)」を追加。
+
 ### 2021-09-04
 
 - [#2657](https://github.com/KATO-Hiro/AtCoderClans/pull/2657), [#2658](https://github.com/KATO-Hiro/AtCoderClans/pull/2658) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページに、サブカテゴリ「[競技プログラミング専用の言語](https://kato-hiro.github.io/AtCoderClans/cli#%E7%AB%B6%E6%8A%80%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%B0%82%E7%94%A8%E3%81%AE%E8%A8%80%E8%AA%9E)」を新設。以下の専用言語を追加。
