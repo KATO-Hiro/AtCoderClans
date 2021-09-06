@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-09-06
+
+- [#2666](https://github.com/KATO-Hiro/AtCoderClans/pull/2666) - 記事「[競プロのための高速フーリエ変換](https://www.creativ.xyz/fast-fourier-transform/)」を追加。
+
 ### 2021-09-05
 
 - [#2662](https://github.com/KATO-Hiro/AtCoderClans/pull/2662) - 記事「[NTT(数論変換)のやさしい解説](https://sen-comp.hatenablog.com/entry/2021/02/06/180310)」を追加。
