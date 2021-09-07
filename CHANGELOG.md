@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-09-07
+
+- [#2670](https://github.com/KATO-Hiro/AtCoderClans/pull/2670) - 記事「[競技プログラミングで解法を思いつくための典型的な考え方](https://algo-logic.info/how-to-think-cp/)」を追加。
+
 ### 2021-09-06
 
 - [#2666](https://github.com/KATO-Hiro/AtCoderClans/pull/2666) - 記事「[競プロのための高速フーリエ変換](https://www.creativ.xyz/fast-fourier-transform/)」を追加。
