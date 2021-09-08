@@ -415,6 +415,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/ac_favorite_manager.png" alt="ac favorite manager">
   </div>
 
+- [ASPR](https://greasyfork.org/ja/scripts/431708-aspr) - AtCoder Beginners Contestの「問題」ページで、類似問題へのリンクを追加する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/aspr.png" alt="aspr">
+  </div>
+
 - [AtCoder Auto Pager](https://greasyfork.org/ja/scripts/421991-atcoder-auto-pager) - 「順位表」ページに、順位・得点・解答時間・パフォーマンスによる検索機能を追加する。注: パフォーマンスによる検索を行うためには、[ac-predictor](https://greasyfork.org/ja/scripts/369954-ac-predictor)を導入する必要がある。
 
   <div align="center">
