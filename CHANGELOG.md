@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-09-08
+
+- [#2674](https://github.com/KATO-Hiro/AtCoderClans/pull/2674) - ユーザスクリプト「[ASPR](https://greasyfork.org/ja/scripts/431708-aspr)」を追加。
+
 ### 2021-09-07
 
 - [#2670](https://github.com/KATO-Hiro/AtCoderClans/pull/2670) - 記事「[競技プログラミングで解法を思いつくための典型的な考え方](https://algo-logic.info/how-to-think-cp/)」を追加。
