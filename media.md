@@ -318,6 +318,7 @@ filename: media
 - [Pythonで競プロするのに必要な機能をまとめてみた〜itertools〜](https://qiita.com/DaikiSuyama/items/11f63a94d63fa72e8bf4) - Pythonのitertoolsライブラリのうち、競技プログラミングでよく使う関数をドキュメント形式でまとめた記事。関数の使い方だけでなく、関連した例題も掲載されている。
 - [Pythonで競プロやるときによく書くコードをまとめてみた](https://qiita.com/y-tsutsu/items/aa7e8e809d6ac167d6a1) - コンテストにPythonで参加する人に向けて、入出力やデータ操作、リスト内包表記などについて解説されている。
 - [Pythonで使う競技プログラミング用チートシート](https://qiita.com/_-_-_-_-_/items/34f933adc7be875e61d0) - 競技プログラミングでPythonを利用するときに必要な入出力、二分探索、文字列操作に関するチートシート。注: 記事の最終更新日時が2019年8月のため、最新のジャッジシステムに対応した書き方を調べる必要がある。
+- [PythonでMultisetっぽいことをする(heapqを用いた実装)](https://qiita.com/mymelochan/items/0c72d8b7ae8d9c3d836a) - Pythonで、C++の`Multiset`に相当する機能の実装方法を紹介した記事。筆者による注: 擬似`Multiset`での二分探索はできない。
 - [Pythonで理解する蟻本（プログラミングコンテストチャレンジブック）](https://kuruton.hatenablog.com/entry/2020/10/05/001533) - Pythonユーザが、後述する「[プログラミングコンテストチャレンジブック [第2版] ～問題解決のアルゴリズム活用力とコーディングテクニックを鍛える～](https://www.amazon.co.jp/dp/B00CY9256C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)」(通称、蟻本)を理解するために書かれた記事。原著のコード(C++)が忠実にPythonで書き直されている。
 - [Pythonで"in list"から"in set"に変えただけで爆速になった件とその理由](https://qiita.com/kitadakyou/items/6f877edd263f097e78f4) - 要素群の中に特定の要素があるか探す処理を、listの代わりにsetを使って高速化する方法を紹介した記事。また、listとsetの実装の違いについても解説されている。
 
