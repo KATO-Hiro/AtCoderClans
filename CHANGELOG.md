@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-09-10
+
+- [#2681](https://github.com/KATO-Hiro/AtCoderClans/pull/2681), [#2682](https://github.com/KATO-Hiro/AtCoderClans/pull/2682) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの2021年7月分を[月別のアーカイブ](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2021_07.md)に移動。
+
 ### 2021-09-09
 
 - [#2679](https://github.com/KATO-Hiro/AtCoderClans/pull/2679) - 記事「[PythonでMultisetっぽいことをする(heapqを用いた実装)](https://qiita.com/mymelochan/items/0c72d8b7ae8d9c3d836a)」を追加。
