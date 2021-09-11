@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-09-11
+
+- [#2687](https://github.com/KATO-Hiro/AtCoderClans/pull/2687) - 記事「[コードテストで速度測定済！PythonによるAtCoderスニペット集(1)基本編](https://qiita.com/toast-uz/items/f7a9f586853300732a2b)」を追加。
+
 ### 2021-09-10
 
 - [#2681](https://github.com/KATO-Hiro/AtCoderClans/pull/2681), [#2682](https://github.com/KATO-Hiro/AtCoderClans/pull/2682) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの2021年7月分を[月別のアーカイブ](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2021_07.md)に移動。
