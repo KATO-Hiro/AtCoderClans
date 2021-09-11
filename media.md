@@ -309,6 +309,7 @@ filename: media
 - [競プロ界隈でpython強者がやっていることをまとめてみた](https://qiita.com/dekamisako/items/1c104e332351ab9389a6) - Python利用者に向けて、入出力や上位陣が利用している便利なコード集をまとめた記事。
 - [競プロの応用事項確認〜ランレングス圧縮〜](https://qiita.com/DaikiSuyama/items/07e237b7372e7c7b3432) - 競技プログラミングにおけるランレングス圧縮の利用方法とPythonによる実装方法を解説した記事。また、例題が豊富に掲載されている。
 - [[競プロ] 割と真面目にPythonからC++のsetを使えるようにしたのでみんな使ってみてほしい](https://nagiss.hateblo.jp/entry/2020/09/08/203701) - データ構造の一つである平行二分木が必要になったときに、PythonからC++のstd::setを利用する方法を紹介した記事。Pythonのラッパークラスについて、各メソッドの仕様と計算量が丁寧に解説されている。
+- [コードテストで速度測定済！PythonによるAtCoderスニペット集(1)基本編](https://qiita.com/toast-uz/items/f7a9f586853300732a2b) - [ToastUz](https://atcoder.jp/users/ToastUz)さんのスニペット集。AtCoderのコードテストで、Python(3.8)とPyPy3のベンチマークが取られているのが特徴。
 - [しゃくとり法のDequeを使ったバグりにくい実装](https://qiita.com/keroru/items/6e0a22e8c9bf2a24dc68) - 添え字のミスが起こりがちな尺取り法について、両端キュー(deque)を利用して実装する方法が紹介されている。
 - [絶対に競プロ以外では書いてはいけない！書いたら○されると思え！なテクニック集](https://qiita.com/kotaro912214/items/575fd778d062703304ea) - 競技プログラミングでPythonのコードを素早く書くことを最優先としたテクニック集。注: 業務で書くコードでは可読性や再利用性などが重視されるため、記事で紹介されている方法は基本的に利用しないことを推奨。
 - [Python3で競技プログラミングする時に知っておきたいtips（入力編）](https://qiita.com/kyuna/items/8ee8916c2f4e36321a1c) - Python利用者に向けて、初心者がつまづきがちなデータの入力方法を詳細に解説した記事。
