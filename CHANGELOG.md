@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-09-12
+
+- [#2689](https://github.com/KATO-Hiro/AtCoderClans/pull/2689) - 記事「[コードテストで速度測定済！PythonによるAtCoderスニペット集(2)応用編](https://qiita.com/toast-uz/items/bf6f142bace86c525532)」を追加。
+
 ### 2021-09-11
 
 - [#2687](https://github.com/KATO-Hiro/AtCoderClans/pull/2687) - 記事「[コードテストで速度測定済！PythonによるAtCoderスニペット集(1)基本編](https://qiita.com/toast-uz/items/f7a9f586853300732a2b)」を追加。
