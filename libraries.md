@@ -101,8 +101,8 @@ filename: libraries
 #### ACL CSharp
 
 - [key-moon/ac-library-cs](https://github.com/key-moon/ac-library-cs) ![GitHub stars](https://img.shields.io/github/stars/key-moon/ac-library-cs?style=plastic) - C#版。
-- [naminodarie/ac-library-csharp](https://github.com/naminodarie/ac-library-csharp) ![GitHub Repo stars](https://img.shields.io/github/stars/naminodarie/ac-library-csharp?style=plastic) - [key-moon/ac-library-cs](https://github.com/key-moon/ac-library-cs)をベースに拡張したレポジトリ。ソースコードの埋め込み機能、C++ STLの移植、ac-libraryの最新版への追従対応を行っている。
-- [naminodarie/SourceExpander](https://github.com/naminodarie/SourceExpander) ![GitHub Repo stars](https://img.shields.io/github/stars/naminodarie/SourceExpander?style=plastic) - [naminodarie/ac-library-csharp](https://github.com/naminodarie/ac-library-csharp)を利用したコードをジャッジシステムに提出できる形式に変換するライブラリ。
+- [kzrnm/ac-library-csharp](https://github.com/kzrnm/ac-library-csharp) ![GitHub Repo stars](https://img.shields.io/github/stars/kzrnm/ac-library-csharp?style=plastic) - [key-moon/ac-library-cs](https://github.com/key-moon/ac-library-cs)をベースに拡張したレポジトリ。ソースコードの埋め込み機能、C++ STLの移植、ac-libraryの最新版への追従対応を行っている。
+- [kzrnm/SourceExpander](https://github.com/kzrnm/SourceExpander) ![GitHub Repo stars](https://img.shields.io/github/stars/kzrnm/SourceExpander?style=plastic) - [kzrnm/ac-library-csharp](https://github.com/kzrnm/ac-library-csharp)を利用したコードをジャッジシステムに提出できる形式に変換するライブラリ。
 
 #### ACL D
 
@@ -207,7 +207,7 @@ filename: libraries
 - [key-moon/Library](https://github.com/key-moon/Library) ![GitHub stars](https://img.shields.io/github/stars/key-moon/Library?style=plastic) - [keymoon](https://atcoder.jp/users/keymoon)さんのライブラリ。
 - [kuuso/comp_pro_csharp](https://github.com/kuuso/comp_pro_csharp) ![GitHub stars](https://img.shields.io/github/stars/kuuso/comp_pro_csharp?style=plastic) - [kuuso](https://atcoder.jp/users/kuuso)さんのライブラリ。[Python版](https://github.com/kuuso/comp_pro_python)もある。
 - [mban259/CompLib](https://github.com/mban259/CompLib) ![GitHub stars](https://img.shields.io/github/stars/mban259/CompLib?style=plastic) - [mban](https://atcoder.jp/users/mban)さんのライブラリ。
-- [naminodarie/Kzrnm.Competitive](https://github.com/naminodarie/Kzrnm.Competitive) ![GitHub stars](https://img.shields.io/github/stars/naminodarie/Kzrnm.Competitive?style=plastic) - [naminodarie](https://atcoder.jp/users/naminodarie)さんのライブラリ。
+- [kzrnm/Kzrnm.Competitive](https://github.com/kzrnm/Kzrnm.Competitive) ![GitHub stars](https://img.shields.io/github/stars/kzrnm/Kzrnm.Competitive?style=plastic) - [naminodarie](https://atcoder.jp/users/naminodarie)さんのライブラリ。
 - [riantkb/csharp](https://github.com/riantkb/csharp) ![GitHub stars](https://img.shields.io/github/stars/riantkb/csharp?style=plastic) - [riantkb](https://atcoder.jp/users/riantkb)さんのスニペット集。
 - [terry-u16/AtCoderTemplateForNetCore](https://github.com/terry-u16/AtCoderTemplateForNetCore) ![GitHub stars](https://img.shields.io/github/stars/terry-u16/AtCoderTemplateForNetCore?style=plastic) - [terry_u16](https://atcoder.jp/users/terry_u16)さんのテンプレート。
 - [yupiteru/AtCoder](https://github.com/yupiteru/AtCoder) ![GitHub stars](https://img.shields.io/github/stars/yupiteru/AtCoder?style=plastic) - [yupiteru](https://atcoder.jp/users/yupiteru)さんのライブラリとテンプレート。
