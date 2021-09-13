@@ -6,8 +6,14 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-09-13
+
+- [#2696](https://github.com/KATO-Hiro/AtCoderClans/pull/2696) - [#2691](https://github.com/KATO-Hiro/AtCoderClans/pull/2691)に伴い、関連するリンクを修正。
+- [#2694](https://github.com/KATO-Hiro/AtCoderClans/pull/2694) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、オンラインドキュメント「[競プロのための標準 C++](https://zenn.dev/reputeless/books/standard-cpp-for-competitive-programming)」を追加。
+
 ### 2021-09-12
 
+- [#2691](https://github.com/KATO-Hiro/AtCoderClans/pull/2691) - [kzrnm](https://github.com/kzrnm)さんのプルリクエストにより、ユーザIDの変更に対応。
 - [#2689](https://github.com/KATO-Hiro/AtCoderClans/pull/2689) - 記事「[コードテストで速度測定済！PythonによるAtCoderスニペット集(2)応用編](https://qiita.com/toast-uz/items/bf6f142bace86c525532)」を追加。
 
 ### 2021-09-11
