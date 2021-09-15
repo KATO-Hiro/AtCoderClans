@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-09-15
+
+- [#2702](https://github.com/KATO-Hiro/AtCoderClans/pull/2702) - 記事「[chokudaiサーチ(ビームサーチ亜種)の利点の話](https://chokudai.hatenablog.com/entry/2017/04/12/055515)」を追加。
+
 ### 2021-09-14
 
 - [#2700](https://github.com/KATO-Hiro/AtCoderClans/pull/2700) - [@tatt61880](https://twitter.com/tatt61880)さんのご指摘を受けて、記事「[AtCoder Library (日本語訳)](https://drken1215.hatenablog.com/entry/2020/09/08/181500)」のURLを修正。
