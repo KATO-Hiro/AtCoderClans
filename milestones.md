@@ -73,6 +73,7 @@ filename: milestones
 - [AtCoder水色になりました - ころも（競プロ）のブログ](https://koromo-kyopro.hatenablog.com/entry/2021/06/20/023359) - [uytvcc](https://atcoder.jp/users/uytvcc)さんが、2021年6月12日に達成。
 - [AtCoder 水色になりました - harurun競プロ](https://harurunppp.hatenablog.com/entry/2021/08/11/010053) - [harurun](https://atcoder.jp/users/harurun)さんが、2021年8月8日に達成。
 - [【色変記事】実務未経験がAtCoderで水色になるまで](https://qiita.com/nizi24/items/f370cf0abfd349884baa) - [nizi24](https://atcoder.jp/users/nizi24)さんが、2021年8月21日に達成。
+- [AtCoder入水 - moharanの競プロ](https://moharan.hatenablog.com/entry/2021/09/16/174124) - [moharan](https://atcoder.jp/users/moharan)さんが、2021年9月11日に達成。
 
 ### レーティング1600から1999まで(青色)
 
