@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-09-16
+
+- [#2706](https://github.com/KATO-Hiro/AtCoderClans/pull/2706) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1200から1599まで(水色)に[moharan](https://atcoder.jp/users/moharan)さんの[記事](https://moharan.hatenablog.com/entry/2021/09/16/174124)を追加。
+
 ### 2021-09-15
 
 - [#2702](https://github.com/KATO-Hiro/AtCoderClans/pull/2702) - 記事「[chokudaiサーチ(ビームサーチ亜種)の利点の話](https://chokudai.hatenablog.com/entry/2017/04/12/055515)」を追加。
