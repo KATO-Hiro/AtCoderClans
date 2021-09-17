@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-09-17
+
+- [#2712](https://github.com/KATO-Hiro/AtCoderClans/pull/2712) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、記事「[AtCoderをするとき、入れておくといい拡張機能など](https://scrapbox.io/magurofly/AtCoder%E3%82%92%E3%81%99%E3%82%8B%E3%81%A8%E3%81%8D%E3%80%81%E5%85%A5%E3%82%8C%E3%81%A6%E3%81%8A%E3%81%8F%E3%81%A8%E3%81%84%E3%81%84%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD%E3%81%AA%E3%81%A9)」を追加。
+
 ### 2021-09-16
 
 - [#2706](https://github.com/KATO-Hiro/AtCoderClans/pull/2706) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
