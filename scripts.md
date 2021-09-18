@@ -546,6 +546,10 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/virtual_contest_upsolver.png" alt="virtual contest upsolver">
   </div>
 
+### ユーザスクリプトの開発に関する知見
+
+- [UserscriptをTypeScriptで書く](https://iilj.github.io/txt/userscript/2021/07/31/userscript-typescript.html) - ユーザスクリプトをTypeScriptで開発する方法について紹介した記事。
+
 ## Google Chromeの拡張機能
 
 Google Chromeに機能を追加します。
