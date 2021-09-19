@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-09-19
+
+- [#2721](https://github.com/KATO-Hiro/AtCoderClans/pull/2721) - 記事「[伝家の宝刀　クエリ平方分割について](https://sigma1113.hatenablog.com/entry/2020/12/15/225256)」を追加。
+
 ### 2021-09-18
 
 - [#2717](https://github.com/KATO-Hiro/AtCoderClans/pull/2717) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、記事「[UserscriptをTypeScriptで書く](https://iilj.github.io/txt/userscript/2021/07/31/userscript-typescript.html)」を追加。
