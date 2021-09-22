@@ -6,6 +6,13 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-09-22
+
+- [#2744](https://github.com/KATO-Hiro/AtCoderClans/pull/2744) - 記事「[マラソンマッチにおける精神論](https://chokudai.hatenablog.com/entry/2014/12/04/000132)」を追加。
+- [#2743](https://github.com/KATO-Hiro/AtCoderClans/pull/2743) - 記事「[マラソンマッチで最初の12時間にすべきこと](https://hama-du.hatenablog.com/entry/2015/12/14/000000)」を追加。
+- [#2742](https://github.com/KATO-Hiro/AtCoderClans/pull/2742) - Webアプリ「[Rating converter](https://silverfoxxxy.github.io/rating-converter)」を追加。
+- [#2740](https://github.com/KATO-Hiro/AtCoderClans/pull/2740) - (破壊的な変更) [#2624](https://github.com/KATO-Hiro/AtCoderClans/pull/2624)に関連して、URLの変更に対応。
+
 ### 2021-09-21
 
 - [#2734](https://github.com/KATO-Hiro/AtCoderClans/pull/2734) - 記事「[AtCoder Heuristic Contest 001 (AHC001) 初心者向け解説](https://www.terry-u16.net/entry/ahc001-how-to)」を追加。
