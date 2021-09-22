@@ -364,6 +364,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/cp_badges.png" alt="cp badges">
   </div>
 
+- [Rating converter](https://silverfoxxxy.github.io/rating-converter) - [AtCoder](https://atcoder.jp/)のレーティングから、[Codeforces](https://codeforces.com/)のレーティング相当値を知ることができる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/rating_converter.png" alt="rating converter">
+  </div>
+
 - [あなたのレートはどこから?](https://rating-history.herokuapp.com/rating.html) - レーティングが、どのコンテスト区分(ABC、ARC、AGC、その他)から得られているかを求める。
 
   <div align="center">
