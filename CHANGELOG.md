@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-09-23
+
+- [#2750](https://github.com/KATO-Hiro/AtCoderClans/pull/2750) - 記事「[マラソンマッチの簡単な解法](https://shindannin.hatenadiary.com/entry/2017/12/19/092140)」を追加。
+- [#2749](https://github.com/KATO-Hiro/AtCoderClans/pull/2749) - 記事「[マラソンマッチの取り組み方](http://www.colun.net/archives/294)」を追加。
+- [#2748](https://github.com/KATO-Hiro/AtCoderClans/pull/2748) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページで掲載している競技プログラミング専用言語[Niu](https://github.com/niuez/Niu)の説明文に、Webブラウザ上で利用できる[Playground](https://niuez.github.io/NiuPlayground/)のリンクを追加。
+
 ### 2021-09-22
 
 - [#2744](https://github.com/KATO-Hiro/AtCoderClans/pull/2744) - 記事「[マラソンマッチにおける精神論](https://chokudai.hatenablog.com/entry/2014/12/04/000132)」を追加。
