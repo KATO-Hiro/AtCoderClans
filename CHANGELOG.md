@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-09-24
+
+- [#2756](https://github.com/KATO-Hiro/AtCoderClans/pull/2756) - 記事「[Marathon Matchでいつもやってること](http://web.archive.org/web/20170809211026/http://topcoder.g.hatena.ne.jp/tomerun/20120502)」を追加。
+
 ### 2021-09-23
 
 - [#2750](https://github.com/KATO-Hiro/AtCoderClans/pull/2750) - 記事「[マラソンマッチの簡単な解法](https://shindannin.hatenadiary.com/entry/2017/12/19/092140)」を追加。
