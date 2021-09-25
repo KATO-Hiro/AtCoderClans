@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-09-25
+
+- [#2761](https://github.com/KATO-Hiro/AtCoderClans/pull/2761) - 記事「[Topcoderマラソンマッチの探索問題で重要なこと](https://qiita.com/takapt0226/items/b2f6d1d77a034b529e21)」を追加。
+
 ### 2021-09-24
 
 - [#2756](https://github.com/KATO-Hiro/AtCoderClans/pull/2756) - 記事「[Marathon Matchでいつもやってること](http://web.archive.org/web/20170809211026/http://topcoder.g.hatena.ne.jp/tomerun/20120502)」を追加。
