@@ -253,6 +253,7 @@ filename: media
 - [AHC003の2.926T解法+経緯](https://qiita.com/contramundum/items/b945400b81536df42d1a) - [eivour](https://atcoder.jp/users/eivour)さんが、[AtCoder Heuristic Contest 003](https://atcoder.jp/contests/ahc003)での最終解法と、その経緯などを紹介した記事。
 - [chokudaiサーチ(ビームサーチ亜種)の利点の話](https://chokudai.hatenablog.com/entry/2017/04/12/055515) - 探索アルゴリズムの一種であるchokudaiサーチについて解説されている記事。Beam Stack Searchと比べて、時間管理が楽になることや探索の多様性を考慮できることに特徴がある。
 - [Marathon Matchでいつもやってること](http://web.archive.org/web/20170809211026/http://topcoder.g.hatena.ne.jp/tomerun/20120502) - [tomerun](https://atcoder.jp/users/tomerun)さんが、ヒューリスティック型コンテストに関するノウハウをまとめた記事。
+- [Topcoderマラソンマッチの探索問題で重要なこと](https://qiita.com/takapt0226/items/b2f6d1d77a034b529e21) - ヒューリスティック型コンテストにおいて、汎用的な内容(時間を確保する・注意深く考察する・有名アルゴリズムに囚われない)と探索問題に特化した知見がまとめられている記事。
 - [競プロ解法紹介～大局観で高得点を取る！～](https://qiita.com/tsukammo/items/85ffbe907e89b051d715) - マラソン形式の問題である[Chokudai Contest 001](https://atcoder.jp/contests/chokudai001/)の解法を紹介した記事。愚直な解法から高得点を狙うための着眼点や方法が解説されている。
 - [競プロ解法紹介～レベル別マラソンの戦い方～](https://qiita.com/tsukammo/items/7041a00e429f9f5ac4ae) - マラソン形式の問題である[Hack To The Future 予選問題](https://atcoder.jp/contests/future-contest-2018-qual/)を題材に、初心者から上級者までを対象として、それぞれのレベルに応じた戦い方を紹介した記事。
 - [マラソンマッチで最初の12時間にすべきこと](https://hama-du.hatenablog.com/entry/2015/12/14/000000) - ヒューリスティック型コンテストにおいて、[hamadu](https://atcoder.jp/users/hamadu)さんが普段の取り組みで気をつけていることを紹介した記事。
