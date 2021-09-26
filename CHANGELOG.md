@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-09-26
+
+- [#2765](https://github.com/KATO-Hiro/AtCoderClans/pull/2765) - 記事「[平衡二分木を実装する](https://qiita.com/Kiri8128/items/6256f8559f0026485d90)」を追加。
+
 ### 2021-09-25
 
 - [#2761](https://github.com/KATO-Hiro/AtCoderClans/pull/2761) - 記事「[Topcoderマラソンマッチの探索問題で重要なこと](https://qiita.com/takapt0226/items/b2f6d1d77a034b529e21)」を追加。
