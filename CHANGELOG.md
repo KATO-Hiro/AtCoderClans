@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-09-27
+
+- [#2768](https://github.com/KATO-Hiro/AtCoderClans/pull/2768) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング800から1199まで(緑色)に[koriori](https://atcoder.jp/users/koriori)さんの[記事](https://qiita.com/koriori/items/001e85e790ed8e9fd43b)を追加。
+
 ### 2021-09-26
 
 - [#2765](https://github.com/KATO-Hiro/AtCoderClans/pull/2765) - 記事「[平衡二分木を実装する](https://qiita.com/Kiri8128/items/6256f8559f0026485d90)」を追加。
