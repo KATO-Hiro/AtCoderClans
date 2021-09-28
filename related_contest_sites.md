@@ -242,6 +242,10 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/nyp/new_year's_puzzles.png" alt="new year's puzzles">
   </div>
 
+### 日本数学オリンピック
+
+- [とある数学の凡人](https://www.youtube.com/c/toaru_math/featured) - 日本数学オリンピックの解説動画が多数公開されているYouTubeのチャンネル。最新情報は、[Twitter](https://twitter.com/toaru_math_bot)で確認できる。
+
 ### 入試数学コンテスト
 
 - [入試数学コンテスト](https://manabitimes.jp/tests) - 数学の入試対策ができるコンテストサイト。
