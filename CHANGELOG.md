@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-09-29
+
+- [#2777](https://github.com/KATO-Hiro/AtCoderClans/pull/2777) - 記事「[マラソンマッチにおける頻出Q＆Aと小技](http://web.archive.org/web/20150308101507/https://topcoder.g.hatena.ne.jp/CKomaki/20141202/1418158488)」を追加。
+
 ### 2021-09-28
 
 - [#2771](https://github.com/KATO-Hiro/AtCoderClans/pull/2771) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、日本数学オリンピックの解説動画が多数公開されているYouTubeチャンネル「[とある数学の凡人](https://www.youtube.com/c/toaru_math/featured)」を追加。
