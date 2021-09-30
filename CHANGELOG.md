@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-09-30
+
+- [#2784](https://github.com/KATO-Hiro/AtCoderClans/pull/2784) - 「[For Beginners](https://kato-hiro.github.io/AtCoderClans/for_beginners)」ページに、[アルゴ式](https://algo-method.com/)と[競プロ典型90問](https://atcoder.jp/contests/typical90)を追加。
+- [#2783](https://github.com/KATO-Hiro/AtCoderClans/pull/2783) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページで掲載している「[Jikka](https://github.com/kmyk/Jikka)」の説明文に、Webブラウザ上で利用できる[Playground](https://kmyk.github.io/Jikka/playground/)のリンクを追加。
+
 ### 2021-09-29
 
 - [#2777](https://github.com/KATO-Hiro/AtCoderClans/pull/2777) - 記事「[マラソンマッチにおける頻出Q＆Aと小技](http://web.archive.org/web/20150308101507/https://topcoder.g.hatena.ne.jp/CKomaki/20141202/1418158488)」を追加。
