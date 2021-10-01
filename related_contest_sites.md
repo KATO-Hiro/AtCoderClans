@@ -291,6 +291,7 @@ filename: related_contest_sites
 
 #### 記事
 
+- [MarathonMatchトレーニングのための過去問レビュー](http://web.archive.org/web/20150516031822/http://topcoder.g.hatena.ne.jp/tomerun/20141201) - [tomerun](https://atcoder.jp/users/tomerun)さんが、ヒューリスティック型コンテストの過去問についてジャンル分けとオススメ度をまとめた記事。注: 記事は、2014年12月1日時点の内容であるため、最近のコンテストと傾向が大きく異なる可能性もある。
 - [TopCoderをはじめよう！(2021年版) Python/C++対応版](https://qiita.com/recuraki/items/a359624c2981e82853d5) - Single Round Match (SRM)に参加するために必要な環境構築の方法と基本操作を日本語で解説した記事。注意事項が丁寧に解説されているのが特徴。
 
 #### プラグイン
