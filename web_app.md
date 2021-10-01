@@ -38,7 +38,7 @@ filename: web_app
 
 ### 過去問を解く
 
-- [AtCoder List](http://atcoder-list.herokuapp.com) - 過去問から自分専用の問題リストを作ることができる。問題の一覧は、後述の[AtCoder Problems](https://kenkoooo.com/atcoder/)などで見ることができる。
+- [AtCoder List](http://atcoder-list.herokuapp.com) - 過去問から自分専用の問題リストを作ることができる。コンテストで出題された問題の情報は、後述の[AtCoder Problems](https://kenkoooo.com/atcoder/)や[AtCoder Scores](http://atcoder-scores.herokuapp.com/)などを参照されたい。
 
   <div align="center">
     <img loading = "lazy" src="images/web_app/atcoder_list.png" alt="atcoder problems">
