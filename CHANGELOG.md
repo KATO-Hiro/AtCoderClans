@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-10-01
+
+- [#2788](https://github.com/KATO-Hiro/AtCoderClans/pull/2788) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、記事「[MarathonMatchトレーニングのための過去問レビュー](http://web.archive.org/web/20150516031822/http://topcoder.g.hatena.ne.jp/tomerun/20141201)」を追加。
+
 ### 2021-09-30
 
 - [#2784](https://github.com/KATO-Hiro/AtCoderClans/pull/2784) - 「[For Beginners](https://kato-hiro.github.io/AtCoderClans/for_beginners)」ページに、[アルゴ式](https://algo-method.com/)と[競プロ典型90問](https://atcoder.jp/contests/typical90)を追加。
