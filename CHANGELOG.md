@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-10-03
+
+- [#2793](https://github.com/KATO-Hiro/AtCoderClans/pull/2793) - ユーザスクリプト「[AtCoder Easy Test v2](https://greasyfork.org/ja/scripts/433152-atcoder-easy-test-v2)」を追加。
+
 ### 2021-10-02
 
 - [#2790](https://github.com/KATO-Hiro/AtCoderClans/pull/2790) - Webアプリ「[AtCoder List](http://atcoder-list.herokuapp.com)」を追加。
