@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-10-04
+
+- [#2798](https://github.com/KATO-Hiro/AtCoderClans/pull/2798) - 記事「[【Atcoder】JavaScriptでもC++のSTLが使いたい！](https://qiita.com/sdk40010/items/a93eebcb5e55c154e577)」を追加。
+
 ### 2021-10-03
 
 - [#2793](https://github.com/KATO-Hiro/AtCoderClans/pull/2793) - ユーザスクリプト「[AtCoder Easy Test v2](https://greasyfork.org/ja/scripts/433152-atcoder-easy-test-v2)」を追加。
