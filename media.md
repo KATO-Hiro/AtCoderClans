@@ -30,6 +30,7 @@ filename: media
     - [CPlusPlus](#cplusplus-1)
     - [CSharp](#csharp)
     - [dc](#dc)
+    - [JavaScript](#javascript)
     - [Python](#python-1)
     - [Ruby](#ruby)
     - [Rust](#rust-1)
@@ -310,6 +311,10 @@ filename: media
 #### dc
 
 - [AtCoderのABCのA問題でdcで書きやすいものまとめ](https://qiita.com/shogo314/items/fff4be1573d2f86dba2a) - AtCoder Beginner Contest 100までのA問題を対象として、各問題の解答の方針がまとめられている。
+
+#### JavaScript
+
+- [【Atcoder】JavaScriptでもC++のSTLが使いたい！](https://qiita.com/sdk40010/items/a93eebcb5e55c154e577) - JavaScript(TypeScript)環境で、C++の標準ライブラリStandard Template Library (STL)を利用する方法について紹介した記事。
 
 #### Python
 
