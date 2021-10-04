@@ -30,6 +30,7 @@ filename: media
     - [CPlusPlus](#cplusplus-1)
     - [CSharp](#csharp)
     - [dc](#dc)
+    - [JavaScript](#javascript)
     - [Python](#python-1)
     - [Ruby](#ruby)
     - [Rust](#rust-1)
