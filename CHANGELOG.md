@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-10-05
+
+- [#2801](https://github.com/KATO-Hiro/AtCoderClans/pull/2801) - 記事「[桁DPの思想〜K以下の整数を走査するとはどういうことか〜](https://drken1215.hatenablog.com/entry/2019/02/04/013700)」を追加。
+
 ### 2021-10-04
 
 - [#2798](https://github.com/KATO-Hiro/AtCoderClans/pull/2798) - 記事「[【Atcoder】JavaScriptでもC++のSTLが使いたい！](https://qiita.com/sdk40010/items/a93eebcb5e55c154e577)」を追加。
