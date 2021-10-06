@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-10-06
+
+- [#2807](https://github.com/KATO-Hiro/AtCoderClans/pull/2807) - 記事「[ものすごく丁寧でわかりやすいABC解説一覧 python ～灰色・茶色コーダー向け～ #AtCoder](https://qiita.com/sano192/items/54accd04df62242b70f0)」を追加。
+- [#2806](https://github.com/KATO-Hiro/AtCoderClans/pull/2806) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、YouTubeのチャンネルを追加。
+  - [佐野太郎](https://www.youtube.com/channel/UCE2ID_KiY2kKne7d1zFT7JQ/featured)
+
 ### 2021-10-05
 
 - [#2801](https://github.com/KATO-Hiro/AtCoderClans/pull/2801) - 記事「[桁DPの思想〜K以下の整数を走査するとはどういうことか〜](https://drken1215.hatenablog.com/entry/2019/02/04/013700)」を追加。
