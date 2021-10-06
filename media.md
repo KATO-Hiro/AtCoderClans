@@ -341,6 +341,7 @@ filename: media
 - [Pythonで理解する蟻本（プログラミングコンテストチャレンジブック）](https://kuruton.hatenablog.com/entry/2020/10/05/001533) - Pythonユーザが、後述する「[プログラミングコンテストチャレンジブック [第2版] ～問題解決のアルゴリズム活用力とコーディングテクニックを鍛える～](https://www.amazon.co.jp/dp/B00CY9256C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)」(通称、蟻本)を理解するために書かれた記事。原著のコード(C++)が忠実にPythonで書き直されている。
 - [Pythonで"in list"から"in set"に変えただけで爆速になった件とその理由](https://qiita.com/kitadakyou/items/6f877edd263f097e78f4) - 要素群の中に特定の要素があるか探す処理を、listの代わりにsetを使って高速化する方法を紹介した記事。また、listとsetの実装の違いについても解説されている。
 - [平衡二分木を実装する](https://qiita.com/Kiri8128/items/6256f8559f0026485d90) - データ構造の一種である「平衡二分木」をPythonで実装する方法を紹介した記事。平衡を保つために、ピボット値を設定しているのが特徴。
+- [ものすごく丁寧でわかりやすいABC解説一覧 python ～灰色・茶色コーダー向け～ #AtCoder](https://qiita.com/sano192/items/54accd04df62242b70f0) - 主にAtCoder Beginner ContestのA問題〜D問題までを対象とした解説記事の一覧。Pythonで実装されたコードに加えて、詳細なコメントが併記されている。
 
 #### Ruby
 
