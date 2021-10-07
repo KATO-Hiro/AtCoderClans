@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-10-07
+
+- [#2813](https://github.com/KATO-Hiro/AtCoderClans/pull/2813) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1200から1599まで(水色)に[asasan](https://atcoder.jp/users/asasan)さんの[記事](https://zenn.dev/asa/articles/08e9bb8e65e758)を追加。
+
 ### 2021-10-06
 
 - [#2807](https://github.com/KATO-Hiro/AtCoderClans/pull/2807) - 記事「[ものすごく丁寧でわかりやすいABC解説一覧 python ～灰色・茶色コーダー向け～ #AtCoder](https://qiita.com/sano192/items/54accd04df62242b70f0)」を追加。
