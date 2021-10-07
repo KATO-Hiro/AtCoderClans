@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-10-08
+
+- [#2816](https://github.com/KATO-Hiro/AtCoderClans/pull/2816) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[DivineJK](https://atcoder.jp/users/DivineJK)さんの[記事](https://divinejk.hatenablog.com/entry/2021/10/06/212100)を追加。
+
 ### 2021-10-07
 
 - [#2813](https://github.com/KATO-Hiro/AtCoderClans/pull/2813) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
