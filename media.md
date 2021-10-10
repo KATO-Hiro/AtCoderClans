@@ -106,6 +106,7 @@ filename: media
 - [競プロ典型90問](https://twitter.com/e869120/status/1376089196100653060) - [E869120](https://atcoder.jp/users/E869120)さんが、競技プログラミング・アルゴリズムに関する教育的な問題をTwitterに投稿する企画(2021年3月30日から毎朝7時40分。日曜日を除く)。[AtCoder](https://atcoder.jp/contests/typical90)で、ソースコードの提出と正誤の確認ができる。また、同企画の活用方法が[Qiita](https://qiita.com/e869120/items/1b2a5f0f07fd927e44e9)で、解説やサンプルコードなどが[GitHub](https://github.com/E869120/kyopro_educational_90)で、非公式の難易度表が[Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1GG4Higis4n4GJBViVltjcbuNfyr31PzUY_ZY1zh2GuI/edit#gid=0)で、それぞれ公開されている。
   - [企画レポート 〜104日間の軌跡〜](https://drive.google.com/file/d/1YCRma2mD79njHtP88_FiB9ozdhnfEfpz/view)
   - [表彰式・閉会式](https://www.youtube.com/watch?v=CIuTD1Igo1M) 
+  - [有志によるJavaでの実装例](https://github.com/NASU41/tenkei90)
   - [有志によるPythonでの実装例](https://github.com/ryusuke920/kyopro_educational_90_python)
 - [現役高校生が、AtCoderでレッドコーダーになるまでにやってきたこと。プログラミング上達の秘訣を全て教えます](https://engineer-lab.findy-code.io/redcoder) - [E869120](https://atcoder.jp/users/E869120)さんが、競技プログラミングを通して得た経験を共有するために書かれた記事。競技プログラミングやアルゴリズムの面白さ、上達するための練習方法、参考資料などが紹介されている。
   - [私と競プロと教育活動（Qiita Night LT 資料）](https://www.slideshare.net/MasatakaYoneda/qiita-night-lt) - 上記の記事の続編とも言えるスライド。
