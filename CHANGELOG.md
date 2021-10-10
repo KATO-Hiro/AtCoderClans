@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-10-10
+
+- [#2826](https://github.com/KATO-Hiro/AtCoderClans/pull/2826) - [競プロ典型90問](https://twitter.com/e869120/status/1376089196100653060)の説明文に、有志によるJavaでの実装例を追加。
+  - [NASU41/tenkei90](https://github.com/NASU41/tenkei90)
+
 ### 2021-10-09
 
 - [#2824](https://github.com/KATO-Hiro/AtCoderClans/pull/2824) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
