@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-10-11
+
+- [#2830](https://github.com/KATO-Hiro/AtCoderClans/pull/2830) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、VTuberのチャンネルを追加。
+  - [ちょこちょこっ](https://www.youtube.com/c/chocochocoxtu/featured)
+
 ### 2021-10-10
 
 - [#2826](https://github.com/KATO-Hiro/AtCoderClans/pull/2826) - [競プロ典型90問](https://twitter.com/e869120/status/1376089196100653060)の説明文に、有志によるJavaでの実装例を追加。
