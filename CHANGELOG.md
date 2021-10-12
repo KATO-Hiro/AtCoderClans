@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-10-12
+
+- [#2834](https://github.com/KATO-Hiro/AtCoderClans/pull/2834) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、VTuberのチャンネルを追加。
+  - [あかしあ みどり](https://www.youtube.com/channel/UCkIaUs9Z43s1cSLS8mh9ppg)
+
 ### 2021-10-11
 
 - [#2830](https://github.com/KATO-Hiro/AtCoderClans/pull/2830) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、VTuberのチャンネルを追加。
