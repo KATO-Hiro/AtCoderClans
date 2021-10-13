@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-10-13
+
+- [#2838](https://github.com/KATO-Hiro/AtCoderClans/pull/2838) - リンク切れと思われるライブラリを一時的に「Archived」ページに移動。
+
 ### 2021-10-12
 
 - [#2834](https://github.com/KATO-Hiro/AtCoderClans/pull/2834) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、VTuberのチャンネルを追加。
