@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-10-14
+
+- [#2840](https://github.com/KATO-Hiro/AtCoderClans/pull/2840), [#2841](https://github.com/KATO-Hiro/AtCoderClans/pull/2841) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの2021年8月分を[月別のアーカイブ](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2021_08.md)に移動。
+
 ### 2021-10-13
 
 - [#2838](https://github.com/KATO-Hiro/AtCoderClans/pull/2838) - リンク切れと思われるライブラリを一時的に「Archived」ページに移動。
