@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-10-15
+
+- [#2847](https://github.com/KATO-Hiro/AtCoderClans/pull/2847) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、「[「だから慶応は学歴自慢じゃないっつーの」、4部合唱にして歌ってみました！](https://twitter.com/TumoiYorozu/status/1448666012639895562)」を追加。
+
 ### 2021-10-14
 
 - [#2840](https://github.com/KATO-Hiro/AtCoderClans/pull/2840), [#2841](https://github.com/KATO-Hiro/AtCoderClans/pull/2841) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの2021年8月分を[月別のアーカイブ](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2021_08.md)に移動。
