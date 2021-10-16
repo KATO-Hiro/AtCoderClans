@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-10-17
+
+- [#2856](https://github.com/KATO-Hiro/AtCoderClans/pull/2856) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング800から1199まで(緑色)に[malleus](https://atcoder.jp/users/malleus)さんの[記事](https://malleroid.hatenablog.com/entry/2021/10/03/142940)を追加。
+- [#2855](https://github.com/KATO-Hiro/AtCoderClans/pull/2855) - リンク切れと思われる記事を一時的に「Archived」ページに移動。
+
 ### 2021-10-16
 
 - [#2850](https://github.com/KATO-Hiro/AtCoderClans/pull/2850) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページのサブカテゴリ「[競技プログラミング専用の言語](https://kato-hiro.github.io/AtCoderClans/cli#%E7%AB%B6%E6%8A%80%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%B0%82%E7%94%A8%E3%81%AE%E8%A8%80%E8%AA%9E)」に専用言語を追加。
