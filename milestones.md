@@ -55,6 +55,7 @@ filename: milestones
 - [【WebエンジニアのAtcoder記】入緑しました！](https://qiita.com/kotaaaa/items/ddcf7f3e92e789731a7e) - [kotakota1110](https://atcoder.jp/users/kotakota1110)さんが、2021年8月21日に達成。
 - [茶停滞から緑までの言語化](https://zenn.dev/burita083/articles/40a8b606152c06) - [burita083](https://atcoder.jp/users/burita083)さんが、2021年8月29日に達成。
 - [atcoderで入緑したのでやったことをまとめる](https://qiita.com/koriori/items/001e85e790ed8e9fd43b) - [koriori](https://atcoder.jp/users/koriori)さんが、2021年9月26日に達成。
+- [業プロerが入緑した話 - ひたすらに雑記](https://malleroid.hatenablog.com/entry/2021/10/03/142940) - [malleus](https://atcoder.jp/users/malleus)さんが、2021年10月2日に達成。[別記事](https://qiita.com/malleroid/items/1a20d87dd8ddb85c01ba)で、学習方法や学んだアルゴリズム・データ構造が紹介されている。
 
 ### レーティング1200から1599まで(水色)
 
