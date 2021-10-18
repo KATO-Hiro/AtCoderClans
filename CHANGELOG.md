@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-10-18
+
+- [#2872](https://github.com/KATO-Hiro/AtCoderClans/pull/2872), [#2874](https://github.com/KATO-Hiro/AtCoderClans/pull/2874) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング800から1199まで(緑色)に[chacoder](https://atcoder.jp/users/chacoder)さんの[記事](https://chacoder.hatenablog.com/entry/2020/09/20/004145)を追加。
+  - レーティング400から799まで(茶色)に[mmotoi](https://atcoder.jp/users/mmotoi)さんの[記事](https://note.com/mmotoi42/n/n63ebe30d01cc)を追加。
+
 ### 2021-10-17
 
 - [#2856](https://github.com/KATO-Hiro/AtCoderClans/pull/2856) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
