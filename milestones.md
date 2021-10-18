@@ -37,6 +37,7 @@ filename: milestones
 - [社会人がAtCoder始めて入茶した話٩( ᐛ )و - ひたすらに雑記](https://malleroid.hatenablog.com/entry/2021/04/03/204651) - [malleus](https://atcoder.jp/users/malleus)さんが、2021年3月27日に達成。
 - [AtCoderのRatedコンテストに200回参加しても茶色だけど、もう少し続けるよという話](https://1783.hatenablog.com/entry/2021/06/01/194504) - [inaba3](https://atcoder.jp/users/inaba3)さんが、2021年6月1日に公開。
 - [Python未経験からAtCoder茶色になったよ！ - Dr. Koala’s Blog](https://mountkoara.hatenablog.com/entry/2021/06/29/Python%E6%9C%AA%E7%B5%8C%E9%A8%93%E3%81%8B%E3%82%89AtCoder%E8%8C%B6%E8%89%B2%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%82%88%EF%BC%81) - [DY811](https://atcoder.jp/users/DY811)さんが、2021年6月26日に達成。
+- [Atcoder茶色になったので備忘録](https://note.com/mmotoi42/n/n63ebe30d01cc) - [mmotoi](https://atcoder.jp/users/mmotoi)さんが、2021年7月18日に達成。
 
 ### レーティング800から1199まで(緑色)
 
