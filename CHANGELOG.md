@@ -6,6 +6,13 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-10-19
+
+- [#2880](https://github.com/KATO-Hiro/AtCoderClans/pull/2880), [#2881](https://github.com/KATO-Hiro/AtCoderClans/pull/2881) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2000から2399まで(黄色)に[monkukui](https://atcoder.jp/users/monkukui)さんの[記事](https://monkukui.hatenablog.com/entry/2021/06/27/164449)を追加。
+  - レーティング1600から1999まで(青色)に[AngrySadEight](https://atcoder.jp/users/AngrySadEight)さんの[記事](https://hachiji.hatenadiary.com/entry/2021/07/31/230301)を追加。
+- [#2879](https://github.com/KATO-Hiro/AtCoderClans/pull/2879) - リンク切れと思われるWebアプリを一時的に「Archived」ページに移動。
+
 ### 2021-10-18
 
 - [#2872](https://github.com/KATO-Hiro/AtCoderClans/pull/2872), [#2874](https://github.com/KATO-Hiro/AtCoderClans/pull/2874) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
