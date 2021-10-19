@@ -116,6 +116,13 @@ filename: archived
     <img loading = "lazy" src="images/web_app/atcoder_stats.png" alt="atcoder stats">
   </div>
 
+- [AtCoderノートブック](https://atcoder-notebook.app/) - 過去問を繰り返し解くときに便利なメモアプリ。作成者による注: 解答状況を変更すると、過去の履歴が消える仕様になっている。
+  - 確認した日: 2021/10/19
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_notebook.png" alt="atcoder notebook">
+  </div>
+
 - [Devotter](https://devotter.app/) - 1日1回AC(Accepted)数を[Twitter](https://twitter.com/)にツイートするWebアプリ。
 
   <div align="center">
