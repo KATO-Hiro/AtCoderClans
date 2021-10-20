@@ -6,6 +6,14 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-10-20
+
+- [#2883](https://github.com/KATO-Hiro/AtCoderClans/pull/2883), [#2885](https://github.com/KATO-Hiro/AtCoderClans/pull/2885), [#2886](https://github.com/KATO-Hiro/AtCoderClans/pull/2886), [#2887](https://github.com/KATO-Hiro/AtCoderClans/pull/2887) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2000から2399まで(黄色)に[nrvft](https://atcoder.jp/users/nrvft)さんの[記事](https://nrvft.hatenablog.com/entry/2021/06/08/235134)を追加。
+  - レーティング1600から1999まで(青色)に[new_textfile](https://atcoder.jp/users/new_textfile)さんの[記事](https://new-textfile.hatenablog.com/entry/2021/06/18/231012)を追加。
+  - レーティング1600から1999まで(青色)に[ysystem](https://atcoder.jp/users/ysystem)さんの[記事](https://ysystem57.hatenablog.com/entry/2021/05/03/213354)を追加。
+  - レーティング1200から1599まで(水色)に[partender](https://atcoder.jp/users/partender)さんの[記事](https://partender810.hatenablog.com/entry/2021/05/17/181115)を追加。
+
 ### 2021-10-19
 
 - [#2880](https://github.com/KATO-Hiro/AtCoderClans/pull/2880), [#2881](https://github.com/KATO-Hiro/AtCoderClans/pull/2881) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
