@@ -122,6 +122,7 @@ filename: milestones
 - [AtCoderで黄色になりました - TERRYのブログ](https://www.terry-u16.net/entry/atcoder-yellow) - [terry_u16](https://atcoder.jp/users/terry_u16)さんが、2021年2月27日に達成。
 - [AtCoder黄色になりました - Growth Record of Lettuce Farm](https://fairy-lettuce.hatenadiary.com/entry/kyopro-colorchange-yellow) - [fairy_lettuce](https://atcoder.jp/users/fairy_lettuce)さんが、2021年3月13日に達成。
 - [AtCoder黄色を目指してやってきたこと](https://qiita.com/hamamu/items/2e342d46d9f54732d42c) - [hamamu](https://atcoder.jp/users/hamamu)さんが、2021年4月11日に達成。
+- [AtCoder黄色になった！ - HayatoY’s diary](https://hayatoy.hatenablog.com/entry/2021/04/25/172720) - [HayatoY](https://atcoder.jp/users/HayatoY)さんが、2021年4月24日に達成。
 - [【atCoder】黄入した7か月半の振り返り - amentorimaru’s diary](https://amentorimaru.hatenablog.com/entry/2021/06/25/215100) - [amentorimaru](https://atcoder.jp/users/amentorimaru)さんが、2021年5月16日に達成。
 - [AtCoder 黄色と申します - Nerveメモ](https://nrvft.hatenablog.com/entry/2021/06/08/235134) - [nrvft](https://atcoder.jp/users/nrvft)さんが、2021年6月6日に達成。
 - [AtCoder 黄色になる方法のうちの一つ - monkukui のページ](https://monkukui.hatenablog.com/entry/2021/06/27/164449) - [monkukui](https://atcoder.jp/users/monkukui)さんが、2021年6月26日に達成。
