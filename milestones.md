@@ -48,6 +48,7 @@ filename: milestones
 - [競プロ歴1年でやっとやっと緑になったけど、最初の関門は競技育児だった話 - いむらや競プロ雑記](https://imuraya.hatenablog.com/entry/2020/12/10/000842) - [imuraya](https://atcoder.jp/users/imuraya)さんが、2020年11月22日に達成。
 - [僕がAtCoder緑になるために意識したこと](https://qiita.com/natsuozawa/items/0c2a0df1450612866fa2) - [natsuozawa](https://atcoder.jp/users/natsuozawa)さんが、2020年11月22日に達成。
 - [AtCoder 緑になっている予定でした(緑になったほう)。 - harurun競プロ](https://harurunppp.hatenablog.com/entry/2020/12/16/000000) - [harurun](https://atcoder.jp/users/harurun)さんが、2020年11月28日に達成。
+- [AtCoder緑になったので今までの振り返り - opposite side of the river](https://opzriv.hatenablog.com/entry/2021/03/28/165146) - [opz](https://atcoder.jp/users/opz)さんが、2021年3月27日に達成。
 - [AtCoderでついに入緑しました！！！](https://ryusuke920.hatenablog.jp/entry/2021/04/18/170331) - [ryusuke_h](https://atcoder.jp/users/ryusuke_h)さんが、2021年4月17日に達成。
 - [【AtCoder】入緑しました！！！ - shuのブログ](https://shu8cream.hatenablog.com/entry/2021/04/24/120002) - [shu8Cream](https://atcoder.jp/users/shu8Cream)さんが、2021年4月18日に達成。
 - [～AtCoderで緑Ratingになりました～](https://qiita.com/rute_not_route/items/c8b4f2251fdd852d29a0) - [Rute](https://atcoder.jp/users/Rute)さんが、2021年5月30日に達成。
