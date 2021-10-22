@@ -259,6 +259,7 @@ filename: media
 - [Topcoderマラソンマッチの探索問題で重要なこと](https://qiita.com/takapt0226/items/b2f6d1d77a034b529e21) - ヒューリスティック型コンテストにおいて、汎用的な内容(時間を確保する・注意深く考察する・有名アルゴリズムに囚われない)と探索問題に特化した知見がまとめられている記事。
 - [競プロ解法紹介～大局観で高得点を取る！～](https://qiita.com/tsukammo/items/85ffbe907e89b051d715) - マラソン形式の問題である[Chokudai Contest 001](https://atcoder.jp/contests/chokudai001/)の解法を紹介した記事。愚直な解法から高得点を狙うための着眼点や方法が解説されている。
 - [競プロ解法紹介～レベル別マラソンの戦い方～](https://qiita.com/tsukammo/items/7041a00e429f9f5ac4ae) - マラソン形式の問題である[Hack To The Future 予選問題](https://atcoder.jp/contests/future-contest-2018-qual/)を題材に、初心者から上級者までを対象として、それぞれのレベルに応じた戦い方を紹介した記事。
+- [マラソンマッチで気をつけるべきこと](https://coonevo.hatenablog.com/entry/2021/03/15/091546) - 2週間程度のヒューリスティック型コンテストを対象として、筆者の戦略を紹介した記事。
 - [マラソンマッチで最初の12時間にすべきこと](https://hama-du.hatenablog.com/entry/2015/12/14/000000) - ヒューリスティック型コンテストにおいて、[hamadu](https://atcoder.jp/users/hamadu)さんが普段の取り組みで気をつけていることを紹介した記事。
 - [マラソンマッチにおける精神論](https://chokudai.hatenablog.com/entry/2014/12/04/000132) - ヒューリスティック型コンテストでスコアを上げるために、地道な改善を根気よく続けることの重要性を指摘している記事。
 - [マラソンマッチにおける頻出Q＆Aと小技](http://web.archive.org/web/20150308101507/https://topcoder.g.hatena.ne.jp/CKomaki/20141202/1418158488) - ヒューリスティック型コンテストのうち、最適化問題における疑問点やコツがQ&A形式で簡潔にまとめられている記事。注: 本記事を読む前に、[マラソンマッチの取り組み方](http://www.colun.net/archives/294)などの記事を読み込み、何回かコンテストに参加することが推奨されている。
