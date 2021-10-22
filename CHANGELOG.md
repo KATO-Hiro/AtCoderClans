@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-10-22
+
+- [#2901](https://github.com/KATO-Hiro/AtCoderClans/pull/2901) - 記事「[マラソンマッチで気をつけるべきこと](https://coonevo.hatenablog.com/entry/2021/03/15/091546)」を追加。
+- [#2900](https://github.com/KATO-Hiro/AtCoderClans/pull/2900) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2000から2399まで(黄色)に[naminodarie](https://atcoder.jp/users/naminodarie)さんの[記事](https://zenn.dev/naminodarie/articles/055ccf2fd607b9)を追加。
+
 ### 2021-10-21
 
 - [#2891](https://github.com/KATO-Hiro/AtCoderClans/pull/2891), [#2892](https://github.com/KATO-Hiro/AtCoderClans/pull/2892), [#2893](https://github.com/KATO-Hiro/AtCoderClans/pull/2893), [#2896](https://github.com/KATO-Hiro/AtCoderClans/pull/2896) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
