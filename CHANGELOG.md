@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-10-23
+
+- [#2912](https://github.com/KATO-Hiro/AtCoderClans/pull/2912) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2000から2399まで(黄色)に[Plan8](https://atcoder.jp/users/Plan8)さんの[記事](https://plan8.hatenablog.com/entry/2021/01/31/141818)を追加。
+
 ### 2021-10-22
 
 - [#2901](https://github.com/KATO-Hiro/AtCoderClans/pull/2901) - 記事「[マラソンマッチで気をつけるべきこと](https://coonevo.hatenablog.com/entry/2021/03/15/091546)」を追加。
