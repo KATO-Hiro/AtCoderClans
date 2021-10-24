@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-10-24
+
+- [#2915](https://github.com/KATO-Hiro/AtCoderClans/pull/2915) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング800から1199まで(緑色)に[mya_Lolita](https://atcoder.jp/users/mya_Lolita)さんの[記事](https://miyako-lolita.hatenablog.com/entry/2021/10/24/120255)を追加。
+
 ### 2021-10-23
 
 - [#2912](https://github.com/KATO-Hiro/AtCoderClans/pull/2912) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
