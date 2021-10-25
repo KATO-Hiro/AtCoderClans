@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-10-25
+
+- [#2917](https://github.com/KATO-Hiro/AtCoderClans/pull/2917) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[wakuwinmail](https://atcoder.jp/users/wakuwinmail)さんの[記事](https://wakuwinmail.hatenablog.com/entry/2020/03/10/235349)を追加。
+
 ### 2021-10-24
 
 - [#2915](https://github.com/KATO-Hiro/AtCoderClans/pull/2915) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
