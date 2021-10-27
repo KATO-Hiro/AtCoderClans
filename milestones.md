@@ -47,6 +47,7 @@ filename: milestones
 - [AtCoderで緑Coderになるまでやったこと[色変記事]](https://qiita.com/yamatonao/items/2981278e09b0c30837c0) - [yamatonao](https://atcoder.jp/users/yamatonao)さんが、2020年8月22日に達成。
 - [AtCoderのコンテスト参加68回目で緑コーダーになれたお話 - 競プロ用ブログ](https://brightcat.hateblo.jp/entry/2020/08/30/190022) - [brightcat](https://atcoder.jp/users/brightcat)さんが、2020年8月29日に達成。
 - [AtCoder 　緑色になりました！【色変記事】 - chacoderのブログ](https://chacoder.hatenablog.com/entry/2020/09/20/004145) - [chacoder](https://atcoder.jp/users/chacoder)さんが、2020年9月19日に達成。
+- [AtCoder色変記事（緑）。あるいは趣味としての競プロの勧め。 - 加具留矢流余](https://mikebird28.hatenablog.jp/entry/2020/11/09/223426) - [toritoritori29](https://atcoder.jp/users/toritoritori29)さんが、2020年11月8日に達成。
 - [競プロ歴1年でやっとやっと緑になったけど、最初の関門は競技育児だった話 - いむらや競プロ雑記](https://imuraya.hatenablog.com/entry/2020/12/10/000842) - [imuraya](https://atcoder.jp/users/imuraya)さんが、2020年11月22日に達成。
 - [僕がAtCoder緑になるために意識したこと](https://qiita.com/natsuozawa/items/0c2a0df1450612866fa2) - [natsuozawa](https://atcoder.jp/users/natsuozawa)さんが、2020年11月22日に達成。
 - [AtCoder 緑になっている予定でした(緑になったほう)。 - harurun競プロ](https://harurunppp.hatenablog.com/entry/2020/12/16/000000) - [harurun](https://atcoder.jp/users/harurun)さんが、2020年11月28日に達成。
