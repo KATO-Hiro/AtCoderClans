@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-10-27
+
+- [#2925](https://github.com/KATO-Hiro/AtCoderClans/pull/2925) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング800から1199まで(緑色)に[toritoritori29](https://atcoder.jp/users/toritoritori29)さんの[記事](https://mikebird28.hatenablog.jp/entry/2020/11/09/223426)を追加。
+
 ### 2021-10-26
 
 - [#2920](https://github.com/KATO-Hiro/AtCoderClans/pull/2920), [#2923](https://github.com/KATO-Hiro/AtCoderClans/pull/2923) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
