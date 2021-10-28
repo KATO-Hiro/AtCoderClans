@@ -106,6 +106,12 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/codeforces/codeforces_anytime.png" alt="cf predictor">
   </div>
 
+- [Codeforces Rating Comparison](https://rika0384.github.io/codeforces_rating_comparison/) - 指定した2人以上のレーティングの比較ができる。[AtCoder版](https://atcoder-rating-comparison.herokuapp.com/)も公開されている。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/codeforces/codeforces_rating_comparison.png" alt="codeforces rating comparison">
+  </div>
+
 - [CONTEST MANIA](https://contestmania.web.app/) - 開催されたコンテストの問題を一覧できるWebアプリ「[Codeforces Problems](https://yang33-kassa.jp/Codeforces-Problems/)」の後継プロジェクトの一つ。ユーザ名を入力することで、正誤状況を把握できる。
 
   <div align="center">
