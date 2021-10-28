@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-10-28
+
+- [#2929](https://github.com/KATO-Hiro/AtCoderClans/pull/2929) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、Webアプリ「[Codeforces Rating Comparison](https://rika0384.github.io/codeforces_rating_comparison/)」を追加。
+
 ### 2021-10-27
 
 - [#2925](https://github.com/KATO-Hiro/AtCoderClans/pull/2925) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
