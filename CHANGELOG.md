@@ -8,8 +8,9 @@ filename: CHANGELOG
 
 ### 2021-10-29
 
-- [#2933](https://github.com/KATO-Hiro/AtCoderClans/pull/2933) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+- [#2933](https://github.com/KATO-Hiro/AtCoderClans/pull/2933), [#2937](https://github.com/KATO-Hiro/AtCoderClans/pull/2937) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
   - レーティング1200から1599まで(水色)に[sakuya_1639](https://atcoder.jp/users/sakuya_1639)さんの[記事](https://yosen.hatenablog.com/entry/2020/08/23/032208)を追加。
+  - レーティング800から1199まで(緑色)に[soshin](https://atcoder.jp/users/soshin)さんの[記事](https://zobio.github.io/kyopro/green.html)を追加。
 
 ### 2021-10-28
 
