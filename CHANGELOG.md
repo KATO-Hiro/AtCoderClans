@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-10-29
+
+- [#2933](https://github.com/KATO-Hiro/AtCoderClans/pull/2933) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1200から1599まで(水色)に[sakuya_1639](https://atcoder.jp/users/sakuya_1639)さんの[記事](https://yosen.hatenablog.com/entry/2020/08/23/032208)を追加。
+
 ### 2021-10-28
 
 - [#2929](https://github.com/KATO-Hiro/AtCoderClans/pull/2929) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、Webアプリ「[Codeforces Rating Comparison](https://rika0384.github.io/codeforces_rating_comparison/)」を追加。
