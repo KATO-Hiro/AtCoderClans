@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-10-30
+
+- [#2940](https://github.com/KATO-Hiro/AtCoderClans/pull/2940) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[kusano](https://atcoder.jp/users/kusano)さんの[記事](https://kusano-k.hatenablog.com/entry/2019/09/28/181304)を追加。
+
 ### 2021-10-29
 
 - [#2933](https://github.com/KATO-Hiro/AtCoderClans/pull/2933), [#2937](https://github.com/KATO-Hiro/AtCoderClans/pull/2937) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
