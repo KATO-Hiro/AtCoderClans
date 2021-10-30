@@ -88,6 +88,7 @@ filename: milestones
 - [AtCoder入水 - moharanの競プロ](https://moharan.hatenablog.com/entry/2021/09/16/174124) - [moharan](https://atcoder.jp/users/moharan)さんが、2021年9月11日に達成。
 - [AtCoderで水色になったのでここまでの記録をまとめる](https://zenn.dev/asa/articles/08e9bb8e65e758) - [asasan](https://atcoder.jp/users/asasan)さんが、2021年10月5日に公開。
 - [AtCoderで水になったのでなんか書く - Takeshiのブログ](https://takesyhi.hatenablog.com/entry/2021/10/07/152435) - [Coordinator](https://atcoder.jp/users/Coordinator)さんが、2021年10月7日に公開。
+- [【色変】AtCoder水色になりました！ - Den3-芝浦工業大学電子計算機研究会](http://den3.net/activity_diary/2021/10/31/5072/) - [Kyo_s_s](https://atcoder.jp/users/Kyo_s_s)さんが、2021年10月30日に達成。
 
 ### レーティング1600から1999まで(青色)
 
