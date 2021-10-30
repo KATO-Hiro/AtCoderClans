@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-10-31
+
+- [#2944](https://github.com/KATO-Hiro/AtCoderClans/pull/2944) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1200から1599まで(水色)に[Kyo_s_s](https://atcoder.jp/users/Kyo_s_s)さんの[記事](http://den3.net/activity_diary/2021/10/31/5072/)を追加。
+
 ### 2021-10-30
 
 - [#2940](https://github.com/KATO-Hiro/AtCoderClans/pull/2940) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
