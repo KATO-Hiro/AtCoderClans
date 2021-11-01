@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-11-01
+
+- [#2949](https://github.com/KATO-Hiro/AtCoderClans/pull/2949) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[piddy](https://atcoder.jp/users/piddy)さんの[記事](https://piddy-cp.hatenablog.com/entry/2021/10/31/015517)を追加。
+
 ### 2021-10-31
 
 - [#2944](https://github.com/KATO-Hiro/AtCoderClans/pull/2944) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
