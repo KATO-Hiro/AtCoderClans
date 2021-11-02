@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-11-02
+
+- [#2952](https://github.com/KATO-Hiro/AtCoderClans/pull/2952) - 記事「[「AtCoder 競技プログラマー就職企業人気ランキング2021」を発表](https://prtimes.jp/main/html/rd/p/000000035.000028415.html)」を追加。
+
 ### 2021-11-01
 
 - [#2949](https://github.com/KATO-Hiro/AtCoderClans/pull/2949) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
