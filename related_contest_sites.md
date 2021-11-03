@@ -326,6 +326,8 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/yukicoder/comfortable_yukicoder.png" alt="comfortable yukicoder">
   </div>
 
+- [testlib for yukicoder](https://github.com/riantkb/testlib_for_yukicoder) ![GitHub Repo stars](https://img.shields.io/github/stars/riantkb/testlib_for_yukicoder?style=plastic) - [testlib](https://github.com/MikeMirzayanov/testlib)を利用した入力生成・検証、正誤判定を行うためのサンプルコード集。同じコードで[yukicoder](https://yukicoder.me/)とローカル環境([Rime](https://github.com/icpc-jag/rime)の利用を想定)の動作確認ができる。また、作者による[記事](https://rian.hatenablog.jp/entry/2020/12/04/181523)も公開されている。
+
 - [yukicoder-md](https://github.com/koyumeishi/yukicoder-md) - 問題の作成を補助するツール。[CommonMark](https://commonmark.org/)形式で書かれた問題文をHTMLに変換する。また、Webブラウザ上で利用できる[Playground](https://koyumeishi.github.io/yukicoder-md/)も公開されている(注: 一部の機能は利用不可)。
 
   <div align="center">
