@@ -533,6 +533,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/auto_submissions_settings_js.png" alt="auto submissions settings js">
   </div>
 
+- [制約をチェックする](https://greasyfork.org/ja/scripts/434715-check-constraints) - 「問題」ページの制約に、確認用のチェックボックスを追加する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/check_constraints.png" alt="check constraints">
+  </div>
+
 - [mod noticer](https://greasyfork.org/ja/scripts/429808-mod-noticer) - 「問題」ページで、剰余(mod)を取る必要がある問題に対して、提出ボタンに確認メッセージを追加する。
 
   <div align="center">
