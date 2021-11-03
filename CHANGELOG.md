@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-11-03
+
+- [#2960](https://github.com/KATO-Hiro/AtCoderClans/pull/2960) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、サンプルコード集「[testlib for yukicoder](https://github.com/riantkb/testlib_for_yukicoder)」を追加。
+- [#2959](https://github.com/KATO-Hiro/AtCoderClans/pull/2959) - ユーザスクリプト「[制約をチェックする](https://greasyfork.org/ja/scripts/434715-check-constraints)」を追加。
+- [#2958](https://github.com/KATO-Hiro/AtCoderClans/pull/2958) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、記事「[アルゴ式公開から2ヶ月が経ちました / これからの話](https://note.com/sak_algo/n/nf63c98059c5c)」を追加。
+
 ### 2021-11-02
 
 - [#2952](https://github.com/KATO-Hiro/AtCoderClans/pull/2952) - 記事「[「AtCoder 競技プログラマー就職企業人気ランキング2021」を発表](https://prtimes.jp/main/html/rd/p/000000035.000028415.html)」を追加。
