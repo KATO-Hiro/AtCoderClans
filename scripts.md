@@ -509,6 +509,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_testcase_extension.png" alt="atcoder testcase extension">
   </div>
 
+- [Atcoder Title Copy](https://greasyfork.org/ja/scripts/434033-atcoder-title-copy) - 「問題」ページのタイトルをクリップボードにコピーできるボタンを追加する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_title_copy.png" alt="atcoder title copy">
+  </div>
+
 - [AtCoderUsers](https://greasyfork.org/ja/scripts/420811-atcoderusers) - 「プロフィール」ページに、[AtCoder Problems](https://kenkoooo.com/atcoder/)、[AtCoder Performances](https://atcoderapps.herokuapp.com/atcoderperformances/)、[AtCoder Scores](http://atcoder-scores.herokuapp.com/)、[AtCoder Tags](https://atcoder-tags.herokuapp.com/)のリンクを追加する。
 
   <div align="center">
