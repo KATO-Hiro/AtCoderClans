@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-11-04
+
+- [#2964](https://github.com/KATO-Hiro/AtCoderClans/pull/2964), [#2965](https://github.com/KATO-Hiro/AtCoderClans/pull/2965) - ユーザスクリプト「[Atcoder Title Copy](https://greasyfork.org/ja/scripts/434033-atcoder-title-copy)」を追加。
+
 ### 2021-11-03
 
 - [#2960](https://github.com/KATO-Hiro/AtCoderClans/pull/2960) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、サンプルコード集「[testlib for yukicoder](https://github.com/riantkb/testlib_for_yukicoder)」を追加。
