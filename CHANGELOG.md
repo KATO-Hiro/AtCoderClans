@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-11-05
+
+- [#2969](https://github.com/KATO-Hiro/AtCoderClans/pull/2969) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、記事「[OnlineMathContest 黄色になりました](https://note.com/treewhitetree/n/nb7d577fc24a4)」を追加。
+
 ### 2021-11-04
 
 - [#2964](https://github.com/KATO-Hiro/AtCoderClans/pull/2964), [#2965](https://github.com/KATO-Hiro/AtCoderClans/pull/2965) - ユーザスクリプト「[Atcoder Title Copy](https://greasyfork.org/ja/scripts/434033-atcoder-title-copy)」を追加。
