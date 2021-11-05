@@ -71,7 +71,9 @@
 
 [Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries) - 主要言語で実装されたアルゴリズムのライブラリ・スニペットを紹介しています。
 
-[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media) - 環境構築、アルゴリズムや過去問を解説した記事、書籍などを掲載しています。
+[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media) - 環境構築、アルゴリズムや過去問を解説した記事、書籍などを掲載しています。
+
+[Videos](https://kato-hiro.github.io/AtCoderClans/videos) - 公式や有志による競技プログラミング関連の動画・チャンネルリストです。
 
 [Milestones](https://kato-hiro.github.io/AtCoderClans/milestones) - コンテストの参加者が所定のレーティングに達した喜びをつづった記事を共有・祝福するためのページです。
 
