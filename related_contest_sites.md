@@ -271,6 +271,8 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/omc/omc_problems.png" alt="omc problems">
   </div>
 
+- [OnlineMathContest 黄色になりました](https://note.com/treewhitetree/n/nb7d577fc24a4) - [Treewhitetree](https://onlinemathcontest.com/users/Treewhitetree)さんが、2021年11月2日に黄Solverに昇格。
+
 ### Shitforces
 
 - [Shitforces](https://shitforces.herokuapp.com/) - ウィットに富んだ「なぞなぞ」が出題されるコンテスト。[公式アカウント](https://twitter.com/shitforces)で、最新情報を確認することができる。
