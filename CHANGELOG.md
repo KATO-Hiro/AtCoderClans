@@ -123,7 +123,7 @@ filename: CHANGELOG
 
 ### 2021-10-15
 
-- [#2847](https://github.com/KATO-Hiro/AtCoderClans/pull/2847) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、「[「だから慶応は学歴自慢じゃないっつーの」、4部合唱にして歌ってみました！](https://twitter.com/TumoiYorozu/status/1448666012639895562)」を追加。
+- [#2847](https://github.com/KATO-Hiro/AtCoderClans/pull/2847) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、「[「だから慶応は学歴自慢じゃないっつーの」、4部合唱にして歌ってみました！](https://twitter.com/TumoiYorozu/status/1448666012639895562)」を追加。
 
 ### 2021-10-14
 
@@ -135,12 +135,12 @@ filename: CHANGELOG
 
 ### 2021-10-12
 
-- [#2834](https://github.com/KATO-Hiro/AtCoderClans/pull/2834) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、VTuberのチャンネルを追加。
+- [#2834](https://github.com/KATO-Hiro/AtCoderClans/pull/2834) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、VTuberのチャンネルを追加。
   - [あかしあ みどり](https://www.youtube.com/channel/UCkIaUs9Z43s1cSLS8mh9ppg)
 
 ### 2021-10-11
 
-- [#2830](https://github.com/KATO-Hiro/AtCoderClans/pull/2830) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、VTuberのチャンネルを追加。
+- [#2830](https://github.com/KATO-Hiro/AtCoderClans/pull/2830) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、VTuberのチャンネルを追加。
   - [ちょこちょこっ](https://www.youtube.com/c/chocochocoxtu/featured)
 
 ### 2021-10-10
@@ -166,7 +166,7 @@ filename: CHANGELOG
 ### 2021-10-06
 
 - [#2807](https://github.com/KATO-Hiro/AtCoderClans/pull/2807) - 記事「[ものすごく丁寧でわかりやすいABC解説一覧 python ～灰色・茶色コーダー向け～ #AtCoder](https://qiita.com/sano192/items/54accd04df62242b70f0)」を追加。
-- [#2806](https://github.com/KATO-Hiro/AtCoderClans/pull/2806) - 「[Articles, Books and YouTube](https://kato-hiro.github.io/AtCoderClans/media)」ページに、YouTubeのチャンネルを追加。
+- [#2806](https://github.com/KATO-Hiro/AtCoderClans/pull/2806) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、YouTubeのチャンネルを追加。
   - [佐野太郎](https://www.youtube.com/channel/UCE2ID_KiY2kKne7d1zFT7JQ/featured)
 
 ### 2021-10-05
