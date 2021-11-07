@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-11-07
+
+- [#2979](https://github.com/KATO-Hiro/AtCoderClans/pull/2979) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[こわくないbit全探索【AtCoder・アルゴリズム解説】](https://qiita.com/u2dayo/items/68e35815659b1041c3c2)」を追加。
+
 ### 2021-11-06
 
 - [#2972](https://github.com/KATO-Hiro/AtCoderClans/pull/2972), [#2973](https://github.com/KATO-Hiro/AtCoderClans/pull/2973), [#2974](https://github.com/KATO-Hiro/AtCoderClans/pull/2974), [#2975](https://github.com/KATO-Hiro/AtCoderClans/pull/2975) - (破壊的な変更) 「Articles, Books and YouTube」ページを分割。記事・書籍に関しては「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに改称。また、動画に関しては「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページを新設して掲載。
