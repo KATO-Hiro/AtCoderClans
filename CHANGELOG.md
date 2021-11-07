@@ -8,6 +8,7 @@ filename: CHANGELOG
 
 ### 2021-11-07
 
+- [#2981](https://github.com/KATO-Hiro/AtCoderClans/pull/2981) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[安全で爆速なRollingHashの話](https://qiita.com/keymoon/items/11fac5627672a6d6a9f6)」を追加。
 - [#2979](https://github.com/KATO-Hiro/AtCoderClans/pull/2979) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[こわくないbit全探索【AtCoder・アルゴリズム解説】](https://qiita.com/u2dayo/items/68e35815659b1041c3c2)」を追加。
 
 ### 2021-11-06
