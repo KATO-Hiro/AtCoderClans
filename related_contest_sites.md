@@ -230,6 +230,7 @@ filename: related_contest_sites
   </div>
 
 - [競技くそなぞなぞ関連ページ一覧：コンテストとその解説を中心に](https://hamukichi.hatenablog.jp/entry/kuso-nazonazo-portal#f-0e4fd4eb) - 「くそなぞなぞコンテスト」へのリンク、解説、支援ツールなどが網羅的にまとめられている記事。
+- [くそなぞなぞ青色になるまでにやったこと - little star's memory](https://koboshi-kyopro.hatenablog.com/entry/2021/11/06/220449) - [koboshi](https://shitforces.herokuapp.com/account/koboshi)さんが、2021年11月6日に青色くそなぞなぞerに昇格。
 
 ### MAO (Markov Algorithm Online)
 
