@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-11-08
+
+- [#2986](https://github.com/KATO-Hiro/AtCoderClans/pull/2986) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、記事「[くそなぞなぞ青色になるまでにやったこと - little star's memory](https://koboshi-kyopro.hatenablog.com/entry/2021/11/06/220449)」を追加。
+
 ### 2021-11-07
 
 - [#2981](https://github.com/KATO-Hiro/AtCoderClans/pull/2981) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[安全で爆速なRollingHashの話](https://qiita.com/keymoon/items/11fac5627672a6d6a9f6)」を追加。
