@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-11-09
+
+- [#2991](https://github.com/KATO-Hiro/AtCoderClans/pull/2991), [#2992](https://github.com/KATO-Hiro/AtCoderClans/pull/2992) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの2021年9月分を[月別のアーカイブ](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2021_09.md)に移動。
+
 ### 2021-11-08
 
 - [#2986](https://github.com/KATO-Hiro/AtCoderClans/pull/2986) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、記事「[くそなぞなぞ青色になるまでにやったこと - little star's memory](https://koboshi-kyopro.hatenablog.com/entry/2021/11/06/220449)」を追加。
