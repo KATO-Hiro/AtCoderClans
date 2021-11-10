@@ -234,7 +234,10 @@ filename: related_contest_sites
 
 ### MAO (Markov Algorithm Online)
 
-- [Markov Algorithm Online](https://mao.snuke.org/) - マルコフアルゴリズムを利用したパズル形式の問題を解くことができるWebサイト。有志によって、[チュートリアル](https://dic.nicovideo.jp/a/%E3%83%9E%E3%83%AB%E3%82%B3%E3%83%95%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)が用意されている。
+- [Markov Algorithm Online](https://mao.snuke.org/) - マルコフアルゴリズムを利用したパズル形式の問題を解くことができるWebサイト。
+  <!-- markdown-link-check-disable -->
+  - 有志による[チュートリアル](https://dic.nicovideo.jp/a/%E3%83%9E%E3%83%AB%E3%82%B3%E3%83%95%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)
+  <!-- markdown-link-check-enable -->
 
   <div align="center">
     <img loading = "lazy" src="images/related_contest_sites/mao/markov_algorithm_online.png" alt="markov algorithm online">
