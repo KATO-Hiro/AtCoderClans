@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-11-10
+
+- [#2996](https://github.com/KATO-Hiro/AtCoderClans/pull/2996) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[競技プログラミングにおけるゲーム木探索の面白さ](https://qiita.com/tsukammo/items/02e8ad2469c5441d2956)」を追加。
+
 ### 2021-11-09
 
 - [#2991](https://github.com/KATO-Hiro/AtCoderClans/pull/2991), [#2992](https://github.com/KATO-Hiro/AtCoderClans/pull/2992) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの2021年9月分を[月別のアーカイブ](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2021_09.md)に移動。
