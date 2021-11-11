@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-11-11
+
+- [#3003](https://github.com/KATO-Hiro/AtCoderClans/pull/3003) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1200から1599まで(水色)に[bit_zentansaku](https://atcoder.jp/users/bit_zentansaku)さんの[記事](https://bit-kyopro.hatenablog.com/entry/2021/11/10/202718)を追加。
+
 ### 2021-11-10
 
 - [#2996](https://github.com/KATO-Hiro/AtCoderClans/pull/2996) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[競技プログラミングにおけるゲーム木探索の面白さ](https://qiita.com/tsukammo/items/02e8ad2469c5441d2956)」を追加。
