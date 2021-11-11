@@ -89,6 +89,7 @@ filename: milestones
 - [AtCoderで水色になったのでここまでの記録をまとめる](https://zenn.dev/asa/articles/08e9bb8e65e758) - [asasan](https://atcoder.jp/users/asasan)さんが、2021年10月5日に公開。
 - [AtCoderで水になったのでなんか書く - Takeshiのブログ](https://takesyhi.hatenablog.com/entry/2021/10/07/152435) - [Coordinator](https://atcoder.jp/users/Coordinator)さんが、2021年10月7日に公開。
 - [【色変】AtCoder水色になりました！ - Den3-芝浦工業大学電子計算機研究会](http://den3.net/activity_diary/2021/10/31/5072/) - [Kyo_s_s](https://atcoder.jp/users/Kyo_s_s)さんが、2021年10月30日に達成。
+- [AtCoderで水色になりました！ - bit_kyoproの日記](https://bit-kyopro.hatenablog.com/entry/2021/11/10/202718) - [bit_zentansaku](https://atcoder.jp/users/bit_zentansaku)さんが、2021年11月7日に達成。
 
 ### レーティング1600から1999まで(青色)
 
