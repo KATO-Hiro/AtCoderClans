@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-11-13
+
+- [#3010](https://github.com/KATO-Hiro/AtCoderClans/pull/3010) - Webサービス「[MojaCoder](https://mojacoder.app/)」の説明文に、同サービスの開発・運営状況を追加。
+
 ### 2021-11-12
 
 - [#3008](https://github.com/KATO-Hiro/AtCoderClans/pull/3008) - [Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)ページのサブカテゴリ「競技プログラマーが現役引退を表明した記事」に、以下の記事を追加。
