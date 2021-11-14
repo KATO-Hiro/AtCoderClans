@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-11-14
+
+- [#3013](https://github.com/KATO-Hiro/AtCoderClans/pull/3013) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[†全方位木DP†について](https://ei1333.hateblo.jp/entry/2017/04/10/224413)」を追加。
+
 ### 2021-11-13
 
 - [#3010](https://github.com/KATO-Hiro/AtCoderClans/pull/3010) - Webサービス「[MojaCoder](https://mojacoder.app/)」の説明文に、同サービスの開発・運営状況を追加。
