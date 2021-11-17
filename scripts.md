@@ -409,6 +409,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/icpc_yokohama_2020_username_and_atcoder_color.png" alt="icpc yokohama 2020 username and atcoder color">
   </div>
 
+- [icpc2021_teamlist](https://github.com/riantkb/icpc2021_teamlist) - [ICPC 2021チーム一覧](http://www.yamagula.ic.i.u-tokyo.ac.jp/icpc2021/standings.html)に、ユーザ名とAtCoderのレーティングに対応した色を表示する。[Webサイト版](https://riantkb.github.io/icpc2021_teamlist/)もある。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/icpc2021_teamlist.png" alt="icpc2021 teamlist">
+  </div>
+
 ### 便利な機能を手軽に実行できるボタン、リンクなどを設置する
 
 - [ac-favorite-manager](https://greasyfork.org/ja/scripts/387728-ac-favorite-manager) - ユーザ名のドロップダウンメニューに、お気に入りの管理画面のリンクを追加する。
