@@ -192,7 +192,7 @@ filename: CHANGELOG
 ### 2021-10-11
 
 - [#2830](https://github.com/KATO-Hiro/AtCoderClans/pull/2830) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、VTuberのチャンネルを追加。
-  - [ちょこちょこっ](https://www.youtube.com/c/chocochocoxtu/featured)
+  - ちょこちょこっ
 
 ### 2021-10-10
 
