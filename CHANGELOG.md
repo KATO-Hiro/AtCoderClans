@@ -8,6 +8,7 @@ filename: CHANGELOG
 
 ### 2021-11-17
 
+- [#3031](https://github.com/KATO-Hiro/AtCoderClans/pull/3031) - (破壊的な変更) リンク切れと思われるYouTubeチャンネルを一時的に「Archived」ページに移動。
 - [#3028](https://github.com/KATO-Hiro/AtCoderClans/pull/3028) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、ユーザスクリプト「[icpc2021_teamlist](https://github.com/riantkb/icpc2021_teamlist)」を追加。
 
 ### 2021-11-16
