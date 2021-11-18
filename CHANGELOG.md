@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-11-18
+
+- [#3035](https://github.com/KATO-Hiro/AtCoderClans/pull/3035) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[[競プロ用]ダブリングまとめ](https://qiita.com/Kept1994/items/ea91c057b0e552323da3)」を追加。
+
 ### 2021-11-17
 
 - [#3031](https://github.com/KATO-Hiro/AtCoderClans/pull/3031) - (破壊的な変更) リンク切れと思われるYouTubeチャンネルを一時的に「Archived」ページに移動。
