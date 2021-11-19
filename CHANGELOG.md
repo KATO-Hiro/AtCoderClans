@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-11-19
+
+- [#3040](https://github.com/KATO-Hiro/AtCoderClans/pull/3040) - 「[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)」ページに、Rustで実装されたライブラリを追加。
+  - [noshi91/n91lib_rs](https://github.com/noshi91/n91lib_rs)
+
 ### 2021-11-18
 
 - [#3035](https://github.com/KATO-Hiro/AtCoderClans/pull/3035) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[[競プロ用]ダブリングまとめ](https://qiita.com/Kept1994/items/ea91c057b0e552323da3)」を追加。
