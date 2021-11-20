@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-11-20
+
+- [#3043](https://github.com/KATO-Hiro/AtCoderClans/pull/3043) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[非負整数値を扱うTrieについて](https://kazuma8128.hatenablog.com/entry/2018/05/06/022654)」を追加。
+
 ### 2021-11-19
 
 - [#3040](https://github.com/KATO-Hiro/AtCoderClans/pull/3040) - 「[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)」ページに、Rustで実装されたライブラリを追加。
