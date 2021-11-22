@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-11-22
+
+- [#3049](https://github.com/KATO-Hiro/AtCoderClans/pull/3049) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[全方位木DP(ReRooting)の抽象化について](https://null-mn.hatenablog.com/entry/2020/04/14/124151)」を追加。
+
 ### 2021-11-21
 
 - [#3046](https://github.com/KATO-Hiro/AtCoderClans/pull/3046) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、スライド資料「[競プロでシェルスクリプトを使う](https://drive.google.com/file/d/1BXSVADKuW8eUB1cefct5pEF9imZ0wdaT/view)」を追加。
