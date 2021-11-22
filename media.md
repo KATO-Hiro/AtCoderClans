@@ -185,6 +185,7 @@ filename: media
 - [LISでも大活躍！ DPの配列使いまわしテクニックを特集](https://qiita.com/drken/items/68b8503ad4ffb469624c) - 動的計画法において、配列を再利用することで、メモリの節約や根本的な計算量の改善につなげる方法をまとめた記事。ナップサック問題や最長増加部分列問題などが題材として扱われている。
 - [ゲームを解く！Educational DP Contest K, L問題の解説](https://qiita.com/drken/items/4e1bcf8413af16cb62da) - 「ゲームを解く」という定義から、ゲーム探索の考え方やシンプルなゲームをプログラムで解く方法などついて解説した記事。
 - [†全方位木DP†について](https://ei1333.hateblo.jp/entry/2017/04/10/224413) - 全方位木DP(任意の頂点を根とした木に対するDP)について解説した記事。例題と実装例(C++)も紹介されている。
+- [全方位木DP(ReRooting)の抽象化について](https://null-mn.hatenablog.com/entry/2020/04/14/124151) - 抽象化した全方位木DPの実装方法を紹介した記事。
 - [UnionFindTreeに関する知見の諸々](https://noshi91.hatenablog.com/entry/2018/05/30/191943) - データ構造の一つであるUnion Find Treeに関する実装のバリエーションを解説した記事。また、同アルゴリズムの派生系とC++の実装例も紹介されている。
 - [重み付きUnion-Find木とそれが使える問題のまとめ、および、牛ゲーについて](https://qiita.com/drken/items/cce6fc5c579051e64fab) - 重みつき(ポテンシャル)UnionFind木について、通常のUnionFind木との違い・C++による実装・例題などを紹介した記事。
 - [【競技プログラミング】online dynamic connectivity(削除可能union-find)の作り方を詳しく解説！！！](https://qiita.com/hotman78/items/78cd3aa50b05a57738d4) - Dynamic Connectivity(Union-Findの削除可能版)の構築と実装方法を解説した記事。前提として、平行二分木に関する知識が求められる。注: 筆者によると、作成難易度はかなり高い。
