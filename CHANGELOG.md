@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-11-24
+
+- [#3060](https://github.com/KATO-Hiro/AtCoderClans/pull/3060), [#3063](https://github.com/KATO-Hiro/AtCoderClans/pull/3063) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、以下の記事を追加。
+  - [競技プログラミングにおけるマラソン系コンテストの楽しみ方](https://qiita.com/tsukammo/items/878f87243d6df17d6c69)
+  - [競プロ〜ヒューリスティック/マラソン事始め〜](https://qiita.com/tanaka-a/items/3c2a1bca63759ec71e7f)
+
 ### 2021-11-23
 
 - [#3056](https://github.com/KATO-Hiro/AtCoderClans/pull/3056) - 「[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)」ページに、Rustで実装されたクックブックを追加。
