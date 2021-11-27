@@ -356,6 +356,10 @@ filename: media
 
 - [AtCoder言語アップデートでRustの入出力が楽になっていた](https://qiita.com/koji-cw/items/0cce3b075faffe5e50ed) - [AtCoder](https://atcoder.jp/)の言語アップデートに伴って追加された入出力関連の便利なライブラリが紹介されている記事。また、[追加されたライブラリ一覧](https://github.com/rust-lang-ja/atcoder-rust-base/blob/ja-all-enabled/Cargo.toml)も掲載されている。
 
+#### Swift
+
+- [競プロで使えるアルゴリズム関数一覧(Swift)](https://qiita.com/uhooi/items/d4998e90f3f2fed01e68) - 主に整数に関するアルゴリズムをSwiftで実装する方法が紹介されている記事。
+
 #### 複数の言語
 
 - [AtCoder Beginner ContestのA問題の最短コードを読む（旧）](https://qiita.com/kotatsugame/items/184bfd63d9b21f214475) - AtCoder Beginner Contest 125までのA問題を対象として、最短コードの書き方がまとめられている。注: 最新のジャッジシステムでは、より短く記述できる可能性もある。
