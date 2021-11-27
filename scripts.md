@@ -177,7 +177,7 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_jump_to_submissions_from_standings.gif" alt="atcoder jump to submissions from standings">
   </div>
 
-- [AtCoder Easy Test](https://greasyfork.org/ja/scripts/415946-atcoder-easy-test) - 「問題」ページで、入出力サンプルを使って素早くテストを実行できる。また、自分で作成したテストケースも実行できる。同一作者による後継スクリプト[AtCoder Easy Test v2](https://greasyfork.org/ja/scripts/433152-atcoder-easy-test-v2)は、[yukicoder](https://yukicoder.me/)にも対応している。
+- [AtCoder Easy Test v2](https://greasyfork.org/ja/scripts/433152-atcoder-easy-test-v2) - 「問題」ページで、入出力サンプルを使って素早くテスト(自作を含む)を実行できる。また、[Codeforces](https://codeforces.com/)や[yukicoder](https://yukicoder.me/)にも対応している。スクリプトの基本的な使用方法や技術解説に関しては、[作者による解説記事](https://qiita.com/magurofly/items/4b60dc02283e70230f71)を参照されたい。
 
   <div align="center">
     <img loading = "lazy" src="images/userscript/atcoder_easy_test.png" alt="atcoder easy test">
