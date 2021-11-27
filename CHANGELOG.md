@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-11-27
+
+- [#3081](https://github.com/KATO-Hiro/AtCoderClans/pull/3081) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[競プロで使えるアルゴリズム関数一覧(Swift)](https://qiita.com/uhooi/items/d4998e90f3f2fed01e68)」を追加。
+- [#3078](https://github.com/KATO-Hiro/AtCoderClans/pull/3078) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに掲載しているユーザスクリプト「[AtCoder Easy Test v2](https://greasyfork.org/ja/scripts/433152-atcoder-easy-test-v2)」の説明文に、スクリプトの使用方法と技術解説に関する記事を追加。併せて、説明文を最新の内容に更新。
+  - [AtCoder Easy Test を支える技術](https://qiita.com/magurofly/items/4b60dc02283e70230f71)
+
 ### 2021-11-26
 
 - [#3072](https://github.com/KATO-Hiro/AtCoderClans/pull/3072) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
