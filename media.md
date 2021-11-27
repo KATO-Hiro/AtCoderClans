@@ -34,6 +34,7 @@ filename: media
     - [Python](#python-1)
     - [Ruby](#ruby)
     - [Rust](#rust-1)
+    - [Swift](#swift)
     - [複数の言語](#%E8%A4%87%E6%95%B0%E3%81%AE%E8%A8%80%E8%AA%9E)
   - [コンテストで出題された問題、アルゴリズムの解説](#%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E3%81%A7%E5%87%BA%E9%A1%8C%E3%81%95%E3%82%8C%E3%81%9F%E5%95%8F%E9%A1%8C%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%AE%E8%A7%A3%E8%AA%AC)
   - [コンテストに向けた練習方法など](#%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E7%B7%B4%E7%BF%92%E6%96%B9%E6%B3%95%E3%81%AA%E3%81%A9)
@@ -355,6 +356,10 @@ filename: media
 #### Rust
 
 - [AtCoder言語アップデートでRustの入出力が楽になっていた](https://qiita.com/koji-cw/items/0cce3b075faffe5e50ed) - [AtCoder](https://atcoder.jp/)の言語アップデートに伴って追加された入出力関連の便利なライブラリが紹介されている記事。また、[追加されたライブラリ一覧](https://github.com/rust-lang-ja/atcoder-rust-base/blob/ja-all-enabled/Cargo.toml)も掲載されている。
+
+#### Swift
+
+- [競プロで使えるアルゴリズム関数一覧(Swift)](https://qiita.com/uhooi/items/d4998e90f3f2fed01e68) - 主に整数に関するアルゴリズムをSwiftで実装する方法が紹介されている記事。
 
 #### 複数の言語
 
