@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-11-28
+
+- [#3084](https://github.com/KATO-Hiro/AtCoderClans/pull/3084) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、動画「[【！？】東大生、ストレス発散しろって言われて勉強し始める](https://www.youtube.com/watch?v=W1fxwbkV1Zg)」を追加。
+
 ### 2021-11-27
 
 - [#3081](https://github.com/KATO-Hiro/AtCoderClans/pull/3081) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[競プロで使えるアルゴリズム関数一覧(Swift)](https://qiita.com/uhooi/items/d4998e90f3f2fed01e68)」を追加。
