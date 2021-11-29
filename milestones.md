@@ -122,8 +122,8 @@ filename: milestones
 - [Atcoder青色になりました － ひとり言](https://elegy-wedh133.hatenablog.com/entry/2021/07/26/132520) - [ReiVindicatio](https://atcoder.jp/users/ReiVindicatio)さんが、2021年7月25日に達成。
 - [【競技プログラミング】青コーダーになりました【高井茅乃 #42】](https://www.youtube.com/watch?v=yhxaGTKNpgo) - [takaichino](https://atcoder.jp/users/takaichino)さんが、2021年7月31日に達成。
 - [黄色になりたいんじゃあ - あるたいるの競プロ手記](https://altairrr.hatenablog.com/entry/2021/08/23/003531) - [altairrr](https://atcoder.jp/users/altairrr)さんが、2021年8月23日に公開。
-- [AtCoder青になったので水色から青までの一年半とついでに今まで書きそびれた黒から水までも全部書く - DivineJK’s diary](https://divinejk.hatenablog.com/entry/2021/10/06/212100) - [DivineJK](https://atcoder.jp/users/DivineJK)さんが、2021年10月2日に達成。
 - [AtCoderで青色になるまでやったこと](https://note.com/junyakosaka/n/n56e56a0577f6) - [MightyFine](https://atcoder.jp/users/MightyFine)さんが、2021年9月25日に達成。
+- [AtCoder青になったので水色から青までの一年半とついでに今まで書きそびれた黒から水までも全部書く - DivineJK’s diary](https://divinejk.hatenablog.com/entry/2021/10/06/212100) - [DivineJK](https://atcoder.jp/users/DivineJK)さんが、2021年10月2日に達成。
 - [【色変記事】AtCoder青になりました - piddy’s blog](https://piddy-cp.hatenablog.com/entry/2021/10/31/015517) - [piddy](https://atcoder.jp/users/piddy)さんが、2021年10月30日に達成。
 
 ### レーティング2000から2399まで(黄色)
