@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-11-30
+
+- [#3095](https://github.com/KATO-Hiro/AtCoderClans/pull/3081) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[Swift版 競プロ用チートシート(初心者向け)](https://qiita.com/TARDIGRADE/items/71b0a774d7f22418fdf5)」を追加。
+- [#3094](https://github.com/KATO-Hiro/AtCoderClans/pull/3094) - 「[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)」ページに、C++で実装されたライブラリを追加。
+  - [CP-Algorithms](https://cp-algorithms.com/)
+
 ### 2021-11-29
 
 - [#3089](https://github.com/KATO-Hiro/AtCoderClans/pull/3089), [#3090](https://github.com/KATO-Hiro/AtCoderClans/pull/3090) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
