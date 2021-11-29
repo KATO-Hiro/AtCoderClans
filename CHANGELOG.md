@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-11-29
+
+- [#3089](https://github.com/KATO-Hiro/AtCoderClans/pull/3089), [#3090](https://github.com/KATO-Hiro/AtCoderClans/pull/3090) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[MightyFine](https://atcoder.jp/users/MightyFine)さんの[記事](https://note.com/junyakosaka/n/n56e56a0577f6)を追加。
+  - レーティング400から799まで(茶色)に[takuma1229](https://atcoder.jp/users/takuma1229)さんの[記事](https://note.com/takuma1229/n/n4c013fca8439)を追加。
+
 ### 2021-11-28
 
 - [#3084](https://github.com/KATO-Hiro/AtCoderClans/pull/3084) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、動画「[【！？】東大生、ストレス発散しろって言われて勉強し始める](https://www.youtube.com/watch?v=W1fxwbkV1Zg)」を追加。
