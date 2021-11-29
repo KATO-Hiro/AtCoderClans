@@ -360,6 +360,7 @@ filename: media
 #### Swift
 
 - [競プロで使えるアルゴリズム関数一覧(Swift)](https://qiita.com/uhooi/items/d4998e90f3f2fed01e68) - 主に整数に関するアルゴリズムをSwiftで実装する方法が紹介されている記事。
+- [Swift版 競プロ用チートシート(初心者向け)](https://qiita.com/TARDIGRADE/items/71b0a774d7f22418fdf5) - よく使うアルゴリズム・データ構造をコピー&ペーストして使えるようにまとめられている記事。
 
 #### 複数の言語
 
