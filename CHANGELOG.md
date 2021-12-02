@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-12-02
+
+- [#3106](https://github.com/KATO-Hiro/AtCoderClans/pull/3106), [#3107](https://github.com/KATO-Hiro/AtCoderClans/pull/3107) - (破壊的な変更) リンク切れと思われるライブラリおよびスライド資料を一時的に「Archived」ページに移動。
+
 ### 2021-12-01
 
 - [#3098](https://github.com/KATO-Hiro/AtCoderClans/pull/3098) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[競プロで使える便利なエクステンション一覧(Swift)](https://qiita.com/uhooi/items/ff1113c337d7a756d580)」を追加。
