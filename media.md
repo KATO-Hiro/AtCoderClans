@@ -103,7 +103,6 @@ filename: media
   - [有志によるJavaでの実装例](https://github.com/NASU41/tenkei90)
   - [有志によるPythonでの実装例](https://github.com/ryusuke920/kyopro_educational_90_python)
 - [現役高校生が、AtCoderでレッドコーダーになるまでにやってきたこと。プログラミング上達の秘訣を全て教えます](https://engineer-lab.findy-code.io/redcoder) - [E869120](https://atcoder.jp/users/E869120)さんが、競技プログラミングを通して得た経験を共有するために書かれた記事。競技プログラミングやアルゴリズムの面白さ、上達するための練習方法、参考資料などが紹介されている。
-  - [私と競プロと教育活動（Qiita Night LT 資料）](https://www.slideshare.net/MasatakaYoneda/qiita-night-lt) - 上記の記事の続編とも言えるスライド。
 - [情報オリンピックへのいざない　～日本一の競技プログラマーを決める戦い～](https://qiita.com/e869120/items/43181c2084e6e5337ca9) - 主に高校生以下を対象としたコンテストである「情報オリンピック」の説明から、大会の面白さ・上位に入るためテクニックを解説した記事。高専・大学生以上の人にも一読の価値があると思われる。
 - [競技プログラミング入門者の成長のためのメモ](https://qiita.com/masakinihirota/items/d1ffac54e70a1adf084c) - 競技プログラミングを始めるにあたって、チーム開発との違い、目標設定の重要性、言語や各種ツールの選定、コンテストサイトの紹介、学習方法など幅広い内容について解説されている。
 - [やってみよう競技プログラミング](https://docs.google.com/presentation/d/1N5MTwRdZPCtUwTwQTajOwkyEvHWSSiRl8xIx-BPfOl0/view#slide=id.p) - 競技プログラミングそのものの説明から、コンテストの参加にまつわるアンチパターンとオススメの練習方法が解説されている。
