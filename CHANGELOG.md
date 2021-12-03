@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-12-03
+
+- [#3115](https://github.com/KATO-Hiro/AtCoderClans/pull/3115) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1200から1599まで(水色)に[ryosuke_ao](https://atcoder.jp/users/ryosuke_ao)さんの[記事](https://note.com/ryosuke_nu/n/n50c163723836)を追加。
+
 ### 2021-12-02
 
 - [#3106](https://github.com/KATO-Hiro/AtCoderClans/pull/3106), [#3107](https://github.com/KATO-Hiro/AtCoderClans/pull/3107) - (破壊的な変更) リンク切れと思われるライブラリおよびスライド資料を一時的に「Archived」ページに移動。
