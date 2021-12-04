@@ -477,6 +477,7 @@ filename: media
 - [競技プログラミングの在り方　～「競技プログラミングを我々が終わらせる」を受けて～](https://chokudai.hatenablog.com/entry/2021/04/01/115755) - IT業界への就職と競技プログラミングとの関係について、賛否両論を踏まえて[chokudai](https://twitter.com/chokudai)さんの意見・スタンスが書かれた記事。また、[AtCoder](https://atcoder.jp/)ユーザが就職において評価されやすい能力の説明に加えて、業務に近い内容を扱ったコンテストが紹介されている。
 - [競技プログラミングの成績が就活の武器に、新手の人材サービスに登録急増のワケ](https://xtech.nikkei.com/atcl/nxt/column/18/00001/05563/) - 企業と学生をつなぐ新しい人材採用サービス([AtCoderJobs](https://jobs.atcoder.jp/)を含む)を導入する企業が急増していることを紹介した記事。また、競技プログラミングで培った力が、業務に役立つ点についても言及されている。注: 全文を読むには、会員登録が必要。
 - [競プロは業務の役に立っているか？～ふるやんの場合～](https://www.creativ.xyz/shakaijin-first-anniversary/) - [furuya1223](https://atcoder.jp/users/furuya1223)さんが、音声認識に関する研究開発に1年間従事して、競技プログラミングが直接的・間接的に役に立った経験を紹介した記事。
+- [採用活動のために競技プログラミング（AtCoder）を始めて一年経ったので感想を書きます](https://qiita.com/nabata/items/44fa3995e476b12b9860) - IT企業の採用担当者が、競技プログラミングを1年間続けた感想をまとめた記事。
 - [社会に出て感じたギャップTOP10](https://docs.google.com/presentation/d/16hCteY3ap_IIIyaT4KMmRBHM4X_4wt0Ge_kd9V_xg8s/edit#slide=id.g2cb369b990_0_113) - [kyuridenamida](https://atcoder.jp/users/kyuridenamida)さんがソフトウェア開発会社に就職する前後で感じたギャップをランキング形式で紹介したスライド資料。
 - [純粋培養競技プログラマが社会に出てみた感想](https://tsutaj.hatenablog.com/entry/2020/12/13/000000) - 学生時代の多くを競技プログラミングに捧げた[tsutaj](https://atcoder.jp/users/tsutaj)さんが、就職1年目で身につけたことやできるようになったことを紹介した記事。
 - [土木とITをつないだプログラミングコンテストという選択肢--鹿島建設とAtCoderの新たな挑戦](https://japan.cnet.com/article/35166817/) - 土木業界におけるITエンジニアの必要性・需要・将来性と、プログラミングコンテストを通したIT人材の確保に向けた取り組みを紹介した記事。
