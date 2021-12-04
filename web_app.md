@@ -280,7 +280,7 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_games.png" alt="atcoder games">
   </div>
 
-- [AtCoder Hot Problems](https://hot-problems.herokuapp.com/) - 1日あたりの問題別提出数を集計し、上位100問を表示する。
+- [AtCoder Hot Problems](https://new-hot-problems.herokuapp.com/ranking/) - 任意の期間(1〜30日)における問題別の提出数を集計し、上位100問を表示する。
 
   <div align="center">
     <img loading = "lazy" src="images/web_app/atcoder_hot_problems.png" alt="atcoder hot problems">
