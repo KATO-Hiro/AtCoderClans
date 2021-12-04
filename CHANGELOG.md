@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-12-04
+
+- [#3124](https://github.com/KATO-Hiro/AtCoderClans/pull/3124) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[採用活動のために競技プログラミング（AtCoder）を始めて一年経ったので感想を書きます](https://qiita.com/nabata/items/44fa3995e476b12b9860)」を追加。
+- [#3123](https://github.com/KATO-Hiro/AtCoderClans/pull/3123) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、スライド資料「[50分で学ぶアルゴリズム](https://speakerdeck.com/e869120/algorithms-in-50-minutes)」を追加。
+- [#3122](https://github.com/KATO-Hiro/AtCoderClans/pull/3122) - 「[Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app)」ページに掲載しているWebアプリ「[AtCoder Hot Problems](https://new-hot-problems.herokuapp.com/ranking/)」のURLとイメージ画像を更新。
+
 ### 2021-12-03
 
 - [#3115](https://github.com/KATO-Hiro/AtCoderClans/pull/3115) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
