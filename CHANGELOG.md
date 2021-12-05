@@ -6,6 +6,14 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-12-05
+
+- [#3128](https://github.com/KATO-Hiro/AtCoderClans/pull/3128) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、以下の動画を追加。
+  - [【未公開シーン】実験する須貝とプログラミングをする鶴崎【ストレス発散】](https://www.youtube.com/watch?v=TJX71Jeg_dc)
+- [#3128](https://github.com/KATO-Hiro/AtCoderClans/pull/3128) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに掲載している「[『フカシギの数え方』 おねえさんといっしょ！ みんなで数えてみよう！](https://www.youtube.com/watch?v=Q4gTV4r0zRs)」の説明文に、実装例と解説記事を追加。
+  - [実装例(GPGPU版)](https://github.com/primenumber/kazoeage-oneesan-cuda)
+  - [解説記事](https://primenumber.hatenadiary.jp/entry/2021/12/04/230653)
+
 ### 2021-12-04
 
 - [#3124](https://github.com/KATO-Hiro/AtCoderClans/pull/3124) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[採用活動のために競技プログラミング（AtCoder）を始めて一年経ったので感想を書きます](https://qiita.com/nabata/items/44fa3995e476b12b9860)」を追加。
