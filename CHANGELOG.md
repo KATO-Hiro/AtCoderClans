@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-12-06
+
+- [#3137](https://github.com/KATO-Hiro/AtCoderClans/pull/3137) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[調和級数などのはなし](https://qiita.com/ageprocpp/items/f6661deaa09dda124132)」を追加。
+- [#3136](https://github.com/KATO-Hiro/AtCoderClans/pull/3136) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1200から1599まで(水色)に[N1flheimr](https://atcoder.jp/users/N1flheimr)さんの[記事](https://qiita.com/N1flheimr/items/fb3230a8a41077f771b9)を追加。
+
 ### 2021-12-05
 
 - [#3128](https://github.com/KATO-Hiro/AtCoderClans/pull/3128) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、以下の動画を追加。
