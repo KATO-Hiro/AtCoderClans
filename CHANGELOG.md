@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-12-08
+
+- [#3143](https://github.com/KATO-Hiro/AtCoderClans/pull/3143), [#3144](https://github.com/KATO-Hiro/AtCoderClans/pull/3144) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、以下の記事を追加。
+  - [AtCoder Beginner Contestで最低限理解する必要がある（と感じた）数学的知識](https://qiita.com/Ll_e_ki/items/fe70b9e3408c5b14ae2e)
+  - [【Python版】AtCoderのコンテスト中に「問題が解けない！」となった時に読む記事](https://qiita.com/H20/items/3de3f298b7c075fa5925)
+
 ### 2021-12-07
 
 - [#3140](https://github.com/KATO-Hiro/AtCoderClans/pull/3140) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
