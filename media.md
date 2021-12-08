@@ -214,6 +214,7 @@ filename: media
 
 ### 数学に関する知識
 
+- [AtCoder Beginner Contestで最低限理解する必要がある（と感じた）数学的知識](https://qiita.com/Ll_e_ki/items/fe70b9e3408c5b14ae2e) - AtCoder Beginner Contest (ABC)に参加する上で、よく出題される数学的知識をまとめた記事。
 - [アルゴリズム・AtCoder のための数学【前編：数学的知識編①】](https://qiita.com/e869120/items/b4a0493aac567c6a7240) - アルゴリズムや競技プログラミングと関連が深い数学的要素を総整理した記事。注: 超大作の記事であるため、必要に応じて該当する部分を参照するとよいと思われる。続編として、[【中編：数学的知識編②】](https://qiita.com/e869120/items/bd7cfd2dbd2706cb8657)や[【後編：数学的考察編】](https://qiita.com/e869120/items/1ccb2bdf16890637e767)もある。
 - [競技プログラミングに関係する数学の整理 ～文系出身や数学苦手erが、もっと競プロを楽しむために～](https://terumiyake.hatenablog.com/entry/2020/08/23/133659) - 競技プログラミングの問題を解く上で必要となる数学の分野・キーワードなどを網羅的にまとめた記事。
 - [Cognicull](https://cognicull.com/ja) - さまざまな数学用語が分かりやすく解説されているWebサイト。また、自然科学や工学に関する内容も含まれている。
