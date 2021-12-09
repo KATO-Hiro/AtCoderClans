@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-12-09
+
+- [#3149](https://github.com/KATO-Hiro/AtCoderClans/pull/3149) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[Medakaa](https://atcoder.jp/users/Medakaa)さんの[記事](https://note.com/treewhitetree/n/ned03462f84a2)を追加。
+
 ### 2021-12-08
 
 - [#3143](https://github.com/KATO-Hiro/AtCoderClans/pull/3143), [#3144](https://github.com/KATO-Hiro/AtCoderClans/pull/3144) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、以下の記事を追加。
