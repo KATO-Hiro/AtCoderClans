@@ -128,6 +128,7 @@ filename: milestones
 - [AtCoderで青色になるまでやったこと](https://note.com/junyakosaka/n/n56e56a0577f6) - [MightyFine](https://atcoder.jp/users/MightyFine)さんが、2021年9月25日に達成。
 - [AtCoder青になったので水色から青までの一年半とついでに今まで書きそびれた黒から水までも全部書く - DivineJK’s diary](https://divinejk.hatenablog.com/entry/2021/10/06/212100) - [DivineJK](https://atcoder.jp/users/DivineJK)さんが、2021年10月2日に達成。
 - [【色変記事】AtCoder青になりました - piddy’s blog](https://piddy-cp.hatenablog.com/entry/2021/10/31/015517) - [piddy](https://atcoder.jp/users/piddy)さんが、2021年10月30日に達成。
+- [AtCoder青色になりました](https://note.com/treewhitetree/n/ned03462f84a2) - [Medakaa](https://atcoder.jp/users/Medakaa)さんが、2021年11月21日に達成。
 
 ### レーティング2000から2399まで(黄色)
 
