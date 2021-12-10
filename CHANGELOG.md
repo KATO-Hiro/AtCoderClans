@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-12-10
+
+- [#3154](https://github.com/KATO-Hiro/AtCoderClans/pull/3154) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[社会人からはじめる競技プログラミング](https://qiita.com/tutuz/items/2a81e7b5f30b28e28377)」を追加。
+
 ### 2021-12-09
 
 - [#3149](https://github.com/KATO-Hiro/AtCoderClans/pull/3149) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
