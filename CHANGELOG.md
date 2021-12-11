@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-12-11
+
+- [#3161](https://github.com/KATO-Hiro/AtCoderClans/pull/3161) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、書籍「[問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本](https://www.amazon.co.jp/dp/4297125218/)」を追加。
+- [#3159](https://github.com/KATO-Hiro/AtCoderClans/pull/3159) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2400から2799まで(橙色)に[sapphire15](https://atcoder.jp/users/sapphire15)さんの[記事](https://sapphire15.hatenablog.com/entry/2021/12/10/234546)を追加。
+
 ### 2021-12-10
 
 - [#3154](https://github.com/KATO-Hiro/AtCoderClans/pull/3154) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[社会人からはじめる競技プログラミング](https://qiita.com/tutuz/items/2a81e7b5f30b28e28377)」を追加。
