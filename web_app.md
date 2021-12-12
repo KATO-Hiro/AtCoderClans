@@ -142,6 +142,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_charts.png" alt="atcoder charts">
   </div>
 
+- [AtCoder Competition History Chart Maker](https://colab.research.google.com/github/bo9chan/AtCoderCharts/blob/main/CompetitionHistoryChart.ipynb) - 任意のユーザのレーティングとパフォーマンスの推移を表示する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_competition_history_chart_maker.png" alt="atcoder competition history chart maker">
+  </div>
+
 - [AtCoder Find Rivals](https://atcoder-find-rivals.herokuapp.com/) - 指定したユーザに近いレーティングのユーザを探すことができる。
 
   <div align="center">
