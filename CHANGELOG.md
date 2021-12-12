@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-12-12
+
+- [#3168](https://github.com/KATO-Hiro/AtCoderClans/pull/3168) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[桁dpを代数的にやっつける](https://qiita.com/ryuhe1/items/185e1a283f13ac638a53)」を追加。
+- [#3166](https://github.com/KATO-Hiro/AtCoderClans/pull/3166) - 「[Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app)」ページに、Webアプリ「[AtCoder Competition History Chart Maker](https://colab.research.google.com/github/bo9chan/AtCoderCharts/blob/main/CompetitionHistoryChart.ipynb)」を追加。
+
 ### 2021-12-11
 
 - [#3161](https://github.com/KATO-Hiro/AtCoderClans/pull/3161) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、書籍「[問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本](https://www.amazon.co.jp/dp/4297125218/)」を追加。
