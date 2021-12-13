@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-12-13
+
+- [#3175](https://github.com/KATO-Hiro/AtCoderClans/pull/3175), [#3176](https://github.com/KATO-Hiro/AtCoderClans/pull/3176) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2400から2799まで(橙色)に[nok0](https://atcoder.jp/users/nok0)さんの[記事](https://tsuchi.hateblo.jp/entry/2021/12/13/152307)を追加。
+  - レーティング2000から2399まで(黄色)に[naoya_t](https://atcoder.jp/users/naoya_t)さんの[記事](https://naoyat.hatenablog.jp/entry/atcoder-yellow)を追加。
+
 ### 2021-12-12
 
 - [#3168](https://github.com/KATO-Hiro/AtCoderClans/pull/3168) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[桁dpを代数的にやっつける](https://qiita.com/ryuhe1/items/185e1a283f13ac638a53)」を追加。
