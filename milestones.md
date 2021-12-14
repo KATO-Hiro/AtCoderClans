@@ -155,6 +155,7 @@ filename: milestones
 - [AtCoder黄色になるまでにやったこと - N_haraのブログ](https://n-hara.hatenablog.com/entry/2021/07/25/172540) - [N_hara](https://atcoder.jp/users/N_hara)さんが、2021年7月24日に達成。
 - [実績解除：AtCoder黄色になった - perarduaadastra](https://perarduaadastra.hatenablog.com/entry/2021/08/09/181811) - [lowking](https://atcoder.jp/users/lowking)さんが、2021年8月8日に達成。
 - [AtCoder黄色になりました - naoya_t@hatenablog](https://naoyat.hatenablog.jp/entry/atcoder-yellow) - [naoya_t](https://atcoder.jp/users/naoya_t)さんが、2021年9月18日に達成。
+- [競技プログラミングをやってきた - はまやん はまやん はまやん](https://blog.hamayanhamayan.com/entry/2021/12/10/223314) - [hamayanhamayan](https://atcoder.jp/users/hamayanhamayan)さんが、2021年12月10日に公開。
 
 ### レーティング2400から2799まで(橙色)
 
