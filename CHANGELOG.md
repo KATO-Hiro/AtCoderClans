@@ -6,6 +6,13 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-12-14
+
+- [#3180](https://github.com/KATO-Hiro/AtCoderClans/pull/3180), [#3181](https://github.com/KATO-Hiro/AtCoderClans/pull/3181), [#3182](https://github.com/KATO-Hiro/AtCoderClans/pull/3182) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2000から2399まで(黄色)に[hamayanhamayan](https://atcoder.jp/users/hamayanhamayan)さんの[記事](https://blog.hamayanhamayan.com/entry/2021/12/10/223314)を追加。
+  - レーティング1600から1999まで(青色)に[regi](https://atcoder.jp/users/regi)さんの[記事](https://regichan.hatenablog.com/entry/2021/12/12/132434)を追加。
+  - レーティング400から799まで(茶色)に[chinsan](https://atcoder.jp/users/chinsan)さんの[記事](https://note.com/t_aoyama/n/nf216afa9241e)を追加。
+
 ### 2021-12-13
 
 - [#3175](https://github.com/KATO-Hiro/AtCoderClans/pull/3175), [#3176](https://github.com/KATO-Hiro/AtCoderClans/pull/3176) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
