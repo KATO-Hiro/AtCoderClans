@@ -38,6 +38,12 @@ filename: web_app
 
 ### 過去問を解く
 
+- [AtCoder-Ebbing](https://atcoder-ebbing.web.app/) - 任意のユーザのレーティング・回答状況に応じて、復習すると効果が高い問題が出題される。作者による[解説記事](https://qiita.com/numeric_tuba/items/9898e31e2566e7296c5d)もある。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_ebbing.png" alt="atcoder ebbing">
+  </div>
+
 - [AtCoder List](http://atcoder-list.herokuapp.com) - 過去問から自分専用の問題リストを作ることができる。コンテストで出題された問題の情報は、後述の[AtCoder Problems](https://kenkoooo.com/atcoder/)や[AtCoder Scores](http://atcoder-scores.herokuapp.com/)などを参照されたい。
 
   <div align="center">
