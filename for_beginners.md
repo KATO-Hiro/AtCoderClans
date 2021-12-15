@@ -156,7 +156,7 @@ A5: まずは、不正解となるテストケースを見つけるための方�
     <img loading = "lazy" src="images/chrome_extension/atcoder_testcase_extension.png" alt="atcoder testcase extension">
   </div>
 
-- Twitter、[競技プログラミング専用のQ&Aサービス](https://procon-qa.herokuapp.com/)、Discordのチャンネル(例えば、[競プロer集会所](http://discord.gg/2xCjYvK))などで質問してみましょう。以下の項目を明記すると、回答が得られやすくなると思います。
+- Twitter、Discordのチャンネル(例えば、[競プロer集会所](http://discord.gg/2xCjYvK))などで質問してみましょう。以下の項目を明記すると、回答が得られやすくなると思います。
   - 問題名
   - 考察したこと
   - 詰まっている(と思われる)ポイント
