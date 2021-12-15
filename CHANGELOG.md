@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-12-15
+
+- [#3186](https://github.com/KATO-Hiro/AtCoderClans/pull/3186) - 「[Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app)」ページに、Webアプリ「[AtCoder-Ebbing](https://atcoder-ebbing.web.app/)」を追加。
+- [#3185](https://github.com/KATO-Hiro/AtCoderClans/pull/3185) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページに掲載している「[cargo-compete](https://github.com/qryxip/cargo-compete)」の説明文に、作者による解説記事を追加。
+  - [cargo-atcoderの代替品を作った](https://qiita.com/qryxip/items/bff57848ac9310d27f1a)
+
 ### 2021-12-14
 
 - [#3180](https://github.com/KATO-Hiro/AtCoderClans/pull/3180), [#3181](https://github.com/KATO-Hiro/AtCoderClans/pull/3181), [#3182](https://github.com/KATO-Hiro/AtCoderClans/pull/3182) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
