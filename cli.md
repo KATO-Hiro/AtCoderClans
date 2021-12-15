@@ -125,7 +125,7 @@ filename: cli
     <img loading = "lazy" src="images/cli/cargo_atcoder.gif" alt="cargo atcoder">
   </div>
 
-- [cargo-compete](https://github.com/qryxip/cargo-compete) ![GitHub stars](https://img.shields.io/github/stars/qryxip/cargo-compete?style=plastic) - コンテストへの参加登録・サンプルケースの取得およびテスト、提出ができる。日本語のドキュメントも充実している。また、[Codeforces](https://codeforces.com/)や[yukicoder](https://yukicoder.me/)にも対応している。
+- [cargo-compete](https://github.com/qryxip/cargo-compete) ![GitHub stars](https://img.shields.io/github/stars/qryxip/cargo-compete?style=plastic) - コンテストへの参加登録・サンプルケースの取得およびテスト、提出ができる。日本語のドキュメントも充実している(併せて、[作者による解説記事](https://qiita.com/qryxip/items/bff57848ac9310d27f1a)も参照されたい)。また、[Codeforces](https://codeforces.com/)や[yukicoder](https://yukicoder.me/)にも対応している。
 
   <div align="center">
     <img loading = "lazy" src="images/cli/cargo_compete.gif" alt="cargo compete">
