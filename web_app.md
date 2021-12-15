@@ -92,12 +92,6 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/template_generator-webapp.png" alt="graph graph">
   </div>
 
-- [PROCON Q&A](https://procon-qa.herokuapp.com/) - 競技プログラミングを対象とした質問と回答を投稿できる。
-
-  <div align="center">
-    <img loading = "lazy" src="images/web_app/procon_q&a.png" alt="procon q&a">
-  </div>
-
 - [Virtual Judge](https://vjudge.net/) - 30以上のコンテストサイトの問題を利用して、バーチャルコンテストが開催できる。
 
   <div align="center">
