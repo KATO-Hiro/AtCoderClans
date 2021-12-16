@@ -67,6 +67,7 @@ filename: milestones
 - [業プロerが入緑した話 - ひたすらに雑記](https://malleroid.hatenablog.com/entry/2021/10/03/142940) - [malleus](https://atcoder.jp/users/malleus)さんが、2021年10月2日に達成。[別記事](https://qiita.com/malleroid/items/1a20d87dd8ddb85c01ba)で、学習方法や学んだアルゴリズム・データ構造が紹介されている。
 - [緑コーダーになるまでにやったこと - Zobio's blog](https://zobio.github.io/kyopro/green.html) - [soshin](https://atcoder.jp/users/soshin)さんが、2021年10月2日に達成。
 - [なんで私が緑色に!? ―文系大学生がゼロからプログラミングを始めたら2か月で入緑した件について - しょうがくせいにっき](https://miyako-lolita.hatenablog.com/entry/2021/10/24/120255) - [mya_Lolita](https://atcoder.jp/users/mya_Lolita)さんが、2021年10月23日に達成。
+- [約半年かけて緑コーダーになれた32歳の自己紹介](https://jp.magicode.io/bkcocoa/articles/d7f30ea833ec47f9990435c8bcab1f07) - [bk_cocoa](https://atcoder.jp/users/bk_cocoa)さんが、2021年12月11日に達成。
 
 ### レーティング1200から1599まで(水色)
 
