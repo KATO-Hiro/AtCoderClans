@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-12-16
+
+- [#3191](https://github.com/KATO-Hiro/AtCoderClans/pull/3191) - (破壊的な変更) リンク切れと思われるWebアプリを一時的に「Archived」ページに移動。
+
 ### 2021-12-15
 
 - [#3186](https://github.com/KATO-Hiro/AtCoderClans/pull/3186) - 「[Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app)」ページに、Webアプリ「[AtCoder-Ebbing](https://atcoder-ebbing.web.app/)」を追加。
