@@ -8,7 +8,7 @@ filename: CHANGELOG
 
 ### 2021-12-17
 
-- [#3195](https://github.com/KATO-Hiro/AtCoderClans/pull/3195) - 「レーティングの節目に到達した喜びをつづった記事」を掲載。
+- [#3195](https://github.com/KATO-Hiro/AtCoderClans/pull/3195) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
   - レーティング800から1199まで(緑色)に[bk_cocoa](https://atcoder.jp/users/bk_cocoa)さんの[記事](https://jp.magicode.io/bkcocoa/articles/d7f30ea833ec47f9990435c8bcab1f07)を追加。
 
 ### 2021-12-16
