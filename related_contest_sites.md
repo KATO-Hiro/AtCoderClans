@@ -36,6 +36,7 @@ filename: related_contest_sites
   - [記事](#%E8%A8%98%E4%BA%8B-1)
   - [プラグイン](#%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3)
 - [Wind Bel Contest](#wind-bel-contest)
+- [Xmas Contest](#xmas-contest)
 - [yukicoder](#yukicoder)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -323,6 +324,10 @@ filename: related_contest_sites
   <div align="center">
     <img loading = "lazy" src="images/related_contest_sites/wind_bel_contest/wind_bel_contest.png" alt="wind bel contest">
   </div>
+
+### Xmas Contest
+
+- [Xmas Contest 2021](http://hos.ac/contest/xmas2021/) - Xmasに開催されるコンテスト。「一風変わった問題」が出題されることが多い。
 
 ### yukicoder
 
