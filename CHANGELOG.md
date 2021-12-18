@@ -6,6 +6,13 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-12-18
+
+- [#3206](https://github.com/KATO-Hiro/AtCoderClans/pull/3206) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、コンテストサイト「[Xmas Contest 2021](http://hos.ac/contest/xmas2021/)」を追加。
+- [#3204](https://github.com/KATO-Hiro/AtCoderClans/pull/3204) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページに掲載している「[AtCoder Tools](https://github.com/kyuridenamida/atcoder-tools)」の説明文に、有志による解説記事を追加。
+  - [AtCoder-Toolsのすすめ](https://tus-ricora.com/programming/atcoder-tools%e3%81%ae%e3%81%99%e3%81%99%e3%82%81/)
+- [#3203](https://github.com/KATO-Hiro/AtCoderClans/pull/3203) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[【Python版】AtCoder を始めた方必見！とりあえず見てください！](https://qiita.com/ryusuke920/items/4a3bf6cd07d4df39c06e)」を追加。
+
 ### 2021-12-17
 
 - [#3195](https://github.com/KATO-Hiro/AtCoderClans/pull/3195) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
