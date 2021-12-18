@@ -324,6 +324,10 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/wind_bel_contest/wind_bel_contest.png" alt="wind bel contest">
   </div>
 
+### Xmas Contest
+
+- [Xmas Contest 2021](http://hos.ac/contest/xmas2021/) - Xmasに開催されるコンテスト。「一風変わった問題」が出題されることが多い。
+
 ### yukicoder
 
 - [comfortable-yukicoder](https://greasyfork.org/ja/scripts/431129-comfortable-yukicoder) - [yukicoder](https://yukicoder.me/)に、汎用的な機能を追加するユーザスクリプト。主な機能として、指定したページに移動できるタブ、提出結果のハイライト、正誤状況の要約などがある。注: ユーザスクリプトを初めて利用する場合は、事前に[スクリプトマネージャー](https://greasyfork.org/ja)を導入する必要がある。
