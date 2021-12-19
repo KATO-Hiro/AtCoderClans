@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-12-19
+
+- [#3209](https://github.com/KATO-Hiro/AtCoderClans/pull/3209) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、Webサイト「[Arugo](https://arugo.herokuapp.com/)」を追加。
+
 ### 2021-12-18
 
 - [#3206](https://github.com/KATO-Hiro/AtCoderClans/pull/3206) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、コンテストサイト「[Xmas Contest 2021](http://hos.ac/contest/xmas2021/)」を追加。
