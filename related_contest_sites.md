@@ -91,6 +91,12 @@ filename: related_contest_sites
 
 #### Webアプリ、Webサイト
 
+- [Arugo](https://arugo.herokuapp.com/) - 任意の1問が80分以内に解けたかどうかに応じて、仮想的なレーティングの推移が表示されるWebサイト。作者による[紹介記事](https://codeforces.com/blog/entry/96830)もある。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/codeforces/arugo.png" alt="arugo">
+  </div>
+
 - [CF-Predictor](https://cf-predictor-frontend.herokuapp.com/) - コンテストの結果に基づいて、レーティングの変化を推定するWebアプリ。また、複数のブラウザに対応した拡張機能をダウンロードして利用することもできる。
 
   <div align="center">
