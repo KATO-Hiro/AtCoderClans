@@ -170,6 +170,8 @@ filename: archived
   - 確認した日: 2021/02/20
 - [ちょこちょこっ](https://www.youtube.com/c/chocochocoxtu/featured) - [chocochocoxtu](https://atcoder.jp/users/chocochocoxtu)さんのYouTubeチャンネル。コンテストの過去問を解く動画などが公開されている。
   - 確認した日: 2021/11/17
+- [【入茶記事】AtCoderで茶色になりました！](https://note.com/takuma1229/n/n4c013fca8439) - [takuma1229](https://atcoder.jp/users/takuma1229)さんが、2021年11月27日に達成。
+  - 確認した日: 2021/12/19
 
 <!-- markdown-link-check-enable -->
 
