@@ -131,6 +131,7 @@ filename: milestones
 - [【色変記事】AtCoder青になりました - piddy’s blog](https://piddy-cp.hatenablog.com/entry/2021/10/31/015517) - [piddy](https://atcoder.jp/users/piddy)さんが、2021年10月30日に達成。
 - [AtCoder青色になりました](https://note.com/treewhitetree/n/ned03462f84a2) - [Medakaa](https://atcoder.jp/users/Medakaa)さんが、2021年11月21日に達成。
 - [1年以上放置した競プロのモチベが完全復活した話 - regichanのブログ](https://regichan.hatenablog.com/entry/2021/12/12/132434) - [regi](https://atcoder.jp/users/regi)さんが、2021年12月12日に公開。
+- [AtCoder青になりました - ゆかりの日記](https://lev635.hatenablog.com/entry/2021/12/20/220308) - [lev635](https://atcoder.jp/users/lev635)さんが、2021年12月19日に達成。
 
 ### レーティング2000から2399まで(黄色)
 
