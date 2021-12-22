@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-12-22
+
+- [#3222](https://github.com/KATO-Hiro/AtCoderClans/pull/3222) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに掲載している「[競プロ典型90問](https://twitter.com/e869120/status/1376089196100653060)」の説明文に、有志によるC++17での実装例を追加。
+  - [Reputeless/tenkei_90](https://github.com/Reputeless/tenkei_90)
+
 ### 2021-12-21
 
 - [#3218](https://github.com/KATO-Hiro/AtCoderClans/pull/3218), [#3219](https://github.com/KATO-Hiro/AtCoderClans/pull/3219) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
