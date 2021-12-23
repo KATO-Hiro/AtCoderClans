@@ -155,6 +155,7 @@ filename: media
 #### Python
 
 - [Python-izm](https://www.python-izm.com/) - Pythonの習得を目的としたWebサイト。入門編、基礎編、応用編などに分かれている。
+- [Python入門（Python版 APG4b）](https://qiita.com/saba/items/b9418d7b54cce4b106e4) - プログラミングの入門教材「[C++入門 AtCoder Programming Guide for beginners (APG4b)](https://atcoder.jp/contests/APG4b)」のPython版。
 
 #### Rust
 
