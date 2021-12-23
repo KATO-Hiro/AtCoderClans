@@ -152,6 +152,10 @@ filename: media
 - [cpprefjp - C++日本語リファレンス](https://cpprefjp.github.io/) - C++のリファレンスを日本語で提供するWebサイト。サンプルコードも用意されている。
 - [Google C++ スタイルガイド 日本語全訳](https://ttsuki.github.io/styleguide/cppguide.ja.html) - 「Google C++ Style Guide」の日本語訳。注: C++のチュートリアルではなく、スタイルガイドであることに留意されたい。
 
+#### Fortran
+
+- [Fortran入門(Fortran版APG4b)](https://qiita.com/jj1guj/items/43a1c876360ddf180f1f) - プログラミングの入門教材「[C++入門 AtCoder Programming Guide for beginners (APG4b)](https://atcoder.jp/contests/APG4b)」のFortran版。
+
 #### Python
 
 - [Python-izm](https://www.python-izm.com/) - Pythonの習得を目的としたWebサイト。入門編、基礎編、応用編などに分かれている。
