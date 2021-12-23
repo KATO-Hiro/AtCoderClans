@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-12-23
+
+- [#3230](https://github.com/KATO-Hiro/AtCoderClans/pull/3230), [#3231](https://github.com/KATO-Hiro/AtCoderClans/pull/3231) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、以下の記事を追加。
+  - [Fortran入門(Fortran版APG4b)](https://qiita.com/jj1guj/items/43a1c876360ddf180f1f)
+  - [Python入門（Python版 APG4b）](https://qiita.com/saba/items/b9418d7b54cce4b106e4)
+
 ### 2021-12-22
 
 - [#3222](https://github.com/KATO-Hiro/AtCoderClans/pull/3222) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに掲載している「[競プロ典型90問](https://twitter.com/e869120/status/1376089196100653060)」の説明文に、有志によるC++17での実装例を追加。
