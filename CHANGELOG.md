@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-12-26
+
+- [#3248](https://github.com/KATO-Hiro/AtCoderClans/pull/3248) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング400から799まで(茶色)に[akikuno](https://atcoder.jp/users/akikuno)さんの[記事](https://qiita.com/akiku/items/0b693004e17bfd094c3b)を追加。
+
 ### 2021-12-25
 
 - [#3241](https://github.com/KATO-Hiro/AtCoderClans/pull/3241) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに掲載している書籍「[問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本](https://www.amazon.co.jp/dp/4297125218/)」の説明文を更新。ソースコード(C++、Python、Java、C)・問題の解答・正誤表が掲載されているGitHubレポジトリを追加。
