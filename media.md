@@ -95,6 +95,7 @@ filename: media
     </ul>
   </details>
 
+- [122人に聞いた！「競技プログラミングを始めたばかりの人に伝えたいこと」](https://qiita.com/sakofsuken/items/6194f8ee83b40749c0e4) - 「競技プログラミングを始めたばかりの人に伝えたいこと」について、筆者を含む122人のアンケート結果(回答者属性・競技プログラミング(競プロ)を始めたきっかけ・競プロをおすすめしたい人・アドバイスなど)がまとめられている記事。
 - [APG4bからAtCoderを始めた人向けの導線](https://mogurin1000000007.hatenablog.com/entry/2021/02/09/162158) - [AtCoder](https://atcoder.jp/)が提供するプログラミングの入門教材[C++入門 AtCoder Programming Guide for beginners (APG4b)](https://atcoder.jp/contests/APG4b)の概説と、APG4bをある程度学習した人に向けた基本的な練習方法やTipsが紹介されている記事。
 - [【Python版】AtCoder を始めた方必見！とりあえず見てください！](https://qiita.com/ryusuke920/items/4a3bf6cd07d4df39c06e) - [AtCoder](https://atcoder.jp/)およびPythonを始めた人に向けて書かれた記事。競技プログラミングの概要、コンテストの種類と難易度、Pythonにおける標準的な入出力、過去問のサンプル、筆者のおすすめのWebサービス・ツールなどについて紹介されている記事。
 - [AtCoderで始めるPython入門](https://qiita.com/KoyanagiHitoshi/items/3286fbc65d56dd67737c) - [AtCoder](https://atcoder.jp/)で開催されているAtCoder Beginner Contest (ABC)のA問題、B問題をPython(3.8.2)で解くための解説記事。
