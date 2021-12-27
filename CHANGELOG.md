@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-12-27
+
+- [#3253](https://github.com/KATO-Hiro/AtCoderClans/pull/3253) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[122人に聞いた！「競技プログラミングを始めたばかりの人に伝えたいこと」](https://qiita.com/sakofsuken/items/6194f8ee83b40749c0e4)」を追加。
+
 ### 2021-12-26
 
 - [#3248](https://github.com/KATO-Hiro/AtCoderClans/pull/3248) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
