@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-12-28
+
+- [#3260](https://github.com/KATO-Hiro/AtCoderClans/pull/3260), [#3261](https://github.com/KATO-Hiro/AtCoderClans/pull/3261) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの2021年10月分を[月別のアーカイブ](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2021_10.md)に移動。
+
 ### 2021-12-27
 
 - [#3253](https://github.com/KATO-Hiro/AtCoderClans/pull/3253) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[122人に聞いた！「競技プログラミングを始めたばかりの人に伝えたいこと」](https://qiita.com/sakofsuken/items/6194f8ee83b40749c0e4)」を追加。
