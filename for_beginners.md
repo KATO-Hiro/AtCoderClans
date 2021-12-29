@@ -42,6 +42,7 @@ A0: 入門者、初心者向けの記事や動画に目を通してみましょ�
 
 A1: 入門者、初心者向けの教材や記事を読んでみましょう。[AtCoder](https://atcoder.jp/)アカウントを登録し、コンテスト参加前に練習問題を解くことをおすすめします。
 
+- [【初心者向け】AtCoder Beginner Contestの取り組み方](https://qiita.com/rute_not_route/items/d1ae32a80d1c3a50d017) - [AtCoder](https://atcoder.jp/)アカウントの作成方法からコンテストの参加登録・問題の取り組み方と注意事項、コンテスト後の復習までの流れを丁寧に解説した記事です。
 - [APG4bからAtCoderを始めた人向けの導線](https://mogurin1000000007.hatenablog.com/entry/2021/02/09/162158) - 公式が提供するプログラミングの入門教材[C++入門 AtCoder Programming Guide for beginners (通称APG4b)](https://atcoder.jp/contests/APG4b)の概説と、APG4bをある程度学習した人に向けた基本的な練習方法やTipsが紹介されている記事です。
 - [C++入門 AtCoder Programming Guide for beginners (APG4b)](https://atcoder.jp/contests/APG4b) - 公式が提供する汎用的なプログラミングの基礎を学ぶための入門教材です。また、知識の定着を図るための練習問題と自分で書いたプログラムを自動で採点してくれるシステムがあるのが大きな特徴です。また、有志により[Fortran版](https://qiita.com/jj1guj/items/43a1c876360ddf180f1f)、[Python版](https://qiita.com/saba/items/b9418d7b54cce4b106e4)、[Rust版](https://zenn.dev/toga/books/apg4b-rust-ver)も作成・公開されています。
 
