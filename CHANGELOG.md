@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-12-30
+
+- [#3269](https://github.com/KATO-Hiro/AtCoderClans/pull/3269) - 「[For Beginners](https://kato-hiro.github.io/AtCoderClans/for_beginners)」ページと「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、コードエディタ「[Simple C++ Editor](https://tumoiyorozu.github.io/SimpleCppEditor/)」を追加。
+
 ### 2021-12-29
 
 - [#3264](https://github.com/KATO-Hiro/AtCoderClans/pull/3264) - 「[For Beginners](https://kato-hiro.github.io/AtCoderClans/for_beginners)」ページと「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[【初心者向け】AtCoder Beginner Contestの取り組み方](https://qiita.com/rute_not_route/items/d1ae32a80d1c3a50d017)」を追加。
