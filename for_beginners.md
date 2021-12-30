@@ -107,6 +107,14 @@ A2: オンラインでプログラムを実行できるサービスを利用す�
     <img loading = "lazy" src="images/official/code_test.png" alt="virtual participation">
   </div>
 
+- ブラウザでC++が実行できるコードエディタ「[Simple C++ Editor](https://tumoiyorozu.github.io/SimpleCppEditor/)」を利用する方法
+  - メリット: すぐにコードを書くことができ、入出力の結果を確認できます。また、便利な機能が多数用意されています。詳しくは、作者の[紹介記事](https://qiita.com/TumoiYorozu/items/7a9b862071edd5427200)をご参照ください。
+  - デメリット: C++以外の言語で問題を解きたい場合は、別の方法を検討する必要があります。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/simple_cpp_editor.png" alt="simple cpp editor">
+  </div>
+
 - [オンラインのプログラミング実行環境サービスを紹介した記事](https://paiza.hatenablog.com/entry/2020/09/29/140000)
   - メリット: すぐにコードを書くことができます。基本的な機能に関しては、無料のサービスが多いです。
   - デメリット: 利用したい言語・ライブラリに対応していないサービス、対応言語のバージョンが古いサービスもあるので注意が必要です。

@@ -92,6 +92,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/template_generator-webapp.png" alt="graph graph">
   </div>
 
+- [Simple C++ Editor](https://tumoiyorozu.github.io/SimpleCppEditor/) - ブラウザでC++が実行できるコードエディタ。特徴的な機能として、ソースコードの自動保存・標準出力の順次出力・エラーメッセージの日本語化・実行時エラーの捕捉などがある。詳しくは、作者の[紹介記事](https://qiita.com/TumoiYorozu/items/7a9b862071edd5427200)を参照されたい。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/simple_cpp_editor.png" alt="simple cpp editor">
+  </div>
+
 - [Virtual Judge](https://vjudge.net/) - 30以上のコンテストサイトの問題を利用して、バーチャルコンテストが開催できる。
 
   <div align="center">
