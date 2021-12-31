@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2021-12-31
+
+- [#3264](https://github.com/KATO-Hiro/AtCoderClans/pull/3264) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[【執筆体験記】大学1年生が、アルゴリズムの本を書くまで](https://e869120.hatenablog.com/entry/2021/12/30/210649)」を追加。
+
 ### 2021-12-30
 
 - [#3269](https://github.com/KATO-Hiro/AtCoderClans/pull/3269) - 「[For Beginners](https://kato-hiro.github.io/AtCoderClans/for_beginners)」ページと「[Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app)」ページに、コードエディタ「[Simple C++ Editor](https://tumoiyorozu.github.io/SimpleCppEditor/)」を追加。
