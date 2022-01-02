@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-01-02
+
+- [#3281](https://github.com/KATO-Hiro/AtCoderClans/pull/3281) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、記事「[アルゴ式の存在意義](https://note.com/sak_algo/n/n33da1fbfea38)」を追加。
+
 ### 2022-01-01
 
 - [#3276](https://github.com/KATO-Hiro/AtCoderClans/pull/3276) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、「[競プロ流行語大賞2021](https://twitter.com/jupijupi111/status/1476845392075853825)」を追加。
