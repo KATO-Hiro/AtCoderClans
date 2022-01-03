@@ -565,6 +565,10 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/virtual_contest_upsolver.png" alt="virtual contest upsolver">
   </div>
 
+### APIを利用するためのライブラリ
+
+- [atcoder-problems-api](https://greasyfork.org/ja/scripts/437862-atcoder-problems-api) - [AtCoder Problems](https://kenkoooo.com/atcoder/)でサポートされている[API](https://github.com/kenkoooo/AtCoderProblems/blob/master/doc/api.md)を外部から利用するためのライブラリ。
+
 ### ユーザスクリプトの開発に関する知見
 
 - [UserscriptをTypeScriptで書く](https://iilj.github.io/txt/userscript/2021/07/31/userscript-typescript.html) - ユーザスクリプトをTypeScriptで開発する方法について紹介した記事。
