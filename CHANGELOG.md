@@ -6,6 +6,13 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-01-03
+
+- [#3288](https://github.com/KATO-Hiro/AtCoderClans/pull/3288) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、ユーザスクリプト「[atcoder-problems-api](https://greasyfork.org/ja/scripts/437862-atcoder-problems-api)」を追加。
+- [#3286](https://github.com/KATO-Hiro/AtCoderClans/pull/3286), [#3287](https://github.com/KATO-Hiro/AtCoderClans/pull/3287) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、以下の記事を追加。
+  - [エンジニア人材の志向を理解した選考デザインと対話が採用成功のカギ！](https://saponet.mynavi.jp/column/detail/20211208135429.html)
+  - [HACK TO THE FUTURE 2022 本選オープン 解説＋参加記 - TERRYのブログ](https://www.terry-u16.net/entry/httf2022-final)
+
 ### 2022-01-02
 
 - [#3281](https://github.com/KATO-Hiro/AtCoderClans/pull/3281) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、記事「[アルゴ式の存在意義](https://note.com/sak_algo/n/n33da1fbfea38)」を追加。
