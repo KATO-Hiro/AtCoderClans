@@ -487,6 +487,7 @@ filename: media
 - [「AtCoder 競技プログラマー就職企業人気ランキング2021」を発表](https://prtimes.jp/main/html/rd/p/000000035.000028415.html) - [AtCoder](https://atcoder.jp/)がユーザに対して実施した人気企業ランキング(2021年版)をまとめた記事。
 - [AtCoder純粋培養緑コーダーが転職ACするまで](https://seashellpink-frostywhite.hatenablog.com/entry/2021/03/31/185821) - [riano_](https://atcoder.jp/users/riano_)さんが[AtCoderJobs](https://jobs.atcoder.jp/)を利用してIT業界未経験の状態から転職した経験談を紹介した記事。
 - [AtCoderでしかプログラミングを知らない生物学徒がハッカソンに挑戦してみた話](https://tsuna-lab.hatenablog.com/entry/2021/04/28/233453) - ハッカソンに初めて参加した筆者が、チーム開発で経験した内容を紹介した記事。
+- [エンジニア人材の志向を理解した選考デザインと対話が採用成功のカギ！](https://saponet.mynavi.jp/column/detail/20211208135429.html) - ITコンサルタント会社における競技プログラマーの採用活動を紹介した記事。
 - [おいしいキャベツの育て方](https://ngtkana.hatenablog.com/entry/2021/03/17/210830) - [ngtkana](https://atcoder.jp/users/ngtkana)さんが、プログラミングを始めたきっかけ・[AtCoder](https://atcoder.jp/)との出会い・アルバイトを経て現職に至るまでの過程を紹介した記事。
 - [競技プログラマーがWeb開発者の卵になるまでの軌跡](https://qiita.com/__Null_Null_/items/940305f068ef9df659d9) - Web開発に興味のある競技プログラマーに向けて、シンプルなWebアプリを作るために必要な知識・学習順序を紹介した記事。
 - [競技プログラマーにおすすめするセキュリティエンジニアというお仕事](https://qiita.com/shioshiota/items/6f6cc42303ac72388693) - 競技プログラミングの経験が仕事に活きるケースの一例が紹介されている記事。競技プログラミングが得意な人とセキュリティエンジニアの業務との関連について解説されている。
