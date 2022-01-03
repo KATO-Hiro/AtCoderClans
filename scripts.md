@@ -567,7 +567,7 @@ filename: scripts
 
 ### APIを利用するためのライブラリ
 
-- [atcoder-problems-api](https://greasyfork.org/ja/scripts/437862-atcoder-problems-api) - [AtCoder Problems](https://kenkoooo.com/atcoder/)でサポートされている[API](https://github.com/kenkoooo/AtCoderProblems/blob/master/doc/api.md)を外部から利用するためのライブラリ。
+- [atcoder-problems-api](https://greasyfork.org/ja/scripts/437862-atcoder-problems-api) - [AtCoder Problems](https://kenkoooo.com/atcoder/)でサポートされている[API](https://github.com/kenkoooo/AtCoderProblems/blob/master/doc/api.md)を外部から利用するためのライブラリ。注: APIにリクエストを送る場合は、一定の間隔を空け、回数が多くなり過ぎないようにすることを強く推奨。
 
 ### ユーザスクリプトの開発に関する知見
 
