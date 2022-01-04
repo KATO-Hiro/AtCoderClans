@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-01-04
+
+- [#3294](https://github.com/KATO-Hiro/AtCoderClans/pull/3294) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、Advent Calendar「[データ構造とアルゴリズム Advent Calendar 2021](https://qiita.com/advent-calendar/2021/str)」を追加。
+- [#3293](https://github.com/KATO-Hiro/AtCoderClans/pull/3293) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに掲載している書籍「[問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本](https://www.amazon.co.jp/dp/4297125218/)」の説明文を更新。著者が推奨している略称(「アルゴリズム×数学」本、または、#アルゴ数学本([出典](https://twitter.com/e869120/status/1477948316805922817))を追加。
+
 ### 2022-01-03
 
 - [#3288](https://github.com/KATO-Hiro/AtCoderClans/pull/3288) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、ユーザスクリプト「[atcoder-problems-api](https://greasyfork.org/ja/scripts/437862-atcoder-problems-api)」を追加。
