@@ -457,6 +457,7 @@ filename: media
   - [競プロ流行語大賞2021](https://twitter.com/jupijupi111/status/1476845392075853825)
 - [色変記事 Advent Calendar 2020](https://adventar.org/calendars/5178) - [dokin](https://atcoder.jp/users/dokin)さんが企画した色変記事(所定のレーティングに到達したことを記念して書かれた記事)のアドベントカレンダー。
 - [Competitive Programming (1) Advent Calendar 2020](https://adventar.org/calendars/4969) - 競技プログラミングに関する話題を扱ったアドベントカレンダー。
+- [データ構造とアルゴリズム Advent Calendar 2021](https://qiita.com/advent-calendar/2021/str) - データ構造とアルゴリズムに関する話題を扱ったアドベントカレンダー。
 
 ### アルゴリズム、最適化手法を活用した事例
 
