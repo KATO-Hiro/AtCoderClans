@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-01-05
+
+- [#3298](https://github.com/KATO-Hiro/AtCoderClans/pull/3298) - 「[Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app)」ページに、Webアプリ「[AtCoder Alert](https://atcoderalert-2a1a8.web.app/)」を追加。
+
 ### 2022-01-04
 
 - [#3294](https://github.com/KATO-Hiro/AtCoderClans/pull/3294) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、Advent Calendar「[データ構造とアルゴリズム Advent Calendar 2021](https://qiita.com/advent-calendar/2021/str)」を追加。
