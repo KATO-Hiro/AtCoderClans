@@ -471,6 +471,12 @@ filename: web_app
 
 ### Twitter
 
+- [AtCoder Alert](https://atcoderalert-2a1a8.web.app/) - 自分の解答状況を自動でツイートしてくれる。つぶやく内容をカスタマイズすることも可能。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_alert.png" alt="atcoder alert">
+  </div>
+
 - [AtCoder コンテスト実況 Bot](https://twitter.com/cpcontest_bot?lang=en) - コンテスト開催中に登録されているユーザの順位が上がったら通知する。
 
   <div align="center">
