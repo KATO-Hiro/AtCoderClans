@@ -77,6 +77,8 @@ filename: videos
 - [AtCoderの始め方。競プロに興味はあるけどやっていないという方へ。](https://www.youtube.com/watch?v=vxBOC08XZ44&feature=youtu.be) - 教育系エンジニアによる[AtCoder](https://atcoder.jp/)の紹介動画。競技プログラミングの解説に加えて、便利なサイト・ツールが紹介されている。
 - [AtCoder 布教 PV](https://www.youtube.com/watch?v=-z3bTeA_SEY&feature=youtu.be) - 有志による[AtCoder](https://atcoder.jp/)のプロモーションビデオ。特に、競技プログラミングを始めようと思っている人や周囲に布教したい人におすすめ。
 - [「だから慶応は学歴自慢じゃないっつーの」、4部合唱にして歌ってみました！](https://twitter.com/TumoiYorozu/status/1448666012639895562) - [chokudai](https://twitter.com/chokudai)さんの有名ツイートを4部合唱で歌っている。
+  - [9つの変奏曲Ver](https://www.youtube.com/watch?v=7tTufTl2Ch4)
+  - [東北きりたんVer](https://twitter.com/gochaism/status/1476226270480711680)
 - [【！？】東大生、ストレス発散しろって言われて勉強し始める](https://www.youtube.com/watch?v=W1fxwbkV1Zg) - 東大生のストレス発散方法の一つとして、競技プログラミングが取り上げられている動画。
   - [【未公開シーン】実験する須貝とプログラミングをする鶴崎【ストレス発散】](https://www.youtube.com/watch?v=TJX71Jeg_dc) - 上記の動画の未公開シーン(出演者が実際に問題を解いているところ)が公開されている。
 - [2分で始める競技プログラミング【高井茅乃 #31】](https://www.youtube.com/watch?v=F4_1yWI5Z-Y&feature=youtu.be) - 競技プログラミングの概説、[AtCoder](https://atcoder.jp/)のアカウント登録、練習問題を解く方法が2分で紹介されている。
