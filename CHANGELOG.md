@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-01-06
+
+- [#3302](https://github.com/KATO-Hiro/AtCoderClans/pull/3302) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、「だから慶応は学歴自慢じゃないっつーの」のアレンジ曲を追加。
+  - [9つの変奏曲Ver](https://www.youtube.com/watch?v=7tTufTl2Ch4)
+  - [東北きりたんVer](https://twitter.com/gochaism/status/1476226270480711680)
+
 ### 2022-01-05
 
 - [#3298](https://github.com/KATO-Hiro/AtCoderClans/pull/3298) - 「[Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app)」ページに、Webアプリ「[AtCoder Alert](https://atcoderalert-2a1a8.web.app/)」を追加。
