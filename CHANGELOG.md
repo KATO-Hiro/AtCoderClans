@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-01-07
+
+- [#3306](https://github.com/KATO-Hiro/AtCoderClans/pull/3306) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、VTuberを追加。
+  - [Pythonプログラミング VTuber サプー](https://www.youtube.com/channel/UC5Kgc_HNzx4GJ-w4QMeeKiQ/playlists)
+
 ### 2022-01-06
 
 - [#3302](https://github.com/KATO-Hiro/AtCoderClans/pull/3302) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、「だから慶応は学歴自慢じゃないっつーの」のアレンジ曲を追加。
