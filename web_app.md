@@ -352,6 +352,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_training_performance_visualizer.png" alt="atcoder training performance visualizer">
   </div>
 
+- [AtCoder Trophies](https://github.com/KATO-Hiro/AtCoderTrophies) - AtCoderに関連する統計情報を利用してトロフィーアイコンを動的に生成し、GitHubのREADMEに貼ることができる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_trophies.png" alt="atcoder trophies">
+  </div>
+
 - [AtCoder Twitter Profile Updater](https://atcoder-twitter-profile-updater.vercel.app/) - レーティングの推移と最新の値をTwitterのプロフィール欄に自動で追加・更新できる。また、アプリおよびその構成技術に関する[解説記事](https://qiita.com/makutamoto/items/f9761dcf8dbe4d43d2b1)も公開されている。
 
   <div align="center">
