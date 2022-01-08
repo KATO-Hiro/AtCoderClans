@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-01-08
+
+- [#3311](https://github.com/KATO-Hiro/AtCoderClans/pull/3311) - 「[Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app)」ページに、Webアプリ「[AtCoder Trophies](https://github.com/KATO-Hiro/AtCoderTrophies)」を追加。
+
 ### 2022-01-07
 
 - [#3306](https://github.com/KATO-Hiro/AtCoderClans/pull/3306) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、VTuberを追加。
