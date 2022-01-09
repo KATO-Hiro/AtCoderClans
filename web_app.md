@@ -352,7 +352,7 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_training_performance_visualizer.png" alt="atcoder training performance visualizer">
   </div>
 
-- [AtCoder Trophies](https://github.com/KATO-Hiro/AtCoderTrophies) - AtCoderに関連する統計情報を利用してトロフィーアイコンを動的に生成し、GitHubのREADMEに貼ることができる。
+- [AtCoder Trophies](https://atcoder-trophies.vercel.app/) - AtCoderに関連する統計情報を利用してトロフィーアイコンを動的に生成し、GitHubのREADMEに貼ることができる。
 
   <div align="center">
     <img loading = "lazy" src="images/web_app/atcoder_trophies.png" alt="atcoder trophies">
