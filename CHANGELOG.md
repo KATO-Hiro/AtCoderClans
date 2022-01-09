@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-01-09
+
+- [#3316](https://github.com/KATO-Hiro/AtCoderClans/pull/3316) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[グラフ理論の基礎](https://qiita.com/maskot1977/items/e1819b7a1053eb9f7d61)」を追加。
+- [#3313](https://github.com/KATO-Hiro/AtCoderClans/pull/3313) - (破壊的な変更) [#3311](https://github.com/KATO-Hiro/AtCoderClans/pull/3311)のURLを変更。
+
 ### 2022-01-08
 
 - [#3311](https://github.com/KATO-Hiro/AtCoderClans/pull/3311) - 「[Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app)」ページに、Webアプリ「[AtCoder Trophies](https://atcoder-trophies.vercel.app/)」を追加。
