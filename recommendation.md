@@ -68,7 +68,7 @@ filename: recommendation
 
 #### 入出力例を使って、不正解となるソースコードを提出する可能性を減らす
 
-- [⭐ AtCoder Easy Test](https://greasyfork.org/ja/scripts/415946-atcoder-easy-test) - 「問題」ページで、入出力サンプルを使って素早くテストを実行できます。また、自分で作成したテストケースも実行できます。
+- [⭐ AtCoder Easy Test v2](https://greasyfork.org/ja/scripts/433152-atcoder-easy-test-v2) - 「問題」ページで、入出力サンプルを使って素早くテストを実行できます。スクリプトの基本的な使用方法に関しては、[作者による解説記事](https://qiita.com/magurofly/items/4b60dc02283e70230f71)を参照してください。
 
   <div align="center">
     <img loading = "lazy" src="images/userscript/atcoder_easy_test.png" alt="atcoder easy test">
