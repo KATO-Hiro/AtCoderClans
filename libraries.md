@@ -236,6 +236,7 @@ filename: libraries
 ### Go
 
 - [aruaru0/golang_myatcoder](https://github.com/aruaru0/golang_myatcoder/tree/master/algo) ![GitHub stars](https://img.shields.io/github/stars/aruaru0/golang_myatcoder?style=plastic) - [Aruaru0](https://atcoder.jp/users/Aruaru0)さんのライブラリ。
+- [mookjp/atcoder_practice](https://github.com/mookjp/atcoder_practice) ![GitHub stars](https://img.shields.io/github/stars/mookjp/atcoder_practice?style=plastic) - [mookjp](https://atcoder.jp/users/mookjp)さんのテンプレート。使い方を説明した[記事](https://blog.mookjp.io/blog-ja/atcoder-practice-by-go/)も公開されている。
 - [my0k/go-competitive](https://github.com/my0k/go-competitive) ![GitHub Repo stars](https://img.shields.io/github/stars/my0k/go-competitive?style=plastic) - [maguroguma](https://atcoder.jp/users/maguroguma)さんのライブラリ。
 
 ### Haskell
