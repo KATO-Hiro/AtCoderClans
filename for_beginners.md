@@ -215,7 +215,7 @@ A7: さまざまな要因が考えられます。現時点では、[AtCoder](htt
 
 - 回答コードを提出する前に、サンプルを使った確認([自動テストツール](https://kato-hiro.github.io/AtCoderClans/cli)の活用)をおすすめします。
 
-  - [AtCoder Easy Test](https://greasyfork.org/ja/scripts/415946-atcoder-easy-test) - 「問題」ページで、入出力サンプルを使って素早くテストを実行できるユーザスクリプトです。また、自分で作成したテストケースも実行できます。注: 初めてユーザスクリプトを利用される方は、[スクリプトマネージャ](https://greasyfork.org/ja)を事前にインストールしてください。
+  - [AtCoder Easy Test v2](https://greasyfork.org/ja/scripts/433152-atcoder-easy-test-v2) - 「問題」ページで、入出力サンプルを使って素早くテストを実行できるユーザスクリプトです。また、自分で作成したテストケースも実行できます。注: 初めてユーザスクリプトを利用される方は、[スクリプトマネージャ](https://greasyfork.org/ja)を事前にインストールしてください。
 
     <div align="center">
       <img loading = "lazy" src="images/userscript/atcoder_easy_test.png" alt="atcoder easy test">
