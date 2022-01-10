@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-01-10
+
+- [#3316](https://github.com/KATO-Hiro/AtCoderClans/pull/3316) - 「[Recommendation](https://kato-hiro.github.io/AtCoderClans/recommendation)」ページで掲載している「[AtCoder Easy Test v2](https://greasyfork.org/ja/scripts/433152-atcoder-easy-test-v2)」のリンク・説明文を最新情報に更新(See: [#3078](https://github.com/KATO-Hiro/AtCoderClans/pull/3078))。
+- [#3321](https://github.com/KATO-Hiro/AtCoderClans/pull/3321) - 「[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)」ページに、Goで実装されたテンプレートを追加。
+  - [mookjp/atcoder_practice](https://github.com/mookjp/atcoder_practice)
+
 ### 2022-01-09
 
 - [#3316](https://github.com/KATO-Hiro/AtCoderClans/pull/3316) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[グラフ理論の基礎](https://qiita.com/maskot1977/items/e1819b7a1053eb9f7d61)」を追加。
