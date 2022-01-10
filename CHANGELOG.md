@@ -8,7 +8,7 @@ filename: CHANGELOG
 
 ### 2022-01-10
 
-- [#3316](https://github.com/KATO-Hiro/AtCoderClans/pull/3316) - 「[Recommendation](https://kato-hiro.github.io/AtCoderClans/recommendation)」ページで掲載している「[AtCoder Easy Test v2](https://greasyfork.org/ja/scripts/433152-atcoder-easy-test-v2)」のリンク・説明文を最新情報に更新(See: [#3078](https://github.com/KATO-Hiro/AtCoderClans/pull/3078))。
+- [#3316](https://github.com/KATO-Hiro/AtCoderClans/pull/3316) - 「[Recommendation](https://kato-hiro.github.io/AtCoderClans/recommendation)」ページで掲載しているユーザスクリプトのリンク・説明文を最新情報に修正([#3078](https://github.com/KATO-Hiro/AtCoderClans/pull/3078)に伴う更新を失念していたため)。
 - [#3321](https://github.com/KATO-Hiro/AtCoderClans/pull/3321) - 「[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)」ページに、Goで実装されたテンプレートを追加。
   - [mookjp/atcoder_practice](https://github.com/mookjp/atcoder_practice)
 
