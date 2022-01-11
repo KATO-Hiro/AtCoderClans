@@ -270,7 +270,7 @@ filename: archived
 
 - [CF Problems](https://cf-problems.glitch.me/) - 開催されたコンテストの問題を一覧できるwebアプリ。<!-- markdown-link-check-enable -->
   - 理由: 記載なし。
-  - 代替手段: [CONTEST MANIA](https://contestmania.web.app/)や[CF Problems](https://cf.kira924age.com/#/table/)を利用する。
+  - 代替手段: [CONTEST MANIA](https://contestmania.web.app/)や別の作者による同名の[Codeforces Problems](https://cf.kira924age.com/#/table/)、[CF-Problems](https://tom0727.github.io/cf-problems/)を利用する。
 
   <div align="center">
     <img loading = "lazy" src="images/related_contest_sites/codeforces/cf_problems.png" alt="cf problems">
@@ -280,4 +280,4 @@ filename: archived
 
 - [Codeforces Problems](https://yang33-kassa.jp/Codeforces-Problems/) - 開催されたコンテストの問題を一覧できるwebアプリ。<!-- markdown-link-check-enable -->
   - 理由: 記載なし。
-  - 代替手段: [CONTEST MANIA](https://contestmania.web.app/)や別の作者による同名の[Codeforces Problems](https://cf.kira924age.com/#/table/)を利用する。
+  - 代替手段: [CONTEST MANIA](https://contestmania.web.app/)や別の作者による同名の[Codeforces Problems](https://cf.kira924age.com/#/table/)、[CF-Problems](https://tom0727.github.io/cf-problems/)を利用する。
