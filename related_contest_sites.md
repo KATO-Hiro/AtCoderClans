@@ -104,16 +104,16 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/codeforces/cf-predictor.png" alt="cf predictor">
   </div>
 
-- [CF Problems](https://cf.kira924age.com/#/table/) - 開催されたコンテストの問題、ユーザの正誤状況などを一覧できるWebアプリ。作者による使用技術の[解説記事](https://kira000.hatenadiary.jp/entry/2021/03/06/123556)もある。また、類似したWebアプリとして[CONTEST MANIA](https://contestmania.web.app/)がある。
-
-  <div align="center">
-    <img loading = "lazy" src="images/related_contest_sites/codeforces/cf_problems_2nd.png" alt="cf problems 2nd">
-  </div>
-
 - [Codeforces Anytime](https://codeforces-anytime.firebaseapp.com/) - バーチャルコンテストの結果を利用して、レーティングの変動を表示するWebアプリ。同一の作者により[AtCoder版](https://atcoder-anytime.sonoapp.page/)も公開されている。
 
   <div align="center">
     <img loading = "lazy" src="images/related_contest_sites/codeforces/codeforces_anytime.png" alt="cf predictor">
+  </div>
+
+- [Codeforces Problems](https://cf.kira924age.com/#/table/) - 開催されたコンテストの問題、ユーザの正誤状況などを一覧できるWebアプリ。作者による使用技術の[解説記事](https://kira000.hatenadiary.jp/entry/2021/03/06/123556)もある。また、類似したWebアプリとして[CONTEST MANIA](https://contestmania.web.app/)がある。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/codeforces/cf_problems_2nd.png" alt="cf problems 2nd">
   </div>
 
 - [Codeforces Rating Comparison](https://rika0384.github.io/codeforces_rating_comparison/) - 指定した2人以上のレーティングの比較ができる。[AtCoder版](https://atcoder-rating-comparison.herokuapp.com/)も公開されている。
@@ -122,7 +122,7 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/codeforces/codeforces_rating_comparison.png" alt="codeforces rating comparison">
   </div>
 
-- [CONTEST MANIA](https://contestmania.web.app/) - 開催されたコンテストの問題を一覧できるWebアプリ「[Codeforces Problems](https://yang33-kassa.jp/Codeforces-Problems/)」の後継プロジェクトの一つ。ユーザ名を入力することで、正誤状況を把握できる。
+- [CONTEST MANIA](https://contestmania.web.app/) - 開催されたコンテストの問題を一覧できるWebアプリ。ユーザ名を入力することで、正誤状況を把握できる。
 
   <div align="center">
     <img loading = "lazy" src="images/related_contest_sites/codeforces/contest_mania.png" alt="contest mania">

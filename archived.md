@@ -280,4 +280,4 @@ filename: archived
 
 - [Codeforces Problems](https://yang33-kassa.jp/Codeforces-Problems/) - 開催されたコンテストの問題を一覧できるwebアプリ。<!-- markdown-link-check-enable -->
   - 理由: 記載なし。
-  - 代替手段: [CONTEST MANIA](https://contestmania.web.app/)や[CF Problems](https://cf.kira924age.com/#/table/)を利用する。
+  - 代替手段: [CONTEST MANIA](https://contestmania.web.app/)や別の作者による同名の[Codeforces Problems](https://cf.kira924age.com/#/table/)を利用する。
