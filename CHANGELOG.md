@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-01-11
+
+- [#3333](https://github.com/KATO-Hiro/AtCoderClans/pull/3333) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、Webアプリ「[CF-Problems](https://tom0727.github.io/cf-problems/)」を追加。
+- [#3332](https://github.com/KATO-Hiro/AtCoderClans/pull/3332) - (破壊的な変更) [#1616](https://github.com/KATO-Hiro/AtCoderClans/pull/1616)で掲載したサービス名の変更に追従。
+
 ### 2022-01-10
 
 - [#3323](https://github.com/KATO-Hiro/AtCoderClans/pull/3323), [#3326](https://github.com/KATO-Hiro/AtCoderClans/pull/3326) - 「[For Beginners](https://kato-hiro.github.io/AtCoderClans/for_beginners)」ページと「[Recommendation](https://kato-hiro.github.io/AtCoderClans/recommendation)」ページで掲載しているユーザスクリプトのリンク・説明文を最新情報に修正([#3078](https://github.com/KATO-Hiro/AtCoderClans/pull/3078)に伴う更新を失念していたため)。
