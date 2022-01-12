@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-01-12
+
+- [#3339](https://github.com/KATO-Hiro/AtCoderClans/pull/3339) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[std::setを使わない代替テクニック](https://ikatakos.com/pot/programming_algorithm/data_structure/balancing_binary_search_tree/tree_free)」を追加。
+
 ### 2022-01-11
 
 - [#3333](https://github.com/KATO-Hiro/AtCoderClans/pull/3333) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、Webアプリ「[CF-Problems](https://tom0727.github.io/cf-problems/)」を追加。
