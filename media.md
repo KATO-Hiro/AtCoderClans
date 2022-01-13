@@ -266,6 +266,7 @@ filename: media
 ### 最適解を求める問題に関する知見
 
 - [AHC001（マラソンマッチ）の参加者の使用言語の分布を調べてみた](https://wakabame.hatenablog.com/entry/2021/03/20/004612) - [AtCoder Heuristic Contest 001](https://atcoder.jp/contests/ahc001)で一定の得点以上の提出コードを対象として、利用者の多い言語、使用言語と得点・順位との関係を調査した記事。ヒューリスティック型のコンテストにおいて、使用言語を選択する際に参考になると思われる。
+- [Atcoder Heuristic Contestの順位とアルゴリズムのレートの関係性を眺める](https://rmizutaa.hatenablog.com/entry/2021/12/16/215055) - Ratedのヒューリスティックコンテスト(短期・長期)とアルゴリズムのレーティングとの関係性を調査・分析した記事。
 - [AtCoder Heuristic Contest 001 - じろうのブログ](https://shuu0914.hatenablog.com/entry/2021/03/14/200154) - [Jirotech](https://atcoder.jp/users/Jirotech)さんによる[AtCoder Heuristic Contest 001](https://atcoder.jp/contests/ahc001)の解答方針と、得点の増加につながった考え方・指標・調整方法などを紹介した記事。
 - [AtCoder Heuristic Contest 001 (AHC001) 初心者向け解説](https://www.terry-u16.net/entry/ahc001-how-to) - [terry_u16](https://atcoder.jp/users/terry_u16)さんが、ヒューリスティック型のコンテスト初心者に向けた解説・Tipsを紹介している記事。
   - [HACK TO THE FUTURE 2022 本選オープン 解説＋参加記](https://www.terry-u16.net/entry/httf2022-final)
