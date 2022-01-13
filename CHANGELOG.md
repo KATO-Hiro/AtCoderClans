@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-01-13
+
+- [#3343](https://github.com/KATO-Hiro/AtCoderClans/pull/3343) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[Atcoder Heuristic Contestの順位とアルゴリズムのレートの関係性を眺める](https://rmizutaa.hatenablog.com/entry/2021/12/16/215055)」を追加。
+
 ### 2022-01-12
 
 - [#3339](https://github.com/KATO-Hiro/AtCoderClans/pull/3339) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[std::setを使わない代替テクニック](https://ikatakos.com/pot/programming_algorithm/data_structure/balancing_binary_search_tree/tree_free)」を追加。
