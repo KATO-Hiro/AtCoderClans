@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-01-14
+
+- [#3349](https://github.com/KATO-Hiro/AtCoderClans/pull/3349) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、「だから慶応は学歴自慢じゃないっつーの」のアレンジ曲を追加。
+  - [シンセロック調Ver](https://www.youtube.com/watch?v=8eBmV6R-kaw)
+
 ### 2022-01-13
 
 - [#3343](https://github.com/KATO-Hiro/AtCoderClans/pull/3343) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[Atcoder Heuristic Contestの順位とアルゴリズムのレートの関係性を眺める](https://rmizutaa.hatenablog.com/entry/2021/12/16/215055)」を追加。
