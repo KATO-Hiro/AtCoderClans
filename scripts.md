@@ -510,6 +510,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcodertags_hint.png" alt="atcodertags hint">
   </div>
 
+- [AtCoder Template](https://greasyfork.org/ja/scripts/438105-atcoder-template) - 「問題」ページや「提出」ページで、言語別のテンプレートの登録・読み込み(自動・手動)をすることで、貼り付けの手間を減らせる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_template.png" alt="atcoder template">
+  </div>
+
 - [AtCoder TestCase Extension](https://greasyfork.org/ja/scripts/371832-atcoder-testcase-extension) - 公開されているテストケースのリンクを追加する。
 
   <div align="center">
