@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-01-16
+
+- [#3356](https://github.com/KATO-Hiro/AtCoderClans/pull/3356) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、ユーザスクリプト「[AtCoder Template](https://greasyfork.org/ja/scripts/438105-atcoder-template)」を追加。
+- [#3355](https://github.com/KATO-Hiro/AtCoderClans/pull/3355) - (破壊的な変更) リンク切れと思われる記事を一時的に「Archived」ページに移動。
+
 ### 2022-01-15
 
 - [#3352](https://github.com/KATO-Hiro/AtCoderClans/pull/3352) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに掲載している書籍「[問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本](https://www.amazon.co.jp/dp/4297125218/)」の説明文を更新。[AtCoder](https://atcoder.jp/)で掲載されている「常設中のコンテスト」に関するリンクを追加。
