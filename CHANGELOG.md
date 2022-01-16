@@ -325,7 +325,7 @@ filename: CHANGELOG
 ### 2021-11-12
 
 - [#3008](https://github.com/KATO-Hiro/AtCoderClans/pull/3008) - [Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)ページのサブカテゴリ「競技プログラマーが現役引退を表明した記事」に、以下の記事を追加。
-  - [仕事の役に立ったこと3選と引退理由：競技プログラミングAtCoder](https://ginlabo.com/2021/11/blog/c-programming/atcoder-benefit/)
+  - 仕事の役に立ったこと3選と引退理由：競技プログラミングAtCoder
 
 ### 2021-11-11
 
