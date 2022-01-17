@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-01-17
+
+- [#3361](https://github.com/KATO-Hiro/AtCoderClans/pull/3361), [#3362](https://github.com/KATO-Hiro/AtCoderClans/pull/3362) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[Bondo416](https://atcoder.jp/users/Bondo416)さんの[記事](https://bondo.hateblo.jp/entry/2022/01/16/133601)を追加。
+  - レーティング1200から1599まで(水色)に[Roastedtoast](https://atcoder.jp/users/Roastedtoast)さんの[記事](https://roastedtoast.hatenablog.com/entry/2022/01/16/211741)を追加。
+
 ### 2022-01-16
 
 - [#3356](https://github.com/KATO-Hiro/AtCoderClans/pull/3356) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、ユーザスクリプト「[AtCoder Template](https://greasyfork.org/ja/scripts/438105-atcoder-template)」を追加。
