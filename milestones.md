@@ -99,6 +99,7 @@ filename: milestones
 - [AtCoderで水色に到達するまでの感想 - FFRIエンジニアブログ](https://engineers.ffri.jp/entry/2021/11/25/145404) - [tatsuya0619](https://atcoder.jp/users/tatsuya0619)さんが、2021年11月25日に公開。
 - [Atcoderで水色になるまでにやったこと](https://note.com/ryosuke_nu/n/n50c163723836) - [ryosuke_ao](https://atcoder.jp/users/ryosuke_ao)さんが、2021年12月2日に公開。
 - [AtCoderで水色コーダーになりました【競技プログラミング】](https://qreat.tech/1886/) - [sdmkun](https://atcoder.jp/users/sdmkun)さんが、2021年12月5日に達成。
+- [【AtCoder】水色になったのでこれまでを振り返ってみる - RoastedToastのブログ](https://roastedtoast.hatenablog.com/entry/2022/01/16/211741) - [Roastedtoast](https://atcoder.jp/users/Roastedtoast)さんが、2022年1月15日に達成。
 
 ### レーティング1600から1999まで(青色)
 
