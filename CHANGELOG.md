@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-01-18
+
+- [#3367](https://github.com/KATO-Hiro/AtCoderClans/pull/3367) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、Advent Calendar「[競技プログラミングを始めたばかりの人に伝えたいこと Advent Calendar 2021](https://qiita.com/advent-calendar/2021/pre-competitive)」を追加。
+
 ### 2022-01-17
 
 - [#3361](https://github.com/KATO-Hiro/AtCoderClans/pull/3361), [#3362](https://github.com/KATO-Hiro/AtCoderClans/pull/3362) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
