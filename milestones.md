@@ -59,7 +59,6 @@ filename: milestones
 - [AtCoderでついに入緑しました！！！](https://ryusuke920.hatenablog.jp/entry/2021/04/18/170331) - [ryusuke_h](https://atcoder.jp/users/ryusuke_h)さんが、2021年4月17日に達成。
 - [【AtCoder】入緑しました！！！ - shuのブログ](https://shu8cream.hatenablog.com/entry/2021/04/24/120002) - [shu8Cream](https://atcoder.jp/users/shu8Cream)さんが、2021年4月18日に達成。
 - [～AtCoderで緑Ratingになりました～](https://qiita.com/rute_not_route/items/c8b4f2251fdd852d29a0) - [Rute](https://atcoder.jp/users/Rute)さんが、2021年5月30日に達成。
-- [30代プログラミング初心者がAtCoderで緑色になった所感](https://zenn.dev/shinsatt/articles/81a926fe88987f) - [shinsatt](https://atcoder.jp/users/shinsatt)さんが、2021年7月4日に達成。
 - [40代で競プロができるのかという話 - 競プロ始めました](https://kaede2020.hatenablog.com/entry/2021/07/07/134334) - [kaede2020](https://atcoder.jp/users/kaede2020)さんが、2021年7月7日に公開。
 - [緑コーダー(AtCoder)になった和洋 - みどマメモ](https://mdrm1rou.hatenablog.com/entry/2021/07/12/013644) - [MDMA](https://atcoder.jp/users/MDMA)さんが、2021年7月10日に達成。
 - [【WebエンジニアのAtcoder記】入緑しました！](https://qiita.com/kotaaaa/items/ddcf7f3e92e789731a7e) - [kotakota1110](https://atcoder.jp/users/kotakota1110)さんが、2021年8月21日に達成。
