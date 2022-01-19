@@ -172,6 +172,8 @@ filename: archived
   - 確認した日: 2021/11/17
 - [【入茶記事】AtCoderで茶色になりました！](https://note.com/takuma1229/n/n4c013fca8439) - [takuma1229](https://atcoder.jp/users/takuma1229)さんが、2021年11月27日に達成。
   - 確認した日: 2021/12/19
+- [30代プログラミング初心者がAtCoderで緑色になった所感](https://zenn.dev/shinsatt/articles/81a926fe88987f) - [shinsatt](https://atcoder.jp/users/shinsatt)さんが、2021年7月4日に達成。
+  - 確認した日: 2022/01/19
 - [仕事の役に立ったこと3選と引退理由：競技プログラミングAtCoder](https://ginlabo.com/2021/11/blog/c-programming/atcoder-benefit/) - [shu_crim](https://atcoder.jp/users/shu_crim)さんが、2021年11月11日に公開。
   - 確認した日: 2022/01/16
 
