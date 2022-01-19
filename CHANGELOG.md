@@ -9,7 +9,7 @@ filename: CHANGELOG
 ### 2022-01-19
 
 - [#3375](https://github.com/KATO-Hiro/AtCoderClans/pull/3375) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[競プロのエコシステムについて](https://blog.hamayanhamayan.com/entry/2021/12/10/223827)」を追加。
-- [#3373](https://github.com/KATO-Hiro/AtCoderClans/pull/3373) - (破壊的な変更) [#3355](https://github.com/KATO-Hiro/AtCoderClans/pull/3355)で「Archived」ページに移動したリンクが閲覧できることを確認したため、元の場所に戻した。
+- [#3373](https://github.com/KATO-Hiro/AtCoderClans/pull/3373) - (破壊的な変更) [#3355](https://github.com/KATO-Hiro/AtCoderClans/pull/3355)で「Archived」ページに移動した記事が閲覧できることを確認したため、元の場所に戻した。
 - [#3372](https://github.com/KATO-Hiro/AtCoderClans/pull/3372) - (破壊的な変更) リンク切れと思われる色変記事を一時的に「Archived」ページに移動。
 
 ### 2022-01-18
