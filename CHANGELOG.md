@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-01-20
+
+- [#3380](https://github.com/KATO-Hiro/AtCoderClans/pull/3380) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[Pythonでstd::setの代替物を作った](https://qiita.com/tatyam/items/492c70ac4c955c055602)」を追加。
+
 ### 2022-01-19
 
 - [#3375](https://github.com/KATO-Hiro/AtCoderClans/pull/3375) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[競プロのエコシステムについて](https://blog.hamayanhamayan.com/entry/2021/12/10/223827)」を追加。
