@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-01-21
+
+- [#3383](https://github.com/KATO-Hiro/AtCoderClans/pull/3383), [#3384](https://github.com/KATO-Hiro/AtCoderClans/pull/3384) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの2021年11月分を[月別のアーカイブ](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2021_11.md)に移動。
+
 ### 2022-01-20
 
 - [#3380](https://github.com/KATO-Hiro/AtCoderClans/pull/3380) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[Pythonでstd::setの代替物を作った](https://qiita.com/tatyam/items/492c70ac4c955c055602)」を追加。
