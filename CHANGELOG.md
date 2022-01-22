@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-01-22
+
+- [#3388](https://github.com/KATO-Hiro/AtCoderClans/pull/3388) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、アドベントカレンダー「[CTF Advent Calendar 2021](https://adventar.org/calendars/6914)」を追加。
+
 ### 2022-01-21
 
 - [#3383](https://github.com/KATO-Hiro/AtCoderClans/pull/3383), [#3384](https://github.com/KATO-Hiro/AtCoderClans/pull/3384) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの2021年11月分を[月別のアーカイブ](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2021_11.md)に移動。
