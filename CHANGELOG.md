@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-01-23
+
+- [#3391](https://github.com/KATO-Hiro/AtCoderClans/pull/3391) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[k番目の値を高速に取り出せるデータ構造のまとめ - BIT上二分探索や平衡二分探索木など](https://qiita.com/drken/items/1b7e6e459c24a83bb7fd)」を追加。
+
 ### 2022-01-22
 
 - [#3388](https://github.com/KATO-Hiro/AtCoderClans/pull/3388) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、アドベントカレンダー「[CTF Advent Calendar 2021](https://adventar.org/calendars/6914)」を追加。
