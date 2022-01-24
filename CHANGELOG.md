@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-01-24
+
+- [#3288](https://github.com/KATO-Hiro/AtCoderClans/pull/3288) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに掲載しているユーザスクリプト「[ASPR](https://greasyfork.org/ja/scripts/431708-aspr)」の説明文を更新。作者による[解説記事](https://qiita.com/dakkenkd425/items/366a81e5f34e1263627f)を追加。
+
 ### 2022-01-23
 
 - [#3391](https://github.com/KATO-Hiro/AtCoderClans/pull/3391) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[k番目の値を高速に取り出せるデータ構造のまとめ - BIT上二分探索や平衡二分探索木など](https://qiita.com/drken/items/1b7e6e459c24a83bb7fd)」を追加。
