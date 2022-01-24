@@ -424,7 +424,7 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/ac_favorite_manager.png" alt="ac favorite manager">
   </div>
 
-- [ASPR](https://greasyfork.org/ja/scripts/431708-aspr) - AtCoder Beginners Contestの「問題」ページで、類似問題へのリンクを追加する。
+- [ASPR](https://greasyfork.org/ja/scripts/431708-aspr) - AtCoder Beginners Contestの「問題」ページで、類似問題へのリンクを追加する。また、作者による[解説記事](https://qiita.com/dakkenkd425/items/366a81e5f34e1263627f)も公開されている。
 
   <div align="center">
     <img loading = "lazy" src="images/userscript/aspr.png" alt="aspr">
