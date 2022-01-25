@@ -23,7 +23,7 @@ filename: related_contest_sites
 - [HOJ (Hamako Online Judge)](#hoj-hamako-online-judge)
 - [JOI (Japanese Olympiad in Informatics)と関連サービス](#joi-japanese-olympiad-in-informatics%E3%81%A8%E9%96%A2%E9%80%A3%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9)
   - [JOI](#joi)
-  - [JOIに関連する記事](#joi%E3%81%AB%E9%96%A2%E9%80%A3%E3%81%99%E3%82%8B%E8%A8%98%E4%BA%8B)
+  - [JOIに関連する記事など](#joi%E3%81%AB%E9%96%A2%E9%80%A3%E3%81%99%E3%82%8B%E8%A8%98%E4%BA%8B%E3%81%AA%E3%81%A9)
   - [JOIの関連サービス](#joi%E3%81%AE%E9%96%A2%E9%80%A3%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9)
 - [くそなぞなぞ Beginner Contest](#%E3%81%8F%E3%81%9D%E3%81%AA%E3%81%9E%E3%81%AA%E3%81%9E-beginner-contest)
 - [MAO (Markov Algorithm Online)](#mao-markov-algorithm-online)
