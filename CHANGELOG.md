@@ -12,7 +12,7 @@ filename: CHANGELOG
 
 ### 2022-01-24
 
-- [#3288](https://github.com/KATO-Hiro/AtCoderClans/pull/3288) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに掲載しているユーザスクリプト「[ASPR](https://greasyfork.org/ja/scripts/431708-aspr)」の説明文を更新。作者による[解説記事](https://qiita.com/dakkenkd425/items/366a81e5f34e1263627f)を追加。
+- [#3396](https://github.com/KATO-Hiro/AtCoderClans/pull/3396) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに掲載しているユーザスクリプト「[ASPR](https://greasyfork.org/ja/scripts/431708-aspr)」の説明文を更新。作者による[解説記事](https://qiita.com/dakkenkd425/items/366a81e5f34e1263627f)を追加。
 
 ### 2022-01-23
 
