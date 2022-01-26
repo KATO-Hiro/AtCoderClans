@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-01-26
+
+- [#3408](https://github.com/KATO-Hiro/AtCoderClans/pull/3408) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2000から2399まで(黄色)に[milkcoffee](https://atcoder.jp/users/milkcoffee)さんの[記事](https://milkcoffee.hatenablog.jp/entry/2022/01/25/232438)を追加。
+
 ### 2022-01-25
 
 - [#3400](https://github.com/KATO-Hiro/AtCoderClans/pull/3400) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、ツイート「[AtCoderにJOIの過去問の移植作業を行う有志を募集するツイート](https://twitter.com/Pro_ktmr/status/1485612598842519552)」を追加。
