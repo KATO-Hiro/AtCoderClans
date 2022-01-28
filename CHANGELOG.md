@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-01-28
+
+- [#3418](https://github.com/KATO-Hiro/AtCoderClans/pull/3418) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[31万名超が参加登録する競技プロのAtCoder、実践を想定したプログラミング検定「アルゴリズム実技検定」実施日程を発表](https://jp.techcrunch.com/2022/01/28/atcoder-past-2022/?guccounter=1&guce_referrer=aHR0cHM6Ly90LmNvLw&guce_referrer_sig=AQAAABoQrlhUEboNcj6jcftBj_q4lGXydIEgCkwxXMa7ph63geO_KMxj9GKr3qAvhqVFl3gTHkO_zPhyk-zO4p4ELD2RzWsoVWYF51vXw6vqqQdJtrYJI0DPBhs44PXnw5SCg4EzTAC68nnxcOFGbw1etEP69-Xk-NhapcD7k5n4n2vA)」を追加。
+
 ### 2022-01-27
 
 - [#3414](https://github.com/KATO-Hiro/AtCoderClans/pull/3414) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
