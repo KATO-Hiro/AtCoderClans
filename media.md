@@ -276,6 +276,7 @@ filename: media
 - [AHC003の2.926T解法+経緯](https://qiita.com/contramundum/items/b945400b81536df42d1a) - [eivour](https://atcoder.jp/users/eivour)さんが、[AtCoder Heuristic Contest 003](https://atcoder.jp/contests/ahc003)での最終解法と、その経緯などを紹介した記事。また、[HACK TO THE FUTURE 2022予選](https://atcoder.jp/contests/future-contest-2022-qual)に関する[記事](https://qiita.com/contramundum/items/52609b5a4c943bc6a275)も公開されている。
 - [chokudaiサーチ(ビームサーチ亜種)の利点の話](https://chokudai.hatenablog.com/entry/2017/04/12/055515) - 探索アルゴリズムの一種であるchokudaiサーチについて解説されている記事。Beam Stack Searchと比べて、時間管理が楽になることや探索の多様性を考慮できることに特徴がある。
 - [Marathon Matchでいつもやってること](http://web.archive.org/web/20170809211026/http://topcoder.g.hatena.ne.jp/tomerun/20120502) - [tomerun](https://atcoder.jp/users/tomerun)さんが、ヒューリスティック型コンテストに関するノウハウをまとめた記事。
+- [Optunaでヒューリスティックコンテストを解く](https://kuruton.hatenablog.com/entry/2021/12/14/011150) - ヒューリスティックコンテストでハイパーパラメータの調整を行う際に、Pythonライブラリ「Optuna」を利用する方法を紹介した記事。また、Python以外の言語(C++)で書かれたコードに対するパラメータの調整方法が丁寧に解説されている。
 - [Topcoderマラソンマッチの探索問題で重要なこと](https://qiita.com/takapt0226/items/b2f6d1d77a034b529e21) - ヒューリスティック型コンテストにおいて、汎用的な内容(時間を確保する・注意深く考察する・有名アルゴリズムに囚われない)と探索問題に特化した知見がまとめられている記事。
 - [競技プログラミングにおけるゲーム木探索の面白さ](https://qiita.com/tsukammo/items/02e8ad2469c5441d2956) - 実例をもとにゲームAI系コンテストの魅力・面白さを紹介した記事。
 - [競技プログラミングにおけるマラソン系コンテストの楽しみ方](https://qiita.com/tsukammo/items/878f87243d6df17d6c69) - ヒューリスティック型コンテストの楽しみ方を、点数・visualizer・感想戦の観点から紹介した記事。
