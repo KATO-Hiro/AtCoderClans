@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-01-31
+
+- [#3431](https://github.com/KATO-Hiro/AtCoderClans/pull/3431) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[Optunaでヒューリスティックコンテストを解く](https://kuruton.hatenablog.com/entry/2021/12/14/011150)」を追加。
+
 ### 2022-01-30
 
 - [#3426](https://github.com/KATO-Hiro/AtCoderClans/pull/3426) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[世界四連覇AIエンジニアがゼロから教えるゲーム木探索入門](https://qiita.com/thun-c/items/058743a25c37c87b8aa4)」を追加。
