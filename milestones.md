@@ -137,6 +137,7 @@ filename: milestones
 - [AtCoder青になりました - ゆかりの日記](https://lev635.hatenablog.com/entry/2021/12/20/220308) - [lev635](https://atcoder.jp/users/lev635)さんが、2021年12月19日に達成。
 - [接着剤がAtCoderで青色になりました - 接着剤の精進日記](https://bondo.hateblo.jp/entry/2022/01/16/133601) - [Bondo416](https://atcoder.jp/users/Bondo416)さんが、2022年1月15日に達成。
 - [RubyでAtcoder青入りしました！ - kona0001の日記](https://kona0001.hatenablog.com/entry/2022/01/29/182431) - [konayuki](https://atcoder.jp/users/konayuki)さんが、2022年1月22日に達成。
+- [AtCoder青色になりました](https://zenn.dev/magurofly/articles/234f210b4b0dbf) - [magurofly](https://atcoder.jp/users/magurofly)さんが、2022年1月30日に達成。
 
 ### レーティング2000から2399まで(黄色)
 
