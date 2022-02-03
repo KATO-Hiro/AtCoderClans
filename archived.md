@@ -174,6 +174,8 @@ filename: archived
   - 確認した日: 2021/12/19
 - [30代プログラミング初心者がAtCoderで緑色になった所感](https://zenn.dev/shinsatt/articles/81a926fe88987f) - [shinsatt](https://atcoder.jp/users/shinsatt)さんが、2021年7月4日に達成。
   - 確認した日: 2022/01/19
+- [AtCoderで水になったのでなんか書く - Takeshiのブログ](https://takesyhi.hatenablog.com/entry/2021/10/07/152435) - [Coordinator](https://atcoder.jp/users/Coordinator)さんが、2021年10月7日に公開。
+  - 確認した日: 2022/02/03
 
 <!-- markdown-link-check-enable -->
 
