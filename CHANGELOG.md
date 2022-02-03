@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-02-03
+
+- [#3445](https://github.com/KATO-Hiro/AtCoderClans/pull/3445), [#3446](https://github.com/KATO-Hiro/AtCoderClans/pull/3446) - (破壊的な変更) リンク切れと思われる色変記事を一時的に「Archived」ページに移動。
+
 ### 2022-02-02
 
 - [#3441](https://github.com/KATO-Hiro/AtCoderClans/pull/3441) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[【競プロ作問】問題の原案作成のアプローチ](https://milkcoffee.hatenablog.jp/entry/2021/12/15/000338)」を追加。
