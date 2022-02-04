@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-02-04
+
+- [#3449](https://github.com/KATO-Hiro/AtCoderClans/pull/3449) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[ヒューリスティック初心者の取り組み方](https://shu8cream.hatenablog.com/entry/2021/12/18/221429)」を追加。
+
 ### 2022-02-03
 
 - [#3445](https://github.com/KATO-Hiro/AtCoderClans/pull/3445), [#3446](https://github.com/KATO-Hiro/AtCoderClans/pull/3446) - (破壊的な変更) リンク切れと思われる色変記事を一時的に「Archived」ページに移動。
