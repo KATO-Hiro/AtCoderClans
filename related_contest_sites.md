@@ -76,6 +76,10 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/aoj/aoj_problems_by_category.png" alt="aoj problems by category">
   </div>
 
+### BMC (Beginners Math Contest)
+
+- [Beginners Math Contest](https://twitter.com/BMC_rifle) - 初心者向けの競技数学コンテストが開催されている。
+
 ### CafeCoder
 
 - [CafeCoder](https://cafecoder.top/) - 有志によって、不定期にコンテストが開催されている。
