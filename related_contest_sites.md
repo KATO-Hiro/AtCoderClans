@@ -11,6 +11,7 @@ filename: related_contest_sites
 
 - [アルゴ式](#%E3%82%A2%E3%83%AB%E3%82%B4%E5%BC%8F)
 - [AOJ (Aizu Online Judge)](#aoj-aizu-online-judge)
+- [BMC (Beginners Math Contest)](#bmc-beginners-math-contest)
 - [CafeCoder](#cafecoder)
 - [Codeforces](#codeforces)
   - [記事](#%E8%A8%98%E4%BA%8B)
