@@ -11,6 +11,7 @@ filename: related_contest_sites
 
 - [アルゴ式](#%E3%82%A2%E3%83%AB%E3%82%B4%E5%BC%8F)
 - [AOJ (Aizu Online Judge)](#aoj-aizu-online-judge)
+- [BMC (Beginners Math Contest)](#bmc-beginners-math-contest)
 - [CafeCoder](#cafecoder)
 - [Codeforces](#codeforces)
   - [記事](#%E8%A8%98%E4%BA%8B)
@@ -75,6 +76,10 @@ filename: related_contest_sites
   <div align="center">
     <img loading = "lazy" src="images/related_contest_sites/aoj/aoj_problems_by_category.png" alt="aoj problems by category">
   </div>
+
+### BMC (Beginners Math Contest)
+
+- [Beginners Math Contest](https://twitter.com/BMC_rifle) - 初心者向けの競技数学コンテストが開催されている。
 
 ### CafeCoder
 
