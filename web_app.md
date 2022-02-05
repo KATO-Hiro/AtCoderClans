@@ -531,6 +531,12 @@ filename: web_app
 
 ### IDE
 
+- [Hisui](https://github.com/adenohitu/hisui) - 競技プログラミング専用のサポートツール(Alpha版)。コードエディタ(2022年2月上旬時点では、C++とPythonに対応)、ダッシュボード、解答コードのテスト・提出などの機能が用意されている。作者による注: 2021年12月末時点で、コンテスト中の利用は非推奨。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/hisui.png" alt="hisui">
+  </div>
+
 - [Rujaion](https://github.com/fukatani/rujaion) - 競技プログラミングのためのRust IDE。C++とPythonも試験的にサポートされている。サンプルのテスト、解答コードの提出、コードの補完・移動・自動整形、テンプレートの生成、グラフの構造の可視化などの機能がある。
 
   <div align="center">
