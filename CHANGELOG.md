@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-02-05
+
+- [#3454](https://github.com/KATO-Hiro/AtCoderClans/pull/3454) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、コンテストサイト「[Beginners Math Contest](https://twitter.com/BMC_rifle)」を追加。
+- [#3452](https://github.com/KATO-Hiro/AtCoderClans/pull/3452) - 「[Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app)」ページに、競技プログラミング専用のサポートツール「[Hisui](https://github.com/adenohitu/hisui)」を追加。
+
 ### 2022-02-04
 
 - [#3449](https://github.com/KATO-Hiro/AtCoderClans/pull/3449) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[ヒューリスティック初心者の取り組み方](https://shu8cream.hatenablog.com/entry/2021/12/18/221429)」を追加。
