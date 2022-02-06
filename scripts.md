@@ -268,6 +268,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_difficulty_colorizer_for_typical_90.png" alt="atcoder difficulty colorizer for typical 90">
   </div>
 
+- [AtCoder for Large Display](https://greasyfork.org/ja/scripts/439100-atcoder-for-large-display) - 「問題」ページで、入出力例を2列で表示する。作者による注: 古い問題では正しく表示されない可能性がある。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_for_large_display.png" alt="atcoder for large display">
+  </div>
+
 - [AtCoder Heuristic Rating coloring](https://greasyfork.org/ja/scripts/427070-atcoder-heuristic-rating-coloring) - [AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=0&category=1200&keyword=AtCoder+Heuristic+Contest)の「順位表」ページで、ユーザ名を同コンテストのレーティングに応じて色付けする。
 
   <div align="center">
