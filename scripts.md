@@ -220,6 +220,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/ac_search_old_languages.png" alt="ac search old languages">
   </div>
 
+- [AC そのまさかだよ](https://greasyfork.org/ja/scripts/439526-ac-%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%95%E3%81%8B%E3%81%A0%E3%82%88) - 「提出結果」ページの正誤判定のうち、「AC(Acceptedの略記)」を「AC そのまさかだよ」に置き換える。[元ネタの出典](https://twitter.com/microkents/status/1208346268872790016?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1208346268872790016%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fkaage.hatenablog.com%2Fentry%2F2020%2F05%2F04%2F142125)
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/ac_sonomasakadayo.png" alt="ac search old languages">
+  </div>
+
 - [AtCoder Anonymizer](https://greasyfork.org/ja/scripts/413425-atcoder-anonymizer) - 自分のIDを「Anonymous」で置き換える。スクリプト作成者による注: プロフィールページのURLやTwitter IDなどは変更されない。
 
   <div align="center">
