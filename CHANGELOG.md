@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-02-06
+
+- [#3459](https://github.com/KATO-Hiro/AtCoderClans/pull/3459) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、ユーザスクリプト「[AC そのまさかだよ](https://greasyfork.org/ja/scripts/439526-ac-%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%95%E3%81%8B%E3%81%A0%E3%82%88)」を追加。
+- [#3457](https://github.com/KATO-Hiro/AtCoderClans/pull/3457) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、ユーザスクリプト「[AtCoder for Large Display](https://greasyfork.org/ja/scripts/439100-atcoder-for-large-display)」を追加。
+
 ### 2022-02-05
 
 - [#3454](https://github.com/KATO-Hiro/AtCoderClans/pull/3454) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、コンテストサイト「[Beginners Math Contest](https://twitter.com/BMC_rifle)」を追加。
