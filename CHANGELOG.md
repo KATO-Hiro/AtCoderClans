@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-02-07
+
+- [#3465](https://github.com/KATO-Hiro/AtCoderClans/pull/3465) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング400から799まで(茶色)に[sin471](https://atcoder.jp/users/sin471)さんの[記事](https://sin471.hatenablog.com/entry/2022/02/06/003702)を追加。
+
 ### 2022-02-06
 
 - [#3459](https://github.com/KATO-Hiro/AtCoderClans/pull/3459) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、ユーザスクリプト「[AC そのまさかだよ](https://greasyfork.org/ja/scripts/439526-ac-%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%95%E3%81%8B%E3%81%A0%E3%82%88)」を追加。
