@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-02-08
+
+- [#3470](https://github.com/KATO-Hiro/AtCoderClans/pull/3470) - 「[For Beginners](https://kato-hiro.github.io/AtCoderClans/for_beginners)」ページに、記事「[AtCoderの練習方法](https://atcoder.jp/posts/677)」を追加。
+
 ### 2022-02-07
 
 - [#3465](https://github.com/KATO-Hiro/AtCoderClans/pull/3465) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
