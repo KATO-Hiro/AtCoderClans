@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-02-09
+
+- [#3474](https://github.com/KATO-Hiro/AtCoderClans/pull/3474) - (破壊的な変更) リンク切れと思われる記事を一時的に「Archived」ページに移動。
+
 ### 2022-02-08
 
 - [#3470](https://github.com/KATO-Hiro/AtCoderClans/pull/3470) - 「[For Beginners](https://kato-hiro.github.io/AtCoderClans/for_beginners)」ページに、記事「[AtCoderの練習方法](https://atcoder.jp/posts/677)」を追加。
