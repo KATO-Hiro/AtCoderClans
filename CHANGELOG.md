@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-02-11
+
+- [#3483](https://github.com/KATO-Hiro/AtCoderClans/pull/3483) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、YouTubeのチャンネルを追加。
+  - [func](https://www.youtube.com/playlist?list=PLLbak3dBJyRbJ4R5Ax2vUFZlNBbLX8YLw)
+
 ### 2022-02-10
 
 - [#3478](https://github.com/KATO-Hiro/AtCoderClans/pull/3478) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
