@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-02-12
+
+- [#3487](https://github.com/KATO-Hiro/AtCoderClans/pull/3487) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、資料集「[ヒューリスティック最適化資料集](https://heuristic-ja.growi.cloud/)」を追加。
+
 ### 2022-02-11
 
 - [#3483](https://github.com/KATO-Hiro/AtCoderClans/pull/3483) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、YouTubeのチャンネルを追加。
