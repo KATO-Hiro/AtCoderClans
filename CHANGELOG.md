@@ -8,6 +8,7 @@ filename: CHANGELOG
 
 ### 2022-02-12
 
+- [#3499](https://github.com/KATO-Hiro/AtCoderClans/pull/3499) - (破壊的な変更) リンク切れと思われるライブラリを一時的に「Archived」ページに移動。
 - [#3487](https://github.com/KATO-Hiro/AtCoderClans/pull/3487) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、資料集「[ヒューリスティック最適化資料集](https://heuristic-ja.growi.cloud/)」を追加。
 
 ### 2022-02-11
