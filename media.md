@@ -284,6 +284,7 @@ filename: media
 - [競プロ解法紹介～大局観で高得点を取る！～](https://qiita.com/tsukammo/items/85ffbe907e89b051d715) - マラソン形式の問題である[Chokudai Contest 001](https://atcoder.jp/contests/chokudai001/)の解法を紹介した記事。愚直な解法から高得点を狙うための着眼点や方法が解説されている。
 - [競プロ解法紹介～レベル別マラソンの戦い方～](https://qiita.com/tsukammo/items/7041a00e429f9f5ac4ae) - マラソン形式の問題である[Hack To The Future 予選問題](https://atcoder.jp/contests/future-contest-2018-qual/)を題材に、初心者から上級者までを対象として、それぞれのレベルに応じた戦い方を紹介した記事。
 - [世界四連覇AIエンジニアがゼロから教えるゲーム木探索入門](https://qiita.com/thun-c/items/058743a25c37c87b8aa4) - ゲーム木探索に関する入門記事。ゲームの種類(一人ゲーム・交互着手二人ゲーム・同時着手二人ゲーム)と対応する探索アルゴリズムがとても丁寧に解説されている。また、汎用アルゴリズムの実装例と動作可能なサンプルコードが両方とも掲載されているのが特徴。
+- [ヒューリスティック最適化資料集](https://heuristic-ja.growi.cloud/) - ヒューリスティックコンテストに関するリンク集と過去問がまとめられている資料集。
 - [ヒューリスティック初心者の取り組み方](https://shu8cream.hatenablog.com/entry/2021/12/18/221429) - ヒューリスティック型コンテストの参加希望者・初心者に向けて、大量の入出力を扱う方法を解説した記事。C++で実装されたサンプルもある。
 - [マラソンマッチで気をつけるべきこと](https://coonevo.hatenablog.com/entry/2021/03/15/091546) - 2週間程度のヒューリスティック型コンテストを対象として、筆者の戦略を紹介した記事。
 - [マラソンマッチで最初の12時間にすべきこと](https://hama-du.hatenablog.com/entry/2015/12/14/000000) - ヒューリスティック型コンテストにおいて、[hamadu](https://atcoder.jp/users/hamadu)さんが普段の取り組みで気をつけていることを紹介した記事。
