@@ -265,10 +265,6 @@ filename: libraries
 - [Muratam/yukicoder-nim](https://github.com/Muratam/yukicoder-nim) ![GitHub Repo stars](https://img.shields.io/github/stars/Muratam/yukicoder-nim?style=plastic) - [murata](https://atcoder.jp/users/murata)さんのライブラリ。
 - [soraiemame/expander](https://github.com/soraiemame/expander) ![GitHub Repo stars](https://img.shields.io/github/stars/soraiemame/expander?style=plastic) - [oj-bundle](https://github.com/online-judge-tools/verification-helper#autoexpansion-of-includes)のNim版。
 
-### Node.js
-
-- [DecoratedKnight/js-cp-template](https://github.com/DecoratedKnight/js-cp-template/tree/0a09186b4bbf8dcb040f23e202957b40071f8b35) ![GitHub stars](https://img.shields.io/github/stars/DecoratedKnight/js-cp-template?style=plastic) - [decoratedknight](https://atcoder.jp/users/decoratedknight)さんのテンプレート。
-
 ### PHP
 
 - [hideyuk1-jp/AtCoder](https://github.com/hideyuk1-jp/AtCoder/tree/master/php/lib) ![GitHub stars](https://img.shields.io/github/stars/hideyuk1-jp/AtCoder?style=plastic) - [hideyuk1](https://atcoder.jp/users/hideyuk1)さんのライブラリ。
