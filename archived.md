@@ -146,6 +146,8 @@ filename: archived
     <img loading = "lazy" src="images/web_app/procon_q&a.png" alt="procon q&a">
   </div>
 
+- [DecoratedKnight/js-cp-template](https://github.com/DecoratedKnight/js-cp-template/tree/0a09186b4bbf8dcb040f23e202957b40071f8b35) ![GitHub stars](https://img.shields.io/github/stars/DecoratedKnight/js-cp-template?style=plastic) - [decoratedknight](https://atcoder.jp/users/decoratedknight)さんのNode.jsテンプレート。
+  - 確認した日: 2022/02/12
 - [gzlcp/competitive-library](https://github.com/gzlcp/competitive-library) ![GitHub Repo stars](https://img.shields.io/github/stars/gzlcp/competitive-library?style=plastic) - [gazelle](https://atcoder.jp/users/gazelle)さんのC++ライブラリ。
   - 確認した日: 2020/12/27
 - [hiro116s/atcoder_library](https://github.com/hiro116s/atcoder_library) ![GitHub stars](https://img.shields.io/github/stars/hiro116s/atcoder_library?style=plastic) - [hiro116s](https://atcoder.jp/users/hiro116s)さんのJavaライブラリ。
