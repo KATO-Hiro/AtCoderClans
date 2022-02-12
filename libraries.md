@@ -38,7 +38,6 @@ filename: libraries
   - [Java](#java)
   - [Kotlin](#kotlin)
   - [Nim](#nim)
-  - [Node.js](#nodejs)
   - [PHP](#php)
   - [Python](#python)
   - [Ruby](#ruby)
