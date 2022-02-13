@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-02-13
+
+- [#3503](https://github.com/KATO-Hiro/AtCoderClans/pull/3503) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事集「[オセロAIの教科書](https://note.com/nyanyan_cubetech/m/m54104c8d2f12)」を追加。
+
 ### 2022-02-12
 
 - [#3499](https://github.com/KATO-Hiro/AtCoderClans/pull/3499) - (破壊的な変更) リンク切れと思われるライブラリを一時的に「Archived」ページに移動。
