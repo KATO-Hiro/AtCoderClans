@@ -165,6 +165,7 @@ filename: milestones
 - [AtCoder黄色になりました - naoya_t@hatenablog](https://naoyat.hatenablog.jp/entry/atcoder-yellow) - [naoya_t](https://atcoder.jp/users/naoya_t)さんが、2021年9月18日に達成。
 - [競技プログラミングをやってきた - はまやん はまやん はまやん](https://blog.hamayanhamayan.com/entry/2021/12/10/223314) - [hamayanhamayan](https://atcoder.jp/users/hamayanhamayan)さんが、2021年12月10日に公開。
 - [AtCoderで黄色になりました - milkcoffeeのブログ](https://milkcoffee.hatenablog.jp/entry/2022/01/25/232438) - [milkcoffee](https://atcoder.jp/users/milkcoffee)さんが、2022年1月22日に達成。
+- [【色変記事】AtCoder黄色になりました - MtSakaのブログ](https://mt-saka.hatenablog.com/entry/2022/02/14/204036) - [MtSaka](https://atcoder.jp/users/MtSaka)さんが、2022年2月13日に達成。
 
 ### レーティング2400から2799まで(橙色)
 
