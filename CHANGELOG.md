@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-02-14
+
+- [#3508](https://github.com/KATO-Hiro/AtCoderClans/pull/3508) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2000から2399まで(黄色)に[MtSaka](https://atcoder.jp/users/MtSaka)さんの[記事](https://mt-saka.hatenablog.com/entry/2022/02/14/204036)を追加。
+
 ### 2022-02-13
 
 - [#3503](https://github.com/KATO-Hiro/AtCoderClans/pull/3503) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事集「[オセロAIの教科書](https://note.com/nyanyan_cubetech/m/m54104c8d2f12)」を追加。
