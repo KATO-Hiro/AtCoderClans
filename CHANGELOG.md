@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-02-15
+
+- [#3512](https://github.com/KATO-Hiro/AtCoderClans/pull/3512), [#3513](https://github.com/KATO-Hiro/AtCoderClans/pull/3513) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの2021年12月分を[月別のアーカイブ](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2021_12.md)に移動。
+
 ### 2022-02-14
 
 - [#3508](https://github.com/KATO-Hiro/AtCoderClans/pull/3508) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
