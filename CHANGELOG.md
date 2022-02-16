@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-02-16
+
+- [#3518](https://github.com/KATO-Hiro/AtCoderClans/pull/3518) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、解説PDF「[Introduction to Heuristics Contest 解説](https://img.atcoder.jp/intro-heuristics/editorial.pdf)」を追加。
+- [#3516](https://github.com/KATO-Hiro/AtCoderClans/pull/3516) - (破壊的な変更) リンク切れと思われる解説記事を削除。
+
 ### 2022-02-15
 
 - [#3512](https://github.com/KATO-Hiro/AtCoderClans/pull/3512), [#3513](https://github.com/KATO-Hiro/AtCoderClans/pull/3513) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの2021年12月分を[月別のアーカイブ](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2021_12.md)に移動。
