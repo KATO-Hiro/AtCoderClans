@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-02-17
+
+- [#3524](https://github.com/KATO-Hiro/AtCoderClans/pull/3524) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[AtCoder Jobsを使って転職しました](https://xkttqm.hatenablog.com/entry/2021/08/04/230000)」を追加。
+- [#3521](https://github.com/KATO-Hiro/AtCoderClans/pull/3521), [#3526](https://github.com/KATO-Hiro/AtCoderClans/pull/3526) - (破壊的な変更) リンク切れと思われる解説ブログと記事を一時的に「Archived」ページに移動。
+
 ### 2022-02-16
 
 - [#3518](https://github.com/KATO-Hiro/AtCoderClans/pull/3518) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、解説PDF「[Introduction to Heuristics Contest 解説](https://img.atcoder.jp/intro-heuristics/editorial.pdf)」を追加。
