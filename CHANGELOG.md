@@ -9,7 +9,7 @@ filename: CHANGELOG
 ### 2022-02-17
 
 - [#3524](https://github.com/KATO-Hiro/AtCoderClans/pull/3524) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[AtCoder Jobsを使って転職しました](https://xkttqm.hatenablog.com/entry/2021/08/04/230000)」を追加。
-- [#3521](https://github.com/KATO-Hiro/AtCoderClans/pull/3521), [#3526](https://github.com/KATO-Hiro/AtCoderClans/pull/3526) - (破壊的な変更) リンク切れと思われるブログと記事を一時的に「Archived」ページに移動。。
+- [#3521](https://github.com/KATO-Hiro/AtCoderClans/pull/3521), [#3526](https://github.com/KATO-Hiro/AtCoderClans/pull/3526) - (破壊的な変更) リンク切れと思われる解説ブログと記事を一時的に「Archived」ページに移動。
 
 ### 2022-02-16
 
