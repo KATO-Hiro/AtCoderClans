@@ -12,7 +12,6 @@ filename: media
 - [記事](#%E8%A8%98%E4%BA%8B)
   - [入門者、初心者向けの記事](#%E5%85%A5%E9%96%80%E8%80%85%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%81%AE%E8%A8%98%E4%BA%8B)
   - [コードを快適に書くための環境構築](#%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E5%BF%AB%E9%81%A9%E3%81%AB%E6%9B%B8%E3%81%8F%E3%81%9F%E3%82%81%E3%81%AE%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89)
-    - [特定のOSに依存しない内容](#%E7%89%B9%E5%AE%9A%E3%81%AEos%E3%81%AB%E4%BE%9D%E5%AD%98%E3%81%97%E3%81%AA%E3%81%84%E5%86%85%E5%AE%B9)
     - [Macintosh](#macintosh)
     - [Windows](#windows)
     - [実行環境のテンプレート、サンプルレポジトリ](#%E5%AE%9F%E8%A1%8C%E7%92%B0%E5%A2%83%E3%81%AE%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%83%AC%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA)
@@ -121,10 +120,6 @@ filename: media
 
 以下の記事は、2019年3月〜2021年8月に公開・更新されたものです。随時、最新の記事を追加する予定です。
 
-#### 特定のOSに依存しない内容
-
-- [競プロ環境構築入門](https://kimiyuki.net/blog/2020/11/11/modern-environments-for-competitive-programming/) - 競技プログラミングという文脈において「環境構築」の意味や実現できることについて理解を深めることを目的とした記事。注: これから環境構築を行う場合は、より具体的な手順が書かれた記事を並行して読むことを推奨。
-
 #### Macintosh
 
 - [AtCoder用C++開発環境 (Mac編)](https://blog.spiralray.net/cp/devenv-cpp) - 動作環境は、macOS Catalina。C++17(デバッグ:Clang、テスト実行・提出: G++)のコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と、拡張機能を使って構築する方法が紹介されている。サンプルケースの実行や提出もできる。
@@ -176,7 +171,7 @@ filename: media
 - [ソートを極める！ 〜 なぜソートを学ぶのか 〜](https://qiita.com/drken/items/44c60118ab3703f7727f) - ソートそのものの解説だけでなく、ライブラリの使い方・アルゴリズムの使いどころまで説明されている。「ソート」という題材を通じたさまざまなアルゴリズムの技法・概念を学ぶきっかけになる記事。
 - [高速な比較安定ソートアルゴリズム「颯式」の紹介（ベンチマークあり）](https://qiita.com/EmuraDaisuke/items/fbcfbdae8e0477693331) - 「クイックソート種より高速」に動作することを目指した、マージソートの改良アルゴリズムに関する解説記事。また、他のソートアルゴリズムとの性能比較も行われている。
 - [累積和を何も考えずに書けるようにする！](https://qiita.com/drken/items/56a6b68edef8fc605821) - 高速に処理する手法の一つである[累積和](http://satanic0258.hatenablog.com/entry/2016/04/10/151315)をテンプレート化して、スムーズに実装するための解説記事。
-- [二分探索アルゴリズムを一般化 〜 めぐる式二分探索法のススメ 〜](https://qiita.com/drken/items/97e37dd6143e33a64c8c) - 二分探索法のエッセンスを凝縮・抽象化して、適用範囲の広い一般形が解説されている記事。また、バグを埋め込みにくい実装方法として、「[めぐる式二分探索](https://twitter.com/meguru_comp/status/697008509376835584)」が紹介されている。なお、二分法との違いを知りたい場合は、別の著者による[解説記事](https://kimiyuki.net/blog/2020/11/07/binary-search-and-bisection-method/)を参照されたい。
+- [二分探索アルゴリズムを一般化 〜 めぐる式二分探索法のススメ 〜](https://qiita.com/drken/items/97e37dd6143e33a64c8c) - 二分探索法のエッセンスを凝縮・抽象化して、適用範囲の広い一般形が解説されている記事。また、バグを埋め込みにくい実装方法として、「[めぐる式二分探索](https://twitter.com/meguru_comp/status/697008509376835584)」が紹介されている。
 - [計算量オーダーの求め方を総整理！ 〜 どこから log が出て来るか 〜](https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0) - 計算量の概念・意義・表記方法から、計算量の求め方について豊富な例が紹介されている。また、別の著者により、時間計算量の種類(最良・最悪・平均・期待・償却)について概説した[記事](https://noshi91.hatenablog.com/entry/2019/10/08/235335)もある。
 - [特集！知らないと損をする計算量の話](https://qiita.com/drken/items/18b3b3db5735241465ef) - 実務でありがちな遅いコードの書き方を例に、計算量を意識することの意義を解説した記事。C++、Java、Pythonの典型的な処理について計算量が示されている。
 - [再帰関数を学ぶと、どんな世界が広がるか](https://qiita.com/drken/items/23a4f604fa3f505dd5ad) - 使いどころや動作がつかみづらい再帰関数について、豊富な実例とともに解説されている記事。また、[n重for文を再帰関数で機械的に書くための記事](https://drken1215.hatenablog.com/entry/2020/05/04/190252)もある。
@@ -325,7 +320,6 @@ filename: media
 - [競技プログラミングでC++を書くときに意識していること](https://blog.knshnb.com/posts/competitive-cplusplus-real/) - C++でコードを実装するときに、筆者が意識していることを紹介した記事。バグを埋め込みにくく、デバッグしやすいコードを書くためのポイントがまとめられている。
 - [競技プログラミングでprintデバッグ](https://naskya.net/post/0002/) - printデバッグを素早く行うためのマクロを紹介した記事。任意の引数、データ型を扱うことができる上、可読性を高める工夫もされている。
 - [競技プログラミングとC++のアレコレ](https://koturn.hatenablog.com/entry/2018/07/29/180000) - 競技プログラミングで使われる記法(と業務プログラミングとの違い)を紹介した記事。注: 2018年7月末時点の情報のため、ジャッジシステムの実行環境および言語仕様の確認を推奨。
-- [競技プログラミングにおける個人的C++コーディングスタイル(2020)](https://kimiyuki.net/blog/2020/10/25/coding-style-for-competitive-programming/) - [kimiyuki](https://atcoder.jp/users/kimiyuki)さんの好みのコーディングスタイルについて、競技プログラミングという文脈での利点と批判の両面から紹介した記事。
 - [競技プログラミングにおけるC++の定数倍高速化テク](https://qiita.com/ageprocpp/items/7bda728d109c953ece3c) - C++で実装したコードを高速化するテクニックをまとめた記事。
 - [競プロ実装テクニック - よすぽの日記](https://yosupo.hatenablog.com/entry/2020/07/30/221504) - [yosupo](https://atcoder.jp/users/yosupo)さんが、コードの実装において効果が高い、もしくは、一般性がありそうだと判断した項目についてまとめた記事。
 - [競プロで踏みがちなC++の罠](https://rsk0315.hatenablog.com/entry/2019/12/17/002419) - 2019年12月時点におけるC++の未定義動作や言語仕様の勘違いなどにより、意図とは異なる結果になりうる事例を紹介した記事。注: ジャッジシステムの実行環境および言語仕様の確認を推奨。
@@ -404,7 +398,6 @@ filename: media
 - [競技プログラマーのブログをまとめてみた](https://www.hamayanhamayan.com/entry/2020/12/24/001540) - [hamayanhamayan](https://atcoder.jp/users/hamayanhamayan)さんが、[AtCoder](https://atcoder.jp/)で日本人上位300人+αのブログ・Qiitaの投稿の有無を調査した記事。
 - [アルゴリズムロジック](https://algo-logic.info/) - [kami634](https://atcoder.jp/users/kami634)さんのアルゴリズム解説サイト。サンプルコードは、C++で実装されている。
 - [いかたこのたこつぼ](https://ikatakos.com/pot/programming_algorithm/contest_history/atcoder) - [ikatakos](https://atcoder.jp/users/ikatakos)さんの解説ブログ。Pythonで実装されている。
-- [うさぎ小屋](https://kimiyuki.net/) - [kimiyuki](https://atcoder.jp/users/kimiyuki)さんの解説ブログ。C++で実装されている。
 - [けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/) - [drken](https://atcoder.jp/users/drken)さんの解説ブログ。C++で実装されている。
 - [はまやん はまやん はまやん](https://www.hamayanhamayan.com/archive/category/%E7%AB%B6%E6%8A%80%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0) - [hamayanhamayan](https://atcoder.jp/users/hamayanhamayan)さんの解説ブログ。C++で実装されている。
 - [ARMERIA](https://betrue12.hateblo.jp/) - [betrue12](https://atcoder.jp/users/betrue12)さんの解説ブログ。RubyとC++で実装されている。
@@ -440,7 +433,6 @@ filename: media
 
 ### 言語特性
 
-- [プログラミング言語処理系の作り方 (競プロer向け)](https://kimiyuki.net/blog/2021/08/05/how-to-make-your-own-interpreter/) - 競技プログラマーに向けて、言語処理系の作り方やその難易度について説明した記事。
 - [【プログラミング言語速度比較】Collatz数列ベンチマークを言語別比較しよー！](https://rheotommy.hatenablog.com/entry/2020/07/18/205343) - [RheoTommy](https://atcoder.jp/users/RheoTommy)さんによる記事。[Collatz数列](https://en.wikipedia.org/wiki/Collatz_conjecture#:~:text=Unsolved%20problem%20in%20mathematics%3A&text=The%20Collatz%20conjecture%20is%20a,half%20of%20the%20previous%20term.)を題材に、各言語の実行速度を比較・分類している。
 - [大好評！たった6種類の文法で塗り絵パズルが楽しめる、新感覚プログラミング言語「Painter Programming」を作った話](https://qiita.com/e869120/items/92f19314ac5ea9a1e82a) - [E869120](https://atcoder.jp/users/E869120)さん、[square1001](https://atcoder.jp/users/square1001)さんによって作成されたプログラミング言語「Painter Programming」の面白さ・楽しさ・奥深さを解説した記事。
 
@@ -454,7 +446,6 @@ filename: media
 - [【競プロ作問】問題の原案作成のアプローチ](https://milkcoffee.hatenablog.jp/entry/2021/12/15/000338) - 問題の原案を作成するためのアプローチ方法を紹介した記事。また、各方法による作問例も掲載されている。
 - [About Problemsetting (for AtCoder and Codeforces)](https://codeforces.com/blog/entry/85424?locale=en) - [dario2994](https://atcoder.jp/users/dario2994)さんが、Atcoder Grand Contest(AGC)やCodeforces Global Round(GR)での出題経験を通して得られた知見を体系的にまとめた記事。
 - [問題文の添削例](https://twitter.com/rng_58/status/1341339233043111940) - [えびま](https://twitter.com/evima0)さんが、問題文の不明瞭な点に対して添削を行っている。問題文を書く機会がある場合に、とても参考になると思われる。
-- [集合 列 多重集合 違い](https://kimiyuki.net/blog/2020/11/03/set-sequence-multiset/) - 集合・列・多重集合の違いと記法について解説した記事。これらの要素を含む問題を作成・公開する前に確認すると、回答者に誤解されにくい問題文を用意できると思われる。
 - [競技プログラミングの作問環境構築（wiki設置編）](https://wakuwinmail.hatenablog.com/entry/2020/05/01/180054) - コンテストの問題の作成を希望する人に向けて、環境構築する手順をまとめた記事(全7回の予定)。
   - [第1回](https://wakuwinmail.hatenablog.com/entry/2020/05/01/180054): 問題の原案を共有するための[PukiWiki](https://pukiwiki.osdn.jp/)をサーバに設置する方法
   - [第2回](https://wakuwinmail.hatenablog.com/entry/2020/05/02/153955): PukiWikiが編集されたときにSlackにメッセージを通知するための方法
