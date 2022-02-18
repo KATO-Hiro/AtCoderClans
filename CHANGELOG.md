@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-02-18
+
+- [#3529](https://github.com/KATO-Hiro/AtCoderClans/pull/3529) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、スライド「[Chokudai search](https://www.slideshare.net/chokudai/chokudai-search-23234124)」を追加。
+
 ### 2022-02-17
 
 - [#3524](https://github.com/KATO-Hiro/AtCoderClans/pull/3524) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[AtCoder Jobsを使って転職しました](https://xkttqm.hatenablog.com/entry/2021/08/04/230000)」を追加。
