@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-02-19
+
+- [#3535](https://github.com/KATO-Hiro/AtCoderClans/pull/3535) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、記事「[Topcoder Marathon Matchの始め方（最新版）](https://qiita.com/phocom/items/da0f8123f7a8d5201cbf)」を追加。
+
 ### 2022-02-18
 
 - [#3529](https://github.com/KATO-Hiro/AtCoderClans/pull/3529) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、スライド「[Chokudai search](https://www.slideshare.net/chokudai/chokudai-search-23234124)」を追加。
