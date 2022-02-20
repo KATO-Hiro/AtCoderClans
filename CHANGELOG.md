@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-02-20
+
+- [#3541](https://github.com/KATO-Hiro/AtCoderClans/pull/3541) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、オンラインブック「[ヒューリスティック探索入門](https://jinnaiyuu.github.io/pdf/textbook.pdf)」を追加。
+
 ### 2022-02-19
 
 - [#3535](https://github.com/KATO-Hiro/AtCoderClans/pull/3535) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、記事「[Topcoder Marathon Matchの始め方（最新版）](https://qiita.com/phocom/items/da0f8123f7a8d5201cbf)」を追加。
