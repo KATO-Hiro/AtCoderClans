@@ -207,6 +207,7 @@ filename: media
 - [ネットワークフロー問題たちの関係を俯瞰する](https://theory-and-me.hatenablog.com/entry/2021/04/15/171702) - ネットワークフローに関する問題同士の関係性を整理し、共通部分の理解を深めることに焦点を当てた記事。
 - [容量スケーリング法のすゝめ](https://misawa.github.io/others/flow/lets_use_capacity_scaling.html) - 最小費用流問題に対する容量スケーリング法と、その実装方法を紹介した記事。
 - [「1000000007で割ったあまり」の求め方を総特集！ 〜 逆元から離散対数まで 〜](https://qiita.com/drken/items/3b4fdf0a78e7a138cd9a) - コンテストで頻出の「1000000007で割ったあまり」を求める問題への対策をまとめた記事。このような問題が出題される理由の説明から、四則演算・累乗・二項係数など幅広い話題について解説されている。
+- [中国剰余定理 (CRT) の解説と、それを用いる問題のまとめ](https://qiita.com/drken/items/ae02240cd1f8edfc86fd) - 中国剰余定理を特集した記事。概念の説明および証明、アルゴリズム、応用例などが解説されている。
 - [[競プロ用]ダブリングまとめ](https://qiita.com/Kept1994/items/ea91c057b0e552323da3) - ダブリングの使い道・利点・実装方法、例題などをまとめた記事。
 - [平方分割の練習をしようにも難しい問題ばかり、そんなお悩みに狙いを決めて手取り足取りのレクチャーです！](https://caddi.tech/archives/1259) - [Aizu Online Judge](https://onlinejudge.u-aizu.ac.jp/home)の[Range Sum Query](https://onlinejudge.u-aizu.ac.jp/courses/library/3/DSL/2/DSL_2_B)を題材に、平方分割の本質部分を実装するための方法が解説されている。
 - [伝家の宝刀　クエリ平方分割について](https://sigma1113.hatenablog.com/entry/2020/12/15/225256) - クエリ平方分割の概略とその計算量について解説した記事。例題も紹介されている。
