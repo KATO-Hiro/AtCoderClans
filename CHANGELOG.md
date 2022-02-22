@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-02-22
+
+- [#3547](https://github.com/KATO-Hiro/AtCoderClans/pull/3547) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[aut_jul_dur](https://atcoder.jp/users/aut_jul_dur)さんの[記事](https://autdur.hatenablog.com/entry/2022/02/22/181455)を追加。
+
 ### 2022-02-21
 
 - [#3544](https://github.com/KATO-Hiro/AtCoderClans/pull/3544) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[中国剰余定理 (CRT) の解説と、それを用いる問題のまとめ](https://qiita.com/drken/items/ae02240cd1f8edfc86fd)」を追加。
