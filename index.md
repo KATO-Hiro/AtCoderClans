@@ -73,6 +73,8 @@ filename: index
 
 [Articles and Books](https://kato-hiro.github.io/AtCoderClans/media) - 環境構築、アルゴリズムや過去問を解説した記事、書籍などを掲載しています。
 
+[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs) - アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています。
+
 [Videos](https://kato-hiro.github.io/AtCoderClans/videos) - 公式や有志による競技プログラミング関連の動画・チャンネルリストです。
 
 [Milestones](https://kato-hiro.github.io/AtCoderClans/milestones) - コンテストの参加者が所定のレーティングに達した喜びをつづった記事を共有・祝福するためのページです。
