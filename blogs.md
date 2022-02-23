@@ -24,6 +24,11 @@ filename: blogs
     - [レーティング2400から2799まで(橙色)](#%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B02400%E3%81%8B%E3%82%892799%E3%81%BE%E3%81%A7%E6%A9%99%E8%89%B2)
       - [CPlusPlus](#cplusplus-2)
       - [Crystal](#crystal-1)
+    - [レーティング2000から2399まで(黄色)](#%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B02000%E3%81%8B%E3%82%892399%E3%81%BE%E3%81%A7%E9%BB%84%E8%89%B2)
+      - [CPlusPlus](#cplusplus-3)
+      - [CSharp](#csharp-1)
+      - [Python](#python-1)
+      - [Rust](#rust-1)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -162,3 +167,52 @@ filename: blogs
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
 |tomerun|[はてなブログ](https://topcoder-tomerun.hatenablog.jp/)||
+
+#### レーティング2000から2399まで(黄色)
+
+##### CPlusPlus
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|assy|[はてなブログ](https://assy.hatenablog.jp/)||
+|bin101|[はてなブログ](https://bin101.hatenablog.com/)||
+|ebicochineal|[自作ブログ](http://ebicochineal.blogspot.com/)||
+|hakomo|[はてなブログ](https://hakomof.hatenablog.com/)||
+|hitonanode|[はてなブログ](https://rsm9.hatenablog.com/)||
+|iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
+|kozima|[はてなブログ](https://lkozima.hatenablog.com/)||
+|kusano|[はてなブログ](https://kusano-k.hatenablog.com/)||
+|nagiss|[はてなブログ](https://nagiss.hateblo.jp/)||
+|olphe|[はてなブログ](https://olphe.hatenablog.com/)||
+|Omotchi|[はてなブログ](https://omotchi.hateblo.jp/)||
+|phyllo|[GitHub Pages](https://jetbead.github.io/AtCoderHeuristicContestMemo/)||
+|qLethon|[はてなブログ](https://qlethon.hatenablog.com/)||
+|shibh308|[はてなブログ](https://shibh308.hatenablog.com/)||
+|Shibuyap|[Qiita](https://qiita.com/Shibuyap)||
+|Shun_PI|[Qiita](https://qiita.com/Shun_PI)||
+|siman|[はてなブログ](https://simanman.hatenablog.com/)||
+|ValGrowth|[はてなブログ](https://valgrowth.hatenablog.com/archive)||
+|yochan|[はてなブログ](https://www.yochan.blog/main/)||
+
+##### CSharp
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|EmK|[はてなブログ](https://emkcsharp.hatenablog.com/)||
+|threecourse|[はてなブログ](https://threecourse.hatenablog.com/)||
+
+##### Python
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|eijirou|[はてなブログ](https://eijirou-kyopro.hatenablog.com/)||
+|yuusanlondon|[はてなブログ](https://yuusanlondon.hatenablog.com/)||
+
+##### Rust
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|cunitac|[はてなブログ](https://cunitac.hatenablog.com/)||
+|ichyo|[はてなブログ](https://blog.ichyo.jp/)||
+|primenumber|[はてなブログ](https://primenumber.hatenadiary.jp/)||
+|terry_u16|[はてなブログ](https://www.terry-u16.net/)||
