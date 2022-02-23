@@ -129,4 +129,10 @@ filename: blogs
 
 ### ヒューリスティック部門
 
-- 準備中。
+#### レーティング2800以上(赤色、銅王冠、銀王冠、金王冠)
+
+##### CPlusPlus
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|eivour|[Qiita](https://qiita.com/contramundum)||
