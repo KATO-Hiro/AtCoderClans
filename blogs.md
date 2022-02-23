@@ -19,6 +19,8 @@ filename: blogs
       - [Python](#python)
       - [Rust](#rust)
   - [ヒューリスティック部門](#%E3%83%92%E3%83%A5%E3%83%BC%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E9%83%A8%E9%96%80)
+    - [レーティング2800以上(赤色、銅王冠、銀王冠、金王冠)](#%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B02800%E4%BB%A5%E4%B8%8A%E8%B5%A4%E8%89%B2%E9%8A%85%E7%8E%8B%E5%86%A0%E9%8A%80%E7%8E%8B%E5%86%A0%E9%87%91%E7%8E%8B%E5%86%A0-1)
+      - [CPlusPlus](#cplusplus-1)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
