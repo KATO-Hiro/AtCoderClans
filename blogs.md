@@ -162,3 +162,52 @@ filename: blogs
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
 |tomerun|[はてなブログ](https://topcoder-tomerun.hatenablog.jp/)||
+
+#### レーティング2000から2399まで(黄色)
+
+##### CPlusPlus
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|assy|[はてなブログ](https://assy.hatenablog.jp/)||
+|bin101|[はてなブログ](https://bin101.hatenablog.com/)||
+|ebicochineal|[自作ブログ](http://ebicochineal.blogspot.com/)||
+|hakomo|[はてなブログ](https://hakomof.hatenablog.com/)||
+|hitonanode|[はてなブログ](https://rsm9.hatenablog.com/)||
+|iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
+|kozima|[はてなブログ](https://lkozima.hatenablog.com/)||
+|kusano|[はてなブログ](https://kusano-k.hatenablog.com/)||
+|nagiss|[はてなブログ](https://nagiss.hateblo.jp/)||
+|olphe|[はてなブログ](https://olphe.hatenablog.com/)||
+|Omotchi|[はてなブログ](https://omotchi.hateblo.jp/)||
+|phyllo|[GitHub Pages](https://jetbead.github.io/AtCoderHeuristicContestMemo/)||
+|qLethon|[はてなブログ](https://qlethon.hatenablog.com/)||
+|shibh308|[はてなブログ](https://shibh308.hatenablog.com/)||
+|Shibuyap|[Qiita](https://qiita.com/Shibuyap)||
+|Shun_PI|[Qiita](https://qiita.com/Shun_PI)||
+|siman|[はてなブログ](https://simanman.hatenablog.com/)||
+|ValGrowth|[はてなブログ](https://valgrowth.hatenablog.com/archive)||
+|yochan|[はてなブログ](https://www.yochan.blog/main/)||
+
+##### CSharp
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|EmK|[はてなブログ](https://emkcsharp.hatenablog.com/)||
+|threecourse|[はてなブログ](https://threecourse.hatenablog.com/)||
+
+##### Python
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|eijirou|[はてなブログ](https://eijirou-kyopro.hatenablog.com/)||
+|yuusanlondon|[はてなブログ](https://yuusanlondon.hatenablog.com/)||
+
+##### Rust
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|cunitac|[はてなブログ](https://cunitac.hatenablog.com/)||
+|ichyo|[はてなブログ](https://blog.ichyo.jp/)||
+|primenumber|[はてなブログ](https://primenumber.hatenadiary.jp/)||
+|terry_u16|[はてなブログ](https://www.terry-u16.net/)||
