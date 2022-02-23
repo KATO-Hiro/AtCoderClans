@@ -8,6 +8,9 @@
     },
     {
       "pattern": "^https://kenkoooo.com/atcoder/"
+    },
+    {
+      "pattern": "^https://beet-aizu.hatenablog.com/"
     }
   ],
   "showProgressBar": true,
