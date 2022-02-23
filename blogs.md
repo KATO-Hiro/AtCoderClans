@@ -90,7 +90,7 @@ filename: blogs
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
-|tomerun|[はてなブログ](https://topcoder-tomerun.hatenablog.jp/)|ヒューリスティック型のコンテストに関する記事も掲載されている|
+|tomerun|[はてなブログ](https://topcoder-tomerun.hatenablog.jp/)|ヒューリスティック型のコンテストに関する記事も掲載されている。|
 
 ##### CSharp
 
