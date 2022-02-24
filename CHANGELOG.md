@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-02-24
+
+- [#3565](https://github.com/KATO-Hiro/AtCoderClans/pull/3565) - (破壊的な変更) 限定公開になったと思われる記事を一時的に「Archived」ページに移動。
+
 ### 2022-02-23
 
 - [#3550](https://github.com/KATO-Hiro/AtCoderClans/pull/3550), [#3551](https://github.com/KATO-Hiro/AtCoderClans/pull/3551), [#3553](https://github.com/KATO-Hiro/AtCoderClans/pull/3553), [#3554](https://github.com/KATO-Hiro/AtCoderClans/pull/3554), [#3555](https://github.com/KATO-Hiro/AtCoderClans/pull/3555), [#3556](https://github.com/KATO-Hiro/AtCoderClans/pull/3556), [#3557](https://github.com/KATO-Hiro/AtCoderClans/pull/3557) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページを新設。アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめることを目的としている。
