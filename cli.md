@@ -156,6 +156,10 @@ filename: cli
 
 - [kmyk/marathon-kit](https://github.com/kmyk/marathon-kit) ![GitHub Repo stars](https://img.shields.io/github/stars/kmyk/marathon-kit?style=plastic) - AtCoder Heuristic Contestのためのテンプレートレポジトリ。テストの並列実行、途中経過のビジュアライズ、GitHubでの自動テストが実行できる。
 
+### ヒューリスティック型コンテストの問題集とサンプルコード
+
+- [mm-tester](https://github.com/kosakkun/mm-tester) ![GitHub Repo stars](https://img.shields.io/github/stars/kosakkun/mm-tester?style=plastic) - ヒューリスティック型コンテストの問題とサンプルコードがまとめられている。
+
 ### コードの高速化、バックアップなど
 
 - [AtCoder_GitCommit](https://github.com/xryuseix/AtCoder_GitCommit) - 提出したコードをGitHubに自動でバックアップする。
