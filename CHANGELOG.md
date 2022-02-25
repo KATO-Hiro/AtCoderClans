@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-02-25
+
+- [#3568](https://github.com/KATO-Hiro/AtCoderClans/pull/3568) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページにヒューリスティック型コンテストの問題・サンプルコードをまとめた「[mm-tester](https://github.com/kosakkun/mm-tester)」を追加。
+
 ### 2022-02-24
 
 - [#3565](https://github.com/KATO-Hiro/AtCoderClans/pull/3565) - (破壊的な変更) 限定公開になったと思われる記事を一時的に「Archived」ページに移動。
