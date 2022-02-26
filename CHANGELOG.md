@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-02-26
+
+- [#3573](https://github.com/KATO-Hiro/AtCoderClans/pull/3573) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[焼きなまし法の真実](http://www.colun.net/archives/774)」を追加。
+
 ### 2022-02-25
 
 - [#3568](https://github.com/KATO-Hiro/AtCoderClans/pull/3568) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページにヒューリスティック型コンテストの問題・サンプルコードをまとめた「[mm-tester](https://github.com/kosakkun/mm-tester)」を追加。
