@@ -298,7 +298,7 @@ filename: media
 - [誰でもできる焼きなまし法](http://gasin.hatenadiary.jp/entry/2019/09/03/162613) - [gasin](https://atcoder.jp/users/gasin)さんが「焼きなまし法」の汎用性の高い実装方法を紹介した記事。
 - [詳解 焼きなまし法](https://github.com/hakomo/Simulated-Annealing-Techniques) - [hakomo](https://atcoder.jp/users/hakomo)さんが、コンテストで高いスコア・順位を取るために、最上位陣による実践的な工夫と適用例の網羅を目指しているレポジトリ。注: 最終更新が2018年11月末であり、一部の項目については準備中であると思われる。
 - [焼きなまし法のコツ Ver. 1.3](https://shindannin.hatenadiary.com/entry/2021/03/06/115415) - [shindannin](https://atcoder.jp/users/shindannin)さんが「焼きなまし法」の使い方について、高速化・次の状態の決め方・評価関数などの観点から網羅的にまとめている記事。また、各項目について重要度が併記されているのが特徴。
-- [焼きなまし法の真実](http://www.colun.net/archives/774) - 焼きなまし法に関する疑問点・コンテストを通して得られた知見を整理した記事。注: 前提条件として、焼きなまし法に関する一定程度の知識が求められている。
+- [焼きなまし法の真実](http://www.colun.net/archives/774) - 焼きなまし法に関する疑問点・コンテストを通して得られた知見が整理されている記事。注: 前提条件として、焼きなまし法に関する一定程度の知識が求められる。
 
 ### コードを実装するときの工夫
 
