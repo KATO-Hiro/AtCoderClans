@@ -73,6 +73,7 @@ filename: blogs
 |hogloid|[はてなブログ](https://hogloid.hatenablog.com/)||
 |hos_lyric|[自作ブログ](http://hos.ac/blog/)|2015年2月以降、新規の記事を確認できず。|
 |IH19980412|[はてなブログ](https://hir180.hateblo.jp/)||
+|iwiwi|[はてなブログ](https://iwiwi.hatenablog.com/)、[はてなブログ](https://iwiwi.hatenadiary.jp/)|2018年6月以降、新規の記事を確認できず。|
 |japlj|[はてなブログ](https://japlj.hatenablog.com/)||
 |joisino|[はてなブログ](https://joisino.hatenablog.com/)||
 |kmjp|[はてなブログ](https://kmjp.hatenablog.jp/)||
@@ -136,6 +137,88 @@ filename: blogs
 |:--:|:--:|:--|
 |kobae964|[はてなブログ](https://koba-e964.hatenablog.com/)||
 |sansen|[はてなブログ](https://sansen.hatenablog.com/)||
+
+#### レーティング2400から2799まで(橙色)
+
+##### C
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|kyopro_friends|[はてなブログ](https://kyopro-friends.hatenablog.com/)|C++で実装されている回答もある。|
+|sheyasutaka|[はてなブログ](https://atcoder.jp/users/sheyasutaka)|2019年5月以降、新規の記事を確認できず。|
+
+##### CPlusPlus
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|abc050|[はてなブログ](https://htnglsh.hatenablog.com/)||
+|amylase|[はてなブログ](https://pepsin-amylase.hatenablog.com/)||
+|dohatsutsu|[はてなブログ](https://dohatsutsu.hatenablog.com/)|2017年11月以降、新規の記事を確認できず。|
+|dokin|[はてなブログ](https://dokinac.hatenablog.com/)||
+|drken|[はてなブログ](https://drken1215.hatenablog.com/)、 [Qiita](https://qiita.com/drken)||
+|ei13333|[はてなブログ](https://ei1333.hateblo.jp/)||
+|enjapma|[はてなブログ](https://enjapma.hatenablog.com/)||
+|hitoare|[はてなブログ](https://hitoare.hatenablog.com/)||
+|Hoi_koro|[はてなブログ](https://hoikoro.hatenablog.com/)|2019年3月以降、新規の記事を確認できず。|
+|hotman78|[はてなブログ](https://hotman78.hatenablog.com/)||
+|gasin|[はてなブログ](https://gasin.hatenadiary.jp/)||
+|goodbaton|[はてなブログ](https://goodbaton.hatenablog.com/)|2017年3月以降、新規の記事を確認できず。|
+|KoD|[Qiita](https://qiita.com/Kodaman_KoD)||
+|kyuridenamida|[はてなブログ](https://kyuridenamida.hatenablog.com/)|2019年10月以降、新規の記事を確認できず。|
+|Lepton|[はてなブログ](https://lepton.hatenablog.jp/)|2018年3月以降、新規の記事を確認できず。|
+|MMNMM|[はてなブログ](https://259-momone.hatenablog.com/)||
+|Motsu_xe|[はてなブログ](https://motsu-xe.hatenablog.com/)||
+|mtsd|[はてなブログ](https://mtsd-programming.hatenablog.com/)||
+|nok0|[はてなブログ](https://tsuchi.hateblo.jp/)||
+|olphe|[はてなブログ](https://olphe.hatenablog.com/)||
+|pekempey|[はてなブログ](https://pekempey.hatenablog.com/)||
+|physics0523|[はてなブログ](https://physics0523.hatenablog.com/)||
+|PIandS|[自作ブログ](https://pitsbuffersolution.com/)||
+|potetisensei|[はてなブログ](https://potetisensei.hatenablog.com/)||
+|Rubikun|[はてなブログ](https://rubikun.hatenablog.jp/)||
+|satanic0258|[はてなブログ](https://satanic0258.hatenablog.com/)|2018年9月以降、新規の記事を確認できず。|
+|smiken|[はてなブログ](https://smiken.hatenablog.com/)|2019年10月以降、新規の記事を確認できず。|
+|square1001|[Qiita](https://qiita.com/square1001)||
+|tokoharu|[はてなブログ](https://tokoharuland.hateblo.jp/)|2020年1月以降、新規の記事を確認できず。|
+|yamunaku|[はてなブログ](https://yamunaku.hatenablog.com/)||
+|ynymxiaolongbao|[はてなブログ](https://segtree.hatenablog.com/)||
+
+##### CSharp
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|camypaper|[Bitbucket](https://camypaper.bitbucket.io/)|2018年1月以降、新規の記事を確認できず。|
+|keymoon|[はてなブログ](https://keymoon.hatenablog.com/)||
+
+##### Java
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|piroz95|[はてなブログ](https://piroz.hatenablog.com/)||
+
+##### Python
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|Kiri8128|[はてなブログ](https://kiri8128.hatenablog.com/)||
+|SPD_9X2|[はてなブログ](https://spd-9x2.hatenablog.com/)||
+
+##### Ruby
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|akouryy|[はてなブログ](https://akouryy.hatenablog.jp/)|高難易度の問題を中心にC++で実装されている回答もある。|
+|betrue12|[はてなブログ](https://betrue12.hateblo.jp/)|高難易度の問題を中心にC++で実装されている回答もある。|
+
+##### Rust
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|hamadu|[自作ブログ](https://hamadu.net/)||
+|ichyo|[自作ブログ](https://blog.ichyo.jp/)||
+|nebocco|[はてなブログ](https://nebocco.hatenablog.com/)||
+|ngtkana|[はてなブログ](https://ngtkana.hatenablog.com/)、[Qiita](https://qiita.com/ngtkana)||
+|tanakh|[Qiita](https://qiita.com/tanakh)||
 
 ### ヒューリスティック部門
 
