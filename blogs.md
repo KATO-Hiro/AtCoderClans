@@ -314,6 +314,8 @@ filename: blogs
 |Jirotech|[はてなブログ](https://shuu0914.hatenablog.com/)||
 |noimi|[はてなブログ](https://noimi.hatenablog.com/)||
 |phocom|[Qiita](https://qiita.com/phocom)||
+|saharan|[自作ブログ](https://blog.oimo.io/)||
+|siman|[はてなブログ](https://simanman.hatenablog.com/)||
 |square1001|[Qiita](https://qiita.com/square1001)||
 |takumi152|[はてなブログ](https://takumi152.hatenablog.jp/)||
 |WA_TLE|[はてなブログ](https://watle.hatenablog.com/)|2019年1月以降、新規の記事を確認できず。|
@@ -323,6 +325,12 @@ filename: blogs
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
 |tomerun|[はてなブログ](https://topcoder-tomerun.hatenablog.jp/)||
+
+##### Rust
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|terry_u16|[はてなブログ](https://www.terry-u16.net/)||
 
 #### レーティング2000から2399まで(黄色)
 
@@ -334,6 +342,7 @@ filename: blogs
 |bin101|[はてなブログ](https://bin101.hatenablog.com/)||
 |ebicochineal|[自作ブログ](http://ebicochineal.blogspot.com/)||
 |hakomo|[はてなブログ](https://hakomof.hatenablog.com/)||
+|hamamu|[Qiita](https://qiita.com/hamamu)||
 |hitonanode|[はてなブログ](https://rsm9.hatenablog.com/)||
 |iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
 |kozima|[はてなブログ](https://lkozima.hatenablog.com/)||
@@ -346,7 +355,6 @@ filename: blogs
 |shibh308|[はてなブログ](https://shibh308.hatenablog.com/)||
 |Shibuyap|[Qiita](https://qiita.com/Shibuyap)||
 |Shun_PI|[Qiita](https://qiita.com/Shun_PI)||
-|siman|[はてなブログ](https://simanman.hatenablog.com/)||
 |ValGrowth|[はてなブログ](https://valgrowth.hatenablog.com/archive)||
 |yochan|[はてなブログ](https://www.yochan.blog/main/)||
 
@@ -356,6 +364,12 @@ filename: blogs
 |:--:|:--:|:--|
 |EmK|[はてなブログ](https://emkcsharp.hatenablog.com/)||
 |threecourse|[はてなブログ](https://threecourse.hatenablog.com/)||
+
+##### Java
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|tsukammo|[はてなブログ](https://tsukammo.hatenablog.com/)、[Qiita](https://qiita.com/tsukammo)||
 
 ##### Python
 
@@ -371,4 +385,3 @@ filename: blogs
 |cunitac|[はてなブログ](https://cunitac.hatenablog.com/)||
 |ichyo|[はてなブログ](https://blog.ichyo.jp/)||
 |primenumber|[はてなブログ](https://primenumber.hatenadiary.jp/)||
-|terry_u16|[はてなブログ](https://www.terry-u16.net/)||
