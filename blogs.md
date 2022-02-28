@@ -26,17 +26,22 @@ filename: blogs
       - [Python](#python-1)
       - [Ruby](#ruby)
       - [Rust](#rust-1)
-  - [ヒューリスティック部門](#%E3%83%92%E3%83%A5%E3%83%BC%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E9%83%A8%E9%96%80)
-    - [レーティング2800以上(赤色、銅王冠、銀王冠、金王冠)](#%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B02800%E4%BB%A5%E4%B8%8A%E8%B5%A4%E8%89%B2%E9%8A%85%E7%8E%8B%E5%86%A0%E9%8A%80%E7%8E%8B%E5%86%A0%E9%87%91%E7%8E%8B%E5%86%A0-1)
-      - [CPlusPlus](#cplusplus-2)
-    - [レーティング2400から2799まで(橙色)](#%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B02400%E3%81%8B%E3%82%892799%E3%81%BE%E3%81%A7%E6%A9%99%E8%89%B2-1)
-      - [CPlusPlus](#cplusplus-3)
-      - [Crystal](#crystal-1)
     - [レーティング2000から2399まで(黄色)](#%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B02000%E3%81%8B%E3%82%892399%E3%81%BE%E3%81%A7%E9%BB%84%E8%89%B2)
-      - [CPlusPlus](#cplusplus-4)
-      - [CSharp](#csharp-2)
+      - [CPlusPlus](#cplusplus-2)
+      - [Crystal](#crystal-1)
       - [Python](#python-2)
       - [Rust](#rust-2)
+  - [ヒューリスティック部門](#%E3%83%92%E3%83%A5%E3%83%BC%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E9%83%A8%E9%96%80)
+    - [レーティング2800以上(赤色、銅王冠、銀王冠、金王冠)](#%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B02800%E4%BB%A5%E4%B8%8A%E8%B5%A4%E8%89%B2%E9%8A%85%E7%8E%8B%E5%86%A0%E9%8A%80%E7%8E%8B%E5%86%A0%E9%87%91%E7%8E%8B%E5%86%A0-1)
+      - [CPlusPlus](#cplusplus-3)
+    - [レーティング2400から2799まで(橙色)](#%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B02400%E3%81%8B%E3%82%892799%E3%81%BE%E3%81%A7%E6%A9%99%E8%89%B2-1)
+      - [CPlusPlus](#cplusplus-4)
+      - [Crystal](#crystal-2)
+    - [レーティング2000から2399まで(黄色)](#%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B02000%E3%81%8B%E3%82%892399%E3%81%BE%E3%81%A7%E9%BB%84%E8%89%B2-1)
+      - [CPlusPlus](#cplusplus-5)
+      - [CSharp](#csharp-2)
+      - [Python](#python-3)
+      - [Rust](#rust-3)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -227,6 +232,66 @@ filename: blogs
 |nebocco|[はてなブログ](https://nebocco.hatenablog.com/)||
 |ngtkana|[はてなブログ](https://ngtkana.hatenablog.com/)、[Qiita](https://qiita.com/ngtkana)||
 |tanakh|[Qiita](https://qiita.com/tanakh)||
+
+#### レーティング2000から2399まで(黄色)
+
+##### CPlusPlus
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|aajisaka|[はてなブログ](https://aajisaka.hatenablog.com/)||
+|drogskol|[はてなブログ](https://drogskol.hatenablog.com/)||
+|eiya|[はてなブログ](https://eiya5498513.hatenablog.jp/)||
+|habara_k|[はてなブログ](https://habara-k.hatenadiary.jp/)||
+|hamayanhamayan|[はてなブログ](https://blog.hamayanhamayan.com/)||
+|Hec|[はてなブログ](https://osrehun.hatenadiary.jp/)||
+|imulan|[はてなブログ](https://imulan.hatenablog.jp/)|2019年10月以降、新規の記事を確認できず。|
+|iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
+|kaage|[はてなブログ](https://kaage.hatenablog.com/)||
+|knshnb|[自作ブログ](https://blog.knshnb.com/)||
+|Luzhiled|[はてなブログ](https://luzhiled.hatenablog.com/)||
+|mayoko|[はてなブログ](https://mayokoex.hatenablog.com/)|2019年12月以降、新規の記事を確認できず。|
+|maze1230|[はてなブログ](https://pazzle1230.hatenablog.com/)||
+|m_tsubasa|[はてなブログ](https://emtubasa.hateblo.jp/)||
+|naoya_t|[はてなブログ](https://naoyat.hatenablog.jp/)||
+|natrium|[はてなブログ](https://natrium.hatenablog.com/)|2016年1月以降、新規の記事を確認できず。|
+|ningenMe|[はてなブログ](https://ningenme.hatenablog.com/)||
+|not|[はてなブログ](https://not522.hatenablog.com/)、[はてなグループ](https://topcoder-g-hatena-ne-jp.jag-icpc.org/not522/)||
+|opt|[自作ブログ](https://opt-cp.com/)||
+|packer_jp|[はてなブログ](https://packer-jp.hatenadiary.jp/)||
+|paruki|[はてなブログ](https://par.hateblo.jp/)||
+|Pro_ktmr|[Qiita](https://qiita.com/Pro_ktmr)||
+|Shun_PI|[Qiita](https://qiita.com/Shun_PI)||
+|Suibaka|[はてなブログ](https://suikaba.hatenablog.com/)||
+|treeone|[はてなブログ](https://treeone.hatenablog.com/)|2018年11月以降、新規の記事を確認できず。|
+|Trineutron|[Qiita](https://qiita.com/trineutron)||
+|tsutaj|[はてなブログ](https://tsutaj.hatenablog.com/)||
+|veqcc|[はてなブログ](https://veqcc.hatenablog.jp/)|2019年9月以降、新規の記事を確認できず。|
+
+##### Crystal
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|hakatashi|[はてなブログ](https://hakatashi.hatenadiary.com/)||
+
+##### Python
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|kusano|[はてなブログ](https://kusano-k.hatenablog.com/)|高難易度の問題を中心にC++で実装されている回答もある。|
+|minus9d|[はてなブログ](https://minus9d.hatenablog.com/)|高難易度の問題を中心にC++で実装されている回答もある。|
+|nagiss|[はてなブログ](https://nagiss.hateblo.jp/)||
+|Tallfall|[はてなブログ](https://tallfall.hatenablog.com/)||
+|yaketake08|[はてなブログ](https://smijake3.hatenablog.com/)|2020年1月以降、新規の記事を確認できず。|
+
+##### Rust
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|kenkoooo|[はてなブログ](https://kenkoooo.hatenablog.com/)||
+|koyumeishi|[はてなブログ](https://koyumeishi.hatenablog.com/)||
+|rsk0315|[はてなブログ](https://rsk0315.hatenablog.com/)、[GitHub Pages](https://rsk0315.github.io/links/)||
+|wata|[はてなブログ](https://wata-orz.hatenablog.com/)|2019年8月以降、新規の記事を確認できず。|
 
 ### ヒューリスティック部門
 
