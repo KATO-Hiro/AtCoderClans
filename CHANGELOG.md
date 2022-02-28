@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-02-28
+
+- [#3584](https://github.com/KATO-Hiro/AtCoderClans/pull/3584), [#3585](https://github.com/KATO-Hiro/AtCoderClans/pull/3585) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのアルゴリズム部門に、最高レーティングが2000〜2799までのユーザ(本サイトの運営者が観測した範囲に限定)のブログを追加。
+
 ### 2022-02-27
 
 - [#3577](https://github.com/KATO-Hiro/AtCoderClans/pull/3577) - 「[Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app)」ページに、Webアプリ「[ABC Predictor](https://abc-predictor.herokuapp.com/)」を追加。
