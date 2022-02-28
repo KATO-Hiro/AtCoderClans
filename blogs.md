@@ -37,11 +37,13 @@ filename: blogs
     - [レーティング2400から2799まで(橙色)](#%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B02400%E3%81%8B%E3%82%892799%E3%81%BE%E3%81%A7%E6%A9%99%E8%89%B2-1)
       - [CPlusPlus](#cplusplus-4)
       - [Crystal](#crystal-2)
+      - [Rust](#rust-3)
     - [レーティング2000から2399まで(黄色)](#%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B02000%E3%81%8B%E3%82%892399%E3%81%BE%E3%81%A7%E9%BB%84%E8%89%B2-1)
       - [CPlusPlus](#cplusplus-5)
       - [CSharp](#csharp-2)
+      - [Java](#java-2)
       - [Python](#python-3)
-      - [Rust](#rust-3)
+      - [Rust](#rust-4)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
