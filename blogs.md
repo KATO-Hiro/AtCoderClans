@@ -228,6 +228,66 @@ filename: blogs
 |ngtkana|[はてなブログ](https://ngtkana.hatenablog.com/)、[Qiita](https://qiita.com/ngtkana)||
 |tanakh|[Qiita](https://qiita.com/tanakh)||
 
+#### レーティング2000から2399まで(黄色)
+
+##### CPlusPlus
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|aajisaka|[はてなブログ](https://aajisaka.hatenablog.com/)||
+|drogskol|[はてなブログ](https://drogskol.hatenablog.com/)||
+|eiya|[はてなブログ](https://eiya5498513.hatenablog.jp/)||
+|habara_k|[はてなブログ](https://habara-k.hatenadiary.jp/)||
+|hamayanhamayan|[はてなブログ](https://blog.hamayanhamayan.com/)||
+|Hec|[はてなブログ](https://osrehun.hatenadiary.jp/)||
+|imulan|[はてなブログ](https://imulan.hatenablog.jp/)|2019年10月以降、新規の記事を確認できず。|
+|iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
+|kaage|[はてなブログ](https://kaage.hatenablog.com/)||
+|knshnb|[自作ブログ](https://blog.knshnb.com/)||
+|Luzhiled|[はてなブログ](https://luzhiled.hatenablog.com/)||
+|mayoko|[はてなブログ](https://mayokoex.hatenablog.com/)|2019年12月以降、新規の記事を確認できず。|
+|maze1230|[はてなブログ](https://pazzle1230.hatenablog.com/)||
+|m_tsubasa|[はてなブログ](https://emtubasa.hateblo.jp/)||
+|naoya_t|[はてなブログ](https://naoyat.hatenablog.jp/)||
+|natrium|[はてなブログ](https://natrium.hatenablog.com/)|2016年1月以降、新規の記事を確認できず。|
+|ningenMe|[はてなブログ](https://ningenme.hatenablog.com/)||
+|not|[はてなブログ](https://not522.hatenablog.com/)、[はてなグループ](https://topcoder-g-hatena-ne-jp.jag-icpc.org/not522/)||
+|opt|[自作ブログ](https://opt-cp.com/)||
+|packer_jp|[はてなブログ](https://packer-jp.hatenadiary.jp/)||
+|paruki|[はてなブログ](https://par.hateblo.jp/)||
+|Pro_ktmr|[Qiita](https://qiita.com/Pro_ktmr)||
+|Shun_PI|[Qiita](https://qiita.com/Shun_PI)||
+|Suibaka|[はてなブログ](https://suikaba.hatenablog.com/)||
+|treeone|[はてなブログ](https://treeone.hatenablog.com/)|2018年11月以降、新規の記事を確認できず。|
+|Trineutron|[Qiita](https://qiita.com/trineutron)||
+|tsutaj|[はてなブログ](https://tsutaj.hatenablog.com/)||
+|veqcc|[はてなブログ](https://veqcc.hatenablog.jp/)|2019年9月以降、新規の記事を確認できず。|
+
+##### Crystal
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|hakatashi|[はてなブログ](https://hakatashi.hatenadiary.com/)||
+
+##### Python
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|kusano|[はてなブログ](https://kusano-k.hatenablog.com/)|高難易度の問題を中心にC++で実装されている回答もある。|
+|minus9d|[はてなブログ](https://minus9d.hatenablog.com/)|高難易度の問題を中心にC++で実装されている回答もある。|
+|nagiss|[はてなブログ](https://nagiss.hateblo.jp/)||
+|Tallfall|[はてなブログ](https://tallfall.hatenablog.com/)||
+|yaketake08|[はてなブログ](https://smijake3.hatenablog.com/)|2020年1月以降、新規の記事を確認できず。|
+
+##### Rust
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|kenkoooo|[はてなブログ](https://kenkoooo.hatenablog.com/)||
+|koyumeishi|[はてなブログ](https://koyumeishi.hatenablog.com/)||
+|rsk0315|[はてなブログ](https://rsk0315.hatenablog.com/)、[GitHub Pages](https://rsk0315.github.io/links/)||
+|wata|[はてなブログ](https://wata-orz.hatenablog.com/)|2019年8月以降、新規の記事を確認できず。|
+
 ### ヒューリスティック部門
 
 #### レーティング2800以上(赤色、銅王冠、銀王冠、金王冠)
