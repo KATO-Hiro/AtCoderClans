@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-03-01
+
+- [#3587](https://github.com/KATO-Hiro/AtCoderClans/pull/3587) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのヒューリスティック部門に、最高レーティングが2000〜2799に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+
 ### 2022-02-28
 
 - [#3584](https://github.com/KATO-Hiro/AtCoderClans/pull/3584), [#3585](https://github.com/KATO-Hiro/AtCoderClans/pull/3585) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのアルゴリズム部門に、最高レーティングが2000〜2799までのユーザ(本サイトの運営者が観測した範囲に限定)のブログを追加。
