@@ -280,7 +280,7 @@ filename: blogs
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
-|kusano|[はてなブログ](https://kusano-k.hatenablog.com/)|高難易度の問題を中心にC++で実装されている回答もある。|
+|kusano|[はてなブログ](https://kusano-k.hatenablog.com/)、[Qiita](https://qiita.com/kusano_k)|高難易度の問題を中心にC++で実装されている回答もある。|
 |minus9d|[はてなブログ](https://minus9d.hatenablog.com/)|高難易度の問題を中心にC++で実装されている回答もある。|
 |nagiss|[はてなブログ](https://nagiss.hateblo.jp/)||
 |Tallfall|[はてなブログ](https://tallfall.hatenablog.com/)||
@@ -348,7 +348,7 @@ filename: blogs
 |hitonanode|[はてなブログ](https://rsm9.hatenablog.com/)||
 |iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
 |kozima|[はてなブログ](https://lkozima.hatenablog.com/)||
-|kusano|[はてなブログ](https://kusano-k.hatenablog.com/)||
+|kusano|[はてなブログ](https://kusano-k.hatenablog.com/)、[Qiita](https://qiita.com/kusano_k)||
 |nagiss|[はてなブログ](https://nagiss.hateblo.jp/)||
 |olphe|[はてなブログ](https://olphe.hatenablog.com/)||
 |Omotchi|[はてなブログ](https://omotchi.hateblo.jp/)||
@@ -371,6 +371,7 @@ filename: blogs
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
+|rabot|[Qiita](https://qiita.com/tanaka-a)||
 |tsukammo|[はてなブログ](https://tsukammo.hatenablog.com/)、[Qiita](https://qiita.com/tsukammo)||
 
 ##### Python
