@@ -224,7 +224,7 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_replay.png" alt="atcoder replay">
   </div>
 
-- [AtCoder Rivals](https://atcoder-rivals.web.app/) - パフォーマンスやレーティングの遷移、日々の精進などをライバルと比べることができる。また、作者による[技術記事](https://note.com/sackey/n/nf0b7ed1e9d1a)も公開されている。
+- [AtCoder Rivals](https://atcoder-rivals.web.app/) - パフォーマンスやレーティングの遷移、日々の精進などをライバルと比べることができる。また、作者による[技術記事](https://note.com/sacckey/n/nf0b7ed1e9d1a)も公開されている。
 
   <div align="center">
     <img loading = "lazy" src="images/web_app/atcoder_rivals.png" alt="atcoder rivals">
