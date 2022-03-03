@@ -143,6 +143,7 @@ filename: milestones
 
 ### レーティング2000から2399まで(黄色)
 
+- [黄色になった - Tallfallの日記](https://tallfall.hatenablog.com/entry/2020/01/07/120053) - [Tallfall](https://atcoder.jp/users/Tallfall)さんが、2019年12月28日に達成。
 - [Atcoder黄色になるまでにしたこと＋α - Chanyuhのブログ](https://p-chanyuh.hatenablog.com/entry/2020/08/30/135814) - [Chanyuh](https://atcoder.jp/users/Chanyuh)さんが、2020年8月29日に達成。
 - [黄色になったので回想する](https://sites.google.com/view/s9tack-yellow/) - [Personify20](https://atcoder.jp/users/Personify20)さんが、2020年11月1日に達成。
 - [AtCoderで黄色になりましたか？ - かわらにかわらは割れない](http://brokentile.hatenablog.com/entry/2020/12/18/073314) - kawara_yさんが、2020年11月8日に達成。
