@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-03-03
+
+- [#3603](https://github.com/KATO-Hiro/AtCoderClans/pull/3603) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2000から2399まで(黄色)に[Tallfall](https://atcoder.jp/users/Tallfall)さんの[記事](https://tallfall.hatenablog.com/entry/2020/01/07/120053)を追加。
+- [#3596](https://github.com/KATO-Hiro/AtCoderClans/pull/3596), [#3602](https://github.com/KATO-Hiro/AtCoderClans/pull/3602) - 記事のURLを修正。
+
 ### 2022-03-02
 
 - [#3596](https://github.com/KATO-Hiro/AtCoderClans/pull/3596) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのアルゴリズム部門およびヒューリスティック部門に、最高レーティングが2000〜2399に到達したユーザのブログを追加。
