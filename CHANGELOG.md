@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-03-04
+
+- [#3605](https://github.com/KATO-Hiro/AtCoderClans/pull/3605) - [3w36zj6](https://github.com/3w36zj6)さんのプルリクエストにより、「[Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app)」ページに、Webアプリ「[AtCoder Heuristic Rating Estimator](https://3w36zj6.github.io/atcoder-heuristic-rating-estimator/)」を追加。
+
 ### 2022-03-03
 
 - [#3603](https://github.com/KATO-Hiro/AtCoderClans/pull/3603) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
