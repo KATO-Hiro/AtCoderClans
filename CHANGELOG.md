@@ -8,6 +8,8 @@ filename: CHANGELOG
 
 ### 2022-03-04
 
+- [#3610](https://github.com/KATO-Hiro/AtCoderClans/pull/3610) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング400から799まで(茶色)に[korosho](https://atcoder.jp/users/korosho)さんの[記事](https://qiita.com/korosho/items/a20a404e7022ce9708b8)を追加。
 - [#3605](https://github.com/KATO-Hiro/AtCoderClans/pull/3605) - [3w36zj6](https://github.com/3w36zj6)さんのプルリクエストにより、「[Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app)」ページに、Webアプリ「[AtCoder Heuristic Rating Estimator](https://3w36zj6.github.io/atcoder-heuristic-rating-estimator/)」を追加。
 
 ### 2022-03-03
