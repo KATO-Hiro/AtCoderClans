@@ -44,6 +44,7 @@ filename: milestones
 - [【AtCoder】40過ぎのおっさんが茶色まで２年かかった話](https://note.com/t_aoyama/n/nf216afa9241e) - [chinsan](https://atcoder.jp/users/chinsan)さんが、2021年12月11日に達成。
 - [AtCoder 茶色になりました（色変記事）](https://qiita.com/akiku/items/0b693004e17bfd094c3b) - [akikuno](https://atcoder.jp/users/akikuno)さんが、2021年12月25日に達成。
 - [Atcoderで茶色になりました - sin471のブログ](https://sin471.hatenablog.com/entry/2022/02/06/003702) - [sin471](https://atcoder.jp/users/sin471)さんが、2022年2月5日に達成。
+- [AtCoderで入茶出来たので現状を振り返る](https://qiita.com/korosho/items/a20a404e7022ce9708b8) - [korosho](https://atcoder.jp/users/korosho)さんが、2022年2月5日に達成。
 
 ### レーティング800から1199まで(緑色)
 
