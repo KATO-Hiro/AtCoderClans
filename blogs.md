@@ -171,7 +171,7 @@ filename: blogs
 |amylase|[はてなブログ](https://pepsin-amylase.hatenablog.com/)||
 |dohatsutsu|[はてなブログ](https://dohatsutsu.hatenablog.com/)|2017年11月以降、新規の記事を確認できず。|
 |dokin|[はてなブログ](https://dokinac.hatenablog.com/)||
-|drken|[はてなブログ](https://drken1215.hatenablog.com/)、 [Qiita](https://qiita.com/drken)||
+|drken|[はてなブログ](https://drken1215.hatenablog.com/)、 [Qiita](https://qiita.com/drken)|[問題解決力を鍛える!アルゴリズムとデータ構造](https://www.amazon.co.jp/dp/4065128447/)の著者。[アルゴ式](https://algo-method.com/)の運営者。|
 |ei13333|[はてなブログ](https://ei1333.hateblo.jp/)||
 |enjapma|[はてなブログ](https://enjapma.hatenablog.com/)||
 |hitoare|[はてなブログ](https://hitoare.hatenablog.com/)||
@@ -191,18 +191,23 @@ filename: blogs
 |mtsd|[はてなブログ](https://mtsd-programming.hatenablog.com/)||
 |nok0|[はてなブログ](https://tsuchi.hateblo.jp/)||
 |olphe|[はてなブログ](https://olphe.hatenablog.com/)||
+|omochana2|[はてなブログ](https://omochan.hatenablog.com/)||
 |pekempey|[はてなブログ](https://pekempey.hatenablog.com/)||
 |penguinman|[はてなブログ](https://penguinman-tk.hatenablog.com/)||
 |physics0523|[はてなブログ](https://physics0523.hatenablog.com/)||
 |PIandS|[自作ブログ](https://pitsbuffersolution.com/)||
+|platypus|[はてなブログ](https://platypus999.hatenablog.com/)|2018年3月以降、新規の記事を確認できず。|
 |potetisensei|[はてなブログ](https://potetisensei.hatenablog.com/)||
+|primenumber|[はてなブログ](https://primenumber.hatenadiary.jp/)||
 |Rubikun|[はてなブログ](https://rubikun.hatenablog.jp/)||
+|sak|[Qiita](https://qiita.com/sakofsuken)、[note](https://note.com/sak_algo)|[アルゴ式](https://algo-method.com/)の運営・開発者。|
 |sapphire15|[はてなブログ](https://sapphire15.hatenablog.com/)||
 |satanic0258|[はてなブログ](https://satanic0258.hatenablog.com/)|2018年9月以降、新規の記事を確認できず。|
 |smiken|[はてなブログ](https://smiken.hatenablog.com/)|2019年10月以降、新規の記事を確認できず。|
 |square1001|[Qiita](https://qiita.com/square1001)||
 |tokoharu|[はてなブログ](https://tokoharuland.hateblo.jp/)|2020年1月以降、新規の記事を確認できず。|
 |Trineutron|[Qiita](https://qiita.com/trineutron)||
+|wafrelka|[はてなブログ](https://wafrelka.hatenablog.jp/)|2018年10月以降、新規の記事を確認できず。|
 |yamunaku|[はてなブログ](https://yamunaku.hatenablog.com/)||
 |ynymxiaolongbao|[はてなブログ](https://segtree.hatenablog.com/)||
 
@@ -261,6 +266,7 @@ filename: blogs
 |iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
 |kaage|[はてなブログ](https://kaage.hatenablog.com/)||
 |knshnb|[自作ブログ](https://blog.knshnb.com/)||
+|kozima|[はてなブログ](https://lkozima.hatenablog.com/)||
 |Luzhiled|[はてなブログ](https://luzhiled.hatenablog.com/)||
 |mayoko|[はてなブログ](https://mayokoex.hatenablog.com/)|2019年12月以降、新規の記事を確認できず。|
 |maze1230|[はてなブログ](https://pazzle1230.hatenablog.com/)||
@@ -275,11 +281,15 @@ filename: blogs
 |paruki|[はてなブログ](https://par.hateblo.jp/)||
 |Pro_ktmr|[Qiita](https://qiita.com/Pro_ktmr)||
 |riano_|[はてなブログ](https://seashellpink-frostywhite.hatenablog.com/)||
+|Rho17|[はてなブログ](https://zrkkkk.hatenablog.com/)||
+|seica|[はてなブログ](https://seica-at.hatenablog.com/)||
+|Series_205|[Qiita](https://qiita.com/Series_205)||
 |Shun_PI|[Qiita](https://qiita.com/Shun_PI)||
 |Suibaka|[はてなブログ](https://suikaba.hatenablog.com/)||
 |treeone|[はてなブログ](https://treeone.hatenablog.com/)|2018年11月以降、新規の記事を確認できず。|
 |tsutaj|[はてなブログ](https://tsutaj.hatenablog.com/)||
 |veqcc|[はてなブログ](https://veqcc.hatenablog.jp/)|2019年9月以降、新規の記事を確認できず。|
+|zaki_|[はてなブログ](https://zaki-joho.hatenablog.com/)||
 
 ##### Crystal
 
@@ -301,6 +311,7 @@ filename: blogs
 |Tallfall|[はてなブログ](https://tallfall.hatenablog.com/)||
 |titia|[Blogger](https://titianote.blogspot.com/)||
 |yaketake08|[はてなブログ](https://smijake3.hatenablog.com/)|2020年1月以降、新規の記事を確認できず。|
+|yuusanlondon|[はてなブログ](https://yuusanlondon.hatenablog.com/)||
 
 ##### Rust
 
