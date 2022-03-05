@@ -49,7 +49,7 @@ filename: blogs
 
 ## ブログ、Qiita (Alpha)
 
-アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログ、Qiita（以降、ブログ）をまとめています(Alpha版)。
+アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログ、Qiita（以降、ブログ）をまとめています(敬称略、順不同)。
 
 掲載を希望される方(他薦を含む)は、[本サイトの運営者](https://twitter.com/k_hiro1818)まで、[AtCoder](https://atcoder.jp/)のIDとブログのURLをご連絡いただけると幸いです。
 
@@ -161,6 +161,7 @@ filename: blogs
 |:--:|:--:|:--|
 |kyopro_friends|[はてなブログ](https://kyopro-friends.hatenablog.com/)|C++で実装されている回答もある。|
 |sheyasutaka|[はてなブログ](https://atcoder.jp/users/sheyasutaka)|2019年5月以降、新規の記事を確認できず。|
+|ygussany|[はてなブログ](https://ygussany.hatenablog.com/)||
 
 ##### CPlusPlus
 
@@ -178,23 +179,30 @@ filename: blogs
 |hotman78|[はてなブログ](https://hotman78.hatenablog.com/)||
 |gasin|[はてなブログ](https://gasin.hatenadiary.jp/)||
 |goodbaton|[はてなブログ](https://goodbaton.hatenablog.com/)|2017年3月以降、新規の記事を確認できず。|
+|Kite_kuma|[はてなブログ](https://kumakumatime.hateblo.jp/)||
 |KoD|[Qiita](https://qiita.com/Kodaman_KoD)||
+|kotamanegi|[はてなブログ](https://kotamanegi.hatenablog.com/)||
 |kyuridenamida|[はてなブログ](https://kyuridenamida.hatenablog.com/)|2019年10月以降、新規の記事を確認できず。|
 |Lepton|[はてなブログ](https://lepton.hatenablog.jp/)|2018年3月以降、新規の記事を確認できず。|
+|logicmachine|[Qiita](https://qiita.com/logicmachine)|2015年1月以降、新規の記事を確認できず。|
+|maple116|[はてなブログ](https://fuma-maple.hatenablog.com/)|2020年2月以降、新規の記事を確認できず。|
 |MMNMM|[はてなブログ](https://259-momone.hatenablog.com/)||
 |Motsu_xe|[はてなブログ](https://motsu-xe.hatenablog.com/)||
 |mtsd|[はてなブログ](https://mtsd-programming.hatenablog.com/)||
 |nok0|[はてなブログ](https://tsuchi.hateblo.jp/)||
 |olphe|[はてなブログ](https://olphe.hatenablog.com/)||
 |pekempey|[はてなブログ](https://pekempey.hatenablog.com/)||
+|penguinman|[はてなブログ](https://penguinman-tk.hatenablog.com/)||
 |physics0523|[はてなブログ](https://physics0523.hatenablog.com/)||
 |PIandS|[自作ブログ](https://pitsbuffersolution.com/)||
 |potetisensei|[はてなブログ](https://potetisensei.hatenablog.com/)||
 |Rubikun|[はてなブログ](https://rubikun.hatenablog.jp/)||
+|sapphire15|[はてなブログ](https://sapphire15.hatenablog.com/)||
 |satanic0258|[はてなブログ](https://satanic0258.hatenablog.com/)|2018年9月以降、新規の記事を確認できず。|
 |smiken|[はてなブログ](https://smiken.hatenablog.com/)|2019年10月以降、新規の記事を確認できず。|
 |square1001|[Qiita](https://qiita.com/square1001)||
 |tokoharu|[はてなブログ](https://tokoharuland.hateblo.jp/)|2020年1月以降、新規の記事を確認できず。|
+|Trineutron|[Qiita](https://qiita.com/trineutron)||
 |yamunaku|[はてなブログ](https://yamunaku.hatenablog.com/)||
 |ynymxiaolongbao|[はてなブログ](https://segtree.hatenablog.com/)||
 
@@ -215,6 +223,7 @@ filename: blogs
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
+|googol_S0|[Qiita](https://qiita.com/googol_S0)|高難易度の問題を中心にC++で実装されている回答もある。|
 |Kiri8128|[はてなブログ](https://kiri8128.hatenablog.com/)||
 |SPD_9X2|[はてなブログ](https://spd-9x2.hatenablog.com/)||
 
@@ -244,6 +253,7 @@ filename: blogs
 |aajisaka|[はてなブログ](https://aajisaka.hatenablog.com/)||
 |drogskol|[はてなブログ](https://drogskol.hatenablog.com/)||
 |eiya|[はてなブログ](https://eiya5498513.hatenablog.jp/)||
+|fumofumofuni|[はてなブログ](https://fumofumofuni.hatenablog.com/)||
 |habara_k|[はてなブログ](https://habara-k.hatenadiary.jp/)||
 |hamayanhamayan|[はてなブログ](https://blog.hamayanhamayan.com/)||
 |Hec|[はてなブログ](https://osrehun.hatenadiary.jp/)||
@@ -254,6 +264,7 @@ filename: blogs
 |Luzhiled|[はてなブログ](https://luzhiled.hatenablog.com/)||
 |mayoko|[はてなブログ](https://mayokoex.hatenablog.com/)|2019年12月以降、新規の記事を確認できず。|
 |maze1230|[はてなブログ](https://pazzle1230.hatenablog.com/)||
+|milkcoffee|[はてなブログ](https://milkcoffee.hatenablog.jp/)||
 |m_tsubasa|[はてなブログ](https://emtubasa.hateblo.jp/)||
 |naoya_t|[はてなブログ](https://naoyat.hatenablog.jp/)||
 |natrium|[はてなブログ](https://natrium.hatenablog.com/)|2016年1月以降、新規の記事を確認できず。|
@@ -263,10 +274,10 @@ filename: blogs
 |packer_jp|[はてなブログ](https://packer-jp.hatenadiary.jp/)||
 |paruki|[はてなブログ](https://par.hateblo.jp/)||
 |Pro_ktmr|[Qiita](https://qiita.com/Pro_ktmr)||
+|riano_|[はてなブログ](https://seashellpink-frostywhite.hatenablog.com/)||
 |Shun_PI|[Qiita](https://qiita.com/Shun_PI)||
 |Suibaka|[はてなブログ](https://suikaba.hatenablog.com/)||
 |treeone|[はてなブログ](https://treeone.hatenablog.com/)|2018年11月以降、新規の記事を確認できず。|
-|Trineutron|[Qiita](https://qiita.com/trineutron)||
 |tsutaj|[はてなブログ](https://tsutaj.hatenablog.com/)||
 |veqcc|[はてなブログ](https://veqcc.hatenablog.jp/)|2019年9月以降、新規の記事を確認できず。|
 
@@ -280,10 +291,15 @@ filename: blogs
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
+|eijirou|[はてなブログ](https://eijirou-kyopro.hatenablog.com/)|主にヒューリスティック型のコンテストに関する解説記事が掲載されている。|
+|hahho|[Qiita](https://qiita.com/hahho)|2019年1月以降、新規の記事を確認できず。|
+|ikatakos|[自作ブログ](https://ikatakos.com/pot/programming_algorithm/contest_history/atcoder)||
 |kusano|[はてなブログ](https://kusano-k.hatenablog.com/)、[Qiita](https://qiita.com/kusano_k)|高難易度の問題を中心にC++で実装されている回答もある。|
 |minus9d|[はてなブログ](https://minus9d.hatenablog.com/)|高難易度の問題を中心にC++で実装されている回答もある。|
 |nagiss|[はてなブログ](https://nagiss.hateblo.jp/)||
+|sotanishy|[はてなブログ](https://sotanishy.hatenablog.com/)|高難易度の問題を中心にC++で実装されている回答もある。|
 |Tallfall|[はてなブログ](https://tallfall.hatenablog.com/)||
+|titia|[Blogger](https://titianote.blogspot.com/)||
 |yaketake08|[はてなブログ](https://smijake3.hatenablog.com/)|2020年1月以降、新規の記事を確認できず。|
 
 ##### Rust
