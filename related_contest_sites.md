@@ -297,12 +297,6 @@ filename: related_contest_sites
 
 ### OMC (OnlineMathContest)
 
-- [OMC problems](https://rusa6111.github.io/OMCproblems/) - [OnlineMathContest](https://onlinemathcontest.com/)で開催されたコンテストの問題一覧を確認できる。ベータ版。
-
-  <div align="center">
-    <img loading = "lazy" src="images/related_contest_sites/omc/omc_problems.png" alt="omc problems">
-  </div>
-
 - [OnlineMathContest 黄色になりました](https://note.com/treewhitetree/n/nb7d577fc24a4) - [Treewhitetree](https://onlinemathcontest.com/users/Treewhitetree)さんが、2021年11月2日に黄Solverに昇格。
 
 ### Shitforces

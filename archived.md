@@ -192,6 +192,14 @@ filename: archived
 - [AtCoderで水になったのでなんか書く - Takeshiのブログ](https://takesyhi.hatenablog.com/entry/2021/10/07/152435) - [Coordinator](https://atcoder.jp/users/Coordinator)さんが、2021年10月7日に公開。
   - 確認した日: 2022/02/03
 
+- [OMC problems](https://rusa6111.github.io/OMCproblems/) - [OnlineMathContest](https://onlinemathcontest.com/)で開催されたコンテストの問題一覧を確認できる。ベータ版。
+  - 確認した日: 2022/03/05
+  - 代替手段: [公式ページ](https://onlinemathcontest.com/problems)から閲覧する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/omc/omc_problems.png" alt="omc problems">
+  </div>
+
 <!-- markdown-link-check-enable -->
 
 ## 開発、提供が終了したサービス、ツールなど
