@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-03-05
+
+- [#3618](https://github.com/KATO-Hiro/AtCoderClans/pull/3618) - (破壊的な変更) 更新が停止されたと思われるWebアプリを一時的に「Archived」ページに移動。
+
 ### 2022-03-04
 
 - [#3610](https://github.com/KATO-Hiro/AtCoderClans/pull/3610) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
