@@ -256,11 +256,16 @@ filename: blogs
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
 |aajisaka|[はてなブログ](https://aajisaka.hatenablog.com/)||
+|Chanyuh|[はてなブログ](https://p-chanyuh.hatenablog.com/)||
+|cookies|[はてなブログ](https://cookies.hatenablog.jp/)||
+|ctyl|[はてなブログ](https://ctylim.hatenablog.com/)|2018年1月以降、新規の記事を確認できず。|
 |drogskol|[はてなブログ](https://drogskol.hatenablog.com/)||
 |eiya|[はてなブログ](https://eiya5498513.hatenablog.jp/)||
 |fumofumofuni|[はてなブログ](https://fumofumofuni.hatenablog.com/)||
+|furuya1223|[WordPress](https://www.creativ.xyz/)||
 |habara_k|[はてなブログ](https://habara-k.hatenadiary.jp/)||
 |hamayanhamayan|[はてなブログ](https://blog.hamayanhamayan.com/)||
+|hasi|[GitHub Pages](https://hasipon.github.io/pages/)||
 |Hec|[はてなブログ](https://osrehun.hatenadiary.jp/)||
 |imulan|[はてなブログ](https://imulan.hatenablog.jp/)|2019年10月以降、新規の記事を確認できず。|
 |iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
@@ -275,10 +280,12 @@ filename: blogs
 |naoya_t|[はてなブログ](https://naoyat.hatenablog.jp/)||
 |natrium|[はてなブログ](https://natrium.hatenablog.com/)|2016年1月以降、新規の記事を確認できず。|
 |ningenMe|[はてなブログ](https://ningenme.hatenablog.com/)||
+|ninja7|[自作ブログ](https://melting.love/blog/)|2020年5月以降、新規の記事を確認できず。|
 |not|[はてなブログ](https://not522.hatenablog.com/)、[はてなグループ](https://topcoder-g-hatena-ne-jp.jag-icpc.org/not522/)||
 |opt|[自作ブログ](https://opt-cp.com/)||
 |packer_jp|[はてなブログ](https://packer-jp.hatenadiary.jp/)||
 |paruki|[はてなブログ](https://par.hateblo.jp/)||
+|phocom|[Qiita](https://qiita.com/phocom)||
 |Pro_ktmr|[Qiita](https://qiita.com/Pro_ktmr)||
 |riano_|[はてなブログ](https://seashellpink-frostywhite.hatenablog.com/)||
 |Rho17|[はてなブログ](https://zrkkkk.hatenablog.com/)||
@@ -296,6 +303,12 @@ filename: blogs
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
 |hakatashi|[はてなブログ](https://hakatashi.hatenadiary.com/)||
+
+##### CSharp
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|fairy_lettuce|[はてなブログ](https://fairy-lettuce.hatenadiary.com/)||
 
 ##### Python
 
