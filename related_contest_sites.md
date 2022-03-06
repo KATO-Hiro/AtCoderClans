@@ -135,6 +135,12 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/codeforces/codeforces_rating_comparison.png" alt="codeforces rating comparison">
   </div>
 
+- [Codeforces Visualizer](https://cfviz.netlify.app/) - 指定したユーザの解答状況について、各種統計情報(正誤・使用言語・問題の種類や難易度など)を視覚的に表示できる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/codeforces/codeforces_visualizer.png" alt="codeforces visualizer">
+  </div>
+
 - [CONTEST MANIA](https://contestmania.web.app/) - 開催されたコンテストの問題を一覧できるWebアプリ。ユーザ名を入力することで、正誤状況を把握できる。
 
   <div align="center">
