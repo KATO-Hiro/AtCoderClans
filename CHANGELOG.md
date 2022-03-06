@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-03-06
+
+- [#3621](https://github.com/KATO-Hiro/AtCoderClans/pull/3621) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、Webアプリ「[Codeforces Visualizer](https://cfviz.netlify.app/)」を追加。
+
 ### 2022-03-05
 
 - [#3618](https://github.com/KATO-Hiro/AtCoderClans/pull/3618) - (破壊的な変更) 更新が停止されたと思われるWebアプリを一時的に「Archived」ページに移動。
