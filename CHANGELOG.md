@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-03-07
+
+- [#3624](https://github.com/KATO-Hiro/AtCoderClans/pull/3624) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[焼きなまし法の適用メモ](https://jetbead.hatenablog.com/entry/20180120/1516387673)」を追加。
+
 ### 2022-03-06
 
 - [#3621](https://github.com/KATO-Hiro/AtCoderClans/pull/3621) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、Webアプリ「[Codeforces Visualizer](https://cfviz.netlify.app/)」を追加。
