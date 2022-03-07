@@ -297,6 +297,7 @@ filename: blogs
 |treeone|[はてなブログ](https://treeone.hatenablog.com/)|2018年11月以降、新規の記事を確認できず。|
 |tsutaj|[はてなブログ](https://tsutaj.hatenablog.com/)||
 |veqcc|[はてなブログ](https://veqcc.hatenablog.jp/)|2019年9月以降、新規の記事を確認できず。|
+|yuma220284|[Qiita](https://qiita.com/yuma220284)|2020年2月以降、新規の記事を確認できず。|
 |zaki_|[はてなブログ](https://zaki-joho.hatenablog.com/)||
 
 ##### Crystal
@@ -310,6 +311,7 @@ filename: blogs
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
 |fairy_lettuce|[はてなブログ](https://fairy-lettuce.hatenadiary.com/)||
+|mban|[はてなブログ](https://m-ban.hatenablog.com/)|2019年4月以降、新規の記事を確認できず。|
 
 ##### Python
 
@@ -320,7 +322,9 @@ filename: blogs
 |ikatakos|[自作ブログ](https://ikatakos.com/pot/programming_algorithm/contest_history/atcoder)||
 |kusano|[はてなブログ](https://kusano-k.hatenablog.com/)、[Qiita](https://qiita.com/kusano_k)|高難易度の問題を中心にC++で実装されている回答もある。|
 |minus9d|[はてなブログ](https://minus9d.hatenablog.com/)|高難易度の問題を中心にC++で実装されている回答もある。|
+|Mitarushi|[Qiita](https://qiita.com/Mitarushi)|高難易度の問題を中心にC++で実装されている回答もある。|
 |nagiss|[はてなブログ](https://nagiss.hateblo.jp/)||
+|shakayami|[はてなブログ](https://shakayami.hatenablog.com/)||
 |sotanishy|[はてなブログ](https://sotanishy.hatenablog.com/)|高難易度の問題を中心にC++で実装されている回答もある。|
 |Tallfall|[はてなブログ](https://tallfall.hatenablog.com/)||
 |titia|[Blogger](https://titianote.blogspot.com/)||
