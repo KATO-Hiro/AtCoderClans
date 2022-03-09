@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-03-09
+
+- [#3632](https://github.com/KATO-Hiro/AtCoderClans/pull/3632) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[TypeScriptでAtCoderをやってみよう!](https://qiita.com/cosocaf/items/255003ecec1d3badfc7b)」を追加。
+
 ### 2022-03-08
 
 - [#3628](https://github.com/KATO-Hiro/AtCoderClans/pull/3628) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[安定感をあげるABCの「早解き」戦術](https://qiita.com/KowerKoint/items/8fc16aecc1cc93689a4e)」を追加。
