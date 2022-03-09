@@ -391,7 +391,7 @@ filename: media
 
 #### TypeScript
 
-- [TypeScriptでAtCoderをやってみよう!](https://qiita.com/cosocaf/items/255003ecec1d3badfc7b) - TypeScriptで問題を解くために、環境構築の方法・標準入出力・テンプレートを紹介した記事。
+- [TypeScriptでAtCoderをやってみよう!](https://qiita.com/cosocaf/items/255003ecec1d3badfc7b) - TypeScriptで問題を解くために、環境構築や標準入出力の方法・テンプレートを紹介した記事。
 
 #### 複数の言語
 
