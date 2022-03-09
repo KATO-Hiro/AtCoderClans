@@ -262,6 +262,7 @@ filename: blogs
 |ctyl|[はてなブログ](https://ctylim.hatenablog.com/)|2018年1月以降、新規の記事を確認できず。|
 |drogskol|[はてなブログ](https://drogskol.hatenablog.com/)||
 |eiya|[はてなブログ](https://eiya5498513.hatenablog.jp/)||
+|ferin_tech|[はてなブログ](https://ferin-tech.hatenablog.com/)|2020年1月以降、新規の記事を確認できず。|
 |fumofumofuni|[はてなブログ](https://fumofumofuni.hatenablog.com/)||
 |furuya1223|[WordPress](https://www.creativ.xyz/)||
 |habara_k|[はてなブログ](https://habara-k.hatenadiary.jp/)||
@@ -271,7 +272,9 @@ filename: blogs
 |imulan|[はてなブログ](https://imulan.hatenablog.jp/)|2019年10月以降、新規の記事を確認できず。|
 |iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
 |kaage|[はてなブログ](https://kaage.hatenablog.com/)||
+|kanpurin|[はてなブログ](https://kanpurin.hatenablog.com/)||
 |knshnb|[自作ブログ](https://blog.knshnb.com/)||
+|KowerKoint|[Qiita](https://qiita.com/KowerKoint)||
 |kozima|[はてなブログ](https://lkozima.hatenablog.com/)||
 |Luzhiled|[はてなブログ](https://luzhiled.hatenablog.com/)||
 |mayoko|[はてなブログ](https://mayokoex.hatenablog.com/)|2019年12月以降、新規の記事を確認できず。|
@@ -293,10 +296,12 @@ filename: blogs
 |seica|[はてなブログ](https://seica-at.hatenablog.com/)||
 |Series_205|[Qiita](https://qiita.com/Series_205)||
 |Shun_PI|[Qiita](https://qiita.com/Shun_PI)||
+|souta_1326|[Qiita](https://qiita.com/souta_1326)||
 |Suibaka|[はてなブログ](https://suikaba.hatenablog.com/)||
 |treeone|[はてなブログ](https://treeone.hatenablog.com/)|2018年11月以降、新規の記事を確認できず。|
 |tsutaj|[はてなブログ](https://tsutaj.hatenablog.com/)||
 |veqcc|[はてなブログ](https://veqcc.hatenablog.jp/)|2019年9月以降、新規の記事を確認できず。|
+|wotsushi|[Qiita](https://qiita.com/wotsushi)|2020年1月以降、新規の記事を確認できず。|
 |yuma220284|[Qiita](https://qiita.com/yuma220284)|2020年2月以降、新規の記事を確認できず。|
 |zaki_|[はてなブログ](https://zaki-joho.hatenablog.com/)||
 
@@ -324,7 +329,9 @@ filename: blogs
 |minus9d|[はてなブログ](https://minus9d.hatenablog.com/)|高難易度の問題を中心にC++で実装されている回答もある。|
 |Mitarushi|[Qiita](https://qiita.com/Mitarushi)|高難易度の問題を中心にC++で実装されている回答もある。|
 |nagiss|[はてなブログ](https://nagiss.hateblo.jp/)||
+|qumazaki|[はてなブログ](https://qumazaki.hatenablog.com/)||
 |shakayami|[はてなブログ](https://shakayami.hatenablog.com/)||
+|simamumu|[はてなブログ](https://simamumu.hatenablog.com/)|2020年2月以降、新規の記事を確認できず。|
 |sotanishy|[はてなブログ](https://sotanishy.hatenablog.com/)|高難易度の問題を中心にC++で実装されている回答もある。|
 |Tallfall|[はてなブログ](https://tallfall.hatenablog.com/)||
 |titia|[Blogger](https://titianote.blogspot.com/)||
