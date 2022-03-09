@@ -35,6 +35,7 @@ filename: media
     - [Ruby](#ruby)
     - [Rust](#rust-1)
     - [Swift](#swift)
+    - [TypeScript](#typescript)
     - [複数の言語](#%E8%A4%87%E6%95%B0%E3%81%AE%E8%A8%80%E8%AA%9E)
   - [コンテストで出題された問題、アルゴリズムの解説](#%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E3%81%A7%E5%87%BA%E9%A1%8C%E3%81%95%E3%82%8C%E3%81%9F%E5%95%8F%E9%A1%8C%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%AE%E8%A7%A3%E8%AA%AC)
   - [コンテストに向けた練習方法など](#%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E7%B7%B4%E7%BF%92%E6%96%B9%E6%B3%95%E3%81%AA%E3%81%A9)
@@ -388,6 +389,10 @@ filename: media
 - [競プロで使えるアルゴリズム関数一覧(Swift)](https://qiita.com/uhooi/items/d4998e90f3f2fed01e68) - 主に整数に関するアルゴリズムをSwiftで実装する方法が紹介されている記事。
 - [競プロで使える便利なエクステンション一覧(Swift)](https://qiita.com/uhooi/items/ff1113c337d7a756d580) - 競技プログラミングにおいて、便利な拡張メソッドやコンピューテッドプロパティを紹介した記事。
 - [Swift版 競プロ用チートシート(初心者向け)](https://qiita.com/TARDIGRADE/items/71b0a774d7f22418fdf5) - よく使うアルゴリズム・データ構造をコピー&ペーストして使えるようにまとめられている記事。
+
+#### TypeScript
+
+- [TypeScriptでAtCoderをやってみよう!](https://qiita.com/cosocaf/items/255003ecec1d3badfc7b) - TypeScriptで問題を解くために、環境構築や標準入出力の方法・テンプレートを紹介した記事。
 
 #### 複数の言語
 
