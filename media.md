@@ -389,6 +389,10 @@ filename: media
 - [競プロで使える便利なエクステンション一覧(Swift)](https://qiita.com/uhooi/items/ff1113c337d7a756d580) - 競技プログラミングにおいて、便利な拡張メソッドやコンピューテッドプロパティを紹介した記事。
 - [Swift版 競プロ用チートシート(初心者向け)](https://qiita.com/TARDIGRADE/items/71b0a774d7f22418fdf5) - よく使うアルゴリズム・データ構造をコピー&ペーストして使えるようにまとめられている記事。
 
+#### TypeScript
+
+- [TypeScriptでAtCoderをやってみよう!](https://qiita.com/cosocaf/items/255003ecec1d3badfc7b) - TypeScriptで問題を解くために、環境構築の方法・標準入出力・テンプレートを紹介した記事。
+
 #### 複数の言語
 
 - [AtCoder Beginner ContestのA問題の最短コードを読む（旧）](https://qiita.com/kotatsugame/items/184bfd63d9b21f214475) - AtCoder Beginner Contest 125までのA問題を対象として、最短コードの書き方がまとめられている。注: 最新のジャッジシステムでは、より短く記述できる可能性もある。
