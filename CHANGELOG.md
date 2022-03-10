@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-03-10
+
+- [#3638](https://github.com/KATO-Hiro/AtCoderClans/pull/3638) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[rinmao](https://atcoder.jp/users/rinmao)さんの[記事](https://qiita.com/rinmao_catlover/items/bbbf6767a6a028562c80)を追加。
+- [#3620](https://github.com/KATO-Hiro/AtCoderClans/pull/3620), [#3636](https://github.com/KATO-Hiro/AtCoderClans/pull/3636) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのアルゴリズム部門に、最高レーティングが2000〜2399に到達したユーザのブログを追加。
+
 ### 2022-03-09
 
 - [#3632](https://github.com/KATO-Hiro/AtCoderClans/pull/3632) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[TypeScriptでAtCoderをやってみよう!](https://qiita.com/cosocaf/items/255003ecec1d3badfc7b)」を追加。
