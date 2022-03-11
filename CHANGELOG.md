@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-03-11
+
+- [#3646](https://github.com/KATO-Hiro/AtCoderClans/pull/3646) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページに、プログラミング言語「[EZBrainfuck](https://github.com/koikotya/EZBrainfuck)」を追加。
+
 ### 2022-03-10
 
 - [#3638](https://github.com/KATO-Hiro/AtCoderClans/pull/3638) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
