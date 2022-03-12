@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-03-12
+
+- [#3651](https://github.com/KATO-Hiro/AtCoderClans/pull/3651) - 「[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)」ページに、C++で実装されたライブラリを追加。
+  - [sgtlaugh/algovault](https://github.com/sgtlaugh/algovault)
+- [#3650](https://github.com/KATO-Hiro/AtCoderClans/pull/3650) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[【競プロ】C#: 競技プログラミング環境構築 2022年版](https://zenn.dev/naminodarie/articles/1ff02beff572d2)」を追加。
+
 ### 2022-03-11
 
 - [#3646](https://github.com/KATO-Hiro/AtCoderClans/pull/3646) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページに、プログラミング言語「[EZBrainfuck](https://github.com/koikotya/EZBrainfuck)」を追加。
