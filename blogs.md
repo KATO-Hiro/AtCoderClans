@@ -347,6 +347,7 @@ filename: blogs
 |hiromi_ayase|[Qiita](https://qiita.com/hiromi_ayase)|2020年4月以降、新規の記事を確認できず。|
 |ks2m|[はてなブログ](https://ks2m.hatenablog.com/)||
 |NASU41|[Qiita](https://qiita.com/NASU41)||
+|sounansya|[Qiita](https://qiita.com/sounansya)||
 
 ##### Python
 
