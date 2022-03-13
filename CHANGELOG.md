@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-03-13
+
+- [#3656](https://github.com/KATO-Hiro/AtCoderClans/pull/3656) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのアルゴリズム部門に、最高レーティングが2000〜2399に到達したユーザのブログを追加。
+
 ### 2022-03-12
 
 - [#3651](https://github.com/KATO-Hiro/AtCoderClans/pull/3651) - 「[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)」ページに、C++で実装されたライブラリを追加。
