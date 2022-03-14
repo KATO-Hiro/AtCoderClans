@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-03-14
+
+- [#3659](https://github.com/KATO-Hiro/AtCoderClans/pull/3659) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2000から2399まで(黄色)に[sounansya](https://atcoder.jp/users/sounansya)さんの[記事](https://qiita.com/sounansya/items/ca21c45496fa0189d51e)を追加。
+
 ### 2022-03-13
 
 - [#3656](https://github.com/KATO-Hiro/AtCoderClans/pull/3656) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのアルゴリズム部門に、最高レーティングが2000〜2399に到達したユーザのブログを追加。
