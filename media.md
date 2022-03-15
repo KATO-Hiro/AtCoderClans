@@ -52,6 +52,7 @@ filename: media
   - [書籍](#%E6%9B%B8%E7%B1%8D)
   - [オンラインブック](#%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%96%E3%83%83%E3%82%AF)
 - [オンラインイベント、公開講座などの資料集](#%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E5%85%AC%E9%96%8B%E8%AC%9B%E5%BA%A7%E3%81%AA%E3%81%A9%E3%81%AE%E8%B3%87%E6%96%99%E9%9B%86)
+- [Twitter](#twitter)
 - [Discord](#discord)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -546,6 +547,10 @@ filename: media
 
 - [アルゴリズム・データ構造を語る会](https://drive.google.com/drive/folders/1htiwJtiSZ_ruYJYRk54cuJlJgea_XGrH) - 有志が主催するアルゴリズムやデータ構造のトークイベント(通称: ア・デの会)のスライド・動画をまとめたリンク集。
 - [data-structures](https://scrapbox.io/data-structures/) - 有志によって、データ構造に関する知見がまとめられている記事集。データ構造の説明と実装に必要な要件が簡潔に記載されている。また、C++やRustを用いた実装例やコンテストでの出題例も掲載されている。
+
+## Twitter
+
+- [AtCoder - Twitterコミュニティ](https://twitter.com/atcoder/status/1502641775609249793) - [AtCoder](https://atcoder.jp/)公式が提供するTwitterコミュニティ。コンテスト終了後における問題の解法の共有や、競技プログラミングを通した友人探しなどに活用できる。
 
 ## Discord
 
