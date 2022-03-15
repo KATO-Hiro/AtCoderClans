@@ -8,7 +8,7 @@ filename: CHANGELOG
 
 ### 2022-03-15
 
-- [#3664](https://github.com/KATO-Hiro/AtCoderClans/pull/3664) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、「[AtCoder - Twitterコミュニティ](https://twitter.com/atcoder/status/1502641775609249793)」を追加。
+- [#3664](https://github.com/KATO-Hiro/AtCoderClans/pull/3664) - 「[For Beginners](https://kato-hiro.github.io/AtCoderClans/for_beginners)」ページと「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、「[AtCoder - Twitterコミュニティ](https://twitter.com/atcoder/status/1502641775609249793)」を追加。
 
 ### 2022-03-14
 
