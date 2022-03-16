@@ -33,6 +33,7 @@ filename: related_contest_sites
 - [日本数学オリンピック](#%E6%97%A5%E6%9C%AC%E6%95%B0%E5%AD%A6%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF)
 - [入試数学コンテスト](#%E5%85%A5%E8%A9%A6%E6%95%B0%E5%AD%A6%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88)
 - [OMC (OnlineMathContest)](#omc-onlinemathcontest)
+- [Sed Puzzle](#sed-puzzle)
 - [Shitforces](#shitforces)
 - [Topcoder](#topcoder)
   - [Webサイトと関連リンク](#web%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A8%E9%96%A2%E9%80%A3%E3%83%AA%E3%83%B3%E3%82%AF)
