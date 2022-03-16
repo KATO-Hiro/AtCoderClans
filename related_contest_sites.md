@@ -305,6 +305,14 @@ filename: related_contest_sites
 
 - [OnlineMathContest 黄色になりました](https://note.com/treewhitetree/n/nb7d577fc24a4) - [Treewhitetree](https://onlinemathcontest.com/users/Treewhitetree)さんが、2021年11月2日に黄Solverに昇格。
 
+### Sed Puzzle
+
+- [Sed Puzzle](https://sed-puzzle.com/) - ボタンを押して文字列を書き換えていくパズルゲーム。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/sed_puzzle/sed_puzzle.png" alt="sed puzzle">
+  </div>
+
 ### Shitforces
 
 - [Shitforces](https://shitforces.herokuapp.com/) - ウィットに富んだ「なぞなぞ」が出題されるコンテスト。[公式アカウント](https://twitter.com/shitforces)で、最新情報を確認することができる。
