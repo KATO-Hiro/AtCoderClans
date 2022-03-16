@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-03-16
+
+- [#3281](https://github.com/KATO-Hiro/AtCoderClans/pull/3281) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、Webアプリ「[Sed Puzzle](https://sed-puzzle.com/)」を追加。
+
 ### 2022-03-15
 
 - [#3664](https://github.com/KATO-Hiro/AtCoderClans/pull/3664) - 「[For Beginners](https://kato-hiro.github.io/AtCoderClans/for_beginners)」ページと「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、「[AtCoder - Twitterコミュニティ](https://twitter.com/atcoder/status/1502641775609249793)」を追加。
