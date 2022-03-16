@@ -115,7 +115,7 @@ filename: libraries
 
 #### ACL Java
 
-- [NASU41/AtCoderLibraryForJava](https://github.com/NASU41/AtCoderLibraryForJava) ![GitHub stars](https://img.shields.io/github/stars/NASU41/AtCoderLibraryForJava?style=plastic) - Java版。また、このレポジトリから派生した[Kotlin版](https://github.com/da-louis/ac-library-kt)もある。
+- [NASU41/AtCoderLibraryForJava](https://github.com/NASU41/AtCoderLibraryForJava) ![GitHub stars](https://img.shields.io/github/stars/NASU41/AtCoderLibraryForJava?style=plastic) - Java版。また、このレポジトリから派生した[Kotlin版](https://github.com/Hiromi-Ayase/ac-library-kt)もある。
 
 #### ACL Julia
 
@@ -123,7 +123,7 @@ filename: libraries
 
 #### ACL Kotlin
 
-- [da-louis/ac-library-kt](https://github.com/da-louis/ac-library-kt) ![GitHub stars](https://img.shields.io/github/stars/da-louis/ac-library-kt?style=plastic) - Kotlin版。[Java版](https://github.com/NASU41/AtCoderLibraryForJava)をベースに作成されている。
+- [Hiromi-Ayase/ac-library-kt](https://github.com/Hiromi-Ayase/ac-library-kt) ![GitHub stars](https://img.shields.io/github/stars/Hiromi-Ayase/ac-library-kt?style=plastic) - Kotlin版。[Java版](https://github.com/NASU41/AtCoderLibraryForJava)をベースに作成されている。
 
 #### ACL Nim
 
