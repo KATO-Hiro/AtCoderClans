@@ -8,7 +8,7 @@ filename: CHANGELOG
 
 ### 2022-03-16
 
-- [#3281](https://github.com/KATO-Hiro/AtCoderClans/pull/3281) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、Webアプリ「[Sed Puzzle](https://sed-puzzle.com/)」を追加。
+- [#3668](https://github.com/KATO-Hiro/AtCoderClans/pull/3668) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、Webアプリ「[Sed Puzzle](https://sed-puzzle.com/)」を追加。
 
 ### 2022-03-15
 
