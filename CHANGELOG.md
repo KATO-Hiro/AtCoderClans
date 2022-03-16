@@ -8,6 +8,8 @@ filename: CHANGELOG
 
 ### 2022-03-16
 
+- [#3671](https://github.com/KATO-Hiro/AtCoderClans/pull/3671) - (破壊的な変更) - 「[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)」ページに掲載している[AtCoder Library (ACL)](https://atcoder.jp/posts/517)のKotlin版のリンク切れを確認。このため、以下のライブラリを新たに掲載。
+  - [Hiromi-Ayase/ac-library-kt](https://github.com/Hiromi-Ayase/ac-library-kt)
 - [#3668](https://github.com/KATO-Hiro/AtCoderClans/pull/3668) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、Webアプリ「[Sed Puzzle](https://sed-puzzle.com/)」を追加。
 
 ### 2022-03-15
