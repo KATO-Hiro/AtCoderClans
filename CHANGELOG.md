@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-03-17
+
+- [#3678](https://github.com/KATO-Hiro/AtCoderClans/pull/3678) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、ニコニコ動画のシリーズを追加。
+  - [マラソン形式プログラミングコンテストに参加する葵ちゃん](https://www.nicovideo.jp/series/220312?ref=pc_watch_description_series)
+- [#3676](https://github.com/KATO-Hiro/AtCoderClans/pull/3676) - 「[For Beginners](https://kato-hiro.github.io/AtCoderClans/for_beginners)」ページと「[Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app)」ページに掲載しているWebアプリ「[AtCoder Problems](https://kenkoooo.com/atcoder/)」を説明文を更新。
+
 ### 2022-03-16
 
 - [#3671](https://github.com/KATO-Hiro/AtCoderClans/pull/3671) - (破壊的な変更) - 「[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)」ページに掲載している[AtCoder Library (ACL)](https://atcoder.jp/posts/517)のKotlin版のリンク切れを確認。このため、以下のライブラリを新たに掲載。
