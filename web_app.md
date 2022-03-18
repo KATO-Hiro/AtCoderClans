@@ -504,7 +504,7 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_contest_live.png" alt="atcoder contest live">
   </div>
 
-- [atgolfer](https://twitter.com/atgolfer1) - [コードゴルフ](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%82%B4%E3%83%AB%E3%83%95)の記録更新を通知する。
+- [atgolfer](https://twitter.com/atgolfer1) - [コードゴルフ](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%82%B4%E3%83%AB%E3%83%95)の記録更新を通知する。別の作者による[yukicoder版](https://twitter.com/yukigolfer)もある。
 
   <div align="center">
     <img loading = "lazy" src="images/web_app/atgolfer.png" alt="atgolfer">
