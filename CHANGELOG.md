@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-03-18
+
+- [#3687](https://github.com/KATO-Hiro/AtCoderClans/pull/3687) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング800から1199まで(緑色)に[meowmeowcats](https://atcoder.jp/users/meowmeowcats)さんの[記事](https://qiita.com/meowmeowcats/items/8472bce149e792456208)を追加。
+- [#3682](https://github.com/KATO-Hiro/AtCoderClans/pull/3682) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、Twitter bot「[yukicoder最短コード更新お知らせ](https://twitter.com/yukigolfer)」を追加。
+
 ### 2022-03-17
 
 - [#3678](https://github.com/KATO-Hiro/AtCoderClans/pull/3678) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、ニコニコ動画のシリーズを追加。
