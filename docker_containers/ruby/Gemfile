@@ -1,4 +1,8 @@
+# frozen_string_literal: true
+
 source 'https://rubygems.org'
 
+# Specify your gem's dependencies in green_day.gemspec
 gem 'green_day'
-gem 'nokogiri', '>= 1.11.0.rc4'
+gem 'nokogiri', '>= 1.13.2'
+gem 'rspec'
