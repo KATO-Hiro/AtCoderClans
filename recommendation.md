@@ -46,7 +46,7 @@ filename: recommendation
 
 #### 定番のサービスを利用する
 
-- [AtCoder Problems](https://kenkoooo.com/atcoder/) - 開催されたコンテストの問題を一覧できるWebアプリです。問題の正誤状況や各種集計結果を確認できるだけでなく、バーチャルコンテストなどの機能もあります。詳しくは、有志による[AtCoder Problemsの使い方](https://ntk-ta01.hatenablog.com/entry/2020/04/15/001405)や[定期的に開催されているバーチャルコンテスト(通称:くじかつ)の紹介記事](https://www.terry-u16.net/entry/kujikatsu-contest)などをご覧ください。
+- [AtCoder Problems](https://kenkoooo.com/atcoder/) - 開催されたコンテストの問題を一覧できるWebアプリです。問題の正誤状況や各種集計結果を確認できるだけでなく、バーチャルコンテストなどの機能もあります。詳しくは、有志による[AtCoder Problemsの使い方](https://ntk-ta01.hatenablog.com/entry/2020/04/15/001405)をご覧ください。注: 記事に掲載されている図やバーチャルコンテストの名称・内容は、最新情報と異なる場合もあリます。
 
   <div align="center">
     <img loading = "lazy" src="images/web_app/atcoder_problems.png" alt="atcoder problems">
