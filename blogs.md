@@ -311,6 +311,7 @@ filename: blogs
 |Shun_PI|[Qiita](https://qiita.com/Shun_PI)||
 |souta_1326|[Qiita](https://qiita.com/souta_1326)||
 |Suibaka|[はてなブログ](https://suikaba.hatenablog.com/)||
+|suisen|[はてなブログ](https://suisen-kyopro.hatenablog.com)||
 |takumi152|[はてなブログ](https://takumi152.hatenablog.jp/)||
 |theory_and_me|[はてなブログ](https://theory-and-me.hatenablog.com/)||
 |treeone|[はてなブログ](https://treeone.hatenablog.com/)|2018年11月以降、新規の記事を確認できず。|
