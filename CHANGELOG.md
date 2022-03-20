@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-03-20
+
+- [#3698](https://github.com/KATO-Hiro/AtCoderClans/pull/3698) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのアルゴリズム部門に、最高レーティングが2000〜2399に到達したユーザのブログを追加。
+
 ### 2022-03-19
 
 - [#3694](https://github.com/KATO-Hiro/AtCoderClans/pull/3694) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、ユーザスクリプト「[Colorful TL](https://greasyfork.org/ja/scripts/441551-colorful-tl)」を追加。
