@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-03-21
+
+- [#3701](https://github.com/KATO-Hiro/AtCoderClans/pull/3701) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、ユーザスクリプト「[paste template](https://greasyfork.org/ja/scripts/441552-paste-template)」を追加。
+
 ### 2022-03-20
 
 - [#3698](https://github.com/KATO-Hiro/AtCoderClans/pull/3698) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのアルゴリズム部門に、最高レーティングが2000〜2399に到達したユーザのブログを追加。
