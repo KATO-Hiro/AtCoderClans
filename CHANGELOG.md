@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-03-22
+
+- [#3705](https://github.com/KATO-Hiro/AtCoderClans/pull/3705), [#3706](https://github.com/KATO-Hiro/AtCoderClans/pull/3706) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの2022年1月分を[月別のアーカイブ](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2022_01.md)に移動。
+
 ### 2022-03-21
 
 - [#3701](https://github.com/KATO-Hiro/AtCoderClans/pull/3701) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、ユーザスクリプト「[paste template](https://greasyfork.org/ja/scripts/441552-paste-template)」を追加。
