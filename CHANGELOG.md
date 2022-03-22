@@ -233,6 +233,10 @@ filename: CHANGELOG
 
 ### Histories
 
+#### 2022
+
+- [January](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2022_01.md)
+
 #### 2021
 
 - [December](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2021_12.md)
