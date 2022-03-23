@@ -17,6 +17,7 @@ filename: milestones
   - [レーティング2000から2399まで(黄色)](#%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B02000%E3%81%8B%E3%82%892399%E3%81%BE%E3%81%A7%E9%BB%84%E8%89%B2)
   - [レーティング2400から2799まで(橙色)](#%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B02400%E3%81%8B%E3%82%892799%E3%81%BE%E3%81%A7%E6%A9%99%E8%89%B2)
   - [レーティング2800以上(赤色、銅王冠、銀王冠、金王冠)](#%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B02800%E4%BB%A5%E4%B8%8A%E8%B5%A4%E8%89%B2%E9%8A%85%E7%8E%8B%E5%86%A0%E9%8A%80%E7%8E%8B%E5%86%A0%E9%87%91%E7%8E%8B%E5%86%A0)
+- [競技プログラマーが休止中の気持ちをまとめた記事](#%E7%AB%B6%E6%8A%80%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC%E3%81%8C%E4%BC%91%E6%AD%A2%E4%B8%AD%E3%81%AE%E6%B0%97%E6%8C%81%E3%81%A1%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%9F%E8%A8%98%E4%BA%8B)
 - [競技プログラマーが現役引退を表明した記事](#%E7%AB%B6%E6%8A%80%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC%E3%81%8C%E7%8F%BE%E5%BD%B9%E5%BC%95%E9%80%80%E3%82%92%E8%A1%A8%E6%98%8E%E3%81%97%E3%81%9F%E8%A8%98%E4%BA%8B)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -189,6 +190,10 @@ filename: milestones
 - [AtCoder赤になりました。 - tatyam’s blog](https://tatyam.hatenablog.com/entry/2020/12/24/030404) - [tatyam](https://atcoder.jp/users/tatyam)さんが、2020年11月28日に達成。
 - [AtCoder赤になりました - kort0nの日記](https://kort0n.hatenablog.com/entry/2021/01/10/065058) - [kort0n](https://atcoder.jp/users/kort0n)さんが、2021年1月9日に達成。
 - [AtCoder 赤色になりました - kotatsugameの日記](https://kotatsugame.hatenablog.com/entry/2021/07/19/074506) - [kotatsugame](https://atcoder.jp/users/kotatsugame)さんが、2021年7月18日に達成。
+
+## 競技プログラマーが休止中の気持ちをまとめた記事
+
+- [競技プログラミングを休んでいる理由 - little star's memory](https://koboshi-kyopro.hatenablog.com/entry/2021/05/24/012158) - [koboshi](https://atcoder.jp/users/koboshi)さんが2021年5月24日に公開。
 
 ## 競技プログラマーが現役引退を表明した記事
 
