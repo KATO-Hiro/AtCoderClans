@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-03-23
+
+- [#3711](https://github.com/KATO-Hiro/AtCoderClans/pull/3711) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[北大日立新概念マラソンでやった高速化色々](http://web.archive.org/web/20200105011004/https://topcoder.g.hatena.ne.jp/tomerun/20171216/)」を追加。
+- [#3709](https://github.com/KATO-Hiro/AtCoderClans/pull/3709) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「競技プログラマーが休止中の気持ちをまとめた記事」を新設。[記事](https://koboshi-kyopro.hatenablog.com/entry/2021/05/24/012158)を追加。
+
 ### 2022-03-22
 
 - [#3705](https://github.com/KATO-Hiro/AtCoderClans/pull/3705), [#3706](https://github.com/KATO-Hiro/AtCoderClans/pull/3706) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの2022年1月分を[月別のアーカイブ](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2022_01.md)に移動。
