@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-03-24
+
+- [#3715](https://github.com/KATO-Hiro/AtCoderClans/pull/3715) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング800から1199まで(緑色)に[june193](https://atcoder.jp/users/june193)さんの[記事](https://qiita.com/june19312/items/2f83b381bf1b6b5b2ed8)を追加。
+
 ### 2022-03-23
 
 - [#3711](https://github.com/KATO-Hiro/AtCoderClans/pull/3711) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[北大日立新概念マラソンでやった高速化色々](http://web.archive.org/web/20200105011004/https://topcoder.g.hatena.ne.jp/tomerun/20171216/)」を追加。
