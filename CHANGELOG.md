@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-03-25
+
+- [#3719](https://github.com/KATO-Hiro/AtCoderClans/pull/3719) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[AtCoder問題カテゴリー分類](https://qiita.com/c-yan/items/56a051d826b873b4f78d)」を追加。
+
 ### 2022-03-24
 
 - [#3715](https://github.com/KATO-Hiro/AtCoderClans/pull/3715) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
