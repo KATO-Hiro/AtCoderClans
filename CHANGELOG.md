@@ -6,6 +6,15 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-03-27
+
+- [#3727](https://github.com/KATO-Hiro/AtCoderClans/pull/3727) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのヒューリスティック部門に、最高レーティングが2000以上に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+
+### 2022-03-26
+
+- [#3725](https://github.com/KATO-Hiro/AtCoderClans/pull/3725) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2000から2399まで(黄色)に[myau](https://atcoder.jp/users/myau)さんの[記事](https://myau-atcoder.hatenablog.com/entry/2022/03/25/235830)を追加。
+
 ### 2022-03-25
 
 - [#3719](https://github.com/KATO-Hiro/AtCoderClans/pull/3719) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[AtCoder問題カテゴリー分類](https://qiita.com/c-yan/items/56a051d826b873b4f78d)」を追加。
