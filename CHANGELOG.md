@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-03-28
+
+- [#3731](https://github.com/KATO-Hiro/AtCoderClans/pull/3731) - (破壊的な変更) リンク切れと思われる色変記事を一時的に「Archived」ページに移動。
+
 ### 2022-03-27
 
 - [#3727](https://github.com/KATO-Hiro/AtCoderClans/pull/3727) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのヒューリスティック部門に、最高レーティングが2000以上に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
