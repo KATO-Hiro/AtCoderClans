@@ -98,7 +98,6 @@ filename: milestones
 - [AtCoder入水 - moharanの競プロ](https://moharan.hatenablog.com/entry/2021/09/16/174124) - [moharan](https://atcoder.jp/users/moharan)さんが、2021年9月11日に達成。
 - [AtCoderで水色になったのでここまでの記録をまとめる](https://zenn.dev/asa/articles/08e9bb8e65e758) - [asasan](https://atcoder.jp/users/asasan)さんが、2021年10月5日に公開。
 - [【色変】AtCoder水色になりました！ - Den3-芝浦工業大学電子計算機研究会](http://den3.net/activity_diary/2021/10/31/5072/) - [Kyo_s_s](https://atcoder.jp/users/Kyo_s_s)さんが、2021年10月30日に達成。
-- [AtCoderで水色になりました！ - bit_kyoproの日記](https://bit-kyopro.hatenablog.com/entry/2021/11/10/202718) - [bit_zentansaku](https://atcoder.jp/users/bit_zentansaku)さんが、2021年11月7日に達成。
 - [社会人1年目がAtCoderで水色になるまでにやったこと](https://qiita.com/N1flheimr/items/fb3230a8a41077f771b9) - [N1flheimr](https://atcoder.jp/users/N1flheimr)さんが、2021年11月21日に達成。
 - [AtCoderで水色に到達するまでの感想 - FFRIエンジニアブログ](https://engineers.ffri.jp/entry/2021/11/25/145404) - [tatsuya0619](https://atcoder.jp/users/tatsuya0619)さんが、2021年11月25日に公開。
 - [Atcoderで水色になるまでにやったこと](https://note.com/ryosuke_nu/n/n50c163723836) - [ryosuke_ao](https://atcoder.jp/users/ryosuke_ao)さんが、2021年12月2日に公開。
