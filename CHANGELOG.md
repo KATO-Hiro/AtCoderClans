@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-03-29
+
+- [#3734](https://github.com/KATO-Hiro/AtCoderClans/pull/3734) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに掲載している記事「[AtCoderの問題を分類しました](https://qiita.com/KoyanagiHitoshi/items/32dc42d8c5ee75339e54)」の説明文を更新。また、解答例へのリンクを追加。
+  - [KoyanagiHitoshi/AtCoder-Python-Introduction](https://github.com/KoyanagiHitoshi/AtCoder-Python-Introduction)
+
 ### 2022-03-28
 
 - [#3731](https://github.com/KATO-Hiro/AtCoderClans/pull/3731) - (破壊的な変更) リンク切れと思われる色変記事を一時的に「Archived」ページに移動。
