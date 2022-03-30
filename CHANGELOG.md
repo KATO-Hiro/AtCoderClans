@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-03-30
+
+- [#3737](https://github.com/KATO-Hiro/AtCoderClans/pull/3737) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[pythonで競技プログラミング（AtCoder）の問題を解くとき、注意すべき落とし穴](https://qiita.com/satoyuyapyaa/items/9f047fb2babcd028b002)」を追加。
+
 ### 2022-03-29
 
 - [#3734](https://github.com/KATO-Hiro/AtCoderClans/pull/3734) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに掲載している記事「[AtCoderの問題を分類しました](https://qiita.com/KoyanagiHitoshi/items/32dc42d8c5ee75339e54)」の説明文を更新。また、解答例へのリンクを追加。
