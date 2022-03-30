@@ -367,6 +367,7 @@ filename: media
 - [Python3で競技プログラミングする時に知っておきたいtips（入力編）](https://qiita.com/kyuna/items/8ee8916c2f4e36321a1c) - Python利用者に向けて、初心者がつまづきがちなデータの入力方法を詳細に解説した記事。
 - [PythonでAtCoderをするあれこれ](https://qiita.com/c-yan/items/dbf2838cdd89864ef5ac) - 入出力の方法に加えて、処理を高速化するための工夫が紹介されている記事。
 - [Pythonで各要素にO(1)でランダムアクセスできるdeque(両端キュー)を書いてみた](https://prd-xxx.hateblo.jp/entry/2020/02/07/114818) - `deque`モジュールの基本的な機能に加えて、ランダムアクセス(indexを指定したアクセス)による参照・変更がO(1)で実行できる方法を紹介した記事。
+- [pythonで競技プログラミング（AtCoder）の問題を解くとき、注意すべき落とし穴](https://qiita.com/satoyuyapyaa/items/9f047fb2babcd028b002) - Pythonでコンテストに参加するときに、実装で注意すべき点をまとめた記事。
 - [Pythonで競技プログラミング -ライブラリ編-](https://qiita.com/Kentaro_okumura/items/5b95b767a2e691cd5482) - 筆者がPythonの標準ライブラリでよく利用する機能をまとめた記事。利用する問題例のリンクも掲載されている。注: 記事の最終更新が2019年4月とやや時間が経過しているため、コンテスト前にジャッジシステムで動作確認を行うことを推奨。
 - [Pythonで競プロするのに必要な機能をまとめてみた〜itertools〜](https://qiita.com/DaikiSuyama/items/11f63a94d63fa72e8bf4) - Pythonのitertoolsライブラリのうち、競技プログラミングでよく使う関数をドキュメント形式でまとめた記事。関数の使い方だけでなく、関連した例題も掲載されている。
 - [Pythonで競プロやるときによく書くコードをまとめてみた](https://qiita.com/y-tsutsu/items/aa7e8e809d6ac167d6a1) - コンテストにPythonで参加する人に向けて、入出力やデータ操作、リスト内包表記などについて解説されている。
