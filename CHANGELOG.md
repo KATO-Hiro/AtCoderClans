@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-03-31
+
+- [#3745](https://github.com/KATO-Hiro/AtCoderClans/pull/3745) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、以下の動画を追加。
+  - [必須教養!?プログラミング“金メダリスト”に学ぶ「アルゴリズム」【橋本幸治の理系通信】（2022年3月30日）](https://www.youtube.com/watch?v=TqmcWg1aeZc)
+
 ### 2022-03-30
 
 - [#3737](https://github.com/KATO-Hiro/AtCoderClans/pull/3737) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[pythonで競技プログラミング（AtCoder）の問題を解くとき、注意すべき落とし穴](https://qiita.com/satoyuyapyaa/items/9f047fb2babcd028b002)」を追加。
