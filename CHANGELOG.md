@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-04-01
+
+- [#3750](https://github.com/KATO-Hiro/AtCoderClans/pull/3750), [#3752](https://github.com/KATO-Hiro/AtCoderClans/pull/3752) - (破壊的な変更) リンク切れと思われる記事を削除。また、提供終了が告知されたサービスを「Archived」ページに移動。
+
 ### 2022-03-31
 
 - [#3745](https://github.com/KATO-Hiro/AtCoderClans/pull/3745) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、以下の動画を追加。
