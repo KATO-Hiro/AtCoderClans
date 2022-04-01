@@ -8,7 +8,7 @@ filename: CHANGELOG
 
 ### 2022-04-01
 
-- [#3750](https://github.com/KATO-Hiro/AtCoderClans/pull/3750), [#3752](https://github.com/KATO-Hiro/AtCoderClans/pull/3752) - (破壊的な変更) リンク切れと思われる記事を削除。また、提供終了が告知されたサービスを「Archived」ページに移動。
+- [#3750](https://github.com/KATO-Hiro/AtCoderClans/pull/3750), [#3752](https://github.com/KATO-Hiro/AtCoderClans/pull/3752) - (破壊的な変更) リンク切れと思われる記事を削除。また、「AtCoder Stalker」のサービス終了を確認したため、「Archived」ページに移動。
 
 ### 2022-03-31
 
