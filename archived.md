@@ -259,6 +259,13 @@ filename: archived
     <img loading = "lazy" src="images/web_app/atcoder_rating_simulator.png" alt="atcoder rating simulator">
   </div>
 
+- [AtCoder Stalker](https://line.me/R/ti/p/@381fkvdg) - ライバルが精進したときLINEにプッシュ通知される。
+  - 理由: 開発者により、サービス終了が告知されたため([出典](https://twitter.com/zaurus_yusya/status/1509534226332684288))。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_stalker.jpg" alt="atcoder stalker">
+  </div>
+
 <!-- markdown-link-check-disable -->
 
 - [AtCoder Tab 4matter](https://greasyfork.org/ja/scripts/425327-atcoder-tab-4matter) - 「提出結果」ページで、ソースコードのタブ幅を4に揃える。
