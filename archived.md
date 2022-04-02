@@ -80,8 +80,9 @@ filename: archived
 
 ## 記載されている情報が古くなったと思われる記事
 
-記載されている情報が古くなったと思われる記事を掲載しています。
+記載されている情報が古くなったと思われる記事・ツイートなどを掲載しています。
 
+- [AtCoderにJOIの過去問の移植作業を行う有志を募集するツイート](https://twitter.com/Pro_ktmr/status/1485612598842519552) - AtCoderでJOIの過去問を解くことができるように、2022年度以降の移植作業を引き継ぐ方を募集しているツイート。連絡先: [@Pro_ktmr](https://twitter.com/Pro_ktmr)さん。
 - [Rustで競技プログラミングの入力をスッキリ記述するマクロ](https://qiita.com/tanakh/items/0ba42c7ca36cd29d0ac8) - Rustで入力データを扱うコードを簡潔に書くためのinput!マクロが紹介されている記事。
   - 代替手段: [AtCoder言語アップデートでRustの入出力が楽になっていた](https://qiita.com/koji-cw/items/0cce3b075faffe5e50ed)や[言語アップデートで追加されたライブラリ一覧](https://github.com/rust-lang-ja/atcoder-rust-base/blob/ja-all-enabled/Cargo.toml)を読む。
 
