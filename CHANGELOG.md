@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-04-02
+
+- [#3755](https://github.com/KATO-Hiro/AtCoderClans/pull/3755) - (破壊的な変更) 引き継ぎを行う有志の募集ツイートについて、期限を迎えたと思われるため「Archived」ページに移動。
+
 ### 2022-04-01
 
 - [#3750](https://github.com/KATO-Hiro/AtCoderClans/pull/3750), [#3752](https://github.com/KATO-Hiro/AtCoderClans/pull/3752) - (破壊的な変更) リンク切れと思われる記事を削除。また、「AtCoder Stalker」のサービス終了を確認したため、「Archived」ページに移動。
