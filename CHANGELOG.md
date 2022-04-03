@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-04-03
+
+- [#3761](https://github.com/KATO-Hiro/AtCoderClans/pull/3761) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1200から1599まで(水色)に[okaponta](https://atcoder.jp/users/okaponta)さんの[記事](https://qiita.com/okaponta_/items/95edd5dd312087da28d8)を追加。
+
 ### 2022-04-02
 
 - [#3755](https://github.com/KATO-Hiro/AtCoderClans/pull/3755) - (破壊的な変更) 引き継ぎを行う有志の募集ツイートについて、期限を迎えたと思われるため「Archived」ページに移動。
