@@ -104,6 +104,7 @@ filename: milestones
 - [AtCoderで水色コーダーになりました【競技プログラミング】](https://qreat.tech/1886/) - [sdmkun](https://atcoder.jp/users/sdmkun)さんが、2021年12月5日に達成。
 - [【AtCoder】水色になったのでこれまでを振り返ってみる - RoastedToastのブログ](https://roastedtoast.hatenablog.com/entry/2022/01/16/211741) - [Roastedtoast](https://atcoder.jp/users/Roastedtoast)さんが、2022年1月15日に達成。
 - [ARC133感想(本サイト運営者による注:水色コーダー達成に関する内容を含む) - 無能が競プロやってみる](https://iiko-11.hatenablog.com/entry/2022/01/23/001327) - [iiko11](https://atcoder.jp/users/iiko11)さんが、2022年1月22日に達成。
+- [【色変記事】転職を機に一度やめた競プロを復帰して水色になれました](https://qiita.com/okaponta_/items/95edd5dd312087da28d8) - [okaponta](https://atcoder.jp/users/okaponta)さんが、2022年4月2日に達成。
 
 ### レーティング1600から1999まで(青色)
 
