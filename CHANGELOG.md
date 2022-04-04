@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-04-04
+
+- [#3765](https://github.com/KATO-Hiro/AtCoderClans/pull/3765) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1200から1599まで(水色)に[Yutchy591](https://atcoder.jp/users/Yutchy591)さんの[記事](https://qiita.com/vi_24E/items/2baab6c152d74a7321c1)を追加。
+
 ### 2022-04-03
 
 - [#3761](https://github.com/KATO-Hiro/AtCoderClans/pull/3761) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
