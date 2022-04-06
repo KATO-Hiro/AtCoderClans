@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-04-06
+
+- [#3773](https://github.com/KATO-Hiro/AtCoderClans/pull/3773) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、スライド資料「[高難易度木問題を解くテクニック集](https://speakerdeck.com/tatyam_prime/gao-nan-yi-du-mu-wen-ti-wojie-kutekunitukuji)」を追加。
+
 ### 2022-04-05
 
 - [#3769](https://github.com/KATO-Hiro/AtCoderClans/pull/3769) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[しっかり学ぶ数理最適化 ヒューリスティック編](https://qiita.com/hari64/items/e66fd2a281ab76a58af3)」を追加。
