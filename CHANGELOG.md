@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-04-07
+
+- [#3777](https://github.com/KATO-Hiro/AtCoderClans/pull/3777), [#3778](https://github.com/KATO-Hiro/AtCoderClans/pull/3778) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの2022年2月分を[月別のアーカイブ](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2022_02.md)に移動。
+
 ### 2022-04-06
 
 - [#3773](https://github.com/KATO-Hiro/AtCoderClans/pull/3773) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、スライド資料「[高難易度木問題を解くテクニック集](https://speakerdeck.com/tatyam_prime/gao-nan-yi-du-mu-wen-ti-wojie-kutekunitukuji)」を追加。
