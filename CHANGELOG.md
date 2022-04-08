@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-04-08
+
+- [#3782](https://github.com/KATO-Hiro/AtCoderClans/pull/3782) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、動画「[アルゴリズムの素晴らしさが2分でわかる動画](https://twitter.com/e869120/status/1512391454936936448)」を追加。
+
 ### 2022-04-07
 
 - [#3777](https://github.com/KATO-Hiro/AtCoderClans/pull/3777), [#3778](https://github.com/KATO-Hiro/AtCoderClans/pull/3778) - (破壊的な変更) 「[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG)」ページの2022年2月分を[月別のアーカイブ](https://github.com/KATO-Hiro/AtCoderClans/blob/master/monthly_changelog/2022_02.md)に移動。
