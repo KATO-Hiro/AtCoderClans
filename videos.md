@@ -78,6 +78,7 @@ filename: videos
 - [AtCoder 日本人 レーティング TOP10 2016-2019](https://www.youtube.com/watch?v=1oct64q2V5g) - アクティブユーザを対象とした日本人上位10人のレーティングの変遷を紹介している。[全世界版](https://www.youtube.com/watch?v=CsBASF9skxE)もある。
 - [AtCoderの始め方。競プロに興味はあるけどやっていないという方へ。](https://www.youtube.com/watch?v=vxBOC08XZ44&feature=youtu.be) - 教育系エンジニアによる[AtCoder](https://atcoder.jp/)の紹介動画。競技プログラミングの解説に加えて、便利なサイト・ツールが紹介されている。
 - [AtCoder 布教 PV](https://www.youtube.com/watch?v=-z3bTeA_SEY&feature=youtu.be) - 有志による[AtCoder](https://atcoder.jp/)のプロモーションビデオ。特に、競技プログラミングを始めようと思っている人や周囲に布教したい人におすすめ。
+- [アルゴリズムの素晴らしさが2分でわかる動画](https://twitter.com/e869120/status/1512391454936936448) - 迷路を題材に、アルゴリズム(計算手順)の素晴らしさや学ぶ意義を紹介した動画。
 - [「だから慶応は学歴自慢じゃないっつーの」、4部合唱にして歌ってみました！](https://twitter.com/TumoiYorozu/status/1448666012639895562) - [chokudai](https://twitter.com/chokudai)さんの有名ツイートを4部合唱で歌っている。
   - [9つの変奏曲Ver](https://www.youtube.com/watch?v=7tTufTl2Ch4)
   - [シンセロック調Ver](https://www.youtube.com/watch?v=8eBmV6R-kaw)
