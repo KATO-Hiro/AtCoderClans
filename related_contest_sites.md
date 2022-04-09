@@ -210,6 +210,14 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/hoj/hoj.png" alt="hoj">
   </div>
 
+### IOI (International Olympiad in Informatics)
+
+- [IOI Syllabus クイズ①](https://quiz-maker.site/quiz/play/x4Qzf820220330074405) - [IOI Syllabus 2020](https://ioinformatics.org/files/ioi-syllabus-2020.pdf)の出題範囲に関するクイズを解くことができる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/ioi/ioi_syllabus_quiz1.png" alt="ioi syllabus quiz1">
+  </div>
+
 ### JOI (Japanese Olympiad in Informatics)と関連サービス
 
 #### JOI
