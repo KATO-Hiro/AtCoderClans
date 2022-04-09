@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-04-09
+
+- [#3785](https://github.com/KATO-Hiro/AtCoderClans/pull/3785) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、Webサイト「[IOI Syllabus クイズ①](https://quiz-maker.site/quiz/play/x4Qzf820220330074405)」を追加。
+
 ### 2022-04-08
 
 - [#3782](https://github.com/KATO-Hiro/AtCoderClans/pull/3782) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、動画「[アルゴリズムの素晴らしさが2分でわかる動画](https://twitter.com/e869120/status/1512391454936936448)」を追加。
