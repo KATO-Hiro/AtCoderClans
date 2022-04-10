@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-04-10
+
+- [#3790](https://github.com/KATO-Hiro/AtCoderClans/pull/3790) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、スライド資料「[1日で基本が身につく! Python超入門](https://speakerdeck.com/yuichi110/1ri-deji-ben-gashen-nituku-pythonchao-ru-men)」を追加。
+
 ### 2022-04-09
 
 - [#3785](https://github.com/KATO-Hiro/AtCoderClans/pull/3785) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、Webサイト「[IOI Syllabus クイズ①](https://quiz-maker.site/quiz/play/x4Qzf820220330074405)」を追加。
