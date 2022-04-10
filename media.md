@@ -161,6 +161,7 @@ filename: media
 
 #### Python
 
+- [1日で基本が身につく! Python超入門](https://speakerdeck.com/yuichi110/1ri-deji-ben-gashen-nituku-pythonchao-ru-men) - Pythonの基礎文法が分かりやすく解説されているスライド資料。さらに、レベル別のプログラミング上達方法なども紹介されている。
 - [Python-izm](https://www.python-izm.com/) - Pythonの習得を目的としたWebサイト。入門編、基礎編、応用編などに分かれている。
 - [Python入門（Python版 APG4b）](https://qiita.com/saba/items/b9418d7b54cce4b106e4) - プログラミングの入門教材「[C++入門 AtCoder Programming Guide for beginners (APG4b)](https://atcoder.jp/contests/APG4b)」のPython版。
 
