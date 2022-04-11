@@ -247,6 +247,7 @@ filename: related_contest_sites
 - [JOI春合宿2020 参加記](https://drive.google.com/file/d/1iW2sTAz9VyhzWbO0ByVHiha0jG0aIJ7H/view) - [E869120](https://atcoder.jp/users/E869120)さんによる2020年日本情報オリンピック春季トレーニング合宿の参加記。情報オリンピック日本代表の選考までの練習過程と選考会での立ち回りについて詳細に書かれている。
 - [IOI2020 参加記](https://drive.google.com/file/d/1UOFW6Vtxz5S5hWBK78swQg368F6L15kp/view) - [E869120](https://atcoder.jp/users/E869120)さんによる第32回国際情報オリンピック(IOI2020)の参加記。「金メダルを確実に取る」という観点から、本番での立ち回りが詳細に解説されている。また、筆者が5年間の競技生活を通して得た経験は、後進に勇気と希望を与えてくれる内容だと思われる。
 - [国際情報オリンピック (IOI 2020) 参加記 ~ 情報オリンピックへの感謝の気持ちを込めて ~](https://drive.google.com/file/d/1NGhlPCmRadq8j2oNeFmH4LfPiooI7H_1/view) - [square1001](https://atcoder.jp/users/square1001)さんによる第32回国際情報オリンピック(IOI2020)の参加記。部分点を確実に取りながら、満点を目指す戦略が詳しく解説されている。また、筆者が大会に参加するまでの過程や競技プログラミングを通して得られた経験には、後進にとって有益な情報が多く含まれていると思われる。
+- [JOI夏季セミナーに代わる輪読会の開催について](https://kaage.hatenablog.com/entry/2022/03/25/210000) - JOI夏季セミナー(ハイレベルコース)の開催見送りに伴い、代替イベントとなる輪読会の参加者を募集している記事。
 
 #### JOIの関連サービス
 
