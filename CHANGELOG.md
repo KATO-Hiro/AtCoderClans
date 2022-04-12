@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-04-12
+
+- [#3800](https://github.com/KATO-Hiro/AtCoderClans/pull/3800) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページで掲載している「[Jikka](https://github.com/kmyk-jikka/Jikka)」のOrganization移行に伴い、最新のURLに更新。
+
 ### 2022-04-11
 
 - [#3794](https://github.com/KATO-Hiro/AtCoderClans/pull/3794) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、記事「[JOI夏季セミナーに代わる輪読会の開催について](https://kaage.hatenablog.com/entry/2022/03/25/210000)」を追加。
