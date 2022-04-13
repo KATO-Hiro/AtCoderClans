@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-04-13
+
+- [#3803](https://github.com/KATO-Hiro/AtCoderClans/pull/3803) - [#3800](https://github.com/KATO-Hiro/AtCoderClans/pull/3800)に関連して、「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに掲載している「[Kyopro Encyclopedia of Algorithms](https://dic.kimiyuki.net/)」のURLも修正。
+
 ### 2022-04-12
 
 - [#3800](https://github.com/KATO-Hiro/AtCoderClans/pull/3800) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページで掲載している「[Jikka](https://github.com/kmyk-jikka/Jikka)」のOrganization移行に伴い、最新のURLに更新。
