@@ -137,6 +137,12 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/codeforces/codeforces_rating_comparison.png" alt="codeforces rating comparison">
   </div>
 
+- [Codeforces Stats](https://github.com/SiriusKoan/codeforces-stats) - ユーザの統計情報をREADMEなどに表示することができる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/codeforces/codeforces_stats.png" alt="codeforces stats">
+  </div>
+
 - [Codeforces Visualizer](https://cfviz.netlify.app/) - 指定したユーザの解答状況について、各種統計情報(正誤・使用言語・問題の種類や難易度など)を視覚的に表示できる。
 
   <div align="center">
