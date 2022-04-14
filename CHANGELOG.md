@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-04-14
+
+- [#3814](https://github.com/KATO-Hiro/AtCoderClans/pull/3814) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、Web API「[Codeforces Stats](https://github.com/SiriusKoan/codeforces-stats)」を追加。
+
 ### 2022-04-13
 
 - [#3803](https://github.com/KATO-Hiro/AtCoderClans/pull/3803) - [#3800](https://github.com/KATO-Hiro/AtCoderClans/pull/3800)に関連して、「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに掲載している「[Kyopro Encyclopedia of Algorithms](https://dic.kimiyuki.net/)」のURLも修正。
