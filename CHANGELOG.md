@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-04-15
+
+- [#3797](https://github.com/KATO-Hiro/AtCoderClans/pull/3797) - [#1106](https://github.com/KATO-Hiro/AtCoderClans/pull/1106)に関連して、Rubyの実行環境における依存ライブラリを更新。
+
 ### 2022-04-14
 
 - [#3814](https://github.com/KATO-Hiro/AtCoderClans/pull/3814) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、Web API「[Codeforces Stats](https://github.com/SiriusKoan/codeforces-stats)」を追加。
