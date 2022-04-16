@@ -6,6 +6,13 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-04-16
+
+- [#3820](https://github.com/KATO-Hiro/AtCoderClans/pull/3820) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、書籍「[パズルで鍛えるアルゴリズム力](https://www.amazon.co.jp/%E3%83%91%E3%82%BA%E3%83%AB%E3%81%A7%E9%8D%9B%E3%81%88%E3%82%8B%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E5%8A%9B-%E5%A4%A7%E6%A7%BB-%E5%85%BC%E8%B3%87/dp/4297126796)」を追加。
+  - [著者による紹介記事](https://drken1215.hatenablog.com/entry/2022/04/13/224634)
+  - [コード・解答・正誤表](https://github.com/drken1215/book_puzzle_algorithm)
+- [#3819](https://github.com/KATO-Hiro/AtCoderClans/pull/3819) - [GitHub Action - Markdown link check](https://github.com/gaurav-nelson/github-action-markdown-link-check)の設定を暫定的に変更。
+
 ### 2022-04-15
 
 - [#3797](https://github.com/KATO-Hiro/AtCoderClans/pull/3797) - [#1106](https://github.com/KATO-Hiro/AtCoderClans/pull/1106)に関連して、Rubyの実行環境における依存ライブラリを更新。
