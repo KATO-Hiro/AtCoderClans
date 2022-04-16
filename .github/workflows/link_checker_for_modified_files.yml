@@ -6,8 +6,16 @@ jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-    - uses: gaurav-nelson/github-action-markdown-link-check@1.0.13
+
+    - name: Check out Git repository
+      uses: actions/checkout@v3
+
+    # Workaround for `fatal: unsafe repository (REPO is owned by someone else)` issue
+    # https://github.com/actions/checkout/issues/760
+    # https://github.com/actions/checkout/issues/766
+    # https://github.com/gaurav-nelson/github-action-markdown-link-check/issues/132
+    - name: Run markdown-link-check
+      uses: KATO-Hiro/github-action-markdown-link-check@master
       with:
         use-quiet-mode: 'yes'
         use-verbose-mode: 'yes'
