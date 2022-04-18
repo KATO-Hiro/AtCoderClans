@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-04-18
+
+- [#3829](https://github.com/KATO-Hiro/AtCoderClans/pull/3829) - 「[Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app)」ページに、Webアプリ「[競技プログラミング用語の略さないやつ](https://quiz-maker.site/quiz/play/9ftelE20220328151757)」を追加。
+
 ### 2022-04-17
 
 - [#3825](https://github.com/KATO-Hiro/AtCoderClans/pull/3825) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、Webアプリ「[LeetCode Stats Card](https://github.com/JacobLinCool/LeetCode-Stats-Card)」を追加。
