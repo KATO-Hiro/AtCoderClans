@@ -415,6 +415,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/tarareba.png" alt="tarareba">
   </div>
 
+- [競技プログラミング用語の略さないやつ](https://quiz-maker.site/quiz/play/9ftelE20220328151757) - アルゴリズムに関する略語から正式名称を答えるクイズ(全10問)。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/answer_from_algorithm_abbreviation_to_full_name.png" alt="answer from algorithm abbreviation to full name">
+  </div>
+
 - [今日のコンテスト結果占い](https://shindanmaker.com/1019867) - コンテストの結果を事前に占う。
 
   <div align="center">
