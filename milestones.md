@@ -74,6 +74,7 @@ filename: milestones
 - [【色変記事】初心者がC++で緑色になるまで](https://qiita.com/vi_24E/items/2180248fb137bdb67c68) - [Yutchy591](https://atcoder.jp/users/Yutchy591)さんが、2022年1月22日に達成。
 - [【色変記事】AtCoder Beginner Contest 242で入緑しました。](https://qiita.com/meowmeowcats/items/8472bce149e792456208) - [meowmeowcats](https://atcoder.jp/users/meowmeowcats)さんが、2022年3月5日に達成。
 - [プログラミング初心者の40代おじさんが1年かけてAtCoder緑になった話（色変記事）](https://qiita.com/june19312/items/2f83b381bf1b6b5b2ed8) - [june193](https://atcoder.jp/users/june193)さんが、2022年3月20日に達成。
+- [ゼロから始めて楽しく続ける競技プログラミング　〜３３歳、入緑しました〜 - あいねむの教プロ雑記](https://ainem.hatenablog.com/entry/2022/04/14/125646) - [ainem](https://atcoder.jp/users/ainem)さんが、2022年3月20日に達成。
 
 ### レーティング1200から1599まで(水色)
 
