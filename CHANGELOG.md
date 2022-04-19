@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-04-19
+
+- [#3835](https://github.com/KATO-Hiro/AtCoderClans/pull/3835) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング800から1199まで(緑色)に[ainem](https://atcoder.jp/users/ainem)さんの[記事](https://ainem.hatenablog.com/entry/2022/04/14/125646)を追加。
+
 ### 2022-04-18
 
 - [#3829](https://github.com/KATO-Hiro/AtCoderClans/pull/3829) - 「[Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app)」ページに、Webアプリ「[競技プログラミング用語の略さないやつ](https://quiz-maker.site/quiz/play/9ftelE20220328151757)」を追加。
