@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-04-20
+
+- [#3840](https://github.com/KATO-Hiro/AtCoderClans/pull/3840) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに掲載している書籍「[パズルで鍛えるアルゴリズム力](https://www.amazon.co.jp/%E3%83%91%E3%82%BA%E3%83%AB%E3%81%A7%E9%8D%9B%E3%81%88%E3%82%8B%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E5%8A%9B-%E5%A4%A7%E6%A7%BB-%E5%85%BC%E8%B3%87/dp/4297126796)」の販売開始に合わせて、説明文を更新。
+- [#3839](https://github.com/KATO-Hiro/AtCoderClans/pull/3839) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング400から799まで(茶色)に[fujikawahiroaki](https://atcoder.jp/users/fujikawahiroaki)さんの[記事](https://fujikawa.hatenablog.com/entry/2022/04/18/203545)を追加。
+
 ### 2022-04-19
 
 - [#3835](https://github.com/KATO-Hiro/AtCoderClans/pull/3835) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
