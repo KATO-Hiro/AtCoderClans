@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-04-21
+
+- [#3843](https://github.com/KATO-Hiro/AtCoderClans/pull/3843) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[競プロで便利なC++20新機能](https://qiita.com/Chippppp/items/620d2e5229f5c7e93f0c)」を追加。
+
 ### 2022-04-20
 
 - [#3840](https://github.com/KATO-Hiro/AtCoderClans/pull/3840) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに掲載している書籍「[パズルで鍛えるアルゴリズム力](https://www.amazon.co.jp/%E3%83%91%E3%82%BA%E3%83%AB%E3%81%A7%E9%8D%9B%E3%81%88%E3%82%8B%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E5%8A%9B-%E5%A4%A7%E6%A7%BB-%E5%85%BC%E8%B3%87/dp/4297126796)」の販売開始に合わせて、説明文を更新。
