@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-04-22
+
+- [#3847](https://github.com/KATO-Hiro/AtCoderClans/pull/3847) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[業務時間をKaggle＆AtCoder活動に。NABLASのKaggle&AtCoder支援制度とは？](https://www.nablas.com/post/%E6%A5%AD%E5%8B%99%E6%99%82%E9%96%93%E3%82%92kaggle%EF%BC%86atcoder%E6%B4%BB%E5%8B%95%E3%81%AB%E3%80%82nablas%E3%81%AEkaggle-atcoder%E6%94%AF%E6%8F%B4%E5%88%B6%E5%BA%A6%E3%81%A8%E3%81%AF%EF%BC%9F-1)」を追加。
+
 ### 2022-04-21
 
 - [#3843](https://github.com/KATO-Hiro/AtCoderClans/pull/3843) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[競プロで便利なC++20新機能](https://qiita.com/Chippppp/items/620d2e5229f5c7e93f0c)」を追加。
