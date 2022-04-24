@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-04-24
+
+- [#3859](https://github.com/KATO-Hiro/AtCoderClans/pull/3859) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[Docker+VSCodeでAtCoder用の開発環境を簡単に作る(Python編)](https://qiita.com/malleroid/items/ab83b5ffb8ddfd58a4d3)」を追加。
+- [#3858](https://github.com/KATO-Hiro/AtCoderClans/pull/3858) - (破壊的な変更) 削除もしくは非公開にされたと思われるGitHubレポジトリを確認したため、「Archived」ページに移動。
+
 ### 2022-04-23
 
 - [#3850](https://github.com/KATO-Hiro/AtCoderClans/pull/3850) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、スライド「[数理最適化ことはじめ](https://speakerdeck.com/e869120/introduction-to-mathematical-optimization-5cdef842-50f6-4e46-ab2d-549cf85c1b81)」を追加。
