@@ -12,6 +12,7 @@ filename: media
 - [記事](#%E8%A8%98%E4%BA%8B)
   - [入門者、初心者向けの記事](#%E5%85%A5%E9%96%80%E8%80%85%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%81%AE%E8%A8%98%E4%BA%8B)
   - [コードを快適に書くための環境構築](#%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E5%BF%AB%E9%81%A9%E3%81%AB%E6%9B%B8%E3%81%8F%E3%81%9F%E3%82%81%E3%81%AE%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89)
+    - [特定のOSに依存しない内容](#%E7%89%B9%E5%AE%9A%E3%81%AEos%E3%81%AB%E4%BE%9D%E5%AD%98%E3%81%97%E3%81%AA%E3%81%84%E5%86%85%E5%AE%B9)
     - [Macintosh](#macintosh)
     - [Windows](#windows)
     - [実行環境のテンプレート、サンプルレポジトリ](#%E5%AE%9F%E8%A1%8C%E7%92%B0%E5%A2%83%E3%81%AE%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%83%AC%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA)
@@ -121,6 +122,10 @@ filename: media
 ### コードを快適に書くための環境構築
 
 以下の記事は、2019年3月〜2022年2月に公開・更新されたものです。随時、最新の記事を追加する予定です。
+
+#### 特定のOSに依存しない内容
+
+- [Docker+VSCodeでAtCoder用の開発環境を簡単に作る(Python編)](https://qiita.com/malleroid/items/ab83b5ffb8ddfd58a4d3) - [Docker](https://www.docker.com/)、[Visual Studio Code](https://code.visualstudio.com/)と拡張機能を利用して、Pythonの実行環境を構築できる。また、コマンドでコンテスト用のファイル生成、テストの実行、コードの提出も可能。
 
 #### Macintosh
 
