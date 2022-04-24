@@ -243,6 +243,13 @@ filename: archived
 - [AtCoderカレンダー通知](https://twitter.com/AtcoderCalendar) - イベント開始15分前に通知する。
   - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
   - 代替手段: [競プロリマインダー](https://twitter.com/ComproReminder)などを利用する。
+
+<!-- markdown-link-check-disable -->
+
+- [atcoder_docker_sample](https://github.com/yamatia/atcoder_docker_sample) - [Visual Studio Code](https://code.visualstudio.com/)・[Docker](https://www.docker.com/)・[Git](https://git-scm.com/downloads)を使って、PythonとC++の実行環境を構築することができる。
+
+<!-- markdown-link-check-enable -->
+
 - [AtCoderEditorials](https://github.com/null-null-programming/AtCoder-Editorials) - 解法ブログの投稿・閲覧と知見の集約を目指したWebサービス。
   - 理由: 記載なし。
   - 代替手段: 公式解説や個々の解説ブログ、提出コードを見る。
