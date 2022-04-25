@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-04-25
+
+- [#3864](https://github.com/KATO-Hiro/AtCoderClans/pull/3864) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに掲載している「[アルゴ式](https://algo-method.com/)」の説明文に、記事「[株式会社アルゴ式を設立し、資金調達を実施しました](https://note.com/sak_algo/n/nf5fbbbe3d600)」を追加。
+
 ### 2022-04-24
 
 - [#3859](https://github.com/KATO-Hiro/AtCoderClans/pull/3859) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[Docker+VSCodeでAtCoder用の開発環境を簡単に作る(Python編)](https://qiita.com/malleroid/items/ab83b5ffb8ddfd58a4d3)」を追加。
