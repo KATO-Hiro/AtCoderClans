@@ -55,6 +55,7 @@ filename: related_contest_sites
   - [公式アカウント](https://twitter.com/algo_method)
   - [アルゴ式公開から2ヶ月が経ちました / これからの話](https://note.com/sak_algo/n/nf63c98059c5c)
   - [アルゴ式の存在意義](https://note.com/sak_algo/n/n33da1fbfea38)
+  - [株式会社アルゴ式を設立し、資金調達を実施しました](https://note.com/sak_algo/n/nf5fbbbe3d600)
 
   <div align="center">
     <img loading = "lazy" src="images/related_contest_sites/algo_method/algo_method.png" alt="algo method">
