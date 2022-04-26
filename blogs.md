@@ -399,6 +399,12 @@ filename: blogs
 |eivour|[Qiita](https://qiita.com/contramundum)||
 |square1001|[Qiita](https://qiita.com/square1001)||
 
+##### Crystal
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|tomerun|[はてなブログ](https://topcoder-tomerun.hatenablog.jp/)||
+
 #### レーティング2400から2799まで(橙色)
 
 ##### CPlusPlus
@@ -417,12 +423,6 @@ filename: blogs
 |siman|[はてなブログ](https://simanman.hatenablog.com/)||
 |takumi152|[はてなブログ](https://takumi152.hatenablog.jp/)||
 |WA_TLE|[はてなブログ](https://watle.hatenablog.com/)|2019年1月以降、新規の記事を確認できず。|
-
-##### Crystal
-
-|ユーザ名 (敬称略)|ブログ / Qiita|備考|
-|:--:|:--:|:--|
-|tomerun|[はてなブログ](https://topcoder-tomerun.hatenablog.jp/)||
 
 ##### Rust
 
@@ -451,6 +451,7 @@ filename: blogs
 |olphe|[はてなブログ](https://olphe.hatenablog.com/)||
 |Omotchi|[はてなブログ](https://omotchi.hateblo.jp/)||
 |phyllo|[GitHub Pages](https://jetbead.github.io/AtCoderHeuristicContestMemo/)||
+|physics0523|[はてなブログ](https://physics0523.hatenablog.com/)||
 |qLethon|[はてなブログ](https://qlethon.hatenablog.com/)||
 |shibh308|[はてなブログ](https://shibh308.hatenablog.com/)||
 |Shibuyap|[Qiita](https://qiita.com/Shibuyap)||
