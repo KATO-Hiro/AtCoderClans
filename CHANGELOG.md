@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-04-26
+
+- [#3866](https://github.com/KATO-Hiro/AtCoderClans/pull/3866) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのヒューリスティック部門に、最高レーティングが2000以上に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+
 ### 2022-04-25
 
 - [#3864](https://github.com/KATO-Hiro/AtCoderClans/pull/3864) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに掲載している「[アルゴ式](https://algo-method.com/)」の説明文に、記事「[株式会社アルゴ式を設立し、資金調達を実施しました](https://note.com/sak_algo/n/nf5fbbbe3d600)」を追加。
