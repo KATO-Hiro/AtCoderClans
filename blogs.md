@@ -94,6 +94,7 @@ filename: blogs
 |japlj|[はてなブログ](https://japlj.hatenablog.com/)||
 |joisino|[はてなブログ](https://joisino.hatenablog.com/)||
 |kmjp|[はてなブログ](https://kmjp.hatenablog.jp/)||
+|KoD|[Qiita](https://qiita.com/Kodaman_KoD)||
 |kort0n|[はてなブログ](https://kort0n.hatenablog.com/)||
 |kotatsugame|[はてなブログ](https://kotatsugame.hatenablog.com/)|Rated対象外のコンテストを中心に複数の言語で実装されている回答もある。|
 |latte0119|[はてなブログ](https://lattemalta.hatenablog.jp/)||
@@ -182,7 +183,6 @@ filename: blogs
 |gasin|[はてなブログ](https://gasin.hatenadiary.jp/)||
 |goodbaton|[はてなブログ](https://goodbaton.hatenablog.com/)|2017年3月以降、新規の記事を確認できず。|
 |Kite_kuma|[はてなブログ](https://kumakumatime.hateblo.jp/)||
-|KoD|[Qiita](https://qiita.com/Kodaman_KoD)||
 |kotamanegi|[はてなブログ](https://kotamanegi.hatenablog.com/)||
 |kyuridenamida|[はてなブログ](https://kyuridenamida.hatenablog.com/)|2019年10月以降、新規の記事を確認できず。|
 |Lepton|[はてなブログ](https://lepton.hatenablog.jp/)|2018年3月以降、新規の記事を確認できず。|
