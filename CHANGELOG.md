@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-04-27
+
+- [#3871](https://github.com/KATO-Hiro/AtCoderClans/pull/3871) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページに、ツール「[AtCoder-AutoClone](https://github.com/kuriyan1204/AtCoder-AutoClone)」を追加。
+- [#3869](https://github.com/KATO-Hiro/AtCoderClans/pull/3869) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのアルゴリズム部門で、ユーザの昇段に伴い掲載するレーティング帯を変更。
+
 ### 2022-04-26
 
 - [#3866](https://github.com/KATO-Hiro/AtCoderClans/pull/3866) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのヒューリスティック部門に、最高レーティングが2000以上に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
