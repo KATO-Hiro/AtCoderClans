@@ -163,9 +163,10 @@ filename: cli
 
 ### コードの高速化、バックアップなど
 
-- [AtCoder_GitCommit](https://github.com/xryuseix/AtCoder_GitCommit) - 提出したコードをGitHubに自動でバックアップする。
-- [atcoder-numba](https://github.com/pyatcoder/atcoder-numba) - NumbaのJITを使用したコードをAOT(事前)コンパイルして、提出することができる。Pythonのパッケージ管理システムであるpipが必要。
-- [AtCoderStreak](https://github.com/kzrnm/AtCoderStreak) - 遅延提出で[AtCoder Problems](https://kenkoooo.com/atcoder/)のStreakをつなぐ。
+- [AtCoder-AutoClone](https://github.com/kuriyan1204/AtCoder-AutoClone) ![GitHub Repo stars](https://img.shields.io/github/stars/kuriyan1204/AtCoder-AutoClone?style=plastic) - 提出コードをGitHubのレポジトリに自動でコピーする。
+- [AtCoder_GitCommit](https://github.com/xryuseix/AtCoder_GitCommit) ![GitHub Repo stars](https://img.shields.io/github/stars/xryuseix/AtCoder_GitCommit?style=plastic) - 提出したコードをGitHubに自動でバックアップする。注: 定期的な実行には、Herokuなどのサーバを用意する必要がある。
+- [atcoder-numba](https://github.com/pyatcoder/atcoder-numba) ![GitHub Repo stars](https://img.shields.io/github/stars/pyatcoder/atcoder-numba?style=plastic) - NumbaのJITを使用したコードをAOT(事前)コンパイルして、提出することができる。Pythonのパッケージ管理システムであるpipが必要。
+- [AtCoderStreak](https://github.com/kzrnm/AtCoderStreak) ![GitHub Repo stars](https://img.shields.io/github/stars/kzrnm/AtCoderStreak?style=plastic) - 遅延提出で[AtCoder Problems](https://kenkoooo.com/atcoder/)のStreakをつなぐ。
 
 ### 問題の作成と準備を支援するツール
 
