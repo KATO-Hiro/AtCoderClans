@@ -213,6 +213,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/ac_clar_shaper.png" alt="ac clar shaper">
   </div>
 
+- [ac-rating-icon](https://greasyfork.org/ja/scripts/444140-ac-rating-icon) - 「順位表」ページで、レーティングに対応したアイコンを追加する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/ac_rating_icon.png" alt="ac rating icon">
+  </div>
+
 - [ac-search-old-languages](https://greasyfork.org/ja/scripts/405745-ac-search-old-languages) - 「提出結果」ページで、judge-update-202004以前の言語による提出コードを検索できるようにする。
 
   <div align="center">
