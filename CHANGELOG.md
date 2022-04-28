@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-04-28
+
+- [#3875](https://github.com/KATO-Hiro/AtCoderClans/pull/3875) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、ユーザスクリプト「[ac-rating-icon](https://greasyfork.org/ja/scripts/444140-ac-rating-icon)」を追加。
+
 ### 2022-04-27
 
 - [#3871](https://github.com/KATO-Hiro/AtCoderClans/pull/3871) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページに、ツール「[AtCoder-AutoClone](https://github.com/kuriyan1204/AtCoder-AutoClone)」を追加。
