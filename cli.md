@@ -167,6 +167,7 @@ filename: cli
 - [AtCoder_GitCommit](https://github.com/xryuseix/AtCoder_GitCommit) ![GitHub Repo stars](https://img.shields.io/github/stars/xryuseix/AtCoder_GitCommit?style=plastic) - 提出したコードをGitHubに自動でバックアップする。注: 定期的な実行には、Herokuなどのサーバを用意する必要がある。
 - [atcoder-numba](https://github.com/pyatcoder/atcoder-numba) ![GitHub Repo stars](https://img.shields.io/github/stars/pyatcoder/atcoder-numba?style=plastic) - NumbaのJITを使用したコードをAOT(事前)コンパイルして、提出することができる。Pythonのパッケージ管理システムであるpipが必要。
 - [AtCoderStreak](https://github.com/kzrnm/AtCoderStreak) ![GitHub Repo stars](https://img.shields.io/github/stars/kzrnm/AtCoderStreak?style=plastic) - 遅延提出で[AtCoder Problems](https://kenkoooo.com/atcoder/)のStreakをつなぐ。
+- [procon-gardener](https://github.com/togatoga/procon-gardener) ![GitHub Repo stars](https://img.shields.io/github/stars/togatoga/procon-gardener?style=plastic) - 提出した正解(AC)コードを自動的に取得し、ローカルリポジトリに保存する。Goの実行環境が必要。詳細は、作者の[解説記事](https://qiita.com/togatoga/items/3e8fd0042dc8be702201)も参照されたい。注: GitHubへの反映は、自分で行う必要がある。
 
 ### 問題の作成と準備を支援するツール
 
