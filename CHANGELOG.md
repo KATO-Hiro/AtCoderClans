@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-04-30
+
+- [#3884](https://github.com/KATO-Hiro/AtCoderClans/pull/3884) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページに、CLIツール「[procon-grassmaker](https://github.com/bayashi-cl/procon-grassmaker)」を追加。
+
 ### 2022-04-29
 
 - [#3878](https://github.com/KATO-Hiro/AtCoderClans/pull/3878) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページに、CLIツール「[procon-gardener](https://github.com/togatoga/procon-gardener)」を追加。
