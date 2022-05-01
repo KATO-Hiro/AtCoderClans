@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-05-01
+
+- [#3888](https://github.com/KATO-Hiro/AtCoderClans/pull/3888) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[Optunaを使ってAtCoder Heuristic Contest 007を優勝する](https://blog.knshnb.com/posts/ahc007-optuna/)」を追加。
+
 ### 2022-04-30
 
 - [#3884](https://github.com/KATO-Hiro/AtCoderClans/pull/3884) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページに、CLIツール「[procon-grassmaker](https://github.com/bayashi-cl/procon-grassmaker)」を追加。
