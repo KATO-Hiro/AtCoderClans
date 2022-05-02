@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-05-02
+
+- [#3894](https://github.com/KATO-Hiro/AtCoderClans/pull/3894) - (破壊的な変更) リンク切れと思われるライブラリを一時的に「Archived」ページに移動。
+
 ### 2022-05-01
 
 - [#3888](https://github.com/KATO-Hiro/AtCoderClans/pull/3888) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[Optunaを使ってAtCoder Heuristic Contest 007を優勝する](https://blog.knshnb.com/posts/ahc007-optuna/)」を追加。
