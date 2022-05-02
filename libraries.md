@@ -282,7 +282,6 @@ filename: libraries
 - [nanoseeing/AtCoder](https://github.com/nanoseeing/AtCoder) ![GitHub Repo stars](https://img.shields.io/github/stars/nanoseeing/AtCoder?style=plastic) - [nanoseeing](https://atcoder.jp/users/nanoseeing)さんのライブラリ。
 - [nrkt/Algorithms](https://github.com/nrkt/Algorithms) ![GitHub stars](https://img.shields.io/github/stars/nrkt/Algorithms?style=plastic) - [nrkt](https://atcoder.jp/users/nrkt)さんのライブラリ。
 - [ryusuke920/AtCoder-Library](https://github.com/ryusuke920/AtCoder-Library) ![GitHub Repo stars](https://img.shields.io/github/stars/ryusuke920/AtCoder-Library?style=plastic) - [ryusuke_h](https://atcoder.jp/users/ryusuke_h)さんのライブラリ。
-- [summersky08/CompetitiveProgramming](https://github.com/summersky08/CompetitiveProgramming) ![GitHub Repo stars](https://img.shields.io/github/stars/summersky08/CompetitiveProgramming?style=plastic) - rkato5680さんのライブラリ。
 - [tachyon777/AtCoder](https://github.com/tachyon777/AtCoder) ![GitHub stars](https://img.shields.io/github/stars/tachyon777/AtCoder?style=plastic) - [tachyon777](https://atcoder.jp/users/tachyon777)さんのライブラリ。
 - [tjkendev/procon-library](https://github.com/tjkendev/procon-library) ![GitHub stars](https://img.shields.io/github/stars/tjkendev/procon-library?style=plastic) - [yaketake08](https://atcoder.jp/users/yaketake08)さんのライブラリ。
 - [yaumu3/cpl-python3](https://github.com/yaumu3/cpl-python3) ![GitHub Repo stars](https://img.shields.io/github/stars/yaumu3/cpl-python3?style=plastic) - [yaumu3](https://atcoder.jp/users/yaumu3)さんのライブラリ。

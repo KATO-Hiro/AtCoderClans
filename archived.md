@@ -168,6 +168,8 @@ filename: archived
   - 確認した日: 2021/10/12
 - [Sobaya007/sbylib](https://github.com/Sobaya007/sbylib) ![GitHub stars](https://img.shields.io/github/stars/Sobaya007/sbylib?style=plastic) - [sobaya](https://atcoder.jp/users/sobaya)さんのDライブラリ。
   - 確認した日: 2021/12/01
+- [summersky08/CompetitiveProgramming](https://github.com/summersky08/CompetitiveProgramming) ![GitHub Repo stars](https://img.shields.io/github/stars/summersky08/CompetitiveProgramming?style=plastic) - rkato5680さんのPythonライブラリ。
+  - 確認した日: 2022/05/02
 - [AtCoderを120%楽しむために便利な拡張機能](https://dailylife.dev/posts/79#body) - 記事の作成者が便利だと感じたユーザスクリプトや拡張機能が紹介されている記事。初めて使う方にもおすすめ。
   - 確認した日: 2022/02/09
 - [異常modまとめ](https://hyado.hatenablog.jp/entry/2020/12/07/000000) - 場合の数を大きな素数で割った余りを求める問題において、珍しい素数や有名な素数に近い値が出題された事例を紹介した記事。
