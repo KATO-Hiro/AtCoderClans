@@ -243,6 +243,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_background_colorizer.png" alt="atcoder background colorizer">
   </div>
 
+- [AtCoder Beautiful Code View](https://greasyfork.org/ja/scripts/444280-atcoder-beautiful-code-view) - [Monaco Editor](https://github.com/microsoft/monaco-editor)を利用して、「提出結果」ページのコードを見やすく表示する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_beautiful_code_view.png" alt="atcoder beautiful code view">
+  </div>
+
 - [AtCoder Better Highlighter](https://greasyfork.org/ja/scripts/412865-atcoder-better-highlighter) - 「提出結果」ページのコードをハイライトして見やすくする。デフォルトで10種類以上の言語をサポートしており、対応言語の拡張や配色の変更も可能。
 
   <div align="center">
