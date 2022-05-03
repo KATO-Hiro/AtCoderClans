@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-05-03
+
+- [#3900](https://github.com/KATO-Hiro/AtCoderClans/pull/3900) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、ユーザスクリプト「[AtCoder Beautiful Code View](https://greasyfork.org/ja/scripts/444280-atcoder-beautiful-code-view)」を追加。
+- [#3899](https://github.com/KATO-Hiro/AtCoderClans/pull/3899) - 「[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli)」ページに掲載しているCLIツール「[cargo-atcoder](https://github.com/tanakh/cargo-atcoder)」の説明文に、[Visual Studio Code](https://code.visualstudio.com/)の拡張機能を追加。
+  - [cargo-atcoder-vscode](https://github.com/himkt/cargo-atcoder-vscode)
+
 ### 2022-05-02
 
 - [#3894](https://github.com/KATO-Hiro/AtCoderClans/pull/3894) - (破壊的な変更) リンク切れと思われるライブラリを一時的に「Archived」ページに移動。
