@@ -121,6 +121,7 @@ filename: cli
 利用するときは、RustとRustのビルドシステムおよびパッケージマネージャであるCargoが必要。
 
 - [cargo-atcoder](https://github.com/tanakh/cargo-atcoder) ![GitHub stars](https://img.shields.io/github/stars/tanakh/cargo-atcoder?style=plastic) - サンプルケースのダウンロード、テスト、提出ができる。使い方が日本語で丁寧に説明されている。
+  - [cargo-atcoder-vscode](https://github.com/himkt/cargo-atcoder-vscode) ![GitHub Repo stars](https://img.shields.io/github/stars/himkt/cargo-atcoder-vscode?style=plastic) - [Visual Studio Code](https://code.visualstudio.com/)のコマンドパレットから、コードのテスト・提出、タスクの実行ができる拡張機能。
 
   <div align="center">
     <img loading = "lazy" src="images/cli/cargo_atcoder.gif" alt="cargo atcoder">
