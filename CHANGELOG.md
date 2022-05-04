@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-05-04
+
+- [#3904](https://github.com/KATO-Hiro/AtCoderClans/pull/3904) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[AtCoder用にVSCodeを用いたRustの開発環境の構築をした話](https://paruma184.hatenablog.com/entry/2021/09/22/210945)」を追加。
+
 ### 2022-05-03
 
 - [#3900](https://github.com/KATO-Hiro/AtCoderClans/pull/3900) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、ユーザスクリプト「[AtCoder Beautiful Code View](https://greasyfork.org/ja/scripts/444280-atcoder-beautiful-code-view)」を追加。
