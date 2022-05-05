@@ -13,6 +13,17 @@
       "pattern": "^https://beet-aizu.hatenablog.com/"
     }
   ],
+  "httpHeaders": [
+    {
+      "urls": [
+        "https://docs.github.com/",
+        "https://aka.ms/"
+      ],
+      "headers": {
+        "Accept-Encoding": "zstd, br, gzip, deflate"
+      }
+    }
+  ],
   "showProgressBar": true,
   "timeout": "3m",
   "retryOn429": true,
