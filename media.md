@@ -262,6 +262,7 @@ filename: media
 ### 難問に対するアプローチ方法
 
 - [競技プログラミングで解法を思いつくための典型的な考え方](https://algo-logic.info/how-to-think-cp/) - 問題を解くときの着眼点・言い換え・典型的な知識をカテゴリ別にまとめた記事。
+- [競プロにおける「実験コード」の書き方](https://speakerdeck.com/physics0523/jing-puroniokeru-shi-yan-kodo-falseshu-kifang) - ある問題を解くときに、より小さな / 簡単な問題を解いて観察するための「実験コード」の書き方を紹介したスライド。実験コードが有効なケース、戦略、実践例が解説されている。
 - [平面上のロシアゲー（構築ゲー）を解くためのそこそこ一般的なテクについて](https://kokiymgch.hatenablog.com/entry/2017/12/12/153419) - 平面上で何かを構築するタイプの問題へのアプローチ方法を解説した記事。
 - [高難易度木問題を解くテクニック集](https://speakerdeck.com/tatyam_prime/gao-nan-yi-du-mu-wen-ti-wojie-kutekunitukuji) - [tatyam](https://atcoder.jp/users/tatyam)さんが、木問題の性質・考察をまとめたスライド資料。
 - [整数論テクニック集](http://kirika-comp.hatenablog.com/entry/2018/03/12/210446) - [kirika_comp](https://atcoder.jp/users/kirika_comp)さんによる「整数論」に関するテクニックをまとめた資料集。資料作成者の注: コンテストで出題された問題をもとに解説しているため、ネタバレを非常に多く含む。
