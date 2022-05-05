@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-05-05
+
+- [#3910](https://github.com/KATO-Hiro/AtCoderClans/pull/3910) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、スライド「[競プロにおける「実験コード」の書き方](https://speakerdeck.com/physics0523/jing-puroniokeru-shi-yan-kodo-falseshu-kifang)」を追加。
+
 ### 2022-05-04
 
 - [#3904](https://github.com/KATO-Hiro/AtCoderClans/pull/3904) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[AtCoder用にVSCodeを用いたRustの開発環境の構築をした話](https://paruma184.hatenablog.com/entry/2021/09/22/210945)」を追加。
