@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-05-06
+
+- [#3917](https://github.com/KATO-Hiro/AtCoderClans/pull/3917) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[AtCoderで役立つPythonイディオム集](https://qiita.com/hinamimi/items/ab30fffc4920d9f4bc73)」を追加。
+
 ### 2022-05-05
 
 - [#3910](https://github.com/KATO-Hiro/AtCoderClans/pull/3910) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、スライド「[競プロにおける「実験コード」の書き方](https://speakerdeck.com/physics0523/jing-puroniokeru-shi-yan-kodo-falseshu-kifang)」を追加。
