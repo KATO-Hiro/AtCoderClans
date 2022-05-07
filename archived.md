@@ -247,9 +247,6 @@ filename: archived
 - [AtCoderEditorials](https://github.com/null-null-programming/AtCoder-Editorials) - 解法ブログの投稿・閲覧と知見の集約を目指したWebサービス。
   - 理由: 記載なし。
   - 代替手段: 公式解説や個々の解説ブログ、提出コードを見る。
-- [AtCoder Problems Penalty Counter](https://greasyfork.org/ja/scripts/395755-atcoder-problems-penalty-counter) -  [AtCoder Problems](https://kenkoooo.com/atcoder/)のTableページで、各問題のコンテスト中のペナルティ数を表示する。
-  - 理由: [AtCoder Problems](https://kenkoooo.com/atcoder/)で実装されており、追加で導入する必要性は薄いと思われるため。
-  - 代替手段: [AtCoder Problems](https://kenkoooo.com/atcoder/)を利用する。
 
 <!-- markdown-link-check-disable -->
 
@@ -263,6 +260,9 @@ filename: archived
 
 <!-- markdown-link-check-enable -->
 
+- [AtCoder Problems Penalty Counter](https://greasyfork.org/ja/scripts/395755-atcoder-problems-penalty-counter) -  [AtCoder Problems](https://kenkoooo.com/atcoder/)のTableページで、各問題のコンテスト中のペナルティ数を表示する。
+  - 理由: [AtCoder Problems](https://kenkoooo.com/atcoder/)で実装されており、追加で導入する必要性は薄いと思われるため。
+  - 代替手段: [AtCoder Problems](https://kenkoooo.com/atcoder/)を利用する。
 - AtCoderProblemsRush - [AtCoder Problems](https://kenkoooo.com/atcoder/)のクローラが実行される前に、提出データをブラウザに保存し進捗状況を表示する。
   - 理由: [AtCoder Problems](https://kenkoooo.com/atcoder/)での進捗状況が短時間で更新されるようになり、追加で導入する必要性は薄いと思われるため。
   - 2021年2月23日追記: スクリプトのリンクが削除されているのを確認。
