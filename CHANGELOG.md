@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-05-07
+
+- [#3921](https://github.com/KATO-Hiro/AtCoderClans/pull/3921) - [GitHub Action - Markdown link check](https://github.com/gaurav-nelson/github-action-markdown-link-check)の定期実行で検出したリンク切れに対処。
+
 ### 2022-05-06
 
 - [#3917](https://github.com/KATO-Hiro/AtCoderClans/pull/3917) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[AtCoderで役立つPythonイディオム集](https://qiita.com/hinamimi/items/ab30fffc4920d9f4bc73)」を追加。
