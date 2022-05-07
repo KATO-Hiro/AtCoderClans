@@ -50,14 +50,6 @@ filename: archived
     <img loading = "lazy" src="images/chrome_extension/atcoder_book.jpg" alt="atcoder book">
   </div>
 
-- [AtCoder judge notifier](https://chrome.google.com/webstore/detail/atcoder-judge-notifier/hcjjfcidaloadjcemebolmdphhbpehba?hl=ja&gl=UA) - 「提出」ページのジャッジ結果を通知するChrome拡張機能。
-  - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
-  - 代替手段: [AtCoderResultNotifier](https://greasyfork.org/ja/scripts/371225-atcoderresultnotifier)などを利用する。
-
-  <div align="center">
-    <img loading = "lazy" src="images/chrome_extension/atcoder_judge_notifier.png" alt="atcoder judge notifier">
-  </div>
-
 - [Coding Shout](https://chrome.google.com/webstore/detail/coding-shout/nggokghmfinpljihgjkkbogpgbbjjjme?hl=ja&gl=UA) - ジャッジ結果を通知するChrome拡張機能。[Codechef](https://www.codechef.com/)や[Codeforces](https://codeforces.com/)にも対応している。
   - 理由: [AtCoder](https://atcoder.jp/)の仕様変更に伴うもの。
   - 代替手段: [AtCoderResultNotifier](https://greasyfork.org/ja/scripts/371225-atcoderresultnotifier)などを利用する。
@@ -258,6 +250,19 @@ filename: archived
 - [AtCoder Problems Penalty Counter](https://greasyfork.org/ja/scripts/395755-atcoder-problems-penalty-counter) -  [AtCoder Problems](https://kenkoooo.com/atcoder/)のTableページで、各問題のコンテスト中のペナルティ数を表示する。
   - 理由: [AtCoder Problems](https://kenkoooo.com/atcoder/)で実装されており、追加で導入する必要性は薄いと思われるため。
   - 代替手段: [AtCoder Problems](https://kenkoooo.com/atcoder/)を利用する。
+
+<!-- markdown-link-check-disable -->
+
+- [AtCoder judge notifier](https://chrome.google.com/webstore/detail/atcoder-judge-notifier/hcjjfcidaloadjcemebolmdphhbpehba?hl=ja&gl=UA) - 「提出」ページのジャッジ結果を通知するChrome拡張機能。
+  - 理由: 作者が公開を取りやめたと思われるため。
+  - 代替手段: [AtCoderResultNotifier](https://greasyfork.org/ja/scripts/371225-atcoderresultnotifier)などを利用する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/chrome_extension/atcoder_judge_notifier.png" alt="atcoder judge notifier">
+  </div>
+
+<!-- markdown-link-check-enable -->
+
 - AtCoderProblemsRush - [AtCoder Problems](https://kenkoooo.com/atcoder/)のクローラが実行される前に、提出データをブラウザに保存し進捗状況を表示する。
   - 理由: [AtCoder Problems](https://kenkoooo.com/atcoder/)での進捗状況が短時間で更新されるようになり、追加で導入する必要性は薄いと思われるため。
   - 2021年2月23日追記: スクリプトのリンクが削除されているのを確認。
