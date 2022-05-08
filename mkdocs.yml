@@ -1,0 +1,209 @@
+# See:
+# https://github.com/squidfunk/mkdocs-material/blob/master/mkdocs.yml
+
+
+# Project information
+site_name: AtCoder Clans
+site_url: https://KATO-Hiro.github.io/AtCoderClans/
+site_author: hiro_hiro
+site_description: >-
+  【非公式】AtCoderがもっと楽しくなるリンク集です。有志による非公式サービス・ツール・ライブラリ・記事などをまとめています。
+
+
+# GitHub Repository
+repo_name: KATO-Hiro/AtCoderClans
+repo_url: https://github.com/KATO-Hiro/AtCoderClans
+edit_uri: "edit/master/docs"
+
+
+# Copyright
+copyright: Copyright &copy; 2020-2022 hiro_hiro
+
+
+## Basic Configuration
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.top
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  icon:
+    logo: material/movie-open
+    repo: fontawesome/brands/github
+  favicon: images/favicon-32x32.png
+
+
+# Plugins
+plugins:
+  - search:
+      lang:
+      - ja
+      - en
+
+
+# Customization
+extra_css:
+  - stylesheets/extra.css
+
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.superfences
+  - tables
+
+
+# Page tree
+nav:
+  - Home: index.md
+  - For Beginners:
+    - for_beginners/index.md
+    - for_beginners/question0.md
+    - for_beginners/question1.md
+    - for_beginners/question2.md
+    - for_beginners/question3.md
+    - for_beginners/question4.md
+    - for_beginners/question5.md
+    - for_beginners/question6.md
+    - for_beginners/question7.md
+    - for_beginners/question8.md
+  - Recommendation:
+    - recommendation/index.md
+    - recommendation/solve_problems.md
+    - recommendation/submit_codes.md
+    - recommendation/collect_info.md
+    - recommendation/improve_ui.md
+  - Web apps:
+    - web_app/index.md
+    - Webアプリ、Webサイト:
+      - web_app/solve_problems.md
+      - web_app/view_calendar.md
+      - web_app/use_visualizer.md
+      - web_app/view_and_compare_perf_rating_and_ranking.md
+      - web_app/services_using_perf_rating_and_ranking.md
+    - Bot:
+      - bot/index.md
+    - Web API:
+      - web_api/index.md
+    - web_app/others.md
+  - Scripts:
+    - scripts/index.md
+    - ユーザスクリプト:
+      - user_scripts/index.md
+      - user_scripts/view_perf_and_rating.md
+      - user_scripts/automatic_notification.md
+      - user_scripts/use_shortcut.md
+      - user_scripts/improve_ui.md
+      - user_scripts/add_buttons_and_links.md
+      - user_scripts/for_developers.md
+    - Google Chromeの拡張機能:
+      - chrome_extensions/index.md
+      - chrome_extensions/fetch_samplecases.md
+      - chrome_extensions/solve_problems.md
+      - chrome_extensions/view_perf_and_rating.md
+      - chrome_extensions/improve_ui.md
+      - chrome_extensions/add_buttons_and_links.md
+  - Command Line Tools:
+    - cli/index.md
+    - cli/test_tools.md
+    - cli/template_testcase_generator.md
+    - cli/backup_tools.md
+    - cli/solver.md
+    - cli/programming_languages.md
+    - cli/tools_for_writers.md
+  - Libraries:
+    - libraries/index.md
+    - libraries/atcoder_library.md
+    - libraries/libraries.md
+    - libraries/library_checker.md
+  - Articles and Books:
+    - media/index.md
+    - 記事:
+      - articles/introduction.md
+      - articles/development_env.md
+      - articles/programming_languages.md
+      - articles/algorithm.md
+      - articles/math.md
+      - articles/heuristic.md
+      - articles/implementation.md
+      - articles/user_editorials.md
+      - articles/how_to_practice.md
+      - articles/how_to_approach_difficult_problems.md
+      - articles/for_writers.md
+      - articles/past.md
+      - articles/club_activities.md
+      - articles/jobs.md
+    - 書籍:
+      - books/index.md
+    - SNS:
+      - sns/index.md
+  - Blogs:
+    - blogs/index.md
+    - アルゴリズム部門:
+      - blogs/algorithm/c.md
+      - blogs/algorithm/cpp.md
+      - blogs/algorithm/crystal.md
+      - blogs/algorithm/csharp.md
+      - blogs/algorithm/java.md
+      - blogs/algorithm/python.md
+      - blogs/algorithm/ruby.md
+      - blogs/algorithm/rust.md
+    - ヒューリスティック部門:
+      - blogs/heuristic/cpp.md
+      - blogs/heuristic/crystal.md
+      - blogs/heuristic/csharp.md
+      - blogs/heuristic/java.md
+      - blogs/heuristic/python.md
+      - blogs/heuristic/rust.md
+  - Videos:
+    - videos/index.md
+    - videos/youtube.md
+    - videos/niconico.md
+    - videos/archived_video.md
+  - Milestones:
+    - milestones/index.md
+    - 色変記事:
+      - milestones/brown.md
+      - milestones/green.md
+      - milestones/cyan.md
+      - milestones/blue.md
+      - milestones/yellow.md
+      - milestones/orange.md
+      - milestones/red.md
+    - 休止・引退:
+      - milestones/retirement.md
+  - Related Contest Sites:
+    - related_contest_sites/index.md
+    - アルゴリズム系コンテスト:
+      - related_contest_sites/algo_method.md
+      - related_contest_sites/codeforces.md
+      - related_contest_sites/joi_ioi.md
+      - related_contest_sites/topcoder.md
+      - related_contest_sites/yukicoder.md
+      - related_contest_sites/algorithm.md
+    - related_contest_sites/math.md
+    - related_contest_sites/puzzle_quiz.md
+    - related_contest_sites/security.md
+  - Archives:
+    - archived/index.md
+  - privacy_policy.md
+  - contact.md
+  - design.md
+  # - contributing.md
+  - license.md
+  # - changelog.md
