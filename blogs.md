@@ -115,6 +115,7 @@ filename: blogs
 |sigma425|[はてなブログ](https://sigma425.hatenablog.com/)||
 |sky58|[はてなブログ](https://topcoder-g-hatena-ne-jp.jag-icpc.org/skyaozora/)||
 |snuke|[はてなブログ](https://snuke.hatenablog.com/)||
+|square1001|[Qiita](https://qiita.com/square1001)||
 |SSRS|[はてなブログ](https://ssrs.hatenablog.com/)||
 |sugim48|[はてなブログ](https://sugim48.hatenadiary.org/)|2014年11月以降、新規の記事を確認できず。|
 |tatyam|[はてなブログ](https://tatyam.hatenablog.com/)、[Qiita](https://qiita.com/tatyam)||
@@ -206,7 +207,6 @@ filename: blogs
 |sapphire15|[はてなブログ](https://sapphire15.hatenablog.com/)||
 |satanic0258|[はてなブログ](https://satanic0258.hatenablog.com/)|2018年9月以降、新規の記事を確認できず。|
 |smiken|[はてなブログ](https://smiken.hatenablog.com/)|2019年10月以降、新規の記事を確認できず。|
-|square1001|[Qiita](https://qiita.com/square1001)||
 |tokoharu|[はてなブログ](https://tokoharuland.hateblo.jp/)|2020年1月以降、新規の記事を確認できず。|
 |Trineutron|[Qiita](https://qiita.com/trineutron)||
 |wafrelka|[はてなブログ](https://wafrelka.hatenablog.jp/)|2018年10月以降、新規の記事を確認できず。|
