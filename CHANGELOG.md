@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-05-08
+
+- [#3925](https://github.com/KATO-Hiro/AtCoderClans/pull/3925) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのアルゴリズム部門で、ユーザの昇段に伴い掲載するレーティング帯を変更。
+
 ### 2022-05-07
 
 - [#3921](https://github.com/KATO-Hiro/AtCoderClans/pull/3921) - [GitHub Action - Markdown link check](https://github.com/gaurav-nelson/github-action-markdown-link-check)の定期実行で検出したリンク切れに対処。
