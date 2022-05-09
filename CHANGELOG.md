@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-05-09
+
+- [#3933](https://github.com/KATO-Hiro/AtCoderClans/pull/3933) - (破壊的な変更) 「[AtCoder 色別正解率](http://shobonvip.web.fc2.com/atcoder/cp/index.html)」の作者からサービス終了を連絡を受けたため、「Archived」ページに移動。代替手段として、同一の作者が公開しているユーザスクリプト「[AtCoderColorStandings](https://greasyfork.org/ja/scripts/423713-atcodercolorstandings)」を利用されたい。
+
 ### 2022-05-08
 
 - [#3925](https://github.com/KATO-Hiro/AtCoderClans/pull/3925) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのアルゴリズム部門で、ユーザの昇段に伴い掲載するレーティング帯を変更。
