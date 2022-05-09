@@ -248,6 +248,14 @@ filename: archived
   - 理由: 記載なし。
   - 代替手段: 公式解説や個々の解説ブログ、提出コードを見る。
 
+- [AtCoder 色別正解率](http://shobonvip.web.fc2.com/atcoder/cp/index.html) - 各種コンテストにおけるレーティング帯ごとの正解率を表示する。作者による注: 手動更新のため、最新情報の反映にやや時間を要する。
+  - 理由: 作者からサービスの更新終了の連絡を受けたため。
+  - 代替手段: 同一の作者が公開しているユーザスクリプト[AtCoderColorStandings](https://greasyfork.org/ja/scripts/423713-atcodercolorstandings)を利用する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_percentage_of correct_answers.png" alt="atcoder games">
+  </div>
+
 <!-- markdown-link-check-disable -->
 
 - [AtCoder judge notifier](https://chrome.google.com/webstore/detail/atcoder-judge-notifier/hcjjfcidaloadjcemebolmdphhbpehba?hl=ja&gl=UA) - 「提出」ページのジャッジ結果を通知するChrome拡張機能。
