@@ -329,6 +329,8 @@ filename: related_contest_sites
 
 ### OMC (OnlineMathContest)
 
+- [OnlineMathContest](https://www.youtube.com/channel/UC7s9Bwj4fUN_WhoahHBI1cg) - [OnlineMathContest](https://onlinemathcontest.com/)の公式YouTubeチャンネル。
+
 - [OnlineMathContest 黄色になりました](https://note.com/treewhitetree/n/nb7d577fc24a4) - [Treewhitetree](https://onlinemathcontest.com/users/Treewhitetree)さんが、2021年11月2日に黄Solverに昇格。
 
 ### Sed Puzzle
