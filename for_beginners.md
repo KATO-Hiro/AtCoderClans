@@ -86,7 +86,6 @@ A1: 入門者、初心者向けの教材や記事を読んでみましょう。[
 
 - [AtCoderの練習方法](https://atcoder.jp/posts/677) - [AtCoder](https://atcoder.jp/)の公式ブログで紹介されている練習方法です。上達のために、問題を多く解く方法や典型的なアルゴリズムを学ぶ方法が説明されています。
 - [アルゴ式](https://algo-method.com/) - プログラミングを道具として利用しながら、論理的思考力やコーディング力を身につけることができるWebアプリです。[公式アカウント](https://twitter.com/algo_method)も用意されています。注: サービスを利用する前に、作者によるサービス開始の理由とアルゴリズムを学ぶ意義について書かれた[記事](https://note.com/sak_algo/n/nfb0058237ed5)を一読されることをお勧めします。
-- [どきんちゃんねる](https://www.youtube.com/channel/UCRtRY2sRe36LXjaiyhqEqCg) - [dokin](https://atcoder.jp/users/dokin)さんのYouTubeチャンネルです。入門者・初心者向けに、問題の考察・C++での実装過程が丁寧に解説されています。
 - [AtCoderでの勉強の仕方（コンテスト編）](http://chokudai.hatenablog.com/entry/2014/08/07/212849) - [AtCoder](https://atcoder.jp/)社長の[chokudai](https://twitter.com/chokudai)さんによる記事です。プログラミングコンテストの参加を通して、アルゴリズムの学習を継続的に行う方法が解説されています。
 - [AtCoder Problems](https://kenkoooo.com/atcoder/) - コンテストの過去問を一覧できるWebアプリです。登録したアカウント名を入力すると、問題の正誤状況や各種集計結果などを確認できます。有志による[使い方を解説した記事](https://ntk-ta01.hatenablog.com/entry/2020/04/15/001405)もご参照ください。注: 記事に掲載されている図やバーチャルコンテストの名称・内容は、最新情報と異なる場合もあリます。
 
