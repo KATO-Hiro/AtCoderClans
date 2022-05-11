@@ -8,6 +8,7 @@ filename: CHANGELOG
 
 ### 2022-05-11
 
+- [#3946](https://github.com/KATO-Hiro/AtCoderClans/pull/3946) - (破壊的な変更) 非公開もしくは削除されたと思われるYouTubeのチャンネルを「Archived」ページに移動。
 - [#3943](https://github.com/KATO-Hiro/AtCoderClans/pull/3943) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのアルゴリズム部門に、最高レーティングが2000〜2399に到達したユーザのブログを追加。
 
 ### 2022-05-10
