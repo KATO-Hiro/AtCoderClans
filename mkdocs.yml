@@ -165,6 +165,7 @@ nav:
         - blogs/heuristic/java.md
         - blogs/heuristic/python.md
         - blogs/heuristic/rust.md
+    - 資料集: materials/index.md
     - 書籍: books/index.md
     - SNS: sns/index.md
   - Videos:
