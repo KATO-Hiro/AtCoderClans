@@ -183,8 +183,7 @@ nav:
       - milestones/yellow.md
       - milestones/orange.md
       - milestones/red.md
-    - 休止・引退:
-      - milestones/retirement.md
+    - 休止・引退: milestones/retirement.md
   - Related Contest Sites:
     - related_contest_sites/index.md
     - アルゴリズム系コンテスト:
