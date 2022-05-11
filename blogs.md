@@ -360,6 +360,7 @@ filename: blogs
 |eijirou|[はてなブログ](https://eijirou-kyopro.hatenablog.com/)|主にヒューリスティック型のコンテストに関する解説記事が掲載されている。|
 |hahho|[Qiita](https://qiita.com/hahho)|2019年1月以降、新規の記事を確認できず。|
 |ikatakos|[自作ブログ](https://ikatakos.com/pot/programming_algorithm/contest_history/atcoder)||
+|Kazu1998k|[はてなブログ](https://kazun-kyopro.hatenablog.com/)||
 |kusano|[はてなブログ](https://kusano-k.hatenablog.com/)、[Qiita](https://qiita.com/kusano_k)|高難易度の問題を中心にC++で実装されている回答もある。|
 |lowking|[はてなブログ](https://perarduaadastra.hatenablog.com/)||
 |minus9d|[はてなブログ](https://minus9d.hatenablog.com/)|高難易度の問題を中心にC++で実装されている回答もある。|
