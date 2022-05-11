@@ -71,6 +71,7 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
+  - Quick Start: quick_start.md
   - For Beginners:
     - for_beginners/index.md
     - for_beginners/question0.md
@@ -96,10 +97,8 @@ nav:
       - web_app/use_visualizer.md
       - web_app/view_and_compare_perf_rating_and_ranking.md
       - web_app/services_using_perf_rating_and_ranking.md
-    - Bot:
-      - bot/index.md
-    - Web API:
-      - web_api/index.md
+    - Bot: bot/index.md
+    - Web API: web_api/index.md
     - web_app/others.md
   - Scripts:
     - scripts/index.md
@@ -148,28 +147,26 @@ nav:
       - articles/past.md
       - articles/club_activities.md
       - articles/jobs.md
-    - 書籍:
-      - books/index.md
-    - SNS:
-      - sns/index.md
-  - Blogs:
-    - blogs/index.md
-    - アルゴリズム部門:
-      - blogs/algorithm/c.md
-      - blogs/algorithm/cpp.md
-      - blogs/algorithm/crystal.md
-      - blogs/algorithm/csharp.md
-      - blogs/algorithm/java.md
-      - blogs/algorithm/python.md
-      - blogs/algorithm/ruby.md
-      - blogs/algorithm/rust.md
-    - ヒューリスティック部門:
-      - blogs/heuristic/cpp.md
-      - blogs/heuristic/crystal.md
-      - blogs/heuristic/csharp.md
-      - blogs/heuristic/java.md
-      - blogs/heuristic/python.md
-      - blogs/heuristic/rust.md
+    - ブログ:
+      - blogs/index.md
+      - アルゴリズム部門:
+        - blogs/algorithm/c.md
+        - blogs/algorithm/cpp.md
+        - blogs/algorithm/crystal.md
+        - blogs/algorithm/csharp.md
+        - blogs/algorithm/java.md
+        - blogs/algorithm/python.md
+        - blogs/algorithm/ruby.md
+        - blogs/algorithm/rust.md
+      - ヒューリスティック部門:
+        - blogs/heuristic/cpp.md
+        - blogs/heuristic/crystal.md
+        - blogs/heuristic/csharp.md
+        - blogs/heuristic/java.md
+        - blogs/heuristic/python.md
+        - blogs/heuristic/rust.md
+    - 書籍: books/index.md
+    - SNS: sns/index.md
   - Videos:
     - videos/index.md
     - videos/youtube.md
@@ -208,6 +205,7 @@ nav:
   - privacy_policy.md
   - contact.md
   - design.md
+  - references.md
   # - contributing.md
   - license.md
   # - changelog.md
