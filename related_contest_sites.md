@@ -327,6 +327,10 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/math_test/math_test.png" alt="math test">
   </div>
 
+### オイライン数学
+
+- [オイライン数学](https://twitter.com/qsypiRbuTSKQsqh) - 中学・高校数学オリンピックレベルの問題がほぼ毎日投稿されている。
+
 ### OMC (OnlineMathContest)
 
 - [OnlineMathContest](https://www.youtube.com/channel/UC7s9Bwj4fUN_WhoahHBI1cg) - [OnlineMathContest](https://onlinemathcontest.com/)の公式YouTubeチャンネル。
