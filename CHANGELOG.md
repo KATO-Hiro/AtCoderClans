@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-05-12
+
+- [#3953](https://github.com/KATO-Hiro/AtCoderClans/pull/3953) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、Twitterアカウント「[オイライン数学](https://twitter.com/qsypiRbuTSKQsqh)」を追加。
+
 ### 2022-05-11
 
 - [#3946](https://github.com/KATO-Hiro/AtCoderClans/pull/3946) - (破壊的な変更) 非公開もしくは削除されたと思われるYouTubeのチャンネルを「Archived」ページに移動。
