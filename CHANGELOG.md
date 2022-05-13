@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-05-13
+
+- [#3962](https://github.com/KATO-Hiro/AtCoderClans/pull/3962) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[H20](https://atcoder.jp/users/H20)さんの[記事](https://qiita.com/H20/items/f62382df263ec79acebd)を追加。
+
 ### 2022-05-12
 
 - [#3953](https://github.com/KATO-Hiro/AtCoderClans/pull/3953) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、Twitterアカウント「[オイライン数学](https://twitter.com/qsypiRbuTSKQsqh)」を追加。

@@ -148,6 +148,7 @@ filename: milestones
 - [AtCoder青色になりました](https://zenn.dev/magurofly/articles/234f210b4b0dbf) - [magurofly](https://atcoder.jp/users/magurofly)さんが、2022年1月30日に達成。
 - [私立文系大学生がAtcoderで青になるまで - 競プロ等](https://autdur.hatenablog.com/entry/2022/02/22/181455) - [aut_jul_dur](https://atcoder.jp/users/aut_jul_dur)さんが、2022年2月22日に公開。
 - [医学生がAtCoderで青色になった話【色変記事】](https://qiita.com/rinmao_catlover/items/bbbf6767a6a028562c80) - [rinmao](https://atcoder.jp/users/rinmao)さんが、2022年3月10日に公開。
+- [AtCoderで青色になったので、yukicoderをお勧めしてみる](https://qiita.com/H20/items/f62382df263ec79acebd) - [H20](https://atcoder.jp/users/H20)さんが、2022年5月8日に達成。
 
 ### レーティング2000から2399まで(黄色)
 
