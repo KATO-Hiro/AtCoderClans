@@ -104,6 +104,14 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/virtual_judge.png" alt="virtual judge">
   </div>
 
+### コンテストのルールを確認する
+
+- [AtCoderルールクイズ](https://quiz-maker.site/quiz/play/IuEjiJ20220508114221) - AtCoderのルールの理解度をクイズ形式(全10問)で確認できる。レポジトリ作成者による注: コンテスト参加前に確認されることを強く推奨。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_rule_quiz.png" alt="compro reminder">
+  </div>
+
 ### コンテストの開催予定を確認する、登録する
 
 - [CLIST](https://clist.by/) - [60以上のコンテストサイト](https://clist.by/resources/)を対象として開始・終了時刻、コンテスト時間と閲覧時点での残り時間が一覧で表示される。また、順位表や問題の一覧なども確認できる。
