@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-05-14
+
+- [#3965](https://github.com/KATO-Hiro/AtCoderClans/pull/3965) - 「[For Beginners](https://kato-hiro.github.io/AtCoderClans/for_beginners)」ページと「[Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app)」ページに、Webサイト「[AtCoderルールクイズ](https://quiz-maker.site/quiz/play/IuEjiJ20220508114221)」を追加。
+
 ### 2022-05-13
 
 - [#3962](https://github.com/KATO-Hiro/AtCoderClans/pull/3962) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

@@ -129,7 +129,13 @@ A3: 基本的には、土曜日もしくは日曜日の21時から1時間40分�
 
 注1: <span style="color: red"><strong>最初のうちは、AtCoder Beginner Contest (通称、ABC)に出場することをお勧めいたします。</strong></span>特に、AtCoder Grand Contestは上級者向けのコンテストのため、ABCと同じ配点でも非常に難しい問題が出題される傾向にあるためです。
 
-注2: 開催日時は急きょ変更されることもあるため、最新の情報をTwitterアカウントやWebサービスで確認することを推奨いたします。
+注2: コンテストの参加前にルールの確認を強く推奨いたします。有志による[クイズ(全10問)](https://quiz-maker.site/quiz/play/IuEjiJ20220508114221)をご活用ください。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_rule_quiz.png" alt="compro reminder">
+  </div>
+
+注3: 開催日時は急きょ変更されることもあるため、最新の情報をTwitterアカウントやWebサービスで確認することを推奨いたします。
 
 - Twitterで[公式アカウント](https://twitter.com/atcoder)や[AtCoder](https://atcoder.jp/)社長の[chokudai](https://twitter.com/chokudai)さんをフォローすると、最新の情報が得られます。
 
