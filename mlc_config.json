@@ -11,6 +11,9 @@
     },
     {
       "pattern": "^https://beet-aizu.hatenablog.com/"
+    },
+    {
+      "pattern": "^../"
     }
   ],
   "httpHeaders": [
