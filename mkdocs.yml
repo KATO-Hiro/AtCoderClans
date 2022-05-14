@@ -112,7 +112,6 @@ nav:
       - user_scripts/for_developers.md
     - Google Chromeの拡張機能:
       - chrome_extensions/index.md
-      - chrome_extensions/fetch_samplecases.md
       - chrome_extensions/solve_problems.md
       - chrome_extensions/view_perf_and_rating.md
       - chrome_extensions/improve_ui.md
