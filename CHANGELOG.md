@@ -8,6 +8,7 @@ filename: CHANGELOG
 
 ### 2022-05-14
 
+- [#3968](https://github.com/KATO-Hiro/AtCoderClans/pull/3968) - (破壊的な変更) 削除もしくは非公開にされたと思われるGitHubレポジトリを確認したため、「Archived」ページに移動。
 - [#3965](https://github.com/KATO-Hiro/AtCoderClans/pull/3965) - 「[For Beginners](https://kato-hiro.github.io/AtCoderClans/for_beginners)」ページと「[Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app)」ページに、Webサイト「[AtCoderルールクイズ](https://quiz-maker.site/quiz/play/IuEjiJ20220508114221)」を追加。
 
 ### 2022-05-13
