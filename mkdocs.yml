@@ -87,8 +87,8 @@ nav:
     - recommendation/index.md
     - recommendation/solve_problems.md
     - recommendation/submit_codes.md
-    - recommendation/collect_info.md
     - recommendation/improve_ui.md
+    - recommendation/collect_info.md
   - Web apps:
     - web_app/index.md
     - Webアプリ、Webサイト:
