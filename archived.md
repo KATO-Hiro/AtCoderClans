@@ -310,6 +310,15 @@ filename: archived
 - [comp-prog-jp-library-standard/competitive-programming-library](https://github.com/comp-prog-jp-library-standard/competitive-programming-library) - 競技プログラミングのための共通ライブラリをまとめようとしたプロジェクト。
   - 理由: 記載なし。
   - 代替手段: [AtCoder Library (ACL)](https://atcoder.jp/posts/517)や[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)などで公開されているライブラリを利用するか、自分で作成する。
+
+<!-- markdown-link-check-disable -->
+
+- [Notificate AtCoder Date to Slack](https://github.com/EisKern/notification-slack-atcoder-date) - コンテストの1、24時間前に通知する。ベータ版。
+  - 理由: 記載なし。
+  - 代替手段: [Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app)に掲載しているコンテストの日程を通知するBotを利用する。
+
+<!-- markdown-link-check-enable -->
+
 - [wacchoz/kyopro](https://github.com/wacchoz/kyopro) - 過去問の難易度を推定している。2019年11月以降は、更新が途絶えている。
   - 理由: 記載なし。
   - 代替手段: [AtCoder Problems](https://kenkoooo.com/atcoder/)で確認できる。
