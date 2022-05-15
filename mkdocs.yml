@@ -169,7 +169,9 @@ nav:
     - SNS: sns/index.md
   - Videos:
     - videos/index.md
-    - videos/youtube.md
+    - YouTube:
+      - youtube/video.md
+      - youtube/channel.md
     - videos/niconico.md
     - videos/archived_video.md
   - Milestones:
