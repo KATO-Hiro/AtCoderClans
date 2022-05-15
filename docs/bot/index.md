@@ -50,6 +50,12 @@ title: Bot
       <img loading = "lazy" src="../images/web_app/atcoder_alert.png" alt="atcoder alert">
     </div>
 
+- [AtCoderお知らせ更新情報 (非公式)](https://twitter.com/AtCoderInfoBot) - [AtCoder](https://atcoder.jp/)公式のお知らせが更新されたときに通知する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_info_bot.png" alt="atcoder info bot">
+    </div>
+
 - [AtCoder コンテスト実況 Bot](https://twitter.com/cpcontest_bot?lang=en) - コンテスト開催中に登録されているユーザの順位が上がったら通知する。
 
     <div align="center">
