@@ -37,9 +37,9 @@ theme:
         name: Switch to light mode
 
   icon:
-    logo: material/movie-open
     repo: fontawesome/brands/github
   favicon: images/favicon/android-chrome-512x512.png
+  logo: images/favicon/android-chrome-512x512.png
 
 
 # Plugins
