@@ -13,6 +13,9 @@
       "pattern": "^https://beet-aizu.hatenablog.com/"
     },
     {
+      "pattern": "^./"
+    },
+    {
       "pattern": "^../"
     }
   ],
