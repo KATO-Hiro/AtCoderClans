@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-05-15
+
+- [#3977](https://github.com/KATO-Hiro/AtCoderClans/pull/3977) - 「[Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app)」ページに、Twitter Bot「[AtCoderお知らせ更新情報 (非公式)](https://twitter.com/AtCoderInfoBot)」を追加。
+
 ### 2022-05-14
 
 - [#3968](https://github.com/KATO-Hiro/AtCoderClans/pull/3968) - (破壊的な変更) 削除もしくは非公開にされたと思われるGitHubレポジトリを確認したため、「Archived」ページに移動。
