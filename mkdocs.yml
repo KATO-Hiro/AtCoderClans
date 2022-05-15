@@ -124,11 +124,22 @@ nav:
     - cli/solver.md
     - cli/programming_languages.md
     - cli/tools_for_writers.md
-  - Libraries:
+  - Libraries and Snippets:
     - libraries/index.md
-    - libraries/atcoder_library.md
-    - libraries/libraries.md
+    - AtCoder Library (ACL):
+      - libraries/atcoder_library.md
+      - libraries/articles.md
+      - libraries/porting_of_acl.md
     - libraries/library_checker.md
+    - 有志による公開ライブラリ:
+      - libraries/libraries.md
+      - libraries/cpp.md
+      - libraries/csharp.md
+      - libraries/d.md
+      - libraries/java.md
+      - libraries/python.md
+      - libraries/rust.md
+      - libraries/others.md
   - Articles and Books:
     - media/index.md
     - 記事:
