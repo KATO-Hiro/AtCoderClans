@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-05-16
+
+- [#3984](https://github.com/KATO-Hiro/AtCoderClans/pull/3984) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[k1suxu](https://atcoder.jp/users/k1suxu)さんの[記事](https://k1suxu.hatenablog.com/entry/2022/05/15/173243)を追加。
+
 ### 2022-05-15
 
 - [#3977](https://github.com/KATO-Hiro/AtCoderClans/pull/3977) - 「[Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app)」ページに、Twitter Bot「[AtCoderお知らせ更新情報 (非公式)](https://twitter.com/AtCoderInfoBot)」を追加。
