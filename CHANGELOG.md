@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-05-17
+
+- [#3991](https://github.com/KATO-Hiro/AtCoderClans/pull/3991) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング400から799まで(茶色)に[King314](https://atcoder.jp/users/King314)さんの[記事](https://note.com/syntax_error_/n/ndded92400e46)を追加。
+
 ### 2022-05-16
 
 - [#3984](https://github.com/KATO-Hiro/AtCoderClans/pull/3984) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
