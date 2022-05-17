@@ -504,7 +504,7 @@ filename: media
 ### オンラインプログラミング検定
 
 - [第4回アルゴリズム実技検定を10/25(日)〜11/8(日)に開催 2021年の年間試験日程も発表](https://prtimes.jp/main/html/rd/p/000000030.000028415.html) - [AtCoder](https://atcoder.jp/)が開催するオンラインプログラミング検定「アルゴリズム実技検定」の日程を紹介した記事。同検定では、「1からプログラムを作成する能力を問う、実践を想定した日本初の検定」である点に特徴がある([過去問のリンク](https://atcoder.jp/contests/archive?ratedType=0&category=50&keyword=))。また、成績に応じた認定証が発行される。
-  - [31万名超が参加登録する競技プロのAtCoder、実践を想定したプログラミング検定「アルゴリズム実技検定」実施日程を発表](https://jp.techcrunch.com/2022/01/28/atcoder-past-2022/?guccounter=1&guce_referrer=aHR0cHM6Ly90LmNvLw&guce_referrer_sig=AQAAABoQrlhUEboNcj6jcftBj_q4lGXydIEgCkwxXMa7ph63geO_KMxj9GKr3qAvhqVFl3gTHkO_zPhyk-zO4p4ELD2RzWsoVWYF51vXw6vqqQdJtrYJI0DPBhs44PXnw5SCg4EzTAC68nnxcOFGbw1etEP69-Xk-NhapcD7k5n4n2vA) - 2022年における「アルゴリズム実技検定」の実施日程が紹介されている記事。
+  - [31万名超が参加登録する競技プロのAtCoder、実践を想定したプログラミング検定「アルゴリズム実技検定」実施日程を発表](https://prtimes.jp/main/html/rd/p/000000036.000028415.html) - 2022年における「アルゴリズム実技検定」の実施日程が紹介されている記事。
 
 ### 部活、サークル、同好会
 
