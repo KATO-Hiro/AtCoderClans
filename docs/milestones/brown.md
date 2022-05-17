@@ -7,6 +7,7 @@ title: レーティング400〜799(茶色)
 - [Atcoderで茶色になりました - sin471のブログ](https://sin471.hatenablog.com/entry/2022/02/06/003702) - [sin471](https://atcoder.jp/users/sin471)さんが、2022年2月5日に達成。
 - [AtCoderで入茶出来たので現状を振り返る](https://qiita.com/korosho/items/a20a404e7022ce9708b8) - [korosho](https://atcoder.jp/users/korosho)さんが、2022年2月5日に達成。
 - [競プロ史上最も頭の悪い色変記事　〜遠回り入茶記〜 - 脳筋ぱそこんおゆうぎ！](https://fujikawa.hatenablog.com/entry/2022/04/18/203545) - [fujikawahiroaki](https://atcoder.jp/users/fujikawahiroaki)さんが、2022年4月16日に達成。
+- [AtCoder入茶！](https://note.com/syntax_error_/n/ndded92400e46) - [King314](https://atcoder.jp/users/King314)さんが、2022年5月8日に達成。
 
 ## 2021年
 
