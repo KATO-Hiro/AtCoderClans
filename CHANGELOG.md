@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-05-20
+
+- [#4002](https://github.com/KATO-Hiro/AtCoderClans/pull/4002) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング400から799まで(茶色)に[sansai](https://atcoder.jp/users/sansai)さんの[記事](https://note.com/lucky_alpaca549/n/n5357b4f33a42)を追加。
+
 ### 2022-05-19
 
 - [#3999](https://github.com/KATO-Hiro/AtCoderClans/pull/3999) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[競プロ部の紹介](https://note.com/t_fuki889/n/nc4ecec3265e2)」を追加。
