@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-05-21
+
+- [#4005](https://github.com/KATO-Hiro/AtCoderClans/pull/4005) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[tamura2004](https://atcoder.jp/users/tamura2004)さんの[記事](https://qiita.com/tamura2004/items/e5828162db074bb664a7)を追加。
+
 ### 2022-05-20
 
 - [#4002](https://github.com/KATO-Hiro/AtCoderClans/pull/4002) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
