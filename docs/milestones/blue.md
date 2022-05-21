@@ -11,6 +11,7 @@ title: レーティング1600〜1999(青色)
 - [医学生がAtCoderで青色になった話【色変記事】](https://qiita.com/rinmao_catlover/items/bbbf6767a6a028562c80) - [rinmao](https://atcoder.jp/users/rinmao)さんが、2022年3月10日に公開。
 - [AtCoderで青色になったので、yukicoderをお勧めしてみる](https://qiita.com/H20/items/f62382df263ec79acebd) - [H20](https://atcoder.jp/users/H20)さんが、2022年5月8日に達成。
 - [青色コーダー(AtCoder)になりました！！ - k1suxuの競プロ日記](https://k1suxu.hatenablog.com/entry/2022/05/15/173243) - [k1suxu](https://atcoder.jp/users/k1suxu)さんが、2022年5月14日に達成。
+- [CrystalでAtCoder青色になりました（色変記事）](https://qiita.com/tamura2004/items/e5828162db074bb664a7) - [tamura2004](https://atcoder.jp/users/tamura2004)さんが、2022年5月14日に達成。
 
 ## 2021年
 
