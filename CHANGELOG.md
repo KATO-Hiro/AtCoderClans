@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-05-22
+
+- [#4011](https://github.com/KATO-Hiro/AtCoderClans/pull/4011), [#4012](https://github.com/KATO-Hiro/AtCoderClans/pull/4012) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのアルゴリズム部門に、最高レーティングが2000以上に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+
 ### 2022-05-21
 
 - [#4005](https://github.com/KATO-Hiro/AtCoderClans/pull/4005) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
