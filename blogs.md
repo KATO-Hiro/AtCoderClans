@@ -86,6 +86,7 @@ filename: blogs
 |DEGwer|[はてなブログ](https://degwer.hatenablog.com/)|2019年7月以降、新規の記事を確認できず。|
 |E869120|[はてなブログ](https://e869120.hatenablog.com/)、[Qiita](https://qiita.com/e869120)||
 |heno239|[はてなブログ](https://heno239.hatenablog.com/)||
+|hitoare|[はてなブログ](https://hitoare.hatenablog.com/)||
 |hitonanode|[はてなブログ](https://rsm9.hatenablog.com/)||
 |hogloid|[はてなブログ](https://hogloid.hatenablog.com/)||
 |hos_lyric|[自作ブログ](http://hos.ac/blog/)|2015年2月以降、新規の記事を確認できず。|
@@ -178,7 +179,6 @@ filename: blogs
 |drken|[はてなブログ](https://drken1215.hatenablog.com/)、 [Qiita](https://qiita.com/drken)|[問題解決力を鍛える!アルゴリズムとデータ構造](https://www.amazon.co.jp/dp/4065128447/)の著者。[アルゴ式](https://algo-method.com/)の運営者。|
 |ei13333|[はてなブログ](https://ei1333.hateblo.jp/)||
 |enjapma|[はてなブログ](https://enjapma.hatenablog.com/)||
-|hitoare|[はてなブログ](https://hitoare.hatenablog.com/)||
 |Hoi_koro|[はてなブログ](https://hoikoro.hatenablog.com/)|2019年3月以降、新規の記事を確認できず。|
 |hotman78|[はてなブログ](https://hotman78.hatenablog.com/)||
 |gasin|[はてなブログ](https://gasin.hatenadiary.jp/)||
