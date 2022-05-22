@@ -288,6 +288,7 @@ filename: blogs
 |Luzhiled|[はてなブログ](https://luzhiled.hatenablog.com/)||
 |mayoko|[はてなブログ](https://mayokoex.hatenablog.com/)|2019年12月以降、新規の記事を確認できず。|
 |maze1230|[はてなブログ](https://pazzle1230.hatenablog.com/)||
+|merom686|[はてなブログ](https://merom686.hatenablog.com/)||
 |milkcoffee|[はてなブログ](https://milkcoffee.hatenablog.jp/)||
 |monkukui|[はてなブログ](https://monkukui.hatenablog.com/)||
 |m_tsubasa|[はてなブログ](https://emtubasa.hateblo.jp/)||
