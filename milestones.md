@@ -202,10 +202,6 @@ filename: milestones
 - [AtCoder赤になりました - kort0nの日記](https://kort0n.hatenablog.com/entry/2021/01/10/065058) - [kort0n](https://atcoder.jp/users/kort0n)さんが、2021年1月9日に達成。
 - [AtCoder 赤色になりました - kotatsugameの日記](https://kotatsugame.hatenablog.com/entry/2021/07/19/074506) - [kotatsugame](https://atcoder.jp/users/kotatsugame)さんが、2021年7月18日に達成。
 
-## 競技プログラマーが休止中の気持ちをまとめた記事
-
-- [競技プログラミングを休んでいる理由 - little star's memory](https://koboshi-kyopro.hatenablog.com/entry/2021/05/24/012158) - [koboshi](https://atcoder.jp/users/koboshi)さんが2021年5月24日に公開。
-
 ## 競技プログラマーが現役引退を表明した記事
 
 - [Retiring from competitive competitive programming](https://codeforces.com/blog/entry/86174) - 競技プログラミングの世界大会で長年活躍された[rng_58](https://twitter.com/rng_58)さんが、現役引退を表明した記事。
