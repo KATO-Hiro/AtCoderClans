@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-05-23
+
+- [#4019](https://github.com/KATO-Hiro/AtCoderClans/pull/4019), [#4014](https://github.com/KATO-Hiro/AtCoderClans/pull/4014) - (破壊的な変更) リンク切れと思われる記事を「Archived」ページに移動。
+
 ### 2022-05-22
 
 - [#4011](https://github.com/KATO-Hiro/AtCoderClans/pull/4011), [#4012](https://github.com/KATO-Hiro/AtCoderClans/pull/4012) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのアルゴリズム部門に、最高レーティングが2000以上に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
@@ -273,7 +277,7 @@ filename: CHANGELOG
 ### 2022-03-23
 
 - [#3711](https://github.com/KATO-Hiro/AtCoderClans/pull/3711) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[北大日立新概念マラソンでやった高速化色々](http://web.archive.org/web/20200105011004/https://topcoder.g.hatena.ne.jp/tomerun/20171216/)」を追加。
-- [#3709](https://github.com/KATO-Hiro/AtCoderClans/pull/3709) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「競技プログラマーが休止中の気持ちをまとめた記事」を新設。[記事](https://koboshi-kyopro.hatenablog.com/entry/2021/05/24/012158)を追加。
+- [#3709](https://github.com/KATO-Hiro/AtCoderClans/pull/3709) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「競技プログラマーが休止中の気持ちをまとめた記事」を新設。記事を追加。
 
 ### 2022-03-22
 
