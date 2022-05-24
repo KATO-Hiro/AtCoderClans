@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-05-24
+
+- [#4023](https://github.com/KATO-Hiro/AtCoderClans/pull/4023) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング800から1199まで(緑色)に[Ajinoko](https://atcoder.jp/users/Ajinoko)さんの[記事](https://ajinoko33.hatenablog.com/entry/2022/05/22/230450)を追加。
+
 ### 2022-05-23
 
 - [#4019](https://github.com/KATO-Hiro/AtCoderClans/pull/4019), [#4014](https://github.com/KATO-Hiro/AtCoderClans/pull/4014) - (破壊的な変更) リンク切れと思われる記事を「Archived」ページに移動。
