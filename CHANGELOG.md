@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-05-25
+
+- [#4027](https://github.com/KATO-Hiro/AtCoderClans/pull/4027) - 「[Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app)」ページに、Twitter Bot「[ABC bot](https://twitter.com/abc_notifier)」を追加。
+
 ### 2022-05-24
 
 - [#4023](https://github.com/KATO-Hiro/AtCoderClans/pull/4023) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
