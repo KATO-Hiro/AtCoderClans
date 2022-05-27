@@ -6,6 +6,12 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-05-27
+
+- [#4037](https://github.com/KATO-Hiro/AtCoderClans/pull/4037) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[直感でわかる、ヒューリスティック問題の羅針盤 ～貪欲法から山登り法まで～](https://qiita.com/square1001/items/84604f79f55ff10d99b0)」を追加。
+- [#4036](https://github.com/KATO-Hiro/AtCoderClans/pull/4036) - 「[Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app)」ページで掲載しているWebアプリ「[AtCoder Heuristic Rating Estimator](https://3w36zj6.github.io/atcoder-heuristic-rating-estimator/)」に以下の記事を追加。
+  - [AtCoder Heuristic Contestのレーティング予測計算機を作った](https://zenn.dev/3w36zj6/articles/5797217ce0f9ee)
+
 ### 2022-05-26
 
 - [#4030](https://github.com/KATO-Hiro/AtCoderClans/pull/4030) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
