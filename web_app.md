@@ -215,7 +215,7 @@ filename: web_app
   <div align="center"> <img loading = "lazy" src="images/web_app/atcoder_rating_estimator.png" alt="atcoder rating estimator">
   </div>
 
-- [AtCoder Heuristic Rating Estimator](https://3w36zj6.github.io/atcoder-heuristic-rating-estimator/) - AtCoder Heuristic Contest(AHC)の今までのパフォーマンスを入力することで、目標とするレーティングに到達するために次のコンテストで必要となるパフォーマンスを表示する。
+- [AtCoder Heuristic Rating Estimator](https://3w36zj6.github.io/atcoder-heuristic-rating-estimator/) - AtCoder Heuristic Contest(AHC)の今までのパフォーマンスを入力することで、目標とするレーティングに到達するために次のコンテストで必要となるパフォーマンスを表示する。作者による[技術解説記事](https://zenn.dev/3w36zj6/articles/5797217ce0f9ee)も公開されている。
 
   <div align="center"> <img loading = "lazy" src="images/web_app/atcoder_heuristic_rating_estimator.png" alt="atcoder heuristic rating estimator">
   </div>
