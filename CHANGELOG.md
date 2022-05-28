@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-05-28
+
+- [#4045](https://github.com/KATO-Hiro/AtCoderClans/pull/4045) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[Pythonのdict()が特定の入力に対し非常に遅い件について](https://qiita.com/Shirotsume/items/890afc81988c63ae9603)」を追加。
+
 ### 2022-05-27
 
 - [#4037](https://github.com/KATO-Hiro/AtCoderClans/pull/4037) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[直感でわかる、ヒューリスティック問題の羅針盤 ～貪欲法から山登り法まで～](https://qiita.com/square1001/items/84604f79f55ff10d99b0)」を追加。
