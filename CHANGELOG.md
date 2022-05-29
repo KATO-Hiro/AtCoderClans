@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-05-29
+
+- [#4048](https://github.com/KATO-Hiro/AtCoderClans/pull/4048) - 「[For Beginners](https://kato-hiro.github.io/AtCoderClans/for_beginners)」ページに、記事「[チュートリアル - AtCoder](https://atcoder.jp/posts/37)」を追加。
+
 ### 2022-05-28
 
 - [#4045](https://github.com/KATO-Hiro/AtCoderClans/pull/4045) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[Pythonのdict()が特定の入力に対し非常に遅い件について](https://qiita.com/Shirotsume/items/890afc81988c63ae9603)」を追加。
