@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-05-30
+
+- [#4050](https://github.com/KATO-Hiro/AtCoderClans/pull/4050) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[プログラミング言語Crystalで競プロをする際のテクニックまとめ](https://qiita.com/hakatashi/items/0892366ea47f1e88083d)」を追加。
+
 ### 2022-05-29
 
 - [#4048](https://github.com/KATO-Hiro/AtCoderClans/pull/4048) - 「[For Beginners](https://kato-hiro.github.io/AtCoderClans/for_beginners)」ページに、記事「[チュートリアル - AtCoder](https://atcoder.jp/posts/37)」を追加。

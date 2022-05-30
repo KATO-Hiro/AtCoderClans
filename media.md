@@ -29,6 +29,7 @@ filename: media
   - [コードを実装するときの工夫](#%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AE%E5%B7%A5%E5%A4%AB)
     - [特定の言語に依存しない内容](#%E7%89%B9%E5%AE%9A%E3%81%AE%E8%A8%80%E8%AA%9E%E3%81%AB%E4%BE%9D%E5%AD%98%E3%81%97%E3%81%AA%E3%81%84%E5%86%85%E5%AE%B9)
     - [CPlusPlus](#cplusplus-1)
+    - [Crystal](#crystal)
     - [CSharp](#csharp)
     - [dc](#dc)
     - [JavaScript](#javascript)
@@ -349,6 +350,10 @@ filename: media
 - [代数的構造を乗せるデータ構造の設計について](https://noshi91.hatenablog.com/entry/2020/04/22/212649) - 代数的構造を乗せるデータ構造の設計方法について、「静的メンバを実装した型を受け取る」方法を中心とした5種類を比較し、その利点・欠点を解説している。
 - [Dinic法とその時間計算量](http://misawa.github.io/others/flow/dinic_time_complexity.html) - Dinic法(最大流問題を効率的に解くことができ、かつ、比較的実装が容易なアルゴリズム)について、標準的な実装方法を解説した記事。実装を間違えると、計算量が指数オーダーになることが指摘されている。
 - [任意modでの畳み込み演算をO(nlog(n))で](https://math314.hateblo.jp/entry/2015/05/07/014908) - 畳み込み演算を行うときに、任意のmodを使って高速に計算する方法・実装について解説した記事。
+
+#### Crystal
+
+- [プログラミング言語Crystalで競プロをする際のテクニックまとめ](https://qiita.com/hakatashi/items/0892366ea47f1e88083d) - Crystalでコンテストに参加するときに陥りがちな点をまとめた記事。注: 記事の最終更新が2020年3月とやや時間が経過しているため、コンテスト前にジャッジシステムで動作確認を行うことを推奨。
 
 #### CSharp
 
