@@ -350,6 +350,10 @@ filename: media
 - [Dinic法とその時間計算量](http://misawa.github.io/others/flow/dinic_time_complexity.html) - Dinic法(最大流問題を効率的に解くことができ、かつ、比較的実装が容易なアルゴリズム)について、標準的な実装方法を解説した記事。実装を間違えると、計算量が指数オーダーになることが指摘されている。
 - [任意modでの畳み込み演算をO(nlog(n))で](https://math314.hateblo.jp/entry/2015/05/07/014908) - 畳み込み演算を行うときに、任意のmodを使って高速に計算する方法・実装について解説した記事。
 
+#### Crystal
+
+- [プログラミング言語Crystalで競プロをする際のテクニックまとめ](https://qiita.com/hakatashi/items/0892366ea47f1e88083d) - Crystalでコンテストに参加するときに陥りがちな点をまとめた記事。注: 記事の最終更新が2020年3月とやや時間が経過しているため、コンテスト前にジャッジシステムで動作確認を行うことを推奨。
+
 #### CSharp
 
 - [ハイパー LINQ集 (AtCoder 2020年4月)](https://avant-garde-code.hatenablog.com/entry/hyper-linq-atcoder-202004) - LINQを利用して簡潔に書ける例題を紹介した記事。
