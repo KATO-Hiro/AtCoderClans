@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-05-31
+
+- [#4056](https://github.com/KATO-Hiro/AtCoderClans/pull/4056) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1200から1599まで(水色)に[okabi](https://atcoder.jp/users/okabi)さんの[記事](https://ibako-piyo.hatenablog.com/entry/2022/05/29/122457)を追加。
+
 ### 2022-05-30
 
 - [#4050](https://github.com/KATO-Hiro/AtCoderClans/pull/4050) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[プログラミング言語Crystalで競プロをする際のテクニックまとめ](https://qiita.com/hakatashi/items/0892366ea47f1e88083d)」を追加。
