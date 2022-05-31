@@ -111,6 +111,7 @@ filename: milestones
 - [ARC133感想(本サイト運営者による注:水色コーダー達成に関する内容を含む) - 無能が競プロやってみる](https://iiko-11.hatenablog.com/entry/2022/01/23/001327) - [iiko11](https://atcoder.jp/users/iiko11)さんが、2022年1月22日に達成。
 - [【色変記事】力技での入水](https://qiita.com/vi_24E/items/2baab6c152d74a7321c1) - [Yutchy591](https://atcoder.jp/users/Yutchy591)さんが、2022年2月27日に達成。
 - [【色変記事】転職を機に一度やめた競プロを復帰して水色になれました](https://qiita.com/okaponta_/items/95edd5dd312087da28d8) - [okaponta](https://atcoder.jp/users/okaponta)さんが、2022年4月2日に達成。
+- [116. AtCoder水色になりました - イバコの生存記録](https://ibako-piyo.hatenablog.com/entry/2022/05/29/122457) - [okabi](https://atcoder.jp/users/okabi)さんが、2022年5月28日に達成。
 
 ### レーティング1600から1999まで(青色)
 
