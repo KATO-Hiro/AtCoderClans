@@ -267,6 +267,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_colouring_difference.png" alt="atcoder colouring difference">
   </div>
 
+- [AtCoder Comfortable Editor](https://greasyfork.org/ja/scripts/445582-atcoder-comfortable-editor) - 提出に関するページで、コードの表示に関する設定(カラーテーマ、タブ、行数など)をカスタマイズできる。注: [AtCoder Beautiful Code View](https://greasyfork.org/ja/scripts/444280-atcoder-beautiful-code-view)との併用はできない。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_comfortable_editor.png" alt="atcoder comfortable editor">
+  </div>
+
 - [AtCoder Custom Default Submissions](https://greasyfork.org/ja/scripts/393705-atcoder-custom-default-submissions) - 「すべての提出」ページにおける絞り込み、並び替え設定のデフォルト値を設定できる。
 
   <div align="center">
