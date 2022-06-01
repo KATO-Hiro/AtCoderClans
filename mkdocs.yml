@@ -120,9 +120,9 @@ nav:
     - cli/index.md
     - cli/test_tools.md
     - cli/template_testcase_generator.md
-    - cli/backup_tools.md
-    - cli/solver.md
     - cli/programming_languages.md
+    - cli/solver.md
+    - cli/backup_tools.md
     - cli/tools_for_writers.md
   - Libraries and Snippets:
     - libraries/index.md
