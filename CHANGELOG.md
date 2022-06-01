@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-06-01
+
+- [#4059](https://github.com/KATO-Hiro/AtCoderClans/pull/4059) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、ユーザスクリプト「[AtCoder Comfortable Editor](https://greasyfork.org/ja/scripts/445582-atcoder-comfortable-editor)」を追加。
+- [#4058](https://github.com/KATO-Hiro/AtCoderClans/pull/4058) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのアルゴリズム部門で、ユーザの昇段に伴い掲載するレーティング帯を変更。
+
 ### 2022-05-31
 
 - [#4056](https://github.com/KATO-Hiro/AtCoderClans/pull/4056) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
