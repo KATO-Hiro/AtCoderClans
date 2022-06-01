@@ -94,6 +94,7 @@ title: C&#43;&#43;
 |sak|[Qiita](https://qiita.com/sakofsuken)、[note](https://note.com/sak_algo)|[アルゴ式](https://algo-method.com/)の運営・開発者。|
 |sapphire15|[はてなブログ](https://sapphire15.hatenablog.com/)||
 |satanic0258|[はてなブログ](https://satanic0258.hatenablog.com/)|2018年9月以降、新規の記事を確認できず。|
+|Shun_PI|[Qiita](https://qiita.com/Shun_PI)||
 |smiken|[はてなブログ](https://smiken.hatenablog.com/)|2019年10月以降、新規の記事を確認できず。|
 |tokoharu|[はてなブログ](https://tokoharuland.hateblo.jp/)|2020年1月以降、新規の記事を確認できず。|
 |Trineutron|[Qiita](https://qiita.com/trineutron)||
@@ -158,7 +159,6 @@ title: C&#43;&#43;
 |seica|[はてなブログ](https://seica-at.hatenablog.com/)||
 |Series_205|[Qiita](https://qiita.com/Series_205)||
 |set0gut1|[Qiita](https://qiita.com/set0gut1)|2019年8月以降、新規の記事を確認できず。|
-|Shun_PI|[Qiita](https://qiita.com/Shun_PI)||
 |souta_1326|[Qiita](https://qiita.com/souta_1326)||
 |Suibaka|[はてなブログ](https://suikaba.hatenablog.com/)||
 |suisen|[はてなブログ](https://suisen-kyopro.hatenablog.com)||
