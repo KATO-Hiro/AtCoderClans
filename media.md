@@ -527,7 +527,6 @@ filename: media
 ### 開発に関心のある人向けの記事
 
 - [「AtCoder 競技プログラマー就職企業人気ランキング2021」を発表](https://prtimes.jp/main/html/rd/p/000000035.000028415.html) - [AtCoder](https://atcoder.jp/)がユーザに対して実施した人気企業ランキング(2021年版)をまとめた記事。
-- [AtCoder純粋培養緑コーダーが転職ACするまで](https://seashellpink-frostywhite.hatenablog.com/entry/2021/03/31/185821) - [riano_](https://atcoder.jp/users/riano_)さんが[AtCoderJobs](https://jobs.atcoder.jp/)を利用してIT業界未経験の状態から転職した経験談を紹介した記事。
 - [AtCoder Jobsを使って転職しました](https://xkttqm.hatenablog.com/entry/2021/08/04/230000) - IT業界未経験の状態から転職を考えたきっかけ・[AtCoderJobs](https://jobs.atcoder.jp/)を利用した転職活動が紹介されている記事。
 - [AtCoderでしかプログラミングを知らない生物学徒がハッカソンに挑戦してみた話](https://tsuna-lab.hatenablog.com/entry/2021/04/28/233453) - ハッカソンに初めて参加した筆者が、チーム開発で経験した内容を紹介した記事。
 - [エンジニア人材の志向を理解した選考デザインと対話が採用成功のカギ！](https://saponet.mynavi.jp/column/detail/20211208135429.html) - ITコンサルタント会社における競技プログラマーの採用活動を紹介した記事。
