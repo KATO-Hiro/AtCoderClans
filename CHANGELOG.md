@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-06-02
+
+- [#4063](https://github.com/KATO-Hiro/AtCoderClans/pull/4063) - (破壊的な変更) リンク切れと思われる記事を一時的に「Archived」ページに移動。
+
 ### 2022-06-01
 
 - [#4059](https://github.com/KATO-Hiro/AtCoderClans/pull/4059) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、ユーザスクリプト「[AtCoder Comfortable Editor](https://greasyfork.org/ja/scripts/445582-atcoder-comfortable-editor)」を追加。
