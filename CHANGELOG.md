@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-06-04
+
+- [#4071](https://github.com/KATO-Hiro/AtCoderClans/pull/4071) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、書籍「[アルゴリズム的思考力が身につく! プログラミングコンテストAtCoder入門](https://www.amazon.co.jp/dp/404604408X/)」を追加。
+
 ### 2022-06-03
 
 - [#4068](https://github.com/KATO-Hiro/AtCoderClans/pull/4068) - (破壊的な変更) リンク切れと思われる記事を一時的に「Archived」ページに移動。
