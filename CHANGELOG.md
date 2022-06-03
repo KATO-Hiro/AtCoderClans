@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-06-03
+
+- [#4068](https://github.com/KATO-Hiro/AtCoderClans/pull/4068) - (破壊的な変更) リンク切れと思われる記事を一時的に「Archived」ページに移動。
+
 ### 2022-06-02
 
 - [#4063](https://github.com/KATO-Hiro/AtCoderClans/pull/4063) - (破壊的な変更) リンク切れと思われる記事を一時的に「Archived」ページに移動。
