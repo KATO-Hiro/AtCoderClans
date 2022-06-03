@@ -14,7 +14,6 @@ title: 部活・サークル・同好会
 
 ## 社会人
 
-- [AtCoder座談会 - deepblue](https://deepblue-ts.co.jp/competition/atcoder_symposium/) - 株式会社deepblueのメンバーによる座談会。練習方法や好きな問題、今後の目標などについて語られている。
 - [競技プログラミング部活動をはじめました - MMM公式ブログ](https://blog.mmmcorp.co.jp/blog/2020/12/26/competitive-programming-club/) - 株式会社MMMの「競技プログラミング部」に関する記事。部活動を始めたきっかけ、活動内容、部活動によるメリット、社内制度が紹介されている。
 - [競プロ部の紹介](https://note.com/t_fuki889/n/nc4ecec3265e2) - [株式会社オプティマインド](https://www.optimind.tech/)の競プロ部の活動内容(メンバー・社内バーチャルコンテスト・勉強会など)を紹介した記事。
 - [「ゆるふわ競技プログラミングオンサイト at FORCIA #2」を開催しました](https://www.forcia.com/blog/001393.html) - 初級〜中級競技プログラマを対象としたオンサイトイベントについて、主催者がイベント当日の内容・感想をまとめた記事。
