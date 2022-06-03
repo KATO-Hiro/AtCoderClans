@@ -515,7 +515,6 @@ filename: media
 
 ### 部活、サークル、同好会
 
-- [AtCoder座談会 - deepblue](https://deepblue-ts.co.jp/competition/atcoder_symposium/) - 株式会社deepblueのメンバーによる座談会。練習方法や好きな問題、今後の目標などについて語られている。
 - [競技プログラミング部活動をはじめました - MMM公式ブログ](https://blog.mmmcorp.co.jp/blog/2020/12/26/competitive-programming-club/) - 株式会社MMMの「競技プログラミング部」に関する記事。部活動を始めたきっかけ、活動内容、部活動によるメリット、社内制度が紹介されている。
 - [「競技プログラミング」という青春　「開成―東大」天才学生たちの世界への挑戦](https://www.dailyshincho.jp/article/2021/04140602/) - 国際大学対抗プログラミングコンテスト（ICPC）に挑戦する学生たちを紹介した記事。学内での熾烈な代表争い、競技プログラミングとの出会い・挫折と成長、団体戦の醍醐味などが書かれている。
 - [競プロ部の紹介](https://note.com/t_fuki889/n/nc4ecec3265e2) - [株式会社オプティマインド](https://www.optimind.tech/)の競プロ部の活動内容(メンバー・社内バーチャルコンテスト・勉強会など)を紹介した記事。
