@@ -32,5 +32,4 @@ title: プログラミング言語を学ぶ
 - [atcoder-rust-resources](https://doc.rust-jp.rs/atcoder-rust-resources/) - コンテストにRustで参加するためのガイドブック。
 
     !!! warning "注意"
-
         現在は、日本語のみ対応。また、執筆途中の項目もある。
