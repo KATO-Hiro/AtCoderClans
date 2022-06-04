@@ -44,7 +44,6 @@ title: コードを実装するときの工夫
 
 - [厳選！C++ アルゴリズム実装に使える25のSTL機能【前編】](https://qiita.com/e869120/items/518297c6816adb67f9a5) - 競技プログラミングコンテストへの参加やアルゴリズムの学習で便利なC++の標準ライブラリ(STL)と実装例が紹介されている。[後編](https://qiita.com/e869120/items/702ca1c1ed6ff6770257)もある。
 - [競プロに便利なC++17新機能まとめ](https://qiita.com/Reputeless/items/db7dda0096f3ae91d450) - 競技プログラミングに役立つC++17の標準ライブラリ、言語機能が16種類紹介されている。記事のサンプルコードは、[AtCoder](https://atcoder.jp/)のGCC9.2.1システムで動作確認済み。
-- [競プロのための標準 C++](https://zenn.dev/reputeless/books/standard-cpp-for-competitive-programming) - C++の主要な標準機能について、解説とサンプルがまとめられているオンラインドキュメント。
 - [競プロで便利なC++20新機能](https://qiita.com/Chippppp/items/620d2e5229f5c7e93f0c) - C++20の新機能のうち、競技プログラミングで便利な計16種類の標準ライブラリ・言語機能をまとめた記事。
 
     !!! warning "注意"
