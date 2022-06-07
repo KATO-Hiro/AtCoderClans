@@ -16,7 +16,7 @@ title: 解説ブログ・解説サイト
 
 - [アルゴリズムロジック](https://algo-logic.info/) - [kami634](https://atcoder.jp/users/kami634)さんのアルゴリズム解説サイト。
 - [けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/) - [drken](https://atcoder.jp/users/drken)さんの解説ブログ。また、[Qiita](https://qiita.com/drken)に初見では理解が難しい概念の解説記事が多数掲載されている。
-- [はまやん はまやん はまやん](https://www.hamayanhamayan.com/archive/category/%E7%AB%B6%E6%8A%80%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0) - [hamayanhamayan](https://atcoder.jp/users/hamayanhamayan)さんの解説ブログ。主にAtCoder Beginner ContestのC〜F問題を対象とした記事が継続的に更新されている。
+- [はまやん はまやん はまやん](https://blog.hamayanhamayan.com/archive/category/%E7%AB%B6%E6%8A%80%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0) - [hamayanhamayan](https://atcoder.jp/users/hamayanhamayan)さんの解説ブログ。主にAtCoder Beginner ContestのC〜F問題を対象とした記事が継続的に更新されている。
 - [E869120](https://qiita.com/e869120) - [E869120](https://atcoder.jp/users/E869120)さんのQiitaアカウント。初心者から上級者向けの記事が多数公開されている。
 - [kmjp's blog](https://kmjp.hatenablog.jp/) - [kmjp](https://atcoder.jp/users/kmjp)さんの解説ブログ。複数のコンテストサイトにおける高難易度の問題の解説が多数掲載されている。
 - [noshi91のメモ](https://noshi91.hatenablog.com/) - [noshi91](https://atcoder.jp/users/noshi91)さんの解説ブログ。データ構造に関する記事が多いのが特徴。
