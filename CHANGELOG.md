@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-06-08
+
+- [#4088](https://github.com/KATO-Hiro/AtCoderClans/pull/4088) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのヒューリスティック部門に、最高レーティングが2000以上に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+
 ### 2022-06-07
 
 - [#4084](https://github.com/KATO-Hiro/AtCoderClans/pull/4084) - ブログのドメイン変更に対応。
