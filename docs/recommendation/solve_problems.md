@@ -1,8 +1,8 @@
 ---
-title: 過去問を解く
+title: 問題を解く
 ---
 
-## 定番サービスを利用
+## 定番サービスを利用する
 
 - [AtCoder Problems](https://kenkoooo.com/atcoder/) - 開催されたコンテストの問題を一覧できるWebアプリです。問題の正誤状況や各種集計結果を確認できるだけでなく、バーチャルコンテストなどの機能もあります。詳しくは、有志による[AtCoder Problemsの使い方](https://ntk-ta01.hatenablog.com/entry/2020/04/15/001405)をご覧ください。
 
