@@ -407,6 +407,12 @@ filename: blogs
 |:--:|:--:|:--|
 |tomerun|[はてなブログ](https://topcoder-tomerun.hatenablog.jp/)||
 
+##### Rust
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|terry_u16|[はてなブログ](https://www.terry-u16.net/)||
+
 #### レーティング2400から2799まで(橙色)
 
 ##### CPlusPlus
@@ -425,12 +431,6 @@ filename: blogs
 |siman|[はてなブログ](https://simanman.hatenablog.com/)||
 |takumi152|[はてなブログ](https://takumi152.hatenablog.jp/)||
 |WA_TLE|[はてなブログ](https://watle.hatenablog.com/)|2019年1月以降、新規の記事を確認できず。|
-
-##### Rust
-
-|ユーザ名 (敬称略)|ブログ / Qiita|備考|
-|:--:|:--:|:--|
-|terry_u16|[はてなブログ](https://www.terry-u16.net/)||
 
 #### レーティング2000から2399まで(黄色)
 
@@ -455,8 +455,10 @@ filename: blogs
 |phyllo|[GitHub Pages](https://jetbead.github.io/AtCoderHeuristicContestMemo/)||
 |physics0523|[はてなブログ](https://physics0523.hatenablog.com/)||
 |qLethon|[はてなブログ](https://qlethon.hatenablog.com/)||
+|riantkb|[はてなブログ](https://rian.hatenablog.jp/)||
 |shibh308|[はてなブログ](https://shibh308.hatenablog.com/)||
 |Shibuyap|[Qiita](https://qiita.com/Shibuyap)||
+|theory_and_me|[はてなブログ](https://theory-and-me.hatenablog.com/)||
 |ValGrowth|[はてなブログ](https://valgrowth.hatenablog.com/archive)||
 |yochan|[はてなブログ](https://www.yochan.blog/main/)||
 
