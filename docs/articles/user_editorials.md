@@ -32,5 +32,5 @@ title: 解説ブログ・解説サイト
 ---
 
   <div align="center">
-    <a href="../../blogs/">もっと見る</a>
+    <a href="../../blogs/">もっと読む</a>
   </div>
