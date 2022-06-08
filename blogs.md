@@ -37,9 +37,9 @@ filename: blogs
     - [レーティング2800以上(赤色、銅王冠、銀王冠、金王冠)](#%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B02800%E4%BB%A5%E4%B8%8A%E8%B5%A4%E8%89%B2%E9%8A%85%E7%8E%8B%E5%86%A0%E9%8A%80%E7%8E%8B%E5%86%A0%E9%87%91%E7%8E%8B%E5%86%A0-1)
       - [CPlusPlus](#cplusplus-3)
       - [Crystal](#crystal-2)
+      - [Rust](#rust-3)
     - [レーティング2400から2799まで(橙色)](#%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B02400%E3%81%8B%E3%82%892799%E3%81%BE%E3%81%A7%E6%A9%99%E8%89%B2-1)
       - [CPlusPlus](#cplusplus-4)
-      - [Rust](#rust-3)
     - [レーティング2000から2399まで(黄色)](#%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B02000%E3%81%8B%E3%82%892399%E3%81%BE%E3%81%A7%E9%BB%84%E8%89%B2-1)
       - [CPlusPlus](#cplusplus-5)
       - [CSharp](#csharp-3)
@@ -407,6 +407,12 @@ filename: blogs
 |:--:|:--:|:--|
 |tomerun|[はてなブログ](https://topcoder-tomerun.hatenablog.jp/)||
 
+##### Rust
+
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|terry_u16|[はてなブログ](https://www.terry-u16.net/)||
+
 #### レーティング2400から2799まで(橙色)
 
 ##### CPlusPlus
@@ -425,12 +431,6 @@ filename: blogs
 |siman|[はてなブログ](https://simanman.hatenablog.com/)||
 |takumi152|[はてなブログ](https://takumi152.hatenablog.jp/)||
 |WA_TLE|[はてなブログ](https://watle.hatenablog.com/)|2019年1月以降、新規の記事を確認できず。|
-
-##### Rust
-
-|ユーザ名 (敬称略)|ブログ / Qiita|備考|
-|:--:|:--:|:--|
-|terry_u16|[はてなブログ](https://www.terry-u16.net/)||
 
 #### レーティング2000から2399まで(黄色)
 
@@ -455,8 +455,10 @@ filename: blogs
 |phyllo|[GitHub Pages](https://jetbead.github.io/AtCoderHeuristicContestMemo/)||
 |physics0523|[はてなブログ](https://physics0523.hatenablog.com/)||
 |qLethon|[はてなブログ](https://qlethon.hatenablog.com/)||
+|riantkb|[はてなブログ](https://rian.hatenablog.jp/)||
 |shibh308|[はてなブログ](https://shibh308.hatenablog.com/)||
 |Shibuyap|[Qiita](https://qiita.com/Shibuyap)||
+|theory_and_me|[はてなブログ](https://theory-and-me.hatenablog.com/)||
 |ValGrowth|[はてなブログ](https://valgrowth.hatenablog.com/archive)||
 |yochan|[はてなブログ](https://www.yochan.blog/main/)||
 
