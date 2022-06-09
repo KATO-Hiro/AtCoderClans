@@ -42,6 +42,7 @@ title: 競技プログラミングと就職
 - [おいしいキャベツの育て方](https://ngtkana.hatenablog.com/entry/2021/03/17/210830) - [ngtkana](https://atcoder.jp/users/ngtkana)さんが、プログラミングを始めたきっかけ・[AtCoder](https://atcoder.jp/)との出会い・アルバイトを経て現職に至るまでの過程を紹介した記事。
 - [競プロは業務の役に立っているか？～ふるやんの場合～](https://www.creativ.xyz/shakaijin-first-anniversary/) - [furuya1223](https://atcoder.jp/users/furuya1223)さんが、音声認識に関する研究開発に1年間従事して、競技プログラミングが直接的・間接的に役に立った経験を紹介した記事。
 - [社会に出て感じたギャップTOP10](https://docs.google.com/presentation/d/16hCteY3ap_IIIyaT4KMmRBHM4X_4wt0Ge_kd9V_xg8s/edit#slide=id.g2cb369b990_0_113) - [kyuridenamida](https://atcoder.jp/users/kyuridenamida)さんがソフトウェア開発会社に就職する前後で感じたギャップをランキング形式で紹介したスライド資料。
+- [就活における競技プログラミング](https://jp.magicode.io/Naoki08/articles/af358537e0d94143be6b07473da4fecb) - 競技プログラミングが就職活動(新卒)の選考フローの各段階において、どの程度有用か筆者の見解を述べた記事。
 - [純粋培養競技プログラマが社会に出てみた感想](https://tsutaj.hatenablog.com/entry/2020/12/13/000000) - 学生時代の多くを競技プログラミングに捧げた[tsutaj](https://atcoder.jp/users/tsutaj)さんが、就職1年目で身につけたことやできるようになったことを紹介した記事。
 - [「まずは一つ勝つ。それ以外は負けてもいい」。競技プログラミングやKaggleを極めたPFN秋葉拓哉の勝ち方](https://liiga.me/columns/761) - [iwiwi](https://twitter.com/iwiwi)さんが、競技プログラミングを極めた経験をきっかけに、キャリア形成における考え方や業務で意識していることが紹介されている記事。
 
