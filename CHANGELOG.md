@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-06-09
+
+- [#4092](https://github.com/KATO-Hiro/AtCoderClans/pull/4092) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[就活における競技プログラミング](https://jp.magicode.io/Naoki08/articles/af358537e0d94143be6b07473da4fecb)」を追加。
+
 ### 2022-06-08
 
 - [#4088](https://github.com/KATO-Hiro/AtCoderClans/pull/4088) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのヒューリスティック部門に、最高レーティングが2000以上に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
