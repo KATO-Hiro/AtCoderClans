@@ -540,6 +540,7 @@ filename: media
 - [業務時間をKaggle＆AtCoder活動に。NABLASのKaggle&AtCoder支援制度とは？](https://www.nablas.com/post/%E6%A5%AD%E5%8B%99%E6%99%82%E9%96%93%E3%82%92kaggle%EF%BC%86atcoder%E6%B4%BB%E5%8B%95%E3%81%AB%E3%80%82nablas%E3%81%AEkaggle-atcoder%E6%94%AF%E6%8F%B4%E5%88%B6%E5%BA%A6%E3%81%A8%E3%81%AF%EF%BC%9F-1) - [NABLAS株式会社](https://www.nablas.com/about?lang=ja)の「Kaggle&AtCoder支援制度」に関する記事。業務時間の一部(直近半年の実績に応じて変動)を各コンテストサイトでの活動に充てたり、計算資源が利用できたりする制度が紹介されている。
 - [採用活動のために競技プログラミング（AtCoder）を始めて一年経ったので感想を書きます](https://qiita.com/nabata/items/44fa3995e476b12b9860) - IT企業の採用担当者が、競技プログラミングを1年間続けた感想をまとめた記事。
 - [社会に出て感じたギャップTOP10](https://docs.google.com/presentation/d/16hCteY3ap_IIIyaT4KMmRBHM4X_4wt0Ge_kd9V_xg8s/edit#slide=id.g2cb369b990_0_113) - [kyuridenamida](https://atcoder.jp/users/kyuridenamida)さんがソフトウェア開発会社に就職する前後で感じたギャップをランキング形式で紹介したスライド資料。
+- [就活における競技プログラミング](https://jp.magicode.io/Naoki08/articles/af358537e0d94143be6b07473da4fecb) - 競技プログラミングが、就職活動(新卒)の選考フローの各段階においてどの程度有用か筆者の見解を述べた記事。
 - [純粋培養競技プログラマが社会に出てみた感想](https://tsutaj.hatenablog.com/entry/2020/12/13/000000) - 学生時代の多くを競技プログラミングに捧げた[tsutaj](https://atcoder.jp/users/tsutaj)さんが、就職1年目で身につけたことやできるようになったことを紹介した記事。
 - [土木とITをつないだプログラミングコンテストという選択肢--鹿島建設とAtCoderの新たな挑戦](https://japan.cnet.com/article/35166817/) - 土木業界におけるITエンジニアの必要性・需要・将来性と、プログラミングコンテストを通したIT人材の確保に向けた取り組みを紹介した記事。
 - [フューチャーでjobsバイト、競プロ入社を経験して](https://future-architect.github.io/articles/20201102/) - 競技プログラミングの経験が就業やITコンサルティング業務に役立った事例を紹介した記事。
