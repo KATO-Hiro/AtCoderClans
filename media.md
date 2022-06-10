@@ -122,7 +122,7 @@ filename: media
 
 ### コードを快適に書くための環境構築
 
-以下の記事は、2019年3月〜2022年2月に公開・更新されたものです。随時、最新の記事を追加する予定です。
+以下の記事は、2019年3月〜2022年6月に公開・更新されたものです。随時、最新の記事を追加する予定です。
 
 #### 特定のOSに依存しない内容
 
@@ -145,6 +145,7 @@ filename: media
 - [【VScode＋WSLで始める】競プロ用C++デバッグ環境構築](https://qiita.com/2019Shun/items/5ab290a4117a00e373b6) - C++のコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)で構築したあとの拡張機能の導入・設定ファイルについて紹介されている。
 - [Windowsで競プロに必要なNeovim環境を整える](https://qiita.com/KowerKoint/items/89d1952b54dec57a1a07) - カスタマイズ性の高いエディタの一つである[NeoVim](https://neovim.io/)を利用して、C++(clang)のコンパイル・実行環境を構築するための記事。関連ツールの導入方法や設定ファイル・プラグインのおすすめ情報も紹介されている。
 - [WSL2とVSCodeでC++環境構築した（AtCoder Libraryを使えるようになるまで）](https://ntk-ta01.hatenablog.com/entry/2020/09/09/181155) - C++やRustのコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)で構築するための記事。設定ファイルや[AtCoder Library](https://atcoder.jp/posts/517)に関する説明もある。
+- [WSL2 + Ubuntu22.04 + VScodeでAtCoder用のC++環境を構築する](https://qiita.com/Kal24w/items/467dd26c2e5306b3ba59) - C++の環境構築手順を紹介した記事。Ubuntu22.04を利用しているのが特徴。
 
 #### 実行環境のテンプレート、サンプルレポジトリ
 

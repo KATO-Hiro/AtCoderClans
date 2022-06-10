@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-06-10
+
+- [#4095](https://github.com/KATO-Hiro/AtCoderClans/pull/4095) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[WSL2 + Ubuntu22.04 + VScodeでAtCoder用のC++環境を構築する](https://qiita.com/Kal24w/items/467dd26c2e5306b3ba59)」を追加。
+
 ### 2022-06-09
 
 - [#4092](https://github.com/KATO-Hiro/AtCoderClans/pull/4092) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[就活における競技プログラミング](https://jp.magicode.io/Naoki08/articles/af358537e0d94143be6b07473da4fecb)」を追加。
