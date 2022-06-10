@@ -532,6 +532,12 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/compro_reminder.png" alt="compro reminder">
   </div>
 
+- [毎日C D問題通知Bot](https://twitter.com/mainitiCDmondai) - AtCoder Beginner Contest (ABC)のC問題・D問題のリンクを毎日ツイートしてくれる。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/daily_notification_of_task_c_and_d.png" alt="daily notification of task c and d">
+  </div>
+
 ## Web API
 
 注: 公開されているAPIにリクエストを送る場合は、一定の間隔を空け、回数が多くなり過ぎないようにすることを強く推奨いたします。
