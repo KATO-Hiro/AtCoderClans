@@ -143,7 +143,6 @@ filename: milestones
 - [黄色になりたいんじゃあ - あるたいるの競プロ手記](https://altairrr.hatenablog.com/entry/2021/08/23/003531) - [altairrr](https://atcoder.jp/users/altairrr)さんが、2021年8月23日に公開。
 - [AtCoderで青色になるまでやったこと](https://note.com/junyakosaka/n/n56e56a0577f6) - [MightyFine](https://atcoder.jp/users/MightyFine)さんが、2021年9月25日に達成。
 - [AtCoder青になったので水色から青までの一年半とついでに今まで書きそびれた黒から水までも全部書く - DivineJK’s diary](https://divinejk.hatenablog.com/entry/2021/10/06/212100) - [DivineJK](https://atcoder.jp/users/DivineJK)さんが、2021年10月2日に達成。
-- [【色変記事】AtCoder青になりました - piddy’s blog](https://piddy-cp.hatenablog.com/entry/2021/10/31/015517) - [piddy](https://atcoder.jp/users/piddy)さんが、2021年10月30日に達成。
 - [AtCoder青色になりました](https://note.com/treewhitetree/n/ned03462f84a2) - [Medakaa](https://atcoder.jp/users/Medakaa)さんが、2021年11月21日に達成。
 - [1年以上放置した競プロのモチベが完全復活した話 - regichanのブログ](https://regichan.hatenablog.com/entry/2021/12/12/132434) - [regi](https://atcoder.jp/users/regi)さんが、2021年12月12日に公開。
 - [AtCoder青になりました - ゆかりの日記](https://lev635.hatenablog.com/entry/2021/12/20/220308) - [lev635](https://atcoder.jp/users/lev635)さんが、2021年12月19日に達成。
