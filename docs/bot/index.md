@@ -38,6 +38,7 @@ title: Bot
 
     ソースコードの一部変更や、[AWS Lambda](https://aws.amazon.com/lambda/)の導入が必要なサービスもあります。
 
+- [AtCoder Daily AC Checker](https://github.com/purple-jwl/atcoder-daily-ac-checker) ![GitHub Repo stars](https://img.shields.io/github/stars/purple-jwl/atcoder-daily-ac-checker?style=plastic) - AC(Accepted)している人をSlack上で褒めてくれる。
 - [atcoder-rate-notify](https://github.com/ysk1180/atcoder-rate-notify) ![GitHub Repo stars](https://img.shields.io/github/stars/ysk1180/atcoder-rate-notify?style=plastic) - レーティングを毎週お知らせしてくれる。
 - [atcoder_useful](https://github.com/Kota-Y/atcoder_useful) ![GitHub Repo stars](https://img.shields.io/github/stars/Kota-Y/atcoder_useful?style=plastic) - [AtCoder Problems](https://kenkoooo.com/atcoder/)のCurrent Streakを切らさないように通知する。
 - [rcoder-todays-problem](https://github.com/mmck328/rcoder-todays-problem) ![GitHub Repo stars](https://img.shields.io/github/stars/mmck328/rcoder-todays-problem?style=plastic) - 今日の問題をおすすめしてくれる。
