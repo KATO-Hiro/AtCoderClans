@@ -2,49 +2,12 @@
 title: コンテストの成績を表示
 ---
 
-コンテストの成績(レーティング、パフォーマンス値、順位など)に関連するサービスを掲載しています。
+コンテストの成績(レーティング、パフォーマンス値、順位など)を表示・比較するサービスを掲載しています。
 
 !!! warning "注意"
     サブカテゴリで部門名(アルゴリズム・ヒューリスティック)が明記されていない場合は、アルゴリズム部門を対象としたサービスを表しています。
 
-## 目標レーティングに必要なパフォーマンス値を計算
-
-### アルゴリズム部門
-
-- [AtCoder Rating Estimator](https://koba-e964.github.io/atcoder-rating-estimator/test-last.html) - 所定のレーティングに到達するために、次のコンテストで必要なパフォーマンス値を計算する。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_rating_estimator.png" alt="atcoder rating estimator">
-    </div>
-
-- [AtCoder Rating Simulator](https://atcoderratingsimulator.herokuapp.com/) - 目標とするレーティングに到達するまでに必要なパフォーマンスを表示する。任意の回数だけ同じパフォーマンスを取ったと仮定した場合についても計算できる。
-
-  <div align="center">
-    <img loading = "lazy" src="../../images/web_app/atcoder_rating_simulator_web.png" alt="atcoder rating simulator web">
-  </div>
-
-### ヒューリスティック部門
-
-- [AtCoder Heuristic Rating Estimator](https://3w36zj6.github.io/atcoder-heuristic-rating-estimator/) - AtCoder Heuristic Contest(AHC)で目標とするレーティングに到達するために、次のコンテストで必要となるパフォーマンス値を計算する。利用にあたっては、過去に参加したコンテストのパフォーマンス値の入力が必要。また、作者による[技術解説記事](https://zenn.dev/3w36zj6/articles/5797217ce0f9ee)も公開されている。
-
-    <div align="center"> <img loading = "lazy" src="../../images/web_app/atcoder_heuristic_rating_estimator.png" alt="atcoder heuristic rating estimator">
-    </div>
-
-## ライバルを探す・競う
-
-- [AtCoder Find Rivals](https://atcoder-find-rivals.herokuapp.com/) - 指定したユーザに近いレーティングのユーザを探すことができる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_find_rivals.png" alt="atcoder find rivals">
-    </div>
-
-- [AtCoder Rivals](https://atcoder-rivals.web.app/) - パフォーマンスやレーティングの遷移、日々の練習(通称、精進)状況などをライバルと比べることができる。また、作者による[技術記事](https://note.com/sacckey/n/nf0b7ed1e9d1a)も公開されている。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_rivals.png" alt="atcoder rivals">
-    </div>
-
-## レーティングとパフォーマンス値の推移を表示
+## レーティングとパフォーマンス値を表示
 
 - [AtCoder Charts](https://atcoder-charts.netlify.com/) - 任意のユーザのレーティングとパフォーマンス値の推移を表示する。
 
@@ -58,7 +21,7 @@ title: コンテストの成績を表示
       <img loading = "lazy" src="../../images/web_app/atcoder_competition_history_chart_maker.png" alt="atcoder competition history chart maker">
     </div>
 
-## レーティングを推移を表示
+## レーティングを表示・比較
 
 ### 1人
 
@@ -68,7 +31,7 @@ title: コンテストの成績を表示
       <img loading = "lazy" src="../../images/web_app/atcoder_anytime.png" alt="atcoder anytime">
     </div>
 
-- [Atcoder RatingGraph Generator](https://atcoder-ratinggraph-generator.herokuapp.com/) - 任意のユーザのレーティンググラフを表示する。PCの場合、グラフの点をつまむと自由に形状を変えられる。
+- [Atcoder RatingGraph Generator](https://atcoder-ratinggraph-generator.herokuapp.com/) - 任意のユーザのレーティンググラフを表示する。PCを利用している場合は、グラフの点をドラッグすると自由に形状を変えられる。
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_ratinggraph_generator.png" alt="atcoder ratinggraph generator">
@@ -104,7 +67,7 @@ title: コンテストの成績を表示
       <img loading = "lazy" src="../../images/web_app/atcoder_rating_graph.png" alt="atcoder rating graph">
     </div>
 
-## パフォーマンス値の推移を表示
+## パフォーマンス値を表示・比較
 
 ### 1人
 
@@ -122,7 +85,7 @@ title: コンテストの成績を表示
       <img loading = "lazy" src="../../images/web_app/atcoder_performances.png" alt="atcoder performances">
     </div>
 
-## 順位の推移を表示・順位を比較
+## 順位を表示・比較
 
 ### アルゴリズム部門
 
