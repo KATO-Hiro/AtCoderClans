@@ -95,8 +95,8 @@ nav:
       - web_app/solve_problems.md
       - web_app/view_calendar.md
       - web_app/use_visualizer.md
-      - web_app/view_and_compare_perf_rating_and_ranking.md
-      - web_app/services_using_perf_rating_and_ranking.md
+      - web_app/view_and_compare_scores.md
+      - web_app/services_using_scores.md
     - Bot: bot/index.md
     - Web API: web_api/index.md
     - web_app/others.md
