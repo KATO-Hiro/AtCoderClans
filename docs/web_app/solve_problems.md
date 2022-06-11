@@ -52,12 +52,27 @@ title: 問題を解く
 
 ## 便利な補助ツール
 
-### ブラウザで実行できるコードエディタ
+### コードエディタ・統合開発環境
 
 - [Simple C++ Editor](https://tumoiyorozu.github.io/SimpleCppEditor/) - ブラウザでC++が実行できるコードエディタ。特徴的な機能として、ソースコードの自動保存・標準出力の順次出力・エラーメッセージの日本語化・実行時エラーの捕捉などがある。詳しくは、作者の[紹介記事](https://qiita.com/TumoiYorozu/items/7a9b862071edd5427200)を参照されたい。
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/simple_cpp_editor.png" alt="simple cpp editor">
+    </div>
+
+- [Hisui](https://github.com/adenohitu/hisui) ![GitHub Repo stars](https://img.shields.io/github/stars/adenohitu/hisui?style=plastic) - 競技プログラミング専用のサポートツール(Alpha版)。コードエディタ(C++とPythonに対応)、ダッシュボード、解答コードのテスト・提出などの機能が用意されている。
+
+    !!! warning "注意"
+        2022年6月時点で、コンテスト中の利用は非推奨。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/hisui.png" alt="hisui">
+    </div>
+
+- [Rujaion](https://github.com/fukatani/rujaion) ![GitHub Repo stars](https://img.shields.io/github/stars/fukatani/rujaion?style=plastic) - 競技プログラミングのためのRust IDE。C++とPythonも試験的にサポートされている。サンプルのテスト、解答コードの提出、コードの補完・移動・自動整形、テンプレートの生成、グラフの構造の可視化などの機能がある。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/rujaion.gif" alt="rujaion">
     </div>
 
 ### 問題文から提出用コードのテンプレートを作成
