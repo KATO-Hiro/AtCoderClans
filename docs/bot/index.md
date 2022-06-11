@@ -81,3 +81,9 @@ title: Bot
     <div align="center">
       <img loading = "lazy" src="../images/web_app/compro_reminder.png" alt="compro reminder">
     </div>
+
+- [毎日C D問題通知Bot](https://twitter.com/mainitiCDmondai) - AtCoder Beginner Contest (ABC)のC問題・D問題のリンクを毎日ツイートしてくれる。
+
+    <div align="center">
+      <img loading = "lazy" src="../images/web_app/daily_notification_of_task_c_and_d.png" alt="daily notification of task c and d">
+    </div>
