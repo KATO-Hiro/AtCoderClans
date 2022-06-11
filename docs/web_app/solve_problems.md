@@ -86,6 +86,14 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/web_app/template_generator-webapp.png" alt="graph graph">
     </div>
 
+### 配列の消費メモリ量を知る
+
+- [配列のサイズと型を入力すると何MBか教えてくれるうし](https://ei1333.github.io/beet/memory.html) - 配列のサイズと型を入力すると消費メモリ量が表示される。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/memory.png" alt="memory">
+    </div>
+
 ### グラフを可視化
 
 - [GRAPH × GRAPH](https://hello-world-494ec.firebaseapp.com/) - グラフ理論に関する問題の入力例を可視化する。ターミナル上で同サイトを起動するためのCLIツール[ggg(go GRAPH × GRAPH)](https://github.com/monkukui/ggg)と[作者による紹介記事](https://monkukui.hatenablog.com/entry/2020/10/01/173918)もある。
