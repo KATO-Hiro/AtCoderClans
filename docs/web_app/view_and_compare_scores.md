@@ -17,6 +17,12 @@ title: コンテストの成績を表示
       <img loading = "lazy" src="../../images/web_app/atcoder_rating_estimator.png" alt="atcoder rating estimator">
     </div>
 
+- [AtCoder Rating Simulator](https://atcoderratingsimulator.herokuapp.com/) - 目標とするレーティングに到達するまでに必要なパフォーマンスを表示する。任意の回数だけ同じパフォーマンスを取ったと仮定した場合についても計算できる。
+
+  <div align="center">
+    <img loading = "lazy" src="../../images/web_app/atcoder_rating_simulator_web.png" alt="atcoder rating simulator web">
+  </div>
+
 ### ヒューリスティック部門
 
 - [AtCoder Heuristic Rating Estimator](https://3w36zj6.github.io/atcoder-heuristic-rating-estimator/) - AtCoder Heuristic Contest(AHC)で目標とするレーティングに到達するために、次のコンテストで必要となるパフォーマンス値を計算する。利用にあたっては、過去に参加したコンテストのパフォーマンス値の入力が必要。また、作者による[技術解説記事](https://zenn.dev/3w36zj6/articles/5797217ce0f9ee)も公開されている。
@@ -38,7 +44,7 @@ title: コンテストの成績を表示
       <img loading = "lazy" src="../../images/web_app/atcoder_rivals.png" alt="atcoder rivals">
     </div>
 
-## 順位の推移を表示
+## 順位の推移を表示・順位を比較
 
 ### アルゴリズム部門
 
@@ -46,6 +52,12 @@ title: コンテストの成績を表示
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_replay.png" alt="atcoder replay">
+    </div>
+
+- [atcoder じゃんけん(not 本家)](https://hotman78.github.io/atcoder-janken/) - 指定した2人のユーザが共通して出場したコンテストの順位を比較できる。[本家](https://kato-hiro.github.io/AtCoderClans/archived)のリンク切れに伴い、有志が新たに作成・公開した。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_janken_2nd.png" alt="atcoder janken 2nd">
     </div>
 
 ### ヒューリスティック部門
