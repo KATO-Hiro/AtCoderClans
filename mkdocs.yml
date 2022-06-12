@@ -97,6 +97,7 @@ nav:
       - web_app/view_calendar.md
       - web_app/view_and_compare_scores.md
       - web_app/services_using_scores.md
+      - web_app/quiz_and_game.md
     - Bot: bot/index.md
     - Web API: web_api/index.md
     - web_app/others.md
