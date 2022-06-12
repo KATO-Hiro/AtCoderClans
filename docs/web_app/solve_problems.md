@@ -50,6 +50,15 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/web_app/atcoder_list.png" alt="atcoder list">
     </div>
 
+- [AtCoder-Review](https://at-coder-review.vercel.app/) - 任意のユーザが正解(AC)した問題とその回数を表示する。
+
+    !!! warning "注意"
+        検索ボタンの連打などは控える。過剰なAPIリクエストを回避するため。
+
+  <div align="center">
+    <img loading = "lazy" src="../../images/web_app/at_coder_review.png" alt="atcoder review">
+  </div>
+
 ## 便利な補助ツール
 
 ### コードエディタ・統合開発環境
