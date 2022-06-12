@@ -93,8 +93,8 @@ nav:
     - web_app/index.md
     - Webアプリ、Webサイト:
       - web_app/solve_problems.md
+      - web_app/support_tools.md
       - web_app/view_calendar.md
-      - web_app/use_visualizer.md
       - web_app/view_and_compare_scores.md
       - web_app/services_using_scores.md
     - Bot: bot/index.md
