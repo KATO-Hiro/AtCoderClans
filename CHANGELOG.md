@@ -6,6 +6,15 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-06-14
+
+- [#4115](https://github.com/KATO-Hiro/AtCoderClans/pull/4115) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、YouTubeのチャンネルを追加。
+  - [そまのすけ](https://www.youtube.com/playlist?list=PLTP2rhthd6G1qPKsKVTienMhos3X6Hvqh)  
+
+### 2022-06-13
+
+- [#4112](https://github.com/KATO-Hiro/AtCoderClans/pull/4112) - (破壊的な変更) 更新が停止されたと思われるWebアプリを一時的に「Archived」ページに移動。
+
 ### 2022-06-12
 
 - [#4108](https://github.com/KATO-Hiro/AtCoderClans/pull/4108) - 「[Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app)」ページに、Webアプリ「[AtCoder-Review](https://at-coder-review.vercel.app/)」を追加。

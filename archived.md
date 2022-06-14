@@ -276,6 +276,14 @@ filename: archived
 
 <!-- markdown-link-check-enable -->
 
+- [AtCoder Marathon Rating History](https://iilj.github.io/AtCoderMarathonRatingHistory/#/rating/) - [AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=0&category=1200&keyword=AtCoder+Heuristic+Contest)のレーティングの推移を表示する。
+  - 理由: AtCoderで、ヒューリテスィックコンテストのランキング・レーティンググラフが実装されたため。
+  - 対処方法: AtCoderの[ランキングページ](https://atcoder.jp/ranking?contestType=heuristic)やユーザページを閲覧する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_marathon_rating_history.png" alt="atcoder marathon rating history">
+  </div>
+
 - [AtCoder Problems Penalty Counter](https://greasyfork.org/ja/scripts/395755-atcoder-problems-penalty-counter) -  [AtCoder Problems](https://kenkoooo.com/atcoder/)のTableページで、各問題のコンテスト中のペナルティ数を表示する。
   - 理由: [AtCoder Problems](https://kenkoooo.com/atcoder/)で実装されており、追加で導入する必要性は薄いと思われるため。
   - 代替手段: [AtCoder Problems](https://kenkoooo.com/atcoder/)を利用する。
