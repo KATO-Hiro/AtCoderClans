@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-06-15
+
+- [#4120](https://github.com/KATO-Hiro/AtCoderClans/pull/4120) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、ユーザスクリプト「[AtCoder Contest Standings with Twitter ID](https://greasyfork.org/ja/scripts/446375-atcoder-contest-standings-with-twitter-id)」を追加。
+
 ### 2022-06-14
 
 - [#4115](https://github.com/KATO-Hiro/AtCoderClans/pull/4115) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、YouTubeのチャンネルを追加。
