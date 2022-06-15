@@ -1,13 +1,13 @@
 ---
-title: コンテストの成績を表示
+title: コンテストの成績を見る
 ---
 
-コンテストの成績(レーティング、パフォーマンス値、順位など)を表示・比較するサービスを掲載しています。
+コンテストの成績(レーティング、パフォーマンス値、順位など)を見たり、比較できたりするサービスを掲載しています。
 
 !!! warning "注意"
     サブカテゴリで部門名(アルゴリズム・ヒューリスティック)が明記されていない場合は、アルゴリズム部門を対象としたサービスを表しています。
 
-## レーティングとパフォーマンス値を表示
+## レーティングとパフォーマンス値を見る
 
 - [AtCoder Charts](https://atcoder-charts.netlify.com/) - 任意のユーザのレーティングとパフォーマンス値の推移を表示する。
 
@@ -21,7 +21,7 @@ title: コンテストの成績を表示
       <img loading = "lazy" src="../../images/web_app/atcoder_competition_history_chart_maker.png" alt="atcoder competition history chart maker">
     </div>
 
-## レーティングを表示・比較
+## レーティングを見る・比較する
 
 ### 1人
 
@@ -61,7 +61,7 @@ title: コンテストの成績を表示
       <img loading = "lazy" src="../../images/web_app/atcoder_rating_graph.png" alt="atcoder rating graph">
     </div>
 
-## パフォーマンス値を表示・比較
+## パフォーマンス値を見る・比較する
 
 ### 1人
 
@@ -79,7 +79,7 @@ title: コンテストの成績を表示
       <img loading = "lazy" src="../../images/web_app/atcoder_performances.png" alt="atcoder performances">
     </div>
 
-## 順位を表示・比較
+## 順位を見る・比較する
 
 ### アルゴリズム部門
 
