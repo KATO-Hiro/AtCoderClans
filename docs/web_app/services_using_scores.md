@@ -67,7 +67,7 @@ title: コンテストの成績に関連するサービス
 
 ### ライバルの練習状況を知る
 
-- [AtCoder Rivals](https://atcoder-rivals.web.app/) - パフォーマンスやレーティングの遷移、日々の練習(通称、精進)状況などをライバルと比べることができる。また、作者による[技術記事](https://note.com/sacckey/n/nf0b7ed1e9d1a)も公開されている。
+- [AtCoder Rivals](https://atcoder-rivals.web.app/) ![GitHub Repo stars](https://img.shields.io/github/stars/shirakia/atcoder_tl?style=plastic) - パフォーマンスやレーティングの遷移、日々の練習(通称、精進)状況などをライバルと比べることができる。また、作者による[技術記事](https://note.com/sacckey/n/nf0b7ed1e9d1a)も公開されている。
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_rivals.png" alt="atcoder rivals">
