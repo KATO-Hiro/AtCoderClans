@@ -43,6 +43,12 @@ title: コンテストの成績に関連するサービス
 
 ### 仮想的なレーティングを計算
 
+- [AtCoder Anytime](https://atcoder-anytime.sonoapp.page/) - 「バーチャル参加」の結果を利用して、レーティングの変動を表示する。同一の作者により[Codeforces版](https://codeforces-anytime.firebaseapp.com/)も公開されている。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_anytime.png" alt="atcoder anytime">
+    </div>
+
 - [一度も冷えなかった◯◯](https://tarareba.herokuapp.com/vote/) - 参加したコンテストのうち、レーティングが単調増加となる結果だけを用いて、その推移を表示する。
 
     <div align="center">
@@ -67,7 +73,7 @@ title: コンテストの成績に関連するサービス
 
 ### ライバルの練習状況を知る
 
-- [AtCoder Rivals](https://atcoder-rivals.web.app/) ![GitHub Repo stars](https://img.shields.io/github/stars/shirakia/atcoder_tl?style=plastic) - パフォーマンスやレーティングの遷移、日々の練習(通称、精進)状況などをライバルと比べることができる。また、作者による[技術記事](https://note.com/sacckey/n/nf0b7ed1e9d1a)も公開されている。
+- [AtCoder Rivals](https://atcoder-rivals.web.app/) - パフォーマンスやレーティングの遷移、日々の練習(通称、精進)状況などをライバルと比べることができる。また、作者による[技術記事](https://note.com/sacckey/n/nf0b7ed1e9d1a)も公開されている。
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_rivals.png" alt="atcoder rivals">
@@ -75,7 +81,7 @@ title: コンテストの成績に関連するサービス
 
 ### コンテスト後の情報収集・発信
 
-- [AtCoder TL](https://github.com/shirakia/atcoder_tl) - レーティング帯ごとのTwitterタイムラインを生成する。全てのタイムラインをまとめた[Web版](https://atcoder-tl.com/)も公開されている。
+- [AtCoder TL](https://github.com/shirakia/atcoder_tl) ![GitHub Repo stars](https://img.shields.io/github/stars/shirakia/atcoder_tl?style=plastic) - レーティング帯ごとのTwitterタイムラインを生成する。全てのタイムラインをまとめた[Web版](https://atcoder-tl.com/)も公開されている。
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_tl.png" alt="atcoder tl">
@@ -91,4 +97,10 @@ title: コンテストの成績に関連するサービス
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_beginner_contest_tournament.png" alt="abc tournament">
+    </div>
+
+- [atcoder じゃんけん(not 本家)](https://hotman78.github.io/atcoder-janken/) - 指定した2人のユーザが共通して出場したコンテストの順位を比較できる。[本家](../archived/no_longer_available.md)のリンク切れに伴い、有志が新たに作成・公開した。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_janken_2nd.png" alt="atcoder janken 2nd">
     </div>

@@ -25,12 +25,6 @@ title: コンテストの成績を表示
 
 ### 1人
 
-- [AtCoder Anytime](https://atcoder-anytime.sonoapp.page/) - 「バーチャル参加」の結果を利用して、レーティングの変動を表示する。同一の作者により[Codeforces版](https://codeforces-anytime.firebaseapp.com/)も公開されている。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_anytime.png" alt="atcoder anytime">
-    </div>
-
 - [Atcoder RatingGraph Generator](https://atcoder-ratinggraph-generator.herokuapp.com/) - 任意のユーザのレーティンググラフを表示する。PCを利用している場合は、グラフの点をドラッグすると自由に形状を変えられる。
 
     <div align="center">
@@ -93,12 +87,6 @@ title: コンテストの成績を表示
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_replay.png" alt="atcoder replay">
-    </div>
-
-- [atcoder じゃんけん(not 本家)](https://hotman78.github.io/atcoder-janken/) - 指定した2人のユーザが共通して出場したコンテストの順位を比較できる。[本家](../archived/no_longer_available.md)のリンク切れに伴い、有志が新たに作成・公開した。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_janken_2nd.png" alt="atcoder janken 2nd">
     </div>
 
 ### ヒューリスティック部門
