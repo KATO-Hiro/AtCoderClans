@@ -473,6 +473,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_collect_all_examples.png" alt="atcoder collect all examples">
   </div>
 
+- [AtCoder Contest Standings with Twitter ID](https://greasyfork.org/ja/scripts/446375-atcoder-contest-standings-with-twitter-id) - 「順位表」と「バーチャル順位表」ページに、Twitter IDを表示する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_contest_standings_with_twitter_id.png" alt="atcoder contest standings with twitter id">
+  </div>
+
 - [AtCoder Default Search Fields](https://greasyfork.org/ja/scripts/445634-atcoder-default-search-fields) - 「すべての提出」ページで、結果がAC(正解)の提出を検索する。さらに、個別の問題ページから「すべての提出」ページに移動したときは、直前に見ていた問題に限定して絞り込むことができる。
 
 - [AtCoder Fav Rating](https://greasyfork.org/ja/scripts/406745-atcoder-fav-rating) - 「アカウント」ページにお気に入りの順位・レーティング(現在・最高)・参加回数を一覧で表示するボタンを設置する。
