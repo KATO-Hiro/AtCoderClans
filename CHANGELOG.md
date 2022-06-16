@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-06-16
+
+- [#4125](https://github.com/KATO-Hiro/AtCoderClans/pull/4125) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、ツイート「[AtCoderの内部レーティング(2022年6月時点)](https://twitter.com/chokudai/status/1536919432705888256)」を追加。
+
 ### 2022-06-15
 
 - [#4120](https://github.com/KATO-Hiro/AtCoderClans/pull/4120) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、ユーザスクリプト「[AtCoder Contest Standings with Twitter ID](https://greasyfork.org/ja/scripts/446375-atcoder-contest-standings-with-twitter-id)」を追加。
