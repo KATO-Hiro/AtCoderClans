@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-06-18
+
+- [#4131](https://github.com/KATO-Hiro/AtCoderClans/pull/4131) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、ユーザスクリプト「[atcoder-tasks-dropdown-menu-colorizer](https://greasyfork.org/ja/scripts/444170-atcoder-tasks-dropdown-menu-colorizer)」を追加。
+
 ### 2022-06-17
 
 - [#4127](https://github.com/KATO-Hiro/AtCoderClans/pull/4127) - (破壊的な変更) [kzrnm](https://github.com/kzrnm)さんのプルリクエストにより、ライブラリ「ac-library-cs」を廃止。代替手段として、「[kzrnm/ac-library-csharp](https://github.com/kzrnm/ac-library-csharp)」の利用を推奨。
