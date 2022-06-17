@@ -345,6 +345,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_submission_user_colorizer.png" alt="atcoder submission user colorizer">
   </div>
 
+- [atcoder-tasks-dropdown-menu-colorizer](https://greasyfork.org/ja/scripts/444170-atcoder-tasks-dropdown-menu-colorizer) - 「問題」ページのドロップダウンメニューに、[atcoder-tasks-page-colorizer](https://greasyfork.org/ja/scripts/380404-atcoder-tasks-page-colorizer)と同じ色付けを行う。注: Chrome拡張機能の[Comfortable Atcoder](https://chrome.google.com/webstore/detail/comfortable-atcoder/ipmmkccdccnephfilbjdnmnfcbopbpaj?hl=ja&gl=UA)をインストールする必要がある。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_tasks_dropdown_menu_colorizer.png" alt="atcoder tasks dropdown menu colorizer">
+  </div>
+
 - [atcoder-tasks-page-colorize-during-contests](https://greasyfork.org/ja/scripts/426049-atcoder-tasks-page-colorize-during-contests) - 開催中のコンテストの「問題」に対して、提出した問題に色付けする。後述の[atcoder-tasks-page-colorizer](https://greasyfork.org/ja/scripts/380404-atcoder-tasks-page-colorizer)が対応していない「開催中のコンテスト」を対象としている。
 
   <div align="center">
