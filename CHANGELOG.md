@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-06-17
+
+- [#4127](https://github.com/KATO-Hiro/AtCoderClans/pull/4127) - (破壊的な変更) [kzrnm](https://github.com/kzrnm)さんのプルリクエストにより、ライブラリ「ac-library-cs」を廃止。代替手段として、「[kzrnm/ac-library-csharp](https://github.com/kzrnm/ac-library-csharp)」の利用を推奨。
+
 ### 2022-06-16
 
 - [#4125](https://github.com/KATO-Hiro/AtCoderClans/pull/4125) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、ツイート「[AtCoderの内部レーティング(2022年6月時点)](https://twitter.com/chokudai/status/1536919432705888256)」を追加。
