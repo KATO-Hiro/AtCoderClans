@@ -99,8 +99,7 @@ filename: libraries
 
 #### ACL CSharp
 
-- [key-moon/ac-library-cs](https://github.com/key-moon/ac-library-cs) ![GitHub stars](https://img.shields.io/github/stars/key-moon/ac-library-cs?style=plastic) - C#版。
-- [kzrnm/ac-library-csharp](https://github.com/kzrnm/ac-library-csharp) ![GitHub Repo stars](https://img.shields.io/github/stars/kzrnm/ac-library-csharp?style=plastic) - [key-moon/ac-library-cs](https://github.com/key-moon/ac-library-cs)をベースに拡張したレポジトリ。ソースコードの埋め込み機能、C++ STLの移植、ac-libraryの最新版への追従対応を行っている。
+- [kzrnm/ac-library-csharp](https://github.com/kzrnm/ac-library-csharp) ![GitHub Repo stars](https://img.shields.io/github/stars/kzrnm/ac-library-csharp?style=plastic) - C#版。
 - [kzrnm/SourceExpander](https://github.com/kzrnm/SourceExpander) ![GitHub Repo stars](https://img.shields.io/github/stars/kzrnm/SourceExpander?style=plastic) - [kzrnm/ac-library-csharp](https://github.com/kzrnm/ac-library-csharp)を利用したコードをジャッジシステムに提出できる形式に変換するライブラリ。
 
 #### ACL D
