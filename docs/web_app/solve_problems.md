@@ -55,6 +55,19 @@ title: 問題を解く
     !!! warning "注意"
         検索ボタンの連打などは控える。過剰なAPIリクエストを回避するため。
 
-  <div align="center">
-    <img loading = "lazy" src="../../images/web_app/at_coder_review.png" alt="atcoder review">
-  </div>
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/at_coder_review.png" alt="atcoder review">
+    </div>
+
+## 問題を投稿・解答する
+
+- [MojaCoder](https://mojacoder.app/) - 競技プログラミングに関する問題を投稿・解答できるオンラインジャッジシステム。解答で利用できる言語は、Brainfuck、C、C++、C#、Go、Java、Python3、Ruby、Rust、Textなど。
+
+    !!! danger "警告"
+        - サービス運営者の連絡先が削除されており、今後の不具合対応や機能追加などの可能性は低いと思われる。
+
+        - [告知専用のTwitterアカウント](https://twitter.com/MojaCoder)もあるが、2021年8月以降は更新を確認できず。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/mojacoder.png" alt="mojacoder">
+    </div>
