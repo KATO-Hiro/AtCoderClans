@@ -36,3 +36,13 @@
 - [AtCoder](https://atcoder.jp/)運営チーム - 非公式サービス・ツールの全体像を踏まえ、公式として対応の有無を判断する材料の一つになると思います。また、企業向けの参考資料にもなるかもしれません。
 
 - 企業の採用担当者 - [AtCoder](https://atcoder.jp/)ユーザの実務能力・ポテンシャルの評価材料の一つになると思います。ひいては人材発掘の効率化にも、つながるかもしれません。
+
+---
+
+## AtCoder公式グッズを購入する
+
+- [SUZURI](https://suzuri.jp/AtCoder) - [AtCoder](https://atcoder.jp/)のロゴ入りグッズが購入できる。
+
+    <div align="center">
+        <img loading = "lazy" src="images/web_app/suzuri.png" alt="suzuri">
+    </div>
