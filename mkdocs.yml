@@ -89,9 +89,9 @@ nav:
     - recommendation/submit_codes.md
     - recommendation/improve_ui.md
     - recommendation/collect_info.md
-  - Web apps:
+  - Web Apps and Web Sites:
     - web_app/index.md
-    - Webアプリ、Webサイト:
+    - Webアプリ・Webサイト:
       - web_app/solve_problems.md
       - web_app/support_tools.md
       - web_app/view_calendar.md
@@ -101,7 +101,6 @@ nav:
       - web_app/quiz_and_game.md
     - Bot: bot/index.md
     - Web API: web_api/index.md
-    - web_app/others.md
   - Scripts:
     - scripts/index.md
     - ユーザスクリプト:
