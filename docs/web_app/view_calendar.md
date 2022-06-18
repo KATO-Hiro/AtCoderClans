@@ -1,6 +1,8 @@
 ---
-title: コンテストの開催日時を確認
+title: コンテスト情報を確認
 ---
+
+## コンテストの開催日時を確認する
 
 - [CLIST](https://clist.by/) - [60以上のコンテストサイト](https://clist.by/resources/)を対象として開始・終了時刻、コンテスト時間と閲覧時点での残り時間が一覧で表示される。また、順位表や問題の一覧なども確認できる。
 
@@ -13,3 +15,11 @@ title: コンテストの開催日時を確認
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/competitive_programming_contests_calendar.png" alt="competitive programming contests calendar">
     </div>
+
+## チーム分けを行う
+
+- [TeamMaker](https://compro.tsutajiro.com/cp-teammaker/index.php) - 競技プログラミングにおけるチーム分けを補助する。beta版。
+
+  <div align="center">
+    <img loading = "lazy" src="../../images/web_app/teammaker.png" alt="teammaker">
+  </div>
