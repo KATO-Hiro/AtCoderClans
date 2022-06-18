@@ -105,7 +105,7 @@ nav:
     - scripts/index.md
     - ユーザスクリプト:
       - user_scripts/index.md
-      - user_scripts/view_perf_and_rating.md
+      - user_scripts/view_scores.md
       - user_scripts/automatic_notification.md
       - user_scripts/use_shortcut.md
       - user_scripts/improve_ui.md
