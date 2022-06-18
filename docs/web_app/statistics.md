@@ -6,7 +6,7 @@ title: コンテストに関する統計情報
 
 ## 問題に関する統計・予測
 
-### 正解者数・正解率を見る
+### 正解者数・正解率
 
 - [AtCoderFacts](https://app.atcoder-facts.com/) - Ratedコンテストを対象として、レーティング別・問題別の正解者数・正解率を表示する。また、所定のパフォーマンスを得るための得点と所要時間の目安を知ることもできる。
 
@@ -17,7 +17,7 @@ title: コンテストに関する統計情報
       <img loading = "lazy" src="../../images/web_app/atcoder_facts.png" alt="atcoder facts">
     </div>
 
-### 提出数を見る
+### 提出数
 
 - [AtCoder Hot Problems](https://new-hot-problems.herokuapp.com/ranking/) - 任意の期間(1〜30日)における問題別の提出数を集計し、上位100問を表示する。
 
@@ -49,7 +49,7 @@ title: コンテストに関する統計情報
       <img loading = "lazy" src="../../images/web_app/ac_heatmap.png" alt="ac heatmap">
     </div>
 
-### 成績の平均値・最高値を見る
+### 成績の平均値・最高値
 
 - [AtCoder平均](http://rating-history.herokuapp.com/average.html) - 直近nか月における各種コンテストの平均順位とパフォーマンスを表示する。
 
@@ -62,7 +62,7 @@ title: コンテストに関する統計情報
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_qq.png" alt="atcoder qq">
 
-### 成績に関する相関係数を見る
+### 成績に関する相関係数
 
 - [atcoder-synchronicity](https://phocom.github.io/atcoder-synchronicity/) - 指定した2人のユーザのシンクロ率(両者のパフォーマンス値の相関係数)を表示する。
 
@@ -98,7 +98,7 @@ title: コンテストに関する統計情報
       <img loading = "lazy" src="../../images/web_app/atcoder_trophies.png" alt="atcoder trophies">
     </div>
 
-### 賞金ランキングを見る
+### 賞金ランキング
 
 - [AtCoder賞金ランキング](https://docs.google.com/spreadsheets/d/1E7Ho85znRw7ebB7ZATWBQckM2P_7qZYc35XZExlL_a4/edit#gid=1741891477) - 賞金付きコンテストの獲得額(目安)を集計している。[元ツイート](https://twitter.com/gojira_kyopro/status/1281199066408292353)を参照。
 
