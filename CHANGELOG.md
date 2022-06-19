@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-06-19
+
+- [#4136](https://github.com/KATO-Hiro/AtCoderClans/pull/4136) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのアルゴリズム部門に、最高レーティングが2000〜2399に到達したユーザのブログを追加。
+
 ### 2022-06-18
 
 - [#4131](https://github.com/KATO-Hiro/AtCoderClans/pull/4131) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、ユーザスクリプト「[atcoder-tasks-dropdown-menu-colorizer](https://greasyfork.org/ja/scripts/444170-atcoder-tasks-dropdown-menu-colorizer)」を追加。
