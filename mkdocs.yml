@@ -23,9 +23,13 @@ copyright: Copyright &copy; 2020-2022 hiro_hiro
 ## Basic Configuration
 theme:
   name: material
+  language: ja
   features:
     - navigation.instant
     - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
   palette:
     - scheme: default
       toggle:
