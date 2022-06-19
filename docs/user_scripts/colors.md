@@ -30,7 +30,15 @@ Webページの背景色の変更や問題文・提出コード・問題の正�
       <img loading = "lazy" src="../../images/userscript/atcoder_theme_solarized_dark.png" alt="atcoder theme solarized dark">
     </div>
 
-## 問題文の一部を強調する
+## 説明・問題文などを強調する
+
+### コンテストの日時
+
+- [HighlightAtCoderContestNot2100](https://greasyfork.org/en/scripts/426911-highlightatcodercontestnot2100) - レーティングの変動があるコンテストのうち、開始時間が21時以外の場合に赤字で強調する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/highlight_atcoder_contest_not_2100.png" alt="highlight atcoder contest not 2100">
+    </div>
 
 ### 問題の実行時間制限
 
