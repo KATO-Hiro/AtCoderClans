@@ -112,6 +112,7 @@ nav:
       - user_scripts/view_scores.md
       - user_scripts/automatic_notification.md
       - user_scripts/use_shortcut.md
+      - user_scripts/colors.md
       - user_scripts/improve_ui.md
       - user_scripts/add_buttons_and_links.md
       - user_scripts/for_developers.md
