@@ -14,7 +14,7 @@ title: Webページをより見やすく
       <img loading = "lazy" src="../../images/chrome_extension/comfortable_atcoder.png" alt="comfortable atcoder">
     </div>
 
-## 問題の提出、正誤状況を確認
+## 問題の提出・正誤状況を確認
 
 - [⭐ atcoder-tasks-page-colorizer](https://greasyfork.org/ja/scripts/380404-atcoder-tasks-page-colorizer) - 「問題」ページで、提出した問題に色付けします。「AC(正解)」が緑色で、「WA(不正解)」が赤色でそれぞれ表示されます。
 
