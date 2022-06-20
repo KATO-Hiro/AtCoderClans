@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-06-20
+
+- [#4142](https://github.com/KATO-Hiro/AtCoderClans/pull/4142) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[shojin_debu](https://atcoder.jp/users/shojin_debu)さんの[記事](https://shojin-debu.hatenablog.com/entry/2022/06/19/155624)を追加。
+
 ### 2022-06-19
 
 - [#4136](https://github.com/KATO-Hiro/AtCoderClans/pull/4136) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのアルゴリズム部門に、最高レーティングが2000〜2399に到達したユーザのブログを追加。
