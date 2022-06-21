@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-06-21
+
+- [#4147](https://github.com/KATO-Hiro/AtCoderClans/pull/4147) - (破壊的な変更) リンク切れと思われる色変記事を一時的に「Archived」ページに移動。
+
 ### 2022-06-20
 
 - [#4142](https://github.com/KATO-Hiro/AtCoderClans/pull/4142) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
