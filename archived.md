@@ -188,6 +188,8 @@ filename: archived
   - 確認した日: 2021/11/17
 - [【入茶記事】AtCoderで茶色になりました！](https://note.com/takuma1229/n/n4c013fca8439) - [takuma1229](https://atcoder.jp/users/takuma1229)さんが、2021年11月27日に達成。
   - 確認した日: 2021/12/19
+- [Atcoderで茶色になりました - sin471のブログ](https://sin471.hatenablog.com/entry/2022/02/06/003702) - [sin471](https://atcoder.jp/users/sin471)さんが、2022年2月5日に達成。
+  - 確認した日: 2022/06/21
 - [30代プログラミング初心者がAtCoderで緑色になった所感](https://zenn.dev/shinsatt/articles/81a926fe88987f) - [shinsatt](https://atcoder.jp/users/shinsatt)さんが、2021年7月4日に達成。
   - 確認した日: 2022/01/19
 - [AtCoderで水になったのでなんか書く - Takeshiのブログ](https://takesyhi.hatenablog.com/entry/2021/10/07/152435) - [Coordinator](https://atcoder.jp/users/Coordinator)さんが、2021年10月7日に公開。
