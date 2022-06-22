@@ -42,7 +42,6 @@ filename: related_contest_sites
   - [Webサイトと関連リンク](#web%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A8%E9%96%A2%E9%80%A3%E3%83%AA%E3%83%B3%E3%82%AF)
   - [記事](#%E8%A8%98%E4%BA%8B-2)
   - [プラグイン](#%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3)
-- [Wind Bel Contest](#wind-bel-contest)
 - [Xmas Contest](#xmas-contest)
 - [yukicoder](#yukicoder)
 
@@ -384,14 +383,6 @@ filename: related_contest_sites
 
   <div align="center">
     <img loading = "lazy" src="images/related_contest_sites/topcoder/greed.png" alt="greed">
-  </div>
-
-### Wind Bel Contest
-
-- [Wind Bel Contest](https://mario.exout.net/contests/) - テーマ別のコンテストが不定期に開催されている。注: [AtCoder](https://atcoder.jp/)とは、提出方法やSNSへの書き込みのルールが異なるため、事前の確認を推奨。
-
-  <div align="center">
-    <img loading = "lazy" src="images/related_contest_sites/wind_bel_contest/wind_bel_contest.png" alt="wind bel contest">
   </div>
 
 ### Xmas Contest
