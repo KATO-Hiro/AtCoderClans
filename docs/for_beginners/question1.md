@@ -66,7 +66,9 @@ A1: 入門者、初心者向けの教材や記事を読んでみましょう。[
 - [APG4bからAtCoderを始めた人向けの導線](https://mogurin1000000007.hatenablog.com/entry/2021/02/09/162158) - 公式が提供するプログラミングの入門教材[C++入門 AtCoder Programming Guide for beginners (通称APG4b)](https://atcoder.jp/contests/APG4b)の概説と、APG4bをある程度学習した人に向けた基本的な練習方法やTipsが紹介されている記事です。
 - [AtCoderの練習方法](https://atcoder.jp/posts/677) - [AtCoder](https://atcoder.jp/)の公式ブログで紹介されている練習方法です。上達のために、問題を多く解く方法や典型的なアルゴリズムを学ぶ方法が説明されています。
 - [AtCoderでの勉強の仕方（コンテスト編）](http://chokudai.hatenablog.com/entry/2014/08/07/212849) - [AtCoder](https://atcoder.jp/)社長の[chokudai](https://twitter.com/chokudai)さんによる記事です。プログラミングコンテストの参加を通して、アルゴリズムの学習を継続的に行う方法が解説されています。
-- [AtCoder Problems](https://kenkoooo.com/atcoder/) - コンテストの過去問を一覧できるWebアプリです。登録したアカウント名を入力すると、問題の正誤状況や各種集計結果などを確認できます。有志による[使い方を解説した記事](https://ntk-ta01.hatenablog.com/entry/2020/04/15/001405)もご参照ください。
+- [AtCoder Problems](https://kenkoooo.com/atcoder/) - コンテストの過去問を一覧できるWebアプリです。登録したアカウント名を入力すると、問題の正誤状況や各種集計結果などを確認できます。詳しくは、以下のドキュメント・記事をご覧ください。
+    - [User Guide](https://kenkoooo.com/atcoder/book/ja/index.html) - 同サービスで提供されているドキュメント(日本語)です。
+    - [AtCoder Problemsの使い方（AtCoder Problemsを知らない人向け）](https://ntk-ta01.hatenablog.com/entry/2020/04/15/001405) - 有志が使い方を解説した記事です。
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_problems.png" alt="atcoder problems">
