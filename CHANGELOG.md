@@ -6,6 +6,16 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-06-22
+
+- [#4153](https://github.com/KATO-Hiro/AtCoderClans/pull/4153) - Webアプリ「[AtCoder Problems](https://kenkoooo.com/atcoder/)」の説明文に[User Guide](https://kenkoooo.com/atcoder/book/ja/index.html)を追加。該当ページは以下の通り。
+  - [For Beginners](https://kato-hiro.github.io/AtCoderClans/for_beginners)
+  - [Recommendation](https://kato-hiro.github.io/AtCoderClans/recommendation)
+  - [Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app)
+- [#4151](https://github.com/KATO-Hiro/AtCoderClans/pull/4151) - (破壊的な変更) リンク切れと思われるサービスに対応。
+  - URLを修正。
+  - 一時的に「Archived」ページに移動。
+
 ### 2022-06-21
 
 - [#4147](https://github.com/KATO-Hiro/AtCoderClans/pull/4147) - (破壊的な変更) リンク切れと思われる色変記事を一時的に「Archived」ページに移動。
