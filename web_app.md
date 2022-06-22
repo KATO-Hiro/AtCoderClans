@@ -51,7 +51,9 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_list.png" alt="atcoder list">
   </div>
 
-- [AtCoder Problems](https://kenkoooo.com/atcoder/) - 開催されたコンテストの問題を一覧できる。問題の正誤状況や各種集計結果を確認できるだけでなく、バーチャルコンテストなどの機能もある。詳しくは、有志による[AtCoder Problemsの使い方](https://ntk-ta01.hatenablog.com/entry/2020/04/15/001405)を参照されたい。注: 記事に掲載されている図やバーチャルコンテストの名称・内容は、最新情報と異なる場合もある。
+- [AtCoder Problems](https://kenkoooo.com/atcoder/) - 開催されたコンテストの問題を一覧できる。問題の正誤状況や各種集計結果を確認できるだけでなく、バーチャルコンテストなどの機能もある。注: 記事に掲載されている図やバーチャルコンテストの名称・内容は、最新情報と異なる場合もある。
+  - [User Guide](https://kenkoooo.com/atcoder/book/ja/index.html) - 同サービスで提供されているドキュメント(日本語)。
+  - [AtCoder Problemsの使い方（AtCoder Problemsを知らない人向け）](https://ntk-ta01.hatenablog.com/entry/2020/04/15/001405) - 有志が使い方を解説した記事。
 
   <div align="center">
     <img loading = "lazy" src="images/web_app/atcoder_problems.png" alt="atcoder problems">
