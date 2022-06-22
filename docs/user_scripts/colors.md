@@ -2,7 +2,7 @@
 title: Webページに色付けする
 ---
 
-Webページの背景色の変更や問題文・提出コード・問題の正誤状況を見やすくします。
+Webページの背景色の変更や文字・提出コード・問題の正誤状況を見やすくします。
 
 また、コンテストの成績に応じて、各ページの情報を色付けすることもできます。
 
@@ -30,7 +30,7 @@ Webページの背景色の変更や問題文・提出コード・問題の正�
       <img loading = "lazy" src="../../images/userscript/atcoder_theme_solarized_dark.png" alt="atcoder theme solarized dark">
     </div>
 
-## 説明・問題文などを強調する
+## 文字を強調する
 
 ### コンテストの日時
 
