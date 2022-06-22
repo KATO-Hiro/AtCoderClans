@@ -10,7 +10,7 @@ title: 解説ブログ・解説サイト
 ## 解説ブログの一覧・解説サイト
 
 - [競技プログラマーのブログをまとめてみた](https://www.hamayanhamayan.com/entry/2020/12/24/001540) - [hamayanhamayan](https://atcoder.jp/users/hamayanhamayan)さんが、[AtCoder](https://atcoder.jp/)で日本人上位300人+αのブログ・Qiitaの投稿の有無を調査した記事。
-- [Kyopro Encyclopedia of Algorithms](https://dic.kimiyuki.net/) - 競技プログラミングに関するアルゴリズムの百科事典を目指している解説サイト(試験運用中)。想定読者は、[AtCoder](https://atcoder.jp/)の黄色以上(レーティングで2000以上)。
+- [Kyopro Encyclopedia of Algorithms](https://github.com/noshi91/algorithm-encyclopedia)<sup>[archive.org](https://web.archive.org/web/20210822165133/https://dic.kimiyuki.net/)</sup> - 競技プログラミングに関するアルゴリズムの百科事典を目指している解説サイト(試験運用中)。想定読者は、[AtCoder](https://atcoder.jp/)の黄色以上(レーティングで2000以上)。
 
 ## C&#43;&#43;
 
