@@ -10,7 +10,7 @@ title: ボタンを追加・動作変更
       <img loading = "lazy" src="../../images/userscript/atcoder_easy_test.png" alt="atcoder easy test">
     </div>
 
-## 提出コードの検索
+## 提出コードを検索
 
 - [AtCoderSubmitSearchSettings](https://greasyfork.org/ja/scripts/390424-atcodersubmitsearchsettings) - 「すべての提出」ページで、古いバージョンで提出されたコードを検索できる。検索のデフォルト設定も指定できる。
 
