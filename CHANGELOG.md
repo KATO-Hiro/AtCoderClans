@@ -311,7 +311,10 @@ filename: CHANGELOG
 
 ### 2022-04-13
 
-- [#3803](https://github.com/KATO-Hiro/AtCoderClans/pull/3803) - [#3800](https://github.com/KATO-Hiro/AtCoderClans/pull/3800)に関連して、「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに掲載している「[Kyopro Encyclopedia of Algorithms](https://dic.kimiyuki.net/)」のURLも修正。
+- [#3803](https://github.com/KATO-Hiro/AtCoderClans/pull/3803) - [#3800](https://github.com/KATO-Hiro/AtCoderClans/pull/3800)に関連して、「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに掲載している「Kyopro Encyclopedia of Algorithms<sup>[archive.org](https://web.archive.org/web/20210822165133/https://dic.kimiyuki.net/)</sup>」のURLも修正。
+
+foo<sup>hoge</sup>
+
 
 ### 2022-04-12
 

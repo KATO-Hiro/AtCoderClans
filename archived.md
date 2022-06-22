@@ -209,6 +209,13 @@ filename: archived
     <img loading = "lazy" src="images/related_contest_sites/omc/omc_problems.png" alt="omc problems">
   </div>
 
+- [Wind Bel Contest](https://mario.exout.net/contests/) - テーマ別のコンテストが不定期に開催されている。注: [AtCoder](https://atcoder.jp/)とは、提出方法やSNSへの書き込みのルールが異なるため、事前の確認を推奨。
+  - 確認した日: 2022/06/16
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/wind_bel_contest/wind_bel_contest.png" alt="wind bel contest">
+  </div>
+
 <!-- markdown-link-check-enable -->
 
 ## 開発、提供が終了したサービス、ツールなど
