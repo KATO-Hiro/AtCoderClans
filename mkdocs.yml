@@ -114,7 +114,7 @@ nav:
       - user_scripts/use_shortcut.md
       - user_scripts/colors.md
       - user_scripts/improve_ui.md
-      - 便利な機能を追加・動作変更:
+      - 便利な機能を追加:
         - user_scripts/add_buttons_and_links.md
         - user_scripts/add_tabs.md
         - user_scripts/add_links.md
