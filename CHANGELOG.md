@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-06-25
+
+- [#4167](https://github.com/KATO-Hiro/AtCoderClans/pull/4167) - 「[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)」ページに、Pythonで実装されたライブラリを追加。
+  - [Lgeu/snippet](https://github.com/Lgeu/snippet)
+
 ### 2022-06-24
 
 - [#4163](https://github.com/KATO-Hiro/AtCoderClans/pull/4163) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
