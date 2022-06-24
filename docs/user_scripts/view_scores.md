@@ -5,7 +5,7 @@ title: コンテストの成績や関連する統計情報を見る
 ## リアルタイムの情報を見る
 
 !!! danger "警告"
-    コンテスト中にSNSでの言及や投稿は避ける。
+    コンテスト中にSNSでの言及や投稿は避ける。賠償が請求される可能性があるため。
 
 ### 問題の統計情報
 
@@ -76,6 +76,14 @@ title: コンテストの成績や関連する統計情報を見る
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_devotion_graph.png" alt="atcoder devotion graph">
+    </div>
+
+### お気に入りユーザの成績を見る
+
+- [AtCoder Fav Rating](https://greasyfork.org/ja/scripts/406745-atcoder-fav-rating) - 「アカウント」ページにお気に入りの順位・レーティング(現在・最高)・参加回数を一覧で表示するボタンを設置する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_fav_rating.png" alt="atcoder fav rating">
     </div>
 
 ### ユーザの使用言語を見る
