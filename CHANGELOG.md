@@ -8,7 +8,7 @@ filename: CHANGELOG
 
 ### 2022-06-25
 
-- [#4167](https://github.com/KATO-Hiro/AtCoderClans/pull/4167) - 「[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)」ページに、Pythonで実装されたライブラリを追加。
+- [#4167](https://github.com/KATO-Hiro/AtCoderClans/pull/4167) - 「[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)」ページに、Pythonで実装されたスニペット集を追加。
   - [Lgeu/snippet](https://github.com/Lgeu/snippet)
 
 ### 2022-06-24
