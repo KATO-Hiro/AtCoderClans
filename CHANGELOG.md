@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-06-24
+
+- [#4163](https://github.com/KATO-Hiro/AtCoderClans/pull/4163) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング400から799まで(茶色)に[michirakara](https://atcoder.jp/users/michirakara)さんの[記事](https://qiita.com/Michirakara/items/89ba033e9343a1ee02ef)を追加。
+
 ### 2022-06-23
 
 - [#4159](https://github.com/KATO-Hiro/AtCoderClans/pull/4159) - (破壊的な変更) リンク切れと思われるWebアプリを一時的に「Archived」ページに移動。
