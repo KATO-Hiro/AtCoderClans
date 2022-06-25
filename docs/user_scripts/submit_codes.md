@@ -6,6 +6,15 @@ title: ソースコードの提出・確認を簡単に
 
 ### 入出力例を集約
 
+- [AtCoder for Large Display](https://greasyfork.org/ja/scripts/439100-atcoder-for-large-display) - 「問題」ページで、入出力例を2列で表示する。
+
+    !!! warning "注意"
+        古い問題では正しく表示されない可能性がある。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_for_large_display.png" alt="atcoder for large display">
+    </div>
+
 - [atcoder_collect_all_examples](https://greasyfork.org/ja/scripts/387240-atcoder-collect-all-examples) - 「問題」ページに入力例・出力例をそれぞれまとめる。
 
     <div align="center">
