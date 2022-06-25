@@ -56,6 +56,17 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/atcoder_template.png" alt="atcoder template">
     </div>
 
+### コンテストIDをコピー
+
+- [AtCoderDevotionScript](https://greasyfork.org/en/scripts/415819-atcoderdevotionscript) - 「問題」ページで、Ctrl + Qを押すと、[atcoder-cli](https://github.com/Tatamo/atcoder-cli)の利用に必要なコンテストIDをクリップボードに書き込むことができる。使い方の詳細は、作者の[紹介記事](https://iiiimmmmo.hatenablog.com/entry/2020/11/15/170008)を参照されたい。
+
+    !!! warning "注意"
+        macOSユーザは、ショートカットの干渉があるため、設定の変更が必要。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_devotion_script.png" alt="atcoder devotion script">
+    </div>
+
 ### 制約条件を確認
 
 - [制約をチェックする](https://greasyfork.org/ja/scripts/434715-check-constraints) - 「問題」ページの制約に、確認用のチェックボックスを追加する。

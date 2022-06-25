@@ -12,7 +12,9 @@ title: ソースコードの提出・確認を簡単に
       <img loading = "lazy" src="../../images/userscript/atcoder_collect_all_examples.png" alt="atcoder collect all examples">
     </div>
 
-### 入出力例をダウンロード
+### 入出力例を取得
+
+- [atcoder-keyboard-shortcuts](https://greasyfork.org/ja/scripts/397575-atcoder-keyboard-shortcuts) - Shift+[1-5]で、「問題」ページにある入力例をクリップボードにコピーする。
 
 - [AtCoder Sample Downloader](https://greasyfork.org/ja/scripts/425977-atcoder-sample-downloader) - 「問題」ページに、入出力例をダウンロードできるボタンを設置する。
 
@@ -21,6 +23,11 @@ title: ソースコードの提出・確認を簡単に
     </div>
 
 ### バグがないか事前に確認
+
+- [AtCoder_CustomTest_Run_Shortcut](https://greasyfork.org/ja/scripts/418633-atcoder-customtest-run-shortcut) - 「コードテスト」ページで、Ctrl+Enterを押すと、標準入力の値を使用してソースコードを実行する。
+
+    !!! warning "注意"
+        ショートカットを実行する前に、事前にソースコードと標準入力に入力を済ませておく必要がある。
 
 - [AtCoder Easy Test v2](https://greasyfork.org/ja/scripts/433152-atcoder-easy-test-v2) - 「問題」ページで、入出力例を使って素早くテスト(自作を含む)を実行できる。また、[Codeforces](https://codeforces.com/)や[yukicoder](https://yukicoder.me/)にも対応している。スクリプトの基本的な使用方法や技術解説に関しては、[作者による解説記事](https://qiita.com/magurofly/items/4b60dc02283e70230f71)を参照されたい。
 
@@ -60,6 +67,12 @@ title: ソースコードの提出・確認を簡単に
       <img loading = "lazy" src="../../images/userscript/mod_noticer.png" alt="mod noticer">
     </div>
 
+### ショートカットキーで提出
+
+- [AtCoder_submit_keyboard_shortcut](https://greasyfork.org/ja/scripts/378760-atcoder-submit-keyboard-shortcut) - ソースコードの提出が、Ctrl+Enterでできる。
+
+- [AtCoder dos2unix UserScript](https://greasyfork.org/ja/scripts/372122-atcoder-dos2unix-userscript) - 改行コードをCRLFからLFに変換して、ソースコードを提出する。
+
 ## 提出コードの正誤判定
 
 ### 自分
@@ -81,12 +94,6 @@ title: ソースコードの提出・確認を簡単に
 ### お気に入りユーザ
 
 - [AtCoder Standings Watcher](https://greasyfork.org/ja/scripts/428862-atcoder-standings-watcher) - コンテスト中に、お気に入りに登録したユーザの正誤情報を通知する。
-
-- [AtcoderColorNEWS](https://greasyfork.org/ja/scripts/387896-atcodercolornews) - お気に入りに登録した人の色の変化を通知する。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcoder_color_news.png" alt="atcoder color news">
-    </div>
 
 ## 提出コードを検索する
 
