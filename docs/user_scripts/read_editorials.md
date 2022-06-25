@@ -4,9 +4,25 @@ title: 解説を読む・テストケースを見る
 
 ## 解説を読む
 
+### まとめて表示
+
+- [View All Editorials](https://greasyfork.org/ja/scripts/416554-view-all-editorials) - 「解説」ページに、問題の解説を表示する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/view-all-editorials.png" alt="view all editorials">
+    </div>
+
 ### 新しいタブで開く
 
 - [AtCoder Editorial New Tab](https://greasyfork.org/ja/scripts/424207-atcoder-editorial-new-tab) - 「問題」ページにある「解説」ボタンを押すと、該当する解説を新しいタブで開くことができる。
+
+### 該当ページに移動
+
+- [AtCoder Traffic Light](https://greasyfork.org/ja/scripts/420136-atcoder-traffic-light) - 「問題」ページから、直接解説ページに移動できる。また、解説ボタンの色が読み込み状況に応じて変化する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_traffic_light.png" alt="snuke? smeke?">
+    </div>
 
 ### 競プロ典型90問の復習
 
