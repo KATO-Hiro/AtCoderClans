@@ -74,6 +74,12 @@ title: ソースコードの提出・確認を簡単に
       <img loading = "lazy" src="../../images/userscript/auto_submissions_settings_js.png" alt="auto submissions settings js">
     </div>
 
+- [ac-search-old-languages](https://greasyfork.org/ja/scripts/405745-ac-search-old-languages) - 「提出結果」ページで、judge-update-202004以前の言語による提出コードを検索できるようにする。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/ac_search_old_languages.png" alt="ac search old languages">
+    </div>
+
 - [AtCoderSubmitSearchSettings](https://greasyfork.org/ja/scripts/390424-atcodersubmitsearchsettings) - 「すべての提出」ページで、古いバージョンで提出されたコードを検索できる。検索のデフォルト設定も指定できる。
 
     <div align="center">
