@@ -56,6 +56,14 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/atcoder_template.png" alt="atcoder template">
     </div>
 
+### 制約条件を確認
+
+- [制約をチェックする](https://greasyfork.org/ja/scripts/434715-check-constraints) - 「問題」ページの制約に、確認用のチェックボックスを追加する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/check_constraints.png" alt="check constraints">
+    </div>
+
 ### ヒントを見る
 
 - [AtCoderTags_Hint](https://greasyfork.org/ja/scripts/393337-atcodertags-hint) - 「問題」ページにカテゴリーを表すヒントボタンを設置する。
