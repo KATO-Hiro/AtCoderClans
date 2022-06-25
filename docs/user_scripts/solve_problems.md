@@ -38,6 +38,14 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/atcoder_problem_navigator.png" alt="atcoder problem navigator">
     </div>
 
+### 難易度順に並び替え
+
+- [atcoder-typical90-sort](https://greasyfork.org/ja/scripts/428698-atcoder-typical90-sort) - 「[競プロ典型90問](https://atcoder.jp/contests/typical90)」の問題を、難易度が低い順に並び替える。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_typical90_sort.png" alt="atcoder typical90 sort">
+    </div>
+
 ### 関連コンテストサイト
 
 - [AtCoderLinkCompletionForJOI](https://greasyfork.org/ja/scripts/382313-atcoderlinkcompletionforjoi) - JOIの問題ページにPDFへのリンクを追加する。
