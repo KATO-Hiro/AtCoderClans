@@ -64,6 +64,12 @@ title: ソースコードの提出・確認を簡単に
 
 ### 検索条件を指定
 
+- [AtCoder Custom Default Submissions](https://greasyfork.org/ja/scripts/393705-atcoder-custom-default-submissions) - 「すべての提出」ページにおける絞り込み、並び替え設定のデフォルト値を設定できる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_custom_default_submissions.jpg" alt="atcoder custom default submissions">
+    </div>
+
 - [AtCoder Default Search Fields](https://greasyfork.org/ja/scripts/445634-atcoder-default-search-fields) - 「すべての提出」ページで、結果がAC(正解)の提出を検索する。さらに、個別の問題ページから「すべての提出」ページに移動したときは、直前に見ていた問題に限定して絞り込むことができる。
 
 - [AtCoder ResultsPage Tweaks](https://greasyfork.org/ja/scripts/424079-atcoder-resultspage-tweaks) - 「提出結果」ページの「すべての提出」で、検索条件を変更したときに自動で検索する。
