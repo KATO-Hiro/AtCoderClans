@@ -16,6 +16,12 @@ title: ソースコードの提出・確認を簡単に
 
 - [atcoder-keyboard-shortcuts](https://greasyfork.org/ja/scripts/397575-atcoder-keyboard-shortcuts) - Shift+[1-5]で、「問題」ページにある入力例をクリップボードにコピーする。
 
+- [AtCoder Print Task Copy](https://greasyfork.org/ja/scripts/394999-atcoder-print-task-copy) - 「問題」ページにある「印刷用問題文」にCopyボタンを追加する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_print_task_copy.png" alt="atcoder print task copy">
+    </div>
+
 - [AtCoder Sample Downloader](https://greasyfork.org/ja/scripts/425977-atcoder-sample-downloader) - 「問題」ページに、入出力例をダウンロードできるボタンを設置する。
 
     <div align="center">
