@@ -60,6 +60,34 @@ title: ソースコードの提出・確認を簡単に
       <img loading = "lazy" src="../../images/userscript/mod_noticer.png" alt="mod noticer">
     </div>
 
+## 提出コードの正誤判定
+
+### 自分
+
+- [AtCoderJudgeProgressColorizer](https://greasyfork.org/ja/scripts/430903-atcoderjudgeprogresscolorizer) - 「提出結果」ページで、ジャッジの進行状況がプログレスバーで表示される。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_judge_progress_colorizer.png" alt="atcoder judge progress colorizer">
+    </div>
+
+- [atcoder-bell](https://greasyfork.org/ja/scripts/377923-atcoder-bell) - ジャッジシステムでの正誤判定が終了すると、ベルが鳴る。
+
+- [AtCoderResultNotifier](https://greasyfork.org/ja/scripts/371225-atcoderresultnotifier) - 提出結果を通知する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_result_notifier.gif" alt="atcoder result notifier">
+    </div>
+
+### お気に入りユーザ
+
+- [AtCoder Standings Watcher](https://greasyfork.org/ja/scripts/428862-atcoder-standings-watcher) - コンテスト中に、お気に入りに登録したユーザの正誤情報を通知する。
+
+- [AtcoderColorNEWS](https://greasyfork.org/ja/scripts/387896-atcodercolornews) - お気に入りに登録した人の色の変化を通知する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_color_news.png" alt="atcoder color news">
+    </div>
+
 ## 提出コードを検索する
 
 ### 検索条件を指定

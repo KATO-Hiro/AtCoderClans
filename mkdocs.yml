@@ -110,7 +110,6 @@ nav:
     - ユーザスクリプト:
       - user_scripts/index.md
       - user_scripts/view_scores.md
-      - user_scripts/automatic_notification.md
       - user_scripts/use_shortcut.md
       - user_scripts/colors.md
       - user_scripts/improve_ui.md
