@@ -88,6 +88,14 @@ title: ソースコードの提出・確認を簡単に
 
 - [AtCoder dos2unix UserScript](https://greasyfork.org/ja/scripts/372122-atcoder-dos2unix-userscript) - 改行コードをCRLFからLFに変換して、ソースコードを提出する。
 
+### 提出に必要な待ち時間を確認
+
+- [atcoder-wait-time-display](https://greasyfork.org/ja/scripts/430509-atcoder-wait-time-display) - 「問題」ページで、次の提出までに必要な待ち時間を表示する。また、直前の提出から経過した時間も見ることができる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_wait_time_display.png" alt="atcoder wait time display">
+    </div>
+
 ## 提出コードの正誤判定
 
 ### 自分
@@ -112,7 +120,7 @@ title: ソースコードの提出・確認を簡単に
 
 ## 提出コードを確認する
 
-### 正誤判定を集約
+### 正誤判定の結果を集約
 
 - [AtCoder Submission Status](https://greasyfork.org/ja/scripts/383817-atcoder-submission-status) - 提出した解答について、テストケースの結果(AC、WA、…)が一目でわかるように表示する。
 
