@@ -110,6 +110,32 @@ title: ソースコードの提出・確認を簡単に
 
 - [AtCoder Standings Watcher](https://greasyfork.org/ja/scripts/428862-atcoder-standings-watcher) - コンテスト中に、お気に入りに登録したユーザの正誤情報を通知する。
 
+## 提出コードを確認する
+
+### 正誤判定を集約
+
+- [AtCoder Submission Status](https://greasyfork.org/ja/scripts/383817-atcoder-submission-status) - 提出した解答について、テストケースの結果(AC、WA、…)が一目でわかるように表示する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_submission_status.png" alt="atcoder submission status">
+    </div>
+
+### 実行時間・使用メモリの平均値
+
+- [AtCoderAverageResult](https://greasyfork.org/ja/scripts/429155-atcoderaverageresult) - 「提出結果」ページで、テストケースの実行時間・使用メモリの平均値をそれぞれ表示する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_average_result.png" alt="atcoder average result">
+    </div>
+
+### ソースコードをまとめて表示
+
+- [atcoder-submission-wo-ikki-ni-miiru](https://greasyfork.org/ja/scripts/403062-atcoder-submission-wo-ikki-ni-miiru) - 「提出結果」ページにソースコードを表示する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_submission_wo_ikki_ni_miiru.png" alt="atcoder submission wo ikki ni miiru">
+    </div>
+
 ## 提出コードを検索する
 
 ### 検索条件を指定
