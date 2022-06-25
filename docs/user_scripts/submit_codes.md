@@ -62,18 +62,22 @@ title: ソースコードの提出・確認を簡単に
 
 ## 提出コードを検索する
 
-### 検索条件を指定して探す
+### 検索条件を指定
 
-- [AtCoderSubmitSearchSettings](https://greasyfork.org/ja/scripts/390424-atcodersubmitsearchsettings) - 「すべての提出」ページで、古いバージョンで提出されたコードを検索できる。検索のデフォルト設定も指定できる。
+- [AtCoder Default Search Fields](https://greasyfork.org/ja/scripts/445634-atcoder-default-search-fields) - 「すべての提出」ページで、結果がAC(正解)の提出を検索する。さらに、個別の問題ページから「すべての提出」ページに移動したときは、直前に見ていた問題に限定して絞り込むことができる。
 
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcoder_submit_search_settings.png" alt="atcoder submit search settings">
-    </div>
+- [AtCoder ResultsPage Tweaks](https://greasyfork.org/ja/scripts/424079-atcoder-resultspage-tweaks) - 「提出結果」ページの「すべての提出」で、検索条件を変更したときに自動で検索する。
 
 - [AutoSubmissionsSettings.js](https://greasyfork.org/ja/scripts/390514-autosubmissionssettings-js) - 「すべての提出」ページで、指定した言語と結果で検索するボタンを追加する。
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/auto_submissions_settings_js.png" alt="auto submissions settings js">
+    </div>
+
+- [AtCoderSubmitSearchSettings](https://greasyfork.org/ja/scripts/390424-atcodersubmitsearchsettings) - 「すべての提出」ページで、古いバージョンで提出されたコードを検索できる。検索のデフォルト設定も指定できる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_submit_search_settings.png" alt="atcoder submit search settings">
     </div>
 
 ### 順位表から探す
@@ -84,7 +88,7 @@ title: ソースコードの提出・確認を簡単に
       <img loading = "lazy" src="../../images/userscript/atcoder_jump_to_submissions_from_standings.gif" alt="atcoder jump to submissions from standings">
     </div>
 
-### 最短コードを探す
+### 最短コード
 
 - [Add Shortest Tab](https://greasyfork.org/ja/scripts/391692-add-shortest-tab) - 開いている問題について、コード長に並べた提出ページのタブを追加する。
 
