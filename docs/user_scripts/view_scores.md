@@ -86,6 +86,18 @@ title: コンテストの成績や関連する統計情報を見る
       <img loading = "lazy" src="../../images/userscript/atcoder_fav_rating.png" alt="atcoder fav rating">
     </div>
 
+### ユーザの成績で検索
+
+- [AtCoder Auto Pager](https://greasyfork.org/ja/scripts/421991-atcoder-auto-pager) - 「順位表」ページに、順位・得点・解答時間・パフォーマンスによる検索機能を追加する。
+
+    !!! warning "警告"
+        パフォーマンスによる検索を行うためには、[ac-predictor](https://greasyfork.org/ja/scripts/369954-ac-predictor)を導入する必要がある。
+
+    <div align="center">
+
+      <img loading = "lazy" src="../../images/userscript/atcoder_auto_pager.png" alt="atcoder auto pager">
+    </div>
+
 ### ユーザの使用言語を見る
 
 - [atcoder-standings-lang](https://greasyfork.org/ja/scripts/415894-atcoder-standings-lang) - 「順位表」ページおよび「バーチャル順位表」ページで、ユーザ名の横にAC数の多い言語を表示する。
