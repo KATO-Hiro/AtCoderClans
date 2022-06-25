@@ -53,3 +53,22 @@ title: 解説を読む・テストケースを見る
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_testcase_extension.png" alt="atcoder testcase extension">
     </div>
+
+## 復習の効果をより高める
+
+### 外部サービス
+
+- [AtCoder Problems Marker](https://greasyfork.org/ja/scripts/395711-atcoder-problems-marker) - [AtCoder Problems](https://kenkoooo.com/atcoder/) で表示される問題に、ユーザが独自のマーカー(解説ACなど)を付けられるようにする。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_problems_marker.png" alt="atcoder problems marker">
+    </div>
+
+- [VirtualContestUpSolver](https://greasyfork.org/ja/scripts/421963-virtualcontestupsolver) - [AtCoder Problems](https://kenkoooo.com/atcoder/)のバーチャルコンテストで出題された問題のうち、復習したかどうかを管理できる。
+
+    !!! warning "注意"
+        利用には、バーチャルコンテストに参加できる状態(GitHubアカウントを利用してユーザ認証を済ませた状態)にあり、少なくとも1回以上の参加が必要。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/virtual_contest_upsolver.png" alt="virtual contest upsolver">
+    </div>
