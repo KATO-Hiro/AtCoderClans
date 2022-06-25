@@ -117,9 +117,7 @@ nav:
       - user_scripts/solve_problems.md
       - user_scripts/submit_codes.md
       - user_scripts/read_editorials.md
-      - 便利な機能を追加:
-        - user_scripts/add_buttons_and_links.md
-        - user_scripts/add_links.md
+      - user_scripts/add_buttons_and_links.md
       - user_scripts/for_developers.md
     - Google Chromeの拡張機能:
       - chrome_extensions/index.md
