@@ -78,14 +78,6 @@ title: コンテストの成績や関連する統計情報を見る
       <img loading = "lazy" src="../../images/userscript/atcoder_devotion_graph.png" alt="atcoder devotion graph">
     </div>
 
-### お気に入りユーザの成績を見る
-
-- [AtCoder Fav Rating](https://greasyfork.org/ja/scripts/406745-atcoder-fav-rating) - 「アカウント」ページにお気に入りの順位・レーティング(現在・最高)・参加回数を一覧で表示するボタンを設置する。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcoder_fav_rating.png" alt="atcoder fav rating">
-    </div>
-
 ### ユーザの成績で検索
 
 - [AtCoder Auto Pager](https://greasyfork.org/ja/scripts/421991-atcoder-auto-pager) - 「順位表」ページに、順位・得点・解答時間・パフォーマンスによる検索機能を追加する。
