@@ -4,11 +4,15 @@ title: ライバルを探す・競う
 
 ## ライバルを探す
 
+### 属性が近いユーザを探す
+
 - [AtCoder Profile2Ranking Link](https://greasyfork.org/en/scripts/426219-atcoder-profile2ranking-link) - 「プロフィール」ページで、国と地域・誕生年・所属のいずれかのリンクをクリックすると、「ランキング」ページで指定した属性と一致するユーザが表示される。
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_profile2ranking_link.png" alt="atcoder profile2ranking link">
     </div>
+
+### ユーザ名を指定して検索
 
 - [AtCoderUserSearchForm](https://greasyfork.org/ja/scripts/382092-atcoderusersearchform) - 「ホーム」ページにユーザ検索のフォームを追加する。日本語版ページのみ有効。
 

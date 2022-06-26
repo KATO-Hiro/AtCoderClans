@@ -109,12 +109,12 @@ nav:
     - scripts/index.md
     - ユーザスクリプト:
       - user_scripts/index.md
-      - user_scripts/participate_in_contests.md
-      - user_scripts/view_scores.md
-      - user_scripts/colors.md
       - user_scripts/solve_problems.md
       - user_scripts/submit_codes.md
       - user_scripts/read_editorials.md
+      - user_scripts/participate_in_contests.md
+      - user_scripts/view_scores.md
+      - user_scripts/colors.md
       - user_scripts/rivals.md
       - user_scripts/jokes.md
       - user_scripts/for_developers.md
