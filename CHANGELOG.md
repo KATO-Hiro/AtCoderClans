@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-06-26
+
+- [#4171](https://github.com/KATO-Hiro/AtCoderClans/pull/4171) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに掲載している書籍「[問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本](https://www.amazon.co.jp/dp/4297125218/)」の説明文を更新。以下の記事を追加。
+  - [E869120本をSwiftで解く(問題58-90)](https://qiita.com/b150005/items/4c19bf6779060571d58d)
+
 ### 2022-06-25
 
 - [#4167](https://github.com/KATO-Hiro/AtCoderClans/pull/4167) - 「[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)」ページに、Pythonで実装されたスニペット集を追加。
