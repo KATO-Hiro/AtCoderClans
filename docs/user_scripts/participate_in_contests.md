@@ -21,3 +21,7 @@ title: コンテストに参加する
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/ac_clar_shaper.png" alt="ac clar shaper">
     </div>
+
+## 部活の共有アカウントで誤操作を防ぐ
+
+- [Save_Paken_AtCoder_Account](https://greasyfork.org/ja/scripts/401642-save-paken-atcoder-account) - パ研の共有アカウントで誤ってコンテストに参加するのを防ぐ。
