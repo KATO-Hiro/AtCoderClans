@@ -2,12 +2,22 @@
 title: 問題を解く
 ---
 
-## サンプルケースの取得
+## 問題を見る
 
-- [Competitive Companion](https://github.com/jmerle/competitive-companion) - [AtCoder](https://atcoder.jp/)を含む複数のコンテストサイトのサンプルケースを取得することができるブラウザ拡張（[Chrome extension](https://chrome.google.com/webstore/detail/competitive-companion/cjnmckjndlpiamhfimnnjmnckgghkjbl)、[Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/competitive-companion/))。この結果を利用してテストするIDEプラグインが多数公開されている。例えば[CHelper](https://plugins.jetbrains.com/plugin/7091-chelper)、[JHelper](https://plugins.jetbrains.com/plugin/7541-jhelper)などがある。
+- [AtCoder Opener](https://chrome.google.com/webstore/detail/atcoder-opener/fcfbcmhldmilebbhlapaekahjlcflinl) - コンテストの「トップ」ページで拡張機能のボタン(Aのマーク)をクリックすると、「印刷用問題文」と「提出」ページを新しいタブで開くことができる。
 
     <div align="center">
-      <img loading = "lazy" src="../../images/chrome_extension/competitive_companion.jpg" alt="competitive companion">
+      <img loading = "lazy" src="../../images/chrome_extension/atcoder_opener.png" alt="atcoder opener">
+    </div>
+
+- [NextPage](https://chrome.google.com/webstore/detail/nextpage/mhhmddcnnehdkpclpjpmidpeejohlmfb?hl=ja&gl=UA) - あるコンテストの次の回のページに移動できる。
+
+    !!! info "参考"
+
+        拡張機能のアイコンが表示されていない場合は、ピン止めをする必要がある。青矢印のマークをクリックすると動作する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/chrome_extension/next_page.png" alt="next page">
     </div>
 
 ## Scratchを利用
