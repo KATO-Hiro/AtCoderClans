@@ -108,7 +108,6 @@ nav:
   - Scripts:
     - scripts/index.md
     - ユーザスクリプト:
-      - user_scripts/index.md
       - user_scripts/solve_problems.md
       - user_scripts/submit_codes.md
       - user_scripts/read_editorials.md
@@ -119,7 +118,6 @@ nav:
       - user_scripts/jokes.md
       - user_scripts/for_developers.md
     - Google Chromeの拡張機能:
-      - chrome_extensions/index.md
       - chrome_extensions/solve_problems.md
       - chrome_extensions/view_perf_and_rating.md
       - chrome_extensions/improve_ui.md
