@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-06-27
+
+- [#4174](https://github.com/KATO-Hiro/AtCoderClans/pull/4174) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[AtCoder Python 謎テク集](https://qiita.com/NaHCO3/items/db71f44d6049c6e9e598)」を追加。
+
 ### 2022-06-26
 
 - [#4171](https://github.com/KATO-Hiro/AtCoderClans/pull/4171) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに掲載している書籍「[問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本](https://www.amazon.co.jp/dp/4297125218/)」の説明文を更新。以下の記事を追加。
