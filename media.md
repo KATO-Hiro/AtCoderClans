@@ -376,6 +376,7 @@ filename: media
 - [AtCoderで役立つPythonイディオム集](https://qiita.com/hinamimi/items/ab30fffc4920d9f4bc73) - 標準ライブラリや組み込み関数を利用して、実装が楽になるイディオムが紹介されている記事。
 - [atcoderでよく使う手法python版](https://qiita.com/chun1182/items/ddf2b6cba932b2bb0d4e) - Python利用者に向けたスッキリしたコードを書くための記事。基本的な文法、典型的なアルゴリズム・データ構造だけでなく、ライブラリnumpy・scipyの使い方も掲載されている。
 - [AtCoder緑になるまでに勉強した基本的なアルゴリズムやデータ構造まとめ](https://qiita.com/Takayoshi_Makabe/items/65f20edbd970070419f4) - 筆者が緑コーダー（[AtCoder](https://atcoder.jp/)の分類で、レーティング800〜1199）に到達するまでに学習したアルゴリズムが掲載されている。各種アルゴリズム(bit全探索・二分探索、幅優先探索、深さ優先探索、尺取り法、いもす法、ダイクストラ法、貪欲法、動的計画法、優先度付きキュー、UnionFind木)に対して、Pythonによる実装例もある。
+- [AtCoder Python 謎テク集](https://qiita.com/NaHCO3/items/db71f44d6049c6e9e598) - CPythonやPyPyを活用して、コードを高速化する方法を紹介した記事。
 - [AtCoder Pythonの新環境についてまとめていく-1- 組み込み関数&モジュール](https://it-for-pharma.com/atcoder-python%E3%81%AE%E6%96%B0%E7%92%B0%E5%A2%83%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E3%81%84%E3%81%8F-1-%E7%B5%84%E3%81%BF%E8%BE%BC%E3%81%BF%E9%96%A2%E6%95%B0) - ジャッジシステムのアップデートに伴って、利用できるようになった便利な組み込み関数やモジュールがまとめられている。
 - [あのアルゴリズムはどこ？　Pythonを使用してAtCoderの緑色や水色を目指す方に、30以上のアルゴリズムスニペットと100問以上の問題（ACコード付き）を紹介！](https://qiita.com/H20/items/1a066e242815961cd043) - 特定のアルゴリズムについてPythonで実装された記事の紹介と、そのアルゴリズムを利用して解くことができる例題と解答例がまとめられている。対象読者は、緑色・水色コーダーを目指しているユーザ。
 - [競プロ界隈でpython強者がやっていることをまとめてみた](https://qiita.com/dekamisako/items/1c104e332351ab9389a6) - Python利用者に向けて、入出力や上位陣が利用している便利なコード集をまとめた記事。
