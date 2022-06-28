@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-06-28
+
+- [#4181](https://github.com/KATO-Hiro/AtCoderClans/pull/4181) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[Lenqth](https://atcoder.jp/users/Lenqth)さんの[記事](https://qiita.com/Lenqth/items/babdc1e652e0e041b321)を追加。
+
 ### 2022-06-27
 
 - [#4174](https://github.com/KATO-Hiro/AtCoderClans/pull/4174) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[AtCoder Python 謎テク集](https://qiita.com/NaHCO3/items/db71f44d6049c6e9e598)」を追加。
