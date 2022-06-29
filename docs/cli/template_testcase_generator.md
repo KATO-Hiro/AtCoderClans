@@ -4,6 +4,8 @@ title: テンプレート・テストケースを用意
 
 ## テンプレートを生成
 
+### アルゴリズム部門
+
 - [Online Judge Template Generator](https://github.com/online-judge-tools/template-generator) ![GitHub stars](https://img.shields.io/github/stars/online-judge-tools/template-generator?style=plastic) - [Online Judge Tools](https://github.com/online-judge-tools/oj)と連携したツール。コンテストの問題を解析して、提出用のコードやランダムケース生成に関するテンプレートを出力できる。C++とPythonに対応。
     - [有志による紹介記事](https://hamukichi.hatenablog.jp/entry/2020/09/17/230818)
     - [Webアプリ版](https://online-judge-tools.github.io/template-generator-webapp/) - コマンドラインツールに不慣れなユーザ向け。
@@ -11,6 +13,8 @@ title: テンプレート・テストケースを用意
     !!! warning "注意"
 
         コンテスト中はコマンドライン版のみ利用できる。
+
+### ヒューリスティック部門
 
 - [kmyk/marathon-kit](https://github.com/kmyk/marathon-kit) ![GitHub Repo stars](https://img.shields.io/github/stars/kmyk/marathon-kit?style=plastic) - AtCoder Heuristic Contestのためのテンプレートレポジトリ。テストの並列実行、途中経過のビジュアライズ、GitHubでの自動テストが実行できる。
 
