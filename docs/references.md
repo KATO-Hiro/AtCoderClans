@@ -18,7 +18,7 @@ title: References
 
 ### Software development method
 
-- [Readme Driven Development; RDD](https://qiita.com/b4b4r07/items/c80d53db9a0fd59086ec)
+- Readme Driven Development; RDD<sup>[archive.org](http://web.archive.org/web/20220313000343/https://qiita.com/b4b4r07/items/c80d53db9a0fd59086ec)</sup>
 
 ### GitHub Pages & static site generator
 
