@@ -42,6 +42,7 @@ title: レーティング1600〜1999(青色)
 
 - [AtCoderで青になりました - わくBlog](https://wakuwinmail.hatenablog.com/entry/2020/03/10/235349) - [wakuwinmail](https://atcoder.jp/users/wakuwinmail)さんが、2020年2月22日に達成。
 - [AtCoder青になりました - 子供の落書き帳 Renaissance](https://linus-mk.hatenablog.com/entry/atcoder_blue) - [Linus](https://atcoder.jp/users/Linus)さんが、2020年3月14日に達成。
+- [AtCoderで青色（8割以上のIT企業でアルゴリズム力はカンスト）になったので青になるまでに必要そうなことをまとめる](https://qiita.com/kami634/items/e452f804ba9d585a8b57) - [kami634](https://atcoder.jp/users/kami634)さんが、2020年5月3日に達成。
 - [Atcoder歴9か月で青になりました（python）](https://qiita.com/hatamura5121/items/4610b0867c5b210ebc83) - [hatamura5121](https://atcoder.jp/users/hatamura5121)さんが、2020年5月17日に達成。
 - [AtCoderで青色になりました - TERRYのブログ](https://www.terry-u16.net/entry/atcoder-blue) - [terry_u16](https://atcoder.jp/users/terry_u16)さんが、2020年8月15日に達成。
 - [AtCoderで青色になりました - pitsuの記事置き場](https://pitsu-kyopro.hatenablog.jp/entry/2020/09/24/204027) - [pitsu](https://atcoder.jp/users/pitsu)さんが、2020年9月19日に達成。
@@ -53,5 +54,6 @@ title: レーティング1600〜1999(青色)
 
 ## 2019年
 
+- [PythonでAtCoder青になるまで -Pythonで競プロやるときに気をつけること-](https://qiita.com/Kentaro_okumura/items/a6917572756a2e3c0da9) - [okumura](https://atcoder.jp/users/okumura)さんが、2019年1月13日に達成。
 - [AtCoderで青色になるまでにやったこととプログラマー35歳定年説 - kusano_k’s blog](https://kusano-k.hatenablog.com/entry/2019/09/28/181304) - [kusano](https://atcoder.jp/users/kusano)さんが、2019年9月28日に公開。
 - [AtCoderで青になりました - asdf1の日記](https://asdf1.hatenablog.com/entry/2020/01/13/134423) - [asdf1](https://atcoder.jp/users/asdf1)さんが、2019年12月28日に達成。
