@@ -12,6 +12,14 @@ title: 解説を読む・テストケースを見る
       <img loading = "lazy" src="../../images/userscript/view-all-editorials.png" alt="view all editorials">
     </div>
 
+### 問題別のタブを追加
+
+- [Tabbed AtCoder Editorial](https://greasyfork.org/ja/scripts/447075-tabbed-atcoder-editorial) - 「解説」ページに、問題別に解説を見ることができるタブを追加する。
+
+  <div align="center">
+    <img loading = "lazy" src="../../images/userscript/tabbed_atcoder_editorial.png" alt="tabbed atcoder editorial">
+  </div>
+
 ### 新しいタブで開く
 
 - [AtCoder Editorial New Tab](https://greasyfork.org/ja/scripts/424207-atcoder-editorial-new-tab) - 「問題」ページにある「解説」ボタンを押すと、該当する解説を新しいタブで開くことができる。
