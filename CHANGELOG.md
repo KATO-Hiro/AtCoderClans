@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-06-29
+
+- [#4186](https://github.com/KATO-Hiro/AtCoderClans/pull/4186) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、ユーザスクリプト「[Tabbed AtCoder Editorial](https://greasyfork.org/ja/scripts/447075-tabbed-atcoder-editorial)」を追加。
+
 ### 2022-06-28
 
 - [#4181](https://github.com/KATO-Hiro/AtCoderClans/pull/4181) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

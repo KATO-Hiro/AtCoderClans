@@ -203,6 +203,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcodertags_helper.png" alt="atcodertags helper">
   </div>
 
+- [Tabbed AtCoder Editorial](https://greasyfork.org/ja/scripts/447075-tabbed-atcoder-editorial) - 「解説」ページに、問題別に解説を見ることができるタブを追加する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/tabbed_atcoder_editorial.png" alt="tabbed atcoder editorial">
+  </div>
+
 ### UIを見やすく色付けする、表示を簡略化する
 
 #### AtCoder
