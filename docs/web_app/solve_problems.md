@@ -32,11 +32,17 @@ title: 問題を解く
 
 ## 特定の分野を重点的に学ぶ
 
+### アルゴリズム部門
+
 - [AtCoder Tags](https://atcoder-tags.herokuapp.com/) - 問題のカテゴリーを分類する。ユーザ登録を行えば、問題にふさわしいと思うカテゴリーを投票できる。[AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper)を導入すると、[AtCoder](https://atcoder.jp/)の「問題」ページからも投票できる。
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_tags.png" alt="atcoder tags">
     </div>
+
+### ヒューリスティック部門
+
+- [mm-tester](https://github.com/kosakkun/mm-tester) ![GitHub Repo stars](https://img.shields.io/github/stars/kosakkun/mm-tester?style=plastic) - ヒューリスティック型コンテストの問題とサンプルコードがまとめられている。
 
 ## 復習の効果をより高める
 
