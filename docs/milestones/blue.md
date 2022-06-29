@@ -14,6 +14,7 @@ title: レーティング1600〜1999(青色)
 - [CrystalでAtCoder青色になりました（色変記事）](https://qiita.com/tamura2004/items/e5828162db074bb664a7) - [tamura2004](https://atcoder.jp/users/tamura2004)さんが、2022年5月14日に達成。
 - [入青しました！！！！](https://note.com/ponjuice0/n/ne26ca6061eb4) - [ponjuice](https://atcoder.jp/users/ponjuice)さんが、2022年5月21日に達成。
 - [AtCoder青になったりならなかったりしました - でぶ脱却日記](https://shojin-debu.hatenablog.com/entry/2022/06/19/155624) - [shojin_debu](https://atcoder.jp/users/shojin_debu)さんが、2022年6月18日に達成。
+- [重い腰を上げてAtcoderを始めた(青)](https://qiita.com/Lenqth/items/babdc1e652e0e041b321) - [Lenqth](https://atcoder.jp/users/Lenqth)さんが、2022年6月26日に達成。
 
 ## 2021年
 
