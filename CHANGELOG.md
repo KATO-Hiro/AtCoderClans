@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-06-30
+
+- [#4193](https://github.com/KATO-Hiro/AtCoderClans/pull/4193) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、スライド「[競プロのすすめ](https://speakerdeck.com/uya116/jing-purofalsesusume)」を追加。
+
 ### 2022-06-29
 
 - [#4186](https://github.com/KATO-Hiro/AtCoderClans/pull/4186) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、ユーザスクリプト「[Tabbed AtCoder Editorial](https://greasyfork.org/ja/scripts/447075-tabbed-atcoder-editorial)」を追加。
