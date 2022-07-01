@@ -211,6 +211,10 @@ filename: related_contest_sites
 
 - [CTF Advent Calendar 2021](https://adventar.org/calendars/6914) - CTFに関する話題を扱ったアドベントカレンダー。
 
+#### ライブラリ
+
+- [ptr-yudai/ptrlib](https://github.com/ptr-yudai/ptrlib) ![GitHub Repo stars](https://img.shields.io/github/stars/ptr-yudai/ptrlib?style=plastic) - CTF用のPythonライブラリ。暗号・ネットワーク・セキュリティ上の弱点などに関する複雑なプログラムを簡単に書くことができる。
+
 ### HOJ (Hamako Online Judge)
 
 - [Hamako Online Judge](https://hoj.hamako-ths.ed.jp/onlinejudge/) - 不定期にコンテストが開催されている。
