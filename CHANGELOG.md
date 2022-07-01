@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-07-02
+
+- [#4200](https://github.com/KATO-Hiro/AtCoderClans/pull/4200) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、CTF (Capture The Flag) ユーザ向けのライブラリ「[ptr-yudai/ptrlib](https://github.com/ptr-yudai/ptrlib)」を追加。
+- [#4199](https://github.com/KATO-Hiro/AtCoderClans/pull/4199) - (破壊的な変更) リンク切れと思われるブログを一時的に「Archived」ページに移動。
+
 ### 2022-07-01
 
 - [#4195](https://github.com/KATO-Hiro/AtCoderClans/pull/4195) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[簡単＆便利！ C# × .NET Blazor で AHC ビジュアライザ作り](https://terumiyake.hatenablog.com/entry/2022/06/25/151919)」を追加。
