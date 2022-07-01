@@ -8,7 +8,8 @@ filename: CHANGELOG
 
 ### 2022-07-02
 
-- [#4200](https://github.com/KATO-Hiro/AtCoderClans/pull/4200) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、CTF (Capture The Flag) ユーザ向けのライブラリ「[ptr-yudai/ptrlib](https://github.com/ptr-yudai/ptrlib)」を追加。
+- [#4200](https://github.com/KATO-Hiro/AtCoderClans/pull/4200) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、CTF (Capture The Flag) ユーザ向けのPythonライブラリを追加。
+  - [ptr-yudai/ptrlib](https://github.com/ptr-yudai/ptrlib)
 - [#4199](https://github.com/KATO-Hiro/AtCoderClans/pull/4199) - (破壊的な変更) リンク切れと思われるブログを一時的に「Archived」ページに移動。
 
 ### 2022-07-01
