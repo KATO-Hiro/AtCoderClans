@@ -52,4 +52,3 @@ title: C&#43;&#43;
 |Shibuyap|[Qiita](https://qiita.com/Shibuyap)||
 |theory_and_me|[はてなブログ](https://theory-and-me.hatenablog.com/)||
 |ValGrowth|[はてなブログ](https://valgrowth.hatenablog.com/archive)||
-|yochan|[はてなブログ](https://www.yochan.blog/main/)||
