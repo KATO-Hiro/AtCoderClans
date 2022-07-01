@@ -202,6 +202,9 @@ filename: archived
 - [競技プログラミングを休んでいる理由 - little star's memory](https://koboshi-kyopro.hatenablog.com/entry/2021/05/24/012158) - [koboshi](https://atcoder.jp/users/koboshi)さんが2021年5月24日に公開。
   - 確認した日: 2022/05/23
 
+- [はてなブログ - yochan](https://www.yochan.blog/main/)
+  - 確認した日: 2022/07/02
+
 - [OMC problems](https://rusa6111.github.io/OMCproblems/) - [OnlineMathContest](https://onlinemathcontest.com/)で開催されたコンテストの問題一覧を確認できる。ベータ版。
   - 確認した日: 2022/03/05
   - 代替手段: [公式ページ](https://onlinemathcontest.com/problems)から閲覧する。
