@@ -21,6 +21,7 @@ filename: related_contest_sites
 - [CTF (Capture The Flag)](#ctf-capture-the-flag)
   - [Webアプリ、Webサイト](#web%E3%82%A2%E3%83%97%E3%83%AAweb%E3%82%B5%E3%82%A4%E3%83%88-1)
   - [記事](#%E8%A8%98%E4%BA%8B-1)
+  - [ライブラリ](#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA)
 - [HOJ (Hamako Online Judge)](#hoj-hamako-online-judge)
 - [IOI (International Olympiad in Informatics)](#ioi-international-olympiad-in-informatics)
 - [JOI (Japanese Olympiad in Informatics)と関連サービス](#joi-japanese-olympiad-in-informatics%E3%81%A8%E9%96%A2%E9%80%A3%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9)
@@ -210,6 +211,10 @@ filename: related_contest_sites
 #### 記事
 
 - [CTF Advent Calendar 2021](https://adventar.org/calendars/6914) - CTFに関する話題を扱ったアドベントカレンダー。
+
+#### ライブラリ
+
+- [ptr-yudai/ptrlib](https://github.com/ptr-yudai/ptrlib) ![GitHub Repo stars](https://img.shields.io/github/stars/ptr-yudai/ptrlib?style=plastic) - CTF用のPythonライブラリ。暗号・ネットワーク・セキュリティ上の弱点などに関する複雑なプログラムを簡単に書くことができる。
 
 ### HOJ (Hamako Online Judge)
 
