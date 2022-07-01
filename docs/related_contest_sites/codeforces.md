@@ -8,7 +8,7 @@ title: Codeforces
 - [Codeforcesのすすめ for AtCoderユーザー](https://ywmt.hatenablog.com/entry/2019/10/17/120914) - [AtCoder](https://atcoder.jp/)ユーザに向けて、[Codeforces](https://codeforces.com/)の特徴・おすすめポイントを解説した記事。
 - [はじめてのCodeforces 前編 (参加登録〜コンテスト本番)](https://noimin.hatenablog.com/entry/2019/10/18/162521) - [Codeforces](https://codeforces.com/)に関心があるユーザに向けて、コンテストに出場登録するところから参加するまでの流れを日本語でわかりやすく解説した記事。[後編](https://noimin.hatenablog.com/entry/2019/10/19/152633)では、レーティングの変化をプロフィールページで確認する方法やコンテストの復習方法などについて解説されている。
 
-## Webアプリ、Webサイト
+## Webアプリ・Webサイト
 
 ### 過去問を解く
 
@@ -30,7 +30,7 @@ title: Codeforces
       <img loading = "lazy" src="../../images/related_contest_sites/codeforces/contest_mania.png" alt="contest mania">
     </div>
 
-### レーティングの表示、比較
+### レーティングの表示・比較
 
 - [CF-Predictor](https://cf-predictor-frontend.herokuapp.com/) - コンテストの結果に基づいて、レーティングの変化を推定するWebアプリ。また、複数のブラウザに対応した拡張機能をダウンロードして利用することもできる。
 
@@ -86,7 +86,7 @@ title: Codeforces
       <img loading = "lazy" src="../../images/related_contest_sites/codeforces/codeforces_performance.png" alt="codeforces performance">
     </div>
 
-## コマンドラインツール、GUIツール
+## コマンドラインツール・GUIツール
 
 - [Codeforces Tool](https://github.com/xalanq/cf-tool) ![GitHub stars](https://img.shields.io/github/stars/xalanq/cf-tool?style=plastic) - サンプルの入出力の取得、テスト、解答コードの提出などができるCLIツール。
 

@@ -4,7 +4,7 @@ title: 情報オリンピック
 
 ## JOI (Japanese Olympiad in Informatics)
 
-### Webアプリ、Webサイト
+### Webアプリ・Webサイト
 
 - [日本情報オリンピック](https://www.ioi-jp.org/) - 情報オリンピック日本委員会のWebページ。[予選・本選で出題された問題と解説](https://www.ioi-jp.org/problem_archive.php)や[春季トレーニング合宿の過去問](https://www.ioi-jp.org/camp/index.html)などが掲載されている。
 
@@ -32,7 +32,7 @@ title: 情報オリンピック
 
 ## IOI (International Olympiad in Informatics)
 
-### Webアプリ、Webサイト
+### Webアプリ・Webサイト
 
 - [IOI Syllabus クイズ①](https://quiz-maker.site/quiz/play/x4Qzf820220330074405) - [IOI Syllabus 2020](https://ioinformatics.org/files/ioi-syllabus-2020.pdf)の出題範囲に関するクイズを解くことができる。
 
