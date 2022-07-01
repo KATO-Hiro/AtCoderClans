@@ -291,6 +291,8 @@ filename: media
 - [Optunaを使ってAtCoder Heuristic Contest 007を優勝する](https://blog.knshnb.com/posts/ahc007-optuna/) - [AtCoder Heuristic Contest 007](https://atcoder.jp/contests/ahc007)を題材に、ハイパーパラメータをPythonライブラリ「Optuna」で探索して高スコアが得られたことを紹介した記事。提出コードと各ツールの連携方法やパラメータの探索結果の可視化について解説されている。
 - [Topcoderマラソンマッチの探索問題で重要なこと](https://qiita.com/takapt0226/items/b2f6d1d77a034b529e21) - ヒューリスティック型コンテストにおいて、汎用的な内容(時間を確保する・注意深く考察する・有名アルゴリズムに囚われない)と探索問題に特化した知見がまとめられている記事。
 - [オセロAIの教科書](https://note.com/nyanyan_cubetech/m/m54104c8d2f12) - オセロAIの初歩から高度な内容まで解説されている記事集。C++とPythonで実装された[サンプル](https://github.com/Nyanyan/OthelloAI_Textbook)もある。
+- [簡単＆便利！ C# × .NET Blazor で AHC ビジュアライザ作り](https://terumiyake.hatenablog.com/entry/2022/06/25/151919) - ヒューリスティックコンテストで使用するビジュアライザを自作する方法が解説されている記事。サーバサイドとクライアントサイドのロジックが、同じ言語(C#)で記述できるのが特徴。
+  - [サンプルプロジェクト - AHC011](https://github.com/TeruMiyake/AHC011Visualiser-With-Blazor) ![GitHub Repo stars](https://img.shields.io/github/stars/TeruMiyake/AHC011Visualiser-With-Blazor?style=plastic)
 - [競技プログラミングにおけるゲーム木探索の面白さ](https://qiita.com/tsukammo/items/02e8ad2469c5441d2956) - 実例をもとにゲームAI系コンテストの魅力・面白さを紹介した記事。
 - [競技プログラミングにおけるマラソン系コンテストの楽しみ方](https://qiita.com/tsukammo/items/878f87243d6df17d6c69) - ヒューリスティック型コンテストの楽しみ方を、点数・visualizer・感想戦の観点から紹介した記事。
 - [競プロ〜ヒューリスティック/マラソン事始め〜](https://qiita.com/tanaka-a/items/3c2a1bca63759ec71e7f) - ヒューリスティック型コンテストの問題を「改善重視型」「初期解重視型」「パラメータ推定型」に分類し、それぞれのアプローチ方法や高スコアを目指すためのテクニックが紹介されている記事。

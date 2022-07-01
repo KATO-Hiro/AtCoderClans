@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-07-01
+
+- [#4195](https://github.com/KATO-Hiro/AtCoderClans/pull/4195) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[簡単＆便利！ C# × .NET Blazor で AHC ビジュアライザ作り](https://terumiyake.hatenablog.com/entry/2022/06/25/151919)」を追加。
+
 ### 2022-06-30
 
 - [#4193](https://github.com/KATO-Hiro/AtCoderClans/pull/4193) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、スライド「[競プロのすすめ](https://speakerdeck.com/uya116/jing-purofalsesusume)」を追加。
