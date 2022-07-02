@@ -92,6 +92,12 @@ title: 入門者・初心者向けの内容
     - [精選100+50問チャレンジシート](https://terumiyake.hatenablog.com/entry/2020/08/01/131528) - [TeruMiyake](https://atcoder.jp/users/TeruMiyake)さんが作成・公開。
 - [現役高校生が、AtCoderでレッドコーダーになるまでにやってきたこと。プログラミング上達の秘訣を全て教えます](https://engineer-lab.findy-code.io/redcoder) - [E869120](https://atcoder.jp/users/E869120)さんが、競技プログラミングを通して得た経験を共有するために書かれた記事。競技プログラミングやアルゴリズムの面白さ、上達するための練習方法、参考資料などが紹介されている。
 
+---
+
+<div align="center">
+    <a href="../how_to_practice">もっと読む</a>
+</div>
+
 ### 典型的なアルゴリズム・考え方を学ぶ
 
 !!! info "参考"
