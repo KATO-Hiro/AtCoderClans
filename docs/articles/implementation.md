@@ -2,6 +2,9 @@
 title: コードを実装するときの工夫
 ---
 
+コードの実装テクニックについて、汎用的な内容から言語固有の機能まで掲載しています。
+
+
 ## 特定の言語に依存しない内容
 
 ### 実装テクニック
@@ -86,6 +89,8 @@ title: コードを実装するときの工夫
 
 ## Crystal
 
+### 文法・言語仕様
+
 - [プログラミング言語Crystalで競プロをする際のテクニックまとめ](https://qiita.com/hakatashi/items/0892366ea47f1e88083d) - Crystalでコンテストに参加するときに陥りがちな点をまとめた記事。
 
     !!! warning "注意"
@@ -93,14 +98,23 @@ title: コードを実装するときの工夫
 
 ## C&#35;
 
+### 文法・言語仕様
+
 - [ハイパー LINQ集 (AtCoder 2020年4月)](https://avant-garde-code.hatenablog.com/entry/hyper-linq-atcoder-202004) - LINQを利用して簡潔に書ける例題を紹介した記事。
+
+### 定数倍高速化
+
 - [JOI 2015 予選 財宝(Treasure) 解説 (with C#での定数倍高速化に関する知見)](https://fairy-lettuce.hatenadiary.com/entry/2020/11/11/174913) - [第14回日本情報オリンピック予選のF問題](https://atcoder.jp/contests/joi2015yo/tasks/joi2015yo_f)を題材に、C#における定数倍高速化の知見をまとめた記事。
 
 ## dc
 
+### 文法・言語仕様
+
 - [AtCoderのABCのA問題でdcで書きやすいものまとめ](https://qiita.com/shogo314/items/fff4be1573d2f86dba2a) - AtCoder Beginner Contest 100までのA問題を対象として、各問題の解答の方針がまとめられている。
 
 ## JavaScript
+
+### 別の言語を利用して高速化
 
 - [【Atcoder】JavaScriptでもC++のSTLが使いたい！](https://qiita.com/sdk40010/items/a93eebcb5e55c154e577) - JavaScript(TypeScript)環境で、C++の標準ライブラリStandard Template Library (STL)を利用する方法について紹介した記事。
 
@@ -162,18 +176,29 @@ title: コードを実装するときの工夫
 
 ## Ruby
 
+### 定数倍高速化
+
 - [本番で使えるRubyの定数倍高速化手法【競技プログラミング  Atcoder】](https://kona0001.hatenablog.com/entry/2021/06/07/170343) - Rubyにおける定数倍高速化の手法をまとめた記事。
 
 ## Rust
+
+### 文法・言語仕様
 
 - [AtCoder言語アップデートでRustの入出力が楽になっていた](https://qiita.com/koji-cw/items/0cce3b075faffe5e50ed) - [AtCoder](https://atcoder.jp/)の言語アップデートに伴って追加された入出力関連の便利なライブラリが紹介されている記事。また、[追加されたライブラリ一覧](https://github.com/rust-lang-ja/atcoder-rust-base/blob/ja-all-enabled/Cargo.toml)も掲載されている。
 
 ## Swift
 
+### 文法・言語仕様
+
 - [競プロで使えるアルゴリズム関数一覧(Swift)](https://qiita.com/uhooi/items/d4998e90f3f2fed01e68) - 主に整数に関するアルゴリズムをSwiftで実装する方法が紹介されている記事。
 - [競プロで使える便利なエクステンション一覧(Swift)](https://qiita.com/uhooi/items/ff1113c337d7a756d580) - 競技プログラミングにおいて、便利な拡張メソッドやコンピューテッドプロパティを紹介した記事。
+
+### アルゴリズム・データ構造の活用による高速化
+
 - [Swift版 競プロ用チートシート(初心者向け)](https://qiita.com/TARDIGRADE/items/71b0a774d7f22418fdf5) - よく使うアルゴリズム・データ構造をコピー&ペーストして使えるようにまとめられている記事。
 
 ## TypeScript
+
+### 文法・言語仕様
 
 - [TypeScriptでAtCoderをやってみよう!](https://qiita.com/cosocaf/items/255003ecec1d3badfc7b) - TypeScriptで問題を解くために、環境構築や標準入出力の方法・テンプレートを紹介した記事。
