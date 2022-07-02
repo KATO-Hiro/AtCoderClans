@@ -20,6 +20,8 @@ title: 不定期開催
 
 ## LeetCode
 
+### 統計情報を見る
+
 - [LeetCode Stats Card](https://github.com/JacobLinCool/LeetCode-Stats-Card) - ユーザの統計情報をGitHubのREADMEやWebサイトなどに表示することができる。
 
     <div align="center">

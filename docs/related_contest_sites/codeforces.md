@@ -10,7 +10,7 @@ title: Codeforces
 
 ## Webアプリ・Webサイト
 
-### 過去問を解く
+### 問題を解く
 
 - [CF-Problems](https://tom0727.github.io/cf-problems/) - 開催されたコンテストの問題、ユーザの正誤状況を一覧できるWebアプリ。また、類似したサービスとして、[Codeforces Problems](https://cf.kira924age.com/#/table/)や[CONTEST MANIA](https://contestmania.web.app/)がある。
 
@@ -30,7 +30,9 @@ title: Codeforces
       <img loading = "lazy" src="../../images/related_contest_sites/codeforces/contest_mania.png" alt="contest mania">
     </div>
 
-### レーティングの表示・比較
+### コンテストの成績を見る
+
+#### レーティングを見る・比較する
 
 - [CF-Predictor](https://cf-predictor-frontend.herokuapp.com/) - コンテストの結果に基づいて、レーティングの変化を推定するWebアプリ。また、複数のブラウザに対応した拡張機能をダウンロードして利用することもできる。
 
@@ -44,7 +46,7 @@ title: Codeforces
       <img loading = "lazy" src="../../images/related_contest_sites/codeforces/codeforces_rating_comparison.png" alt="codeforces rating comparison">
     </div>
 
-### 仮想的なレーティングを表示
+#### 仮想的なレーティングを計算
 
 - [Arugo](https://arugo.herokuapp.com/) - 任意の1問が80分以内に解けたかどうかに応じて、仮想的なレーティングの推移が表示されるWebサイト。作者による[紹介記事](https://codeforces.com/blog/entry/96830)もある。
 
@@ -58,7 +60,7 @@ title: Codeforces
       <img loading = "lazy" src="../../images/related_contest_sites/codeforces/codeforces_anytime.png" alt="cf predictor">
     </div>
 
-### 統計情報を表示
+#### 統計情報を見る
 
 - [Codeforces Stats](https://github.com/SiriusKoan/codeforces-stats) - ユーザの統計情報をREADMEなどに表示することができる。
 
@@ -74,11 +76,15 @@ title: Codeforces
 
 ## ユーザスクリプト
 
+### ソースコードを提出する
+
 - [cf-fast-submit](https://greasyfork.org/ja/scripts/371117-cf-fast-submit) - コンテストの問題ページに提出用のフォームを設置し、直接submitすることができる。
 
     <div align="center">
       <img loading = "lazy" src="../../images/related_contest_sites/codeforces/cf_fast_submit.png" alt="cf fast submit">
     </div>
+
+### コンテストの成績を見る
 
 - [Codeforces Performance](https://greasyfork.org/ja/scripts/402180-codeforces-performance) - コンテストでのパフォーマンスの推定値をコンテスト履歴に表示する。また、レーティングやパフォーマンスの色付けも可能。
 
@@ -87,6 +93,8 @@ title: Codeforces
     </div>
 
 ## コマンドラインツール・GUIツール
+
+### ソースコードにバグがないか確認
 
 - [Codeforces Tool](https://github.com/xalanq/cf-tool) ![GitHub stars](https://img.shields.io/github/stars/xalanq/cf-tool?style=plastic) - サンプルの入出力の取得、テスト、解答コードの提出などができるCLIツール。
 
