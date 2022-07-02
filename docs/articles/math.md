@@ -55,6 +55,12 @@ title: 数学を学ぶ
 
 - [「写像12相」を総整理！ 〜 数え上げ問題の学びの宝庫 〜](https://qiita.com/drken/items/f2ea4b58b0d21621bd51) - 条件を満たすものを数え上げるタイプの問題(「数え上げ」の問題)で登場する写像12相を整理した記事。写像12相の中でも特に高度な内容とされる「スターリング数」と「分割数」の解説および実装について紙面が割かれている。また、写像12相に関連する例題のリンクも掲載されている。
 
+    ---
+
+    <div align="center">
+        <a href="../how_to_approach_difficult_problems">もっと読む</a>
+    </div>
+
 ## 方程式
 
 ### 接続行列を係数にもつ線形方程式
@@ -93,3 +99,9 @@ title: 数学を学ぶ
 ### ミニマックス定理の証明
 
 - [ミニマックス定理の意味と初等的証明](https://opt-cp.com/minimax-game-proof/) - ミニマックス定理のゲーム理論的な意味の解釈方法と同定理の証明を紹介した記事。
+
+---
+
+<div align="center">
+    <a href="../how_to_approach_difficult_problems">もっと読む</a>
+</div>
