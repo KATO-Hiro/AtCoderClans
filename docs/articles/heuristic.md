@@ -80,7 +80,14 @@ title: ヒューリスティック問題を解く
 - [AHC001（マラソンマッチ）の参加者の使用言語の分布を調べてみた](https://wakabame.hatenablog.com/entry/2021/03/20/004612) - [AtCoder Heuristic Contest 001](https://atcoder.jp/contests/ahc001)で一定の得点以上の提出コードを対象として、利用者の多い言語、使用言語と得点・順位との関係を調査した記事。ヒューリスティック型のコンテストにおいて、使用言語を選択する際に参考になると思われる。
 - [Atcoder Heuristic Contestの順位とアルゴリズムのレートの関係性を眺める](https://rmizutaa.hatenablog.com/entry/2021/12/16/215055) - Ratedのヒューリスティックコンテスト(短期・長期)とアルゴリズムのレーティングとの関係性を調査・分析した記事。
 
-### 便利ツールの活用
+### 便利ツールの作成・活用
+
+#### ビジュアライザを自作する
+
+- [簡単＆便利！ C# × .NET Blazor で AHC ビジュアライザ作り](https://terumiyake.hatenablog.com/entry/2022/06/25/151919) - ヒューリスティックコンテストで使用するビジュアライザを自作する方法が解説されている記事。サーバサイドとクライアントサイドのロジックが、同じ言語(C#)で記述できるのが特徴。
+    - [サンプルプロジェクト - AHC011](https://github.com/TeruMiyake/AHC011Visualiser-With-Blazor) ![GitHub Repo stars](https://img.shields.io/github/stars/TeruMiyake/AHC011Visualiser-With-Blazor?style=plastic)
+
+#### Optuna
 
 - [Optunaでヒューリスティックコンテストを解く](https://kuruton.hatenablog.com/entry/2021/12/14/011150) - ヒューリスティックコンテストでハイパーパラメータの調整を行う際に、Pythonライブラリ「Optuna」を利用する方法を紹介した記事。また、Python以外の言語(C++)で書かれたコードに対するパラメータの調整方法が丁寧に解説されている。
 - [Optunaを使ってAtCoder Heuristic Contest 007を優勝する](https://blog.knshnb.com/posts/ahc007-optuna/) - [AtCoder Heuristic Contest 007](https://atcoder.jp/contests/ahc007)を題材に、ハイパーパラメータをPythonライブラリ「Optuna」で探索して高スコアが得られたことを紹介した記事。提出コードと各ツールの連携方法やパラメータの探索結果の可視化について解説されている。
