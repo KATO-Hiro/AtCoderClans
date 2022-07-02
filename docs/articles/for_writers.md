@@ -38,4 +38,4 @@ title: 問題の作成・準備
     - [第3回](https://wakuwinmail.hatenablog.com/entry/2020/12/05/015747): バージョン管理ツール[Git](https://git-scm.com/)とテストケースの作成・想定解のチェックツール[Rime](https://github.com/icpc-jag/rime)の導入方法
 
     !!! warning "注意"
-        2022年6月時点で、第4回以降は未確認。
+        2022年7月時点で、第4回以降は未確認。
