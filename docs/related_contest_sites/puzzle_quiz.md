@@ -34,6 +34,18 @@ title: パズル・クイズ系コンテスト
       <img loading = "lazy" src="../../images/related_contest_sites/nyp/new_year's_puzzles.png" alt="new year's puzzles">
     </div>
 
+## Painter Programming
+
+- [Painter Programming](https://square1001.github.io/painter-programming/) - シンプルなルールなのに奥深い塗り絵パズル。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/painter_programming/painter_programming.png" alt="sed puzzle">
+    </div>
+
+### 記事
+
+- [大好評！たった6種類の文法で塗り絵パズルが楽しめる、新感覚プログラミング言語「Painter Programming」を作った話](https://qiita.com/e869120/items/92f19314ac5ea9a1e82a) - プログラミング言語「Painter Programming」の面白さ・楽しさ・奥深さを解説した記事。
+
 ## Sed Puzzle
 
 - [Sed Puzzle](https://sed-puzzle.com/) - ボタンを押して文字列を書き換えていくパズルゲーム。
