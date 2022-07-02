@@ -154,18 +154,18 @@ nav:
       - articles/introduction.md
       - articles/development_env.md
       - articles/programming_languages.md
+      - articles/how_to_practice.md
       - articles/algorithm.md
-      - articles/math.md
       - articles/heuristic.md
+      - articles/math.md
       - articles/implementation.md
       - articles/user_editorials.md
-      - articles/how_to_practice.md
-      - articles/view_scores.md
       - articles/how_to_approach_difficult_problems.md
       - articles/for_writers.md
-      - articles/past.md
+      - articles/view_scores.md
       - articles/look_back_on_past.md
       - articles/club_activities.md
+      - articles/past.md
       - articles/jobs.md
     - ブログ:
       - blogs/index.md
