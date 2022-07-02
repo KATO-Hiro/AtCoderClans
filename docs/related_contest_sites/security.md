@@ -6,11 +6,7 @@ title: セキュリティ系コンテスト
 
 ### Webアプリ・Webサイト
 
-- [CTF-Ratings](https://github.com/theoremoon/ctf-ratings) - CTF(Capture The Flag)のレーティングシステム。レーティングとパフォーマンスは、AtCoderに準拠している。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/related_contest_sites/ctf/ctf_ratings.png" alt="ctf ratings">
-    </div>
+#### コンテストの開催日時・統計情報を見る
 
 - [CTF TIME](https://ctftime.org/) - CTFのコンテスト一覧(新着・アーカイブ)やレーティングをはじめとする統計情報などが閲覧できるWebサイト。
 
@@ -18,10 +14,22 @@ title: セキュリティ系コンテスト
       <img loading = "lazy" src="../../images/related_contest_sites/ctf/ctf_time.png" alt="ctf time">
     </div>
 
+#### 成績を見る
+
+- [CTF-Ratings](https://github.com/theoremoon/ctf-ratings) - CTF(Capture The Flag)のレーティングシステム。レーティングとパフォーマンスは、AtCoderに準拠している。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/ctf/ctf_ratings.png" alt="ctf ratings">
+    </div>
+
 ### 記事
+
+#### Advent Calendar
 
 - [CTF Advent Calendar 2021](https://adventar.org/calendars/6914) - CTFに関する話題を扱ったアドベントカレンダー。
 
 ### ライブラリ
+
+#### セキュリティ関連のユーティリティ
 
 - [ptr-yudai/ptrlib](https://github.com/ptr-yudai/ptrlib) ![GitHub Repo stars](https://img.shields.io/github/stars/ptr-yudai/ptrlib?style=plastic) - CTF用のPythonライブラリ。暗号・ネットワーク・セキュリティ上の弱点などに関する複雑なプログラムを簡単に書くことができる。
