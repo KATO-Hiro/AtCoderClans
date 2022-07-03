@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-07-03
+
+- [#4211](https://github.com/KATO-Hiro/AtCoderClans/pull/4211) - (破壊的な変更) リンク切れと思われるコンテストサイトを一時的に「Archived」ページに移動。
+
 ### 2022-07-02
 
 - [#4200](https://github.com/KATO-Hiro/AtCoderClans/pull/4200) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、CTF (Capture The Flag) ユーザ向けのPythonライブラリを追加。
