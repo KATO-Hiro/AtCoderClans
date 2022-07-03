@@ -34,7 +34,6 @@ filename: related_contest_sites
 - [MORP (Math Olympiad Rating Project)](#morp-math-olympiad-rating-project)
 - [New Year's Puzzles](#new-years-puzzles)
 - [日本数学オリンピック](#%E6%97%A5%E6%9C%AC%E6%95%B0%E5%AD%A6%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF)
-- [入試数学コンテスト](#%E5%85%A5%E8%A9%A6%E6%95%B0%E5%AD%A6%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88)
 - [オイライン数学](#%E3%82%AA%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%B3%E6%95%B0%E5%AD%A6)
 - [OMC (OnlineMathContest)](#omc-onlinemathcontest)
 - [Sed Puzzle](#sed-puzzle)
@@ -323,14 +322,6 @@ filename: related_contest_sites
 ### 日本数学オリンピック
 
 - [とある数学の凡人](https://www.youtube.com/c/toaru_math/featured) - 日本数学オリンピックの解説動画が多数公開されているYouTubeのチャンネル。最新情報は、[Twitter](https://twitter.com/toaru_math_bot)で確認できる。
-
-### 入試数学コンテスト
-
-- [入試数学コンテスト](https://manabitimes.jp/tests) - 数学の入試対策ができるコンテストサイト。
-
-  <div align="center">
-    <img loading = "lazy" src="images/related_contest_sites/math_test/math_test.png" alt="math test">
-  </div>
 
 ### オイライン数学
 
