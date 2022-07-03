@@ -205,6 +205,13 @@ filename: archived
 - [はてなブログ - yochan](https://www.yochan.blog/main/)
   - 確認した日: 2022/07/02
 
+- [入試数学コンテスト](https://manabitimes.jp/tests) - 数学の入試対策ができるコンテストサイト。
+  - 確認した日: 2022/07/03
+
+  <div align="center">
+    <img loading = "lazy" src="images/related_contest_sites/math_test/math_test.png" alt="math test">
+  </div>
+
 - [OMC problems](https://rusa6111.github.io/OMCproblems/) - [OnlineMathContest](https://onlinemathcontest.com/)で開催されたコンテストの問題一覧を確認できる。ベータ版。
   - 確認した日: 2022/03/05
   - 代替手段: [公式ページ](https://onlinemathcontest.com/problems)から閲覧する。
