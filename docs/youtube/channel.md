@@ -33,6 +33,7 @@ title: チャンネル
 - [heno 239](https://www.youtube.com/channel/UCmYTD76ZGm8hcrzaI7xJLAg) - レッドコーダー（競技プログラマーとして世界最高峰の実力の持ち主であることを示す）の[heno239](https://atcoder.jp/users/heno239)さんのチャンネル。過去問の早解き、2人で1行ずつ交互にコーディングしてACを目指す動画などが公開されている。
 - [Rute _](https://www.youtube.com/channel/UCvB4r-9OCn84AohIsnvLYhA) - [Rute](https://atcoder.jp/users/Rute)さんのチャンネル。ABC126以降のA問題を対象として、解説とPython3による実装が行われている。
 - [skyaozora58](https://www.youtube.com/user/skyaozora58/videos) - レッドコーダーの[sky58](https://atcoder.jp/users/sky58)さんのチャンネル。コンテスト当日のスクリーンキャプチャが多く公開されている。
+- [tatyam](https://www.youtube.com/channel/UC3MXq-nGMDQENm5ihfQeIkg/featured) - レッドコーダーの[tatyam](https://atcoder.jp/users/tatyam)さんのチャンネル。コンテストの過去問を解く動画が公開されている。
 - [Tozan Southerpacks Redcoder レッドコーダー](https://www.youtube.com/channel/UCwsapfci2p1oDVO4Q2sJOQw) - レッドコーダーの[tozangezan](https://atcoder.jp/users/tozangezan)さんのチャンネル。アルゴリズムやコンテスト後の解説が英語で行われている。
 - [かつっぱ競プロ](https://www.youtube.com/channel/UCqqeYOh1gk_TJ16sxazWhUg) - [AtCoder](https://atcoder.jp/)でレッドコーダーの[catupper](https://atcoder.jp/users/catupper)さんのチャンネル。コンテストの実況動画が公開されている。
 - [こたつがめ](https://www.youtube.com/channel/UCL8EOznhSyreT9O0-KFxgZQ/videos) - [kotatsugame](https://atcoder.jp/users/kotatsugame)さんのチャンネル。コードゴルフに関する動画が多く公開されている。
