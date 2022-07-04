@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-07-04
+
+- [#4214](https://github.com/KATO-Hiro/AtCoderClans/pull/4214) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、YouTubeのチャンネルを追加。
+  - [tatyam](https://www.youtube.com/channel/UC3MXq-nGMDQENm5ihfQeIkg/featured)
+
 ### 2022-07-03
 
 - [#4211](https://github.com/KATO-Hiro/AtCoderClans/pull/4211) - (破壊的な変更) リンク切れと思われるコンテストサイトを一時的に「Archived」ページに移動。
