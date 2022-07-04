@@ -39,6 +39,7 @@ filename: videos
 - [Pythonプログラミング VTuber サプー](https://www.youtube.com/channel/UC5Kgc_HNzx4GJ-w4QMeeKiQ/playlists) - [サプー](https://twitter.com/PythonSuppl)さんのチャンネル。Pythonの基礎文法・ライブラリの使い方などの動画が公開されている。
 - [Rute _](https://www.youtube.com/channel/UCvB4r-9OCn84AohIsnvLYhA) - [Rute](https://atcoder.jp/users/Rute)さんのチャンネル。ABC126以降のA問題を対象として、解説とPython3による実装が行われている。
 - [skyaozora58](https://www.youtube.com/user/skyaozora58/videos) - レッドコーダーの[sky58](https://atcoder.jp/users/sky58)さんのチャンネル。コンテスト当日のスクリーンキャプチャが多く公開されている。
+- [tatyam](https://www.youtube.com/channel/UC3MXq-nGMDQENm5ihfQeIkg/featured) - レッドコーダーの[tatyam](https://atcoder.jp/users/tatyam)さんのチャンネル。コンテストの過去問を解く動画が公開されている。
 - [Tozan Southerpacks Redcoder レッドコーダー](https://www.youtube.com/channel/UCwsapfci2p1oDVO4Q2sJOQw) - レッドコーダーの[tozangezan](https://atcoder.jp/users/tozangezan)さんのチャンネル。アルゴリズムやコンテスト後の解説が英語で行われている。
 - [あかしあ みどり](https://www.youtube.com/channel/UCkIaUs9Z43s1cSLS8mh9ppg) - [akasia_midori](https://atcoder.jp/users/akasia_midori)さんのチャンネル。コンテストの過去問を解く動画が公開されている。
 - [あずぱん動画](https://www.youtube.com/playlist?list=PLwlP26Z1O_DesFumSto6rfa9T2jmk9iD4) - [azm](https://atcoder.jp/users/azm)さんのチャンネル。AtCoderの始め方や過去問に関する「ゆっくり動画」が公開されている。
