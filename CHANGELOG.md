@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-07-05
+
+- [#4218](https://github.com/KATO-Hiro/AtCoderClans/pull/4218) - (破壊的な変更) 動画が非公開になっているYouTubeのチャンネルを一時的に「Archived」ページに移動。
+
 ### 2022-07-04
 
 - [#4214](https://github.com/KATO-Hiro/AtCoderClans/pull/4214) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、YouTubeのチャンネルを追加。
