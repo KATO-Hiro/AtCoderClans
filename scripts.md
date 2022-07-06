@@ -653,6 +653,14 @@ Google Chromeに機能を追加します。
     <img loading = "lazy" src="images/chrome_extension/scratchers_atcoder.jpg" alt="scratchers atcoder">
   </div>
 
+- [なでしこーだー](https://chrome.google.com/webstore/detail/%E3%81%AA%E3%81%A7%E3%81%97%E3%81%93%E3%83%BC%E3%81%A0%E3%83%BC/pbhmgehdalachojhgbpnelagkfkoclfb/related?hl=ja&authuser=0) - 日本語のプログラミング言語「[なでしこ](https://nadesi.com/top/)」で問題を解くことができる。また、「コードテスト」ページで、ソースコードの実行も可能。注: 提出するときの言語は、JavaScriptを選ぶ必要がある。
+  - 記事[「なでしこ」で「AtCoder」に挑戦できるGoogle Chrome拡張機能が登場](https://forest.watch.impress.co.jp/docs/news/1422840.html)
+  - [GitHub](https://github.com/axt-one/nadesicoder) ![GitHub Repo stars](https://img.shields.io/github/stars/axt-one/nadesicoder?style=plastic)
+
+  <div align="center">
+    <img loading = "lazy" src="images/chrome_extension/nadesicoder.png" alt="nadesicoder">
+  </div>
+
 ### レーティング、パフォーマンスなどを表示する
 
 - [AtCoder ACer](https://chrome.google.com/webstore/detail/atcoder-acer/pmdfjdiiiacncpgmjmeicdoidkaadjde?hl=ja&gl=UA) - 「問題一覧」ページにコンテスト中にAC(Accepted)した人数を表示する。
