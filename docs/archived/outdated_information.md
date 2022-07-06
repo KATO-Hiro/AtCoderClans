@@ -60,6 +60,15 @@ title: 更新停止の可能性が高い
     - 理由: 言語アップデートに伴い、文法・言語仕様が変更されたため。
     - 代替手段: [AtCoder言語アップデートでRustの入出力が楽になっていた](https://qiita.com/koji-cw/items/0cce3b075faffe5e50ed)や[言語アップデートで追加されたライブラリ一覧](https://github.com/rust-lang-ja/atcoder-rust-base/blob/ja-all-enabled/Cargo.toml)を読む。
 
+## 動画
+
+### YouTubeのチャンネル
+
+- [Rute _](https://www.youtube.com/channel/UCvB4r-9OCn84AohIsnvLYhA) - [Rute](https://atcoder.jp/users/Rute)さんのチャンネル。ABC126以降のA問題を対象として、解説とPython3による実装が行われている。
+
+    - 理由: 記載なし。
+    - 確認した日: 2022/07/05
+
 ## 関連コンテストサイト
 
 ### 情報オリンピック
