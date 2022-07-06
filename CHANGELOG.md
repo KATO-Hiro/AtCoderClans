@@ -6,6 +6,14 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-07-06
+
+- [#4223](https://github.com/KATO-Hiro/AtCoderClans/pull/4223) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、Chrome拡張機能「[なでしこーだー](https://chrome.google.com/webstore/detail/%E3%81%AA%E3%81%A7%E3%81%97%E3%81%93%E3%83%BC%E3%81%A0%E3%83%BC/pbhmgehdalachojhgbpnelagkfkoclfb/related?hl=ja&authuser=0)」を追加。
+
+### 2022-07-05
+
+- [#4218](https://github.com/KATO-Hiro/AtCoderClans/pull/4218) - (破壊的な変更) 動画が非公開になっているYouTubeのチャンネルを一時的に「Archived」ページに移動。
+
 ### 2022-07-04
 
 - [#4214](https://github.com/KATO-Hiro/AtCoderClans/pull/4214) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、YouTubeのチャンネルを追加。
