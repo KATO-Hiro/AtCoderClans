@@ -66,11 +66,6 @@ title: リンク切れ
     - [競技プログラミングにおける個人的C++コーディングスタイル(2020)](https://kimiyuki.net/blog/2020/10/25/coding-style-for-competitive-programming/) - [kimiyuki](https://atcoder.jp/users/kimiyuki)さんの好みのコーディングスタイルについて、競技プログラミングという文脈での利点と批判の両面から紹介した記事。
     - [プログラミング言語処理系の作り方 (競プロer向け)](https://kimiyuki.net/blog/2021/08/05/how-to-make-your-own-interpreter/) - 競技プログラマーに向けて、言語処理系の作り方やその難易度について説明した記事。
 
-### 部活・サークル・同好会に参加する
-
-- [AtCoder座談会 - deepblue](https://deepblue-ts.co.jp/competition/atcoder_symposium/) - 株式会社deepblueのメンバーによる座談会。練習方法や好きな問題、今後の目標などについて語られている。
-    - 確認した日: 2022/6/03
-
 ### 競技プログラミングと就転職
 
 - [AtCoder純粋培養緑コーダーが転職ACするまで](https://seashellpink-frostywhite.hatenablog.com/entry/2021/03/31/185821) - [riano_](https://atcoder.jp/users/riano_)さんが[AtCoderJobs](https://jobs.atcoder.jp/)を利用してIT業界未経験の状態から転職した経験談を紹介した記事。
