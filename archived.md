@@ -181,8 +181,6 @@ filename: archived
   - 確認した日: 2021/12/01
 - [AtCoder純粋培養緑コーダーが転職ACするまで](https://seashellpink-frostywhite.hatenablog.com/entry/2021/03/31/185821) - [riano_](https://atcoder.jp/users/riano_)さんが[AtCoderJobs](https://jobs.atcoder.jp/)を利用してIT業界未経験の状態から転職した経験談を紹介した記事。
   - 確認した日: 2022/06/02
-- [AtCoder座談会 - deepblue](https://deepblue-ts.co.jp/competition/atcoder_symposium/) - 株式会社deepblueのメンバーによる座談会。練習方法や好きな問題、今後の目標などについて語られている。
-  - 確認した日: 2022/06/03
 - [ゼロから始める競プロ部 - 部長 次郎花](https://note.com/jirohhana2/n/n0c1233f14824) - 会社のプロジェクトメンバーと競プロ部を立ち上げた[jirohhana2](https://atcoder.jp/users/jirohhana2)さんが、コンテストの参加記を不定期に連載している。
   - 確認した日: 2021/02/20
 - [ちょこちょこっ](https://www.youtube.com/c/chocochocoxtu/featured) - [chocochocoxtu](https://atcoder.jp/users/chocochocoxtu)さんのYouTubeチャンネル。コンテストの過去問を解く動画などが公開されている。
@@ -220,13 +218,6 @@ filename: archived
 
   <div align="center">
     <img loading = "lazy" src="images/related_contest_sites/omc/omc_problems.png" alt="omc problems">
-  </div>
-
-- [Wind Bel Contest](https://mario.exout.net/contests/) - テーマ別のコンテストが不定期に開催されている。注: [AtCoder](https://atcoder.jp/)とは、提出方法やSNSへの書き込みのルールが異なるため、事前の確認を推奨。
-  - 確認した日: 2022/06/16
-
-  <div align="center">
-    <img loading = "lazy" src="images/related_contest_sites/wind_bel_contest/wind_bel_contest.png" alt="wind bel contest">
   </div>
 
 <!-- markdown-link-check-enable -->
