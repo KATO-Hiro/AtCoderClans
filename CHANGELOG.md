@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-07-07
+
+- [#4233](https://github.com/KATO-Hiro/AtCoderClans/pull/4233) - (破壊的な変更) 「Archived」ページに掲載しているサービス・記事のリンクが復活したことを確認したため、該当ページに戻した。
+
 ### 2022-07-06
 
 - [#4223](https://github.com/KATO-Hiro/AtCoderClans/pull/4223) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、Chrome拡張機能「[なでしこーだー](https://chrome.google.com/webstore/detail/%E3%81%AA%E3%81%A7%E3%81%97%E3%81%93%E3%83%BC%E3%81%A0%E3%83%BC/pbhmgehdalachojhgbpnelagkfkoclfb/related?hl=ja&authuser=0)」を追加。
