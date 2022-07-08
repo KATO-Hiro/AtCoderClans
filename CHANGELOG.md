@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-07-08
+
+- [#4237](https://github.com/KATO-Hiro/AtCoderClans/pull/4237) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、YouTubeのチャンネルを追加。
+  - [ｲﾜｲﾉﾐｺﾄﾉﾘ](https://www.youtube.com/channel/UCqlJwj9fWlVi26KeSb_e-og/videos)
+
 ### 2022-07-07
 
 - [#4233](https://github.com/KATO-Hiro/AtCoderClans/pull/4233) - (破壊的な変更) 「Archived」ページに掲載しているサービス・記事のリンクが復活したことを確認したため、該当ページに戻した。
