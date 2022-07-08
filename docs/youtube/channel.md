@@ -34,6 +34,7 @@ title: チャンネル
 - [skyaozora58](https://www.youtube.com/user/skyaozora58/videos) - レッドコーダーの[sky58](https://atcoder.jp/users/sky58)さんのチャンネル。コンテスト当日のスクリーンキャプチャが多く公開されている。
 - [tatyam](https://www.youtube.com/channel/UC3MXq-nGMDQENm5ihfQeIkg/featured) - レッドコーダーの[tatyam](https://atcoder.jp/users/tatyam)さんのチャンネル。コンテストの過去問を解く動画が公開されている。
 - [Tozan Southerpacks Redcoder レッドコーダー](https://www.youtube.com/channel/UCwsapfci2p1oDVO4Q2sJOQw) - レッドコーダーの[tozangezan](https://atcoder.jp/users/tozangezan)さんのチャンネル。アルゴリズムやコンテスト後の解説が英語で行われている。
+- [ｲﾜｲﾉﾐｺﾄﾉﾘ](https://www.youtube.com/channel/UCqlJwj9fWlVi26KeSb_e-og/videos) - [yiwiy9](https://atcoder.jp/users/yiwiy9)さんのチャンネル。コンテストの実況動画が公開されている。
 - [かつっぱ競プロ](https://www.youtube.com/channel/UCqqeYOh1gk_TJ16sxazWhUg) - [AtCoder](https://atcoder.jp/)でレッドコーダーの[catupper](https://atcoder.jp/users/catupper)さんのチャンネル。コンテストの実況動画が公開されている。
 - [こたつがめ](https://www.youtube.com/channel/UCL8EOznhSyreT9O0-KFxgZQ/videos) - [kotatsugame](https://atcoder.jp/users/kotatsugame)さんのチャンネル。コードゴルフに関する動画が多く公開されている。
 - [ことり兄貴【プログラマ】](https://www.youtube.com/channel/UCf86wNbQtsJKh2EpRm7-Mrg/videos) - [KotoriAniki](https://atcoder.jp/users/KotoriAniki)さんのチャンネル。コンテストの過去問を解く動画などが公開されている。
