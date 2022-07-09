@@ -70,7 +70,7 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/aoj/aoj_icpc.png" alt="aoj icpc">
   </div>
 
-- [AOJ-PCK](http://aoj-pck.vsw.jp/) - パソコン甲子園の過去問やユーザの提出状況を確認できるWebサイト。
+- [AOJ-PCK](https://pro-ktmr.github.io/aoj-pck/) - パソコン甲子園の過去問やユーザの提出状況を確認できるWebサイト。
 
   <div align="center">
     <img loading = "lazy" src="images/related_contest_sites/aoj/aoj_pck.png" alt="aoj pck">
