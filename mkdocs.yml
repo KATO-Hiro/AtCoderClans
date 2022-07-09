@@ -210,6 +210,7 @@ nav:
     - related_contest_sites/index.md
     - アルゴリズム系コンテスト:
       - related_contest_sites/algo_method.md
+      - related_contest_sites/aoj.md
       - related_contest_sites/codeforces.md
       - related_contest_sites/joi_ioi.md
       - related_contest_sites/topcoder.md
