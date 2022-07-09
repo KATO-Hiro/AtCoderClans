@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-07-09
+
+- [#4227](https://github.com/KATO-Hiro/AtCoderClans/pull/4227) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」で掲載している、Webサイト「[AOJ-PCK](https://pro-ktmr.github.io/aoj-pck/)」のURLとサムネイル画像を更新。
+
 ### 2022-07-08
 
 - [#4237](https://github.com/KATO-Hiro/AtCoderClans/pull/4237) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、YouTubeのチャンネルを追加。
