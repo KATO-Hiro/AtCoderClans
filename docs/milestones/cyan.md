@@ -9,6 +9,7 @@ title: レーティング1200〜1599(水色)
 - [【色変記事】力技での入水](https://qiita.com/vi_24E/items/2baab6c152d74a7321c1) - [Yutchy591](https://atcoder.jp/users/Yutchy591)さんが、2022年2月27日に達成。
 - [【色変記事】転職を機に一度やめた競プロを復帰して水色になれました](https://qiita.com/okaponta_/items/95edd5dd312087da28d8) - [okaponta](https://atcoder.jp/users/okaponta)さんが、2022年4月2日に達成。
 - [116. AtCoder水色になりました - イバコの生存記録](https://ibako-piyo.hatenablog.com/entry/2022/05/29/122457) - [okabi](https://atcoder.jp/users/okabi)さんが、2022年5月28日に達成。
+- [AtCoder緑から水色までの記録](https://zenn.dev/hima/articles/e5b54557ae3dfd) - [hima398](https://atcoder.jp/users/hima398)さんが、2022年7月9日に達成。
 
 ## 2021年
 
