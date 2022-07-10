@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-07-10
+
+- [#4245](https://github.com/KATO-Hiro/AtCoderClans/pull/4245) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1200から1599まで(水色)に[hima398](https://atcoder.jp/users/hima398)さんの[記事](https://zenn.dev/hima/articles/e5b54557ae3dfd)を追加。
+
 ### 2022-07-09
 
 - [#4227](https://github.com/KATO-Hiro/AtCoderClans/pull/4227) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」で掲載しているWebサイト「[AOJ-PCK](https://pro-ktmr.github.io/aoj-pck/)」のURLとサムネイル画像を更新。
