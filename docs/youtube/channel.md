@@ -25,6 +25,7 @@ title: チャンネル
 - [ななみつき](https://www.youtube.com/playlist?list=PLKs3DZp2szRMAHKnNg2ZlIhW9uXfBQg6a) - [Nanamitsuki](https://atcoder.jp/users/Nanamitsuki)さんのチャンネル。コンテストの過去問を解く動画などが公開されている。
 - [浜ぬる](https://www.youtube.com/channel/UC_Fm2rtPE76XeuO-00I33cA/featured) - [hamanuru](https://twitter.com/hamanuru)さんのチャンネル。コンテストの過去問を解く動画が公開されている。
 - [文月このは](https://www.youtube.com/playlist?list=PLhu1EKNfmGwS75JjK2YeMRm9AVcubN0WO) - [kono_july](https://atcoder.jp/users/kono_july)さんのチャンネル。コンテストの過去問を解く動画などが公開されている。
+- [めいどさん MayDoSom](https://www.youtube.com/channel/UCCgPox6jBMMaeWutBXv7uRA) - [MayDoSom](https://atcoder.jp/users/MayDoSom)さんのチャンネル。コンテストの過去問を解く動画などが公開されている。
 
 ## YouTuber
 
