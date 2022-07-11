@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-07-11
+
+- [#4249](https://github.com/KATO-Hiro/AtCoderClans/pull/4249) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、YouTubeのチャンネルを追加。
+  - [めいどさん MayDoSom](https://www.youtube.com/channel/UCCgPox6jBMMaeWutBXv7uRA)
+
 ### 2022-07-10
 
 - [#4245](https://github.com/KATO-Hiro/AtCoderClans/pull/4245) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
