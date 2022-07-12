@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-07-12
+
+- [#4253](https://github.com/KATO-Hiro/AtCoderClans/pull/4253) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、Webサイト「[jcioi/joi-contests-site](https://contests.ioi-jp.org/)」を追加。
+
 ### 2022-07-11
 
 - [#4249](https://github.com/KATO-Hiro/AtCoderClans/pull/4249) - 「[Videos](https://kato-hiro.github.io/AtCoderClans/videos)」ページに、YouTubeのチャンネルを追加。
