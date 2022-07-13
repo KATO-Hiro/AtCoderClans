@@ -385,6 +385,10 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/topcoder/greed.png" alt="greed">
   </div>
 
+### TOPSIC SQL Contest
+
+- [TOPSIC SQL Contest](https://topsic-contest.jp/home) - SQLを利用して問題を解くことができるコンテストが開催されている。注: 使用できるのはSQLiteのみ。
+
 ### Wind Bel Contest
 
 - [Wind Bel Contest](https://mario.exout.net/contests/) - テーマ別のコンテストが不定期に開催されている。注: [AtCoder](https://atcoder.jp/)とは、提出方法やSNSへの書き込みのルールが異なるため、事前の確認を推奨。
