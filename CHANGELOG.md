@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-07-13
+
+- [#4256](https://github.com/KATO-Hiro/AtCoderClans/pull/4256) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、コンテストサイト「[TOPSIC SQL Contest](https://topsic-contest.jp/home)」を追加。
+
 ### 2022-07-12
 
 - [#4253](https://github.com/KATO-Hiro/AtCoderClans/pull/4253) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、Webサイト「[jcioi/joi-contests-site](https://contests.ioi-jp.org/)」を追加。
