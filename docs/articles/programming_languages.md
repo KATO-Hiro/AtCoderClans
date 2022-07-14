@@ -12,6 +12,11 @@ title: プログラミング言語を学ぶ
     !!! warning "注意"
         C++のチュートリアルではなく、スタイルガイドであることに留意されたい。
 
+- [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) ![GitHub Repo stars](https://img.shields.io/github/stars/isocpp/CppCoreGuidelines?style=plastic) - C++に関するガイドライン、ルール、ベストプラクティスをまとめたドキュメント。
+
+    !!! info "参考"
+        インターフェース、リソースおよびメモリの管理、並行処理など比較的高度な問題に焦点をあてているのが特徴。
+
 ## Fortran
 
 - [Fortran入門(Fortran版APG4b)](https://qiita.com/jj1guj/items/43a1c876360ddf180f1f) - プログラミングの入門教材「[C++入門 AtCoder Programming Guide for beginners (APG4b)](https://atcoder.jp/contests/APG4b)」のFortran版。
