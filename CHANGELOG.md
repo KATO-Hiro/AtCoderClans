@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-07-15
+
+- [#4262](https://github.com/KATO-Hiro/AtCoderClans/pull/4262) - (破壊的な変更) リンク切れと思われるWebアプリを一時的に「Archived」ページに移動。
+
 ### 2022-07-14
 
 - [#4258](https://github.com/KATO-Hiro/AtCoderClans/pull/4258) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、C++のガイドラインを追加。
