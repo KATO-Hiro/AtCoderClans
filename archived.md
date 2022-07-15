@@ -97,6 +97,7 @@ filename: archived
   <div align="center">
     <img loading = "lazy" src="images/web_app/atcoder_hot_problems.png" alt="atcoder hot problems">
   </div>
+  - 確認した日: 2022/07/15
 
 - [AtCoder じゃんけん](https://atcoder-janken.appspot.com/) - 指定した2人のユーザが共通して出場したコンテストの順位を比較できるWebアプリ。
   - 確認した日: 2020/10/12
