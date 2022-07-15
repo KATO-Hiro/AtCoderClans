@@ -314,12 +314,6 @@ filename: web_app
     <img loading = "lazy" src="images/web_app/atcoder_games.png" alt="atcoder games">
   </div>
 
-- [AtCoder Hot Problems](https://new-hot-problems.herokuapp.com/ranking/) - 任意の期間(1〜30日)における問題別の提出数を集計し、上位100問を表示する。
-
-  <div align="center">
-    <img loading = "lazy" src="images/web_app/atcoder_hot_problems.png" alt="atcoder hot problems">
-  </div>
-
 - [atcoder じゃんけん(not 本家)](https://hotman78.github.io/atcoder-janken/) - 指定した2人のユーザが共通して出場したコンテストの順位を比較できる。[本家](https://kato-hiro.github.io/AtCoderClans/archived)のリンク切れに伴い、有志が新たに作成・公開した。
 
   <div align="center">

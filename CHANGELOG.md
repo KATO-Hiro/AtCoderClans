@@ -6,6 +6,15 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-07-15
+
+- [#4262](https://github.com/KATO-Hiro/AtCoderClans/pull/4262) - (破壊的な変更) リンク切れと思われるWebアプリを一時的に「Archived」ページに移動。
+
+### 2022-07-14
+
+- [#4258](https://github.com/KATO-Hiro/AtCoderClans/pull/4258) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、C++のガイドラインを追加。
+  - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
+
 ### 2022-07-13
 
 - [#4256](https://github.com/KATO-Hiro/AtCoderClans/pull/4256) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、コンテストサイト「[TOPSIC SQL Contest](https://topsic-contest.jp/home)」を追加。

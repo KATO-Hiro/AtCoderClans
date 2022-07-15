@@ -92,6 +92,13 @@ filename: archived
     <img loading = "lazy" src="images/web_app/atcoder_diff_scores.png" alt="Atcoder Diff Scores">
   </div>
 
+- [AtCoder Hot Problems](https://new-hot-problems.herokuapp.com/ranking/) - 任意の期間(1〜30日)における問題別の提出数を集計し、上位100問を表示する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/web_app/atcoder_hot_problems.png" alt="atcoder hot problems">
+  </div>
+  - 確認した日: 2022/07/15
+
 - [AtCoder じゃんけん](https://atcoder-janken.appspot.com/) - 指定した2人のユーザが共通して出場したコンテストの順位を比較できるWebアプリ。
   - 確認した日: 2020/10/12
   - 理由: Google Cloud Platform(GCP)で、Go1.9の提供が終了したため。
