@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-07-16
+
+- [#4267](https://github.com/KATO-Hiro/AtCoderClans/pull/4267) - [#4262](https://github.com/KATO-Hiro/AtCoderClans/pull/4262)に関連して、更新履歴に掲載しているリンクを一時的に削除。
+
 ### 2022-07-15
 
 - [#4262](https://github.com/KATO-Hiro/AtCoderClans/pull/4262) - (破壊的な変更) リンク切れと思われるWebアプリを一時的に「Archived」ページに移動。
