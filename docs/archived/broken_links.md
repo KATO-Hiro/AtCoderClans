@@ -17,6 +17,13 @@ title: リンク切れ
     - 理由: バグにより主要な機能が動作していない可能性が高いため([出典](https://twitter.com/IT_parsely/status/1319228723908857856))
     - 代替手段: 調査中。
 
+- [AtCoder Hot Problems](https://new-hot-problems.herokuapp.com/ranking/) - 任意の期間(1〜30日)における問題別の提出数を集計し、上位100問を表示する。
+    - 確認した日: 2022/07/15
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_hot_problems.png" alt="atcoder hot problems">
+    </div>
+
 ## スクリプト
 
 ### おすすめの紹介

@@ -19,12 +19,6 @@ title: コンテストに関する統計情報
 
 ### 提出数
 
-- [AtCoder Hot Problems](https://new-hot-problems.herokuapp.com/ranking/) - 任意の期間(1〜30日)における問題別の提出数を集計し、上位100問を表示する。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_hot_problems.png" alt="atcoder hot problems">
-    </div>
-
 - [AtCoder Language Visualizer](https://inazuma110.github.io/atcoder_language_visualizer/) - 各問題の言語別提出数・割合を表示する。また、作者による使い方・技術解説に関する[記事](https://qiita.com/Inazuma110/items/e02b8b1c71e101b41635)もある。
 
     <div align="center">
