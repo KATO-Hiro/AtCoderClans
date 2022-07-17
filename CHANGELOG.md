@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-07-17
+
+- [#4272](https://github.com/KATO-Hiro/AtCoderClans/pull/4272) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[過去に作った競技プログラミングのスライド集](https://tsutaj.hatenablog.com/entry/2022/07/16/230000)」を追加。
+
 ### 2022-07-16
 
 - [#4267](https://github.com/KATO-Hiro/AtCoderClans/pull/4267) - [#4262](https://github.com/KATO-Hiro/AtCoderClans/pull/4262)に関連して、更新履歴に掲載しているリンクを一時的に削除。
