@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-07-18
+
+- [#4276](https://github.com/KATO-Hiro/AtCoderClans/pull/4276) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[高速なビームサーチが欲しい!!!](https://qiita.com/rhoo/items/f2be256cde5ad2e62dde)」を追加。
+
 ### 2022-07-17
 
 - [#4272](https://github.com/KATO-Hiro/AtCoderClans/pull/4272) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[過去に作った競技プログラミングのスライド集](https://tsutaj.hatenablog.com/entry/2022/07/16/230000)」を追加。
