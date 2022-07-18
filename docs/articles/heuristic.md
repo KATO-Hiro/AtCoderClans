@@ -111,6 +111,10 @@ title: ヒューリスティック問題を解く
 - [chokudaiサーチ(ビームサーチ亜種)の利点の話](https://chokudai.hatenablog.com/entry/2017/04/12/055515) - 探索アルゴリズムの一種であるchokudaiサーチについて解説されている記事。Beam Stack Searchと比べて、時間管理が楽になることや探索の多様性を考慮できることに特徴がある。
     - [Chokudai search](https://www.slideshare.net/chokudai/chokudai-search-23234124) -  上記の記事の内容が簡潔にまとめられているスライド。
 
+### ビームサーチ
+
+- [高速なビームサーチが欲しい!!!](https://qiita.com/rhoo/items/f2be256cde5ad2e62dde) - ビームサーチの高速化について解説した記事。前提として、ビームサーチの基礎とC++のポインタなどの知識か必要。
+
 ### 焼きなまし法
 
 - [誰でもできる焼きなまし法](http://gasin.hatenadiary.jp/entry/2019/09/03/162613) - [gasin](https://atcoder.jp/users/gasin)さんが「焼きなまし法」の汎用性の高い実装方法を紹介した記事。
