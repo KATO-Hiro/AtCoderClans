@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-07-19
+
+- [#4279](https://github.com/KATO-Hiro/AtCoderClans/pull/4279) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング800から1199まで(緑色)に[etty](https://atcoder.jp/users/etty)さんの[記事](https://note.com/very_yami__/n/n99b68e693790)を追加。
+
 ### 2022-07-18
 
 - [#4276](https://github.com/KATO-Hiro/AtCoderClans/pull/4276) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[高速なビームサーチが欲しい!!!](https://qiita.com/rhoo/items/f2be256cde5ad2e62dde)」を追加。
