@@ -147,6 +147,7 @@ title: C&#43;&#43;
 |natrium|[はてなブログ](https://natrium.hatenablog.com/)|2016年1月以降、新規の記事を確認できず。|
 |ningenMe|[はてなブログ](https://ningenme.hatenablog.com/)||
 |ninja7|[自作ブログ](https://melting.love/blog/)|2020年5月以降、新規の記事を確認できず。|
+|niuez|[GitHub Pages](https://niuez.github.io/)||
 |NOSS|[はてなブログ](https://noss.hatenablog.com/)||
 |not|[はてなブログ](https://not522.hatenablog.com/)、[はてなグループ](https://topcoder-g-hatena-ne-jp.jag-icpc.org/not522/)||
 |opt|[自作ブログ](https://opt-cp.com/)||
