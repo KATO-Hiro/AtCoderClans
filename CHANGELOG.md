@@ -6,6 +6,14 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-07-22
+
+- [#4293](https://github.com/KATO-Hiro/AtCoderClans/pull/4293) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのヒューリスティック部門に、最高レーティングが2000〜2799に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+
+### 2022-07-21
+
+- [#4290](https://github.com/KATO-Hiro/AtCoderClans/pull/4290) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[業務の最適化とマラソンマッチの違い](https://gasin.hatenadiary.jp/entry/2022/04/26/212619)」を追加。
+
 ### 2022-07-20
 
 - [#4284](https://github.com/KATO-Hiro/AtCoderClans/pull/4284) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのアルゴリズム部門に、最高レーティングが2000〜2399に到達したユーザのブログを追加。
