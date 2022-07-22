@@ -14,11 +14,13 @@ title: C&#43;&#43;
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
 |asi1024|[はてなブログ](https://asi1024.hatenablog.com/)|2017年3月以降、新規の記事を確認できず。|
+|assy|[はてなブログ](https://assy.hatenablog.jp/)||
 |ats5515|[はてなブログ](https://ats5515.hatenablog.com/)||
 |hitonanode|[はてなブログ](https://rsm9.hatenablog.com/)||
 |iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
 |Jirotech|[はてなブログ](https://shuu0914.hatenablog.com/)||
 |noimi|[はてなブログ](https://noimi.hatenablog.com/)||
+|Nyaan|[はてなブログ](https://nyaan.hatenablog.com/)||
 |phocom|[Qiita](https://qiita.com/phocom)||
 |saharan|[自作ブログ](https://blog.oimo.io/)||
 |Shun_PI|[Qiita](https://qiita.com/Shun_PI)||
@@ -30,9 +32,9 @@ title: C&#43;&#43;
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
-|assy|[はてなブログ](https://assy.hatenablog.jp/)||
 |bin101|[はてなブログ](https://bin101.hatenablog.com/)||
 |colun|[自作ブログ](http://www.colun.net/blog)|2016年10月以降、新規の記事を確認できず。|
+|E869120|[はてなブログ](https://e869120.hatenablog.com/)、[Qiita](https://qiita.com/e869120)||
 |ebicochineal|[自作ブログ](http://ebicochineal.blogspot.com/)||
 |hakomo|[はてなブログ](https://hakomof.hatenablog.com/)||
 |hamamu|[Qiita](https://qiita.com/hamamu)||
@@ -41,7 +43,6 @@ title: C&#43;&#43;
 |kusano|[はてなブログ](https://kusano-k.hatenablog.com/)、[Qiita](https://qiita.com/kusano_k)||
 |mtsd|[はてなブログ](https://mtsd-programming.hatenablog.com/)||
 |nagiss|[はてなブログ](https://nagiss.hateblo.jp/)||
-|Nyaan|[はてなブログ](https://nyaan.hatenablog.com/)||
 |olphe|[はてなブログ](https://olphe.hatenablog.com/)||
 |Omotchi|[はてなブログ](https://omotchi.hateblo.jp/)||
 |phyllo|[GitHub Pages](https://jetbead.github.io/AtCoderHeuristicContestMemo/)||
@@ -50,5 +51,6 @@ title: C&#43;&#43;
 |riantkb|[はてなブログ](https://rian.hatenablog.jp/)||
 |shibh308|[はてなブログ](https://shibh308.hatenablog.com/)||
 |Shibuyap|[Qiita](https://qiita.com/Shibuyap)||
+|shindannin|[はてなブログ](https://shindannin.hatenadiary.com/)||
 |theory_and_me|[はてなブログ](https://theory-and-me.hatenablog.com/)||
 |ValGrowth|[はてなブログ](https://valgrowth.hatenablog.com/archive)||
