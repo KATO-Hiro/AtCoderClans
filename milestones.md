@@ -80,6 +80,7 @@ filename: milestones
 - [ゼロから始めて楽しく続ける競技プログラミング　〜３３歳、入緑しました〜 - あいねむの教プロ雑記](https://ainem.hatenablog.com/entry/2022/04/14/125646) - [ainem](https://atcoder.jp/users/ainem)さんが、2022年3月20日に達成。
 - [【砂漠を駆け巡る】入緑までの道のり - アジの開きを閉じて優勝!!](https://ajinoko33.hatenablog.com/entry/2022/05/22/230450) - [Ajinoko](https://atcoder.jp/users/Ajinoko)さんが、2022年5月21日に達成。
 - [AtCoderで入緑したからnote書きます](https://note.com/very_yami__/n/n99b68e693790) - [etty](https://atcoder.jp/users/etty)さんが、2022年7月17日に達成。
+- [入緑！しました！](https://note.com/syntax_error_/n/n74cca048ba60) - [King314](https://atcoder.jp/users/King314)さんが、2022年7月17日に達成。
 
 ### レーティング1200から1599まで(水色)
 

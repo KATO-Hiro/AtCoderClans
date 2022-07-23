@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-07-23
+
+- [#4297](https://github.com/KATO-Hiro/AtCoderClans/pull/4297) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング800から1199まで(緑色)に[King314](https://atcoder.jp/users/King314)さんの[記事](https://note.com/syntax_error_/n/n74cca048ba60)を追加。
+
 ### 2022-07-22
 
 - [#4293](https://github.com/KATO-Hiro/AtCoderClans/pull/4293) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのヒューリスティック部門に、最高レーティングが2000〜2799に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
