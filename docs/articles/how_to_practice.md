@@ -12,6 +12,7 @@ title: コンテストに向けた練習方法を知る
 
 - [rng_58さんがオススメする学習方法](https://twitter.com/rng_58/status/1238824295230361600) - [rng_58](https://twitter.com/rng_58)さんが、問題を楽に解くための方針を身につける方法についてコメントしている。
     - [AtCoder Beginner Contest (ABC)を中心とした練習方法](https://twitter.com/kyopro_dekomor2/status/1412385847974895620)
+- [競技プログラミングの問題の解き方、そのマニュアル](https://kmyk.github.io/blog/blog/2016/06/21/how-to-solve-problems-in-competitive-programming/) - 問題を解くときに、それぞれの段階(コンテスト前の準備、問題文を読む、前処理、方針の探索、実装、解けない問題への対処方法など)で考慮すべき項目が言語化されている記事。
 - [精進について](https://kyopro-friends.hatenablog.com/entry/2020/02/03/202835) - [kyopro_friends](https://atcoder.jp/users/kyopro_friends)さんの練習に対する考え方や方法について書かれた記事。
 
 ### 練習の質を高める
