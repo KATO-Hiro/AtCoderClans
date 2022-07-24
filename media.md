@@ -119,6 +119,7 @@ filename: media
 - [競プロのすすめ](https://speakerdeck.com/uya116/jing-purofalsesusume) - 競技プログラミングの概要と例題、コンテストの参加手順などが紹介されているスライド。
 - [競技プログラミング入門者の成長のためのメモ](https://qiita.com/masakinihirota/items/d1ffac54e70a1adf084c) - 競技プログラミングを始めるにあたって、チーム開発との違い、目標設定の重要性、言語や各種ツールの選定、コンテストサイトの紹介、学習方法など幅広い内容について解説されている。
 - [やってみよう競技プログラミング](https://docs.google.com/presentation/d/1N5MTwRdZPCtUwTwQTajOwkyEvHWSSiRl8xIx-BPfOl0/view#slide=id.p) - 競技プログラミングそのものの説明から、コンテストの参加にまつわるアンチパターンとオススメの練習方法が解説されている。
+- [競技プログラミングの問題の解き方、そのマニュアル](https://kmyk.github.io/blog/blog/2016/06/21/how-to-solve-problems-in-competitive-programming/) - 問題を解くときに、それぞれの段階(コンテスト前の準備、問題文を読む、前処理、方針の探索、実装、解けない問題への対処方法など)で考慮すべき項目が言語化されている記事。
 - [Competitive Programming](https://kotlinlang.org/docs/tutorials/competitive-programming.html) - 競技プログラミングにおいて、[Kotlin](https://kotlinlang.org/)で参加する方法を解説した公式チュートリアル。
 
 ### コードを快適に書くための環境構築
