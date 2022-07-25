@@ -580,6 +580,7 @@ filename: media
 ### オンラインブック
 
 - [atcoder-rust-resources](https://doc.rust-jp.rs/atcoder-rust-resources/) - コンテストにRustで参加するための資料集。現在は、日本語のみ対応。
+- [Open Data Structures](https://sites.google.com/view/open-data-structures-ja) - データ構造に関する入門書。ソースコードが[GitHub](https://github.com/spinute/ods)で公開されている。
 - [ヒューリスティック探索入門](https://jinnaiyuu.github.io/pdf/textbook.pdf) - グラフ探索アルゴリズムを状態空間問題(完全情報決定論的モデル)に応用するための解説PDF。特に、ヒューリスティック型コンテストで活用されることが期待される。
 - [ようこそ、競プロの世界へ！～異世界転生～](https://kakuyomu.jp/works/1177354054890434440) - 競技プログラミングの世界に転生した高校生を描いた小説。
 
