@@ -22,6 +22,7 @@ title: 書籍
     - [執筆体験記](https://e869120.hatenablog.com/entry/2021/12/30/210649) - 著者が、書籍を書くことになったきっかけから出版までの過程を振り返った記事。
 - [問題解決力を鍛える!アルゴリズムとデータ構造](https://www.amazon.co.jp/dp/4065128447/) - [drken](https://atcoder.jp/users/drken)さんによる書籍(通称、けんちょん本)。後述する蟻本を読み進めるための基礎が学べる。内容や難易度の詳細は[ブログ](https://drken1215.hatenablog.com/entry/2020/08/10/041137)を参照されたい。また、書籍に掲載されているソースコードや章末問題の略解が[GitHub](https://github.com/drken1215/book_algorithm_solution)にアップロードされている。
 - [アルゴリズム実技検定 公式テキスト[エントリー~中級編]](https://www.amazon.co.jp/gp/product/483997277X/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=rust-twitter-22&linkId=f436393e211c3e53630445f04c8d65c9&language=ja_JP) - [betrue12](https://atcoder.jp/users/betrue12)さんと[kenkoooo](https://atcoder.jp/users/kenkoooo)さんによる書籍(通称、PAST本)。「アルゴリズム実技検定(PAST)」初の公式テキスト。書籍の特徴・解説の範囲・使用言語などについては、[著者のブログ](https://betrue12.hateblo.jp/entry/2021/02/20/123103)を参照されたい。また、書籍に掲載されている解答例のソースコードが[GitHub](https://github.com/kenkoooo/pastbook-source-code)で公開されている。
+- [Open Data Structures](https://sites.google.com/view/open-data-structures-ja) - データ構造に関する入門書。ソースコードが[GitHub](https://github.com/spinute/ods)で公開されている。
 - [プログラミングコンテストチャレンジブック [第2版] ～問題解決のアルゴリズム活用力とコーディングテクニックを鍛える～](https://www.amazon.co.jp/dp/B00CY9256C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - 通称、蟻本。初級編からかなり難しいが、典型的なアルゴリズムと考え方が収録されている。
 
     !!! info "参考"
