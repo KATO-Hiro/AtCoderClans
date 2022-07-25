@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-07-25
+
+- [#4306](https://github.com/KATO-Hiro/AtCoderClans/pull/4306) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、書籍「[Open Data Structures](https://sites.google.com/view/open-data-structures-ja)」を追加。
+
 ### 2022-07-24
 
 - [#4301](https://github.com/KATO-Hiro/AtCoderClans/pull/4301) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[競技プログラミングの問題の解き方、そのマニュアル](https://kmyk.github.io/blog/blog/2016/06/21/how-to-solve-problems-in-competitive-programming/)」を追加。
