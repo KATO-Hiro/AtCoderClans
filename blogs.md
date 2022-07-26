@@ -268,6 +268,7 @@ filename: blogs
 |firiexp|[自作ブログ](https://www.firiex.com/dokuwiki/%E8%A7%A3%E8%AA%AC%E8%A8%98%E4%BA%8B/start)||
 |fumofumofuni|[はてなブログ](https://fumofumofuni.hatenablog.com/)||
 |furuya1223|[WordPress](https://www.creativ.xyz/)||
+|ganmodokix|[はてなブログ](https://aprilganmo.hatenablog.com/)||
 |gyouzasushi|[はてなブログ](https://gyouzasushi.hatenablog.com/)||
 |habara_k|[はてなブログ](https://habara-k.hatenadiary.jp/)||
 |hamayanhamayan|[はてなブログ](https://blog.hamayanhamayan.com/)||
