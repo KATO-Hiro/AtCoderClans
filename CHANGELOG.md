@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-07-26
+
+- [#4309](https://github.com/KATO-Hiro/AtCoderClans/pull/4309) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのアルゴリズム部門に、最高レーティングが2000〜2399に到達したユーザのブログを追加。
+
 ### 2022-07-25
 
 - [#4306](https://github.com/KATO-Hiro/AtCoderClans/pull/4306) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、書籍「[Open Data Structures](https://sites.google.com/view/open-data-structures-ja)」を追加。
