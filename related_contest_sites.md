@@ -233,6 +233,10 @@ filename: related_contest_sites
     <img loading = "lazy" src="images/related_contest_sites/ioi/ioi_syllabus_quiz1.png" alt="ioi syllabus quiz1">
   </div>
 
+### ISUCON (Iikanjini Speed Up Contest)
+
+- [aws-isucon](https://github.com/matsuu/aws-isucon) ![GitHub Repo stars](https://img.shields.io/github/stars/matsuu/aws-isucon?style=plastic) - [ISUCON](https://isucon.net/)の過去問をAWS環境で取り組むための資料がまとめられている。
+
 ### JOI (Japanese Olympiad in Informatics)と関連サービス
 
 #### JOI
