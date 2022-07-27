@@ -191,8 +191,8 @@ nav:
   - Videos:
     - videos/index.md
     - YouTube:
-      - youtube/video.md
       - youtube/channel.md
+      - youtube/video.md
     - videos/niconico.md
     - videos/archived_video.md
   - Milestones:
