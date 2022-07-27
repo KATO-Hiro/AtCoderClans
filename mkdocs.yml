@@ -224,8 +224,8 @@ nav:
   - Archives:
     - archived/index.md
     - archived/need_to_confirm_operation.md
-    - archived/broken_links.md
     - archived/outdated_information.md
+    - archived/broken_links.md
     - archived/no_longer_available.md
   - privacy_policy.md
   - contact.md
