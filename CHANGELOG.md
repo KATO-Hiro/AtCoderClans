@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-07-28
+
+- [#4318](https://github.com/KATO-Hiro/AtCoderClans/pull/4318) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング800から1199まで(緑色)に[Gex777](https://atcoder.jp/users/Gex777)さんの[記事](https://qiita.com/GEX777/items/079636356fec05e1ec7c)を追加。
+
 ### 2022-07-27
 
 - [#4311](https://github.com/KATO-Hiro/AtCoderClans/pull/4311) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、[ISUCON (Iikanjini Speed Up Contest)](https://isucon.net/)の環境構築に関する資料を追加。
