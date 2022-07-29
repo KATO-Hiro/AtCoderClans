@@ -8,7 +8,7 @@ filename: CHANGELOG
 
 ### 2022-07-29
 
-- [#4323](https://github.com/KATO-Hiro/AtCoderClans/pull/4323) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに掲載している書籍「[問題解決力を鍛える!アルゴリズムとデータ構造](https://www.amazon.co.jp/dp/4065128447/)」の説明文を更新。有志が本文のソースコード(C++)をPythonで書き直したGitHubレポジトリを追加。
+- [#4323](https://github.com/KATO-Hiro/AtCoderClans/pull/4323) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに掲載している書籍「[問題解決力を鍛える!アルゴリズムとデータ構造](https://www.amazon.co.jp/dp/4065128447/)」の説明文を更新。有志が本文のソースコード(C++)をPythonで書き直しているGitHubレポジトリを追加。
   - [yuk1ty/book-algorithm-solution](https://github.com/yuk1ty/book-algorithm-solution)
 
 ### 2022-07-28
