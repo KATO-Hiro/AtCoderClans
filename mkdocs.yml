@@ -231,6 +231,8 @@ nav:
   - contact.md
   - design.md
   - references.md
-  # - contributing.md
+  - Contributing:
+    - contributing/index.md
+    - contributing/guideline.md
   - license.md
   # - changelog.md
