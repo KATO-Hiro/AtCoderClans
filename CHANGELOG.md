@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-07-30
+
+- [#4326](https://github.com/KATO-Hiro/AtCoderClans/pull/4326) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1200から1599まで(水色)に[BinomialSheep](https://atcoder.jp/users/BinomialSheep)さんの[記事](https://qiita.com/BinomialSheep/items/bdced19c2dc4e6b481ec)を追加。
+
 ### 2022-07-29
 
 - [#4323](https://github.com/KATO-Hiro/AtCoderClans/pull/4323) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに掲載している書籍「[問題解決力を鍛える!アルゴリズムとデータ構造](https://www.amazon.co.jp/dp/4065128447/)」の説明文を更新。有志が本文のソースコード(C++)をPythonで書き直しているGitHubレポジトリを追加。

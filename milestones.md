@@ -116,6 +116,7 @@ filename: milestones
 - [【色変記事】転職を機に一度やめた競プロを復帰して水色になれました](https://qiita.com/okaponta_/items/95edd5dd312087da28d8) - [okaponta](https://atcoder.jp/users/okaponta)さんが、2022年4月2日に達成。
 - [116. AtCoder水色になりました - イバコの生存記録](https://ibako-piyo.hatenablog.com/entry/2022/05/29/122457) - [okabi](https://atcoder.jp/users/okabi)さんが、2022年5月28日に達成。
 - [AtCoder緑から水色までの記録](https://zenn.dev/hima/articles/e5b54557ae3dfd) - [hima398](https://atcoder.jp/users/hima398)さんが、2022年7月9日に達成。
+- [【競プロ】新人SEがAtCoderを始めて水色になった【色変記事】](https://qiita.com/BinomialSheep/items/bdced19c2dc4e6b481ec) - [BinomialSheep](https://atcoder.jp/users/BinomialSheep)さんが、2022年7月23日に達成。
 
 ### レーティング1600から1999まで(青色)
 
