@@ -90,6 +90,7 @@ title: C&#43;&#43;
 |platypus|[はてなブログ](https://platypus999.hatenablog.com/)|2018年3月以降、新規の記事を確認できず。|
 |potetisensei|[はてなブログ](https://potetisensei.hatenablog.com/)||
 |primenumber|[はてなブログ](https://primenumber.hatenadiary.jp/)||
+|riano_|[はてなブログ](https://seashellpink-frostywhite.hatenablog.com/)||
 |Rubikun|[はてなブログ](https://rubikun.hatenablog.jp/)||
 |sak|[Qiita](https://qiita.com/sakofsuken)、[note](https://note.com/sak_algo)|[アルゴ式](https://algo-method.com/)の運営・開発者。|
 |sapphire15|[はてなブログ](https://sapphire15.hatenablog.com/)||
@@ -156,7 +157,6 @@ title: C&#43;&#43;
 |paruki|[はてなブログ](https://par.hateblo.jp/)||
 |phocom|[Qiita](https://qiita.com/phocom)||
 |Pro_ktmr|[Qiita](https://qiita.com/Pro_ktmr)||
-|riano_|[はてなブログ](https://seashellpink-frostywhite.hatenablog.com/)||
 |Rho17|[はてなブログ](https://zrkkkk.hatenablog.com/)||
 |seica|[はてなブログ](https://seica-at.hatenablog.com/)||
 |Series_205|[Qiita](https://qiita.com/Series_205)||
