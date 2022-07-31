@@ -50,7 +50,7 @@ title: 各ページの説明
 
 - 本サイトの更新状況を確認する
 
-    [:octicons-arrow-right-24: Change Log](../CHANGELOG)
+    [:octicons-arrow-right-24: Change Log](../changelog/latest)
 
 ## 新しい知識を学ぶ・コンテストで出題された問題を復習する
 

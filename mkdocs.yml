@@ -96,7 +96,7 @@ nav:
     - recommendation/submit_codes.md
     - recommendation/improve_ui.md
     - recommendation/collect_info.md
-  - Web Apps and Web Sites:
+  - Web Apps and Sites:
     - web_app/index.md
     - Webアプリ・Webサイト:
       - web_app/solve_problems.md
@@ -238,4 +238,5 @@ nav:
     - contributing/index.md
     - contributing/guideline.md
   - license.md
-  # - changelog.md
+  - Change Log:
+    - changelog/latest.md
