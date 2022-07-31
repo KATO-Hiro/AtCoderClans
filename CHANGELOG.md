@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-07-31
+
+- [#4334](https://github.com/KATO-Hiro/AtCoderClans/pull/4334) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのアルゴリズム部門で、ユーザの昇段に伴い掲載するレーティング帯を変更。
+
 ### 2022-07-30
 
 - [#4326](https://github.com/KATO-Hiro/AtCoderClans/pull/4326) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
