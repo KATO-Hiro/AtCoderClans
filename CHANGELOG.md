@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-08-01
+
+- [#4338](https://github.com/KATO-Hiro/AtCoderClans/pull/4338) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、書籍「[アルゴリズム的思考力が身につく! プログラミングコンテストAtCoder入門](https://www.amazon.co.jp/dp/404604408X/)」の販売開始に伴い、説明文を更新。
+
 ### 2022-07-31
 
 - [#4334](https://github.com/KATO-Hiro/AtCoderClans/pull/4334) - 「[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs)」ページのアルゴリズム部門で、ユーザの昇段に伴い掲載するレーティング帯を変更。
