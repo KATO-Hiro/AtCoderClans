@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-08-02
+
+- [#4341](https://github.com/KATO-Hiro/AtCoderClans/pull/4341) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング1600から1999まで(青色)に[zeronosu77108](https://atcoder.jp/users/zeronosu77108)さんの[記事](https://zeronosu77108.hatenablog.com/entry/2022/08/01/221949)を追加。
+
 ### 2022-08-01
 
 - [#4338](https://github.com/KATO-Hiro/AtCoderClans/pull/4338) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、書籍「[アルゴリズム的思考力が身につく! プログラミングコンテストAtCoder入門](https://www.amazon.co.jp/dp/404604408X/)」の販売開始に伴い、説明文を更新。
