@@ -8,7 +8,7 @@ filename: CHANGELOG
 
 ### 2022-08-03
 
-- [#4345](https://github.com/KATO-Hiro/AtCoderClans/pull/4345) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」に、書籍「[JOI 公式テキスト Pythonで問題解決](https://www.amazon.co.jp/dp/4407359447)」を追加。
+- [#4345](https://github.com/KATO-Hiro/AtCoderClans/pull/4345) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、書籍「[JOI 公式テキスト Pythonで問題解決](https://www.amazon.co.jp/dp/4407359447)」を追加。
 
 ### 2022-08-02
 
