@@ -17,3 +17,13 @@ title: はじめに
     - ユーザスクリプトを利用するために、[スクリプトマネージャ](https://greasyfork.org/ja)を導入する
 
     - Google Chromeの拡張機能の[使い方](https://www.google.com/search?sxsrf=ALeKk033ZO4VOoYJmsx9txWxx32vSveVQw%3A1594530427618&ei=e5oKX9GlJaSzmAXYjZ4Y&q=chrome+%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD+%E4%BD%BF%E3%81%84%E6%96%B9&oq=chrome%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD%E3%81%A8%E3%81%AF&gs_lcp=CgZwc3ktYWIQARgBMgcIABBHELADMgcIABBHELADMgcIABBHELADMgcIABBHELADMgcIABBHELADMgcIABBHELADMgcIABBHELADMgcIABBHELADUABYAGC7uwRoAXAAeACAAQCIAQCSAQCYAQCqAQdnd3Mtd2l6&sclient=psy-ab)を調べる
+
+## 対象読者
+
+- 問題を解きたい
+- ソースコードの提出・確認が簡単にできるようにしたい
+- 解説を読みたい / テストケースを見たい
+- コンテストに参加したい
+- コンテストの成績・統計情報が見たい
+- Webページをより見やすくしたい
+- ライバルとなるユーザを探したい
