@@ -33,11 +33,12 @@ title: 情報オリンピック
       <img loading = "lazy" src="../../images/related_contest_sites/joi/difficulty_table.png" alt="difficulty table">
     </div>
 
-### 記事
+### 記事・書籍
 
 #### プログラミング言語を学ぶ
 
 - [Introducion to JOI](https://pro-ktmr.github.io/joig-course/text/index.html) - C++の基礎文法について、JOIの過去問を通して学ぶことができる。
+- [JOI 公式テキスト Pythonで問題解決](https://www.amazon.co.jp/dp/4407359447) - (予約受付中) JOIの公式テキスト。プログラミングとアルゴリズムの基礎をPythonで学ぶことができる。
 
 #### 参加記を読む
 
