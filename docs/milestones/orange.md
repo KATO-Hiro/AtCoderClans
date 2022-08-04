@@ -2,6 +2,10 @@
 title: レーティング2400〜2799(橙色)
 ---
 
+## 2022年
+
+- [AtCoder 橙になりました - すこしだけ欠けたピアノの音色](https://seashellpink-frostywhite.hatenablog.com/entry/2022/07/31/180610) - [riano_](https://atcoder.jp/users/riano_)さんが、2022年7月30日に達成。
+
 ## 2021年
 
 - [Y.Y. の Y は Yellow の Y ではなかった](https://ygussany.hatenablog.com/entry/2021/05/23/230000) - [ygussany](https://atcoder.jp/users/ygussany)さんが、2021年5月23日に達成。
