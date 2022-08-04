@@ -203,6 +203,7 @@ filename: milestones
 - [Y.Y. の Y は Yellow の Y ではなかった](https://ygussany.hatenablog.com/entry/2021/05/23/230000) - [ygussany](https://atcoder.jp/users/ygussany)さんが、2021年5月23日に達成。
 - [AtCoder橙になりました - つちのこの日記](https://tsuchi.hateblo.jp/entry/2021/12/13/152307) - [nok0](https://atcoder.jp/users/nok0)さんが、2021年11月21日に達成。
 - [AtCoder 橙になりました！ - sapphire15の日記](https://sapphire15.hatenablog.com/entry/2021/12/10/234546) - [sapphire15](https://atcoder.jp/users/sapphire15)さんが、2021年12月5日に達成。
+- [AtCoder 橙になりました - すこしだけ欠けたピアノの音色](https://seashellpink-frostywhite.hatenablog.com/entry/2022/07/31/180610) - [riano_](https://atcoder.jp/users/riano_)さんが、2022年7月30日に達成。
 
 ### レーティング2800以上(赤色、銅王冠、銀王冠、金王冠)
 
