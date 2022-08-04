@@ -6,6 +6,11 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-08-04
+
+- [#4351](https://github.com/KATO-Hiro/AtCoderClans/pull/4351) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+  - レーティング2400から2799まで(橙色)に[riano_](https://atcoder.jp/users/riano_)さんの[記事](https://seashellpink-frostywhite.hatenablog.com/entry/2022/07/31/180610)を追加。
+
 ### 2022-08-03
 
 - [#4345](https://github.com/KATO-Hiro/AtCoderClans/pull/4345) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、書籍「[JOI 公式テキスト Pythonで問題解決](https://www.amazon.co.jp/dp/4407359447)」を追加。
