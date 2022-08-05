@@ -127,14 +127,6 @@ nav:
       - chrome_extensions/participate_in_contests.md
       - chrome_extensions/view_scores.md
       - chrome_extensions/improve_ui.md
-  - Command Line Tools:
-    - cli/index.md
-    - cli/test_tools.md
-    - cli/template_testcase_generator.md
-    - cli/tools_for_submission.md
-    - cli/programming_languages.md
-    - cli/solver.md
-    - cli/tools_for_writers.md
   - Libraries and Snippets:
     - libraries/index.md
     - AtCoder Library (ACL):
@@ -151,6 +143,14 @@ nav:
       - libraries/python.md
       - libraries/rust.md
       - libraries/others.md
+  - Command Line Tools:
+    - cli/index.md
+    - cli/test_tools.md
+    - cli/template_testcase_generator.md
+    - cli/tools_for_submission.md
+    - cli/programming_languages.md
+    - cli/solver.md
+    - cli/tools_for_writers.md
   - Articles, Blogs and Books:
     - media/index.md
     - 記事:
