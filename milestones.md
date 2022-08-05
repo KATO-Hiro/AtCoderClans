@@ -193,6 +193,7 @@ filename: milestones
 - [【色変記事】AtCoder黄色になりました - MtSakaのブログ](https://mt-saka.hatenablog.com/entry/2022/02/14/204036) - [MtSaka](https://atcoder.jp/users/MtSaka)さんが、2022年2月13日に達成。
 - [JavaでAtCoder黄色になりました](https://qiita.com/sounansya/items/ca21c45496fa0189d51e) - [sounansya](https://atcoder.jp/users/sounansya)さんが、2022年3月12日に達成。
 - [AtCoder黄色・Codeforces薄橙になったりならなかったりします - myauの競プロブログ](https://myau-atcoder.hatenablog.com/entry/2022/03/25/235830) - [myau](https://atcoder.jp/users/myau)さんが、2022年3月25日に公開。
+- [AtCoder 黄色になりました - lynmisakuraのノート](https://andoreiji11.hatenadiary.jp/entry/2022/08/02/164301) - [lynmisakura](https://atcoder.jp/users/lynmisakura)さんが、2022年7月31日に達成。
 
 ### レーティング2400から2799まで(橙色)
 
