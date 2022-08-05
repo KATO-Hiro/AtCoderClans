@@ -50,7 +50,7 @@ title: 各ページの説明
 
     ---
 
-- 本サイトの更新状況を確認する
+- 本サイトの更新履歴を確認する
 
     [:octicons-arrow-right-24: Change Log](../changelog/latest)
 
