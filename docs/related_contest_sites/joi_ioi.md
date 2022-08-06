@@ -39,6 +39,9 @@ title: 情報オリンピック
 
 - [Introducion to JOI](https://pro-ktmr.github.io/joig-course/text/index.html) - C++の基礎文法について、JOIの過去問を通して学ぶことができる。
 - [JOI 公式テキスト Pythonで問題解決](https://www.amazon.co.jp/dp/4407359447) - (予約受付中) JOIの公式テキスト。プログラミングとアルゴリズムの基礎をPythonで学ぶことができる。
+    - [書籍の紹介と便利リンク集](https://pro-ktmr.github.io/joi-text/)
+    - [公式解説動画](https://www.youtube.com/channel/UCI_npX8-fWv235zqCj8Oa9w)
+    - [PyTry](https://pro-ktmr.github.io/pytry/) - 競技プログラミング初心者向けのPython実行環境。
 
 #### 参加記を読む
 
