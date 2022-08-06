@@ -62,13 +62,9 @@ title: 各ページの説明
 
 - 問題の解説ブログや資料集・書籍を読む
 
-    [:octicons-arrow-right-24: Articles, Blogs and Books](../media)
-
-    ---
-
 - 問題の解説動画を観る
 
-    [:octicons-arrow-right-24: Videos](../videos)
+    [:octicons-arrow-right-24: Articles, Blogs, Books and Videos](../media)
 
     ---
 
