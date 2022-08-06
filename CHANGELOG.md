@@ -6,6 +6,13 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-08-06
+
+- [#4360](https://github.com/KATO-Hiro/AtCoderClans/pull/4360), [#4361](https://github.com/KATO-Hiro/AtCoderClans/pull/4361) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、書籍「[JOI 公式テキスト Pythonで問題解決](https://www.amazon.co.jp/dp/4407359447)」の説明文を更新。以下のリンクを追加。
+  - [書籍の紹介と便利リンク集](https://pro-ktmr.github.io/joi-text/)
+  - [公式解説動画](https://www.youtube.com/channel/UCI_npX8-fWv235zqCj8Oa9w)
+  - [PyTry](https://pro-ktmr.github.io/pytry/) - 競技プログラミング初心者向けのPython実行環境。
+
 ### 2022-08-05
 
 - [#4355](https://github.com/KATO-Hiro/AtCoderClans/pull/4355) - 「[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
