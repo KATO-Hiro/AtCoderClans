@@ -233,11 +233,11 @@ nav:
   - privacy_policy.md
   - contact.md
   - special_thanks.md
-  - design.md
-  - references.md
   - Contributing:
     - contributing/index.md
     - contributing/guideline.md
+    - design.md
+    - references.md
   - license.md
   - Change Log:
     - changelog/latest.md
