@@ -74,6 +74,8 @@ title: ソースコードの提出・確認を簡単に
       <img loading = "lazy" src="../../images/userscript/atcoder_language_filter.png" alt="atcoder language filter">
     </div>
 
+- [AtCoder Submission Language Detector](https://greasyfork.org/ja/scripts/448492-atcoder-submission-language-detector) - 「問題」「提出」「コードテスト」の各ページで、ソースコードのメタ情報に基づいて使用言語を検出・選択する。
+
 ### ケアレスミス対策
 
 - [mod noticer](https://greasyfork.org/ja/scripts/429808-mod-noticer) - 「問題」ページで、剰余(mod)を取る必要がある問題に対して、提出ボタンに確認メッセージを追加する。
