@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-08-07
+
+- [#4367](https://github.com/KATO-Hiro/AtCoderClans/pull/4367) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、ユーザスクリプト「[AtCoder Submission Language Detector](https://greasyfork.org/ja/scripts/448492-atcoder-submission-language-detector)」を追加。
+
 ### 2022-08-06
 
 - [#4360](https://github.com/KATO-Hiro/AtCoderClans/pull/4360), [#4361](https://github.com/KATO-Hiro/AtCoderClans/pull/4361) - 「[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites)」ページに、書籍「[JOI 公式テキスト Pythonで問題解決](https://www.amazon.co.jp/dp/4407359447)」の説明文を更新。以下のリンクを追加。
