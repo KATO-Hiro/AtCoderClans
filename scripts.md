@@ -190,6 +190,8 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_link_completion_for_joi.png" alt="atcoder link completion for joi">
   </div>
 
+- [AtCoder Submission Language Detector](https://greasyfork.org/ja/scripts/448492-atcoder-submission-language-detector) - 提出に関連するページで、ソースコードのメタ情報に基づいて使用言語を検出・選択する。
+
 - [AtCoder_submit_keyboard_shortcut](https://greasyfork.org/ja/scripts/378760-atcoder-submit-keyboard-shortcut) - 問題の提出が、Ctrl+Enterでできる。
 - [AtCoderSubmitSearchSettings](https://greasyfork.org/ja/scripts/390424-atcodersubmitsearchsettings) - 「すべての提出」ページで、古いバージョンで提出されたコードを検索できる。検索のデフォルト設定も指定できる。
 
