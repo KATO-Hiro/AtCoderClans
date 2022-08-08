@@ -540,6 +540,7 @@ filename: media
 - [「AtCoder 競技プログラマー就職企業人気ランキング2021」を発表](https://prtimes.jp/main/html/rd/p/000000035.000028415.html) - [AtCoder](https://atcoder.jp/)がユーザに対して実施した人気企業ランキング(2021年版)をまとめた記事。
 - [AtCoder Jobsを使って転職しました](https://xkttqm.hatenablog.com/entry/2021/08/04/230000) - IT業界未経験の状態から転職を考えたきっかけ・[AtCoderJobs](https://jobs.atcoder.jp/)を利用した転職活動が紹介されている記事。
 - [AtCoderでしかプログラミングを知らない生物学徒がハッカソンに挑戦してみた話](https://tsuna-lab.hatenablog.com/entry/2021/04/28/233453) - ハッカソンに初めて参加した筆者が、チーム開発で経験した内容を紹介した記事。
+- [AtCoderの社長のままトヨタ自動車にアルゴリズムグループを作った話](https://chokudai.hatenablog.com/entry/2022/08/08/211746) - [chokudai](https://twitter.com/chokudai)さんが、トヨタ自動車にアルゴリズムグループを設立した経緯・狙いをAtCoder社長としての立場から書かれている記事。
 - [エンジニア人材の志向を理解した選考デザインと対話が採用成功のカギ！](https://saponet.mynavi.jp/column/detail/20211208135429.html) - ITコンサルタント会社における競技プログラマーの採用活動を紹介した記事。
 - [おいしいキャベツの育て方](https://ngtkana.hatenablog.com/entry/2021/03/17/210830) - [ngtkana](https://atcoder.jp/users/ngtkana)さんが、プログラミングを始めたきっかけ・[AtCoder](https://atcoder.jp/)との出会い・アルバイトを経て現職に至るまでの過程を紹介した記事。
 - [競技プログラマーがWeb開発者の卵になるまでの軌跡](https://qiita.com/__Null_Null_/items/940305f068ef9df659d9) - Web開発に興味のある競技プログラマーに向けて、シンプルなWebアプリを作るために必要な知識・学習順序を紹介した記事。
