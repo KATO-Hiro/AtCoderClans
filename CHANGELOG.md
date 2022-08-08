@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-08-08
+
+- [#4372](https://github.com/KATO-Hiro/AtCoderClans/pull/4372) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[AtCoderの社長のままトヨタ自動車にアルゴリズムグループを作った話](https://chokudai.hatenablog.com/entry/2022/08/08/211746)」を追加。
+
 ### 2022-08-07
 
 - [#4367](https://github.com/KATO-Hiro/AtCoderClans/pull/4367) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、ユーザスクリプト「[AtCoder Submission Language Detector](https://greasyfork.org/ja/scripts/448492-atcoder-submission-language-detector)」を追加。
