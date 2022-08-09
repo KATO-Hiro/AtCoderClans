@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-08-09
+
+- [#4379](https://github.com/KATO-Hiro/AtCoderClans/pull/4379) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、スライド「[局所探索法とメタヒューリスティクス](https://speakerdeck.com/umepon/local-search-and-metaheuristics-for-combinatorial-optimization-problems)」を追加。
+
 ### 2022-08-08
 
 - [#4372](https://github.com/KATO-Hiro/AtCoderClans/pull/4372) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[AtCoderの社長のままトヨタ自動車にアルゴリズムグループを作った話](https://chokudai.hatenablog.com/entry/2022/08/08/211746)」を追加。
