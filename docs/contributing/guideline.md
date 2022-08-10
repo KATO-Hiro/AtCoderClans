@@ -12,6 +12,10 @@ title: ガイドライン
 + 本レポジトリをForkして、[プルリクエスト(PR)](https://github.com/KATO-Hiro/AtCoderHub/pulls)を作成する。詳細は、次項を参照してください。
 + GitやGitHubの利用が困難な場合は、[@KATO-Hiro](https://twitter.com/k_hiro1818)までDMをお願いいたします。
 
+!!! infomation "参考"
+
+    掲載を希望されるサービス・ツールなどについて、基礎情報(名称・URL・概要)を明記していただくと、短時間で反映させることができます。ご協力のほど、よろしくお願いいたします。
+
 ## プルリクエストの作成方法
 
 !!! infomation "参考"
