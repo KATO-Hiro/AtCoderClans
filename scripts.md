@@ -531,6 +531,12 @@ filename: scripts
     <img loading = "lazy" src="images/userscript/atcoder_language_filter.png" alt="atcoder language filter">
   </div>
 
+- [AtCoder Problem Buttons](https://greasyfork.org/ja/scripts/445191-atcoder-problem-buttons) - 「提出」ページに、提出する問題をワンクリックで切り替えられるボタンを追加する。
+
+  <div align="center">
+    <img loading = "lazy" src="images/userscript/atcoder_problem_buttons.png" alt="atcoder problem buttons">
+  </div>
+
 - [atcoder-problem-navigator](https://greasyfork.org/ja/scripts/383360-atcoder-problem-navigator) - 「問題」ページで、各問題のリンクに飛べるナビゲーションバーを追加。
 
   <div align="center">
