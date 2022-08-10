@@ -54,6 +54,12 @@ title: ソースコードの提出・確認を簡単に
 
 ### 問題を選択
 
+- [AtCoder Problem Buttons](https://greasyfork.org/ja/scripts/445191-atcoder-problem-buttons) - 「提出」ページに、提出する問題をワンクリックで切り替えられるボタンを追加する。
+
+  <div align="center">
+    <img loading = "lazy" src="../../images/userscript/atcoder_problem_buttons.png" alt="atcoder problem buttons">
+  </div>
+
 - [AtCoder-Submission-RadioButton](https://greasyfork.org/ja/scripts/390828-atcoder-submission-radiobutton) - 「提出」ページに、各問題を選択するラジオボタンを設置する。[Chrome拡張版](https://chrome.google.com/webstore/detail/atcoder-submission-radiob/hkehpabdllmdfmflgjofmgcdbmjafcdd?hl=ja&gl=UA)もある。
 
     <div align="center">
