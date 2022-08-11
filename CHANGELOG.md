@@ -6,6 +6,10 @@ filename: CHANGELOG
 
 ## Change Log
 
+### 2022-08-11
+
+- [#4387](https://github.com/KATO-Hiro/AtCoderClans/pull/4387) - 「[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media)」ページに、記事「[Pythonゴルフテク(AtCoder)](https://qiita.com/c_r_5/items/bcf069487cb0060c39f2)」を追加。
+
 ### 2022-08-10
 
 - [#4384](https://github.com/KATO-Hiro/AtCoderClans/pull/4384) - 「[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts)」ページに、ユーザスクリプト「[AtCoder Problem Buttons](https://greasyfork.org/ja/scripts/445191-atcoder-problem-buttons)」を追加。
