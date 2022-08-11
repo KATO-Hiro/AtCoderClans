@@ -31,23 +31,6 @@ title: リンク切れ
 - [AtCoderを120%楽しむために便利な拡張機能](https://dailylife.dev/posts/79#body) - 記事の作成者が便利だと感じたユーザスクリプトや拡張機能が紹介されている記事。初めて使う方にもおすすめ。
     - 確認した日: 2022/02/09
 
-## ライブラリ・スニペット
-
-### ACL Kotlin
-
-- [da-louis/ac-library-kt](https://github.com/da-louis/ac-library-kt) ![GitHub stars](https://img.shields.io/github/stars/da-louis/ac-library-kt?style=plastic) - [AtCoder Library (ACL)](https://atcoder.jp/posts/517)のKotlin版。[Java版](https://github.com/NASU41/AtCoderLibraryForJava)をベースに作成されている。
-    - 確認した日: 2022/03/16
-
-### Node.js
-
-- [DecoratedKnight/js-cp-template](https://github.com/DecoratedKnight/js-cp-template/tree/0a09186b4bbf8dcb040f23e202957b40071f8b35) ![GitHub stars](https://img.shields.io/github/stars/DecoratedKnight/js-cp-template?style=plastic) - [decoratedknight](https://atcoder.jp/users/decoratedknight)さんのNode.jsテンプレート。
-    - 確認した日: 2022/02/12
-
-### Python
-
-- [summersky08/CompetitiveProgramming](https://github.com/summersky08/CompetitiveProgramming) ![GitHub Repo stars](https://img.shields.io/github/stars/summersky08/CompetitiveProgramming?style=plastic) - rkato5680さんのPythonライブラリ。
-    - 確認した日: 2022/05/02
-
 ## 記事
 
 ### 入門者・初心者向けの内容
@@ -89,6 +72,23 @@ title: リンク切れ
 
 - [ちょこちょこっ](https://www.youtube.com/c/chocochocoxtu/featured) - [chocochocoxtu](https://atcoder.jp/users/chocochocoxtu)さんのYouTubeチャンネル。コンテストの過去問を解く動画などが公開されている。
     - 確認した日: 2021/11/17
+
+## ライブラリ・スニペット
+
+### ACL Kotlin
+
+- [da-louis/ac-library-kt](https://github.com/da-louis/ac-library-kt) ![GitHub stars](https://img.shields.io/github/stars/da-louis/ac-library-kt?style=plastic) - [AtCoder Library (ACL)](https://atcoder.jp/posts/517)のKotlin版。[Java版](https://github.com/NASU41/AtCoderLibraryForJava)をベースに作成されている。
+    - 確認した日: 2022/03/16
+
+### Node.js
+
+- [DecoratedKnight/js-cp-template](https://github.com/DecoratedKnight/js-cp-template/tree/0a09186b4bbf8dcb040f23e202957b40071f8b35) ![GitHub stars](https://img.shields.io/github/stars/DecoratedKnight/js-cp-template?style=plastic) - [decoratedknight](https://atcoder.jp/users/decoratedknight)さんのNode.jsテンプレート。
+    - 確認した日: 2022/02/12
+
+### Python
+
+- [summersky08/CompetitiveProgramming](https://github.com/summersky08/CompetitiveProgramming) ![GitHub Repo stars](https://img.shields.io/github/stars/summersky08/CompetitiveProgramming?style=plastic) - rkato5680さんのPythonライブラリ。
+    - 確認した日: 2022/05/02
 
 ## 色変記事
 

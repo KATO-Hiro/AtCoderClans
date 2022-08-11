@@ -179,6 +179,35 @@ title: 開発・提供終了
     - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
     - 代替手段: [AtCoder Scores](http://atcoder-scores.herokuapp.com/)のリンクから閲覧する。
 
+## 記事
+
+### コードを書くための環境構築を行う
+
+- [atcoder_docker_sample](https://github.com/yamatia/atcoder_docker_sample) - [Visual Studio Code](https://code.visualstudio.com/)・[Docker](https://www.docker.com/)・[Git](https://git-scm.com/downloads)を使って、PythonとC++の実行環境を構築することができる。
+
+### 部活・サークル・同好会に参加する
+
+- [ゼロから始める競プロ部 - 部長 次郎花](https://note.com/jirohhana2/n/n0c1233f14824) - 会社のプロジェクトメンバーと競プロ部を立ち上げた[jirohhana2](https://atcoder.jp/users/jirohhana2)さんが、コンテストの参加記を不定期に連載している。
+    - 確認した日: 2021/02/20
+
+### 競技プログラミングと就転職
+
+- [AtCoder学生ユーザー座談会「内定先、どうやって決めましたか？」](https://saponet.mynavi.jp/column/knowhow/zadankai-gakusei/) - [AtCoder](https://atcoder.jp/)の学生ユーザ3人を対象に、AtCoderを始めたきっかけ・内定先の決め手・初任給など覆面座談会の内容を紹介した記事。
+
+## 資料集
+
+- [KCLC公開講座](https://drive.google.com/drive/folders/12XfIWr37AiDJpvZkygd8H2fJjJdlQOxx) - Kaisei Computer Lovers' Club (KCLC)の有志によって作成された公開資料集。競技プログラミングの入門者・初心者向けに、興味を持ってもらうためのきっかけ作り、データ構造、基礎文法などの資料が用意されている。
+    - 理由: 記載なし。
+    - 代替手段: 調査中。
+
+## 動画
+
+### YouTubeのチャンネル
+
+- [どきんちゃんねる](https://www.youtube.com/channel/UCRtRY2sRe36LXjaiyhqEqCg) - [dokin](https://atcoder.jp/users/dokin)さんのチャンネル。入門者・初心者向けに、問題の考察・C++での実装過程が丁寧に解説されている。
+    - 理由: 記載なし。
+    - 代替手段: 調査中。
+
 ## ライブラリ
 
 ### ACL C&#43;&#43;
@@ -224,35 +253,6 @@ title: 開発・提供終了
 ### 不明
 
 - [sciencesakura/atcoder-sandbox](https://github.com/sciencesakura/atcoder-sandbox) ![GitHub stars](https://img.shields.io/github/stars/sciencesakura/atcoder-sandbox?style=plastic) - [sciencesakura](https://atcoder.jp/users/sciencesakura)さんのライブラリ。
-
-## 記事
-
-### コードを書くための環境構築を行う
-
-- [atcoder_docker_sample](https://github.com/yamatia/atcoder_docker_sample) - [Visual Studio Code](https://code.visualstudio.com/)・[Docker](https://www.docker.com/)・[Git](https://git-scm.com/downloads)を使って、PythonとC++の実行環境を構築することができる。
-
-### 部活・サークル・同好会に参加する
-
-- [ゼロから始める競プロ部 - 部長 次郎花](https://note.com/jirohhana2/n/n0c1233f14824) - 会社のプロジェクトメンバーと競プロ部を立ち上げた[jirohhana2](https://atcoder.jp/users/jirohhana2)さんが、コンテストの参加記を不定期に連載している。
-    - 確認した日: 2021/02/20
-
-### 競技プログラミングと就転職
-
-- [AtCoder学生ユーザー座談会「内定先、どうやって決めましたか？」](https://saponet.mynavi.jp/column/knowhow/zadankai-gakusei/) - [AtCoder](https://atcoder.jp/)の学生ユーザ3人を対象に、AtCoderを始めたきっかけ・内定先の決め手・初任給など覆面座談会の内容を紹介した記事。
-
-## 資料集
-
-- [KCLC公開講座](https://drive.google.com/drive/folders/12XfIWr37AiDJpvZkygd8H2fJjJdlQOxx) - Kaisei Computer Lovers' Club (KCLC)の有志によって作成された公開資料集。競技プログラミングの入門者・初心者向けに、興味を持ってもらうためのきっかけ作り、データ構造、基礎文法などの資料が用意されている。
-    - 理由: 記載なし。
-    - 代替手段: 調査中。
-
-## 動画
-
-### YouTubeのチャンネル
-
-- [どきんちゃんねる](https://www.youtube.com/channel/UCRtRY2sRe36LXjaiyhqEqCg) - [dokin](https://atcoder.jp/users/dokin)さんのチャンネル。入門者・初心者向けに、問題の考察・C++での実装過程が丁寧に解説されている。
-    - 理由: 記載なし。
-    - 代替手段: 調査中。
 
 ## 関連コンテストサイト
 
