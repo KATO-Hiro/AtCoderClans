@@ -36,7 +36,7 @@ title: 不定期開催
         [AtCoder](https://atcoder.jp/)とは、提出方法やSNSへの書き込みのルールが異なるため、事前の確認を推奨。
 
     <div align="center">
-      <img loading = "lazy" src="images/related_contest_sites/wind_bel_contest/wind_bel_contest.png" alt="wind bel contest">
+      <img loading = "lazy" src="../../images/related_contest_sites/wind_bel_contest/wind_bel_contest.png" alt="wind bel contest">
     </div>
 
 ## Xmas Contest
