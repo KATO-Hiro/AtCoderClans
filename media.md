@@ -394,6 +394,7 @@ filename: media
 - [しゃくとり法のDequeを使ったバグりにくい実装](https://qiita.com/keroru/items/6e0a22e8c9bf2a24dc68) - 添え字のミスが起こりがちな尺取り法について、両端キュー(deque)を利用して実装する方法が紹介されている。
 - [std::setを使わない代替テクニック](https://ikatakos.com/pot/programming_algorithm/data_structure/balancing_binary_search_tree/tree_free) - C++の`std::set`の利用を前提とした問題が出題されたときに、Pythonにおける代替手段をまとめた記事。Binary Indexed Tree (BIT)、優先度付きキュー、ピボット木、平方分割などによる方法が紹介されている。
 - [絶対に競プロ以外では書いてはいけない！書いたら○されると思え！なテクニック集](https://qiita.com/kotaro912214/items/575fd778d062703304ea) - 競技プログラミングでPythonのコードを素早く書くことを最優先としたテクニック集。注: 業務で書くコードでは可読性や再利用性などが重視されるため、記事で紹介されている方法は基本的に利用しないことを推奨。
+- [Pythonゴルフテク(AtCoder)](https://qiita.com/c_r_5/items/bcf069487cb0060c39f2) - Pythonでコードを短く書くためのテクニックが紹介されている。注: 業務で書くコードでは可読性や再利用性などが重視されるため、記事で紹介されている方法は基本的に利用しないことを推奨。
 - [Python3で競技プログラミングする時に知っておきたいtips（入力編）](https://qiita.com/kyuna/items/8ee8916c2f4e36321a1c) - Python利用者に向けて、初心者がつまづきがちなデータの入力方法を詳細に解説した記事。
 - [PythonでAtCoderをするあれこれ](https://qiita.com/c-yan/items/dbf2838cdd89864ef5ac) - 入出力の方法に加えて、処理を高速化するための工夫が紹介されている記事。
 - [Pythonで各要素にO(1)でランダムアクセスできるdeque(両端キュー)を書いてみた](https://prd-xxx.hateblo.jp/entry/2020/02/07/114818) - `deque`モジュールの基本的な機能に加えて、ランダムアクセス(indexを指定したアクセス)による参照・変更がO(1)で実行できる方法を紹介した記事。
