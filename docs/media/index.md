@@ -1,5 +1,5 @@
 ---
-title: はじめに
+title: Articles, Blogs, Books and Videos - はじめに
 ---
 
 新しい知識を学ぶときに参考となる記事・ブログ・資料集・書籍・動画などを掲載しています。

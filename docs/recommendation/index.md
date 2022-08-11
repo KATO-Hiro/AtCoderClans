@@ -1,5 +1,5 @@
 ---
-title: はじめに
+title: Recommendation - はじめに
 ---
 
 おすすめのサービス・ツールを厳選して紹介するページです(Beta版)。

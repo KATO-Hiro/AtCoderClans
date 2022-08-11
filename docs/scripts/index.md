@@ -1,5 +1,5 @@
 ---
-title: はじめに
+title: Scripts - はじめに
 ---
 
 [AtCoder](https://atcoder.jp/)のWebページをより見やすくするためのサービスを紹介しています。

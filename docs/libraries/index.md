@@ -1,5 +1,5 @@
 ---
-title: はじめに
+title: Libraries and Snippets - はじめに
 ---
 
 主要言語で実装されたアルゴリズムのライブラリ・スニペットを紹介しています。

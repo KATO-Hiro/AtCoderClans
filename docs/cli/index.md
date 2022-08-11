@@ -1,5 +1,5 @@
 ---
-title: はじめに
+title: Command Line Tools - はじめに
 ---
 
 キーボードの操作で特定の処理を簡単に行うことができます。
