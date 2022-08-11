@@ -55,6 +55,10 @@ plugins:
 
 
 # Customization
+extra:
+  analytics:
+    provider: google
+    property: G-JZZK4RM2YD
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
