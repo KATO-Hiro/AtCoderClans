@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-08-12
+
+- [#3928](https://github.com/KATO-Hiro/AtCoderClans/pull/3928) - (破壊的な変更) 本サイトを全面的にリニューアルしました。ブックマークされている方は、お手数ですが再登録をお願いいたします。
+    - 理由: サービス・ツール・ライブラリ・記事などの掲載数が増えたことで、検索性・表示速度などの改善が必要であると判断したため。
+    - 主な変更点:
+        - サイトジェネレータを[Jekyll](https://jekyllrb.com/)から[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)に。
+        - 媒体・目的・カテゴリ別にページを分割・再編。
+
 ### 2022-08-11
 
 - [#4387](https://github.com/KATO-Hiro/AtCoderClans/pull/4387) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、記事「[Pythonゴルフテク(AtCoder)](https://qiita.com/c_r_5/items/bcf069487cb0060c39f2)」を追加。
