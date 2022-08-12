@@ -1,10 +1,35 @@
-# AtCoderClans
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/KATO-Hiro/AtCoderHub/TOC%20Generator)
-[![Issues](https://img.shields.io/github/issues/KATO-Hiro/AtCoderHub)](https://github.com/KATO-Hiro/AtCoderHub/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/KATO-Hiro/AtCoderHub.svg)](https://github.com/KATO-Hiro/AtCoderHub/pulls)
-[![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/KATO-Hiro/AtCoderHub/blob/master/LICENSE)
-[![Twitter Follow](https://img.shields.io/twitter/follow/k_hiro1818?style=social)](https://twitter.com/k_hiro1818)
+- [AtCoder Clans](#atcoder-clans)
+  - [特長](#%E7%89%B9%E9%95%B7)
+  - [対象ユーザとメリット](#%E5%AF%BE%E8%B1%A1%E3%83%A6%E3%83%BC%E3%82%B6%E3%81%A8%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88)
+  - [各ページの説明](#%E5%90%84%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E8%AA%AC%E6%98%8E)
+    - [注意事項](#%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85)
+  - [最新情報のお知らせ](#%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B)
+  - [ご要望、ご報告、お気付きの点などについて](#%E3%81%94%E8%A6%81%E6%9C%9B%E3%81%94%E5%A0%B1%E5%91%8A%E3%81%8A%E6%B0%97%E4%BB%98%E3%81%8D%E3%81%AE%E7%82%B9%E3%81%AA%E3%81%A9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
+  - [関連プロジェクト・参考資料](#%E9%96%A2%E9%80%A3%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%83%BB%E5%8F%82%E8%80%83%E8%B3%87%E6%96%99)
+  - [レポジトリ作者](#%E3%83%AC%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E4%BD%9C%E8%80%85)
+  - [ライセンス](#%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+# AtCoder Clans
+
+<p align="center">
+    <a href="https://github.com/KATO-Hiro/AtCoderClans/actions/workflows/link_checker.yml" target="_blank">
+        <img src="https://img.shields.io/github/workflow/status/KATO-Hiro/AtCoderClans/Check%20Markdown%20links%20with%20scheduled%20job?label=Links&style=plastic" alt="Markdown links">
+    </a>
+    <a href="https://github.com/KATO-Hiro/AtCoderClans/actions/workflows/pages/pages-build-deployment" target="_blank">
+        <img src="https://img.shields.io/github/workflow/status/KATO-Hiro/AtCoderClans/pages%20build%20and%20deployment?label=Pages%20build%20and%20deployment&style=plastic" alt="pages build and deploy">
+    </a>
+    <a href="https://github.com/KATO-Hiro/AtCoderClans/blob/master/LICENSE">
+        <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=plastic" alt="License: MIT" />
+    </a>
+    <a href="https://twitter.com/atcoderclans">
+        <img src="https://img.shields.io/twitter/follow/AtCoderClans?style=social" alt="Twitter Follow" />
+    </a>
+</p>
 
 【非公式】競技プログラミングサイト[AtCoder](https://atcoder.jp/)がもっと楽しくなる[リンク集](https://kato-hiro.github.io/AtCoderClans/)です。有志による非公式サービス・ツール・ライブラリ・記事などをまとめています。
 
@@ -16,7 +41,29 @@
 
 </div>
 
-## 注意事項
+## 特長
+
+* **網羅性が高い**: 初心者から上級者向けの情報まで幅広く掲載しています。
+* **最新**: 最新の情報が入手できます。また、[Twitter](https://twitter.com/atcoderclans)で直近1週間の内容をお届けしています。
+* **日本語の紹介文**: 日本語で紹介しています。
+* **眺めるだけでも楽しい**: サービス・ツールのサムネイルが豊富です。
+* **目的に応じて探せる**: 欲しい情報がすぐに探せるように、カテゴリ分けをしています。
+
+## 対象ユーザとメリット
+
+- [AtCoder](https://atcoder.jp/)ユーザ - 困ったことや不便なことが解決できるかもしれません。気になったサービス・ツールなどを使ってみましょう!
+
+- 開発者 - 公開したサービスやツールなどの利用者が増えるだけでなく、ネタ探しや共同開発につながることも期待しています。
+
+- [AtCoder](https://atcoder.jp/)運営チーム - 非公式サービス・ツールの全体像を踏まえ、公式として対応の有無を判断する材料の一つになると思います。また、企業向けの参考資料にもなるかもしれません。
+
+- 企業の採用担当者 - [AtCoder](https://atcoder.jp/)ユーザの実務能力・ポテンシャルの評価材料の一つになると思います。ひいては人材発掘の効率化にも、つながるかもしれません。
+
+## 各ページの説明
+
+- [クイックスタート](https://kato-hiro.github.io/AtCoderClans/quick_start/)をご覧ください。
+
+### 注意事項
 
 - [AtCoder](https://atcoder.jp/)公式（以降、公式と表記）の仕様変更や諸事情により、公開されているサービス・ツールなどが予告なく利用できなくなる場合があります。ご了承ください。
 
@@ -24,122 +71,19 @@
 
 - ご利用は自己責任でお願いします。
 
-## 目次
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-- [モチベーション](#%E3%83%A2%E3%83%81%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
-- [メリット](#%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88)
-- [各ページの説明](#%E5%90%84%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E8%AA%AC%E6%98%8E)
-- [最新情報のお知らせ](#%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B)
-- [ご要望、ご報告、お気付きの点などについて](#%E3%81%94%E8%A6%81%E6%9C%9B%E3%81%94%E5%A0%B1%E5%91%8A%E3%81%8A%E6%B0%97%E4%BB%98%E3%81%8D%E3%81%AE%E7%82%B9%E3%81%AA%E3%81%A9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
-- [関連プロジェクト](#%E9%96%A2%E9%80%A3%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88)
-- [リンク](#%E3%83%AA%E3%83%B3%E3%82%AF)
-- [レポジトリ作者](#%E3%83%AC%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E4%BD%9C%E8%80%85)
-- [ライセンス](#%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## モチベーション
-
-[作成経緯](https://github.com/KATO-Hiro/AtCoderHub/blob/master/MOTIVATION.md)をまとめました。ご参照ください。
-
-## メリット
-
-- [AtCoder](https://atcoder.jp/)ユーザ - 困ったことや不便なことが、公開されているサービスやツールなどで解決できるかもしれません。気になったサービス・ツールを使ってみましょう!
-
-- サービス・ツールなどの開発者(開発希望者) - 公開したサービスやツールを[AtCoder](https://atcoder.jp/)ユーザに知ってもらったり、使ってもらったりする機会が増えると思います。開発のネタ探しや共同開発のきっかけ作り・経験を積む場所になることも期待しています。
-
-- [AtCoder](https://atcoder.jp/)運営チーム - 非公式サービス・ツールの全体像が把握しやすくなります。公式として対応する項目かどうかを判断する材料の一つになると思います。また、企業に情報開示するときに、ユーザのソフトウェア開発能力を示す資料の一つになるかもしれません。
-
-- 企業の採用担当者 - [AtCoder](https://atcoder.jp/)ユーザの実務能力および、そのポテンシャルを評価する材料の一つになると思います。ひいては人材発掘の効率化にも、つながるかもしれません。
-
-## 各ページの説明
-
-[Home](https://kato-hiro.github.io/AtCoderClans/) - 本ページです。リンク集の作成経緯、利用者のメリット、注意事項などをまとめています。
-
-[For Beginners](https://kato-hiro.github.io/AtCoderClans/for_beginners) - [AtCoder](https://atcoder.jp/)に興味・関心がある方、アカウントを登録したものの何をすればよいか困っている方のために、おすすめのサービス・ツール・記事などを紹介するページです。
-
-[Recommendation](https://kato-hiro.github.io/AtCoderClans/recommendation) - [For Beginners](https://kato-hiro.github.io/AtCoderClans/for_beginners)を読み終えた方に向けて、快適なコンテスト生活を送るためのサービス・ツールを厳選して掲載しています。
-
-[Web apps and sites](https://kato-hiro.github.io/AtCoderClans/web_app) - Webアプリ、WebサイトおよびBotなどを紹介しています。
-
-[Scripts](https://kato-hiro.github.io/AtCoderClans/scripts) - [AtCoder](https://atcoder.jp/)のWebページにある機能を拡張することができるスクリプト(ユーザスクリプトやChrome拡張機能)を掲載しています。
-
-[Command line tools](https://kato-hiro.github.io/AtCoderClans/cli) - キーボードの操作で特定の処理を簡単に行うことができるツールのリストです。
-
-[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries) - 主要言語で実装されたアルゴリズムのライブラリ・スニペットを紹介しています。
-
-[Articles and Books](https://kato-hiro.github.io/AtCoderClans/media) - 環境構築、アルゴリズムや過去問を解説した記事、書籍などを掲載しています。
-
-[Blogs](https://kato-hiro.github.io/AtCoderClans/blogs) - アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています。
-
-[Videos](https://kato-hiro.github.io/AtCoderClans/videos) - 公式や有志による競技プログラミング関連の動画・チャンネルリストです。
-
-[Milestones](https://kato-hiro.github.io/AtCoderClans/milestones) - コンテストの参加者が所定のレーティングに達した喜びをつづった記事を共有・祝福するためのページです。
-
-[Related Contest Sites](https://kato-hiro.github.io/AtCoderClans/related_contest_sites) - 世界各地で開催されている競技プログラミングのコンテストサイトに関連するサービス・ツールなどをまとめています。
-
-[Archived](https://kato-hiro.github.io/AtCoderClans/archived) - 諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するためのページです。
-
-[Change Log](https://kato-hiro.github.io/AtCoderClans/CHANGELOG) - サービス・ツールなどの更新情報をまとめています。
-
-[Contact](https://kato-hiro.github.io/AtCoderClans/contact) - 本サイト運営者の連絡先です。
-
 ## 最新情報のお知らせ
 
 毎週水曜日の18:30〜19:30に、[Twitter](https://twitter.com/atcoderclans)でお届けする予定です。
 
 ## ご要望、ご報告、お気付きの点などについて
 
-新しいサービス・ツールなどを公開した場合や見つけた場合の情報提供、カテゴリや説明の加筆・修正案を歓迎しています。この他にも、誤字脱字やリンク切れなどのご報告も大変ありがたいと考えています。
+- [連絡先](https://kato-hiro.github.io/AtCoderClans/contact/)
 
-また、非公式サービス・ツールなどの最新状況を反映するため、開発・提供終了したと思われるサービス・ツールなどを見かけましたら、ご一報いただけると幸いです。
+- [本プロジェクトへの参加方法](https://kato-hiro.github.io/AtCoderClans/contributing/)
 
-本レポジトリは、競技プログラミングに関心のあるユーザが[Git](https://git-scm.com/)や[GitHub](https://github.com)を利用した共同開発の経験を積むための場所にもしたいと考えています。お気軽に挑戦してみてはいかがでしょうか? (可能な限りサポートいたします)
+## 関連プロジェクト・参考資料
 
-[ガイドライン](https://github.com/KATO-Hiro/AtCoderHub/blob/master/CONTRIBUTING.md)を試作しました。ご参照ください。
-
-## 関連プロジェクト
-
-[Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
-
-[AtCoder Wiki](https://wikiwiki.jp/procon/Atcoder)
-
-[projecthikky @ ウィキ AtCoder](https://w.atwiki.jp/projecthikky/pages/124.html#id_bedf61e4)
-
-[AtCoderでの競技プログラミングがもっと楽しくなるサイトまとめ](https://noimin.hatenablog.com/entry/2017/12/16/230900)
-
-## リンク
-
-[AtCoder](https://atcoder.jp/)
-
-[GitHub Pages](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site)
-
-[How to publish markdown as homepage using GitHub Pages](https://qiita.com/MahoTakara/items/3800e9dc83b530d0a050)
-
-[How to Create a Multi-page Website using Github Pages](https://phuston.github.io/patrickandfrantonarethebestninjas/howto)
-
-[TOC Generator](https://github.com/technote-space/toc-generator)
-
-[GitHub Action - Markdown link check](https://github.com/gaurav-nelson/github-action-markdown-link-check)
-
-[markdown-link-check](https://github.com/tcort/markdown-link-check)
-
-[How to add Emoji Prefix to commit message](https://qiita.com/Jung0/items/0a9a7a97a2c17f92d3c5)
-
-[How to Add Twitter Card to a Web site created with Jekyll](https://blog.kakeragames.com/2015/12/15/twitter-card-with-jekyll.html)
-
-[Summary Card for Twitter](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/summary)
-
-[Card validator](https://cards-dev.twitter.com/validator)
-
-[include tag for Jekyll](https://jekyllrb.com/docs/includes/)
-
-[Favicon Generator - Text to Favicon - favicon.io](https://favicon.io/favicon-generator/)
-
-Readme Driven Development; RDD<sup>[archive.org](http://web.archive.org/web/20220313000343/https://qiita.com/b4b4r07/items/c80d53db9a0fd59086ec)</sup>
+- [一覧](https://kato-hiro.github.io/AtCoderClans/contributing/references/)
 
 ## レポジトリ作者
 
