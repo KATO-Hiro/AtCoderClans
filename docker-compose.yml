@@ -1,0 +1,14 @@
+# See:
+# https://docs.docker.com/compose/gettingstarted/
+version: '3'
+services:
+  web:
+    build: .
+    command: mkdocs serve
+    ports:
+      - 8000:8000
+    tty: true
+    volumes:
+      - .:/usr/src/app:cached
+    environment:
+      PYTHONPATH: .

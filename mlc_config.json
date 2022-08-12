@@ -11,6 +11,15 @@
     },
     {
       "pattern": "^https://beet-aizu.hatenablog.com/"
+    },
+    {
+      "pattern": "^./"
+    },
+    {
+      "pattern": "^../"
+    },
+    {
+      "pattern": "^https://kato-hiro.github.io/AtCoderClans/"
     }
   ],
   "httpHeaders": [
