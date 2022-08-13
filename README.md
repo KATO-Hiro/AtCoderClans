@@ -1,19 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-- [AtCoder Clans](#atcoder-clans)
-  - [特長](#%E7%89%B9%E9%95%B7)
-  - [対象ユーザとメリット](#%E5%AF%BE%E8%B1%A1%E3%83%A6%E3%83%BC%E3%82%B6%E3%81%A8%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88)
-  - [各ページの説明](#%E5%90%84%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E8%AA%AC%E6%98%8E)
-    - [注意事項](#%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85)
-  - [最新情報のお知らせ](#%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B)
-  - [ご要望、ご報告、お気付きの点などについて](#%E3%81%94%E8%A6%81%E6%9C%9B%E3%81%94%E5%A0%B1%E5%91%8A%E3%81%8A%E6%B0%97%E4%BB%98%E3%81%8D%E3%81%AE%E7%82%B9%E3%81%AA%E3%81%A9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
-  - [関連プロジェクト・参考資料](#%E9%96%A2%E9%80%A3%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%83%BB%E5%8F%82%E8%80%83%E8%B3%87%E6%96%99)
-  - [レポジトリ作者](#%E3%83%AC%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E4%BD%9C%E8%80%85)
-  - [ライセンス](#%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # AtCoder Clans
 
 <p align="center">
