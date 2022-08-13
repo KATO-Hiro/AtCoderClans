@@ -69,7 +69,11 @@ title: ガイドライン
 
 以下のリンクをクリックして、ブラウザで開いてください。
 
+<!-- markdown-link-check-disable -->
+
 <http://127.0.0.1:8000/>
+
+<!-- markdown-link-check-enable -->
 
 #### 内容の加筆・修正
 
