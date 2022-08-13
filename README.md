@@ -37,7 +37,7 @@
 
 <div align="center">
 
-  ![demo](images/demo.gif)
+  ![demo](https://user-images.githubusercontent.com/13990347/184471482-284ee101-ec24-44da-bbaf-2d02ee8e92f4.gif)
 
 </div>
 
