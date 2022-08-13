@@ -7,7 +7,7 @@ title: Change Log
 ### 2022-08-13
 
 - [#4405](https://github.com/KATO-Hiro/AtCoderClans/pull/4405) - (破壊的な変更) リンク切れと思われる関連コンテストサイトを一時的に「[Archives](../../archived)」ページに移動。
-- [#4402](https://github.com/KATO-Hiro/AtCoderClans/pull/4402) - ユーザのプライバシーに配慮するため、掲載しているイメージ画像を差し替え。
+- [#4402](https://github.com/KATO-Hiro/AtCoderClans/pull/4402) - ユーザのプライバシーに配慮するため、掲載しているサムネイルの一部を差し替え。
 
 ### 2022-08-12
 
