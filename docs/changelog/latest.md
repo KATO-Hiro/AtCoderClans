@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-08-16
+
+- [#4427](https://github.com/KATO-Hiro/AtCoderClans/pull/4427) - 「[Articles, Blogs, Books and Videos](../../blogs)」ページのアルゴリズム部門で、ユーザの昇段に伴い掲載するレーティング帯を変更。
+
 ### 2022-08-15
 
 - [#4417](https://github.com/KATO-Hiro/AtCoderClans/pull/4417) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、記事「[AHC(AtCoder Heuristic Contest)で、手元で100テストケースを自動で試す(Linux)](https://qiita.com/gengar-094/items/e4918c3cab5c1d096751)」を追加。
