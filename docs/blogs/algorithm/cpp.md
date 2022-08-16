@@ -97,6 +97,7 @@ title: C&#43;&#43;
 |satanic0258|[はてなブログ](https://satanic0258.hatenablog.com/)|2018年9月以降、新規の記事を確認できず。|
 |Shun_PI|[Qiita](https://qiita.com/Shun_PI)||
 |smiken|[はてなブログ](https://smiken.hatenablog.com/)|2019年10月以降、新規の記事を確認できず。|
+|suisen|[はてなブログ](https://suisen-kyopro.hatenablog.com)||
 |tokoharu|[はてなブログ](https://tokoharuland.hateblo.jp/)|2020年1月以降、新規の記事を確認できず。|
 |Trineutron|[Qiita](https://qiita.com/trineutron)||
 |wafrelka|[はてなブログ](https://wafrelka.hatenablog.jp/)|2018年10月以降、新規の記事を確認できず。|
@@ -164,7 +165,6 @@ title: C&#43;&#43;
 |set0gut1|[Qiita](https://qiita.com/set0gut1)|2019年8月以降、新規の記事を確認できず。|
 |souta_1326|[Qiita](https://qiita.com/souta_1326)||
 |Suibaka|[はてなブログ](https://suikaba.hatenablog.com/)||
-|suisen|[はてなブログ](https://suisen-kyopro.hatenablog.com)||
 |takumi152|[はてなブログ](https://takumi152.hatenablog.jp/)||
 |theory_and_me|[はてなブログ](https://theory-and-me.hatenablog.com/)||
 |treeone|[はてなブログ](https://treeone.hatenablog.com/)|2018年11月以降、新規の記事を確認できず。|
