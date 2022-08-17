@@ -8,11 +8,12 @@ title: C&#35;
 
 ## レーティング2400〜2799(橙色)
 
-- 調査中。
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|EmK|[はてなブログ](https://emkcsharp.hatenablog.com/)||
 
 ## レーティング2000〜2399(黄色)
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
-|EmK|[はてなブログ](https://emkcsharp.hatenablog.com/)||
 |threecourse|[はてなブログ](https://threecourse.hatenablog.com/)||

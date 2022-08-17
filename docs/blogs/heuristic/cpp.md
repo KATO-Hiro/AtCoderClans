@@ -8,6 +8,7 @@ title: C&#43;&#43;
 |:--:|:--:|:--|
 |eivour|[Qiita](https://qiita.com/contramundum)||
 |square1001|[Qiita](https://qiita.com/square1001)||
+|WA_TLE|[はてなブログ](https://watle.hatenablog.com/)|2019年1月以降、新規の記事を確認できず。|
 
 ## レーティング2400〜2799(橙色)
 
@@ -19,6 +20,7 @@ title: C&#43;&#43;
 |hitonanode|[はてなブログ](https://rsm9.hatenablog.com/)||
 |iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
 |Jirotech|[はてなブログ](https://shuu0914.hatenablog.com/)||
+|nagiss|[はてなブログ](https://nagiss.hateblo.jp/)||
 |noimi|[はてなブログ](https://noimi.hatenablog.com/)||
 |Nyaan|[はてなブログ](https://nyaan.hatenablog.com/)||
 |phocom|[Qiita](https://qiita.com/phocom)||
@@ -26,7 +28,6 @@ title: C&#43;&#43;
 |Shun_PI|[Qiita](https://qiita.com/Shun_PI)||
 |siman|[はてなブログ](https://simanman.hatenablog.com/)||
 |takumi152|[はてなブログ](https://takumi152.hatenablog.jp/)||
-|WA_TLE|[はてなブログ](https://watle.hatenablog.com/)|2019年1月以降、新規の記事を確認できず。|
 
 ## レーティング2000〜2399(黄色)
 
@@ -42,7 +43,6 @@ title: C&#43;&#43;
 |kozima|[はてなブログ](https://lkozima.hatenablog.com/)||
 |kusano|[はてなブログ](https://kusano-k.hatenablog.com/)、[Qiita](https://qiita.com/kusano_k)||
 |mtsd|[はてなブログ](https://mtsd-programming.hatenablog.com/)||
-|nagiss|[はてなブログ](https://nagiss.hateblo.jp/)||
 |olphe|[はてなブログ](https://olphe.hatenablog.com/)||
 |Omotchi|[はてなブログ](https://omotchi.hateblo.jp/)||
 |phyllo|[GitHub Pages](https://jetbead.github.io/AtCoderHeuristicContestMemo/)||
@@ -53,4 +53,6 @@ title: C&#43;&#43;
 |Shibuyap|[Qiita](https://qiita.com/Shibuyap)||
 |shindannin|[はてなブログ](https://shindannin.hatenadiary.com/)||
 |theory_and_me|[はてなブログ](https://theory-and-me.hatenablog.com/)||
+|tsukasa_diary|[Qiita](https://qiita.com/tsukasa__diary)||
 |ValGrowth|[はてなブログ](https://valgrowth.hatenablog.com/archive)||
+|yunix|[はてなブログ](https://yunix-kyopro.hatenablog.com/)||

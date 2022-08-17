@@ -19,3 +19,4 @@ title: Rust
 |cunitac|[はてなブログ](https://cunitac.hatenablog.com/)||
 |ichyo|[はてなブログ](https://blog.ichyo.jp/)||
 |primenumber|[はてなブログ](https://primenumber.hatenadiary.jp/)||
+|xyz600|[はてなブログ](https://xyz600.hatenablog.com/)||
