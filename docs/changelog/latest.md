@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-08-17
+
+- [#4435](https://github.com/KATO-Hiro/AtCoderClans/pull/4435) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、記事「[実録！RECRUIT 日本橋ハーフマラソン 2022夏（AtCoder Heuristic Contest 013）参加記](https://kaede2020.hatenablog.com/entry/2022/08/16/210130)」を追加。
+- [#4434](https://github.com/KATO-Hiro/AtCoderClans/pull/4434) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページに、Webサイト「[tc-wleite/tc-wleite.github.io](https://github.com/tc-wleite/tc-wleite.github.io)」を追加。
+- [#4433](https://github.com/KATO-Hiro/AtCoderClans/pull/4433) - 「[Articles, Blogs, Books and Videos](../../blogs)」ページのヒューリスティック部門に、最高レーティングが2000以上に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+
 ### 2022-08-16
 
 - [#4427](https://github.com/KATO-Hiro/AtCoderClans/pull/4427) - 「[Articles, Blogs, Books and Videos](../../blogs)」ページのアルゴリズム部門で、ユーザの昇段に伴い掲載するレーティング帯を変更。
