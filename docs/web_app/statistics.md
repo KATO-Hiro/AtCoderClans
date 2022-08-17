@@ -43,6 +43,17 @@ title: コンテストに関する統計情報
       <img loading = "lazy" src="../../images/web_app/ac_heatmap.png" alt="ac heatmap">
     </div>
 
+### 成績および制約条件別の得点・順位
+
+- [tc-wleite/tc-wleite.github.io](https://github.com/tc-wleite/tc-wleite.github.io) ![GitHub Repo stars](https://img.shields.io/github/stars/tc-wleite/tc-wleite.github.io?style=plastic) - [AtCoder Heuristic Contest (AHC)](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=)の最終成績や制約条件別の得点・順位を見ることができる。[Topcoder](https://www.topcoder.com/)のMarathon Matches(MM)についても、同様の集計がされている。
+    - [AHC 013](https://tc-wleite.github.io/ahc013.html)
+    - [AHC 011](https://tc-wleite.github.io/ahc011.html)
+    - [AHC 008](https://tc-wleite.github.io/ahc008.html)
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/tc_wleite_github_io.png" alt="tc wleite github io">
+    </div>
+
 ### 成績の平均値・最高値
 
 - [AtCoder平均](http://rating-history.herokuapp.com/average.html) - 直近nか月における各種コンテストの平均順位とパフォーマンスを表示する。
