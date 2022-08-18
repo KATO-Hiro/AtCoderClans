@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-08-18
+
+- [#4441](https://github.com/KATO-Hiro/AtCoderClans/pull/4441) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [みちらから](https://www.youtube.com/channel/UCqBF4sFbNDMLwIUYbS1wkhg/featured)
+
 ### 2022-08-17
 
 - [#4435](https://github.com/KATO-Hiro/AtCoderClans/pull/4435) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、記事「[実録！RECRUIT 日本橋ハーフマラソン 2022夏（AtCoder Heuristic Contest 013）参加記](https://kaede2020.hatenablog.com/entry/2022/08/16/210130)」を追加。
