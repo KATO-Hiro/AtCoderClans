@@ -50,6 +50,7 @@ title: チャンネル
 - [うさぎ](https://www.youtube.com/channel/UCAWN0xlHcDyMTaCIfn1GNXg/videos) - [kmyk](https://github.com/kmyk)さんのチャンネル。
 - [えびまラボ](https://www.youtube.com/channel/UCw4Ty20l1DccGCQ2HWiEcgw) - コンテストのwriterとして長年活躍されている[えびま](https://twitter.com/evima0)さんのチャンネル。コンテストやアルゴリズムなどに関する「ゆっくり解説」が公開されている。
 - [佐野太郎](https://www.youtube.com/channel/UCE2ID_KiY2kKne7d1zFT7JQ/featured) - [sano192](https://atcoder.jp/users/sano192)さんのチャンネル。頻出のアルゴリズムについて、コンテストで出題された問題を題材に解説している。
+- [みちらから](https://www.youtube.com/channel/UCqBF4sFbNDMLwIUYbS1wkhg/featured) - [michirakara](https://atcoder.jp/users/michirakara)さんのチャンネル。コンテストで出題された問題の解説とPythonでの実装方法が紹介されている。
 
 ## 生放送・動画配信に関するTips
 
