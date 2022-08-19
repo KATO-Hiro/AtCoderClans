@@ -17,6 +17,7 @@ title: C&#43;&#43;
 |asi1024|[はてなブログ](https://asi1024.hatenablog.com/)|2017年3月以降、新規の記事を確認できず。|
 |assy|[はてなブログ](https://assy.hatenablog.jp/)||
 |ats5515|[はてなブログ](https://ats5515.hatenablog.com/)||
+|bowwowforeach|[はてなブログ](https://bowwowforeach.hatenablog.com/)||
 |hitonanode|[はてなブログ](https://rsm9.hatenablog.com/)||
 |iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
 |Jirotech|[はてなブログ](https://shuu0914.hatenablog.com/)||
@@ -55,4 +56,5 @@ title: C&#43;&#43;
 |theory_and_me|[はてなブログ](https://theory-and-me.hatenablog.com/)||
 |tsukasa_diary|[Qiita](https://qiita.com/tsukasa__diary)||
 |ValGrowth|[はてなブログ](https://valgrowth.hatenablog.com/archive)||
+|wanui|[Zenn](https://zenn.dev/gmeriaog)||
 |yunix|[はてなブログ](https://yunix-kyopro.hatenablog.com/)||
