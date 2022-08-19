@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-08-19
+
+- [#4445](https://github.com/KATO-Hiro/AtCoderClans/pull/4445) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、記事「[AHCガチ素人のアルゴ茶コーダー VS AHC013 〜初歩的アルゴ知識だけで戦ってみました〜](https://fujikawa.hatenablog.com/entry/2022/08/18/051533)」を追加。
+- [#4444](https://github.com/KATO-Hiro/AtCoderClans/pull/4444) - 「[Articles, Blogs, Books and Videos](../../blogs)」ページのヒューリスティック部門に、最高レーティングが2000以上に到達したユーザのブログを追加。
+
 ### 2022-08-18
 
 - [#4441](https://github.com/KATO-Hiro/AtCoderClans/pull/4441) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
