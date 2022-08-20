@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-08-20
+
+- [#4451](https://github.com/KATO-Hiro/AtCoderClans/pull/4451) - 「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
+    - [windows-server-2003/quick_floyd_warshall](https://github.com/windows-server-2003/quick_floyd_warshall)
+
 ### 2022-08-19
 
 - [#4445](https://github.com/KATO-Hiro/AtCoderClans/pull/4445) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、記事「[AHCガチ素人のアルゴ茶コーダー VS AHC013 〜初歩的アルゴ知識だけで戦ってみました〜](https://fujikawa.hatenablog.com/entry/2022/08/18/051533)」を追加。
