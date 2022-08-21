@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-08-21
+
+- [#4458](https://github.com/KATO-Hiro/AtCoderClans/pull/4458) - 「[Milestones](../../milestones/orange)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2400から2799まで(橙色)に[suisen](https://atcoder.jp/users/suisen)さんの[記事](https://suisen-kyopro.hatenablog.com/entry/2022/08/20/194813)を追加。
+
 ### 2022-08-20
 
 - [#4451](https://github.com/KATO-Hiro/AtCoderClans/pull/4451) - 「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
