@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-08-22
+
+- [#4464](https://github.com/KATO-Hiro/AtCoderClans/pull/4464) - 「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
+    - [suisen-cp/cp-library-cpp](https://github.com/suisen-cp/cp-library-cpp)
+
 ### 2022-08-21
 
 - [#4458](https://github.com/KATO-Hiro/AtCoderClans/pull/4458) - 「[Milestones](../../milestones/orange)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
