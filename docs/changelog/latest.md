@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-08-24
+
+- [#4477](https://github.com/KATO-Hiro/AtCoderClans/pull/4477) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜2399に到達したユーザのブログを追加。
+- [#4476](https://github.com/KATO-Hiro/AtCoderClans/pull/4476) - 「[Scripts](../../scripts)」の「[Webページに色付けする](../../user_scripts/colors)」ページに、ユーザスクリプト「[AtCoder_Kaomoji](https://greasyfork.org/ja/scripts/449980-atcoder-kaomoji)」を追加。
+
 ### 2022-08-23
 
 - [#4473](https://github.com/KATO-Hiro/AtCoderClans/pull/4473) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
