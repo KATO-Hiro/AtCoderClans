@@ -6,6 +6,12 @@ title: Change Log
 
 ### 2022-08-24
 
+- [#4479](https://github.com/KATO-Hiro/AtCoderClans/pull/4479), [#4480](https://github.com/KATO-Hiro/AtCoderClans/pull/4480), [#4481](https://github.com/KATO-Hiro/AtCoderClans/pull/4481), [#4483](https://github.com/KATO-Hiro/AtCoderClans/pull/4483), [#4484](https://github.com/KATO-Hiro/AtCoderClans/pull/4484) - (破壊的な変更) 「[Change Log](../latest)」ページの2022年3〜7月分を月別のアーカイブに移動。
+    - [July, 2022](../2022_07)
+    - [June, 2022](../2022_06)
+    - [May, 2022](../2022_05)
+    - [April, 2022](../2022_04)
+    - [March, 2022](../2022_03)
 - [#4477](https://github.com/KATO-Hiro/AtCoderClans/pull/4477) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜2399に到達したユーザのブログを追加。
 - [#4476](https://github.com/KATO-Hiro/AtCoderClans/pull/4476) - 「[Scripts](../../scripts)」の「[Webページに色付けする](../../user_scripts/colors)」ページに、ユーザスクリプト「[AtCoder_Kaomoji](https://greasyfork.org/ja/scripts/449980-atcoder-kaomoji)」を追加。
 
