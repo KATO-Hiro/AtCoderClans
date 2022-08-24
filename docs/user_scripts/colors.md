@@ -126,7 +126,7 @@ Webページの背景色の変更や文字・提出コード・問題の正誤�
       <img loading = "lazy" src="../../images/userscript/atcoder_tasks_page_colorize_during_contests.png" alt="atcoder tasks page colorize during contests">
     </div>
 
-## コンテストの成績に応じて色付け
+## コンテストの成績に応じて色付け・アイコンの追加
 
 ### 複数のページ
 
@@ -151,6 +151,12 @@ Webページの背景色の変更や文字・提出コード・問題の正誤�
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_colouring_difference.png" alt="atcoder colouring difference">
+    </div>
+
+- [AtCoder_Kaomoji](https://greasyfork.org/ja/scripts/449980-atcoder-kaomoji) - ユーザの「コンテスト成績表」ページの"差分"に、レーティングの増減に応じた顔文字を追加する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_kaomoji.png" alt="atcoder kaomoji">
     </div>
 
 ### 提出結果
