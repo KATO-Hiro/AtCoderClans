@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-08-25
+
+- [#4489](https://github.com/KATO-Hiro/AtCoderClans/pull/4489) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[shu8Cream](https://atcoder.jp/users/shu8Cream)さんの[記事](https://shu8cream.hatenablog.com/entry/2022/08/21/204030)を追加。
+
 ### 2022-08-24
 
 - [#4479](https://github.com/KATO-Hiro/AtCoderClans/pull/4479), [#4480](https://github.com/KATO-Hiro/AtCoderClans/pull/4480), [#4481](https://github.com/KATO-Hiro/AtCoderClans/pull/4481), [#4483](https://github.com/KATO-Hiro/AtCoderClans/pull/4483), [#4484](https://github.com/KATO-Hiro/AtCoderClans/pull/4484) - (破壊的な変更) 「[Change Log](../latest)」ページの2022年3〜7月分を月別のアーカイブに移動。
