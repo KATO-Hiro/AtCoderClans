@@ -11,6 +11,7 @@ title: レーティング1200〜1599(水色)
 - [116. AtCoder水色になりました - イバコの生存記録](https://ibako-piyo.hatenablog.com/entry/2022/05/29/122457) - [okabi](https://atcoder.jp/users/okabi)さんが、2022年5月28日に達成。
 - [AtCoder緑から水色までの記録](https://zenn.dev/hima/articles/e5b54557ae3dfd) - [hima398](https://atcoder.jp/users/hima398)さんが、2022年7月9日に達成。
 - [【競プロ】新人SEがAtCoderを始めて水色になった【色変記事】](https://qiita.com/BinomialSheep/items/bdced19c2dc4e6b481ec) - [BinomialSheep](https://atcoder.jp/users/BinomialSheep)さんが、2022年7月23日に達成。
+- [AtCoderで水色になりました！ - shuのブログ](https://shu8cream.hatenablog.com/entry/2022/08/21/204030) - [shu8Cream](https://atcoder.jp/users/shu8Cream)さんが、2022年8月6日に達成。
 
 ## 2021年
 
