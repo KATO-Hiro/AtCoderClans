@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-08-26
+
+- [#4493](https://github.com/KATO-Hiro/AtCoderClans/pull/4493) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[viral](https://atcoder.jp/users/viral)さんの[記事](https://qiita.com/viral_8/items/e2074372015de7d6f87a)を追加。
+
 ### 2022-08-25
 
 - [#4489](https://github.com/KATO-Hiro/AtCoderClans/pull/4489) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
