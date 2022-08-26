@@ -12,6 +12,7 @@ title: レーティング800〜1199(緑色)
 - [Atcoderでおよそ2年, 約70回のコンテスト参加で入緑しました](https://qiita.com/GEX777/items/079636356fec05e1ec7c) - [Gex777](https://atcoder.jp/users/Gex777)さんが、2022年7月2日に達成。
 - [AtCoderで入緑したからnote書きます](https://note.com/very_yami__/n/n99b68e693790) - [etty](https://atcoder.jp/users/etty)さんが、2022年7月17日に達成。
 - [入緑！しました！](https://note.com/syntax_error_/n/n74cca048ba60) - [King314](https://atcoder.jp/users/King314)さんが、2022年7月17日に達成。
+- [AtCoderで緑色になったから書いた記事](https://qiita.com/viral_8/items/e2074372015de7d6f87a) - [viral](https://atcoder.jp/users/viral)さんが、2022年8月21日に達成。
 
 ## 2021年
 
