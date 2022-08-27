@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-08-27
+
+- [#4504](https://github.com/KATO-Hiro/AtCoderClans/pull/4504), [#4505](https://github.com/KATO-Hiro/AtCoderClans/pull/4505) - [GitHub Sponsors](https://github.com/sponsors/KATO-Hiro)から寄付ができるようになりました。サービスを継続するためにも、ご検討いただけると幸いです。
+- [#4498](https://github.com/KATO-Hiro/AtCoderClans/pull/4498) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、記事「[トヨタも注目　競技プログラミング、IT人材発掘の場に](https://www.nikkei.com/article/DGXZQOUC233L90T20C22A8000000/)」を追加。
+
 ### 2022-08-26
 
 - [#4493](https://github.com/KATO-Hiro/AtCoderClans/pull/4493) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
