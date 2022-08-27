@@ -8,3 +8,19 @@ title: Related Contest Sites - はじめに
 
 - さまざまなコンテストに参加して、さらに実力を高めたい
 - 得意なジャンルのコンテストで勝負したい
+
+## 目的から探す
+
+- アルゴリズム系コンテスト
+    - [アルゴ式](./algo_method)
+    - [AOJ (Aizu Online Judge)](./aoj)
+    - [Codeforces](./codeforces)
+    - [情報オリンピック](./joi_ioi)
+    - [Topcoder](./topcoder)
+    - [yukicoder](./yukicoder)
+    - [不定期開催](./algorithm)
+- [数学系コンテスト](./math)
+- [パズル・クイズ系コンテスト](./puzzle_quiz)
+- [データベース系コンテスト](./db)
+- [Webサービス系コンテスト](./web_services)
+- [セキュリティ系コンテスト](./security)
