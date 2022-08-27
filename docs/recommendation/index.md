@@ -16,3 +16,10 @@ title: Recommendation - はじめに
 
 - [For Beginners](../for_beginners)ページを読んだ
 - おすすめのサービス・ツールを知りたい
+
+## 目的から探す
+
+- [問題を解く](./solve_problems)
+- [ソースコードの提出・確認を簡単に](./submit_codes)
+- [Webページをより見やすく](./improve_ui)
+- [コンテスト後の情報収集・発信](./collect_info)
