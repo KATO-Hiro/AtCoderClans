@@ -13,3 +13,23 @@ title: Web Apps and Sites - はじめに
 - コンテストに参加したい
 - コンテストの成績・統計情報が見たい
 - コンテストやユーザの統計情報をWeb APIから取得したい
+
+## 目的から探す
+
+### Webアプリ・Webサイト
+
+- [問題を解く](./solve_problems)
+- [問題を解くときの補助ツール](./support_tools)
+- [コンテストに参加する](./participate_in_contests)
+- [コンテストの成績を見る](./view_and_compare_scores)
+- [コンテストの成績に関連するサービス](./services_using_scores)
+- [コンテストに関する統計情報](./statistics)
+- [クイズ・ゲームなど](./quiz_and_game)
+
+### Bot
+
+- [問題を解く・コンテストの日程を確認する・各種記録の更新情報などを受け取る](../bot)
+
+### Web API
+
+- [コンテストやユーザに関する統計情報を取得する](../web_api/)
