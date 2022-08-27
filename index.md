@@ -12,6 +12,12 @@ filename: index
 <a href="https://github.com/KATO-Hiro/AtCoderHub/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-brightgreen.svg" alt="License: MIT" /></a>
 <a href="https://twitter.com/k_hiro1818"><img src="https://img.shields.io/twitter/follow/k_hiro1818?style=social" alt="Twitter Follow" /></a></p>
 
+<p align="center">
+  <a href="https://github.com/sponsors/KATO-Hiro">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>
+  </a>
+</p>
+
 【非公式】競技プログラミングサイト[AtCoder](https://atcoder.jp/)がもっと楽しくなるリンク集です。有志による非公式サービス・ツール・ライブラリ・記事などをまとめています。
 
 ## 注意事項
