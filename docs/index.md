@@ -16,6 +16,11 @@
         <img src="https://img.shields.io/twitter/follow/AtCoderClans?style=social" alt="Twitter Follow" />
     </a>
 </p>
+<p align="center">
+  <a href="https://github.com/sponsors/KATO-Hiro">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>
+  </a>
+</p>
 
 ---
 
