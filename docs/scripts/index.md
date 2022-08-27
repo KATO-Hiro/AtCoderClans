@@ -27,3 +27,26 @@ title: Scripts - はじめに
 - コンテストの成績・統計情報が見たい
 - Webページをより見やすくしたい
 - ライバルとなるユーザを探したい
+
+## 目的から探す
+
+### ユーザスクリプト
+
+- [問題を解く](../user_scripts/solve_problems)
+- [ソースコードの提出・確認を簡単に](../user_scripts/submit_codes)
+- [解説を読む・テストケースを見る](../user_scripts/read_editorials)
+- [コンテストに参加する](../user_scripts/participate_in_contests)
+- [コンテストの成績や関連する統計情報を見る](../user_scripts/view_scores)
+- [Webページに色付けする](../user_scripts/colors)
+- [ライバルを探す・競う](../user_scripts/rivals)
+- [ネタスクリプト](../user_scripts/jokes)
+- [開発者向けの情報](../user_scripts/for_developers)
+
+### Google Chromeの拡張機能
+
+- [問題を解く](../chrome_extensions/solve_problems)
+- [ソースコードの提出・確認を簡単に](../chrome_extensions/submit_codes)
+- [テストケースを見る・復習の効果をより高める](../chrome_extensions/review)
+- [コンテストに参加する](../chrome_extensions/participate_in_contests)
+- [コンテストの成績を見る](../chrome_extensions/view_scores)
+- [Webページをより見やすく](../chrome_extensions/improve_ui)
