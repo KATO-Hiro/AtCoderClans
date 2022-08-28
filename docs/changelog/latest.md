@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-08-28
+
+- [#4508](https://github.com/KATO-Hiro/AtCoderClans/pull/4508) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [Yoshitaka Tomiyama](https://www.youtube.com/channel/UC10LLTlikPURslw2Wqj8vJA/featured)
+
 ### 2022-08-27
 
 - [#4504](https://github.com/KATO-Hiro/AtCoderClans/pull/4504), [#4505](https://github.com/KATO-Hiro/AtCoderClans/pull/4505) - [GitHub Sponsors](https://github.com/sponsors/KATO-Hiro)から寄付ができるようになりました。サービスを継続するためにも、ご検討いただけると幸いです。
