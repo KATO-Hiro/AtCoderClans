@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-08-29
+
+- [#4512](https://github.com/KATO-Hiro/AtCoderClans/pull/4512) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[bk_cocoa](https://atcoder.jp/users/bk_cocoa)さんの[記事](https://jp.magicode.io/bkcocoa/articles/1751562f33f241de90c988cca589c6a3)を追加。
+
 ### 2022-08-28
 
 - [#4508](https://github.com/KATO-Hiro/AtCoderClans/pull/4508) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
