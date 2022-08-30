@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-08-30
+
+- [#4519](https://github.com/KATO-Hiro/AtCoderClans/pull/4519) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[Dr_pilot](https://atcoder.jp/users/Dr_pilot)さんの[記事](https://qiita.com/DrDrpilot/items/281b0f5e38d425c44318)を追加。
+
 ### 2022-08-29
 
 - [#4512](https://github.com/KATO-Hiro/AtCoderClans/pull/4512) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
