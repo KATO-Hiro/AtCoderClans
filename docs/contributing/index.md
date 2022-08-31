@@ -13,7 +13,7 @@ title: Contributing - はじめに
 - [Twitterでシェアする](https://twitter.com/intent/tweet?hashtags=AtCoder%2CAtCoderClans&url=https%3A%2F%2Fkato-hiro.github.io%2FAtCoderClans%2F&text=【非公式】AtCoderがもっと楽しくなるリンク集です。有志による非公式サービス・ツール・ライブラリ・記事などをまとめています。)
 - [GitHubで:star:を付ける](https://github.com/KATO-Hiro/AtCoderClans/stargazers)
 - [本サイトへの掲載を希望する / 問題点の報告など](https://github.com/KATO-Hiro/AtCoderClans/issues)
-- :construction: GitHub スポンサーで寄付する (準備中)
+- [GitHub スポンサーで寄付する](https://github.com/sponsors/KATO-Hiro)
 
 ## 対象読者
 

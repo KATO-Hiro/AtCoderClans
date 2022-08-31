@@ -15,6 +15,12 @@
     </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/sponsors/KATO-Hiro">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>
+  </a>
+</p>
+
 【非公式】競技プログラミングサイト[AtCoder](https://atcoder.jp/)がもっと楽しくなる[リンク集](https://kato-hiro.github.io/AtCoderClans/)です。有志による非公式サービス・ツール・ライブラリ・記事などをまとめています。
 
 ***DEMO***

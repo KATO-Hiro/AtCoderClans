@@ -4,6 +4,32 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-08-31
+
+- [#4524](https://github.com/KATO-Hiro/AtCoderClans/pull/4524) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、記事「[トヨタが「アルゴリズム」活用に本腰、競プロ会社社長を部長待遇で招き現場改革](https://xtech.nikkei.com/atcl/nxt/column/18/00001/07109/?n_cid=nbpnxt_twed_it)」を追加。
+- [#4523](https://github.com/KATO-Hiro/AtCoderClans/pull/4523) - 「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
+    - [maspypy/library](https://github.com/maspypy/library)
+
+### 2022-08-30
+
+- [#4519](https://github.com/KATO-Hiro/AtCoderClans/pull/4519) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[Dr_pilot](https://atcoder.jp/users/Dr_pilot)さんの[記事](https://qiita.com/DrDrpilot/items/281b0f5e38d425c44318)を追加。
+
+### 2022-08-29
+
+- [#4512](https://github.com/KATO-Hiro/AtCoderClans/pull/4512) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[bk_cocoa](https://atcoder.jp/users/bk_cocoa)さんの[記事](https://jp.magicode.io/bkcocoa/articles/1751562f33f241de90c988cca589c6a3)を追加。
+
+### 2022-08-28
+
+- [#4508](https://github.com/KATO-Hiro/AtCoderClans/pull/4508) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [Yoshitaka Tomiyama](https://www.youtube.com/channel/UC10LLTlikPURslw2Wqj8vJA/featured)
+
+### 2022-08-27
+
+- [#4504](https://github.com/KATO-Hiro/AtCoderClans/pull/4504), [#4505](https://github.com/KATO-Hiro/AtCoderClans/pull/4505) - [GitHub Sponsors](https://github.com/sponsors/KATO-Hiro)から寄付ができるようになりました。サービスを継続するためにも、ご検討いただけると幸いです。
+- [#4498](https://github.com/KATO-Hiro/AtCoderClans/pull/4498) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、記事「[トヨタも注目　競技プログラミング、IT人材発掘の場に](https://www.nikkei.com/article/DGXZQOUC233L90T20C22A8000000/)」を追加。
+
 ### 2022-08-26
 
 - [#4493](https://github.com/KATO-Hiro/AtCoderClans/pull/4493) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
