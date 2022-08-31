@@ -19,3 +19,12 @@ title: Command Line Tools - はじめに
 - 提出したコードのバックアップを取りたい
 - 競技プログラミング専用の言語 / 問題を自動的に解くツールを利用したい
 - コンテストの問題を作成・出題してみたい
+
+## 目次
+
+- [ソースコードにバグがないか確認](./test_tools)
+- [テンプレート・テストケースを用意](./template_testcase_generator)
+- [提出に関する補助ツール](./tools_for_submission)
+- [競技プログラミング専用言語](./programming_languages)
+- [問題を自動的に解く](./solver)
+- [問題作成に関する便利ツール](./tools_for_writers)

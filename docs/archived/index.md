@@ -10,3 +10,10 @@ title: Archives - はじめに
 - 競技プログラミングを久しぶりに再開した
 - サービス・ツールの動作確認に協力したい
 - アルゴリズム・競技プログラミングに関連したソフトウェア開発に向けてヒントを探したい
+
+## 目次
+
+- [追加の動作確認が必要](./need_to_confirm_operation)
+- [更新停止の可能性が高い](./outdated_information)
+- [リンク切れ](./broken_links)
+- [開発・提供終了](./no_longer_available)
