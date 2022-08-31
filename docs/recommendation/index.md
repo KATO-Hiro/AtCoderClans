@@ -17,7 +17,7 @@ title: Recommendation - はじめに
 - [For Beginners](../for_beginners)ページを読んだ
 - おすすめのサービス・ツールを知りたい
 
-## 目的から探す
+## 目次
 
 - [問題を解く](./solve_problems)
 - [ソースコードの提出・確認を簡単に](./submit_codes)
