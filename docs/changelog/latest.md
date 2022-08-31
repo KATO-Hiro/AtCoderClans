@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-08-31
+
+- [#4524](https://github.com/KATO-Hiro/AtCoderClans/pull/4524) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、記事「[トヨタが「アルゴリズム」活用に本腰、競プロ会社社長を部長待遇で招き現場改革](https://xtech.nikkei.com/atcl/nxt/column/18/00001/07109/?n_cid=nbpnxt_twed_it)」を追加。
+- [#4523](https://github.com/KATO-Hiro/AtCoderClans/pull/4523) - 「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
+    - [maspypy/library](https://github.com/maspypy/library)
+
 ### 2022-08-30
 
 - [#4519](https://github.com/KATO-Hiro/AtCoderClans/pull/4519) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
