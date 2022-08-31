@@ -21,7 +21,7 @@ title: Contributing - はじめに
 - 本サイトで掲載している内容について、加筆・修正したい
 - [Git](https://git-scm.com/)や[GitHub](https://github.com)を利用した共同開発に興味がある
 
-## 目的から探す
+## 目次
 
 - [ガイドライン](./guideline)
 - [プロジェクトの方針・方向性](./design)
