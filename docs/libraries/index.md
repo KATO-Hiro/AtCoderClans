@@ -19,13 +19,13 @@ title: Libraries and Snippets - はじめに
 - 自作のライブラリが正しく実装されているか確認したい
 - ユーザが公開しているライブラリを活用したい
 
-## 目的から探す
+## 目次
 
-- [AtCoder Library (ACL)を利用する](./atcoder_library)
+- [AtCoder Library (ACL)](./atcoder_library)
     - [補助資料・解説記事](./articles)
     - [各言語への移植](./porting_of_acl)
-- [ライブラリチェッカーを利用する](./library_checker)
-- 有志による公開ライブラリを利用する
+- [ライブラリチェッカー](./library_checker)
+- 有志による公開ライブラリ
     - [複数の言語](./libraries)
     - [C&#43;&#43;](./cpp)
     - [C&#35;](./csharp)
