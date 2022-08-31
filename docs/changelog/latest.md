@@ -6,6 +6,8 @@ title: Change Log
 
 ### 2022-08-31
 
+- [#4501](https://github.com/KATO-Hiro/AtCoderClans/pull/4501) - 本サイトの全面リニューアルに関する[アンケート](https://twitter.com/atcoderclans/status/1559835977220116480)を踏まえ、各媒体のトップページに目次を追加。
+    - 理由: スマートフォンやタブレットなどからの検索性を改善する必要があると判断したため。
 - [#4524](https://github.com/KATO-Hiro/AtCoderClans/pull/4524) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、記事「[トヨタが「アルゴリズム」活用に本腰、競プロ会社社長を部長待遇で招き現場改革](https://xtech.nikkei.com/atcl/nxt/column/18/00001/07109/?n_cid=nbpnxt_twed_it)」を追加。
 - [#4523](https://github.com/KATO-Hiro/AtCoderClans/pull/4523) - 「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
     - [maspypy/library](https://github.com/maspypy/library)
