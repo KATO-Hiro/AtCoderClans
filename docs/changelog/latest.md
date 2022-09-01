@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-09-01
+
+- [#4535](https://github.com/KATO-Hiro/AtCoderClans/pull/4535) - [Home](../..)ページに、本サービスのスポンサーを掲載。ご支援いただき、ありがとうございます。
+    - [ia7ck](https://github.com/ia7ck)
+
 ### 2022-08-31
 
 - [#4501](https://github.com/KATO-Hiro/AtCoderClans/pull/4501) - 本サイトの全面リニューアルに関する[アンケート](https://twitter.com/atcoderclans/status/1559835977220116480)を踏まえ、各媒体のトップページに目次を追加。
