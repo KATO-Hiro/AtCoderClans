@@ -51,3 +51,13 @@
     <div align="center">
         <img loading = "lazy" src="images/web_app/suzuri.png" alt="suzuri">
     </div>
+
+## 本サービスのスポンサー(敬称略・順不同)
+
+本サービスの開発・運営を応援してくださり、ありがとうございます。
+
+[GitHub Sponsors](https://github.com/sponsors/KATO-Hiro)で寄付していただいた方には、いくつかの特典をご用意しております。
+
+### 🍨 Ice Cream Supporter
+
+- ia7ck
