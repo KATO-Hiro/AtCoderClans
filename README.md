@@ -49,6 +49,16 @@
 
 - 企業の採用担当者 - [AtCoder](https://atcoder.jp/)ユーザの実務能力・ポテンシャルの評価材料の一つになると思います。ひいては人材発掘の効率化にも、つながるかもしれません。
 
+## 本サービスのスポンサー(敬称略・順不同)
+
+本サービスの開発・運営を応援してくださり、ありがとうございます。
+
+[GitHub Sponsors](https://github.com/sponsors/KATO-Hiro)で寄付していただいた方には、いくつかの特典をご用意しております。
+
+### 🍨 Ice Cream Supporter
+
+- ia7ck
+
 ## 各ページの説明
 
 - [クイックスタート](https://kato-hiro.github.io/AtCoderClans/quick_start/)をご覧ください。
