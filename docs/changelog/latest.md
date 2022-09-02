@@ -6,7 +6,7 @@ title: Change Log
 
 ### 2022-09-02
 
-- [#4405](https://github.com/KATO-Hiro/AtCoderClans/pull/4405) - (破壊的な変更) 「[Archives](../../archived)」ページに移動していたYouTubeのチャンネルが再公開されているのを確認したため、元の場所に掲載。併せて、説明文を一部修正。
+- [#4539](https://github.com/KATO-Hiro/AtCoderClans/pull/4539) - (破壊的な変更) 「[Archives](../../archived)」ページに移動していたYouTubeのチャンネルが再公開されているのを確認したため、元の場所に掲載。併せて、説明文を一部修正。
 
 ### 2022-09-01
 
