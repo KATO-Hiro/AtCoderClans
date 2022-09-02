@@ -32,6 +32,7 @@ title: チャンネル
 - [func](https://www.youtube.com/playlist?list=PLLbak3dBJyRbJ4R5Ax2vUFZlNBbLX8YLw) - [func_hs](https://twitter.com/func_hs)さんのチャンネル。コンテストの過去問を解く動画が公開されている。
 - [Gennady Korotkevich](https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw) - 世界最強の競技プログラマーである[tourist](https://atcoder.jp/users/tourist)さんのチャンネル。
 - [heno 239](https://www.youtube.com/channel/UCmYTD76ZGm8hcrzaI7xJLAg) - レッドコーダー（競技プログラマーとして世界最高峰の実力の持ち主であることを示す）の[heno239](https://atcoder.jp/users/heno239)さんのチャンネル。過去問の早解き、2人で1行ずつ交互にコーディングしてACを目指す動画などが公開されている。
+- [Rute _](https://www.youtube.com/channel/UCvB4r-9OCn84AohIsnvLYhA) - [Rute](https://atcoder.jp/users/Rute)さんのチャンネル。コンテストの振り返りに関する配信が行われている。
 - [skyaozora58](https://www.youtube.com/user/skyaozora58/videos) - レッドコーダーの[sky58](https://atcoder.jp/users/sky58)さんのチャンネル。コンテスト当日のスクリーンキャプチャが多く公開されている。
 - [tatyam](https://www.youtube.com/channel/UC3MXq-nGMDQENm5ihfQeIkg/featured) - レッドコーダーの[tatyam](https://atcoder.jp/users/tatyam)さんのチャンネル。コンテストの過去問を解く動画が公開されている。
 - [Tozan Southerpacks Redcoder レッドコーダー](https://www.youtube.com/channel/UCwsapfci2p1oDVO4Q2sJOQw) - レッドコーダーの[tozangezan](https://atcoder.jp/users/tozangezan)さんのチャンネル。アルゴリズムやコンテスト後の解説が英語で行われている。
