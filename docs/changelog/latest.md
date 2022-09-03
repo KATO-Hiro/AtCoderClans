@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-09-03
+
+- [#4549](https://github.com/KATO-Hiro/AtCoderClans/pull/4549) - (破壊的な変更) [#3928](https://github.com/KATO-Hiro/AtCoderClans/pull/3928)に関連して、サイトジェネレータ[Jekyll](https://jekyllrb.com/)で使用していたファイル・画像を削除。
+- [#4546](https://github.com/KATO-Hiro/AtCoderClans/pull/4546)、[#4547](https://github.com/KATO-Hiro/AtCoderClans/pull/4547) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
+    - [形式的べき級数解説](https://maspypy.com/category/%e5%bd%a2%e5%bc%8f%e7%9a%84%e3%81%b9%e3%81%8d%e7%b4%9a%e6%95%b0%e8%a7%a3%e8%aa%ac)
+    - [【競プロer向け】母関数を習得しよう！](https://trap.jp/post/1657/)
+
 ### 2022-09-02
 
 - [#4539](https://github.com/KATO-Hiro/AtCoderClans/pull/4539) - (破壊的な変更) 「[Archives](../../archived)」ページに移動していたYouTubeのチャンネルが再公開されているのを確認したため、元の場所に掲載。併せて、説明文を一部修正。
