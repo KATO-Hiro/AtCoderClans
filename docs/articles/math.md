@@ -95,6 +95,7 @@ title: 数学を学ぶ
 
 - [二項係数の和の処理（形式的べき級数）](https://shino-sky.hateblo.jp/entry/2020/04/16/230753) - [数え上げテクニック集](https://drive.google.com/file/d/1WC7Y2Ni-8elttUgorfbix9tO1fvYN3g3/view)で掲載されている「14.1 頻出公式集」を形式的べき級数などを用いて証明した記事。前提知識として、形式的べき級数の定義や基本的な演算方法に対する理解が求められる。
 - [【競技プログラミング】形式的冪級数の応用テクニック(前編)](https://qiita.com/hotman78/items/f0e6d2265badd84d429a) - 数え上げなどの問題を解くときに用いられる「形式的冪級数」の応用テクニックをまとめた記事([hotman78](https://atcoder.jp/users/hotman78)さん)。前提知識として、フーリエ変換や形式的冪級数の基礎について理解していることが求められる。また、[opt](https://atcoder.jp/users/opt)さんによって、形式的冪級数が活用できる[問題リスト](https://opt-cp.com/cp/fps-problem-list/)が公開されている。
+- [【競プロer向け】母関数を習得しよう！](https://trap.jp/post/1657/) - 数え上げの問題に対して、数列を母関数に変換して考察するテクニックが解説されている記事。
 
 ### ミニマックス定理の証明
 
