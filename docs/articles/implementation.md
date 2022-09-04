@@ -180,6 +180,10 @@ title: 実装テクニックを学ぶ
 
 ## Ruby
 
+### 文法・言語仕様
+
+- [Ruby で競技プログラミング (AtCoder) をやっているときあるある](https://zenn.dev/noraworld/articles/competitive-programming-ruby) - 競技プログラミングと業務での書き方の違いや便利メソッドの思わぬ落とし穴について紹介されている記事。
+
 ### 定数倍高速化
 
 - [本番で使えるRubyの定数倍高速化手法【競技プログラミング  Atcoder】](https://kona0001.hatenablog.com/entry/2021/06/07/170343) - Rubyにおける定数倍高速化の手法をまとめた記事。
