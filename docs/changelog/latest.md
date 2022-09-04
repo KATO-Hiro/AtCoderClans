@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-09-04
+
+- [#4553](https://github.com/KATO-Hiro/AtCoderClans/pull/4553) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、記事「[Ruby で競技プログラミング (AtCoder) をやっているときあるある](https://zenn.dev/noraworld/articles/competitive-programming-ruby)」を追加。
+
 ### 2022-09-03
 
 - [#4549](https://github.com/KATO-Hiro/AtCoderClans/pull/4549) - (破壊的な変更) [#3928](https://github.com/KATO-Hiro/AtCoderClans/pull/3928)に関連して、サイトジェネレータ[Jekyll](https://jekyllrb.com/)で使用していたファイル・画像を削除。
