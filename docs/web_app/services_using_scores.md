@@ -49,7 +49,7 @@ title: コンテストの成績に関連するサービス
       <img loading = "lazy" src="../../images/web_app/atcoder_anytime.png" alt="atcoder anytime">
     </div>
 
-- [一度も冷えなかった◯◯](https://tarareba.herokuapp.com/vote/) - 参加したコンテストのうち、レーティングが単調増加となる結果だけを用いて、その推移を表示する。
+- [一度も冷えなかった◯◯](https://tarareba.onrender.com/) - 参加したコンテストのうち、レーティングが単調増加となる結果だけを用いて、その推移を表示する。
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/tarareba.png" alt="tarareba">
