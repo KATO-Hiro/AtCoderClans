@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-09-05
+
+- [#4560](https://github.com/KATO-Hiro/AtCoderClans/pull/4560) - (破壊的な変更) リンク切れと思われる記事・ブログを一時的に「[Archives](../../archived)」ページに移動。
+- [#4558](https://github.com/KATO-Hiro/AtCoderClans/pull/4558)、[#4559](https://github.com/KATO-Hiro/AtCoderClans/pull/4559) - (破壊的な変更) [Heroku](https://www.heroku.com)の無料プラン終了(予定)に伴うドメインの変更に対応。
+    - [一度も冷えなかった◯◯](https://tarareba.onrender.com/)
+
 ### 2022-09-04
 
 - [#4553](https://github.com/KATO-Hiro/AtCoderClans/pull/4553) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、記事「[Ruby で競技プログラミング (AtCoder) をやっているときあるある](https://zenn.dev/noraworld/articles/competitive-programming-ruby)」を追加。
