@@ -25,7 +25,6 @@ title: C&#43;&#43;
 |japlj|[はてなブログ](https://japlj.hatenablog.com/)||
 |joisino|[はてなブログ](https://joisino.hatenablog.com/)||
 |kmjp|[はてなブログ](https://kmjp.hatenablog.jp/)||
-|KoD|[Qiita](https://qiita.com/Kodaman_KoD)||
 |kort0n|[はてなブログ](https://kort0n.hatenablog.com/)||
 |kotatsugame|[はてなブログ](https://kotatsugame.hatenablog.com/)|Rated対象外のコンテストを中心に複数の言語で実装されている回答もある。|
 |latte0119|[はてなブログ](https://lattemalta.hatenablog.jp/)||

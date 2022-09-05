@@ -38,6 +38,12 @@ title: リンク切れ
 - [私と競プロと教育活動（Qiita Night LT 資料）](https://www.slideshare.net/MasatakaYoneda/qiita-night-lt) - 記事「[現役高校生が、AtCoderでレッドコーダーになるまでにやってきたこと。プログラミング上達の秘訣を全て教えます](https://engineer-lab.findy-code.io/redcoder)」の続編とも言えるスライド。
     - 確認した日: 2021/12/01
 
+
+### アルゴリズムを学ぶ
+
+- [誰でも分かる！ランダム性を利用した平衡二分木](https://qiita.com/Kodaman_KoD/items/5868462d530782e0a3a0) - ランダム性を利用した平行二分木について、丁寧に解説した記事。平行二分木の図解、ランダム性を利用する方法やC++による実装について説明されている。
+    - 確認した日: 2022/09/05
+
 ### 数学を学ぶ
 
 - [異常modまとめ](https://hyado.hatenablog.jp/entry/2020/12/07/000000) - 場合の数を大きな素数で割った余りを求める問題において、珍しい素数や有名な素数に近い値が出題された事例を紹介した記事。
@@ -63,6 +69,8 @@ title: リンク切れ
 
 ## ブログ
 
+- [Qiita - KoD](https://qiita.com/Kodaman_KoD)
+    - 確認した日: 2022/09/05
 - [はてなブログ - yochan](https://www.yochan.blog/main/)
     - 確認した日: 2022/07/02
 
