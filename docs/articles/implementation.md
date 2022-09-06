@@ -210,3 +210,4 @@ title: 実装テクニックを学ぶ
 ### 文法・言語仕様
 
 - [TypeScriptでAtCoderをやってみよう!](https://qiita.com/cosocaf/items/255003ecec1d3badfc7b) - TypeScriptで問題を解くために、環境構築や標準入出力の方法・テンプレートを紹介した記事。
+- [【AtCoder】TypeScript で Python の `input()` ライクな入力を実現する](https://qiita.com/seijinrosen/items/5a3c54d574d9622cd2ce) - Pythonの`input()`のような形式で入力を受け取るためのTypeScriptのテンプレートを紹介した記事。
