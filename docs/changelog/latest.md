@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-09-06
+
+- [#4564](https://github.com/KATO-Hiro/AtCoderClans/pull/4564) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、記事「[【AtCoder】TypeScript で Python の `input()` ライクな入力を実現する](https://qiita.com/seijinrosen/items/5a3c54d574d9622cd2ce)」を追加。
+
 ### 2022-09-05
 
 - [#4560](https://github.com/KATO-Hiro/AtCoderClans/pull/4560) - (破壊的な変更) リンク切れと思われる記事・ブログを一時的に「[Archives](../../archived)」ページに移動。
