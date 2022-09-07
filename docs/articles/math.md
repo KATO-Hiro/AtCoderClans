@@ -7,6 +7,7 @@ title: 数学を学ぶ
 ## 出題される分野・キーワード
 
 - [AtCoder Beginner Contestで最低限理解する必要がある（と感じた）数学的知識](https://qiita.com/Ll_e_ki/items/fe70b9e3408c5b14ae2e) - AtCoder Beginner Contest (ABC)に参加する上で、よく出題される数学的知識をまとめた記事。
+- [150分で学ぶ高校数学の基礎](https://speakerdeck.com/e869120/150-fen-dexue-bugao-xiao-shu-xue-noji-chu) - 高校数学の基礎を概観したスライド。学び直しや先取り学習に取り組むときに、最初の教材としておすすめ。
 - [アルゴリズム・AtCoder のための数学【前編：数学的知識編①】](https://qiita.com/e869120/items/b4a0493aac567c6a7240) - アルゴリズムや競技プログラミングと関連が深い数学的要素を総整理した記事。以下の続編もある。
     - [【中編：数学的知識編②】](https://qiita.com/e869120/items/bd7cfd2dbd2706cb8657)
     - [【後編：数学的考察編】](https://qiita.com/e869120/items/1ccb2bdf16890637e767)
