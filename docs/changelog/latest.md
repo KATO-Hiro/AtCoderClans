@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-09-07
+
+- [#4570](https://github.com/KATO-Hiro/AtCoderClans/pull/4570) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下のスライドを追加。
+    - [150分で学ぶ高校数学の基礎](https://speakerdeck.com/e869120/150-fen-dexue-bugao-xiao-shu-xue-noji-chu)
+- [#4569](https://github.com/KATO-Hiro/AtCoderClans/pull/4569) - [Home](../..)ページに、本サービスのスポンサーを掲載。ご支援いただき、ありがとうございます。
+    - [tomii9273](https://github.com/tomii9273)
+
 ### 2022-09-06
 
 - [#4564](https://github.com/KATO-Hiro/AtCoderClans/pull/4564) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、記事「[【AtCoder】TypeScript で Python の `input()` ライクな入力を実現する](https://qiita.com/seijinrosen/items/5a3c54d574d9622cd2ce)」を追加。
