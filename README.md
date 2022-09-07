@@ -58,6 +58,7 @@
 ### 🍨 Ice Cream Supporter
 
 - ia7ck
+- tomii9273
 
 ## 各ページの説明
 
