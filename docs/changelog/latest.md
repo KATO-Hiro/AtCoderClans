@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-09-08
+
+- [#4575](https://github.com/KATO-Hiro/AtCoderClans/pull/4575) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[katand](https://atcoder.jp/users/katand)さんの[記事](https://ndndbms.blogspot.com/2022/09/atcoder.html)を追加。
+
 ### 2022-09-07
 
 - [#4570](https://github.com/KATO-Hiro/AtCoderClans/pull/4570) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下のスライドを追加。
