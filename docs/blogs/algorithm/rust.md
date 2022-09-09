@@ -23,6 +23,7 @@ title: Rust
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
+|katand|[Blogger](https://ndndbms.blogspot.com/)||
 |kenkoooo|[はてなブログ](https://kenkoooo.hatenablog.com/)||
 |koyumeishi|[はてなブログ](https://koyumeishi.hatenablog.com/)||
 |RheoTommy|[はてなブログ](https://rheotommy.hatenablog.com/)||
