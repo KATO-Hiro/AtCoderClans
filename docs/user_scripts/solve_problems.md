@@ -114,3 +114,11 @@ title: 問題を解く
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_title_copy.png" alt="atcoder title copy">
     </div>
+
+### タイトルを一部書き換え
+
+- [AtCoder D is for DP](https://greasyfork.org/ja/scripts/450727-atcoder-d-is-for-dp) - 「問題」ページのD問題のタイトルを「DP」に書き換える。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_d_is_for_dp.png" alt="atcoder d is for dp">
+    </div>
