@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-09-10
+
+- [#4582](https://github.com/KATO-Hiro/AtCoderClans/pull/4582) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、ユーザスクリプト「[AtCoder D is for DP](https://greasyfork.org/ja/scripts/450727-atcoder-d-is-for-dp)」を追加。
+
 ### 2022-09-09
 
 - [#4579](https://github.com/KATO-Hiro/AtCoderClans/pull/4579) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜2399に到達したユーザのブログを追加。
