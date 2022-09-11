@@ -159,6 +159,7 @@ title: C&#43;&#43;
 |paruki|[はてなブログ](https://par.hateblo.jp/)||
 |phocom|[Qiita](https://qiita.com/phocom)||
 |Pro_ktmr|[Qiita](https://qiita.com/Pro_ktmr)||
+|ReiVindicatio|[はてなブログ](https://elegy-wedh133.hatenablog.com/)||
 |Rho17|[はてなブログ](https://zrkkkk.hatenablog.com/)||
 |seica|[はてなブログ](https://seica-at.hatenablog.com/)||
 |Series_205|[Qiita](https://qiita.com/Series_205)||
