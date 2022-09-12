@@ -2,6 +2,10 @@
 title: レーティング2800〜(赤色、銅・銀・金王冠)
 ---
 
+## 2022年
+
+- [AtCoder 赤になりました - あああああ](https://rubikun.hatenablog.jp/entry/2022/09/05/152859) - [Rubikun](https://atcoder.jp/users/Rubikun)さんが、2022年9月4日に達成。
+
 ## 2021年
 
 - [AtCoder赤になりました - kort0nの日記](https://kort0n.hatenablog.com/entry/2021/01/10/065058) - [kort0n](https://atcoder.jp/users/kort0n)さんが、2021年1月9日に達成。
