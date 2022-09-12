@@ -40,6 +40,7 @@ title: C&#43;&#43;
 |QCFium|[はてなブログ](https://qcfium.hatenadiary.com/)||
 |rickytheta|[はてなブログ](https://r-th.hatenablog.com/)|2017年2月以降、新規の記事を確認できず。|
 |risujiroh|[はてなブログ](https://risujiroh.hatenablog.com/)||
+|Rubikun|[はてなブログ](https://rubikun.hatenablog.jp/)||
 |satashun|[はてなブログ](https://satashun.hatenablog.com/)||
 |semiexp|[自作ブログ](https://semiexp.net/blog/index.html)||
 |sigma425|[はてなブログ](https://sigma425.hatenablog.com/)||
@@ -66,10 +67,11 @@ title: C&#43;&#43;
 |drken|[はてなブログ](https://drken1215.hatenablog.com/)、 [Qiita](https://qiita.com/drken)|[問題解決力を鍛える!アルゴリズムとデータ構造](https://www.amazon.co.jp/dp/4065128447/)の著者。[アルゴ式](https://algo-method.com/)の運営者。|
 |ei13333|[はてなブログ](https://ei1333.hateblo.jp/)||
 |enjapma|[はてなブログ](https://enjapma.hatenablog.com/)||
-|Hoi_koro|[はてなブログ](https://hoikoro.hatenablog.com/)|2019年3月以降、新規の記事を確認できず。|
-|hotman78|[はてなブログ](https://hotman78.hatenablog.com/)||
 |gasin|[はてなブログ](https://gasin.hatenadiary.jp/)||
 |goodbaton|[はてなブログ](https://goodbaton.hatenablog.com/)|2017年3月以降、新規の記事を確認できず。|
+|Hoi_koro|[はてなブログ](https://hoikoro.hatenablog.com/)|2019年3月以降、新規の記事を確認できず。|
+|hotman78|[はてなブログ](https://hotman78.hatenablog.com/)||
+|Jirotech|[はてなブログ](https://shuu0914.hatenablog.com/)||
 |Kite_kuma|[はてなブログ](https://kumakumatime.hateblo.jp/)||
 |kotamanegi|[はてなブログ](https://kotamanegi.hatenablog.com/)||
 |kyuridenamida|[はてなブログ](https://kyuridenamida.hatenablog.com/)|2019年10月以降、新規の記事を確認できず。|
@@ -90,7 +92,6 @@ title: C&#43;&#43;
 |potetisensei|[はてなブログ](https://potetisensei.hatenablog.com/)||
 |primenumber|[はてなブログ](https://primenumber.hatenadiary.jp/)||
 |riano_|[はてなブログ](https://seashellpink-frostywhite.hatenablog.com/)||
-|Rubikun|[はてなブログ](https://rubikun.hatenablog.jp/)||
 |sak|[Qiita](https://qiita.com/sakofsuken)、[note](https://note.com/sak_algo)|[アルゴ式](https://algo-method.com/)の運営・開発者。|
 |sapphire15|[はてなブログ](https://sapphire15.hatenablog.com/)||
 |satanic0258|[はてなブログ](https://satanic0258.hatenablog.com/)|2018年9月以降、新規の記事を確認できず。|
