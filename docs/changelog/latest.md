@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-09-12
+
+- [#4594](https://github.com/KATO-Hiro/AtCoderClans/pull/4594) - 「[Milestones](../../milestones/red)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2800以上(赤色、銅王冠、銀王冠、金王冠)に[Rubikun](https://atcoder.jp/users/Rubikun)さんの[記事](https://rubikun.hatenablog.jp/entry/2022/09/05/152859)を追加。
+- [#4593](https://github.com/KATO-Hiro/AtCoderClans/pull/4593) - 「[Articles, Blogs, Books and Videos](../../blogs)」ページのアルゴリズム部門に、最高レーティングが2000以上に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+
 ### 2022-09-11
 
 - [#4588](https://github.com/KATO-Hiro/AtCoderClans/pull/4588) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜2399に到達したユーザのブログを追加。
