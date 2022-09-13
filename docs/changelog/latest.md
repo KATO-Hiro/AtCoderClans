@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-09-13
+
+- [#4599](https://github.com/KATO-Hiro/AtCoderClans/pull/4599) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[ReiVindicatio](https://atcoder.jp/users/ReiVindicatio)さんの[記事](https://elegy-wedh133.hatenablog.com/entry/2022/09/13/144042)を追加。
+
 ### 2022-09-12
 
 - [#4594](https://github.com/KATO-Hiro/AtCoderClans/pull/4594) - 「[Milestones](../../milestones/red)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
