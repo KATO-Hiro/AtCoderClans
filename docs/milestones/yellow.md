@@ -11,6 +11,7 @@ title: レーティング2000〜2399(黄色)
 - [AtCoder 黄色になりました - lynmisakuraのノート](https://andoreiji11.hatenadiary.jp/entry/2022/08/02/164301) - [lynmisakura](https://atcoder.jp/users/lynmisakura)さんが、2022年7月31日に達成。
 - [AtCoder 黄色になりました！！！（ポエム編） - yamake's blog](https://yamakeeee.hatenadiary.com/entry/2022/08/22/232657) - [yamake](https://atcoder.jp/users/yamake)さんが、2022年8月21日に達成。
 - [AtCoder黄色になりました - ぽよぽよ書き](https://ndndbms.blogspot.com/2022/09/atcoder.html) - [katand](https://atcoder.jp/users/katand)さんが、2022年9月4日に達成。
+- [AtCoder 黄色になりました - ひとり言](https://elegy-wedh133.hatenablog.com/entry/2022/09/13/144042) - [ReiVindicatio](https://atcoder.jp/users/ReiVindicatio)さんが、2022年9月10日に達成。
 
 ## 2021年
 
