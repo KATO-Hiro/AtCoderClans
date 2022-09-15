@@ -8,6 +8,7 @@ title: レーティング2000〜2399(黄色)
 - [【色変記事】AtCoder黄色になりました - MtSakaのブログ](https://mt-saka.hatenablog.com/entry/2022/02/14/204036) - [MtSaka](https://atcoder.jp/users/MtSaka)さんが、2022年2月13日に達成。
 - [JavaでAtCoder黄色になりました](https://qiita.com/sounansya/items/ca21c45496fa0189d51e) - [sounansya](https://atcoder.jp/users/sounansya)さんが、2022年3月12日に達成。
 - [AtCoder黄色・Codeforces薄橙になったりならなかったりします - myauの競プロブログ](https://myau-atcoder.hatenablog.com/entry/2022/03/25/235830) - [myau](https://atcoder.jp/users/myau)さんが、2022年3月25日に公開。
+- [黄色コーダーになるまでにやったこと(いちごくんver) - いちごくん](https://ichigokunn.hatenablog.com/entry/2022/07/26/193453) - [itigo](https://atcoder.jp/users/itigo)さんが、2022年7月16日に達成。
 - [AtCoder 黄色になりました - lynmisakuraのノート](https://andoreiji11.hatenadiary.jp/entry/2022/08/02/164301) - [lynmisakura](https://atcoder.jp/users/lynmisakura)さんが、2022年7月31日に達成。
 - [AtCoder 黄色になりました！！！（ポエム編） - yamake's blog](https://yamakeeee.hatenadiary.com/entry/2022/08/22/232657) - [yamake](https://atcoder.jp/users/yamake)さんが、2022年8月21日に達成。
 - [AtCoder黄色になりました - ぽよぽよ書き](https://ndndbms.blogspot.com/2022/09/atcoder.html) - [katand](https://atcoder.jp/users/katand)さんが、2022年9月4日に達成。
