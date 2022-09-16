@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-09-16
+
+- [#4615](https://github.com/KATO-Hiro/AtCoderClans/pull/4615) - 「[Articles, Blogs, Books and Videos](../../blogs)」ページのアルゴリズム部門に、最高レーティングが2000以上に到達したユーザのブログを追加。
+
 ### 2022-09-15
 
 - [#4609](https://github.com/KATO-Hiro/AtCoderClans/pull/4609) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
