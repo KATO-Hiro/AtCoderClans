@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-09-17
+
+- [#4618](https://github.com/KATO-Hiro/AtCoderClans/pull/4618) - (破壊的な変更) リンク切れと思われる記事を一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2022-09-16
 
 - [#4615](https://github.com/KATO-Hiro/AtCoderClans/pull/4615) - 「[Articles, Blogs, Books and Videos](../../blogs)」ページのアルゴリズム部門に、最高レーティングが2000以上に到達したユーザのブログを追加。
