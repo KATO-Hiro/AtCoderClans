@@ -126,6 +126,9 @@ title: リンク切れ
 - [【色変記事】AtCoder青になりました - piddy’s blog](https://piddy-cp.hatenablog.com/entry/2021/10/31/015517) - [piddy](https://atcoder.jp/users/piddy)さんが、2021年10月30日に達成。
     - 確認した日: 2022/06/11
 
+- [AtCoder青になった感想 - An Engineering Student's Frank Report.](https://hachiji.hatenadiary.com/entry/2021/07/31/230301) - [AngrySadEight](https://atcoder.jp/users/AngrySadEight)さんが、2021年7月25日に達成。
+    - 確認した日: 2022/09/17
+
 ### 休止
 
 - [競技プログラミングを休んでいる理由 - little star's memory](https://koboshi-kyopro.hatenablog.com/entry/2021/05/24/012158) - [koboshi](https://atcoder.jp/users/koboshi)さんが2021年5月24日に公開。
