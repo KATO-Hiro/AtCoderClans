@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-09-18
+
+- [#4622](https://github.com/KATO-Hiro/AtCoderClans/pull/4622) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[dhirabayashi](https://atcoder.jp/users/dhirabayashi)さんの[記事](https://qiita.com/dhirabayashi/items/0279cab717cf6b39c764)を追加。
+
 ### 2022-09-17
 
 - [#4618](https://github.com/KATO-Hiro/AtCoderClans/pull/4618) - (破壊的な変更) リンク切れと思われる記事を一時的に「[Archives](../../archived)」ページに移動。
