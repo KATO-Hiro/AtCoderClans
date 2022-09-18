@@ -10,6 +10,7 @@ title: レーティング400〜799(茶色)
 - [Atcoderで入茶できた話](https://note.com/lucky_alpaca549/n/n5357b4f33a42) - [sansai](https://atcoder.jp/users/sansai)さんが、2022年5月8日に達成。
 - [AtCoderで茶色になったから書いた記事](https://qiita.com/viral_8/items/303c3d5e59084070bc70) - [viral](https://atcoder.jp/users/viral)さんが、2022年5月13日に公開。
 - [AtCoderで入茶した感想【色変記事】](https://qiita.com/Michirakara/items/89ba033e9343a1ee02ef) - [michirakara](https://atcoder.jp/users/michirakara)さんが、2022年6月19日に達成。
+- [【色変記事】AtCoder茶色になるまで3年かかりました](https://qiita.com/dhirabayashi/items/0279cab717cf6b39c764) - [dhirabayashi](https://atcoder.jp/users/dhirabayashi)さんが、2022年9月10日に達成。
 
 ## 2021年
 
