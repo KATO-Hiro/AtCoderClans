@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-09-19
+
+- [#4626](https://github.com/KATO-Hiro/AtCoderClans/pull/4626) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに掲載している「[競技プログラミングの鉄則 ~アルゴリズム力と思考力を高める77の技術~](https://www.amazon.co.jp/dp/483997750X)」の説明文を更新。以下の内容を追加。
+    - [E869120/kyopro-tessoku](https://github.com/E869120/kyopro-tessoku) ![GitHub Repo stars](https://img.shields.io/github/stars/E869120/kyopro-tessoku?style=plastic) - ソースコード(C++、Python、Java)、節末問題・力試し問題の解答、正誤表が掲載されている。
+    - [競技プログラミングの鉄則　演習問題集](https://atcoder.jp/contests/tessoku-book) - [AtCoder](https://atcoder.jp/)の自動採点システムで、書籍に掲載されている問題を解くことができる。
+    - [有志による紹介動画](https://twitter.com/kaede20203/status/1570163622755827713) - [kaede2020](https://atcoder.jp/users/kaede2020)さんが、書籍の7章「ヒューリスティック」の概要を紹介している。
+
 ### 2022-09-18
 
 - [#4622](https://github.com/KATO-Hiro/AtCoderClans/pull/4622) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
