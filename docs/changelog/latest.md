@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-09-20
+
+- [#4633](https://github.com/KATO-Hiro/AtCoderClans/pull/4633) - 「[Libraries and Snippets](../../libraries)」の「[Python](../../libraries/python)」ページに、Pythonで実装されたライブラリを追加。
+    - [cheran-senthil/PyRival](https://github.com/cheran-senthil/PyRival)
+
 ### 2022-09-19
 
 - [#4626](https://github.com/KATO-Hiro/AtCoderClans/pull/4626) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに掲載している「[競技プログラミングの鉄則 ~アルゴリズム力と思考力を高める77の技術~](https://www.amazon.co.jp/dp/483997750X)」の説明文を更新。以下の内容を追加。
