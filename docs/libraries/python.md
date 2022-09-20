@@ -2,6 +2,7 @@
 title: Python
 ---
 
+- [cheran-senthil/PyRival](https://github.com/cheran-senthil/PyRival) ![GitHub Repo stars](https://img.shields.io/github/stars/cheran-senthil/PyRival?style=plastic) - [cheran-senthil](https://github.com/cheran-senthil)さんのライブラリ。
 - [customaddone/beginPython](https://github.com/customaddone/beginPython) ![GitHub Repo stars](https://img.shields.io/github/stars/customaddone/beginPython?style=plastic) - [customaddone](https://github.com/customaddone)さんのライブラリ。
 - [horiso0921/Mylib](https://github.com/horiso0921/Mylib) ![GitHub stars](https://img.shields.io/github/stars/horiso0921/Mylib?style=plastic) - [horiso0921](https://atcoder.jp/users/horiso0921)さんのライブラリ。
 - [iehn/lib](https://github.com/iehn/lib) ![GitHub stars](https://img.shields.io/github/stars/iehn/lib?style=plastic) - [iehn](https://atcoder.jp/users/iehn)さんのライブラリ。
