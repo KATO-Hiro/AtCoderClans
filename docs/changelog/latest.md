@@ -6,7 +6,7 @@ title: Change Log
 
 ### 2022-09-21
 
-- [#4639](https://github.com/KATO-Hiro/AtCoderClans/pull/4639) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会に参加する](../../articles//club_activities.md)」ページにTwitterアカウント「[新大プログラミングサークル　PLOT](https://twitter.com/plot_niigata)」を追加。
+- [#4639](https://github.com/KATO-Hiro/AtCoderClans/pull/4639) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会に参加する](../../articles/club_activities)」ページにTwitterアカウント「[新大プログラミングサークル　PLOT](https://twitter.com/plot_niigata)」を追加。
 
 ### 2022-09-20
 
