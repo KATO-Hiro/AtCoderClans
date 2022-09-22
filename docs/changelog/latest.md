@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-09-22
+
+- [#4642](https://github.com/KATO-Hiro/AtCoderClans/pull/4642) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、記事「[東北電力株式会社へ最適化AI（アルゴリズム）を活用した配船計画最適化ソリューションを提供](https://prtimes.jp/main/html/rd/p/000000008.000085809.html)」を追加。
+
 ### 2022-09-21
 
 - [#4639](https://github.com/KATO-Hiro/AtCoderClans/pull/4639) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会に参加する](../../articles/club_activities)」ページにTwitterアカウント「[新大プログラミングサークル　PLOT](https://twitter.com/plot_niigata)」を追加。
