@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-09-23
+
+- [#4645](https://github.com/KATO-Hiro/AtCoderClans/pull/4645) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [「だから慶応は学歴自慢じゃないっつーの」 夏色花梨Ver](https://twitter.com/gochaism/status/1572607173678735364)
+
 ### 2022-09-22
 
 - [#4642](https://github.com/KATO-Hiro/AtCoderClans/pull/4642) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、記事「[東北電力株式会社へ最適化AI（アルゴリズム）を活用した配船計画最適化ソリューションを提供](https://prtimes.jp/main/html/rd/p/000000008.000085809.html)」を追加。
