@@ -20,6 +20,7 @@ title: 個別の動画
     - [9つの変奏曲Ver](https://www.youtube.com/watch?v=7tTufTl2Ch4)
     - [シンセロック調Ver](https://www.youtube.com/watch?v=8eBmV6R-kaw)
     - [東北きりたんVer](https://twitter.com/gochaism/status/1476226270480711680)
+    - [夏色花梨Ver](https://twitter.com/gochaism/status/1572607173678735364)
 - [【！？】東大生、ストレス発散しろって言われて勉強し始める](https://www.youtube.com/watch?v=W1fxwbkV1Zg) - 東大生のストレス発散方法の一つとして、競技プログラミングが取り上げられている動画。
     - [【未公開シーン】実験する須貝とプログラミングをする鶴崎【ストレス発散】](https://www.youtube.com/watch?v=TJX71Jeg_dc) - 上記の動画の未公開シーン(出演者が実際に問題を解いているところ)が公開されている。
 
