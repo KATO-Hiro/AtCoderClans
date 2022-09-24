@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-09-24
+
+- [#4648](https://github.com/KATO-Hiro/AtCoderClans/pull/4648) - 「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../user_scripts/submit_codes)」ページに、ユーザスクリプト「[AtCoder Submission Timer](https://greasyfork.org/ja/scripts/451696-atcoder-submission-timer)」を追加。
+
 ### 2022-09-23
 
 - [#4645](https://github.com/KATO-Hiro/AtCoderClans/pull/4645) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
