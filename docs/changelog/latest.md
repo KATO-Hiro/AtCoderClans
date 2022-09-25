@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-09-25
+
+- [#4654](https://github.com/KATO-Hiro/AtCoderClans/pull/4654) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[bun913](https://atcoder.jp/users/bun913)さんの[記事](https://dev.classmethod.jp/articles/atcoder_change_color_brown/)を追加。
+
 ### 2022-09-24
 
 - [#4648](https://github.com/KATO-Hiro/AtCoderClans/pull/4648) - 「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../user_scripts/submit_codes)」ページに、ユーザスクリプト「[AtCoder Submission Timer](https://greasyfork.org/ja/scripts/451696-atcoder-submission-timer)」を追加。
