@@ -16,6 +16,12 @@ title: コンテストに参加する
       <img loading = "lazy" src="../../images/web_app/competitive_programming_contests_calendar.png" alt="competitive programming contests calendar">
     </div>
 
+- [atcoder_calender](https://github.com/oirom/atcoder_calendar) ![GitHub Repo stars](https://img.shields.io/github/stars/oirom/atcoder_calendar?style=plastic) - コンテストの日程を自分のGoogleカレンダーに追加できる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_calender.png" alt="atcoder calendar">
+    </div>
+
 ## チーム分けを行う
 
 - [TeamMaker](https://compro.tsutajiro.com/cp-teammaker/index.php) - 競技プログラミングにおけるチーム分けを補助する。beta版。
