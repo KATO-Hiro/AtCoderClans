@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-09-26
+
+- [#4658](https://github.com/KATO-Hiro/AtCoderClans/pull/4658) - 「[Web apps and sites](../../web_app)」の「[コンテストに参加する](../../web_app/participate_in_contests)」ページに、Webサイト「[atcoder_calender](https://github.com/oirom/atcoder_calendar)」を追加。
+
 ### 2022-09-25
 
 - [#4654](https://github.com/KATO-Hiro/AtCoderClans/pull/4654) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
