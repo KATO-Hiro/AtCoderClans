@@ -30,7 +30,7 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/web_app/virtual_judge.png" alt="virtual judge">
     </div>
 
-## 特定の分野を重点的に学ぶ
+## 特定の分野・難易度を重点的に学ぶ
 
 ### アルゴリズム部門
 
@@ -38,6 +38,12 @@ title: 問題を解く
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_tags.png" alt="atcoder tags">
+    </div>
+
+- [AtCoder Gacha](https://atcoder-gacha.onrender.com/) - 難易度や正誤状況を指定して、問題を絞り込むことができる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_gacha.png" alt="atcoder gacha">
     </div>
 
 ### ヒューリスティック部門
