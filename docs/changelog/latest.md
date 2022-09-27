@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-09-27
+
+- [#4661](https://github.com/KATO-Hiro/AtCoderClans/pull/4661) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、Webアプリ「[AtCoder Gacha](https://atcoder-gacha.onrender.com/)」を追加。
+
 ### 2022-09-26
 
 - [#4658](https://github.com/KATO-Hiro/AtCoderClans/pull/4658) - 「[Web apps and sites](../../web_app)」の「[コンテストに参加する](../../web_app/participate_in_contests)」ページに、Webサイト「[atcoder_calender](https://github.com/oirom/atcoder_calendar)」を追加。
