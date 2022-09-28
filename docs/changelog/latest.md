@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-09-28
+
+- [#4666](https://github.com/KATO-Hiro/AtCoderClans/pull/4666) - 「[Libraries and Snippets](../../libraries)」の「[複数の言語](../../libraries/libraries)」ページで掲載している[The Algorithms](https://github.com/TheAlgorithms)に、[Webサイト版](https://the-algorithms.com/)のリンクを追加。
+
 ### 2022-09-27
 
 - [#4661](https://github.com/KATO-Hiro/AtCoderClans/pull/4661) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、Webアプリ「[AtCoder Gacha](https://atcoder-gacha.onrender.com/)」を追加。
