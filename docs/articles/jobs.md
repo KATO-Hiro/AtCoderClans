@@ -30,6 +30,7 @@ title: 競技プログラミングと就転職
 - [トヨタも注目　競技プログラミング、IT人材発掘の場に](https://www.nikkei.com/article/DGXZQOUC233L90T20C22A8000000/) - トヨタ自動車が[chokudai](https://twitter.com/chokudai)さんを招いて、アルゴリズムグループを設立した経緯・狙いを紹介している記事。また、競技プログラミングの実績を企業の採用基準の一つする動きがあることについても言及されている。
     - [トヨタが「アルゴリズム」活用に本腰、競プロ会社社長を部長待遇で招き現場改革](https://xtech.nikkei.com/atcl/nxt/column/18/00001/07109/?n_cid=nbpnxt_twed_it)
 - [東北電力株式会社へ最適化AI（アルゴリズム）を活用した配船計画最適化ソリューションを提供](https://prtimes.jp/main/html/rd/p/000000008.000085809.html) - 株式会社 ALGO ARTISが、電力会社と協力して石炭の配船計画の最適化を実用化したことが紹介されている記事。
+- [高橋直大のアナザーAI探訪記](https://xtech.nikkei.com/atcl/nxt/column/18/02204/) - [chokudai](https://twitter.com/chokudai)さんの連載記事。人工知能のうち、最適化AIを活用している企業の取り組みが紹介されている。
 
 ### 企業の支援制度
 
