@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-09-29
+
+- [#4670](https://github.com/KATO-Hiro/AtCoderClans/pull/4670) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、記事「[高橋直大のアナザーAI探訪記](https://xtech.nikkei.com/atcl/nxt/column/18/02204/)」を追加。
+
 ### 2022-09-28
 
 - [#4666](https://github.com/KATO-Hiro/AtCoderClans/pull/4666) - 「[Libraries and Snippets](../../libraries)」の「[複数の言語](../../libraries/libraries)」ページで掲載している[The Algorithms](https://github.com/TheAlgorithms)に、[Webサイト版](https://the-algorithms.com/)のリンクを追加。
