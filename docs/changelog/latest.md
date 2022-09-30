@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-09-30
+
+- [#4673](https://github.com/KATO-Hiro/AtCoderClans/pull/4673) - 「[Related Contest Sites](../../related_contest_sites)」の「[情報オリンピック](../../related_contest_sites/joi_ioi)」ページで掲載している書籍「[JOI 公式テキスト Pythonで問題解決](https://www.amazon.co.jp/dp/4407359447)」の説明文を更新。
+
 ### 2022-09-29
 
 - [#4670](https://github.com/KATO-Hiro/AtCoderClans/pull/4670) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、記事「[高橋直大のアナザーAI探訪記](https://xtech.nikkei.com/atcl/nxt/column/18/02204/)」を追加。
