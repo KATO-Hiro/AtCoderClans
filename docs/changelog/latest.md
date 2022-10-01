@@ -6,8 +6,7 @@ title: Change Log
 
 ### 2022-10-01
 
-- [#4678](https://github.com/KATO-Hiro/AtCoderClans/pull/4678) - 「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に
-](../../chrome_extensions/submit_codes)」ページに、Chrome拡張機能「[AtCoder Submission Share](https://chrome.google.com/webstore/detail/atcoder-submission-share/iinlphkfpahlfohgkphcchhejkhclgap)」を追加。
+- [#4678](https://github.com/KATO-Hiro/AtCoderClans/pull/4678) - 「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../chrome_extensions/submit_codes)」ページに、Chrome拡張機能「[AtCoder Submission Share](https://chrome.google.com/webstore/detail/atcoder-submission-share/iinlphkfpahlfohgkphcchhejkhclgap)」を追加。
 
 ### 2022-09-30
 
