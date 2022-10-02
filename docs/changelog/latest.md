@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-10-02
+
+- [#4685](https://github.com/KATO-Hiro/AtCoderClans/pull/4685) - 「[Articles, Blogs, Books and Videos](../../blogs)」ページのヒューリスティック部門に、最高レーティングが2000以上に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+- [#4683](https://github.com/KATO-Hiro/AtCoderClans/pull/4683) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜2399に到達したユーザのブログを追加。
+
 ### 2022-10-01
 
 - [#4678](https://github.com/KATO-Hiro/AtCoderClans/pull/4678) - 「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../chrome_extensions/submit_codes)」ページに、Chrome拡張機能「[AtCoder Submission Share](https://chrome.google.com/webstore/detail/atcoder-submission-share/iinlphkfpahlfohgkphcchhejkhclgap)」を追加。
