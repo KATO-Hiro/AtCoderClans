@@ -122,6 +122,7 @@ title: C&#43;&#43;
 |gyouzasushi|[はてなブログ](https://gyouzasushi.hatenablog.com/)||
 |habara_k|[はてなブログ](https://habara-k.hatenadiary.jp/)||
 |hamayanhamayan|[はてなブログ](https://blog.hamayanhamayan.com/)||
+|hari64|[Qiita](https://qiita.com/hari64)||
 |hasi|[GitHub Pages](https://hasipon.github.io/pages/)||
 |HayatoY|[はてなブログ](https://hayatoy.hatenablog.com/)||
 |Hec|[はてなブログ](https://osrehun.hatenadiary.jp/)||
@@ -156,6 +157,7 @@ title: C&#43;&#43;
 |niuez|[GitHub Pages](https://niuez.github.io/)||
 |NOSS|[はてなブログ](https://noss.hatenablog.com/)||
 |not|[はてなブログ](https://not522.hatenablog.com/)、[はてなグループ](https://topcoder-g-hatena-ne-jp.jag-icpc.org/not522/)||
+|nyoguta|[はてなブログ](https://nyoguta.hatenablog.com/)||
 |opt|[自作ブログ](https://opt-cp.com/)||
 |packer_jp|[はてなブログ](https://packer-jp.hatenadiary.jp/)||
 |paruki|[はてなブログ](https://par.hateblo.jp/)||
