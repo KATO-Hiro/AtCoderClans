@@ -14,5 +14,6 @@ title: Java
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
+|ks2m|[はてなブログ](https://ks2m.hatenablog.com/)||
 |rabot|[Qiita](https://qiita.com/tanaka-a)||
 |tsukammo|[はてなブログ](https://tsukammo.hatenablog.com/)、[Qiita](https://qiita.com/tsukammo)||
