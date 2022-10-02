@@ -6,6 +6,7 @@ title: C&#43;&#43;
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
+|bowwowforeach|[はてなブログ](https://bowwowforeach.hatenablog.com/)||
 |eivour|[Qiita](https://qiita.com/contramundum)||
 |square1001|[Qiita](https://qiita.com/square1001)||
 |WA_TLE|[はてなブログ](https://watle.hatenablog.com/)|2019年1月以降、新規の記事を確認できず。|
@@ -17,7 +18,6 @@ title: C&#43;&#43;
 |asi1024|[はてなブログ](https://asi1024.hatenablog.com/)|2017年3月以降、新規の記事を確認できず。|
 |assy|[はてなブログ](https://assy.hatenablog.jp/)||
 |ats5515|[はてなブログ](https://ats5515.hatenablog.com/)||
-|bowwowforeach|[はてなブログ](https://bowwowforeach.hatenablog.com/)||
 |hitonanode|[はてなブログ](https://rsm9.hatenablog.com/)||
 |iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
 |Jirotech|[はてなブログ](https://shuu0914.hatenablog.com/)||
@@ -26,9 +26,11 @@ title: C&#43;&#43;
 |Nyaan|[はてなブログ](https://nyaan.hatenablog.com/)||
 |phocom|[Qiita](https://qiita.com/phocom)||
 |saharan|[自作ブログ](https://blog.oimo.io/)||
+|shibh308|[はてなブログ](https://shibh308.hatenablog.com/)||
 |Shun_PI|[Qiita](https://qiita.com/Shun_PI)||
 |siman|[はてなブログ](https://simanman.hatenablog.com/)||
 |takumi152|[はてなブログ](https://takumi152.hatenablog.jp/)||
+|wanui|[Zenn](https://zenn.dev/gmeriaog)||
 
 ## レーティング2000〜2399(黄色)
 
@@ -50,11 +52,9 @@ title: C&#43;&#43;
 |physics0523|[はてなブログ](https://physics0523.hatenablog.com/)||
 |qLethon|[はてなブログ](https://qlethon.hatenablog.com/)||
 |riantkb|[はてなブログ](https://rian.hatenablog.jp/)||
-|shibh308|[はてなブログ](https://shibh308.hatenablog.com/)||
 |Shibuyap|[Qiita](https://qiita.com/Shibuyap)||
 |shindannin|[はてなブログ](https://shindannin.hatenadiary.com/)||
 |theory_and_me|[はてなブログ](https://theory-and-me.hatenablog.com/)||
 |tsukasa_diary|[Qiita](https://qiita.com/tsukasa__diary)||
 |ValGrowth|[はてなブログ](https://valgrowth.hatenablog.com/archive)||
-|wanui|[Zenn](https://zenn.dev/gmeriaog)||
 |yunix|[はてなブログ](https://yunix-kyopro.hatenablog.com/)||
