@@ -65,6 +65,7 @@ title: C&#43;&#43;
 |dohatsutsu|[はてなブログ](https://dohatsutsu.hatenablog.com/)|2017年11月以降、新規の記事を確認できず。|
 |dokin|[はてなブログ](https://dokinac.hatenablog.com/)||
 |drken|[はてなブログ](https://drken1215.hatenablog.com/)、 [Qiita](https://qiita.com/drken)|[問題解決力を鍛える!アルゴリズムとデータ構造](https://www.amazon.co.jp/dp/4065128447/)の著者。[アルゴ式](https://algo-method.com/)の運営者。|
+|drogskol|[はてなブログ](https://drogskol.hatenablog.com/)||
 |ei13333|[はてなブログ](https://ei1333.hateblo.jp/)||
 |enjapma|[はてなブログ](https://enjapma.hatenablog.com/)||
 |gasin|[はてなブログ](https://gasin.hatenadiary.jp/)||
@@ -112,7 +113,6 @@ title: C&#43;&#43;
 |Chanyuh|[はてなブログ](https://p-chanyuh.hatenablog.com/)||
 |cookies|[はてなブログ](https://cookies.hatenablog.jp/)||
 |ctyl|[はてなブログ](https://ctylim.hatenablog.com/)|2018年1月以降、新規の記事を確認できず。|
-|drogskol|[はてなブログ](https://drogskol.hatenablog.com/)||
 |eiya|[はてなブログ](https://eiya5498513.hatenablog.jp/)||
 |ferin_tech|[はてなブログ](https://ferin-tech.hatenablog.com/)|2020年1月以降、新規の記事を確認できず。|
 |firiexp|[自作ブログ](https://www.firiex.com/dokuwiki/%E8%A7%A3%E8%AA%AC%E8%A8%98%E4%BA%8B/start)||
@@ -175,6 +175,7 @@ title: C&#43;&#43;
 |tsutaj|[はてなブログ](https://tsutaj.hatenablog.com/)||
 |TumoiYorozu|[Qiita](https://qiita.com/TumoiYorozu)||
 |unos|[はてなブログ](https://unosss.hatenablog.com/)||
+|unsre|[はてなブログ](https://kanki2rui.hatenablog.jp/)||
 |veqcc|[はてなブログ](https://veqcc.hatenablog.jp/)|2019年9月以降、新規の記事を確認できず。|
 |wisteria0410ss|[Qiita](https://qiita.com/wisteria0410ss)|2018年10月以降、新規の記事を確認できず。|
 |wotsushi|[Qiita](https://qiita.com/wotsushi)|2020年1月以降、新規の記事を確認できず。|
