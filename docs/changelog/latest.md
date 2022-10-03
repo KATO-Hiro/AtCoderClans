@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-10-03
+
+- [#4696](https://github.com/KATO-Hiro/AtCoderClans/pull/4696) - 「[Articles, Blogs, Books and Videos](../../blogs)」ページのアルゴリズム部門に、最高レーティングが2000以上に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+- [#4695](https://github.com/KATO-Hiro/AtCoderClans/pull/4695) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、記事「[estie プログラミングコンテスト2022（AtCoder Heuristic Contest 014）参加記](https://kaede2020.hatenablog.com/entry/2022/10/01/190044)」を追加。
+- [#4694](https://github.com/KATO-Hiro/AtCoderClans/pull/4694) - (破壊的な変更) リンク切れと思われるWebサイト、記事・ブログを一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2022-10-02
 
 - [#4685](https://github.com/KATO-Hiro/AtCoderClans/pull/4685) - 「[Articles, Blogs, Books and Videos](../../blogs)」ページのヒューリスティック部門に、最高レーティングが2000以上に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
