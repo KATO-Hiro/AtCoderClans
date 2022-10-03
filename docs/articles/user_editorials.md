@@ -20,7 +20,6 @@ title: 解説ブログ・サイトを見る
 - [E869120](https://qiita.com/e869120) - [E869120](https://atcoder.jp/users/E869120)さんのQiitaアカウント。初心者から上級者向けの記事が多数公開されている。
 - [kmjp's blog](https://kmjp.hatenablog.jp/) - [kmjp](https://atcoder.jp/users/kmjp)さんの解説ブログ。複数のコンテストサイトにおける高難易度の問題の解説が多数掲載されている。
 - [noshi91のメモ](https://noshi91.hatenablog.com/) - [noshi91](https://atcoder.jp/users/noshi91)さんの解説ブログ。データ構造に関する記事が多いのが特徴。
-- [optの競プロブログ](https://opt-cp.com/) - [opt](https://atcoder.jp/users/opt)さんの解説ブログ。数学に関する解説・証明を扱った記事が多い。
 
 ## Python
 

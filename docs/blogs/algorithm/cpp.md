@@ -158,7 +158,6 @@ title: C&#43;&#43;
 |NOSS|[はてなブログ](https://noss.hatenablog.com/)||
 |not|[はてなブログ](https://not522.hatenablog.com/)、[はてなグループ](https://topcoder-g-hatena-ne-jp.jag-icpc.org/not522/)||
 |nyoguta|[はてなブログ](https://nyoguta.hatenablog.com/)||
-|opt|[自作ブログ](https://opt-cp.com/)||
 |packer_jp|[はてなブログ](https://packer-jp.hatenadiary.jp/)||
 |paruki|[はてなブログ](https://par.hateblo.jp/)||
 |phocom|[Qiita](https://qiita.com/phocom)||

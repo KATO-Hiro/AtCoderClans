@@ -23,7 +23,7 @@ title: Change Log
 
 ### 2022-09-28
 
-- [#4666](https://github.com/KATO-Hiro/AtCoderClans/pull/4666) - 「[Libraries and Snippets](../../libraries)」の「[複数の言語](../../libraries/libraries)」ページで掲載している[The Algorithms](https://github.com/TheAlgorithms)に、[Webサイト版](https://the-algorithms.com/)のリンクを追加。
+- [#4666](https://github.com/KATO-Hiro/AtCoderClans/pull/4666) - 「[Libraries and Snippets](../../libraries)」の「[複数の言語](../../libraries/libraries)」ページで掲載している[The Algorithms](https://github.com/TheAlgorithms)に、Webサイト版のリンクを追加。
 
 ### 2022-09-27
 

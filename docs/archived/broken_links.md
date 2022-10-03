@@ -48,6 +48,12 @@ title: リンク切れ
 
 - [異常modまとめ](https://hyado.hatenablog.jp/entry/2020/12/07/000000) - 場合の数を大きな素数で割った余りを求める問題において、珍しい素数や有名な素数に近い値が出題された事例を紹介した記事。
     - 確認した日: 2022/02/24
+- 接続行列を係数にもつ線形方程式 (PDF)<sup>[archive.org](http://web.archive.org/web/20201101013405/https://opt-cp.com/linear-system-incidence/)</sup> - 「グラフの接続行列を係数にもつ線形方程式」の解法を説明した記事。また、解法の擬似コードやコンテストの例題も掲載されている。
+    - 確認した日: 2022/10/03
+- 形式的冪級数（FPS）が使えるAtCoderの問題リスト + 解説（随時更新）<sup>[archive.org](http://web.archive.org/web/20201101035012/https://opt-cp.com/fps-problem-list/)</sup> - 形式的冪級数が活用できる問題リスト。
+    - 確認した日: 2022/10/03
+- ミニマックス定理の意味と初等的証明<sup>[archive.org](http://web.archive.org/web/20220616233449/https://opt-cp.com/minimax-game-proof/)</sup> - ミニマックス定理のゲーム理論的な意味の解釈方法と同定理の証明を紹介した記事。
+    - 確認した日: 2022/10/03
 
 ### 解説ブログ・サイトを見る
 
@@ -62,6 +68,9 @@ title: リンク切れ
     - [競技プログラミングにおける個人的C++コーディングスタイル(2020)](https://kimiyuki.net/blog/2020/10/25/coding-style-for-competitive-programming/) - [kimiyuki](https://atcoder.jp/users/kimiyuki)さんの好みのコーディングスタイルについて、競技プログラミングという文脈での利点と批判の両面から紹介した記事。
     - [プログラミング言語処理系の作り方 (競プロer向け)](https://kimiyuki.net/blog/2021/08/05/how-to-make-your-own-interpreter/) - 競技プログラマーに向けて、言語処理系の作り方やその難易度について説明した記事。
 
+- [optの競プロブログ](https://opt-cp.com/) - [opt](https://atcoder.jp/users/opt)さんの解説ブログ。数学に関する解説・証明を扱った記事が多い。
+    - 確認した日: 2022/10/03
+
 ### 競技プログラミングと就転職
 
 - [AtCoder純粋培養緑コーダーが転職ACするまで](https://seashellpink-frostywhite.hatenablog.com/entry/2021/03/31/185821) - [riano_](https://atcoder.jp/users/riano_)さんが[AtCoderJobs](https://jobs.atcoder.jp/)を利用してIT業界未経験の状態から転職した経験談を紹介した記事。
@@ -69,6 +78,8 @@ title: リンク切れ
 
 ## ブログ
 
+- [自作ブログ - opt](https://opt-cp.com/)
+    - 確認した日: 2022/10/03
 - [Qiita - KoD](https://qiita.com/Kodaman_KoD)
     - 確認した日: 2022/09/05
 - [はてなブログ - yochan](https://www.yochan.blog/main/)
@@ -83,10 +94,19 @@ title: リンク切れ
 
 ## ライブラリ・スニペット
 
+### ACLの使用方法の解説
+
+- 遅延伝播セグメント木の使い方，ACLPC: K – Range Affine Range Sumの解説<sup>[archive.org](http://web.archive.org/web/20210207063437/https://opt-cp.com/lazysegtree-aclpc-k/)</sup> - [opt](https://atcoder.jp/users/opt)さんによる遅延伝播セグメント木(lazysegtree)の使い方を解説した記事。`lazysegtree`をブラックボックスとして使えるようになることを目標としており、「モノイド」などの用語を一切使わずに説明されている点が特徴。例題として、[コンテストで出題された問題](https://atcoder.jp/contests/practice2/tasks/practice2_k)の解説もある。さらに、つまづきやすいポイントが別の記事<sup>[archive.org](http://web.archive.org/web/20201211073151/https://opt-cp.com/lazysegtree-practice/)</sup>でカバーされている。
+    - 確認した日: 2022/10/03
+
 ### ACL Kotlin
 
 - [da-louis/ac-library-kt](https://github.com/da-louis/ac-library-kt) ![GitHub stars](https://img.shields.io/github/stars/da-louis/ac-library-kt?style=plastic) - [AtCoder Library (ACL)](https://atcoder.jp/posts/517)のKotlin版。[Java版](https://github.com/NASU41/AtCoderLibraryForJava)をベースに作成されている。
     - 確認した日: 2022/03/16
+
+### 複数の言語
+
+- [The Algorithms - Webサイト版](https://the-algorithms.com/)
 
 ### Node.js
 
