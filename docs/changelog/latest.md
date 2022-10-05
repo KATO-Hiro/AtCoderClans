@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-10-05
+
+- [#4710](https://github.com/KATO-Hiro/AtCoderClans/pull/4710) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページで掲載しているWebサイト「[tc-wleite/tc-wleite.github.io](https://github.com/tc-wleite/tc-wleite.github.io)」の説明文を更新。以下のリンクを追加。
+    - [AHC 014](https://tc-wleite.github.io/ahc014.html)
+- [#4707](https://github.com/KATO-Hiro/AtCoderClans/pull/4707) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績を見る](../../web_app/view_and_compare_scores)」ページに、Webアプリ「[Badge Generator](https://badgen.org/)」を追加。
+
 ### 2022-10-04
 
 - [#4703](https://github.com/KATO-Hiro/AtCoderClans/pull/4703) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
