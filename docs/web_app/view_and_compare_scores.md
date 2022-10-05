@@ -103,9 +103,9 @@ title: コンテストの成績を見る
 
 - [AtCoder Badges](https://atcoder-badges.now.sh/) - 任意のユーザのレーティングとレーティングに対応した色を表示するバッジを生成する。[M5StickC](https://github.com/makutamoto/atcoder-badges-for-m5stickc) ![GitHub Repo stars](https://img.shields.io/github/stars/makutamoto/atcoder-badges-for-m5stickc?style=plastic)に表示させることもできる。
 
-  <div align="center">
-    <img loading = "lazy" src="../../images/web_app/atcoder_badges.png" alt="atcoder badges">
-  </div>
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_badges.png" alt="atcoder badges">
+    </div>
 
 - [Badge Generator](https://badgen.org/) - レーティング(アルゴリズム部門、ヒューリスティック部門)に関するバッジが生成できる。[Qiita](https://qiita.com/)や[Zenn](https://zenn.dev/)の各種統計指標にも対応している。
     - [ZennやQiitaやAtCoderのバッジを生成できるサービスを公開しました](https://zenn.dev/kou_pg_0131/articles/badge-generator-introduction) - 作者による解説記事。
@@ -116,14 +116,14 @@ title: コンテストの成績を見る
 
 - [CP-Badges](https://github.com/kehsihba19/CP-Badges) ![GitHub Repo stars](https://img.shields.io/github/stars/kehsihba19/CP-Badges?style=plastic) - 複数のコンテストサイトのレーティングをGitHubのプロフィールなどに掲載することができる。[AtCoder](https://atcoder.jp/)だけでなく、[Codeforces](https://codeforces.com/)、[CodeChef](https://www.codechef.com/)、[Topcoder](https://www.topcoder.com/)、[yukicoder](https://yukicoder.me/)にも対応している。
 
-  <div align="center">
-    <img loading = "lazy" src="../../images/web_app/cp_badges.png" alt="cp badges">
-  </div>
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/cp_badges.png" alt="cp badges">
+    </div>
 
 ### レーティングの推移
 
 - [AtCoder Widget](https://github.com/rdrgn/atcoder-widget) ![GitHub Repo stars](https://img.shields.io/github/stars/rdrgn/atcoder-widget?style=plastic) - ユーザのレーティングの推移をWebページに表示するためウィジェット。
 
-  <div align="center">
-    <img loading = "lazy" src="../../images/web_app/atcoder_widget.png" alt="atcoder widget">
-  </div>
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_widget.png" alt="atcoder widget">
+    </div>
