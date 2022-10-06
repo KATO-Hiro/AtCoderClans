@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-10-06
+
+- [#4717](https://github.com/KATO-Hiro/AtCoderClans/pull/4717) - 「[Milestones](../../milestones/orange)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2400から2799まで(橙色)に[drogskol](https://atcoder.jp/users/drogskol)さんの[記事](https://drogskol.hatenablog.com/entry/2022/10/02/233656)を追加。
+
 ### 2022-10-05
 
 - [#4710](https://github.com/KATO-Hiro/AtCoderClans/pull/4710) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページで掲載しているWebサイト「[tc-wleite/tc-wleite.github.io](https://github.com/tc-wleite/tc-wleite.github.io)」の説明文を更新。以下のリンクを追加。
