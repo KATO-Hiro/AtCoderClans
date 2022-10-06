@@ -6,6 +6,7 @@ title: レーティング2400〜2799(橙色)
 
 - [AtCoder 橙になりました - すこしだけ欠けたピアノの音色](https://seashellpink-frostywhite.hatenablog.com/entry/2022/07/31/180610) - [riano_](https://atcoder.jp/users/riano_)さんが、2022年7月30日に達成。
 - [AtCoder 橙/Codeforces IGMになりました - suisen のブログ](https://suisen-kyopro.hatenablog.com/entry/2022/08/20/194813) - [suisen](https://atcoder.jp/users/suisen)さんが、2022年8月15日に達成。
+- [AtCoder 橙になるまでにやったこと - blogskol](https://drogskol.hatenablog.com/entry/2022/10/02/233656) - [drogskol](https://atcoder.jp/users/drogskol)さんが、2022年10月2日に達成。
 
 ## 2021年
 
