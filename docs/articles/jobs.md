@@ -38,6 +38,7 @@ title: 競技プログラミングと就転職
 
 ## 競技プログラミングとコーディング試験
 
+- [AtCoder高橋社長がLINEのコーディング試験を見て驚いた理由―。「競プロとこんなに違うとは……」](https://gaishishukatsu.com/archives/191528) - [chokudai](https://twitter.com/chokudai)さんとLINEの新卒採用担当者の対談記事。同社の模擬コーディング試験を題材に、競技プログラミングとの違い（問題文・コードの書き方・評価ポイント）を知ることができる。
 - [AtCoderはゲーム？それとも……。高橋直大社長が理系就活生の疑問に答える](https://gaishishukatsu.com/archives/191539) - [chokudai](https://twitter.com/chokudai)さんと情報系大学院生の対談記事。競技プログラミングとコーディング試験の内容や評価ポイントの違い、ユーザとしての競技プログラミングとの向き合い方、AtCoderの運営方針などについて語られている。
 
 ## 競技プログラマの体験談を読む
