@@ -36,6 +36,10 @@ title: 競技プログラミングと就転職
 
 - [業務時間をKaggle＆AtCoder活動に。NABLASのKaggle&AtCoder支援制度とは？](https://www.nablas.com/post/%E6%A5%AD%E5%8B%99%E6%99%82%E9%96%93%E3%82%92kaggle%EF%BC%86atcoder%E6%B4%BB%E5%8B%95%E3%81%AB%E3%80%82nablas%E3%81%AEkaggle-atcoder%E6%94%AF%E6%8F%B4%E5%88%B6%E5%BA%A6%E3%81%A8%E3%81%AF%EF%BC%9F-1) - [NABLAS株式会社](https://www.nablas.com/about?lang=ja)の「Kaggle&AtCoder支援制度」に関する記事。業務時間の一部(直近半年の実績に応じて変動)を各コンテストサイトでの活動に充てたり、計算資源が利用できたりする制度が紹介されている。
 
+## 競技プログラミングとコーディング試験
+
+- [AtCoderはゲーム？それとも……。高橋直大社長が理系就活生の疑問に答える](https://gaishishukatsu.com/archives/191539) - [chokudai](https://twitter.com/chokudai)さんと情報系大学院生の対談記事。競技プログラミングとコーディング試験の内容や評価ポイントの違い、ユーザとしての競技プログラミングとの向き合い方、AtCoderの運営方針などについて語られている。
+
 ## 競技プログラマの体験談を読む
 
 ### AtCoderJobsによる就職・転職
