@@ -14,6 +14,7 @@ title: レーティング1200〜1599(水色)
 - [【競プロ】新人SEがAtCoderを始めて水色になった【色変記事】](https://qiita.com/BinomialSheep/items/bdced19c2dc4e6b481ec) - [BinomialSheep](https://atcoder.jp/users/BinomialSheep)さんが、2022年7月23日に達成。
 - [AtCoderで水色になりました！ - shuのブログ](https://shu8cream.hatenablog.com/entry/2022/08/21/204030) - [shu8Cream](https://atcoder.jp/users/shu8Cream)さんが、2022年8月6日に達成。
 - [13ヶ月で水色コーダーになれた33歳(色変記事その2)](https://jp.magicode.io/bkcocoa/articles/1751562f33f241de90c988cca589c6a3) - [bk_cocoa](https://atcoder.jp/users/bk_cocoa)さんが、2022年8月27日に達成。
+- [【AtCoder 色変記事】PythonでAtCoder水色になりました](https://qiita.com/MoroeTachibana-oh/items/a8dcad981369367ea6fa) - [takumaiq](https://atcoder.jp/users/takumaiq)さんが、2022年10月1日に達成。
 
 ## 2021年
 
