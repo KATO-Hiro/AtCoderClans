@@ -35,6 +35,7 @@ title: 競技プログラミングと就転職
 ### 企業の支援制度
 
 - [業務時間をKaggle＆AtCoder活動に。NABLASのKaggle&AtCoder支援制度とは？](https://www.nablas.com/post/%E6%A5%AD%E5%8B%99%E6%99%82%E9%96%93%E3%82%92kaggle%EF%BC%86atcoder%E6%B4%BB%E5%8B%95%E3%81%AB%E3%80%82nablas%E3%81%AEkaggle-atcoder%E6%94%AF%E6%8F%B4%E5%88%B6%E5%BA%A6%E3%81%A8%E3%81%AF%EF%BC%9F-1) - [NABLAS株式会社](https://www.nablas.com/about?lang=ja)の「Kaggle&AtCoder支援制度」に関する記事。業務時間の一部(直近半年の実績に応じて変動)を各コンテストサイトでの活動に充てたり、計算資源が利用できたりする制度が紹介されている。
+- [【 人事ブログ#4】AtCoder手当始めます！](https://www.wantedly.com/companies/learningbox/post_articles/437986) - [learningBOX株式会社](https://learningbox.online/)の手当制度を紹介した記事。4半期におけるAtCoderの最高パフォーマンスに応じて、手当てが付与される仕組み。
 
 ## 競技プログラミングとコーディング試験
 
