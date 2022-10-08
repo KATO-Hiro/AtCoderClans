@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-10-08
+
+- [#4722](https://github.com/KATO-Hiro/AtCoderClans/pull/4722)、[#4724](https://github.com/KATO-Hiro/AtCoderClans/pull/4724)、[#4726](https://github.com/KATO-Hiro/AtCoderClans/pull/4726) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
+    - [AtCoderはゲーム？それとも……。高橋直大社長が理系就活生の疑問に答える](https://gaishishukatsu.com/archives/191539)
+    - [AtCoder高橋社長がLINEのコーディング試験を見て驚いた理由―。「競プロとこんなに違うとは……」](https://gaishishukatsu.com/archives/191528)
+    - [【 人事ブログ#4】AtCoder手当始めます！](https://www.wantedly.com/companies/learningbox/post_articles/437986)
+
 ### 2022-10-07
 
 - [#4720](https://github.com/KATO-Hiro/AtCoderClans/pull/4720) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
