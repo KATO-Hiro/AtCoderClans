@@ -6,7 +6,7 @@ title: Change Log
 
 ### 2022-10-09
 
-- [#4740](https://github.com/KATO-Hiro/AtCoderClans/pull/4740) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+- [#4740](https://github.com/KATO-Hiro/AtCoderClans/pull/4740) - 「[Articles, Blogs, Books and Videos](../../media)」の「[番組アーカイブ](../../videos/archived_video)」ページに、以下の動画を追加。
     - [「記憶の苦しみをなくす」日本発の“記憶”アプリは学習を変えるか？【橋本幸治の理系通信】（2022年9月30日）](https://www.youtube.com/watch?v=GOBcFPkRPJY)
 
 ### 2022-10-08
