@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-10-09
+
+- [#4740](https://github.com/KATO-Hiro/AtCoderClans/pull/4740) - 「[Articles, Blogs, Books and Videos](../../media)」の「[番組アーカイブ](../../videos/archived_video)」ページに、以下の動画を追加。
+    - [「記憶の苦しみをなくす」日本発の“記憶”アプリは学習を変えるか？【橋本幸治の理系通信】（2022年9月30日）](https://www.youtube.com/watch?v=GOBcFPkRPJY)
+
 ### 2022-10-08
 
 - [#4722](https://github.com/KATO-Hiro/AtCoderClans/pull/4722)、[#4724](https://github.com/KATO-Hiro/AtCoderClans/pull/4724)、[#4726](https://github.com/KATO-Hiro/AtCoderClans/pull/4726) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
