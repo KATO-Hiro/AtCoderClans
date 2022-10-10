@@ -25,6 +25,7 @@ title: 書籍
 - [アルゴリズム実技検定 公式テキスト[エントリー~中級編]](https://www.amazon.co.jp/gp/product/483997277X/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=rust-twitter-22&linkId=f436393e211c3e53630445f04c8d65c9&language=ja_JP) - [betrue12](https://atcoder.jp/users/betrue12)さんと[kenkoooo](https://atcoder.jp/users/kenkoooo)さんによる書籍(通称、PAST本)。「アルゴリズム実技検定(PAST)」初の公式テキスト。書籍の特徴・解説の範囲・使用言語などについては、[著者のブログ](https://betrue12.hateblo.jp/entry/2021/02/20/123103)を参照されたい。また、書籍に掲載されている解答例のソースコードが[GitHub](https://github.com/kenkoooo/pastbook-source-code)で公開されている。
 - [競技プログラミングの鉄則 ~アルゴリズム力と思考力を高める77の技術~](https://www.amazon.co.jp/dp/483997750X) - [E869120](https://atcoder.jp/users/E869120)さんによる書籍の第2弾。アルゴリズムや思考テクニックを学ぶことができる。豊富なオリジナル問題やヒューリスティック最適化への対応などが特徴。
     - [書籍「競技プログラミングの鉄則」を書きました](https://e869120.hatenablog.com/entry/2022/09/08/214552) - 著者による書籍の内容と想定読者の説明。
+    - [【発売即重版】書籍『競技プログラミングの鉄則』を著者が解説](https://www.youtube.com/watch?v=iZ_-sGVHBVg) - 著者による書籍の解説動画。視聴者からの質問・回答コーナーもある。
     - [E869120/kyopro-tessoku](https://github.com/E869120/kyopro-tessoku) ![GitHub Repo stars](https://img.shields.io/github/stars/E869120/kyopro-tessoku?style=plastic) - ソースコード(C++、Python、Java)、節末問題・力試し問題の解答、正誤表が掲載されている。
     - [競技プログラミングの鉄則　演習問題集](https://atcoder.jp/contests/tessoku-book) - [AtCoder](https://atcoder.jp/)の自動採点システムで、書籍に掲載されている問題を解くことができる。
     - [有志による紹介動画](https://twitter.com/kaede20203/status/1570163622755827713) - [kaede2020](https://atcoder.jp/users/kaede2020)さんが、書籍の7章「ヒューリスティック」の概要を紹介している。
