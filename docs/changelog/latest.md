@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-10-10
+
+- [#4744](https://github.com/KATO-Hiro/AtCoderClans/pull/4744) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに掲載している「[競技プログラミングの鉄則 ~アルゴリズム力と思考力を高める77の技術~](https://www.amazon.co.jp/dp/483997750X)」の説明文を更新。以下の内容を追加。
+    - [【発売即重版】書籍『競技プログラミングの鉄則』を著者が解説](https://www.youtube.com/watch?v=iZ_-sGVHBVg)
+
 ### 2022-10-09
 
 - [#4740](https://github.com/KATO-Hiro/AtCoderClans/pull/4740) - 「[Articles, Blogs, Books and Videos](../../media)」の「[番組アーカイブ](../../videos/archived_video)」ページに、以下の動画を追加。
