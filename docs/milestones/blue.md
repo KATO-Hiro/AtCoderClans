@@ -16,6 +16,7 @@ title: レーティング1600〜1999(青色)
 - [AtCoder青になったりならなかったりしました - でぶ脱却日記](https://shojin-debu.hatenablog.com/entry/2022/06/19/155624) - [shojin_debu](https://atcoder.jp/users/shojin_debu)さんが、2022年6月18日に達成。
 - [重い腰を上げてAtcoderを始めた(青)](https://qiita.com/Lenqth/items/babdc1e652e0e041b321) - [Lenqth](https://atcoder.jp/users/Lenqth)さんが、2022年6月26日に達成。
 - [AtCoderで青になりました - zeronosu77108’s blog](https://zeronosu77108.hatenablog.com/entry/2022/08/01/221949) - [zeronosu77108](https://atcoder.jp/users/zeronosu77108)さんが、2022年7月31日に達成。
+- [atcoderで青色になった話](https://qiita.com/mo124121/items/ee0c75c89e2fe0640cb6) - [mo12412](https://atcoder.jp/users/mo12412)さんが、2022年10月2日に達成。
 
 ## 2021年
 
