@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-10-12
+
+- [#4754](https://github.com/KATO-Hiro/AtCoderClans/pull/4754) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績を見る](../../web_app/view_and_compare_scores)」ページに掲載しているWebアプリ「[Badge Generator](https://badgen.org/)」の説明文を更新。以下の記事を追加。
+    - [ZennやAtCoderでの頑張りをバッジで可視化してくれるサービスを試してみた](https://dev.classmethod.jp/articles/try_embed_atcoder_and_zenn_badjes/)
+- [#4753](https://github.com/KATO-Hiro/AtCoderClans/pull/4753) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページに、Webアプリ「[Algorithm Visualizer](https://algorithm-visualizer.org)」を追加。
+
 ### 2022-10-11
 
 - [#4750](https://github.com/KATO-Hiro/AtCoderClans/pull/4750) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
