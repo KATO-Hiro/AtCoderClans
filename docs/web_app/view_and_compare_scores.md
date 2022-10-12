@@ -109,6 +109,7 @@ title: コンテストの成績を見る
 
 - [Badge Generator](https://badgen.org/) - レーティング(アルゴリズム部門、ヒューリスティック部門)に関するバッジが生成できる。[Qiita](https://qiita.com/)や[Zenn](https://zenn.dev/)の各種統計指標にも対応している。
     - [ZennやQiitaやAtCoderのバッジを生成できるサービスを公開しました](https://zenn.dev/kou_pg_0131/articles/badge-generator-introduction) - 作者による解説記事。
+    - [ZennやAtCoderでの頑張りをバッジで可視化してくれるサービスを試してみた](https://dev.classmethod.jp/articles/try_embed_atcoder_and_zenn_badjes/) - 有志による紹介記事。
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/badge_generator.png" alt="badge generator">
