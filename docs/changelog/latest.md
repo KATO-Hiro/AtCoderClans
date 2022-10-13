@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-10-13
+
+- [#4758](https://github.com/KATO-Hiro/AtCoderClans/pull/4758) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[Rensyu](https://atcoder.jp/users/Rensyu)さんの[記事](https://qiita.com/gakusei_programmer/items/146728aaa229475c4826)を追加。
+
 ### 2022-10-12
 
 - [#4754](https://github.com/KATO-Hiro/AtCoderClans/pull/4754) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績を見る](../../web_app/view_and_compare_scores)」ページに掲載しているWebアプリ「[Badge Generator](https://badgen.org/)」の説明文を更新。以下の記事を追加。
