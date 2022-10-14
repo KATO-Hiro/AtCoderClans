@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-10-14
+
+- [#4762](https://github.com/KATO-Hiro/AtCoderClans/pull/4762) - 「[Related Contest Sites](../../related_contest_sites)」の「[不定期開催](../../related_contest_sites/algorithm)」ページに、Webアプリ「[leetcode-stats](https://github.com/JeremyTsaii/leetcode-stats)」を追加。
+
 ### 2022-10-13
 
 - [#4758](https://github.com/KATO-Hiro/AtCoderClans/pull/4758) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
