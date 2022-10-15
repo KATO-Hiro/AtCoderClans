@@ -31,6 +31,7 @@ title: 不定期開催
 ### 統計情報を見る
 
 - [leetcode-stats](https://github.com/JeremyTsaii/leetcode-stats) ![GitHub Repo stars](https://img.shields.io/github/stars/JeremyTsaii/leetcode-stats?style=plastic) - ユーザの順位や解答状況を表示することができる。
+    - [leetcode-stats-api](https://github.com/JeremyTsaii/leetcode-stats-api) ![GitHub Repo stars](https://img.shields.io/github/stars/JeremyTsaii/leetcode-stats-api?style=plastic) - 上記の統計情報を取得するためのAPI。
 
     <div align="center">
       <img loading = "lazy" src="../../images/related_contest_sites/leetcode/leetcode_stats.png" alt="leetcode stats">
