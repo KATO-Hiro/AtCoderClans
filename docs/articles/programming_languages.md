@@ -23,7 +23,11 @@ title: プログラミング言語を学ぶ
 
 ## Kotlin
 
+<!-- markdown-link-check-disable -->
+
 - [Competitive Programming](https://kotlinlang.org/docs/tutorials/competitive-programming.html) - 競技プログラミングにおいて、[Kotlin](https://kotlinlang.org/)で参加する方法を解説した公式チュートリアル。
+
+<!-- markdown-link-check-enable -->
 
 ## Python
 
