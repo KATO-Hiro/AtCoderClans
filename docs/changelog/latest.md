@@ -6,7 +6,7 @@ title: Change Log
 
 ### 2022-10-15
 
-- [#4774](https://github.com/KATO-Hiro/AtCoderClans/pull/4765) - 「light mode」におけるカラースキームを修正。
+- [#4774](https://github.com/KATO-Hiro/AtCoderClans/pull/4774) - (破壊的な変更) 「light mode」におけるカラースキームを修正。
 - [#4766](https://github.com/KATO-Hiro/AtCoderClans/pull/4765)、[#4766](https://github.com/KATO-Hiro/AtCoderClans/pull/4766)、[#4768](https://github.com/KATO-Hiro/AtCoderClans/pull/4768)、[#4769](https://github.com/KATO-Hiro/AtCoderClans/pull/4769) - 「[Related Contest Sites](../../related_contest_sites)」に「[LeetCode](../../related_contest_sites/leetcode)」ページを新設。以下のWebアプリを追加。
     - [Leetcode Rating Predictor](http://lcpredictor.herokuapp.com/)
     - [LeetCode Ranking](https://leetcode-country-ranking.herokuapp.com/)
