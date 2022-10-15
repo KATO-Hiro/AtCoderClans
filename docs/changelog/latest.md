@@ -4,9 +4,16 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-10-15
+
+- [#4766](https://github.com/KATO-Hiro/AtCoderClans/pull/4765)、[#4766](https://github.com/KATO-Hiro/AtCoderClans/pull/4766)、[#4768](https://github.com/KATO-Hiro/AtCoderClans/pull/4768)、[#4769](https://github.com/KATO-Hiro/AtCoderClans/pull/4769) - 「[Related Contest Sites](../../related_contest_sites)」に「[LeetCode](../../related_contest_sites/leetcode)」ページを新設。以下のWebアプリを追加。
+    - [Leetcode Rating Predictor](http://lcpredictor.herokuapp.com/)
+    - [LeetCode Ranking](https://leetcode-country-ranking.herokuapp.com/)
+    - [leetcode-stats-api](https://github.com/JeremyTsaii/leetcode-stats-api)
+
 ### 2022-10-14
 
-- [#4762](https://github.com/KATO-Hiro/AtCoderClans/pull/4762) - 「[Related Contest Sites](../../related_contest_sites)」の「[不定期開催](../../related_contest_sites/algorithm)」ページに、Webアプリ「[leetcode-stats](https://github.com/JeremyTsaii/leetcode-stats)」を追加。
+- [#4762](https://github.com/KATO-Hiro/AtCoderClans/pull/4762) - 「[Related Contest Sites](../../related_contest_sites)」の「[LeetCode](../../related_contest_sites/leetcode)」ページに、Webアプリ「[leetcode-stats](https://github.com/JeremyTsaii/leetcode-stats)」を追加。
 
 ### 2022-10-13
 
