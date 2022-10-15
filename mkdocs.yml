@@ -31,7 +31,7 @@ theme:
     - search.share
     - search.suggest
   palette:
-    - scheme: default
+    - scheme: atcoderclans
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
