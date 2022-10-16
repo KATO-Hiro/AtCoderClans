@@ -61,6 +61,8 @@ A1: 入門者、初心者向けの教材や記事を読んでみましょう。[
 
         記事に掲載されているコードが最新のジャッジシステムで動作しない場合もあります
 
+- [競プロの問題文、言葉遣いについて](https://atcoder.jp/contests/abc273/editorial/5044) - 競技プログラミングの初心者に向けて、問題文・言葉遣いを解釈する方法が紹介されている記事です。
+
 ## 練習で実力を伸ばす
 
 - [APG4bからAtCoderを始めた人向けの導線](https://mogurin1000000007.hatenablog.com/entry/2021/02/09/162158) - 公式が提供するプログラミングの入門教材[C++入門 AtCoder Programming Guide for beginners (通称APG4b)](https://atcoder.jp/contests/APG4b)の概説と、APG4bをある程度学習した人に向けた基本的な練習方法やTipsが紹介されている記事です。
