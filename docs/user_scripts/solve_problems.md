@@ -88,7 +88,7 @@ title: 問題を解く
 - [AtCoder Efficient Layout](https://greasyfork.org/ja/scripts/453117-atcoder-efficient-layout) - 「問題」ページで、入出力の形式とそれらの例を横並びで表示できる。
 
     <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcoder_efficient_layout.png" alt="atcoder efficientlayout">
+      <img loading = "lazy" src="../../images/userscript/atcoder_efficient_layout.png" alt="atcoder efficient layout">
     </div>
 
 - [AtCoder for Large Display](https://greasyfork.org/ja/scripts/439100-atcoder-for-large-display) - 「問題」ページで、入出力例を2列で表示する。
