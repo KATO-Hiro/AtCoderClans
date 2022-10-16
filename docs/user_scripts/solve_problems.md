@@ -83,6 +83,29 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/check_constraints.png" alt="check constraints">
     </div>
 
+### 入出力例を集約
+
+- [AtCoder Efficient Layout](https://greasyfork.org/ja/scripts/453117-atcoder-efficient-layout) - 「問題」ページで、入出力の形式とそれらの例を横並びで表示できる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_efficient_layout.png" alt="atcoder efficient layout">
+    </div>
+
+- [AtCoder for Large Display](https://greasyfork.org/ja/scripts/439100-atcoder-for-large-display) - 「問題」ページで、入出力例を2列で表示する。
+
+    !!! warning "注意"
+        古い問題では正しく表示されない可能性がある。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_for_large_display.png" alt="atcoder for large display">
+    </div>
+
+- [atcoder_collect_all_examples](https://greasyfork.org/ja/scripts/387240-atcoder-collect-all-examples) - 「問題」ページに入力例・出力例をそれぞれまとめる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_collect_all_examples.png" alt="atcoder collect all examples">
+    </div>
+
 ### ヒントを見る
 
 - [AtCoderTags_Hint](https://greasyfork.org/ja/scripts/393337-atcodertags-hint) - 「問題」ページにカテゴリーを表すヒントボタンを設置する。
