@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-10-17
+
+- [#4790](https://github.com/KATO-Hiro/AtCoderClans/pull/4790) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに掲載している「[競技プログラミングの鉄則 ~アルゴリズム力と思考力を高める77の技術~](https://www.amazon.co.jp/dp/483997750X)」の説明文を更新。以下の内容を追加。
+    - [演習問題のテストケース](https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABh1dWn9MpTS1XX_t3_2nHfa/tessoku-book)
+
 ### 2022-10-16
 
 - [#4785](https://github.com/KATO-Hiro/AtCoderClans/pull/4785) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、ユーザスクリプト「[AtCoder Efficient Layout](https://greasyfork.org/ja/scripts/453117-atcoder-efficient-layout)」を追加。
