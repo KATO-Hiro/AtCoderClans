@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-10-20
+
+- [#4801](https://github.com/KATO-Hiro/AtCoderClans/pull/4801) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、記事「[1WAがとれない……ときのランダムテストのすゝめ](https://seekworser.hatenablog.com/entry/2022/10/04/001413)」を追加。
+
 ### 2022-10-19
 
 - [#4797](https://github.com/KATO-Hiro/AtCoderClans/pull/4797) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
