@@ -18,6 +18,7 @@ title: 実装テクニックを学ぶ
 - [バグった原因集](https://motsu-xe.hatenablog.com/entry/2019/11/15/173514) - [Motsu_xe](https://atcoder.jp/users/Motsu_xe)さんによって、競技プログラミングにおけるバグの原因が一覧としてまとめられている。
 - [間違っているテストケースが見つけられないときの手法](https://sumatome.com/su/1294961358119739392) - [chokudai](https://twitter.com/chokudai)さんによる一連のツイートをまとめた記事。[ABC175-C問題](https://atcoder.jp/contests/abc175/tasks/abc175_c)を例に、間違っているテストケースを見つける方法が解説されている。併せて、[テストを自動化するツール](https://kato-hiro.github.io/AtCoderClans/cli)の導入についても前向きなコメントがされている。
 - [競プロでWAが出たときのランダム入力データ生成入門](https://betrue12.hateblo.jp/entry/2019/09/07/171628) - 提出コードが不正解となったときに、提出した解法と愚直解による結果と比較する方法を紹介した記事。ランダムな入力データを生成するコードとして、C++とPythonによる実装例も掲載されている。
+    - [1WAがとれない……ときのランダムテストのすゝめ](https://seekworser.hatenablog.com/entry/2022/10/04/001413) - バグを発見するために、ランダムな入力データでテストを行う方法が解説されている記事。テストの際に、[Online Judge Tools](https://github.com/online-judge-tools/oj)を活用しているのが特徴。
 
 ### 定型作業を自動化
 
