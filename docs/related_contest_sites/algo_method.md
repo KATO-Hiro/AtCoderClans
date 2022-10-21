@@ -24,3 +24,4 @@ title: アルゴ式
 - [アルゴ式公開から2ヶ月が経ちました / これからの話](https://note.com/sak_algo/n/nf63c98059c5c)
 - [アルゴ式の存在意義](https://note.com/sak_algo/n/n33da1fbfea38)
 - [株式会社アルゴ式を設立し、資金調達を実施しました](https://note.com/sak_algo/n/nf5fbbbe3d600)
+- [株式会社アルゴ式が今何をしているか](https://note.com/sak_algo/n/n566297c9cf6e)
