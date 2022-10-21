@@ -4,5 +4,5 @@ source 'https://rubygems.org'
 
 # Specify your gem's dependencies in green_day.gemspec
 gem 'green_day'
-gem 'nokogiri', '>= 1.13.2'
+gem 'nokogiri', '>= 1.13.9'
 gem 'rspec'

@@ -51,7 +51,7 @@ PLATFORMS
 
 DEPENDENCIES
   green_day
-  nokogiri (>= 1.13.2)
+  nokogiri (>= 1.13.9)
   rspec
 
 BUNDLED WITH
