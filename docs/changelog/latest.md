@@ -6,6 +6,7 @@ title: Change Log
 
 ### 2022-10-22
 
+- [#4815](https://github.com/KATO-Hiro/AtCoderClans/pull/4815) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、ユーザスクリプト「[tessoku_display_difficulty](https://greasyfork.org/ja/scripts/453352-tessoku-display-difficulty)」を追加。
 - [#4810](https://github.com/KATO-Hiro/AtCoderClans/pull/4810) - 「[Command line tools](../../cli)」の「[提出に関する補助ツール](../../cli/tools_for_submission)」ページにCLIツール「[atcoder-submit-status](https://github.com/ngng628/atcoder-submit-status)」を追加。
 
 ### 2022-10-21
