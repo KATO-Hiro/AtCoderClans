@@ -38,12 +38,18 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/atcoder_problem_navigator.png" alt="atcoder problem navigator">
     </div>
 
-### 難易度順に並び替え
+### 難易度順
 
 - [atcoder-typical90-sort](https://greasyfork.org/ja/scripts/428698-atcoder-typical90-sort) - 「[競プロ典型90問](https://atcoder.jp/contests/typical90)」の問題を、難易度が低い順に並び替える。
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_typical90_sort.png" alt="atcoder typical90 sort">
+    </div>
+
+- [tessoku_display_difficulty](https://greasyfork.org/ja/scripts/453352-tessoku-display-difficulty) - [競技プログラミングの鉄則](https://atcoder.jp/contests/tessoku-book)の問題一覧に、難易度を表す星マークを追加する。また、難易度が低い順に並び替えることもできる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/tessoku_display_difficulty.png" alt="tessoku_display_difficulty">
     </div>
 
 ### 関連コンテストサイト
