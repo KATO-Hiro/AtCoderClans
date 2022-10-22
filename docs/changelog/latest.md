@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-10-22
+
+- [#4810](https://github.com/KATO-Hiro/AtCoderClans/pull/4810) - 「[Command line tools](../../cli)」の「[提出に関する補助ツール](../../cli/tools_for_submission)」ページにCLIツール「[atcoder-submit-status](https://github.com/ngng628/atcoder-submit-status)」を追加。
+
 ### 2022-10-21
 
 - [#4805](https://github.com/KATO-Hiro/AtCoderClans/pull/4805) - 「[Related Contest Sites](../../related_contest_sites)」ページに掲載している「[アルゴ式](https://algo-method.com/)」の説明文に、以下の記事を追加。
