@@ -10,6 +10,14 @@ title: 提出に関する補助ツール
 
 - [atcoder-numba](https://github.com/pyatcoder/atcoder-numba) ![GitHub Repo stars](https://img.shields.io/github/stars/pyatcoder/atcoder-numba?style=plastic) - NumbaのJITを使用したコードをAOT(事前)コンパイルして、提出することができる。Pythonのパッケージ管理システムであるpipが必要。
 
+## 提出コードを確認する
+
+- [atcoder-submit-status](https://github.com/ngng628/atcoder-submit-status) ![GitHub Repo stars](https://img.shields.io/github/stars/ngng628/atcoder-submit-status?style=plastic) - ソースコードの提出状況を確認できる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/cli/atcoder_submit_status.png" alt="atcoder submit status">
+    </div>
+
 ## ソースコードのバックアップ
 
 - [AtCoder-AutoClone](https://github.com/kuriyan1204/AtCoder-AutoClone) ![GitHub Repo stars](https://img.shields.io/github/stars/kuriyan1204/AtCoder-AutoClone?style=plastic) - 提出コードをGitHubのレポジトリに自動でコピーする。
