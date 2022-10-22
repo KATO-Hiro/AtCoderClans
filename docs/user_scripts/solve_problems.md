@@ -46,7 +46,7 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/atcoder_typical90_sort.png" alt="atcoder typical90 sort">
     </div>
 
-- [tessoku_display_difficulty](https://greasyfork.org/ja/scripts/453352-tessoku-display-difficulty) - [競技プログラミングの鉄則](https://atcoder.jp/contests/tessoku-book)の問題一覧に、難易度を表す星マークを追加する。また、難易度が低い順に並び替えることもできる。
+- [tessoku_display_difficulty](https://greasyfork.org/ja/scripts/453352-tessoku-display-difficulty) - 「[競技プログラミングの鉄則](https://atcoder.jp/contests/tessoku-book)」の問題一覧に、難易度を表す星マークを追加する。また、難易度が低い順に並び替えることもできる。
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/tessoku_display_difficulty.png" alt="tessoku_display_difficulty">
