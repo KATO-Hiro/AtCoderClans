@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-10-23
+
+- [#4821](https://github.com/KATO-Hiro/AtCoderClans/pull/4821) - (破壊的な変更) リンク切れと思われる記事を一時的に「[Archives](../../archived)」ページに移動。
+- [#4819](https://github.com/KATO-Hiro/AtCoderClans/pull/4819) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、記事「[【AtCoder】チートシート公開(コメント解説付き)【競技プログラミング】](https://qiita.com/sano192/items/5f6cec98ec4ecfb2af2c)」を追加。
+
 ### 2022-10-22
 
 - [#4815](https://github.com/KATO-Hiro/AtCoderClans/pull/4815) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、ユーザスクリプト「[tessoku_display_difficulty](https://greasyfork.org/ja/scripts/453352-tessoku-display-difficulty)」を追加。
