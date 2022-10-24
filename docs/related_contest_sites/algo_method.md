@@ -25,3 +25,4 @@ title: アルゴ式
 - [アルゴ式の存在意義](https://note.com/sak_algo/n/n33da1fbfea38)
 - [株式会社アルゴ式を設立し、資金調達を実施しました](https://note.com/sak_algo/n/nf5fbbbe3d600)
 - [株式会社アルゴ式が今何をしているか](https://note.com/sak_algo/n/n566297c9cf6e)
+- [エンジニアの継続的な技術評価と成長を支援する、法人向け教育プラットフォーム 「アルゴ式 for business」提供開始](https://prtimes.jp/main/html/rd/p/000000002.000105963.html) - エンジニアのアップスキリングと評価のための法人向けプラットフォームの提供開始が紹介されている記事。
