@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-10-24
+
+- [#4826](https://github.com/KATO-Hiro/AtCoderClans/pull/4826) - 「[Related Contest Sites](../../related_contest_sites)」ページに掲載している「[アルゴ式](https://algo-method.com/)」の説明文に、以下の記事を追加。
+    - [エンジニアの継続的な技術評価と成長を支援する、法人向け教育プラットフォーム 「アルゴ式 for business」提供開始](https://prtimes.jp/main/html/rd/p/000000002.000105963.html)
+- [#4825](https://github.com/KATO-Hiro/AtCoderClans/pull/4825) - (破壊的な変更) リンク切れと思われる記事を一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2022-10-23
 
 - [#4821](https://github.com/KATO-Hiro/AtCoderClans/pull/4821) - (破壊的な変更) リンク切れと思われる記事を一時的に「[Archives](../../archived)」ページに移動。
