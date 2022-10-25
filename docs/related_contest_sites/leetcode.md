@@ -6,12 +6,6 @@ title: LeetCode
 
 ### コンテストの成績を見る
 
-- [Leetcode Rating Predictor](http://lcpredictor.herokuapp.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/SysSn13/leetcode-rating-predictor?style=plastic) - コンテスト終了直後に、レーティングの変動を見ることができる。[Google Chromeの拡張機能](https://chrome.google.com/webstore/detail/lc-predictor/jfhgaegpgiepniiebglgjhhfnjcibphh)も用意されている。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/related_contest_sites/leetcode/leetcode_rating_predictor.png" alt="leetcode rating predictor">
-    </div>
-
 - [LeetCode Ranking](https://leetcode-country-ranking.herokuapp.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/mintutu/leetcode-country-ranking?style=plastic) - レーティングに関する順位表で、国籍やユーザ名を指定して閲覧できる。
 
     <div align="center">

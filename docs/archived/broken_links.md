@@ -165,6 +165,14 @@ title: リンク切れ
 
 ## 関連コンテストサイト
 
+### LeetCode
+
+- [Leetcode Rating Predictor](http://lcpredictor.herokuapp.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/SysSn13/leetcode-rating-predictor?style=plastic) - コンテスト終了直後に、レーティングの変動を見ることができる。[Google Chromeの拡張機能](https://chrome.google.com/webstore/detail/lc-predictor/jfhgaegpgiepniiebglgjhhfnjcibphh)も用意されている。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/leetcode/leetcode_rating_predictor.png" alt="leetcode rating predictor">
+    </div>
+
 ### 数学系コンテスト
 
 - [入試数学コンテスト](https://manabitimes.jp/tests) - 数学の入試対策ができるコンテストサイト。
