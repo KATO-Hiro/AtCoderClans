@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-10-25
+
+- [#4829](https://github.com/KATO-Hiro/AtCoderClans/pull/4829) - (破壊的な変更) リンク切れと思われるWebアプリを一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2022-10-24
 
 - [#4826](https://github.com/KATO-Hiro/AtCoderClans/pull/4826) - 「[Related Contest Sites](../../related_contest_sites)」ページに掲載している「[アルゴ式](https://algo-method.com/)」の説明文に、以下の記事を追加。
