@@ -184,6 +184,11 @@ title: 実装テクニックを学ぶ
 
 ### 文法・言語仕様
 
+- [Ruby競プロTips(基本・罠・高速化108 2.7x2.7)](https://zenn.dev/universato/articles/20201210-z-ruby) - 基本的な入出力や文法、高速化の方法などについて体系的にまとめられている記事。
+
+    !!! info "参考"
+        超大作の記事であるため、必要に応じて該当する部分を参照するとよいと思われる。
+
 - [Ruby で競技プログラミング (AtCoder) をやっているときあるある](https://zenn.dev/noraworld/articles/competitive-programming-ruby) - 競技プログラミングと業務での書き方の違いや便利メソッドの思わぬ落とし穴について紹介されている記事。
 
 ### 定数倍高速化
