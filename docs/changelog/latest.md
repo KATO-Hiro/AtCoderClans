@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-10-26
+
+- [#4836](https://github.com/KATO-Hiro/AtCoderClans/pull/4836) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、記事「[Ruby競プロTips(基本・罠・高速化108 2.7x2.7)](https://zenn.dev/universato/articles/20201210-z-ruby)」を追加。
+
 ### 2022-10-25
 
 - [#4829](https://github.com/KATO-Hiro/AtCoderClans/pull/4829) - (破壊的な変更) リンク切れと思われるWebアプリを一時的に「[Archives](../../archived)」ページに移動。
