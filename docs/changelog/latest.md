@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-10-27
+
+- [#4840](https://github.com/KATO-Hiro/AtCoderClans/pull/4840) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[rapirapi](https://atcoder.jp/users/rapirapi)さんの[記事](https://qiita.com/rapirapi/items/17e161268b67349fa629)を追加。
+
 ### 2022-10-26
 
 - [#4836](https://github.com/KATO-Hiro/AtCoderClans/pull/4836) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、記事「[Ruby競プロTips(基本・罠・高速化108 2.7x2.7)](https://zenn.dev/universato/articles/20201210-z-ruby)」を追加。
