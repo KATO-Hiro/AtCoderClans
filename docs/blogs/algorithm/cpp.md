@@ -110,6 +110,7 @@ title: C&#43;&#43;
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
 |aajisaka|[はてなブログ](https://aajisaka.hatenablog.com/)||
+|AngrySadEight|[はてなブログ](https://angrysadeight.hatenablog.com/)||
 |Chanyuh|[はてなブログ](https://p-chanyuh.hatenablog.com/)||
 |cookies|[はてなブログ](https://cookies.hatenablog.jp/)||
 |ctyl|[はてなブログ](https://ctylim.hatenablog.com/)|2018年1月以降、新規の記事を確認できず。|
