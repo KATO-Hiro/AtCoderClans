@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-10-29
+
+- [#4846](https://github.com/KATO-Hiro/AtCoderClans/pull/4846) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、記事「[抽象化全方位木DPのライブラリとドキュメント](https://trap.jp/post/1702/)」を追加。
+
 ### 2022-10-28
 
 - [#4843](https://github.com/KATO-Hiro/AtCoderClans/pull/4843) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜2399に到達したユーザのブログを追加。
