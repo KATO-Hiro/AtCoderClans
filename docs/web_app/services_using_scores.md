@@ -93,7 +93,7 @@ title: コンテストの成績に関連するサービス
 
 ### 成績で勝敗を競う
 
-- [Atcoder Beginner Contest Tournament](https://abc.kenkoooo.com/#/tournament/1) - AtCoder Beginner Contestの順位を使ったトーナメント戦の結果を見ることができる。また、[Twitter](https://twitter.com/abc_tournament)で最新情報の告知が行われている。
+- [Atcoder Beginner Contest Tournament](https://abc.kenkoooo.com) - AtCoder Beginner Contestの順位を使ったトーナメント戦の結果を見ることができる。また、[Twitter](https://twitter.com/abc_tournament)で最新情報の告知が行われている。
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_beginner_contest_tournament.png" alt="abc tournament">
