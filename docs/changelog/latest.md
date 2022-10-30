@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-10-30
+
+- [#4856](https://github.com/KATO-Hiro/AtCoderClans/pull/4856) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページに、「[AtCoder Heuristic Race Ranking *Unofficial*](https://docs.google.com/spreadsheets/d/1gFmqVYr44QlQBkHKLcd1YyFM_-Ne7Hzf7SODbADx8HI/edit#gid=340005926)」を追加。
+- [#4855](https://github.com/KATO-Hiro/AtCoderClans/pull/4855) - [CuriousFairy315](https://twitter.com/CuriousFairy315)さんのご助言により「[Web apps and sites](../../web_app)」の「[コンテストの成績に関連するサービス](../../web_app/services_using_scores)」ページに掲載しているWebアプリのURLを修正。
+    - [Atcoder Beginner Contest Tournament](https://abc.kenkoooo.com)
+
 ### 2022-10-29
 
 - [#4846](https://github.com/KATO-Hiro/AtCoderClans/pull/4846) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、記事「[抽象化全方位木DPのライブラリとドキュメント](https://trap.jp/post/1702/)」を追加。
