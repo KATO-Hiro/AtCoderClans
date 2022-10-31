@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-10-31
+
+- [#4860](https://github.com/KATO-Hiro/AtCoderClans/pull/4860) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[rabot](https://atcoder.jp/users/rabot)さんの[記事](https://qiita.com/tanaka-a/items/da0b672d50cd7f49a161)を追加。
+
 ### 2022-10-30
 
 - [#4856](https://github.com/KATO-Hiro/AtCoderClans/pull/4856) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページに、「[AtCoder Heuristic Race Ranking *Unofficial*](https://docs.google.com/spreadsheets/d/1gFmqVYr44QlQBkHKLcd1YyFM_-Ne7Hzf7SODbADx8HI/edit#gid=340005926)」を追加。
