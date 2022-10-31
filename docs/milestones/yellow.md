@@ -15,6 +15,7 @@ title: レーティング2000〜2399(黄色)
 - [AtCoder 黄色になりました - ひとり言](https://elegy-wedh133.hatenablog.com/entry/2022/09/13/144042) - [ReiVindicatio](https://atcoder.jp/users/ReiVindicatio)さんが、2022年9月10日に達成。
 - [AtCoderで黄色になった感想 - Programming Coontest](https://angrysadeight.hatenablog.com/entry/2022/10/16/000002) - [AngrySadEight](https://atcoder.jp/users/AngrySadEight)さんが、2022年10月1日に達成。
 - [入黄記事 (最高のゲーム特集) - nyogutaの日記](https://nyoguta.hatenablog.com/entry/2022/10/01/234938) - [nyoguta](https://atcoder.jp/users/nyoguta)さんが、2022年10月1日に達成。
+- [47歳でAtCoder黄レート入りした話](https://qiita.com/tanaka-a/items/da0b672d50cd7f49a161) - [rabot](https://atcoder.jp/users/rabot)さんが、2022年10月29日に達成。
 
 ## 2021年
 
