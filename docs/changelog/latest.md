@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-11-02
+
+- [#4870](https://github.com/KATO-Hiro/AtCoderClans/pull/4870) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[seim](https://atcoder.jp/users/seim)さんの[記事](https://qiita.com/RubyLrving/items/b92df84ef9d5132c69c7)を追加。
+
 ### 2022-11-01
 
 - [#4867](https://github.com/KATO-Hiro/AtCoderClans/pull/4867) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜2399に到達したユーザのブログを追加。
