@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-11-03
+
+- [#4876](https://github.com/KATO-Hiro/AtCoderClans/pull/4876) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
+    - [競技プログラミングにおける剰余の基礎と mod 逆元](https://www.creativ.xyz/modulo-basic/)
+- [#4875](https://github.com/KATO-Hiro/AtCoderClans/pull/4875) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [焼きなましをするときの設計に関するメモ](https://yunix-kyopro.hatenablog.com/entry/2022/10/30/141616)
+- [#4874](https://github.com/KATO-Hiro/AtCoderClans/pull/4874) - 「[Articles, Blogs, Books and Videos](../../blogs)」ページのヒューリスティック部門に、最高レーティングが2000以上に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+
 ### 2022-11-02
 
 - [#4870](https://github.com/KATO-Hiro/AtCoderClans/pull/4870) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
