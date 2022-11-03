@@ -18,6 +18,7 @@ title: C&#43;&#43;
 |asi1024|[はてなブログ](https://asi1024.hatenablog.com/)|2017年3月以降、新規の記事を確認できず。|
 |assy|[はてなブログ](https://assy.hatenablog.jp/)||
 |ats5515|[はてなブログ](https://ats5515.hatenablog.com/)||
+|eijirou|[はてなブログ](https://eijirou-kyopro.hatenablog.com/)||
 |hitonanode|[はてなブログ](https://rsm9.hatenablog.com/)||
 |iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
 |Jirotech|[はてなブログ](https://shuu0914.hatenablog.com/)||
@@ -43,8 +44,12 @@ title: C&#43;&#43;
 |hakomo|[はてなブログ](https://hakomof.hatenablog.com/)||
 |hamamu|[Qiita](https://qiita.com/hamamu)||
 |heno239|[はてなブログ](https://heno239.hatenablog.com/)||
+|hitoare|[はてなブログ](https://hitoare.hatenablog.com/)||
+|itigo|[はてなブログ](https://ichigokunn.hatenablog.com/)||
+|kotatsugame|[はてなブログ](https://kotatsugame.hatenablog.com/)||
 |kozima|[はてなブログ](https://lkozima.hatenablog.com/)||
 |kusano|[はてなブログ](https://kusano-k.hatenablog.com/)、[Qiita](https://qiita.com/kusano_k)||
+|merom686|[はてなブログ](https://merom686.hatenablog.com/)||
 |mtsd|[はてなブログ](https://mtsd-programming.hatenablog.com/)||
 |olphe|[はてなブログ](https://olphe.hatenablog.com/)||
 |Omotchi|[はてなブログ](https://omotchi.hateblo.jp/)||

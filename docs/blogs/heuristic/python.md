@@ -15,5 +15,4 @@ title: Python
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
 |dn6049949|[Qiita](https://qiita.com/dn6049949)||
-|eijirou|[はてなブログ](https://eijirou-kyopro.hatenablog.com/)||
 |yuusanlondon|[はてなブログ](https://yuusanlondon.hatenablog.com/)||
