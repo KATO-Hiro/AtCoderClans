@@ -123,6 +123,7 @@ title: ヒューリスティック問題を解く
 ### 焼きなまし法
 
 - [誰でもできる焼きなまし法](http://gasin.hatenadiary.jp/entry/2019/09/03/162613) - [gasin](https://atcoder.jp/users/gasin)さんが「焼きなまし法」の汎用性の高い実装方法を紹介した記事。
+    - [焼きなましをするときの設計に関するメモ](https://yunix-kyopro.hatenablog.com/entry/2022/10/30/141616) - 焼きなまし法を利用するときのクラス設計とC++の実装例が紹介されている記事。
 - [競技プログラミングにおいて焼きなまし法に堕ちずに落とすコツ](https://qiita.com/tsukammo/items/b410f3202372fe87c919) - [tsukammo](https://atcoder.jp/users/tsukammo)さんが「焼きなまし法」を適切に利用するための知見をまとめた記事。相性の良い/悪い問題の特徴、同手法の適用範囲、問題の特性を活用したアプローチ方法が紹介されている。
 - [焼きなまし法のコツ Ver. 1.3](https://shindannin.hatenadiary.com/entry/2021/03/06/115415) - [shindannin](https://atcoder.jp/users/shindannin)さんが「焼きなまし法」の使い方について、高速化・次の状態の決め方・評価関数などの観点から網羅的にまとめている記事。また、各項目について重要度が併記されているのが特徴。
 - [焼きなまし法の適用メモ](https://jetbead.hatenablog.com/entry/20180120/1516387673) - 焼きなまし法を問題に適用するときに、留意すべき事項(重要なパラメータ・適用の妥当性を判断・概念や用語)がまとめられている記事。
