@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-11-05
+
+- [#4888](https://github.com/KATO-Hiro/AtCoderClans/pull/4888) - 「[Libraries and Snippets](../../libraries)」の「[Python](../../libraries/python)」ページに、Pythonで実装されたライブラリを追加。
+    - [981377660LMT/algorithm-study](https://github.com/981377660LMT/algorithm-study)
+- [#4887](https://github.com/KATO-Hiro/AtCoderClans/pull/4887) - (破壊的な変更) 「[Archives](../../archived)」ページに移動していたWebアプリが再公開されているのを確認したため、元の場所に掲載。
+
 ### 2022-11-04
 
 - [#4881](https://github.com/KATO-Hiro/AtCoderClans/pull/4881) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
