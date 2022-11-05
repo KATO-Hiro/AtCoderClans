@@ -2,6 +2,7 @@
 title: Python
 ---
 
+- [981377660LMT/algorithm-study](https://github.com/981377660LMT/algorithm-study) ![GitHub Repo stars](https://img.shields.io/github/stars/981377660LMT/algorithm-study?style=plastic) - [981377660LMT](https://github.com/981377660LMT)さんのライブラリ。TypeScriptなどで実装されたコードも含まれている。
 - [cheran-senthil/PyRival](https://github.com/cheran-senthil/PyRival) ![GitHub Repo stars](https://img.shields.io/github/stars/cheran-senthil/PyRival?style=plastic) - [cheran-senthil](https://github.com/cheran-senthil)さんのライブラリ。
 - [customaddone/beginPython](https://github.com/customaddone/beginPython) ![GitHub Repo stars](https://img.shields.io/github/stars/customaddone/beginPython?style=plastic) - [customaddone](https://github.com/customaddone)さんのライブラリ。
 - [horiso0921/Mylib](https://github.com/horiso0921/Mylib) ![GitHub stars](https://img.shields.io/github/stars/horiso0921/Mylib?style=plastic) - [horiso0921](https://atcoder.jp/users/horiso0921)さんのライブラリ。
