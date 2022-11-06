@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-11-06
+
+- [#4893](https://github.com/KATO-Hiro/AtCoderClans/pull/4893) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[dirard](https://atcoder.jp/users/dirard)さんの[記事](https://qiita.com/ys_dirard/items/7e2c6f595ef3fb323575)を追加。
+
 ### 2022-11-05
 
 - [#4888](https://github.com/KATO-Hiro/AtCoderClans/pull/4888) - 「[Libraries and Snippets](../../libraries)」の「[Python](../../libraries/python)」ページに、Pythonで実装されたライブラリを追加。
