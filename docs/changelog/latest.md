@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-11-07
+
+- [#4896](https://github.com/KATO-Hiro/AtCoderClans/pull/4896) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [ビームスタックサーチ（Beam-Stack Search）の解説](https://qiita.com/tsukasa__diary/items/f050291b6adad80b7998)
+
 ### 2022-11-06
 
 - [#4893](https://github.com/KATO-Hiro/AtCoderClans/pull/4893) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
