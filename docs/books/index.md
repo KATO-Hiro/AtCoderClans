@@ -26,6 +26,7 @@ title: 書籍
 - [競技プログラミングの鉄則 ~アルゴリズム力と思考力を高める77の技術~](https://www.amazon.co.jp/dp/483997750X) - [E869120](https://atcoder.jp/users/E869120)さんによる書籍の第2弾。アルゴリズムや思考テクニックを学ぶことができる。豊富なオリジナル問題やヒューリスティック最適化への対応などが特徴。
     - [書籍「競技プログラミングの鉄則」を書きました](https://e869120.hatenablog.com/entry/2022/09/08/214552) - 著者による書籍の内容と想定読者の説明。
     - [【発売即重版】書籍『競技プログラミングの鉄則』を著者が解説](https://www.youtube.com/watch?v=iZ_-sGVHBVg) - 著者による書籍の解説動画。視聴者からの質問・回答コーナーもある。
+    - [『競技プログラミングの鉄則』序盤20,000文字+目次を無料公開します！](https://e869120.hatenablog.com/entry/2022/11/01/224639) - 著者が書籍の目次と序章・第1章を無料で公開している記事。
     - [E869120/kyopro-tessoku](https://github.com/E869120/kyopro-tessoku) ![GitHub Repo stars](https://img.shields.io/github/stars/E869120/kyopro-tessoku?style=plastic) - ソースコード(C++、Python、Java)、節末問題・力試し問題の解答、正誤表が掲載されている。
     - [競技プログラミングの鉄則　演習問題集](https://atcoder.jp/contests/tessoku-book) - [AtCoder](https://atcoder.jp/)の自動採点システムで、書籍に掲載されている問題を解くことができる。
         - [演習問題のテストケース](https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABh1dWn9MpTS1XX_t3_2nHfa/tessoku-book)
