@@ -31,6 +31,7 @@ title: 書籍
     - [競技プログラミングの鉄則　演習問題集](https://atcoder.jp/contests/tessoku-book) - [AtCoder](https://atcoder.jp/)の自動採点システムで、書籍に掲載されている問題を解くことができる。
         - [演習問題のテストケース](https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABh1dWn9MpTS1XX_t3_2nHfa/tessoku-book)
     - [有志による紹介動画](https://twitter.com/kaede20203/status/1570163622755827713) - [kaede2020](https://atcoder.jp/users/kaede2020)さんが、書籍の7章「ヒューリスティック」の概要を紹介している。
+    - [有志による書評](https://zenn.dev/reputeless/articles/idea-tessoku-review) - [Ryo Suzuki](https://twitter.com/reputeless)さんによる書評。
 - [Open Data Structures](https://sites.google.com/view/open-data-structures-ja) - データ構造に関する入門書。ソースコードが[GitHub](https://github.com/spinute/ods)で公開されている。
 - [プログラミングコンテストチャレンジブック [第2版] ～問題解決のアルゴリズム活用力とコーディングテクニックを鍛える～](https://www.amazon.co.jp/dp/B00CY9256C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - 通称、蟻本。初級編からかなり難しいが、典型的なアルゴリズムと考え方が収録されている。
 
