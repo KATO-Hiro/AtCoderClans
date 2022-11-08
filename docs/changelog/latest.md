@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-11-08
+
+- [#4904](https://github.com/KATO-Hiro/AtCoderClans/pull/4904)、[#4906](https://github.com/KATO-Hiro/AtCoderClans/pull/4906) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに掲載している「[競技プログラミングの鉄則 ~アルゴリズム力と思考力を高める77の技術~](https://www.amazon.co.jp/dp/483997750X)」の説明文を更新。以下の記事を追加。
+    - [『競技プログラミングの鉄則』序盤20,000文字+目次を無料公開します！](https://e869120.hatenablog.com/entry/2022/11/01/224639)
+    - [『競技プログラミングの鉄則』書評](https://zenn.dev/reputeless/articles/idea-tessoku-review)
+
 ### 2022-11-07
 
 - [#4896](https://github.com/KATO-Hiro/AtCoderClans/pull/4896) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
