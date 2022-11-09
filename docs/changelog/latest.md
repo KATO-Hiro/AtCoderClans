@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-11-09
+
+- [#4909](https://github.com/KATO-Hiro/AtCoderClans/pull/4909) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[makaserori](https://atcoder.jp/users/makaserori)さんの[記事](https://qiita.com/358_Serori_Dros/items/2db662000ece5aee8b49)を追加。
+
 ### 2022-11-08
 
 - [#4904](https://github.com/KATO-Hiro/AtCoderClans/pull/4904)、[#4906](https://github.com/KATO-Hiro/AtCoderClans/pull/4906) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに掲載している「[競技プログラミングの鉄則 ~アルゴリズム力と思考力を高める77の技術~](https://www.amazon.co.jp/dp/483997750X)」の説明文を更新。以下の記事を追加。
