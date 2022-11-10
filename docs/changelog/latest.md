@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-11-10
+
+- [#4913](https://github.com/KATO-Hiro/AtCoderClans/pull/4913) - 「[Web apps and sites](../../web_app)」の「[Web API](../../web_api)」ページで掲載している「[Kyopro-Ratings](https://github.com/algon-320/Kyopro-Ratings)」の説明文を更新。以下の記事を追加。
+    - [ブログに競プロのレーティングを表示するようにした(その2)](https://algon-320.hatenablog.com/entry/2019/04/06/011234)
+
 ### 2022-11-09
 
 - [#4909](https://github.com/KATO-Hiro/AtCoderClans/pull/4909) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
