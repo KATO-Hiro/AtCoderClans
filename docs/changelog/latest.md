@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-11-11
+
+- [#4918](https://github.com/KATO-Hiro/AtCoderClans/pull/4918) - (破壊的な変更) リンク切れと思われるアプリのダウンロード用リンクを一時的に「[Archives](../../archived)」ページに移動。
+- [#4917](https://github.com/KATO-Hiro/AtCoderClans/pull/4917) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[Jikky1618](https://atcoder.jp/users/Jikky1618)さんの[記事](https://note.com/jikky1618/n/nbf891072355e)を追加。
+
 ### 2022-11-10
 
 - [#4913](https://github.com/KATO-Hiro/AtCoderClans/pull/4913) - 「[Web apps and sites](../../web_app)」の「[Web API](../../web_api)」ページで掲載している「[Kyopro-Ratings](https://github.com/algon-320/Kyopro-Ratings)」の説明文を更新。以下の記事を追加。
