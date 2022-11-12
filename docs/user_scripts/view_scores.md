@@ -58,6 +58,12 @@ title: コンテストの成績や関連する統計情報を見る
 
 ### レーティングの推移・分布
 
+- [AtCoder Graph Time](https://greasyfork.org/ja/scripts/454517-atcoder-graph-time) - 「ユーザ」ページにあるレーティンググラフの横軸をコンテストの参加回数に変更する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_graph_time.png" alt="atcoder graph time">
+    </div>
+
 - [AtCoderRecentGraph](https://greasyfork.org/ja/scripts/418562-atcoderrecentgraph) - 「ユーザ」ページにあるレーティンググラフのうち、最近（注: 詳細は不明）の推移を表示する。
 
     <div align="center">
