@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-11-12
+
+- [#4924](https://github.com/KATO-Hiro/AtCoderClans/pull/4924) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、ユーザスクリプト「[AtCoder Graph Time](https://greasyfork.org/ja/scripts/454517-atcoder-graph-time)」を追加。
+
 ### 2022-11-11
 
 - [#4918](https://github.com/KATO-Hiro/AtCoderClans/pull/4918) - (破壊的な変更) リンク切れと思われるアプリのダウンロード用リンクを一時的に「[Archives](../../archived)」ページに移動。
