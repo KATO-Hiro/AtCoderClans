@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-11-14
+
+- [#4933](https://github.com/KATO-Hiro/AtCoderClans/pull/4933) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[LiKaf](https://atcoder.jp/users/LiKaf)さんの[記事](https://note.com/likaf/n/nba8f592509e6)を追加。
+
 ### 2022-11-13
 
 - [#4931](https://github.com/KATO-Hiro/AtCoderClans/pull/4931) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
