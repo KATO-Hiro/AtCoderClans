@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-11-13
+
+- [#4931](https://github.com/KATO-Hiro/AtCoderClans/pull/4931) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[knty](https://atcoder.jp/users/knty)さんの[記事](https://kntychance.hatenablog.jp/entry/2022/11/13/142154)を追加。
+
 ### 2022-11-12
 
 - [#4924](https://github.com/KATO-Hiro/AtCoderClans/pull/4924) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、ユーザスクリプト「[AtCoder Graph Time](https://greasyfork.org/ja/scripts/454517-atcoder-graph-time)」を追加。
