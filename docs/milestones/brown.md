@@ -16,6 +16,7 @@ title: レーティング400〜799(茶色)
 - [入茶しました[AtCoder]](https://qiita.com/ramen0702/items/8e0f28b09796253b245f) - [missosiru](https://atcoder.jp/users/missosiru)さんが、2022年10月22日に達成。
 - [【色変記事】AtCoder始めて入茶まで](https://qiita.com/ys_dirard/items/7e2c6f595ef3fb323575) - [dirard](https://atcoder.jp/users/dirard)さんが、2022年11月5日に達成。
 - [競プロ未経験から3ヶ月でAtCoder茶色になった話。](https://note.com/jikky1618/n/nbf891072355e) - [Jikky1618](https://atcoder.jp/users/Jikky1618)さんが、2022年11月5日に達成。
+- [【色変記事】出場3回目にして2回目の茶色になったので初めて色変記事を書いてみた~AtCoderのすゝめ~](https://note.com/likaf/n/nba8f592509e6) - [LiKaf](https://atcoder.jp/users/LiKaf)さんが、2022年11月5日に達成。
 
 ## 2021年
 
