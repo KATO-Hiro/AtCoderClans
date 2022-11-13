@@ -17,6 +17,7 @@ title: レーティング1600〜1999(青色)
 - [重い腰を上げてAtcoderを始めた(青)](https://qiita.com/Lenqth/items/babdc1e652e0e041b321) - [Lenqth](https://atcoder.jp/users/Lenqth)さんが、2022年6月26日に達成。
 - [AtCoderで青になりました - zeronosu77108’s blog](https://zeronosu77108.hatenablog.com/entry/2022/08/01/221949) - [zeronosu77108](https://atcoder.jp/users/zeronosu77108)さんが、2022年7月31日に達成。
 - [atcoderで青色になった話](https://qiita.com/mo124121/items/ee0c75c89e2fe0640cb6) - [mo12412](https://atcoder.jp/users/mo12412)さんが、2022年10月2日に達成。
+- [AtCoderアルゴで入青した話 - 競プロ勉強メモ](https://kntychance.hatenablog.jp/entry/2022/11/13/142154) - [knty](https://atcoder.jp/users/knty)さんが、2022年11月12日に達成。
 
 ## 2021年
 
