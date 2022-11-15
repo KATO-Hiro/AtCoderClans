@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-11-15
+
+- [#4939](https://github.com/KATO-Hiro/AtCoderClans/pull/4939) - 「[Scripts](../../scripts)」の「[解説を読む・テストケースを見る](../../user_scripts/read_editorials)」ページに、ユーザスクリプト「[AtCoder Formatter](https://greasyfork.org/ja/scripts/454753-atcoder-formatter)」を追加。
+
 ### 2022-11-14
 
 - [#4933](https://github.com/KATO-Hiro/AtCoderClans/pull/4933) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
