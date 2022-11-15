@@ -32,6 +32,10 @@ title: 解説を読む・テストケースを見る
       <img loading = "lazy" src="../../images/userscript/atcoder_traffic_light.png" alt="snuke? smeke?">
     </div>
 
+### ソースコードを整形
+
+- [AtCoder Formatter](https://greasyfork.org/ja/scripts/454753-atcoder-formatter) - 複数のページに対して、ソースコードを整形できるボタンを追加する。2022年11月時点で、C++、C#、Pythonに対応。
+
 ### 競プロ典型90問の復習
 
 - [add-typical90-link](https://greasyfork.org/ja/scripts/427326-add-typical90-link) - 「[競プロ典型90問](https://atcoder.jp/contests/typical90)」に、「解説リンク」タブを追加する。このタブから[GitHub](https://github.com/E869120/kyopro_educational_90/tree/main/editorial)で公開されている解説に移動できる。
