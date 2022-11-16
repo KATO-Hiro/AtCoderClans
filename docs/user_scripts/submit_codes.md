@@ -67,7 +67,10 @@ title: ソースコードの提出・確認を簡単に
 
 ### ケアレスミス対策
 
-- [Atcoder Duplicate Checker](https://greasyfork.org/ja/scripts/454704-atcoder-duplicate-checker) - 「問題」「提出」の各ページで、既に提出したソースコードと重複していないか確認できる。作者注: 直近の20回分の提出がチェックの対象。
+- [Atcoder Duplicate Checker](https://greasyfork.org/ja/scripts/454704-atcoder-duplicate-checker) - 「問題」「提出」の各ページで、既に提出したソースコードと重複していないか確認できる。
+
+    !!! warning "注意"
+        直近の20回分の提出がチェックの対象。
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_duplicate_checker.png" alt="atcoder duplicate checker">
