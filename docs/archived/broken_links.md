@@ -127,6 +127,11 @@ title: リンク切れ
 - [summersky08/CompetitiveProgramming](https://github.com/summersky08/CompetitiveProgramming) ![GitHub Repo stars](https://img.shields.io/github/stars/summersky08/CompetitiveProgramming?style=plastic) - rkato5680さんのPythonライブラリ。
     - 確認した日: 2022/05/02
 
+### Ruby
+
+- [universato/compro](https://github.com/universato/compro) ![GitHub stars](https://img.shields.io/github/stars/universato/compro?style=plastic) - [universato](https://atcoder.jp/users/universato)さんのRubyライブラリ。
+    - 確認した日: 2022/11/17
+
 ## 色変記事
 
 ### レーティング400〜799(茶色)
