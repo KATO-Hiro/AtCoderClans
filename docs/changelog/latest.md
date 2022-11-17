@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-11-17
+
+- [#4945](https://github.com/KATO-Hiro/AtCoderClans/pull/4945) - (破壊的な変更) リンク切れと思われるライブラリを一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2022-11-16
 
 - [#4941](https://github.com/KATO-Hiro/AtCoderClans/pull/4941) - 「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../user_scripts/submit_codes)」ページに、ユーザスクリプト「[Atcoder Duplicate Checker](https://greasyfork.org/ja/scripts/454704-atcoder-duplicate-checker)」を追加。
