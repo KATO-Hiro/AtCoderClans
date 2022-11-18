@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-11-18
+
+- [#4950](https://github.com/KATO-Hiro/AtCoderClans/pull/4950) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[sorachandu](https://atcoder.jp/users/sorachandu)さんの[記事](https://qiita.com/sorachandu/items/65b1159aa1d075854679)を追加。
+
 ### 2022-11-17
 
 - [#4945](https://github.com/KATO-Hiro/AtCoderClans/pull/4945) - (破壊的な変更) リンク切れと思われるライブラリを一時的に「[Archives](../../archived)」ページに移動。
