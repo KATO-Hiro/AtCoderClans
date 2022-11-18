@@ -17,6 +17,7 @@ title: レーティング800〜1199(緑色)
 - [AtCoder緑になりました](https://qiita.com/gakusei_programmer/items/146728aaa229475c4826) - [Rensyu](https://atcoder.jp/users/Rensyu)さんが、2022年10月8日に達成。
 - [AtCoderで入緑しました](https://qiita.com/RubyLrving/items/b92df84ef9d5132c69c7) - [seim](https://atcoder.jp/users/seim)さんが、2022年10月29日に達成。
 - [機械科学生が1年半かかって入緑した話](https://qiita.com/358_Serori_Dros/items/2db662000ece5aee8b49) - [makaserori](https://atcoder.jp/users/makaserori)さんが、2022年11月5日に達成。
+- [【色変記事】競プロを始めて1年7ヶ月で入緑できました](https://qiita.com/sorachandu/items/65b1159aa1d075854679) - [sorachandu](https://atcoder.jp/users/sorachandu)さんが、2022年11月12日に達成。
 
 ## 2021年
 
