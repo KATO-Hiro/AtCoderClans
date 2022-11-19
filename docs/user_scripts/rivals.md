@@ -64,6 +64,8 @@ title: ライバルを探す・競う
       <img loading = "lazy" src="../../images/userscript/atcoder_result_tweet_button.png" alt="atcoder result tweet button">
     </div>
 
+- [AtCoderCustomResultSheetShare](https://greasyfork.org/ja/scripts/454451-atcodercustomresultsheetshare) - コンテストの成績をTwitterで共有するときに、ツイートする内容をカスタマイズできる。
+
 ### ツイートにハッシュタグを追加
 
 - [AtCoder HashTag Setter](https://greasyfork.org/ja/scripts/422324-atcoder-hashtag-setter) - 「コンテスト」「問題」「提出」の各ページにあるTwitter Shareボタンを利用するときに、ツイートに関連したハッシュタグを追加する。
