@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-11-19
+
+- [#4953](https://github.com/KATO-Hiro/AtCoderClans/pull/4953) - 「[Scripts](../../scripts)」の「[ライバルを探す・競う](../../user_scripts/rivals)」ページに、ユーザスクリプト「[AtCoderCustomResultSheetShare](https://greasyfork.org/ja/scripts/454451-atcodercustomresultsheetshare)」を追加。
+
 ### 2022-11-18
 
 - [#4950](https://github.com/KATO-Hiro/AtCoderClans/pull/4950) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
