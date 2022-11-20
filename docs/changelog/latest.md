@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-11-20
+
+- [#4960](https://github.com/KATO-Hiro/AtCoderClans/pull/4960) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、記事「[アルゴリズム改善が事業改善に直結する職場。数理最適化を担うエンジニアに仕事の醍醐味を聞く](https://note.com/fanfare_inc/n/ncb71f10508cd)」を追加。
+- [#4956](https://github.com/KATO-Hiro/AtCoderClans/pull/4956) - 有志による解説ブログのドメイン変更に対応。
+
 ### 2022-11-19
 
 - [#4953](https://github.com/KATO-Hiro/AtCoderClans/pull/4953) - 「[Scripts](../../scripts)」の「[ライバルを探す・競う](../../user_scripts/rivals)」ページに、ユーザスクリプト「[AtCoderCustomResultSheetShare](https://greasyfork.org/ja/scripts/454451-atcodercustomresultsheetshare)」を追加。
