@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-11-21
+
+- [#4966](https://github.com/KATO-Hiro/AtCoderClans/pull/4966) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[satopin](https://atcoder.jp/users/satopin)さんの[記事](https://qiita.com/satopin/items/8fdb5681bd5a55cfc8e5)を追加。
+
 ### 2022-11-20
 
 - [#4960](https://github.com/KATO-Hiro/AtCoderClans/pull/4960) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、記事「[アルゴリズム改善が事業改善に直結する職場。数理最適化を担うエンジニアに仕事の醍醐味を聞く](https://note.com/fanfare_inc/n/ncb71f10508cd)」を追加。
