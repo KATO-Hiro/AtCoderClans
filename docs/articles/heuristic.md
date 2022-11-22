@@ -72,6 +72,7 @@ title: ヒューリスティック問題を解く
     - [estie プログラミングコンテスト2022（AtCoder Heuristic Contest 014）参加記](https://kaede2020.hatenablog.com/entry/2022/10/01/190044)
     - [HACK TO THE FUTURE 2023 予選（AtCoder Heuristic Contest 016）参加記](https://kaede2020.hatenablog.com/entry/2022/11/20/190100)
 - [AHCガチ素人のアルゴ茶コーダー VS AHC013 〜初歩的アルゴ知識だけで戦ってみました〜](https://fujikawa.hatenablog.com/entry/2022/08/18/051533) - [fujikawahiroaki](https://atcoder.jp/users/fujikawahiroaki)さんの参加記。アルゴリズム部門で身につけた知識を活用して、コンテストに挑戦する過程がまとめられている。
+    - [AHC016（HTTF2023予選）敗戦記　〜傷まみれの青春〜](https://fujikawa.hatenablog.com/entry/2022/11/22/220829)
 
     ---
 
