@@ -24,6 +24,7 @@ A1: 入門者、初心者向けの教材や記事を読んでみましょう。[
 
 ## AtCoderアカウントの登録〜コンテスト参加
 
+- [競技プログラミングことはじめ](https://speakerdeck.com/e869120/20221122-jing-ji-puroguramingukotohazime) - 競技プログラミングに関連する教育コンテンツを多数作成されている[E869120](https://atcoder.jp/users/E869120)さんのスライドです。基本的な説明から、コンテストサイト[AtCoder](https://atcoder.jp/)の登録方法・問題の解き方・求められるスキルなどが紹介されています。
 - [【初心者向け】AtCoder Beginner Contestの取り組み方](https://qiita.com/rute_not_route/items/d1ae32a80d1c3a50d017) - [AtCoder](https://atcoder.jp/)アカウントの作成方法からコンテストの参加登録・問題の取り組み方と注意事項、コンテスト後の復習までの流れを丁寧に解説した記事です。
 - [AtCoderに登録したら次にやること ～ これだけ解けば十分闘える！過去問精選10問 ～](https://qiita.com/drken/items/fd4e5e3630d0f5859067) - [AtCoder](https://atcoder.jp/)のコンテストに初めて参加する方に向けた精選10問を紹介した記事です。さまざまな言語による解答例のリンクなどの資料も充実しています。
 
