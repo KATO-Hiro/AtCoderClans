@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-11-23
+
+- [#4976](https://github.com/KATO-Hiro/AtCoderClans/pull/4976) - 「[For Beginners](../../for_beginners)」の「[Q1: アルゴリズムや競技プログラミングに興味はありますが、何から始めたらいいですか?](../../for_beginners/question1)」ページと「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下のスライドを追加。
+    - [競技プログラミングことはじめ](https://speakerdeck.com/e869120/20221122-jing-ji-puroguramingukotohazime)
+
 ### 2022-11-22
 
 - [#4972](https://github.com/KATO-Hiro/AtCoderClans/pull/4972)、[#4973](https://github.com/KATO-Hiro/AtCoderClans/pull/4973) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
