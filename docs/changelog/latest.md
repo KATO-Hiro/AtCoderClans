@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-11-24
+
+- [#4982](https://github.com/KATO-Hiro/AtCoderClans/pull/4982) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[ma_tw](https://atcoder.jp/users/ma_tw)さんの[記事](https://ma-tw.hatenablog.com/entry/2022/11/22/204652)を追加。
+
 ### 2022-11-23
 
 - [#4976](https://github.com/KATO-Hiro/AtCoderClans/pull/4976) - 「[For Beginners](../../for_beginners)」の「[Q1: アルゴリズムや競技プログラミングに興味はありますが、何から始めたらいいですか?](../../for_beginners/question1)」ページと「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下のスライドを追加。
