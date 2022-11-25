@@ -17,3 +17,4 @@ title: C&#35;
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
 |threecourse|[はてなブログ](https://threecourse.hatenablog.com/)||
+|yupiteru|[Qiita](https://qiita.com/yupiteru)||
