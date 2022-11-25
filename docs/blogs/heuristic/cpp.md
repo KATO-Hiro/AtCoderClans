@@ -22,6 +22,7 @@ title: C&#43;&#43;
 |hitonanode|[はてなブログ](https://rsm9.hatenablog.com/)||
 |iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
 |Jirotech|[はてなブログ](https://shuu0914.hatenablog.com/)||
+|mtsd|[はてなブログ](https://mtsd-programming.hatenablog.com/)||
 |nagiss|[はてなブログ](https://nagiss.hateblo.jp/)||
 |noimi|[はてなブログ](https://noimi.hatenablog.com/)||
 |Nyaan|[はてなブログ](https://nyaan.hatenablog.com/)||
@@ -43,6 +44,7 @@ title: C&#43;&#43;
 |ebicochineal|[自作ブログ](http://ebicochineal.blogspot.com/)||
 |hakomo|[はてなブログ](https://hakomof.hatenablog.com/)||
 |hamamu|[Qiita](https://qiita.com/hamamu)||
+|hari64|[Qiita](https://qiita.com/hari64)||
 |heno239|[はてなブログ](https://heno239.hatenablog.com/)||
 |hitoare|[はてなブログ](https://hitoare.hatenablog.com/)||
 |itigo|[はてなブログ](https://ichigokunn.hatenablog.com/)||
@@ -50,16 +52,18 @@ title: C&#43;&#43;
 |kozima|[はてなブログ](https://lkozima.hatenablog.com/)||
 |kusano|[はてなブログ](https://kusano-k.hatenablog.com/)、[Qiita](https://qiita.com/kusano_k)||
 |merom686|[はてなブログ](https://merom686.hatenablog.com/)||
-|mtsd|[はてなブログ](https://mtsd-programming.hatenablog.com/)||
 |olphe|[はてなブログ](https://olphe.hatenablog.com/)||
 |Omotchi|[はてなブログ](https://omotchi.hateblo.jp/)||
 |phyllo|[GitHub Pages](https://jetbead.github.io/AtCoderHeuristicContestMemo/)||
 |physics0523|[はてなブログ](https://physics0523.hatenablog.com/)||
+|ponjuice|[note](https://note.com/ponjuice0)||
 |qLethon|[はてなブログ](https://qlethon.hatenablog.com/)||
 |riantkb|[はてなブログ](https://rian.hatenablog.jp/)||
+|satanic0258|[はてなブログ](https://satanic0258.hatenablog.com/)|2018年9月以降、新規の記事を確認できず。|
 |Shibuyap|[Qiita](https://qiita.com/Shibuyap)||
 |shindannin|[はてなブログ](https://shindannin.hatenadiary.com/)||
 |theory_and_me|[はてなブログ](https://theory-and-me.hatenablog.com/)||
+|Trineutron|[Qiita](https://qiita.com/trineutron)||
 |tsukasa_diary|[Qiita](https://qiita.com/tsukasa__diary)||
 |ValGrowth|[はてなブログ](https://valgrowth.hatenablog.com/archive)||
 |yunix|[はてなブログ](https://yunix-kyopro.hatenablog.com/)||
