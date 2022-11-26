@@ -6,7 +6,7 @@ title: Change Log
 
 ### 2022-11-26
 
-- [#4990](https://github.com/KATO-Hiro/AtCoderClans/pull/4990) - (破壊的な変更) [Heroku](https://www.heroku.com)の無料プラン終了に伴い、サービス提供終了したWebアプリを[Archives](../../archived)」ページに移動。
+- [#4990](https://github.com/KATO-Hiro/AtCoderClans/pull/4990) - (破壊的な変更) [Heroku](https://www.heroku.com)の無料プラン終了に伴い、サービス提供終了したWebアプリを「[Archives](../../archived)」ページに移動。
     - AtCoder平均
     - あなたのレートはどこから?
     - Rating History
