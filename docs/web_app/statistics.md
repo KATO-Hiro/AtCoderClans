@@ -58,12 +58,6 @@ title: コンテストに関する統計情報
 
 ### 成績の平均値・最高値
 
-- [AtCoder平均](http://rating-history.herokuapp.com/average.html) - 直近nか月における各種コンテストの平均順位とパフォーマンスを表示する。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_average.png" alt="atcoder average">
-    </div>
-
 - [AtCoder QQ](https://app.tsutaj.com/atcoder-qq/) - コンテストの順位を、最高順位が含まれる形で表形式 (縦軸: 10の位、横軸: 1の位) で示す。
 
     <div align="center">
@@ -89,12 +83,6 @@ title: コンテストに関する統計情報
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_type_checker.png" alt="atcoder type checker">
-    </div>
-
-- [あなたのレートはどこから?](https://rating-history.herokuapp.com/rating.html) - レーティングが、どのコンテスト区分(ABC、ARC、AGC、その他)から得られているかを求める。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/where_does_your_rating_come_from.png" alt="where does your rating come from?">
     </div>
 
 ### 統計情報からトロフィーを作成

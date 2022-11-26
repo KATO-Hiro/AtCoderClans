@@ -37,13 +37,6 @@ title: コンテストの成績を見る
       <img loading = "lazy" src="../../images/web_app/atcoder_rollback.png" alt="atcoder rollback">
     </div>
 
-- [Rating History](https://rating-history.herokuapp.com/index.html) - 複数のコンテストサイトで、解いた問題数とレーティングの推移を表示する。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/rating_history.png" alt="rating history">
-    </div>
-
-
 ### 2人以上
 
 - [AtCoder Rating Comparison](https://atcoder-rating-comparison.herokuapp.com/?q=) - 指定した2人以上のレーティングの比較ができる。[Codeforces版](https://rika0384.github.io/codeforces_rating_comparison/)も公開されている。
