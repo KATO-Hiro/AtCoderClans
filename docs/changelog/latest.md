@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-11-26
+
+- [#4990](https://github.com/KATO-Hiro/AtCoderClans/pull/4990) - (破壊的な変更) [Heroku](https://www.heroku.com)の無料プラン終了に伴い、サービス提供終了したWebアプリを「[Archives](../../archived)」ページに移動。
+    - AtCoder平均
+    - あなたのレートはどこから?
+    - Rating History
+- [#4989](https://github.com/KATO-Hiro/AtCoderClans/pull/4989) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページで掲載しているWebサイト「[tc-wleite/tc-wleite.github.io](https://github.com/tc-wleite/tc-wleite.github.io)」の説明文を更新。以下のリンクを追加。
+    - [AHC 016](https://tc-wleite.github.io/ahc016.html)
+
 ### 2022-11-25
 
 - [#4985](https://github.com/KATO-Hiro/AtCoderClans/pull/4985) - 「[Articles, Blogs, Books and Videos](../../blogs)」ページのヒューリスティック部門に、最高レーティングが2000以上に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
