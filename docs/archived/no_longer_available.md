@@ -84,6 +84,13 @@ title: 開発・提供終了
       <img loading = "lazy" src="../../images/web_app/atcoder_marathon_rating_history.png" alt="atcoder marathon rating history">
     </div>
 
+- [Rating History](https://rating-history.herokuapp.com/index.html) - 複数のコンテストサイトで、解いた問題数とレーティングの推移を表示する。
+    - 理由: 作者からサービスの提供終了の連絡を受けたため。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/rating_history.png" alt="rating history">
+    </div>
+
 ### コンテストの成績に関連するサービス
 
 - [AtCoder Rating Simulator](https://twitter.com/AtCoderRS) - Ratedコンテスト当日に、所定のレーティングに到達するのに必要なパフォーマンスを自動返信するTwitter Bot。
@@ -117,6 +124,13 @@ title: 開発・提供終了
 
 ### コンテストに関する統計情報
 
+- [AtCoder平均](http://rating-history.herokuapp.com/average.html) - 直近nか月における各種コンテストの平均順位とパフォーマンスを表示する。
+    - 理由: 作者からサービスの提供終了の連絡を受けたため。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_average.png" alt="atcoder average">
+    </div>
+
 - [AtCoder Diff Scores](https://atcoder-diff-scores.herokuapp.com/home) - レーティングと[AtCoder Problems](https://kenkoooo.com/atcoder/)で推定されたDifficultyの累計値の推移を表示する。
 
     <div align="center">
@@ -136,6 +150,13 @@ title: 開発・提供終了
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_stats.png" alt="atcoder stats">
+    </div>
+
+- [あなたのレートはどこから?](https://rating-history.herokuapp.com/rating.html) - レーティングが、どのコンテスト区分(ABC、ARC、AGC、その他)から得られているかを求める。
+    - 理由: 作者からサービスの提供終了の連絡を受けたため。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/where_does_your_rating_come_from.png" alt="where does your rating come from?">
     </div>
 
 ## スクリプト
