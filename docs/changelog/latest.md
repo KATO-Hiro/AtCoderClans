@@ -4,9 +4,17 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-11-27
+
+- [#4996](https://github.com/KATO-Hiro/AtCoderClans/pull/4996)、[#4997](https://github.com/KATO-Hiro/AtCoderClans/pull/4997) - (破壊的な変更) [Heroku](https://www.heroku.com)の無料プラン終了に伴い、サービス提供終了したWebアプリを「[Archives](../../archived)」ページに移動。[@noisy_noimin](https://twitter.com/noisy_noimin)さん、[@rsk0315_h4x](https://twitter.com/rsk0315_h4x)さん、大変お疲れ様でした。長年にわたり開発・運営を続けていただき、ありがとうございます。
+    - AtCoder Performances
+    - AtCoder Scores
+- [#4995](https://github.com/KATO-Hiro/AtCoderClans/pull/4995) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[shunsk2020](https://atcoder.jp/users/shunsk2020)さんの[記事](http://neko-mac.blogspot.com/2022/11/atcoder.html)を追加。
+
 ### 2022-11-26
 
-- [#4990](https://github.com/KATO-Hiro/AtCoderClans/pull/4990) - (破壊的な変更) [Heroku](https://www.heroku.com)の無料プラン終了に伴い、サービス提供終了したWebアプリを「[Archives](../../archived)」ページに移動。
+- [#4990](https://github.com/KATO-Hiro/AtCoderClans/pull/4990) - (破壊的な変更) [Heroku](https://www.heroku.com)の無料プラン終了に伴い、サービス提供終了したWebアプリを「[Archives](../../archived)」ページに移動。[@beet_aizu](https://twitter.com/beet_aizu)さん、大変お疲れ様でした。長年にわたり開発・運営を続けていただき、ありがとうございます。
     - AtCoder平均
     - あなたのレートはどこから?
     - Rating History
