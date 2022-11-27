@@ -56,20 +56,10 @@ title: コンテストの成績を見る
 
 ## パフォーマンス値を見る・比較する
 
-### 1人
-
 - [Atcoder Performance Chart](https://atcoder-chart.web.app/) - パフォーマンス値、それらの短期・長期平均値を表示する。
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_performance_chart.png" alt="atcoder performance chart">
-    </div>
-
-### 2人以上
-
-- [AtCoder Performances](https://atcoderapps.herokuapp.com/atcoderperformances/) - 指定した2人以上のパフォーマンスの推移が比較できる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_performances.png" alt="atcoder performances">
     </div>
 
 ## 順位を見る・比較する

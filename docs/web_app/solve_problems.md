@@ -15,15 +15,6 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/web_app/atcoder_problems.png" alt="atcoder problems">
     </div>
 
-- [AtCoder Scores](http://atcoder-scores.herokuapp.com/) - AtCoder Grand Contest 001(AGC 001)以降の問題が点数順に並んでいる。
-
-    !!! warning "注意"
-        2021年4月以降の問題が反映されていないと思われる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_scores.png" alt="atcoder scores">
-    </div>
-
 - [Virtual Judge](https://vjudge.net/) - 30以上のコンテストサイトの問題を利用して、バーチャルコンテストが開催できる。
 
     <div align="center">

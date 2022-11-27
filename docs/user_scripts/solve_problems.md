@@ -14,7 +14,10 @@ title: 問題を解く
 
 ### 外部サービスの利用
 
-- [AtCoderUsers](https://greasyfork.org/ja/scripts/420811-atcoderusers) - 「プロフィール」ページに、[AtCoder Problems](https://kenkoooo.com/atcoder/)、[AtCoder Performances](https://atcoderapps.herokuapp.com/atcoderperformances/)、[AtCoder Scores](http://atcoder-scores.herokuapp.com/)、[AtCoder Tags](https://atcoder-tags.herokuapp.com/)のリンクを追加する。
+- [AtCoderUsers](https://greasyfork.org/ja/scripts/420811-atcoderusers) - 「プロフィール」ページに、[AtCoder Problems](https://kenkoooo.com/atcoder/)、[AtCoder Tags](https://atcoder-tags.herokuapp.com/)、のリンクを追加する。
+
+    !!! warning "注意"
+        AtCoder PerformancesとAtCoder Scoresは、いずれも2022年11月26日にサービス終了。
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_users.png" alt="atcoder users">
