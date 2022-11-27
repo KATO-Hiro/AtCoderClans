@@ -49,7 +49,7 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/web_app/atcoder_ebbing.png" alt="atcoder ebbing">
     </div>
 
-- [AtCoder List](http://atcoder-list.herokuapp.com) - 過去問から自分専用の問題リストを作ることができる。コンテストで出題された問題の情報は、前述の[AtCoder Problems](https://kenkoooo.com/atcoder/)や[AtCoder Scores](http://atcoder-scores.herokuapp.com/)などを参照されたい。
+- [AtCoder List](http://atcoder-list.herokuapp.com) - 過去問から自分専用の問題リストを作ることができる。コンテストで出題された問題の情報は、前述の[AtCoder Problems](https://kenkoooo.com/atcoder/)などを参照されたい。
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_list.png" alt="atcoder list">
