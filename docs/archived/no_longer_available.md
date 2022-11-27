@@ -10,6 +10,13 @@ title: 開発・提供終了
 
 ### 問題を解く
 
+- [AtCoder Scores](http://atcoder-scores.herokuapp.com/) - AtCoder Grand Contest 001(AGC 001)以降の問題が点数順に並んでいる。
+    - 理由: サービスの提供終了を告知した[作者のツイート](https://twitter.com/rsk0315_h4x/status/1593906452259033088)を観測したため。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_scores.png" alt="atcoder scores">
+    </div>
+
 - [AtCoder Virtual Contest](https://not-522.appspot.com/) - 仮想コンテスト(本番のコンテストに近い状態で練習できる)を開催できるWebサービス。
     - 理由: [AtCoder](https://atcoder.jp/)の仕様変更に伴うもの。
     - 代替手段: 公式のバーチャル参加や[AtCoder Problems](https://kenkoooo.com/atcoder/)のVitual Contestsを利用する。
@@ -82,6 +89,13 @@ title: 開発・提供終了
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_marathon_rating_history.png" alt="atcoder marathon rating history">
+    </div>
+
+- [AtCoder Performances](https://atcoderapps.herokuapp.com/atcoderperformances/) - 指定した2人以上のパフォーマンスの推移が比較できる。
+    - 理由: サービスの提供終了を告知した[作者のツイート](https://twitter.com/noisy_noimin/status/1584906723441405952)を観測したため。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_performances.png" alt="atcoder performances">
     </div>
 
 - [Rating History](https://rating-history.herokuapp.com/index.html) - 複数のコンテストサイトで、解いた問題数とレーティングの推移を表示する。
