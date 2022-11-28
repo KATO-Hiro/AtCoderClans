@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-11-28
+
+- [#5001](https://github.com/KATO-Hiro/AtCoderClans/pull/5001)、 [#5002](https://github.com/KATO-Hiro/AtCoderClans/pull/5002)、[#5003](https://github.com/KATO-Hiro/AtCoderClans/pull/5003) - (破壊的な変更) 「[Change Log](../latest)」ページの2022年8〜9月分を月別のアーカイブに移動。
+    - [September, 2022](../2022_09)
+    - [August, 2022](../2022_08)
+
 ### 2022-11-27
 
 - [#4996](https://github.com/KATO-Hiro/AtCoderClans/pull/4996)、[#4997](https://github.com/KATO-Hiro/AtCoderClans/pull/4997) - (破壊的な変更) [Heroku](https://www.heroku.com)の無料プラン終了に伴い、サービス提供終了したWebアプリを「[Archives](../../archived)」ページに移動。[@noisy_noimin](https://twitter.com/noisy_noimin)さん、[@rsk0315_h4x](https://twitter.com/rsk0315_h4x)さん、大変お疲れ様でした。長年にわたり開発・運営を続けていただき、ありがとうございます。
