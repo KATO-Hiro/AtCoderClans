@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-11-29
+
+- [#5009](https://github.com/KATO-Hiro/AtCoderClans/pull/5009) - (破壊的な変更) リンク切れと思われるWebアプリを一時的に「[Archives](../../archived)」ページに移動。
+- [#5008](https://github.com/KATO-Hiro/AtCoderClans/pull/5008) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、ユーザスクリプト「[AtCoderAnotherGraph](https://greasyfork.org/ja/scripts/455542-atcoderanothergraph)」を追加。
+
 ### 2022-11-28
 
 - [#5001](https://github.com/KATO-Hiro/AtCoderClans/pull/5001)、 [#5002](https://github.com/KATO-Hiro/AtCoderClans/pull/5002)、[#5003](https://github.com/KATO-Hiro/AtCoderClans/pull/5003) - (破壊的な変更) 「[Change Log](../latest)」ページの2022年8〜9月分を月別のアーカイブに移動。
