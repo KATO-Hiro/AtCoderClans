@@ -58,6 +58,16 @@ title: コンテストの成績や関連する統計情報を見る
 
 ### レーティングの推移・分布
 
+- [AtCoderAnotherGraph](https://greasyfork.org/ja/scripts/455542-atcoderanothergraph) - 「ユーザ」ページにあるレーティンググラフ︎を、ヒューリスティック/アルゴリズムの計算式で表示する。
+
+    !!! info "参考"
+
+        以下のサンプルでは、アルゴリズム部門のレーティングをヒューリスティックの計算式に基づいて表示している。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_another_graph.png" alt="atcoder another graph">
+    </div>
+
 - [AtCoder Graph Time](https://greasyfork.org/ja/scripts/454517-atcoder-graph-time) - 「ユーザ」ページにあるレーティンググラフの横軸をコンテストの参加回数に変更する。
 
     <div align="center">
