@@ -36,12 +36,6 @@ title: Codeforces
 
 #### レーティングを見る・比較する
 
-- [CF-Predictor](https://cf-predictor-frontend.herokuapp.com/) - コンテストの結果に基づいて、レーティングの変化を推定するWebアプリ。また、複数のブラウザに対応した拡張機能をダウンロードして利用することもできる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/related_contest_sites/codeforces/cf-predictor.png" alt="cf predictor">
-    </div>
-
 - [Codeforces Rating Comparison](https://rika0384.github.io/codeforces_rating_comparison/) - 指定した2人以上のレーティングの比較ができる。[AtCoder版](https://atcoder-rating-comparison.herokuapp.com/)も公開されている。
 
     <div align="center">

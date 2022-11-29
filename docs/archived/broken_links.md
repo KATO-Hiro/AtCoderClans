@@ -170,6 +170,22 @@ title: リンク切れ
 
 ## 関連コンテストサイト
 
+### Codeforces
+
+- [CF-Predictor](https://cf-predictor-frontend.herokuapp.com/) - コンテストの結果に基づいて、レーティングの変化を推定するWebアプリ。また、複数のブラウザに対応した拡張機能をダウンロードして利用することもできる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/codeforces/cf-predictor.png" alt="cf predictor">
+    </div>
+
+### Leetcode
+
+- [Leetcode Rating Predictor](http://lcpredictor.herokuapp.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/SysSn13/leetcode-rating-predictor?style=plastic) - コンテスト終了直後に、レーティングの変動を見ることができる。[Google Chromeの拡張機能](https://chrome.google.com/webstore/detail/lc-predictor/jfhgaegpgiepniiebglgjhhfnjcibphh)も用意されている。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/leetcode/leetcode_rating_predictor.png" alt="leetcode rating predictor">
+    </div>
+
 ### TopCoder
 
 - [Topcoder ARENA (Applet)](https://www.topcoder.com/contest/arena/ContestAppletProd7.2.jnlp) - 過去問を解くときに必要なアプリをダウンロードするためのリンク。
