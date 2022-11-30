@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-11-30
+
+- [#5014](https://github.com/KATO-Hiro/AtCoderClans/pull/5014) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[yuforest](https://atcoder.jp/users/yuforest)さんの[記事](https://magicode.io/yuforest/articles/e7684fd22e73498eac97dbe78754ee70)を追加。
+
 ### 2022-11-29
 
 - [#5009](https://github.com/KATO-Hiro/AtCoderClans/pull/5009) - (破壊的な変更) リンク切れと思われるWebアプリを一時的に「[Archives](../../archived)」ページに移動。
