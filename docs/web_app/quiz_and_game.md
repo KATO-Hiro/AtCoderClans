@@ -31,16 +31,6 @@ title: クイズ・ゲームなど
       <img loading = "lazy" src="../../images/web_app/atcoder_difficulty_quiz.png" alt="atcoder difficulty quiz">
     </div>
 
-## ゲーム
-
-### 過去問に登場したゲームで遊ぶ
-
-- [AtCoder Games](https://atcoder-games.herokuapp.com/games/) - 過去問に登場したゲームで遊ぶことができる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_games.png" alt="atcoder games">
-    </div>
-
 ## ネタアプリ
 
 ### コンテスト占い

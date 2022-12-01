@@ -25,12 +25,6 @@ title: 問題を解く
 
 ### アルゴリズム部門
 
-- [AtCoder Tags](https://atcoder-tags.herokuapp.com/) - 問題のカテゴリーを分類する。ユーザ登録を行えば、問題にふさわしいと思うカテゴリーを投票できる。[AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper)を導入すると、[AtCoder](https://atcoder.jp/)の「問題」ページからも投票できる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_tags.png" alt="atcoder tags">
-    </div>
-
 - [AtCoder Gacha](https://atcoder-gacha.onrender.com/) - 難易度や正誤状況を指定して、問題を絞り込むことができる。
 
     <div align="center">
