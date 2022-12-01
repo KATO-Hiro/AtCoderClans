@@ -15,5 +15,6 @@ title: Archives - はじめに
 
 - [追加の動作確認が必要](./need_to_confirm_operation)
 - [更新停止の可能性が高い](./outdated_information)
+- [サーバの移行中](./migrate_servers)
 - [リンク切れ](./broken_links)
 - [開発・提供終了](./no_longer_available)

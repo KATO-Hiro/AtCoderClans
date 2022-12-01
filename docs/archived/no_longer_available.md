@@ -173,6 +173,15 @@ title: 開発・提供終了
       <img loading = "lazy" src="../../images/web_app/where_does_your_rating_come_from.png" alt="where does your rating come from?">
     </div>
 
+### クイズ・ゲームなど
+
+- [AtCoder Games](https://atcoder-games.herokuapp.com/games/) - 過去問に登場したゲームで遊ぶことができる。
+    - 理由: 作者からサービスの提供終了の連絡を受けたため。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_games.png" alt="atcoder games">
+    </div>
+
 ## スクリプト
 
 ### 提出コードの正誤判定

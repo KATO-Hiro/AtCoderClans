@@ -15,18 +15,6 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/web_app/atcoder_problems.png" alt="atcoder problems">
     </div>
 
-## 特定の分野を重点的に学ぶ
-
-- [AtCoder Tags](https://atcoder-tags.herokuapp.com/) - カテゴリーごとに問題を見ることができるWebアプリです。ユーザ登録を行えば、問題にふさわしいと思うカテゴリーを投票できます。[⭐ AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper)を導入すると、[AtCoder](https://atcoder.jp/)の「問題」ページからも投票できます。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_tags.png" alt="atcoder tags">
-    </div>
-
-    !!! info "参考"
-
-        ユーザスクリプト(⭐️印が付いたサービス)を初めて利用される場合は、最初に[スクリプトマネージャ](https://greasyfork.org/ja)を導入する必要があります。
-
 ---
 
   <div align="center">
