@@ -19,6 +19,8 @@ title: 更新停止の可能性が高い
 
 ### コンテストの成績を見る
 
+<!-- markdown-link-check-disable -->
+
  - [AtCoder Heuristic Statistics](https://heuristic-statistics.herokuapp.com/) - [AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=0&category=1200&keyword=AtCoder+Heuristic+Contest)のレーティング分布を表示する。
 
     - 理由: 記載なし。
@@ -27,6 +29,8 @@ title: 更新停止の可能性が高い
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_heuristic_statistics.png" alt="atcoder heuristic statistics">
     </div>
+
+<!-- markdown-link-check-enable -->
 
 - [AtCoderマラソンランキング](https://tomerun.github.io/atcoder_marathon_ranking/index.html) - マラソン系コンテストの順位を[AtCoder レースランキング](https://atcoder.jp/posts/170)と同じ形式でポイント化し、ランキングをつける。
 
