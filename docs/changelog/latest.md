@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-12-02
+
+- [#5025](https://github.com/KATO-Hiro/AtCoderClans/pull/5025) - (破壊的な変更) [Heroku](https://www.heroku.com)の無料プラン終了に伴い、サーバの移行が検討されているサービスを一旦「[Archives](../../archived)」ページに移動。
+
 ### 2022-12-01
 
 - [#5019](https://github.com/KATO-Hiro/AtCoderClans/pull/5019) - (破壊的な変更) [Heroku](https://www.heroku.com)の無料プラン終了に伴い、サーバの移行が検討されているサービスを一旦「[Archives](../../archived)」ページに移動。
