@@ -131,7 +131,7 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/atcoder_score_hider.png" alt="atcoder score hider">
     </div>
 
-#### カテゴリーを投票
+### カテゴリーを投票
 
 - [AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper) - 「問題」ページから[AtCoderTags](https://atcoder-tags.herokuapp.com/)に投票できる。
 
