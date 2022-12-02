@@ -36,19 +36,13 @@ title: Codeforces
 
 #### レーティングを見る・比較する
 
-- [Codeforces Rating Comparison](https://rika0384.github.io/codeforces_rating_comparison/) - 指定した2人以上のレーティングの比較ができる。[AtCoder版](https://atcoder-rating-comparison.herokuapp.com/)も公開されている。
+- [Codeforces Rating Comparison](https://rika0384.github.io/codeforces_rating_comparison/) - 指定した2人以上のレーティングの比較ができる。
 
     <div align="center">
       <img loading = "lazy" src="../../images/related_contest_sites/codeforces/codeforces_rating_comparison.png" alt="codeforces rating comparison">
     </div>
 
 #### 仮想的なレーティングを計算
-
-- [Arugo](https://arugo.herokuapp.com/) - 任意の1問が80分以内に解けたかどうかに応じて、仮想的なレーティングの推移が表示されるWebサイト。作者による[紹介記事](https://codeforces.com/blog/entry/96830)もある。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/related_contest_sites/codeforces/arugo.png" alt="arugo">
-    </div>
 
 - [Codeforces Anytime](https://codeforces-anytime.firebaseapp.com/) - バーチャルコンテストの結果を利用して、レーティングの変動を表示するWebアプリ。同一の作者により[AtCoder版](https://atcoder-anytime.sonoapp.page/)も公開されている。
 
