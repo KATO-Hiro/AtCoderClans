@@ -16,30 +16,16 @@ title: サーバの移行中
       <img loading = "lazy" src="../../images/web_app/atcoder_rating_simulator_web.png" alt="atcoder rating simulator web">
     </div>
 
-## おすすめのサービス・ツールを紹介
-
-### 特定の分野を重点的に学ぶ
-
-- [AtCoder Tags](https://atcoder-tags.herokuapp.com/) - カテゴリーごとに問題を見ることができるWebアプリです。ユーザ登録を行えば、問題にふさわしいと思うカテゴリーを投票できます。[⭐ AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper)を導入すると、[AtCoder](https://atcoder.jp/)の「問題」ページからも投票できます。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_tags.png" alt="atcoder tags">
-    </div>
-
-    !!! info "参考"
-
-        ユーザスクリプト(⭐️印が付いたサービス)を初めて利用される場合は、最初に[スクリプトマネージャ](https://greasyfork.org/ja)を導入する必要があります。
-
 ## Webアプリ、Webサイト
 
 ### 問題を解く
 
-#### 特定の分野・難易度を重点的に学ぶ
+#### 復習の効果をより高める
 
-- [AtCoder Tags](https://atcoder-tags.herokuapp.com/) - 問題のカテゴリーを分類する。ユーザ登録を行えば、問題にふさわしいと思うカテゴリーを投票できる。[AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper)を導入すると、[AtCoder](https://atcoder.jp/)の「問題」ページからも投票できる。
+- [AtCoder List](http://atcoder-list.herokuapp.com) - 過去問から自分専用の問題リストを作ることができる。コンテストで出題された問題の情報は、前述の[AtCoder Problems](https://kenkoooo.com/atcoder/)などを参照されたい。
 
     <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_tags.png" alt="atcoder tags">
+      <img loading = "lazy" src="../../images/web_app/atcoder_list.png" alt="atcoder list">
     </div>
 
 ### コンテストの成績を見る
@@ -67,28 +53,27 @@ title: サーバの移行中
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_rating_simulator_web.png" alt="atcoder rating simulator web">
 
-## ユーザスクリプト
+### コンテストに関する統計情報
 
-### 問題を解く
+#### 解法を予測
 
-#### ヒントを見る
-
-- [AtCoderTags_Hint](https://greasyfork.org/ja/scripts/393337-atcodertags-hint) - 「問題」ページにカテゴリーを表すヒントボタンを設置する。
+- [ABC Predictor](https://abc-predictor.herokuapp.com/) - AtCoder Beginner Contestの問題を対象として、問題文・配点・変数の範囲を入力すると解法を予測することができる。作者による[紹介記事](https://qiita.com/assy0000/items/08a66203a70df3b730c3)も公開されている。
 
     <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcodertags_hint.png" alt="atcodertags hint">
+      <img loading = "lazy" src="../../images/web_app/abc_predictor.png" alt="abc predictor">
     </div>
-
-#### カテゴリーを投票
-
-- [AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper) - 「問題」ページから[AtCoderTags](https://atcoder-tags.herokuapp.com/)に投票できる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcodertags_helper.png" alt="atcodertags helper">
-    </div>
-
 
 ## 関連コンテストサイト
+
+### Codeforces
+
+### コンテストの成績を見る
+
+- [Arugo](https://arugo.herokuapp.com/) - 任意の1問が80分以内に解けたかどうかに応じて、仮想的なレーティングの推移が表示されるWebサイト。作者による[紹介記事](https://codeforces.com/blog/entry/96830)もある。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/codeforces/arugo.png" alt="arugo">
+    </div>
 
 ### LeetCode
 

@@ -25,14 +25,6 @@ title: コンテストに関する統計情報
       <img loading = "lazy" src="../../images/web_app/atcoder_language_visualizer.png" alt="atcoder language visualizer">
     </div>
 
-### 解法を予測
-
-- [ABC Predictor](https://abc-predictor.herokuapp.com/) - AtCoder Beginner Contestの問題を対象として、問題文・配点・変数の範囲を入力すると解法を予測することができる。作者による[紹介記事](https://qiita.com/assy0000/items/08a66203a70df3b730c3)も公開されている。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/abc_predictor.png" alt="abc predictor">
-    </div>
-
 ## ユーザに関する統計
 
 ### 解答状況をヒートマップで見る

@@ -39,6 +39,8 @@ title: 更新停止の可能性が高い
 
 ### コンテスト後の情報収集・発信
 
+<!-- markdown-link-check-disable -->
+
 - [AtCoder Friend Finder](http://atcoder-friend-finder.herokuapp.com/) - [Twitter](https://twitter.com/)でフォローしている[AtCoder](https://atcoder.jp/)ユーザを表示する。
 
     - 理由: 記載なし。
@@ -50,6 +52,8 @@ title: 更新停止の可能性が高い
 
     !!! warning "注意"
         2021年6月以降、更新が行われていない可能性がある。
+
+<!-- markdown-link-check-enable -->
 
 ## 記事
 

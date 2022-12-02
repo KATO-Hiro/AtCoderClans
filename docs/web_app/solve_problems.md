@@ -25,6 +25,12 @@ title: 問題を解く
 
 ### アルゴリズム部門
 
+- [AtCoder Tags](https://atcoder-tags.herokuapp.com/) - 問題のカテゴリーを分類する。ユーザ登録を行えば、問題にふさわしいと思うカテゴリーを投票できる。[AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper)を導入すると、[AtCoder](https://atcoder.jp/)の「問題」ページからも投票できる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_tags.png" alt="atcoder tags">
+    </div>
+
 - [AtCoder Gacha](https://atcoder-gacha.onrender.com/) - 難易度や正誤状況を指定して、問題を絞り込むことができる。
 
     <div align="center">
@@ -41,12 +47,6 @@ title: 問題を解く
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_ebbing.png" alt="atcoder ebbing">
-    </div>
-
-- [AtCoder List](http://atcoder-list.herokuapp.com) - 過去問から自分専用の問題リストを作ることができる。コンテストで出題された問題の情報は、前述の[AtCoder Problems](https://kenkoooo.com/atcoder/)などを参照されたい。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_list.png" alt="atcoder list">
     </div>
 
 - [AtCoder-Review](https://at-coder-review.vercel.app/) - 任意のユーザが正解(AC)した問題とその回数を表示する。
