@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-12-03
+
+- [#5033](https://github.com/KATO-Hiro/AtCoderClans/pull/5033) - (破壊的な変更) [#5025](https://github.com/KATO-Hiro/AtCoderClans/pull/5025)に伴い、Change Logから該当リンクを一時的に削除。
+- [#5031](https://github.com/KATO-Hiro/AtCoderClans/pull/5031) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページに、Webアプリ「[AC Counter](https://accepted-counter.web.app/)」を追加。
+
 ### 2022-12-02
 
 - [#5025](https://github.com/KATO-Hiro/AtCoderClans/pull/5025) - (破壊的な変更) [Heroku](https://www.heroku.com)の無料プラン終了に伴い、サーバの移行が検討されているサービスを一旦「[Archives](../../archived)」ページに移動。
