@@ -35,6 +35,21 @@ title: コンテストに関する統計情報
       <img loading = "lazy" src="../../images/web_app/ac_heatmap.png" alt="ac heatmap">
     </div>
 
+### 正解数
+
+- [AC Counter](https://accepted-counter.web.app/) - 任意のユーザが正解した問題数を表示する。以下のコンテストサイトに対応。
+    - [AtCoder](https://atcoder.jp/)
+    - [AOJ (AIZU ONLINE JUDGE)](https://onlinejudge.u-aizu.ac.jp/home)
+    - [Codeforces](https://codeforces.com/)
+    - [Library Checker Problems](https://judge.yosupo.jp/)
+    - [LeetCode](https://leetcode.com/)
+    - [Topcoder](https://www.topcoder.com/)
+    - [yukicoder](https://yukicoder.me/)
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/ac_counter.png" alt="ac counter">
+    </div>
+
 ### 成績および制約条件別の得点・順位
 
 - [tc-wleite/tc-wleite.github.io](https://github.com/tc-wleite/tc-wleite.github.io) ![GitHub Repo stars](https://img.shields.io/github/stars/tc-wleite/tc-wleite.github.io?style=plastic) - [AtCoder Heuristic Contest (AHC)](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=)の最終成績や制約条件別の得点・順位を見ることができる。[Topcoder](https://www.topcoder.com/)のMarathon Matches(MM)についても、同様の集計がされている。
