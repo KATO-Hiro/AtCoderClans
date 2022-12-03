@@ -41,8 +41,8 @@ title: コンテストに関する統計情報
     - [AtCoder](https://atcoder.jp/)
     - [AOJ (AIZU ONLINE JUDGE)](https://onlinejudge.u-aizu.ac.jp/home)
     - [Codeforces](https://codeforces.com/)
-    - [Library Checker Problems](https://judge.yosupo.jp/)
     - [LeetCode](https://leetcode.com/)
+    - [Library Checker Problems](https://judge.yosupo.jp/)
     - [Topcoder](https://www.topcoder.com/)
     - [yukicoder](https://yukicoder.me/)
 
