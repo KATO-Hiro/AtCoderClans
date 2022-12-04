@@ -50,6 +50,14 @@ title: コンテストに関する統計情報
       <img loading = "lazy" src="../../images/web_app/ac_counter.png" alt="ac counter">
     </div>
 
+### 成績の推移
+
+- [AtCoder Heuristic Contest Statistics (AHC-stats)](https://ahc-stats.vercel.app) - [AtCoder Heuristic Contest (AHC)](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=)のパフォーマンス値・レーティングの推移、アルゴリズム部門とヒューリスティック部門のレーティングの相関などを見ることができる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_heuristic_contest_statistics.png" alt="atcoder heuristic contest statistics">
+    </div>
+
 ### 成績および制約条件別の得点・順位
 
 - [tc-wleite/tc-wleite.github.io](https://github.com/tc-wleite/tc-wleite.github.io) ![GitHub Repo stars](https://img.shields.io/github/stars/tc-wleite/tc-wleite.github.io?style=plastic) - [AtCoder Heuristic Contest (AHC)](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=)の最終成績や制約条件別の得点・順位を見ることができる。[Topcoder](https://www.topcoder.com/)のMarathon Matches(MM)についても、同様の集計がされている。
