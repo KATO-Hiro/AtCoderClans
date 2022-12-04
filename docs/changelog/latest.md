@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-12-04
+
+- [#5035](https://github.com/KATO-Hiro/AtCoderClans/pull/5035) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページに、Webアプリ「[AtCoder Heuristic Contest Statistics (AHC-stats)](https://ahc-stats.vercel.app)」を追加。
+
 ### 2022-12-03
 
 - [#5033](https://github.com/KATO-Hiro/AtCoderClans/pull/5033) - (破壊的な変更) [#5025](https://github.com/KATO-Hiro/AtCoderClans/pull/5025)に伴い、Change Logから該当リンクを一時的に削除。
