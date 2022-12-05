@@ -31,6 +31,7 @@ title: C&#43;&#43;
 |LayCurse|[自作ブログ](http://rsujskf.s602.xrea.com/)||
 |maroonrk|[Codeforces blog](https://codeforces.com/blog/maroonrk)||
 |math|[はてなブログ](https://math314.hateblo.jp/)||
+|mtsd|[はてなブログ](https://mtsd-programming.hatenablog.com/)||
 |Nachia|[Qiita](https://qiita.com/Nachia)||
 |natsugiri|[はてなブログ](https://natsugiri.hatenablog.com/)||
 |noimi|[はてなブログ](https://noimi.hatenablog.com/)||
@@ -81,7 +82,6 @@ title: C&#43;&#43;
 |maple116|[はてなブログ](https://fuma-maple.hatenablog.com/)|2020年2月以降、新規の記事を確認できず。|
 |MMNMM|[はてなブログ](https://259-momone.hatenablog.com/)||
 |Motsu_xe|[はてなブログ](https://motsu-xe.hatenablog.com/)||
-|mtsd|[はてなブログ](https://mtsd-programming.hatenablog.com/)||
 |nok0|[はてなブログ](https://tsuchi.hateblo.jp/)||
 |olphe|[はてなブログ](https://olphe.hatenablog.com/)||
 |omochana2|[はてなブログ](https://omochan.hatenablog.com/)||
