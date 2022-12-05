@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-12-05
+
+- [#5048](https://github.com/KATO-Hiro/AtCoderClans/pull/5048) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[ysknsid25](https://atcoder.jp/users/ysknsid25)さんの[記事](https://untitledreport.com/%e3%80%90atcoder%e3%80%91%e3%82%88%e3%81%86%e3%82%84%e3%81%8f%e8%8c%b6%e3%81%ab%e8%89%b2%e5%a4%89%e3%81%99%e3%82%8b%e3%81%93%e3%81%a8%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f%e3%80%90/)を追加。
+- [#5047](https://github.com/KATO-Hiro/AtCoderClans/pull/5047) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[currypurin](https://atcoder.jp/users/currypurin)さんの[記事](https://www.currypurin.com/entry/2022/12/03/160204)を追加。
+- [#5046](https://github.com/KATO-Hiro/AtCoderClans/pull/5046) - 「[Articles, Blogs, Books and Videos](../../blogs)」ページのアルゴリズム部門で、ユーザの昇段に伴い、掲載するレーティング帯を変更。
+
 ### 2022-12-04
 
 - [#5035](https://github.com/KATO-Hiro/AtCoderClans/pull/5035) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページに、Webアプリ「[AtCoder Heuristic Contest Statistics (AHC-stats)](https://ahc-stats.vercel.app)」を追加。
