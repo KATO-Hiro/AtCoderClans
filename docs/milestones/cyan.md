@@ -17,6 +17,7 @@ title: レーティング1200〜1599(水色)
 - [【AtCoder 色変記事】PythonでAtCoder水色になりました](https://qiita.com/MoroeTachibana-oh/items/a8dcad981369367ea6fa) - [takumaiq](https://atcoder.jp/users/takumaiq)さんが、2022年10月1日に達成。
 - [【色変記事】AtCoder水色になるまでにやって良かったこと](https://qiita.com/rapirapi/items/17e161268b67349fa629) - [rapirapi](https://atcoder.jp/users/rapirapi)さんが、2022年10月8日に達成。
 - [AtCoderで水色になりました - ma_twのブログ](https://ma-tw.hatenablog.com/entry/2022/11/22/204652) - [ma_tw](https://atcoder.jp/users/ma_tw)さんが、2022年11月19日に達成。
+- [Atcoder水色になりました](https://qiita.com/akasia_midori/private/79f65def4f9e595f745b) - [akasia_midori](https://atcoder.jp/users/akasia_midori)さんが、2022年11月26日に達成。
 
 ## 2021年
 
