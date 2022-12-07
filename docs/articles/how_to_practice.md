@@ -41,3 +41,7 @@ title: コンテストに向けた練習方法を知る
 
     !!! warning "注意"
         2020年4月以降更新されていないため、出題される問題数や成績の解釈などが現在と異なる部分もある。
+
+## 競技プログラミングとAIとの関係
+
+- [競技プログラミングとChatGPTを含むAIについて](https://chokudai.hatenablog.com/entry/2022/12/07/161959) - [ChatGPT](https://openai.com/blog/chatgpt/)の公開に伴い、[AtCoder](https://atcoder.jp/)社長の[chokudai](https://twitter.com/chokudai)さんが個人的な見解を述べた記事。AIの実力、競技性や教育への影響、コンテストでの使用の是非などについて言及されている。
