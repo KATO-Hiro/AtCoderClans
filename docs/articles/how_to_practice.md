@@ -35,13 +35,13 @@ title: コンテストに向けた練習方法を知る
 
 - [rng問題](https://docs.google.com/spreadsheets/d/1-dwOvCUGF7ITCYXg2LUFo0YqvZc7PTNX3jz1USuXuBE/edit#gid=0) - [rng_58](https://twitter.com/rng_58)さんが作成した問題の難易度を[Topcoder](https://www.topcoder.com/)の基準で点数化している。また、有志によって難易度の評価やおすすめ問題の投票が行われている。
 
+### 競技プログラミングとAIとの関係
+
+- [競技プログラミングとChatGPTを含むAIについて](https://chokudai.hatenablog.com/entry/2022/12/07/161959) - [ChatGPT](https://openai.com/blog/chatgpt/)の公開に伴い、[AtCoder](https://atcoder.jp/)社長の[chokudai](https://twitter.com/chokudai)さんが個人的な見解を述べた記事。AIの実力、競技性や教育への影響、コンテストでの使用の是非などについて言及されている。
+
 ## コンテストに関するTips集
 
 - [AtCoder コンテストについてのtips](https://qiita.com/drken/items/8a6f139158cde8a61dce) - [AtCoder](https://atcoder.jp/)におけるコンテストの成績の解釈方法、参加に関するTips、プログラミングコンテストサイトの紹介について書かれている。
 
     !!! warning "注意"
         2020年4月以降更新されていないため、出題される問題数や成績の解釈などが現在と異なる部分もある。
-
-## 競技プログラミングとAIとの関係
-
-- [競技プログラミングとChatGPTを含むAIについて](https://chokudai.hatenablog.com/entry/2022/12/07/161959) - [ChatGPT](https://openai.com/blog/chatgpt/)の公開に伴い、[AtCoder](https://atcoder.jp/)社長の[chokudai](https://twitter.com/chokudai)さんが個人的な見解を述べた記事。AIの実力、競技性や教育への影響、コンテストでの使用の是非などについて言及されている。
