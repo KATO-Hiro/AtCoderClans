@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-12-08
+
+- [#5060](https://github.com/KATO-Hiro/AtCoderClans/pull/5060) - 「[Articles, Blogs, Books and Videos](../../media)」の「[問題を解く](../../articles/how_to_practice)」ページに、記事「[ChatGPTに競技プログラミングさせてみた【AtCoder】](https://qiita.com/relu/items/6cc9467748d580f50cfd)」を追加。
+
 ### 2022-12-07
 
 - [#5054](https://github.com/KATO-Hiro/AtCoderClans/pull/5054)、[#5056](https://github.com/KATO-Hiro/AtCoderClans/pull/5056) - 「[Articles, Blogs, Books and Videos](../../media)」の「[問題を解く](../../articles/how_to_practice)」ページに、記事「[競技プログラミングとChatGPTを含むAIについて](https://chokudai.hatenablog.com/entry/2022/12/07/161959)」を追加。
