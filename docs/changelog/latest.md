@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-12-09
+
+- [#5064](https://github.com/KATO-Hiro/AtCoderClans/pull/5064) - 「[Milestones](../../milestones/red)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2800以上(赤色、銅王冠、銀王冠、金王冠)に[mtsd](https://atcoder.jp/users/mtsd)さんの[記事](https://mtsd-programming.hatenablog.com/entry/2022/12/09/200000)を追加。
+
 ### 2022-12-08
 
 - [#5060](https://github.com/KATO-Hiro/AtCoderClans/pull/5060) - 「[Articles, Blogs, Books and Videos](../../media)」の「[問題を解く](../../articles/how_to_practice)」ページに、記事「[ChatGPTに競技プログラミングさせてみた【AtCoder】](https://qiita.com/relu/items/6cc9467748d580f50cfd)」を追加。
