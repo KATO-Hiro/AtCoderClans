@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-12-10
+
+- [#5069](https://github.com/KATO-Hiro/AtCoderClans/pull/5069) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [妹尾の解ると楽しいアルゴリズムチャンネル](https://www.youtube.com/@user-rs9rl9bk2k/videos)
+
 ### 2022-12-09
 
 - [#5064](https://github.com/KATO-Hiro/AtCoderClans/pull/5064) - 「[Milestones](../../milestones/red)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
