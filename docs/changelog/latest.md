@@ -6,7 +6,7 @@ title: Change Log
 
 ### 2022-12-11
 
-- [#5072](https://github.com/KATO-Hiro/AtCoderClans/pull/5072) - (破壊的な変更) リンク切れと思われるWebサイト、Chrome拡張機能を一時的に「[Archives](../../archived)」ページに移動。
+- [#5072](https://github.com/KATO-Hiro/AtCoderClans/pull/5072) - (破壊的な変更) リンク切れと思われるChrome拡張機能を一時的に「[Archives](../../archived)」ページに移動。
 
 ### 2022-12-10
 
