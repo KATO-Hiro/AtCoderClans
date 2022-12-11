@@ -12,6 +12,15 @@ title: リンク切れ
 
 - [競技プログラミングとの向き合い方に関する記事](https://note.com/fidia0709/n/n3bde5443cd17) - 競技プログラミングを続ける上で必要なメンタル面に関するアドバイスが書かれた記事です。
 
+- [AtCoder TestCase Extension](https://chrome.google.com/webstore/detail/atcoder-testcase-extensio/klmflnjcfalpmeldgkcinfilloihmbdh?hl=ja&gl=UA) - 公開されているテストケースのリンクを表示するChrome拡張機能を利用してみましょう。入出力データを使って、回答コードのデバッグを行うことができます。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/chrome_extension/atcoder_testcase_extension.png" alt="atcoder testcase extension">
+    </div>
+
+    !!! warning "注意"
+        一部のコンテストでは、対応していない場合があります。
+
 ## Webアプリ・Webサイト
 
 ### 問題に関する統計情報
@@ -34,6 +43,14 @@ title: リンク切れ
 
 - [AtCoderを120%楽しむために便利な拡張機能](https://dailylife.dev/posts/79#body) - 記事の作成者が便利だと感じたユーザスクリプトや拡張機能が紹介されている記事。初めて使う方にもおすすめ。
     - 確認した日: 2022/02/09
+
+### テストケースを見る
+
+- [AtCoder TestCase Extension](https://chrome.google.com/webstore/detail/atcoder-testcase-extensio/klmflnjcfalpmeldgkcinfilloihmbdh?hl=ja&gl=UA) - 公開されているテストケースへのリンクを追加する。ABC/ARC/AGC以外のコンテストは一部未対応の場合もある。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/chrome_extension/atcoder_testcase_extension.png" alt="atcoder testcase extension">
+    </div>
 
 ## 記事
 
