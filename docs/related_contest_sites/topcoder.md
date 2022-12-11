@@ -42,11 +42,15 @@ title: Topcoder
       <img loading = "lazy" src="../../images/related_contest_sites/topcoder/practice_problems_list.png" alt="practice problems list">
     </div>
 
+<!-- markdown-link-check-disable -->
+
 - [Topcoder (Problem Search)](https://community.topcoder.com/tc?module=ProblemArchive) - 過去問を検索・閲覧できるWebサイト。
 
     <div align="center">
       <img loading = "lazy" src="../../images/related_contest_sites/topcoder/problem_search.png" alt="practice problem search">
     </div>
+
+<!-- markdown-link-check-enable -->
 
 ## プラグイン
 
