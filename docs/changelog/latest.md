@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-12-11
+
+- [#5072](https://github.com/KATO-Hiro/AtCoderClans/pull/5072) - (破壊的な変更) リンク切れと思われるChrome拡張機能を一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2022-12-10
 
 - [#5069](https://github.com/KATO-Hiro/AtCoderClans/pull/5069) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
