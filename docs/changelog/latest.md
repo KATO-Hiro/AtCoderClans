@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-12-12
+
+- [#5079](https://github.com/KATO-Hiro/AtCoderClans/pull/5079) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、Webアプリ「[AtCoder Companions](https://atcoder-companions.kakira.dev/)」を追加。
+- [#5077](https://github.com/KATO-Hiro/AtCoderClans/pull/5077) - 「[Scripts](../../scripts)」の「[解説を読む・テストケースを見る](../../user_scripts/read_editorials)」ページに、ユーザスクリプト「[typical90-direct-editorial-link](https://greasyfork.org/ja/scripts/455946-typical90-direct-editorial-link)」を追加。
+
 ### 2022-12-11
 
 - [#5072](https://github.com/KATO-Hiro/AtCoderClans/pull/5072) - (破壊的な変更) リンク切れと思われるChrome拡張機能を一時的に「[Archives](../../archived)」ページに移動。
