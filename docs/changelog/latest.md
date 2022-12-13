@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-12-13
+
+- [#5084](https://github.com/KATO-Hiro/AtCoderClans/pull/5084) - (破壊的な変更) リンク切れと思われる関連コンテストサイトを一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2022-12-12
 
 - [#5079](https://github.com/KATO-Hiro/AtCoderClans/pull/5079) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、Webアプリ「[AtCoder Companions](https://atcoder-companions.kakira.dev/)」を追加。
