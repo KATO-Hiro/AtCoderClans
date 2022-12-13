@@ -23,6 +23,9 @@
     },
     {
       "pattern": "^https://community.topcoder.com/tc?module=ProblemArchive"
+    },
+    {
+      "pattern": "^https://speakerdeck.com/"
     }
   ],
   "httpHeaders": [
