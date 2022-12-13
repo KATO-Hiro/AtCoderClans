@@ -187,6 +187,17 @@ title: リンク切れ
 
 ## 関連コンテストサイト
 
+### Wind Bel Contest
+
+- [Wind Bel Contest](https://mario.exout.net/contests/) - テーマ別のコンテストが不定期に開催されている。
+
+    !!! warning "注意"
+        [AtCoder](https://atcoder.jp/)とは、提出方法やSNSへの書き込みのルールが異なるため、事前の確認を推奨。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/wind_bel_contest/wind_bel_contest.png" alt="wind bel contest">
+    </div>
+
 ### Codeforces
 
 - [CF-Predictor](https://cf-predictor-frontend.herokuapp.com/) - コンテストの結果に基づいて、レーティングの変化を推定するWebアプリ。また、複数のブラウザに対応した拡張機能をダウンロードして利用することもできる。
