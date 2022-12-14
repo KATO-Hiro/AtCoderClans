@@ -18,6 +18,7 @@ title: レーティング1200〜1599(水色)
 - [【色変記事】AtCoder水色になるまでにやって良かったこと](https://qiita.com/rapirapi/items/17e161268b67349fa629) - [rapirapi](https://atcoder.jp/users/rapirapi)さんが、2022年10月8日に達成。
 - [AtCoderで水色になりました - ma_twのブログ](https://ma-tw.hatenablog.com/entry/2022/11/22/204652) - [ma_tw](https://atcoder.jp/users/ma_tw)さんが、2022年11月19日に達成。
 - [Atcoder水色になりました](https://qiita.com/akasia_midori/private/79f65def4f9e595f745b) - [akasia_midori](https://atcoder.jp/users/akasia_midori)さんが、2022年11月26日に達成。
+- [水色を踏みました(AtCoder アルゴリズム部門)](https://ynm3n.blogspot.com/2022/12/atcoder.html) - [ynm3n](https://atcoder.jp/users/ynm3n)さんが、2022年12月10日に達成。
 
 ## 2021年
 
