@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-12-14
+
+- [#5088](https://github.com/KATO-Hiro/AtCoderClans/pull/5088) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[ynm3n](https://atcoder.jp/users/ynm3n)さんの[記事](https://ynm3n.blogspot.com/2022/12/atcoder.html)を追加。
+
 ### 2022-12-13
 
 - [#5084](https://github.com/KATO-Hiro/AtCoderClans/pull/5084) - (破壊的な変更) リンク切れと思われる関連コンテストサイトを一時的に「[Archives](../../archived)」ページに移動。
