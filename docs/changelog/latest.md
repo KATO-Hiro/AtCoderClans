@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-12-15
+
+- [#5092](https://github.com/KATO-Hiro/AtCoderClans/pull/5092) - 「[Related Contest Sites](../../related_contest_sites)」ページに掲載している「[アルゴ式](https://algo-method.com/)」の説明文に、記事「[エンジニア派遣構造の闇に取り組む話](https://note.com/sak_algo/n/nb4bdb8caf7a6)」を追加。
+
 ### 2022-12-14
 
 - [#5088](https://github.com/KATO-Hiro/AtCoderClans/pull/5088) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
