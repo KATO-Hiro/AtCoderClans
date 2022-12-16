@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-12-16
+
+- [#5098](https://github.com/KATO-Hiro/AtCoderClans/pull/5098) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[harurun](https://atcoder.jp/users/harurun)さんの[記事](https://harurunppp.hatenablog.com/entry/2022/12/06/011825)を追加。
+- [#5096](https://github.com/KATO-Hiro/AtCoderClans/pull/5096) - 「[Articles, Blogs, Books and Videos](../../media)」の「[1年をふりかえる](../../articles/look_back_on_past)」ページに、「[競プロ Advent Calendar 2022](https://adventar.org/calendars/7421)」を追加。
+
 ### 2022-12-15
 
 - [#5092](https://github.com/KATO-Hiro/AtCoderClans/pull/5092) - 「[Related Contest Sites](../../related_contest_sites)」ページに掲載している「[アルゴ式](https://algo-method.com/)」の説明文に、記事「[エンジニア派遣構造の闇に取り組む話](https://note.com/sak_algo/n/nb4bdb8caf7a6)」を追加。
