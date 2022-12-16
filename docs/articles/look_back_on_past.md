@@ -6,6 +6,10 @@ title: 1年をふりかえる
 
 ## Advent Calendar
 
+### 2022年
+
+- [競プロ Advent Calendar 2022](https://adventar.org/calendars/7421) - 競技プログラミングに関する話題を扱ったアドベントカレンダー。
+
 ### 2021年
 
 - [競技プログラミングを始めたばかりの人に伝えたいこと Advent Calendar 2021](https://qiita.com/advent-calendar/2021/pre-competitive) - 執筆者たちが、競技プログラミングを始めたときに「こんなことが知りたかった！」と思ったことがまとめられているアドベントカレンダー。
