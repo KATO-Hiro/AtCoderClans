@@ -4,10 +4,10 @@
 
 <p align="center">
     <a href="https://github.com/KATO-Hiro/AtCoderClans/actions/workflows/link_checker.yml" target="_blank">
-        <img src="https://img.shields.io/github/workflow/status/KATO-Hiro/AtCoderClans/Check%20Markdown%20links%20with%20scheduled%20job?label=Links&style=plastic" alt="Markdown links">
+        <img src="https://img.shields.io/github/actions/workflow/status/KATO-Hiro/AtCoderClans/link_checker.yml?branch=master&label=Links&style=plastic" alt="Markdown links">
     </a>
-    <a href="https://github.com/KATO-Hiro/AtCoderClans/actions/workflows/pages/pages-build-deployment" target="_blank">
-        <img src="https://img.shields.io/github/workflow/status/KATO-Hiro/AtCoderClans/pages%20build%20and%20deployment?label=Pages%20build%20and%20deployment&style=plastic" alt="pages build and deploy">
+    <a href="https://github.com/KATO-Hiro/AtCoderClans/actions/workflows/deploy.yml" target="_blank">
+        <img src="https://img.shields.io/github/actions/workflow/status/KATO-Hiro/AtCoderClans/deploy.yml?branch=master&event=push&label=Deployment&style=plastic" alt="GitHub Workflow Status (with event)">
     </a>
     <a href="https://github.com/KATO-Hiro/AtCoderClans/blob/master/LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=plastic" alt="License: MIT" />
