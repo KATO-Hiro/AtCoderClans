@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/github/actions/workflow/status/KATO-Hiro/AtCoderClans/link_checker.yml?branch=master&label=Links&style=plastic" alt="Markdown links">
     </a>
     <a href="https://github.com/KATO-Hiro/AtCoderClans/actions/workflows/deploy.yml" target="_blank">
-        <img src="https://img.shields.io/github/actions/workflow/status/KATO-Hiro/AtCoderClans/deploy.yml?branch=master&event=push&label=Deployment&style=plastic"  alt="GitHub Workflow Status (with event)">
+        <img src="https://img.shields.io/github/actions/workflow/status/KATO-Hiro/AtCoderClans/deploy.yml?branch=master&event=push&label=Deployment&style=plastic" alt="GitHub Workflow Status (with event)">
     </a>
     <a href="https://github.com/KATO-Hiro/AtCoderClans/blob/master/LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=plastic" alt="License: MIT" />
