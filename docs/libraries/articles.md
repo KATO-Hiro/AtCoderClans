@@ -12,8 +12,6 @@ title: 補助資料・解説記事
 
         2020年9月末時点の情報であるため、最新の公式ドキュメントも併せて確認することを推奨。
 
-- [AtCoder Library 解読 〜Pythonでの実装まで〜](https://qiita.com/R_olldIce) - ライブラリのアルゴリズムに関する解説とPythonによる実装例が紹介されている。
-
 ## ACLの使用方法の解説
 
 - [ACL Beginner ContestのC問題〜F問題の解説](https://drken1215.hatenablog.com/archive/2020/9) - [drken](https://atcoder.jp/users/drken)さんによる、[ACL Beginner Contest](https://atcoder.jp/contests/abl)の[C問題](https://drken1215.hatenablog.com/entry/2020/09/27/080100)、[D問題](https://drken1215.hatenablog.com/entry/2020/09/27/080300)、[E問題](https://drken1215.hatenablog.com/entry/2020/09/27/080500)、[F問題](https://drken1215.hatenablog.com/entry/2020/09/27/122900)の解説記事。

@@ -10,6 +10,8 @@ title: リンク切れ
 
 ## 入門者・初心者向け
 
+- [間違っているテストケースが見つけられないときの手法](https://sumatome.com/su/1294961358119739392) - [chokudai](https://twitter.com/chokudai)さんによる一連のツイートをまとめた記事です。[ABC175-C問題](https://atcoder.jp/contests/abc175/tasks/abc175_c)を例に、間違っているテストケースを見つける方法が解説されています。
+
 - [競技プログラミングとの向き合い方に関する記事](https://note.com/fidia0709/n/n3bde5443cd17) - 競技プログラミングを続ける上で必要なメンタル面に関するアドバイスが書かれた記事です。
 
 - [AtCoder TestCase Extension](https://chrome.google.com/webstore/detail/atcoder-testcase-extensio/klmflnjcfalpmeldgkcinfilloihmbdh?hl=ja&gl=UA) - 公開されているテストケースのリンクを表示するChrome拡張機能を利用してみましょう。入出力データを使って、回答コードのデバッグを行うことができます。
@@ -76,6 +78,11 @@ title: リンク切れ
 - ミニマックス定理の意味と初等的証明<sup>[archive.org](http://web.archive.org/web/20220616233449/https://opt-cp.com/minimax-game-proof/)</sup> - ミニマックス定理のゲーム理論的な意味の解釈方法と同定理の証明を紹介した記事。
     - 確認した日: 2022/10/03
 
+### 実装テクニックを学ぶ
+
+- [間違っているテストケースが見つけられないときの手法](https://sumatome.com/su/1294961358119739392) - [chokudai](https://twitter.com/chokudai)さんによる一連のツイートをまとめた記事。[ABC175-C問題](https://atcoder.jp/contests/abc175/tasks/abc175_c)を例に、間違っているテストケースを見つける方法が解説されている。併せて、[テストを自動化するツール](https://kato-hiro.github.io/AtCoderClans/cli)の導入についても前向きなコメントがされている。
+    - 確認した日: 2022/12/17
+
 ### 解説ブログ・サイトを見る
 
 - [うさぎ小屋](https://kimiyuki.net/) - [kimiyuki](https://atcoder.jp/users/kimiyuki)さんの解説ブログ。C++で実装されている。
@@ -124,6 +131,9 @@ title: リンク切れ
 
 - 遅延伝播セグメント木の使い方，ACLPC: K – Range Affine Range Sumの解説<sup>[archive.org](http://web.archive.org/web/20210207063437/https://opt-cp.com/lazysegtree-aclpc-k/)</sup> - [opt](https://atcoder.jp/users/opt)さんによる遅延伝播セグメント木(lazysegtree)の使い方を解説した記事。`lazysegtree`をブラックボックスとして使えるようになることを目標としており、「モノイド」などの用語を一切使わずに説明されている点が特徴。例題として、[コンテストで出題された問題](https://atcoder.jp/contests/practice2/tasks/practice2_k)の解説もある。さらに、つまづきやすいポイントが別の記事<sup>[archive.org](http://web.archive.org/web/20201211073151/https://opt-cp.com/lazysegtree-practice/)</sup>でカバーされている。
     - 確認した日: 2022/10/03
+
+- [AtCoder Library 解読 〜Pythonでの実装まで〜](https://qiita.com/R_olldIce) - ライブラリのアルゴリズムに関する解説とPythonによる実装例が紹介されている。
+    - 確認した日: 2022/12/17
 
 ### ACL Kotlin
 
