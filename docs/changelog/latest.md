@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-12-18
+
+- [#5111](https://github.com/KATO-Hiro/AtCoderClans/pull/5111) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[Qlitre](https://atcoder.jp/users/Qlitre)さんの[記事](https://www.qlitre-dialy.ink/post/became-brown-coder-look-back-my-study)を追加。
+
 ### 2022-12-17
 
 - [#5104](https://github.com/KATO-Hiro/AtCoderClans/pull/5104)、[#5105](https://github.com/KATO-Hiro/AtCoderClans/pull/5105) - (破壊的な変更) リンク切れと思われる記事を一時的に「[Archives](../../archived)」ページに移動。
