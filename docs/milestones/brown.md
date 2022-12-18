@@ -20,6 +20,7 @@ title: レーティング400〜799(茶色)
 - [【Atcoder】文系が3ヶ月で入茶した話](https://qiita.com/satopin/items/8fdb5681bd5a55cfc8e5) - [satopin](https://atcoder.jp/users/satopin)さんが、2022年11月19日に達成。
 - [Atcoderでお洒落に入茶した話](http://neko-mac.blogspot.com/2022/11/atcoder.html) - [shunsk2020](https://atcoder.jp/users/shunsk2020)さんが、2022年11月19日に達成。
 - [【AtCoder】茶に色変記念にラブコメ作品紹介します【競プロ】](https://untitledreport.com/%e3%80%90atcoder%e3%80%91%e3%82%88%e3%81%86%e3%82%84%e3%81%8f%e8%8c%b6%e3%81%ab%e8%89%b2%e5%a4%89%e3%81%99%e3%82%8b%e3%81%93%e3%81%a8%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f%e3%80%90/) - [ysknsid25](https://atcoder.jp/users/ysknsid25)さんが、2022年12月3日に達成。
+- [AtCoderで入茶したのでこれまでのことを振り返る - QLITRE DIALY](https://www.qlitre-dialy.ink/post/became-brown-coder-look-back-my-study) - [Qlitre](https://atcoder.jp/users/Qlitre)さんが、2022年12月17日に達成。
 
 ## 2021年
 
