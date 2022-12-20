@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-12-20
+
+- [#5117](https://github.com/KATO-Hiro/AtCoderClans/pull/5117) - 「[Articles, Blogs, Books and Videos](../../media)」の「[解説ブログ・サイトを見る](../../articles/user_editorials)」ページに、ブログ「[AtCoder 昔の公式解説リンク集](https://bo9chan.hatenablog.jp/)」を追加。
+
 ### 2022-12-19
 
 - [#5114](https://github.com/KATO-Hiro/AtCoderClans/pull/5114) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
