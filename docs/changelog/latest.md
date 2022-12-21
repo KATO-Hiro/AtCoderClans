@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-12-21
+
+- [#5121](https://github.com/KATO-Hiro/AtCoderClans/pull/5121) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、記事「[企画者目線で振り返るestie プログラミングコンテスト2022](https://www.estie.jp/blog/entry/2022/12/14/110000)」を追加。
+
 ### 2022-12-20
 
 - [#5117](https://github.com/KATO-Hiro/AtCoderClans/pull/5117) - 「[Articles, Blogs, Books and Videos](../../media)」の「[解説ブログ・サイトを見る](../../articles/user_editorials)」ページに、ブログ「[AtCoder 昔の公式解説リンク集](https://bo9chan.hatenablog.jp/)」を追加。
