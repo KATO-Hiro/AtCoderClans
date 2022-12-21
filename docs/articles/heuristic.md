@@ -80,6 +80,10 @@ title: ヒューリスティック問題を解く
       <a href="../../blogs/">もっと読む</a>
     </div>
 
+#### コンテスト企画者の振り返り
+
+- [企画者目線で振り返るestie プログラミングコンテスト2022](https://www.estie.jp/blog/entry/2022/12/14/110000) - [matsu7874](https://atcoder.jp/users/matsu7874)さんが、企画・運営の立場から[estie プログラミングコンテスト2022（AtCoder Heuristic Contest 014）](https://atcoder.jp/contests/ahc014)を振り返った記事。
+
 ### 問題や参加者に関する調査・分析
 
 - [競プロ〜ヒューリスティック/マラソン事始め〜](https://qiita.com/tanaka-a/items/3c2a1bca63759ec71e7f) - ヒューリスティック型コンテストの問題を「改善重視型」「初期解重視型」「パラメータ推定型」に分類し、それぞれのアプローチ方法や高スコアを目指すためのテクニックが紹介されている記事。
