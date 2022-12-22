@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-12-22
+
+- [#5125](https://github.com/KATO-Hiro/AtCoderClans/pull/5125) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、スクリプト「[AHCで手元で複数ケース実行するためのスクリプト](https://gist.github.com/matsu7874/4be1913ed1b831a1efbfa75b666498c9)」を追加。
+
 ### 2022-12-21
 
 - [#5121](https://github.com/KATO-Hiro/AtCoderClans/pull/5121) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、記事「[企画者目線で振り返るestie プログラミングコンテスト2022](https://www.estie.jp/blog/entry/2022/12/14/110000)」を追加。
