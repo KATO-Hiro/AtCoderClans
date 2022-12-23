@@ -23,4 +23,4 @@ title: 不定期開催
 
 ## Xmas Contest
 
-- [Xmas Contest 2021](http://hos.ac/contest/xmas2021/) - Xmasに開催されるコンテスト。「一風変わった問題」が出題されることが多い。
+- [Xmas Contest](http://hos.ac/contest/xmas2022/) - Xmasに開催されるコンテスト。「一風変わった問題」が出題されることが多い。
