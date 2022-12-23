@@ -10,10 +10,6 @@ title: 不定期開催
       <img loading = "lazy" src="../../images/related_contest_sites/hoj/hoj.png" alt="hoj">
     </div>
 
-## Xmas Contest
-
-- [Xmas Contest 2021](http://hos.ac/contest/xmas2021/) - Xmasに開催されるコンテスト。「一風変わった問題」が出題されることが多い。
-
 ## Wind Bel Contest
 
 - [Wind Bel Contest](https://mario.exout.net/contests/) - テーマ別のコンテストが不定期に開催されている。
@@ -24,3 +20,7 @@ title: 不定期開催
     <div align="center">
       <img loading = "lazy" src="../../images/related_contest_sites/wind_bel_contest/wind_bel_contest.png" alt="wind bel contest">
     </div>
+
+## Xmas Contest
+
+- [Xmas Contest 2021](http://hos.ac/contest/xmas2021/) - Xmasに開催されるコンテスト。「一風変わった問題」が出題されることが多い。
