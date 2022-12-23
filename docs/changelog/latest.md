@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-12-23
+
+- [#5131](https://github.com/KATO-Hiro/AtCoderClans/pull/5131) - 「[Related Contest Sites](../../related_contest_sites)」の「[不定期開催](../../related_contest_sites/algorithm)」ページに掲載している「[Xmas Contest](http://hos.ac/contest/xmas2022/)」のリンクを更新。
+- [#5129](https://github.com/KATO-Hiro/AtCoderClans/pull/5129) - (破壊的な変更) リンク切れと思われる関連コンテストサイトを一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2022-12-22
 
 - [#5125](https://github.com/KATO-Hiro/AtCoderClans/pull/5125) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、スクリプト「[AHCで手元で複数ケース実行するためのスクリプト](https://gist.github.com/matsu7874/4be1913ed1b831a1efbfa75b666498c9)」を追加。
