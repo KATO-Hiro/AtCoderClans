@@ -197,15 +197,12 @@ title: リンク切れ
 
 ## 関連コンテストサイト
 
-### Wind Bel Contest
+### CafeCoder
 
-- [Wind Bel Contest](https://mario.exout.net/contests/) - テーマ別のコンテストが不定期に開催されている。
-
-    !!! warning "注意"
-        [AtCoder](https://atcoder.jp/)とは、提出方法やSNSへの書き込みのルールが異なるため、事前の確認を推奨。
+- [CafeCoder](https://cafecoder.top/) - 有志によって、不定期にコンテストが開催されている。
 
     <div align="center">
-      <img loading = "lazy" src="../../images/related_contest_sites/wind_bel_contest/wind_bel_contest.png" alt="wind bel contest">
+      <img loading = "lazy" src="../../images/related_contest_sites/cafecoder/cafecoder.png" alt="cafecoder">
     </div>
 
 ### Codeforces
