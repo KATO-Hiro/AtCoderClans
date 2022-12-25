@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-12-25
+
+- [#5141](https://github.com/KATO-Hiro/AtCoderClans/pull/5141) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[burioden](https://atcoder.jp/users/burioden)さんの[記事](https://d-burioden.hateblo.jp/entry/2022/12/25/200953)を追加。
+
 ### 2022-12-24
 
 - [#5135](https://github.com/KATO-Hiro/AtCoderClans/pull/5135) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、記事「[Psyhoさんによるヒューリスティック・ボットコンテストのための無料Tips](https://ozy4dm.hateblo.jp/entry/2022/12/22/162046)」を追加。
