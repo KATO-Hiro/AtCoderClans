@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-12-26
+
+- [#5147](https://github.com/KATO-Hiro/AtCoderClans/pull/5147) - [#5019](https://github.com/KATO-Hiro/AtCoderClans/pull/5019)に関連して、サーバの移行が確認できたWebサービスを元の掲載ページに戻した。
+    - [AtCoder Rating Simulator](https://atcoder-rating-simulator.dt.r.appspot.com/)
+
 ### 2022-12-25
 
 - [#5141](https://github.com/KATO-Hiro/AtCoderClans/pull/5141) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
