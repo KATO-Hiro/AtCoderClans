@@ -6,16 +6,6 @@ title: サーバの移行中
 
 <!-- markdown-link-check-disable -->
 
-## 入門者・初心者向け
-
-### "Q8: 脱初心者に向けて、次は何をすればいいですか?"
-
-- コンテストで目標とする成績(パフォーマンス値)を設定してみましょう。有志が公開している[Webサービス](https://atcoderratingsimulator.herokuapp.com/)を利用すると、簡単に計算できます。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_rating_simulator_web.png" alt="atcoder rating simulator web">
-    </div>
-
 ## Webアプリ、Webサイト
 
 ### 問題を解く
@@ -43,15 +33,6 @@ title: サーバの移行中
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_rating_comparison.png" alt="atcoder rating comparison">
     </div>
-
-### コンテストの成績に関連するサービス
-
-#### 成績の計算・予測
-
-- [AtCoder Rating Simulator](https://atcoderratingsimulator.herokuapp.com/) - 目標とするレーティングに到達するまでに必要なパフォーマンスを表示する。任意の回数だけ同じパフォーマンスを取ったと仮定した場合についても計算できる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_rating_simulator_web.png" alt="atcoder rating simulator web">
 
 ### コンテストに関する統計情報
 
