@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-12-27
+
+- [#5153](https://github.com/KATO-Hiro/AtCoderClans/pull/5153) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、ツイート「[よく見るアレの2022年末版を作ってみました。おそらく初のヒューリスティック版付き](https://twitter.com/ToastUz/status/1607382171123343360)」を追加。
+
 ### 2022-12-26
 
 - [#5147](https://github.com/KATO-Hiro/AtCoderClans/pull/5147) - [#5019](https://github.com/KATO-Hiro/AtCoderClans/pull/5019)に関連して、サーバの移行が確認できたWebサービスを元の掲載ページに戻した。
