@@ -20,6 +20,7 @@ title: レーティング800〜1199(緑色)
 - [【色変記事】競プロを始めて1年7ヶ月で入緑できました](https://qiita.com/sorachandu/items/65b1159aa1d075854679) - [sorachandu](https://atcoder.jp/users/sorachandu)さんが、2022年11月12日に達成。
 - [AtCoder緑色になりました - カレーちゃんブログ](https://www.currypurin.com/entry/2022/12/03/160204) - [currypurin](https://atcoder.jp/users/currypurin)さんが、2022年11月26日に達成。
 - [本格的に競プロに取り組み始めてから半年で入緑するまで](https://magicode.io/yuforest/articles/e7684fd22e73498eac97dbe78754ee70) - [yuforest](https://atcoder.jp/users/yuforest)さんが、2022年11月26日に達成。
+- [色変記事 AtCoder緑色の教材まとめ](https://zenn.dev/kenzi/articles/3b0a97dce0f59e) - [paddy_ist](https://atcoder.jp/users/paddy_ist)さんが、2022年12月24日に達成。
 
 ## 2021年
 
