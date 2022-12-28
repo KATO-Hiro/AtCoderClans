@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-12-28
+
+- [#5156](https://github.com/KATO-Hiro/AtCoderClans/pull/5156) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[paddy_ist](https://atcoder.jp/users/paddy_ist)さんの[記事](https://zenn.dev/kenzi/articles/3b0a97dce0f59e)を追加。
+
 ### 2022-12-27
 
 - [#5153](https://github.com/KATO-Hiro/AtCoderClans/pull/5153) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、ツイート「[よく見るアレの2022年末版を作ってみました。おそらく初のヒューリスティック版付き](https://twitter.com/ToastUz/status/1607382171123343360)」を追加。
