@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-12-29
+
+- [#5160](https://github.com/KATO-Hiro/AtCoderClans/pull/5160) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに、「[ゲームで学ぶ探索アルゴリズム実践入門～木探索とメタヒューリスティクス](https://www.amazon.co.jp/dp/4297133601/)」を追加。
+
 ### 2022-12-28
 
 - [#5156](https://github.com/KATO-Hiro/AtCoderClans/pull/5156) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
