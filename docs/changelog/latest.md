@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2022-12-30
+
+- [#5164](https://github.com/KATO-Hiro/AtCoderClans/pull/5164)、 [#5165](https://github.com/KATO-Hiro/AtCoderClans/pull/5165) - (破壊的な変更) 「[Change Log](../latest)」ページの2022年10月分を月別のアーカイブに移動。
+    - [October, 2022](../2022_10)
+
 ### 2022-12-29
 
 - [#5160](https://github.com/KATO-Hiro/AtCoderClans/pull/5160) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに、「[ゲームで学ぶ探索アルゴリズム実践入門～木探索とメタヒューリスティクス](https://www.amazon.co.jp/dp/4297133601/)」を追加。
