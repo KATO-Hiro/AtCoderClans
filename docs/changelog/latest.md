@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-01-01
+
+- [#5176](https://github.com/KATO-Hiro/AtCoderClans/pull/5176) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[mimimi0414](https://atcoder.jp/users/mimimi0414)さんの[記事](https://qiita.com/satouMIMIMI/items/497b22ab2a89a02d5174)を追加。
+
 ### 2022-12-31
 
 - [#5169](https://github.com/KATO-Hiro/AtCoderClans/pull/5169) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに、「[Optunaによるブラックボックス最適化](https://www.amazon.co.jp/dp/4274230104)」を追加。
