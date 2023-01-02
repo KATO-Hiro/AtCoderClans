@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-01-02
+
+- [#5181](https://github.com/KATO-Hiro/AtCoderClans/pull/5181) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[ryusuke_h](https://atcoder.jp/users/ryusuke_h)さんの[記事](https://qiita.com/ryusuke920/items/c25235c193cde2cb505d)を追加。
+
 ### 2023-01-01
 
 - [#5176](https://github.com/KATO-Hiro/AtCoderClans/pull/5176) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
