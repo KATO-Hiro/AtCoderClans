@@ -25,8 +25,12 @@ theme:
   name: material
   language: ja
   features:
+    - content.action.edit
+    - content.action.view
+    - content.code.copy
     - navigation.instant
     - navigation.top
+    - navigation.footer
     - search.highlight
     - search.share
     - search.suggest
