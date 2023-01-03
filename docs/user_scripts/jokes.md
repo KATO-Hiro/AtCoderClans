@@ -2,7 +2,7 @@
 title: ネタスクリプト
 ---
 
-AtCoderにおける流行語をヒントに作成されたスクリプトを掲載しています。
+AtCoderにおける流行語などをヒントに作成されたスクリプトを掲載しています。
 
 ## 問題の正誤判定の表記を書き換え
 
@@ -25,4 +25,10 @@ AtCoderにおける流行語をヒントに作成されたスクリプトを掲�
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_tle_police.png" alt="atcoder tle police">
+    </div>
+
+- [AtCoder WAになっておどろう](https://greasyfork.org/ja/scripts/455937-atcoder-wa%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%A9%E3%82%8D%E3%81%86) - 「提出結果」ページの正誤判定のうち、「WA(Wrong Answerの略記)」を「WAになっておどろう」に置き換える。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_lets_dance_when_we_get_it_wrong_answer.png" alt="atcoder_lets_dance_when_we_get_it_wrong_answer">
     </div>
