@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-01-04
+
+- [#5194](https://github.com/KATO-Hiro/AtCoderClans/pull/5194) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[michirakara](https://atcoder.jp/users/michirakara)さんの[記事](https://mcr-pro.hatenablog.com/entry/2022/12/20/000000)を追加。
+
 ### 2023-01-03
 
 - [#5188](https://github.com/KATO-Hiro/AtCoderClans/pull/5188) - 「[Scripts](../../scripts)」の「[ネタスクリプト](../../user_scripts/jokes)」ページに、ユーザスクリプト「[AtCoder WAになっておどろう](https://greasyfork.org/ja/scripts/455937-atcoder-wa%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%A9%E3%82%8D%E3%81%86)」を追加。
