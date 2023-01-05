@@ -4,7 +4,7 @@ title: レーティング400〜799(茶色)
 
 ## 2023年
 
-- [【色変記事】社会人がAtCoder茶色になるまで1年半かかりました](https://qiita.com/satouMIMIMI/items/497b22ab2a89a02d5174) - [mimimi0414](https://atcoder.jp/users/mimimi0414)さんが、2023年1月1日に公開。
+- [【色変記事】社会人がAtCoder茶色になるまで1年半かかりました](https://qiita.com/satouMIMIMI/items/497b22ab2a89a02d5174) - mimimi0414さんが、2023年1月1日に公開。
 
 ## 2022年
 
