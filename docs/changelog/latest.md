@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-01-05
+
+- [#5199](https://github.com/KATO-Hiro/AtCoderClans/pull/5199) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、記事「[床関数・天井関数（floor function / ceiling function）の典型まとめ](https://ricky-pon.hatenablog.com/entry/2023/01/04/195253)」を追加。
+
 ### 2023-01-04
 
 - [#5194](https://github.com/KATO-Hiro/AtCoderClans/pull/5194) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
