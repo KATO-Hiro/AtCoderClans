@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-01-06
+
+- [#5208](https://github.com/KATO-Hiro/AtCoderClans/pull/5208) - [fujikawahiroaki](https://github.com/fujikawahiroaki)さんのご紹介で、「[Web apps and sites](../../web_app)」の「[クイズ・ゲーム・ネタアプリ](../../web_app/quiz_and_game)」ページに、以下のWebアプリを追加。
+    - 「[AtCoder Diet](https://atcoder-diet.fly.dev/)」
+- [#5207](https://github.com/KATO-Hiro/AtCoderClans/pull/5207) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、記事「[AtCoderの誕生年毎のアクティブユーザ数を調べてみた](https://qiita.com/nabata/items/75407e48c7ca8de8a4a4)」を追加。
+
 ### 2023-01-05
 
 - [#5199](https://github.com/KATO-Hiro/AtCoderClans/pull/5199) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、記事「[床関数・天井関数（floor function / ceiling function）の典型まとめ](https://ricky-pon.hatenablog.com/entry/2023/01/04/195253)」を追加。
