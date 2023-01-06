@@ -1,5 +1,5 @@
 ---
-title: クイズ・ゲームなど
+title: クイズ・ゲーム・ネタアプリ
 ---
 
 ## クイズ
@@ -32,6 +32,14 @@ title: クイズ・ゲームなど
     </div>
 
 ## ネタアプリ
+
+### 問題を解く / ダイエットをサポート
+
+- [AtCoder Diet](https://atcoder-diet.fly.dev/) - 前日に正解した問題の点数に基づいて、今日の摂取可能なカロリーを教えてくれる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_diet.png" alt="atcoder diet">
+    </div>
 
 ### コンテスト占い
 
