@@ -27,6 +27,12 @@ AtCoderにおける流行語などをヒントに作成されたスクリプト�
       <img loading = "lazy" src="../../images/userscript/atcoder_tle_police.png" alt="atcoder tle police">
     </div>
 
+- [AtCoder TLE to JR](https://greasyfork.org/ja/scripts/455833-atcoder-tle-to-jr) - 提出したコードが「TLE」となった場合に「JR」に置き換える。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_tle_to_jr.png" alt="atcoder tle to jr">
+    </div>
+
 - [AtCoder WAになっておどろう](https://greasyfork.org/ja/scripts/455937-atcoder-wa%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%A9%E3%82%8D%E3%81%86) - 「提出結果」ページの正誤判定のうち、「WA(Wrong Answerの略記)」を「WAになっておどろう」に置き換える。
 
     <div align="center">
