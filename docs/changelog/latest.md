@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-01-07
+
+- [#5211](https://github.com/KATO-Hiro/AtCoderClans/pull/5211) - 「[Scripts](../../scripts)」の「[ネタスクリプト](../../user_scripts/jokes)」ページに、ユーザスクリプト「[AtCoder TLE to JR](https://greasyfork.org/ja/scripts/455833-atcoder-tle-to-jr)」を追加。
+
 ### 2023-01-06
 
 - [#5208](https://github.com/KATO-Hiro/AtCoderClans/pull/5208) - [fujikawahiroaki](https://github.com/fujikawahiroaki)さんのご紹介で、「[Web apps and sites](../../web_app)」の「[クイズ・ゲーム・ネタアプリ](../../web_app/quiz_and_game)」ページに、以下のWebアプリを追加。
