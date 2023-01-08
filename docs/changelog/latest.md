@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-01-08
+
+- [#5214](https://github.com/KATO-Hiro/AtCoderClans/pull/5214) - 「[Scripts](../../scripts)」の「[復習の効果をより高める](../../chrome_extensions/review)」ページに、Chrome拡張機能「[typical90_extension](https://chrome.google.com/webstore/detail/typical90extension/olilmbfbgdnilofdfbladkgbbfecbidb)」を追加。
+
 ### 2023-01-07
 
 - [#5211](https://github.com/KATO-Hiro/AtCoderClans/pull/5211) - 「[Scripts](../../scripts)」の「[ネタスクリプト](../../user_scripts/jokes)」ページに、ユーザスクリプト「[AtCoder TLE to JR](https://greasyfork.org/ja/scripts/455833-atcoder-tle-to-jr)」を追加。
