@@ -2,6 +2,10 @@
 title: レーティング1200〜1599(水色)
 ---
 
+## 2023年
+
+- [Atcoderで入水しました記事](https://magicode.io/aoblue2547/articles/c4bf29fd934a4d068de0b6d3fb0dbebb) - [ryu150](https://atcoder.jp/users/ryu150)さんが、2023年1月7日に達成。
+
 ## 2022年
 
 - [【AtCoder】水色になったのでこれまでを振り返ってみる - RoastedToastのブログ](https://roastedtoast.hatenablog.com/entry/2022/01/16/211741) - [Roastedtoast](https://atcoder.jp/users/Roastedtoast)さんが、2022年1月15日に達成。
