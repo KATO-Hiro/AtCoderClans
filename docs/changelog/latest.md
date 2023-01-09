@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-01-09
+
+- [#5219](https://github.com/KATO-Hiro/AtCoderClans/pull/5219) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[ryu150](https://atcoder.jp/users/ryu150)さんの[記事](https://magicode.io/aoblue2547/articles/c4bf29fd934a4d068de0b6d3fb0dbebb)を追加。
+
 ### 2023-01-08
 
 - [#5214](https://github.com/KATO-Hiro/AtCoderClans/pull/5214) - 「[Scripts](../../scripts)」の「[復習の効果をより高める](../../chrome_extensions/review)」ページに、Chrome拡張機能「[typical90_extension](https://chrome.google.com/webstore/detail/typical90extension/olilmbfbgdnilofdfbladkgbbfecbidb)」を追加。
