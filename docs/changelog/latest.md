@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-01-12
+
+- [#5240](https://github.com/KATO-Hiro/AtCoderClans/pull/5240) - 「[Libraries and Snippets](../../libraries)」の「[ライブラリチェッカー](../../libraries/library_checker)」ページに、以下の関連記事を追加。
+    - [GitHubを用いた自作ライブラリ管理](https://ei1333.hateblo.jp/entry/advent2022)
+
 ### 2023-01-11
 
 - [#5237](https://github.com/KATO-Hiro/AtCoderClans/pull/5237) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
