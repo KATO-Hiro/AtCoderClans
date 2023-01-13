@@ -18,3 +18,4 @@ title: 問題作成に関する便利ツール
 ## 問題文を管理する
 
 - [statements-manager](https://github.com/tsutaj/statements-manager) ![GitHub Repo stars](https://img.shields.io/github/stars/tsutaj/statements-manager?style=plastic) - 問題文の管理を便利にするツール。
+    - [競プロの問題文作成を支援するツール "statements-manager" を作った](https://tsutaj.hatenablog.com/entry/2022/12/09/000000) - 作者による紹介記事。
