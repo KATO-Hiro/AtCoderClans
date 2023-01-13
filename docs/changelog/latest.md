@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-01-13
+
+- [#5243](https://github.com/KATO-Hiro/AtCoderClans/pull/5243) - 「[Command line tools](../../cli)」の「[問題作成に関する便利ツール](../../cli/tools_for_writers)」ページにCLIツール「[statements-manager](https://github.com/tsutaj/statements-manager)」の作者による紹介記事を追加。
+    - [競プロの問題文作成を支援するツール "statements-manager" を作った](https://tsutaj.hatenablog.com/entry/2022/12/09/000000)
+
 ### 2023-01-12
 
 - [#5240](https://github.com/KATO-Hiro/AtCoderClans/pull/5240) - 「[Libraries and Snippets](../../libraries)」の「[ライブラリチェッカー](../../libraries/library_checker)」ページに、以下の関連記事を追加。
