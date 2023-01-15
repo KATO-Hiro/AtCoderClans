@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-01-15
+
+- [#5254](https://github.com/KATO-Hiro/AtCoderClans/pull/5254) - 「[Libraries and Snippets](../../libraries)」の「[有志による公開ライブラリ - 複数の言語](../../libraries/libraries)」ページに、以下の関連記事を追加。
+    - [使いやすいライブラリの設計手法のお話](https://31536000.hatenablog.com/entry/2022/12/07/074125)
+
 ### 2023-01-14
 
 - [#5252](https://github.com/KATO-Hiro/AtCoderClans/pull/5252) - 「[Libraries and Snippets](../../libraries)」の「[ライブラリチェッカー](../../libraries/library_checker)」ページに、以下の関連記事を追加。
