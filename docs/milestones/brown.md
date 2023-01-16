@@ -6,6 +6,7 @@ title: レーティング400〜799(茶色)
 
 - [【色変記事】社会人がAtCoder茶色になるまで1年半かかりました](https://qiita.com/satouMIMIMI/items/497b22ab2a89a02d5174) - mimimi0414さんが、2023年1月1日に公開。
 - [数弱大学生がatcoderで入茶した](https://note.com/yindolsa/n/ncd59431b7a4d) - [ZUkA_](https://atcoder.jp/users/ZUkA_)さんが、2023年1月7日に達成。
+- [AtCoder茶色になりました。(Python) - おじろのブログ](https://ozro-223.hatenablog.com/entry/2023/01/16/151714) - [ozro223](https://atcoder.jp/users/ozro223)さんが、2023年1月15日に達成。
 
 ## 2022年
 
