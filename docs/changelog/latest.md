@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-01-16
+
+- [#5257](https://github.com/KATO-Hiro/AtCoderClans/pull/5257) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[ozro223](https://atcoder.jp/users/ozro223)さんの[記事](https://ozro-223.hatenablog.com/entry/2023/01/16/151714)を追加。
+
 ### 2023-01-15
 
 - [#5254](https://github.com/KATO-Hiro/AtCoderClans/pull/5254) - 「[Libraries and Snippets](../../libraries)」の「[有志による公開ライブラリ - 複数の言語](../../libraries/libraries)」ページに、以下の関連記事を追加。
