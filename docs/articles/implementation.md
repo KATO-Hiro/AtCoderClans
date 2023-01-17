@@ -136,6 +136,7 @@ title: 実装テクニックを学ぶ
 - [Pythonで競プロするのに必要な機能をまとめてみた〜itertools〜](https://qiita.com/DaikiSuyama/items/11f63a94d63fa72e8bf4) - Pythonのitertoolsライブラリのうち、競技プログラミングでよく使う関数をドキュメント形式でまとめた記事。関数の使い方だけでなく、関連した例題も掲載されている。
 - [Pythonで"in list"から"in set"に変えただけで爆速になった件とその理由](https://qiita.com/kitadakyou/items/6f877edd263f097e78f4) - 要素群の中に特定の要素があるか探す処理を、listの代わりにsetを使って高速化する方法を紹介した記事。また、listとsetの実装の違いについても解説されている。
 - [Pythonのdict()が特定の入力に対し非常に遅い件について](https://qiita.com/Shirotsume/items/890afc81988c63ae9603) - データ構造の一つであるdict()を利用するときに、特定の入力に対してが実行時間がとても長くなる原因とその対処方法が解説されている記事。
+- [TimeComplexity](https://wiki.python.org/moin/TimeComplexity) - CPythonにおけるlist、collections.deque、set、dictの各種操作に対する時間計算量がまとめられている記事。
 
 ### 実装テクニック
 
