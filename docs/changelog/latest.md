@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-01-17
+
+- [#5265](https://github.com/KATO-Hiro/AtCoderClans/pull/5265) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、記事「[TimeComplexity - Python](https://wiki.python.org/moin/TimeComplexity)」を追加。
+
 ### 2023-01-16
 
 - [#5257](https://github.com/KATO-Hiro/AtCoderClans/pull/5257) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
