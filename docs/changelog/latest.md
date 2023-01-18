@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-01-18
+
+- [#5273](https://github.com/KATO-Hiro/AtCoderClans/pull/5273) - 「[Libraries and Snippets](../../libraries)」の「[Rust](../../libraries/rust)」ページに、Rustで実装されたライブラリを追加。
+    - [sakikuroe/algorithms-and-data-structures-rs](https://github.com/sakikuroe/algorithms-and-data-structures-rs)
+
 ### 2023-01-17
 
 - [#5265](https://github.com/KATO-Hiro/AtCoderClans/pull/5265) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、記事「[TimeComplexity - Python](https://wiki.python.org/moin/TimeComplexity)」を追加。
