@@ -201,6 +201,10 @@ title: 実装テクニックを学ぶ
 
 - [AtCoder言語アップデートでRustの入出力が楽になっていた](https://qiita.com/koji-cw/items/0cce3b075faffe5e50ed) - [AtCoder](https://atcoder.jp/)の言語アップデートに伴って追加された入出力関連の便利なライブラリが紹介されている記事。また、[追加されたライブラリ一覧](https://github.com/rust-lang-ja/atcoder-rust-base/blob/ja-all-enabled/Cargo.toml)も掲載されている。
 
+### アルゴリズム・データ構造の活用による高速化
+
+- [Rustで競技プログラミングよくばりセット](https://qiita.com/SakiKuroe/items/152a3c117a68d95faa0b) - 競技プログラミングで使用頻度が高い関数/メソッド、データ構造、アルゴリズムの実装と例題・解答例が紹介されている。
+
 ## Swift
 
 ### 文法・言語仕様
