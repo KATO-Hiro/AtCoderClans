@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-01-20
+
+- [#5279](https://github.com/KATO-Hiro/AtCoderClans/pull/5279) - 「[Libraries and Snippets](../../libraries)」の「[Rust](../../libraries/rust)」ページに、Rustで実装されたライブラリを追加。
+    - [uesugi6111/competitive-library](https://github.com/uesugi6111/competitive-library)
+
 ### 2023-01-19
 
 - [#5276](https://github.com/KATO-Hiro/AtCoderClans/pull/5276) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、記事「[Rustで競技プログラミングよくばりセット](https://qiita.com/SakiKuroe/items/152a3c117a68d95faa0b)」を追加。
