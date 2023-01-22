@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-01-22
+
+- [#5287](https://github.com/KATO-Hiro/AtCoderClans/pull/5287) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
+    - [Kaggleや競プロのトップランカーが持つ「本質的な強み」とは。リクルートが作り出す、競技と業務の好循環](https://hatenanews.com/articles/2023/01/18/103000)
+
 ### 2023-01-21
 
 - [#5283](https://github.com/KATO-Hiro/AtCoderClans/pull/5283) - (破壊的な変更) 「[Change Log](../latest)」ページの2022年11月分を月別のアーカイブに移動。
