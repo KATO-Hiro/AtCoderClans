@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-01-24
+
+- [#5294](https://github.com/KATO-Hiro/AtCoderClans/pull/5294) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、記事「[Python 遅いものたち](https://toriidao.hateblo.jp/entry/2023/01/24/121216)」を追加。
+
 ### 2023-01-23
 
 - [#5290](https://github.com/KATO-Hiro/AtCoderClans/pull/5290) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
