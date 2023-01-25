@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-01-25
+
+- [#5298](https://github.com/KATO-Hiro/AtCoderClans/pull/5298) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
+    - [任意 mod で二項係数を列挙する](https://qiita.com/suisen_cp/items/d0ab7e728b98bbec818f)
+
 ### 2023-01-24
 
 - [#5294](https://github.com/KATO-Hiro/AtCoderClans/pull/5294) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、記事「[Python 遅いものたち](https://toriidao.hateblo.jp/entry/2023/01/24/121216)」を追加。
