@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-01-26
+
+- [#5301](https://github.com/KATO-Hiro/AtCoderClans/pull/5301) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [ビームサーチの上位N件を高速に取る手法について考えてみる](https://zenn.dev/siman/articles/e94f63246f6cb3)
+
 ### 2023-01-25
 
 - [#5298](https://github.com/KATO-Hiro/AtCoderClans/pull/5298) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
