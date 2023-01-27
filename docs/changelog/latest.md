@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-01-27
+
+- [#5306](https://github.com/KATO-Hiro/AtCoderClans/pull/5306) - (破壊的な変更) リンク切れと思われるBotを一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2023-01-26
 
 - [#5301](https://github.com/KATO-Hiro/AtCoderClans/pull/5301) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
