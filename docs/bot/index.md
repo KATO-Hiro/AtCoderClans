@@ -59,12 +59,6 @@ title: Bot
 
 ### LINE
 
-- [AtCoder Notify](https://atcoder-bot.firebaseapp.com/) - コンテスト情報を通知する。
-
-    <div align="center">
-      <img loading = "lazy" src="../images/web_app/atcoder_notify.png" alt="atcoder notify">
-    </div>
-
 - [Contests-Line-Bot](https://github.com/granddaifuku/Contests-Line-Bot) ![GitHub Repo stars](https://img.shields.io/github/stars/granddaifuku/Contests-Line-Bot?style=plastic) - 「コンテスト」を含む文章を送ると、コンテストの日程が通知される。AtCoderだけでなく、[Codeforces](https://codeforces.com/)や[yukicoder](https://yukicoder.me/)にも対応している。
 
     <div align="center">

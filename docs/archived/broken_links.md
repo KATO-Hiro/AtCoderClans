@@ -39,6 +39,15 @@ title: リンク切れ
       <img loading = "lazy" src="../../images/web_app/atcoder_hot_problems.png" alt="atcoder hot problems">
     </div>
 
+### Bot
+
+- [AtCoder Notify](https://atcoder-bot.firebaseapp.com/) - コンテスト情報を通知する。
+    - 確認した日: 2023/01/27
+
+    <div align="center">
+      <img loading = "lazy" src="../images/web_app/atcoder_notify.png" alt="atcoder notify">
+    </div>
+
 ## スクリプト
 
 ### おすすめの紹介
