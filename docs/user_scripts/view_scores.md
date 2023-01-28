@@ -56,6 +56,18 @@ title: コンテストの成績や関連する統計情報を見る
 
 ## ユーザに関する統計
 
+### パフォーマンスの推定値
+
+- [AtCoderUnratedPerfDisplayer](https://greasyfork.org/ja/scripts/457150-atcoderunratedperfdisplayer) - ユーザの「コンテスト成績表」ページに、Unrated参加したときのパフォーマンス値(推定)を表示する。
+
+    !!! info "参考"
+
+        アルゴリズム部門、かつ、レーティングの更新対象者が存在するコンテストで有効。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_unrated_perf_displayer.png" alt="atcoder unrated perf displayer">
+    </div>
+
 ### レーティングの推移・分布
 
 - [AtCoderAnotherGraph](https://greasyfork.org/ja/scripts/455542-atcoderanothergraph) - 「ユーザ」ページにあるレーティンググラフ︎を、ヒューリスティック/アルゴリズムの計算式で表示する。
