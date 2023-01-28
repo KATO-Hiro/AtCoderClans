@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-01-28
+
+- [#5309](https://github.com/KATO-Hiro/AtCoderClans/pull/5309) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoderUnratedPerfDisplayer](https://greasyfork.org/ja/scripts/457150-atcoderunratedperfdisplayer)
+
 ### 2023-01-27
 
 - [#5306](https://github.com/KATO-Hiro/AtCoderClans/pull/5306) - (破壊的な変更) リンク切れと思われるBotを一時的に「[Archives](../../archived)」ページに移動。
