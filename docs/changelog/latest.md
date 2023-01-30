@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-01-30
+
+- [#5322](https://github.com/KATO-Hiro/AtCoderClans/pull/5322) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[Mizi3405](https://atcoder.jp/users/Mizi3405)さんの[記事](https://qiita.com/Sapph/items/3e97bbaaa14ef0256a05)を追加。
+
 ### 2023-01-29
 
 - [#5315](https://github.com/KATO-Hiro/AtCoderClans/pull/5315) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜2399に到達したユーザのブログを追加。
