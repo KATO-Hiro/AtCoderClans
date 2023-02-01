@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-02-01
+
+- [#5337](https://github.com/KATO-Hiro/AtCoderClans/pull/5337) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[shinchan](https://atcoder.jp/users/shinchan)さんの[記事](https://shinchankosen.hatenadiary.jp/entry/2023/01/31/204517)を追加。
+
 ### 2023-01-31
 
 - [#5329](https://github.com/KATO-Hiro/AtCoderClans/pull/5329) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
