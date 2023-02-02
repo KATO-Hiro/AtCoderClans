@@ -2,6 +2,10 @@
 title: レーティング800〜1199(緑色)
 ---
 
+## 2023年
+
+- [【AtCoder】入緑しました](https://qiita.com/seeton_kyoupro/items/783cb08e5d2668109d09) - [seeton](https://atcoder.jp/users/seeton)さんが、2023年1月21日に達成。
+
 ## 2022年
 
 - [【色変記事】初心者がC++で緑色になるまで](https://qiita.com/vi_24E/items/2180248fb137bdb67c68) - [Yutchy591](https://atcoder.jp/users/Yutchy591)さんが、2022年1月22日に達成。
