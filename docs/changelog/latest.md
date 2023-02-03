@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-02-03
+
+- [#5346](https://github.com/KATO-Hiro/AtCoderClans/pull/5346) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[kenken2go](https://atcoder.jp/users/kenken2go)さんの[記事](https://qiita.com/kenken2go/items/b697e712914a67cf552b)を追加。
+
 ### 2023-02-02
 
 - [#5341](https://github.com/KATO-Hiro/AtCoderClans/pull/5341) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
