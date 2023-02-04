@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-02-04
+
+- [#5351](https://github.com/KATO-Hiro/AtCoderClans/pull/5351) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、記事「[AtCoder 所属別アクティブユーザ数ランキング トップ200(大学、高校、会社等)](https://qiita.com/nabata/items/864e06a52de88123daaa)」を追加。
+
 ### 2023-02-03
 
 - [#5346](https://github.com/KATO-Hiro/AtCoderClans/pull/5346) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
