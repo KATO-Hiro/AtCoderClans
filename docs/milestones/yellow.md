@@ -5,6 +5,7 @@ title: レーティング2000〜2399(黄色)
 ## 2023年
 
 - [AtCoder黄色になりました！！ - 橙になりたいaquarium](https://shinchankosen.hatenadiary.jp/entry/2023/01/31/204517) - [shinchan](https://atcoder.jp/users/shinchan)さんが、2023年1月14日に達成。
+- [AtCoder黄色になりました](https://note.com/yfuka86/n/n2d8da12389d7) - [yfuka86](https://atcoder.jp/users/yfuka86)さんが、2023年2月4日に達成。
 
 ## 2022年
 
