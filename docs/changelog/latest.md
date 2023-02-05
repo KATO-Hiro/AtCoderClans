@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-02-05
+
+- [#5356](https://github.com/KATO-Hiro/AtCoderClans/pull/5356) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[yfuka86](https://atcoder.jp/users/yfuka86)さんの[記事](https://note.com/yfuka86/n/n2d8da12389d7)を追加。
+
 ### 2023-02-04
 
 - [#5351](https://github.com/KATO-Hiro/AtCoderClans/pull/5351) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、記事「[AtCoder 所属別アクティブユーザ数ランキング トップ200(大学、高校、会社等)](https://qiita.com/nabata/items/864e06a52de88123daaa)」を追加。
