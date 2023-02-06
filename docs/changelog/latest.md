@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-02-06
+
+- [#5361](https://github.com/KATO-Hiro/AtCoderClans/pull/5361) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[seekworser](https://atcoder.jp/users/seekworser)さんの[記事](https://seekworser.hatenablog.com/entry/2023/02/06/005815)を追加。
+
 ### 2023-02-05
 
 - [#5356](https://github.com/KATO-Hiro/AtCoderClans/pull/5356) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
