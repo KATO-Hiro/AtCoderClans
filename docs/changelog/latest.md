@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-02-07
+
+- [#5363](https://github.com/KATO-Hiro/AtCoderClans/pull/5363) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
+    - [AtCoder株式会社に入社しました](https://kaede2020.hatenablog.com/entry/2023/02/01/190234)
+
 ### 2023-02-06
 
 - [#5361](https://github.com/KATO-Hiro/AtCoderClans/pull/5361) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
