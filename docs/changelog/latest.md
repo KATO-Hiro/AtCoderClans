@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-02-08
+
+- [#5368](https://github.com/KATO-Hiro/AtCoderClans/pull/5368) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[Mafuyu](https://atcoder.jp/users/Mafuyu)さんの[記事](https://note.com/kikka_mfybyr/n/n864aeb594ab1)を追加。
+
 ### 2023-02-07
 
 - [#5363](https://github.com/KATO-Hiro/AtCoderClans/pull/5363) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
