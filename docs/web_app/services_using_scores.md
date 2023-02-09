@@ -73,9 +73,7 @@ title: コンテストの成績に関連するサービス
 ### ライバルの練習状況を知る
 
 - [AtCoder Rivals](https://atcoder-rivals.web.app/) - パフォーマンスやレーティングの遷移、日々の練習(通称、精進)状況などをライバルと比べることができる。
-    <!-- markdown-link-check-disable -->
-    - [作者による技術記事](https://note.com/sacckey/n/nf0b7ed1e9d1a)
-    <!-- markdown-link-check-enable -->
+    - [作者による技術記事](https://note.sacckey.dev/n/nf0b7ed1e9d1a)
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_rivals.png" alt="atcoder rivals">
