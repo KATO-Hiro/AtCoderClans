@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-02-10
+
+- [#5377](https://github.com/KATO-Hiro/AtCoderClans/pull/5377) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[soshin](https://atcoder.jp/users/soshin)さんの[記事](https://zenn.dev/soshin/articles/28ce9e3eea85d1)を追加。
+
 ### 2023-02-09
 
 - [#5372](https://github.com/KATO-Hiro/AtCoderClans/pull/5372) - 記事のURL変更に追従したものの、リンクチェッカで意図した通りに処理されないことを確認。暫定的な対処方法として、該当リンクを一時的にチェック対象から除外。
