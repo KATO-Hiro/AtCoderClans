@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-02-12
+
+- [#5390](https://github.com/KATO-Hiro/AtCoderClans/pull/5390) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[mayocorn](https://atcoder.jp/users/mayocorn)さんの[記事](https://qiita.com/mayocorn/items/4edff486428240864808)を追加。
+
 ### 2023-02-11
 
 - [#5384](https://github.com/KATO-Hiro/AtCoderClans/pull/5384) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページで掲載しているWebサイト「[tc-wleite/tc-wleite.github.io](https://github.com/tc-wleite/tc-wleite.github.io)」の説明文を更新。以下のリンクを追加。
