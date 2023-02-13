@@ -7,7 +7,7 @@ title: Change Log
 ### 2023-02-13
 
 - [#5399](https://github.com/KATO-Hiro/AtCoderClans/pull/5399) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、記事「[AtCoderにおけるプログラミング言語のシェアを調べてみた](https://qiita.com/nabata/items/1f9c0543fad5c6106d19)」を追加。
-- [#5398](https://github.com/KATO-Hiro/AtCoderClans/pull/5398) - (破壊的な変更) 退会したと思われるユーザのリンクを一時的に削除。
+- [#5398](https://github.com/KATO-Hiro/AtCoderClans/pull/5398) - (破壊的な変更) 登録名の変更もしくは退会したと思われるユーザのリンクを一時的に削除。
 
 ### 2023-02-12
 
