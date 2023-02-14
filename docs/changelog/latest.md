@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-02-14
+
+- [#5405](https://github.com/KATO-Hiro/AtCoderClans/pull/5405) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
+    - [日本初のITコンサル「フューチャー」が競技プログラマーを積極採用する理由とは？～ヒューリスティック形式の競プロコンテスト「HACK TO THE FUTURE」を主催〜](https://prtimes.jp/story/detail/YxRv5Ksa8Dx)
+
 ### 2023-02-13
 
 - [#5399](https://github.com/KATO-Hiro/AtCoderClans/pull/5399) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、記事「[AtCoderにおけるプログラミング言語のシェアを調べてみた](https://qiita.com/nabata/items/1f9c0543fad5c6106d19)」を追加。
