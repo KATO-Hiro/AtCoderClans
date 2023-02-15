@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-02-15
+
+- [#5413](https://github.com/KATO-Hiro/AtCoderClans/pull/5413) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜2399に到達したユーザのブログを追加。
+- [#5409](https://github.com/KATO-Hiro/AtCoderClans/pull/5409) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに、「[アルゴリズム実技検定 公式テキスト[上級～エキスパート編]](https://www.amazon.co.jp/dp/4839979499)」を追加。
+
 ### 2023-02-14
 
 - [#5405](https://github.com/KATO-Hiro/AtCoderClans/pull/5405) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
