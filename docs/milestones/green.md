@@ -5,6 +5,7 @@ title: レーティング800〜1199(緑色)
 ## 2023年
 
 - [【AtCoder】入緑しました](https://qiita.com/seeton_kyoupro/items/783cb08e5d2668109d09) - [seeton](https://atcoder.jp/users/seeton)さんが、2023年1月21日に達成。
+- [【色変記事】入緑しました！読んで！](https://note.com/likaf/n/n01bbc375d1ed) - [LiKaf](https://atcoder.jp/users/LiKaf)さんが、2023年2月14日に公開。
 
 ## 2022年
 
