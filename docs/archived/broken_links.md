@@ -117,6 +117,8 @@ title: リンク切れ
 
 - [AtCoder純粋培養緑コーダーが転職ACするまで](https://seashellpink-frostywhite.hatenablog.com/entry/2021/03/31/185821) - [riano_](https://atcoder.jp/users/riano_)さんが[AtCoderJobs](https://jobs.atcoder.jp/)を利用してIT業界未経験の状態から転職した経験談を紹介した記事。
     - 確認した日: 2022/6/02
+- [日本初のITコンサル「フューチャー」が競技プログラマーを積極採用する理由とは？～ヒューリスティック形式の競プロコンテスト「HACK TO THE FUTURE」を主催〜](https://prtimes.jp/story/detail/YxRv5Ksa8Dx) - [chokudai](https://twitter.com/chokudai)さんと[tsukammo](https://atcoder.jp/users/tsukammo)さんの対談記事。ヒューリスティック型コンテストを開催するまでの経緯、競技プログラマーの強みと業務との関連性、今後の展望など幅広い話題に言及されている。
+    - 確認した日: 2023/02/18
 
 ## ブログ
 
