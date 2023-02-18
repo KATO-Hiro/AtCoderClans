@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-02-18
+
+- [#5423](https://github.com/KATO-Hiro/AtCoderClans/pull/5423) - (破壊的な変更) リンク切れと思われる記事を一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2023-02-17
 
 - [#5419](https://github.com/KATO-Hiro/AtCoderClans/pull/5419) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
