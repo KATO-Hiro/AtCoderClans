@@ -22,7 +22,7 @@ title: Change Log
 ### 2023-02-14
 
 - [#5405](https://github.com/KATO-Hiro/AtCoderClans/pull/5405) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
-    - [日本初のITコンサル「フューチャー」が競技プログラマーを積極採用する理由とは？～ヒューリスティック形式の競プロコンテスト「HACK TO THE FUTURE」を主催〜](https://prtimes.jp/story/detail/YxRv5Ksa8Dx)
+    - 日本初のITコンサル「フューチャー」が競技プログラマーを積極採用する理由とは？～ヒューリスティック形式の競プロコンテスト「HACK TO THE FUTURE」を主催〜
 
 ### 2023-02-13
 
