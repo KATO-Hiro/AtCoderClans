@@ -8,6 +8,7 @@ title: C&#43;&#43;
 |:--:|:--:|:--|
 |bowwowforeach|[はてなブログ](https://bowwowforeach.hatenablog.com/)||
 |eivour|[Qiita](https://qiita.com/contramundum)||
+|phocom|[Qiita](https://qiita.com/phocom)||
 |square1001|[Qiita](https://qiita.com/square1001)||
 |WA_TLE|[はてなブログ](https://watle.hatenablog.com/)|2019年1月以降、新規の記事を確認できず。|
 
@@ -18,6 +19,7 @@ title: C&#43;&#43;
 |asi1024|[はてなブログ](https://asi1024.hatenablog.com/)|2017年3月以降、新規の記事を確認できず。|
 |assy|[はてなブログ](https://assy.hatenablog.jp/)||
 |ats5515|[はてなブログ](https://ats5515.hatenablog.com/)||
+|bin101|[はてなブログ](https://bin101.hatenablog.com/)||
 |eijirou|[はてなブログ](https://eijirou-kyopro.hatenablog.com/)||
 |hitonanode|[はてなブログ](https://rsm9.hatenablog.com/)||
 |iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
@@ -26,22 +28,22 @@ title: C&#43;&#43;
 |nagiss|[はてなブログ](https://nagiss.hateblo.jp/)||
 |noimi|[はてなブログ](https://noimi.hatenablog.com/)||
 |Nyaan|[はてなブログ](https://nyaan.hatenablog.com/)||
-|phocom|[Qiita](https://qiita.com/phocom)||
 |saharan|[自作ブログ](https://blog.oimo.io/)||
 |shibh308|[はてなブログ](https://shibh308.hatenablog.com/)||
 |Shun_PI|[Qiita](https://qiita.com/Shun_PI)||
 |siman|[はてなブログ](https://simanman.hatenablog.com/)||
 |takumi152|[はてなブログ](https://takumi152.hatenablog.jp/)||
 |wanui|[Zenn](https://zenn.dev/gmeriaog)||
+|yunix|[はてなブログ](https://yunix-kyopro.hatenablog.com/)||
 
 ## レーティング2000〜2399(黄色)
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
-|bin101|[はてなブログ](https://bin101.hatenablog.com/)||
 |colun|[自作ブログ](http://www.colun.net/blog)|2016年10月以降、新規の記事を確認できず。|
 |E869120|[はてなブログ](https://e869120.hatenablog.com/)、[Qiita](https://qiita.com/e869120)||
 |ebicochineal|[自作ブログ](http://ebicochineal.blogspot.com/)||
+|gasin|[はてなブログ](https://gasin.hatenadiary.jp/)||
 |hakomo|[はてなブログ](https://hakomof.hatenablog.com/)||
 |hamamu|[Qiita](https://qiita.com/hamamu)||
 |hari64|[Qiita](https://qiita.com/hari64)||
@@ -66,4 +68,3 @@ title: C&#43;&#43;
 |Trineutron|[Qiita](https://qiita.com/trineutron)||
 |tsukasa_diary|[Qiita](https://qiita.com/tsukasa__diary)||
 |ValGrowth|[はてなブログ](https://valgrowth.hatenablog.com/archive)||
-|yunix|[はてなブログ](https://yunix-kyopro.hatenablog.com/)||
