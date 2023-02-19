@@ -25,7 +25,12 @@ title: コンテストに向けた練習方法を知る
 
 ### 問題のカテゴリを知る
 
+<!-- markdown-link-check-disable -->
+
 - [AtCoderの問題を分類しました](https://qiita.com/KoyanagiHitoshi/items/32dc42d8c5ee75339e54) - [AtCoder](https://atcoder.jp/)で開催されたコンテストについて、問題の分類とPythonでの[解答例](https://github.com/KoyanagiHitoshi/AtCoder-Python-Introduction)が示されている。AtCoder Beginner Contest(ABC)のABC001〜ABC244のA問題・B問題・C問題と、AtCoder Regular Contest(ARC)のARC001〜ARC137のA問題などが対象。動作環境は、Python3.8.2。
+
+<!-- markdown-link-check-enable -->
+
 - [AtCoder問題カテゴリー分類](https://qiita.com/c-yan/items/56a051d826b873b4f78d) - コンテストで出題された問題が分類されている。上記の記事より難易度が高い問題が多く含まれている。
 
     !!! warning "注意"
