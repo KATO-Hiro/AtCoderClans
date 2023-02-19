@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-02-19
+
+- [#5432](https://github.com/KATO-Hiro/AtCoderClans/pull/5432) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページで掲載している書籍の説明文を更新。
+    - [ゲームで学ぶ探索アルゴリズム実践入門～木探索とメタヒューリスティクス](https://www.amazon.co.jp/dp/4297133601/)
+- [#5431](https://github.com/KATO-Hiro/AtCoderClans/pull/5431) - 「[Articles, Blogs, Books and Videos](../../blogs)」ページのアルゴリズム部門で、ユーザの昇段に伴い、掲載するレーティング帯を変更。
+- [#5430](https://github.com/KATO-Hiro/AtCoderClans/pull/5430) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [THIRD プログラミングコンテスト 2022（AtCoder Heuristic Contest 017）参加記](https://kaede2020.hatenablog.com/entry/2023/02/05/200031)
+- [#5429](https://github.com/KATO-Hiro/AtCoderClans/pull/5429) - 「[Articles, Blogs, Books and Videos](../../blogs)」ページのヒューリスティック部門に、最高レーティングが2000以上に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+
 ### 2023-02-18
 
 - [#5423](https://github.com/KATO-Hiro/AtCoderClans/pull/5423) - (破壊的な変更) リンク切れと思われる記事を一時的に「[Archives](../../archived)」ページに移動。
