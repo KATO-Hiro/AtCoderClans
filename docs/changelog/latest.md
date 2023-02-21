@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-02-21
+
+- [#5442](https://github.com/KATO-Hiro/AtCoderClans/pull/5442) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[KujiraBox](https://atcoder.jp/users/KujiraBox)さんの[記事](https://qiita.com/Kujira_Box/items/4f0df07b2ad536a67e07)を追加。
+
 ### 2023-02-20
 
 - [#5437](https://github.com/KATO-Hiro/AtCoderClans/pull/5437) - (破壊的な変更) 「[Change Log](../latest)」ページの2022年12月分を月別のアーカイブに移動。
