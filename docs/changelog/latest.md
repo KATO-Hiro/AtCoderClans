@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-02-22
+
+- [#5446](https://github.com/KATO-Hiro/AtCoderClans/pull/5446) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページで掲載している書籍の説明文を更新。
+    - [Optunaによるブラックボックス最適化](https://www.amazon.co.jp/dp/4274230104)
+
 ### 2023-02-21
 
 - [#5442](https://github.com/KATO-Hiro/AtCoderClans/pull/5442) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
