@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-02-24
+
+- [#5457](https://github.com/KATO-Hiro/AtCoderClans/pull/5457) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページで掲載している書籍を最新版に更新。
+    - [アルゴリズム図鑑 増補改訂版: 絵で見てわかる33のアルゴリズム](https://www.amazon.co.jp/dp/479817243X/)
+
 ### 2023-02-23
 
 - [#5452](https://github.com/KATO-Hiro/AtCoderClans/pull/5452) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
