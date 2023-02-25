@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-02-25
+
+- [#5462](https://github.com/KATO-Hiro/AtCoderClans/pull/5462) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [AWS上にマラソンマッチ用のジャッジ環境を作った](https://yunix-kyopro.hatenablog.com/entry/2022/07/02/134251)
+
 ### 2023-02-24
 
 - [#5457](https://github.com/KATO-Hiro/AtCoderClans/pull/5457) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページで掲載している書籍を最新版に更新。
