@@ -4,9 +4,13 @@ title: コードを書くための環境構築を行う
 
 !!! info "参考"
 
-    以下の記事は、2019年3月〜2022年2月に公開・更新されたものです。随時、最新の記事を追加する予定です。
+    以下の記事は、2019年3月〜2023年1月に公開・更新されたものです。随時、最新の記事を追加する予定です。
 
 ## 任意のOS
+
+### 複数の言語
+
+- [競技プログラミングの環境を VSCode devcontainer で作成する](https://zenn.dev/ganariya/articles/competitive-devcontainer) - [Visual Studio Code](https://code.visualstudio.com/)と拡張機能を利用して、複数の言語の実行環境を構築する方法と設定例(C++、Go、Python)が紹介されている記事。
 
 ### Python
 
