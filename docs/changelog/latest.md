@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-02-27
+
+- [#5472](https://github.com/KATO-Hiro/AtCoderClans/pull/5472) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[ZOIZOI](https://atcoder.jp/users/ZOIZOI)さんの[記事](https://qiita.com/ZOI_dayo/items/3548d3081ac7c44f8669)を追加。
+
 ### 2023-02-26
 
 - [#5467](https://github.com/KATO-Hiro/AtCoderClans/pull/5467) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。
