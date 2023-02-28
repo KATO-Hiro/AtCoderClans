@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-02-28
+
+- [#5479](https://github.com/KATO-Hiro/AtCoderClans/pull/5479) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[fuuukeee3](https://atcoder.jp/users/fuuukeee3)さんの[記事](https://fuuukeee3.hatenadiary.jp/entry/2023/02/27/212807)を追加。
+- [#5478](https://github.com/KATO-Hiro/AtCoderClans/pull/5478) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[TaniiGo](https://atcoder.jp/users/TaniiGo)さんの[記事](https://zenn.dev/taniigo/articles/b5fbfd87030e80)を追加。
+
 ### 2023-02-27
 
 - [#5472](https://github.com/KATO-Hiro/AtCoderClans/pull/5472) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
