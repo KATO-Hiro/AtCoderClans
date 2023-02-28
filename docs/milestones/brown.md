@@ -11,6 +11,7 @@ title: レーティング400〜799(茶色)
 - [数弱の弱弱高校生が50回かけて入茶した話](https://qiita.com/Sapph/items/3e97bbaaa14ef0256a05) - [Mizi3405](https://atcoder.jp/users/Mizi3405)さんが、2023年1月30日に公開。
 - [【初投稿】AtCoder茶色になりました](https://note.com/kikka_mfybyr/n/n864aeb594ab1) - [Mafuyu](https://atcoder.jp/users/Mafuyu)さんが、2023年2月4日に達成。
 - [去年の1月に冪乗を知らなかった社会人がABC289で再入茶しました！ながい… - 成長観察日記](https://d-burioden.hateblo.jp/entry/2023/02/12/195543) - [burioden](https://atcoder.jp/users/burioden)さんが、2023年2月11日に達成。
+- [AtCoder入茶 - fu’s blog](https://fuuukeee3.hatenadiary.jp/entry/2023/02/27/212807) - [fuuukeee3](https://atcoder.jp/users/fuuukeee3)さんが、2023年2月26日に達成。
 
 ## 2022年
 
