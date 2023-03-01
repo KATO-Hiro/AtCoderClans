@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-03-01
+
+- [#5483](https://github.com/KATO-Hiro/AtCoderClans/pull/5483) - [#5467](https://github.com/KATO-Hiro/AtCoderClans/pull/5467)に関連して、「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページで掲載している記事の説明文を更新。
+    - [ganyariya/competitive](https://github.com/ganyariya/competitive)
+
 ### 2023-02-28
 
 - [#5479](https://github.com/KATO-Hiro/AtCoderClans/pull/5479) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
