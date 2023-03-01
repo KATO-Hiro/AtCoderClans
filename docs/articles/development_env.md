@@ -11,6 +11,7 @@ title: コードを書くための環境構築を行う
 ### 複数の言語
 
 - [競技プログラミングの環境を VSCode devcontainer で作成する](https://zenn.dev/ganariya/articles/competitive-devcontainer) - [Visual Studio Code](https://code.visualstudio.com/)と拡張機能を利用して、複数の言語の実行環境を構築する方法と設定例(C++、Go、Python)が紹介されている記事。
+    - [ganyariya/competitive](https://github.com/ganyariya/competitive) ![GitHub Repo stars](https://img.shields.io/github/stars/ganyariya/competitive?style=plastic) - C++、C#、Go、Python、Luaの設定例がGitHubで公開されている。
 
 ### Python
 
