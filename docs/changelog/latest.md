@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-03-02
+
+- [#5485](https://github.com/KATO-Hiro/AtCoderClans/pull/5485) - (破壊的な変更) 「[Change Log](../latest)」ページの2023年1月分を月別のアーカイブに移動。
+    - [January, 2023](../2023_01)
+
 ### 2023-03-01
 
 - [#5483](https://github.com/KATO-Hiro/AtCoderClans/pull/5483) - [#5467](https://github.com/KATO-Hiro/AtCoderClans/pull/5467)に関連して、「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページで掲載している記事の説明文を更新。
