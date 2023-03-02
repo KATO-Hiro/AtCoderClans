@@ -251,6 +251,8 @@ nav:
   - license.md
   - Change Log:
     - changelog/latest.md
+    - 2023:
+      - January, 2023: changelog/2023_01.md
     - 2022:
       - December, 2022: changelog/2022_12.md
       - November, 2022: changelog/2022_11.md
