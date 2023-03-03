@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-03-03
+
+- [#5492](https://github.com/KATO-Hiro/AtCoderClans/pull/5492) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [RECRUIT 日本橋ハーフマラソン 2023冬（AtCoder Heuristic Contest 018）参加記](https://kaede2020.hatenablog.com/entry/2023/02/26/190051)
+
 ### 2023-03-02
 
 - [#5485](https://github.com/KATO-Hiro/AtCoderClans/pull/5485) - (破壊的な変更) 「[Change Log](../latest)」ページの2023年1月分を月別のアーカイブに移動。
