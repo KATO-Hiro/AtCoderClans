@@ -174,6 +174,9 @@ title: リンク切れ
 
 ### レーティング400〜799(茶色)
 
+- [Python未経験からAtCoder茶色になったよ！ - Dr. Koala’s Blog](https://mountkoara.hatenablog.com/entry/2021/06/29/Python%E6%9C%AA%E7%B5%8C%E9%A8%93%E3%81%8B%E3%82%89AtCoder%E8%8C%B6%E8%89%B2%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%82%88%EF%BC%81) - [DY811](https://atcoder.jp/users/DY811)さんが、2021年6月26日に達成。
+    - 確認した日: 2023/03/04
+
 - [Atcoderで茶色になりました - sin471のブログ](https://sin471.hatenablog.com/entry/2022/02/06/003702) - [sin471](https://atcoder.jp/users/sin471)さんが、2022年2月5日に達成。
     - 確認した日: 2022/06/21
 
