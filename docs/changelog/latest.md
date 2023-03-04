@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-03-04
+
+- [#5498](https://github.com/KATO-Hiro/AtCoderClans/pull/5498) - (破壊的な変更) リンク切れと思われる色変記事を一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2023-03-03
 
 - [#5492](https://github.com/KATO-Hiro/AtCoderClans/pull/5492) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
