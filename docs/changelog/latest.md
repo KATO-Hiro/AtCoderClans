@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-03-06
+
+- [#5510](https://github.com/KATO-Hiro/AtCoderClans/pull/5510) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[purupurupu](https://atcoder.jp/users/purupurupu)さんの[記事](https://qiita.com/purupurupu/items/ea48b0e4e8b3a78eb524)を追加。
+
 ### 2023-03-05
 
 - [#5506](https://github.com/KATO-Hiro/AtCoderClans/pull/5506) - (破壊的な変更) リンク切れと思われる記事を一時的に「[Archives](../../archived)」ページに移動。
