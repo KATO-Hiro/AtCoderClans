@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-03-07
+
+- [#5515](https://github.com/KATO-Hiro/AtCoderClans/pull/5515) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [言語ごとのレート分布グラフを作ってみました](https://twitter.com/ToastUz/status/1633050067560189954)
+
 ### 2023-03-06
 
 - [#5510](https://github.com/KATO-Hiro/AtCoderClans/pull/5510) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
