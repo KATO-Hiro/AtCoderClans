@@ -9,3 +9,5 @@ title: SNS
 ## Discord
 
 - [競プロer集会所](http://discord.gg/2xCjYvK) - [mencotton](https://atcoder.jp/users/mencotton)さんによって管理・運営されている、競技プログラミングの話題に特化した会話ができるグループ。2020年10月時点で500人以上が参加している。有志による「質問への回答」や「記事の紹介」など多数のチャンネルが用意されている。
+
+- [𝙠𝙮𝙤𝙥𝙧𝙪𝙨𝙩𝙚𝙘𝙚𝙖𝙣𝙨](https://discord.com/invite/MbuqR59t) - [ngtkana](https://atcoder.jp/users/ngtkana)さんによって運営されている、Rustで競技プログラミングに参加している人・参加したい人向けのサーバ。
