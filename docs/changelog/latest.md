@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-03-09
+
+- [#5524](https://github.com/KATO-Hiro/AtCoderClans/pull/5524) - Webサイトのリンク更新を反映。
+
 ### 2023-03-08
 
 - [#5520](https://github.com/KATO-Hiro/AtCoderClans/pull/5520) - 「[Articles, Blogs, Books and Videos](../../media)」の「[SNS](../../sns)」ページに、以下のDiscordサーバを追加。
