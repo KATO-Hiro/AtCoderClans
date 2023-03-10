@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-03-10
+
+- [#5529](https://github.com/KATO-Hiro/AtCoderClans/pull/5529) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [最大正方形の面積の求め方を知ってますか？　2次元の動的計画法（貰う/配る）をビジュアライズしてみました！](https://qiita.com/H20/items/884551b4965739176afc)
+
 ### 2023-03-09
 
 - [#5524](https://github.com/KATO-Hiro/AtCoderClans/pull/5524) - Webサイトのリンク更新を反映。
