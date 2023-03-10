@@ -77,7 +77,7 @@ title: アルゴリズムを学ぶ
 
 - [典型的なDP(動的計画法)のパターンを整理 Part1 ～ ナップサックDP編 ～](https://qiita.com/drken/items/a5e6fe22863b7992efdb) - 動的計画法(DP)を学び始めた人向けの記事。
 - [貰うDPと配るDP、メモ化再帰、個数制限なしナップサック問題](https://qiita.com/drken/items/ace3142967c4f01d42e9) - [AtCoder Beginner Contest 099 C問題](https://atcoder.jp/contests/abc099/tasks/abc099_c)を題材に、メモ化再帰・貰うDP・配るDP・幅優先探索・個数制限なしナップサックDP・全探索+Greedyといった複数のアプローチについて解説した記事。
-- [最大正方形の面積の求め方を知ってますか？　2次元の動的計画法（貰う/配る）をビジュアライズしてみました！](https://qiita.com/H20/items/884551b4965739176afc) - 最大長方形の面積を求める問題を題材に、2次元の動的計画法を解説した記事。
+- [最大正方形の面積の求め方を知ってますか？　2次元の動的計画法（貰う/配る）をビジュアライズしてみました！](https://qiita.com/H20/items/884551b4965739176afc) - 最大正方形の面積を求める問題を題材に、2次元の動的計画法を解説した記事。
     - [解の探索過程を見る](https://h20-dhmo.github.io/square.io/)
 - [Educational DP Contest / DP まとめコンテスト](https://atcoder.jp/contests/dp/) - AtCoder公式が提供している動的計画法の入門コンテンツ。
     - [A〜E問題の解説・類題集](https://qiita.com/drken/items/dc53c683d6de8aeacf5a) - [drken](https://atcoder.jp/users/drken)さんがA〜E問題の解説・類題をまとめた記事。
