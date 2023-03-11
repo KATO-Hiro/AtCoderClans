@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-03-11
+
+- [#5534](https://github.com/KATO-Hiro/AtCoderClans/pull/5534) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページで掲載している書籍の説明文を更新。
+    - [thunder本をRustで書いてみた(Greedyまで)](https://zenn.dev/tipstar0125/articles/59f845d3670470)
+
 ### 2023-03-10
 
 - [#5529](https://github.com/KATO-Hiro/AtCoderClans/pull/5529) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
