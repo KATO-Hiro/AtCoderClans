@@ -52,6 +52,16 @@
         <img loading = "lazy" src="images/web_app/suzuri.png" alt="suzuri">
     </div>
 
+## 競プロLINEスタンプ・グッズ(非公式)を購入する
+
+- [LINE STORE](https://store.line.me/stickershop/product/22113834/en) - [burioden](https://atcoder.jp/users/burioden)さんが作成・配信している競プロLINEスタンプ(非公式)。
+    - [kyopro-neko](https://github.com/burioden/kyopro-neko) ![GitHub Repo stars](https://img.shields.io/github/stars/burioden/kyopro-neko?style=plastic) - 「競プロするねこ」のイラスト集。
+    - [SUZURI](https://suzuri.jp/burioden) - 「競プロするねこ」のイラストが書かれたグッズを購入できる。
+
+    <div align="center">
+        <img loading = "lazy" src="images/unofficial_goods/kyopro_neko_ac.jpg" alt="kyopro neko ac" />
+    </div>
+
 ## 本サービスのスポンサー(敬称略・順不同)
 
 本サービスの開発・運営を応援してくださり、ありがとうございます。
