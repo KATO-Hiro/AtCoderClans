@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-03-12
+
+- [#5538](https://github.com/KATO-Hiro/AtCoderClans/pull/5538) - 「[Home](../../)」ページに「[競プロLINEスタンプ](https://store.line.me/stickershop/product/22113834/en)」と関連リンクを追加。
+    - [kyopro-neko](https://github.com/burioden/kyopro-neko) ![GitHub Repo stars](https://img.shields.io/github/stars/burioden/kyopro-neko?style=plastic)
+    - [SUZURI](https://suzuri.jp/burioden)
+
 ### 2023-03-11
 
 - [#5534](https://github.com/KATO-Hiro/AtCoderClans/pull/5534) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページで掲載している書籍の説明文を更新。
