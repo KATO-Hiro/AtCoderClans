@@ -64,6 +64,7 @@ title: ヒューリスティック問題を解く
 ### 取り組み方(実装)
 
 - [マラソン系コンテストでソースコードを分割して書く方法のメモ(C++)](https://yunix-kyopro.hatenablog.com/entry/2023/03/14/220453) - コンテストで快適にコーディングできるように、開発時にはソースコード(C++)を複数のファイルに分割して記述し、提出時に1つにまとめて提出する方法が紹介されている記事。
+    - [サンプルコード](https://github.com/yunix-kyopro/AHC-cpp-template-public) ![GitHub Repo stars](https://img.shields.io/github/stars/yunix-kyopro/AHC-cpp-template-public?style=plastic)
 
 ### 参加記・解法の解説
 
