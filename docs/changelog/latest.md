@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-03-16
+
+- [#5558](https://github.com/KATO-Hiro/AtCoderClans/pull/5558) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[Jikky1618](https://atcoder.jp/users/Jikky1618)さんの[記事](https://note.com/jikky1618/n/n0814c5803391)を追加。
+
 ### 2023-03-15
 
 - [#5552](https://github.com/KATO-Hiro/AtCoderClans/pull/5552) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
