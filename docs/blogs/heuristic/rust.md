@@ -22,4 +22,5 @@ title: Rust
 |ichyo|[はてなブログ](https://blog.ichyo.jp/)||
 |penguin46|[はてなブログ](https://penguin46.hatenablog.com/)||
 |rhoo|[Qiita](https://qiita.com/rhoo)||
+|ToastUz|[Qiita](https://qiita.com/toast-uz)||
 |xyz600|[はてなブログ](https://xyz600.hatenablog.com/)||
