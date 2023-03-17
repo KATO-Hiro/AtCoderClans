@@ -21,9 +21,11 @@ title: C&#43;&#43;
 |ats5515|[はてなブログ](https://ats5515.hatenablog.com/)||
 |bin101|[はてなブログ](https://bin101.hatenablog.com/)||
 |eijirou|[はてなブログ](https://eijirou-kyopro.hatenablog.com/)||
+|gasin|[はてなブログ](https://gasin.hatenadiary.jp/)||
 |hitonanode|[はてなブログ](https://rsm9.hatenablog.com/)||
 |iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
 |Jirotech|[はてなブログ](https://shuu0914.hatenablog.com/)||
+|kozima|[はてなブログ](https://lkozima.hatenablog.com/)||
 |mtsd|[はてなブログ](https://mtsd-programming.hatenablog.com/)||
 |nagiss|[はてなブログ](https://nagiss.hateblo.jp/)||
 |noimi|[はてなブログ](https://noimi.hatenablog.com/)||
@@ -43,15 +45,14 @@ title: C&#43;&#43;
 |colun|[自作ブログ](http://www.colun.net/blog)|2016年10月以降、新規の記事を確認できず。|
 |E869120|[はてなブログ](https://e869120.hatenablog.com/)、[Qiita](https://qiita.com/e869120)||
 |ebicochineal|[自作ブログ](http://ebicochineal.blogspot.com/)||
-|gasin|[はてなブログ](https://gasin.hatenadiary.jp/)||
 |hakomo|[はてなブログ](https://hakomof.hatenablog.com/)||
 |hamamu|[Qiita](https://qiita.com/hamamu)||
 |hari64|[Qiita](https://qiita.com/hari64)||
 |heno239|[はてなブログ](https://heno239.hatenablog.com/)||
+|hirokazu1020|[はてなブログ](https://hirokazu1020.hatenablog.com/)||
 |hitoare|[はてなブログ](https://hitoare.hatenablog.com/)||
 |itigo|[はてなブログ](https://ichigokunn.hatenablog.com/)||
 |kotatsugame|[はてなブログ](https://kotatsugame.hatenablog.com/)||
-|kozima|[はてなブログ](https://lkozima.hatenablog.com/)||
 |kusano|[はてなブログ](https://kusano-k.hatenablog.com/)、[Qiita](https://qiita.com/kusano_k)||
 |merom686|[はてなブログ](https://merom686.hatenablog.com/)||
 |olphe|[はてなブログ](https://olphe.hatenablog.com/)||
@@ -61,6 +62,7 @@ title: C&#43;&#43;
 |ponjuice|[note](https://note.com/ponjuice0)||
 |qLethon|[はてなブログ](https://qlethon.hatenablog.com/)||
 |riantkb|[はてなブログ](https://rian.hatenablog.jp/)||
+|risujiroh|[はてなブログ](https://risujiroh.hatenablog.com/)||
 |satanic0258|[はてなブログ](https://satanic0258.hatenablog.com/)|2018年9月以降、新規の記事を確認できず。|
 |Shibuyap|[Qiita](https://qiita.com/Shibuyap)||
 |shindannin|[はてなブログ](https://shindannin.hatenadiary.com/)||

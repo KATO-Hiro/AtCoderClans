@@ -16,4 +16,5 @@ title: Python
 |:--:|:--:|:--|
 |dn6049949|[Qiita](https://qiita.com/dn6049949)||
 |Kiri8128|[はてなブログ](https://kiri8128.hatenablog.com/)||
+|titia|[Blogger](https://titianote.blogspot.com/)||
 |yuusanlondon|[はてなブログ](https://yuusanlondon.hatenablog.com/)||
