@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-03-17
+
+- [#5568](https://github.com/KATO-Hiro/AtCoderClans/pull/5568) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [AHC018の1位解法(Psyho氏の解法)解説](https://qiita.com/thun-c/items/11af0980cc938dc28d3b)
+- [#5567](https://github.com/KATO-Hiro/AtCoderClans/pull/5567) - 「[Articles, Blogs, Books and Videos](../../media)」の「[SNS](../../sns)」ページに、以下のDiscordサーバを追加。
+    - [AHCをみんなで解く会](https://discord.com/invite/ehyVPQ2sVt)
+- [#5562](https://github.com/KATO-Hiro/AtCoderClans/pull/5562) - 「[Articles, Blogs, Books and Videos](../../blogs)」ページのヒューリスティック部門に、最高レーティングが2000以上に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+
 ### 2023-03-16
 
 - [#5558](https://github.com/KATO-Hiro/AtCoderClans/pull/5558) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
