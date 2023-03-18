@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-03-18
+
+- [#5574](https://github.com/KATO-Hiro/AtCoderClans/pull/5574) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [三分探索を救いたい](https://qiita.com/ganyariya/items/1553ff2bf8d6d7789127)
+- [#5572](https://github.com/KATO-Hiro/AtCoderClans/pull/5572) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[enjyu](https://atcoder.jp/users/enjyu)さんの[記事](https://qiita.com/enjyu_it/items/46d5e7bc2a34c8f03ba7)を追加。
+
 ### 2023-03-17
 
 - [#5568](https://github.com/KATO-Hiro/AtCoderClans/pull/5568) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
