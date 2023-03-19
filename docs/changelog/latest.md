@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-03-19
+
+- [#5579](https://github.com/KATO-Hiro/AtCoderClans/pull/5579) - [百千万億 萬◇つもいよろず](https://twitter.com/TumoiYorozu)さんのご紹介で、「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに、「[JOI公式テキスト Pythonで問題解決 情報オリンピックに出てみよう](https://www.jikkyo.co.jp/book/detail/22510044)」を追加。
+
 ### 2023-03-18
 
 - [#5574](https://github.com/KATO-Hiro/AtCoderClans/pull/5574) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
