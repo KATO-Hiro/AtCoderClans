@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-03-20
+
+- [#5586](https://github.com/KATO-Hiro/AtCoderClans/pull/5586) - 「[Articles, Blogs, Books and Videos](../../media)」の「[問題を解く](../../articles/how_to_practice)」ページに、以下の記事を追加。
+    - [GPT-4は青色コーダーの夢を見るか](https://qiita.com/autotaker1984/items/2929937cd1fea6137d1f)
+
 ### 2023-03-19
 
 - [#5579](https://github.com/KATO-Hiro/AtCoderClans/pull/5579) - [百千万億 萬◇つもいよろず](https://twitter.com/TumoiYorozu)さんのご紹介で、「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに、「[JOI公式テキスト Pythonで問題解決 情報オリンピックに出てみよう](https://www.jikkyo.co.jp/book/detail/22510044)」を追加。
