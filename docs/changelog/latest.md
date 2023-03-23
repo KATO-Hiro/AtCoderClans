@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-03-23
+
+- [#5601](https://github.com/KATO-Hiro/AtCoderClans/pull/5601) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
+    - [多倍長演算の活用②](https://qiita.com/Kiri8128/items/a66fd4d6f7f7db7b5554)
+
 ### 2023-03-22
 
 - [#5596](https://github.com/KATO-Hiro/AtCoderClans/pull/5596) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
