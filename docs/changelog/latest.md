@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-03-24
+
+- [#5604](https://github.com/KATO-Hiro/AtCoderClans/pull/5604) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [AHC018 ガウス過程回帰を用いた解法](https://docs.google.com/presentation/d/1JEcyHLw8XrDqL4FHUGYIVQC63KSZ2eaHRjO0E2y1WeU/edit#slide=id.p)
+
 ### 2023-03-23
 
 - [#5601](https://github.com/KATO-Hiro/AtCoderClans/pull/5601) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
