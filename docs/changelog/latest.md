@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-03-25
+
+- [#5609](https://github.com/KATO-Hiro/AtCoderClans/pull/5609) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[siro53](https://atcoder.jp/users/siro53)さんの[記事](https://bakamono1357.hatenablog.com/entry/2023/03/23/004604)を追加。
+- [#5607](https://github.com/KATO-Hiro/AtCoderClans/pull/5607) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜2399に到達したユーザのブログを追加。
+
 ### 2023-03-24
 
 - [#5604](https://github.com/KATO-Hiro/AtCoderClans/pull/5604) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
