@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-03-26
+
+- [#5613](https://github.com/KATO-Hiro/AtCoderClans/pull/5613) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [二分探索と三分探索の数学的な解説とバグらせない実装方法](https://qiita.com/DaikiSuyama/items/84df26daad11cf7da453)
+
 ### 2023-03-25
 
 - [#5609](https://github.com/KATO-Hiro/AtCoderClans/pull/5609) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
