@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-03-27
+
+- [#5619](https://github.com/KATO-Hiro/AtCoderClans/pull/5619) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページで掲載している「[アルゴリズム実技検定 公式テキスト[上級～エキスパート編]](https://www.amazon.co.jp/dp/4839979499)」の説明文を更新。
+    - [tsutaj/pastbook-2-source-code](https://github.com/tsutaj/pastbook-2-source-code)
+
 ### 2023-03-26
 
 - [#5613](https://github.com/KATO-Hiro/AtCoderClans/pull/5613) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
