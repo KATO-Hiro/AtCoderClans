@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-03-28
+
+- [#5623](https://github.com/KATO-Hiro/AtCoderClans/pull/5623) - 「[Related Contest Sites](../../related_contest_sites)」の「[情報オリンピック](../../related_contest_sites/joi_ioi)」ページに以下の記事を追加。
+    - [情オリの実機練習のためのラクラク環境構築](https://iro-happa.hatenablog.com/entry/2023/03/27/165726)
+
 ### 2023-03-27
 
 - [#5619](https://github.com/KATO-Hiro/AtCoderClans/pull/5619) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページで掲載している「[アルゴリズム実技検定 公式テキスト[上級～エキスパート編]](https://www.amazon.co.jp/dp/4839979499)」の説明文を更新。
