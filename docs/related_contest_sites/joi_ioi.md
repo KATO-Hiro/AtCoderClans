@@ -35,6 +35,10 @@ title: 情報オリンピック
 
 ### 記事・書籍
 
+#### コードを書くための環境構築を行う
+
+- [情オリの実機練習のためのラクラク環境構築](https://iro-happa.hatenablog.com/entry/2023/03/27/165726) - 春季トレーニング合宿の実機練習における環境構築の方法が紹介されている。
+
 #### プログラミング言語を学ぶ
 
 - [Introducion to JOI](https://pro-ktmr.github.io/joig-course/text/index.html) - C++の基礎文法について、JOIの過去問を通して学ぶことができる。
