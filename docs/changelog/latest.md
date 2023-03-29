@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-03-29
+
+- [#5627](https://github.com/KATO-Hiro/AtCoderClans/pull/5627) - 「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../user_scripts/submit_codes)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Search Query Holder](https://greasyfork.org/ja/scripts/460696-atcoder-search-query-holder)
+
 ### 2023-03-28
 
 - [#5623](https://github.com/KATO-Hiro/AtCoderClans/pull/5623) - 「[Related Contest Sites](../../related_contest_sites)」の「[情報オリンピック](../../related_contest_sites/joi_ioi)」ページに以下の記事を追加。
