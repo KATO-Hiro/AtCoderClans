@@ -166,6 +166,8 @@ title: ソースコードの提出・確認を簡単に
 
 - [AtCoder ResultsPage Tweaks](https://greasyfork.org/ja/scripts/424079-atcoder-resultspage-tweaks) - 「提出結果」ページの「すべての提出」で、検索条件を変更したときに自動で検索する。
 
+- [AtCoder Search Query Holder](https://greasyfork.org/ja/scripts/460696-atcoder-search-query-holder) - 「すべての提出」ページと「自分の提出」ページを移動するときに、検索条件を保持する。
+
 - [AutoSubmissionsSettings.js](https://greasyfork.org/ja/scripts/390514-autosubmissionssettings-js) - 「すべての提出」ページで、指定した言語と結果で検索するボタンを追加する。
 
     <div align="center">
