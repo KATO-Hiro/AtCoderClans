@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-03-30
+
+- [#5631](https://github.com/KATO-Hiro/AtCoderClans/pull/5631) - 「[Libraries and Snippets](../../libraries)」の「[AtCoder Library (ACL)の補助資料・解説記事](../../libraries/articles)」ページに、以下の記事を追加。
+    - [ローカルにACL(Atcoder Library)導入](https://qiita.com/ikashoppin/items/a448557bc31d03dc77c8)
+
 ### 2023-03-29
 
 - [#5627](https://github.com/KATO-Hiro/AtCoderClans/pull/5627) - 「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../user_scripts/submit_codes)」ページに、以下のユーザスクリプトを追加。
