@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-03-31
+
+- [#5634](https://github.com/KATO-Hiro/AtCoderClans/pull/5634) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会に参加する](../../articles/club_activities)」ページに以下の記事を追加。
+    - [「ゆるふわ競技プログラミングオンサイト at FORCIA #4」を開催しました](https://www.forcia.com/blog/002620.html)
+
 ### 2023-03-30
 
 - [#5631](https://github.com/KATO-Hiro/AtCoderClans/pull/5631) - 「[Libraries and Snippets](../../libraries)」の「[AtCoder Library (ACL)の補助資料・解説記事](../../libraries/articles)」ページに、以下の記事を追加。
