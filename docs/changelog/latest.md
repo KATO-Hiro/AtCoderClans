@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-04-01
+
+- [#5640](https://github.com/KATO-Hiro/AtCoderClans/pull/5640) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会に参加する](../../articles/club_activities)」ページに以下のWebサイトを追加。
+    - [阪大競技プログラミング部「RAINBOU」](https://rainbou.org/)
+
 ### 2023-03-31
 
 - [#5634](https://github.com/KATO-Hiro/AtCoderClans/pull/5634) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会に参加する](../../articles/club_activities)」ページに以下の記事を追加。
