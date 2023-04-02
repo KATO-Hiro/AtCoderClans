@@ -80,6 +80,7 @@ title: ヒューリスティック問題を解く
     - [HACK TO THE FUTURE 2023 予選（AtCoder Heuristic Contest 016）参加記](https://kaede2020.hatenablog.com/entry/2022/11/20/190100)
     - [THIRD プログラミングコンテスト 2022（AtCoder Heuristic Contest 017）参加記](https://kaede2020.hatenablog.com/entry/2023/02/05/200031)
     - [RECRUIT 日本橋ハーフマラソン 2023冬（AtCoder Heuristic Contest 018）参加記](https://kaede2020.hatenablog.com/entry/2023/02/26/190051)
+    - [MC Digital プログラミングコンテスト2023（AtCoder Heuristic Contest 019）参加記](https://kaede2020.hatenablog.com/entry/2023/04/02/190056)
 - [AHCガチ素人のアルゴ茶コーダー VS AHC013 〜初歩的アルゴ知識だけで戦ってみました〜](https://fujikawa.hatenablog.com/entry/2022/08/18/051533) - [fujikawahiroaki](https://atcoder.jp/users/fujikawahiroaki)さんの参加記。アルゴリズム部門で身につけた知識を活用して、コンテストに挑戦する過程がまとめられている。
     - [AHC016（HTTF2023予選）敗戦記　〜傷まみれの青春〜](https://fujikawa.hatenablog.com/entry/2022/11/22/220829)
 - [AHC018の1位解法(Psyho氏の解法)解説](https://qiita.com/thun-c/items/11af0980cc938dc28d3b) - [Psyho](https://atcoder.jp/users/Psyho)さんによる[AtCoder Heuristic Contest 018](https://atcoder.jp/contests/ahc018)の解答方針を、[thunder](https://atcoder.jp/users/thunder)さんが詳しく解説した記事。
