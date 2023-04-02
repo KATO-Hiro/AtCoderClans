@@ -37,6 +37,12 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/web_app/atcoder_gacha.png" alt="atcoder gacha">
     </div>
 
+- [Atcoder Daily Contests](https://github.com/ika9810/Atcoder-Daily-Contests) ![GitHub Repo stars](https://img.shields.io/github/stars/ika9810/Atcoder-Daily-Contests?style=plastic) - 日替わりで問題を解くことができる。[AtCoder](https://atcoder.jp/)の過去問から、仮想的なAtCoder Xxx Contest (Xxx: Beginner, Regular, Grand)クラスの問題セットが出題される。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_daily_contests.png" alt="atcoder daily contests">
+    </div>
+
 ### ヒューリスティック部門
 
 - [mm-tester](https://github.com/kosakkun/mm-tester) ![GitHub Repo stars](https://img.shields.io/github/stars/kosakkun/mm-tester?style=plastic) - ヒューリスティック型コンテストの問題とサンプルコードがまとめられている。
