@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-04-02
+
+- [#5649](https://github.com/KATO-Hiro/AtCoderClans/pull/5649) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のGitHubレポジトリを追加。
+    - [Atcoder Daily Contests](https://github.com/ika9810/Atcoder-Daily-Contests)
+- [#5648](https://github.com/KATO-Hiro/AtCoderClans/pull/5648) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [MC Digital プログラミングコンテスト2023（AtCoder Heuristic Contest 019）参加記](https://kaede2020.hatenablog.com/entry/2023/04/02/190056)
+
 ### 2023-04-01
 
 - [#5640](https://github.com/KATO-Hiro/AtCoderClans/pull/5640) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会に参加する](../../articles/club_activities)」ページに以下のWebサイトを追加。
