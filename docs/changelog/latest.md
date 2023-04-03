@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-04-03
+
+- [#5655](https://github.com/KATO-Hiro/AtCoderClans/pull/5655) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[ococonomy1](https://atcoder.jp/users/ococonomy1)さんの[記事](https://note.com/ococonomy1/n/n9eaf09ee0685)を追加。
+- [#5653](https://github.com/KATO-Hiro/AtCoderClans/pull/5653) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[kaityo_17](https://atcoder.jp/users/kaityo_17)さんの[記事](https://note.com/note_kaityo/n/nb7ef0ea8206f)を追加。
+
 ### 2023-04-02
 
 - [#5649](https://github.com/KATO-Hiro/AtCoderClans/pull/5649) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のGitHubレポジトリを追加。
