@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-04-04
+
+- [#5659](https://github.com/KATO-Hiro/AtCoderClans/pull/5659) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
+    - [AtCoder社長兼トヨタのアルゴリズム担当部長が誕生--トヨタデジタル変革推進室の取り組み](https://japan.cnet.com/article/35201522/)
+
 ### 2023-04-03
 
 - [#5655](https://github.com/KATO-Hiro/AtCoderClans/pull/5655) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
