@@ -13,6 +13,7 @@ title: Rust
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
 |primenumber|[はてなブログ](https://primenumber.hatenadiary.jp/)||
+|rhoo|[Qiita](https://qiita.com/rhoo)||
 
 ## レーティング2000〜2399(黄色)
 
@@ -21,6 +22,5 @@ title: Rust
 |cunitac|[はてなブログ](https://cunitac.hatenablog.com/)||
 |ichyo|[はてなブログ](https://blog.ichyo.jp/)||
 |penguin46|[はてなブログ](https://penguin46.hatenablog.com/)||
-|rhoo|[Qiita](https://qiita.com/rhoo)||
 |ToastUz|[Qiita](https://qiita.com/toast-uz)||
 |xyz600|[はてなブログ](https://xyz600.hatenablog.com/)||

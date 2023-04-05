@@ -8,6 +8,7 @@ title: C&#43;&#43;
 |:--:|:--:|:--|
 |bowwowforeach|[はてなブログ](https://bowwowforeach.hatenablog.com/)||
 |eivour|[Qiita](https://qiita.com/contramundum)||
+|nagiss|[はてなブログ](https://nagiss.hateblo.jp/)||
 |phocom|[Qiita](https://qiita.com/phocom)||
 |square1001|[Qiita](https://qiita.com/square1001)||
 |WA_TLE|[はてなブログ](https://watle.hatenablog.com/)|2019年1月以降、新規の記事を確認できず。|
@@ -27,7 +28,6 @@ title: C&#43;&#43;
 |Jirotech|[はてなブログ](https://shuu0914.hatenablog.com/)||
 |kozima|[はてなブログ](https://lkozima.hatenablog.com/)||
 |mtsd|[はてなブログ](https://mtsd-programming.hatenablog.com/)||
-|nagiss|[はてなブログ](https://nagiss.hateblo.jp/)||
 |noimi|[はてなブログ](https://noimi.hatenablog.com/)||
 |Nyaan|[はてなブログ](https://nyaan.hatenablog.com/)||
 |saharan|[自作ブログ](https://blog.oimo.io/)||
@@ -42,6 +42,7 @@ title: C&#43;&#43;
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
+|birdwatcher|[Qiita](https://qiita.com/birdwatcher)||
 |colun|[自作ブログ](http://www.colun.net/blog)|2016年10月以降、新規の記事を確認できず。|
 |E869120|[はてなブログ](https://e869120.hatenablog.com/)、[Qiita](https://qiita.com/e869120)||
 |ebicochineal|[自作ブログ](http://ebicochineal.blogspot.com/)||
@@ -55,6 +56,7 @@ title: C&#43;&#43;
 |kotatsugame|[はてなブログ](https://kotatsugame.hatenablog.com/)||
 |kusano|[はてなブログ](https://kusano-k.hatenablog.com/)、[Qiita](https://qiita.com/kusano_k)||
 |merom686|[はてなブログ](https://merom686.hatenablog.com/)||
+|m_buyoh|[はてなブログ](https://buyoh.hateblo.jp/)||
 |olphe|[はてなブログ](https://olphe.hatenablog.com/)||
 |Omotchi|[はてなブログ](https://omotchi.hateblo.jp/)||
 |phyllo|[GitHub Pages](https://jetbead.github.io/AtCoderHeuristicContestMemo/)||
@@ -66,6 +68,7 @@ title: C&#43;&#43;
 |satanic0258|[はてなブログ](https://satanic0258.hatenablog.com/)|2018年9月以降、新規の記事を確認できず。|
 |Shibuyap|[Qiita](https://qiita.com/Shibuyap)||
 |shindannin|[はてなブログ](https://shindannin.hatenadiary.com/)||
+|ssaattoo|[はてなブログ](https://ssaattoo.hatenablog.com/)||
 |theory_and_me|[はてなブログ](https://theory-and-me.hatenablog.com/)||
 |Trineutron|[Qiita](https://qiita.com/trineutron)||
 |tsukasa_diary|[Qiita](https://qiita.com/tsukasa__diary)||
