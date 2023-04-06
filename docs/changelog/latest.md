@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-04-06
+
+- [#5668](https://github.com/KATO-Hiro/AtCoderClans/pull/5668) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の記事を追加。
+    - [中高生向け 学校対抗競技プログラミング「AtCoder Junior League2023」を開催](https://prtimes.jp/main/html/rd/p/000000037.000028415.html)
+
 ### 2023-04-05
 
 - [#5664](https://github.com/KATO-Hiro/AtCoderClans/pull/5664) - 「[Articles, Blogs, Books and Videos](../../blogs)」ページのヒューリスティック部門に、最高レーティングが2000以上に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
