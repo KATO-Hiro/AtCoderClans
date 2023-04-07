@@ -176,6 +176,9 @@ title: リンク切れ
 
 ### レーティング400〜799(茶色)
 
+- [【色変記事】社会人がAtCoder茶色になるまで1年半かかりました](https://qiita.com/satouMIMIMI/items/497b22ab2a89a02d5174) - mimimi0414さんが、2023年1月1日に公開。
+    - 確認した日: 2023/04/07
+
 - [Python未経験からAtCoder茶色になったよ！ - Dr. Koala’s Blog](https://mountkoara.hatenablog.com/entry/2021/06/29/Python%E6%9C%AA%E7%B5%8C%E9%A8%93%E3%81%8B%E3%82%89AtCoder%E8%8C%B6%E8%89%B2%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%82%88%EF%BC%81) - [DY811](https://atcoder.jp/users/DY811)さんが、2021年6月26日に達成。
     - 確認した日: 2023/03/04
 
