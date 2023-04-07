@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-04-07
+
+- [#5681](https://github.com/KATO-Hiro/AtCoderClans/pull/5681) - (破壊的な変更) リンク切れと思われる記事を一時的に「[Archives](../../archived)」ページに移動。
+- [#5680](https://github.com/KATO-Hiro/AtCoderClans/pull/5680) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[starpentagon](https://atcoder.jp/users/starpentagon)さんの[記事](https://starpentagon.net/analytics/atcoder_blue/)を追加。
+
 ### 2023-04-06
 
 - [#5668](https://github.com/KATO-Hiro/AtCoderClans/pull/5668) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の記事を追加。
