@@ -6,7 +6,7 @@ title: チャンネル
 
 - [AtCoder Live](https://www.youtube.com/channel/UCtG3StnbhxHxXfE6Q4cPZwQ) - [AtCoder](https://atcoder.jp/)の公式チャンネル。
     - コンテストで出題された問題の解説
-        - [ヒューリスティックコンテスト(AHCラジオ)](https://www.youtube.com/playlist?list=PLLeJZg4opYKY6yCPd7j0b5NS4b7krV2yF) - コンテスト(ヒューリスティック部門)の解説
+        - [ヒューリスティックコンテスト(AHCラジオ)](https://www.youtube.com/playlist?list=PLLeJZg4opYKY6yCPd7j0b5NS4b7krV2yF) - ヒューリスティック部門の解説放送
     - あーだこーだー: 運営チームによる最新情報の生放送
     - [社長のお仕事配信](https://www.youtube.com/watch?v=PiQvXNoV5YQ): [chokudai](https://twitter.com/chokudai)さんの仕事が見られる実験的な生放送
 
