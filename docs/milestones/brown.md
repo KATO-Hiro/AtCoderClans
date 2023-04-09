@@ -39,6 +39,7 @@ title: レーティング400〜799(茶色)
 ## 2021年
 
 - [AtCoder 茶色になりました（色変記事）](https://qiita.com/akiku/items/0b693004e17bfd094c3b) - [akikuno](https://atcoder.jp/users/akikuno)さんが、2021年12月25日に達成。
+- [実例から学ぼう！競プロの最悪な歩み方(本サイト運営者による注:茶色コーダー達成までの経緯を含む)](https://qiita.com/Hirochon/items/6c08c987f1462a76c461) - [Hirochon](https://atcoder.jp/users/Hirochon)さんが、2021年12月21日に公開。
 - [【AtCoder】40過ぎのおっさんが茶色まで２年かかった話](https://note.com/t_aoyama/n/nf216afa9241e) - [chinsan](https://atcoder.jp/users/chinsan)さんが、2021年12月11日に達成。
 - [AtCoderで茶色になりました](https://qiita.com/Aosanori620/items/3803c3ef188d9952c0e7) - [Aosanori](https://atcoder.jp/users/Aosanori)さんが、2021年12月3日に達成。
 - [プログラミング初学者がAtCoder茶色に到達するまでの学習ステップ](https://qiita.com/sanchoBVB/items/ba4c4526280297bc4aed) - [takuto_miura](https://atcoder.jp/users/takuto_miura)さんが、2021年11月25日に公開。
