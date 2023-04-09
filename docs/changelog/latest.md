@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-04-09
+
+- [#5697](https://github.com/KATO-Hiro/AtCoderClans/pull/5697) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[Hirochon](https://atcoder.jp/users/Hirochon)さんの[記事](https://qiita.com/Hirochon/items/6c08c987f1462a76c461)を追加。
+- [#5696](https://github.com/KATO-Hiro/AtCoderClans/pull/5696) - (破壊的な変更) 「[Milestones](../../milestones)」ページで掲載している「レーティングの節目に到達した喜びをつづった記事」を達成日・公開日が新しい順となるように並び替え。
+- [#5693](https://github.com/KATO-Hiro/AtCoderClans/pull/5693) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のリンクを追加。
+    - [ヒューリスティックコンテスト(AHCラジオ)](https://www.youtube.com/playlist?list=PLLeJZg4opYKY6yCPd7j0b5NS4b7krV2yF)
+
 ### 2023-04-08
 
 - [#5687](https://github.com/KATO-Hiro/AtCoderClans/pull/5687) - 「[For Beginners](../../for_beginners)」の「[Q0: アルゴリズム、競技プログラミングとは?](../../for_beginners/question0)」ページと「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
