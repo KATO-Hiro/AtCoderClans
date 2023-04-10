@@ -10,6 +10,10 @@ title: コンテストに参加する
       <img loading = "lazy" src="../../images/userscript/atcoder_google_calender.png" alt="atcoder google calender">
     </div>
 
+## シングルディスプレイの表示を最適化
+
+- [AtCoder Style Optimizer for Single Display](https://greasyfork.org/ja/scripts/463585-atcoder-style-optimizer-for-single-display) - [AtCoder](https://atcoder.jp/)の各ページの横幅を最大まで広げて表示する。
+
 ## 時間を気にせず問題に集中する
 
 - [AtCoderタイマー削除](https://greasyfork.org/ja/scripts/393176-calmatcoder) - コンテストが開催されている間のみ、タイマーを非表示にする。
