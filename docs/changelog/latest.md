@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-04-10
+
+- [#5706](https://github.com/KATO-Hiro/AtCoderClans/pull/5706) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会に参加する](../../articles/club_activities)」ページに以下の記事を追加。
+    - [発案から10日で107名の大宴会を開催した話(メール一括作成GASつき)](https://d-burioden.hateblo.jp/entry/2023/04/03/043035)
+- [#5705](https://github.com/KATO-Hiro/AtCoderClans/pull/5705) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Style Optimizer for Single Display](https://greasyfork.org/ja/scripts/463585-atcoder-style-optimizer-for-single-display)
+- [#5704](https://github.com/KATO-Hiro/AtCoderClans/pull/5704) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下の記事を追加。
+    - [AtCoderで年齢と使用プログラミング言語の相関を調べてみた](https://qiita.com/nabata/items/7c15a47f6a5caecadcc9)
+
 ### 2023-04-09
 
 - [#5697](https://github.com/KATO-Hiro/AtCoderClans/pull/5697) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
