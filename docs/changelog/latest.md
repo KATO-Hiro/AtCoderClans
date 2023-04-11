@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-04-11
+
+- [#5714](https://github.com/KATO-Hiro/AtCoderClans/pull/5714) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[hossie](https://atcoder.jp/users/hossie)さんの[記事](https://qiita.com/hossie/items/19b2c3d9ebe789f05a3a)を追加。
+
 ### 2023-04-10
 
 - [#5706](https://github.com/KATO-Hiro/AtCoderClans/pull/5706) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会に参加する](../../articles/club_activities)」ページに以下の記事を追加。
