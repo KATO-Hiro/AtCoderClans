@@ -4,6 +4,17 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-04-12
+
+- [#5723](https://github.com/KATO-Hiro/AtCoderClans/pull/5723) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
+    - [【入社エントリ】新卒でモノグサに入社しました / 就活の振り返り](https://kona0001.hatenablog.com/entry/2023/04/11/202805)
+- [#5721](https://github.com/KATO-Hiro/AtCoderClans/pull/5721) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[mintia419](https://atcoder.jp/users/mintia419)さんの[記事](https://qiita.com/mado1024/items/873af655c692a3f3eb2b)を追加。
+- [#5720](https://github.com/KATO-Hiro/AtCoderClans/pull/5720) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [すごいTrie](https://qiita.com/minaminao/items/caf6d8147c7e70b6ae63)
+- [#5719](https://github.com/KATO-Hiro/AtCoderClans/pull/5719) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の記事を追加。
+    - [中高生、学校対抗競技プログラミングコンテスト5-12月](https://resemom.jp/article/2023/04/12/71745.html)
+
 ### 2023-04-11
 
 - [#5714](https://github.com/KATO-Hiro/AtCoderClans/pull/5714) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
