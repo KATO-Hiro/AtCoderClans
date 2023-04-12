@@ -140,7 +140,7 @@ title: アルゴリズムを学ぶ
 
 ### Trie木
 
-- [すごいTrie](https://qiita.com/minaminao/items/caf6d8147c7e70b6ae63) - 文字列の集合を木構造として表すことで、高速に検索できるデータ構造Trieを解説した記事。Pythonでの実装例や応用例も紹介されている。
+- [すごいTrie](https://qiita.com/minaminao/items/caf6d8147c7e70b6ae63) - 文字列の集合を高速に検索できるデータ構造Trieを解説した記事。Pythonでの実装例や応用例も紹介されている。
 - [非負整数値を扱うTrieについて](https://kazuma8128.hatenablog.com/entry/2018/05/06/022654) - 非負整数をビット列とみなしてTrie木のような形で保持するデータ構造を紹介した記事。C++による実装例や例題も掲載されている。
 
 ### 平衡二分探索木
