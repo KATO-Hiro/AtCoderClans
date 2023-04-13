@@ -167,6 +167,11 @@ title: 実装テクニックを学ぶ
     !!! warning "注意"
         擬似`Multiset`での二分探索はできない。
 
+- [【競プロ専用】PythonでMultiSetを今度こそ](https://qiita.com/toast-uz/items/a63f2d57ec7321186f12) - 簡単かつ汎用性の高い`Multiset`の実装方法が解説されている記事。
+
+    !!! warning "注意"
+        紹介されているコードを利用するときは、[二分探索をサポートしているBinary Indexed Tree (BIT)](https://qiita.com/toast-uz/items/bf6f142bace86c525532#13-bit)が必要。
+
 - [平衡二分木を実装する](https://qiita.com/Kiri8128/items/6256f8559f0026485d90) - データ構造の一種である「平衡二分木」をPythonで実装する方法を紹介した記事。平衡を保つために、 ピボット値を設定しているのが特徴。
 
 ### 別の言語を利用して高速化
