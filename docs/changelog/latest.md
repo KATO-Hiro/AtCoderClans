@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-04-14
+
+- [#5736](https://github.com/KATO-Hiro/AtCoderClans/pull/5736) - 「[Home](../../)」ページで掲載している「[競プロLINEスタンプ](https://store.line.me/stickershop/product/22113834/en)」の説明文を更新。以下のリンクを追加。
+    - [競プロするねこ そのに](https://store.line.me/stickershop/product/22810021/en)
+
 ### 2023-04-13
 
 - [#5731](https://github.com/KATO-Hiro/AtCoderClans/pull/5731) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
