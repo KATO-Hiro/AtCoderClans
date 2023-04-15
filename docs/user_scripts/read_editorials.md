@@ -56,7 +56,13 @@ title: 解説を読む・テストケースを見る
       <img loading = "lazy" src="../../images/userscript/typical90_direct_editorial_link.png" alt="typical90 direct editorial link">
     </div>
 
-### 解説を非表示に
+### 解説を隠す・非表示に
+
+- [AtCoder Editorial Cover](https://greasyfork.org/en/scripts/463760-atcoder-editorial-cover) - 各問題の「解説」を一度隠した上で、ボタンを押すと徐々に表示される。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_editorial_cover.png" alt="atcoder editorial cover">
+    </div>
 
 - [AtCoder Hide Editorial](https://greasyfork.org/ja/scripts/425127-atcoder-hide-editorial) - 問題の「解説」に関するURLを取り除く。
 
