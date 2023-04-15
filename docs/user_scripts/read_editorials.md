@@ -58,7 +58,7 @@ title: 解説を読む・テストケースを見る
 
 ### 解説を隠す・非表示に
 
-- [AtCoder Editorial Cover](https://greasyfork.org/en/scripts/463760-atcoder-editorial-cover) - 各問題の「解説」を一度隠した上で、ボタンを押すと徐々に表示される。
+- [AtCoder Editorial Cover](https://greasyfork.org/en/scripts/463760-atcoder-editorial-cover) - 問題の「解説」を一度隠した上で、ボタンを押すと徐々に表示される。
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_editorial_cover.png" alt="atcoder editorial cover">
