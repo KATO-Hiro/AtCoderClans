@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-04-15
+
+- [#5746](https://github.com/KATO-Hiro/AtCoderClans/pull/5746) - 「[Home](../../)」ページで掲載している「[競プロLINEスタンプ](https://store.line.me/stickershop/product/22113834/en)」の説明文を更新。以下のリンクを追加。
+    - [競プロしてないねこ](https://store.line.me/stickershop/product/22851268/en)
+- [#5745](https://github.com/KATO-Hiro/AtCoderClans/pull/5745) - 「[Scripts](../../scripts)」の「[解説を読む・テストケースを見る](../../user_scripts/read_editorials)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Editorial Cover](https://greasyfork.org/en/scripts/463760-atcoder-editorial-cover)
+
 ### 2023-04-14
 
 - [#5736](https://github.com/KATO-Hiro/AtCoderClans/pull/5736) - 「[Home](../../)」ページで掲載している「[競プロLINEスタンプ](https://store.line.me/stickershop/product/22113834/en)」の説明文を更新。以下のリンクを追加。
