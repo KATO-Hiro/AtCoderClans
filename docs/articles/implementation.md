@@ -146,6 +146,7 @@ title: 実装テクニックを学ぶ
 - [AtCoderで役立つPythonイディオム集](https://qiita.com/hinamimi/items/ab30fffc4920d9f4bc73) - 標準ライブラリや組み込み関数を利用して、実装が楽になるイディオムが紹介されている記事。
 - [atcoderでよく使う手法python版](https://qiita.com/chun1182/items/ddf2b6cba932b2bb0d4e) - Python利用者に向けたスッキリしたコードを書くための記事。基本的な文法、典型的なアルゴリズム・データ構造だけでなく、ライブラリnumpy・scipyの使い方も掲載されている。
 - [AtCoder緑になるまでに勉強した基本的なアルゴリズムやデータ構造まとめ](https://qiita.com/Takayoshi_Makabe/items/65f20edbd970070419f4) - 筆者が緑コーダー（[AtCoder](https://atcoder.jp/)の分類で、レーティング800〜1199）に到達するまでに学習したアルゴリズムが掲載されている。各種アルゴリズム(bit全探索・二分探索、幅優先探索、深さ優先探索、尺取り法、いもす法、ダイクストラ法、貪欲法、動的計画法、優先度付きキュー、UnionFind木)に対して、Pythonによる実装例もある。
+- [【Python】行列の90度右回転、90度左回転、180度回転【AtCoder】](https://qiita.com/rudorufu1981/items/5341d9603ecb1f9c2e5c) - 行列の90度回転、180度回転をシンプルに実装する方法が紹介されている。
 - [しゃくとり法のDequeを使ったバグりにくい実装](https://qiita.com/keroru/items/6e0a22e8c9bf2a24dc68) - 添え字のミスが起こりがちな尺取り法について、両端キュー(deque)を利用して実装する方法が紹介されている。
 - [多倍長演算の活用①](https://qiita.com/Kiri8128/items/5b38f839185acdf3e707) - 多倍長演算を活用して、処理の簡素化・高速化を図る方法を紹介した記事。整数の各bitをフラグとみなして、bit演算で処理する方法が解説されている。
     - [多倍長演算の活用②](https://qiita.com/Kiri8128/items/a66fd4d6f7f7db7b5554) - 配列の演算を整数に置き換えることでコードの簡素化・処理の高速化を図る方法を紹介した記事。
