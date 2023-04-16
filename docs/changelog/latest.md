@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-04-16
+
+- [#5751](https://github.com/KATO-Hiro/AtCoderClans/pull/5751) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
+    - [【Python】行列の90度右回転、90度左回転、180度回転【AtCoder】](https://qiita.com/rudorufu1981/items/5341d9603ecb1f9c2e5c)
+
 ### 2023-04-15
 
 - [#5746](https://github.com/KATO-Hiro/AtCoderClans/pull/5746) - 「[Home](../../)」ページで掲載している「[競プロLINEスタンプ](https://store.line.me/stickershop/product/22113834/en)」の説明文を更新。以下のリンクを追加。
