@@ -150,6 +150,7 @@ title: アルゴリズムを学ぶ
 ### Mo's algorithm
 
 - [Mo's algorithm](https://ei1333.hateblo.jp/entry/2017/09/11/211011) - アルゴリズムの概説と実装例および類題が紹介されている記事。
+- [Mo's algorithm とその上位互換の話](https://snuke.hatenablog.com/entry/2016/07/01/000000) - より汎用性の高いアルゴリズム(`Rollback`機能の追加)が紹介されている記事。
 
 ### 正式名称と略語
 
