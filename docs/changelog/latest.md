@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-04-17
+
+- [#5755](https://github.com/KATO-Hiro/AtCoderClans/pull/5755)、[#5757](https://github.com/KATO-Hiro/AtCoderClans/pull/5757)、[#5758](https://github.com/KATO-Hiro/AtCoderClans/pull/5758) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [Mo's algorithm](https://ei1333.hateblo.jp/entry/2017/09/11/211011)
+    - [Mo's algorithm とその上位互換の話](https://snuke.hatenablog.com/entry/2016/07/01/000000)
+    - [定数倍が最適な Mo's Algorithm](https://noshi91.hatenablog.com/entry/2023/04/13/224811)
+
 ### 2023-04-16
 
 - [#5751](https://github.com/KATO-Hiro/AtCoderClans/pull/5751) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
