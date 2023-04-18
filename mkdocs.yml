@@ -252,6 +252,7 @@ nav:
   - Change Log:
     - changelog/latest.md
     - 2023:
+      - February, 2023: changelog/2023_02.md
       - January, 2023: changelog/2023_01.md
     - 2022:
       - December, 2022: changelog/2022_12.md
