@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-04-19
+
+- [#5767](https://github.com/KATO-Hiro/AtCoderClans/pull/5767) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Crouch Start](https://greasyfork.org/ja/scripts/463845-atcoder-crouch-start)
+- [#5766](https://github.com/KATO-Hiro/AtCoderClans/pull/5766) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [高速ゼータ変換について](https://qiita.com/Euglenese/items/260f9ddf513f772d7e42)
+
 ### 2023-04-18
 
 - [#5763](https://github.com/KATO-Hiro/AtCoderClans/pull/5763) - (破壊的な変更) 「[Change Log](../latest)」ページの2023年2月分を月別のアーカイブに移動。
