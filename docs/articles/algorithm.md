@@ -147,6 +147,10 @@ title: アルゴリズムを学ぶ
 
 - [k番目の値を高速に取り出せるデータ構造のまとめ - BIT上二分探索や平衡二分探索木など](https://qiita.com/drken/items/1b7e6e459c24a83bb7fd) - k番目の値を高速に取り出すことができるデータ構造をまとめた記事。
 
+### 高速ゼータ変換
+
+- [高速ゼータ変換について](https://qiita.com/Euglenese/items/260f9ddf513f772d7e42) - 高速ゼータ変換について解説した記事。
+
 ### Mo's algorithm
 
 - [Mo's algorithm](https://ei1333.hateblo.jp/entry/2017/09/11/211011) - アルゴリズムの概説と実装例および類題が紹介されている記事。
