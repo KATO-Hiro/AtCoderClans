@@ -41,6 +41,19 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/atcoder_problem_navigator.png" alt="atcoder problem navigator">
     </div>
 
+### 最初の問題(特定のコンテスト)
+
+- [AtCoder Crouch Start](https://greasyfork.org/ja/scripts/463845-atcoder-crouch-start) - 開催前のコンテストの「トップ」ページに、最初の問題(A問題)に移動できるタブを追加する。
+
+    !!! warning "注意"
+        - コンテスト開始直前の過度なリロードは避ける。
+
+        - リンク先のページが、必ずしも該当コンテストの最初の問題であるとは保証されない。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_crouch_start.png" alt="atcoder crouch start">
+    </div>
+
 ### 難易度順
 
 - [atcoder-typical90-sort](https://greasyfork.org/ja/scripts/428698-atcoder-typical90-sort) - 「[競プロ典型90問](https://atcoder.jp/contests/typical90)」の問題を、難易度が低い順に並び替える。
