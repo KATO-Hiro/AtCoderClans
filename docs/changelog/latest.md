@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-04-20
+
+- [#5773](https://github.com/KATO-Hiro/AtCoderClans/pull/5773) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
+    - [【競プロ】Python使いがRustを「完全に理解する」までのTips](https://qiita.com/toast-uz/items/0c2a1a30cf2c79d76a3f)
+- [#5772](https://github.com/KATO-Hiro/AtCoderClans/pull/5772) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[BinomialSheep](https://atcoder.jp/users/BinomialSheep)さんの[記事](https://qiita.com/BinomialSheep/items/e7a717f34e6991affa1c)を追加。
+
 ### 2023-04-19
 
 - [#5767](https://github.com/KATO-Hiro/AtCoderClans/pull/5767) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
