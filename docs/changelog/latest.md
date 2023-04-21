@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-04-21
+
+- [#5778](https://github.com/KATO-Hiro/AtCoderClans/pull/5778) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoderScoreHistogram](https://greasyfork.org/ja/scripts/462131-atcoderscorehistogram)
+- [#5777](https://github.com/KATO-Hiro/AtCoderClans/pull/5777) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Copy Contest ID](https://greasyfork.org/ja/scripts/463842-atcoder-copy-contest-id)
+
 ### 2023-04-20
 
 - [#5773](https://github.com/KATO-Hiro/AtCoderClans/pull/5773) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
