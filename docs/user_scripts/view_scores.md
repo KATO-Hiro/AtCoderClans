@@ -36,6 +36,12 @@ title: コンテストの成績や関連する統計情報を見る
       <img loading = "lazy" src="../../images/userscript/atcoder_predictor.png" alt="ac predictor">
     </div>
 
+- [AtCoderScoreHistogram](https://greasyfork.org/ja/scripts/462131-atcoderscorehistogram) - 「順位表」ページに、得点分布を追加する。ユーザ名を入力すると、該当ユーザの得点も表示される。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_score_histogram.png" alt="atcoder score histogram">
+    </div>
+
 ## 問題に関する統計
 
 ### 難易度(推定)
