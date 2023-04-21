@@ -26,6 +26,9 @@
     },
     {
       "pattern": "^https://speakerdeck.com/"
+    },
+    {
+      "pattern": "^https://codeforces.com/"
     }
   ],
   "httpHeaders": [
