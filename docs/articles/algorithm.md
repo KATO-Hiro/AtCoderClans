@@ -147,6 +147,10 @@ title: アルゴリズムを学ぶ
 
 - [k番目の値を高速に取り出せるデータ構造のまとめ - BIT上二分探索や平衡二分探索木など](https://qiita.com/drken/items/1b7e6e459c24a83bb7fd) - k番目の値を高速に取り出すことができるデータ構造をまとめた記事。
 
+### Heavy-Light Decomposition
+
+- [絶対に初心者でもわかるHL分解/Heavy-Light-Decomposition](https://qiita.com/ageprocpp/items/8dfe768218da83314989) - 木に対するクエリ処理を効率的に行うためのデータ構造Heavy-Light Decompositionを解説した記事。
+
 ### 高速ゼータ変換
 
 - [高速ゼータ変換について](https://qiita.com/Euglenese/items/260f9ddf513f772d7e42) - 高速ゼータ変換について解説した記事。
