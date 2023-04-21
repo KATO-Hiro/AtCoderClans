@@ -88,6 +88,12 @@ title: 問題を解く
 
 ### コンテストIDをコピー
 
+- [AtCoder Copy Contest ID](https://greasyfork.org/ja/scripts/463842-atcoder-copy-contest-id) - ナビゲーションバーに、コンテストIDをコピーするためのボタンを追加する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_copy_contest_id.png" alt="atcoder copy contest id">
+    </div>
+
 - [AtCoderDevotionScript](https://greasyfork.org/en/scripts/415819-atcoderdevotionscript) - 「問題」ページで、Ctrl + Qを押すと、[atcoder-cli](https://github.com/Tatamo/atcoder-cli)の利用に必要なコンテストIDをクリップボードに書き込むことができる。使い方の詳細は、作者の[紹介記事](https://iiiimmmmo.hatenablog.com/entry/2020/11/15/170008)を参照されたい。
 
     !!! warning "注意"
