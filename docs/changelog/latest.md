@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-04-22
+
+- [#5787](https://github.com/KATO-Hiro/AtCoderClans/pull/5787) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [Python言語による実務で使える100+の最適化問題](https://scmopt.github.io/opt100/index.html)
+- [#5782](https://github.com/KATO-Hiro/AtCoderClans/pull/5782)、[#5786](https://github.com/KATO-Hiro/AtCoderClans/pull/5786)、[#5789](https://github.com/KATO-Hiro/AtCoderClans/pull/5789) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [AtCoder灰・茶・緑色の方必見！二分探索を絶対にバグらせないで書く方法](https://zenn.dev/forcia_tech/articles/20191223_advent_calendar)
+    - [Segment Treeことはじめ【前編】](https://qiita.com/ageprocpp/items/f22040a57ad25d04d199)
+    - [絶対に初心者でもわかるHL分解/Heavy-Light-Decomposition](https://qiita.com/ageprocpp/items/8dfe768218da83314989)
+
 ### 2023-04-21
 
 - [#5778](https://github.com/KATO-Hiro/AtCoderClans/pull/5778) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
