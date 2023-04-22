@@ -127,6 +127,7 @@ title: ヒューリスティック問題を解く
 ### 数理最適化
 
 - [ヒューリスティック最適化資料集](https://heuristic-ja.growi.cloud/) - ヒューリスティックコンテストに関するリンク集と過去問がまとめられている資料集。
+- [Python言語による実務で使える100+の最適化問題](https://scmopt.github.io/opt100/index.html) - 典型的な最適化問題とそれらの定式化・解法が網羅されている。サンプルコードはPythonで実装されている。
 - [局所探索法とメタヒューリスティクス](https://speakerdeck.com/umepon/local-search-and-metaheuristics-for-combinatorial-optimization-problems) - 組合せ最適化問題のうち計算困難な場合に対して、局所探索法やメタヒューリスティックスによるアプローチ方法を紹介しているスライド。
 - [しっかり学ぶ数理最適化 ヒューリスティック編](https://qiita.com/hari64/items/e66fd2a281ab76a58af3) - 「[しっかり学ぶ数理最適化モデルからアルゴリズムまで](https://www.amazon.co.jp/%E3%81%97%E3%81%A3%E3%81%8B%E3%82%8A%E5%AD%A6%E3%81%B6%E6%95%B0%E7%90%86%E6%9C%80%E9%81%A9%E5%8C%96-%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%BE%E3%81%A7-KS%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E5%B0%82%E9%96%80%E6%9B%B8-%E6%A2%85%E8%B0%B7-%E4%BF%8A%E6%B2%BB/dp/4065212707)」の内容をベースに、視覚化に焦点が当てられている記事。
 
