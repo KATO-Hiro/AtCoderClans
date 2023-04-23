@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-04-23
+
+- [#5793](https://github.com/KATO-Hiro/AtCoderClans/pull/5793) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[Unicorn1](https://atcoder.jp/users/Unicorn1)さんの[記事](https://note.com/unicorn__unicorn/n/nd9c27a3ba398)を追加。
+
 ### 2023-04-22
 
 - [#5787](https://github.com/KATO-Hiro/AtCoderClans/pull/5787) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
