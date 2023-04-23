@@ -4,6 +4,7 @@ title: レーティング800〜1199(緑色)
 
 ## 2023年
 
+- [Atcoderで緑色コーダーになりました](https://note.com/unicorn__unicorn/n/nd9c27a3ba398) - [Unicorn1](https://atcoder.jp/users/Unicorn1)さんが、2023年4月22日に公開。
 - [ABC297で入緑しました【色変記事】](https://qiita.com/mado1024/items/873af655c692a3f3eb2b) - [mintia419](https://atcoder.jp/users/mintia419)さんが、2023年4月9日に達成。
 - [私まっちゃラテは、"抹茶ラテ"に、なりました (入緑・後編) - matcharate_12’s 競プロ日記](https://matcharate-12.hatenablog.com/entry/2023/03/14/132239) - [matcharate12](https://atcoder.jp/users/matcharate12)さんが、2023年3月11日に達成。
 - [【色変記事】プログラミング初心者が入緑しました！](https://qiita.com/enjyu_it/items/46d5e7bc2a34c8f03ba7) - [enjyu](https://atcoder.jp/users/enjyu)さんが、2023年3月11日に達成。
