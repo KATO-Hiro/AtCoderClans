@@ -103,13 +103,15 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/atcoder_devotion_script.png" alt="atcoder devotion script">
     </div>
 
-### 制約条件を確認
+### 制約条件を確認・非表示に
 
 - [制約をチェックする](https://greasyfork.org/ja/scripts/434715-check-constraints) - 「問題」ページの制約に、確認用のチェックボックスを追加する。
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/check_constraints.png" alt="check constraints">
     </div>
+
+- [atcoder_constraints_eraser](https://greasyfork.org/ja/scripts/461798-atcoder-constraints-eraser) - 「問題」ページの制約を非表示にする。
 
 ### 入出力例を集約
 
