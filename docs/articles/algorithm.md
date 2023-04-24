@@ -102,7 +102,7 @@ title: アルゴリズムを学ぶ
 
 ### 確率DP
 
-- [確率DPを極めよう 確率と期待値の問題解説](https://compro.tsutaj.com//archive/180220_probability_dp.pdf) - 確率・期待値を求めるときに、動的計画法を用いる典型的な問題がまとめられている。
+- [確率DPを極めよう 確率と期待値の問題解説](https://compro.tsutaj.com//archive/180220_probability_dp.pdf) - 確率・期待値を求めるときに、動的計画法を用いる典型的な問題とそれらの解説・コードの一例がまとめられている。
 
 ### DPの高速化
 
