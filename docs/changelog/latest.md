@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-04-24
+
+- [#5797](https://github.com/KATO-Hiro/AtCoderClans/pull/5797) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の資料を追加。
+    - [確率DPを極めよう 確率と期待値の問題解説](https://compro.tsutaj.com//archive/180220_probability_dp.pdf)
+- [#5796](https://github.com/KATO-Hiro/AtCoderClans/pull/5796) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
+    - [atcoder_constraints_eraser](https://greasyfork.org/ja/scripts/461798-atcoder-constraints-eraser)
+
 ### 2023-04-23
 
 - [#5793](https://github.com/KATO-Hiro/AtCoderClans/pull/5793) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
