@@ -76,6 +76,12 @@ title: ソースコードの提出・確認を簡単に
       <img loading = "lazy" src="../../images/userscript/atcoder_duplicate_checker.png" alt="atcoder duplicate checker">
     </div>
 
+- [AtCoderPenaltyRateCheckEaser](https://greasyfork.org/ja/scripts/459897-atcoderpenaltyratecheckeaser) - 「問題」ページで、ペナルティ率(= ペナルティなしの正解者数 / 提出者数)を表示する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_penalty_rate_check_easer.png" alt="atcoder penalty rate check easer">
+    </div>
+
 - [mod noticer](https://greasyfork.org/ja/scripts/429808-mod-noticer) - 「問題」ページで、剰余(mod)を取る必要がある問題に対して、提出ボタンに確認メッセージを追加する。
 
     <div align="center">
