@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-04-25
+
+- [#5804](https://github.com/KATO-Hiro/AtCoderClans/pull/5804) - 「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../user_scripts/submit_codes)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoderPenaltyRateCheckEaser](https://greasyfork.org/ja/scripts/459897-atcoderpenaltyratecheckeaser)
+
 ### 2023-04-24
 
 - [#5797](https://github.com/KATO-Hiro/AtCoderClans/pull/5797) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の資料を追加。
