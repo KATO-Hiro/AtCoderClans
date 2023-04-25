@@ -29,6 +29,9 @@
     },
     {
       "pattern": "^https://codeforces.com/"
+    },
+    {
+      "pattern": "^https://atcoder.jp/"
     }
   ],
   "httpHeaders": [
