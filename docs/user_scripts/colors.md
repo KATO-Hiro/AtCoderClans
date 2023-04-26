@@ -32,6 +32,14 @@ Webページの背景色の変更や文字・提出コード・問題の正誤�
 
 ## 文字を強調する
 
+### 全体
+
+- [AtCoder Better Font](https://greasyfork.org/ja/scripts/464188-atcoder-better-font) - サイト全体の文章を識別しやすいフォントに変更する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_better_font.png" alt="atcoder better font">
+    </div>
+
 ### コンテストの日時
 
 - [HighlightAtCoderContestNot2100](https://greasyfork.org/en/scripts/426911-highlightatcodercontestnot2100) - レーティングの変動があるコンテストのうち、開始時間が21時以外の場合に赤字で強調する。
