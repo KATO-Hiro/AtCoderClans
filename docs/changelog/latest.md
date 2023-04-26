@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-04-26
+
+- [#5808](https://github.com/KATO-Hiro/AtCoderClans/pull/5808) - 「[Scripts](../../scripts)」の「[Webページに色付けする](../../user_scripts/colors)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Better Font](https://greasyfork.org/ja/scripts/464188-atcoder-better-font)
+
 ### 2023-04-25
 
 - [#5804](https://github.com/KATO-Hiro/AtCoderClans/pull/5804) - 「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../user_scripts/submit_codes)」ページに、以下のユーザスクリプトを追加。
