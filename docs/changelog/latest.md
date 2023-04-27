@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-04-27
+
+- [#5816](https://github.com/KATO-Hiro/AtCoderClans/pull/5816) - 「[Related Contest Sites](../../related_contest_sites)」ページに掲載している「[アルゴ式](https://algo-method.com/)」の説明文に、以下の記事を追加。
+    - [エンジニア候補者の技術力を最短15分で可視化する「アルゴ式技術力ヘルスチェック」の提供を開始](https://prtimes.jp/main/html/rd/p/000000005.000105963.html)
+
 ### 2023-04-26
 
 - [#5808](https://github.com/KATO-Hiro/AtCoderClans/pull/5808) - 「[Scripts](../../scripts)」の「[Webページに色付けする](../../user_scripts/colors)」ページに、以下のユーザスクリプトを追加。
