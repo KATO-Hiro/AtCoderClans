@@ -6,7 +6,7 @@ title: Change Log
 
 ### 2023-04-28
 
-- [#5819](https://github.com/KATO-Hiro/AtCoderClans/pull/5819) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の資料を追加。
+- [#5819](https://github.com/KATO-Hiro/AtCoderClans/pull/5819) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
     - [文字列の頭良い感じの線形アルゴリズムたち](https://snuke.hatenablog.com/entry/2014/12/01/235807)
 
 ### 2023-04-27
