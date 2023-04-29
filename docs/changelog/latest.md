@@ -4,6 +4,16 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-04-29
+
+- [#5827](https://github.com/KATO-Hiro/AtCoderClans/pull/5827) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
+    - [Python/C API を利用して高速な ModInt をつくってみた](https://qiita.com/AkariLuminous/items/1891e634add174fddfce)
+- [#5825](https://github.com/KATO-Hiro/AtCoderClans/pull/5825) - 「[For Beginners](../../for_beginners)」の「[Q3: コンテストは、いつ開催されていますか?](../../for_beginners/question3)」ページに、以下の記事を追加。
+    - [AtCoder - コンテストモードについて](https://atcoder.jp/posts/1021)
+- [#5823](https://github.com/KATO-Hiro/AtCoderClans/pull/5823) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
+    - [【第4回】競技プログラミングはITエンジニアをどう鍛えるか](https://www.geekly.co.jp/column/cat-geeklycolumn/specialtalk4_ikyu_atcoder/)
+
+
 ### 2023-04-28
 
 - [#5819](https://github.com/KATO-Hiro/AtCoderClans/pull/5819) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
