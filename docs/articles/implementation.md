@@ -180,6 +180,7 @@ title: 実装テクニックを学ぶ
 - [[競プロ] 割と真面目にPythonからC++のsetを使えるようにしたのでみんな使ってみてほしい](https://nagiss.hateblo.jp/entry/2020/09/08/203701) - データ構造の一つである平行二分木が必要になったときに、PythonからC++のstd::setを利用する方法を紹介した記事。Pythonのラッパークラスについて、各メソッドの仕様と計算量が丁寧に解説されている。
 - [AtCoderでCythonの力を開放する魔術詠唱](https://aotamasaki.hatenablog.com/entry/2020/09/09/Cython_in_AtCoder) - Cythonを利用して、コードの実行速度を高速化する方法を解説した記事。
 - [AtCoder Python 謎テク集](https://qiita.com/NaHCO3/items/db71f44d6049c6e9e598) - CPythonやPyPyを活用して、コードを高速化する方法を紹介した記事。
+- [Python/C API を利用して高速な ModInt をつくってみた](https://qiita.com/AkariLuminous/items/1891e634add174fddfce) - Python / C APIを利用して、高速なModIntの実装方法が紹介されている記事。
 
 ### 最短コードを書く・読む
 
