@@ -16,6 +16,10 @@ A3: 基本的には、土曜日もしくは日曜日の21時から1時間40分�
 
     - 開催日時は急きょ変更されることもあるため、最新の情報をTwitterアカウントやWebサービスで確認することを推奨いたします。
 
+## コンテストのルールなどを確認
+
+- [AtCoder - コンテストモードについて](https://atcoder.jp/posts/1021) - コンテスト開催中の高負荷対策の一環として、一部のページへのアクセス制限をお知らせした記事です。
+
 ## コンテストの開催日時を確認
 
 - Twitterで[公式アカウント](https://twitter.com/atcoder)や[AtCoder](https://atcoder.jp/)社長の[chokudai](https://twitter.com/chokudai)さんをフォローすると、最新の情報が得られます。
