@@ -35,6 +35,7 @@ title: Python
 |penpenpen|[Qiita](https://qiita.com/penpenpen)|高難易度の問題を中心にC++で実装されている回答もある。|
 |qumazaki|[はてなブログ](https://qumazaki.hatenablog.com/)||
 |shakayami|[はてなブログ](https://shakayami.hatenablog.com/)||
+|Shirotsume|[はてなブログ](https://ladywingclover.hatenablog.com/)、[Qiita](https://qiita.com/Shirotsume)||
 |shotoyoo|[Qiita](https://qiita.com/shotoyoo)||
 |simamumu|[はてなブログ](https://simamumu.hatenablog.com/)|2020年2月以降、新規の記事を確認できず。|
 |soraie|[Qiita](https://qiita.com/soraie)|高難易度の問題を中心にC++で実装されている回答もある。|
