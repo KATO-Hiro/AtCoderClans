@@ -33,6 +33,7 @@ title: レーティング1200〜1599(水色)
 
 ## 2021年
 
+- [GoでAtCoderをやる話(本サイト運営者による注:水色コーダー達成に関する内容を含む)](https://qiita.com/go_sagawa/items/bc83c9c781be29b5bd88) - [GoSagawa](https://atcoder.jp/users/GoSagawa)さんが、2021年12月11日に達成。
 - [AtCoderで水色コーダーになりました【競技プログラミング】](https://qreat.tech/1886/) - [sdmkun](https://atcoder.jp/users/sdmkun)さんが、2021年12月5日に達成。
 - [Atcoderで水色になるまでにやったこと](https://note.com/ryosuke_nu/n/n50c163723836) - [ryosuke_ao](https://atcoder.jp/users/ryosuke_ao)さんが、2021年12月2日に公開。
 - [AtCoderで水色に到達するまでの感想 - FFRIエンジニアブログ](https://engineers.ffri.jp/entry/2021/11/25/145404) - [tatsuya0619](https://atcoder.jp/users/tatsuya0619)さんが、2021年11月25日に公開。
