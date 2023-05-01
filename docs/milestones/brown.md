@@ -4,6 +4,7 @@ title: レーティング400〜799(茶色)
 
 ## 2023年
 
+- [[色変 Atcoder 入茶しました!] 必要な知識、後悔とこれから 2023/4/29](https://qiita.com/jefuo/items/a00947c768db9b233169) - [jefuo1st](https://atcoder.jp/users/jefuo1st)さんが、2023年4月29日に達成。
 - [中3がatcoder茶色になりました](https://note.com/note_kaityo/n/nb7ef0ea8206f) - [kaityo_17](https://atcoder.jp/users/kaityo_17)さんが、2023年4月1日に達成。
 - [私まっちゃラテ、"抹茶ラテ"に、なりました。(入茶・前編) - matcharate_12’s 競プロ日記](https://matcharate-12.hatenablog.com/entry/2023/03/13/104809) - [matcharate12](https://atcoder.jp/users/matcharate12)さんが、2023年3月13日に公開。
 - [34歳おじさんがAtCoder茶色になりました。](https://qiita.com/purupurupu/items/ea48b0e4e8b3a78eb524) - [purupurupu](https://atcoder.jp/users/purupurupu)さんが、2023年3月4日に達成。
