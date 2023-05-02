@@ -4,6 +4,7 @@ title: レーティング2000〜2399(黄色)
 
 ## 2023年
 
+- [AtCoder 黄色になりました - Shirotsume の日記](https://ladywingclover.hatenablog.com/entry/2023/05/02/130948) - [Shirotsume](https://atcoder.jp/users/Shirotsume)さんが、2023年4月29日に達成。
 - [AtCoder黄色になりました - memo46](https://bakamono1357.hatenablog.com/entry/2023/03/23/004604) - [siro53](https://atcoder.jp/users/siro53)さんが、2023年3月19日に達成。
 - [AtCoder黄色になりました](https://note.com/yfuka86/n/n2d8da12389d7) - [yfuka86](https://atcoder.jp/users/yfuka86)さんが、2023年2月4日に達成。
 - [AtCoder黄色になりました！！ - 橙になりたいaquarium](https://shinchankosen.hatenadiary.jp/entry/2023/01/31/204517) - [shinchan](https://atcoder.jp/users/shinchan)さんが、2023年1月14日に達成。
