@@ -50,7 +50,7 @@ title: 問題を解く
 ## 復習の効果をより高める
 
 - [AtCoder Companions](https://atcoder-companions.kakira.dev/) - 指定された提出(WA・RE・TLE・MLE)に基づいて、類似した誤答と最終的に正解した提出との差分を見やすく表示する。
-    - [AtCoder Companions Quick Jump](https://greasyfork.org/en/scripts/463653-atcoder-companions-quick-jump) - [AtCoder](https://atcoder.jp/)の「提出結果」ページから、指定した提出に類似したコードを探せるユーザスクリプト。
+    - [AtCoder Companions Quick Jump](https://greasyfork.org/ja/scripts/463653-atcoder-companions-quick-jump) - [AtCoder](https://atcoder.jp/)の「提出結果」ページから、指定した提出に類似したコードを探せるユーザスクリプト。
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_companions.png" alt="atcoder companions">
