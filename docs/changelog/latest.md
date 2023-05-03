@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-05-03
+
+- [#5848](https://github.com/KATO-Hiro/AtCoderClans/pull/5848) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページと「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../user_scripts/submit_codes)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Companions Quick Jump](https://greasyfork.org/ja/scripts/463653-atcoder-companions-quick-jump)
+
 ### 2023-05-02
 
 - [#5843](https://github.com/KATO-Hiro/AtCoderClans/pull/5843) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
