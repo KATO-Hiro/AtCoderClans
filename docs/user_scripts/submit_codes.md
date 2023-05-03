@@ -210,3 +210,11 @@ title: ソースコードの提出・確認を簡単に
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/add_shortest_tab.jpeg" alt="add shortest tab">
     </div>
+
+### 外部サービスの利用
+
+- [AtCoder Companions Quick Jump](https://greasyfork.org/en/scripts/463653-atcoder-companions-quick-jump) - 「提出結果」ページで指定した提出から、Webサービス[AtCoder Companions](https://atcoder-companions.kakira.dev/)の類似コードを探せる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_companions_quick_jump.png" alt="atcoder companions quick jump">
+    </div>
