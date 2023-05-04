@@ -31,3 +31,7 @@ title: コンテストに関する統計情報を見る
 ### 国別の最大値
 
 - [国ごとのAtCoderレート最大の人の色を世界地図に塗りました](https://twitter.com/gojira_kyopro/status/1368246952773644291) - 全世界のユーザを対象として、各国のレーティングの最高値に対応した色が世界地図に塗られている。2021年3月7日時点。
+
+## レーティングと練習量との関係を見る
+
+- [AtCoder Problems 精進三兄弟とレートとの関係図](https://twitter.com/ToastUz/status/1644570880968916993) - レーティングと[AtCoder Problems](https://kenkoooo.com/atcoder/)の統計情報(Accepted、Rated Point Sum、Top player-Equivalent Effort)との関係が分析されている。2023年4月8日時点。
