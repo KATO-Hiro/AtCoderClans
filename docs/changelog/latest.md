@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-05-04
+
+- [#5853](https://github.com/KATO-Hiro/AtCoderClans/pull/5853) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[MichaelChick](https://atcoder.jp/users/MichaelChick)さんの[記事](https://magicode.io/MichaelChick/articles/8a431b85781e4f839116ca59521acc0d)を追加。
+- [#5852](https://github.com/KATO-Hiro/AtCoderClans/pull/5852)、[#5854](https://github.com/KATO-Hiro/AtCoderClans/pull/5854) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートと集計用のスクリプトを追加。
+    - [AtCoder Problems 精進三兄弟とレートとの関係図](https://twitter.com/ToastUz/status/1644570880968916993)
+    - [AtCoder Stats Scripts](https://github.com/toast-uz/atcoder_stats) ![GitHub Repo stars](https://img.shields.io/github/stars/toast-uz/atcoder_stats?style=plastic)
+
 ### 2023-05-03
 
 - [#5848](https://github.com/KATO-Hiro/AtCoderClans/pull/5848) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページと「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../user_scripts/submit_codes)」ページに、以下のユーザスクリプトを追加。
