@@ -8,6 +8,7 @@ title: レーティング1600〜1999(青色)
 - [AtCoder青になりました](https://note.com/ococonomy1/n/n9eaf09ee0685) - [ococonomy1](https://atcoder.jp/users/ococonomy1)さんが、2023年4月1日に達成。
 - [40歳を前にAtCoderで青コーダになった話 - 有意に無意味な話](https://starpentagon.net/analytics/atcoder_blue/) - [starpentagon](https://atcoder.jp/users/starpentagon)さんが、2023年3月4日に達成。
 - [【AtCoder】中卒の主婦が青コーダーになったおはなし【競技プログラミング】](https://qiita.com/mayocorn/items/4edff486428240864808) - [mayocorn](https://atcoder.jp/users/mayocorn)さんが、2023年2月4日に達成。
+- [入青したので ABC と色の話を書きたい](https://magicode.io/MichaelChick/articles/8a431b85781e4f839116ca59521acc0d) - [MichaelChick](https://atcoder.jp/users/MichaelChick)さんが、2023年1月21日に達成。
 - [AtCoderで青色になりました - seekworserの日記](https://seekworser.hatenablog.com/entry/2023/02/06/005815) - [seekworser](https://atcoder.jp/users/seekworser)さんが、2023年1月21日に達成。
 
 ## 2022年
