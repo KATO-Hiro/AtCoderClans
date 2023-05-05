@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-05-05
+
+- [#5860](https://github.com/KATO-Hiro/AtCoderClans/pull/5860) - 「[Related Contest Sites](../../related_contest_sites)」の「[セキュリティ系コンテスト](../../related_contest_sites/security)」ページに、以下のアドベントカレンダーを追加。
+    - [CTF Advent Calendar 2022](https://adventar.org/calendars/7550)
+- [#5858](https://github.com/KATO-Hiro/AtCoderClans/pull/5858) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績に関連するサービス](../../web_app/services_using_scores)」ページと「[Recommendation](../../recommendation)」の「[コンテスト後の情報収集・発信](../../recommendation/collect_info)」ページに掲載しているWebサービス「[AtCoder TL](https://github.com/shirakia/atcoder_tl)」の説明文を更新。
+- [#5857](https://github.com/KATO-Hiro/AtCoderClans/pull/5857) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の内容を追加。
+    - [AHC（の問題設定を現実に実行する場合の）難易度表](https://docs.google.com/spreadsheets/d/1KS3UXpcU5lyQTpPbFw10HsX4xas99ZWMTpQtswWsG84/edit#gid=0)
+
 ### 2023-05-04
 
 - [#5853](https://github.com/KATO-Hiro/AtCoderClans/pull/5853) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
