@@ -101,6 +101,10 @@ title: ヒューリスティック問題を解く
 - [競プロ〜ヒューリスティック/マラソン事始め〜](https://qiita.com/tanaka-a/items/3c2a1bca63759ec71e7f) - ヒューリスティック型コンテストの問題を「改善重視型」「初期解重視型」「パラメータ推定型」に分類し、それぞれのアプローチ方法や高スコアを目指すためのテクニックが紹介されている記事。
 - [AHC001（マラソンマッチ）の参加者の使用言語の分布を調べてみた](https://wakabame.hatenablog.com/entry/2021/03/20/004612) - [AtCoder Heuristic Contest 001](https://atcoder.jp/contests/ahc001)で一定の得点以上の提出コードを対象として、利用者の多い言語、使用言語と得点・順位との関係を調査した記事。ヒューリスティック型のコンテストにおいて、使用言語を選択する際に参考になると思われる。
 - [Atcoder Heuristic Contestの順位とアルゴリズムのレートの関係性を眺める](https://rmizutaa.hatenablog.com/entry/2021/12/16/215055) - Ratedのヒューリスティックコンテスト(短期・長期)とアルゴリズムのレーティングとの関係性を調査・分析した記事。
+- [AHC（の問題設定を現実に実行する場合の）難易度表](https://docs.google.com/spreadsheets/d/1KS3UXpcU5lyQTpPbFw10HsX4xas99ZWMTpQtswWsG84/edit#gid=0) - ヒューリスティック型コンテストの問題設定を人類が実現しようする場合の難易度表。
+
+    !!! warning "注意"
+        問題そのものの難易度ではない。
 
 ### 便利ツールの作成・活用
 
