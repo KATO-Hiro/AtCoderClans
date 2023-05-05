@@ -85,6 +85,9 @@ title: コンテストの成績に関連するサービス
 
 - [AtCoder TL](https://github.com/shirakia/atcoder_tl) ![GitHub Repo stars](https://img.shields.io/github/stars/shirakia/atcoder_tl?style=plastic) - レーティング帯ごとのTwitterタイムラインを生成する。全てのタイムラインをまとめた[Web版](https://atcoder-tl.com/)も公開されている。
 
+    !!! info "参考"
+        Twitter APIの有料化に伴い更新停止。同サービスも終了予定([出典](https://twitter.com/atcoder_tl/status/1652689228537683968))。
+
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_tl.png" alt="atcoder tl">
     </div>
