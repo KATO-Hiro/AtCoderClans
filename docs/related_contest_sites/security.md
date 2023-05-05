@@ -26,7 +26,10 @@ title: セキュリティ系コンテスト
 
 #### Advent Calendar
 
-- [CTF Advent Calendar 2021](https://adventar.org/calendars/6914) - CTFに関する話題を扱ったアドベントカレンダー。
+CTFに関する話題を扱ったアドベントカレンダー。
+
+- [CTF Advent Calendar 2022](https://adventar.org/calendars/7550)
+- [CTF Advent Calendar 2021](https://adventar.org/calendars/6914)
 
 ### ライブラリ
 
