@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-05-06
+
+- [#5869](https://github.com/KATO-Hiro/AtCoderClans/pull/5869) - 「[Articles, Blogs, Books and Videos](../../media)」の「[解説ブログ・サイトを見る](../../articles/user_editorials)」ページに掲載している「[Kyopro Encyclopedia of Algorithms](https://noshi91.github.io/algorithm-encyclopedia/)」のURLを修正。
+- [#5868](https://github.com/KATO-Hiro/AtCoderClans/pull/5868) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [AHC(AtCoder Heuristic Contest)はいいぞ](https://qiita.com/erukku/items/b3418afbedb263174d05)
+
 ### 2023-05-05
 
 - [#5860](https://github.com/KATO-Hiro/AtCoderClans/pull/5860) - 「[Related Contest Sites](../../related_contest_sites)」の「[セキュリティ系コンテスト](../../related_contest_sites/security)」ページに、以下のアドベントカレンダーを追加。
