@@ -74,10 +74,9 @@ title: 問題を解く
 ## 問題を投稿・解答する
 
 - [MojaCoder](https://mojacoder.app/) - 競技プログラミングに関する問題を投稿・解答できるオンラインジャッジシステム。解答で利用できる言語は、Brainfuck、C、C++、C#、Go、Java、Python3、Ruby、Rust、Textなど。
+    - [初めてのコンテストの開き方(MojaCoder)](https://ajinoko33.hatenablog.com/entry/2023/02/18/141240) - 有志によりコンテストの開催方法がまとめられている記事。「[問題を作成・出題する](../../articles/for_writers)」ページや「[問題作成に関する便利ツール](../../cli/tools_for_writers)」ページも併せて参照されたい。
 
     !!! danger "警告"
-        - サービス運営者の連絡先が削除されており、今後の不具合対応や機能追加などの可能性は低いと思われる。
-
         - [告知専用のTwitterアカウント](https://twitter.com/MojaCoder)もあるが、2021年8月以降は更新を確認できず。
 
     <div align="center">
