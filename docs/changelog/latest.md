@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-05-07
+
+- [#5875](https://github.com/KATO-Hiro/AtCoderClans/pull/5875) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[Kirishima](https://atcoder.jp/users/Kirishima)さんの[記事](https://note.com/kiri_comp/n/n06429d8f1070)を追加。
+- [#5874](https://github.com/KATO-Hiro/AtCoderClans/pull/5874) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下の記事を追加。
+    - [初めてのコンテストの開き方(MojaCoder)](https://ajinoko33.hatenablog.com/entry/2023/02/18/141240)
+- [#5873](https://github.com/KATO-Hiro/AtCoderClans/pull/5873) - 「[Articles, Blogs, Books and Videos](../../media)」の「[難問を解く](../../articles/how_to_approach_difficult_problems)」ページに、以下の記事を追加。
+    - [燃やす埋める纏める](https://kanpurin.hatenablog.com/entry/moyasu-umeru)
+
 ### 2023-05-06
 
 - [#5869](https://github.com/KATO-Hiro/AtCoderClans/pull/5869) - 「[Articles, Blogs, Books and Videos](../../media)」の「[解説ブログ・サイトを見る](../../articles/user_editorials)」ページに掲載している「[Kyopro Encyclopedia of Algorithms](https://noshi91.github.io/algorithm-encyclopedia/)」のURLを修正。
