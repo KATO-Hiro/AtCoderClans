@@ -29,6 +29,10 @@ title: 難問を解く
 
 - [高難易度木問題を解くテクニック集](https://speakerdeck.com/tatyam_prime/gao-nan-yi-du-mu-wen-ti-wojie-kutekunitukuji) - [tatyam](https://atcoder.jp/users/tatyam)さんが、木問題の性質・考察をまとめたスライド資料。
 
+### ネットワークフロー
+
+- [燃やす埋める纏める](https://kanpurin.hatenablog.com/entry/moyasu-umeru) - 「燃やす埋める問題」の概略、問題として解ける制約条件、計算量、ライブラリの作成方針、練習問題などがまとめられている記事。
+
 ## 数学
 
 ### 整数論
