@@ -4,6 +4,7 @@ title: レーティング1200〜1599(水色)
 
 ## 2023年
 
+- [【入水】半年かけてAtCoder水色になりました！【色変】](https://note.com/kiri_comp/n/n06429d8f1070) - [Kirishima](https://atcoder.jp/users/Kirishima)さんが、2023年4月29日に達成。
 - [40代でRustを触り始めて1年でAtCoderに入水できた件](https://qiita.com/hossie/items/19b2c3d9ebe789f05a3a) - [hossie](https://atcoder.jp/users/hossie)さんが、2023年4月1日に達成。
 - [Atcoderで入水しました！^~^](https://qiita.com/7deQSJCy8c4Hg7I/items/facfec22c64dcc04f55a) - [laoidn](https://atcoder.jp/users/laoidn)さんが、2023年2月11日に達成。
 - [AtCoder水色になりました](https://zenn.dev/soshin/articles/28ce9e3eea85d1) - [soshin](https://atcoder.jp/users/soshin)さんが、2023年2月4日に達成。
