@@ -6,7 +6,7 @@ title: Change Log
 
 ### 2023-05-10
 
-- [#5886](https://github.com/KATO-Hiro/AtCoderClans/pull/5886) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下の記事を追加。
+- [#5886](https://github.com/KATO-Hiro/AtCoderClans/pull/5886) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
     - [AtCoderの世代別コンテスト参加者人数情報](https://twitter.com/atcoder/status/1655806548369870848)
 
 ### 2023-05-09
