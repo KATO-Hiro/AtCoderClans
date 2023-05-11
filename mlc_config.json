@@ -32,6 +32,9 @@
     },
     {
       "pattern": "^https://atcoder.jp/"
+    },
+    {
+      "pattern": "^https://twitter.com/"
     }
   ],
   "httpHeaders": [
