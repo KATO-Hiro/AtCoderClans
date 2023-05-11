@@ -66,6 +66,7 @@ title: ヒューリスティック問題を解く
 
 - [マラソン系コンテストでソースコードを分割して書く方法のメモ(C++)](https://yunix-kyopro.hatenablog.com/entry/2023/03/14/220453) - コンテストで快適にコーディングできるように、開発時にはソースコード(C++)を複数のファイルに分割して記述し、提出時に1つにまとめて提出する方法が紹介されている記事。
     - [サンプルコード](https://github.com/yunix-kyopro/AHC-cpp-template-public) ![GitHub Repo stars](https://img.shields.io/github/stars/yunix-kyopro/AHC-cpp-template-public?style=plastic)
+- [Rust 競プロ AHC参加の準備してみた（チートシート集）](https://zenn.dev/tipstar0125/articles/245bceec86e40a) - Rustでヒューリスティック問題を解くときに、つまづきがちな点をまとめたチートシート。実行制限時間の設定方法、乱数の生成・利用、演算子のオーバーロード(ビームサーチの実装で構造体同士の比較に必要)が紹介されている。
 
 ### 参加記・解法の解説
 
