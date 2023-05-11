@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-05-11
+
+- [#5894](https://github.com/KATO-Hiro/AtCoderClans/pull/5894) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [Rust 競プロ AHC参加の準備してみた（チートシート集）](https://zenn.dev/tipstar0125/articles/245bceec86e40a)
+
 ### 2023-05-10
 
 - [#5886](https://github.com/KATO-Hiro/AtCoderClans/pull/5886) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
