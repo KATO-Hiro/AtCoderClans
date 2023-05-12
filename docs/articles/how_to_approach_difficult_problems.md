@@ -13,6 +13,7 @@ title: 難問を解く
 ### 着眼点・考え方を知る
 
 - [競技プログラミングで解法を思いつくための典型的な考え方](https://algo-logic.info/how-to-think-cp/) - 問題を解くときの着眼点・言い換え・典型的な知識をカテゴリ別にまとめた記事。
+- [ABC 解説まとめ (高難易度のみ)](https://github.com/NyaanNyaan/ABC_editorial) ![GitHub Repo stars](https://img.shields.io/github/stars/NyaanNyaan/ABC_editorial?style=plastic) - AtCoder Beginner Contest (通称、ABC)のG問題・H / Ex問題を中心とした解説がまとめられている。
 
 ### コードを書いて観察
 
