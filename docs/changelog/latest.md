@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-05-12
+
+- [#5902](https://github.com/KATO-Hiro/AtCoderClans/pull/5902) - 「[Articles, Blogs, Books and Videos](../../media)」の「[難問を解く](../../articles/how_to_approach_difficult_problems)」ページに、以下のリンク集を追加。
+    - [ABC 解説まとめ (高難易度のみ)](https://github.com/NyaanNyaan/ABC_editorial) ![GitHub Repo stars](https://img.shields.io/github/stars/NyaanNyaan/ABC_editorial?style=plastic)
+
 ### 2023-05-11
 
 - [#5894](https://github.com/KATO-Hiro/AtCoderClans/pull/5894) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
