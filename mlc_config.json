@@ -35,6 +35,9 @@
     },
     {
       "pattern": "^https://twitter.com/"
+    },
+    {
+      "pattern": "^https://cards-dev.twitter.com/"
     }
   ],
   "httpHeaders": [
