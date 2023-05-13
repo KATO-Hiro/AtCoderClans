@@ -96,7 +96,11 @@ title: ヒューリスティック問題を解く
 
 #### コンテスト企画者の振り返り
 
+<!-- markdown-link-check-disable -->
+
 - [企画者目線で振り返るestie プログラミングコンテスト2022](https://www.estie.jp/blog/entry/2022/12/14/110000) - [matsu7874](https://atcoder.jp/users/matsu7874)さんが、企画・運営の立場から[estie プログラミングコンテスト2022（AtCoder Heuristic Contest 014）](https://atcoder.jp/contests/ahc014)を振り返った記事。
+
+<!-- markdown-link-check-enable -->
 
 ### 問題や参加者に関する調査・分析
 
