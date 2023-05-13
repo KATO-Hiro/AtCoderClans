@@ -71,6 +71,14 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/web_app/at_coder_review.png" alt="atcoder review">
     </div>
 
+## おすすめの問題を共有
+
+- [kyopro share](https://kyopro-share.onrender.com/#/about) - 競技プログラミングのおすすめの問題を共有できる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/kyopro_share.png" alt="kyopro share">
+    </div>
+
 ## 問題を投稿・解答する
 
 - [MojaCoder](https://mojacoder.app/) - 競技プログラミングに関する問題を投稿・解答できるオンラインジャッジシステム。解答で利用できる言語は、Brainfuck、C、C++、C#、Go、Java、Python3、Ruby、Rust、Textなど。
