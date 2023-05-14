@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-05-14
+
+- [#5918](https://github.com/KATO-Hiro/AtCoderClans/pull/5918) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[taksas](https://atcoder.jp/users/taksas)さんの[記事](https://taksas.net/archives/618)を追加。
+
 ### 2023-05-13
 
 - [#5910](https://github.com/KATO-Hiro/AtCoderClans/pull/5910) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のWebサービスを追加。
