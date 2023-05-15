@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-05-15
+
+- [#5921](https://github.com/KATO-Hiro/AtCoderClans/pull/5921) - 「[Command line tools](../../cli)」の「[問題作成に関する便利ツール](../../cli/tools_for_writers)」ページに、以下の関連記事を追加。
+    - Rimeの使い方<sup>[archive.org](http://web.archive.org/web/20191217153910/https://beet-aizu.hatenablog.com/entry/2018/08/20/203706)</sup>
+
 ### 2023-05-14
 
 - [#5918](https://github.com/KATO-Hiro/AtCoderClans/pull/5918) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
