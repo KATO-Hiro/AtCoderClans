@@ -2,6 +2,12 @@
 title: コンテストに関する統計情報を見る
 ---
 
+## AtCoder Junior League (AJL)
+
+### 2023年
+
+- [AtCoder Junior League 2023 - 学校ランキング](https://twitter.com/atcoder/status/1658033672879235075) - 中学・高校部門のそれぞれ上位20校のランキング。2023年5月15日時点(修正版)。
+
 ## ユーザ・レーティングの分布を見る
 
 ### レーティング帯
