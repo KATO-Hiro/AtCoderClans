@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-05-16
+
+- [#5931](https://github.com/KATO-Hiro/AtCoderClans/pull/5931) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AtCoder Junior League 2023 - 学校ランキング](https://twitter.com/atcoder/status/1658033672879235075)
+- [#5930](https://github.com/KATO-Hiro/AtCoderClans/pull/5930) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[dyktr_06](https://atcoder.jp/users/dyktr_06)さんの[記事](https://dyktr-06.hatenablog.com/entry/2023/05/14/180446)を追加。
+- [#5929](https://github.com/KATO-Hiro/AtCoderClans/pull/5929) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[te1229](https://atcoder.jp/users/te1229)さんの[記事](https://teyoblog.hatenablog.com/entry/2023/05/14/014607)を追加。
+
 ### 2023-05-15
 
 - [#5921](https://github.com/KATO-Hiro/AtCoderClans/pull/5921) - 「[Command line tools](../../cli)」の「[問題作成に関する便利ツール](../../cli/tools_for_writers)」ページに、以下の関連記事を追加。
