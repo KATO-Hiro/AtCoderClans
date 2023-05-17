@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-05-17
+
+- [#5937](https://github.com/KATO-Hiro/AtCoderClans/pull/5937) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の解説集を追加。
+    - [整数変数の式で表された条件を扱う探索問題](https://drken1215.hatenablog.com/archive/category/%E6%95%B4%E6%95%B0%E5%A4%89%E6%95%B0%E3%81%AE%E5%BC%8F%E3%81%A7%E8%A1%A8%E3%81%95%E3%82%8C%E3%81%9F%E6%9D%A1%E4%BB%B6%E3%82%92%E6%89%B1%E3%81%86%E6%8E%A2%E7%B4%A2%E5%95%8F%E9%A1%8C)
+
 ### 2023-05-16
 
 - [#5931](https://github.com/KATO-Hiro/AtCoderClans/pull/5931) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
