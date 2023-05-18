@@ -4,6 +4,7 @@ title: レーティング1200〜1599(水色)
 
 ## 2023年
 
+- [Atcoderで入水しました！](https://qiita.com/shiny_brain/items/59976f0ed88f197535f1) - [shiny_brain](https://atcoder.jp/users/shiny_brain)さんが、2023年5月14日に達成。
 - [そこらへんの Kaggle Master はどれくらいの時間でAtCoder 水色になれるの？ #000](https://teyoblog.hatenablog.com/entry/2023/05/14/014607) - [te1229](https://atcoder.jp/users/te1229)さんが、2023年5月13日に達成。
 - [【入水】半年かけてAtCoder水色になりました！【色変】](https://note.com/kiri_comp/n/n06429d8f1070) - [Kirishima](https://atcoder.jp/users/Kirishima)さんが、2023年4月29日に達成。
 - [40代でRustを触り始めて1年でAtCoderに入水できた件](https://qiita.com/hossie/items/19b2c3d9ebe789f05a3a) - [hossie](https://atcoder.jp/users/hossie)さんが、2023年4月1日に達成。
