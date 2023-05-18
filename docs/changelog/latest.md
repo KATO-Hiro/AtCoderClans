@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-05-18
+
+- [#5942](https://github.com/KATO-Hiro/AtCoderClans/pull/5942) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[shiny_brain](https://atcoder.jp/users/shiny_brain)さんの[記事](https://qiita.com/shiny_brain/items/59976f0ed88f197535f1)を追加。
+- [#5941](https://github.com/KATO-Hiro/AtCoderClans/pull/5941) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[kosilov_water](https://atcoder.jp/users/kosilov_water)さんの[記事](https://qiita.com/8pGCJmg4nVU2o37/items/3d95e317d4ac44c5e679)を追加。
+
 ### 2023-05-17
 
 - [#5937](https://github.com/KATO-Hiro/AtCoderClans/pull/5937) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の解説集を追加。
