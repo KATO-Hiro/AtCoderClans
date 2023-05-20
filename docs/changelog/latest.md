@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-05-20
+
+- [#5952](https://github.com/KATO-Hiro/AtCoderClans/pull/5952) - 「[Libraries and Snippets](../../libraries)」の「[Python](../../libraries/python)」ページに、Pythonで実装されたライブラリを追加。
+    - [masa-aa/library_atcoder](https://github.com/masa-aa/library_atcoder) ![GitHub Repo stars](https://img.shields.io/github/stars/masa-aa/library_atcoder?style=plastic)
+- [#5951](https://github.com/KATO-Hiro/AtCoderClans/pull/5951) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[te1229](https://atcoder.jp/users/te1229)さんの[記事](https://teyoblog.hatenablog.com/entry/2023/05/15/225618)を追加。
+
 ### 2023-05-19
 
 - [#5947](https://github.com/KATO-Hiro/AtCoderClans/pull/5947) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
