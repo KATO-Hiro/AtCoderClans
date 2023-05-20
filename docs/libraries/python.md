@@ -10,6 +10,7 @@ title: Python
 - [kerroggu/AtCoderLibrary](https://github.com/kerroggu/AtCoderLibrary) ![GitHub stars](https://img.shields.io/github/stars/kerroggu/AtCoderLibrary?style=plastic) - Pythonで実装されたアルゴリズムのライブラリ。
 - [kuuso/comp_pro_python](https://github.com/kuuso/comp_pro_python) ![GitHub stars](https://img.shields.io/github/stars/kuuso/comp_pro_python?style=plastic) - [kuuso](https://atcoder.jp/users/kuuso)さんのライブラリ。[C#版](https://github.com/kuuso/comp_pro_csharp)もある。
 - [Lgeu/snippet](https://github.com/Lgeu/snippet) ![GitHub Repo stars](https://img.shields.io/github/stars/Lgeu/snippet?style=plastic) - [Lgeu](https://twitter.com/lgeuwce)さんのスニペット集。
+- [masa-aa/library_atcoder](https://github.com/masa-aa/library_atcoder) ![GitHub Repo stars](https://img.shields.io/github/stars/masa-aa/library_atcoder?style=plastic) - [masa_aa](https://atcoder.jp/users/masa_aa)さんのライブラリ。
 - [matsu7874/competitive-programming-snippets](https://github.com/matsu7874/competitive-programming-snippets) ![GitHub stars](https://img.shields.io/github/stars/matsu7874/competitive-programming-snippets?style=plastic) - [matsu7874](https://atcoder.jp/users/matsu7874)さんのスニペット集。
 - [nanoseeing/AtCoder](https://github.com/nanoseeing/AtCoder) ![GitHub Repo stars](https://img.shields.io/github/stars/nanoseeing/AtCoder?style=plastic) - [nanoseeing](https://atcoder.jp/users/nanoseeing)さんのライブラリ。
 - [nrkt/Algorithms](https://github.com/nrkt/Algorithms) ![GitHub stars](https://img.shields.io/github/stars/nrkt/Algorithms?style=plastic) - [nrkt](https://atcoder.jp/users/nrkt)さんのライブラリ。
