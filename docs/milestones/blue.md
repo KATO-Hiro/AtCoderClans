@@ -4,6 +4,7 @@ title: レーティング1600〜1999(青色)
 
 ## 2023年
 
+- [AtCoderで入青しました。記録や雑談です。 - zawatinはてなブログ](https://zawatin.hatenablog.com/entry/2023/05/21/180443) - [zawatin](https://atcoder.jp/users/zawatin)さんが、2023年5月13日に達成。
 - [AtCoderで青色になりました～やった～ - 文章置き場](https://taymyr.hatenablog.com/entry/2023/05/16/090035) - [timi](https://atcoder.jp/users/timi)さんが、2023年5月13日に達成。
 - [【競プロ】青色までに戦う6つの敵](https://qiita.com/BinomialSheep/items/e7a717f34e6991affa1c) - [BinomialSheep](https://atcoder.jp/users/BinomialSheep)さんが、2023年4月18日に公開。
 - [AtCoder青になりました](https://note.com/ococonomy1/n/n9eaf09ee0685) - [ococonomy1](https://atcoder.jp/users/ococonomy1)さんが、2023年4月1日に達成。
