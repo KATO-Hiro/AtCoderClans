@@ -38,6 +38,13 @@ title: コンテストに関する統計情報を見る
 - [言語ごとのレート分布グラフを作ってみました](https://twitter.com/ToastUz/status/1633050067560189954) - 2023年3月上旬時点における言語別のレーティング分布が集計されている。
 - [AtCoderにおけるプログラミング言語のシェアを調べてみた](https://qiita.com/nabata/items/1f9c0543fad5c6106d19) - コンテスト種別(いずれも2022年末の直近2回)の提出言語に関する調査が行われている。
 
+### 提出人数
+
+- [AtCoderの「あの」3コンテストの月間ユニークユーザの推移](https://twitter.com/ToastUz/status/1659861468043706368) - 以下の常設コンテストを対象として、月間ユニークユーザ(少なくとも1回以上提出した人数)の推移が集計されている。2023年4月末時点。
+    - [競技プログラミングの鉄則　演習問題集](https://atcoder.jp/contests/tessoku-book)
+    - [競プロ典型90問](https://atcoder.jp/contests/typical90)
+    - [アルゴリズムと数学　演習問題集](https://atcoder.jp/contests/math-and-algorithm)
+
 ### 国別の最大値
 
 - [国ごとのAtCoderレート最大の人の色を世界地図に塗りました](https://twitter.com/gojira_kyopro/status/1368246952773644291) - 全世界のユーザを対象として、各国のレーティングの最高値に対応した色が世界地図に塗られている。2021年3月7日時点。
