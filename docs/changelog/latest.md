@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-05-23
+
+- [#5977](https://github.com/KATO-Hiro/AtCoderClans/pull/5997) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AtCoderの「あの」3コンテストの月間ユニークユーザの推移](https://twitter.com/ToastUz/status/1659861468043706368)
+- [#5975](https://github.com/KATO-Hiro/AtCoderClans/pull/5975) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
+    - [AtCoderで解ける形式的べき級数問題を集めました](https://qiita.com/hamamu/items/05cdfd3a15ecab22119e)
+
 ### 2023-05-22
 
 - [#5970](https://github.com/KATO-Hiro/AtCoderClans/pull/5970) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
