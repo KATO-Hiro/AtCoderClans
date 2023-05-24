@@ -4,6 +4,17 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-05-24
+
+- [#5988](https://github.com/KATO-Hiro/AtCoderClans/pull/5988) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [ヒューリスティックコンテストでベイズ推定に入門しよう](https://platinum-prog.hatenablog.com/entry/2023/05/20/231200)
+- [#5987](https://github.com/KATO-Hiro/AtCoderClans/pull/5987) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [グラフのサイクル検出 (閉路検出) by DFS](https://drken1215.hatenablog.com/entry/2023/05/20/200517)
+- [#5986](https://github.com/KATO-Hiro/AtCoderClans/pull/5986) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[Yasagure](https://atcoder.jp/users/Yasagure)さんの[記事](https://qiita.com/yasagure_/items/d6f7305ddebf5c806b5d)を追加。
+- [#5985](https://github.com/KATO-Hiro/AtCoderClans/pull/5985) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AtCoder Junior League 2023 - 学校ランキング (5月22日時点)](https://twitter.com/atcoder/status/1660527968102539264)
+
 ### 2023-05-23
 
 - [#5977](https://github.com/KATO-Hiro/AtCoderClans/pull/5997) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
