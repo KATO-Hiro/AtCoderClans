@@ -175,3 +175,7 @@ title: ヒューリスティック問題を解く
 
     !!! warning "注意"
         前提条件として、焼きなまし法に関する一定程度の知識が求められる。
+
+### ベイズ推定
+
+- [ヒューリスティックコンテストでベイズ推定に入門しよう](https://platinum-prog.hatenablog.com/entry/2023/05/20/231200) - ベイズ推定を活用して、限られた情報からパラメータを予測する方法を解説した記事。[AtCoder Heuristic Contest 003](https://atcoder.jp/contests/ahc003)を題材として、C++での実装例も紹介されている。
