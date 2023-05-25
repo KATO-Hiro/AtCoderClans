@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-05-25
+
+- [#6001](https://github.com/KATO-Hiro/AtCoderClans/pull/6001) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
+    - [Rust 1.43～1.67 の競プロ的に気になる変更点](https://qiita.com/hossie/items/6dc0c736d8868ea6905d)
+- [#6000](https://github.com/KATO-Hiro/AtCoderClans/pull/6000) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下のスライドを追加。
+    - [ビームサーチ講座](https://www.dropbox.com/s/19bd80157krpg44/20230301_%E3%83%93%E3%83%BC%E3%83%A0%E3%82%B5%E3%83%BC%E3%83%81%E8%AC%9B%E5%BA%A7.pptx)
+
 ### 2023-05-24
 
 - [#5988](https://github.com/KATO-Hiro/AtCoderClans/pull/5988) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
