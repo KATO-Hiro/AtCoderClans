@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-05-26
+
+- [#6005](https://github.com/KATO-Hiro/AtCoderClans/pull/6005) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
+    - [Rust初心者のAtCoderでよく使う言語機能とライブラリー覚え書き](https://qiita.com/hossie/items/e170eb80f48cdb4f6b51)
+- [#6004](https://github.com/KATO-Hiro/AtCoderClans/pull/6004) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下のスライドを追加。
+    - [この木なんの木？　モンテカルロ木と最良優先MiniMax木の"間"に存在する名もなき木々](https://valgrowth.hatenablog.com/entry/2023/02/11/103944)
+
 ### 2023-05-25
 
 - [#6001](https://github.com/KATO-Hiro/AtCoderClans/pull/6001) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
