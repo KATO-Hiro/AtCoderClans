@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-05-27
+
+- [#6015](https://github.com/KATO-Hiro/AtCoderClans/pull/6015) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。
+    - [Dockerを使って競技プログラミング用環境を構築](https://seiyu0225.hatenablog.com/entry/2022/07/10/212840)
+- [#6014](https://github.com/KATO-Hiro/AtCoderClans/pull/6014) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
+    - [Python と C++ の文法の比較](https://qiita.com/toriidao/items/6ffee7f40cc2e47c3e22)
+- [#6013](https://github.com/KATO-Hiro/AtCoderClans/pull/6013) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
+    - [有理数 mod はこわくない](https://torus711.hatenablog.com/entry/2023/04/17/221217)
+
 ### 2023-05-26
 
 - [#6005](https://github.com/KATO-Hiro/AtCoderClans/pull/6005) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
