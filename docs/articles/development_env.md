@@ -34,6 +34,7 @@ title: コードを書くための環境構築を行う
 
 ### 複数の言語
 
+- [Dockerを使って競技プログラミング用環境を構築](https://seiyu0225.hatenablog.com/entry/2022/07/10/212840) - C++とPythonの実行環境の構築方法を説明した記事。各種設定や[AtCoder Library](https://atcoder.jp/posts/517)の導入方法なども記載されている。
 - [WSL2とVSCodeでC++環境構築した（AtCoder Libraryを使えるようになるまで）](https://ntk-ta01.hatenablog.com/entry/2020/09/09/181155) - C++やRustのコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)で構築するための記事。設定ファイルや[AtCoder Library](https://atcoder.jp/posts/517)に関する説明もある。
 
 ### C&#43;&#43;
