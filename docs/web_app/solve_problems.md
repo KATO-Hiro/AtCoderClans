@@ -7,6 +7,7 @@ title: 問題を解く
 - [AtCoder Problems](https://kenkoooo.com/atcoder/) - 開催されたコンテストの問題を一覧できる。問題の正誤状況や各種集計結果を確認できるだけでなく、バーチャルコンテストなどの機能もある。詳しくは、以下のドキュメント・記事を参照されたい。
     - [User Guide](https://kenkoooo.com/atcoder/book/ja/index.html) - 同サービスで提供されているドキュメント(日本語)。
     - [AtCoder Problemsの使い方（AtCoder Problemsを知らない人向け）](https://ntk-ta01.hatenablog.com/entry/2020/04/15/001405) - 有志が使い方を解説した記事。
+    - [AtCoder Problems Contest Builder](https://github.com/KowerKoint/ac-problems-contest-builder) ![GitHub Repo stars](https://img.shields.io/github/stars/KowerKoint/ac-problems-contest-builder?style=plastic) - 有志によるバーチャルコンテスト作成のための補助ツール。問題の難易度の範囲を指定すると、出題される問題セットが自動的に作成・追加される。
 
     !!! warning "注意"
         記事に掲載されている図やバーチャルコンテストの名称・内容は、最新情報と異なる場合もある。
