@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-05-29
+
+- [#6038](https://github.com/KATO-Hiro/AtCoderClans/pull/6038)、[#6039](https://github.com/KATO-Hiro/AtCoderClans/pull/6039) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに掲載している「[AtCoder Problems](https://kenkoooo.com/atcoder/)」の説明文を更新。以下のツールと記事を追加。
+    - [AtCoder Problems Contest Builder](https://github.com/KowerKoint/ac-problems-contest-builder) ![GitHub Repo stars](https://img.shields.io/github/stars/KowerKoint/ac-problems-contest-builder?style=plastic)
+    - [茶コーダーが競プロ知識だけでやってみた！シリーズ〜バチャを半自動で立てられるPythonを改変し、Twitter投稿用テキストも生成してみた話〜](https://d-burioden.hateblo.jp/entry/2023/05/27/033554)
+- [#6037](https://github.com/KATO-Hiro/AtCoderClans/pull/6037) - (破壊的な変更) 公開を取りやめたと思われるユーザスクリプトを一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2023-05-28
 
 - [#6026](https://github.com/KATO-Hiro/AtCoderClans/pull/6026) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
