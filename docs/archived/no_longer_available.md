@@ -217,6 +217,14 @@ title: 開発・提供終了
     - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
     - 対処方法: 該当する[Issue](https://github.com/null-null-programming/AtCoderACPercentage/issues/14)を修正して、Pull Requestを送る。
 
+- [ac-writers script](https://greasyfork.org/ja/scripts/369965-ac-writers-script) - ユーザの「コンテスト成績表」ページにコンテストのWriterを表示する。
+    - 理由: 作者が公開を取りやめたと思われるため。
+    - 確認した日: 2023/05/29
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/ac_writers_script.png" alt="ac writers script">
+    </div>
+
 ### 外部サービスへのリンクを追加
 
 - [acscores-link](https://greasyfork.org/ja/scripts/377267-acscores-link) - ユーザ名のドロップダウンメニューに[AtCoder Scores](http://atcoder-scores.herokuapp.com/)へのリンクを追加する。

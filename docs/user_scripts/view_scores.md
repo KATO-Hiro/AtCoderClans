@@ -52,14 +52,6 @@ title: コンテストの成績や関連する統計情報を見る
       <img loading = "lazy" src="../../images/userscript/atcoder_difficulty_display.png" alt="atcoder difficulty display">
     </div>
 
-### 出題者
-
-- [ac-writers script](https://greasyfork.org/ja/scripts/369965-ac-writers-script) - ユーザの「コンテスト成績表」ページにコンテストのWriterを表示する。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/ac_writers_script.png" alt="ac writers script">
-    </div>
-
 ## ユーザに関する統計
 
 ### パフォーマンスの推定値
