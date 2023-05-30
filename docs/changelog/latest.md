@@ -4,6 +4,17 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-05-30
+
+- [#6052](https://github.com/KATO-Hiro/AtCoderClans/pull/6052) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[ma_me](https://atcoder.jp/users/ma_me)さんの[記事](https://qiita.com/ma-me/items/cbcedfc7973b2d546b96)を追加。
+- [#6051](https://github.com/KATO-Hiro/AtCoderClans/pull/6051) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[dvoraker3](https://atcoder.jp/users/dvoraker3)さんの[記事](https://qiita.com/dvoraker3/items/d6861c9cc6293052098b)を追加。
+- [#6050](https://github.com/KATO-Hiro/AtCoderClans/pull/6050) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[yabit](https://atcoder.jp/users/yabit)さんの[記事](https://qiita.com/8bai/items/b024315be8b6bec4a9dc)を追加。
+- [#6049](https://github.com/KATO-Hiro/AtCoderClans/pull/6049) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[bo9chan](https://atcoder.jp/users/bo9chan)さんの[記事](https://qiita.com/bo9chan/items/f04a92b48a7d7e5c327a)を追加。
+
 ### 2023-05-29
 
 - [#6038](https://github.com/KATO-Hiro/AtCoderClans/pull/6038)、[#6039](https://github.com/KATO-Hiro/AtCoderClans/pull/6039) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに掲載している「[AtCoder Problems](https://kenkoooo.com/atcoder/)」の説明文を更新。以下のツールと記事を追加。
