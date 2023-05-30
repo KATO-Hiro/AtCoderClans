@@ -8,6 +8,7 @@ title: レーティング400〜799(茶色)
 - [灰→茶 色変しました (AtCoder)](https://taksas.net/archives/618) - [taksas](https://atcoder.jp/users/taksas)さんが、2023年5月13日に達成。
 - [[色変 Atcoder 入茶しました!] 必要な知識、後悔とこれから 2023/4/29](https://qiita.com/jefuo/items/a00947c768db9b233169) - [jefuo1st](https://atcoder.jp/users/jefuo1st)さんが、2023年4月29日に達成。
 - [中3がatcoder茶色になりました](https://note.com/note_kaityo/n/nb7ef0ea8206f) - [kaityo_17](https://atcoder.jp/users/kaityo_17)さんが、2023年4月1日に達成。
+- [学校の先生がatcoderで入茶した話](https://qiita.com/ma-me/items/cbcedfc7973b2d546b96) - [ma_me](https://atcoder.jp/users/ma_me)さんが、2023年3月18日に公開。
 - [私まっちゃラテ、"抹茶ラテ"に、なりました。(入茶・前編) - matcharate_12’s 競プロ日記](https://matcharate-12.hatenablog.com/entry/2023/03/13/104809) - [matcharate12](https://atcoder.jp/users/matcharate12)さんが、2023年3月13日に公開。
 - [34歳おじさんがAtCoder茶色になりました。](https://qiita.com/purupurupu/items/ea48b0e4e8b3a78eb524) - [purupurupu](https://atcoder.jp/users/purupurupu)さんが、2023年3月4日に達成。
 - [AtCoder入茶 - fu’s blog](https://fuuukeee3.hatenadiary.jp/entry/2023/02/27/212807) - [fuuukeee3](https://atcoder.jp/users/fuuukeee3)さんが、2023年2月26日に達成。
