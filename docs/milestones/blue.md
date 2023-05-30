@@ -4,6 +4,7 @@ title: レーティング1600〜1999(青色)
 
 ## 2023年
 
+- [AtCoder青になるまでやったこと・やらなかったこと](https://qiita.com/bo9chan/items/f04a92b48a7d7e5c327a) - [bo9chan](https://atcoder.jp/users/bo9chan)さんが、2023年5月22日に公開。
 - [【AtCoder】5年かけて入青したゆる系競プロerの色変記事](https://qiita.com/yasagure_/items/d6f7305ddebf5c806b5d) - [Yasagure](https://atcoder.jp/users/Yasagure)さんが、2023年5月22日に達成。
 - [AtCoderで入青しました。記録や雑談です。 - zawatinはてなブログ](https://zawatin.hatenablog.com/entry/2023/05/21/180443) - [zawatin](https://atcoder.jp/users/zawatin)さんが、2023年5月13日に達成。
 - [AtCoderで青色になりました～やった～ - 文章置き場](https://taymyr.hatenablog.com/entry/2023/05/16/090035) - [timi](https://atcoder.jp/users/timi)さんが、2023年5月13日に達成。
