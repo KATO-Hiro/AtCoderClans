@@ -18,6 +18,8 @@ title: コンテストに参加する
       <img loading = "lazy" src="../../images/userscript/ac_register_checker.png" alt="ac register checker">
     </div>
 
+- [AtCoder Registration Autofill](https://greasyfork.org/ja/scripts/467393-atcoder-registration-autofill) - 参加登録フォームに氏名・所属・連絡先などを入力すると、2回目以降は自動入力される。また、インストールした時点で、「あなたは日本国内に在住していますか」が「はい」に変更される。
+
 ## シングルディスプレイの表示を最適化
 
 - [AtCoder Style Optimizer for Single Display](https://greasyfork.org/ja/scripts/463585-atcoder-style-optimizer-for-single-display) - [AtCoder](https://atcoder.jp/)の各ページの横幅を最大まで広げて表示する。
