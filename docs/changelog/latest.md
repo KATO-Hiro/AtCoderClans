@@ -6,8 +6,10 @@ title: Change Log
 
 ### 2023-05-31
 
-- [#6058](https://github.com/KATO-Hiro/AtCoderClans/pull/6058) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
+- [#6058](https://github.com/KATO-Hiro/AtCoderClans/pull/6058)、[#6061](https://github.com/KATO-Hiro/AtCoderClans/pull/6061)、[#6062](https://github.com/KATO-Hiro/AtCoderClans/pull/6062) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
     - [ac-register-checker](https://greasyfork.org/ja/scripts/467401-ac-register-checker)
+    - [AtCoder未記入チェッカー](https://greasyfork.org/ja/scripts/467421-atcoder%E6%9C%AA%E8%A8%98%E5%85%A5%E3%83%81%E3%82%A7%E3%83%83%E3%82%AB%E3%83%BC)
+    - [AtCoder Registration Autofill](https://greasyfork.org/ja/scripts/467393-atcoder-registration-autofill)
 
 ### 2023-05-30
 
