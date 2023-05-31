@@ -10,6 +10,14 @@ title: コンテストに参加する
       <img loading = "lazy" src="../../images/userscript/atcoder_google_calender.png" alt="atcoder google calender">
     </div>
 
+## 企業コンテストの参加登録補助・記入ミスを防ぐ
+
+- [ac-register-checker](https://greasyfork.org/ja/scripts/467401-ac-register-checker) - 企業コンテストの参加登録フォームで、「あなたは日本国内に在住していますか」が「いいえ」の場合に警告を表示する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/ac_register_checker.png" alt="ac register checker">
+    </div>
+
 ## シングルディスプレイの表示を最適化
 
 - [AtCoder Style Optimizer for Single Display](https://greasyfork.org/ja/scripts/463585-atcoder-style-optimizer-for-single-display) - [AtCoder](https://atcoder.jp/)の各ページの横幅を最大まで広げて表示する。
