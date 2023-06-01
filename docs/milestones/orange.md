@@ -2,6 +2,10 @@
 title: レーティング2400〜2799(橙色)
 ---
 
+## 2023年
+
+- [【色変記事】Python で AtCoder 橙になりました - toriidaoのブログ](https://toriidao.hateblo.jp/entry/2023/05/31/210009) - [toam](https://atcoder.jp/users/toam)さんが、2023年5月14日に達成。
+
 ## 2022年
 
 - [AtCoder 橙になるまでにやったこと - blogskol](https://drogskol.hatenablog.com/entry/2022/10/02/233656) - [drogskol](https://atcoder.jp/users/drogskol)さんが、2022年10月2日に達成。
