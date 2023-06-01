@@ -6,7 +6,7 @@ title: Change Log
 
 ### 2023-06-01
 
-- [#6071](https://github.com/KATO-Hiro/AtCoderClans/pull/6071) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2400〜2700に到達したユーザのブログを追加。
+- [#6071](https://github.com/KATO-Hiro/AtCoderClans/pull/6071) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2400〜2799に到達したユーザのブログを追加。
 - [#6069](https://github.com/KATO-Hiro/AtCoderClans/pull/6069) - 「[Milestones](../../milestones/orange)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
     - レーティング2400から2799まで(橙色)に[toam](https://atcoder.jp/users/toam)さんの[記事](https://toriidao.hateblo.jp/entry/2023/05/31/210009)を追加。
 
