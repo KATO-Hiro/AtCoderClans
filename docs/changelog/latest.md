@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-06-01
+
+- [#6071](https://github.com/KATO-Hiro/AtCoderClans/pull/6071) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2400〜2799に到達したユーザのブログを追加。
+- [#6069](https://github.com/KATO-Hiro/AtCoderClans/pull/6069) - 「[Milestones](../../milestones/orange)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2400から2799まで(橙色)に[toam](https://atcoder.jp/users/toam)さんの[記事](https://toriidao.hateblo.jp/entry/2023/05/31/210009)を追加。
+
 ### 2023-05-31
 
 - [#6058](https://github.com/KATO-Hiro/AtCoderClans/pull/6058)、[#6061](https://github.com/KATO-Hiro/AtCoderClans/pull/6061)、[#6062](https://github.com/KATO-Hiro/AtCoderClans/pull/6062) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
