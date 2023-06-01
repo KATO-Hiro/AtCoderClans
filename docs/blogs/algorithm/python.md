@@ -16,6 +16,7 @@ title: Python
 |Kiri8128|[はてなブログ](https://kiri8128.hatenablog.com/)||
 |sotanishy|[はてなブログ](https://sotanishy.hatenablog.com/)|高難易度の問題を中心にC++で実装されている回答もある。|
 |SPD_9X2|[はてなブログ](https://spd-9x2.hatenablog.com/)||
+|toam|[はてなブログ](https://toriidao.hateblo.jp/)||
 
 ## レーティング2000〜2399(黄色)
 
