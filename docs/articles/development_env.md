@@ -4,7 +4,7 @@ title: コードを書くための環境構築を行う
 
 !!! info "参考"
 
-    以下の記事は、2019年3月〜2023年1月に公開・更新されたものです。随時、最新の記事を追加する予定です。
+    以下の記事は、2019年3月〜2023年3月に公開・更新されたものです。随時、最新の記事を追加する予定です。
 
 ## 任意のOS
 
@@ -21,6 +21,7 @@ title: コードを書くための環境構築を行う
 
 ### C&#43;&#43;
 
+- [競技プログラミングC++環境構築 (macOS) 2023年版](https://qiita.com/EvtHorizonCoder/items/145724e16c1b57ab64eb) - C++(GCC)のコンパイル・実行環境の構築方法が紹介されている記事。[AtCoder Library](https://atcoder.jp/posts/517)・サンプルケースの自動テスト・デバッグツールなどの導入方法も記載されている。
 - [AtCoder用C++開発環境 (Mac編)](https://blog.spiralray.net/cp/devenv-cpp) - 動作環境は、macOS Catalina。C++17(デバッグ:Clang、テスト実行・提出: G++)のコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と、拡張機能を使って構築する方法が紹介されている。サンプルケースの実行や提出もできる。
 - [bits/stdc++.hのインクルードを高速化しよう！（MacOS版）](https://qiita.com/DaikiSuyama/items/e502e09a1090f4a2cee3) - GCCのヘッダファイルであるbits/stdc++.hを正しく使うことで、コンパイルを高速化する方法を紹介した記事。
 - [MacでGCCを"正しく"環境構築しよう！](https://qiita.com/DaikiSuyama/items/09f5aa399aad37783146) - MacでのGCCの環境構築を丁寧に解説した記事。パッケージ管理システムであるHomebrewを用いたGCCのインストールからパスの設定・コンパイルの実行まで紹介されている。
