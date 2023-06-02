@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-06-02
+
+- [#6078](https://github.com/KATO-Hiro/AtCoderClans/pull/6078) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [ダイクストラ法のよくあるミスと落し方](https://snuke.hatenablog.com/entry/2021/02/22/102734)
+- [#6076](https://github.com/KATO-Hiro/AtCoderClans/pull/6076) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。
+    - [競技プログラミングC++環境構築 (macOS) 2023年版](https://qiita.com/EvtHorizonCoder/items/145724e16c1b57ab64eb)
+- [#6075](https://github.com/KATO-Hiro/AtCoderClans/pull/6075) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[PenguinCabinet](https://atcoder.jp/users/PenguinCabinet)さんの[記事](https://zenn.dev/penguincabinet/articles/828a1ec9c34f49)を追加。
+
 ### 2023-06-01
 
 - [#6071](https://github.com/KATO-Hiro/AtCoderClans/pull/6071) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2400〜2799に到達したユーザのブログを追加。
