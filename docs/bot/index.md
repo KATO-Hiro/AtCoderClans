@@ -30,6 +30,13 @@ title: Bot
 
 ### Discord
 
+- [あさかつ](https://discord.gg/6JbTEBnfrY)
+    - 出題範囲:
+        - [AtCoder Problems](https://kenkoooo.com/atcoder/)で推定された難易度のうち、灰色〜青色相当の6問
+        - AtCoder Regular Contest (通称、ARC) 104以降から、同灰色〜黄色相当の6問
+    - 開催日時: いずれも07:30〜08:30
+    - 主催者: [hibit-at](https://github.com/hibit-at)さん
+
 - [まよコン](http://discord.gg/exFTabXHhA)
     - 出題範囲: AtCoder Beginner Contest (通称、ABC)のA〜G問題から8問
     - 開催日時: 21:00〜22:40
