@@ -189,7 +189,7 @@ title: 開発・提供終了
     - 理由: 開発者により、サービスの提供終了が告知されたため([出典](https://twitter.com/mainitiCDmondai/status/1624789075629862913))。
 
     <div align="center">
-      <img loading = "lazy" src="../images/web_app/daily_notification_of_task_c_and_d.png" alt="daily notification of task c and d">
+      <img loading = "lazy" src="../../images/web_app/daily_notification_of_task_c_and_d.png" alt="daily notification of task c and d">
     </div>
 
 ## スクリプト
