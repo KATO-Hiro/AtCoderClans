@@ -4,6 +4,20 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-06-03
+
+- [#6095](https://github.com/KATO-Hiro/AtCoderClans/pull/6095) - (破壊的な変更) 更新が停止したと思われるWebアプリを一時的に「[Archives](../../archived)」ページに移動。
+- [#6093](https://github.com/KATO-Hiro/AtCoderClans/pull/6093) - (破壊的な変更) サービスの提供が終了したBotを確認したため、「[Archives](../../archived)」ページに移動。
+    - 毎日C D問題通知Bot
+- [#6088](https://github.com/KATO-Hiro/AtCoderClans/pull/6088)、[#6089](https://github.com/KATO-Hiro/AtCoderClans/pull/6089)、[#6090](https://github.com/KATO-Hiro/AtCoderClans/pull/6090)、[#6092](https://github.com/KATO-Hiro/AtCoderClans/pull/6092) - 「[Web apps and sites](../../web_app)」の「[Bot](../../bot)」ページに、[AtCoder Problems](https://kenkoooo.com/atcoder/)のバーチャルコンテストに関するサービスを追加。
+    - [A?Cなにか](https://twitter.com/abc_nanica)
+    - [あさかつ](https://discord.gg/6JbTEBnfrY)
+    - [まよコン](http://discord.gg/exFTabXHhA)
+    - [もすーんバチャ通知](https://twitter.com/Mosoon_V)
+- [#6085](https://github.com/KATO-Hiro/AtCoderClans/pull/6085)、[#6086](https://github.com/KATO-Hiro/AtCoderClans/pull/6086) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [連想配列(setやmap)を用いる練習問題](https://drken1215.hatenablog.com/archive/category/%E9%80%A3%E6%83%B3%E9%85%8D%E5%88%97%28set%E3%82%84map%29%E3%82%92%E7%94%A8%E3%81%84%E3%82%8B%E7%B7%B4%E7%BF%92%E5%95%8F%E9%A1%8C)
+    - [2部グラフ判定問題](https://prd-xxx.hateblo.jp/entry/2017/10/13/004256)
+
 ### 2023-06-02
 
 - [#6078](https://github.com/KATO-Hiro/AtCoderClans/pull/6078) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
