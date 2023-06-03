@@ -41,6 +41,19 @@ title: 更新停止の可能性が高い
       <img loading = "lazy" src="../../images/web_app/atcoder_marathon_ranking.png" alt="atcoder marathon ranking">
     </div>
 
+### コンテストに関する統計情報
+
+- [AtCoderFacts](https://app.atcoder-facts.com/) - Ratedコンテストを対象として、レーティング別・問題別の正解者数・正解率を表示する。また、所定のパフォーマンスを得るための得点と所要時間の目安を知ることもできる。
+
+    - 理由: 記載なし。
+
+    !!! warning "注意"
+        2022年2月以降のコンテストは、反映されていない可能性が高い。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_facts.png" alt="atcoder facts">
+    </div>
+
 ### コンテスト後の情報収集・発信
 
 <!-- markdown-link-check-disable -->

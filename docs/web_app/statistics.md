@@ -6,17 +6,6 @@ title: コンテストに関する統計情報
 
 ## 問題に関する統計・予測
 
-### 正解者数・正解率
-
-- [AtCoderFacts](https://app.atcoder-facts.com/) - Ratedコンテストを対象として、レーティング別・問題別の正解者数・正解率を表示する。また、所定のパフォーマンスを得るための得点と所要時間の目安を知ることもできる。
-
-    !!! warning "注意"
-        2022年2月以降のコンテストは、反映されていない可能性が高い。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_facts.png" alt="atcoder facts">
-    </div>
-
 ### 提出数
 
 - [AtCoder Language Visualizer](https://inazuma110.github.io/atcoder_language_visualizer/) - 各問題の言語別提出数・割合を表示する。また、作者による使い方・技術解説に関する[記事](https://qiita.com/Inazuma110/items/e02b8b1c71e101b41635)もある。
