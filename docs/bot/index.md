@@ -26,7 +26,7 @@ title: Bot
       <img loading = "lazy" src="../images/web_app/daily_notification_of_task_c_and_d.png" alt="daily notification of task c and d">
     </div>
 
-[AtCoder Problems](https://kenkoooo.com/atcoder/)で、定期的に開催されているバーチャルコンテストの予定をお知らせしてくれるbotをまとめています。
+[AtCoder Problems](https://kenkoooo.com/atcoder/)で、定期的に開催されているバーチャルコンテストの予定をお知らせしてくれるサービスをまとめています。
 
 - [A?Cなにか](https://twitter.com/abc_nanica)
     - 出題範囲:
