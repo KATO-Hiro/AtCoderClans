@@ -120,6 +120,10 @@ title: アルゴリズムを学ぶ
 
 ## データ構造
 
+### 連想配列
+
+- [連想配列(setやmap)を用いる練習問題](https://drken1215.hatenablog.com/archive/category/%E9%80%A3%E6%83%B3%E9%85%8D%E5%88%97%28set%E3%82%84map%29%E3%82%92%E7%94%A8%E3%81%84%E3%82%8B%E7%B7%B4%E7%BF%92%E5%95%8F%E9%A1%8C) - [drken](https://atcoder.jp/users/drken)さんによる過去問の解説集。連想配列を活用する問題がまとめられている。
+
 ### Union-Find木
 
 - [UnionFindTreeに関する知見の諸々](https://noshi91.hatenablog.com/entry/2018/05/30/191943) - データ構造の一つであるUnion Find Treeに関する実装のバリエーションを解説した記事。また、同アルゴリズムの派生系とC++の実装例も紹介されている。
