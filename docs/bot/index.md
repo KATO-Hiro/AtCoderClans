@@ -26,15 +26,13 @@ title: Bot
       <img loading = "lazy" src="../images/web_app/daily_notification_of_task_c_and_d.png" alt="daily notification of task c and d">
     </div>
 
-## [AtCoder Problems](https://kenkoooo.com/atcoder/)でバーチャルコンテスト(定期開催)に参加する
+## [AtCoder Problems](https://kenkoooo.com/atcoder/)でバーチャルコンテストに参加する
 
 ### Discord
 
 - [まよコン](http://discord.gg/exFTabXHhA)
-    - 出題範囲:
-        - AtCoder Beginner Contest (通称、ABC)のA〜G問題
-    - 開催日時:
-        - 21:00〜22:40
+    - 出題範囲: AtCoder Beginner Contest (通称、ABC)のA〜G問題から8問
+    - 開催日時: 21:00〜22:40
     - 主催者: [mayocornsuki](https://twitter.com/mayocornsuki)さん
 
 ### Twitter
@@ -49,6 +47,11 @@ title: Bot
         - ARC: 月曜日・水曜日・金曜日の15:00〜15:55、22:00〜22:55
         - AGC: 火曜日・木曜日の15:00〜15:55、22:00〜22:55
     - 主催者: [burioden](https://twitter.com/burioden)さん
+
+- [もすーんバチャ通知](https://twitter.com/Mosoon_V)
+    - 出題範囲: [AtCoder Problems](https://kenkoooo.com/atcoder/)で推定された難易度のうち、灰色〜黄色相当の7問
+    - 開催日時: 不定期(30分)
+    - 主催者: [Mo_SoooN](https://twitter.com/Mo_SoooN)さん
 
 ## 問題の解答状況・記録を確認する
 
