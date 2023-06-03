@@ -26,14 +26,25 @@ title: Bot
       <img loading = "lazy" src="../images/web_app/daily_notification_of_task_c_and_d.png" alt="daily notification of task c and d">
     </div>
 
-[AtCoder Problems](https://kenkoooo.com/atcoder/)で、定期的に開催されているバーチャルコンテストの予定をお知らせしてくれるサービスをまとめています。
+## [AtCoder Problems](https://kenkoooo.com/atcoder/)でバーチャルコンテスト(定期開催)に参加する
+
+### Discord
+
+- [まよコン](http://discord.gg/exFTabXHhA)
+    - 出題範囲:
+        - AtCoder Beginner Contest (通称、ABC)のA〜G問題
+    - 開催日時:
+        - 21:00〜22:40
+    - 主催者: [mayocornsuki](https://twitter.com/mayocornsuki)さん
+
+### Twitter
 
 - [A?Cなにか](https://twitter.com/abc_nanica)
     - 出題範囲:
         - AtCoder Beginner Contest (通称、ABC)のA〜D問題
         - AtCoder Regular Contest (同ARC)のA〜C問題
         - AtCoder Grand Contest (同AGC)のA〜B問題
-    - 開催日:
+    - 開催日時:
         - ABC: 平日の14:00〜14:35、21:00〜21:35
         - ARC: 月曜日・水曜日・金曜日の15:00〜15:55、22:00〜22:55
         - AGC: 火曜日・木曜日の15:00〜15:55、22:00〜22:55
