@@ -8,9 +8,9 @@ title: 問題を解く
     - [User Guide](https://kenkoooo.com/atcoder/book/ja/index.html) - 同サービスで提供されているドキュメント(日本語)。
     - [AtCoder Problemsの使い方（AtCoder Problemsを知らない人向け）](https://ntk-ta01.hatenablog.com/entry/2020/04/15/001405) - 有志が使い方を解説した記事。
     - [AtCoder Problems Contest Builder](https://github.com/KowerKoint/ac-problems-contest-builder) ![GitHub Repo stars](https://img.shields.io/github/stars/KowerKoint/ac-problems-contest-builder?style=plastic) - 有志によるバーチャルコンテスト作成のための補助ツール。問題の難易度の範囲を指定すると、出題される問題セットが自動的に作成・追加される。
-      - [茶コーダーが競プロ知識だけでやってみた！シリーズ〜バチャを半自動で立てられるPythonを改変し、Twitter投稿用テキストも生成してみた話〜](https://d-burioden.hateblo.jp/entry/2023/05/27/033554) - 同ツールを活用して、バーチャルコンテストとTwitter投稿用の文面を同時に作成する方法を紹介した記事。
+        - [茶コーダーが競プロ知識だけでやってみた！シリーズ〜バチャを半自動で立てられるPythonを改変し、Twitter投稿用テキストも生成してみた話〜](https://d-burioden.hateblo.jp/entry/2023/05/27/033554) - 同ツールを活用して、バーチャルコンテストとTwitter投稿用の文面を同時に作成する方法を紹介した記事。
     - 定期的に開催されているバーチャルコンテストの一例
-      - [A?Cなにか](https://twitter.com/abc_nanica) - AtCoder Xxx Contest (Xxx: Beginner(A〜D問題), Regular(A〜C問題), Grand(A〜B問題))を対象として、平日に開催される。
+        - [A?Cなにか](https://twitter.com/abc_nanica) - AtCoder Xxx Contest (Xxx: Beginner(A〜D問題), Regular(A〜C問題), Grand(A〜B問題))を対象として、平日に開催される。
 
     !!! warning "注意"
         記事に掲載されている図やバーチャルコンテストの名称・内容は、最新情報と異なる場合もある。
