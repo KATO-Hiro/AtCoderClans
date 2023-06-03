@@ -18,14 +18,6 @@ title: Bot
 
 - [rcoder-todays-problem](https://github.com/mmck328/rcoder-todays-problem) ![GitHub Repo stars](https://img.shields.io/github/stars/mmck328/rcoder-todays-problem?style=plastic) - 今日の問題をおすすめしてくれる。
 
-### Twitter
-
-- [毎日C D問題通知Bot](https://twitter.com/mainitiCDmondai) - AtCoder Beginner Contest (ABC)のC問題・D問題のリンクを毎日ツイートしてくれる。
-
-    <div align="center">
-      <img loading = "lazy" src="../images/web_app/daily_notification_of_task_c_and_d.png" alt="daily notification of task c and d">
-    </div>
-
 ## [AtCoder Problems](https://kenkoooo.com/atcoder/)でバーチャルコンテストに参加する
 
 ### Discord

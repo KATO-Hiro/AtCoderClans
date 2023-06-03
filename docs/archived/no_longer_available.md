@@ -182,6 +182,16 @@ title: 開発・提供終了
       <img loading = "lazy" src="../../images/web_app/atcoder_games.png" alt="atcoder games">
     </div>
 
+### Bot
+
+- [毎日C D問題通知Bot](https://twitter.com/mainitiCDmondai) - AtCoder Beginner Contest (ABC)のC問題・D問題のリンクを毎日ツイートしてくれる。
+    - 確認した日: 2023/06/03
+    - 理由: 開発者により、サービスの提供終了が告知されたため([出典](https://twitter.com/mainitiCDmondai/status/1624789075629862913))。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/daily_notification_of_task_c_and_d.png" alt="daily notification of task c and d">
+    </div>
+
 ## スクリプト
 
 ### 提出コードの正誤判定
