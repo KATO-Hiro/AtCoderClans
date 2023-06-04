@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-06-04
+
+- [#6099](https://github.com/KATO-Hiro/AtCoderClans/pull/6099) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページに、以下のWebアプリを追加。
+    - [AtCoder Strategies](https://atcoder-strategies.web.app/)
+
 ### 2023-06-03
 
 - [#6095](https://github.com/KATO-Hiro/AtCoderClans/pull/6095) - (破壊的な変更) 更新が停止したと思われるWebアプリを一時的に「[Archives](../../archived)」ページに移動。
