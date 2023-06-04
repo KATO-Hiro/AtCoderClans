@@ -36,6 +36,17 @@ title: 問題を解くときの補助ツール
       <img loading = "lazy" src="../../images/web_app/template_generator-webapp.png" alt="graph graph">
     </div>
 
+## 得点状況と配点から次に解く問題を決める
+
+- [AtCoder Strategies](https://atcoder-strategies.web.app/) - ある時点の得点状況と正解の可能性がある問題の配点に基づいて、得られる点数の組み合わせ(見込み)を昇順に表示する。
+
+    !!! warning "注意"
+        アルゴリズム部門の[日鉄ソリューションズプログラミングコンテスト2023（AtCoder Beginner Contest 303）](https://atcoder.jp/contests/abc303)以降のコンテストに対応(手動)。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_strategies.png" alt="atcoder strategies">
+    </div>
+
 ## 配列の消費メモリ量を知る
 
 - [配列のサイズと型を入力すると何MBか教えてくれるうし](https://ei1333.github.io/beet/memory.html) - 配列のサイズと型を入力すると消費メモリ量が表示される。
