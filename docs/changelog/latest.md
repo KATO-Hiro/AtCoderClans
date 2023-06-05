@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-06-05
+
+- [#6104](https://github.com/KATO-Hiro/AtCoderClans/pull/6104) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページで掲載している書籍の説明文を更新。
+    - [「ゲームで学ぶ探索アルゴリズム実践入門」のサンプルコードでAtCoderの問題を解いてみた](https://qiita.com/thun-c/items/c5c2c7295f884cd0355c)
+
 ### 2023-06-04
 
 - [#6099](https://github.com/KATO-Hiro/AtCoderClans/pull/6099) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページに、以下のWebアプリを追加。
