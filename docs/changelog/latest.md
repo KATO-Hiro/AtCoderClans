@@ -4,9 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-06-07
+
+- [#6115](https://github.com/KATO-Hiro/AtCoderClans/pull/6115) -  「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下のスライドを追加。
+    - [プログラミングコンテストでの動的計画法](https://www.slideshare.net/iwiwi/ss-3578511)
+
 ### 2023-06-06
 
-- [#6110](https://github.com/KATO-Hiro/AtCoderClans/pull/6110)、[#6086](https://github.com/KATO-Hiro/AtCoderClans/pull/6086) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+- [#6110](https://github.com/KATO-Hiro/AtCoderClans/pull/6110) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
     - [DFS・BFSのステップアップ練習問題](https://drken1215.hatenablog.com/archive/category/DFS%E3%83%BBBFS%E3%81%AE%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E7%B7%B4%E7%BF%92%E5%95%8F%E9%A1%8C)
 
 ### 2023-06-05
