@@ -37,6 +37,7 @@ title: C&#43;&#43;
 - [primenumber/ProconLib](https://github.com/primenumber/ProconLib) ![GitHub stars](https://img.shields.io/github/stars/primenumber/ProconLib?style=plastic) - [primenumber](https://atcoder.jp/users/primenumber)さんのライブラリ。
 - [rsk0315/library](https://github.com/rsk0315/library) ![GitHub stars](https://img.shields.io/github/stars/rsk0315/library?style=plastic) - [rsk0315](https://atcoder.jp/users/rsk0315)さんのライブラリ。[Rust版](https://github.com/rsk0315/rust-library)もある。
 - [satanic0258/library](https://github.com/satanic0258/library) ![GitHub stars](https://img.shields.io/github/stars/satanic0258/library?style=plastic) - [satanic0258](https://atcoder.jp/users/satanic0258)さんのライブラリ。
+- [seekworser/competitive_library](https://github.com/seekworser/competitive_library) ![GitHub Repo stars](https://img.shields.io/github/stars/seekworser/competitive_library?style=plastic) - [seekworser](https://atcoder.jp/users/seekworser)さんのライブラリ。
 - [sgtlaugh/algovault](https://github.com/sgtlaugh/algovault) ![GitHub Repo stars](https://img.shields.io/github/stars/sgtlaugh/algovault?style=plastic) - sgtlaughさんのライブラリ。一部のアルゴリズムはPythonで実装されている。
 - [sigma425/library](https://github.com/sigma425/library) ![GitHub stars](https://img.shields.io/github/stars/sigma425/library?style=plastic) - [sigma425](https://atcoder.jp/users/sigma425)さんのライブラリ。
 - [smiken/kyopuro-library](https://github.com/smiken/kyopuro-library) ![GitHub stars](https://img.shields.io/github/stars/smiken/kyopuro-library?style=plastic) - [smiken](https://atcoder.jp/users/smiken)さんのライブラリ。
