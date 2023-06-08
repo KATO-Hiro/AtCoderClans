@@ -105,6 +105,13 @@ title: 開発・提供終了
       <img loading = "lazy" src="../../images/web_app/rating_history.png" alt="rating history">
     </div>
 
+- [Badge Generator](https://badgen.org/) - レーティング(アルゴリズム部門、ヒューリスティック部門)に関するバッジが生成できる。[Qiita](https://qiita.com/)や[Zenn](https://zenn.dev/)の各種統計指標にも対応している。
+    - 理由: 2023/04/25にAtCoderバッジのサポートが終了したため。（サービスのトップページにて掲示されていることを確認）
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/badge_generator.png" alt="badge generator">
+    </div>
+
 ### コンテストの成績に関連するサービス
 
 - [AtCoder Rating Simulator](https://twitter.com/AtCoderRS) - Ratedコンテスト当日に、所定のレーティングに到達するのに必要なパフォーマンスを自動返信するTwitter Bot。
