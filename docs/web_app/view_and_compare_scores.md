@@ -78,14 +78,6 @@ title: コンテストの成績を見る
       <img loading = "lazy" src="../../images/web_app/atcoder_badges.png" alt="atcoder badges">
     </div>
 
-- [Badge Generator](https://badgen.org/) - レーティング(アルゴリズム部門、ヒューリスティック部門)に関するバッジが生成できる。[Qiita](https://qiita.com/)や[Zenn](https://zenn.dev/)の各種統計指標にも対応している。
-    - [ZennやQiitaやAtCoderのバッジを生成できるサービスを公開しました](https://zenn.dev/kou_pg_0131/articles/badge-generator-introduction) - 作者による解説記事。
-    - [ZennやAtCoderでの頑張りをバッジで可視化してくれるサービスを試してみた](https://dev.classmethod.jp/articles/try_embed_atcoder_and_zenn_badjes/) - 有志による紹介記事。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/badge_generator.png" alt="badge generator">
-    </div>
-
 - [CP-Badges](https://github.com/kehsihba19/CP-Badges) ![GitHub Repo stars](https://img.shields.io/github/stars/kehsihba19/CP-Badges?style=plastic) - 複数のコンテストサイトのレーティングをGitHubのプロフィールなどに掲載することができる。[AtCoder](https://atcoder.jp/)だけでなく、[Codeforces](https://codeforces.com/)、[CodeChef](https://www.codechef.com/)、[Topcoder](https://www.topcoder.com/)、[yukicoder](https://yukicoder.me/)にも対応している。
 
     <div align="center">
