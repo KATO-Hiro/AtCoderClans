@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-06-08
+
+- [#6121](https://github.com/KATO-Hiro/AtCoderClans/pull/6121) - 「[Libraries and Snippets](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
+    - [seekworser/competitive_library](https://github.com/seekworser/competitive_library) ![GitHub Repo stars](https://img.shields.io/github/stars/seekworser/competitive_library?style=plastic)
+- [#6119](https://github.com/KATO-Hiro/AtCoderClans/pull/6119) - (破壊的な変更) [bun913](https://github.com/bun913)さんのプルリクエストにより、AtCoderに関するサポートが終了した以下のサービスを「[Archives](../../archived)」ページに移動。
+    - [Badge Generator](https://badgen.org/)
+
 ### 2023-06-07
 
 - [#6115](https://github.com/KATO-Hiro/AtCoderClans/pull/6115) -  「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下のスライドを追加。
