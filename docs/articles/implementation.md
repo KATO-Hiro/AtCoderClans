@@ -115,6 +115,10 @@ title: 実装テクニックを学ぶ
 
 ## JavaScript
 
+### 文法・言語仕様
+
+- [AtCoderをVS CodeとJavaScriptで挑戦する方法](https://iwb.jp/howto-challenge-atcoder-with-vscode-and-javascript/) - JavaScriptで問題を解くときに、入力データの受け取り方やテストツールの利用方法などが紹介されている。
+
 ### 別の言語を利用して高速化
 
 - [【Atcoder】JavaScriptでもC++のSTLが使いたい！](https://qiita.com/sdk40010/items/a93eebcb5e55c154e577) - JavaScript(TypeScript)環境で、C++の標準ライブラリStandard Template Library (STL)を利用する方法について紹介した記事。
