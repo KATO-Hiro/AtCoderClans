@@ -170,6 +170,7 @@ title: アルゴリズムを学ぶ
 
 ### 高速ゼータ変換
 
+- [ゼータ変換・メビウス変換を理解する](https://qiita.com/convexineq/items/afc84dfb9ee4ec4a67d5) - 累積和の多次元への一般化を表すゼータ変換と、その逆変換であるメビウス変換を解説している記事。
 - [高速ゼータ変換について](https://qiita.com/Euglenese/items/260f9ddf513f772d7e42) - 高速ゼータ変換について解説した記事。
 
 ### Mo's algorithm
