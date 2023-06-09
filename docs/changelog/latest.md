@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-06-09
+
+- [#6129](https://github.com/KATO-Hiro/AtCoderClans/pull/6129) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
+    - [AtCoderをVS CodeとJavaScriptで挑戦する方法](https://iwb.jp/howto-challenge-atcoder-with-vscode-and-javascript/)
+- [#6128](https://github.com/KATO-Hiro/AtCoderClans/pull/6128) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページのカテゴリを細分化。一部の説明文を加筆・修正。
+- [#6126](https://github.com/KATO-Hiro/AtCoderClans/pull/6126)、[#6127](https://github.com/KATO-Hiro/AtCoderClans/pull/6127) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [意外と解説がない！動的計画法で得た最適解を「復元」する一般的な方法](https://qiita.com/drken/items/0c7bab0384438f285f93)
+    - [ゼータ変換・メビウス変換を理解する](https://qiita.com/convexineq/items/afc84dfb9ee4ec4a67d5)
+
 ### 2023-06-08
 
 - [#6121](https://github.com/KATO-Hiro/AtCoderClans/pull/6121) - 「[Libraries and Snippets](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
