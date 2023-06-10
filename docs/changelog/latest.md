@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-06-10
+
+- [#6144](https://github.com/KATO-Hiro/AtCoderClans/pull/6144) - (破壊的な変更) 「[Change Log](../latest)」ページの2023年4月分を月別のアーカイブに移動。
+    - [April, 2023](../2023_04)
+- [#6136](https://github.com/KATO-Hiro/AtCoderClans/pull/6136) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[theanine](https://atcoder.jp/users/theanine)さんの[記事](https://qiita.com/theanine/items/0746adfbd9da80701ec4)を追加。
+- [#6135](https://github.com/KATO-Hiro/AtCoderClans/pull/6135) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [kyopro friends](https://www.youtube.com/@kyopro_friends/streams)
+
 ### 2023-06-09
 
 - [#6129](https://github.com/KATO-Hiro/AtCoderClans/pull/6129) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
