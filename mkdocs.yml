@@ -17,7 +17,7 @@ edit_uri: "edit/master/docs"
 
 
 # Copyright
-copyright: Copyright &copy; 2020-2022 hiro_hiro
+copyright: Copyright &copy; 2020-2023 hiro_hiro
 
 
 ## Basic Configuration
@@ -252,6 +252,7 @@ nav:
   - Change Log:
     - changelog/latest.md
     - 2023:
+      - April, 2023: changelog/2023_04.md
       - March, 2023: changelog/2023_03.md
       - February, 2023: changelog/2023_02.md
       - January, 2023: changelog/2023_01.md
