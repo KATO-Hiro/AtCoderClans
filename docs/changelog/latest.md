@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-06-11
+
+- [#6148](https://github.com/KATO-Hiro/AtCoderClans/pull/6148) - 「[Command line tools](../../cli)」の「[提出に関する補助ツール](../../cli/tools_for_submission)」ページに以下のCLIツールを追加。
+    - [rain](https://github.com/nahco314/rain) ![GitHub Repo stars](https://img.shields.io/github/stars/nahco314/rain?style=plastic)
+- [#6147](https://github.com/KATO-Hiro/AtCoderClans/pull/6147) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[ku_senjan](https://atcoder.jp/users/ku_senjan)さんの[記事](https://qiita.com/ku_senjan/items/a615f4859658b4aa0897)を追加。
+
 ### 2023-06-10
 
 - [#6144](https://github.com/KATO-Hiro/AtCoderClans/pull/6144) - (破壊的な変更) 「[Change Log](../latest)」ページの2023年4月分を月別のアーカイブに移動。
