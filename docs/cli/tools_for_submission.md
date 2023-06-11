@@ -12,7 +12,7 @@ title: 提出に関する補助ツール
 
 ## 提出コードを暗号化
 
-- [rain](https://github.com/nahco314/rain) ![GitHub Repo stars](https://img.shields.io/github/stars/nahco314/rain?style=plastic) - C++、Pythonで書かれた提出用コードを暗号化して、第三者が閲覧、コピーアンドペーストできないようにする。利用にあたっては、Pythonのパッケージマネージャの一つである[rye](https://github.com/mitsuhiko/rye)をインストールする必要がある。
+- [rain](https://github.com/nahco314/rain) ![GitHub Repo stars](https://img.shields.io/github/stars/nahco314/rain?style=plastic) - C++、Pythonで書かれた提出用コードを暗号化して、第三者が閲覧やコピーアンドペーストできないようにする。利用にあたっては、Pythonのパッケージマネージャの一つである[rye](https://github.com/mitsuhiko/rye)をインストールする必要がある。
 
     <div align="center">
       <img loading = "lazy" src="../../images/cli/rain.png" alt="rain">
