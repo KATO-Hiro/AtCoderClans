@@ -4,6 +4,7 @@ title: レーティング800〜1199(緑色)
 
 ## 2023年
 
+- [3年かけて再入緑した話](https://qiita.com/dorimiamn/items/700021e8ef48d76d68ed) - [adomine](https://atcoder.jp/users/adomine)さんが、2023年6月10日に達成。
 - [AtCoder入緑記事](https://qiita.com/8pGCJmg4nVU2o37/items/3d95e317d4ac44c5e679) - [kosilov_water](https://atcoder.jp/users/kosilov_water)さんが、2023年5月14日に達成。
 - [AtCoderで入緑したのでこれまでのことを振り返る - QLITRE DIALY](https://www.qlitre-dialy.ink/post/became-green-coder-look-back-my-study) - [Qlitre](https://atcoder.jp/users/Qlitre)さんが、2023年5月13日に達成。
 - [Atcoderで緑色コーダーになりました](https://note.com/unicorn__unicorn/n/nd9c27a3ba398) - [Unicorn1](https://atcoder.jp/users/Unicorn1)さんが、2023年4月22日に公開。
