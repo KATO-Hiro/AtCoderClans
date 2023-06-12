@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-06-12
+
+- [#6156](https://github.com/KATO-Hiro/AtCoderClans/pull/6156) - 「[Articles, Blogs, Books and Videos](../../blogs)」ページのヒューリスティック部門に、最高レーティングが2000以上に到達したユーザのブログを追加。
+- [#6153](https://github.com/KATO-Hiro/AtCoderClans/pull/6153) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[adomine](https://atcoder.jp/users/adomine)さんの[記事](https://qiita.com/dorimiamn/items/700021e8ef48d76d68ed)を追加。
+
 ### 2023-06-11
 
 - [#6148](https://github.com/KATO-Hiro/AtCoderClans/pull/6148) - 「[Command line tools](../../cli)」の「[提出に関する補助ツール](../../cli/tools_for_submission)」ページに以下のCLIツールを追加。
