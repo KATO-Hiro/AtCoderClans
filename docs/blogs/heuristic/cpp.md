@@ -27,6 +27,7 @@ title: C&#43;&#43;
 |iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
 |Jirotech|[はてなブログ](https://shuu0914.hatenablog.com/)||
 |kozima|[はてなブログ](https://lkozima.hatenablog.com/)||
+|LayCurse|[自作ブログ](http://rsujskf.s602.xrea.com/)||
 |mtsd|[はてなブログ](https://mtsd-programming.hatenablog.com/)||
 |noimi|[はてなブログ](https://noimi.hatenablog.com/)||
 |Nyaan|[はてなブログ](https://nyaan.hatenablog.com/)||
@@ -57,10 +58,12 @@ title: C&#43;&#43;
 |kusano|[はてなブログ](https://kusano-k.hatenablog.com/)、[Qiita](https://qiita.com/kusano_k)||
 |merom686|[はてなブログ](https://merom686.hatenablog.com/)||
 |m_buyoh|[はてなブログ](https://buyoh.hateblo.jp/)||
+|niuez|[GitHub Pages](https://niuez.github.io/)||
 |olphe|[はてなブログ](https://olphe.hatenablog.com/)||
 |Omotchi|[はてなブログ](https://omotchi.hateblo.jp/)||
 |phyllo|[GitHub Pages](https://jetbead.github.io/AtCoderHeuristicContestMemo/)||
 |physics0523|[はてなブログ](https://physics0523.hatenablog.com/)||
+|platinum|[はてなブログ](https://platinum-prog.hatenablog.com/)||
 |ponjuice|[note](https://note.com/ponjuice0)||
 |qLethon|[はてなブログ](https://qlethon.hatenablog.com/)||
 |riantkb|[はてなブログ](https://rian.hatenablog.jp/)||
