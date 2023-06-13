@@ -203,6 +203,12 @@ Webページの背景色の変更や文字・提出コード・問題の正誤�
       <img loading = "lazy" src="../../images/userscript/ac_problems_ranking_colorizer.png" alt="ac problems ranking colorizer">
     </div>
 
+- [AtCoder Problems Premium](https://greasyfork.org/ja/scripts/468513-atcoder-problems-premium) - [AtCoder Problems](https://kenkoooo.com/atcoder/) の各ページをより華やかにする(背景色の変更、アニメーションの追加)。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_problems_premium.png" alt="atcoder problems premium">
+    </div>
+
 #### Twitter
 
 - [Colorful TL](https://greasyfork.org/ja/scripts/441551-colorful-tl) - TwitterのTimelineにおいて、ユーザ名をAtCoderのレーティングに対応した色に変更する。
