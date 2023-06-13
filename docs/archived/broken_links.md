@@ -70,6 +70,10 @@ title: リンク切れ
 - [私と競プロと教育活動（Qiita Night LT 資料）](https://www.slideshare.net/MasatakaYoneda/qiita-night-lt) - 記事「[現役高校生が、AtCoderでレッドコーダーになるまでにやってきたこと。プログラミング上達の秘訣を全て教えます](https://engineer-lab.findy-code.io/redcoder)」の続編とも言えるスライド。
     - 確認した日: 2021/12/01
 
+### コードを書くための環境構築を行う
+
+- [競プロ環境構築 Ubuntu on Win10 #1 共通編](https://oucrc.net/articles/e6vkrz4uqtt/) - Windows Subsystem for Linux (WSL2)を利用した実行環境の構築方法が紹介されている。テキストエディタや便利なツールの導入・使用方法も解説されている。[#2 C/C++編](https://oucrc.net/articles/o2ql0oomqfd/)で紹介されているC++のコンパイラと[AtCoder Library](https://github.com/atcoder/ac-library)の導入方法も併せて参照されたい。
+    - 確認した日: 2023/06/13
 
 ### アルゴリズムを学ぶ
 
