@@ -87,6 +87,7 @@ title: ヒューリスティック問題を解く
     - [AHC016（HTTF2023予選）敗戦記　〜傷まみれの青春〜](https://fujikawa.hatenablog.com/entry/2022/11/22/220829)
 - [AHC018の1位解法(Psyho氏の解法)解説](https://qiita.com/thun-c/items/11af0980cc938dc28d3b) - [Psyho](https://atcoder.jp/users/Psyho)さんによる[AtCoder Heuristic Contest 018](https://atcoder.jp/contests/ahc018)の解答方針を、[thunder](https://atcoder.jp/users/thunder)さんが詳しく解説した記事。
 - [AHC018 ガウス過程回帰を用いた解法](https://docs.google.com/presentation/d/1JEcyHLw8XrDqL4FHUGYIVQC63KSZ2eaHRjO0E2y1WeU/edit#slide=id.p) - 観測された情報から未知の情報を推定するガウス過程回帰の説明を中心に、[AtCoder Heuristic Contest 018](https://atcoder.jp/contests/ahc018)への適用例も紹介されているスライド。
+- [FakePsyho/cpcontests](https://github.com/FakePsyho/cpcontests) ![GitHub Repo stars](https://img.shields.io/github/stars/FakePsyho/cpcontests?style=plastic) - [Psyho](https://atcoder.jp/users/Psyho)さんが参加したコンテストの解答の方針とソースコードがまとめられている。
 
     ---
 
