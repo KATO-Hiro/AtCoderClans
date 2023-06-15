@@ -21,4 +21,5 @@ title: Rust
 - [statiolake/proconio-rs](https://github.com/statiolake/proconio-rs) ![GitHub Repo stars](https://img.shields.io/github/stars/statiolake/proconio-rs?style=plastic) - [statiolake](https://atcoder.jp/users/statiolake)さんの入出力を簡単に行うためのライブラリ。
 - [tanakh/competitive-rs](https://github.com/tanakh/competitive-rs) ![GitHub stars](https://img.shields.io/github/stars/tanakh/competitive-rs?style=plastic) - [tanakh](https://atcoder.jp/users/tanakh)さんのライブラリ。
 - [uesugi6111/competitive-library](https://github.com/uesugi6111/competitive-library) ![GitHub Repo stars](https://img.shields.io/github/stars/uesugi6111/competitive-library?style=plastic) - [uesugi](https://atcoder.jp/users/uesugi)さんのライブラリ。
+- [wata-orz/steiner_tree](https://github.com/wata-orz/steiner_tree) ![GitHub Repo stars](https://img.shields.io/github/stars/wata-orz/steiner_tree?style=plastic) - [wata](https://atcoder.jp/users/wata)さんによる最小シュタイナー木の厳密最適解を高速に求められるソルバー。
 - [yoshrc/rust-atcoder-snippets](https://github.com/yoshrc/rust-atcoder-snippets) ![GitHub stars](https://img.shields.io/github/stars/yoshrc/rust-atcoder-snippets?style=plastic) - [yoshrc](https://atcoder.jp/users/yoshrc)さんのスニペット集。
