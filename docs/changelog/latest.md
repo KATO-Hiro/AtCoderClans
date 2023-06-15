@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-06-15
+
+- [#6172](https://github.com/KATO-Hiro/AtCoderClans/pull/6172) - 「[Libraries and Snippets](../../libraries)」の「[Rust](../../libraries/rust)」ページに、Rustで実装されたライブラリを追加。
+    - [wata-orz/steiner_tree](https://github.com/wata-orz/steiner_tree) ![GitHub Repo stars](https://img.shields.io/github/stars/wata-orz/steiner_tree?style=plastic)
+
 ### 2023-06-14
 
 - [#6165](https://github.com/KATO-Hiro/AtCoderClans/pull/6165)、[#6166](https://github.com/KATO-Hiro/AtCoderClans/pull/6166) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事などを追加。
