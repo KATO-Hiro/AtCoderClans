@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-06-16
+
+- [#6179](https://github.com/KATO-Hiro/AtCoderClans/pull/6179) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Listing Tasks](https://greasyfork.org/ja/scripts/467289-atcoder-listing-tasks)
+- [#6178](https://github.com/KATO-Hiro/AtCoderClans/pull/6178) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下の記事を追加。
+    - [【AtCoderを分析】Webデータを分析して公開するための基本を網羅してみた](https://qiita.com/toast-uz/items/a0d9bfb64b9d85d3aa4f)
+
 ### 2023-06-15
 
 - [#6172](https://github.com/KATO-Hiro/AtCoderClans/pull/6172) - 「[Libraries and Snippets](../../libraries)」の「[Rust](../../libraries/rust)」ページに、Rustで実装されたライブラリを追加。
