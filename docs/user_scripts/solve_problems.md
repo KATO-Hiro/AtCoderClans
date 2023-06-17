@@ -82,6 +82,14 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/atcoder_link_completion_for_joi.png" alt="atcoder link completion for joi">
     </div>
 
+### 多言語への対応
+
+- [AtCoder 中文助手](https://greasyfork.org/ja/scripts/452449-atcoder-%E4%B8%AD%E6%96%87%E5%8A%A9%E6%89%8B) - コンテストの問題文を中国語で表示できるようにする。翻訳は、[AtCoder 中文站](https://atcoder-for-chinese-developers.github.io/atcoder-for-chinese/)に基づいている。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_for_chinese_assistant.png" alt="atcoder for chinese assistant">
+    </div>
+
 ## 問題を解く
 
 ### テンプレートを利用
