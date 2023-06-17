@@ -52,6 +52,14 @@ title: 問題を解く
 
 - [mm-tester](https://github.com/kosakkun/mm-tester) ![GitHub Repo stars](https://img.shields.io/github/stars/kosakkun/mm-tester?style=plastic) - ヒューリスティック型コンテストの問題とサンプルコードがまとめられている。
 
+## 解法・解説を共有
+
+- [AC Solutions](https://ac-solutions.onrender.com/) - (ベータ版) 問題の解法・解説を共有できる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/ac_solutions.png" alt="ac solutions">
+    </div>
+
 ## 復習の効果をより高める
 
 - [AtCoder Companions](https://atcoder-companions.kakira.dev/) - 指定された提出(WA・RE・TLE・MLE)に基づいて、類似した誤答と最終的に正解した提出との差分を見やすく表示する。
