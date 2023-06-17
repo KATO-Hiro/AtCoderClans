@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-06-17
+
+- [#6185](https://github.com/KATO-Hiro/AtCoderClans/pull/6185) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder 中文助手](https://greasyfork.org/ja/scripts/452449-atcoder-%E4%B8%AD%E6%96%87%E5%8A%A9%E6%89%8B)
+- [#6183](https://github.com/KATO-Hiro/AtCoderClans/pull/6183)、[#6184](https://github.com/KATO-Hiro/AtCoderClans/pull/6184) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のWebアプリを追加。
+    - [AC Solutions](https://ac-solutions.onrender.com/)
+    - [AtCoder 中文站](https://atcoder-for-chinese-developers.github.io/atcoder-for-chinese/)
+
 ### 2023-06-16
 
 - [#6179](https://github.com/KATO-Hiro/AtCoderClans/pull/6179) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
