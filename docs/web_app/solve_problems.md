@@ -103,3 +103,11 @@ title: 問題を解く
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/mojacoder.png" alt="mojacoder">
     </div>
+
+## 多言語への対応
+
+- [AtCoder 中文站](https://atcoder-for-chinese-developers.github.io/atcoder-for-chinese/) - 中国語ユーザ向けに、コンテストの問題文の翻訳と解説・ソースコードの一例がまとめられている。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_for_chinese.png" alt="atcoder for chinese">
+    </div>
