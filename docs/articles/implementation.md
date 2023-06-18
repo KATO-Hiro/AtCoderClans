@@ -87,6 +87,7 @@ title: 実装テクニックを学ぶ
 - [代数的構造を乗せるデータ構造の設計について](https://noshi91.hatenablog.com/entry/2020/04/22/212649) - 代数的構造を乗せるデータ構造の設計方法について、「静的メンバを実装した型を受け取る」方法を中心とした5種類を比較し、その利点・欠点を解説している。
 - [任意modでの畳み込み演算をO(nlog(n))で](https://math314.hateblo.jp/entry/2015/05/07/014908) - 畳み込み演算を行うときに、任意のmodを使って高速に計算する方法・実装について解説した記事。
 - [atcoder::lazy_segtreeに1行書き足すだけの抽象化 Segment Tree Beats](https://rsm9.hatenablog.com/entry/2021/02/01/220408) - [Segment tree beats (列に対する複雑な更新・取得処理を高速かつオンラインに実現する手法)](https://codeforces.com/blog/entry/57319)に対する知識はあるが、これから実装したい人を対象とした記事。[AtCoder Library (ACL)](https://github.com/atcoder/ac-library)の```atcoder::lazy_segtree```に1行追加するだけで実装できる。
+- [k番目に小さい値を簡単に取得するよ（C++）](https://lorent-kyopro.hatenablog.com/entry/2020/12/20/201438) - 集合の要素のうち、k番目(0-indexed)に小さい値を高速かつ簡単に取得する方法が紹介されている記事。
 
 ## Crystal
 
