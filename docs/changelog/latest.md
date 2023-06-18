@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-06-18
+
+- [#6189](https://github.com/KATO-Hiro/AtCoderClans/pull/6189) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
+    - [k番目に小さい値を簡単に取得するよ（C++）](https://lorent-kyopro.hatenablog.com/entry/2020/12/20/201438)
+- [#6188](https://github.com/KATO-Hiro/AtCoderClans/pull/6188) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページに、以下のPythonスクリプトを追加。
+    - [AHC Vis Archiver](https://github.com/koyumeishi/ahc_vis_archiver) ![GitHub Repo stars](https://img.shields.io/github/stars/koyumeishi/ahc_vis_archiver?style=plastic)
+
 ### 2023-06-17
 
 - [#6185](https://github.com/KATO-Hiro/AtCoderClans/pull/6185) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
