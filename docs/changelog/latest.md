@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-06-19
+
+- [#6196](https://github.com/KATO-Hiro/AtCoderClans/pull/6196) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [プリム法ベースのシュタイナー木](https://bowwowforeach.hatenablog.com/entry/2023/06/18/213212)
+- [#6195](https://github.com/KATO-Hiro/AtCoderClans/pull/6195) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AJL 学校スコア(上位5校)、個人スコア(上位5人)の推移(2023年6月19日時点)](https://twitter.com/gojira_kyopro/status/1670634706545836032)
+
 ### 2023-06-18
 
 - [#6189](https://github.com/KATO-Hiro/AtCoderClans/pull/6189) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
