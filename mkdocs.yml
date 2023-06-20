@@ -63,6 +63,20 @@ extra:
   analytics:
     provider: google
     property: G-JZZK4RM2YD
+    feedback:
+      title: このページは役に立ちましたか?
+      ratings:
+        - icon: material/thumb-up-outline
+          name: This page was helpful
+          data: 1
+          note: >-
+            ありがとうございます！
+        - icon: material/thumb-down-outline
+          name: This page could be improved
+          data: 0
+          note: >-
+            ありがとうございます！ このページの改善にご協力ください
+            （<a href="https://github.com/KATO-Hiro/AtCoderClans/issues/new?title=[Feedback]+{title}+-+{url}" target="_blank" rel="noopener">GitHub</a>）。
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
