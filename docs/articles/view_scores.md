@@ -51,6 +51,10 @@ title: コンテストに関する統計情報を見る
 
 - [国ごとのAtCoderレート最大の人の色を世界地図に塗りました](https://twitter.com/gojira_kyopro/status/1368246952773644291) - 全世界のユーザを対象として、各国のレーティングの最高値に対応した色が世界地図に塗られている。2021年3月7日時点。
 
+## レーティングと解答速度との関係を見る
+
+- [AtCoderの暖色コーダ(黄・橙・赤)はどれだけの速度でコードを書く? ユーザの解答時間を色別で集計してみた](https://qiita.com/nabata/items/25631d3d1e43f4d9e31f) - 各レーティング帯のRatedユーザの解答時間の平均値・中央値・最上位倍率(= 比較対象となるレーティング帯の中央値 / Rated対象となる最上位レーティング帯の中央値)が集計されている。2022年12月〜2023年1月に開催された各種コンテストのA問題が対象。
+
 ## レーティングと練習量との関係を見る
 
 - [AtCoder Problems 精進三兄弟とレートとの関係図](https://twitter.com/ToastUz/status/1644570880968916993) - レーティングと[AtCoder Problems](https://kenkoooo.com/atcoder/)の統計情報(Accepted、Rated Point Sum、Top player-Equivalent Effort)との関係が分析されている。2023年4月8日時点。
