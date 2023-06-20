@@ -22,4 +22,3 @@ title: Recommendation - はじめに
 - [問題を解く](./solve_problems)
 - [ソースコードの提出・確認を簡単に](./submit_codes)
 - [Webページをより見やすく](./improve_ui)
-- [コンテスト後の情報収集・発信](./collect_info)
