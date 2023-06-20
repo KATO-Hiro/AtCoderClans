@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-06-20
+
+- [#6201](https://github.com/KATO-Hiro/AtCoderClans/pull/6201) - (破壊的な変更) Twitter APIの有料化に伴いサービスの提供終了を確認したため、「[Archives](../../archived)」ページに移動。[@shirakia](https://twitter.com/shirakia)さん、大変お疲れ様でした。長年にわたり開発・運営を続けていただき、ありがとうございます。
+    - AtCoder TL
+- [#6200](https://github.com/KATO-Hiro/AtCoderClans/pull/6200) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下の記事を追加。
+    - [AtCoderの暖色コーダ(黄・橙・赤)はどれだけの速度でコードを書く? ユーザの解答時間を色別で集計してみた](https://qiita.com/nabata/items/25631d3d1e43f4d9e31f)
+
 ### 2023-06-19
 
 - [#6196](https://github.com/KATO-Hiro/AtCoderClans/pull/6196) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
@@ -314,7 +321,7 @@ title: Change Log
 
 - [#5860](https://github.com/KATO-Hiro/AtCoderClans/pull/5860) - 「[Related Contest Sites](../../related_contest_sites)」の「[セキュリティ系コンテスト](../../related_contest_sites/security)」ページに、以下のアドベントカレンダーを追加。
     - [CTF Advent Calendar 2022](https://adventar.org/calendars/7550)
-- [#5858](https://github.com/KATO-Hiro/AtCoderClans/pull/5858) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績に関連するサービス](../../web_app/services_using_scores)」ページと「[Recommendation](../../recommendation)」の「[コンテスト後の情報収集・発信](../../recommendation/collect_info)」ページに掲載しているWebサービス「[AtCoder TL](https://github.com/shirakia/atcoder_tl)」の説明文を更新。
+- [#5858](https://github.com/KATO-Hiro/AtCoderClans/pull/5858) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績に関連するサービス](../../web_app/services_using_scores)」ページと「[Recommendation](../../recommendation)」の「コンテスト後の情報収集・発信」ページに掲載しているWebサービス「[AtCoder TL](https://github.com/shirakia/atcoder_tl)」の説明文を更新。
 - [#5857](https://github.com/KATO-Hiro/AtCoderClans/pull/5857) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の内容を追加。
     - [AHC（の問題設定を現実に実行する場合の）難易度表](https://docs.google.com/spreadsheets/d/1KS3UXpcU5lyQTpPbFw10HsX4xas99ZWMTpQtswWsG84/edit#gid=0)
 
