@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-06-21
+
+- [#6212](https://github.com/KATO-Hiro/AtCoderClans/pull/6212)、[#6213](https://github.com/KATO-Hiro/AtCoderClans/pull/6213) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [ALGO ARTISプログラミングコンテスト writerインタビュー アルゴリズムエンジニア松尾が語るコンテストの舞台裏](https://media.algo-artis.com/posts/8A4hMugo)
+    - [「AWS上にマラソンマッチ用のジャッジ環境を作った」をChatGPTに投げて、Lambdaを使ったAHC用のジャッジ環境を作る。](https://shindannin.hatenadiary.com/entry/2023/06/19/100655)
+- [#6210](https://github.com/KATO-Hiro/AtCoderClans/pull/6210) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[michirakara](https://atcoder.jp/users/michirakara)さんの[記事](https://mcr-pro.hatenablog.com/entry/2023/06/21/011350)を追加。
+
 ### 2023-06-20
 
 - [#6201](https://github.com/KATO-Hiro/AtCoderClans/pull/6201) - (破壊的な変更) Twitter APIの有料化に伴いサービスの提供終了を確認したため、「[Archives](../../archived)」ページに移動。[@shirakia](https://twitter.com/shirakia)さん、大変お疲れ様でした。長年にわたり開発・運営を続けていただき、ありがとうございます。
