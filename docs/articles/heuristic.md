@@ -131,6 +131,7 @@ title: ヒューリスティック問題を解く
 #### AWS
 
 - [AWS上にマラソンマッチ用のジャッジ環境を作った](https://yunix-kyopro.hatenablog.com/entry/2022/07/02/134251) - ヒューリスティック型コンテストにおいて、大量のテストケースをAWS環境で処理する方法が紹介されている記事。
+    - [「AWS上にマラソンマッチ用のジャッジ環境を作った」をChatGPTに投げて、Lambdaを使ったAHC用のジャッジ環境を作る。](https://shindannin.hatenadiary.com/entry/2023/06/19/100655) - [ChatGPT](https://openai.com/blog/chatgpt/)による質問・回答を繰り返しながら、AWS環境の構築過程とエラーへの対処方法が紹介されている。
 
     !!! warning "注意"
 
