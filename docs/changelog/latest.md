@@ -70,7 +70,7 @@ title: Change Log
 ### 2023-06-13
 
 - [#6162](https://github.com/KATO-Hiro/AtCoderClans/pull/6162) - 「[Scripts](../../scripts)」の「[Webページに色付けする](../../user_scripts/colors)」ページに、以下のユーザスクリプトを追加。
-    - [AtCoder Problems Premium](https://greasyfork.org/ja/scripts/468513-atcoder-problems-premium)
+    - AtCoder Problems Premium
 - [#6161](https://github.com/KATO-Hiro/AtCoderClans/pull/6161) - (破壊的な変更) リンク切れと思われる記事を一時的に「[Archives](../../archived)」ページに移動。
 
 ### 2023-06-12
