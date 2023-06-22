@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-06-22
+
+- [#6222](https://github.com/KATO-Hiro/AtCoderClans/pull/6222) - 「[Related Contest Sites](../../related_contest_sites)」の「[数学系コンテスト](../../related_contest_sites/math)」ページに、以下のbotを追加。
+    - [競技数学おしらせbot](https://twitter.com/MathContest_bot)
+- [#6221](https://github.com/KATO-Hiro/AtCoderClans/pull/6221) - (破壊的な変更) コンテストの開催が行われていないと思われる数学系コンテストサイトを一時的に「[Archives](../../archived)」ページに移動。
+- [#6217](https://github.com/KATO-Hiro/AtCoderClans/pull/6217) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに、以下の書籍を追加。
+    - [メタヒューリスティクスの数理](https://www.amazon.co.jp/dp/B0C36F5TJY)
+
 ### 2023-06-21
 
 - [#6212](https://github.com/KATO-Hiro/AtCoderClans/pull/6212)、[#6213](https://github.com/KATO-Hiro/AtCoderClans/pull/6213) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
