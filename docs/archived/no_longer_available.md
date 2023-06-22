@@ -369,6 +369,10 @@ title: 開発・提供終了
 
 ### 数学系コンテスト
 
+- [オイライン数学](https://twitter.com/qsypiRbuTSKQsqh) - 中学・高校数学オリンピックレベルの問題がほぼ毎日投稿されている。
+    - 確認した日: 2023/06/22
+    - 理由: 記載なし。
+
 - [入試数学コンテスト](https://manabitimes.jp/tests) - 数学の入試対策ができるコンテストサイト。
 
     <div align="center">

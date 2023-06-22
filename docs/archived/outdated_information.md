@@ -88,3 +88,13 @@ title: 更新停止の可能性が高い
 - [AtCoderにJOIの過去問の移植作業を行う有志を募集するツイート](https://twitter.com/Pro_ktmr/status/1485612598842519552) - AtCoderでJOIの過去問を解くことができるように、2022年度以降の移植作業を引き継ぐ方を募集しているツイート。
 
     - 理由: 記載なし。
+
+### 数学系コンテスト
+
+- [Beginners Math Contest](https://twitter.com/BMC_rifle) - 初心者向けの競技数学コンテストが開催されている。
+    - 確認した日: 2023/06/22
+    - 理由: 記載なし。
+
+- [Math Olympiad Rating Project](https://twitter.com/MORatingProject) - 数学オリンピックの過去問を利用したコンテスト(が定期的に開催される予定)。この結果を用いて、問題の難易度を推定したデータベース「Math Olympiad problems」を作成することが最終目標として掲げられている。
+    - 確認した日: 2023/06/22
+    - 理由: 記載なし。
