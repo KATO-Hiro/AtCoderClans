@@ -6,6 +6,7 @@ title: Change Log
 
 ### 2023-06-22
 
+- [#6226](https://github.com/KATO-Hiro/AtCoderClans/pull/6226) - (破壊的な変更) 開発者のご希望により、ユーザスクリプト「AtCoder Problems Premium」のリンクを「[Archives](../../archived)」ページに移動。[@nebocco27](https://twitter.com/nebocco27)さん、開発・公開していただき、ありがとうございます。
 - [#6222](https://github.com/KATO-Hiro/AtCoderClans/pull/6222) - 「[Related Contest Sites](../../related_contest_sites)」の「[数学系コンテスト](../../related_contest_sites/math)」ページに、以下のbotを追加。
     - [競技数学おしらせbot](https://twitter.com/MathContest_bot)
 - [#6221](https://github.com/KATO-Hiro/AtCoderClans/pull/6221) - (破壊的な変更) コンテストの開催が行われていないと思われる数学系コンテストサイトを一時的に「[Archives](../../archived)」ページに移動。
