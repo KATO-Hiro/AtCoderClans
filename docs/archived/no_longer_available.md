@@ -270,11 +270,19 @@ title: 開発・提供終了
       <img loading = "lazy" src="../../images/userscript/ac_writers_script.png" alt="ac writers script">
     </div>
 
-### 外部サービスへのリンクを追加
+### 外部サービス
 
 - [acscores-link](https://greasyfork.org/ja/scripts/377267-acscores-link) - ユーザ名のドロップダウンメニューに[AtCoder Scores](http://atcoder-scores.herokuapp.com/)へのリンクを追加する。
     - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
     - 代替手段: [AtCoder Scores](http://atcoder-scores.herokuapp.com/)のリンクから閲覧する。
+
+- [AtCoder Problems Premium](https://greasyfork.org/ja/scripts/468513-atcoder-problems-premium) - [AtCoder Problems](https://kenkoooo.com/atcoder/) の各ページをより華やかにする(背景色の変更、アニメーションの追加)。
+    - 理由: 作者から削除依頼を受けたため。
+    - 確認した日: 2023/06/22
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_problems_premium.png" alt="atcoder problems premium">
+    </div>
 
 ## 記事
 
