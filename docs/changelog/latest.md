@@ -6,7 +6,7 @@ title: Change Log
 
 ### 2023-06-23
 
-- [#6233](https://github.com/KATO-Hiro/AtCoderClans/pull/6233) - 「[Scripts](../../scripts)」の「[ネタスクリプト](../../user_scripts/jokes)」ページに、以下のユーザスクリプトを追加。
+- [#6233](https://github.com/KATO-Hiro/AtCoderClans/pull/6233)、[#6236](https://github.com/KATO-Hiro/AtCoderClans/pull/6236) - 「[Scripts](../../scripts)」の「[ネタスクリプト](../../user_scripts/jokes)」ページに、以下のユーザスクリプトを追加。
     - [AtCoder Super Hacker](https://twitter.com/nebocco27/status/1671870920858943491)
 - [#6232](https://github.com/KATO-Hiro/AtCoderClans/pull/6232) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
     - レーティング800から1199まで(緑色)に[KA37RI](https://atcoder.jp/users/KA37RI)さんの[記事](https://note.com/ka37ri/n/n49dd54210973)を追加。
