@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-06-23
+
+- [#6233](https://github.com/KATO-Hiro/AtCoderClans/pull/6233) - 「[Scripts](../../scripts)」の「[ネタスクリプト](../../user_scripts/jokes)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Super Hacker](https://twitter.com/nebocco27/status/1671870920858943491)
+- [#6232](https://github.com/KATO-Hiro/AtCoderClans/pull/6232) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[KA37RI](https://atcoder.jp/users/KA37RI)さんの[記事](https://note.com/ka37ri/n/n49dd54210973)を追加。
+
 ### 2023-06-22
 
 - [#6226](https://github.com/KATO-Hiro/AtCoderClans/pull/6226) - (破壊的な変更) 開発者のご希望により、ユーザスクリプト「AtCoder Problems Premium」のリンクを「[Archives](../../archived)」ページに移動。[@nebocco27](https://twitter.com/nebocco27)さん、開発・公開していただき、ありがとうございます。
