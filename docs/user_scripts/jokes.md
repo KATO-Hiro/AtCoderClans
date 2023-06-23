@@ -21,6 +21,12 @@ AtCoderにおける流行語などをヒントに作成されたスクリプト�
       <img loading = "lazy" src="../../images/userscript/atcoder_ngtkanaresult.png" alt="atcoder ngtkanaresult">
     </div>
 
+- [AtCoder Super Hacker](https://twitter.com/nebocco27/status/1671870920858943491) - 凄腕ハッカー（の気分）になれるアニメーションを追加する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_super_hacker.png" alt="atcoder super hacker">
+    </div>
+
 - [AtCoder TLE Police](https://greasyfork.org/ja/scripts/381104-atcoder-tle-police) - 提出したコードが'TLE'(Time Limit Exceeded)となった場合に'AR'(ArRested)に置き換える。
 
     <div align="center">
