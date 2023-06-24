@@ -14,6 +14,12 @@ title: 問題を解く
 
 ### 外部サービスの利用
 
+- [AtCoder Add link to Problems](https://greasyfork.org/ja/scripts/469312-atcoder-add-link-to-problems) - 「プロフィール」ページに、[AtCoder Problems](https://kenkoooo.com/atcoder/)へのリンクを追加する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_add_link_to_problems.png" alt="atcoder add link to problems">
+    </div>
+
 - [AtCoderUsers](https://greasyfork.org/ja/scripts/420811-atcoderusers) - 「プロフィール」ページに、[AtCoder Problems](https://kenkoooo.com/atcoder/)、[AtCoder Tags](https://atcoder-tags.herokuapp.com/)のリンクを追加する。
 
     !!! warning "注意"
