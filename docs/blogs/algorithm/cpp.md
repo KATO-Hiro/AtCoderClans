@@ -162,9 +162,11 @@ title: C&#43;&#43;
 |packer_jp|[はてなブログ](https://packer-jp.hatenadiary.jp/)||
 |paruki|[はてなブログ](https://par.hateblo.jp/)||
 |phocom|[Qiita](https://qiita.com/phocom)||
+|pitsu|[はてなブログ](https://pitsu-kyopro.hatenablog.jp/)||
 |Pro_ktmr|[Qiita](https://qiita.com/Pro_ktmr)||
 |ReiVindicatio|[はてなブログ](https://elegy-wedh133.hatenablog.com/)||
 |Rho17|[はてなブログ](https://zrkkkk.hatenablog.com/)||
+|seekworser|[はてなブログ](https://seekworser.hatenablog.com/)||
 |seica|[はてなブログ](https://seica-at.hatenablog.com/)||
 |Series_205|[Qiita](https://qiita.com/Series_205)||
 |set0gut1|[Qiita](https://qiita.com/set0gut1)|2019年8月以降、新規の記事を確認できず。|
