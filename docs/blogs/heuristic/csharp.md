@@ -16,5 +16,6 @@ title: C&#35;
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
+|chokudai|[はてなブログ](https://chokudai.hatenablog.com/)||
 |threecourse|[はてなブログ](https://threecourse.hatenablog.com/)||
 |yupiteru|[Qiita](https://qiita.com/yupiteru)||

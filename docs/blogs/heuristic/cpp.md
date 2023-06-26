@@ -10,6 +10,7 @@ title: C&#43;&#43;
 |eivour|[Qiita](https://qiita.com/contramundum)||
 |nagiss|[はてなブログ](https://nagiss.hateblo.jp/)||
 |phocom|[Qiita](https://qiita.com/phocom)||
+|saharan|[自作ブログ](https://blog.oimo.io/)||
 |square1001|[Qiita](https://qiita.com/square1001)||
 |WA_TLE|[はてなブログ](https://watle.hatenablog.com/)|2019年1月以降、新規の記事を確認できず。|
 
@@ -23,6 +24,7 @@ title: C&#43;&#43;
 |bin101|[はてなブログ](https://bin101.hatenablog.com/)||
 |eijirou|[はてなブログ](https://eijirou-kyopro.hatenablog.com/)||
 |gasin|[はてなブログ](https://gasin.hatenadiary.jp/)||
+|heno239|[はてなブログ](https://heno239.hatenablog.com/)||
 |hitonanode|[はてなブログ](https://rsm9.hatenablog.com/)||
 |iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
 |Jirotech|[はてなブログ](https://shuu0914.hatenablog.com/)||
@@ -31,7 +33,6 @@ title: C&#43;&#43;
 |mtsd|[はてなブログ](https://mtsd-programming.hatenablog.com/)||
 |noimi|[はてなブログ](https://noimi.hatenablog.com/)||
 |Nyaan|[はてなブログ](https://nyaan.hatenablog.com/)||
-|saharan|[自作ブログ](https://blog.oimo.io/)||
 |shibh308|[はてなブログ](https://shibh308.hatenablog.com/)||
 |Shun_PI|[Qiita](https://qiita.com/Shun_PI)||
 |siman|[はてなブログ](https://simanman.hatenablog.com/)||
@@ -50,7 +51,6 @@ title: C&#43;&#43;
 |hakomo|[はてなブログ](https://hakomof.hatenablog.com/)||
 |hamamu|[Qiita](https://qiita.com/hamamu)||
 |hari64|[Qiita](https://qiita.com/hari64)||
-|heno239|[はてなブログ](https://heno239.hatenablog.com/)||
 |hirokazu1020|[はてなブログ](https://hirokazu1020.hatenablog.com/)||
 |hitoare|[はてなブログ](https://hitoare.hatenablog.com/)||
 |itigo|[はてなブログ](https://ichigokunn.hatenablog.com/)||
@@ -73,6 +73,7 @@ title: C&#43;&#43;
 |shindannin|[はてなブログ](https://shindannin.hatenadiary.com/)||
 |ssaattoo|[はてなブログ](https://ssaattoo.hatenablog.com/)||
 |theory_and_me|[はてなブログ](https://theory-and-me.hatenablog.com/)||
+|tokoharu|[はてなブログ](https://tokoharuland.hateblo.jp/)|2020年1月以降、新規の記事を確認できず。|
 |Trineutron|[Qiita](https://qiita.com/trineutron)||
 |tsukasa_diary|[Qiita](https://qiita.com/tsukasa__diary)||
 |ValGrowth|[はてなブログ](https://valgrowth.hatenablog.com/archive)||
