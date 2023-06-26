@@ -4,6 +4,7 @@ title: レーティング1200〜1599(水色)
 
 ## 2023年
 
+- [【色変記事（入水）】return文さえ理解していない俺が水色に！？　～今更unratedと言ってももう遅い～](https://qiita.com/rei_pandada/items/c46615469b0a2baab238) - [rei_pandada](https://atcoder.jp/users/rei_pandada)さんが、2023年6月24日に達成。
 - [入水したのでうれしいなと言う](https://mcr-pro.hatenablog.com/entry/2023/06/21/011350) - [michirakara](https://atcoder.jp/users/michirakara)さんが、2023年6月18日に達成。
 - [AtCoder入水記事](https://qiita.com/ku_senjan/items/a615f4859658b4aa0897) - [ku_senjan](https://atcoder.jp/users/ku_senjan)さんが、2023年6月10日に達成。
 - [AtCoder水色になった話](https://qiita.com/igeeeeee/items/d9ed24a3b08d732f4e1b) - [igeee](https://atcoder.jp/users/igeee)さんが、2023年5月20日に達成。
