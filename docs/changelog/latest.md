@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-06-27
+
+- [#6257](https://github.com/KATO-Hiro/AtCoderClans/pull/6257) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
+    - [PyPyの文字列結合はO(N^2)になって遅いぞ❗←それ、本当ですか？](https://qiita.com/NaHCO3/items/b61e3970ffa0d8e9bdde)
+
 ### 2023-06-26
 
 - [#6254](https://github.com/KATO-Hiro/AtCoderClans/pull/6254) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
