@@ -12,6 +12,8 @@ title: 補助資料・解説記事
 
         2020年9月末時点の情報であるため、最新の公式ドキュメントも併せて確認することを推奨。
 
+- [ACLにおける定数倍高速化](https://drive.google.com/file/d/1JwPJ8OErgCqO_MjAYijNgS-fJ7AFVa8Q/view) - ライブラリの定数倍高速化に関するテクニックがまとめられているスライド。
+
 ## ACLの導入方法
 
 - [ローカルにACL(Atcoder Library)導入](https://qiita.com/ikashoppin/items/a448557bc31d03dc77c8) - ライブラリの導入方法を紹介した記事。
