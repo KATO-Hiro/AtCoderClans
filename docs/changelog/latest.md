@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-06-28
+
+- [#6262](https://github.com/KATO-Hiro/AtCoderClans/pull/6262) - 「[Related Contest Sites](../../related_contest_sites)」の「[Codeforces](../../related_contest_sites/codeforces)」ページに、以下のユーザスクリプトを追加。
+    - [Codeforces Bold Emphasizer](https://greasyfork.org/ja/scripts/427926-codeforces-bold-emphasizer)
+- [#6261](https://github.com/KATO-Hiro/AtCoderClans/pull/6261) - 「[Libraries and Snippets](../../libraries)」の「[AtCoder Library (ACL)の補助資料・解説記事](../../libraries/articles)」ページに、以下のスライドを追加。
+    - [ACLにおける定数倍高速化](https://drive.google.com/file/d/1JwPJ8OErgCqO_MjAYijNgS-fJ7AFVa8Q/view)
+
 ### 2023-06-27
 
 - [#6257](https://github.com/KATO-Hiro/AtCoderClans/pull/6257) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
