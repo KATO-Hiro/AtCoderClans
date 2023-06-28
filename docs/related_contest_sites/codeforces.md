@@ -82,6 +82,14 @@ title: Codeforces
       <img loading = "lazy" src="../../images/related_contest_sites/codeforces/codeforces_performance.png" alt="codeforces performance">
     </div>
 
+### Webページに色付けする
+
+- [Codeforces Bold Emphasizer](https://greasyfork.org/ja/scripts/427926-codeforces-bold-emphasizer) - 問題文の重要な情報(黒太字)を赤太字で強調する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/codeforces/codeforces_bold_emphasizer.png" alt="codeforces bold emphasizer">
+    </div>
+
 ## コマンドラインツール・GUIツール
 
 ### ソースコードにバグがないか確認
