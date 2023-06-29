@@ -61,12 +61,13 @@ title: 書籍
     - [著者の紹介記事](https://drken1215.hatenablog.com/entry/2022/04/13/224634) - 書籍の内容・想定読者・伝えたいメッセージなどが紹介されている。
     - [パズルのソルバーと解答、正誤表](https://github.com/drken1215/book_puzzle_algorithm)
 
-### 情報オリンピックに参加する
+### 情報オリンピック・国際大学対抗プログラミングコンテストに参加する
 
 - [JOI公式テキスト Pythonで問題解決 情報オリンピックに出てみよう](https://www.jikkyo.co.jp/book/detail/22510044) - 日本情報オリンピック(JOI: Japanese Olympiad in Informatics)の公式テキスト。Pythonの基礎的な文法から二次予選の攻略までに必要な知識を学ぶことができる。
     - [書籍の紹介と便利リンク集](https://pro-ktmr.github.io/joi-text/)
     - [公式解説動画](https://www.youtube.com/channel/UCI_npX8-fWv235zqCj8Oa9w)
     - [PyTry](https://pro-ktmr.github.io/pytry/) - 競技プログラミング初心者向けのPython実行環境。
+- [競技プログラマーハンドブック](https://github.com/recuraki/cphb-ja) ![GitHub Repo stars](https://img.shields.io/github/stars/recuraki/cphb-ja?style=plastic) - [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)の和訳。基本的なアルゴリズムから発展的な内容まで幅広く扱われている。主な想定読者は、国際情報学オリンピック（IOI）や国際大学対抗プログラミングコンテスト（ICPC）への参加を考えている学生。
 
 ### アルゴリズム実技検定を受ける
 
