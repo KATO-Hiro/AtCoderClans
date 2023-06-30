@@ -2,6 +2,14 @@
 title: コンテストに参加する
 ---
 
+## 開催日時を確認しやすくする
+
+- [CLIST Contest Filter](https://greasyfork.org/ja/scripts/439442-clist-contest-filter) - [CLIST](https://clist.by/)のHomeページで、指定したコンテストサイトのみ表示する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/clist_contest_filter.png" alt="clist contest filter">
+    </div>
+
 ## 開催日時をGoogle Calenderに追加
 
 - [AtCoder-Google-Calender](https://greasyfork.org/ja/scripts/390758-atcoder-google-calender) - 予定されたコンテストの日時をGoogle Calenderに追加するリンクを設置する。

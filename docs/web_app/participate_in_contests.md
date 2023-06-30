@@ -7,6 +7,7 @@ title: コンテストに参加する
 ### 複数のコンテストサイト
 
 - [CLIST](https://clist.by/) - [60以上のコンテストサイト](https://clist.by/resources/)を対象として開始・終了時刻、コンテスト時間と閲覧時点での残り時間が一覧で表示される。また、順位表や問題の一覧なども確認できる。
+    - [CLIST Contest Filter](https://greasyfork.org/ja/scripts/439442-clist-contest-filter) - 有志が作成したユーザスクリプト。Homeページで、指定したコンテストサイトのみ表示する。
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/clist.png" alt="clist">
