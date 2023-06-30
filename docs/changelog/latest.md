@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-06-30
+
+- [#6270](https://github.com/KATO-Hiro/AtCoderClans/pull/6270) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
+    - [CLIST Contest Filter](https://greasyfork.org/ja/scripts/439442-clist-contest-filter)
+
 ### 2023-06-29
 
 - [#6267](https://github.com/KATO-Hiro/AtCoderClans/pull/6267) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに、以下の書籍を追加。
