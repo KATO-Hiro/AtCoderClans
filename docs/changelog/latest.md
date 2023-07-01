@@ -4,6 +4,16 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-01
+
+- [#6281](https://github.com/KATO-Hiro/AtCoderClans/pull/6281) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AtCoder Beginner Contest 307 (ABC307)の提出数の推移](https://twitter.com/ToastUz/status/1672648317359263745)
+- [#6280](https://github.com/KATO-Hiro/AtCoderClans/pull/6280) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [ALGO ARTIS プログラミングコンテスト2023（AtCoder Heuristic Contest 020）の復習](https://kaede2020.hatenablog.com/entry/2023/06/30/231314)
+- [#6279](https://github.com/KATO-Hiro/AtCoderClans/pull/6279) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[hassybirobiro](https://atcoder.jp/users/hassybirobiro)さんの[記事](https://hassybirobiro.hatenablog.com/entry/2023/06/30/235139)を追加。
+- [#6273](https://github.com/KATO-Hiro/AtCoderClans/pull/6273) - [kzrnm](https://github.com/kzrnm)さんのプルリクエストにより、AtCoderのアカウント名の変更に対応。
+
 ### 2023-06-30
 
 - [#6270](https://github.com/KATO-Hiro/AtCoderClans/pull/6270) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
