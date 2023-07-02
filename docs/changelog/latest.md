@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-02
+
+- [#6289](https://github.com/KATO-Hiro/AtCoderClans/pull/6289) - (破壊的な変更) 競技プログラミングに関する動画の公開を取りやめた、もしくは、定期的な更新の可能性が低いと思われるYouTubeのチャンネルを一時的に「[Archives](../../archived)」ページに移動。
+- [#6286](https://github.com/KATO-Hiro/AtCoderClans/pull/6286) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[blueberry1001](https://atcoder.jp/users/blueberry1001)さんの[記事](https://qiita.com/bluebery1001/items/2896161b748e3ac68ed8)を追加。
+- [#6284](https://github.com/KATO-Hiro/AtCoderClans/pull/6284) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜2399に到達したユーザのブログを追加。
+
 ### 2023-07-01
 
 - [#6281](https://github.com/KATO-Hiro/AtCoderClans/pull/6281) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
