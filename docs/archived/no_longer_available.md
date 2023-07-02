@@ -309,6 +309,15 @@ title: 開発・提供終了
 
 ### YouTubeのチャンネル
 
+- [ななみつき](https://www.youtube.com/playlist?list=PLKs3DZp2szRMAHKnNg2ZlIhW9uXfBQg6a) - [Nanamitsuki](https://atcoder.jp/users/Nanamitsuki)さんのチャンネル。コンテストの過去問を解く動画などが公開されている。
+    - 確認した日: 2023/07/02
+    - 理由: 記載なし。
+- [func](https://www.youtube.com/playlist?list=PLLbak3dBJyRbJ4R5Ax2vUFZlNBbLX8YLw) - [func_hs](https://twitter.com/func_hs)さんのチャンネル。コンテストの過去問を解く動画が公開されている。
+    - 確認した日: 2023/07/02
+    - 理由: 記載なし。
+- [うさぎ](https://www.youtube.com/channel/UCAWN0xlHcDyMTaCIfn1GNXg/videos) - [kmyk](https://github.com/kmyk)さんのチャンネル。
+    - 確認した日: 2023/07/02
+    - 理由: 記載なし。
 - [どきんちゃんねる](https://www.youtube.com/channel/UCRtRY2sRe36LXjaiyhqEqCg) - [dokin](https://atcoder.jp/users/dokin)さんのチャンネル。入門者・初心者向けに、問題の考察・C++での実装過程が丁寧に解説されている。
     - 理由: 記載なし。
     - 代替手段: 調査中。
