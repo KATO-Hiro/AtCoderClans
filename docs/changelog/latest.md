@@ -4,6 +4,16 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-03
+
+- [#6300](https://github.com/KATO-Hiro/AtCoderClans/pull/6300) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
+    - [Pythonで分数のリストを誤差なしでソートする](https://qiita.com/nishizumi_noob/items/7a1323c45cf6ce56a368)
+- [#6299](https://github.com/KATO-Hiro/AtCoderClans/pull/6299) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜2399に到達したユーザのブログを追加。
+- [#6297](https://github.com/KATO-Hiro/AtCoderClans/pull/6297) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AJL 学校スコア(上位5校)、個人スコア(上位5人)の推移(2023年7月3日時点)](https://twitter.com/gojira_kyopro/status/1675735792629714944)
+- [#6293](https://github.com/KATO-Hiro/AtCoderClans/pull/6293) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[nwo](https://atcoder.jp/users/nwo)さんの[記事](https://nwonwowo.hatenablog.com/entry/2023/07/02/093218)を追加。
+
 ### 2023-07-02
 
 - [#6289](https://github.com/KATO-Hiro/AtCoderClans/pull/6289) - (破壊的な変更) 競技プログラミングに関する動画の公開を取りやめた、もしくは、定期的な更新の可能性が低いと思われるYouTubeのチャンネルを一時的に「[Archives](../../archived)」ページに移動。
