@@ -166,6 +166,7 @@ title: C&#43;&#43;
 |Pro_ktmr|[Qiita](https://qiita.com/Pro_ktmr)||
 |ReiVindicatio|[はてなブログ](https://elegy-wedh133.hatenablog.com/)||
 |Rho17|[はてなブログ](https://zrkkkk.hatenablog.com/)||
+|Ricky_pon|[はてなブログ](https://ricky-pon.hatenablog.com/)||
 |seekworser|[はてなブログ](https://seekworser.hatenablog.com/)||
 |seica|[はてなブログ](https://seica-at.hatenablog.com/)||
 |Series_205|[Qiita](https://qiita.com/Series_205)||
