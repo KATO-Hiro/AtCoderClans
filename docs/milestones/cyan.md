@@ -4,6 +4,7 @@ title: レーティング1200〜1599(水色)
 
 ## 2023年
 
+- [AtCoder メモ (本サイト運営者による注:水色コーダー達成に関する内容を含む) - nwonwowoの日記](https://nwonwowo.hatenablog.com/entry/2023/07/02/093218) - [nwo](https://atcoder.jp/users/nwo)さんが、2023年7月1日に達成。
 - [【Atcoder】高校1年生でAtcoder水色になりました](https://qiita.com/bluebery1001/items/2896161b748e3ac68ed8) - [blueberry1001](https://atcoder.jp/users/blueberry1001)さんが、2023年7月1日に公開。
 - [【競プロ】AtCoder水色になった話](https://hassybirobiro.hatenablog.com/entry/2023/06/30/235139) - [hassybirobiro](https://atcoder.jp/users/hassybirobiro)さんが、2023年6月30日に公開。
 - [【色変記事（入水）】return文さえ理解していない俺が水色に！？　～今更unratedと言ってももう遅い～](https://qiita.com/rei_pandada/items/c46615469b0a2baab238) - [rei_pandada](https://atcoder.jp/users/rei_pandada)さんが、2023年6月24日に達成。
