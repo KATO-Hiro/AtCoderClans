@@ -15,7 +15,7 @@ title: 解説ブログ・サイトを見る
 
 ## 複数の言語
 
-- [競技プログラミングをするフレンズ - twilog](https://twilog.togetter.com/kyopro_friends) - [kyopro_friends](https://atcoder.jp/users/kyopro_friends)さんの解説ツイート、ユーザからの質問への回答の一覧。主にAtCoder Beginner ContestのC問題以降を対象として、解法のポイントが継続的に更新されている。
+- [競技プログラミングをするフレンズ - twilog](https://twilog.togetter.com/kyopro_friends) - [kyopro_friends](https://atcoder.jp/users/kyopro_friends)さんの解説ツイート、ユーザからの質問への回答一覧。主にAtCoder Beginner ContestのC問題以降を対象として、解法のポイントが継続的に更新されている。
 
 ## C&#43;&#43;
 
