@@ -13,6 +13,10 @@ title: 解説ブログ・サイトを見る
 - [Kyopro Encyclopedia of Algorithms](https://noshi91.github.io/algorithm-encyclopedia/) - 競技プログラミングに関するアルゴリズムの百科事典を目指している解説サイト(通称: ア辞典)。想定読者は、[AtCoder](https://atcoder.jp/)の黄色以上(レーティングで2000以上)。
 - [AtCoder 昔の公式解説リンク集](https://bo9chan.hatenablog.jp/) - (非公式)Slideshareでアップロードされている公式解説へのリンク集。AtCoder Beginner Contest 001〜035とAtCoder Regular Contest 001、002、015〜049が掲載されている。
 
+## 複数の言語
+
+- [競技プログラミングをするフレンズ - twilog](https://twilog.togetter.com/kyopro_friends) - [kyopro_friends](https://atcoder.jp/users/kyopro_friends)さんの解説ツイート、ユーザからの質問への回答の一覧。主にAtCoder Beginner ContestのC問題以降を対象として、解法のポイントが継続的に更新されている。
+
 ## C&#43;&#43;
 
 - [アルゴリズムロジック](https://algo-logic.info/) - [kami634](https://atcoder.jp/users/kami634)さんのアルゴリズム解説サイト。
