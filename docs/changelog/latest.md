@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-04
+
+- [#6307](https://github.com/KATO-Hiro/AtCoderClans/pull/6307) - 「[Articles, Blogs, Books and Videos](../../media)」の「[解説ブログ・サイトを見る](../../articles/user_editorials)」ページに、解説・質問への回答の一覧を追加。
+    - [競技プログラミングをするフレンズ - twilog](https://twilog.togetter.com/kyopro_friends)
+- [#6306](https://github.com/KATO-Hiro/AtCoderClans/pull/6306) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[Suzux](https://atcoder.jp/users/Suzux)さんの[記事](https://qiita.com/Atta1n_/items/c6db4519a65a1f9b4956)を追加。
+
 ### 2023-07-03
 
 - [#6300](https://github.com/KATO-Hiro/AtCoderClans/pull/6300) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
