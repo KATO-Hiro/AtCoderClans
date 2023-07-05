@@ -57,6 +57,7 @@ title: コンテストに関する統計情報を見る
 - [AtCoder Beginner Contest 307 (ABC307)の提出数の推移](https://twitter.com/ToastUz/status/1672648317359263745) - [AtCoder Problems](https://kenkoooo.com/atcoder/)の提出データに基づいて、正誤判定別の時間推移が集計されている。
     - [同コンテストの問題別の集計結果](https://twitter.com/ToastUz/status/1672770004092338177)
     - [同一の会社が主催した直近のコンテストとの比較](https://twitter.com/ToastUz/status/1672777023637561344)
+    - [AtCoder Beginner Contest 308の集計結果(問題別)](https://twitter.com/ToastUz/status/1675429379026067456)
 
 ## レーティング帯と解答速度との関係
 
