@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-05
+
+- [#6314](https://github.com/KATO-Hiro/AtCoderClans/pull/6314)、[#6315](https://github.com/KATO-Hiro/AtCoderClans/pull/6315) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
+    - [RustでMultiSetを実装する](https://zenn.dev/silva/articles/3af7df176849c2)
+    - [AtCoder ABC308-Cの実数演算誤差に負けない複数のC++, Rust実装例](https://qiita.com/hossie/items/329adf98680ef1816ede)
+- [#6313](https://github.com/KATO-Hiro/AtCoderClans/pull/6313) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AtCoder Beginner Contest 308 (ABC308)の提出数の推移(問題別)](https://twitter.com/ToastUz/status/1675429379026067456)
+
 ### 2023-07-04
 
 - [#6307](https://github.com/KATO-Hiro/AtCoderClans/pull/6307) - 「[Articles, Blogs, Books and Videos](../../media)」の「[解説ブログ・サイトを見る](../../articles/user_editorials)」ページに、解説・質問への回答の一覧を追加。
