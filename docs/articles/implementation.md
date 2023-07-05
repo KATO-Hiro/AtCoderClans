@@ -225,6 +225,7 @@ title: 実装テクニックを学ぶ
 ### アルゴリズム・データ構造の活用による高速化
 
 - [Rustで競技プログラミングよくばりセット](https://qiita.com/SakiKuroe/items/152a3c117a68d95faa0b) - 競技プログラミングで使用頻度が高い関数/メソッド、データ構造、アルゴリズムの実装と例題・解答例が紹介されている。
+- [RustでMultiSetを実装する](https://zenn.dev/silva/articles/3af7df176849c2) - Rustで、C++の`Multiset`に相当する機能の実装と使い方を紹介している記事。
 
 ## Swift
 
