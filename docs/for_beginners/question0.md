@@ -12,7 +12,7 @@ A0: 入門者、初心者向けの記事や動画に目を通してみましょ�
 
 ### 動画を観る
 
-- [AtCoder 布教 PV](https://www.youtube.com/watch?v=-z3bTeA_SEY&feature=youtu.be) - 有志による[AtCoder](https://atcoder.jp/)のプロモーションビデオです。特に、競技プログラミングを始めようと思っている人や周囲に布教したい人におすすめです。
+- [AtCoderPV](https://www.youtube.com/watch?v=TbZhKTMPJeI) - [AtCoder](https://atcoder.jp/)の公式プロモーションビデオです。特に、競技プログラミングを始めようと思っている人や周囲に布教したい人におすすめです。同一の作者による[別バージョン(2019年版)](https://www.youtube.com/watch?v=-z3bTeA_SEY&feature=youtu.be)もあります。
 - [未経験者のアナタもハマる？競技プログラミング「AtCoder」って何だ？【理系通信】](https://www.youtube.com/watch?v=WGNQrH0AV2k) - テレビ東京総合ニュースサイト([テレ東NEWS](https://www.youtube.com/c/tvtokyonews/playlists))のサイエンスニュースで、[AtCoder](https://atcoder.jp/)が紹介されている動画です。番組ディレクターが、実際のコンテストで出題された問題を解きながら競技プログラミングの魅力を伝えるとともに、企業における高度IT人材の需要などについても取材しています。
 - [AtCoderの始め方](https://www.youtube.com/watch?v=GlIbjsEttaY) - [AtCoder](https://atcoder.jp/)が公開しているチュートリアルです。ユーザ登録やコンテストへの参加方法、コンテスト後の復習方法などが説明されています。
 - [2分で始める競技プログラミング【高井茅乃 #31】](https://www.youtube.com/watch?v=F4_1yWI5Z-Y&feature=youtu.be) - 競技プログラミングの概説、[AtCoder](https://atcoder.jp/)のアカウント登録、練習問題を解く方法が2分で紹介されています。
