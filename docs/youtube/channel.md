@@ -8,6 +8,7 @@ title: チャンネル
     - コンテストで出題された問題の解説
         - [ヒューリスティックコンテスト(AHCラジオ)](https://www.youtube.com/playlist?list=PLLeJZg4opYKY6yCPd7j0b5NS4b7krV2yF) - ヒューリスティック部門の解説放送
     - あーだこーだー: 運営チームによる最新情報の生放送
+    - [AtCoderPV](https://www.youtube.com/watch?v=TbZhKTMPJeI) - 同チャンネルの公式プロモーションビデオ。特に、競技プログラミングを始めようと思っている人や周囲に布教したい人におすすめ。
     - [社長のお仕事配信](https://www.youtube.com/watch?v=PiQvXNoV5YQ): [chokudai](https://twitter.com/chokudai)さんの仕事が見られる実験的な生放送
 
 ## VTuber (バーチャルYouTuber)
