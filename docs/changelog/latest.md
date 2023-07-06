@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-06
+
+- [#6319](https://github.com/KATO-Hiro/AtCoderClans/pull/6319) - 「[For Beginners](../../for_beginners)」の「[Q0: アルゴリズム、競技プログラミングとは?](../../for_beginners/question0)」ページと「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下の動画を追加。
+    - [AtCoderPV](https://www.youtube.com/watch?v=TbZhKTMPJeI)
+
 ### 2023-07-05
 
 - [#6314](https://github.com/KATO-Hiro/AtCoderClans/pull/6314)、[#6315](https://github.com/KATO-Hiro/AtCoderClans/pull/6315) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
