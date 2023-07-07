@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-07
+
+- [#6326](https://github.com/KATO-Hiro/AtCoderClans/pull/6326) - (破壊的な変更) 定期的な更新の可能性が低いと思われるユーザスクリプトを一時的に「[Archives](../../archived)」ページに移動。
+- [#6324](https://github.com/KATO-Hiro/AtCoderClans/pull/6324) - 「[Scripts](../../scripts)」の「[Webページに色付けする](../../user_scripts/colors)」ページに、以下のユーザスクリプトを追加。
+    - [ICPC Standing Colorizer](https://github.com/riantkb/icpc_standing_colorizer)
+
 ### 2023-07-06
 
 - [#6319](https://github.com/KATO-Hiro/AtCoderClans/pull/6319) - 「[For Beginners](../../for_beginners)」の「[Q0: アルゴリズム、競技プログラミングとは?](../../for_beginners/question0)」ページと「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下の動画を追加。
