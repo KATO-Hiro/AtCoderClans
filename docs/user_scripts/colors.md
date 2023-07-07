@@ -209,6 +209,12 @@ Webページの背景色の変更や文字・提出コード・問題の正誤�
 
 #### ICPC
 
+- [ICPC Standing Colorizer](https://github.com/riantkb/icpc_standing_colorizer) - [ICPC 2023 国内予選](https://icpcsec.firebaseapp.com/standings/)に、ユーザ名とAtCoderのレーティングに対応した色を表示する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/icpc2021_teamlist.png" alt="icpc2021 teamlist">
+    </div>
+
 - [icpc2021_teamlist](https://github.com/riantkb/icpc2021_teamlist) - [ICPC 2021チーム一覧](http://www.yamagula.ic.i.u-tokyo.ac.jp/icpc2021/standings.html)に、ユーザ名とAtCoderのレーティングに対応した色を表示する。[Webサイト版](https://riantkb.github.io/icpc2021_teamlist/)もある。
 
     <div align="center">
