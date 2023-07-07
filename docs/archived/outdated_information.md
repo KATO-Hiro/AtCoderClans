@@ -72,6 +72,22 @@ title: 更新停止の可能性が高い
 
 <!-- markdown-link-check-enable -->
 
+## ユーザスクリプト
+
+### Webページに色付けする
+
+- [icpc2021_teamlist](https://github.com/riantkb/icpc2021_teamlist) - [ICPC 2021チーム一覧](http://www.yamagula.ic.i.u-tokyo.ac.jp/icpc2021/standings.html)に、ユーザ名とAtCoderのレーティングに対応した色を表示する。[Webサイト版](https://riantkb.github.io/icpc2021_teamlist/)もある。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/icpc2021_teamlist.png" alt="icpc2021 teamlist">
+    </div>
+
+- [ICPC-Yokohama-2020-Username-and-AtCoder-Color](https://github.com/TumoiYorozu/ICPC-Yokohama-2020-Username-and-AtCoder-Color) - ICPC 2020 Yokohama Liveの[順位表](https://icpcsec.firebaseapp.com/standings/)に、ユーザ名とAtCoderのレーティングに対応した色を表示する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/icpc_yokohama_2020_username_and_atcoder_color.png" alt="icpc yokohama 2020 username and atcoder color">
+    </div>
+
 ## 記事
 
 ### 実装テクニックを学ぶ
