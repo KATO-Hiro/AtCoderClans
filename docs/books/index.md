@@ -48,6 +48,8 @@ title: 書籍
 ### 特定の分野を重点的に学ぶ
 
 - [Open Data Structures](https://sites.google.com/view/open-data-structures-ja) - データ構造に関する入門書。ソースコードが[GitHub](https://github.com/spinute/ods)で公開されている。
+- [高校数学の基礎が150分でわかる本](https://www.amazon.co.jp/dp/4478117802/) - (予約受付中。2023年7月26日発売予定) [E869120](https://atcoder.jp/users/E869120)さんが執筆した高校数学の入門書。フルカラーの図解、中学数学のサポート、実用的な具体例、穴埋め式の演習問題が用意されていることに加え、気軽に読めることが特徴。
+    - [著者の紹介記事](https://e869120.hatenablog.com/entry/2023/07/05/224456) - 書籍の内容および特徴・想定読者などが紹介されている。
 
 ### 他分野とのコラボ
 
