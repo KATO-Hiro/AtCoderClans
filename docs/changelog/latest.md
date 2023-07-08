@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-08
+
+- [#6334](https://github.com/KATO-Hiro/AtCoderClans/pull/6334) - (破壊的な変更) 「[Change Log](../latest)」ページの2023年5月分を月別のアーカイブに移動。
+    - [May, 2023](../2023_05)
+- [#6332](https://github.com/KATO-Hiro/AtCoderClans/pull/6332) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに、以下の書籍を追加。
+    - [高校数学の基礎が150分でわかる本](https://www.amazon.co.jp/dp/4478117802/)
+- [#6330](https://github.com/KATO-Hiro/AtCoderClans/pull/6330) - (破壊的な変更) Twitter APIの有料化に伴い、サービスが停止した可能性が高いと思われるため、「[Archives](../../archived)」ページに移動。
+    - AtCoder Alert
+
 ### 2023-07-07
 
 - [#6326](https://github.com/KATO-Hiro/AtCoderClans/pull/6326) - (破壊的な変更) 定期的な更新の可能性が低いと思われるユーザスクリプトを一時的に「[Archives](../../archived)」ページに移動。
