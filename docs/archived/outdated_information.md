@@ -72,6 +72,18 @@ title: 更新停止の可能性が高い
 
 <!-- markdown-link-check-enable -->
 
+## Bot
+
+### 問題の解答状況・記録を確認する
+
+- [AtCoder Alert](https://atcoderalert-2a1a8.web.app/) - 自分の解答状況を自動でツイートしてくれる。つぶやく内容をカスタマイズすることも可能。
+    - 確認した日: 2023/07/08
+    - 理由: Twitter APIの有料化に伴い、更新が停止したと思われるため。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_alert.png" alt="atcoder alert">
+    </div>
+
 ## ユーザスクリプト
 
 ### Webページに色付けする
