@@ -66,6 +66,12 @@ title: ライバルを探す・競う
 
 - [AtCoderCustomResultSheetShare](https://greasyfork.org/ja/scripts/454451-atcodercustomresultsheetshare) - コンテストの成績をTwitterで共有するときに、ツイートする内容をカスタマイズできる。
 
+- [Misskey share button for AtCoder](https://greasyfork.org/ja/scripts/470028-misskey-share-button-for-atcoder) - ユーザページの「コンテスト成績証」に、Misskey.ioで共有するためのボタンを追加する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/misskey_share_button_for_atcoder.png" alt="misskey share button for atcoder">
+    </div>
+
 ### ツイートにハッシュタグを追加
 
 - [AtCoder HashTag Setter](https://greasyfork.org/ja/scripts/422324-atcoder-hashtag-setter) - 「コンテスト」「問題」「提出」の各ページにあるTwitter Shareボタンを利用するときに、ツイートに関連したハッシュタグを追加する。
