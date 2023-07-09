@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-09
+
+- [#6342](https://github.com/KATO-Hiro/AtCoderClans/pull/6342) - 「[Scripts](../../scripts)」の「[ライバルを探す・競う](../../user_scripts/rivals)」ページに、以下のユーザスクリプトを追加。
+    - [Misskey share button for AtCoder](https://greasyfork.org/ja/scripts/470028-misskey-share-button-for-atcoder)
+- [#6341](https://github.com/KATO-Hiro/AtCoderClans/pull/6341) - 「[Articles, Blogs, Books and Videos](../../media)」の「[SNS](../../sns)」ページに、以下のMisskey.ioサーバを追加。
+    - [競プロ鯖](https://misskey.kyoupro.com/)
+
 ### 2023-07-08
 
 - [#6334](https://github.com/KATO-Hiro/AtCoderClans/pull/6334) - (破壊的な変更) 「[Change Log](../latest)」ページの2023年5月分を月別のアーカイブに移動。
