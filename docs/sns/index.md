@@ -13,3 +13,7 @@ title: SNS
 - [𝙠𝙮𝙤𝙥𝙧𝙪𝙨𝙩𝙚𝙘𝙚𝙖𝙣𝙨](https://discord.com/invite/MbuqR59t) - [ngtkana](https://atcoder.jp/users/ngtkana)さんによって運営されている、Rustで競技プログラミングに参加している人・参加したい人向けのサーバ。
 
 - [AHCをみんなで解く会](https://discord.com/invite/ehyVPQ2sVt) - 通称、皆解会。[AtCoder Heuristic Contest (AHC)](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=AtCoder+Heuristic+Contest)のバーチャルコンテストにチームで参加できるグループ。[ainem](https://atcoder.jp/users/ainem)さんが主催されている。
+
+## Misskey.io
+
+- [競プロ鯖](https://misskey.kyoupro.com/) - 競技プログラミングに関心があるユーザのコミュニティ。
