@@ -24,12 +24,6 @@ A3: 基本的には、土曜日もしくは日曜日の21時から1時間40分�
 
 - Twitterで[公式アカウント](https://twitter.com/atcoder)や[AtCoder](https://atcoder.jp/)社長の[chokudai](https://twitter.com/chokudai)さんをフォローすると、最新の情報が得られます。
 
-- [競プロリマインダー](https://twitter.com/ComproReminder) - TwitterのBotアカウントをフォローすると、毎朝8:00にコンテストの情報をつぶやいてくれます。
-
-  <div align="center">
-    <img loading = "lazy" src="../../images/web_app/compro_reminder.png" alt="compro reminder">
-  </div>
-
 - [CLIST](https://clist.by/) - コンテストの開始・終了時刻、制限時間と閲覧時点での残り時間が一覧で表示されるWebアプリです。検索で「AtCoder」のコンテストを抽出するとより見やすくなります。
 
   <div align="center">
