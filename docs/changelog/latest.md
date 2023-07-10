@@ -4,6 +4,17 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-10
+
+- [#6348](https://github.com/KATO-Hiro/AtCoderClans/pull/6348) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AJL 学校スコア(上位5校)、個人スコア(上位5人)の推移(2023年7月10日時点)](https://twitter.com/gojira_kyopro/status/1678260520615546881)
+- [#6345](https://github.com/KATO-Hiro/AtCoderClans/pull/6345) - (破壊的な変更) Twitter APIの有料化に伴い、サービスが停止・終了した可能性が高いと思われるBotを「[Archives](../../archived)」ページに移動。
+    - AtCoder コンテスト実況 Bot
+    - Contests-Line-Bot
+    - 競プロer Bot
+    - 競プロリマインダー
+    - yukicoder最短コード更新お知らせ
+
 ### 2023-07-09
 
 - [#6342](https://github.com/KATO-Hiro/AtCoderClans/pull/6342) - 「[Scripts](../../scripts)」の「[ライバルを探す・競う](../../user_scripts/rivals)」ページに、以下のユーザスクリプトを追加。
