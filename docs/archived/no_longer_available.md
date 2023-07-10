@@ -88,7 +88,6 @@ title: 開発・提供終了
 
 - [AtCoderカレンダー通知](https://twitter.com/AtcoderCalendar) - イベント開始15分前に通知する。
     - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
-    - 代替手段: [競プロリマインダー](https://twitter.com/ComproReminder)などを利用する。
 
 - [Future Contest](https://future-contest.appspot.com/) - 開催予定のコンテスト情報を表示するWebアプリ。[yukicoder](https://yukicoder.me/)、[CS Academy](https://csacademy.com/)、[Codeforces](https://codeforces.com/)にも対応している。
     - 理由: Google Cloud Platform(GCP)で、Go1.9の提供が終了したため。
@@ -383,6 +382,14 @@ title: 開発・提供終了
 - [Codeforces Problems](https://yang33-kassa.jp/Codeforces-Problems/) - 開催されたコンテストの問題を一覧できるwebアプリ。
     - 理由: 記載なし。
     - 代替手段: [CONTEST MANIA](https://contestmania.web.app/)や別の作者による同名の[Codeforces Problems](https://cf.kira924age.com/#/table/)、[CF-Problems](https://tom0727.github.io/cf-problems/)を利用する。
+
+- [yukicoder最短コード更新お知らせ](https://twitter.com/yukigolfer) - 最短コードの更新を通知してくれるTwitter bot。別の作者による[AtCoder版](https://twitter.com/atgolfer1) もある。
+    - 確認した日: 2023/07/10
+    - 理由: Twitter APIの有料化に伴い更新停止、サービス終了の告知を確認したため([出典](https://twitter.com/saito_ta/status/1660632542461177857))。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/yukicoder/yukigolfer.png" alt="yukigolfer">
+    </div>
 
 ### 数学系コンテスト
 

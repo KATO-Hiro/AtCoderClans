@@ -61,7 +61,7 @@ title: Bot
 
 ### Twitter
 
-- [atgolfer](https://twitter.com/atgolfer1) - [コードゴルフ](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%82%B4%E3%83%AB%E3%83%95)の記録更新を通知する。別の作者による[yukicoder版](https://twitter.com/yukigolfer)もある。
+- [atgolfer](https://twitter.com/atgolfer1) - [コードゴルフ](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%82%B4%E3%83%AB%E3%83%95)の記録更新を通知する。
 
     <div align="center">
       <img loading = "lazy" src="../images/web_app/atgolfer.png" alt="atgolfer">
@@ -77,32 +77,12 @@ title: Bot
       <img loading = "lazy" src="../images/web_app/atcoder_chokuzen.png" alt="atcoder chokuzen">
     </div>
 
-### LINE
-
-- [Contests-Line-Bot](https://github.com/granddaifuku/Contests-Line-Bot) ![GitHub Repo stars](https://img.shields.io/github/stars/granddaifuku/Contests-Line-Bot?style=plastic) - 「コンテスト」を含む文章を送ると、コンテストの日程が通知される。AtCoderだけでなく、[Codeforces](https://codeforces.com/)や[yukicoder](https://yukicoder.me/)にも対応している。
-
-    <div align="center">
-      <img loading = "lazy" src="../images/web_app/contests_line_bot.png" alt="contests line bot">
-    </div>
-
 ### Twitter
 
 - [AtCoderお知らせ更新情報 (非公式)](https://twitter.com/AtCoderInfoBot) - [AtCoder](https://atcoder.jp/)公式のお知らせが更新されたときに通知する。
 
     <div align="center">
       <img loading = "lazy" src="../images/web_app/atcoder_info_bot.png" alt="atcoder info bot">
-    </div>
-
-- [競プロer Bot](https://twitter.com/cper_bot) - AC(Accepted)、日単位のランキング、コンテストの予定を通知する。
-
-    <div align="center">
-      <img loading = "lazy" src="../images/web_app/cper_bot.png" alt="cper bot">
-    </div>
-
-- [競プロリマインダー](https://twitter.com/ComproReminder) - 毎朝8:00にコンテスト情報を通知する。[Codeforces](https://codeforces.com/)、[CSAcademy](https://csacademy.com/)、[Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)、[LeetCode](https://leetcode.com/)、[Topcoder](https://www.topcoder.com/)、[yukicoder](https://yukicoder.me/)にも対応している。
-
-    <div align="center">
-      <img loading = "lazy" src="../images/web_app/compro_reminder.png" alt="compro reminder">
     </div>
 
 ## コンテストの成績を見る
@@ -112,12 +92,6 @@ title: Bot
 - [atcoder-rate-notify](https://github.com/ysk1180/atcoder-rate-notify) ![GitHub Repo stars](https://img.shields.io/github/stars/ysk1180/atcoder-rate-notify?style=plastic) - レーティングを毎週お知らせしてくれる。
 
 ### Twitter
-
-- [AtCoder コンテスト実況 Bot](https://twitter.com/cpcontest_bot?lang=en) - コンテスト開催中に登録されているユーザの順位が上がったら通知する。
-
-    <div align="center">
-      <img loading = "lazy" src="../images/web_app/atcoder_contest_live.png" alt="atcoder contest live">
-    </div>
 
 - [ABC bot](https://twitter.com/abc_notifier) - AtCoder Beginner Contest (ABC)の結果が確定したときにツイートしてくれる。
 

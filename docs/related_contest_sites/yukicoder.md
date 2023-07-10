@@ -12,14 +12,6 @@ title: yukicoder
       <img loading = "lazy" src="../../images/related_contest_sites/yukicoder/yukicoder_problems.png" alt="yukicoder problems">
     </div>
 
-### 最短コードの更新状況を知る
-
-- [yukicoder最短コード更新お知らせ](https://twitter.com/yukigolfer) - 最短コードの更新を通知してくれるTwitter bot。別の作者による[AtCoder版](https://twitter.com/atgolfer1) もある。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/related_contest_sites/yukicoder/yukigolfer.png" alt="yukigolfer">
-    </div>
-
 ## ユーザスクリプト
 
 ### 問題を解くときに便利な機能を導入

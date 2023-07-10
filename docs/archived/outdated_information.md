@@ -84,6 +84,42 @@ title: 更新停止の可能性が高い
       <img loading = "lazy" src="../../images/web_app/atcoder_alert.png" alt="atcoder alert">
     </div>
 
+### コンテストの開催日時を確認する
+
+- [Contests-Line-Bot](https://github.com/granddaifuku/Contests-Line-Bot) ![GitHub Repo stars](https://img.shields.io/github/stars/granddaifuku/Contests-Line-Bot?style=plastic) - 「コンテスト」を含む文章を送ると、コンテストの日程が通知される。AtCoderだけでなく、[Codeforces](https://codeforces.com/)や[yukicoder](https://yukicoder.me/)にも対応している。
+    - 確認した日: 2023/07/10
+    - 理由: Herokuの有料化に伴い、更新が停止したと思われるため。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/contests_line_bot.png" alt="contests line bot">
+    </div>
+
+- [競プロer Bot](https://twitter.com/cper_bot) - AC(Accepted)、日単位のランキング、コンテストの予定を通知する。
+    - 確認した日: 2023/07/10
+    - 理由: Twitter APIの有料化に伴い、更新が停止したと思われるため。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/cper_bot.png" alt="cper bot">
+    </div>
+
+- [競プロリマインダー](https://twitter.com/ComproReminder) - 毎朝8:00にコンテスト情報を通知する。[Codeforces](https://codeforces.com/)、[CSAcademy](https://csacademy.com/)、[Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)、[LeetCode](https://leetcode.com/)、[Topcoder](https://www.topcoder.com/)、[yukicoder](https://yukicoder.me/)にも対応している。
+    - 確認した日: 2023/07/10
+    - 理由: Twitter APIの有料化に伴い、更新が停止したと思われるため。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/compro_reminder.png" alt="compro reminder">
+    </div>
+
+### コンテストの成績を見る
+
+- [AtCoder コンテスト実況 Bot](https://twitter.com/cpcontest_bot?lang=en) - コンテスト開催中に登録されているユーザの順位が上がったら通知する。
+    - 確認した日: 2023/07/10
+    - 理由: Twitter APIの有料化に伴い、更新が停止したと思われるため。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_contest_live.png" alt="atcoder contest live">
+    </div>
+
 ## ユーザスクリプト
 
 ### Webページに色付けする
