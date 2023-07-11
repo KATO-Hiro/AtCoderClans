@@ -71,6 +71,12 @@ title: 問題を解くときの補助ツール
       <img loading = "lazy" src="../../images/web_app/graph_graph.png" alt="graph graph">
     </div>
 
+- [Sheep Visualize Graph Beta](https://binomialsheep.github.io/sheep-visualize-graph-beta/) - (ベータ版) グラフ理論に関する問題の入力例を可視化する。頂点を左クリック、もしくは、右クリックすると色を変えられる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images//web_app/sheep_visualize_graph_beta.png" alt="sheep visualize graph beta">
+    </div>
+
 ## ヒューリスティック問題の入出力を可視化
 
 !!! warning "注意"
