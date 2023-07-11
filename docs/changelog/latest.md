@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-11
+
+- [#6361](https://github.com/KATO-Hiro/AtCoderClans/pull/6361) - (破壊的な変更) サービスの更新が停止した可能性が高いと思われるWebサイトを「[Archives](../../archived)」ページに移動。
+- [#6351](https://github.com/KATO-Hiro/AtCoderClans/pull/6351) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページに、以下のWebサイトを追加。
+    - [Sheep Visualize Graph Beta](https://binomialsheep.github.io/sheep-visualize-graph-beta/)
+
 ### 2023-07-10
 
 - [#6348](https://github.com/KATO-Hiro/AtCoderClans/pull/6348) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
