@@ -17,6 +17,14 @@ title: 更新停止の可能性が高い
       <img loading = "lazy" src="../../images/web_app/atcoder_translations.png" alt="atcoder translations">
     </div>
 
+### ヒューリスティック問題の入出力を可視化
+
+- [ahc001-gen-vis-wasm](https://kenkoooo.github.io/ahc001-gen-vis-wasm/) - [AtCoder Heuristic Contest 001](https://atcoder.jp/contests/ahc001)で提供されている入力ジェネレータとビジュアライザをWebブラウザから利用することできる。ソースコードは、[GitHub](https://github.com/kenkoooo/ahc001-gen-vis-wasm) ![GitHub Repo stars](https://img.shields.io/github/stars/kenkoooo/ahc001-gen-vis-wasm?style=plastic)で公開されている。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/ahc001_gen_vis_wasm.jpeg" alt="ahc001 gen vis wasm">
+    </div>
+
 ### コンテストの成績を見る
 
 <!-- markdown-link-check-disable -->
