@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-12
+
+- [#6371](https://github.com/KATO-Hiro/AtCoderClans/pull/6371)、[#6372](https://github.com/KATO-Hiro/AtCoderClans/pull/6372) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、問題の作者が公開している問題集を追加。
+    - [フレンズ問題](https://docs.google.com/spreadsheets/d/1IkOQbXnC8Mb9EWuxEACGf2UcponRdk7SHCrQMoK9Ml8/edit?pli=1#gid=0)
+    - [nok0 問題集](https://hackmd.io/@nok0/SkQxZznwh)
+- [#6370](https://github.com/KATO-Hiro/AtCoderClans/pull/6370) - (破壊的な変更) リンク切れと思われるコンテストサイトのURLを削除。
+- [#6369](https://github.com/KATO-Hiro/AtCoderClans/pull/6369) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [ループの添字順序を間違えた Floyd-Warshall アルゴリズムを３回繰り返すと正しい結果が得られる](https://qiita.com/tmaehara/items/f56be31bbb7a468a04ed)
+
 ### 2023-07-11
 
 - [#6361](https://github.com/KATO-Hiro/AtCoderClans/pull/6361) - (破壊的な変更) サービスの更新が停止した可能性が高いと思われるWebサイトを「[Archives](../../archived)」ページに移動。
