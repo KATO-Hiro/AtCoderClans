@@ -36,8 +36,9 @@ title: コンテストに向けた練習方法を知る
     !!! warning "注意"
         2021年10月以降の更新は確認できず。
 
-### 問題の難易度を知る
+### 問題の作成者が公開している問題集
 
+- [フレンズ問題](https://docs.google.com/spreadsheets/d/1IkOQbXnC8Mb9EWuxEACGf2UcponRdk7SHCrQMoK9Ml8/edit?pli=1#gid=0) - [kyopro_friends](https://atcoder.jp/users/kyopro_friends)さんが原案・作成した問題の一覧。AtCoder Beginner Contest (ABC)で出題された問題が多い。
 - [rng問題](https://docs.google.com/spreadsheets/d/1-dwOvCUGF7ITCYXg2LUFo0YqvZc7PTNX3jz1USuXuBE/edit#gid=0) - [rng_58](https://twitter.com/rng_58)さんが作成した問題の難易度を[Topcoder](https://www.topcoder.com/)の基準で点数化している。また、有志によって難易度の評価やおすすめ問題の投票が行われている。
 
 ### 競技プログラミングとAIとの関係
