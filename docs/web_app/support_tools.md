@@ -77,6 +77,14 @@ title: 問題を解くときの補助ツール
       <img loading = "lazy" src="../../images//web_app/sheep_visualize_graph_beta.png" alt="sheep visualize graph beta">
     </div>
 
+## 入力データをランダムに生成
+
+- [テストケースランダム生成](https://testcase-generator-pr-5ba4e48ff086.herokuapp.com/index/) - 数列・グラフ・文字列を対象として、指定した条件を満たす入力データをランダムに生成できる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/random_testcase_generator.png" alt="random testcase generator">
+    </div>
+
 ## ヒューリスティック問題の入出力を可視化
 
 !!! warning "注意"
