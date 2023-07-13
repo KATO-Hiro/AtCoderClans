@@ -236,15 +236,6 @@ title: リンク切れ
       <img loading = "lazy" src="../../images/related_contest_sites/codeforces/cf-predictor.png" alt="cf predictor">
     </div>
 
-### HOJ (Hamako Online Judge)
-
-- [Hamako Online Judge](https://hoj.hamako-ths.ed.jp/onlinejudge/) - 不定期にコンテストが開催されている。
-    - 確認した日: 2023/06/29
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/related_contest_sites/hoj/hoj.png" alt="hoj">
-    </div>
-
 ### Leetcode
 
 - [Leetcode Rating Predictor](http://lcpredictor.herokuapp.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/SysSn13/leetcode-rating-predictor?style=plastic) - コンテスト終了直後に、レーティングの変動を見ることができる。[Google Chromeの拡張機能](https://chrome.google.com/webstore/detail/lc-predictor/jfhgaegpgiepniiebglgjhhfnjcibphh)も用意されている。
