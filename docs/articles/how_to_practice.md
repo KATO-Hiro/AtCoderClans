@@ -31,11 +31,6 @@ title: コンテストに向けた練習方法を知る
 
 <!-- markdown-link-check-enable -->
 
-- [AtCoder問題カテゴリー分類](https://qiita.com/c-yan/items/56a051d826b873b4f78d) - コンテストで出題された問題が分類されている。上記の記事より難易度が高い問題が多く含まれている。
-
-    !!! warning "注意"
-        2021年10月以降の更新は確認できず。
-
 ### 問題の作成者が公開している問題集
 
 - [フレンズ問題](https://docs.google.com/spreadsheets/d/1IkOQbXnC8Mb9EWuxEACGf2UcponRdk7SHCrQMoK9Ml8/edit?pli=1#gid=0) - [kyopro_friends](https://atcoder.jp/users/kyopro_friends)さんが原案・作成した問題の一覧。AtCoder Beginner Contest (ABC)で出題された問題が多い。
@@ -51,6 +46,3 @@ title: コンテストに向けた練習方法を知る
 ## コンテストに関するTips集
 
 - [AtCoder コンテストについてのtips](https://qiita.com/drken/items/8a6f139158cde8a61dce) - [AtCoder](https://atcoder.jp/)におけるコンテストの成績の解釈方法、参加に関するTips、プログラミングコンテストサイトの紹介について書かれている。
-
-    !!! warning "注意"
-        2020年4月以降更新されていないため、出題される問題数や成績の解釈などが現在と異なる部分もある。
