@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-13
+
+- [#6382](https://github.com/KATO-Hiro/AtCoderClans/pull/6382) - (破壊的な変更) 更新が停止した可能性が高いと思われる記事を「[Archives](../../archived)」ページに移動。
+- [#6379](https://github.com/KATO-Hiro/AtCoderClans/pull/6379) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページに、以下のWebサイトを追加。
+    - [テストケースランダム生成](https://testcase-generator-pr-5ba4e48ff086.herokuapp.com/index/)
+- [#6378](https://github.com/KATO-Hiro/AtCoderClans/pull/6378) - (破壊的な変更) 「[Archives](../../archived)」ページに掲載しているコンテストサイトのリンクが復活したため、該当ページに戻した。
+    - [Hamako Online Judge](https://hoj.hamako-ths.ed.jp/onlinejudge/)
+
 ### 2023-07-12
 
 - [#6371](https://github.com/KATO-Hiro/AtCoderClans/pull/6371)、[#6372](https://github.com/KATO-Hiro/AtCoderClans/pull/6372) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、問題の作者が公開している問題集を追加。
