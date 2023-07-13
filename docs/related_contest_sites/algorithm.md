@@ -2,6 +2,14 @@
 title: 不定期開催
 ---
 
+## HOJ (Hamako Online Judge)
+
+- [Hamako Online Judge](https://hoj.hamako-ths.ed.jp/onlinejudge/) - 不定期にコンテストが開催されている。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/hoj/hoj.png" alt="hoj">
+    </div>
+
 ## Wind Bel Contest
 
 - [Wind Bel Contest](https://mario.exout.net/contests/) - テーマ別のコンテストが不定期に開催されている。
