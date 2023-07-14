@@ -164,6 +164,7 @@ nav:
         - articles/implementation/python.md
         - articles/implementation/ruby.md
         - articles/implementation/rust.md
+        - articles/implementation/others.md
       - articles/user_editorials.md
       - articles/how_to_approach_difficult_problems.md
       - articles/for_writers.md
