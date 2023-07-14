@@ -156,6 +156,25 @@ title: 更新停止の可能性が高い
 
 ### 実装テクニックを学ぶ
 
+#### C&#43;&#43;
+
+- [競技プログラミングとC++のアレコレ](https://koturn.hatenablog.com/entry/2018/07/29/180000) - 競技プログラミングで使われる記法(と業務プログラミングとの違い)を紹介した記事。
+
+    !!! warning "注意"
+        2018年7月末時点の情報のため、ジャッジシステムの実行環境および言語仕様の確認を推奨。
+
+#### Python
+
+- [【AtCoder】チートシート公開(コメント解説付き)【競技プログラミング】](https://qiita.com/sano192/items/5f6cec98ec4ecfb2af2c) - 別の著者による頻出コードのチートシート。コメントでとても丁寧に解説されているのが特徴。
+- [Python3で競技プログラミングする時に知っておきたいtips（入力編）](https://qiita.com/kyuna/items/8ee8916c2f4e36321a1c) - Python利用者に向けて、初心者がつまづきがちなデータの入力方法を詳細に解説した記事。
+- [競プロ界隈でpython強者がやっていることをまとめてみた](https://qiita.com/dekamisako/items/1c104e332351ab9389a6) - Python利用者に向けて、入出力や上位陣が利用している便利なコード集をまとめた記事。
+- [PythonでMultisetっぽいことをする(heapqを用いた実装)](https://qiita.com/mymelochan/items/0c72d8b7ae8d9c3d836a) - Pythonで、C++の`Multiset`に相当する機能の実装方法を紹介した記事。
+
+    !!! warning "注意"
+        擬似`Multiset`での二分探索はできない。
+
+#### Rust
+
 - [Rustで競技プログラミングの入力をスッキリ記述するマクロ](https://qiita.com/tanakh/items/0ba42c7ca36cd29d0ac8) - Rustで入力データを扱うコードを簡潔に書くためのinput!マクロが紹介されている記事。
 
     - 理由: 言語アップデートに伴い、文法・言語仕様が変更されたため。

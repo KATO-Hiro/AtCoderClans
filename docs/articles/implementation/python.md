@@ -1,0 +1,101 @@
+---
+title: Python
+---
+
+## 文法・言語仕様
+
+### 入出力の方法
+
+!!! warning "注意"
+    記事によっては最終更新から時間がやや経過しているため、公式ドキュメントの確認やコンテスト前にジャッジシステムで動作確認を行うことを推奨。
+
+- [Pythonで競プロやるときによく書くコードをまとめてみた](https://qiita.com/y-tsutsu/items/aa7e8e809d6ac167d6a1) - コンテストにPythonで参加する人に向けて、入出力やデータ操作、リスト内包表記などについて解説されている。
+- [PythonでAtCoderをするあれこれ](https://qiita.com/c-yan/items/dbf2838cdd89864ef5ac) - 入出力の方法に加えて、処理を高速化するための工夫が紹介されている記事。
+- [Pythonで使う競技プログラミング用チートシート](https://qiita.com/_-_-_-_-_/items/34f933adc7be875e61d0) - 競技プログラミングでPythonを利用するときに必要な入出力、二分探索、文字列操作に関するチートシート。
+
+### 標準ライブラリの使い方
+
+- [Pythonで競技プログラミング -ライブラリ編-](https://qiita.com/Kentaro_okumura/items/5b95b767a2e691cd5482) - 筆者がPythonの標準ライブラリでよく利用する機能をまとめた記事。利用する問題例のリンクも掲載されている。
+- [Pythonで競プロするのに必要な機能をまとめてみた〜itertools〜](https://qiita.com/DaikiSuyama/items/11f63a94d63fa72e8bf4) - Pythonのitertoolsライブラリのうち、競技プログラミングでよく使う関数をドキュメント形式でまとめた記事。関数の使い方だけでなく、関連した例題も掲載されている。
+- [Pythonで分数のリストを誤差なしでソートする](https://qiita.com/nishizumi_noob/items/7a1323c45cf6ce56a368) - 分数で構成されるリストを誤差なくソートする方法が紹介されている記事。
+- [TimeComplexity](https://wiki.python.org/moin/TimeComplexity) - CPythonにおけるlist、collections.deque、set、dictの各種操作に対する時間計算量がまとめられている記事。
+
+### 言語アップデートによる新機能のまとめ
+
+- [AtCoder Pythonの新環境についてまとめていく-1- 組み込み関数&モジュール](https://it-for-pharma.com/atcoder-python%E3%81%AE%E6%96%B0%E7%92%B0%E5%A2%83%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E3%81%84%E3%81%8F-1-%E7%B5%84%E3%81%BF%E8%BE%BC%E3%81%BF%E9%96%A2%E6%95%B0) - ジャッジシステムのアップデートに伴って、利用できるようになった便利な組み込み関数やモジュールがまとめられている。
+
+### 注意事項
+
+- [PyPyの文字列結合はO(N^2)になって遅いぞ❗←それ、本当ですか？](https://qiita.com/NaHCO3/items/b61e3970ffa0d8e9bdde) - 文字列結合を行うときに、PyPyとCPythonの計算量の違いとその理由について説明されている記事。また、2023年に予定されているジャッジシステムのアップデートの影響についても言及されている。
+- [Python 遅いものたち](https://toriidao.hateblo.jp/entry/2023/01/24/121216) - Pythonで競技プログラミングに参加するときに、時間の掛かる処理と改善策がまとめられている記事。
+- [pythonで競技プログラミング（AtCoder）の問題を解くとき、注意すべき落とし穴](https://qiita.com/satoyuyapyaa/items/9f047fb2babcd028b002) - Pythonでコンテストに参加するときに、実装で注意すべき点をまとめた記事。
+- [Pythonで"in list"から"in set"に変えただけで爆速になった件とその理由](https://qiita.com/kitadakyou/items/6f877edd263f097e78f4) - 要素群の中に特定の要素があるか探す処理を、listの代わりにsetを使って高速化する方法を紹介した記事。また、listとsetの実装の違いについても解説されている。
+- [Pythonのdict()が特定の入力に対し非常に遅い件について](https://qiita.com/Shirotsume/items/890afc81988c63ae9603) - データ構造の一つであるdict()を利用するときに、特定の入力に対してが実行時間がとても長くなる原因とその対処方法が解説されている記事。
+
+## 実装テクニック
+
+### イディオム・スニペット
+
+- [AtCoderで役立つPythonイディオム集](https://qiita.com/hinamimi/items/ab30fffc4920d9f4bc73) - 標準ライブラリや組み込み関数を利用して、実装が楽になるイディオムが紹介されている記事。
+- [atcoderでよく使う手法python版](https://qiita.com/chun1182/items/ddf2b6cba932b2bb0d4e) - Python利用者に向けたスッキリしたコードを書くための記事。基本的な文法、典型的なアルゴリズム・データ構造だけでなく、ライブラリnumpy・scipyの使い方も掲載されている。
+- [AtCoder緑になるまでに勉強した基本的なアルゴリズムやデータ構造まとめ](https://qiita.com/Takayoshi_Makabe/items/65f20edbd970070419f4) - 筆者が緑コーダー（[AtCoder](https://atcoder.jp/)の分類で、レーティング800〜1199）に到達するまでに学習したアルゴリズムが掲載されている。各種アルゴリズム(bit全探索・二分探索、幅優先探索、深さ優先探索、尺取り法、いもす法、ダイクストラ法、貪欲法、動的計画法、優先度付きキュー、UnionFind木)に対して、Pythonによる実装例もある。
+- [あのアルゴリズムはどこ？　Pythonを使用してAtCoderの緑色や水色を目指す方に、30以上のアルゴリズムスニペットと100問以上の問題（ACコード付き）を紹介！](https://qiita.com/H20/items/1a066e242815961cd043) - 特定のアルゴリズムについてPythonで実装された記事の紹介と、そのアルゴリズムを利用して解くことができる例題と解答例がまとめられている。対象読者は、緑色・水色コーダーを目指しているユーザ。
+- [コードテストで速度測定済！PythonによるAtCoderスニペット集(1)基本編](https://qiita.com/toast-uz/items/f7a9f586853300732a2b) - [ToastUz](https://atcoder.jp/users/ToastUz)さんのスニペット集。AtCoderのコードテストで、Python(3.8)とPyPy3のベンチマークが取られているのが特徴。[応用編](https://qiita.com/toast-uz/items/bf6f142bace86c525532)もある。
+- [Pythonで理解する蟻本（プログラミングコンテストチャレンジブック）](https://kuruton.hatenablog.com/entry/2020/10/05/001533) - Pythonユーザが、「[プログラミングコンテストチャレンジブック [第2版] ～問題解決のアルゴリズム活用力とコーディングテクニックを鍛える～](https://www.amazon.co.jp/dp/B00CY9256C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)」(通称、蟻本)を理解するために書かれた記事。原著のコード(C++)が忠実にPythonで書き直されている。
+
+### しゃくとり法
+
+- [しゃくとり法のDequeを使ったバグりにくい実装](https://qiita.com/keroru/items/6e0a22e8c9bf2a24dc68) - 添え字のミスが起こりがちな尺取り法について、両端キュー(deque)を利用して実装する方法が紹介されている。
+
+### 行列の回転
+
+- [【Python】行列の90度右回転、90度左回転、180度回転【AtCoder】](https://qiita.com/rudorufu1981/items/5341d9603ecb1f9c2e5c) - 行列の90度回転、180度回転をシンプルに実装する方法が紹介されている。
+
+### 多倍長演算の活用
+
+- [多倍長演算の活用①](https://qiita.com/Kiri8128/items/5b38f839185acdf3e707) - 多倍長演算を活用して、処理の簡素化・高速化を図る方法を紹介した記事。整数の各bitをフラグとみなして、bit演算で処理する方法が解説されている。
+    - [多倍長演算の活用②](https://qiita.com/Kiri8128/items/a66fd4d6f7f7db7b5554) - 配列の演算を整数に置き換えることでコードの簡素化・処理の高速化を図る方法を紹介した記事。
+
+## デバッグの方法
+
+- [【Python版】AtCoderのコンテスト中に「問題が解けない！」となった時に読む記事](https://qiita.com/H20/items/3de3f298b7c075fa5925) - 筆者の経験をもとに、問題が解けない状況に応じた対処方法が手短にまとめられている記事。
+
+## アルゴリズム・データ構造の活用による高速化
+
+### 両端キュー
+
+- [Pythonで各要素にO(1)でランダムアクセスできるdeque(両端キュー)を書いてみた](https://prd-xxx.hateblo.jp/entry/2020/02/07/114818) - `deque`モジュールの基本的な機能に加えて、ランダムアクセス(indexを指定したアクセス)による参照・変更がO(1)で実行できる方法を紹介した記事。
+
+### 順序付き(多重)集合の代替手段
+
+- [std::setを使わない代替テクニック](https://ikatakos.com/pot/programming_algorithm/data_structure/balancing_binary_search_tree/tree_free) - C++の`std::set`の利用を前提とした問題が出題されたときに、Pythonにおける代替手段をまとめた記事。Binary Indexed Tree (BIT)、優先度付きキュー、ピボット木、平方分割などによる方法が紹介されている。
+- [Pythonでstd::setの代替物を作った](https://qiita.com/tatyam/items/492c70ac4c955c055602) - Pythonで平衡二分探索木(C++の`std::set`に相当)の代替手段を紹介した記事。平方分割で実装されており、コードが短く・高速・多機能であるのが特徴。ソースコードは、[GitHub](https://github.com/tatyam-prime/SortedSet)で公開されている。
+- [平衡二分木を実装する](https://qiita.com/Kiri8128/items/6256f8559f0026485d90) - データ構造の一種である「平衡二分木」をPythonで実装する方法を紹介した記事。平衡を保つために、 ピボット値を設定しているのが特徴。
+
+- [【競プロ専用】PythonでMultiSetを今度こそ](https://qiita.com/toast-uz/items/a63f2d57ec7321186f12) - 簡単かつ汎用性の高い`Multiset`の実装方法が解説されている記事。
+
+    !!! warning "注意"
+        紹介されているコードを利用するときは、[二分探索をサポートしているBinary Indexed Tree (BIT)](https://qiita.com/toast-uz/items/bf6f142bace86c525532#13-bit)が必要。
+
+### ランレングス圧縮
+
+- [競プロの応用事項確認〜ランレングス圧縮〜](https://qiita.com/DaikiSuyama/items/07e237b7372e7c7b3432) - 競技プログラミングにおけるランレングス圧縮の利用方法とPythonによる実装方法を解説した記事。また、例題が豊富に掲載されている。
+
+## 定数倍高速化
+
+- [ダイクストラの枝刈り高速化まとめ【python実装】](https://qiita.com/ansain/items/8a2762446cdf2eb47759) - ダイクストラ法の実装において、枝刈りによる定数倍高速化の方法がまとめられている記事。
+
+## 別の言語を利用して高速化
+
+- [[競プロ] 割と真面目にPythonからC++のsetを使えるようにしたのでみんな使ってみてほしい](https://nagiss.hateblo.jp/entry/2020/09/08/203701) - データ構造の一つである平行二分木が必要になったときに、PythonからC++のstd::setを利用する方法を紹介した記事。Pythonのラッパークラスについて、各メソッドの仕様と計算量が丁寧に解説されている。
+- [AtCoderでCythonの力を開放する魔術詠唱](https://aotamasaki.hatenablog.com/entry/2020/09/09/Cython_in_AtCoder) - Cythonを利用して、コードの実行速度を高速化する方法を解説した記事。
+- [AtCoder Python 謎テク集](https://qiita.com/NaHCO3/items/db71f44d6049c6e9e598) - CPythonやPyPyを活用して、コードを高速化する方法を紹介した記事。
+- [Python/C API を利用して高速な ModInt をつくってみた](https://qiita.com/AkariLuminous/items/1891e634add174fddfce) - Python / C APIを利用した高速なModIntの実装方法とベンチマークが紹介されている記事。
+
+## 最短コードを書く・読む
+
+!!! danger "警告"
+    業務で書くコードでは可読性や再利用性などが重視されるため、記事で紹介されているスマートな方法は競技プログラミングのみで利用されることを推奨。
+
+- [絶対に競プロ以外では書いてはいけない！書いたら○されると思え！なテクニック集](https://qiita.com/kotaro912214/items/575fd778d062703304ea) - 競技プログラミングでPythonのコードを素早く書くことを最優先としたテクニック集。
+- [Pythonゴルフテク(AtCoder)](https://qiita.com/c_r_5/items/bcf069487cb0060c39f2) - Pythonでコードを短く書くためのテクニックが紹介されている。

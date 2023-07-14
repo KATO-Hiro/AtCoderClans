@@ -158,7 +158,15 @@ nav:
       - articles/algorithm.md
       - articles/heuristic.md
       - articles/math.md
-      - articles/implementation.md
+      - 実装テクニックを学ぶ:
+        - articles/implementation/index.md
+        - articles/implementation/general.md
+        - articles/implementation/multiple_languages.md
+        - articles/implementation/cpp.md
+        - articles/implementation/python.md
+        - articles/implementation/ruby.md
+        - articles/implementation/rust.md
+        - articles/implementation/others.md
       - articles/user_editorials.md
       - articles/how_to_approach_difficult_problems.md
       - articles/for_writers.md
