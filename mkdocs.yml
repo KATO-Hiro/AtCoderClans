@@ -162,6 +162,7 @@ nav:
         - articles/implementation/index.md
         - articles/implementation/cpp.md
         - articles/implementation/python.md
+        - articles/implementation/ruby.md
         - articles/implementation/rust.md
       - articles/user_editorials.md
       - articles/how_to_approach_difficult_problems.md
