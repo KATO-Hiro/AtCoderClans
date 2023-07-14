@@ -11,6 +11,16 @@ title: Others
     !!! warning "注意"
         記事の最終更新が2020年3月であるため、コンテスト前にジャッジシステムで動作確認を行うことを推奨。
 
+## C&#35;
+
+### 文法・言語仕様
+
+- [ハイパー LINQ集 (AtCoder 2020年4月)](https://avant-garde-code.hatenablog.com/entry/hyper-linq-atcoder-202004) - LINQを利用して簡潔に書ける例題を紹介した記事。
+
+### 定数倍高速化
+
+- [JOI 2015 予選 財宝(Treasure) 解説 (with C#での定数倍高速化に関する知見)](https://fairy-lettuce.hatenadiary.com/entry/2020/11/11/174913) - [第14回日本情報オリンピック予選のF問題](https://atcoder.jp/contests/joi2015yo/tasks/joi2015yo_f)を題材に、C#における定数倍高速化の知見をまとめた記事。
+
 ## dc
 
 ### 文法・言語仕様
