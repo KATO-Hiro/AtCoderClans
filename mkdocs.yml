@@ -160,6 +160,7 @@ nav:
       - articles/math.md
       - 実装テクニックを学ぶ:
         - articles/implementation/index.md
+        - articles/implementation/cpp.md
       - articles/user_editorials.md
       - articles/how_to_approach_difficult_problems.md
       - articles/for_writers.md
