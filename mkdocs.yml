@@ -160,6 +160,8 @@ nav:
       - articles/math.md
       - 実装テクニックを学ぶ:
         - articles/implementation/index.md
+        - articles/implementation/general.md
+        - articles/implementation/multiple_languages.md
         - articles/implementation/cpp.md
         - articles/implementation/python.md
         - articles/implementation/ruby.md
