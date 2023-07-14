@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-14
+
+- [#6387](https://github.com/KATO-Hiro/AtCoderClans/pull/6387) - (破壊的な変更) 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページを言語別に分割するとともに、掲載している記事の見出しの追加・更新に合わせて再構成した。
+- [#6385](https://github.com/KATO-Hiro/AtCoderClans/pull/6385) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
+    - [ダイクストラの枝刈り高速化まとめ【python実装】](https://qiita.com/ansain/items/8a2762446cdf2eb47759)
+
 ### 2023-07-13
 
 - [#6382](https://github.com/KATO-Hiro/AtCoderClans/pull/6382) - (破壊的な変更) 更新が停止した可能性が高いと思われる記事を「[Archives](../../archived)」ページに移動。
