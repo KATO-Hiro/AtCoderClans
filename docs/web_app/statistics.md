@@ -47,7 +47,7 @@ title: コンテストに関する統計情報
       <img loading = "lazy" src="../../images/web_app/atcoder_heuristic_contest_statistics.png" alt="atcoder heuristic contest statistics">
     </div>
 
-### 成績および制約条件別の得点・順位
+### 成績および条件別の得点・順位
 
 - [tc-wleite/tc-wleite.github.io](https://github.com/tc-wleite/tc-wleite.github.io) ![GitHub Repo stars](https://img.shields.io/github/stars/tc-wleite/tc-wleite.github.io?style=plastic) - [AtCoder Heuristic Contest (AHC)](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=)の最終成績や制約条件別の得点・順位を見ることができる。[Topcoder](https://www.topcoder.com/)のMarathon Matches(MM)についても、同様の集計がされている。
     - [AHC 017](https://tc-wleite.github.io/ahc017.html)
@@ -59,6 +59,12 @@ title: コンテストに関する統計情報
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/tc_wleite_github_io.png" alt="tc wleite github io">
+    </div>
+
+- [scorerun](https://siman-man.github.io/scorerun/index.html) - 各コンテストで1位となったユーザの得点と提出コードの一覧を表示する。延長戦の有無別に集計されている。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/scorerun.png" alt="scorerun">
     </div>
 
 ### 成績の平均値・最高値
