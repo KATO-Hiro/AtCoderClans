@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-15
+
+- [#6394](https://github.com/KATO-Hiro/AtCoderClans/pull/6394) - (破壊的な変更) 更新が停止した可能性が高いと思われるWebサイトを「[Archives](../../archived)」ページに移動。
+- [#6392](https://github.com/KATO-Hiro/AtCoderClans/pull/6392) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページに、以下のWebサイトを追加。
+    - [scorerun](https://siman-man.github.io/scorerun/index.html)
+
 ### 2023-07-14
 
 - [#6387](https://github.com/KATO-Hiro/AtCoderClans/pull/6387) - (破壊的な変更) 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページを言語別に分割するとともに、掲載している記事の見出しの追加・更新に合わせて再構成した。
