@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-16
+
+- [#6402](https://github.com/KATO-Hiro/AtCoderClans/pull/6402) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[totosuki](https://atcoder.jp/users/totosuki)さんの[記事](https://qiita.com/Totosuki/items/d71012254af0977b5298)を追加。
+- [#6401](https://github.com/KATO-Hiro/AtCoderClans/pull/6401) - 「[Scripts](../../scripts)」の「[ライバルを探す・競う](../../user_scripts/rivals)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Non-Participant Hider](https://greasyfork.org/ja/scripts/470676-atcoder-non-participant-hider)
+
 ### 2023-07-15
 
 - [#6394](https://github.com/KATO-Hiro/AtCoderClans/pull/6394) - (破壊的な変更) 更新が停止した可能性が高いと思われるWebサイトを「[Archives](../../archived)」ページに移動。
