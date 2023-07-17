@@ -203,6 +203,14 @@ Webページの背景色の変更や文字・提出コード・問題の正誤�
       <img loading = "lazy" src="../../images/userscript/ac_problems_ranking_colorizer.png" alt="ac problems ranking colorizer">
     </div>
 
+#### Misskey.io
+
+- [Misskey AtCoder Color Buttons](https://greasyfork.org/ja/scripts/470709-misskey-atcoder-color-buttons) -  Misskey.ioの投稿フォームに、文字の色を変更できるボタンを追加する。配色は、AtCoderの各レーティング帯に対応。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/misskey_atcoder_color_buttons.png" alt="misskey atcoder color buttons">
+    </div>
+
 #### Twitter
 
 - [Colorful TL](https://greasyfork.org/ja/scripts/441551-colorful-tl) - TwitterのTimelineにおいて、ユーザ名をAtCoderのレーティングに対応した色に変更する。
