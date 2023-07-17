@@ -64,14 +64,6 @@ Webページの背景色の変更や文字・提出コード・問題の正誤�
       <img loading = "lazy" src="../../images/userscript/atcoder_character_colorizer.png" alt="atcoder character colorizer">
     </div>
 
-### 問題名(難易度)
-
-- [AtCoder Difficulty Colorizer for Typical 90](https://greasyfork.org/ja/scripts/425463-atcoder-difficulty-colorizer-for-typical-90) - 「[競プロ典型90問](https://atcoder.jp/contests/typical90)」の問題名を、難易度に応じた色に変更する。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcoder_difficulty_colorizer_for_typical_90.png" alt="atcoder difficulty colorizer for typical 90">
-    </div>
-
 ### よく似た文字を識別
 
 - [Snuke? Smeke?](https://greasyfork.org/ja/scripts/377622-snuke-smeke) - 問題文の「すぬけ」と「すめけ」をハイライトする。
@@ -86,25 +78,8 @@ Webページの背景色の変更や文字・提出コード・問題の正誤�
 
 - [AtCoder Comfortable Editor](https://greasyfork.org/ja/scripts/445582-atcoder-comfortable-editor) - 提出に関するページで、コードの表示に関する設定(カラーテーマ、タブ、行数など)をカスタマイズできる。
 
-    !!! warning "注意"
-        後述の[AtCoder Beautiful Code View](https://greasyfork.org/ja/scripts/444280-atcoder-beautiful-code-view)との併用はできない。
-
     <div align="center">
         <img loading = "lazy" src="../../images/userscript/atcoder_comfortable_editor.png" alt="atcoder comfortable editor">
-    </div>
-
-### 提出結果
-
-- [AtCoder Beautiful Code View](https://greasyfork.org/ja/scripts/444280-atcoder-beautiful-code-view) - [Monaco Editor](https://github.com/microsoft/monaco-editor)を利用して、「提出結果」ページのコードを見やすく表示する。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcoder_beautiful_code_view.png" alt="atcoder beautiful code view">
-    </div>
-
-- [AtCoder Better Highlighter](https://greasyfork.org/ja/scripts/412865-atcoder-better-highlighter) - 「提出結果」ページのコードをハイライトして見やすくする。デフォルトで10種類以上の言語をサポートしており、対応言語の拡張や配色の変更も可能。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcoder_better_highlighter.png" alt="atcoder background colorizer">
     </div>
 
 ## 問題の提出・正誤状況を確認
@@ -177,31 +152,13 @@ Webページの背景色の変更や文字・提出コード・問題の正誤�
 
 ### 順位表
 
-#### アルゴリズム部門
-
-- [perf on standings](https://greasyfork.org/en/scripts/422106-perf-on-standings) - 「順位表」ページで、Rated対象者の順位をパフォーマンス値に対応した色で塗る。
+- [perf on standings](https://greasyfork.org/ja/scripts/422106-perf-on-standings) - 「順位表」ページで、Rated対象者の順位をパフォーマンス値に対応した色で塗る。
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/perf_on_standings.png" alt="perf on standings">
     </div>
 
-#### ヒューリスティック部門
-
-- [AtCoder Heuristic Rating coloring](https://greasyfork.org/ja/scripts/427070-atcoder-heuristic-rating-coloring) - [AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=0&category=1200&keyword=AtCoder+Heuristic+Contest)の「順位表」ページで、ユーザ名を同コンテストのレーティングに応じて色付けする。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcoder_heuristic_rating_coloring.png" alt="atcoder heuristic rating coloring">
-    </div>
-
 ### 外部サービス
-
-#### AtCoder Problems
-
-- [AC Problems Ranking Colorizer](https://greasyfork.org/ja/scripts/429485-ac-problems-ranking-colorizer) - [AtCoder Problems](https://kenkoooo.com/atcoder/) のランキングページで、ユーザ名をAtCoderのレーティングに対応した色に変更する。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/ac_problems_ranking_colorizer.png" alt="ac problems ranking colorizer">
-    </div>
 
 #### Misskey.io
 
@@ -210,10 +167,6 @@ Webページの背景色の変更や文字・提出コード・問題の正誤�
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/misskey_atcoder_color_buttons.png" alt="misskey atcoder color buttons">
     </div>
-
-#### Twitter
-
-- [Colorful TL](https://greasyfork.org/ja/scripts/441551-colorful-tl) - TwitterのTimelineにおいて、ユーザ名をAtCoderのレーティングに対応した色に変更する。
 
 #### ICPC
 

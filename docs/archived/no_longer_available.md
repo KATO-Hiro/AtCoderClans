@@ -271,6 +271,14 @@ title: 開発・提供終了
 
 ### 外部サービス
 
+- [AC Problems Ranking Colorizer](https://greasyfork.org/ja/scripts/429485-ac-problems-ranking-colorizer) - [AtCoder Problems](https://kenkoooo.com/atcoder/) のランキングページで、ユーザ名をAtCoderのレーティングに対応した色に変更する。
+    - 理由: スクリプトの機能が[AtCoder Problems](https://kenkoooo.com/atcoder/)に取り入れられたため。
+    - 確認した日: 2023/07/17
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/ac_problems_ranking_colorizer.png" alt="ac problems ranking colorizer">
+    </div>
+
 - [acscores-link](https://greasyfork.org/ja/scripts/377267-acscores-link) - ユーザ名のドロップダウンメニューに[AtCoder Scores](http://atcoder-scores.herokuapp.com/)へのリンクを追加する。
     - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
     - 代替手段: [AtCoder Scores](http://atcoder-scores.herokuapp.com/)のリンクから閲覧する。
