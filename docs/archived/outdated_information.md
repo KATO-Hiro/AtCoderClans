@@ -142,6 +142,43 @@ title: 更新停止の可能性が高い
 
 ### Webページに色付けする
 
+- [AtCoder Difficulty Colorizer for Typical 90](https://greasyfork.org/ja/scripts/425463-atcoder-difficulty-colorizer-for-typical-90) - 「[競プロ典型90問](https://atcoder.jp/contests/typical90)」の問題名を、難易度に応じた色に変更する。
+    - 確認した日: 2023/07/17
+    - 理由: [atcoder-difficulty-display](https://greasyfork.org/ja/scripts/397185-atcoder-difficulty-display)に同じ機能が実装されたことを確認したため。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_difficulty_colorizer_for_typical_90.png" alt="atcoder difficulty colorizer for typical 90">
+    </div>
+
+- [AtCoder Beautiful Code View](https://greasyfork.org/ja/scripts/444280-atcoder-beautiful-code-view) - [Monaco Editor](https://github.com/microsoft/monaco-editor)を利用して、「提出結果」ページのコードを見やすく表示する。
+    - 確認した日: 2023/07/17
+    - 理由: [AtCoder Comfortable Editor](https://greasyfork.org/ja/scripts/445582-atcoder-comfortable-editor)の方がより高機能であり、かつ、併用ができないため。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_beautiful_code_view.png" alt="atcoder beautiful code view">
+    </div>
+
+- [AtCoder Better Highlighter](https://greasyfork.org/ja/scripts/412865-atcoder-better-highlighter) - 「提出結果」ページのコードをハイライトして見やすくする。デフォルトで10種類以上の言語をサポートしており、対応言語の拡張や配色の変更も可能。
+    - 確認した日: 2023/07/17
+    - 理由: 作者により同スクリプトの更新停止が告知されているため。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_better_highlighter.png" alt="atcoder background colorizer">
+    </div>
+
+- [AtCoder Heuristic Rating coloring](https://greasyfork.org/ja/scripts/427070-atcoder-heuristic-rating-coloring) - [AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=0&category=1200&keyword=AtCoder+Heuristic+Contest)の「順位表」ページで、ユーザ名を同コンテストのレーティングに応じて色付けする。
+    - 確認した日: 2023/07/17
+    - 理由: 作者により同スクリプトの更新停止が告知されているため。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_heuristic_rating_coloring.png" alt="atcoder heuristic rating coloring">
+    </div>
+
+
+- [Colorful TL](https://greasyfork.org/ja/scripts/441551-colorful-tl) - TwitterのTimelineにおいて、ユーザ名をAtCoderのレーティングに対応した色に変更する。
+    - 確認した日: 2023/07/17
+    - 理由: データ取得先の[AtCoder TL](https://github.com/shirakia/atcoder_tl)のサービス終了に伴い、更新が停止した可能性が高いと思われるため。
+
 - [icpc2021_teamlist](https://github.com/riantkb/icpc2021_teamlist) - [ICPC 2021チーム一覧](http://www.yamagula.ic.i.u-tokyo.ac.jp/icpc2021/standings.html)に、ユーザ名とAtCoderのレーティングに対応した色を表示する。[Webサイト版](https://riantkb.github.io/icpc2021_teamlist/)もある。
 
     <div align="center">
