@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-17
+
+- [#6410](https://github.com/KATO-Hiro/AtCoderClans/pull/6410) - (破壊的な変更) 更新が停止した可能性が高いと思われるユーザスクリプトを「[Archives](../../archived)」ページに移動。
+- [#6408](https://github.com/KATO-Hiro/AtCoderClans/pull/6408) - 「[Scripts](../../scripts)」の「[Webページに色付けする](../../user_scripts/colors)」ページに、以下のユーザスクリプトを追加。
+    - [Misskey AtCoder Color Buttons](https://greasyfork.org/ja/scripts/470709-misskey-atcoder-color-buttons)
+
 ### 2023-07-16
 
 - [#6402](https://github.com/KATO-Hiro/AtCoderClans/pull/6402) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
