@@ -11,6 +11,7 @@ title: コンテストに関する統計情報を見る
 - [AJL 学校スコア(上位5校)、個人スコア(上位5人)の推移(2023年6月19日時点)](https://twitter.com/gojira_kyopro/status/1670634706545836032)
     - [同7月3日時点](https://twitter.com/gojira_kyopro/status/1675735792629714944)
     - [同7月10日時点](https://twitter.com/gojira_kyopro/status/1678260520615546881)
+    - [同7月18日時点](https://twitter.com/gojira_kyopro/status/1681177713212821510)
 
 ## ユーザ・レーティングの分布
 
