@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-18
+
+- [#6418](https://github.com/KATO-Hiro/AtCoderClans/pull/6418) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [爆速ビームサーチライブラリを作る](https://qiita.com/rhoo/items/2f647e32f6ff2c6ee056)
+- [#6417](https://github.com/KATO-Hiro/AtCoderClans/pull/6417) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AJL 学校スコア(上位5校)、個人スコア(上位5人)の推移(2023年7月18日時点)](https://twitter.com/gojira_kyopro/status/1681177713212821510)
+
 ### 2023-07-17
 
 - [#6410](https://github.com/KATO-Hiro/AtCoderClans/pull/6410) - (破壊的な変更) 更新が停止した可能性が高いと思われるユーザスクリプトを「[Archives](../../archived)」ページに移動。
