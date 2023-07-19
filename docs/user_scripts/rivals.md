@@ -20,6 +20,14 @@ title: ライバルを探す・競う
       <img loading = "lazy" src="../../images/userscript/atcoder_user_search_form.png" alt="atcoder user search form">
     </div>
 
+### ユーザを識別しやすくする
+
+- [AC Iconner](https://greasyfork.org/ja/scripts/470954-ac-iconner) - ユーザ名の前に、ユーザページの「アイコン設定」で登録されている画像を表示する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/ac_iconner.png" alt="ac iconner">
+    </div>
+
 ## お気に入りユーザを登録・確認
 
 ### お気に入りをより使いやすく
