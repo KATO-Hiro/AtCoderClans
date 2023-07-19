@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-19
+
+- [#6422](https://github.com/KATO-Hiro/AtCoderClans/pull/6422) - 「[Web apps and sites](../../web_app)」の「[Bot](../../bot)」ページに、以下のBotを追加。
+    - [contest - Misskey.io](https://misskey.kyoupro.com/@contest)
+- [#6421](https://github.com/KATO-Hiro/AtCoderClans/pull/6421) - 「[Scripts](../../scripts)」の「[ライバルを探す・競う](../../user_scripts/rivals)」ページに、以下のユーザスクリプトを追加。
+    - [AC Iconner](https://greasyfork.org/ja/scripts/470954-ac-iconner)
+
 ### 2023-07-18
 
 - [#6418](https://github.com/KATO-Hiro/AtCoderClans/pull/6418) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
