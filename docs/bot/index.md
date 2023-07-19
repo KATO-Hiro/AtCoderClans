@@ -77,6 +77,18 @@ title: Bot
       <img loading = "lazy" src="../images/web_app/atcoder_chokuzen.png" alt="atcoder chokuzen">
     </div>
 
+### Misskey.io
+
+- [contest](https://misskey.kyoupro.com/@contest) - 当日に予定されているコンテストを通知する。以下のコンテストサイトに対応。
+    - [AtCoder](https://atcoder.jp/)
+    - [CodeChef](https://www.codechef.com/)
+    - [Codeforces](https://codeforces.com/)
+    - [yukicoder](https://yukicoder.me/)
+
+    <div align="center">
+      <img loading = "lazy" src="../images/web_app/misskey_contest_bot.png" alt="misskey contest bot">
+    </div>
+
 ### Twitter
 
 - [AtCoderお知らせ更新情報 (非公式)](https://twitter.com/AtCoderInfoBot) - [AtCoder](https://atcoder.jp/)公式のお知らせが更新されたときに通知する。
