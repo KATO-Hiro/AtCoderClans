@@ -6,9 +6,10 @@ title: Change Log
 
 ### 2023-07-20
 
-- [#6424](https://github.com/KATO-Hiro/AtCoderClans/pull/6424)、[#6425](https://github.com/KATO-Hiro/AtCoderClans/pull/6425) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
-    - [[競プロ]AtCoderのTLEには2種類あり、対策が異なる](https://qiita.com/tomii9273/items/0a6da545670afcf5de1c)
+- [#6425](https://github.com/KATO-Hiro/AtCoderClans/pull/6425) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - C++](../../articles/implementation/cpp)」ページに、以下の記事を追加。
     - [rep マクロ](https://suisen-kyopro.hatenablog.com/entry/2023/07/16/004815)
+- [#6424](https://github.com/KATO-Hiro/AtCoderClans/pull/6424) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - 特定の言語に依存しない内容](../../articles/implementation/general)」ページに、以下の記事を追加。
+    - [[競プロ]AtCoderのTLEには2種類あり、対策が異なる](https://qiita.com/tomii9273/items/0a6da545670afcf5de1c)
 
 ### 2023-07-19
 
