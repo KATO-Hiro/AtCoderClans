@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-20
+
+- [#6424](https://github.com/KATO-Hiro/AtCoderClans/pull/6424)、[#6425](https://github.com/KATO-Hiro/AtCoderClans/pull/6425) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ](../../articles/implementation)」ページに、以下の記事を追加。
+    - [[競プロ]AtCoderのTLEには2種類あり、対策が異なる](https://qiita.com/tomii9273/items/0a6da545670afcf5de1c)
+    - [rep マクロ](https://suisen-kyopro.hatenablog.com/entry/2023/07/16/004815)
+
 ### 2023-07-19
 
 - [#6422](https://github.com/KATO-Hiro/AtCoderClans/pull/6422) - 「[Web apps and sites](../../web_app)」の「[Bot](../../bot)」ページに、以下のBotを追加。
