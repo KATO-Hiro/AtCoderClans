@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-22
+
+- [#6438](https://github.com/KATO-Hiro/AtCoderClans/pull/6438)、[#6439](https://github.com/KATO-Hiro/AtCoderClans/pull/6439) - (破壊的な変更) 更新が停止した可能性が高いと思われるコマンドラインツールを「[Archives](../../archived)」ページに移動。
+- [#6436](https://github.com/KATO-Hiro/AtCoderClans/pull/6436) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[rinmao](https://atcoder.jp/users/rinmao)さんの[記事](https://qiita.com/rinmao_catlover/items/587904effdd410134fcd)を追加。
+
 ### 2023-07-21
 
 - [#6432](https://github.com/KATO-Hiro/AtCoderClans/pull/6432) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のVOICEROID実況チャンネルを追加。
