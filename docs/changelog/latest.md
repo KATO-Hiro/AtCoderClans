@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-21
+
+- [#6432](https://github.com/KATO-Hiro/AtCoderClans/pull/6432) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のVOICEROID実況チャンネルを追加。
+    - [ループ](https://www.youtube.com/@user-cu8lo3co2e)
+- [#6430](https://github.com/KATO-Hiro/AtCoderClans/pull/6430) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに、以下の書籍を追加。
+    - [Pythonで学ぶアルゴリズムとデータ構造](https://www.amazon.co.jp/dp/B084G23P7N)
+
 ### 2023-07-20
 
 - [#6425](https://github.com/KATO-Hiro/AtCoderClans/pull/6425) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - C++](../../articles/implementation/cpp)」ページに、以下の記事を追加。
