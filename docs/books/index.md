@@ -45,6 +45,11 @@ title: 書籍
 
         解説がとてもシンプル、かつ、第2版発行からやや時間が経過していることから、Web記事・解説ブログとともに参照することを推奨。
 
+### 幅広い分野の基礎を学ぶ
+
+- [Pythonで学ぶアルゴリズムとデータ構造](https://www.amazon.co.jp/dp/B084G23P7N) - アルゴリズム・データ構造をPythonで学ぶための入門書。ソート・データの探索・グラフ理論・動的計画法・計算量に加えて、乱択アルゴリズム・数論や社会への応用例など幅広い話題が解説されている。
+    - [ソースコード](https://github.com/tsjshg/pyalgdata) ![GitHub Repo stars](https://img.shields.io/github/stars/tsjshg/pyalgdata?style=plastic)
+
 ### 特定の分野を重点的に学ぶ
 
 - [Open Data Structures](https://sites.google.com/view/open-data-structures-ja) - データ構造に関する入門書。ソースコードが[GitHub](https://github.com/spinute/ods)で公開されている。
