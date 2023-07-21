@@ -16,7 +16,7 @@ title: テンプレート・テストケースを用意
 
 ### ヒューリスティック部門
 
-- [kmyk/marathon-kit](https://github.com/kmyk/marathon-kit) ![GitHub Repo stars](https://img.shields.io/github/stars/kmyk/marathon-kit?style=plastic) - AtCoder Heuristic Contestのためのテンプレートレポジトリ。テストの並列実行、途中経過のビジュアライズ、GitHubでの自動テストが実行できる。
+- 調査中。
 
 ## テストケースの生成・追加
 

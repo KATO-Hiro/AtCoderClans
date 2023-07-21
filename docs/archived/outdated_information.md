@@ -285,6 +285,12 @@ title: 更新停止の可能性が高い
 
 - [atc](https://github.com/nasjp/atc) ![GitHub stars](https://img.shields.io/github/stars/nasjp/atc?style=plastic) - 軽量のテストツール。
 
+### テンプレートを生成
+
+#### ヒューリスティック部門
+
+- [kmyk/marathon-kit](https://github.com/kmyk/marathon-kit) ![GitHub Repo stars](https://img.shields.io/github/stars/kmyk/marathon-kit?style=plastic) - AtCoder Heuristic Contestのためのテンプレートレポジトリ。テストの並列実行、途中経過のビジュアライズ、GitHubでの自動テストが実行できる。
+
 ## 関連コンテストサイト
 
 ### 情報オリンピック
