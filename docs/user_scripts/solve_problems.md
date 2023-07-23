@@ -41,7 +41,7 @@ title: 問題を解く
 
 ### 一覧(特定のコンテスト)
 
-- [AtCoder Listing Tasks](https://greasyfork.org/ja/scripts/467289-atcoder-listing-tasks) - 「問題」ページに、各問題に移動できるドロップダウンリストを追加する。
+- [AtCoder Listing Tasks](https://greasyfork.org/ja/scripts/467289-atcoder-listing-tasks) - 「問題」ページに、各問題に移動できるドロップダウンリストを追加する。また、複数の問題をまとめて開くこともできる。
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_listing_tasks.png" alt="atcoder listing tasks">
