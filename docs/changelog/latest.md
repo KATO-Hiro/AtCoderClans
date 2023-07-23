@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-23
+
+- [#6447](https://github.com/KATO-Hiro/AtCoderClans/pull/6447) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
+    - [上限付き単調増加列の数え上げ](https://noshi91.hatenablog.com/entry/2023/07/21/235339)
+- [#6446](https://github.com/KATO-Hiro/AtCoderClans/pull/6446) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに掲載している記事のリンクを修正。
+
 ### 2023-07-22
 
 - [#6438](https://github.com/KATO-Hiro/AtCoderClans/pull/6438)、[#6439](https://github.com/KATO-Hiro/AtCoderClans/pull/6439) - (破壊的な変更) 更新が停止した可能性が高いと思われるコマンドラインツールを「[Archives](../../archived)」ページに移動。
