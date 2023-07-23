@@ -42,7 +42,7 @@ title: アルゴリズムを学ぶ
 - [スタックとキューを極める！ 〜 考え方と使い所を特集 〜](https://qiita.com/drken/items/6a95b57d2e374a3d3292) - 基本的なデータ構造であるスタックとキューの考え方と活用方法について解説された記事。
 - [DFS(深さ優先探索)超入門！ 〜 グラフ・アルゴリズムの世界への入口 〜【前編】](https://qiita.com/drken/items/4a7869c5e304883f539b) - 探索手法の一つである深さ優先探索について、問題を解きながら慣れることを目指した記事。[後編](https://qiita.com/drken/items/a803d4fc4a727e02f7ba)もある。
 - [BFS (幅優先探索) 超入門！ 〜 キューを鮮やかに使いこなす 〜](https://qiita.com/drken/items/996d80bcae64649a6580) - 探索手法の一つである幅優先探索について解説されている記事。異なる視点・方法で問題を解くことで、グラフの性質について深く親しむことを目指しているのが特徴。また、[深さ優先探索の記事](https://qiita.com/drken/items/4a7869c5e304883f539b)とは、独立に読むことができるよう工夫されている。
-- [DFS・BFSのステップアップ練習問題](https://drken1215.hatenablog.com/archive/category/DFS%E3%83%BBBFS%E3%81%AE%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E7%B7%B4%E7%BF%92%E5%95%8F%E9%A1%8C) - DFS・BFSの理解をより深めるための問題と[drken](https://atcoder.jp/users/drken)さんによる解説の一覧。
+- [【問題集】DFS・BFSのステップアップ](https://drken1215.hatenablog.com/archive/category/%E3%80%90%E5%95%8F%E9%A1%8C%E9%9B%86%E3%80%91DFS%E3%83%BBBFS%E3%81%AE%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97) - DFS・BFSの理解をより深めるための問題と[drken](https://atcoder.jp/users/drken)さんによる解説の一覧。
 
 ### bit全探索
 
@@ -51,7 +51,7 @@ title: アルゴリズムを学ぶ
 
 ### 問題集
 
-- [整数変数の式で表された条件を扱う探索問題](https://drken1215.hatenablog.com/archive/category/%E6%95%B4%E6%95%B0%E5%A4%89%E6%95%B0%E3%81%AE%E5%BC%8F%E3%81%A7%E8%A1%A8%E3%81%95%E3%82%8C%E3%81%9F%E6%9D%A1%E4%BB%B6%E3%82%92%E6%89%B1%E3%81%86%E6%8E%A2%E7%B4%A2%E5%95%8F%E9%A1%8C) - [drken](https://atcoder.jp/users/drken)さんによる過去問の解説集。一見すると整数の問題のような「探索」を扱った問題がまとめられている。
+- [【問題集】整数変数の式で表された条件を扱う探索](https://drken1215.hatenablog.com/archive/category/%E3%80%90%E5%95%8F%E9%A1%8C%E9%9B%86%E3%80%91%E6%95%B4%E6%95%B0%E5%A4%89%E6%95%B0%E3%81%AE%E5%BC%8F%E3%81%A7%E8%A1%A8%E3%81%95%E3%82%8C%E3%81%9F%E6%9D%A1%E4%BB%B6%E3%82%92%E6%89%B1%E3%81%86%E6%8E%A2%E7%B4%A2) - [drken](https://atcoder.jp/users/drken)さんによる過去問の解説集。一見すると整数の問題のような「探索」を扱った問題がまとめられている。
 
 ## 頻出テクニック
 
@@ -125,7 +125,7 @@ title: アルゴリズムを学ぶ
 
 ### 連想配列
 
-- [連想配列(setやmap)を用いる練習問題](https://drken1215.hatenablog.com/archive/category/%E9%80%A3%E6%83%B3%E9%85%8D%E5%88%97%28set%E3%82%84map%29%E3%82%92%E7%94%A8%E3%81%84%E3%82%8B%E7%B7%B4%E7%BF%92%E5%95%8F%E9%A1%8C) - [drken](https://atcoder.jp/users/drken)さんによる過去問の解説集。連想配列を活用する問題がまとめられている。
+- [【問題集】set・map](https://drken1215.hatenablog.com/archive/category/%E3%80%90%E5%95%8F%E9%A1%8C%E9%9B%86%E3%80%91set%E3%83%BBmap) - [drken](https://atcoder.jp/users/drken)さんによる過去問の解説集。連想配列を活用する問題がまとめられている。
 
 ### Union-Find木
 
