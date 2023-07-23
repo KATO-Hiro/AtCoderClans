@@ -329,7 +329,7 @@ title: Change Log
 ### 2023-06-06
 
 - [#6110](https://github.com/KATO-Hiro/AtCoderClans/pull/6110) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
-    - [DFS・BFSのステップアップ練習問題](https://drken1215.hatenablog.com/archive/category/DFS%E3%83%BBBFS%E3%81%AE%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%E7%B7%B4%E7%BF%92%E5%95%8F%E9%A1%8C)
+    - [【問題集】DFS・BFSのステップアップ](https://drken1215.hatenablog.com/archive/category/%E3%80%90%E5%95%8F%E9%A1%8C%E9%9B%86%E3%80%91DFS%E3%83%BBBFS%E3%81%AE%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97)
 
 ### 2023-06-05
 
@@ -352,7 +352,7 @@ title: Change Log
     - [まよコン](http://discord.gg/exFTabXHhA)
     - [もすーんバチャ通知](https://twitter.com/Mosoon_V)
 - [#6085](https://github.com/KATO-Hiro/AtCoderClans/pull/6085)、[#6086](https://github.com/KATO-Hiro/AtCoderClans/pull/6086) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
-    - [連想配列(setやmap)を用いる練習問題](https://drken1215.hatenablog.com/archive/category/%E9%80%A3%E6%83%B3%E9%85%8D%E5%88%97%28set%E3%82%84map%29%E3%82%92%E7%94%A8%E3%81%84%E3%82%8B%E7%B7%B4%E7%BF%92%E5%95%8F%E9%A1%8C)
+    - [【問題集】set・map](https://drken1215.hatenablog.com/archive/category/%E3%80%90%E5%95%8F%E9%A1%8C%E9%9B%86%E3%80%91set%E3%83%BBmap)
     - [2部グラフ判定問題](https://prd-xxx.hateblo.jp/entry/2017/10/13/004256)
 
 ### 2023-06-02
