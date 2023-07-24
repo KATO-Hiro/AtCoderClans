@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-24
+
+- [#6453](https://github.com/KATO-Hiro/AtCoderClans/pull/6453) - (不具合修正) 夜間モードを指定したときに、本サイトのヘッダーが昼間モードと同じ配色となるように修正。
+- [#6452](https://github.com/KATO-Hiro/AtCoderClans/pull/6452) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AJL 学校スコア(上位5校)、個人スコア(上位5人)の推移(2023年7月24日時点)](https://twitter.com/gojira_kyopro/status/1683336164907036672)
+- [#6449](https://github.com/KATO-Hiro/AtCoderClans/pull/6449) - [luuguas](https://github.com/luuguas)さんのプルリクエストにより、「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページで掲載しているユーザスクリプトの説明文とサムネイル画像を更新。
+    - [AtCoder Listing Tasks](https://greasyfork.org/ja/scripts/467289-atcoder-listing-tasks)
+
 ### 2023-07-23
 
 - [#6447](https://github.com/KATO-Hiro/AtCoderClans/pull/6447) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
