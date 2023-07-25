@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-25
+
+- [#6459](https://github.com/KATO-Hiro/AtCoderClans/pull/6459) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [スライド最大（最小）値・ヒストグラム内最大長方形問題を俯瞰する](https://qiita.com/kuuso1/items/318d42cd089a49eeb332)
+- [#6458](https://github.com/KATO-Hiro/AtCoderClans/pull/6458) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
+    - [【競プロer向け】FFT を習得しよう！](https://trap.jp/post/1386/)
+
 ### 2023-07-24
 
 - [#6453](https://github.com/KATO-Hiro/AtCoderClans/pull/6453) - (不具合修正) 夜間モードを指定したときに、本サイトのヘッダーが昼間モードと同じ配色となるように修正。
