@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-26
+
+- [#6465](https://github.com/KATO-Hiro/AtCoderClans/pull/6465) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページで掲載している書籍の販売開始に伴い、説明文を更新。
+    - [高校数学の基礎が150分でわかる本](https://www.amazon.co.jp/dp/4478117802/)
+- [#6464](https://github.com/KATO-Hiro/AtCoderClans/pull/6464) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[powell](https://atcoder.jp/users/powell)さんの[記事](https://blog.powell1213.com/2023/07/23/atcoder-cyan/)を追加。
+
 ### 2023-07-25
 
 - [#6459](https://github.com/KATO-Hiro/AtCoderClans/pull/6459) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
