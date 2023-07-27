@@ -95,3 +95,11 @@ title: 情報オリンピック
 
 - [IOI2020 参加記](https://drive.google.com/file/d/1UOFW6Vtxz5S5hWBK78swQg368F6L15kp/view) - [E869120](https://atcoder.jp/users/E869120)さんによる第32回国際情報オリンピック(IOI2020)の参加記。「金メダルを確実に取る」という観点から、本番での立ち回りが詳細に解説されている。また、筆者が5年間の競技生活を通して得た経験は、後進に勇気と希望を与えてくれる内容だと思われる。
 - [国際情報オリンピック (IOI 2020) 参加記 ~ 情報オリンピックへの感謝の気持ちを込めて ~](https://drive.google.com/file/d/1NGhlPCmRadq8j2oNeFmH4LfPiooI7H_1/view) - [square1001](https://atcoder.jp/users/square1001)さんによる第32回国際情報オリンピック(IOI2020)の参加記。部分点を確実に取りながら、満点を目指す戦略が詳しく解説されている。また、筆者が大会に参加するまでの過程や競技プログラミングを通して得られた経験には、後進にとって有益な情報が多く含まれていると思われる。
+
+## EGOI (European Girls’ Olympiad in Informatics)
+
+### 記事
+
+#### 参加記を読む
+
+- [EGOI2023　イギリス代表としての参加記](https://clara775.hatenablog.com/entry/2023/07/27/005753) - [うえこ](https://clara775.hatenablog.com/)さんによる[European Girls' Olympiad in Informatics 2023 (EGOI2023)](https://egoi23.se/)の参加記。コンテスト当日の振り返りに加えて、各国の参加者との国際交流・関連イベント・観光・グルメなど幅広い話題に言及されている。
