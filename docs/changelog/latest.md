@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-27
+
+- [#6475](https://github.com/KATO-Hiro/AtCoderClans/pull/6475) - 「[Scripts](../../scripts)」の「[ライバルを探す・競う](../../user_scripts/rivals)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Solve Declaration](https://greasyfork.org/ja/scripts/471128-atcoder-solve-declaration)
+- [#6474](https://github.com/KATO-Hiro/AtCoderClans/pull/6474) - 「[Related Contest Sites](../../related_contest_sites)」の「[情報オリンピック](../../related_contest_sites/joi_ioi)」ページに、以下の記事を追加。
+    - [EGOI2023　イギリス代表としての参加記](https://clara775.hatenablog.com/entry/2023/07/27/005753)
+
 ### 2023-07-26
 
 - [#6465](https://github.com/KATO-Hiro/AtCoderClans/pull/6465) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページで掲載している書籍の販売開始に伴い、説明文を更新。
