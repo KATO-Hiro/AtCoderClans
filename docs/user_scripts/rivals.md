@@ -88,6 +88,14 @@ title: ライバルを探す・競う
       <img loading = "lazy" src="../../images/userscript/misskey_share_button_for_atcoder.png" alt="misskey share button for atcoder">
     </div>
 
+### 問題を解くと宣言
+
+- [AtCoder Solve Declaration](https://greasyfork.org/ja/scripts/471128-atcoder-solve-declaration) - 「問題」ページに、「(問題を)ときます」とツイートするボタンを追加する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_solve_declaration.png" alt="atcoder solve declaration">
+    </div>
+
 ### ツイートにハッシュタグを追加
 
 - [AtCoder HashTag Setter](https://greasyfork.org/ja/scripts/422324-atcoder-hashtag-setter) - 「コンテスト」「問題」「提出」の各ページにあるTwitter Shareボタンを利用するときに、ツイートに関連したハッシュタグを追加する。
