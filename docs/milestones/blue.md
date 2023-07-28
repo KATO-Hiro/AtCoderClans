@@ -18,6 +18,7 @@ title: レーティング1600〜1999(青色)
 
 ## 2022年
 
+- [【AtCoder】文系大学生が青色になるまで](https://qiita.com/cozy_sauna/items/6a34648ec2a0eb20ef35) - [cozy_sauna](https://atcoder.jp/users/cozy_sauna)さんが、2022年12月11日に公開。
 - [入青 - harurun競プロ](https://harurunppp.hatenablog.com/entry/2022/12/06/011825) - [harurun](https://atcoder.jp/users/harurun)さんが、2022年11月26日に達成。
 - [AtCoderアルゴで入青した話 - 競プロ勉強メモ](https://kntychance.hatenablog.jp/entry/2022/11/13/142154) - [knty](https://atcoder.jp/users/knty)さんが、2022年11月12日に達成。
 - [atcoderで青色になった話](https://qiita.com/mo124121/items/ee0c75c89e2fe0640cb6) - [mo12412](https://atcoder.jp/users/mo12412)さんが、2022年10月2日に達成。
