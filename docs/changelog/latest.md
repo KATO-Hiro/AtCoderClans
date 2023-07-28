@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-28
+
+- [#6485](https://github.com/KATO-Hiro/AtCoderClans/pull/6485) - (破壊的な変更) 記事に記載されているイベントが終了したと思われるため、一時的に「[Archives](../../archived)」ページに移動。
+- [#6483](https://github.com/KATO-Hiro/AtCoderClans/pull/6483) - 「[Related Contest Sites](../../related_contest_sites)」の「[情報オリンピック](../../related_contest_sites/joi_ioi)」ページに、以下の記事を追加。
+    - [夏季セミナーで効率の良いアルゴリズムを一緒に学ぼう！（中高生対象：8/17～8/20の4日間, 設定：初級, 中級, 上級コース）](https://jcioi-summer-seminar-2023.peatix.com/)
+- [#6482](https://github.com/KATO-Hiro/AtCoderClans/pull/6482) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[cozy_sauna](https://atcoder.jp/users/cozy_sauna)さんの[記事](https://qiita.com/cozy_sauna/items/6a34648ec2a0eb20ef35)を追加。
+
 ### 2023-07-27
 
 - [#6475](https://github.com/KATO-Hiro/AtCoderClans/pull/6475) - 「[Scripts](../../scripts)」の「[ライバルを探す・競う](../../user_scripts/rivals)」ページに、以下のユーザスクリプトを追加。
