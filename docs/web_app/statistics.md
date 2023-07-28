@@ -69,10 +69,11 @@ title: コンテストに関する統計情報
 
 ### 成績の平均値・最高値
 
-- [AtCoder QQ](https://app.tsutaj.com/atcoder-qq/) - コンテストの順位を、最高順位が含まれる形で表形式 (縦軸: 10の位、横軸: 1の位) で示す。
+- [AtCoder QQ](https://atcoder-qq.vercel.app/) - コンテストの順位を、最高順位が含まれる形で表形式 (縦軸: 10の位、横軸: 1の位) で示す。また、セルをクリックすると、該当するコンテスト情報が表示される。
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_qq.png" alt="atcoder qq">
+    </div>
 
 ### 成績に関する相関係数
 
