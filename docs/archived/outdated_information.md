@@ -299,6 +299,8 @@ title: 更新停止の可能性が高い
 
     - 理由: 記載なし。
 
+- [JOI夏季セミナーに代わる輪読会の開催について](https://kaage.hatenablog.com/entry/2022/03/25/210000) - JOI夏季セミナー(ハイレベルコース)の開催見送りに伴い、代替イベントとなる輪読会の参加者を募集している記事。
+
 ### 数学系コンテスト
 
 - [Beginners Math Contest](https://twitter.com/BMC_rifle) - 初心者向けの競技数学コンテストが開催されている。

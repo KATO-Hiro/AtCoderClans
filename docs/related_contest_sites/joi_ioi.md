@@ -60,8 +60,6 @@ title: 情報オリンピック
 
         ・テキストを自己負担で事前に用意する必要がある
 
-- [JOI夏季セミナーに代わる輪読会の開催について](https://kaage.hatenablog.com/entry/2022/03/25/210000) - JOI夏季セミナー(ハイレベルコース)の開催見送りに伴い、代替イベントとなる輪読会の参加者を募集している記事。
-
 ## IOI (International Olympiad in Informatics)
 
 ### Webアプリ・Webサイト
