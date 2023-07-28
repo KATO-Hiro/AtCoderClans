@@ -4,6 +4,17 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-29
+
+- [#6494](https://github.com/KATO-Hiro/AtCoderClans/pull/6494) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページに掲載しているWebアプリのリニューアルに伴い、説明文とサムネイル画像を更新。
+    - [AtCoder QQ](https://atcoder-qq.vercel.app/)
+- [#6493](https://github.com/KATO-Hiro/AtCoderClans/pull/6493) - 「[Related Contest Sites](../../related_contest_sites)」の「[Webサービス系コンテスト](../../related_contest_sites/web_services)」ページに、以下のコンテストサイトを追加。
+    - [ICTトラブルシューティングコンテスト](https://icttoracon.net/)
+- [#6492](https://github.com/KATO-Hiro/AtCoderClans/pull/6492) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [ビームサーチをライブラリ化する【基礎編】](https://platinum-prog.hatenablog.com/entry/2023/07/28/222536)
+- [#6491](https://github.com/KATO-Hiro/AtCoderClans/pull/6491) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Others](../../articles/implementation/others)」ページに、以下の記事を追加。
+    - [【Crystal】AtCoderの言語アップデートで嬉しいことまとめ！](https://qiita.com/ngng628/items/37ebd481a0f9d9ef6ad8)
+
 ### 2023-07-28
 
 - [#6485](https://github.com/KATO-Hiro/AtCoderClans/pull/6485) - (破壊的な変更) 記事に記載されているイベントが終了したと思われるため、一時的に「[Archives](../../archived)」ページに移動。
