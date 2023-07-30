@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-07-30
+
+- [#6502](https://github.com/KATO-Hiro/AtCoderClans/pull/6502) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
+    - [「数式の多い解説」の読み方について](https://drken1215.hatenablog.com/entry/2023/07/30/130100)
+
 ### 2023-07-29
 
 - [#6494](https://github.com/KATO-Hiro/AtCoderClans/pull/6494) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページに掲載しているWebアプリのリニューアルに伴い、説明文とサムネイル画像を更新。
