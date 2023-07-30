@@ -8,7 +8,11 @@ title: 関連プロジェクト・参考資料
 
 - [AtCoderでの競技プログラミングがもっと楽しくなるサイトまとめ](https://noimin.hatenablog.com/entry/2017/12/16/230900)
 
+<!-- markdown-link-check-disable -->
+
 - [AtCoder Wiki](https://wikiwiki.jp/procon/Atcoder)
+
+<!-- markdown-link-check-enable -->
 
 - [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) ![GitHub Repo stars](https://img.shields.io/github/stars/lnishan/awesome-competitive-programming?style=plastic)
 
