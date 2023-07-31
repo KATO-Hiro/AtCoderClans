@@ -14,14 +14,6 @@ title: セキュリティ系コンテスト
       <img loading = "lazy" src="../../images/related_contest_sites/ctf/ctf_time.png" alt="ctf time">
     </div>
 
-#### 成績を見る
-
-- [CTF-Ratings](https://github.com/theoremoon/ctf-ratings) - CTF(Capture The Flag)のレーティングシステム。レーティングとパフォーマンスは、AtCoderに準拠している。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/related_contest_sites/ctf/ctf_ratings.png" alt="ctf ratings">
-    </div>
-
 ### 記事
 
 #### Advent Calendar
