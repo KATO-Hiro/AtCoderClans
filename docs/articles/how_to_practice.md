@@ -25,11 +25,8 @@ title: コンテストに向けた練習方法を知る
 
 ### 問題のカテゴリを知る
 
-<!-- markdown-link-check-disable -->
-
-- [AtCoderの問題を分類しました](https://qiita.com/KoyanagiHitoshi/items/32dc42d8c5ee75339e54) - [AtCoder](https://atcoder.jp/)で開催されたコンテストについて、問題の分類とPythonでの[解答例](https://github.com/KoyanagiHitoshi/AtCoder-Python-Introduction)が示されている。AtCoder Beginner Contest(ABC)のABC001〜ABC244のA問題・B問題・C問題と、AtCoder Regular Contest(ARC)のARC001〜ARC137のA問題などが対象。動作環境は、Python3.8.2。
-
-<!-- markdown-link-check-enable -->
+- [AtCoderの問題を分類しました](https://zenn.dev/koyanagihitoshi?tab=books) - [AtCoder](https://atcoder.jp/)で開催されたコンテストについて、問題が分類(入出力、組み込み型、組み込み関数・モジュール、データ構造・アルゴリズム、数学などの6種類)されている。
+    - [Pythonによる解答例](https://github.com/KoyanagiHitoshi/AtCoder-Python-Introduction) - 動作環境は、Python3.8.2。
 
 ### 問題の作成者が公開している問題集
 
