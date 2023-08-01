@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-08-01
+
+- [#6519](https://github.com/KATO-Hiro/AtCoderClans/pull/6519) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページで掲載している記事のリンクを更新。
+    - [AtCoderの問題を分類しました](https://zenn.dev/koyanagihitoshi?tab=books)
+- [#6517](https://github.com/KATO-Hiro/AtCoderClans/pull/6517) - (破壊的な変更) 定期的な更新の可能性が低いと思われるWebアプリを一時的に「[Archives](../../archived)」ページに移動。
+- [#6515](https://github.com/KATO-Hiro/AtCoderClans/pull/6515) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、問題の作者が公開している問題集を追加。
+    - [自作問題 - maspyのHP](https://maspypy.com/category/%E8%87%AA%E4%BD%9C%E5%95%8F%E9%A1%8C)
+
 ### 2023-07-31
 
 - [#6510](https://github.com/KATO-Hiro/AtCoderClans/pull/6510) - (破壊的な変更) 定期的な更新の可能性が低いと思われるWebサイトを一時的に「[Archives](../../archived)」ページに移動。
