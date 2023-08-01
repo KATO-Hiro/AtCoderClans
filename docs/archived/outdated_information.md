@@ -17,6 +17,17 @@ title: 更新停止の可能性が高い
       <img loading = "lazy" src="../../images/web_app/atcoder_translations.png" alt="atcoder translations">
     </div>
 
+### 得点状況と配点から次に解く問題を決める
+
+- [AtCoder Strategies](https://atcoder-strategies.web.app/) - ある時点の得点状況と正解の可能性がある問題の配点に基づいて、得られる点数の組み合わせ(見込み)を昇順に表示する。
+
+    !!! warning "注意"
+        アルゴリズム部門の[日鉄ソリューションズプログラミングコンテスト2023（AtCoder Beginner Contest 303）](https://atcoder.jp/contests/abc303)以降のコンテストに対応(手動)。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_strategies.png" alt="atcoder strategies">
+    </div>
+
 ### ヒューリスティック問題の入出力を可視化
 
 - [ahc001-gen-vis-wasm](https://kenkoooo.github.io/ahc001-gen-vis-wasm/) - [AtCoder Heuristic Contest 001](https://atcoder.jp/contests/ahc001)で提供されている入力ジェネレータとビジュアライザをWebブラウザから利用することできる。ソースコードは、[GitHub](https://github.com/kenkoooo/ahc001-gen-vis-wasm) ![GitHub Repo stars](https://img.shields.io/github/stars/kenkoooo/ahc001-gen-vis-wasm?style=plastic)で公開されている。
