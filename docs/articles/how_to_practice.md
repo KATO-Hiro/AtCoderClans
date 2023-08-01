@@ -34,6 +34,7 @@ title: コンテストに向けた練習方法を知る
 ### 問題の作成者が公開している問題集
 
 - [フレンズ問題](https://docs.google.com/spreadsheets/d/1IkOQbXnC8Mb9EWuxEACGf2UcponRdk7SHCrQMoK9Ml8/edit?pli=1#gid=0) - [kyopro_friends](https://atcoder.jp/users/kyopro_friends)さんが原案・作成した問題の一覧。AtCoder Beginner Contest (ABC)で出題された問題が多い。
+- [自作問題 - maspyのHP](https://maspypy.com/category/%E8%87%AA%E4%BD%9C%E5%95%8F%E9%A1%8C) - [maspy](https://atcoder.jp/users/maspy)さんが作成した問題の一覧。大部分がAtCoder Regular/Grand Contest (通称ARC、AGC)で出題されている。
 - [nok0 問題集](https://hackmd.io/@nok0/SkQxZznwh) - [nok0](https://atcoder.jp/users/nok0)さんが原案の問題集(一部)。典型的な問題と応用的な問題に大別されている。
 - [rng問題](https://docs.google.com/spreadsheets/d/1-dwOvCUGF7ITCYXg2LUFo0YqvZc7PTNX3jz1USuXuBE/edit#gid=0) - [rng_58](https://twitter.com/rng_58)さんが作成した問題の難易度を[Topcoder](https://www.topcoder.com/)の基準で点数化している。また、有志によって難易度の評価やおすすめ問題の投票が行われている。
 
