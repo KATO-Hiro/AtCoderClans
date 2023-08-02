@@ -22,6 +22,7 @@ title: 数学を学ぶ
 
 - [Cognicull](https://cognicull.com/ja) - さまざまな数学用語が分かりやすく解説されているWebサイト。また、自然科学や工学に関する内容も含まれている。
 - [高校数学の美しい物語](https://manabitimes.jp/math) - 高校数学に関する内容を分かりやく解説したWebサイト。大学数学の内容についても記事が多数掲載されている。
+- [閑話休題](https://ikuro-kotaro.sakura.ne.jp/koramu.htm) - 25年以上にわたって数学・物理に関連した挿話・話題を解説しているWebサイト。
 - [オンライン整数列大辞典 (OEIS)](https://oeis.org/?language=japanese) - 整数列(各項が整数である数列)に関するオンラインのデータベース。公式、参考文献などの情報も含まれている。
 
 ## 数式が多い解説の読み方
