@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-08-02
+
+- [#6524](https://github.com/KATO-Hiro/AtCoderClans/pull/6524) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下のWebサイトを追加。
+    - [閑話休題](https://ikuro-kotaro.sakura.ne.jp/koramu.htm)
+- [#6523](https://github.com/KATO-Hiro/AtCoderClans/pull/6523) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[ragna](https://atcoder.jp/users/ragna)さんの[記事](https://ragnawow.hatenablog.com/entry/2023/07/30/011040)を追加。
+
 ### 2023-08-01
 
 - [#6519](https://github.com/KATO-Hiro/AtCoderClans/pull/6519) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページで掲載している記事のリンクを更新。
