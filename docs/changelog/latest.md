@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-08-03
+
+- [#6531](https://github.com/KATO-Hiro/AtCoderClans/pull/6531) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - C++](../../articles/implementation/cpp)」ページに、以下の記事を追加。
+    - [添字や境界条件で毎回バグらせてる人かわいそう](https://rsk0315.hatenablog.com/entry/2020/08/03/212149)
+- [#6530](https://github.com/KATO-Hiro/AtCoderClans/pull/6530) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - 複数の言語](../../articles/implementation/multiple_languages)」ページに、以下の記事を追加。
+    - [使用できる言語とライブラリの一覧 - AtCoder](https://img.atcoder.jp/file/language-update/language-list.html)
+
 ### 2023-08-02
 
 - [#6524](https://github.com/KATO-Hiro/AtCoderClans/pull/6524) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下のWebサイトを追加。
