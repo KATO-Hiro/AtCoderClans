@@ -32,6 +32,7 @@ title: C&#43;&#43;
 - [安定感をあげるABCの「早解き」戦術](https://qiita.com/KowerKoint/items/8fc16aecc1cc93689a4e) - AtCoder Beginner Contest (ABC)で、問題を早く解くために環境面と実装面の工夫をそれぞれ紹介した記事。
 - [競技プログラミングでC++を書くときに意識していること](https://blog.knshnb.com/posts/competitive-cplusplus-real/) - C++でコードを実装するときに、筆者が意識していることを紹介した記事。バグを埋め込みにくく、デバッグしやすいコードを書くためのポイントがまとめられている。
 - [競プロ実装テクニック - よすぽの日記](https://yosupo.hatenablog.com/entry/2020/07/30/221504) - [yosupo](https://atcoder.jp/users/yosupo)さんが、コードの実装において効果が高い、もしくは、一般性がありそうだと判断した項目についてまとめた記事。
+- [添字や境界条件で毎回バグらせてる人かわいそう](https://rsk0315.hatenablog.com/entry/2020/08/03/212149) - [rsk0315](https://atcoder.jp/users/rsk0315)さんが、バグを埋め込みにくい書き方を紹介している記事。累積和・二分探索・尺取り法・動的計画法(DP)などの例が示されている。
 
 ## デバッグの方法
 
