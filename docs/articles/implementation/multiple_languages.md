@@ -2,6 +2,10 @@
 title: 複数の言語
 ---
 
+## ジャッジシステムで利用可能な言語とライブラリ一覧
+
+- [使用できる言語とライブラリの一覧](https://img.atcoder.jp/file/language-update/language-list.html) - ジャッジシステムのアップデート(2023年8月)に伴い、利用可能な言語とライブラリの一覧がまとめられている。
+
 ## 文法・言語仕様
 
 - [Python と C++ の文法の比較](https://qiita.com/toriidao/items/6ffee7f40cc2e47c3e22) - PythonとC++における入出力・基本的な文法が比較できるようにまとめられている記事。
