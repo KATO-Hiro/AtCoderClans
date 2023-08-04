@@ -31,6 +31,12 @@ title: Others
 
 - [AtCoderのABCのA問題でdcで書きやすいものまとめ](https://qiita.com/shogo314/items/fff4be1573d2f86dba2a) - AtCoder Beginner Contest 100までのA問題を対象として、各問題の解答の方針がまとめられている。
 
+## Go
+
+### イディオム・スニペット
+
+- [Go言語でmod計算をするライブラリ for AtCoder](https://tech.aru-zakki.com/modulo-calcuration-lib-for-golang/) - 剰余を含む演算(ModInt)の実装例が紹介されている記事。
+
 ## JavaScript
 
 ### 文法・言語仕様
