@@ -33,6 +33,12 @@ title: Others
 
 ## Go
 
+### 文法・言語仕様
+
+#### 注意事項
+
+- [Go言語でAtCoderに参加する場合の注意点｜テンプレートも公開](https://tech.aru-zakki.com/atcoder-golang/) - Goで競技プログラミングに参加するときに、入出力・標準関数に関する注意事項と、これらの課題に対応したテンプレートが紹介されている記事。
+
 ### イディオム・スニペット
 
 - [Go言語でmod計算をするライブラリ for AtCoder](https://tech.aru-zakki.com/modulo-calcuration-lib-for-golang/) - 剰余を含む演算(ModInt)の実装例が紹介されている記事。
