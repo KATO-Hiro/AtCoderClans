@@ -46,6 +46,12 @@ title: ライバルを探す・競う
       <img loading = "lazy" src="../../images/userscript/atcoder_non_participant_hider.png" alt="atcoder non participant hider">
     </div>
 
+- [AtCoder Standings Excluding Unrated User](https://greasyfork.org/ja/scripts/472242-atcoder-standings-excluding-unrated-user) - 「順位表」ページで、コンテストに参加登録していないお気に入りユーザを非表示にする。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_standings_excluding_unrated_user.png" alt="atcoder standings excluding unrated user">
+    </div>
+
 ### 成績を見る
 
 - [AtCoder Fav Rating](https://greasyfork.org/ja/scripts/406745-atcoder-fav-rating) - 「アカウント」ページにお気に入りの順位・レーティング(現在・最高)・参加回数を一覧で表示するボタンを設置する。
