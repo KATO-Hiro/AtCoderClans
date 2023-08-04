@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-08-04
+
+- [#6539](https://github.com/KATO-Hiro/AtCoderClans/pull/6539) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - 特定の言語に依存しない内容](../../articles/implementation/general)」ページに、以下の記事を追加。
+    - [競技プログラミングにおけるWrong Answerの原因ビンゴ](https://gist.github.com/ichyo/8415070)
+- [#6538](https://github.com/KATO-Hiro/AtCoderClans/pull/6538) - 「[Scripts](../../scripts)」の「[ライバルを探す・競う](../../user_scripts/rivals)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Standings Excluding Unrated User](https://greasyfork.org/ja/scripts/472242-atcoder-standings-excluding-unrated-user)
+
 ### 2023-08-03
 
 - [#6531](https://github.com/KATO-Hiro/AtCoderClans/pull/6531) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - C++](../../articles/implementation/cpp)」ページに、以下の記事を追加。
