@@ -90,7 +90,7 @@ title: 問題を解く
 
 ### 多言語への対応
 
-- [Atcoder Better!](https://greasyfork.org/ja/scripts/471106-atcoder-better) - コンテストの問題文やタイトルを中国語に翻訳できるボタンを追加する。翻訳サービスは、設定から変更できる(デフォルトは、[DeepL](https://www.deepl.com/en/translator))。
+- [Atcoder Better!](https://greasyfork.org/ja/scripts/471106-atcoder-better) - 問題のタイトルや本文を中国語に翻訳できるボタンを追加する。翻訳サービスは、設定から変更できる(デフォルトは、[DeepL](https://www.deepl.com/en/translator))。
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_better.png" alt="atcoder better">
