@@ -15,6 +15,7 @@ title: 特定の言語に依存しない内容
 ### 主なバグの原因
 
 - [バグった原因集](https://motsu-xe.hatenablog.com/entry/2019/11/15/173514) - [Motsu_xe](https://atcoder.jp/users/Motsu_xe)さんによって、競技プログラミングにおけるバグの原因が一覧としてまとめられている。
+- [競技プログラミングにおけるWrong Answerの原因ビンゴ](https://gist.github.com/ichyo/8415070) - 提出したコードが不正解(WA: Wrong Answer)となる原因が25種類にまとめられている。
 
 ### ランダムテストを書く
 
