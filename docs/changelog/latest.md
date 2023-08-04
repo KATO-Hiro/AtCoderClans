@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-08-05
+
+- [#6544](https://github.com/KATO-Hiro/AtCoderClans/pull/6544) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
+    - [Atcoder Better!](https://greasyfork.org/ja/scripts/471106-atcoder-better)
+- [#6542](https://github.com/KATO-Hiro/AtCoderClans/pull/6542)、[#6543](https://github.com/KATO-Hiro/AtCoderClans/pull/6543) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Others](../../articles/implementation/others)」ページに、以下の記事を追加。
+    - [Go言語でAtCoderに参加する場合の注意点｜テンプレートも公開](https://tech.aru-zakki.com/atcoder-golang/)
+    - [Go言語でmod計算をするライブラリ for AtCoder](https://tech.aru-zakki.com/modulo-calcuration-lib-for-golang/)
+
 ### 2023-08-04
 
 - [#6539](https://github.com/KATO-Hiro/AtCoderClans/pull/6539) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - 特定の言語に依存しない内容](../../articles/implementation/general)」ページに、以下の記事を追加。
