@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-08-06
+
+- [#6548](https://github.com/KATO-Hiro/AtCoderClans/pull/6548) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [ちょっと速いかもしれないローリングハッシュ](https://yosupo.hatenablog.com/entry/2023/08/06/181942)
+
 ### 2023-08-05
 
 - [#6544](https://github.com/KATO-Hiro/AtCoderClans/pull/6544) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
