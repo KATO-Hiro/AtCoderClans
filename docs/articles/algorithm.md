@@ -226,6 +226,7 @@ title: アルゴリズムを学ぶ
 ### 文字列検索
 
 - [安全で爆速なRollingHashの話](https://qiita.com/keymoon/items/11fac5627672a6d6a9f6) - 文字列検索に関する手法・RollingHashについて、Hashの衝突(異なる文字が同じHashを取ること)を回避しながら高速に計算する方法を解説した記事。
+    - [ちょっと速いかもしれないローリングハッシュ](https://yosupo.hatenablog.com/entry/2023/08/06/181942) - 上記の記事を踏まえて、より高速化することが試みられている。
 - [文字列の頭良い感じの線形アルゴリズムたち](https://snuke.hatenablog.com/entry/2014/12/01/235807) - 文字列検索に関するアルゴリズムを紹介した記事。
 
 ## その他
