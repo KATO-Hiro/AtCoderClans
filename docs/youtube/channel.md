@@ -11,10 +11,6 @@ title: チャンネル
     - [AtCoderPV](https://www.youtube.com/watch?v=TbZhKTMPJeI) - 同チャンネルの公式プロモーションビデオ。特に、競技プログラミングを始めようと思っている人や周囲に布教したい人におすすめ。
     - [社長のお仕事配信](https://www.youtube.com/watch?v=PiQvXNoV5YQ): [chokudai](https://twitter.com/chokudai)さんの仕事が見られる実験的な生放送
 
-## VOICEROID実況
-
-- [ループ](https://www.youtube.com/@user-cu8lo3co2e) - [loop0919](https://atcoder.jp/users/loop0919)さんのチャンネル。コンテストのVOICEROID実況動画が公開されている。
-
 ## VTuber (バーチャルYouTuber)
 
 - [kurenaif](https://www.youtube.com/playlist?list=PL6J0QYBvVReHBH_mkLCs8BbuAkx20gamN) - [kurenaif](https://atcoder.jp/users/kurenaif)さんのチャンネル。競技プログラミングの初心者に対して、コーチングを行いながら考察を進める過程を紹介した動画が公開されている。

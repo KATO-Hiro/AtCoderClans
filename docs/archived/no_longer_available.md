@@ -314,6 +314,12 @@ title: 開発・提供終了
 
 ## 動画
 
+### VOICEROID実況
+
+- [ループ](https://www.youtube.com/@user-cu8lo3co2e) - [loop0919](https://atcoder.jp/users/loop0919)さんのチャンネル。コンテストのVOICEROID実況動画が公開されている。
+    - 確認した日: 2023/08/07
+    - 理由: 記載なし。
+
 ### YouTubeのチャンネル
 
 - [ななみつき](https://www.youtube.com/playlist?list=PLKs3DZp2szRMAHKnNg2ZlIhW9uXfBQg6a) - [Nanamitsuki](https://atcoder.jp/users/Nanamitsuki)さんのチャンネル。コンテストの過去問を解く動画などが公開されている。
