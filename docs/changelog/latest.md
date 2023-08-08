@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-08-08
+
+- [#6564](https://github.com/KATO-Hiro/AtCoderClans/pull/6564) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [Rustでマラソンをするときに使えそうなスニペット達](https://qiita.com/hatoo@github/items/652b81e8e83b0680bc0a)
+
 ### 2023-08-07
 
 - [#6558](https://github.com/KATO-Hiro/AtCoderClans/pull/6558)、[#6559](https://github.com/KATO-Hiro/AtCoderClans/pull/6559) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
