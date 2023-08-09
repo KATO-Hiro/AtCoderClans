@@ -108,6 +108,14 @@ title: 数学を学ぶ
 - [【競技プログラミング】形式的冪級数の応用テクニック(前編)](https://qiita.com/hotman78/items/f0e6d2265badd84d429a) - 数え上げなどの問題を解くときに用いられる「形式的冪級数」の応用テクニックをまとめた記事([hotman78](https://atcoder.jp/users/hotman78)さん)。前提知識として、フーリエ変換や形式的冪級数の基礎について理解していることが求められる。
 - [【競プロer向け】母関数を習得しよう！](https://trap.jp/post/1657/) - 数え上げの問題に対して、数列を母関数に変換して考察するテクニックが解説されている記事。
 
+### Monge性
+
+- [Mongeの手引書](https://speakerdeck.com/tatyam_prime/monge-noshou-yin-shu) - Monge行列の定義、解釈の方法、例題(単一始点最短経路問題とその一般化)、オンライン・オフライン変換やLARSCH algorithmの解説など幅広い話題がまとめられているスライド。
+
+    !!! info "参考"
+
+        Monge性に関する内容を読みたい場合は、99ページ以降を参照されたい。
+
 ---
 
 <div align="center">
