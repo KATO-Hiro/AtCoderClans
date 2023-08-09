@@ -110,6 +110,7 @@ title: 数学を学ぶ
 
 ### Monge性
 
+- [[Monge まとめ①] Monge 性とは？](https://hackmd.io/@tatyam-prime/monge1) - Monge行列の定義、性質、用途、具体例がまとめられている記事。
 - [Mongeの手引書](https://speakerdeck.com/tatyam_prime/monge-noshou-yin-shu) - Monge行列の定義、解釈の方法、例題(単一始点最短経路問題とその一般化)、オンライン・オフライン変換やLARSCH algorithmの解説など幅広い話題がまとめられているスライド。
 
     !!! info "参考"
