@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-08-09
+
+- [#6569](https://github.com/KATO-Hiro/AtCoderClans/pull/6569) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Others](../../articles/implementation/others)」ページに、以下の記事を追加。
+    - [AtCoderのC言語で標準数学関数が使えなくなるようなので、x87を使えるようにしておく](https://qiita.com/mikecat_mixc/items/f458fe46542087c06a97)
+- [#6567](https://github.com/KATO-Hiro/AtCoderClans/pull/6567)、[#6568](https://github.com/KATO-Hiro/AtCoderClans/pull/6568) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事・スライドを追加。
+    - [[Monge まとめ①] Monge 性とは？](https://hackmd.io/@tatyam-prime/monge1)
+    - [Mongeの手引書](https://speakerdeck.com/tatyam_prime/monge-noshou-yin-shu)
+
 ### 2023-08-08
 
 - [#6564](https://github.com/KATO-Hiro/AtCoderClans/pull/6564) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
