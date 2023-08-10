@@ -50,14 +50,14 @@
 
 === "記事"
 
-    ### 2023-08-10
+    2023-08-10
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [ビームサーチをライブラリ化する【応用編】](https://platinum-prog.hatenablog.com/entry/2023/08/09/203217)
 
 === "国内外のコンテストサイト"
 
-    ### 2023-08-10
+    2023-08-10
 
     - 「[不定期開催](related_contest_sites/algorithm)」ページ
         - [MOFE](https://mofecoder.com/)
