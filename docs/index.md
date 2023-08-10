@@ -44,6 +44,24 @@
 
 ---
 
+## 最新情報を確認する
+
+直近1〜2週間の更新状況を掲載しています(ベータ版)。
+
+=== "記事"
+
+    ### 2023-08-10
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [ビームサーチをライブラリ化する【応用編】](https://platinum-prog.hatenablog.com/entry/2023/08/09/203217)
+
+=== "国内外のコンテストサイト"
+
+    ### 2023-08-10
+
+    - 「[不定期開催](related_contest_sites/algorithm)」ページ
+        - [MOFE](https://mofecoder.com/)
+
 ## AtCoder公式グッズを購入する
 
 - [SUZURI](https://suzuri.jp/AtCoder) - [AtCoder](https://atcoder.jp/)のロゴ入りグッズが購入できる。
