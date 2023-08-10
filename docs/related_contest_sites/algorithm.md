@@ -10,6 +10,11 @@ title: 不定期開催
       <img loading = "lazy" src="../../images/related_contest_sites/hoj/hoj.png" alt="hoj">
     </div>
 
+## MOFE
+
+- [MOFE](https://mofecoder.com/) - (ベータ版) CafeCoderと[MojaCoder](https://mojacoder.app/)の統合・リニューアルによって開始予定のコンテストサイト([出典](https://twitter.com/CafeCoder_/status/1689280921835335680))。
+    - [公式アカウント](https://twitter.com/CafeCoder_)
+
 ## Wind Bel Contest
 
 - [Wind Bel Contest](https://mario.exout.net/contests/) - テーマ別のコンテストが不定期に開催されている。

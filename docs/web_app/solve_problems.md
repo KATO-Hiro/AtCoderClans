@@ -100,6 +100,9 @@ title: 問題を解く
     !!! danger "警告"
         - [告知専用のTwitterアカウント](https://twitter.com/MojaCoder)もあるが、2021年8月以降は更新を確認できず。
 
+    !!! warning "注意"
+        - 同サービスを引き続き利用するには、[MOFE](https://mofecoder.com/)への移行作業が必要([出典](https://twitter.com/CafeCoder_/status/1689280921835335680))。
+
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/mojacoder.png" alt="mojacoder">
     </div>
