@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-08-10
+
+- [#6578](https://github.com/KATO-Hiro/AtCoderClans/pull/6578) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [ビームサーチをライブラリ化する【応用編】](https://platinum-prog.hatenablog.com/entry/2023/08/09/203217)
+- [#6577](https://github.com/KATO-Hiro/AtCoderClans/pull/5131) - 「[Related Contest Sites](../../related_contest_sites)」の「[不定期開催](../../related_contest_sites/algorithm)」ページに、以下のコンテストサイトを追加。
+    - [MOFE](https://mofecoder.com/)
+
 ### 2023-08-09
 
 - [#6569](https://github.com/KATO-Hiro/AtCoderClans/pull/6569) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Others](../../articles/implementation/others)」ページに、以下の記事を追加。
