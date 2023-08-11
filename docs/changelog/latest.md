@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-08-12
+
+- [#6588](https://github.com/KATO-Hiro/AtCoderClans/pull/6588)、[#6589](https://github.com/KATO-Hiro/AtCoderClans/pull/6589) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。
+    - [AtCoderの環境を Docker で作りたい](https://qiita.com/tf63/items/c93c6f24d73599e637d8)
+    - [【どこでも精進】競プロのためのC++スマホコーディング環境構築　※iOS限定](https://qiita.com/deuteridayo/items/5ce27e8780847330e324)
+
 ### 2023-08-11
 
 - [#6585](https://github.com/KATO-Hiro/AtCoderClans/pull/6585) - (破壊的な変更) 「[Change Log](../latest)」ページの2023年6月分を月別のアーカイブに移動。

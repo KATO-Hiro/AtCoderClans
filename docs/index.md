@@ -61,6 +61,12 @@
 
 === "記事"
 
+    2023-08-12
+
+    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
+        - [AtCoderの環境を Docker で作りたい](https://qiita.com/tf63/items/c93c6f24d73599e637d8)
+        - [【どこでも精進】競プロのためのC++スマホコーディング環境構築　※iOS限定](https://qiita.com/deuteridayo/items/5ce27e8780847330e324)
+
     2023-08-10
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
