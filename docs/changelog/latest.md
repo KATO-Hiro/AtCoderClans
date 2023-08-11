@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-08-11
+
+- [#6585](https://github.com/KATO-Hiro/AtCoderClans/pull/6585) - (破壊的な変更) 「[Change Log](../latest)」ページの2023年6月分を月別のアーカイブに移動。
+    - [June, 2023](../2023_06)
+- [#6584](https://github.com/KATO-Hiro/AtCoderClans/pull/6584) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページに、以下のWebサイトを追加。
+    - [グラフ可視化ツール](https://zeronosu77108.github.io/show-graph/)
+
 ### 2023-08-10
 
 - [#6579](https://github.com/KATO-Hiro/AtCoderClans/pull/6579)、[#6580](https://github.com/KATO-Hiro/AtCoderClans/pull/6580) - [nickname959198](https://twitter.com/nickname959198)さんのご要望を踏まえて、「[Home](../../)」ページに「[最新情報を確認する](../../#_3)」を追加。

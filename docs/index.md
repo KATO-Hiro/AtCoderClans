@@ -48,6 +48,17 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "Webアプリ・Webサイト"
+
+    2023-08-11
+
+    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
+        - [グラフ可視化ツール](https://zeronosu77108.github.io/show-graph/)
+
+    <div align="center">
+        <img loading = "lazy" src="images/web_app/show_graph.png" alt="show graph">
+    </div>
+
 === "記事"
 
     2023-08-10
