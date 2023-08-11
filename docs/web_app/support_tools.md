@@ -66,6 +66,12 @@ title: 問題を解くときの補助ツール
       <img loading = "lazy" src="../../images//web_app/sheep_visualize_graph_beta.png" alt="sheep visualize graph beta">
     </div>
 
+- [グラフ可視化ツール](https://zeronosu77108.github.io/show-graph/) - 有向グラフ・無向グラフの入力例を可視化する。頂点だけでなく、辺の色も変えられる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/show_graph.png" alt="show graph">
+    </div>
+
 ## 入力データをランダムに生成
 
 - [テストケースランダム生成](https://testcase-generator-pr-5ba4e48ff086.herokuapp.com/index/) - 数列・グラフ・文字列を対象として、指定した条件を満たす入力データをランダムに生成できる。
