@@ -4,6 +4,7 @@ title: レーティング1600〜1999(青色)
 
 ## 2023年
 
+- [【入青記事その1】精進振り返り編 - jabeeの競プロ日記](https://jabee.hatenablog.com/entry/2023/08/12/074238) - [jabee](https://atcoder.jp/users/jabee)さんが、2023年8月12日に公開。
 - [RubyとCrystalでAtCoder青色になりました](https://qiita.com/theanine/items/0746adfbd9da80701ec4) - [theanine](https://atcoder.jp/users/theanine)さんが、2023年6月10日に公開。
 - [AtCoder青になるまでやったこと・やらなかったこと](https://qiita.com/bo9chan/items/f04a92b48a7d7e5c327a) - [bo9chan](https://atcoder.jp/users/bo9chan)さんが、2023年5月22日に公開。
 - [【AtCoder】5年かけて入青したゆる系競プロerの色変記事](https://qiita.com/yasagure_/items/d6f7305ddebf5c806b5d) - [Yasagure](https://atcoder.jp/users/Yasagure)さんが、2023年5月22日に達成。
