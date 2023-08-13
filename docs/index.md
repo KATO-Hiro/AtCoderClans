@@ -72,6 +72,18 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [ビームサーチをライブラリ化する【応用編】](https://platinum-prog.hatenablog.com/entry/2023/08/09/203217)
 
+=== "色変記事"
+
+    色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-08-13
+
+    - 「[レーティング1600から1999まで(青色)](milestones/blue)」ページ
+        - [jabee](https://atcoder.jp/users/jabee)さん - [【入青記事その1】精進振り返り編 - jabeeの競プロ日記](https://jabee.hatenablog.com/entry/2023/08/12/074238)
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [f_matano44](https://atcoder.jp/users/f_matano44)さん - [【令和最新版】AtCoder 色変記事：茶色【Java】](https://f-matano44.jp/post/20230808_nyuutya/)
+
 === "国内外のコンテストサイト"
 
     2023-08-10
