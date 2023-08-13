@@ -4,6 +4,7 @@ title: レーティング400〜799(茶色)
 
 ## 2023年
 
+- [【令和最新版】AtCoder 色変記事：茶色【Java】](https://f-matano44.jp/post/20230808_nyuutya/) - [f_matano44](https://atcoder.jp/users/f_matano44)さんが、2023年8月12日に達成。
 - [【AtCoder】Pythonで入茶しました！！](https://qiita.com/Totosuki/items/d71012254af0977b5298) - [totosuki](https://atcoder.jp/users/totosuki)さんが、2023年7月15日に達成。
 - [AtCoder で入茶するまでにしたこと](https://qiita.com/Atta1n_/items/c6db4519a65a1f9b4956) - [Suzux](https://atcoder.jp/users/Suzux)さんが、2023年7月1日に達成。
 - [AtCoder、入茶しました！](https://zenn.dev/penguincabinet/articles/828a1ec9c34f49) - [PenguinCabinet](https://atcoder.jp/users/PenguinCabinet)さんが、2023年5月27日に達成。
