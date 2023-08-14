@@ -72,9 +72,23 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [ビームサーチをライブラリ化する【応用編】](https://platinum-prog.hatenablog.com/entry/2023/08/09/203217)
 
+=== "ブログ"
+    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています。
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [houren](https://atcoder.jp/users/houren)さん - [はてなブログ](https://houren.hatenablog.com/)
+
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-08-14
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [rotti](https://atcoder.jp/users/rotti)さん - [入緑記事 - rotti_coderのプログラミング](https://rotti-coder.hatenablog.com/entry/2023/08/13/085808)
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [coco0715](https://atcoder.jp/users/coco0715)さん - [入茶しました。](https://note.com/coco__0715/n/n655dc80fc5b6)
 
     2023-08-13
 
