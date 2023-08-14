@@ -4,6 +4,7 @@ title: レーティング800〜1199(緑色)
 
 ## 2023年
 
+- [入緑記事 - rotti_coderのプログラミング](https://rotti-coder.hatenablog.com/entry/2023/08/13/085808) - [rotti](https://atcoder.jp/users/rotti)さんが、2023年8月12日に達成。
 - [AtCoderで入緑しました！](https://ragnawow.hatenablog.com/entry/2023/07/30/011040) - [ragna](https://atcoder.jp/users/ragna)さんが、2023年7月29日に達成。
 - [AtCoderにてRating4桁に突入しました（入千記事）](https://note.com/ka37ri/n/n49dd54210973) - [KA37RI](https://atcoder.jp/users/KA37RI)さんが、2023年6月23日に公開。
 - [3年かけて再入緑した話](https://qiita.com/dorimiamn/items/700021e8ef48d76d68ed) - [adomine](https://atcoder.jp/users/adomine)さんが、2023年6月10日に達成。
