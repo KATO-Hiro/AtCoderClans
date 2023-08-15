@@ -61,6 +61,11 @@
 
 === "記事"
 
+    2023-08-15
+
+    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
+        - [【2023年8月時点】KotlinでAtCoderのコンテストに参加するための環境構築（最低限）](https://qiita.com/dhirabayashi/items/56d6af2c0b2bda6f588f)
+
     2023-08-12
 
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
@@ -75,12 +80,19 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています。
 
+    2023-08-14
+
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [houren](https://atcoder.jp/users/houren)さん - [はてなブログ](https://houren.hatenablog.com/)
 
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-08-15
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [n_o_n_o_n](https://atcoder.jp/users/n_o_n_o_n)さん - [入水記事 - nononの落書き帳](https://nononmath.hatenablog.com/entry/2023/08/14/102643)
 
     2023-08-14
 

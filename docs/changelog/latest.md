@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-08-15
+
+- [#6609](https://github.com/KATO-Hiro/AtCoderClans/pull/6609) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。
+    - [【2023年8月時点】KotlinでAtCoderのコンテストに参加するための環境構築（最低限）](https://qiita.com/dhirabayashi/items/56d6af2c0b2bda6f588f)
+- [#6608](https://github.com/KATO-Hiro/AtCoderClans/pull/6608) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[n_o_n_o_n](https://atcoder.jp/users/n_o_n_o_n)さんの[記事](https://nononmath.hatenablog.com/entry/2023/08/14/102643)を追加。
+
 ### 2023-08-14
 
 - [#6603](https://github.com/KATO-Hiro/AtCoderClans/pull/6603) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜2399に到達したユーザのブログを追加。
