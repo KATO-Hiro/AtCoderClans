@@ -58,6 +58,10 @@ title: コードを書くための環境構築を行う
 
 - [【競プロ】C#: 競技プログラミング環境構築 2022年版](https://zenn.dev/naminodarie/articles/1ff02beff572d2) - C#で競技プログラミングに参加する方法が紹介されている記事。[Visual Studio](https://visualstudio.microsoft.com/ja/vs/community/)および[AtCoder Library(ACL)](https://atcoder.jp/posts/517)の導入方法、自作ライブラリの作成方法が解説されている。
 
+### Kotlin
+
+- [【2023年8月時点】KotlinでAtCoderのコンテストに参加するための環境構築（最低限）](https://qiita.com/dhirabayashi/items/56d6af2c0b2bda6f588f) - Kotlinの実行環境を用意するために、最小限必要なツールの導入方法が紹介されている。
+
 ## iOS
 
 ### C&#43;&#43;
