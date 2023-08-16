@@ -61,6 +61,14 @@
 
 === "記事"
 
+    2023-08-16
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [DPのイメージ・メンタルモデルに関して](https://rsk0315.hatenablog.com/entry/2023/08/15/203927)
+
+    - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
+        - [AtCoder新ジャッジにC言語で数学関数（libm）を使うためのおまじない](https://hotman78.hatenablog.com/entry/2023/08/15/201456)
+
     2023-08-15
 
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
@@ -84,6 +92,13 @@
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [houren](https://atcoder.jp/users/houren)さん - [はてなブログ](https://houren.hatenablog.com/)
+
+=== "動画"
+
+    2023-08-16
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [【オリジナル曲 / 初音ミク】AC【競プロやろうぜ】](https://www.youtube.com/watch?v=loKekcFqQw0)
 
 === "色変記事"
 
