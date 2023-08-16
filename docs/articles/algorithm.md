@@ -95,6 +95,7 @@ title: アルゴリズムを学ぶ
         - [応用編(M〜T問題)](https://kyopro-friends.hatenablog.com/entry/2019/01/12/231035)
         - [発展編(U〜Z問題)](https://kyopro-friends.hatenablog.com/entry/2019/01/12/231106)
     - [ゲームを解く！Educational DP Contest K, L問題の解説](https://qiita.com/drken/items/4e1bcf8413af16cb62da) - 「ゲームを解く」という定義から、ゲーム探索の考え方やシンプルなゲームをプログラムで解く方法などついて解説した記事。
+- [DPのイメージ・メンタルモデルに関して](https://rsk0315.hatenablog.com/entry/2023/08/15/203927) - 問題の解法として動的計画法に至るまでの考え方の一例が言語化されている記事。ナップサック問題を例に、数式・具体な数値・計算量の削減・意識するとよいポイントの観点からそれぞれ説明されている。
 - [意外と解説がない！動的計画法で得た最適解を「復元」する一般的な方法](https://qiita.com/drken/items/0c7bab0384438f285f93) - 動的計画法で得られた最適解を「復元」するための汎用的な方法を紹介した記事。
 
 ### 桁DP
