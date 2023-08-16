@@ -14,6 +14,10 @@ title: 個別の動画
     - [kazoeage-oneesan](https://github.com/primenumber/kazoeage-oneesan) - [primenumber](https://atcoder.jp/users/primenumber)さんによる愚直解の実装例(Rust)。
     - [kazoeage-oneesan-cuda](https://github.com/primenumber/kazoeage-oneesan-cuda) - GPGPUによって高速化が図られている例。[解説記事](https://primenumber.hatenadiary.jp/entry/2021/12/04/230653)もある。
 
+## 歌ってみた
+
+- [【オリジナル曲 / 初音ミク】AC【競プロやろうぜ】](https://www.youtube.com/watch?v=loKekcFqQw0) - [burioden](https://twitter.com/burioden)さんによるオリジナル曲。
+
 ## ネタ動画
 
 - [AtCoderってなんだし？](https://www.youtube.com/watch?v=Xh7Uc486SrM) - [chokudai](https://twitter.com/chokudai)さんが登場するAGCのCM。
