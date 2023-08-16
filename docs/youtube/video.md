@@ -16,7 +16,7 @@ title: 個別の動画
 
 ## 歌ってみた
 
-- [【オリジナル曲 / 初音ミク】AC【競プロやろうぜ】](https://www.youtube.com/watch?v=loKekcFqQw0) - [burioden](https://twitter.com/burioden)さんによるオリジナル曲。
+- [【オリジナル曲 / 初音ミク】AC【競プロやろうぜ】](https://www.youtube.com/watch?v=loKekcFqQw0) - [burioden](https://twitter.com/burioden)さんによるオリジナル曲。[オフボーカル版](https://www.youtube.com/watch?v=jTaTFImLzKI)もある。
 
 ## ネタ動画
 
