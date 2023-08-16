@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-08-16
+
+- [#6623](https://github.com/KATO-Hiro/AtCoderClans/pull/6623) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [DPのイメージ・メンタルモデルに関して](https://rsk0315.hatenablog.com/entry/2023/08/15/203927)
+- [#6622](https://github.com/KATO-Hiro/AtCoderClans/pull/6622) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Others](../../articles/implementation/others)」ページに、以下の記事を追加。
+    - [AtCoder新ジャッジにC言語で数学関数（libm）を使うためのおまじない](https://hotman78.hatenablog.com/entry/2023/08/15/201456)
+- [#6621](https://github.com/KATO-Hiro/AtCoderClans/pull/6621) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [【オリジナル曲 / 初音ミク】AC【競プロやろうぜ】](https://www.youtube.com/watch?v=loKekcFqQw0)
+
 ### 2023-08-15
 
 - [#6609](https://github.com/KATO-Hiro/AtCoderClans/pull/6609) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。
