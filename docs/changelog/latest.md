@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-08-17
+
+- [#6629](https://github.com/KATO-Hiro/AtCoderClans/pull/6629)、[#6630](https://github.com/KATO-Hiro/AtCoderClans/pull/6630) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AtCoder Junior League 2023 - 学校ランキング (8月16日時点)](https://twitter.com/atcoder/status/1691665901823963201)
+    - [AJL 学校スコア(上位5校)、個人スコア(上位5人)の推移(2023年8月16日時点)](https://twitter.com/gojira_kyopro/status/1691675667631579605)
+
 ### 2023-08-16
 
 - [#6623](https://github.com/KATO-Hiro/AtCoderClans/pull/6623) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
