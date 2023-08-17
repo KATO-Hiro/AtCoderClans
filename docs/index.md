@@ -61,6 +61,12 @@
 
 === "記事"
 
+    2023-08-17
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2023 - 学校ランキング (8月16日時点)](https://twitter.com/atcoder/status/1691665901823963201)
+        - [AJL 学校スコア(上位5校)、個人スコア(上位5人)の推移(2023年8月16日時点)](https://twitter.com/gojira_kyopro/status/1691675667631579605)
+
     2023-08-16
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
