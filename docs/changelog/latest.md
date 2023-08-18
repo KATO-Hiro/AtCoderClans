@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-08-18
+
+- [#6635](https://github.com/KATO-Hiro/AtCoderClans/pull/6635) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Others](../../articles/implementation/others)」ページに、以下の記事を追加。
+    - [R言語でAtCoderの問題を解いてみた](https://qiita.com/bo9chan/items/4b2fecefa8c076235c5a)
+- [#6634](https://github.com/KATO-Hiro/AtCoderClans/pull/6634) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [K個を選ぶ最適化における乱択アルゴリズム](https://maspypy.com/k-%e5%80%8b%e3%82%92%e9%81%b8%e3%81%b6%e6%9c%80%e9%81%a9%e5%8c%96%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e4%b9%b1%e6%8a%9e%e3%82%a2%e3%83%ab%e3%82%b4%e3%83%aa%e3%82%ba%e3%83%a0)
+
 ### 2023-08-17
 
 - [#6629](https://github.com/KATO-Hiro/AtCoderClans/pull/6629)、[#6630](https://github.com/KATO-Hiro/AtCoderClans/pull/6630) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
