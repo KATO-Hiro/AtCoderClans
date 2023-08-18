@@ -60,6 +60,12 @@ title: Others
 
 - [【Atcoder】JavaScriptでもC++のSTLが使いたい！](https://qiita.com/sdk40010/items/a93eebcb5e55c154e577) - JavaScript(TypeScript)環境で、C++の標準ライブラリStandard Template Library (STL)を利用する方法について紹介した記事。
 
+## R
+
+### 文法・言語仕様
+
+- [R言語でAtCoderの問題を解いてみた](https://qiita.com/bo9chan/items/4b2fecefa8c076235c5a) - 入出力の方法およびパッケージの一覧、それらの注意事項がまとめられている記事。
+
 ## Swift
 
 ### 文法・言語仕様
