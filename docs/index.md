@@ -61,6 +61,11 @@
 
 === "記事"
 
+    2023-08-19
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoderで使用可能なプログラミング言語が3年振りにアップデートされたので、どの言語が選ばれているか調べてみた](https://qiita.com/nabata/items/789a01effaceeeb570a7)
+
     2023-08-18
 
     - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
@@ -117,6 +122,14 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-08-19
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [ZOIZOI](https://atcoder.jp/users/ZOIZOI)さん - [【色変記事】なんやかんやでAtCoder水コーダーになりました](https://qiita.com/ZOI_dayo/items/7f3b5e0dc0c6ba8c3d2d)
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [Zoi2](https://atcoder.jp/users/Zoi2)さん - [【色変記事】AtCoderで入緑した話 by ZOI2](https://qiita.com/ZOI2/items/6dd677775270eb65aae9)
 
     2023-08-15
 

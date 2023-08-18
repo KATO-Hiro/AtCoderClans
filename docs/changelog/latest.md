@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-08-19
+
+- [#6641](https://github.com/KATO-Hiro/AtCoderClans/pull/6641) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下の記事を追加。
+    - [AtCoderで使用可能なプログラミング言語が3年振りにアップデートされたので、どの言語が選ばれているか調べてみた](https://qiita.com/nabata/items/789a01effaceeeb570a7)
+- [#6639](https://github.com/KATO-Hiro/AtCoderClans/pull/6639) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[Zoi2](https://atcoder.jp/users/Zoi2)さんの[記事](https://qiita.com/ZOI2/items/6dd677775270eb65aae9)を追加。
+- [#6638](https://github.com/KATO-Hiro/AtCoderClans/pull/6638) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[ZOIZOI](https://atcoder.jp/users/ZOIZOI)さんの[記事](https://qiita.com/ZOI_dayo/items/7f3b5e0dc0c6ba8c3d2d)を追加。
+
 ### 2023-08-18
 
 - [#6635](https://github.com/KATO-Hiro/AtCoderClans/pull/6635) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Others](../../articles/implementation/others)」ページに、以下の記事を追加。
