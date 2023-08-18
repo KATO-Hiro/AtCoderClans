@@ -61,6 +61,14 @@
 
 === "記事"
 
+    2023-08-18
+
+    - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
+        - [R言語でAtCoderの問題を解いてみた](https://qiita.com/bo9chan/items/4b2fecefa8c076235c5a)
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [K個を選ぶ最適化における乱択アルゴリズム](https://maspypy.com/k-%e5%80%8b%e3%82%92%e9%81%b8%e3%81%b6%e6%9c%80%e9%81%a9%e5%8c%96%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e4%b9%b1%e6%8a%9e%e3%82%a2%e3%83%ab%e3%82%b4%e3%83%aa%e3%82%ba%e3%83%a0)
+
     2023-08-17
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
