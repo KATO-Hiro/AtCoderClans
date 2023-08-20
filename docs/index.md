@@ -59,6 +59,17 @@
         <img loading = "lazy" src="images/web_app/show_graph.png" alt="show graph">
     </div>
 
+=== "ユーザスクリプト"
+
+    2023-08-20
+
+    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
+        - [AtCoder Performace Graph](https://greasyfork.org/ja/scripts/473409-atcoder-performace-graph)
+
+    <div align="center">
+        <img loading = "lazy" src="images/userscript/atcoder_performace_graph.png" alt="atcoder performace graph">
+    </div>
+
 === "記事"
 
     2023-08-19
@@ -158,6 +169,13 @@
 
     - 「[不定期開催](related_contest_sites/algorithm)」ページ
         - [MOFE](https://mofecoder.com/)
+
+=== "アーカイブス"
+
+    2023-08-20
+
+    - 「[開発・提供終了](archived/no_longer_available.md)」ページ
+        - Colorful TL
 
 ## AtCoder公式グッズを購入する
 
