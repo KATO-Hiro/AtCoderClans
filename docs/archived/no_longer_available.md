@@ -269,6 +269,12 @@ title: 開発・提供終了
       <img loading = "lazy" src="../../images/userscript/ac_writers_script.png" alt="ac writers script">
     </div>
 
+### Webページに色付けする
+
+- [Colorful TL](https://greasyfork.org/ja/scripts/441551-colorful-tl) - TwitterのTimelineにおいて、ユーザ名をAtCoderのレーティングに対応した色に変更する。
+    - 理由: データ取得先の[AtCoder TL](https://github.com/shirakia/atcoder_tl)のサービス終了に伴い、更新が停止した可能性が高いと思われるため。
+    - 確認した日: 2023/08/20
+
 ### 外部サービス
 
 - [AC Problems Ranking Colorizer](https://greasyfork.org/ja/scripts/429485-ac-problems-ranking-colorizer) - [AtCoder Problems](https://kenkoooo.com/atcoder/) のランキングページで、ユーザ名をAtCoderのレーティングに対応した色に変更する。

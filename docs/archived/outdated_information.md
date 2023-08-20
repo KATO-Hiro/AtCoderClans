@@ -186,10 +186,6 @@ title: 更新停止の可能性が高い
     </div>
 
 
-- [Colorful TL](https://greasyfork.org/ja/scripts/441551-colorful-tl) - TwitterのTimelineにおいて、ユーザ名をAtCoderのレーティングに対応した色に変更する。
-    - 確認した日: 2023/07/17
-    - 理由: データ取得先の[AtCoder TL](https://github.com/shirakia/atcoder_tl)のサービス終了に伴い、更新が停止した可能性が高いと思われるため。
-
 - [icpc2021_teamlist](https://github.com/riantkb/icpc2021_teamlist) - [ICPC 2021チーム一覧](http://www.yamagula.ic.i.u-tokyo.ac.jp/icpc2021/standings.html)に、ユーザ名とAtCoderのレーティングに対応した色を表示する。[Webサイト版](https://riantkb.github.io/icpc2021_teamlist/)もある。
 
     <div align="center">
