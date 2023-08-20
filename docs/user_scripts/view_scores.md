@@ -54,6 +54,18 @@ title: コンテストの成績や関連する統計情報を見る
 
 ## ユーザに関する統計
 
+### パフォーマンス値の推移
+
+- [AtCoder Performace Graph](https://greasyfork.org/ja/scripts/473409-atcoder-performace-graph) - ユーザの「プロフィール」ページに、各コンテストにおけるパフォーマンス値を棒グラフで表示する。
+
+    !!! info "参考"
+
+        直近の結果が画面左端に表示される。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_performace_graph.png" alt="atcoder performace graph">
+    </div>
+
 ### パフォーマンスの推定値
 
 - [AtCoderUnratedPerfDisplayer](https://greasyfork.org/ja/scripts/457150-atcoderunratedperfdisplayer) - ユーザの「コンテスト成績表」ページに、Unrated参加したときのパフォーマンス値(推定)を表示する。
