@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-08-20
+
+- [#6647](https://github.com/KATO-Hiro/AtCoderClans/pull/6647) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Performace Graph](https://greasyfork.org/ja/scripts/473409-atcoder-performace-graph)
+- [#6645](https://github.com/KATO-Hiro/AtCoderClans/pull/6645) - (破壊的な変更) 削除された可能性が高いと思われるユーザスクリプトを「[Archives](../../archived)」ページに移動。
+    - Colorful TL
+
 ### 2023-08-19
 
 - [#6641](https://github.com/KATO-Hiro/AtCoderClans/pull/6641) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下の記事を追加。
