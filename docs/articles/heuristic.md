@@ -78,10 +78,11 @@ title: ヒューリスティック問題を解く
 - [AtCoder Heuristic Contest 001 AtCoder Ad - びったんびったん](http://hakomof.hatenablog.com/entry/2021/03/14/202411) - [hakomo](https://atcoder.jp/users/hakomo)さんによる[AtCoder Heuristic Contest 001](https://atcoder.jp/contests/ahc001)の解答方針と頻出テクニックを紹介した記事。
 - [AHC003の2.926T解法+経緯](https://qiita.com/contramundum/items/b945400b81536df42d1a) - [eivour](https://atcoder.jp/users/eivour)さんが、[AtCoder Heuristic Contest 003](https://atcoder.jp/contests/ahc003)での最終解法と、その経緯などを紹介した記事。また、[HACK TO THE FUTURE 2022予選](https://atcoder.jp/contests/future-contest-2022-qual)に関する[記事](https://qiita.com/contramundum/items/52609b5a4c943bc6a275)も公開されている。
 - [実録！AtCoder Heuristic Contest 011参加記](https://kaede2020.hatenablog.com/entry/2022/06/05/190049) - [kaede2020](https://atcoder.jp/users/kaede2020)さんの参加記。良い得点を得るために試行錯誤する過程がリアルタイムで記録されている。
-    - [ALGO ARTIS プログラミングコンテスト2023（AtCoder Heuristic Contest 020）の復習](https://kaede2020.hatenablog.com/entry/2023/06/30/231314)
+    - [RECRUIT 日本橋ハーフマラソン 2023夏（AtCoder Heuristic Contest 022）参加記](https://kaede2020.hatenablog.com/entry/2023/08/20/190031)
 
     ??? info "参加記の一覧"
 
+        - [ALGO ARTIS プログラミングコンテスト2023（AtCoder Heuristic Contest 020）の復習](https://kaede2020.hatenablog.com/entry/2023/06/30/231314)
         - [実録！RECRUIT 日本橋ハーフマラソン 2022夏（AtCoder Heuristic Contest 013）参加記](https://kaede2020.hatenablog.com/entry/2022/08/16/210130)
         - [estie プログラミングコンテスト2022（AtCoder Heuristic Contest 014）参加記](https://kaede2020.hatenablog.com/entry/2022/10/01/190044)
         - [HACK TO THE FUTURE 2023 予選（AtCoder Heuristic Contest 016）参加記](https://kaede2020.hatenablog.com/entry/2022/11/20/190100)
