@@ -4,7 +4,12 @@ title: ソースコードにバグがないか確認
 
 類似した機能を持つツールが多いため、対応言語ごとに分類しています。
 
+!!! warning "注意"
+    サブカテゴリで部門名(アルゴリズム・ヒューリスティック)が明記されていない場合は、アルゴリズム部門を対象としたサービスを表しています。
+
 ## 任意の言語
+
+### アルゴリズム部門
 
 - [atcoder-cli](https://github.com/Tatamo/atcoder-cli) ![GitHub stars](https://img.shields.io/github/stars/Tatamo/atcoder-cli?style=plastic) - AtCoderでの利用に特化しているのが特徴。一部の機能は、後述の[Online Judge Tools](https://github.com/online-judge-tools/oj)に依存しており、導入が必要。日本語・英語ともにドキュメントが充実している。
 - [AtCoderSupporter](https://github.com/shun0923/AtCoderSupporter) ![GitHub stars](https://img.shields.io/github/stars/shun0923/AtCoderSupporter?style=plastic) - サンプルケースのテストと提出ができる。
@@ -24,6 +29,10 @@ title: ソースコードにバグがないか確認
     <div align="center">
       <img loading = "lazy" src="../../images/cli/oj.gif" alt="oj">
     </div>
+
+### ヒューリスティック部門
+
+- [psytester](https://github.com/FakePsyho/psytester) ![GitHub Repo stars](https://img.shields.io/github/stars/FakePsyho/psytester?style=plastic) - マルチスレッドを利用したテストの実行、スコアボードの表示、ユーザ定義のメタデータによるグループ化・フィルタリング、メトリクスに基づいた検索などができる。
 
 ## 複数の言語
 
