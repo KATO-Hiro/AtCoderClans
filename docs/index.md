@@ -72,6 +72,11 @@
 
 === "記事"
 
+    2023-08-21
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [RECRUIT 日本橋ハーフマラソン 2023夏（AtCoder Heuristic Contest 022）参加記](https://kaede2020.hatenablog.com/entry/2023/08/20/190031)
+
     2023-08-19
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -129,6 +134,13 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [【オリジナル曲 / 初音ミク】AC【競プロやろうぜ】](https://www.youtube.com/watch?v=loKekcFqQw0)
+
+=== "コマンドラインツール"
+
+    2023-08-21
+
+    - 「[ソースコードにバグがないか確認](cli/test_tools)」ページ
+        - [psytester](https://github.com/FakePsyho/psytester) ![GitHub Repo stars](https://img.shields.io/github/stars/FakePsyho/psytester?style=plastic)
 
 === "色変記事"
 

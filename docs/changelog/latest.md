@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-08-21
+
+- [#6656](https://github.com/KATO-Hiro/AtCoderClans/pull/6656) - 「[Command Line Tools](../../cli)」の「[ソースコードにバグがないか確認](../../cli/test_tools)」ページに、ヒューリスティック部門専用のテストツールを追加。
+    - [psytester](https://github.com/FakePsyho/psytester) ![GitHub Repo stars](https://img.shields.io/github/stars/FakePsyho/psytester?style=plastic)
+- [#6655](https://github.com/KATO-Hiro/AtCoderClans/pull/6655) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [RECRUIT 日本橋ハーフマラソン 2023夏（AtCoder Heuristic Contest 022）参加記](https://kaede2020.hatenablog.com/entry/2023/08/20/190031)
+
 ### 2023-08-20
 
 - [#6647](https://github.com/KATO-Hiro/AtCoderClans/pull/6647) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
