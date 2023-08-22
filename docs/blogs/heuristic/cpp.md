@@ -7,7 +7,10 @@ title: C&#43;&#43;
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
 |bowwowforeach|[はてなブログ](https://bowwowforeach.hatenablog.com/)||
+|eijirou|[はてなブログ](https://eijirou-kyopro.hatenablog.com/)||
 |eivour|[Qiita](https://qiita.com/contramundum)||
+|hitonanode|[はてなブログ](https://rsm9.hatenablog.com/)||
+|Jirotech|[はてなブログ](https://shuu0914.hatenablog.com/)||
 |nagiss|[はてなブログ](https://nagiss.hateblo.jp/)||
 |phocom|[Qiita](https://qiita.com/phocom)||
 |saharan|[自作ブログ](https://blog.oimo.io/)||
@@ -22,17 +25,15 @@ title: C&#43;&#43;
 |assy|[はてなブログ](https://assy.hatenablog.jp/)||
 |ats5515|[はてなブログ](https://ats5515.hatenablog.com/)||
 |bin101|[はてなブログ](https://bin101.hatenablog.com/)||
-|eijirou|[はてなブログ](https://eijirou-kyopro.hatenablog.com/)||
 |gasin|[はてなブログ](https://gasin.hatenadiary.jp/)||
 |heno239|[はてなブログ](https://heno239.hatenablog.com/)||
-|hitonanode|[はてなブログ](https://rsm9.hatenablog.com/)||
 |iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
-|Jirotech|[はてなブログ](https://shuu0914.hatenablog.com/)||
 |kozima|[はてなブログ](https://lkozima.hatenablog.com/)||
 |LayCurse|[自作ブログ](http://rsujskf.s602.xrea.com/)||
 |mtsd|[はてなブログ](https://mtsd-programming.hatenablog.com/)||
 |noimi|[はてなブログ](https://noimi.hatenablog.com/)||
 |Nyaan|[はてなブログ](https://nyaan.hatenablog.com/)||
+|risujiroh|[はてなブログ](https://risujiroh.hatenablog.com/)||
 |shibh308|[はてなブログ](https://shibh308.hatenablog.com/)||
 |Shun_PI|[Qiita](https://qiita.com/Shun_PI)||
 |siman|[はてなブログ](https://simanman.hatenablog.com/)||
@@ -67,7 +68,6 @@ title: C&#43;&#43;
 |ponjuice|[note](https://note.com/ponjuice0)||
 |qLethon|[はてなブログ](https://qlethon.hatenablog.com/)||
 |riantkb|[はてなブログ](https://rian.hatenablog.jp/)||
-|risujiroh|[はてなブログ](https://risujiroh.hatenablog.com/)||
 |satanic0258|[はてなブログ](https://satanic0258.hatenablog.com/)|2018年9月以降、新規の記事を確認できず。|
 |Shibuyap|[Qiita](https://qiita.com/Shibuyap)||
 |shindannin|[はてなブログ](https://shindannin.hatenadiary.com/)||
@@ -77,3 +77,4 @@ title: C&#43;&#43;
 |Trineutron|[Qiita](https://qiita.com/trineutron)||
 |tsukasa_diary|[Qiita](https://qiita.com/tsukasa__diary)||
 |ValGrowth|[はてなブログ](https://valgrowth.hatenablog.com/archive)||
+|YamagenSakam|[はてなブログ](https://yamagensakam.hatenablog.com/)||
