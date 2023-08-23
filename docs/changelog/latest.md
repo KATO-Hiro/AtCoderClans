@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-08-23
+
+- [#6671](https://github.com/KATO-Hiro/AtCoderClans/pull/6671) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下のスライドを追加。
+    - [メタヒューリスティクスで広がる「解けた！」の世界](https://speakerdeck.com/terryu16/metahiyurisuteikusudeguang-garu-jie-keta-noshi-jie)
+
 ### 2023-08-22
 
 - [#6665](https://github.com/KATO-Hiro/AtCoderClans/pull/6665) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加・更新。

@@ -72,6 +72,11 @@
 
 === "記事"
 
+    2023-08-23
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [メタヒューリスティクスで広がる「解けた！」の世界](https://speakerdeck.com/terryu16/metahiyurisuteikusudeguang-garu-jie-keta-noshi-jie)
+
     2023-08-22
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
