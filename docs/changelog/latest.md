@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-08-24
+
+- [#6676](https://github.com/KATO-Hiro/AtCoderClans/pull/6676) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページで掲載している書籍の説明文を更新。
+    - [ゲームで学ぶ探索アルゴリズム実践入門～木探索とメタヒューリスティクス](https://www.amazon.co.jp/dp/4297133601/)
+        - [数字集め迷路](https://thun-c.github.io/one_player_maze/one_player_maze.html)
+- [#6675](https://github.com/KATO-Hiro/AtCoderClans/pull/6675) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Rust](../../articles/implementation/rust)」ページに、以下の記事を追加。
+    - [AtCoder 言語アップデート クレート個人的感想](https://zeronosu77108.hatenablog.com/entry/2023/08/20/125325)
+
 ### 2023-08-23
 
 - [#6671](https://github.com/KATO-Hiro/AtCoderClans/pull/6671) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下のスライドを追加。

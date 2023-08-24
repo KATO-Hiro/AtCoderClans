@@ -72,6 +72,11 @@
 
 === "記事"
 
+    2023-08-24
+
+    - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
+        - [AtCoder 言語アップデート クレート個人的感想](https://zeronosu77108.hatenablog.com/entry/2023/08/20/125325)
+
     2023-08-23
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -126,11 +131,6 @@
         - [AtCoderの環境を Docker で作りたい](https://qiita.com/tf63/items/c93c6f24d73599e637d8)
         - [【どこでも精進】競プロのためのC++スマホコーディング環境構築　※iOS限定](https://qiita.com/deuteridayo/items/5ce27e8780847330e324)
 
-    2023-08-10
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [ビームサーチをライブラリ化する【応用編】](https://platinum-prog.hatenablog.com/entry/2023/08/09/203217)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -150,6 +150,15 @@
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [houren](https://atcoder.jp/users/houren)さん - [はてなブログ](https://houren.hatenablog.com/)
+
+=== "書籍"
+
+    2023-08-24
+
+    - 「[書籍](books)」ページ
+
+        - [ゲームで学ぶ探索アルゴリズム実践入門～木探索とメタヒューリスティクス](https://www.amazon.co.jp/dp/4297133601/)に以下のリンクを追加。
+            - [数字集め迷路](https://thun-c.github.io/one_player_maze/one_player_maze.html)
 
 === "動画"
 
@@ -197,13 +206,6 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [f_matano44](https://atcoder.jp/users/f_matano44)さん - [【令和最新版】AtCoder 色変記事：茶色【Java】](https://f-matano44.jp/post/20230808_nyuutya/)
-
-=== "国内外のコンテストサイト"
-
-    2023-08-10
-
-    - 「[不定期開催](related_contest_sites/algorithm)」ページ
-        - [MOFE](https://mofecoder.com/)
 
 === "アーカイブス"
 
