@@ -54,6 +54,14 @@ title: コンテストの成績や関連する統計情報を見る
 
 ## ユーザに関する統計
 
+### コンテストの参加回数
+
+- [AJL Join Count](https://greasyfork.org/ja/scripts/472659-ajl-join-count) - [AtCoder Junior League 2023](https://atcoder.jp/contests/ajl2023)の個人ランキング(学年別)ページに、コンテストの参加回数を表示する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/ajl_join_count.png" alt="ajl join count">
+    </div>
+
 ### パフォーマンス値の推移
 
 - [AtCoder Performace Graph](https://greasyfork.org/ja/scripts/473409-atcoder-performace-graph) - ユーザの「プロフィール」ページに、各コンテストにおけるパフォーマンス値を棒グラフで表示する。
