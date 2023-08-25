@@ -48,18 +48,16 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "Webアプリ・Webサイト"
+=== "ユーザスクリプト"
 
-    2023-08-11
+    2023-08-25
 
-    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
-        - [グラフ可視化ツール](https://zeronosu77108.github.io/show-graph/)
+    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
+        - [AJL Join Count](https://greasyfork.org/ja/scripts/472659-ajl-join-count)
 
     <div align="center">
-        <img loading = "lazy" src="images/web_app/show_graph.png" alt="show graph">
+        <img loading = "lazy" src="images/userscript/ajl_join_count.png" alt="ajl join count">
     </div>
-
-=== "ユーザスクリプト"
 
     2023-08-20
 
@@ -71,6 +69,11 @@
     </div>
 
 === "記事"
+
+    2023-08-25
+
+    - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
+        - ジャッジシステムの修正(2023年8月25日)に伴い、C言語で標準ライブラリの数学関数が利用できるようになった([出典](https://atcoder.jp/contests/editor-update-test))。
 
     2023-08-24
 
@@ -124,12 +127,6 @@
 
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
         - [【2023年8月時点】KotlinでAtCoderのコンテストに参加するための環境構築（最低限）](https://qiita.com/dhirabayashi/items/56d6af2c0b2bda6f588f)
-
-    2023-08-12
-
-    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
-        - [AtCoderの環境を Docker で作りたい](https://qiita.com/tf63/items/c93c6f24d73599e637d8)
-        - [【どこでも精進】競プロのためのC++スマホコーディング環境構築　※iOS限定](https://qiita.com/deuteridayo/items/5ce27e8780847330e324)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。

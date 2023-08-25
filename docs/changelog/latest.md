@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-08-25
+
+- [#6682](https://github.com/KATO-Hiro/AtCoderClans/pull/6682) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Others](../../articles/implementation/others)」ページに、以下の注釈を追加。
+    - ジャッジシステムの修正(2023年8月25日)に伴い、C言語で標準ライブラリの数学関数が利用できるようになった([出典](https://atcoder.jp/contests/editor-update-test))。
+- [#6680](https://github.com/KATO-Hiro/AtCoderClans/pull/6680) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
+    - [AJL Join Count](https://greasyfork.org/ja/scripts/472659-ajl-join-count)
+
 ### 2023-08-24
 
 - [#6676](https://github.com/KATO-Hiro/AtCoderClans/pull/6676) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページで掲載している書籍の説明文を更新。
