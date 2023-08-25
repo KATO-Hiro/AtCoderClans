@@ -96,6 +96,7 @@ title: ヒューリスティック問題を解く
 - [AHC018の1位解法(Psyho氏の解法)解説](https://qiita.com/thun-c/items/11af0980cc938dc28d3b) - [Psyho](https://atcoder.jp/users/Psyho)さんによる[AtCoder Heuristic Contest 018](https://atcoder.jp/contests/ahc018)の解答方針を、[thunder](https://atcoder.jp/users/thunder)さんが詳しく解説した記事。
 - [AHC018 ガウス過程回帰を用いた解法](https://docs.google.com/presentation/d/1JEcyHLw8XrDqL4FHUGYIVQC63KSZ2eaHRjO0E2y1WeU/edit#slide=id.p) - 観測された情報から未知の情報を推定するガウス過程回帰の説明を中心に、[AtCoder Heuristic Contest 018](https://atcoder.jp/contests/ahc018)への適用例も紹介されているスライド。
 - [【AHC020 参加記】初参加の初心者でもそれなりに善戦できるぞという話](https://qiita.com/halcyonFX/items/c6d7ebdf375f359c596c) - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さんの参加記。初参加の[AtCoder Heuristic Contest 020](https://atcoder.jp/contests/ahc020)で、愚直な解法から高得点を得るための思考過程を紹介した記事。
+- [【AHC022】 AHC初参加記 〜入茶しました](https://note.com/likaf/n/n81fc35c58550) - [Likaf](https://atcoder.jp/users/Likaf)さんの参加記。[AtCoder Heuristic Contest 022](https://atcoder.jp/contests/ahc022)に参加した経緯、考察内容やスコアの推移、感想などがまとめられている。
 - [FakePsyho/cpcontests](https://github.com/FakePsyho/cpcontests) ![GitHub Repo stars](https://img.shields.io/github/stars/FakePsyho/cpcontests?style=plastic) - [Psyho](https://atcoder.jp/users/Psyho)さんが参加したコンテストの解答の方針とソースコードがまとめられている。
 
     ---
