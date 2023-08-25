@@ -25,4 +25,9 @@ title: 部活・サークル・同好会・オンサイトイベントに参加�
 ## イベント主催者・協賛者
 
 - [発案から10日で107名の大宴会を開催した話(メール一括作成GASつき)](https://d-burioden.hateblo.jp/entry/2023/04/03/043035) - 100人規模の宴会を開催する際に、店の予約・参加者の把握・懸念事項への対策などの知見がまとめられている記事。
+
+<!-- markdown-link-check-disable -->
+
 - [「CodeQUEEN 2023」にスポンサーとしておじゃましてきました！](https://note.e-seikatsu.info/n/n423fde3ccf32) - [CodeQUEEN 2023 決勝](https://atcoder.jp/contests/codequeen2023-final-open)の協賛者が当日を振り返った記事。スポンサー参加の経緯、会場のスナップショット、スポンサーセッション、座談会、コンテストおよび結果発表・表彰式、懇親会の様子がまとめられている。
+
+<!-- markdown-link-check-enable -->

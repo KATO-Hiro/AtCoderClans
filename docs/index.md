@@ -70,6 +70,21 @@
 
 === "記事"
 
+    2023-08-26
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+
+        <!-- markdown-link-check-disable -->
+
+        - [「CodeQUEEN 2023」にスポンサーとしておじゃましてきました！](https://note.e-seikatsu.info/n/n423fde3ccf32)
+
+        <!-- markdown-link-check-enable -->
+
+        - [実装力底上げを目指して、社内で「バーチャルコンテスト」を開催している話](https://note.com/dev_onecareer/n/n5f486629806d)
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [【AHC022】 AHC初参加記 〜入茶しました](https://note.com/likaf/n/n81fc35c58550)
+
     2023-08-25
 
     - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
@@ -195,14 +210,6 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [coco0715](https://atcoder.jp/users/coco0715)さん - [入茶しました。](https://note.com/coco__0715/n/n655dc80fc5b6)
-
-    2023-08-13
-
-    - 「[レーティング1600から1999まで(青色)](milestones/blue)」ページ
-        - [jabee](https://atcoder.jp/users/jabee)さん - [【入青記事その1】精進振り返り編 - jabeeの競プロ日記](https://jabee.hatenablog.com/entry/2023/08/12/074238)
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [f_matano44](https://atcoder.jp/users/f_matano44)さん - [【令和最新版】AtCoder 色変記事：茶色【Java】](https://f-matano44.jp/post/20230808_nyuutya/)
 
 === "アーカイブス"
 

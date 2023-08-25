@@ -4,6 +4,21 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-08-26
+
+- [#6690](https://github.com/KATO-Hiro/AtCoderClans/pull/6690)、[#6691](https://github.com/KATO-Hiro/AtCoderClans/pull/6691) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
+
+    <!-- markdown-link-check-disable -->
+
+    - [「CodeQUEEN 2023」にスポンサーとしておじゃましてきました！](https://note.e-seikatsu.info/n/n423fde3ccf32)
+
+    <!-- markdown-link-check-enable -->
+
+    - [実装力底上げを目指して、社内で「バーチャルコンテスト」を開催している話](https://note.com/dev_onecareer/n/n5f486629806d)
+
+- [#6689](https://github.com/KATO-Hiro/AtCoderClans/pull/6689) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [【AHC022】 AHC初参加記 〜入茶しました](https://note.com/likaf/n/n81fc35c58550)
+
 ### 2023-08-25
 
 - [#6682](https://github.com/KATO-Hiro/AtCoderClans/pull/6682) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Others](../../articles/implementation/others)」ページに、以下の注釈を追加。
