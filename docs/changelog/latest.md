@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-08-27
+
+- [#6698](https://github.com/KATO-Hiro/AtCoderClans/pull/6698) - 「[For Beginners](../../for_beginners)」の「[Q2: プログラムの実行環境を用意するには?](../../for_beginners/question2)」ページの説明文・サムネイルを更新。
+    - [エディタのカスタマイズ方法 - AtCoder](https://atcoder.jp/posts/1089)
+- [#6697](https://github.com/KATO-Hiro/AtCoderClans/pull/6697) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
+    - [「積の和」典型の、最も典型的な問題](https://drken1215.hatenablog.com/entry/2023/08/26/160600)
+
 ### 2023-08-26
 
 - [#6690](https://github.com/KATO-Hiro/AtCoderClans/pull/6690)、[#6691](https://github.com/KATO-Hiro/AtCoderClans/pull/6691) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。

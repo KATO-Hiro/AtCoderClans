@@ -48,6 +48,13 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "入門者・初心者向けの内容"
+
+    2023-08-27
+
+    - 「[Q2: プログラムの実行環境を用意するには?](for_beginners/question2)」ページ
+        - [エディタのカスタマイズ方法 - AtCoder](https://atcoder.jp/posts/1089)
+
 === "ユーザスクリプト"
 
     2023-08-25
@@ -69,6 +76,11 @@
     </div>
 
 === "記事"
+
+    2023-08-27
+
+    - 「[数学を学ぶ](articles/math)」ページ
+        - [「積の和」典型の、最も典型的な問題](https://drken1215.hatenablog.com/entry/2023/08/26/160600)
 
     2023-08-26
 
@@ -158,11 +170,6 @@
     - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
         - [yuusanlondon](https://atcoder.jp/users/yuusanlondon)さん - [はてなブログ](https://yuusanlondon.hatenablog.com/)
 
-    2023-08-14
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [houren](https://atcoder.jp/users/houren)さん - [はてなブログ](https://houren.hatenablog.com/)
-
 === "書籍"
 
     2023-08-24
@@ -202,14 +209,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [n_o_n_o_n](https://atcoder.jp/users/n_o_n_o_n)さん - [入水記事 - nononの落書き帳](https://nononmath.hatenablog.com/entry/2023/08/14/102643)
-
-    2023-08-14
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [rotti](https://atcoder.jp/users/rotti)さん - [入緑記事 - rotti_coderのプログラミング](https://rotti-coder.hatenablog.com/entry/2023/08/13/085808)
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [coco0715](https://atcoder.jp/users/coco0715)さん - [入茶しました。](https://note.com/coco__0715/n/n655dc80fc5b6)
 
 === "アーカイブス"
 
