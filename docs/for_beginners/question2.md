@@ -7,7 +7,7 @@ A2: オンラインでプログラムを実行できるサービスを利用す�
 ## [AtCoder](https://atcoder.jp/)のコードテスト
 
 - メリット: すぐにコードを書くことができ、特定の入力に対して出力結果を確認することができます。エディタのカスタマイズも可能です([設定方法](https://atcoder.jp/posts/1089))。
-- デメリット: 自分のPCに実行環境を構築した場合と比べると、カスタマイズできる内容に制限があります。
+- デメリット: 自分のPCに実行環境を構築する場合と比べると、カスタマイズできる内容に制限があります。
 
 <div align="center">
   <img loading = "lazy" src="../../images/official/code_test.png" alt="virtual participation">
