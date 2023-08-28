@@ -58,6 +58,7 @@ title: C&#43;&#43;
 |kotatsugame|[はてなブログ](https://kotatsugame.hatenablog.com/)||
 |kusano|[はてなブログ](https://kusano-k.hatenablog.com/)、[Qiita](https://qiita.com/kusano_k)||
 |merom686|[はてなブログ](https://merom686.hatenablog.com/)||
+|milkcoffee|[はてなブログ](https://milkcoffee.hatenablog.jp/)||
 |m_buyoh|[はてなブログ](https://buyoh.hateblo.jp/)||
 |niuez|[GitHub Pages](https://niuez.github.io/)||
 |olphe|[はてなブログ](https://olphe.hatenablog.com/)||
