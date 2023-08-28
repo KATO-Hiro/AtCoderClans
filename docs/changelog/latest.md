@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-08-28
+
+- [#6704](https://github.com/KATO-Hiro/AtCoderClans/pull/6704) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下のブログを追加。
+    - [月刊組合せ論 Natori](https://combinatorics-fun.vercel.app/natori/)
+- [#6703](https://github.com/KATO-Hiro/AtCoderClans/pull/6703) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
+
 ### 2023-08-27
 
 - [#6698](https://github.com/KATO-Hiro/AtCoderClans/pull/6698) - 「[For Beginners](../../for_beginners)」の「[Q2: プログラムの実行環境を用意するには?](../../for_beginners/question2)」ページの説明文・サムネイルを更新。

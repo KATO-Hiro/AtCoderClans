@@ -77,6 +77,11 @@
 
 === "記事"
 
+    2023-08-28
+
+    - 「[数学を学ぶ](articles/math)」ページ
+        - [月刊組合せ論 Natori](https://combinatorics-fun.vercel.app/natori/)
+
     2023-08-27
 
     - 「[数学を学ぶ](articles/math)」ページ
@@ -150,13 +155,13 @@
     - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
         - [AtCoder新ジャッジにC言語で数学関数（libm）を使うためのおまじない](https://hotman78.hatenablog.com/entry/2023/08/15/201456)
 
-    2023-08-15
-
-    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
-        - [【2023年8月時点】KotlinでAtCoderのコンテストに参加するための環境構築（最低限）](https://qiita.com/dhirabayashi/items/56d6af2c0b2bda6f588f)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2023-08-28
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [milkcoffee](https://atcoder.jp/users/milkcoffee)さん - [はてなブログ](https://milkcoffee.hatenablog.jp/)
 
     2023-08-22
 
@@ -204,11 +209,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [Zoi2](https://atcoder.jp/users/Zoi2)さん - [【色変記事】AtCoderで入緑した話 by ZOI2](https://qiita.com/ZOI2/items/6dd677775270eb65aae9)
-
-    2023-08-15
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [n_o_n_o_n](https://atcoder.jp/users/n_o_n_o_n)さん - [入水記事 - nononの落書き帳](https://nononmath.hatenablog.com/entry/2023/08/14/102643)
 
 === "アーカイブス"
 
