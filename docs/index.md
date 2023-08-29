@@ -77,6 +77,12 @@
 
 === "記事"
 
+    2023-08-29
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2023 - 学校ランキング (8月28日時点)](https://twitter.com/atcoder/status/1696009837765919013)
+        - [AJL 学校スコア(上位5校)、個人スコア(上位5人)の推移(2023年8月28日時点)](https://twitter.com/gojira_kyopro/status/1696083230800433478)
+
     2023-08-28
 
     - 「[数学を学ぶ](articles/math)」ページ
@@ -147,14 +153,6 @@
         - [AtCoder Junior League 2023 - 学校ランキング (8月16日時点)](https://twitter.com/atcoder/status/1691665901823963201)
         - [AJL 学校スコア(上位5校)、個人スコア(上位5人)の推移(2023年8月16日時点)](https://twitter.com/gojira_kyopro/status/1691675667631579605)
 
-    2023-08-16
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [DPのイメージ・メンタルモデルに関して](https://rsk0315.hatenablog.com/entry/2023/08/15/203927)
-
-    - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
-        - [AtCoder新ジャッジにC言語で数学関数（libm）を使うためのおまじない](https://hotman78.hatenablog.com/entry/2023/08/15/201456)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -183,13 +181,6 @@
 
         - [ゲームで学ぶ探索アルゴリズム実践入門～木探索とメタヒューリスティクス](https://www.amazon.co.jp/dp/4297133601/)に以下のリンクを追加。
             - [数字集め迷路](https://thun-c.github.io/one_player_maze/one_player_maze.html)
-
-=== "動画"
-
-    2023-08-16
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [【オリジナル曲 / 初音ミク】AC【競プロやろうぜ】](https://www.youtube.com/watch?v=loKekcFqQw0)
 
 === "コマンドラインツール"
 
