@@ -16,11 +16,13 @@ title: コンテストに関する統計情報を見る
         - [同8月7日時点](https://twitter.com/atcoder/status/1688404891516243968)
         - [同7月31日時点](https://twitter.com/atcoder/status/1685856209742753792)
         - [同5月22日時点](https://twitter.com/atcoder/status/1660527968102539264)
+
 - [AJL 学校スコア(上位5校)、個人スコア(上位5人)の推移(2023年6月19日時点)](https://twitter.com/gojira_kyopro/status/1670634706545836032)
-    - [同8月21日時点](https://twitter.com/gojira_kyopro/status/1693470716627423446)
+    - [同8月28日時点](https://twitter.com/gojira_kyopro/status/1696083230800433478)
 
     ??? info "これまでの学校・個人スコアの推移"
 
+        - [同8月21日時点](https://twitter.com/gojira_kyopro/status/1693470716627423446)
         - [同8月16日時点](https://twitter.com/gojira_kyopro/status/1691675667631579605)
         - [同8月7日時点](https://twitter.com/gojira_kyopro/status/1688408587213979648)
         - [同7月31日時点](https://twitter.com/gojira_kyopro/status/1685862331069452288)
