@@ -77,6 +77,11 @@
 
 === "記事"
 
+    2023-08-30
+
+    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
+        - [非再帰Euler TourをPythonでやる](https://qiita.com/Kiri8128/items/2b0023bed9af642c751c)
+
     2023-08-29
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -147,12 +152,6 @@
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [K個を選ぶ最適化における乱択アルゴリズム](https://maspypy.com/k-%e5%80%8b%e3%82%92%e9%81%b8%e3%81%b6%e6%9c%80%e9%81%a9%e5%8c%96%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e4%b9%b1%e6%8a%9e%e3%82%a2%e3%83%ab%e3%82%b4%e3%83%aa%e3%82%ba%e3%83%a0)
 
-    2023-08-17
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2023 - 学校ランキング (8月16日時点)](https://twitter.com/atcoder/status/1691665901823963201)
-        - [AJL 学校スコア(上位5校)、個人スコア(上位5人)の推移(2023年8月16日時点)](https://twitter.com/gojira_kyopro/status/1691675667631579605)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -192,6 +191,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-08-30
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [Kirishima](https://atcoder.jp/users/Kirishima)さん - [【入青】AtCoder青色になりました！【色変】](https://note.com/kiri_comp/n/n02225d77a988)
 
     2023-08-19
 
