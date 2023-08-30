@@ -47,6 +47,10 @@ title: Python
 
 - [しゃくとり法のDequeを使ったバグりにくい実装](https://qiita.com/keroru/items/6e0a22e8c9bf2a24dc68) - 添え字のミスが起こりがちな尺取り法について、両端キュー(deque)を利用して実装する方法が紹介されている。
 
+### グラフ理論
+
+- [非再帰Euler TourをPythonでやる](https://qiita.com/Kiri8128/items/2b0023bed9af642c751c) - Euler Tourを再帰関数を使わずに実装する方法が紹介されている。
+
 ### 行列の回転
 
 - [【Python】行列の90度右回転、90度左回転、180度回転【AtCoder】](https://qiita.com/rudorufu1981/items/5341d9603ecb1f9c2e5c) - 行列の90度回転、180度回転をシンプルに実装する方法が紹介されている。
