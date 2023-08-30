@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-08-30
+
+- [#6716](https://github.com/KATO-Hiro/AtCoderClans/pull/6716) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Python](../../articles/implementation/python)」ページに、以下の記事を追加。
+    - [非再帰Euler TourをPythonでやる](https://qiita.com/Kiri8128/items/2b0023bed9af642c751c)
+- [#6715](https://github.com/KATO-Hiro/AtCoderClans/pull/6715) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[Kirishima](https://atcoder.jp/users/Kirishima)さんの[記事](https://note.com/kiri_comp/n/n02225d77a988)を追加。
+
 ### 2023-08-29
 
 - [#6710](https://github.com/KATO-Hiro/AtCoderClans/pull/6710)、[#6711](https://github.com/KATO-Hiro/AtCoderClans/pull/6711) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
