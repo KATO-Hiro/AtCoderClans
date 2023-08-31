@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-08-31
+
+- [#6722](https://github.com/KATO-Hiro/AtCoderClans/pull/6722) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
+    - [ChatGPT3.5&4.0で競技プログラミングAtCoderの問題のスキル推定を検証しました](https://note.com/chatgpt_nobdata/n/n2d5769ebb622)
+- [#6721](https://github.com/KATO-Hiro/AtCoderClans/pull/6721) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[hassy_](https://atcoder.jp/users/hassy_)さんの[記事](https://qiita.com/_ken_/items/c32d4b2e680058abd77a)を追加。
+
 ### 2023-08-30
 
 - [#6716](https://github.com/KATO-Hiro/AtCoderClans/pull/6716) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Python](../../articles/implementation/python)」ページに、以下の記事を追加。
