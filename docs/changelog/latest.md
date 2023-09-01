@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-09-02
+
+- [#6733](https://github.com/KATO-Hiro/AtCoderClans/pull/6733) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - 特定の言語に依存しない内容](../../articles/implementation/general)」ページに、以下の記事を追加。
+    - [AtCoderのジャッジステータスの表示優先度](https://qiita.com/tomii9273/items/54cd7c1a7fb5591a8d9b)
+- [#6732](https://github.com/KATO-Hiro/AtCoderClans/pull/6732) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
+    - [高校生がフォルシア株式会社でインターンをした話](https://clara775.hatenablog.com/entry/2023/09/01/181716)
+
 ### 2023-09-01
 
 - [#6728](https://github.com/KATO-Hiro/AtCoderClans/pull/6728) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。

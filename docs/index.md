@@ -66,15 +66,6 @@
         <img loading = "lazy" src="images/userscript/ajl_join_count.png" alt="ajl join count">
     </div>
 
-    2023-08-20
-
-    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
-        - [AtCoder Performace Graph](https://greasyfork.org/ja/scripts/473409-atcoder-performace-graph)
-
-    <div align="center">
-        <img loading = "lazy" src="images/userscript/atcoder_performace_graph.png" alt="atcoder performace graph">
-    </div>
-
 === "Chrome拡張機能"
 
     2023-09-01
@@ -87,6 +78,13 @@
     </div>
 
 === "記事"
+
+    2023-09-02
+
+    - 「[実装テクニックを学ぶ - 特定の言語に依存しない内容](articles/implementation/general)」ページ
+        - [AtCoderのジャッジステータスの表示優先度](https://qiita.com/tomii9273/items/54cd7c1a7fb5591a8d9b)
+    - 「[競技プログラミングと就転職](articles/jobs)」ページ
+        - [高校生がフォルシア株式会社でインターンをした話](https://clara775.hatenablog.com/entry/2023/09/01/181716)
 
     2023-09-01
 
@@ -209,13 +207,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [Kirishima](https://atcoder.jp/users/Kirishima)さん - [【入青】AtCoder青色になりました！【色変】](https://note.com/kiri_comp/n/n02225d77a988)
-
-=== "アーカイブス"
-
-    2023-08-20
-
-    - 「[開発・提供終了](archived/no_longer_available)」ページ
-        - Colorful TL
 
 ## AtCoder公式グッズを購入する
 
