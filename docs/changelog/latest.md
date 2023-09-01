@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-09-01
+
+- [#6728](https://github.com/KATO-Hiro/AtCoderClans/pull/6728) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [はじめての Mo's Algorithm](https://scrapbox.io/kyopuro-ryusuke920/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE_Mo's_Algorithm)
+- [#6727](https://github.com/KATO-Hiro/AtCoderClans/pull/6727) - 「[Scripts](../../scripts)」の「[復習の効果をより高める](../../chrome_extensions/review)」ページに、以下のChrome拡張機能を追加。
+    - [AtCoder to Notion](https://chrome.google.com/webstore/detail/atcoder-to-notion/mhoemoadpammfnlbjagngjenedfpcfgi)
+
 ### 2023-08-31
 
 - [#6722](https://github.com/KATO-Hiro/AtCoderClans/pull/6722) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
