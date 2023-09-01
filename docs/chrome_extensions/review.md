@@ -4,6 +4,14 @@ title: 復習の効果をより高める
 
 ## 復習の効果をより高める
 
+- [AtCoder to Notion](https://chrome.google.com/webstore/detail/atcoder-to-notion/mhoemoadpammfnlbjagngjenedfpcfgi) - 「問題」ページから問題文と制約を取得して、クラウド型の万能アプリ「[Notion](https://www.notion.so)」に保存する。また、コンテストの情報や難易度なども追加できる。
+    - [使い方 - GitHub](https://github.com/hirakuuuu/AtCoderToNotion) - ![GitHub Repo stars](https://img.shields.io/github/stars/hirakuuuu/AtCoderToNotion?style=plastic)
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/chrome_extension/atcoder_to_notion.png" alt="atcoder to notion">
+    </div>
+
+
 - [Solve Later Again](https://chrome.google.com/webstore/detail/solve-later-again/emndffmnlppiaelhdneheagpaancfahk?hl=ja&gl=UA) - [AtCoder Problems](https://kenkoooo.com/atcoder/)のTableページに、「Solve Later Again（またあとで解く）」テーブルを追加し、解き直したい問題を管理できる。
 
     <div align="center">
