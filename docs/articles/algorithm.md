@@ -176,6 +176,7 @@ title: アルゴリズムを学ぶ
 
 ### Mo's algorithm
 
+- [はじめての Mo's Algorithm](https://scrapbox.io/kyopuro-ryusuke920/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE_Mo's_Algorithm) - 区間に対するクエリを高速に処理するアルゴリズム「Mo's Algorithm」が丁寧に解説されている記事。同アルゴリズムの図解・適用可能な問題・計算量解析・実装例(Python)や類題などが紹介されている。
 - [Mo's algorithm](https://ei1333.hateblo.jp/entry/2017/09/11/211011) - アルゴリズムの概説と実装例および類題が紹介されている記事。
 - [Mo's algorithm とその上位互換の話](https://snuke.hatenablog.com/entry/2016/07/01/000000) - より汎用性の高いアルゴリズム(`Rollback`機能の追加)が紹介されている記事。
 - [定数倍が最適な Mo's Algorithm](https://noshi91.hatenablog.com/entry/2023/04/13/224811) - 計算量が最悪となるケース(端部の移動)に着目して、アルゴリズムを改善している記事。
