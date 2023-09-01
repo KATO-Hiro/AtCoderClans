@@ -75,7 +75,23 @@
         <img loading = "lazy" src="images/userscript/atcoder_performace_graph.png" alt="atcoder performace graph">
     </div>
 
+=== "Chrome拡張機能"
+
+    2023-09-01
+
+    - 「[復習の効果をより高める](chrome_extensions/review)」ページ
+        - [AtCoder to Notion](https://chrome.google.com/webstore/detail/atcoder-to-notion/mhoemoadpammfnlbjagngjenedfpcfgi)
+
+    <div align="center">
+      <img loading = "lazy" src="images/chrome_extension/atcoder_to_notion.png" alt="atcoder to notion">
+    </div>
+
 === "記事"
+
+    2023-09-01
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [はじめての Mo's Algorithm](https://scrapbox.io/kyopuro-ryusuke920/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE_Mo's_Algorithm)
 
     2023-08-31
 
@@ -144,11 +160,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [RECRUIT 日本橋ハーフマラソン 2023夏（AtCoder Heuristic Contest 022）参加記](https://kaede2020.hatenablog.com/entry/2023/08/20/190031)
 
-    2023-08-19
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoderで使用可能なプログラミング言語が3年振りにアップデートされたので、どの言語が選ばれているか調べてみた](https://qiita.com/nabata/items/789a01effaceeeb570a7)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -199,19 +210,11 @@
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [Kirishima](https://atcoder.jp/users/Kirishima)さん - [【入青】AtCoder青色になりました！【色変】](https://note.com/kiri_comp/n/n02225d77a988)
 
-    2023-08-19
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [ZOIZOI](https://atcoder.jp/users/ZOIZOI)さん - [【色変記事】なんやかんやでAtCoder水コーダーになりました](https://qiita.com/ZOI_dayo/items/7f3b5e0dc0c6ba8c3d2d)
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [Zoi2](https://atcoder.jp/users/Zoi2)さん - [【色変記事】AtCoderで入緑した話 by ZOI2](https://qiita.com/ZOI2/items/6dd677775270eb65aae9)
-
 === "アーカイブス"
 
     2023-08-20
 
-    - 「[開発・提供終了](archived/no_longer_available.md)」ページ
+    - 「[開発・提供終了](archived/no_longer_available)」ページ
         - Colorful TL
 
 ## AtCoder公式グッズを購入する
