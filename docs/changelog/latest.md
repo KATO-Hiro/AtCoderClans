@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-09-03
+
+- [#6743](https://github.com/KATO-Hiro/AtCoderClans/pull/6743) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [配るDP・もらうDPの特徴づけに関して](https://rsk0315.hatenablog.com/entry/2023/09/02/002121)
+
 ### 2023-09-02
 
 - [#6733](https://github.com/KATO-Hiro/AtCoderClans/pull/6733) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - 特定の言語に依存しない内容](../../articles/implementation/general)」ページに、以下の記事を追加。
