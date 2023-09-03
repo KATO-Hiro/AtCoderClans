@@ -79,6 +79,11 @@
 
 === "記事"
 
+    2023-09-03
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [配るDP・もらうDPの特徴づけに関して](https://rsk0315.hatenablog.com/entry/2023/09/02/002121)
+
     2023-09-02
 
     - 「[実装テクニックを学ぶ - 特定の言語に依存しない内容](articles/implementation/general)」ページ
@@ -153,11 +158,6 @@
         - [AtCoder Junior League 2023 - 学校ランキング (8月21日時点)](https://twitter.com/atcoder/status/1693462573507571886)
         - [AJL 学校スコア(上位5校)、個人スコア(上位5人)の推移(2023年8月21日時点)](https://twitter.com/gojira_kyopro/status/1693470716627423446)
 
-    2023-08-21
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [RECRUIT 日本橋ハーフマラソン 2023夏（AtCoder Heuristic Contest 022）参加記](https://kaede2020.hatenablog.com/entry/2023/08/20/190031)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -186,13 +186,6 @@
 
         - [ゲームで学ぶ探索アルゴリズム実践入門～木探索とメタヒューリスティクス](https://www.amazon.co.jp/dp/4297133601/)に以下のリンクを追加。
             - [数字集め迷路](https://thun-c.github.io/one_player_maze/one_player_maze.html)
-
-=== "コマンドラインツール"
-
-    2023-08-21
-
-    - 「[ソースコードにバグがないか確認](cli/test_tools)」ページ
-        - [psytester](https://github.com/FakePsyho/psytester) ![GitHub Repo stars](https://img.shields.io/github/stars/FakePsyho/psytester?style=plastic)
 
 === "色変記事"
 
