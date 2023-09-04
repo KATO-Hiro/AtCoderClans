@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-09-04
+
+- [#6747](https://github.com/KATO-Hiro/AtCoderClans/pull/6747) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [桁DPの定型化](https://qiita.com/Kiri8128/items/a0786a690232623bd0f6)
+
 ### 2023-09-03
 
 - [#6743](https://github.com/KATO-Hiro/AtCoderClans/pull/6743) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
