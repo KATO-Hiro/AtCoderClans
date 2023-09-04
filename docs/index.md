@@ -79,6 +79,11 @@
 
 === "記事"
 
+    2023-09-04
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [桁DPの定型化](https://qiita.com/Kiri8128/items/a0786a690232623bd0f6)
+
     2023-09-03
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
@@ -152,12 +157,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [メタヒューリスティクスで広がる「解けた！」の世界](https://speakerdeck.com/terryu16/metahiyurisuteikusudeguang-garu-jie-keta-noshi-jie)
 
-    2023-08-22
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2023 - 学校ランキング (8月21日時点)](https://twitter.com/atcoder/status/1693462573507571886)
-        - [AJL 学校スコア(上位5校)、個人スコア(上位5人)の推移(2023年8月21日時点)](https://twitter.com/gojira_kyopro/status/1693470716627423446)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -165,18 +164,6 @@
 
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
         - [milkcoffee](https://atcoder.jp/users/milkcoffee)さん - [はてなブログ](https://milkcoffee.hatenablog.jp/)
-
-    2023-08-22
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [eijirou](https://atcoder.jp/users/eijirou)さん - [はてなブログ](https://eijirou-kyopro.hatenablog.com/)
-        - [hitonanode](https://atcoder.jp/users/hitonanode)さん - [はてなブログ](https://rsm9.hatenablog.com/)
-        - [Jirotech](https://atcoder.jp/users/Jirotech)さん - [はてなブログ](https://shuu0914.hatenablog.com/)
-        - [risujiroh](https://atcoder.jp/users/risujiroh)さん - [はてなブログ](https://risujiroh.hatenablog.com/)
-        - [YamagenSakam](https://atcoder.jp/users/YamagenSakam)さん - [はてなブログ](https://yamagensakam.hatenablog.com/)
-
-    - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
-        - [yuusanlondon](https://atcoder.jp/users/yuusanlondon)さん - [はてなブログ](https://yuusanlondon.hatenablog.com/)
 
 === "書籍"
 
