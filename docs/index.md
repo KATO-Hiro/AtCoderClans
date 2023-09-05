@@ -79,6 +79,12 @@
 
 === "記事"
 
+    2023-09-05
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2023 - 学校ランキング (9月4日時点)](https://twitter.com/atcoder/status/1698538878603239785)
+        - [継続というのはそれ自体が特異なことなのだと思いながらAtCoder全ユーザのコンテスト参加回数をグラフにしてみた](https://qiita.com/nabata/items/322c30ad3b827b1b508c)
+
     2023-09-04
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
@@ -151,11 +157,6 @@
 
     - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
         - [AtCoder 言語アップデート クレート個人的感想](https://zeronosu77108.hatenablog.com/entry/2023/08/20/125325)
-
-    2023-08-23
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [メタヒューリスティクスで広がる「解けた！」の世界](https://speakerdeck.com/terryu16/metahiyurisuteikusudeguang-garu-jie-keta-noshi-jie)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
