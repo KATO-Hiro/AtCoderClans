@@ -95,6 +95,8 @@ title: リンク切れ
 
 - [間違っているテストケースが見つけられないときの手法](https://sumatome.com/su/1294961358119739392) - [chokudai](https://twitter.com/chokudai)さんによる一連のツイートをまとめた記事。[ABC175-C問題](https://atcoder.jp/contests/abc175/tasks/abc175_c)を例に、間違っているテストケースを見つける方法が解説されている。併せて、[テストを自動化するツール](https://kato-hiro.github.io/AtCoderClans/cli)の導入についても前向きなコメントがされている。
     - 確認した日: 2022/12/17
+- [競技プログラミングでprintデバッグ](https://naskya.net/post/0002/) - printデバッグを素早く行うためのマクロを紹介した記事。任意の引数、データ型を扱うことができる上、可読性を高める工夫もされている。
+    - 確認した日: 2023/09/06
 
 ### 解説ブログ・サイトを見る
 
