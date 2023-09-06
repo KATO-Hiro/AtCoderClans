@@ -62,6 +62,7 @@ title: 競技プログラミングと就転職
 - [社会に出て感じたギャップTOP10](https://docs.google.com/presentation/d/16hCteY3ap_IIIyaT4KMmRBHM4X_4wt0Ge_kd9V_xg8s/edit#slide=id.g2cb369b990_0_113) - [kyuridenamida](https://atcoder.jp/users/kyuridenamida)さんがソフトウェア開発会社に就職する前後で感じたギャップをランキング形式で紹介したスライド資料。
 - [就活における競技プログラミング](https://jp.magicode.io/Naoki08/articles/af358537e0d94143be6b07473da4fecb) - 競技プログラミングが就職活動(新卒)の選考フローの各段階において、どの程度有用か筆者の見解を述べた記事。
 - [純粋培養競技プログラマが社会に出てみた感想](https://tsutaj.hatenablog.com/entry/2020/12/13/000000) - 学生時代の多くを競技プログラミングに捧げた[tsutaj](https://atcoder.jp/users/tsutaj)さんが、就職1年目で身につけたことやできるようになったことを紹介した記事。
+- [フォルシア株式会社のインターンに参加しました](https://qiita.com/rare0b/items/36dfa2fce750b3067e92) - [rarerare](https://atcoder.jp/users/rarerare)さんのインターン体験記。取り組んだ課題の工夫を中心に、社内の雰囲気・感想などが紹介されている。
 - [「まずは一つ勝つ。それ以外は負けてもいい」。競技プログラミングやKaggleを極めたPFN秋葉拓哉の勝ち方](https://liiga.me/columns/761) - [iwiwi](https://twitter.com/iwiwi)さんが、競技プログラミングを極めた経験をきっかけに、キャリア形成における考え方や業務で意識していることが紹介されている記事。
 
 ## 採用担当者の視点を知る
