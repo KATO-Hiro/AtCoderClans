@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-09-06
+
+- [#6763](https://github.com/KATO-Hiro/AtCoderClans/pull/6763) - (破壊的な変更) リンク切れと思われる記事を一時的に「[Archives](../../archived)」ページに移動。
+- [#6761](https://github.com/KATO-Hiro/AtCoderClans/pull/6761) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
+    - [フォルシア株式会社のインターンに参加しました](https://qiita.com/rare0b/items/36dfa2fce750b3067e92)
+- [#6760](https://github.com/KATO-Hiro/AtCoderClans/pull/6760) - (破壊的な変更) 「[Change Log](../latest)」ページの2023年7月分を月別のアーカイブに移動。
+    - [July, 2023](../2023_07)
+
 ### 2023-09-05
 
 - [#6754](https://github.com/KATO-Hiro/AtCoderClans/pull/6754)、[#6755](https://github.com/KATO-Hiro/AtCoderClans/pull/6755) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下の記事・ツイートを追加。

@@ -79,6 +79,11 @@
 
 === "記事"
 
+    2023-09-06
+
+    - 「[競技プログラミングと就転職](articles/jobs)」ページ
+        - [フォルシア株式会社のインターンに参加しました](https://qiita.com/rare0b/items/36dfa2fce750b3067e92)
+
     2023-09-05
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -153,11 +158,6 @@
     - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
         - ジャッジシステムの修正(2023年8月25日)に伴い、C言語で標準ライブラリの数学関数が利用できるようになった([出典](https://atcoder.jp/contests/editor-update-test))。
 
-    2023-08-24
-
-    - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
-        - [AtCoder 言語アップデート クレート個人的感想](https://zeronosu77108.hatenablog.com/entry/2023/08/20/125325)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -165,15 +165,6 @@
 
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
         - [milkcoffee](https://atcoder.jp/users/milkcoffee)さん - [はてなブログ](https://milkcoffee.hatenablog.jp/)
-
-=== "書籍"
-
-    2023-08-24
-
-    - 「[書籍](books)」ページ
-
-        - [ゲームで学ぶ探索アルゴリズム実践入門～木探索とメタヒューリスティクス](https://www.amazon.co.jp/dp/4297133601/)に以下のリンクを追加。
-            - [数字集め迷路](https://thun-c.github.io/one_player_maze/one_player_maze.html)
 
 === "色変記事"
 
