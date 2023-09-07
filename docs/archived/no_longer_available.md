@@ -275,6 +275,14 @@ title: 開発・提供終了
     - 理由: データ取得先の[AtCoder TL](https://github.com/shirakia/atcoder_tl)のサービス終了に伴い、更新が停止した可能性が高いと思われるため。
     - 確認した日: 2023/08/20
 
+- [AtCoder Comfortable Editor](https://greasyfork.org/ja/scripts/445582-atcoder-comfortable-editor) - 提出に関するページで、コードの表示に関する設定(カラーテーマ、タブ、行数など)をカスタマイズできる。
+    - 理由: AtCoderのエディタアップデートに伴い、作者が同スクリプトの利用を非推奨としたため。
+    - 確認した日: 2023/09/07
+
+    <div align="center">
+        <img loading = "lazy" src="../../images/userscript/atcoder_comfortable_editor.png" alt="atcoder comfortable editor">
+    </div>
+
 ### 外部サービス
 
 - [AC Problems Ranking Colorizer](https://greasyfork.org/ja/scripts/429485-ac-problems-ranking-colorizer) - [AtCoder Problems](https://kenkoooo.com/atcoder/) のランキングページで、ユーザ名をAtCoderのレーティングに対応した色に変更する。

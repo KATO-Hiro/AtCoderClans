@@ -72,16 +72,6 @@ Webページの背景色の変更や文字・提出コード・問題の正誤�
       <img loading = "lazy" src="../../images/userscript/snuke_smeke.png" alt="snuke? smeke?">
     </div>
 
-## 提出コードを見やすくする
-
-### 複数のページ
-
-- [AtCoder Comfortable Editor](https://greasyfork.org/ja/scripts/445582-atcoder-comfortable-editor) - 提出に関するページで、コードの表示に関する設定(カラーテーマ、タブ、行数など)をカスタマイズできる。
-
-    <div align="center">
-        <img loading = "lazy" src="../../images/userscript/atcoder_comfortable_editor.png" alt="atcoder comfortable editor">
-    </div>
-
 ## 問題の提出・正誤状況を確認
 
 ### オリジナル
