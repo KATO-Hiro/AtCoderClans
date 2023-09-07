@@ -57,13 +57,13 @@
 
 === "ユーザスクリプト"
 
-    2023-08-25
+    2023-09-07
 
-    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
-        - [AJL Join Count](https://greasyfork.org/ja/scripts/472659-ajl-join-count)
+    - 「[解説を読む・テストケースを見る](user_scripts/read_editorials)」ページ
+        - [AtCoder Ace Editor Editorial](https://greasyfork.org/ja/scripts/473919-atcoder-ace-editor-editorial)
 
     <div align="center">
-        <img loading = "lazy" src="images/userscript/ajl_join_count.png" alt="ajl join count">
+      <img loading = "lazy" src="images//userscript/atcoder_ace_editor_editorial.png" alt="atcoder_ace_editor_editorial">
     </div>
 
 === "Chrome拡張機能"
@@ -153,11 +153,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [【AHC022】 AHC初参加記 〜入茶しました](https://note.com/likaf/n/n81fc35c58550)
 
-    2023-08-25
-
-    - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
-        - ジャッジシステムの修正(2023年8月25日)に伴い、C言語で標準ライブラリの数学関数が利用できるようになった([出典](https://atcoder.jp/contests/editor-update-test))。
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -179,6 +174,13 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [Kirishima](https://atcoder.jp/users/Kirishima)さん - [【入青】AtCoder青色になりました！【色変】](https://note.com/kiri_comp/n/n02225d77a988)
+
+=== "アーカイブス"
+
+    2023-09-07
+
+    - 「[開発・提供終了](archived/no_longer_available)」ページ
+        - AtCoder Comfortable Editor
 
 ## AtCoder公式グッズを購入する
 
