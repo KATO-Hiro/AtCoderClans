@@ -32,6 +32,14 @@ title: 解説を読む・テストケースを見る
       <img loading = "lazy" src="../../images/userscript/atcoder_traffic_light.png" alt="snuke? smeke?">
     </div>
 
+### 解説コードのエディタを変更
+
+- [AtCoder Ace Editor Editorial](https://greasyfork.org/ja/scripts/473919-atcoder-ace-editor-editorial) - 「解説」ページで、Ace Editorに対応していない解説コードを変換する。[View All Editorials](https://greasyfork.org/ja/scripts/416554-view-all-editorials)にも対応している。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images//userscript/atcoder_ace_editor_editorial.png" alt="atcoder_ace_editor_editorial">
+    </div>
+
 ### ソースコードを整形
 
 - [AtCoder Formatter](https://greasyfork.org/ja/scripts/454753-atcoder-formatter) - 複数のページに対して、ソースコードを整形できるボタンを追加する。2022年11月時点で、C++、C#、Pythonに対応。
