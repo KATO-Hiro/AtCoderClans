@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-09-07
+
+- [#6768](https://github.com/KATO-Hiro/AtCoderClans/pull/6768) - (破壊的な変更) 作者が利用を非推奨としたユーザスクリプトを一時的に「[Archives](../../archived)」の「[開発・提供終了](../../archived/no_longer_available)」ページに移動。
+    - AtCoder Comfortable Editor
+- [#6766](https://github.com/KATO-Hiro/AtCoderClans/pull/6766) - 「[Scripts](../../scripts)」の「[解説を読む・テストケースを見る](../../user_scripts/read_editorials)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Ace Editor Editorial](https://greasyfork.org/ja/scripts/473919-atcoder-ace-editor-editorial)
+
 ### 2023-09-06
 
 - [#6763](https://github.com/KATO-Hiro/AtCoderClans/pull/6763) - (破壊的な変更) リンク切れと思われる記事を一時的に「[Archives](../../archived)」ページに移動。
