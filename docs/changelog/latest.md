@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-09-08
+
+- [#6772](https://github.com/KATO-Hiro/AtCoderClans/pull/6772) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [DPの俗称](https://www.mathenachia.blog/dp/)
+
 ### 2023-09-07
 
 - [#6768](https://github.com/KATO-Hiro/AtCoderClans/pull/6768) - (破壊的な変更) 作者が利用を非推奨としたユーザスクリプトを一時的に「[Archives](../../archived)」の「[開発・提供終了](../../archived/no_longer_available)」ページに移動。

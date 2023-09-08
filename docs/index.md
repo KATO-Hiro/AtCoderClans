@@ -79,6 +79,11 @@
 
 === "記事"
 
+    2023-09-08
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [DPの俗称](https://www.mathenachia.blog/dp/)
+
     2023-09-06
 
     - 「[競技プログラミングと就転職](articles/jobs)」ページ
@@ -137,21 +142,6 @@
 
     - 「[数学を学ぶ](articles/math)」ページ
         - [「積の和」典型の、最も典型的な問題](https://drken1215.hatenablog.com/entry/2023/08/26/160600)
-
-    2023-08-26
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-
-        <!-- markdown-link-check-disable -->
-
-        - [「CodeQUEEN 2023」にスポンサーとしておじゃましてきました！](https://note.e-seikatsu.info/n/n423fde3ccf32)
-
-        <!-- markdown-link-check-enable -->
-
-        - [実装力底上げを目指して、社内で「バーチャルコンテスト」を開催している話](https://note.com/dev_onecareer/n/n5f486629806d)
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [【AHC022】 AHC初参加記 〜入茶しました](https://note.com/likaf/n/n81fc35c58550)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
