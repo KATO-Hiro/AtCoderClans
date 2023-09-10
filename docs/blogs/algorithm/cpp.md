@@ -132,6 +132,7 @@ title: C&#43;&#43;
 |itigo|[はてなブログ](https://ichigokunn.hatenablog.com/)||
 |iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
 |jp3bgy|[GitHub Pages](https://jp3bgy.github.io/blog/)||
+|k1suxu|[はてなブログ](https://k1suxu.hatenablog.com/)||
 |kaage|[はてなブログ](https://kaage.hatenablog.com/)||
 |kanpurin|[はてなブログ](https://kanpurin.hatenablog.com/)||
 |KKT89|[はてなブログ](https://kkt89.hatenablog.com/)||
