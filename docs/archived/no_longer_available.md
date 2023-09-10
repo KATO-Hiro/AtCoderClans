@@ -305,6 +305,16 @@ title: 開発・提供終了
       <img loading = "lazy" src="../../images/userscript/atcoder_problems_premium.png" alt="atcoder problems premium">
     </div>
 
+### 文字・数字をより見やすく
+
+- [AtCoderのScoreを見やすくする](https://chrome.google.com/webstore/detail/atcoder-%E3%81%AE-score-%E3%82%92%E8%A6%8B%E3%82%84%E3%81%99%E3%81%8F%E3%81%99%E3%82%8B/ndnmjoimfdcpjbnnlkieikajbbcaockp?hl=ja&gl=UA) - マラソン形式のスコアをカンマ区切りやlogで表示する。
+    - 理由: 作者が公開を取りやめたと思われるため。
+    - 確認した日: 2023/09/10
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/chrome_extension/atcoder_marathon_score.png" alt="atcoder marathon score">
+    </div>
+
 ## 記事
 
 ### コードを書くための環境構築を行う

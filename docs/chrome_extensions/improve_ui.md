@@ -19,11 +19,3 @@ title: Webページをより見やすく
     <div align="center">
       <img loading = "lazy" src="../../images/chrome_extension/atcoder_color.png" alt="atcoder color">
     </div>
-
-## 文字・数字をより見やすく
-
-- [AtCoderのScoreを見やすくする](https://chrome.google.com/webstore/detail/atcoder-%E3%81%AE-score-%E3%82%92%E8%A6%8B%E3%82%84%E3%81%99%E3%81%8F%E3%81%99%E3%82%8B/ndnmjoimfdcpjbnnlkieikajbbcaockp?hl=ja&gl=UA) - マラソン形式のスコアをカンマ区切りやlogで表示する。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/chrome_extension/atcoder_marathon_score.png" alt="atcoder marathon score">
-    </div>
