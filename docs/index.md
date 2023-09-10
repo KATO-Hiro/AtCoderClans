@@ -131,18 +131,13 @@
         - [AtCoder Junior League 2023 - 学校ランキング (8月28日時点)](https://twitter.com/atcoder/status/1696009837765919013)
         - [AJL 学校スコア(上位5校)、個人スコア(上位5人)の推移(2023年8月28日時点)](https://twitter.com/gojira_kyopro/status/1696083230800433478)
 
-    2023-08-28
-
-    - 「[数学を学ぶ](articles/math)」ページ
-        - [月刊組合せ論 Natori](https://combinatorics-fun.vercel.app/natori/)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
-    2023-08-28
+    2023-09-10
 
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [milkcoffee](https://atcoder.jp/users/milkcoffee)さん - [はてなブログ](https://milkcoffee.hatenablog.jp/)
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [k1suxu](https://atcoder.jp/users/k1suxu)さん - [はてなブログ](https://k1suxu.hatenablog.com/)
 
 === "色変記事"
 
@@ -159,6 +154,11 @@
         - [Kirishima](https://atcoder.jp/users/Kirishima)さん - [【入青】AtCoder青色になりました！【色変】](https://note.com/kiri_comp/n/n02225d77a988)
 
 === "アーカイブス"
+
+    2023-09-10
+
+    - 「[開発・提供終了](archived/no_longer_available)」ページ
+        - AtCoderのScoreを見やすくする
 
     2023-09-07
 
