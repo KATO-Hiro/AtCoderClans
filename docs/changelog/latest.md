@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-09-10
+
+- [#6782](https://github.com/KATO-Hiro/AtCoderClans/pull/6782) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜2399に到達したユーザのブログを追加。
+- [#6781](https://github.com/KATO-Hiro/AtCoderClans/pull/6781) - (破壊的な変更) 公開を取りやめたと思われるChrome拡張機能を一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2023-09-09
 
 - [#6776](https://github.com/KATO-Hiro/AtCoderClans/pull/6776) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
