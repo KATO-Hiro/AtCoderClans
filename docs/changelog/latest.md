@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-09-11
+
+- [#6795](https://github.com/KATO-Hiro/AtCoderClans/pull/6795) - (破壊的な変更) 記事の公開を取りやめたと思われるブログを一時的に「[Archives](../../archived)」ページに移動。
+- [#6793](https://github.com/KATO-Hiro/AtCoderClans/pull/6793)、[#6794](https://github.com/KATO-Hiro/AtCoderClans/pull/6794) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
+    - [AtCoder World Tour Finals 2022 参加記](https://heno239.hatenablog.com/entry/2023/09/10/133932)
+    - [AtCoder WTF 2022 (お手伝いとして参加）](https://maspypy.com/atcoder-wtf-2022-%e3%81%8a%e6%89%8b%e4%bc%9d%e3%81%84%e3%81%a8%e3%81%97%e3%81%a6%e5%8f%82%e5%8a%a0%ef%bc%89)
+
 ### 2023-09-10
 
 - [#6782](https://github.com/KATO-Hiro/AtCoderClans/pull/6782) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜2399に到達したユーザのブログを追加。

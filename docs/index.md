@@ -72,6 +72,12 @@
 
 === "記事"
 
+    2023-09-11
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [AtCoder World Tour Finals 2022 参加記](https://heno239.hatenablog.com/entry/2023/09/10/133932)
+        - [AtCoder WTF 2022 (お手伝いとして参加）](https://maspypy.com/atcoder-wtf-2022-%e3%81%8a%e6%89%8b%e4%bc%9d%e3%81%84%e3%81%a8%e3%81%97%e3%81%a6%e5%8f%82%e5%8a%a0%ef%bc%89)
+
     2023-09-09
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
@@ -124,12 +130,6 @@
 
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
         - [非再帰Euler TourをPythonでやる](https://qiita.com/Kiri8128/items/2b0023bed9af642c751c)
-
-    2023-08-29
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2023 - 学校ランキング (8月28日時点)](https://twitter.com/atcoder/status/1696009837765919013)
-        - [AJL 学校スコア(上位5校)、個人スコア(上位5人)の推移(2023年8月28日時点)](https://twitter.com/gojira_kyopro/status/1696083230800433478)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
