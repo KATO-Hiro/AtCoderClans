@@ -30,6 +30,12 @@ title: 部活・サークル・同好会・オンサイトイベントに参加�
 
 - [AtCoder World Tour Finals 2022 参加記](https://heno239.hatenablog.com/entry/2023/09/10/133932) - [heno239](https://atcoder.jp/users/heno239)さんによるWorld Tour Finals 2022 ([Day1](https://atcoder.jp/contests/wtf22-day1)、[Day2](https://atcoder.jp/contests/wtf22-day2))の参加記。コンテストの戦略・思考過程に加えて、各国の参加者との国際交流・グルメなどについても言及されている。
 
+- [AtCoder WTF 2022 (お手伝いとして参加）](https://maspypy.com/atcoder-wtf-2022-%e3%81%8a%e6%89%8b%e4%bc%9d%e3%81%84%e3%81%a8%e3%81%97%e3%81%a6%e5%8f%82%e5%8a%a0%ef%bc%89) - コンテストの運営スタッフの一人である[maspy](https://atcoder.jp/users/maspy)さんの参加記。testerとしての活動の概略、コンテスト前後のイベントを含めて時系列での振り返りが行われている。
+
+    !!! info "参考"
+
+        問題の解法には一切言及しないことが明記されている。
+
 ### CodeQUEEN 2023
 
 <!-- markdown-link-check-disable -->
