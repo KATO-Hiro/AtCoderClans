@@ -10,7 +10,6 @@ title: C&#43;&#43;
 |asi1024|[はてなブログ](https://asi1024.hatenablog.com/)|2017年3月以降、新規の記事を確認できず。|
 |ats5515|[はてなブログ](https://ats5515.hatenablog.com/)|ヒューリスティック型のコンテストに関する記事が多数掲載されている|
 |beet|[はてなブログ](https://beet-aizu.hatenablog.com/)|ブログの公開範囲が限定されている。|
-|blackyuki|[はてなブログ](https://black-yuki.hatenablog.com/entry/2021/05/27/142104)||
 |catupper|[はてなブログ](https://catupper.hatenablog.com/)|Rated対象外のコンテストを中心にPythonで実装されている回答もある。|
 |chocorusk|[はてなブログ](https://lovechocorusk.hatenablog.com/)|2016年5月以降、新規の記事を確認できず。|
 |DEGwer|[はてなブログ](https://degwer.hatenablog.com/)|2019年7月以降、新規の記事を確認できず。|

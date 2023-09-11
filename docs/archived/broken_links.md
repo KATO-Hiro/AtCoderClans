@@ -130,6 +130,8 @@ title: リンク切れ
 
 ## ブログ
 
+- [はてなブログ - blackyuki](https://black-yuki.hatenablog.com/)
+    - 確認した日: 2023/09/11
 - [自作ブログ - opt](https://opt-cp.com/)
     - 確認した日: 2022/10/03
 - [Qiita - KoD](https://qiita.com/Kodaman_KoD)
