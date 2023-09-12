@@ -4,6 +4,18 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-09-12
+
+- [#6811](https://github.com/KATO-Hiro/AtCoderClans/pull/6811) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[OtakuMoyashi](https://atcoder.jp/users/OtakuMoyashi)さんの[記事](https://qiita.com/harryp0tterK/items/33ebd57f1b7e2a1a3a9e)を追加。
+- [#6810](https://github.com/KATO-Hiro/AtCoderClans/pull/6810) - 「[Milestones](../../milestones/orange)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2400から2799まで(橙色)に[Yu_212](https://atcoder.jp/users/Yu_212)さんの[記事](https://yu212.hatenablog.com/entry/2023/09/11/025001)を追加。
+- [#6809](https://github.com/KATO-Hiro/AtCoderClans/pull/6809) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下のツイートを追加。
+    - [️灰茶向け　ざっくりわかろうDP️](https://twitter.com/burioden/status/1700943044714086469)
+- [#6806](https://github.com/KATO-Hiro/AtCoderClans/pull/6806)、[#6807](https://github.com/KATO-Hiro/AtCoderClans/pull/6807) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AtCoder Junior League 2023 - 学校ランキング (9月11日時点)](https://twitter.com/atcoder/status/1701090985978310979)
+    - [AJL 高校部門上位40校 (2023年9月11日時点)](https://twitter.com/kiri8128/status/1701251352075075616)
+
 ### 2023-09-11
 
 - [#6795](https://github.com/KATO-Hiro/AtCoderClans/pull/6795) - (破壊的な変更) 記事の公開を取りやめたと思われるブログを一時的に「[Archives](../../archived)」ページに移動。
