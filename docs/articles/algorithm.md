@@ -88,6 +88,7 @@ title: アルゴリズムを学ぶ
 - [最大正方形の面積の求め方を知ってますか？　2次元の動的計画法（貰う/配る）をビジュアライズしてみました！](https://qiita.com/H20/items/884551b4965739176afc) - 最大正方形の面積を求める問題を題材に、2次元の動的計画法を解説した記事。
     - [解の探索過程を見る](https://h20-dhmo.github.io/square.io/)
 - [Educational DP Contest / DP まとめコンテスト](https://atcoder.jp/contests/dp/) - AtCoder公式が提供している動的計画法の入門コンテンツ。
+    - [️灰茶向け　ざっくりわかろうDP️](https://twitter.com/burioden/status/1700943044714086469) - A問題を例に、DPでできることと作り方、貰うDP・配るDPの違いが分かりやすく図解されている。
     - [A〜E問題の解説・類題集](https://qiita.com/drken/items/dc53c683d6de8aeacf5a) - [drken](https://atcoder.jp/users/drken)さんがA〜E問題の解説・類題をまとめた記事。
     - [DPまとめコンテスト（EDPC）解説 目次](https://kyopro-friends.hatenablog.com/entry/2019/01/12/230754) - [kyopro_friends](https://atcoder.jp/users/kyopro_friends)さんによる[Educational DP Contest / DP まとめコンテスト](https://atcoder.jp/contests/dp)の解説記事のリンク。
         - [入門編(A〜E問題)](https://kyopro-friends.hatenablog.com/entry/2019/01/12/230931)
