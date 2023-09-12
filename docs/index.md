@@ -72,6 +72,15 @@
 
 === "記事"
 
+    2023-09-12
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [️灰茶向け　ざっくりわかろうDP️](https://twitter.com/burioden/status/1700943044714086469)
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2023 - 学校ランキング (9月11日時点)](https://twitter.com/atcoder/status/1701090985978310979)
+        - [AJL 高校部門上位40校 (2023年9月11日時点)](https://twitter.com/kiri8128/status/1701251352075075616)
+
     2023-09-11
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
@@ -126,11 +135,6 @@
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
         - [ChatGPT3.5&4.0で競技プログラミングAtCoderの問題のスキル推定を検証しました](https://note.com/chatgpt_nobdata/n/n2d5769ebb622)
 
-    2023-08-30
-
-    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
-        - [非再帰Euler TourをPythonでやる](https://qiita.com/Kiri8128/items/2b0023bed9af642c751c)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -143,15 +147,18 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
 
+    2023-09-12
+
+    - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
+        - [Yu_212](https://atcoder.jp/users/Yu_212)さん - [【色変記事】AtCoder橙になりました - Yu_212’s diary](https://yu212.hatenablog.com/entry/2023/09/11/025001)
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+         - [OtakuMoyashi](https://atcoder.jp/users/OtakuMoyashi)さん - [挫折しかけたけど入茶できた中学生の話。](https://qiita.com/harryp0tterK/items/33ebd57f1b7e2a1a3a9e)
+
     2023-08-31
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [hassy_](https://atcoder.jp/users/hassy_)さん - [【色編記事】AtCoder水色になりました 〜4年間の挑戦を振り返る〜](https://qiita.com/_ken_/items/c32d4b2e680058abd77a)
-
-    2023-08-30
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [Kirishima](https://atcoder.jp/users/Kirishima)さん - [【入青】AtCoder青色になりました！【色変】](https://note.com/kiri_comp/n/n02225d77a988)
 
 === "アーカイブス"
 
