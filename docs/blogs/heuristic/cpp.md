@@ -54,7 +54,7 @@ title: C&#43;&#43;
 |hari64|[Qiita](https://qiita.com/hari64)||
 |hirokazu1020|[はてなブログ](https://hirokazu1020.hatenablog.com/)||
 |hitoare|[はてなブログ](https://hitoare.hatenablog.com/)||
-|hogloid|[はてなブログはてなブログ](https://hogloid.hatenablog.com/)||
+|hogloid|[はてなブログ](https://hogloid.hatenablog.com/)||
 |itigo|[はてなブログ](https://ichigokunn.hatenablog.com/)||
 |kotatsugame|[はてなブログ](https://kotatsugame.hatenablog.com/)||
 |kusano|[はてなブログ](https://kusano-k.hatenablog.com/)、[Qiita](https://qiita.com/kusano_k)||
