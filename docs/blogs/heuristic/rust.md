@@ -14,6 +14,7 @@ title: Rust
 |:--:|:--:|:--|
 |primenumber|[はてなブログ](https://primenumber.hatenadiary.jp/)||
 |rhoo|[Qiita](https://qiita.com/rhoo)||
+|sugim48|[はてなブログ](https://sugim48.hatenadiary.org/)|2014年11月以降、新規の記事を確認できず。C++で実装されている回答もある。|
 
 ## レーティング2000〜2399(黄色)
 

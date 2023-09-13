@@ -11,9 +11,11 @@ title: C&#43;&#43;
 |eivour|[Qiita](https://qiita.com/contramundum)||
 |hitonanode|[はてなブログ](https://rsm9.hatenablog.com/)||
 |Jirotech|[はてなブログ](https://shuu0914.hatenablog.com/)||
+|mtsd|[はてなブログ](https://mtsd-programming.hatenablog.com/)||
 |nagiss|[はてなブログ](https://nagiss.hateblo.jp/)||
 |phocom|[Qiita](https://qiita.com/phocom)||
 |saharan|[自作ブログ](https://blog.oimo.io/)||
+|Shun_PI|[Qiita](https://qiita.com/Shun_PI)||
 |square1001|[Qiita](https://qiita.com/square1001)||
 |WA_TLE|[はてなブログ](https://watle.hatenablog.com/)|2019年1月以降、新規の記事を確認できず。|
 
@@ -30,12 +32,10 @@ title: C&#43;&#43;
 |iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
 |kozima|[はてなブログ](https://lkozima.hatenablog.com/)||
 |LayCurse|[自作ブログ](http://rsujskf.s602.xrea.com/)||
-|mtsd|[はてなブログ](https://mtsd-programming.hatenablog.com/)||
 |noimi|[はてなブログ](https://noimi.hatenablog.com/)||
 |Nyaan|[はてなブログ](https://nyaan.hatenablog.com/)||
 |risujiroh|[はてなブログ](https://risujiroh.hatenablog.com/)||
 |shibh308|[はてなブログ](https://shibh308.hatenablog.com/)||
-|Shun_PI|[Qiita](https://qiita.com/Shun_PI)||
 |siman|[はてなブログ](https://simanman.hatenablog.com/)||
 |takumi152|[はてなブログ](https://takumi152.hatenablog.jp/)||
 |wanui|[Zenn](https://zenn.dev/gmeriaog)||
@@ -54,6 +54,7 @@ title: C&#43;&#43;
 |hari64|[Qiita](https://qiita.com/hari64)||
 |hirokazu1020|[はてなブログ](https://hirokazu1020.hatenablog.com/)||
 |hitoare|[はてなブログ](https://hitoare.hatenablog.com/)||
+|hogloid|[はてなブログはてなブログ](https://hogloid.hatenablog.com/)||
 |itigo|[はてなブログ](https://ichigokunn.hatenablog.com/)||
 |kotatsugame|[はてなブログ](https://kotatsugame.hatenablog.com/)||
 |kusano|[はてなブログ](https://kusano-k.hatenablog.com/)、[Qiita](https://qiita.com/kusano_k)||
