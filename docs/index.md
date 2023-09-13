@@ -72,6 +72,14 @@
 
 === "記事"
 
+    2023-09-13
+
+    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
+        - [日本最大のプログラミングコンテストサイトAtCoder　中高生に特化した学校対抗リーグ「AtCoder Junior League」開催にかける思いとは](https://prtimes.jp/story/detail/zrELeosmk4x)
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [第10回 Asprova プログラミングコンテスト（AtCoder Heuristic Contest 023）参加メモ](https://kaede2020.hatenablog.com/entry/2023/09/10/200121)
+
     2023-09-12
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
@@ -130,18 +138,33 @@
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [はじめての Mo's Algorithm](https://scrapbox.io/kyopuro-ryusuke920/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE_Mo's_Algorithm)
 
-    2023-08-31
-
-    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
-        - [ChatGPT3.5&4.0で競技プログラミングAtCoderの問題のスキル推定を検証しました](https://note.com/chatgpt_nobdata/n/n2d5769ebb622)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2023-09-13
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [mtsd](https://atcoder.jp/users/mtsd)さん - [はてなブログ](https://mtsd-programming.hatenablog.com/)
+        - [Shun_PI](https://atcoder.jp/users/Shun_PI)さん - [Qiita](https://qiita.com/Shun_PI)
+        - [hogloid](https://atcoder.jp/users/hogloid)さん - [はてなブログ](https://hogloid.hatenablog.com/)
+
+    - 「[ヒューリスティック部門 - Java](blogs/heuristic/java)」ページ
+        - [rabot](https://atcoder.jp/users/rabot)さん - [Qiita](https://qiita.com/tanaka-a)
+
+    - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
+        - [sugim48](https://atcoder.jp/users/sugim48)さん - [はてなブログ](https://sugim48.hatenadiary.org/)
 
     2023-09-10
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [k1suxu](https://atcoder.jp/users/k1suxu)さん - [はてなブログ](https://k1suxu.hatenablog.com/)
+
+=== "SNS"
+
+    2023-09-13
+
+    - 「[SNS](sns)」ページ
+        - [競プロオンサイト情報！](https://twitter.com/kyopro_onsite)
 
 === "色変記事"
 
@@ -152,13 +175,8 @@
     - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
         - [Yu_212](https://atcoder.jp/users/Yu_212)さん - [【色変記事】AtCoder橙になりました - Yu_212’s diary](https://yu212.hatenablog.com/entry/2023/09/11/025001)
 
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+    - 「[レーティング400〜799(茶色)](milestones/brown)」ページ
          - [OtakuMoyashi](https://atcoder.jp/users/OtakuMoyashi)さん - [挫折しかけたけど入茶できた中学生の話。](https://qiita.com/harryp0tterK/items/33ebd57f1b7e2a1a3a9e)
-
-    2023-08-31
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [hassy_](https://atcoder.jp/users/hassy_)さん - [【色編記事】AtCoder水色になりました 〜4年間の挑戦を振り返る〜](https://qiita.com/_ken_/items/c32d4b2e680058abd77a)
 
 === "アーカイブス"
 

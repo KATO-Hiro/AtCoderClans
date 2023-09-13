@@ -4,6 +4,16 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-09-13
+
+- [#6818](https://github.com/KATO-Hiro/AtCoderClans/pull/6818) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加・更新。
+- [#6817](https://github.com/KATO-Hiro/AtCoderClans/pull/6817) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の記事を追加。
+    - [日本最大のプログラミングコンテストサイトAtCoder　中高生に特化した学校対抗リーグ「AtCoder Junior League」開催にかける思いとは](https://prtimes.jp/story/detail/zrELeosmk4x)
+- [#6816](https://github.com/KATO-Hiro/AtCoderClans/pull/6816) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [第10回 Asprova プログラミングコンテスト（AtCoder Heuristic Contest 023）参加メモ](https://kaede2020.hatenablog.com/entry/2023/09/10/200121)
+- [#6815](https://github.com/KATO-Hiro/AtCoderClans/pull/6815) - 「[Articles, Blogs, Books and Videos](../../media)」の「[SNS](../../sns)」ページに、以下のX (旧 Twitter)アカウントを追加。
+    - [競プロオンサイト情報！](https://twitter.com/kyopro_onsite)
+
 ### 2023-09-12
 
 - [#6811](https://github.com/KATO-Hiro/AtCoderClans/pull/6811) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
