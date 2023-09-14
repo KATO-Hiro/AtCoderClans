@@ -53,7 +53,7 @@ title: 情報オリンピック
 
 #### 勉強会の案内
 
-- 準備中。
+- 調査中。
 
 ## IOI (International Olympiad in Informatics)
 
