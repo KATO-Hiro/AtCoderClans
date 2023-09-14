@@ -87,3 +87,9 @@ title: Others
 
 - [TypeScriptでAtCoderをやってみよう!](https://qiita.com/cosocaf/items/255003ecec1d3badfc7b) - TypeScriptで問題を解くために、環境構築や標準入出力の方法・テンプレートを紹介した記事。
 - [【AtCoder】TypeScript で Python の `input()` ライクな入力を実現する](https://qiita.com/seijinrosen/items/5a3c54d574d9622cd2ce) - Pythonの`input()`のような形式で入力を受け取るためのTypeScriptのテンプレートを紹介した記事。
+
+## Zig
+
+### 文法・言語仕様
+
+- [Zig言語の練習に AtCoder 202308 新ジャッジテストコンテスト A-E を解いてみた](https://qiita.com/hossie/items/080f8d49ec445022284b) - Zigによる回答例に加えて、Rustの実装例との比較も行われている。
