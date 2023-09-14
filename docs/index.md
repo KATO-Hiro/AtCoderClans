@@ -59,18 +59,12 @@
       <img loading = "lazy" src="images//userscript/atcoder_ace_editor_editorial.png" alt="atcoder_ace_editor_editorial">
     </div>
 
-=== "Chrome拡張機能"
-
-    2023-09-01
-
-    - 「[復習の効果をより高める](chrome_extensions/review)」ページ
-        - [AtCoder to Notion](https://chrome.google.com/webstore/detail/atcoder-to-notion/mhoemoadpammfnlbjagngjenedfpcfgi)
-
-    <div align="center">
-      <img loading = "lazy" src="images/chrome_extension/atcoder_to_notion.png" alt="atcoder to notion">
-    </div>
-
 === "記事"
+
+    2023-09-14
+
+    - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
+        - [Zig言語の練習に AtCoder 202308 新ジャッジテストコンテスト A-E を解いてみた](https://qiita.com/hossie/items/080f8d49ec445022284b)
 
     2023-09-13
 
@@ -133,11 +127,6 @@
     - 「[競技プログラミングと就転職](articles/jobs)」ページ
         - [高校生がフォルシア株式会社でインターンをした話](https://clara775.hatenablog.com/entry/2023/09/01/181716)
 
-    2023-09-01
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [はじめての Mo's Algorithm](https://scrapbox.io/kyopuro-ryusuke920/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE_Mo's_Algorithm)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -176,7 +165,14 @@
         - [Yu_212](https://atcoder.jp/users/Yu_212)さん - [【色変記事】AtCoder橙になりました - Yu_212’s diary](https://yu212.hatenablog.com/entry/2023/09/11/025001)
 
     - 「[レーティング400〜799(茶色)](milestones/brown)」ページ
-         - [OtakuMoyashi](https://atcoder.jp/users/OtakuMoyashi)さん - [挫折しかけたけど入茶できた中学生の話。](https://qiita.com/harryp0tterK/items/33ebd57f1b7e2a1a3a9e)
+        - [OtakuMoyashi](https://atcoder.jp/users/OtakuMoyashi)さん - [挫折しかけたけど入茶できた中学生の話。](https://qiita.com/harryp0tterK/items/33ebd57f1b7e2a1a3a9e)
+
+=== "国内外のコンテストサイト"
+
+    2023-09-14
+
+    - 「[情報オリンピック](related_contest_sites/joi_ioi)」ページ
+        - [IOI2023 参加記](https://kodaman.hatenablog.com/entry/2023/09/10/160836)
 
 === "アーカイブス"
 

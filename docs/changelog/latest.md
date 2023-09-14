@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-09-14
+
+- [#6828](https://github.com/KATO-Hiro/AtCoderClans/pull/6828) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Others](../../articles/implementation/others)」ページに、以下の記事を追加。
+    - [Zig言語の練習に AtCoder 202308 新ジャッジテストコンテスト A-E を解いてみた](https://qiita.com/hossie/items/080f8d49ec445022284b)
+- [#6827](https://github.com/KATO-Hiro/AtCoderClans/pull/6827) - (破壊的な変更) 掲載内容が古くなったと思われる記事を一時的に「[Archives](../../archived)」ページに移動。
+- [#6826](https://github.com/KATO-Hiro/AtCoderClans/pull/6826) - 「[Related Contest Sites](../../related_contest_sites)」の「[情報オリンピック](../../related_contest_sites/joi_ioi)」ページに、以下の記事を追加。
+    - [IOI2023 参加記](https://kodaman.hatenablog.com/entry/2023/09/10/160836)
+
 ### 2023-09-13
 
 - [#6818](https://github.com/KATO-Hiro/AtCoderClans/pull/6818) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加・更新。
