@@ -61,6 +61,11 @@
 
 === "記事"
 
+    2023-09-15
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [第10回 Asprova プログラミングコンテスト 参加記 (39.1M; 130位)](https://www.wantedly.com/companies/learningbox/post_articles/538136)
+
     2023-09-14
 
     - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
@@ -119,13 +124,6 @@
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [配るDP・もらうDPの特徴づけに関して](https://rsk0315.hatenablog.com/entry/2023/09/02/002121)
-
-    2023-09-02
-
-    - 「[実装テクニックを学ぶ - 特定の言語に依存しない内容](articles/implementation/general)」ページ
-        - [AtCoderのジャッジステータスの表示優先度](https://qiita.com/tomii9273/items/54cd7c1a7fb5591a8d9b)
-    - 「[競技プログラミングと就転職](articles/jobs)」ページ
-        - [高校生がフォルシア株式会社でインターンをした話](https://clara775.hatenablog.com/entry/2023/09/01/181716)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
