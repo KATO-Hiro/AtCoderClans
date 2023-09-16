@@ -48,6 +48,13 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "ボット"
+
+    2023-09-16
+
+    - 「[Bot](bot)」ページ
+        - [ほぼ日バチャbot](https://twitter.com/contest_bot_mcc)
+
 === "ユーザスクリプト"
 
     2023-09-07
@@ -120,11 +127,6 @@
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [桁DPの定型化](https://qiita.com/Kiri8128/items/a0786a690232623bd0f6)
 
-    2023-09-03
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [配るDP・もらうDPの特徴づけに関して](https://rsk0315.hatenablog.com/entry/2023/09/02/002121)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -156,6 +158,14 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-09-16
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さん - [【AtCoder】現役中学生がPythonで青になったから書いた記事](https://qiita.com/halcyonFX/items/5eeb2240412a1e587bff)
+
+    - 「[レーティング400〜799(茶色)](milestones/brown)」ページ
+        - [kunaisn](https://atcoder.jp/users/kunaisn)さん - [AtCoderで茶色になりました](https://sekaishi-beta.com/kunaisn_atcoder_brown/)
 
     2023-09-12
 
