@@ -36,6 +36,10 @@ title: Bot
 
 ### Twitter
 
+- [ほぼ日バチャbot](https://twitter.com/contest_bot_mcc)
+    - 出題範囲: 登録されているバーチャルコンテストによって異なる
+    - 通知日時: 各コンテストの開始10〜60分前
+
 - [A?Cなにか](https://twitter.com/abc_nanica)
     - 出題範囲:
         - AtCoder Beginner Contest (通称、ABC)のA〜D問題
