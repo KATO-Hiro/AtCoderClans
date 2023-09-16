@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-09-16
+
+- [#6838](https://github.com/KATO-Hiro/AtCoderClans/pull/6838) - 「[Web Apps and Sites](../../web_app)」の「[Bot](../../bot)」ページに、[AtCoder Problems](https://kenkoooo.com/atcoder/)のバーチャルコンテストに関するサービスを追加。
+    - [ほぼ日バチャbot](https://twitter.com/contest_bot_mcc)
+- [#6836](https://github.com/KATO-Hiro/AtCoderClans/pull/6836) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[kunaisn](https://atcoder.jp/users/kunaisn)さんの[記事](https://sekaishi-beta.com/kunaisn_atcoder_brown/)を追加。
+- [#6835](https://github.com/KATO-Hiro/AtCoderClans/pull/6835) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[hirayuu_At](https://atcoder.jp/users/hirayuu_At)さんの[記事](https://qiita.com/halcyonFX/items/5eeb2240412a1e587bff)を追加。
+
 ### 2023-09-15
 
 - [#6831](https://github.com/KATO-Hiro/AtCoderClans/pull/6831) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
