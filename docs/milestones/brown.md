@@ -5,6 +5,7 @@ title: レーティング400〜799(茶色)
 ## 2023年
 
 - [挫折しかけたけど入茶できた中学生の話。](https://qiita.com/harryp0tterK/items/33ebd57f1b7e2a1a3a9e) - [OtakuMoyashi](https://atcoder.jp/users/OtakuMoyashi)さんが、2023年9月9日に達成。
+- [AtCoderで茶色になりました](https://sekaishi-beta.com/kunaisn_atcoder_brown/) - [kunaisn](https://atcoder.jp/users/kunaisn)さんが、2023年9月2日に達成。
 - [入茶しました。](https://note.com/coco__0715/n/n655dc80fc5b6) - [coco0715](https://atcoder.jp/users/coco0715)さんが、2023年8月12日に達成。
 - [【令和最新版】AtCoder 色変記事：茶色【Java】](https://f-matano44.jp/post/20230808_nyuutya/) - [f_matano44](https://atcoder.jp/users/f_matano44)さんが、2023年8月12日に達成。
 - [【AtCoder】Pythonで入茶しました！！](https://qiita.com/Totosuki/items/d71012254af0977b5298) - [totosuki](https://atcoder.jp/users/totosuki)さんが、2023年7月15日に達成。
