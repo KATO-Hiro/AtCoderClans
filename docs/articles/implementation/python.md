@@ -25,6 +25,7 @@ title: Python
 #### 2023年8月以降
 
 - [AtCoderの2023新ジャッジで使えるPython標準の便利機能](https://qiita.com/mo124121/items/595358fdcfdc1d2baf2c) - 競技プログラミングで便利な標準ライブラリが紹介されている記事。旧ジャッジシステムのPyPy 7.3.0 (Python 3.6.9相当)から、新ジャッジシステムのPyPy 7.3.12 (Python 3.10.12相当)までに追加・変更された内容が対象。
+- [【Python】AtCoderの言語アップデートでの変更点をまとめてみたよ。](https://qiita.com/hyouchun/items/8a830952315666576c3d) - [ac-library-python](https://github.com/not522/ac-library-python)と導入方法、主なライブラリ・メソッドの変更点などが紹介されている。
 
 #### 2023年8月以前
 
