@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-09-17
+
+- [#6844](https://github.com/KATO-Hiro/AtCoderClans/pull/6844)、[#6845](https://github.com/KATO-Hiro/AtCoderClans/pull/6845) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Python](../../articles/implementation/python)」ページに、以下の記事を追加。
+    - [AtCoderの2023新ジャッジで使えるPython標準の便利機能](https://qiita.com/mo124121/items/595358fdcfdc1d2baf2c)
+    - [【Python】AtCoderの言語アップデートでの変更点をまとめてみたよ。](https://qiita.com/hyouchun/items/8a830952315666576c3d)
+
+
 ### 2023-09-16
 
 - [#6838](https://github.com/KATO-Hiro/AtCoderClans/pull/6838) - 「[Web Apps and Sites](../../web_app)」の「[Bot](../../bot)」ページに、[AtCoder Problems](https://kenkoooo.com/atcoder/)のバーチャルコンテストに関するサービスを追加。
