@@ -68,6 +68,12 @@
 
 === "記事"
 
+    2023-09-17
+
+    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
+        - [AtCoderの2023新ジャッジで使えるPython標準の便利機能](https://qiita.com/mo124121/items/595358fdcfdc1d2baf2c)
+        - [【Python】AtCoderの言語アップデートでの変更点をまとめてみたよ。](https://qiita.com/hyouchun/items/8a830952315666576c3d)
+
     2023-09-15
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -121,11 +127,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2023 - 学校ランキング (9月4日時点)](https://twitter.com/atcoder/status/1698538878603239785)
         - [継続というのはそれ自体が特異なことなのだと思いながらAtCoder全ユーザのコンテスト参加回数をグラフにしてみた](https://qiita.com/nabata/items/322c30ad3b827b1b508c)
-
-    2023-09-04
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [桁DPの定型化](https://qiita.com/Kiri8128/items/a0786a690232623bd0f6)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
