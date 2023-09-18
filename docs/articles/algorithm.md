@@ -240,6 +240,10 @@ title: アルゴリズムを学ぶ
 
 ## その他
 
+### 問題集
+
+- [x軸とy軸について独立に考えてよい](https://drken1215.hatenablog.com/archive/category/x%E8%BB%B8%E3%81%A8y%E8%BB%B8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E7%8B%AC%E7%AB%8B%E3%81%AB%E8%80%83%E3%81%88%E3%81%A6%E3%82%88%E3%81%84) - [drken](https://atcoder.jp/users/drken)さんによる過去問の解説集。x軸とy軸を独立に扱うことで考察・実装がしやすくなる問題がまとめられている。
+
 ### 三分探索
 
 - [三分探索を救いたい](https://qiita.com/ganyariya/items/1553ff2bf8d6d7789127) - 単峰関数の最小値・最大値を求める手法の一つである三分探索について図解されている記事。例題とC++による実装例も紹介されている。
