@@ -68,6 +68,11 @@
 
 === "記事"
 
+    2023-09-18
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [x軸とy軸について独立に考えてよい - けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/archive/category/x%E8%BB%B8%E3%81%A8y%E8%BB%B8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E7%8B%AC%E7%AB%8B%E3%81%AB%E8%80%83%E3%81%88%E3%81%A6%E3%82%88%E3%81%84)
+
     2023-09-17
 
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
@@ -121,12 +126,6 @@
 
     - 「[競技プログラミングと就転職](articles/jobs)」ページ
         - [フォルシア株式会社のインターンに参加しました](https://qiita.com/rare0b/items/36dfa2fce750b3067e92)
-
-    2023-09-05
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2023 - 学校ランキング (9月4日時点)](https://twitter.com/atcoder/status/1698538878603239785)
-        - [継続というのはそれ自体が特異なことなのだと思いながらAtCoder全ユーザのコンテスト参加回数をグラフにしてみた](https://qiita.com/nabata/items/322c30ad3b827b1b508c)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
