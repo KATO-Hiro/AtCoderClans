@@ -57,13 +57,22 @@
 
 === "ユーザスクリプト"
 
+    2023-09-19
+
+    - 「[Webページに色付けする](user_scripts/colors)」ページ
+        - [MojaCoder Submission User Colorizer (by AtCoder Rating)](https://greasyfork.org/ja/scripts/475500-mojacoder-submission-user-colorizer-by-atcoder-rating)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/mojacoder_submission_user_colorizer.png" alt="mojacoder submission user colorizer">
+    </div>
+
     2023-09-07
 
     - 「[解説を読む・テストケースを見る](user_scripts/read_editorials)」ページ
         - [AtCoder Ace Editor Editorial](https://greasyfork.org/ja/scripts/473919-atcoder-ace-editor-editorial)
 
     <div align="center">
-      <img loading = "lazy" src="images//userscript/atcoder_ace_editor_editorial.png" alt="atcoder_ace_editor_editorial">
+      <img loading="lazy" src="images/userscript/atcoder_ace_editor_editorial.png" alt="atcoder_ace_editor_editorial">
     </div>
 
 === "記事"
@@ -121,11 +130,6 @@
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [DPの俗称](https://www.mathenachia.blog/dp/)
-
-    2023-09-06
-
-    - 「[競技プログラミングと就転職](articles/jobs)」ページ
-        - [フォルシア株式会社のインターンに参加しました](https://qiita.com/rare0b/items/36dfa2fce750b3067e92)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
