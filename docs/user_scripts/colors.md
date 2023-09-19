@@ -158,6 +158,14 @@ Webページの背景色の変更や文字・提出コード・問題の正誤�
       <img loading = "lazy" src="../../images/userscript/misskey_atcoder_color_buttons.png" alt="misskey atcoder color buttons">
     </div>
 
+#### MojaCoder
+
+- [MojaCoder Submission User Colorizer (by AtCoder Rating)](https://greasyfork.org/ja/scripts/475500-mojacoder-submission-user-colorizer-by-atcoder-rating) - [MojaCoder](https://mojacoder.app/)のユーザ名を対象として、AtCoderのレーティングに対応した色で表示する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/mojacoder_submission_user_colorizer.png" alt="mojacoder submission user colorizer">
+    </div>
+
 #### ICPC
 
 - [ICPC Standing Colorizer](https://github.com/riantkb/icpc_standing_colorizer) - [ICPC 2023 国内予選](https://icpcsec.firebaseapp.com/standings/)に、ユーザ名とAtCoderのレーティングに対応した色を表示する。
