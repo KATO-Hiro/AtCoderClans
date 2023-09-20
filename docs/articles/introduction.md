@@ -30,6 +30,7 @@ title: 入門者・初心者向けの内容
     - [AtCoder Junior League 2023](https://atcoder.jp/contests/ajl2023) - [AtCoder](https://atcoder.jp/)の特設ページ。
     - [中高生、学校対抗競技プログラミングコンテスト5-12月](https://resemom.jp/article/2023/04/12/71745.html) - [リセマム（ReseMom）](https://resemom.jp/pages/info.html)による紹介記事。
     - [日本最大のプログラミングコンテストサイトAtCoder　中高生に特化した学校対抗リーグ「AtCoder Junior League」開催にかける思いとは](https://prtimes.jp/story/detail/zrELeosmk4x) - [AtCoder](https://atcoder.jp/)社長の[chokudai](https://twitter.com/chokudai)さんとAtCoder Junior League (AJL) 運営担当者である[kaede2020](https://atcoder.jp/users/kaede2020)さんへの取材記事。中高生に特化した部門が設置された背景・狙い、2023年9月上旬時点での参加状況、今後の展望などが語られている。
+    - [AtCoder Junior League 2023 ランキング上位校の強さの秘密に迫る（第1回：筑波大学附属駒場中・高等学校）](https://prtimes.jp/story/detail/7bZGPLcXjeB) - [chokudai](https://twitter.com/chokudai)さんと[kaede2020](https://atcoder.jp/users/kaede2020)さんがAJL上位校の中高生を訪問し、AJLや競技プログラミングへの取り組み方を紹介している記事。
 
 ### 社会人向け
 
