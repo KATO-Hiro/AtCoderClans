@@ -35,6 +35,7 @@ title: コンテストに関する統計情報を見る
         - [同7月3日時点](https://twitter.com/gojira_kyopro/status/1675735792629714944)
 
 - [AJL 高校部門上位40校 (2023年9月11日時点)](https://twitter.com/kiri8128/status/1701251352075075616) - 高校部門の上位40校を対象として、各ユーザのコンテスト別獲得スコアが集計されている。[中学部門の上位40校](https://twitter.com/kiri8128/status/1701251566312022247)や[個人部門](https://twitter.com/kiri8128/status/1701252177392762975)もある。
+    - [同9月19日時点](https://twitter.com/kiri8128/status/1704120665950056450)
 
 ## ユーザ・レーティングの分布
 
