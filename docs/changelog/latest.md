@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-09-20
+
+- [#6869](https://github.com/KATO-Hiro/AtCoderClans/pull/6869) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の記事を追加。
+    - [AtCoder Junior League 2023 ランキング上位校の強さの秘密に迫る（第1回：筑波大学附属駒場中・高等学校）](https://prtimes.jp/story/detail/7bZGPLcXjeB)
+- [#6867](https://github.com/KATO-Hiro/AtCoderClans/pull/6867)、[#6868](https://github.com/KATO-Hiro/AtCoderClans/pull/6868) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AtCoder Junior League 2023 - 学校ランキング (9月19日時点)](https://twitter.com/atcoder/status/1703981215890788411)
+    - [AJL 高校部門上位40校 (2023年9月19日時点)](https://twitter.com/kiri8128/status/1704120665950056450)
+
 ### 2023-09-19
 
 - [#6853](https://github.com/KATO-Hiro/AtCoderClans/pull/6853) - 「[Scripts](../../scripts)」の「[Webページに色付けする](../../user_scripts/colors)」ページに、以下のユーザスクリプトを追加。
