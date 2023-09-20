@@ -66,16 +66,16 @@
       <img loading="lazy" src="images/userscript/mojacoder_submission_user_colorizer.png" alt="mojacoder submission user colorizer">
     </div>
 
-    2023-09-07
-
-    - 「[解説を読む・テストケースを見る](user_scripts/read_editorials)」ページ
-        - [AtCoder Ace Editor Editorial](https://greasyfork.org/ja/scripts/473919-atcoder-ace-editor-editorial)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_ace_editor_editorial.png" alt="atcoder_ace_editor_editorial">
-    </div>
-
 === "記事"
+
+    2023-09-20
+
+    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
+        - [AtCoder Junior League 2023 ランキング上位校の強さの秘密に迫る（第1回：筑波大学附属駒場中・高等学校）](https://prtimes.jp/story/detail/7bZGPLcXjeB)
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2023 - 学校ランキング (9月19日時点)](https://twitter.com/atcoder/status/1703981215890788411)
+        - [AJL 高校部門上位40校 (2023年9月19日時点)](https://twitter.com/kiri8128/status/1704120665950056450)
 
     2023-09-18
 
@@ -192,11 +192,6 @@
 
     - 「[開発・提供終了](archived/no_longer_available)」ページ
         - AtCoderのScoreを見やすくする
-
-    2023-09-07
-
-    - 「[開発・提供終了](archived/no_longer_available)」ページ
-        - AtCoder Comfortable Editor
 
 ## AtCoder公式グッズを購入する
 
