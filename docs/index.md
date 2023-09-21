@@ -48,6 +48,17 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "Webアプリ・Webサイト"
+
+    2023-09-21
+
+    - 「[コンテストに関する統計情報](web_app/statistics)」ページ
+        - [AtCoder Heuristic Race Ranking *Unofficial*](https://tomerun.github.io/ahc_point_race/publish/2023.html)
+
+    <div align="center">
+      <img loading = "lazy" src="images/web_app/atcoder_heuristic_race_ranking_unofficial.png" alt="atcoder heuristic race ranking unofficial">
+    </div>
+
 === "ボット"
 
     2023-09-16
@@ -126,11 +137,6 @@
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
         - [CodeQUEEN2023でスポンサーをしたり優勝したりした話](https://www.forcia.com/blog/002760.html)
 
-    2023-09-08
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [DPの俗称](https://www.mathenachia.blog/dp/)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -153,6 +159,11 @@
         - [k1suxu](https://atcoder.jp/users/k1suxu)さん - [はてなブログ](https://k1suxu.hatenablog.com/)
 
 === "SNS"
+
+    2023-09-21
+
+    - 「[SNS](sns)」ページ
+        - [高専競プロ部](https://discord.com/invite/nhMReq9nMz)
 
     2023-09-13
 
