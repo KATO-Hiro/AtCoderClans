@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-09-21
+
+- [#6874](https://github.com/KATO-Hiro/AtCoderClans/pull/6874) - 「[Articles, Blogs, Books and Videos](../../media)」の「[SNS](../../sns)」ページに、以下のDiscordサーバを追加。
+    - [高専競プロ部](https://discord.com/invite/nhMReq9nMz)
+- [#6873](https://github.com/KATO-Hiro/AtCoderClans/pull/6873) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページで掲載しているWebサイトのリンクとサムネイルを更新。
+    - [AtCoder Heuristic Race Ranking *Unofficial*](https://tomerun.github.io/ahc_point_race/publish/2023.html)
+
 ### 2023-09-20
 
 - [#6869](https://github.com/KATO-Hiro/AtCoderClans/pull/6869) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の記事を追加。
