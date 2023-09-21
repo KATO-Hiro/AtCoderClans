@@ -109,7 +109,7 @@ title: コンテストに関する統計情報
 
 #### 順位によるポイントランキング
 
-- [AtCoder Heuristic Race Ranking *Unofficial*](https://docs.google.com/spreadsheets/d/1gFmqVYr44QlQBkHKLcd1YyFM_-Ne7Hzf7SODbADx8HI/edit#gid=340005926) - [AtCoder Heuristic Contest (AHC)](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=)の順位に基づいたポイントランキングを見ることができる。
+- [AtCoder Heuristic Race Ranking *Unofficial*](https://tomerun.github.io/ahc_point_race/publish/2023.html) - [AtCoder Heuristic Contest (AHC)](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=)の順位に基づいた年別のポイントランキングを見ることができる。集計は、[AtCoder レースランキング](https://atcoder.jp/posts/170)の方法に基づいている。
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_heuristic_race_ranking_unofficial.png" alt="atcoder heuristic race ranking unofficial">
