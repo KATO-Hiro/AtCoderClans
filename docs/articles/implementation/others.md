@@ -70,6 +70,12 @@ title: Others
 
 - [R言語でAtCoderの問題を解いてみた](https://qiita.com/bo9chan/items/4b2fecefa8c076235c5a) - 入出力の方法およびパッケージの一覧、それらの注意事項がまとめられている記事。
 
+## SageMath
+
+### 文法・言語仕様
+
+- [AtCoderでSageMathを使う](https://qiita.com/kusano_k/items/b082423861705c41cac8) - Pythonの文法に近く、便利なライブラリが多く含まれているSageMathを紹介した記事。環境構築の方法、Pythonとの違い、デメリット、ライブラリの利用例が紹介されている。
+
 ## Swift
 
 ### 文法・言語仕様
