@@ -79,6 +79,11 @@
 
 === "記事"
 
+    2023-09-23
+
+    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
+        - [AtCoder Typical Components (β)](https://not-leonian.hatenablog.com/entry/ATCs/ATCs)
+
     2023-09-22
 
     - 「[解説ブログ・サイトを見る](articles/user_editorials)」ページ
@@ -156,11 +161,6 @@
     - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
         - [sugim48](https://atcoder.jp/users/sugim48)さん - [はてなブログ](https://sugim48.hatenadiary.org/)
 
-    2023-09-10
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [k1suxu](https://atcoder.jp/users/k1suxu)さん - [はてなブログ](https://k1suxu.hatenablog.com/)
-
 === "SNS"
 
     2023-09-21
@@ -176,6 +176,17 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-09-23
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [achapi](https://atcoder.jp/users/achapi)さん - [入青記事 - あちゃぴのブログ](https://achapi.hatenablog.jp/entry/2023/09/19/225144)
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [Satsuki_8198](https://atcoder.jp/users/Satsuki_8198)さん - [Houdinist が競プロerになってみた話  (本サイト運営者による注:水色コーダー達成に関する内容を含む) ](https://qiita.com/Satsuki-Sensei/items/2e5ed965f4a6b8794f9e)
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [ZUkA_](https://atcoder.jp/users/ZUkA_)さん - [数学が苦手な大学生の AtCoder 入緑記事](https://note.com/yindolsa/n/n512d1530339e)
 
     2023-09-16
 
@@ -199,13 +210,6 @@
 
     - 「[情報オリンピック](related_contest_sites/joi_ioi)」ページ
         - [IOI2023 参加記](https://kodaman.hatenablog.com/entry/2023/09/10/160836)
-
-=== "アーカイブス"
-
-    2023-09-10
-
-    - 「[開発・提供終了](archived/no_longer_available)」ページ
-        - AtCoderのScoreを見やすくする
 
 ## AtCoder公式グッズを購入する
 
