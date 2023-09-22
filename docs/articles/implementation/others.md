@@ -74,7 +74,7 @@ title: Others
 
 ### 文法・言語仕様
 
-- [AtCoderでSageMathを使う](https://qiita.com/kusano_k/items/b082423861705c41cac8) - Pythonの文法に近く、便利なライブラリが多く用意されているSageMathを紹介した記事。環境構築の方法、Pythonとの違い、デメリット、ライブラリの利用例が紹介されている。
+- [AtCoderでSageMathを使う](https://qiita.com/kusano_k/items/b082423861705c41cac8) - Pythonの文法に近く、便利なライブラリが多く用意されているSageMathを紹介した記事。環境構築の方法、Pythonとの違い、デメリット、ライブラリの利用例が解説されている。
 
 ## Swift
 
