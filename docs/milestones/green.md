@@ -4,6 +4,7 @@ title: レーティング800〜1199(緑色)
 
 ## 2023年
 
+- [数学が苦手な大学生の AtCoder 入緑記事](https://note.com/yindolsa/n/n512d1530339e) - [ZUkA_](https://atcoder.jp/users/ZUkA_)さんが、2023年9月16日に達成。
 - [入緑記事 - rotti_coderのプログラミング](https://rotti-coder.hatenablog.com/entry/2023/08/13/085808) - [rotti](https://atcoder.jp/users/rotti)さんが、2023年8月12日に達成。
 - [AtCoderで入緑しました！](https://ragnawow.hatenablog.com/entry/2023/07/30/011040) - [ragna](https://atcoder.jp/users/ragna)さんが、2023年7月29日に達成。
 - [【色変記事】AtCoderで入緑した話 by ZOI2](https://qiita.com/ZOI2/items/6dd677775270eb65aae9) - [Zoi2](https://atcoder.jp/users/Zoi2)さんが、2023年7月23日に公開。
