@@ -79,6 +79,14 @@
 
 === "記事"
 
+    2023-09-22
+
+    - 「[解説ブログ・サイトを見る](articles/user_editorials)」ページ
+        - [ABCxxxをPythonで解いてみたよ。](https://qiita.com/hyouchun)
+
+    - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
+        - [AtCoderでSageMathを使う](https://qiita.com/kusano_k/items/b082423861705c41cac8)
+
     2023-09-20
 
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
@@ -131,11 +139,6 @@
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
         - [AtCoder World Tour Finals 2022 参加記](https://heno239.hatenablog.com/entry/2023/09/10/133932)
         - [AtCoder WTF 2022 (お手伝いとして参加）](https://maspypy.com/atcoder-wtf-2022-%e3%81%8a%e6%89%8b%e4%bc%9d%e3%81%84%e3%81%a8%e3%81%97%e3%81%a6%e5%8f%82%e5%8a%a0%ef%bc%89)
-
-    2023-09-09
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-        - [CodeQUEEN2023でスポンサーをしたり優勝したりした話](https://www.forcia.com/blog/002760.html)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
