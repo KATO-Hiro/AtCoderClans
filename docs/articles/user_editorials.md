@@ -35,7 +35,7 @@ title: 解説ブログ・サイトを見る
 
     !!! info "参考"
 
-        AtCoder Beginner Contest 266以降の解説記事は未確認。
+        AtCoder Beginner Contest 266以降の解説記事は、別の著者の解説ブログを参照されたい。
 
 - [maspyのHP](https://maspypy.com/category/atcoder) - [maspy](https://atcoder.jp/users/maspy)さんの解説ブログ。高難易度の問題を中心に多数の解説が掲載されている。
 
