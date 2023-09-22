@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-09-22
+
+- [#6879](https://github.com/KATO-Hiro/AtCoderClans/pull/6879) - 「[Articles, Blogs, Books and Videos](../../media)」の「[解説ブログ・サイトを見る](../../articles/user_editorials)」ページに、Pythonの解説ブログを追加。
+    - [ABCxxxをPythonで解いてみたよ。](https://qiita.com/hyouchun)
+- [#6878](https://github.com/KATO-Hiro/AtCoderClans/pull/6878) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Others](../../articles/implementation/others)」ページに、以下の記事を追加。
+    - [AtCoderでSageMathを使う](https://qiita.com/kusano_k/items/b082423861705c41cac8)
+
 ### 2023-09-21
 
 - [#6874](https://github.com/KATO-Hiro/AtCoderClans/pull/6874) - 「[Articles, Blogs, Books and Videos](../../media)」の「[SNS](../../sns)」ページに、以下のDiscordサーバを追加。
