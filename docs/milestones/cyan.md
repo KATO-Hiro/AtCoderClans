@@ -4,6 +4,7 @@ title: レーティング1200〜1599(水色)
 
 ## 2023年
 
+- [Houdinist が競プロerになってみた話  (本サイト運営者による注:水色コーダー達成に関する内容を含む) ](https://qiita.com/Satsuki-Sensei/items/2e5ed965f4a6b8794f9e) - [Satsuki_8198](https://atcoder.jp/users/Satsuki_8198)さんが、2023年9月16日に達成。
 - [【色編記事】AtCoder水色になりました 〜4年間の挑戦を振り返る〜](https://qiita.com/_ken_/items/c32d4b2e680058abd77a) - [hassy_](https://atcoder.jp/users/hassy_)さんが、2023年8月30日に公開。
 - [【色変記事】なんやかんやでAtCoder水コーダーになりました](https://qiita.com/ZOI_dayo/items/7f3b5e0dc0c6ba8c3d2d) - [ZOIZOI](https://atcoder.jp/users/ZOIZOI)さんが、2023年8月12日に達成。
 - [入水記事 - nononの落書き帳](https://nononmath.hatenablog.com/entry/2023/08/14/102643) - [n_o_n_o_n](https://atcoder.jp/users/n_o_n_o_n)さんが、2023年8月12日に達成。
