@@ -27,7 +27,7 @@ title: コンテストに向けた練習方法を知る
 
 - [AtCoderの問題を分類しました](https://zenn.dev/koyanagihitoshi?tab=books) - [AtCoder](https://atcoder.jp/)で開催されたコンテストについて、問題が分類(入出力、組み込み型、組み込み関数・モジュール、データ構造・アルゴリズム、数学などの6種類)されている。
     - [Pythonによる解答例](https://github.com/KoyanagiHitoshi/AtCoder-Python-Introduction) - 動作環境は、Python3.8.2。
-- [AtCoder Typical Components (β)](https://not-leonian.hatenablog.com/entry/ATCs/ATCs) - AtCoder Beginner Contest 301以降を対象として、問題と典型要素を双方向に関連付けた一覧表。各問題に対する典型要素と、各典型要素を含む問題の表がそれぞれ用意されている。
+- [AtCoder Typical Components (β)](https://not-leonian.hatenablog.com/entry/ATCs/ATCs) - AtCoder Beginner Contest 301以降を対象として、問題と典型要素を双方向に関連付けた一覧表。各問題の典型要素と、各典型要素を含む問題の表がそれぞれ用意されている。
 
 ### 問題の作成者が公開している問題集
 
