@@ -4,11 +4,18 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-09-24
+
+- [#6898](https://github.com/KATO-Hiro/AtCoderClans/pull/6898) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[kirimin](https://atcoder.jp/users/kirimin)さんの[記事](https://note.com/kirimin_chan/n/n337f5bdf7e48)を追加。
+- [#6897](https://github.com/KATO-Hiro/AtCoderClans/pull/6897) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[hiroyuk1](https://atcoder.jp/users/hiroyuk1)さんの[記事](https://qiita.com/hiroyuk1/items/363fce5a43f1cda1d49d)を追加。
+
 ### 2023-09-23
 
 - [#6888](https://github.com/KATO-Hiro/AtCoderClans/pull/6888) - [Not_Leonian](https://twitter.com/Not_Leonian)さんのご紹介で、「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
     - [AtCoder Typical Components (β)](https://not-leonian.hatenablog.com/entry/ATCs/ATCs)
-- [#6886](https://github.com/KATO-Hiro/AtCoderClans/pull/6866) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+- [#6886](https://github.com/KATO-Hiro/AtCoderClans/pull/6886) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
     - レーティング1200から1599まで(水色)に[Satsuki_8198](https://atcoder.jp/users/Satsuki_8198)さんの[記事](https://qiita.com/Satsuki-Sensei/items/2e5ed965f4a6b8794f9e)を追加。
 - [#6885](https://github.com/KATO-Hiro/AtCoderClans/pull/6885) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
     - レーティング1600から1999まで(青色)に[achapi](https://atcoder.jp/users/achapi)さんの[記事](https://achapi.hatenablog.jp/entry/2023/09/19/225144)を追加。
