@@ -139,12 +139,6 @@
         - [AtCoder Junior League 2023 - 学校ランキング (9月11日時点)](https://twitter.com/atcoder/status/1701090985978310979)
         - [AJL 高校部門上位40校 (2023年9月11日時点)](https://twitter.com/kiri8128/status/1701251352075075616)
 
-    2023-09-11
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-        - [AtCoder World Tour Finals 2022 参加記](https://heno239.hatenablog.com/entry/2023/09/10/133932)
-        - [AtCoder WTF 2022 (お手伝いとして参加）](https://maspypy.com/atcoder-wtf-2022-%e3%81%8a%e6%89%8b%e4%bc%9d%e3%81%84%e3%81%a8%e3%81%97%e3%81%a6%e5%8f%82%e5%8a%a0%ef%bc%89)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -176,6 +170,14 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-09-24
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [hiroyuk1](https://atcoder.jp/users/hiroyuk1)さん - [ABC321で中2が入水したよ！！！！](https://qiita.com/hiroyuk1/items/363fce5a43f1cda1d49d)
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [kirimin](https://atcoder.jp/users/kirimin)さん - [算数の教養がほとんどなかったプログラマがAtCoderを4年やって緑になれた話](https://note.com/kirimin_chan/n/n337f5bdf7e48)
 
     2023-09-23
 
