@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-09-25
+
+- [#6907](https://github.com/KATO-Hiro/AtCoderClans/pull/6907) - (破壊的な変更) 競技プログラミングに関する動画の定期的な更新の可能性が低いと思われるYouTubeのチャンネルを一時的に「[Archives](../../archived)」ページに移動。
+- [#6905](https://github.com/KATO-Hiro/AtCoderClans/pull/6905) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [ぱるま](https://www.youtube.com/playlist?list=PL2M7xTSHX0HqdXvk74PKSZ2De_EyVUq0d)
+- [#6904](https://github.com/KATO-Hiro/AtCoderClans/pull/6904) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加・更新。
+
 ### 2023-09-24
 
 - [#6898](https://github.com/KATO-Hiro/AtCoderClans/pull/6898) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

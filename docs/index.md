@@ -130,17 +130,20 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [第10回 Asprova プログラミングコンテスト（AtCoder Heuristic Contest 023）参加メモ](https://kaede2020.hatenablog.com/entry/2023/09/10/200121)
 
-    2023-09-12
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [️灰茶向け　ざっくりわかろうDP️](https://twitter.com/burioden/status/1700943044714086469)
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2023 - 学校ランキング (9月11日時点)](https://twitter.com/atcoder/status/1701090985978310979)
-        - [AJL 高校部門上位40校 (2023年9月11日時点)](https://twitter.com/kiri8128/status/1701251352075075616)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2023-09-25
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [takumi152](https://atcoder.jp/users/takumi152)さん - [はてなブログ](https://takumi152.hatenablog.jp/)
+        - [kotamanegi](https://atcoder.jp/users/kotamanegi)さん - [はてなブログ](https://kotamanegi.hatenablog.com/)
+
+    - 「[ヒューリスティック部門 - Go](blogs/heuristic/go)」ページ
+        - [montplusa](https://atcoder.jp/users/montplusa)さん - [はてなブログ](https://montplusa.hatenablog.com/archive)
+
+    - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
+        - [ichyo](https://atcoder.jp/users/ichyo)さん - [はてなブログ](https://blog.ichyo.jp/)
 
     2023-09-13
 
@@ -154,6 +157,13 @@
 
     - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
         - [sugim48](https://atcoder.jp/users/sugim48)さん - [はてなブログ](https://sugim48.hatenadiary.org/)
+
+=== "動画"
+
+    2023-09-25
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [ぱるま](https://www.youtube.com/playlist?list=PL2M7xTSHX0HqdXvk74PKSZ2De_EyVUq0d)
 
 === "SNS"
 
@@ -197,14 +207,6 @@
 
     - 「[レーティング400〜799(茶色)](milestones/brown)」ページ
         - [kunaisn](https://atcoder.jp/users/kunaisn)さん - [AtCoderで茶色になりました](https://sekaishi-beta.com/kunaisn_atcoder_brown/)
-
-    2023-09-12
-
-    - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
-        - [Yu_212](https://atcoder.jp/users/Yu_212)さん - [【色変記事】AtCoder橙になりました - Yu_212’s diary](https://yu212.hatenablog.com/entry/2023/09/11/025001)
-
-    - 「[レーティング400〜799(茶色)](milestones/brown)」ページ
-        - [OtakuMoyashi](https://atcoder.jp/users/OtakuMoyashi)さん - [挫折しかけたけど入茶できた中学生の話。](https://qiita.com/harryp0tterK/items/33ebd57f1b7e2a1a3a9e)
 
 === "国内外のコンテストサイト"
 
