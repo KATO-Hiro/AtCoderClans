@@ -244,6 +244,7 @@ title: 更新停止の可能性が高い
 - [紅童ゆに](https://www.youtube.com/channel/UCJcNhhnFIomosRO9ZYWC1pQ/videos) - [紅童ゆに](https://twitter.com/koudou_uni)さんのチャンネル。
     - 理由: 競技プログラミングに関連する動画が削除されているのを確認したため。
 - [西園寺まこ](https://www.youtube.com/channel/UClz8TzWlOzG-95FuH2TFD9g) - [saion_maco](https://atcoder.jp/users/saion_maco)さんのチャンネル。コンテストの過去問を解く動画などが公開されている。
+- [浜ぬる](https://www.youtube.com/channel/UC_Fm2rtPE76XeuO-00I33cA/featured) - [hamanuru](https://twitter.com/hamanuru)さんのチャンネル。コンテストの過去問を解く動画が公開されている。
 - [文月このは](https://www.youtube.com/playlist?list=PLhu1EKNfmGwS75JjK2YeMRm9AVcubN0WO) - [kono_july](https://atcoder.jp/users/kono_july)さんのチャンネル。コンテストの過去問を解く動画などが公開されている。
 - [めいどさん MayDoSom](https://www.youtube.com/channel/UCCgPox6jBMMaeWutBXv7uRA) - [MayDoSom](https://atcoder.jp/users/MayDoSom)さんのチャンネル。コンテストの過去問を解く動画などが公開されている。
 
