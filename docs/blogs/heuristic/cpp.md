@@ -17,6 +17,7 @@ title: C&#43;&#43;
 |saharan|[自作ブログ](https://blog.oimo.io/)||
 |Shun_PI|[Qiita](https://qiita.com/Shun_PI)||
 |square1001|[Qiita](https://qiita.com/square1001)||
+|takumi152|[はてなブログ](https://takumi152.hatenablog.jp/)||
 |WA_TLE|[はてなブログ](https://watle.hatenablog.com/)|2019年1月以降、新規の記事を確認できず。|
 
 ## レーティング2400〜2799(橙色)
@@ -37,7 +38,6 @@ title: C&#43;&#43;
 |risujiroh|[はてなブログ](https://risujiroh.hatenablog.com/)||
 |shibh308|[はてなブログ](https://shibh308.hatenablog.com/)||
 |siman|[はてなブログ](https://simanman.hatenablog.com/)||
-|takumi152|[はてなブログ](https://takumi152.hatenablog.jp/)||
 |wanui|[Zenn](https://zenn.dev/gmeriaog)||
 |yunix|[はてなブログ](https://yunix-kyopro.hatenablog.com/)||
 
@@ -56,6 +56,7 @@ title: C&#43;&#43;
 |hitoare|[はてなブログ](https://hitoare.hatenablog.com/)||
 |hogloid|[はてなブログ](https://hogloid.hatenablog.com/)||
 |itigo|[はてなブログ](https://ichigokunn.hatenablog.com/)||
+|kotamanegi|[はてなブログ](https://kotamanegi.hatenablog.com/)||
 |kotatsugame|[はてなブログ](https://kotatsugame.hatenablog.com/)||
 |kusano|[はてなブログ](https://kusano-k.hatenablog.com/)、[Qiita](https://qiita.com/kusano_k)||
 |merom686|[はてなブログ](https://merom686.hatenablog.com/)||

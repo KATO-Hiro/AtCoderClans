@@ -192,6 +192,7 @@ nav:
         - blogs/heuristic/cpp.md
         - blogs/heuristic/crystal.md
         - blogs/heuristic/csharp.md
+        - blogs/heuristic/go.md
         - blogs/heuristic/java.md
         - blogs/heuristic/python.md
         - blogs/heuristic/rust.md

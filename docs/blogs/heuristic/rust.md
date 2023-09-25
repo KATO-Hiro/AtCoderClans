@@ -12,6 +12,7 @@ title: Rust
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
+|ichyo|[はてなブログ](https://blog.ichyo.jp/)||
 |primenumber|[はてなブログ](https://primenumber.hatenadiary.jp/)||
 |rhoo|[Qiita](https://qiita.com/rhoo)||
 |sugim48|[はてなブログ](https://sugim48.hatenadiary.org/)|2014年11月以降、新規の記事を確認できず。C++で実装されている回答もある。|
@@ -21,7 +22,6 @@ title: Rust
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
 |cunitac|[はてなブログ](https://cunitac.hatenablog.com/)||
-|ichyo|[はてなブログ](https://blog.ichyo.jp/)||
 |penguin46|[はてなブログ](https://penguin46.hatenablog.com/)||
 |ToastUz|[Qiita](https://qiita.com/toast-uz)||
 |xyz600|[はてなブログ](https://xyz600.hatenablog.com/)||
