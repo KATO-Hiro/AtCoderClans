@@ -2,6 +2,10 @@
 title: レーティング2800〜(赤色、銅・銀・金王冠)
 ---
 
+## 2023年
+
+- [【色変記事】レッドコーダーになりました！ - leaf1415の日記](https://leaf1415.hatenablog.com/entry/2023/09/25/115311) - [leaf1415](https://atcoder.jp/users/leaf1415)さんが、2023年9月8日に達成。
+
 ## 2022年
 
 - [AtCoder でレッドコーダーになりました - mtsd_programming’s blog](https://mtsd-programming.hatenablog.com/entry/2022/12/09/200000) - [mtsd](https://atcoder.jp/users/mtsd)さんが、2022年12月5日に達成。
