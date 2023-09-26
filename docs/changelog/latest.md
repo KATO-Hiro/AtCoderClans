@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-09-26
+
+- [#6920](https://github.com/KATO-Hiro/AtCoderClans/pull/6920) - 「[Milestones](../../milestones/red)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2800以上(赤色、銅王冠、銀王冠、金王冠)に[leaf1415](https://atcoder.jp/users/leaf1415)さんの[記事](https://leaf1415.hatenablog.com/entry/2023/09/25/115311)を追加。
+- [#6919](https://github.com/KATO-Hiro/AtCoderClans/pull/6919) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AtCoder Junior League 2023 - 学校ランキング (9月25日時点)](https://twitter.com/atcoder/status/1706169824861397059)
+
 ### 2023-09-25
 
 - [#6907](https://github.com/KATO-Hiro/AtCoderClans/pull/6907) - (破壊的な変更) 競技プログラミングに関する動画の定期的な更新の可能性が低いと思われるYouTubeのチャンネルを一時的に「[Archives](../../archived)」ページに移動。

@@ -79,6 +79,11 @@
 
 === "記事"
 
+    2023-09-26
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2023 - 学校ランキング (9月25日時点)](https://twitter.com/atcoder/status/1706169824861397059)
+
     2023-09-23
 
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
@@ -122,14 +127,6 @@
     - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
         - [Zig言語の練習に AtCoder 202308 新ジャッジテストコンテスト A-E を解いてみた](https://qiita.com/hossie/items/080f8d49ec445022284b)
 
-    2023-09-13
-
-    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
-        - [日本最大のプログラミングコンテストサイトAtCoder　中高生に特化した学校対抗リーグ「AtCoder Junior League」開催にかける思いとは](https://prtimes.jp/story/detail/zrELeosmk4x)
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [第10回 Asprova プログラミングコンテスト（AtCoder Heuristic Contest 023）参加メモ](https://kaede2020.hatenablog.com/entry/2023/09/10/200121)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -145,19 +142,6 @@
     - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
         - [ichyo](https://atcoder.jp/users/ichyo)さん - [はてなブログ](https://blog.ichyo.jp/)
 
-    2023-09-13
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [mtsd](https://atcoder.jp/users/mtsd)さん - [はてなブログ](https://mtsd-programming.hatenablog.com/)
-        - [Shun_PI](https://atcoder.jp/users/Shun_PI)さん - [Qiita](https://qiita.com/Shun_PI)
-        - [hogloid](https://atcoder.jp/users/hogloid)さん - [はてなブログ](https://hogloid.hatenablog.com/)
-
-    - 「[ヒューリスティック部門 - Java](blogs/heuristic/java)」ページ
-        - [rabot](https://atcoder.jp/users/rabot)さん - [Qiita](https://qiita.com/tanaka-a)
-
-    - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
-        - [sugim48](https://atcoder.jp/users/sugim48)さん - [はてなブログ](https://sugim48.hatenadiary.org/)
-
 === "動画"
 
     2023-09-25
@@ -172,14 +156,14 @@
     - 「[SNS](sns)」ページ
         - [高専競プロ部](https://discord.com/invite/nhMReq9nMz)
 
-    2023-09-13
-
-    - 「[SNS](sns)」ページ
-        - [競プロオンサイト情報！](https://twitter.com/kyopro_onsite)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-09-26
+
+    - 「[レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
+        - [leaf1415](https://atcoder.jp/users/leaf1415)さん - [【色変記事】レッドコーダーになりました！ - leaf1415の日記](https://leaf1415.hatenablog.com/entry/2023/09/25/115311)
 
     2023-09-24
 
