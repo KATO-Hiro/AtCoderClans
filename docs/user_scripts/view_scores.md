@@ -64,6 +64,12 @@ title: コンテストの成績や関連する統計情報を見る
 
 ### パフォーマンス値の推移
 
+- [Atcoder Perf Graph](https://greasyfork.org/ja/scripts/476103-atcoder-perf-graph) - ユーザの「プロフィール」ページにあるレーティンググラフに、各コンテストのパフォーマンス値を折れ線グラフで重ねて表示する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_perf_graph.png" alt="atcoder perf graph">
+    </div>
+
 - [AtCoder Performace Graph](https://greasyfork.org/ja/scripts/473409-atcoder-performace-graph) - ユーザの「プロフィール」ページに、各コンテストにおけるパフォーマンス値を棒グラフで表示する。
 
     !!! info "参考"
