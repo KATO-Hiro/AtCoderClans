@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-09-27
+
+- [#6930](https://github.com/KATO-Hiro/AtCoderClans/pull/6930)、[#6931](https://github.com/KATO-Hiro/AtCoderClans/pull/6931) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事・スライドを追加。
+    - [みんなAHCの魅力を知らなすぎて困る](https://trap.jp/post/2006/)
+    - [ヒューリスティックコンテストで機械学習しよう](https://speakerdeck.com/nagiss/hiyurisuteitukukontesutodeji-jie-xue-xi-siyou)
+- [#6929](https://github.com/KATO-Hiro/AtCoderClans/pull/6929) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
+    - [Atcoder Perf Graph](https://greasyfork.org/ja/scripts/476103-atcoder-perf-graph)
+
 ### 2023-09-26
 
 - [#6920](https://github.com/KATO-Hiro/AtCoderClans/pull/6920) - 「[Milestones](../../milestones/red)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
