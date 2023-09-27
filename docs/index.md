@@ -68,6 +68,15 @@
 
 === "ユーザスクリプト"
 
+    2023-09-27
+
+    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
+        - [Atcoder Perf Graph](https://greasyfork.org/ja/scripts/476103-atcoder-perf-graph)
+
+    <div align="center">
+      <img loading = "lazy" src="images/userscript/atcoder_perf_graph.png" alt="atcoder perf graph">
+    </div>
+
     2023-09-19
 
     - 「[Webページに色付けする](user_scripts/colors)」ページ
@@ -78,6 +87,12 @@
     </div>
 
 === "記事"
+
+    2023-09-27
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [みんなAHCの魅力を知らなすぎて困る](https://trap.jp/post/2006/)
+        - [ヒューリスティックコンテストで機械学習しよう](https://speakerdeck.com/nagiss/hiyurisuteitukukontesutodeji-jie-xue-xi-siyou)
 
     2023-09-26
 
@@ -121,11 +136,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [第10回 Asprova プログラミングコンテスト 参加記 (39.1M; 130位)](https://www.wantedly.com/companies/learningbox/post_articles/538136)
-
-    2023-09-14
-
-    - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
-        - [Zig言語の練習に AtCoder 202308 新ジャッジテストコンテスト A-E を解いてみた](https://qiita.com/hossie/items/080f8d49ec445022284b)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -191,13 +201,6 @@
 
     - 「[レーティング400〜799(茶色)](milestones/brown)」ページ
         - [kunaisn](https://atcoder.jp/users/kunaisn)さん - [AtCoderで茶色になりました](https://sekaishi-beta.com/kunaisn_atcoder_brown/)
-
-=== "国内外のコンテストサイト"
-
-    2023-09-14
-
-    - 「[情報オリンピック](related_contest_sites/joi_ioi)」ページ
-        - [IOI2023 参加記](https://kodaman.hatenablog.com/entry/2023/09/10/160836)
 
 ## AtCoder公式グッズを購入する
 
