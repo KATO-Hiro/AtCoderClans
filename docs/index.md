@@ -88,6 +88,11 @@
 
 === "記事"
 
+    2023-09-28
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [8近傍だけで連結性を良い感じに確保し続ける典型](https://twitter.com/chokudai/status/1706124817915908481)
+
     2023-09-27
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -131,11 +136,6 @@
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
         - [AtCoderの2023新ジャッジで使えるPython標準の便利機能](https://qiita.com/mo124121/items/595358fdcfdc1d2baf2c)
         - [【Python】AtCoderの言語アップデートでの変更点をまとめてみたよ。](https://qiita.com/hyouchun/items/8a830952315666576c3d)
-
-    2023-09-15
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [第10回 Asprova プログラミングコンテスト 参加記 (39.1M; 130位)](https://www.wantedly.com/companies/learningbox/post_articles/538136)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
