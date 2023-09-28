@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-09-28
+
+- [#6935](https://github.com/KATO-Hiro/AtCoderClans/pull/6935) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下のツイートを追加。
+    - [8近傍だけで連結性を良い感じに確保し続ける典型](https://twitter.com/chokudai/status/1706124817915908481)
+
 ### 2023-09-27
 
 - [#6930](https://github.com/KATO-Hiro/AtCoderClans/pull/6930)、[#6931](https://github.com/KATO-Hiro/AtCoderClans/pull/6931) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事・スライドを追加。
