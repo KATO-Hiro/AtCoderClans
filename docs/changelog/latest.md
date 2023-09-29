@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-09-29
+
+- [#6938](https://github.com/KATO-Hiro/AtCoderClans/pull/6938) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の書籍を追加。
+    - [形式的べき級数](https://zenn.dev/koboshi/books/600753d917cdbc)
+
 ### 2023-09-28
 
 - [#6935](https://github.com/KATO-Hiro/AtCoderClans/pull/6935) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下のツイートを追加。
