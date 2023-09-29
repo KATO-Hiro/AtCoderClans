@@ -59,13 +59,6 @@
       <img loading = "lazy" src="images/web_app/atcoder_heuristic_race_ranking_unofficial.png" alt="atcoder heuristic race ranking unofficial">
     </div>
 
-=== "ボット"
-
-    2023-09-16
-
-    - 「[Bot](bot)」ページ
-        - [ほぼ日バチャbot](https://twitter.com/contest_bot_mcc)
-
 === "ユーザスクリプト"
 
     2023-09-27
@@ -87,6 +80,11 @@
     </div>
 
 === "記事"
+
+    2023-09-29
+
+    - 「[数学を学ぶ](articles/math)」ページ
+        - [形式的べき級数](https://zenn.dev/koboshi/books/600753d917cdbc)
 
     2023-09-28
 
@@ -193,14 +191,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [ZUkA_](https://atcoder.jp/users/ZUkA_)さん - [数学が苦手な大学生の AtCoder 入緑記事](https://note.com/yindolsa/n/n512d1530339e)
-
-    2023-09-16
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さん - [【AtCoder】現役中学生がPythonで青になったから書いた記事](https://qiita.com/halcyonFX/items/5eeb2240412a1e587bff)
-
-    - 「[レーティング400〜799(茶色)](milestones/brown)」ページ
-        - [kunaisn](https://atcoder.jp/users/kunaisn)さん - [AtCoderで茶色になりました](https://sekaishi-beta.com/kunaisn_atcoder_brown/)
 
 ## AtCoder公式グッズを購入する
 
