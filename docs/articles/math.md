@@ -25,6 +25,7 @@ title: 数学を学ぶ
 - [閑話休題](https://ikuro-kotaro.sakura.ne.jp/koramu.htm) - 25年以上にわたって数学・物理に関連した挿話・話題を解説しているWebサイト。
 - [オンライン整数列大辞典 (OEIS)](https://oeis.org/?language=japanese) - 整数列(各項が整数である数列)に関するオンラインのデータベース。公式、参考文献などの情報も含まれている。
 - [Wolfram Alpha](https://ja.wolframalpha.com/) - 数学に関する質問の回答や計算をしてくれるWebサービス。
+    - [【競プロ Tips】Wolfram Alpha を使いこなそう](https://hackmd.io/@tatyam-prime/ByuUsAfla) - 同サービスを利用するにあたり、複雑な式の入力や時間のかかる計算への対処方法が紹介されている記事。
 
 ## 数式が多い解説の読み方
 
