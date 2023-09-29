@@ -4,6 +4,16 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-09-30
+
+- [#6945](https://github.com/KATO-Hiro/AtCoderClans/pull/6945)、[#6946](https://github.com/KATO-Hiro/AtCoderClans/pull/6946) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下のWebサービス・記事を追加。
+    - [Wolfram Alpha](https://ja.wolframalpha.com/)
+    - [【競プロ Tips】Wolfram Alpha を使いこなそう](https://hackmd.io/@tatyam-prime/ByuUsAfla)
+- [#6944](https://github.com/KATO-Hiro/AtCoderClans/pull/6944) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[NEET0321](https://atcoder.jp/users/NEET0321)さんの[記事](https://afkk.hatenablog.com/entry/2023/09/25/180656)を追加。
+- [#6943](https://github.com/KATO-Hiro/AtCoderClans/pull/6943) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[mono_0812](https://atcoder.jp/users/mono_0812)さんの[記事](https://mono-0812.hatenablog.com/entry/20230924/1695517992)を追加。
+
 ### 2023-09-29
 
 - [#6938](https://github.com/KATO-Hiro/AtCoderClans/pull/6938) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の書籍を追加。
