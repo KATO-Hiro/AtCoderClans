@@ -81,6 +81,12 @@
 
 === "記事"
 
+    2023-09-30
+
+    - 「[数学を学ぶ](articles/math)」ページ
+        - [Wolfram Alpha](https://ja.wolframalpha.com/)
+        - [【競プロ Tips】Wolfram Alpha を使いこなそう](https://hackmd.io/@tatyam-prime/ByuUsAfla)
+
     2023-09-29
 
     - 「[数学を学ぶ](articles/math)」ページ
@@ -129,12 +135,6 @@
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [x軸とy軸について独立に考えてよい - けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/archive/category/x%E8%BB%B8%E3%81%A8y%E8%BB%B8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E7%8B%AC%E7%AB%8B%E3%81%AB%E8%80%83%E3%81%88%E3%81%A6%E3%82%88%E3%81%84)
 
-    2023-09-17
-
-    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
-        - [AtCoderの2023新ジャッジで使えるPython標準の便利機能](https://qiita.com/mo124121/items/595358fdcfdc1d2baf2c)
-        - [【Python】AtCoderの言語アップデートでの変更点をまとめてみたよ。](https://qiita.com/hyouchun/items/8a830952315666576c3d)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -167,6 +167,14 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-09-30
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [mono_0812](https://atcoder.jp/users/mono_0812)さん - [入青した！！ - mono_0812のブログ](https://mono-0812.hatenablog.com/entry/20230924/1695517992)
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [NEET0321](https://atcoder.jp/users/NEET0321)さん - [入水記事 - AFKK](https://afkk.hatenablog.com/entry/2023/09/25/180656)
 
     2023-09-26
 
