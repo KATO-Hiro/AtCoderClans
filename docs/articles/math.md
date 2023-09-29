@@ -107,6 +107,7 @@ title: 数学を学ぶ
 
 ### 形式的べき級数
 
+- [形式的べき級数](https://zenn.dev/koboshi/books/600753d917cdbc) - 組合せ論および形式的べき級数の概略を解説している。
 - [形式的べき級数解説](https://maspypy.com/category/%e5%bd%a2%e5%bc%8f%e7%9a%84%e3%81%b9%e3%81%8d%e7%b4%9a%e6%95%b0%e8%a7%a3%e8%aa%ac) - 数え上げの問題を、多項式・形式的べき級数の問題に言い換え、代数的な式変形から解答を得る手法をまとめた記事の一覧。また、関連リンクも充実している。
     - [AtCoderで解ける形式的べき級数問題を集めました](https://qiita.com/hamamu/items/05cdfd3a15ecab22119e) - AtCoderの過去問で、多項式・形式的べき級数を活用して解ける問題とそれらの解説へのリンクがまとめられている。
 - [二項係数の和の処理（形式的べき級数）](https://shino-sky.hateblo.jp/entry/2020/04/16/230753) - [数え上げテクニック集](https://drive.google.com/file/d/1WC7Y2Ni-8elttUgorfbix9tO1fvYN3g3/view)で掲載されている「14.1 頻出公式集」を形式的べき級数などを用いて証明した記事。前提知識として、形式的べき級数の定義や基本的な演算方法に対する理解が求められる。
