@@ -81,6 +81,11 @@
 
 === "記事"
 
+    2023-10-01
+
+    - 「[数学を学ぶ](articles/math)」ページ
+        - [誰でもなんとなく理解できる形式的冪級数](https://qiita.com/Michirakara/items/9f1080e389300ca6eb86)
+
     2023-09-30
 
     - 「[数学を学ぶ](articles/math)」ページ
@@ -129,11 +134,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2023 - 学校ランキング (9月19日時点)](https://twitter.com/atcoder/status/1703981215890788411)
         - [AJL 高校部門上位40校 (2023年9月19日時点)](https://twitter.com/kiri8128/status/1704120665950056450)
-
-    2023-09-18
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [x軸とy軸について独立に考えてよい - けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/archive/category/x%E8%BB%B8%E3%81%A8y%E8%BB%B8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E7%8B%AC%E7%AB%8B%E3%81%AB%E8%80%83%E3%81%88%E3%81%A6%E3%82%88%E3%81%84)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。

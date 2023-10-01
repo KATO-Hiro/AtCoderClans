@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-10-01
+
+- [#6951](https://github.com/KATO-Hiro/AtCoderClans/pull/6951) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
+    - [誰でもなんとなく理解できる形式的冪級数](https://qiita.com/Michirakara/items/9f1080e389300ca6eb86)
+
 ### 2023-09-30
 
 - [#6945](https://github.com/KATO-Hiro/AtCoderClans/pull/6945)、[#6946](https://github.com/KATO-Hiro/AtCoderClans/pull/6946) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下のWebサービス・記事を追加。
