@@ -70,16 +70,12 @@
       <img loading = "lazy" src="images/userscript/atcoder_perf_graph.png" alt="atcoder perf graph">
     </div>
 
-    2023-09-19
-
-    - 「[Webページに色付けする](user_scripts/colors)」ページ
-        - [MojaCoder Submission User Colorizer (by AtCoder Rating)](https://greasyfork.org/ja/scripts/475500-mojacoder-submission-user-colorizer-by-atcoder-rating)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/mojacoder_submission_user_colorizer.png" alt="mojacoder submission user colorizer">
-    </div>
-
 === "記事"
+
+    2023-10-02
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2023 - 学校ランキング (10月2日時点)](https://twitter.com/atcoder/status/1708694473100886405)
 
     2023-10-01
 
