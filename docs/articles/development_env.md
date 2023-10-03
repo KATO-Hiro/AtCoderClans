@@ -23,7 +23,7 @@ title: コードを書くための環境構築を行う
 
 ### PHP
 
-- [Dockerを使ってAtCoder用のPHPのPHP Unitでテストの自動化とxdebugでデバッグをする環境を構築する](https://qiita.com/yami-yami/items/dde58544c954e00b5c3c) - [Docker](https://www.docker.com/)、[Visual Studio Code](https://code.visualstudio.com/)と拡張機能を利用して、PHPの実行環境の構築方法を紹介している記事。テストの自動化、デバッグができる。
+- [Dockerを使ってAtCoder用のPHPのPHP Unitでテストの自動化とxdebugでデバッグをする環境を構築する](https://qiita.com/yami-yami/items/dde58544c954e00b5c3c) - [Docker](https://www.docker.com/)、[Visual Studio Code](https://code.visualstudio.com/)と拡張機能を利用して、PHPの実行環境の構築方法が紹介されている記事。テストの自動化、デバッグができる。
 
 ### Python
 
