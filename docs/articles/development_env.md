@@ -4,7 +4,7 @@ title: コードを書くための環境構築を行う
 
 !!! info "参考"
 
-    以下の記事は、2019年3月〜2023年8月に公開・更新されたものです。随時、最新の記事を追加する予定です。
+    以下の記事は、2019年3月〜2023年10月に公開・更新されたものです。随時、最新の記事を追加する予定です。
 
 !!! warning "注意"
 
@@ -20,6 +20,10 @@ title: コードを書くための環境構築を行う
 ### C&#43;&#43;
 
 - [AtCoderの環境を Docker で作りたい](https://qiita.com/tf63/items/c93c6f24d73599e637d8) - [Docker](https://www.docker.com/)、[Visual Studio Code](https://code.visualstudio.com/)と拡張機能を利用して、C++の実行環境を構築する方法が紹介されている。また、[AtCoder Library(ACL)](https://atcoder.jp/posts/517)やテストツールの導入、各種コマンドの自動化もできる。
+
+### PHP
+
+- [Dockerを使ってAtCoder用のPHPのPHP Unitでテストの自動化とxdebugでデバッグをする環境を構築する](https://qiita.com/yami-yami/items/dde58544c954e00b5c3c) - [Docker](https://www.docker.com/)、[Visual Studio Code](https://code.visualstudio.com/)と拡張機能を利用して、PHPの実行環境の構築方法を紹介している記事。テストの自動化、デバッグができる。
 
 ### Python
 
