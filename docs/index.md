@@ -72,6 +72,11 @@
 
 === "記事"
 
+    2023-10-03
+
+    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
+        - [Dockerを使ってAtCoder用のPHPのPHP Unitでテストの自動化とxdebugでデバッグをする環境を構築する](https://qiita.com/yami-yami/items/dde58544c954e00b5c3c)
+
     2023-10-02
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -121,15 +126,6 @@
 
     - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
         - [AtCoderでSageMathを使う](https://qiita.com/kusano_k/items/b082423861705c41cac8)
-
-    2023-09-20
-
-    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
-        - [AtCoder Junior League 2023 ランキング上位校の強さの秘密に迫る（第1回：筑波大学附属駒場中・高等学校）](https://prtimes.jp/story/detail/7bZGPLcXjeB)
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2023 - 学校ランキング (9月19日時点)](https://twitter.com/atcoder/status/1703981215890788411)
-        - [AJL 高校部門上位40校 (2023年9月19日時点)](https://twitter.com/kiri8128/status/1704120665950056450)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。

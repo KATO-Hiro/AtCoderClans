@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-10-03
+
+- [#6964](https://github.com/KATO-Hiro/AtCoderClans/pull/6964) - (破壊的な変更) 更新の可能性が低いと思われる実行環境のソースコードを一時的に「[Archives](../../archived)」ページに移動。
+- [#6962](https://github.com/KATO-Hiro/AtCoderClans/pull/6962) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。
+    - [Dockerを使ってAtCoder用のPHPのPHP Unitでテストの自動化とxdebugでデバッグをする環境を構築する](https://qiita.com/yami-yami/items/dde58544c954e00b5c3c)
+
 ### 2023-10-02
 
 - [#6956](https://github.com/KATO-Hiro/AtCoderClans/pull/6956) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
