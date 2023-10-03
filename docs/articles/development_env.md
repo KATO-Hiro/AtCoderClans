@@ -74,10 +74,6 @@ title: コードを書くための環境構築を行う
 
 ## 実行環境のテンプレート・サンプル
 
-### PHP
-
-- [at-coder-with-php](https://github.com/KushibikiMashu/at-coder-with-php) ![GitHub Repo stars](https://img.shields.io/github/stars/KushibikiMashu/at-coder-with-php?style=plastic) - PHPの実行環境を構築することができる。
-
 ### Rust
 
 - [atcoder-rs](https://github.com/catupper/atcoder-rs) ![GitHub Repo stars](https://img.shields.io/github/stars/catupper/atcoder-rs?style=plastic) - Rustのテンプレートプロジェクト。
