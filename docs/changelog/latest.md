@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-10-04
+
+- [#6967](https://github.com/KATO-Hiro/AtCoderClans/pull/6967) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のWebアプリを追加。
+    - [AtCoder Search](https://atcoder-search.fjnkt98.com/)
+
 ### 2023-10-03
 
 - [#6964](https://github.com/KATO-Hiro/AtCoderClans/pull/6964) - (破壊的な変更) 更新の可能性が低いと思われる実行環境のソースコードを一時的に「[Archives](../../archived)」ページに移動。

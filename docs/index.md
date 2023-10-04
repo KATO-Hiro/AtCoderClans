@@ -50,13 +50,13 @@
 
 === "Webアプリ・Webサイト"
 
-    2023-09-21
+    2023-10-04
 
-    - 「[コンテストに関する統計情報](web_app/statistics)」ページ
-        - [AtCoder Heuristic Race Ranking *Unofficial*](https://tomerun.github.io/ahc_point_race/publish/2023.html)
+    - 「[問題を解く](web_app/solve_problems)」ページ
+        - [AtCoder Search](https://atcoder-search.fjnkt98.com/)
 
     <div align="center">
-      <img loading = "lazy" src="images/web_app/atcoder_heuristic_race_ranking_unofficial.png" alt="atcoder heuristic race ranking unofficial">
+      <img loading = "lazy" src="images/web_app/atcoder_search.png" alt="atcoder search">
     </div>
 
 === "ユーザスクリプト"
@@ -148,13 +148,6 @@
 
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [ぱるま](https://www.youtube.com/playlist?list=PL2M7xTSHX0HqdXvk74PKSZ2De_EyVUq0d)
-
-=== "SNS"
-
-    2023-09-21
-
-    - 「[SNS](sns)」ページ
-        - [高専競プロ部](https://discord.com/invite/nhMReq9nMz)
 
 === "色変記事"
 
