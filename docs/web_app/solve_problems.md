@@ -42,6 +42,12 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/web_app/atcoder_gacha.png" alt="atcoder gacha">
     </div>
 
+- [AtCoder Search](https://atcoder-search.fjnkt98.com/) - 条件(コンテストのカテゴリや難易度など)を指定して問題、ソースコードの提出結果(過去1か月以内)を検索できる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_search.png" alt="atcoder search">
+    </div>
+
 - [Atcoder Daily Contests](https://github.com/ika9810/Atcoder-Daily-Contests) ![GitHub Repo stars](https://img.shields.io/github/stars/ika9810/Atcoder-Daily-Contests?style=plastic) - 日替わりで問題を解くことができる。[AtCoder](https://atcoder.jp/)の過去問から、仮想的なAtCoder Xxx Contest (Xxx: Beginner, Regular, Grand)クラスの問題セットが出題される。
 
     <div align="center">
