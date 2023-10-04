@@ -42,7 +42,7 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/web_app/atcoder_gacha.png" alt="atcoder gacha">
     </div>
 
-- [AtCoder Search](https://atcoder-search.fjnkt98.com/) - コンテストのカテゴリや難易度から問題、ソースコードの提出結果(過去1か月以内)を検索できる。
+- [AtCoder Search](https://atcoder-search.fjnkt98.com/) - 条件(コンテストのカテゴリや難易度など)を指定して問題、ソースコードの提出結果(過去1か月以内)を検索できる。
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_search.png" alt="atcoder search">
