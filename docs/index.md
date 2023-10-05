@@ -72,6 +72,11 @@
 
 === "記事"
 
+    2023-10-05
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [焼きなまし法での評価関数の打ち切り](https://qiita.com/not522/items/cd20b87157d15850d31c)
+
     2023-10-03
 
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
@@ -118,14 +123,6 @@
 
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
         - [AtCoder Typical Components (β)](https://not-leonian.hatenablog.com/entry/ATCs/ATCs)
-
-    2023-09-22
-
-    - 「[解説ブログ・サイトを見る](articles/user_editorials)」ページ
-        - [ABCxxxをPythonで解いてみたよ。](https://qiita.com/hyouchun)
-
-    - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
-        - [AtCoderでSageMathを使う](https://qiita.com/kusano_k/items/b082423861705c41cac8)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
