@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-10-05
+
+- [#6973](https://github.com/KATO-Hiro/AtCoderClans/pull/6973) - (破壊的な変更) 「[Change Log](../latest)」ページの2023年8月分を月別のアーカイブに移動。
+    - [August, 2023](../2023_08)
+- [#6972](https://github.com/KATO-Hiro/AtCoderClans/pull/6972) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [焼きなまし法での評価関数の打ち切り](https://qiita.com/not522/items/cd20b87157d15850d31c)
+
 ### 2023-10-04
 
 - [#6967](https://github.com/KATO-Hiro/AtCoderClans/pull/6967) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のWebアプリを追加。
