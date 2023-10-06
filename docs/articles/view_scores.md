@@ -101,6 +101,10 @@ title: コンテストに関する統計情報を見る
 - [AtCoder Problems 精進三兄弟とレートとの関係図](https://twitter.com/ToastUz/status/1644570880968916993) - レーティングと[AtCoder Problems](https://kenkoooo.com/atcoder/)の統計情報(Accepted、Rated Point Sum、Top player-Equivalent Effort)との関係が分析されている。2023年4月8日時点。
     - [AtCoder Stats Scripts](https://github.com/toast-uz/atcoder_stats) ![GitHub Repo stars](https://img.shields.io/github/stars/toast-uz/atcoder_stats?style=plastic) - [AtCoder](https://atcoder.jp/)に関する統計情報を取得するためのPythonスクリプト。
 
+## レーティングの計算方法
+
+- [【日本語翻訳】Atcoderレーティングの計算](https://qiita.com/karutetto332/items/42c5d710de0b0545cd57) - Atcoder公式が公開している[レーティングシステム](https://www.dropbox.com/sh/zpgcogxmmu84rr8/AADcw6o7M9tJFDgtpqEQQ46Ua?dl=0&preview=rating.pdf)の翻訳記事。また、原文で明記されていない調整項についても言及されている。
+
 ## Webデータの分析・公開に関するノウハウ
 
 - [【AtCoderを分析】Webデータを分析して公開するための基本を網羅してみた](https://qiita.com/toast-uz/items/a0d9bfb64b9d85d3aa4f) - AtCoderに関連するWebデータの分析・公開までのノウハウが実例とともに紹介されている記事。
