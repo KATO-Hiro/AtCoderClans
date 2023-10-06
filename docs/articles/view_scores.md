@@ -103,7 +103,8 @@ title: コンテストに関する統計情報を見る
 
 ## レーティングの計算方法
 
-- [【日本語翻訳】Atcoderレーティングの計算](https://qiita.com/karutetto332/items/42c5d710de0b0545cd57) - Atcoder公式が公開している[レーティングシステム](https://www.dropbox.com/sh/zpgcogxmmu84rr8/AADcw6o7M9tJFDgtpqEQQ46Ua?dl=0&preview=rating.pdf)の翻訳記事。また、原文で明記されていない調整項についても言及されている。
+- [AtCoderのレート計算式](https://qiita.com/anqooqie/items/92005e337a0d2569bdbd) - Atcoder公式が公開している[レーティングシステム (以降、原文)](https://www.dropbox.com/sh/zpgcogxmmu84rr8/AADcw6o7M9tJFDgtpqEQQ46Ua?dl=0&preview=rating.pdf)の解説を試みた記事。原文では背景知識や計算式の設計意図が大幅に省略されているため、AtCoder公式のコメントや筆者の予想で補われている。
+    - [【日本語翻訳】Atcoderレーティングの計算](https://qiita.com/karutetto332/items/42c5d710de0b0545cd57) - 原文を翻訳・整形した記事。
 
 ## Webデータの分析・公開に関するノウハウ
 
