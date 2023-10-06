@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-10-07
+
+- [#6985](https://github.com/KATO-Hiro/AtCoderClans/pull/6985) - 「[Web apps and sites](../../web_app)」の「[開発者向けの情報](../../web_app/for_developers)」ページに、以下の記事を追加。
+    - [RustでAtCoderのログイン認証を通す](https://qiita.com/ppputtyo/items/e724f68eeb912b00290d)
+- [#6982](https://github.com/KATO-Hiro/AtCoderClans/pull/6982)、[#6984](https://github.com/KATO-Hiro/AtCoderClans/pull/6984) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下の記事を追加。
+    - [AtCoderのレート計算式](https://qiita.com/anqooqie/items/92005e337a0d2569bdbd)
+    - [【日本語翻訳】Atcoderレーティングの計算](https://qiita.com/karutetto332/items/42c5d710de0b0545cd57)
+
 ### 2023-10-06
 
 - [#6977](https://github.com/KATO-Hiro/AtCoderClans/pull/6977) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。

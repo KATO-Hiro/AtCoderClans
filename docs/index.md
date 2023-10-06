@@ -50,6 +50,11 @@
 
 === "Webアプリ・Webサイト"
 
+    2023-10-07
+
+    - 「[開発者向けの情報](web_app/for_developers)」ページ
+        - [RustでAtCoderのログイン認証を通す](https://qiita.com/ppputtyo/items/e724f68eeb912b00290d)
+
     2023-10-04
 
     - 「[問題を解く](web_app/solve_problems)」ページ
@@ -71,6 +76,12 @@
     </div>
 
 === "記事"
+
+    2023-10-07
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoderのレート計算式](https://qiita.com/anqooqie/items/92005e337a0d2569bdbd)
+        - [【日本語翻訳】Atcoderレーティングの計算](https://qiita.com/karutetto332/items/42c5d710de0b0545cd57)
 
     2023-10-06
 
@@ -162,14 +173,6 @@
 
     - 「[レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
         - [leaf1415](https://atcoder.jp/users/leaf1415)さん - [【色変記事】レッドコーダーになりました！ - leaf1415の日記](https://leaf1415.hatenablog.com/entry/2023/09/25/115311)
-
-    2023-09-24
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [hiroyuk1](https://atcoder.jp/users/hiroyuk1)さん - [ABC321で中2が入水したよ！！！！](https://qiita.com/hiroyuk1/items/363fce5a43f1cda1d49d)
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [kirimin](https://atcoder.jp/users/kirimin)さん - [算数の教養がほとんどなかったプログラマがAtCoderを4年やって緑になれた話](https://note.com/kirimin_chan/n/n337f5bdf7e48)
 
 ## AtCoder公式グッズを購入する
 
