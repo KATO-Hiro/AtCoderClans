@@ -72,6 +72,11 @@
 
 === "記事"
 
+    2023-10-06
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [【競プロ】緑〜水のためのSegmentTree超入門](https://qiita.com/ZOI_dayo/items/f53122c831be78c695bc)
+
     2023-10-05
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -119,11 +124,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2023 - 学校ランキング (9月25日時点)](https://twitter.com/atcoder/status/1706169824861397059)
 
-    2023-09-23
-
-    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
-        - [AtCoder Typical Components (β)](https://not-leonian.hatenablog.com/entry/ATCs/ATCs)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -170,17 +170,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [kirimin](https://atcoder.jp/users/kirimin)さん - [算数の教養がほとんどなかったプログラマがAtCoderを4年やって緑になれた話](https://note.com/kirimin_chan/n/n337f5bdf7e48)
-
-    2023-09-23
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [achapi](https://atcoder.jp/users/achapi)さん - [入青記事 - あちゃぴのブログ](https://achapi.hatenablog.jp/entry/2023/09/19/225144)
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [Satsuki_8198](https://atcoder.jp/users/Satsuki_8198)さん - [Houdinist が競プロerになってみた話  (本サイト運営者による注:水色コーダー達成に関する内容を含む) ](https://qiita.com/Satsuki-Sensei/items/2e5ed965f4a6b8794f9e)
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [ZUkA_](https://atcoder.jp/users/ZUkA_)さん - [数学が苦手な大学生の AtCoder 入緑記事](https://note.com/yindolsa/n/n512d1530339e)
 
 ## AtCoder公式グッズを購入する
 
