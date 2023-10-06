@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-10-06
+
+- [#6977](https://github.com/KATO-Hiro/AtCoderClans/pull/6977) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [【競プロ】緑〜水のためのSegmentTree超入門](https://qiita.com/ZOI_dayo/items/f53122c831be78c695bc)
+
 ### 2023-10-05
 
 - [#6973](https://github.com/KATO-Hiro/AtCoderClans/pull/6973) - (破壊的な変更) 「[Change Log](../latest)」ページの2023年8月分を月別のアーカイブに移動。
