@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-10-08
+
+- [#6994](https://github.com/KATO-Hiro/AtCoderClans/pull/6994) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2800〜に到達したユーザのブログを追加。
+- [#6993](https://github.com/KATO-Hiro/AtCoderClans/pull/6993) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[Toncochan](https://atcoder.jp/users/Toncochan)さんの[記事](https://qiita.com/Toncochan/items/a131519f7431f9da0882)を追加。
+
 ### 2023-10-07
 
 - [#6985](https://github.com/KATO-Hiro/AtCoderClans/pull/6985) - 「[Web apps and sites](../../web_app)」の「[開発者向けの情報](../../web_app/for_developers)」ページに、以下の記事を追加。
