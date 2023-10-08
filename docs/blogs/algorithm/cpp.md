@@ -28,6 +28,7 @@ title: C&#43;&#43;
 |kotatsugame|[はてなブログ](https://kotatsugame.hatenablog.com/)|Rated対象外のコンテストを中心に複数の言語で実装されている回答もある。|
 |latte0119|[はてなブログ](https://lattemalta.hatenablog.jp/)||
 |LayCurse|[自作ブログ](http://rsujskf.s602.xrea.com/)||
+|leaf1415|[はてなブログ](https://leaf1415.hatenablog.com/)||
 |maroonrk|[Codeforces blog](https://codeforces.com/blog/maroonrk)||
 |math|[はてなブログ](https://math314.hateblo.jp/)||
 |mtsd|[はてなブログ](https://mtsd-programming.hatenablog.com/)||
