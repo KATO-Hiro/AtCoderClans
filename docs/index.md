@@ -138,28 +138,19 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
-    2023-09-25
+    2023-10-08
 
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [takumi152](https://atcoder.jp/users/takumi152)さん - [はてなブログ](https://takumi152.hatenablog.jp/)
-        - [kotamanegi](https://atcoder.jp/users/kotamanegi)さん - [はてなブログ](https://kotamanegi.hatenablog.com/)
-
-    - 「[ヒューリスティック部門 - Go](blogs/heuristic/go)」ページ
-        - [montplusa](https://atcoder.jp/users/montplusa)さん - [はてなブログ](https://montplusa.hatenablog.com/archive)
-
-    - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
-        - [ichyo](https://atcoder.jp/users/ichyo)さん - [はてなブログ](https://blog.ichyo.jp/)
-
-=== "動画"
-
-    2023-09-25
-
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [ぱるま](https://www.youtube.com/playlist?list=PL2M7xTSHX0HqdXvk74PKSZ2De_EyVUq0d)
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [leaf1415](https://atcoder.jp/users/leaf1415)さん - [はてなブログ](https://leaf1415.hatenablog.com/)
 
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-10-08
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [Toncochan](https://atcoder.jp/users/Toncochan)さん - [AtCoder入水記事！！](https://qiita.com/Toncochan/items/a131519f7431f9da0882)
 
     2023-09-30
 
