@@ -4,7 +4,7 @@ title: コードを書くための環境構築を行う
 
 !!! info "参考"
 
-    以下の記事は、2019年3月〜2023年10月に公開・更新されたものです。随時、最新の記事を追加する予定です。
+    以下の記事は、2019年3月〜2023年10月に公開・更新されたものです。随時、最新の内容を追加する予定です。
 
 !!! warning "注意"
 
@@ -12,22 +12,29 @@ title: コードを書くための環境構築を行う
 
 ## 任意のOS
 
+[Docker](https://www.docker.com/)、[Visual Studio Code](https://code.visualstudio.com/)と拡張機能を利用し、各言語の実行環境を構築する方法を紹介しています。
+
 ### 複数の言語
 
-- [競技プログラミングの環境を VSCode devcontainer で作成する](https://zenn.dev/ganariya/articles/competitive-devcontainer) - [Visual Studio Code](https://code.visualstudio.com/)と拡張機能を利用して、複数の言語の実行環境を構築する方法と設定例(C++、Go、Python)が紹介されている記事。
+- [競技プログラミングの環境を VSCode devcontainer で作成する](https://zenn.dev/ganariya/articles/competitive-devcontainer) - 複数の言語の実行環境を構築する方法と設定例(C++、Go、Python)が紹介されている記事。
     - [ganyariya/competitive](https://github.com/ganyariya/competitive) ![GitHub Repo stars](https://img.shields.io/github/stars/ganyariya/competitive?style=plastic) - C++、C#、Go、Python、Luaの設定例がGitHubで公開されている。
 
 ### C&#43;&#43;
 
-- [AtCoderの環境を Docker で作りたい](https://qiita.com/tf63/items/c93c6f24d73599e637d8) - [Docker](https://www.docker.com/)、[Visual Studio Code](https://code.visualstudio.com/)と拡張機能を利用して、C++の実行環境を構築する方法が紹介されている。また、[AtCoder Library(ACL)](https://atcoder.jp/posts/517)やテストツールの導入、各種コマンドの自動化もできる。
+- [AtCoderの環境を Docker で作りたい](https://qiita.com/tf63/items/c93c6f24d73599e637d8) - C++の実行環境を構築する方法が紹介されている。また、[AtCoder Library(ACL)](https://atcoder.jp/posts/517)やテストツールの導入、各種コマンドの自動化もできる。
 
 ### PHP
 
-- [Dockerを使ってAtCoder用のPHPのPHP Unitでテストの自動化とxdebugでデバッグをする環境を構築する](https://qiita.com/yami-yami/items/dde58544c954e00b5c3c) - [Docker](https://www.docker.com/)、[Visual Studio Code](https://code.visualstudio.com/)と拡張機能を利用して、PHPの実行環境の構築方法が紹介されている記事。テストの自動化、デバッグができる。
+- [Dockerを使ってAtCoder用のPHPのPHP Unitでテストの自動化とxdebugでデバッグをする環境を構築する](https://qiita.com/yami-yami/items/dde58544c954e00b5c3c) - PHPの実行環境の構築方法が紹介されている記事。テストの自動化、デバッグができる。
 
 ### Python
 
-- [Docker+VSCodeでAtCoder用の開発環境を簡単に作る(Python編)](https://qiita.com/malleroid/items/ab83b5ffb8ddfd58a4d3) - [Docker](https://www.docker.com/)、[Visual Studio Code](https://code.visualstudio.com/)と拡張機能を利用して、Pythonの実行環境を構築できる。また、コマンドでコンテスト用のファイル生成、テストの実行、コードの提出も可能。
+- [Docker+VSCodeでAtCoder用の開発環境を簡単に作る(Python編)](https://qiita.com/malleroid/items/ab83b5ffb8ddfd58a4d3) - Pythonの実行環境を構築できる。また、コマンドでコンテスト用のファイル生成、テストの実行、コードの提出も可能。
+
+### Rust
+
+- [【必見】Rust 競プロ環境を一撃で構築する方法を紹介します。](https://www.youtube.com/watch?v=GO5JE7g7AUE) - Rustの実行環境の構築方法に加えて、テストやデバッグの仕方・よく使うコード（スニペット）を登録する方法も紹介されている。
+    - [yiwiy9/atcoder-rust-devcontainer](https://github.com/yiwiy9/atcoder-rust-devcontainer) ![GitHub Repo stars](https://img.shields.io/github/stars/yiwiy9/atcoder-rust-devcontainer?style=plastic) - 実行環境を短時間で用意するための各種設定ファイルが公開されている。
 
 ## Macintosh
 
