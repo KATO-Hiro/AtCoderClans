@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-10-09
+
+- [#6999](https://github.com/KATO-Hiro/AtCoderClans/pull/6999) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の動画を追加。
+    - [【必見】Rust 競プロ環境を一撃で構築する方法を紹介します。](https://www.youtube.com/watch?v=GO5JE7g7AUE)
+- [#6998](https://github.com/KATO-Hiro/AtCoderClans/pull/6998) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoderVirtualTimer](https://greasyfork.org/ja/scripts/476928-atcodervirtualtimer)
+
 ### 2023-10-08
 
 - [#6994](https://github.com/KATO-Hiro/AtCoderClans/pull/6994) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2800〜に到達したユーザのブログを追加。
