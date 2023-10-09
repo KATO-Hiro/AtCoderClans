@@ -50,6 +50,14 @@ title: コンテストに参加する
       <img loading = "lazy" src="../../images/userscript/ac_clar_shaper.png" alt="ac clar shaper">
     </div>
 
+## バーチャル参加でタイマーを表示
+
+- [AtCoderVirtualTimer](https://greasyfork.org/ja/scripts/476928-atcodervirtualtimer) - [AtCoder](https://atcoder.jp/)のバーチャル参加（コンテストに仮想的に参加できる機能）で、開始までの時間と残り時間を表示する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_virtual_timer.png" alt="atcoder virtual timer">
+    </div>
+
 ## 部活の共有アカウントで誤操作を防ぐ
 
 - [Save_Paken_AtCoder_Account](https://greasyfork.org/ja/scripts/401642-save-paken-atcoder-account) - パ研の共有アカウントで誤ってコンテストに参加するのを防ぐ。
