@@ -66,6 +66,15 @@
 
 === "ユーザスクリプト"
 
+    2023-10-09
+
+    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
+        - [AtCoderVirtualTimer](https://greasyfork.org/ja/scripts/476928-atcodervirtualtimer)
+
+    <div align="center">
+      <img loading = "lazy" src="images/userscript/atcoder_virtual_timer.png" alt="atcoder virtual timer">
+    </div>
+
     2023-09-27
 
     - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
@@ -76,6 +85,11 @@
     </div>
 
 === "記事"
+
+    2023-10-09
+
+    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
+        - [【必見】Rust 競プロ環境を一撃で構築する方法を紹介します。](https://www.youtube.com/watch?v=GO5JE7g7AUE)
 
     2023-10-07
 
@@ -130,11 +144,6 @@
         - [みんなAHCの魅力を知らなすぎて困る](https://trap.jp/post/2006/)
         - [ヒューリスティックコンテストで機械学習しよう](https://speakerdeck.com/nagiss/hiyurisuteitukukontesutodeji-jie-xue-xi-siyou)
 
-    2023-09-26
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2023 - 学校ランキング (9月25日時点)](https://twitter.com/atcoder/status/1706169824861397059)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -159,11 +168,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [NEET0321](https://atcoder.jp/users/NEET0321)さん - [入水記事 - AFKK](https://afkk.hatenablog.com/entry/2023/09/25/180656)
-
-    2023-09-26
-
-    - 「[レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
-        - [leaf1415](https://atcoder.jp/users/leaf1415)さん - [【色変記事】レッドコーダーになりました！ - leaf1415の日記](https://leaf1415.hatenablog.com/entry/2023/09/25/115311)
 
 ## AtCoder公式グッズを購入する
 
