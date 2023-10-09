@@ -69,7 +69,7 @@
     2023-10-09
 
     - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
-        - [AtCoderVirtualTimer](https://greasyfork.org/ja/scripts/476928-atcodervirtualtimer) - [AtCoder](https://atcoder.jp/)のバーチャル参加（コンテストに仮想的に参加できる機能）で、開始までの時間と残り時間を表示する。
+        - [AtCoderVirtualTimer](https://greasyfork.org/ja/scripts/476928-atcodervirtualtimer)
 
     <div align="center">
       <img loading = "lazy" src="images/userscript/atcoder_virtual_timer.png" alt="atcoder virtual timer">
