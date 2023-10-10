@@ -75,16 +75,12 @@
       <img loading = "lazy" src="images/userscript/atcoder_virtual_timer.png" alt="atcoder virtual timer">
     </div>
 
-    2023-09-27
-
-    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
-        - [Atcoder Perf Graph](https://greasyfork.org/ja/scripts/476103-atcoder-perf-graph)
-
-    <div align="center">
-      <img loading = "lazy" src="images/userscript/atcoder_perf_graph.png" alt="atcoder perf graph">
-    </div>
-
 === "記事"
+
+    2023-10-10
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2023 - 学校ランキング (10月10日時点)](https://twitter.com/atcoder/status/1711587000539853082)
 
     2023-10-09
 
@@ -138,12 +134,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [8近傍だけで連結性を良い感じに確保し続ける典型](https://twitter.com/chokudai/status/1706124817915908481)
 
-    2023-09-27
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [みんなAHCの魅力を知らなすぎて困る](https://trap.jp/post/2006/)
-        - [ヒューリスティックコンテストで機械学習しよう](https://speakerdeck.com/nagiss/hiyurisuteitukukontesutodeji-jie-xue-xi-siyou)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -155,6 +145,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-10-10
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [yu7400ki](https://atcoder.jp/users/yu7400ki)さん - [【AtCoder】一年と半年、水色になりました。](https://zenn.dev/yu7400ki/articles/bea3e57ac34de1)
 
     2023-10-08
 
