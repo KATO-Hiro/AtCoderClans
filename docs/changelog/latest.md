@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-10-10
+
+- [#7004](https://github.com/KATO-Hiro/AtCoderClans/pull/7004) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AtCoder Junior League 2023 - 学校ランキング (10月10日時点)](https://twitter.com/atcoder/status/1711587000539853082)
+- [#7003](https://github.com/KATO-Hiro/AtCoderClans/pull/7003) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[yu7400ki](https://atcoder.jp/users/yu7400ki)さんの[記事](https://zenn.dev/yu7400ki/articles/bea3e57ac34de1)を追加。
+
 ### 2023-10-09
 
 - [#6999](https://github.com/KATO-Hiro/AtCoderClans/pull/6999) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の動画を追加。
