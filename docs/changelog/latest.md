@@ -6,6 +6,7 @@ title: Change Log
 
 ### 2023-10-10
 
+- [#7009](https://github.com/KATO-Hiro/AtCoderClans/pull/7009) - (破壊的な変更) 公開を取りやめたと思われるライブラリを一時的に「[Archives](../../archived)」ページに移動。
 - [#7004](https://github.com/KATO-Hiro/AtCoderClans/pull/7004) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
     - [AtCoder Junior League 2023 - 学校ランキング (10月10日時点)](https://twitter.com/atcoder/status/1711587000539853082)
 - [#7003](https://github.com/KATO-Hiro/AtCoderClans/pull/7003) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
