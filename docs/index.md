@@ -77,6 +77,14 @@
 
 === "記事"
 
+    2023-10-11
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [rhooさんによるヒューリスティックコンテストの汎用テクニック集](https://github.com/rhoo19937/p/blob/main/tech/.md)
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AJL 高校部門上位40校 (10月10日時点)](https://twitter.com/kiri8128/status/1711744359920812511)
+
     2023-10-10
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -129,11 +137,6 @@
     - 「[数学を学ぶ](articles/math)」ページ
         - [形式的べき級数](https://zenn.dev/koboshi/books/600753d917cdbc)
 
-    2023-09-28
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [8近傍だけで連結性を良い感じに確保し続ける典型](https://twitter.com/chokudai/status/1706124817915908481)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -141,6 +144,13 @@
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [leaf1415](https://atcoder.jp/users/leaf1415)さん - [はてなブログ](https://leaf1415.hatenablog.com/)
+
+=== "動画"
+
+    2023-10-11
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [blueberry1001](https://www.youtube.com/@blueberry-1001/featured)
 
 === "色変記事"
 
