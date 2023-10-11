@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-10-11
+
+- [#7017](https://github.com/KATO-Hiro/AtCoderClans/pull/7017) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [blueberry1001](https://www.youtube.com/@blueberry-1001/featured)
+- [#7016](https://github.com/KATO-Hiro/AtCoderClans/pull/7016) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下のGitHubレポジトリを追加。
+    - [rhooさんによるヒューリスティックコンテストの汎用テクニック集](https://github.com/rhoo19937/p/blob/main/tech/.md)
+- [#7015](https://github.com/KATO-Hiro/AtCoderClans/pull/7015) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AJL 高校部門上位40校 (10月10日時点)](https://twitter.com/kiri8128/status/1711744359920812511)
+
 ### 2023-10-10
 
 - [#7009](https://github.com/KATO-Hiro/AtCoderClans/pull/7009) - (破壊的な変更) 公開を取りやめたと思われるライブラリを一時的に「[Archives](../../archived)」ページに移動。
