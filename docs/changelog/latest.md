@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-10-12
+
+- [#7024](https://github.com/KATO-Hiro/AtCoderClans/pull/7024) - [Home](../..)ページに、本サービスのスポンサーを掲載。ご支援いただき、ありがとうございます。
+    - [toshi201](https://github.com/toshi201)
+- [#7022](https://github.com/KATO-Hiro/AtCoderClans/pull/7022) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
+    - [社内ヒューリスティックコンテスト@アルゴ合宿2023 開催レポート](https://media.algo-artis.com/posts/bN4vP1cR)
+
 ### 2023-10-11
 
 - [#7017](https://github.com/KATO-Hiro/AtCoderClans/pull/7017) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
