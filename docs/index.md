@@ -48,6 +48,14 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "ホーム"
+
+    2023-10-12
+
+    本サービスのスポンサーを掲載(敬称略)。ご支援いただき、ありがとうございます。
+
+    - [toshi201](https://github.com/toshi201)
+
 === "Webアプリ・Webサイト"
 
     2023-10-07
@@ -76,6 +84,11 @@
     </div>
 
 === "記事"
+
+    2023-10-12
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [社内ヒューリスティックコンテスト@アルゴ合宿2023 開催レポート](https://media.algo-artis.com/posts/bN4vP1cR)
 
     2023-10-11
 
@@ -131,11 +144,6 @@
     - 「[数学を学ぶ](articles/math)」ページ
         - [Wolfram Alpha](https://ja.wolframalpha.com/)
         - [【競プロ Tips】Wolfram Alpha を使いこなそう](https://hackmd.io/@tatyam-prime/ByuUsAfla)
-
-    2023-09-29
-
-    - 「[数学を学ぶ](articles/math)」ページ
-        - [形式的べき級数](https://zenn.dev/koboshi/books/600753d917cdbc)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
