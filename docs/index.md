@@ -56,6 +56,13 @@
 
     - [toshi201](https://github.com/toshi201)
 
+=== "入門者・初心者向けの内容"
+
+    2023-10-14
+
+    - 「[Q1: アルゴリズムや競技プログラミングに興味はありますが、何から始めたらいいですか?](for_beginners/question1)」ページ
+        - [AtCoder Daily Training](https://atcoder.jp/contests/adt_top)
+
 === "Webアプリ・Webサイト"
 
     2023-10-07
@@ -84,6 +91,14 @@
     </div>
 
 === "記事"
+
+    2023-10-14
+
+    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
+        - [AtCoder Daily Training](https://atcoder.jp/contests/adt_top)
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [ソースコードを見て計算量を下から抑えるのは怪しいという話](https://rsk0315.hatenablog.com/entry/2023/09/17/193635)
 
     2023-10-13
 
@@ -138,11 +153,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2023 - 学校ランキング (10月2日時点)](https://twitter.com/atcoder/status/1708694473100886405)
-
-    2023-10-01
-
-    - 「[数学を学ぶ](articles/math)」ページ
-        - [誰でもなんとなく理解できる形式的冪級数](https://qiita.com/Michirakara/items/9f1080e389300ca6eb86)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
