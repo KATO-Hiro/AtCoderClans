@@ -13,7 +13,6 @@ title: Rust
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
-|hamadu|[自作ブログ](https://hamadu.net/)||
 |ichyo|[自作ブログ](https://blog.ichyo.jp/)||
 |nebocco|[はてなブログ](https://nebocco.hatenablog.com/)||
 |ngtkana|[はてなブログ](https://ngtkana.hatenablog.com/)、[Qiita](https://qiita.com/ngtkana)||
