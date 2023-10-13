@@ -46,6 +46,8 @@ title: Others
 
 ### 文法・言語仕様
 
+- [Go言語による各種データ構造の扱い方(やや競プロer向け)](https://zenn.dev/smartshopping/articles/5feb3666ba40b2) - Go言語におけるデータ構造(配列、キュー・スタック、優先度付きキュー、HashMap・HashSet、TreeMap・TreeSet)の扱い方がまとめられている。
+
 #### 注意事項
 
 - [Go言語でAtCoderに参加する場合の注意点｜テンプレートも公開](https://tech.aru-zakki.com/atcoder-golang/) - Goで競技プログラミングに参加するときに、入出力・標準関数に関する注意事項と、これらの課題に対応したテンプレートが紹介されている記事。
