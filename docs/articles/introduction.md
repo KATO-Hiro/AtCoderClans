@@ -114,6 +114,7 @@ title: 入門者・初心者向けの内容
 
     難しすぎる内容だと思ったときは、[複数の解説](../algorithm)を読んだり、少し時間を置いて読み直してみたりみましょう。
 
+- [AtCoder Daily Training](https://atcoder.jp/contests/adt_top) - [AtCoder](https://atcoder.jp/)公式が提供を予定しているAtCoder Beginner Contestの練習用バーチャルコンテスト（コンテストに仮想的に参加できる機能）。過去に出題された問題を対象として、複数の難易度・日時から選択して参加できる。
 - [競プロ典型90問](https://twitter.com/e869120/status/1376089196100653060) - 競技プログラミング・アルゴリズムに関する教育的な問題が[常設コンテスト](https://atcoder.jp/contests/typical90)としてまとめられている。
     - 補助資料
         - [Qiita](https://qiita.com/e869120/items/1b2a5f0f07fd927e44e9) - コンテンツの活用方法
