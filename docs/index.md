@@ -85,6 +85,11 @@
 
 === "記事"
 
+    2023-10-13
+
+    - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
+        - [Go言語による各種データ構造の扱い方(やや競プロer向け)](https://zenn.dev/smartshopping/articles/5feb3666ba40b2)
+
     2023-10-12
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
@@ -139,12 +144,6 @@
     - 「[数学を学ぶ](articles/math)」ページ
         - [誰でもなんとなく理解できる形式的冪級数](https://qiita.com/Michirakara/items/9f1080e389300ca6eb86)
 
-    2023-09-30
-
-    - 「[数学を学ぶ](articles/math)」ページ
-        - [Wolfram Alpha](https://ja.wolframalpha.com/)
-        - [【競プロ Tips】Wolfram Alpha を使いこなそう](https://hackmd.io/@tatyam-prime/ByuUsAfla)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -173,14 +172,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [Toncochan](https://atcoder.jp/users/Toncochan)さん - [AtCoder入水記事！！](https://qiita.com/Toncochan/items/a131519f7431f9da0882)
-
-    2023-09-30
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [mono_0812](https://atcoder.jp/users/mono_0812)さん - [入青した！！ - mono_0812のブログ](https://mono-0812.hatenablog.com/entry/20230924/1695517992)
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [NEET0321](https://atcoder.jp/users/NEET0321)さん - [入水記事 - AFKK](https://afkk.hatenablog.com/entry/2023/09/25/180656)
 
 ## AtCoder公式グッズを購入する
 
