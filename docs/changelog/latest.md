@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-10-14
+
+- [#7041](https://github.com/KATO-Hiro/AtCoderClans/pull/7041) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [ソースコードを見て計算量を下から抑えるのは怪しいという話](https://rsk0315.hatenablog.com/entry/2023/09/17/193635)
+- [#7040](https://github.com/KATO-Hiro/AtCoderClans/pull/7040) - 「[For Beginners](../../for_beginners)」の「[Q1: アルゴリズムや競技プログラミングに興味はありますが、何から始めたらいいですか?](../../for_beginners/question1)」ページと「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下のリンクを追加。
+    - [AtCoder Daily Training](https://atcoder.jp/contests/adt_top)
+- [#7039](https://github.com/KATO-Hiro/AtCoderClans/pull/7039) - (破壊的な変更) リンク切れと思われるブログを一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2023-10-13
 
 - [#7030](https://github.com/KATO-Hiro/AtCoderClans/pull/7030) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Others](../../articles/implementation/others)」ページに、以下の記事を追加。
