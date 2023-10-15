@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-10-15
+
+- [#7043](https://github.com/KATO-Hiro/AtCoderClans/pull/7043) - 「[Related Contest Sites](../../related_contest_sites)」の「[パズル・クイズ系コンテスト](../../related_contest_sites/puzzle_quiz)」ページに、以下のWebサービスを追加。
+    - [正規表現パズル](https://gametsukurukun.com/regexp-puzzle/)
+
 ### 2023-10-14
 
 - [#7041](https://github.com/KATO-Hiro/AtCoderClans/pull/7041) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
