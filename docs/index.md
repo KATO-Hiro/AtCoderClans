@@ -149,11 +149,6 @@
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
         - [Dockerを使ってAtCoder用のPHPのPHP Unitでテストの自動化とxdebugでデバッグをする環境を構築する](https://qiita.com/yami-yami/items/dde58544c954e00b5c3c)
 
-    2023-10-02
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2023 - 学校ランキング (10月2日時点)](https://twitter.com/atcoder/status/1708694473100886405)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -182,6 +177,17 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [Toncochan](https://atcoder.jp/users/Toncochan)さん - [AtCoder入水記事！！](https://qiita.com/Toncochan/items/a131519f7431f9da0882)
+
+=== "国内外のコンテストサイト"
+
+    2023-10-15
+
+    - 「[パズル・クイズ系コンテスト](related_contest_sites/puzzle_quiz)」ページ
+        - [正規表現パズル](https://gametsukurukun.com/regexp-puzzle/)
+
+    <div align="center">
+      <img loading = "lazy" src="images/related_contest_sites/regexp_puzzle/regexp_puzzle.png" alt="regexp puzzle">
+    </div>
 
 ## AtCoder公式グッズを購入する
 
