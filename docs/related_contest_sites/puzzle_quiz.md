@@ -46,6 +46,14 @@ title: パズル・クイズ系コンテスト
 
 - [大好評！たった6種類の文法で塗り絵パズルが楽しめる、新感覚プログラミング言語「Painter Programming」を作った話](https://qiita.com/e869120/items/92f19314ac5ea9a1e82a) - プログラミング言語「Painter Programming」の面白さ・楽しさ・奥深さを解説した記事。
 
+## 正規表現パズル
+
+- [正規表現パズル](https://gametsukurukun.com/regexp-puzzle/) - 正規表現を利用したパズルゲーム。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/regexp_puzzle/regexp_puzzle.png" alt="regexp puzzle">
+    </div>
+
 ## Sed Puzzle
 
 - [Sed Puzzle](https://sed-puzzle.com/) - ボタンを押して文字列を書き換えていくパズルゲーム。
