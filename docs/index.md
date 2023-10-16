@@ -92,6 +92,11 @@
 
 === "記事"
 
+    2023-10-16
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2023 - 学校ランキング (10月16日時点)](https://twitter.com/atcoder/status/1713793122206175428)
+
     2023-10-14
 
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
@@ -143,11 +148,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [焼きなまし法での評価関数の打ち切り](https://qiita.com/not522/items/cd20b87157d15850d31c)
-
-    2023-10-03
-
-    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
-        - [Dockerを使ってAtCoder用のPHPのPHP Unitでテストの自動化とxdebugでデバッグをする環境を構築する](https://qiita.com/yami-yami/items/dde58544c954e00b5c3c)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。

@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-10-16
+
+- [#7051](https://github.com/KATO-Hiro/AtCoderClans/pull/7051) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AtCoder Junior League 2023 - 学校ランキング (10月16日時点)](https://twitter.com/atcoder/status/1713793122206175428)
+
 ### 2023-10-15
 
 - [#7043](https://github.com/KATO-Hiro/AtCoderClans/pull/7043) - 「[Related Contest Sites](../../related_contest_sites)」の「[パズル・クイズ系コンテスト](../../related_contest_sites/puzzle_quiz)」ページに、以下のWebサービスを追加。
@@ -24,7 +29,7 @@ title: Change Log
 
 ### 2023-10-12
 
-- [#7024](https://github.com/KATO-Hiro/AtCoderClans/pull/7024) - [Home](../..)ページに、本サービスのスポンサーを掲載。ご支援いただき、ありがとうございます。
+- [#7024](https://github.com/KATO-Hiro/AtCoderClans/pull/7024)、[#7050](https://github.com/KATO-Hiro/AtCoderClans/pull/7050) - [Home](../..)ページに、本サービスのスポンサーを掲載。ご支援いただき、ありがとうございます。
     - [toshi201](https://github.com/toshi201)
 - [#7022](https://github.com/KATO-Hiro/AtCoderClans/pull/7022) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
     - [社内ヒューリスティックコンテスト@アルゴ合宿2023 開催レポート](https://media.algo-artis.com/posts/bN4vP1cR)
