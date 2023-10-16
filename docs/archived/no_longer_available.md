@@ -377,6 +377,8 @@ title: 開発・提供終了
     - 理由: 記載なし。
     - 代替手段: [AtCoder Library (ACL)](https://atcoder.jp/posts/517)や[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)などで公開されているライブラリを利用するか、自分で作成する。
 - [gzlcp/competitive-library](https://github.com/gzlcp/competitive-library) ![GitHub Repo stars](https://img.shields.io/github/stars/gzlcp/competitive-library?style=plastic) - [gazelle](https://atcoder.jp/users/gazelle)さんのC++ライブラリ。
+- [latte0119/Library](https://github.com/latte0119/Library) ![GitHub stars](https://img.shields.io/github/stars/latte0119/Library?style=plastic) - [latte0119](https://atcoder.jp/users/latte0119)さんのC++ライブラリ。
+    - 確認した日: 2023/10/16
 - [monkukui/Library](https://github.com/monkukui/Library) ![GitHub stars](https://img.shields.io/github/stars/monkukui/Library?style=plastic) - [monkukui](https://atcoder.jp/users/monkukui)さんのC++ライブラリ。
     - 確認した日: 2023/10/10
 
