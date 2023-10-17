@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-10-17
+
+- [#7063](https://github.com/KATO-Hiro/AtCoderClans/pull/7063) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AJL 学校スコア(上位5校)、個人スコア(上位5人)の推移(10月16日時点)](https://twitter.com/gojira_kyopro/status/1713809087987667255)
+- [#7062](https://github.com/KATO-Hiro/AtCoderClans/pull/7062) - (破壊的な変更) 公開を取りやめたと思われる色変記事を一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2023-10-16
 
 - [#7055](https://github.com/KATO-Hiro/AtCoderClans/pull/7055) - (破壊的な変更) 公開を取りやめたと思われるライブラリを一時的に「[Archives](../../archived)」ページに移動。
