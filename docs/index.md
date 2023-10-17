@@ -70,15 +70,6 @@
     - 「[開発者向けの情報](web_app/for_developers)」ページ
         - [RustでAtCoderのログイン認証を通す](https://qiita.com/ppputtyo/items/e724f68eeb912b00290d)
 
-    2023-10-04
-
-    - 「[問題を解く](web_app/solve_problems)」ページ
-        - [AtCoder Search](https://atcoder-search.fjnkt98.com/)
-
-    <div align="center">
-      <img loading = "lazy" src="images/web_app/atcoder_search.png" alt="atcoder search">
-    </div>
-
 === "ユーザスクリプト"
 
     2023-10-09
@@ -91,6 +82,11 @@
     </div>
 
 === "記事"
+
+    2023-10-17
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AJL 学校スコア(上位5校)、個人スコア(上位5人)の推移(10月16日時点)](https://twitter.com/gojira_kyopro/status/1713809087987667255)
 
     2023-10-16
 
