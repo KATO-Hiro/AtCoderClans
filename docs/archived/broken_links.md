@@ -186,6 +186,9 @@ title: リンク切れ
 
 ### レーティング400〜799(茶色)
 
+- [入茶しました[AtCoder]](https://qiita.com/ramen0702/items/8e0f28b09796253b245f) - [missosiru](https://atcoder.jp/users/missosiru)さんが、2022年10月22日に達成。
+    - 確認した日: 2023/10/17
+
 - [【色変記事】社会人がAtCoder茶色になるまで1年半かかりました](https://qiita.com/satouMIMIMI/items/497b22ab2a89a02d5174) - mimimi0414さんが、2023年1月1日に公開。
     - 確認した日: 2023/04/07
 
