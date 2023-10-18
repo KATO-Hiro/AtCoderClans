@@ -6,6 +6,7 @@ title: Change Log
 
 ### 2023-10-18
 
+- [#7071](https://github.com/KATO-Hiro/AtCoderClans/pull/7071) - (破壊的な変更) 更新が停止した可能性が高いと思われるVisual Studio Code 拡張機能を「[Archives](../../archived)」ページに移動。
 - [#7068](https://github.com/KATO-Hiro/AtCoderClans/pull/7068) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
     - [AHC(AtCoder Heuristic Contest)のテスト用スクリプト](https://tayu0110.hatenablog.com/entry/2022/08/14/031726)
 - [#7067](https://github.com/KATO-Hiro/AtCoderClans/pull/7067) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
