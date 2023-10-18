@@ -72,6 +72,15 @@
 
 === "ユーザスクリプト"
 
+    2023-10-18
+
+    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
+        - [AtCoderHeuristicContestBarChart](https://greasyfork.org/ja/scripts/477377-atcoderheuristiccontestbarchart)
+
+    <div align="center">
+      <img loading = "lazy" src="images/userscript/atcoder_heuristic_contest_barchart.png" alt="atcoder heuristic contest barchart">
+    </div>
+
     2023-10-09
 
     - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
@@ -82,6 +91,11 @@
     </div>
 
 === "記事"
+
+    2023-10-18
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AHC(AtCoder Heuristic Contest)のテスト用スクリプト](https://tayu0110.hatenablog.com/entry/2022/08/14/031726)
 
     2023-10-17
 
@@ -139,11 +153,6 @@
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [【競プロ】緑〜水のためのSegmentTree超入門](https://qiita.com/ZOI_dayo/items/f53122c831be78c695bc)
-
-    2023-10-05
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [焼きなまし法での評価関数の打ち切り](https://qiita.com/not522/items/cd20b87157d15850d31c)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
