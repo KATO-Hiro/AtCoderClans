@@ -31,9 +31,3 @@ title: テンプレート・テストケースを用意
     <div align="center">
       <img loading = "lazy" src="../../images/cli/testcase_generator.gif" alt="testcase generator">
     </div>
-
-- [editSampleCase](https://marketplace.visualstudio.com/items?itemName=imomo.editsamplecase) ![GitHub Repo stars](https://img.shields.io/github/stars/imomom/vscodesample?style=plastic) - [online-judge-tools/oj](https://github.com/online-judge-tools/oj)のサンプルデータにテストケースを簡単に追加できる[Visual Studio Code](https://code.visualstudio.com/)の拡張機能。詳しい使い方は、作者の[紹介記事](https://iiiimmmmo.hatenablog.com/entry/2020/12/21/153307)を参照されたい。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/cli/editsamplecase.gif" alt="editsamplecase">
-    </div>
