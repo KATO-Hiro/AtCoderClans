@@ -42,6 +42,18 @@ title: コンテストの成績や関連する統計情報を見る
       <img loading = "lazy" src="../../images/userscript/atcoder_score_histogram.png" alt="atcoder score histogram">
     </div>
 
+- [AtCoderHeuristicContestBarChart](https://greasyfork.org/ja/scripts/477377-atcoderheuristiccontestbarchart) - 「順位表」ページに、各順位の総得点を棒グラフで表示する。[AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=AtCoder+Heuristic+Contest)のみ有効。
+
+    !!! info "参考"
+
+        - 表示されるまでにやや時間を要する。
+
+        - 横軸は順位、縦軸は総得点を表している。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_heuristic_contest_barchart.png" alt="atcoder heuristic contest barchart">
+    </div>
+
 ## 問題に関する統計
 
 ### 難易度(推定)
