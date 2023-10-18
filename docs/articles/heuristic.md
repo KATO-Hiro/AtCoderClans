@@ -43,6 +43,7 @@ title: ヒューリスティック問題を解く
 
 - [ヒューリスティック初心者の取り組み方](https://shu8cream.hatenablog.com/entry/2021/12/18/221429) - ヒューリスティック型コンテストの参加希望者・初心者に向けて、大量の入出力を扱う方法を解説した記事。C++で実装されたサンプルもある。
 - [AHC(AtCoder Heuristic Contest)で、手元で100テストケースを自動で試す(Linux)](https://qiita.com/gengar-094/items/e4918c3cab5c1d096751) - ローカル環境で多数のテストケースを実行する必要性とその方法を解説した記事。
+- [AHC(AtCoder Heuristic Contest)のテスト用スクリプト](https://tayu0110.hatenablog.com/entry/2022/08/14/031726) - 複数のテストを手軽、かつ、高速に実行するためのシェルスクリプトが紹介されている。
 - [AHCで手元で複数ケース実行するためのスクリプト](https://gist.github.com/matsu7874/4be1913ed1b831a1efbfa75b666498c9) - 複数のテストケースを一度に実行して、スコアを集計できるPythonスクリプト。
 
 ## コンテストに参加する
