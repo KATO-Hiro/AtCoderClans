@@ -149,11 +149,6 @@
         - [AtCoderのレート計算式](https://qiita.com/anqooqie/items/92005e337a0d2569bdbd)
         - [【日本語翻訳】Atcoderレーティングの計算](https://qiita.com/karutetto332/items/42c5d710de0b0545cd57)
 
-    2023-10-06
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [【競プロ】緑〜水のためのSegmentTree超入門](https://qiita.com/ZOI_dayo/items/f53122c831be78c695bc)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -172,6 +167,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-10-19
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [okaponta](https://atcoder.jp/users/okaponta)さん - [【色変記事】非情報系エンジニアが青色になりました](https://qiita.com/okaponta_/items/5667dfd9cc232eb3bd65)
 
     2023-10-10
 
