@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-10-19
+
+- [#7078](https://github.com/KATO-Hiro/AtCoderClans/pull/7078) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[okaponta](https://atcoder.jp/users/okaponta)さんの[記事](https://qiita.com/okaponta_/items/5667dfd9cc232eb3bd65)を追加。
+
 ### 2023-10-18
 
 - [#7071](https://github.com/KATO-Hiro/AtCoderClans/pull/7071) - (破壊的な変更) 更新が停止した可能性が高いと思われるVisual Studio Code 拡張機能を「[Archives](../../archived)」ページに移動。
