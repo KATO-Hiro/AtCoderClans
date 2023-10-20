@@ -63,13 +63,6 @@
     - 「[Q1: アルゴリズムや競技プログラミングに興味はありますが、何から始めたらいいですか?](for_beginners/question1)」ページ
         - [AtCoder Daily Training](https://atcoder.jp/contests/adt_top)
 
-=== "Webアプリ・Webサイト"
-
-    2023-10-07
-
-    - 「[開発者向けの情報](web_app/for_developers)」ページ
-        - [RustでAtCoderのログイン認証を通す](https://qiita.com/ppputtyo/items/e724f68eeb912b00290d)
-
 === "ユーザスクリプト"
 
     2023-10-18
@@ -143,12 +136,6 @@
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
         - [【必見】Rust 競プロ環境を一撃で構築する方法を紹介します。](https://www.youtube.com/watch?v=GO5JE7g7AUE)
 
-    2023-10-07
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoderのレート計算式](https://qiita.com/anqooqie/items/92005e337a0d2569bdbd)
-        - [【日本語翻訳】Atcoderレーティングの計算](https://qiita.com/karutetto332/items/42c5d710de0b0545cd57)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -167,6 +154,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-10-20
+
+    - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
+        - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さん - [【色変記事】黄色くなったからいろいろ書く - halcの競プロ精進ブログ](https://halc-kyopro.hatenablog.com/entry/2023/10/19/140719)
 
     2023-10-19
 
