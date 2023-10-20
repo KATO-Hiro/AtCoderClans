@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-10-20
+
+- [#7083](https://github.com/KATO-Hiro/AtCoderClans/pull/7083) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[hirayuu_At](https://atcoder.jp/users/hirayuu_At)さんの[記事](https://halc-kyopro.hatenablog.com/entry/2023/10/19/140719)を追加。
+
 ### 2023-10-19
 
 - [#7078](https://github.com/KATO-Hiro/AtCoderClans/pull/7078) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
