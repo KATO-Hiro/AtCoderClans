@@ -4,6 +4,7 @@ title: レーティング2000〜2399(黄色)
 
 ## 2023年
 
+- [【色変記事】黄色くなったからいろいろ書く - halcの競プロ精進ブログ](https://halc-kyopro.hatenablog.com/entry/2023/10/19/140719) - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さんが、2023年10月7日に達成。
 - [医師がAtCoderで黄色になった話【色変記事】](https://qiita.com/rinmao_catlover/items/587904effdd410134fcd) - [rinmao](https://atcoder.jp/users/rinmao)さんが、2023年7月21日に公開。
 - [入黄するためのABCの戦い方 - seekworserの日記](https://seekworser.hatenablog.com/entry/2023/06/25/120401) - [seekworser](https://atcoder.jp/users/seekworser)さんが、2023年6月24日に達成。
 - [AtCoderで黄色に到達しました - dyktr_06’s blog](https://dyktr-06.hatenablog.com/entry/2023/05/14/180446) - [dyktr_06](https://atcoder.jp/users/dyktr_06)さんが、2023年5月13日に達成。
