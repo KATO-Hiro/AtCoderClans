@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-10-21
+
+- [#7086](https://github.com/KATO-Hiro/AtCoderClans/pull/7086) - 「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
+    - [achapi/CppLibrary](https://github.com/achapi/CppLibrary) ![GitHub Repo stars](https://img.shields.io/github/stars/achapi/CppLibrary?style=plastic)
+
 ### 2023-10-20
 
 - [#7083](https://github.com/KATO-Hiro/AtCoderClans/pull/7083) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
