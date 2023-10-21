@@ -136,20 +136,19 @@
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
         - [【必見】Rust 競プロ環境を一撃で構築する方法を紹介します。](https://www.youtube.com/watch?v=GO5JE7g7AUE)
 
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2023-10-08
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [leaf1415](https://atcoder.jp/users/leaf1415)さん - [はてなブログ](https://leaf1415.hatenablog.com/)
-
 === "動画"
 
     2023-10-11
 
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [blueberry1001](https://www.youtube.com/@blueberry-1001/featured)
+
+=== "ライブラリ・スニペット"
+
+    2023-10-21
+
+    - 「[C++](libraries/cpp)」ページ
+        - [achapi/CppLibrary](https://github.com/achapi/CppLibrary) ![GitHub Repo stars](https://img.shields.io/github/stars/achapi/CppLibrary?style=plastic)
 
 === "色変記事"
 
@@ -169,11 +168,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [yu7400ki](https://atcoder.jp/users/yu7400ki)さん - [【AtCoder】一年と半年、水色になりました。](https://zenn.dev/yu7400ki/articles/bea3e57ac34de1)
-
-    2023-10-08
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [Toncochan](https://atcoder.jp/users/Toncochan)さん - [AtCoder入水記事！！](https://qiita.com/Toncochan/items/a131519f7431f9da0882)
 
 === "国内外のコンテストサイト"
 
