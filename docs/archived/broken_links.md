@@ -208,6 +208,9 @@ title: リンク切れ
 
 ### レーティング1200〜1599(水色)
 
+- [入水記事 - AFKK](https://afkk.hatenablog.com/entry/2023/09/25/180656) - [NEET0321](https://atcoder.jp/users/NEET0321)さんが、2023年9月25日に公開。
+    - 確認した日: 2023/10/22
+
 - [AtCoderで水色になりました！ - bit_kyoproの日記](https://bit-kyopro.hatenablog.com/entry/2021/11/10/202718) - [bit_zentansaku](https://atcoder.jp/users/bit_zentansaku)さんが、2021年11月7日に達成。
     - 確認した日: 2022/03/28
 
