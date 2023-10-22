@@ -65,6 +65,11 @@
 
 === "ユーザスクリプト"
 
+    2023-10-22
+
+    - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
+        - [AtCoder Easy Test v2 のPythonでデフォルトをWandboxにする方法！](https://achapi.hatenablog.jp/entry/2023/10/18/182455)
+
     2023-10-18
 
     - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
@@ -72,15 +77,6 @@
 
     <div align="center">
       <img loading = "lazy" src="images/userscript/atcoder_heuristic_contest_barchart.png" alt="atcoder heuristic contest barchart">
-    </div>
-
-    2023-10-09
-
-    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
-        - [AtCoderVirtualTimer](https://greasyfork.org/ja/scripts/476928-atcodervirtualtimer)
-
-    <div align="center">
-      <img loading = "lazy" src="images/userscript/atcoder_virtual_timer.png" alt="atcoder virtual timer">
     </div>
 
 === "記事"
@@ -130,11 +126,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2023 - 学校ランキング (10月10日時点)](https://twitter.com/atcoder/status/1711587000539853082)
-
-    2023-10-09
-
-    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
-        - [【必見】Rust 競プロ環境を一撃で構築する方法を紹介します。](https://www.youtube.com/watch?v=GO5JE7g7AUE)
 
 === "動画"
 
