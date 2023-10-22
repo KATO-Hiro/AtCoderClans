@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-10-22
+
+- [#7089](https://github.com/KATO-Hiro/AtCoderClans/pull/7089) - 「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../user_scripts/submit_codes)」ページで掲載しているユーザスクリプト[AtCoder Easy Test v2](https://greasyfork.org/ja/scripts/433152-atcoder-easy-test-v2)に関連記事を追加。
+    - [AtCoder Easy Test v2 のPythonでデフォルトをWandboxにする方法！](https://achapi.hatenablog.jp/entry/2023/10/18/182455)
+
 ### 2023-10-21
 
 - [#7086](https://github.com/KATO-Hiro/AtCoderClans/pull/7086) - 「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
