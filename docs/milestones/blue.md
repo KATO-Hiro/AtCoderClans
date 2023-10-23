@@ -4,6 +4,7 @@ title: レーティング1600〜1999(青色)
 
 ## 2023年
 
+- [【入青】 中3がAtCoder青色になるまでにやったこと](https://qiita.com/nouka28/items/447d3d213db78c76268e) - [Thinkingpegasus](https://atcoder.jp/users/Thinkingpegasus)さんが、2023年10月21日に達成。
 - [【色変記事】非情報系エンジニアが青色になりました](https://qiita.com/okaponta_/items/5667dfd9cc232eb3bd65) - [okaponta](https://atcoder.jp/users/okaponta)さんが、2023年10月18日に公開。
 - [入青した！！ - mono_0812のブログ](https://mono-0812.hatenablog.com/entry/20230924/1695517992) - [mono_0812](https://atcoder.jp/users/mono_0812)さんが、2023年9月24日に公開。
 - [入青記事 - あちゃぴのブログ](https://achapi.hatenablog.jp/entry/2023/09/19/225144) - [achapi](https://atcoder.jp/users/achapi)さんが、2023年9月17日に達成。
