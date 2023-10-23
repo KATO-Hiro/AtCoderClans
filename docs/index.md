@@ -122,11 +122,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AJL 高校部門上位40校 (10月10日時点)](https://twitter.com/kiri8128/status/1711744359920812511)
 
-    2023-10-10
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2023 - 学校ランキング (10月10日時点)](https://twitter.com/atcoder/status/1711587000539853082)
-
 === "動画"
 
     2023-10-11
@@ -145,6 +140,14 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
 
+    2023-10-23
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [Thinkingpegasus](https://atcoder.jp/users/Thinkingpegasus)さん - [【入青】 中3がAtCoder青色になるまでにやったこと](https://qiita.com/nouka28/items/447d3d213db78c76268e)
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [MrTired](https://atcoder.jp/users/MrTired)さん - [Fortran vs AtCoder 〜みずいろになれたよ〜](https://qiita.com/osada-yum/items/fdc6ec8ff1436258ed01)
+
     2023-10-20
 
     - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
@@ -154,11 +157,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [okaponta](https://atcoder.jp/users/okaponta)さん - [【色変記事】非情報系エンジニアが青色になりました](https://qiita.com/okaponta_/items/5667dfd9cc232eb3bd65)
-
-    2023-10-10
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [yu7400ki](https://atcoder.jp/users/yu7400ki)さん - [【AtCoder】一年と半年、水色になりました。](https://zenn.dev/yu7400ki/articles/bea3e57ac34de1)
 
 === "国内外のコンテストサイト"
 
