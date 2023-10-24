@@ -81,6 +81,12 @@
 
 === "記事"
 
+    2023-10-24
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2023 - 学校ランキング (10月23日時点)](https://twitter.com/atcoder/status/1716318742169477574)
+        - [AJL 高校部門上位40校 (10月23日時点)](https://twitter.com/kiri8128/status/1716453617291690065)
+
     2023-10-18
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -113,21 +119,6 @@
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
         - [社内ヒューリスティックコンテスト@アルゴ合宿2023 開催レポート](https://media.algo-artis.com/posts/bN4vP1cR)
-
-    2023-10-11
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [rhooさんによるヒューリスティックコンテストの汎用テクニック集](https://github.com/rhoo19937/p/blob/main/tech/.md)
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AJL 高校部門上位40校 (10月10日時点)](https://twitter.com/kiri8128/status/1711744359920812511)
-
-=== "動画"
-
-    2023-10-11
-
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [blueberry1001](https://www.youtube.com/@blueberry-1001/featured)
 
 === "ライブラリ・スニペット"
 
