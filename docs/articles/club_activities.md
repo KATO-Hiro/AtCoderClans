@@ -46,4 +46,4 @@ title: 部活・サークル・同好会・オンサイトイベントに参加�
 <!-- markdown-link-check-enable -->
 
 - [CodeQUEEN2023でスポンサーをしたり優勝したりした話](https://www.forcia.com/blog/002760.html) - [CodeQUEEN 2023 決勝](https://atcoder.jp/contests/codequeen2023-final-open)に、個人と会社の両方の立場からイベントの参加内容を報告している記事。スポンサー参加までの経緯やコンテストの振り返りだけでなく、同イベントから高校生のインターンの受け入れと実務的な成果につながったことも言及されている。
-    - [CodeQUEEN2023決勝に出場しました！](https://ayuna-stpyko.github.io/my_blog/archive/20231023.html)
+    - [CodeQUEEN2023決勝に出場しました！](https://ayuna-stpyko.github.io/my_blog/archive/20231023.html)、[女性オンリーオンサイトイベント【CodeQUEEN 2023】に参加した話](https://d-burioden.hateblo.jp/entry/2023/10/23/220439) - 同イベントの参加記。オンサイトイベントへの参加決定までの経緯・コンテストの振り返り・各種イベント・オフ会などについてまとめられている。
