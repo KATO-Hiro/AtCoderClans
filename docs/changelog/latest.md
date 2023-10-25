@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-10-25
+
+- [#7115](https://github.com/KATO-Hiro/AtCoderClans/pull/7115)、[#7116](https://github.com/KATO-Hiro/AtCoderClans/pull/7116) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
+    - [CodeQUEEN2023決勝に出場しました！](https://ayuna-stpyko.github.io/my_blog/archive/20231023.html)
+    - [女性オンリーオンサイトイベント【CodeQUEEN 2023】に参加した話](https://d-burioden.hateblo.jp/entry/2023/10/23/220439)
+
 ### 2023-10-24
 
 - [#7109](https://github.com/KATO-Hiro/AtCoderClans/pull/7109)、[#7110](https://github.com/KATO-Hiro/AtCoderClans/pull/7110) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。

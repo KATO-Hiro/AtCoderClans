@@ -48,14 +48,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "ホーム"
-
-    2023-10-12
-
-    本サービスのスポンサーを掲載(敬称略)。ご支援いただき、ありがとうございます。
-
-    - [toshi201](https://github.com/toshi201)
-
 === "入門者・初心者向けの内容"
 
     2023-10-14
@@ -80,6 +72,12 @@
     </div>
 
 === "記事"
+
+    2023-10-25
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [CodeQUEEN2023決勝に出場しました！](https://ayuna-stpyko.github.io/my_blog/archive/20231023.html)
+        - [女性オンリーオンサイトイベント【CodeQUEEN 2023】に参加した話](https://d-burioden.hateblo.jp/entry/2023/10/23/220439)
 
     2023-10-24
 
@@ -114,11 +112,6 @@
 
     - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
         - [Go言語による各種データ構造の扱い方(やや競プロer向け)](https://zenn.dev/smartshopping/articles/5feb3666ba40b2)
-
-    2023-10-12
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-        - [社内ヒューリスティックコンテスト@アルゴ合宿2023 開催レポート](https://media.algo-artis.com/posts/bN4vP1cR)
 
 === "ライブラリ・スニペット"
 
