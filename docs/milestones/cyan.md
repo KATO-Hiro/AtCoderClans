@@ -4,6 +4,7 @@ title: レーティング1200〜1599(水色)
 
 ## 2023年
 
+- [50代半ばでAtCoder入水しました](https://qiita.com/tosh55/items/4153942b4bac39e0e5a8) - [tosh55](https://atcoder.jp/users/tosh55)さんが、2023年10月25日に公開。
 - [Fortran vs AtCoder 〜みずいろになれたよ〜](https://qiita.com/osada-yum/items/fdc6ec8ff1436258ed01) - [MrTired](https://atcoder.jp/users/MrTired)さんが、2023年10月22日に公開。
 - [AtCoder入水記事！！](https://qiita.com/Toncochan/items/a131519f7431f9da0882) - [Toncochan](https://atcoder.jp/users/Toncochan)さんが、2023年10月7日に公開。
 - [【AtCoder】一年と半年、水色になりました。](https://zenn.dev/yu7400ki/articles/bea3e57ac34de1) - [yu7400ki](https://atcoder.jp/users/yu7400ki)さんが、2023年9月30日に達成。
