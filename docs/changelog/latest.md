@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-10-26
+
+- [#7127](https://github.com/KATO-Hiro/AtCoderClans/pull/7127) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[tosh55](https://atcoder.jp/users/tosh55)さんの[記事](https://qiita.com/tosh55/items/4153942b4bac39e0e5a8)を追加。
+- [#7126](https://github.com/KATO-Hiro/AtCoderClans/pull/7126) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [AtCoder Heuristic Contest 025参加記](https://kaede2020.hatenablog.com/entry/2023/10/22/195315)
+
 ### 2023-10-25
 
 - [#7115](https://github.com/KATO-Hiro/AtCoderClans/pull/7115)、[#7116](https://github.com/KATO-Hiro/AtCoderClans/pull/7116) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。

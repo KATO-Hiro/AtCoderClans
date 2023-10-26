@@ -73,6 +73,11 @@
 
 === "記事"
 
+    2023-10-26
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AtCoder Heuristic Contest 025参加記](https://kaede2020.hatenablog.com/entry/2023/10/22/195315)
+
     2023-10-25
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
@@ -108,11 +113,6 @@
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [ソースコードを見て計算量を下から抑えるのは怪しいという話](https://rsk0315.hatenablog.com/entry/2023/09/17/193635)
 
-    2023-10-13
-
-    - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
-        - [Go言語による各種データ構造の扱い方(やや競プロer向け)](https://zenn.dev/smartshopping/articles/5feb3666ba40b2)
-
 === "ライブラリ・スニペット"
 
     2023-10-21
@@ -123,6 +123,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-10-26
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [tosh55](https://atcoder.jp/users/tosh55)さん - [50代半ばでAtCoder入水しました](https://qiita.com/tosh55/items/4153942b4bac39e0e5a8)
 
     2023-10-23
 
