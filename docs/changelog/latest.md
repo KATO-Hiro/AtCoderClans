@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-10-27
+
+- [#7131](https://github.com/KATO-Hiro/AtCoderClans/pull/7131) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[chimaki821](https://atcoder.jp/users/chimaki821)さんの[記事](https://qiita.com/chimaki821/items/eb76c042954f725b3bbc)を追加。
+- [#7130](https://github.com/KATO-Hiro/AtCoderClans/pull/7130) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページに、以下のWebサイトを追加。
+    - [ahc_standings](https://img.atcoder.jp/ahc_standings/index.html?contest=ahc025)
+
 ### 2023-10-26
 
 - [#7127](https://github.com/KATO-Hiro/AtCoderClans/pull/7127) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
