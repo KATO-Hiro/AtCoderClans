@@ -48,12 +48,16 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "入門者・初心者向けの内容"
+=== "Webアプリ・Webサイト"
 
-    2023-10-14
+    2023-10-27
 
-    - 「[Q1: アルゴリズムや競技プログラミングに興味はありますが、何から始めたらいいですか?](for_beginners/question1)」ページ
-        - [AtCoder Daily Training](https://atcoder.jp/contests/adt_top)
+    - 「[コンテストに関する統計情報](web_app/statistics)」ページ
+        - [ahc_standings](https://img.atcoder.jp/ahc_standings/index.html?contest=ahc025)
+
+    <div align="center">
+      <img loading = "lazy" src="images/web_app/ahc_standings.png" alt="ahc standings">
+    </div>
 
 === "ユーザスクリプト"
 
@@ -105,14 +109,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2023 - 学校ランキング (10月16日時点)](https://twitter.com/atcoder/status/1713793122206175428)
 
-    2023-10-14
-
-    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
-        - [AtCoder Daily Training](https://atcoder.jp/contests/adt_top)
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [ソースコードを見て計算量を下から抑えるのは怪しいという話](https://rsk0315.hatenablog.com/entry/2023/09/17/193635)
-
 === "ライブラリ・スニペット"
 
     2023-10-21
@@ -123,6 +119,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-10-27
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [chimaki821](https://atcoder.jp/users/chimaki821)さん - [【AtCoder】プログラミング未経験からのんびり続けて青コーダーになった話](https://qiita.com/chimaki821/items/eb76c042954f725b3bbc)
 
     2023-10-26
 
