@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-10-28
+
+- [#7135](https://github.com/KATO-Hiro/AtCoderClans/pull/7135) - 「[Scripts](../../scripts)」の「[Webページに色付けする](../../user_scripts/colors)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Error Colorizer](https://greasyfork.org/ja/scripts/478281-atcoder-error-colorizer)
+
 ### 2023-10-27
 
 - [#7131](https://github.com/KATO-Hiro/AtCoderClans/pull/7131) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

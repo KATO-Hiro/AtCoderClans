@@ -61,6 +61,15 @@
 
 === "ユーザスクリプト"
 
+    2023-10-28
+
+    - 「[Webページに色付けする](user_scripts/colors)」ページ
+        - [AtCoder Error Colorizer](https://greasyfork.org/ja/scripts/478281-atcoder-error-colorizer)
+
+    <div align="center">
+      <img loading = "lazy" src="images/userscript/atcoder_error_colorizer.png" alt="atcoder error colorizer">
+    </div>
+
     2023-10-22
 
     - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
@@ -147,17 +156,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [okaponta](https://atcoder.jp/users/okaponta)さん - [【色変記事】非情報系エンジニアが青色になりました](https://qiita.com/okaponta_/items/5667dfd9cc232eb3bd65)
-
-=== "国内外のコンテストサイト"
-
-    2023-10-15
-
-    - 「[パズル・クイズ系コンテスト](related_contest_sites/puzzle_quiz)」ページ
-        - [正規表現パズル](https://gametsukurukun.com/regexp-puzzle/)
-
-    <div align="center">
-      <img loading = "lazy" src="images/related_contest_sites/regexp_puzzle/regexp_puzzle.png" alt="regexp puzzle">
-    </div>
 
 ## AtCoder公式グッズを購入する
 
