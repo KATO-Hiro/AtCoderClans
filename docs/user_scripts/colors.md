@@ -99,6 +99,14 @@ Webページの背景色の変更や文字・提出コード・問題の正誤�
       <img loading = "lazy" src="../../images/userscript/atcoder_tasks_page_colorize_during_contests.png" alt="atcoder tasks page colorize during contests">
     </div>
 
+### 正解・不正解以外の状態を識別しやすく
+
+- [AtCoder Error Colorizer](https://greasyfork.org/ja/scripts/478281-atcoder-error-colorizer) - 「提出結果」ページで、正解(AC)・不正解(WA)以外を表す状態の背景色を変更できる。スクリプトを直接書き換えることで、任意の色を指定することも可能。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_error_colorizer.png" alt="atcoder error colorizer">
+    </div>
+
 ## コンテストの成績に応じて色付け・アイコンの追加
 
 ### 複数のページ
