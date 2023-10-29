@@ -186,6 +186,9 @@ title: リンク切れ
 
 ### レーティング400〜799(茶色)
 
+- [【初投稿】AtCoder茶色になりました](https://note.com/kikka_mfybyr/n/n864aeb594ab1) - [Mafuyu](https://atcoder.jp/users/Mafuyu)さんが、2023年2月4日に達成。
+    - 確認した日: 2023/10/29
+
 - [入茶しました[AtCoder]](https://qiita.com/ramen0702/items/8e0f28b09796253b245f) - [missosiru](https://atcoder.jp/users/missosiru)さんが、2022年10月22日に達成。
     - 確認した日: 2023/10/17
 

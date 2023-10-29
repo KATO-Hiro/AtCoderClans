@@ -20,7 +20,6 @@ title: レーティング400〜799(茶色)
 - [34歳おじさんがAtCoder茶色になりました。](https://qiita.com/purupurupu/items/ea48b0e4e8b3a78eb524) - [purupurupu](https://atcoder.jp/users/purupurupu)さんが、2023年3月4日に達成。
 - [AtCoder入茶 - fu’s blog](https://fuuukeee3.hatenadiary.jp/entry/2023/02/27/212807) - [fuuukeee3](https://atcoder.jp/users/fuuukeee3)さんが、2023年2月26日に達成。
 - [去年の1月に冪乗を知らなかった社会人がABC289で再入茶しました！ながい… - 成長観察日記](https://d-burioden.hateblo.jp/entry/2023/02/12/195543) - [burioden](https://atcoder.jp/users/burioden)さんが、2023年2月11日に達成。
-- [【初投稿】AtCoder茶色になりました](https://note.com/kikka_mfybyr/n/n864aeb594ab1) - [Mafuyu](https://atcoder.jp/users/Mafuyu)さんが、2023年2月4日に達成。
 - [数弱の弱弱高校生が50回かけて入茶した話](https://qiita.com/Sapph/items/3e97bbaaa14ef0256a05) - [Mizi3405](https://atcoder.jp/users/Mizi3405)さんが、2023年1月30日に公開。
 - [還暦爺がAtCoderにPascalで挑戦まずは入茶](https://qiita.com/kenken2go/items/b697e712914a67cf552b) - [kenken2go](https://atcoder.jp/users/kenken2go)さんが、2023年1月28日に達成。
 - [AtCoder茶色になりました。(Python) - おじろのブログ](https://ozro-223.hatenablog.com/entry/2023/01/16/151714) - [ozro223](https://atcoder.jp/users/ozro223)さんが、2023年1月15日に達成。
