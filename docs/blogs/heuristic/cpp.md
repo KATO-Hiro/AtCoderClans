@@ -29,6 +29,7 @@ title: C&#43;&#43;
 |ats5515|[はてなブログ](https://ats5515.hatenablog.com/)||
 |bin101|[はてなブログ](https://bin101.hatenablog.com/)||
 |gasin|[はてなブログ](https://gasin.hatenadiary.jp/)||
+|hamamu|[Qiita](https://qiita.com/hamamu)||
 |heno239|[はてなブログ](https://heno239.hatenablog.com/)||
 |iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
 |kozima|[はてなブログ](https://lkozima.hatenablog.com/)||
@@ -38,6 +39,7 @@ title: C&#43;&#43;
 |risujiroh|[はてなブログ](https://risujiroh.hatenablog.com/)||
 |shibh308|[はてなブログ](https://shibh308.hatenablog.com/)||
 |siman|[はてなブログ](https://simanman.hatenablog.com/)||
+|ValGrowth|[はてなブログ](https://valgrowth.hatenablog.com/archive)||
 |wanui|[Zenn](https://zenn.dev/gmeriaog)||
 |yunix|[はてなブログ](https://yunix-kyopro.hatenablog.com/)||
 
@@ -50,7 +52,6 @@ title: C&#43;&#43;
 |E869120|[はてなブログ](https://e869120.hatenablog.com/)、[Qiita](https://qiita.com/e869120)||
 |ebicochineal|[自作ブログ](http://ebicochineal.blogspot.com/)||
 |hakomo|[はてなブログ](https://hakomof.hatenablog.com/)||
-|hamamu|[Qiita](https://qiita.com/hamamu)||
 |hari64|[Qiita](https://qiita.com/hari64)||
 |hirokazu1020|[はてなブログ](https://hirokazu1020.hatenablog.com/)||
 |hitoare|[はてなブログ](https://hitoare.hatenablog.com/)||
@@ -79,5 +80,4 @@ title: C&#43;&#43;
 |tokoharu|[はてなブログ](https://tokoharuland.hateblo.jp/)|2020年1月以降、新規の記事を確認できず。|
 |Trineutron|[Qiita](https://qiita.com/trineutron)||
 |tsukasa_diary|[Qiita](https://qiita.com/tsukasa__diary)||
-|ValGrowth|[はてなブログ](https://valgrowth.hatenablog.com/archive)||
 |YamagenSakam|[はてなブログ](https://yamagensakam.hatenablog.com/)||

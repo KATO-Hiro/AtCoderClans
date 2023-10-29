@@ -17,5 +17,6 @@ title: Python
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
+|cozy_sauna|[Qiita](https://qiita.com/cozy_sauna/)||
 |Kiri8128|[はてなブログ](https://kiri8128.hatenablog.com/)||
 |titia|[Blogger](https://titianote.blogspot.com/)||
