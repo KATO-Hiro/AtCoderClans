@@ -113,10 +113,20 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AJL 学校スコア(上位5校)、個人スコア(上位5人)の推移(10月16日時点)](https://twitter.com/gojira_kyopro/status/1713809087987667255)
 
-    2023-10-16
+=== "ブログ"
+    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2023 - 学校ランキング (10月16日時点)](https://twitter.com/atcoder/status/1713793122206175428)
+    2023-10-29
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [US_cube](https://atcoder.jp/users/US_cube)さん - [はてなブログ](https://uscube.hatenablog.com/)
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [hamamu](https://atcoder.jp/users/hamamu)さん - [Qiita](https://qiita.com/hamamu)
+        - [ValGrowth](https://atcoder.jp/users/ValGrowth)さん - [はてなブログ](https://valgrowth.hatenablog.com/archive)
+
+    - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
+        - [cozy_sauna](https://atcoder.jp/users/cozy_sauna)さん - [Qiita](https://qiita.com/cozy_sauna/)
 
 === "ライブラリ・スニペット"
 
