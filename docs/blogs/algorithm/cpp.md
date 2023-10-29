@@ -183,6 +183,7 @@ title: C&#43;&#43;
 |TumoiYorozu|[Qiita](https://qiita.com/TumoiYorozu)||
 |unos|[はてなブログ](https://unosss.hatenablog.com/)||
 |unsre|[はてなブログ](https://kanki2rui.hatenablog.jp/)||
+|US_cube|[はてなブログ](https://uscube.hatenablog.com/)||
 |veqcc|[はてなブログ](https://veqcc.hatenablog.jp/)|2019年9月以降、新規の記事を確認できず。|
 |wisteria0410ss|[Qiita](https://qiita.com/wisteria0410ss)|2018年10月以降、新規の記事を確認できず。|
 |wotsushi|[Qiita](https://qiita.com/wotsushi)|2020年1月以降、新規の記事を確認できず。|
