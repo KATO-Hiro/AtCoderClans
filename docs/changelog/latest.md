@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-10-30
+
+- [#7151](https://github.com/KATO-Hiro/AtCoderClans/pull/7151) - 「[Scripts](../../scripts)」の「[ネタスクリプト](../../user_scripts/jokes)」ページに、以下のユーザスクリプトを追加。
+    - [AC Custom](https://greasyfork.org/ja/scripts/478609-ac-custom)
+- [#7150](https://github.com/KATO-Hiro/AtCoderClans/pull/7150) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AtCoder Junior League 2023 - 学校ランキング (10月30日時点)](https://twitter.com/atcoder/status/1718845595371319578)
+
 ### 2023-10-29
 
 - [#7143](https://github.com/KATO-Hiro/AtCoderClans/pull/7143) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加・更新。

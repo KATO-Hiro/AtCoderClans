@@ -61,6 +61,15 @@
 
 === "ユーザスクリプト"
 
+    2023-10-30
+
+    - 「[ネタスクリプト](user_scripts/jokes)」ページ
+        - [AC Custom](https://greasyfork.org/ja/scripts/478609-ac-custom)
+
+    <div align="center">
+      <img loading = "lazy" src="images/userscript/ac_custom.png" alt="ac custom">
+    </div>
+
     2023-10-28
 
     - 「[Webページに色付けする](user_scripts/colors)」ページ
@@ -86,6 +95,11 @@
 
 === "記事"
 
+    2023-10-30
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2023 - 学校ランキング (10月30日時点)](https://twitter.com/atcoder/status/1718845595371319578)
+
     2023-10-26
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -107,11 +121,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AHC(AtCoder Heuristic Contest)のテスト用スクリプト](https://tayu0110.hatenablog.com/entry/2022/08/14/031726)
-
-    2023-10-17
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AJL 学校スコア(上位5校)、個人スコア(上位5人)の推移(10月16日時点)](https://twitter.com/gojira_kyopro/status/1713809087987667255)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
