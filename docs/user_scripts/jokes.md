@@ -20,6 +20,12 @@ AtCoderにおける流行語などをヒントに作成されたスクリプト�
       <img loading = "lazy" src="../../images/userscript/ac_sonomasakadayo.png" alt="ac search old languages">
     </div>
 
+- [AC Custom](https://greasyfork.org/ja/scripts/478609-ac-custom) - 「提出結果」ページの「自分の提出」で、AC (Accepted)・WA (Wrong Answer)・TLE (Time Limit Exceeded)の表記を変更できる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/ac_custom.png" alt="ac custom">
+    </div>
+
 - [AtCoder-ngtkanaResult](https://greasyfork.org/ja/scripts/416384-atcoder-ngtkanaresult) - 「提出結果」ページの「結果」を[ngtkana](https://atcoder.jp/users/ngtkana)さんの言葉に置き換える。
 
     !!! warning "注意"
