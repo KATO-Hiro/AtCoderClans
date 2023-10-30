@@ -52,7 +52,7 @@ title: C&#43;&#43;
 |sugim48|[はてなブログ](https://sugim48.hatenadiary.org/)|2014年11月以降、新規の記事を確認できず。|
 |tatyam|[はてなブログ](https://tatyam.hatenablog.com/)、[Qiita](https://qiita.com/tatyam)||
 |tempura0224|[はてなブログ](https://tempura0224.hatenablog.com/)||
-|Tiramister|[はてなブログ](https://tiramistercp.hatenablog.com/)||
+|Tiramister|[はてなブログ](https://blog.tiramister.net/)||
 |tozangezan|[はてなブログ](https://tozangezan.hatenablog.com/)||
 |WA_TLE|[はてなブログ](https://watle.hatenablog.com/)|2019年1月以降、新規の記事を確認できず。|
 |yosupo|[はてなブログ](https://yosupo.hatenablog.com/)||
