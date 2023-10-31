@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-10-31
+
+- [#7156](https://github.com/KATO-Hiro/AtCoderClans/pull/7156) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[totosuki](https://atcoder.jp/users/totosuki)さんの[記事](https://qiita.com/Totosuki/items/cc98efbd260c76635cc5)を追加。
+
 ### 2023-10-30
 
 - [#7151](https://github.com/KATO-Hiro/AtCoderClans/pull/7151) - 「[Scripts](../../scripts)」の「[ネタスクリプト](../../user_scripts/jokes)」ページに、以下のユーザスクリプトを追加。

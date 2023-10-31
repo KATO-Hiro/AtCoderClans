@@ -84,15 +84,6 @@
     - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
         - [AtCoder Easy Test v2 のPythonでデフォルトをWandboxにする方法！](https://achapi.hatenablog.jp/entry/2023/10/18/182455)
 
-    2023-10-18
-
-    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
-        - [AtCoderHeuristicContestBarChart](https://greasyfork.org/ja/scripts/477377-atcoderheuristiccontestbarchart)
-
-    <div align="center">
-      <img loading = "lazy" src="images/userscript/atcoder_heuristic_contest_barchart.png" alt="atcoder heuristic contest barchart">
-    </div>
-
 === "記事"
 
     2023-10-30
@@ -116,11 +107,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2023 - 学校ランキング (10月23日時点)](https://twitter.com/atcoder/status/1716318742169477574)
         - [AJL 高校部門上位40校 (10月23日時点)](https://twitter.com/kiri8128/status/1716453617291690065)
-
-    2023-10-18
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AHC(AtCoder Heuristic Contest)のテスト用スクリプト](https://tayu0110.hatenablog.com/entry/2022/08/14/031726)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -147,6 +133,12 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-10-31
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+         - [totosuki](https://atcoder.jp/users/totosuki)さん - [【AtCoder】Pythonで入緑しました！！](https://qiita.com/Totosuki/items/cc98efbd260c76635cc5)
+
 
     2023-10-27
 
