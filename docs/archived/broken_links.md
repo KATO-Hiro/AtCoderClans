@@ -263,6 +263,17 @@ title: リンク切れ
 
 - [Topcoder ARENA (Applet)](https://www.topcoder.com/contest/arena/ContestAppletProd7.2.jnlp) - 過去問を解くときに必要なアプリをダウンロードするためのリンク。
 
+### Wind Bel Contest
+
+- [Wind Bel Contest](https://mario.exout.net/contests/) - テーマ別のコンテストが不定期に開催されている。
+
+    !!! warning "注意"
+        [AtCoder](https://atcoder.jp/)とは、提出方法やSNSへの書き込みのルールが異なるため、事前の確認を推奨。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/wind_bel_contest/wind_bel_contest.png" alt="wind bel contest">
+    </div>
+
 ### 数学系コンテスト
 
 - [入試数学コンテスト](https://manabitimes.jp/tests) - 数学の入試対策ができるコンテストサイト。
