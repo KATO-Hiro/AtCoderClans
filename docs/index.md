@@ -50,6 +50,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2023-11-01
+
+    - 「[問題を解く](web_app/solve_problems)」ページ
+        - [AtCoderBlogs](https://atcoder-blogs.jp)
+
+    <div align="center">
+      <img loading = "lazy" src="images/web_app/atcoder_blogs.jpeg" alt="atcoder blogs">
+    </div>
+
     2023-10-27
 
     - 「[コンテストに関する統計情報](web_app/statistics)」ページ
@@ -162,11 +171,6 @@
 
     - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
         - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さん - [【色変記事】黄色くなったからいろいろ書く - halcの競プロ精進ブログ](https://halc-kyopro.hatenablog.com/entry/2023/10/19/140719)
-
-    2023-10-19
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [okaponta](https://atcoder.jp/users/okaponta)さん - [【色変記事】非情報系エンジニアが青色になりました](https://qiita.com/okaponta_/items/5667dfd9cc232eb3bd65)
 
 ## AtCoder公式グッズを購入する
 
