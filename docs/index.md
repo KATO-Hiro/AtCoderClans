@@ -134,6 +134,11 @@
 
 === "ライブラリ・スニペット"
 
+    2023-11-02
+
+    - 「[C++](libraries/cpp)」ページ
+        - [UScuber/Algorithm-Library](https://github.com/UScuber/Algorithm-Library) ![GitHub stars](https://img.shields.io/github/stars/UScuber/Algorithm-Library?style=plastic)
+
     2023-10-21
 
     - 「[C++](libraries/cpp)」ページ
