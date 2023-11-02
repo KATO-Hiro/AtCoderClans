@@ -134,6 +134,11 @@
 
 === "ライブラリ・スニペット"
 
+    2023-11-02
+
+    - 「[C++](libraries/cpp)」ページ
+        - [UScuber/Algorithm-Library](https://github.com/UScuber/Algorithm-Library) ![GitHub stars](https://img.shields.io/github/stars/UScuber/Algorithm-Library?style=plastic)
+
     2023-10-21
 
     - 「[C++](libraries/cpp)」ページ
@@ -166,11 +171,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [MrTired](https://atcoder.jp/users/MrTired)さん - [Fortran vs AtCoder 〜みずいろになれたよ〜](https://qiita.com/osada-yum/items/fdc6ec8ff1436258ed01)
-
-    2023-10-20
-
-    - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
-        - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さん - [【色変記事】黄色くなったからいろいろ書く - halcの競プロ精進ブログ](https://halc-kyopro.hatenablog.com/entry/2023/10/19/140719)
 
 ## AtCoder公式グッズを購入する
 
