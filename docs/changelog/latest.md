@@ -6,8 +6,8 @@ title: Change Log
 
 ### 2023-11-03
 
-- [#6973](https://github.com/KATO-Hiro/AtCoderClans/pull/6973) - (破壊的な変更) 「[Change Log](../latest)」ページの2023年9月分を月別のアーカイブに移動。
-    - [August, 2023](../2023_09)
+- [#7172](https://github.com/KATO-Hiro/AtCoderClans/pull/7172) - (破壊的な変更) 「[Change Log](../latest)」ページの2023年9月分を月別のアーカイブに移動。
+    - [September, 2023](../2023_09)
 
 ### 2023-11-02
 
