@@ -88,12 +88,18 @@
       <img loading = "lazy" src="images/userscript/atcoder_error_colorizer.png" alt="atcoder error colorizer">
     </div>
 
-    2023-10-22
-
-    - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
-        - [AtCoder Easy Test v2 のPythonでデフォルトをWandboxにする方法！](https://achapi.hatenablog.jp/entry/2023/10/18/182455)
-
 === "記事"
+
+    2023-11-04
+
+    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
+        - [競技プログラミングの環境構築 [VSCode+WSL+AtCoder Library]【ゆっくり解説】](https://www.youtube.com/watch?v=uhnASau7fB4)
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [【問題集】フローの入門](https://drken1215.hatenablog.com/archive/category/%E3%80%90%E5%95%8F%E9%A1%8C%E9%9B%86%E3%80%91%E3%83%95%E3%83%AD%E3%83%BC%E3%81%AE%E5%85%A5%E9%96%80)
+
+    - 「[競技プログラミングと就転職](articles/jobs)」ページ
+        - [「AtCoder 競技プログラマー就職企業人気ランキング2023」を発表](https://prtimes.jp/main/html/rd/p/000000039.000028415.html)
 
     2023-10-30
 

@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-11-04
+
+- [#7177](https://github.com/KATO-Hiro/AtCoderClans/pull/7177) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の動画を追加。
+    - [競技プログラミングの環境構築 [VSCode+WSL+AtCoder Library]【ゆっくり解説】](https://www.youtube.com/watch?v=uhnASau7fB4)
+- [#7176](https://github.com/KATO-Hiro/AtCoderClans/pull/7176) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の問題集を追加。
+    - [【問題集】フローの入門](https://drken1215.hatenablog.com/archive/category/%E3%80%90%E5%95%8F%E9%A1%8C%E9%9B%86%E3%80%91%E3%83%95%E3%83%AD%E3%83%BC%E3%81%AE%E5%85%A5%E9%96%80)
+- [#7175](https://github.com/KATO-Hiro/AtCoderClans/pull/7175) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
+    - [「AtCoder 競技プログラマー就職企業人気ランキング2023」を発表](https://prtimes.jp/main/html/rd/p/000000039.000028415.html)
+
 ### 2023-11-03
 
 - [#7172](https://github.com/KATO-Hiro/AtCoderClans/pull/7172) - (破壊的な変更) 「[Change Log](../latest)」ページの2023年9月分を月別のアーカイブに移動。
