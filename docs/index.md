@@ -90,6 +90,11 @@
 
 === "記事"
 
+    2023-11-05
+
+    - 「[情報オリンピック](related_contest_sites/joi_ioi)」ページ
+        - [国際情報オリンピック2023 参加記](https://qiita.com/black-yuki/items/10b297ffe486cd36cd8a)
+
     2023-11-04
 
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
@@ -164,14 +169,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [tosh55](https://atcoder.jp/users/tosh55)さん - [50代半ばでAtCoder入水しました](https://qiita.com/tosh55/items/4153942b4bac39e0e5a8)
-
-    2023-10-23
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [Thinkingpegasus](https://atcoder.jp/users/Thinkingpegasus)さん - [【入青】 中3がAtCoder青色になるまでにやったこと](https://qiita.com/nouka28/items/447d3d213db78c76268e)
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [MrTired](https://atcoder.jp/users/MrTired)さん - [Fortran vs AtCoder 〜みずいろになれたよ〜](https://qiita.com/osada-yum/items/fdc6ec8ff1436258ed01)
 
 ## AtCoder公式グッズを購入する
 
