@@ -96,6 +96,7 @@ title: 情報オリンピック
 - [IOI2020 参加記](https://drive.google.com/file/d/1UOFW6Vtxz5S5hWBK78swQg368F6L15kp/view) - [E869120](https://atcoder.jp/users/E869120)さんによる第32回国際情報オリンピック(IOI2020)の参加記。「金メダルを確実に取る」という観点から、本番での立ち回りが詳細に解説されている。また、筆者が5年間の競技生活を通して得た経験は、後進に勇気と希望を与えてくれる内容だと思われる。
 - [国際情報オリンピック (IOI 2020) 参加記 ~ 情報オリンピックへの感謝の気持ちを込めて ~](https://drive.google.com/file/d/1NGhlPCmRadq8j2oNeFmH4LfPiooI7H_1/view) - [square1001](https://atcoder.jp/users/square1001)さんによる第32回国際情報オリンピック(IOI2020)の参加記。部分点を確実に取りながら、満点を目指す戦略が詳しく解説されている。また、筆者が大会に参加するまでの過程や競技プログラミングを通して得られた経験には、後進にとって有益な情報が多く含まれていると思われる。
 - [IOI2023 参加記 - Kodaman のメモ](https://kodaman.hatenablog.com/entry/2023/09/10/160836) - [KoD](https://atcoder.jp/users/KoD)さんによる第35回国際情報オリンピック(IOI 2023)参加記。コンテストの戦略・思考過程を中心に振り返っている。
+- [国際情報オリンピック2023 参加記](https://qiita.com/black-yuki/items/10b297ffe486cd36cd8a) - [blackyuki](https://atcoder.jp/users/blackyuki)さんによる第35回国際情報オリンピック(IOI 2023)参加記。コンテストの対策・戦略・思考過程を振り返っている。
 
 ## EGOI (European Girls’ Olympiad in Informatics)
 
