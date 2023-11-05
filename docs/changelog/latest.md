@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-11-05
+
+- [#7182](https://github.com/KATO-Hiro/AtCoderClans/pull/7182) - 「[Related Contest Sites](../../related_contest_sites)」の「[情報オリンピック](../../related_contest_sites/joi_ioi)」ページに、以下の記事を追加。
+    - [国際情報オリンピック2023 参加記](https://qiita.com/black-yuki/items/10b297ffe486cd36cd8a)
+
 ### 2023-11-04
 
 - [#7177](https://github.com/KATO-Hiro/AtCoderClans/pull/7177) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の動画を追加。
