@@ -96,7 +96,12 @@
         - [二部グラフ判定をUnionFindTreeで行う](https://noshi91.hatenablog.com/entry/2018/04/17/183132)
 
     - 「[競技プログラミングと就転職](articles/jobs)」ページ
+
+        <!-- markdown-link-check-disable -->
+
         - [とある競技プログラマーの1年](https://www.estie.jp/blog/entry/2023/11/06/174536)
+
+        <!-- markdown-link-check-enable -->
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2023 - 学校ランキング (11月6日時点)](https://twitter.com/atcoder/status/1721379697609855201)

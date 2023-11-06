@@ -9,7 +9,13 @@ title: Change Log
 - [#7191](https://github.com/KATO-Hiro/AtCoderClans/pull/7191) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
     - [二部グラフ判定をUnionFindTreeで行う](https://noshi91.hatenablog.com/entry/2018/04/17/183132)
 - [#7190](https://github.com/KATO-Hiro/AtCoderClans/pull/7190) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
+
+    <!-- markdown-link-check-disable -->
+
     - [とある競技プログラマーの1年](https://www.estie.jp/blog/entry/2023/11/06/174536)
+
+    <!-- markdown-link-check-enable -->
+
 - [#7189](https://github.com/KATO-Hiro/AtCoderClans/pull/7189) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
     - [AtCoder Junior League 2023 - 学校ランキング (11月6日時点)](https://twitter.com/atcoder/status/1721379697609855201)
 
