@@ -90,6 +90,17 @@
 
 === "記事"
 
+    2023-11-06
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [二部グラフ判定をUnionFindTreeで行う](https://noshi91.hatenablog.com/entry/2018/04/17/183132)
+
+    - 「[競技プログラミングと就転職](articles/jobs)」ページ
+        - [とある競技プログラマーの1年](https://www.estie.jp/blog/entry/2023/11/06/174536)
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2023 - 学校ランキング (11月6日時点)](https://twitter.com/atcoder/status/1721379697609855201)
+
     2023-11-05
 
     - 「[情報オリンピック](related_contest_sites/joi_ioi)」ページ
@@ -121,12 +132,6 @@
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
         - [CodeQUEEN2023決勝に出場しました！](https://ayuna-stpyko.github.io/my_blog/archive/20231023.html)
         - [女性オンリーオンサイトイベント【CodeQUEEN 2023】に参加した話](https://d-burioden.hateblo.jp/entry/2023/10/23/220439)
-
-    2023-10-24
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2023 - 学校ランキング (10月23日時点)](https://twitter.com/atcoder/status/1716318742169477574)
-        - [AJL 高校部門上位40校 (10月23日時点)](https://twitter.com/kiri8128/status/1716453617291690065)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
