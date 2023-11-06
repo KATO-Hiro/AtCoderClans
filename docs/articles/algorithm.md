@@ -217,6 +217,7 @@ title: アルゴリズムを学ぶ
 ### 二部グラフ判定問題
 
 - [2部グラフ判定問題](https://prd-xxx.hateblo.jp/entry/2017/10/13/004256) - 二部グラフの概略とPythonでの実装例(再帰なし・あり)が紹介されている記事。
+    - [二部グラフ判定をUnionFindTreeで行う](https://noshi91.hatenablog.com/entry/2018/04/17/183132) - Union-Find木と頂点拡張を用いる方法を紹介した記事。
 
 ### ネットワークフロー
 
