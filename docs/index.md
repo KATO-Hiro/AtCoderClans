@@ -90,6 +90,11 @@
 
 === "記事"
 
+    2023-11-07
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AHC 典型: 解をたくさん作る](https://iwashi31.hatenablog.com/entry/2023/11/05/234449)
+
     2023-11-06
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
@@ -131,12 +136,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AtCoder Heuristic Contest 025参加記](https://kaede2020.hatenablog.com/entry/2023/10/22/195315)
-
-    2023-10-25
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-        - [CodeQUEEN2023決勝に出場しました！](https://ayuna-stpyko.github.io/my_blog/archive/20231023.html)
-        - [女性オンリーオンサイトイベント【CodeQUEEN 2023】に参加した話](https://d-burioden.hateblo.jp/entry/2023/10/23/220439)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
