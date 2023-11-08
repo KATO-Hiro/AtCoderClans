@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-11-08
+
+- [#7201](https://github.com/KATO-Hiro/AtCoderClans/pull/7201) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[LiKaf](https://atcoder.jp/users/LiKaf)さんの[記事](https://note.com/likaf/n/n1957fa5cb178)を追加。
+
 ### 2023-11-07
 
 - [#7196](https://github.com/KATO-Hiro/AtCoderClans/pull/7196) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
