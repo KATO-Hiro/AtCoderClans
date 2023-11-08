@@ -132,11 +132,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2023 - 学校ランキング (10月30日時点)](https://twitter.com/atcoder/status/1718845595371319578)
 
-    2023-10-26
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AtCoder Heuristic Contest 025参加記](https://kaede2020.hatenablog.com/entry/2023/10/22/195315)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -163,6 +158,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
 
+    2023-11-08
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [LiKaf](https://atcoder.jp/users/LiKaf)さん - [入水しました！](https://note.com/likaf/n/n1957fa5cb178)
+
     2023-10-31
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
@@ -173,11 +173,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [chimaki821](https://atcoder.jp/users/chimaki821)さん - [【AtCoder】プログラミング未経験からのんびり続けて青コーダーになった話](https://qiita.com/chimaki821/items/eb76c042954f725b3bbc)
-
-    2023-10-26
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [tosh55](https://atcoder.jp/users/tosh55)さん - [50代半ばでAtCoder入水しました](https://qiita.com/tosh55/items/4153942b4bac39e0e5a8)
 
 ## AtCoder公式グッズを購入する
 
