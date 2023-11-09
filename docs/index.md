@@ -59,15 +59,6 @@
       <img loading = "lazy" src="images/web_app/atcoder_blogs.jpeg" alt="atcoder blogs">
     </div>
 
-    2023-10-27
-
-    - 「[コンテストに関する統計情報](web_app/statistics)」ページ
-        - [ahc_standings](https://img.atcoder.jp/ahc_standings/index.html?contest=ahc025)
-
-    <div align="center">
-      <img loading = "lazy" src="images/web_app/ahc_standings.png" alt="ahc standings">
-    </div>
-
 === "ユーザスクリプト"
 
     2023-10-30
@@ -135,6 +126,15 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2023-11-09
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [yamunaku](https://atcoder.jp/users/yamunaku)さん - [はてなブログ](https://yamunaku.hatenablog.com/)
+
+    - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
+        - [Kiri8128](https://atcoder.jp/users/Kiri8128)さん - [はてなブログ](https://kiri8128.hatenablog.com/)
+        - [toam](https://atcoder.jp/users/toam)さん - [はてなブログ](https://toriidao.hateblo.jp/)
+
     2023-10-29
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
@@ -167,12 +167,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
          - [totosuki](https://atcoder.jp/users/totosuki)さん - [【AtCoder】Pythonで入緑しました！！](https://qiita.com/Totosuki/items/cc98efbd260c76635cc5)
-
-
-    2023-10-27
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [chimaki821](https://atcoder.jp/users/chimaki821)さん - [【AtCoder】プログラミング未経験からのんびり続けて青コーダーになった話](https://qiita.com/chimaki821/items/eb76c042954f725b3bbc)
 
 ## AtCoder公式グッズを購入する
 
