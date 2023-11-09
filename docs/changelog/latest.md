@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-11-09
+
+- [#7204](https://github.com/KATO-Hiro/AtCoderClans/pull/7204) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加・更新。
+
 ### 2023-11-08
 
 - [#7201](https://github.com/KATO-Hiro/AtCoderClans/pull/7201) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
