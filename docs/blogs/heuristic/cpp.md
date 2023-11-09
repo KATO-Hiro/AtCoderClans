@@ -81,3 +81,4 @@ title: C&#43;&#43;
 |Trineutron|[Qiita](https://qiita.com/trineutron)||
 |tsukasa_diary|[Qiita](https://qiita.com/tsukasa__diary)||
 |YamagenSakam|[はてなブログ](https://yamagensakam.hatenablog.com/)||
+|yamunaku|[はてなブログ](https://yamunaku.hatenablog.com/)||
