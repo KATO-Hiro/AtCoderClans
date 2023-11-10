@@ -70,16 +70,12 @@
       <img loading = "lazy" src="images/userscript/ac_custom.png" alt="ac custom">
     </div>
 
-    2023-10-28
-
-    - 「[Webページに色付けする](user_scripts/colors)」ページ
-        - [AtCoder Error Colorizer](https://greasyfork.org/ja/scripts/478281-atcoder-error-colorizer)
-
-    <div align="center">
-      <img loading = "lazy" src="images/userscript/atcoder_error_colorizer.png" alt="atcoder error colorizer">
-    </div>
-
 === "記事"
+
+    2023-11-10
+
+    - 「[1年をふりかえる](articles/look_back_on_past)」ページ
+        - [競プロ Advent Calendar 2023](https://adventar.org/calendars/8745)
 
     2023-11-07
 

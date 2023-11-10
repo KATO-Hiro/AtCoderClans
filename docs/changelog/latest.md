@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-11-10
+
+- [#7207](https://github.com/KATO-Hiro/AtCoderClans/pull/7207) - 「[Articles, Blogs, Books and Videos](../../media)」の「[1年をふりかえる](../../articles/look_back_on_past)」ページに、以下のAdvent Calendarを追加。
+    - [競プロ Advent Calendar 2023](https://adventar.org/calendars/8745)
+
 ### 2023-11-09
 
 - [#7204](https://github.com/KATO-Hiro/AtCoderClans/pull/7204) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加・更新。
