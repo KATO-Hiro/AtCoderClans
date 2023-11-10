@@ -6,6 +6,10 @@ title: 1年をふりかえる
 
 ## Advent Calendar
 
+### 2023年
+
+- [競プロ Advent Calendar 2023](https://adventar.org/calendars/8745) - 競技プログラミングに関する話題を扱ったアドベントカレンダー。
+
 ### 2022年
 
 - [競プロ Advent Calendar 2022](https://adventar.org/calendars/7421) - 競技プログラミングに関する話題を扱ったアドベントカレンダー。
