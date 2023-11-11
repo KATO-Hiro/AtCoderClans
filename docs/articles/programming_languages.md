@@ -37,7 +37,7 @@ title: プログラミング言語を学ぶ
 
 ## Rust
 
-- [RustCoder ―― AtCoder と Rust で始める競技プログラミング入門](https://zenn.dev/toga/books/rust-atcoder) - AtCoderのジャッジシステムを利用しながら、プログラミング言語Rustを解説している。
+- [RustCoder ―― AtCoder と Rust で始める競技プログラミング入門](https://zenn.dev/toga/books/rust-atcoder) - AtCoderのジャッジシステムを利用して、プログラミング言語Rustを解説している。
 - [atcoder-rust-resources](https://doc.rust-jp.rs/atcoder-rust-resources/) - コンテストにRustで参加するためのガイドブック。
 
     !!! warning "注意"
