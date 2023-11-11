@@ -37,7 +37,7 @@ title: プログラミング言語を学ぶ
 
 ## Rust
 
-- [AtCoderとRustで始める！競技プログラミング入門（Rust版 APG4b）](https://zenn.dev/toga/books/apg4b-rust-ver) - 有志が[C++入門 AtCoder Programming Guide for beginners (APG4b)](https://atcoder.jp/contests/APG4b)のRust版を作成・公開している。
+- [RustCoder ―― AtCoder と Rust で始める競技プログラミング入門](https://zenn.dev/toga/books/rust-atcoder) - AtCoderのジャッジシステムを利用して、プログラミング言語Rustを解説している。
 - [atcoder-rust-resources](https://doc.rust-jp.rs/atcoder-rust-resources/) - コンテストにRustで参加するためのガイドブック。
 
     !!! warning "注意"
