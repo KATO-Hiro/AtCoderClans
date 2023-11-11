@@ -26,7 +26,7 @@ AtCoderにおける流行語などをヒントに作成されたスクリプト�
       <img loading = "lazy" src="../../images/userscript/ac_custom.png" alt="ac custom">
     </div>
 
-- [AtCoderMLEtoHisoka](https://greasyfork.org/ja/scripts/478297-atcodermletohisoka) - 提出コードが「MLE (Memory Limit Exceeded)」となった場合に、「キミの敗因は容量（メモリ）のムダ使い❤︎」に置き換える。
+- [AtCoderMLEtoHisoka](https://greasyfork.org/ja/scripts/478297-atcodermletohisoka) - 提出コードが「MLE (Memory Limit Exceeded)」となった場合に、「キミの敗因は容量（メモリ）のムダ使い❤︎」と表示する。
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_mle_to_hisoka.png" alt="atcoder mle to hisoka">
