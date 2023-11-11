@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-11-11
+
+- [#7210](https://github.com/KATO-Hiro/AtCoderClans/pull/7210) - 「[Articles, Blogs, Books and Videos](../../media)」の「[プログラミング言語を学ぶ](../../articles/programming_languages)」ページで掲載している書籍のリンクを修正。
+    - [RustCoder ―― AtCoder と Rust で始める競技プログラミング入門](https://zenn.dev/toga/books/rust-atcoder)
+
 ### 2023-11-10
 
 - [#7207](https://github.com/KATO-Hiro/AtCoderClans/pull/7207) - 「[Articles, Blogs, Books and Videos](../../media)」の「[1年をふりかえる](../../articles/look_back_on_past)」ページに、以下のAdvent Calendarを追加。
