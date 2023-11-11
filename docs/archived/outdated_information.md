@@ -212,7 +212,18 @@ title: 更新停止の可能性が高い
 
 ### コードを書くための環境構築を行う
 
+- [AtCoder用C++開発環境 (Mac編)](https://blog.spiralray.net/cp/devenv-cpp) - 動作環境は、macOS Catalina。C++17(デバッグ:Clang、テスト実行・提出: G++)のコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と、拡張機能を使って構築する方法が紹介されている。サンプルケースの実行や提出もできる。
+
+- [WSL2とVSCodeでC++環境構築した（AtCoder Libraryを使えるようになるまで）](https://ntk-ta01.hatenablog.com/entry/2020/09/09/181155) - C++やRustのコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)で構築するための記事。設定ファイルや[AtCoder Library](https://atcoder.jp/posts/517)に関する説明もある。
+
+- [【VScode＋WSLで始める】競プロ用C++デバッグ環境構築](https://qiita.com/2019Shun/items/5ab290a4117a00e373b6) - C++のコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)で構築したあとの拡張機能の導入・設定ファイルについて紹介されている。
+
+- [Windowsで競プロに必要なNeovim環境を整える](https://qiita.com/KowerKoint/items/89d1952b54dec57a1a07) - カスタマイズ性の高いエディタの一つである[NeoVim](https://neovim.io/)を利用して、C++(clang)のコンパイル・実行環境を構築するための記事。関連ツールの導入方法や設定ファイル・プラグインのおすすめ情報も紹介されている。
+
 - [at-coder-with-php](https://github.com/KushibikiMashu/at-coder-with-php) ![GitHub Repo stars](https://img.shields.io/github/stars/KushibikiMashu/at-coder-with-php?style=plastic) - PHPの実行環境を構築することができる。
+
+- [atcoder-rs](https://github.com/catupper/atcoder-rs) ![GitHub Repo stars](https://img.shields.io/github/stars/catupper/atcoder-rs?style=plastic) - Rustのテンプレートプロジェクト。
+- [AtCoder with Rust in mac](https://github.com/hppRC/AtCoder-with-Rust-in-mac) ![GitHub Repo stars](https://img.shields.io/github/stars/hppRC/AtCoder-with-Rust-in-mac?style=plastic) - [cargo-atcoder](https://github.com/tanakh/cargo-atcoder)を使用して、Mac OSでRustの実行環境を構築することができる。
 
 ### コンテストに向けた練習方法を知る
 
