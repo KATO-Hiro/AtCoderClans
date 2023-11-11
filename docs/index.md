@@ -72,6 +72,11 @@
 
 === "記事"
 
+    2023-11-11
+
+    - 「[プログラミング言語を学ぶ](articles/programming_languages)」ページ
+        - [RustCoder ―― AtCoder と Rust で始める競技プログラミング入門](https://zenn.dev/toga/books/rust-atcoder)
+
     2023-11-10
 
     - 「[1年をふりかえる](articles/look_back_on_past)」ページ
@@ -130,18 +135,6 @@
     - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
         - [Kiri8128](https://atcoder.jp/users/Kiri8128)さん - [はてなブログ](https://kiri8128.hatenablog.com/)
         - [toam](https://atcoder.jp/users/toam)さん - [はてなブログ](https://toriidao.hateblo.jp/)
-
-    2023-10-29
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [US_cube](https://atcoder.jp/users/US_cube)さん - [はてなブログ](https://uscube.hatenablog.com/)
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [hamamu](https://atcoder.jp/users/hamamu)さん - [Qiita](https://qiita.com/hamamu)
-        - [ValGrowth](https://atcoder.jp/users/ValGrowth)さん - [はてなブログ](https://valgrowth.hatenablog.com/archive)
-
-    - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
-        - [cozy_sauna](https://atcoder.jp/users/cozy_sauna)さん - [Qiita](https://qiita.com/cozy_sauna/)
 
 === "ライブラリ・スニペット"
 
