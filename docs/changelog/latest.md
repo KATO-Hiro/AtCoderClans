@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-11-12
+
+- [#7216](https://github.com/KATO-Hiro/AtCoderClans/pull/7216) - 「[Scripts](../../scripts)」の「[ネタスクリプト](../../user_scripts/jokes)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoderMLEtoHisoka](https://greasyfork.org/ja/scripts/478297-atcodermletohisoka)
+- [#7215](https://github.com/KATO-Hiro/AtCoderClans/pull/7215) - (破壊的な変更) 掲載内容が古くなったと思われる記事を一時的に「[Archives](../../archived)」ページに移動。
+- [#7214](https://github.com/KATO-Hiro/AtCoderClans/pull/7214) - (破壊的な変更) リンク切れと思われるWebアプリを一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2023-11-11
 
 - [#7210](https://github.com/KATO-Hiro/AtCoderClans/pull/7210) - 「[Articles, Blogs, Books and Videos](../../media)」の「[プログラミング言語を学ぶ](../../articles/programming_languages)」ページで掲載している書籍のリンクを修正。

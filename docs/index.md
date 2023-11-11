@@ -61,13 +61,13 @@
 
 === "ユーザスクリプト"
 
-    2023-10-30
+    2023-11-12
 
     - 「[ネタスクリプト](user_scripts/jokes)」ページ
-        - [AC Custom](https://greasyfork.org/ja/scripts/478609-ac-custom)
+        - [AtCoderMLEtoHisoka](https://greasyfork.org/ja/scripts/478297-atcodermletohisoka)
 
     <div align="center">
-      <img loading = "lazy" src="images/userscript/ac_custom.png" alt="ac custom">
+      <img loading = "lazy" src="images/userscript/atcoder_mle_to_hisoka.png" alt="atcoder mle to hisoka">
     </div>
 
 === "記事"
@@ -118,11 +118,6 @@
 
     - 「[競技プログラミングと就転職](articles/jobs)」ページ
         - [「AtCoder 競技プログラマー就職企業人気ランキング2023」を発表](https://prtimes.jp/main/html/rd/p/000000039.000028415.html)
-
-    2023-10-30
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2023 - 学校ランキング (10月30日時点)](https://twitter.com/atcoder/status/1718845595371319578)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
