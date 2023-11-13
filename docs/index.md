@@ -72,6 +72,11 @@
 
 === "記事"
 
+    2023-11-13
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AHC典型解法シリーズ第1弾「モンテカルロ法」](https://qiita.com/thun-c/items/8e7ae0249f1907854763)
+
     2023-11-11
 
     - 「[プログラミング言語を学ぶ](articles/programming_languages)」ページ
@@ -146,11 +151,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [LiKaf](https://atcoder.jp/users/LiKaf)さん - [入水しました！](https://note.com/likaf/n/n1957fa5cb178)
-
-    2023-10-31
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-         - [totosuki](https://atcoder.jp/users/totosuki)さん - [【AtCoder】Pythonで入緑しました！！](https://qiita.com/Totosuki/items/cc98efbd260c76635cc5)
 
 ## AtCoder公式グッズを購入する
 
