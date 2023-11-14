@@ -48,16 +48,12 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "Webアプリ・Webサイト"
+=== "入門者・初心者向けの内容"
 
-    2023-11-01
+    2023-11-14
 
-    - 「[問題を解く](web_app/solve_problems)」ページ
-        - [AtCoderBlogs](https://atcoder-blogs.jp)
-
-    <div align="center">
-      <img loading = "lazy" src="images/web_app/atcoder_blogs.jpeg" alt="atcoder blogs">
-    </div>
+    - 「[Q0: アルゴリズム、競技プログラミングとは?](for_beginners/question0)」ページ
+        - [競技プログラミングの始め方【ゆっくり解説】](https://www.youtube.com/watch?v=BPkZc3wsCxU)
 
 === "ユーザスクリプト"
 
