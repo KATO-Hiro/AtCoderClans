@@ -33,6 +33,7 @@ title: Python
 
 ### 注意事項
 
+- [【AtCoder】Pythonで競プロをするときの注意点まとめ【競技プログラミング】](https://qiita.com/kemuniku/items/1f1537e1df2ac8180d9b) - 競技プログラミングでPythonを利用するときの注意事項がまとめられている。ジャッジシステムでサポートされている言語の違い、PyPyで提出すると遅くなる処理とその対処方法、データの参照・上限の設定・文字列の扱いなどが紹介されている。
 - [PyPyの文字列結合はO(N^2)になって遅いぞ❗←それ、本当ですか？](https://qiita.com/NaHCO3/items/b61e3970ffa0d8e9bdde) - 文字列結合を行うときに、PyPyとCPythonの計算量の違いとその理由について説明されている記事。また、2023年に予定されているジャッジシステムのアップデートの影響についても言及されている。
 - [Python 遅いものたち](https://toriidao.hateblo.jp/entry/2023/01/24/121216) - Pythonで競技プログラミングに参加するときに、時間の掛かる処理と改善策がまとめられている記事。
 - [pythonで競技プログラミング（AtCoder）の問題を解くとき、注意すべき落とし穴](https://qiita.com/satoyuyapyaa/items/9f047fb2babcd028b002) - Pythonでコンテストに参加するときに、実装で注意すべき点をまとめた記事。
