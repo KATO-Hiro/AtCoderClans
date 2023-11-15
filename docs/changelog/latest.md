@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-11-15
+
+- [#7229](https://github.com/KATO-Hiro/AtCoderClans/pull/7229) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Python](../../articles/implementation/python)」ページに、以下の記事を追加。
+    - [【AtCoder】Pythonで競プロをするときの注意点まとめ【競技プログラミング】](https://qiita.com/kemuniku/items/1f1537e1df2ac8180d9b)
+- [#7228](https://github.com/KATO-Hiro/AtCoderClans/pull/7228) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AtCoder Junior League 2023 - 学校ランキング (11月15日時点)](https://twitter.com/atcoder/status/1724615306881204451)
+
 ### 2023-11-14
 
 - [#7223](https://github.com/KATO-Hiro/AtCoderClans/pull/7223) - 「[For Beginners](../../for_beginners)」の「[Q0: アルゴリズム、競技プログラミングとは?](../../for_beginners/question0)」ページに、以下の動画を追加。

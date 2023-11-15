@@ -68,6 +68,14 @@
 
 === "記事"
 
+    2023-11-15
+
+    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
+        - [【AtCoder】Pythonで競プロをするときの注意点まとめ【競技プログラミング】](https://qiita.com/kemuniku/items/1f1537e1df2ac8180d9b)
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2023 - 学校ランキング (11月15日時点)](https://twitter.com/atcoder/status/1724615306881204451)
+
     2023-11-13
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -131,13 +139,6 @@
     - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
         - [Kiri8128](https://atcoder.jp/users/Kiri8128)さん - [はてなブログ](https://kiri8128.hatenablog.com/)
         - [toam](https://atcoder.jp/users/toam)さん - [はてなブログ](https://toriidao.hateblo.jp/)
-
-=== "ライブラリ・スニペット"
-
-    2023-11-02
-
-    - 「[C++](libraries/cpp)」ページ
-        - [UScuber/Algorithm-Library](https://github.com/UScuber/Algorithm-Library) ![GitHub stars](https://img.shields.io/github/stars/UScuber/Algorithm-Library?style=plastic)
 
 === "色変記事"
 
