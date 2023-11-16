@@ -14,6 +14,10 @@ title: 個別の動画
     - [kazoeage-oneesan](https://github.com/primenumber/kazoeage-oneesan) - [primenumber](https://atcoder.jp/users/primenumber)さんによる愚直解の実装例(Rust)。
     - [kazoeage-oneesan-cuda](https://github.com/primenumber/kazoeage-oneesan-cuda) - GPGPUによって高速化が図られている例。[解説記事](https://primenumber.hatenadiary.jp/entry/2021/12/04/230653)もある。
 
+## 解説動画
+
+- [全探索とは？お気持ち編［競技プログラミング初心者へ］【ゆっくり解説】](https://www.youtube.com/watch?v=-vGsAqDIgQo) - 競技プログラミング（通称、競プロ）の最も基本的な技法である「全探索」の概略が説明されている。
+
 ## 歌ってみた
 
 - [【オリジナル曲 / 初音ミク】AC【競プロやろうぜ】](https://www.youtube.com/watch?v=loKekcFqQw0) - [burioden](https://twitter.com/burioden)さんによるオリジナル曲。[オフボーカル版](https://www.youtube.com/watch?v=jTaTFImLzKI)もある。
