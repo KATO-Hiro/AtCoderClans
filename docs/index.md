@@ -140,6 +140,13 @@
         - [Kiri8128](https://atcoder.jp/users/Kiri8128)さん - [はてなブログ](https://kiri8128.hatenablog.com/)
         - [toam](https://atcoder.jp/users/toam)さん - [はてなブログ](https://toriidao.hateblo.jp/)
 
+=== "動画"
+
+    2023-11-16
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [全探索とは？お気持ち編［競技プログラミング初心者へ］【ゆっくり解説】](https://www.youtube.com/watch?v=-vGsAqDIgQo)
+
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
