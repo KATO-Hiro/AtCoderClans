@@ -68,6 +68,11 @@
 
 === "記事"
 
+    2023-11-17
+
+    - 「[競技プログラミングと就転職](articles/jobs)」ページ
+        - [超強力なアルゴリズムチームの魅力 - Algo Artis Media](https://media.algo-artis.com/posts/1ZH8I2PM)
+
     2023-11-15
 
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
@@ -116,17 +121,6 @@
 
     - 「[情報オリンピック](related_contest_sites/joi_ioi)」ページ
         - [国際情報オリンピック2023 参加記](https://qiita.com/black-yuki/items/10b297ffe486cd36cd8a)
-
-    2023-11-04
-
-    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
-        - [競技プログラミングの環境構築 [VSCode+WSL+AtCoder Library]【ゆっくり解説】](https://www.youtube.com/watch?v=uhnASau7fB4)
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [【問題集】フローの入門](https://drken1215.hatenablog.com/archive/category/%E3%80%90%E5%95%8F%E9%A1%8C%E9%9B%86%E3%80%91%E3%83%95%E3%83%AD%E3%83%BC%E3%81%AE%E5%85%A5%E9%96%80)
-
-    - 「[競技プログラミングと就転職](articles/jobs)」ページ
-        - [「AtCoder 競技プログラマー就職企業人気ランキング2023」を発表](https://prtimes.jp/main/html/rd/p/000000039.000028415.html)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
