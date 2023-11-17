@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-11-17
+
+- [#7238](https://github.com/KATO-Hiro/AtCoderClans/pull/7238) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
+    - [超強力なアルゴリズムチームの魅力 - Algo Artis Media](https://media.algo-artis.com/posts/1ZH8I2PM)
+
 ### 2023-11-16
 
 - [#7233](https://github.com/KATO-Hiro/AtCoderClans/pull/7233) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
