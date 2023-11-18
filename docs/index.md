@@ -117,11 +117,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2023 - 学校ランキング (11月6日時点)](https://twitter.com/atcoder/status/1721379697609855201)
 
-    2023-11-05
-
-    - 「[情報オリンピック](related_contest_sites/joi_ioi)」ページ
-        - [国際情報オリンピック2023 参加記](https://qiita.com/black-yuki/items/10b297ffe486cd36cd8a)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -135,6 +130,11 @@
         - [toam](https://atcoder.jp/users/toam)さん - [はてなブログ](https://toriidao.hateblo.jp/)
 
 === "動画"
+
+    2023-11-18
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [ngtkana](https://www.youtube.com/channel/UC9amFw1nimUfDGAf746HYXQ)
 
     2023-11-16
 
