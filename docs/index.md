@@ -68,6 +68,11 @@
 
 === "記事"
 
+    2023-11-18
+
+    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
+        - [AtCoder練習・活用サービス](https://atcoder.jp/posts/1134)
+
     2023-11-17
 
     - 「[競技プログラミングと就転職](articles/jobs)」ページ
