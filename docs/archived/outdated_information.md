@@ -276,8 +276,6 @@ title: 更新停止の可能性が高い
 ### YouTuber
 
 - [ことり兄貴【プログラマ】](https://www.youtube.com/channel/UCf86wNbQtsJKh2EpRm7-Mrg/videos) - [KotoriAniki](https://atcoder.jp/users/KotoriAniki)さんのチャンネル。コンテストの過去問を解く動画などが公開されている。
-- [長田歌菜](https://www.youtube.com/channel/UC9amFw1nimUfDGAf746HYXQ) - [ngtkana](https://atcoder.jp/users/ngtkana)さんのチャンネル。コンテスト終了後に、実況動画が公開されている。
-    - 理由: 競技プログラミングに関連する動画が削除されているのを確認したため。
 
 ## コマンドラインツール
 

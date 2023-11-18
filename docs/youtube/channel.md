@@ -20,6 +20,7 @@ title: チャンネル
 - [きりみんちゃん kirimin-chan](https://www.youtube.com/c/kiriminchan/playlists) - [kirimin](https://atcoder.jp/users/kirimin)さんのチャンネル。競技プログラミングやライブコーディングだけでなく、幅広い話題の動画が公開されている。
 - [坂道輪の競プロ](https://www.youtube.com/playlist?list=PLFi46EaoQjc-c4BoLQl7Gibo0ncGLX5A2) - [RinSakamichi](https://atcoder.jp/users/RinSakamichi)さんのチャンネル。コンテスト終了後に、問題の解答や感想を配信している。
 - [高井茅乃と毒芽えるのバ美nIQ](https://www.youtube.com/channel/UCTOxnI3eOI_o1HRgzq-LEZw/playlists) - [takaichino](https://atcoder.jp/users/takaichino)さんのチャンネル。コンテストの過去問を解いたり、反省会をしたりしている。
+- [ngtkana](https://www.youtube.com/channel/UC9amFw1nimUfDGAf746HYXQ) - [ngtkana](https://atcoder.jp/users/ngtkana)さんのチャンネル。コンテストの実況動画や「歌ってみた」が公開されている。
 - [ナス太郎](https://www.youtube.com/channel/UCs7sxmQBTBqtuGzsEWCUupQ) - [DFNasutarou](https://atcoder.jp/users/DFNasutarou)さんのチャンネル。1問あたり15分以内で解き続ける動画などが公開されている。
 - [ぱるま](https://www.youtube.com/playlist?list=PL2M7xTSHX0HqdXvk74PKSZ2De_EyVUq0d) - [paruma184](https://atcoder.jp/users/paruma184)さんのチャンネル。コンテストの過去問を解いたり、コンテスト後の振り返ったりする動画が公開されている。
 
