@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-11-18
+
+- [#7246](https://github.com/KATO-Hiro/AtCoderClans/pull/7246) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
+    - [AtCoder練習・活用サービス](https://atcoder.jp/posts/1134)
+- [#7245](https://github.com/KATO-Hiro/AtCoderClans/pull/7245) - (破壊的な変更) 「[Archives](../../archived)」ページに移動させていたYouTubeチャンネルのうち、競技プログラミングに関する動画の投稿再開が確認できたものを元のページに戻した。
+
 ### 2023-11-17
 
 - [#7238](https://github.com/KATO-Hiro/AtCoderClans/pull/7238) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
