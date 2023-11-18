@@ -8,6 +8,10 @@ title: コンテストに向けた練習方法を知る
 
 - [AtCoderでの勉強の仕方（コンテスト編）](http://chokudai.hatenablog.com/entry/2014/08/07/212849) - [AtCoder](https://atcoder.jp/)社長の[chokudai](https://twitter.com/chokudai)さんによる記事。プログラミングコンテストの参加を通して、アルゴリズムの学習を継続的に行う方法について解説している。
 
+### AtCoder公式の提供サービスを活用
+
+- [AtCoder練習・活用サービス](https://atcoder.jp/posts/1134) - AtCoder公式が提供しているサービスの一覧。平日に開催されている過去問練習コンテスト、中高生向けの学校対抗戦/学年別個人戦、資格試験、コンテストの成績を活用した就転職サービスが掲載されている。
+
 ### 上位陣の考え方・方法
 
 - [rng_58さんがオススメする学習方法](https://twitter.com/rng_58/status/1238824295230361600) - [rng_58](https://twitter.com/rng_58)さんが、問題を楽に解くための方針を身につける方法についてコメントしている。
