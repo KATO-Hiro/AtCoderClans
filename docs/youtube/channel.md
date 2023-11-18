@@ -15,6 +15,7 @@ title: チャンネル
 
 - [kurenaif](https://www.youtube.com/playlist?list=PL6J0QYBvVReHBH_mkLCs8BbuAkx20gamN) - [kurenaif](https://atcoder.jp/users/kurenaif)さんのチャンネル。競技プログラミングの初心者に対して、コーチングを行いながら考察を進める過程を紹介した動画が公開されている。
 - [kyopro friends](https://www.youtube.com/@kyopro_friends/streams) - [kyopro_friends](https://atcoder.jp/users/kyopro_friends)さんのチャンネル。コンテストの過去問を解く動画が公開されている。
+- [ngtkana](https://www.youtube.com/channel/UC9amFw1nimUfDGAf746HYXQ) - [ngtkana](https://atcoder.jp/users/ngtkana)さんのチャンネル。コンテストの実況動画や「歌ってみた」が公開されている。
 - [Pythonプログラミング VTuber サプー](https://www.youtube.com/channel/UC5Kgc_HNzx4GJ-w4QMeeKiQ/playlists) - [サプー](https://twitter.com/PythonSuppl)さんのチャンネル。Pythonの基礎文法・ライブラリの使い方などの動画が公開されている。
 - [あかしあ みどり](https://www.youtube.com/channel/UCkIaUs9Z43s1cSLS8mh9ppg) - [akasia_midori](https://atcoder.jp/users/akasia_midori)さんのチャンネル。コンテストの過去問を解く動画が公開されている。
 - [きりみんちゃん kirimin-chan](https://www.youtube.com/c/kiriminchan/playlists) - [kirimin](https://atcoder.jp/users/kirimin)さんのチャンネル。競技プログラミングやライブコーディングだけでなく、幅広い話題の動画が公開されている。
