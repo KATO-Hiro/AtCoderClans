@@ -33,7 +33,7 @@ title: 問題を作成・出題する
 ## 作問に関する環境構築
 
 - [競技プログラミングの作問環境構築（wiki設置編）](https://wakuwinmail.hatenablog.com/entry/2020/05/01/180054) - コンテストの問題の作成を希望する人に向けて、環境構築する手順をまとめた記事(全7回の予定)。
-    - [第1回](https://wakuwinmail.hatenablog.com/entry/2020/05/01/180054): 問題の原案を共有するための[PukiWiki](https://pukiwiki.osdn.jp/)をサーバに設置する方法
+    - [第1回](https://wakuwinmail.hatenablog.com/entry/2020/05/01/180054): 問題の原案を共有するためのPukiWikiをサーバに設置する方法
     - [第2回](https://wakuwinmail.hatenablog.com/entry/2020/05/02/153955): PukiWikiが編集されたときにSlackにメッセージを通知するための方法
     - [第3回](https://wakuwinmail.hatenablog.com/entry/2020/12/05/015747): バージョン管理ツール[Git](https://git-scm.com/)とテストケースの作成・想定解のチェックツール[Rime](https://github.com/icpc-jag/rime)の導入方法
 
