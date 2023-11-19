@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-11-19
+
+- [#7254](https://github.com/KATO-Hiro/AtCoderClans/pull/7254) - (破壊的な変更) リンク切れと思われるURLを一時的に削除。
+
 ### 2023-11-18
 
 - [#7246](https://github.com/KATO-Hiro/AtCoderClans/pull/7246) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
