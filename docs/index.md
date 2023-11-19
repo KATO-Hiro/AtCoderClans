@@ -106,22 +106,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AHC 典型: 解をたくさん作る](https://iwashi31.hatenablog.com/entry/2023/11/05/234449)
 
-    2023-11-06
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [二部グラフ判定をUnionFindTreeで行う](https://noshi91.hatenablog.com/entry/2018/04/17/183132)
-
-    - 「[競技プログラミングと就転職](articles/jobs)」ページ
-
-        <!-- markdown-link-check-disable -->
-
-        - [とある競技プログラマーの1年](https://www.estie.jp/blog/entry/2023/11/06/174536)
-
-        <!-- markdown-link-check-enable -->
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2023 - 学校ランキング (11月6日時点)](https://twitter.com/atcoder/status/1721379697609855201)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
