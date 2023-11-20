@@ -68,6 +68,11 @@
 
 === "記事"
 
+    2023-11-20
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2023 - 学校ランキング (11月20日時点)](https://twitter.com/atcoder/status/1726455552606372167)
+
     2023-11-18
 
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
