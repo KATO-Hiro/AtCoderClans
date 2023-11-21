@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-11-21
+
+- [#7267](https://github.com/KATO-Hiro/AtCoderClans/pull/7267) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
+    - [【AtCoder】 AtCoder Beginner Contest A~C問題の傾向と対策 part1](https://qiita.com/darake/items/dd66663b80f6974cd8a9)
+
 ### 2023-11-20
 
 - [#7261](https://github.com/KATO-Hiro/AtCoderClans/pull/7261) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
