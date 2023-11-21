@@ -68,6 +68,11 @@
 
 === "記事"
 
+    2023-11-21
+
+    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
+        - [【AtCoder】 AtCoder Beginner Contest A~C問題の傾向と対策 part1](https://qiita.com/darake/items/dd66663b80f6974cd8a9)
+
     2023-11-20
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -105,11 +110,6 @@
 
     - 「[1年をふりかえる](articles/look_back_on_past)」ページ
         - [競プロ Advent Calendar 2023](https://adventar.org/calendars/8745)
-
-    2023-11-07
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AHC 典型: 解をたくさん作る](https://iwashi31.hatenablog.com/entry/2023/11/05/234449)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
