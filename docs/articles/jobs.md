@@ -36,6 +36,7 @@ title: 競技プログラミングと就転職
 - [東北電力株式会社へ最適化AI（アルゴリズム）を活用した配船計画最適化ソリューションを提供](https://prtimes.jp/main/html/rd/p/000000008.000085809.html) - 株式会社 ALGO ARTISが、電力会社と協力して石炭の配船計画の最適化を実用化したことが紹介されている記事。
 - [アルゴリズム改善が事業改善に直結する職場。数理最適化を担うエンジニアに仕事の醍醐味を聞く](https://note.com/fanfare_inc/n/ncb71f10508cd) - 産業廃棄物業界の配車計画において、アルゴリズムの活用・改善が業務の効率化に直接つながることが紹介されている記事。
 - [高橋直大のアナザーAI探訪記](https://xtech.nikkei.com/atcl/nxt/column/18/02204/) - [chokudai](https://twitter.com/chokudai)さんの連載記事。人工知能のうち、最適化AIを活用している企業の取り組みが紹介されている。
+- [AtCoder株式会社代表 高橋直大氏 - 社長の履歴書](https://donzoko-ceo.com/atcoder/) - [chokudai](https://twitter.com/chokudai)さんへのインタビュー記事。[AtCoder](https://atcoder.jp/)の事業内容、学生時代の取り組み、起業の経緯・困難と乗り越え方、経営方針、今後の展望などが紹介されている。
 
 ### 企業の支援制度
 
