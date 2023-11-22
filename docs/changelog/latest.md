@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-11-22
+
+- [#7271](https://github.com/KATO-Hiro/AtCoderClans/pull/7271) - (破壊的な変更) リンク切れと思われるWebサイトを一時的に「[Archives](../../archived)」ページに移動。
+- [#7269](https://github.com/KATO-Hiro/AtCoderClans/pull/7269) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
+    - [AtCoder株式会社代表 高橋直大氏 - 社長の履歴書](https://donzoko-ceo.com/atcoder/)
+
 ### 2023-11-21
 
 - [#7267](https://github.com/KATO-Hiro/AtCoderClans/pull/7267) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。

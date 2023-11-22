@@ -68,6 +68,11 @@
 
 === "記事"
 
+    2023-11-22
+
+    - 「[競技プログラミングと就転職](articles/jobs)」ページ
+        - [AtCoder株式会社代表 高橋直大氏 - 社長の履歴書](https://donzoko-ceo.com/atcoder/)
+
     2023-11-21
 
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
@@ -134,15 +139,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [全探索とは？お気持ち編［競技プログラミング初心者へ］【ゆっくり解説】](https://www.youtube.com/watch?v=-vGsAqDIgQo)
-
-=== "色変記事"
-
-    色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
-
-    2023-11-08
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [LiKaf](https://atcoder.jp/users/LiKaf)さん - [入水しました！](https://note.com/likaf/n/n1957fa5cb178)
 
 ## AtCoder公式グッズを購入する
 
