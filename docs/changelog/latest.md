@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-11-23
+
+- [#7278](https://github.com/KATO-Hiro/AtCoderClans/pull/7278) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
+    - [グラフ縮約の前処理による再計算アルゴリズムの改善](https://tech.preferred.jp/ja/blog/improve_recomputation_algorithm_by_graph_contraction_preprocessing/)
+
 ### 2023-11-22
 
 - [#7271](https://github.com/KATO-Hiro/AtCoderClans/pull/7271) - (破壊的な変更) リンク切れと思われるWebサイトを一時的に「[Archives](../../archived)」ページに移動。

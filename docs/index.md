@@ -68,6 +68,11 @@
 
 === "記事"
 
+    2023-11-23
+
+    - 「[競技プログラミングと就転職](articles/jobs)」ページ
+        - [グラフ縮約の前処理による再計算アルゴリズムの改善](https://tech.preferred.jp/ja/blog/improve_recomputation_algorithm_by_graph_contraction_preprocessing/)
+
     2023-11-22
 
     - 「[競技プログラミングと就転職](articles/jobs)」ページ
@@ -115,18 +120,6 @@
 
     - 「[1年をふりかえる](articles/look_back_on_past)」ページ
         - [競プロ Advent Calendar 2023](https://adventar.org/calendars/8745)
-
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2023-11-09
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [yamunaku](https://atcoder.jp/users/yamunaku)さん - [はてなブログ](https://yamunaku.hatenablog.com/)
-
-    - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
-        - [Kiri8128](https://atcoder.jp/users/Kiri8128)さん - [はてなブログ](https://kiri8128.hatenablog.com/)
-        - [toam](https://atcoder.jp/users/toam)さん - [はてなブログ](https://toriidao.hateblo.jp/)
 
 === "動画"
 
