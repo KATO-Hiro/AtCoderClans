@@ -50,6 +50,10 @@ title: 競技プログラミングと就転職
 
 ## 競技プログラマの体験談を読む
 
+### インターンシップの参加記
+
+- [グラフ縮約の前処理による再計算アルゴリズムの改善](https://tech.preferred.jp/ja/blog/improve_recomputation_algorithm_by_graph_contraction_preprocessing/) - インターンシップで、深層学習の学習時におけるメモリ消費量を削減する手法「再計算アルゴリズム」の性能向上に取り組んだことが紹介されている記事。焼きなまし法・セグメント木・ダイクストラ法などが活用されている。
+
 ### AtCoderJobsによる就職・転職
 
 - [フューチャーでjobsバイト、競プロ入社を経験して](https://future-architect.github.io/articles/20201102/) - 競技プログラミングの経験が就業やITコンサルティング業務に役立った事例を紹介した記事。
