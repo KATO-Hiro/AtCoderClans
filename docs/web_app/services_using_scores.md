@@ -60,6 +60,12 @@ title: コンテストの成績に関連するサービス
       <img loading = "lazy" src="../../images/web_app/rating_converter.png" alt="rating converter">
     </div>
 
+- [もすーんバチャ Rating Page](https://mosoon.net/mov_rating/top.html) - [MoSooN](https://atcoder.jp/users/MoSooN)さん主催のバーチャルコンテストの結果に基づいて、レーティングのランキングが集計されている。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/mov_rating.png" alt="mov rating">
+    </div>
+
 ## ライバルを探す・競う
 
 ### レーティングが近いユーザを探す
