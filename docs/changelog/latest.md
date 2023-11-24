@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-11-24
+
+- [#7284](https://github.com/KATO-Hiro/AtCoderClans/pull/7284) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績に関連するサービス](../../web_app/services_using_scores)」ページに、以下のWebサイトを追加。
+    - [もすーんバチャ Rating Page](https://mosoon.net/mov_rating/top.html)
+
 ### 2023-11-23
 
 - [#7278](https://github.com/KATO-Hiro/AtCoderClans/pull/7278) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。

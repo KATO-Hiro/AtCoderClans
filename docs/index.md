@@ -55,6 +55,17 @@
     - 「[Q0: アルゴリズム、競技プログラミングとは?](for_beginners/question0)」ページ
         - [競技プログラミングの始め方【ゆっくり解説】](https://www.youtube.com/watch?v=BPkZc3wsCxU)
 
+=== "Webアプリ・Webサイト"
+
+    2023-11-24
+
+    - 「[コンテストの成績に関連するサービス](web_app/services_using_scores)」ページ
+        - [もすーんバチャ Rating Page](https://mosoon.net/mov_rating/top.html)
+
+    <div align="center">
+      <img loading = "lazy" src="images/web_app/mov_rating.png" alt="mov rating">
+    </div>
+
 === "ユーザスクリプト"
 
     2023-11-12
@@ -115,11 +126,6 @@
 
     - 「[プログラミング言語を学ぶ](articles/programming_languages)」ページ
         - [RustCoder ―― AtCoder と Rust で始める競技プログラミング入門](https://zenn.dev/toga/books/rust-atcoder)
-
-    2023-11-10
-
-    - 「[1年をふりかえる](articles/look_back_on_past)」ページ
-        - [競プロ Advent Calendar 2023](https://adventar.org/calendars/8745)
 
 === "動画"
 
