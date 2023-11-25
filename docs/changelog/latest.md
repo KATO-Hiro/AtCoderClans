@@ -6,6 +6,7 @@ title: Change Log
 
 ### 2023-11-25
 
+- [#7294](https://github.com/KATO-Hiro/AtCoderClans/pull/7294) - (破壊的な変更) 削除されたと思われるBotアカウントを一時的に「[Archives](../../archived)」ページに移動。
 - [#7289](https://github.com/KATO-Hiro/AtCoderClans/pull/7289) - [tomii9273](https://github.com/tomii9273)さんのご紹介で、「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../chrome_extensions/submit_codes)」ページに、以下のChrome拡張機能を追加。
     - [AtCoder Parallel Alert](https://chromewebstore.google.com/detail/poiijcpfeaijlocfncmimadjkppkplef)
 
