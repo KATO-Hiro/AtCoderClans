@@ -77,6 +77,17 @@
       <img loading = "lazy" src="images/userscript/atcoder_mle_to_hisoka.png" alt="atcoder mle to hisoka">
     </div>
 
+=== "Chrome拡張機能"
+
+    2023-11-25
+
+    - 「[ソースコードの提出・確認を簡単に](chrome_extensions/submit_codes)」ページ
+        - [AtCoder Parallel Alert](https://chromewebstore.google.com/detail/poiijcpfeaijlocfncmimadjkppkplef)
+
+    <div align="center">
+      <img loading = "lazy" src="images/chrome_extension/atcoder_parallel_alert.png" alt="atcoder parallel alert">
+    </div>
+
 === "記事"
 
     2023-11-23
