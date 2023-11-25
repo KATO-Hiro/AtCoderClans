@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-11-25
+
+- [#7289](https://github.com/KATO-Hiro/AtCoderClans/pull/7289) - [tomii9273](https://github.com/tomii9273)さんのご紹介で、「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../chrome_extensions/submit_codes)」ページに、以下のChrome拡張機能を追加。
+    - [AtCoder Parallel Alert](https://chromewebstore.google.com/detail/poiijcpfeaijlocfncmimadjkppkplef)
+
 ### 2023-11-24
 
 - [#7284](https://github.com/KATO-Hiro/AtCoderClans/pull/7284) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績に関連するサービス](../../web_app/services_using_scores)」ページに、以下のWebサイトを追加。

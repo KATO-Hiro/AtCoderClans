@@ -77,6 +77,17 @@
       <img loading = "lazy" src="images/userscript/atcoder_mle_to_hisoka.png" alt="atcoder mle to hisoka">
     </div>
 
+=== "Chrome拡張機能"
+
+    2023-11-25
+
+    - 「[ソースコードの提出・確認を簡単に](chrome_extensions/submit_codes)」ページ
+        - [AtCoder Parallel Alert](https://chromewebstore.google.com/detail/poiijcpfeaijlocfncmimadjkppkplef)
+
+    <div align="center">
+      <img loading = "lazy" src="images/chrome_extension/atcoder_parallel_alert.png" alt="atcoder parallel alert">
+    </div>
+
 === "記事"
 
     2023-11-23
@@ -121,11 +132,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AHC典型解法シリーズ第1弾「モンテカルロ法」](https://qiita.com/thun-c/items/8e7ae0249f1907854763)
-
-    2023-11-11
-
-    - 「[プログラミング言語を学ぶ](articles/programming_languages)」ページ
-        - [RustCoder ―― AtCoder と Rust で始める競技プログラミング入門](https://zenn.dev/toga/books/rust-atcoder)
 
 === "動画"
 
