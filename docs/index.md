@@ -133,11 +133,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AHC典型解法シリーズ第1弾「モンテカルロ法」](https://qiita.com/thun-c/items/8e7ae0249f1907854763)
 
-    2023-11-11
-
-    - 「[プログラミング言語を学ぶ](articles/programming_languages)」ページ
-        - [RustCoder ―― AtCoder と Rust で始める競技プログラミング入門](https://zenn.dev/toga/books/rust-atcoder)
-
 === "動画"
 
     2023-11-18
