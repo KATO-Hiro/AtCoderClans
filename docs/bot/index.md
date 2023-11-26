@@ -56,6 +56,10 @@ title: Bot
     - 開催日時: 不定期(30分)
     - 主催者: [Mo_SoooN](https://twitter.com/Mo_SoooN)さん
 
+## コンテスト後の追加テストケースの有無を確認
+
+- [AtCoder After Contest Bot](https://twitter.com/AfterContestBot) - コンテスト後に追加のテストケース（例えば、after contest）がある場合に告知してくれる。
+
 ## 問題の解答状況・記録を確認する
 
 ### Slack
