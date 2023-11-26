@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-11-26
+
+- [#7299](https://github.com/KATO-Hiro/AtCoderClans/pull/7299) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下の記事を追加。
+    - [GitHub ActionsでAtCoder Problemsのバーチャルコンテストを自動で作成したい](https://zenn.dev/powell/scraps/224688ca6ce2b5)
+- [#7298](https://github.com/KATO-Hiro/AtCoderClans/pull/7298) - 「[Web Apps and Sites](../../web_app)」の「[Bot](../../bot)」ページに、以下のTwitter Botを追加。
+    - [AtCoder After Contest Bot](https://twitter.com/AfterContestBot)
+
 ### 2023-11-25
 
 - [#7294](https://github.com/KATO-Hiro/AtCoderClans/pull/7294) - (破壊的な変更) 削除されたと思われるBotアカウントを一時的に「[Archives](../../archived)」ページに移動。
