@@ -57,6 +57,14 @@
 
 === "Webアプリ・Webサイト"
 
+    2023-11-26
+
+    - 「[問題を解く](web_app/solve_problems)」ページ
+        - [GitHub ActionsでAtCoder Problemsのバーチャルコンテストを自動で作成したい](https://zenn.dev/powell/scraps/224688ca6ce2b5)
+
+    - 「[Bot](bot)」ページ
+        - [AtCoder After Contest Bot](https://twitter.com/AfterContestBot)
+
     2023-11-24
 
     - 「[コンテストの成績に関連するサービス](web_app/services_using_scores)」ページ
@@ -64,17 +72,6 @@
 
     <div align="center">
       <img loading = "lazy" src="images/web_app/mov_rating.png" alt="mov rating">
-    </div>
-
-=== "ユーザスクリプト"
-
-    2023-11-12
-
-    - 「[ネタスクリプト](user_scripts/jokes)」ページ
-        - [AtCoderMLEtoHisoka](https://greasyfork.org/ja/scripts/478297-atcodermletohisoka)
-
-    <div align="center">
-      <img loading = "lazy" src="images/userscript/atcoder_mle_to_hisoka.png" alt="atcoder mle to hisoka">
     </div>
 
 === "Chrome拡張機能"
