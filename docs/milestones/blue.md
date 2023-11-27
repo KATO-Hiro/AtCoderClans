@@ -4,6 +4,7 @@ title: レーティング1600〜1999(青色)
 
 ## 2023年
 
+- [2年かけてAtCoderで青色になりました！](https://zenn.dev/through/articles/fba81b6c5f4644) - [through](https://atcoder.jp/users/through)さんが、2023年11月25日に達成。
 - [【AtCoder】プログラミング未経験からのんびり続けて青コーダーになった話](https://qiita.com/chimaki821/items/eb76c042954f725b3bbc) - [chimaki821](https://atcoder.jp/users/chimaki821)さんが、2023年10月26日に公開。
 - [【入青】 中3がAtCoder青色になるまでにやったこと](https://qiita.com/nouka28/items/447d3d213db78c76268e) - [Thinkingpegasus](https://atcoder.jp/users/Thinkingpegasus)さんが、2023年10月21日に達成。
 - [【色変記事】非情報系エンジニアが青色になりました](https://qiita.com/okaponta_/items/5667dfd9cc232eb3bd65) - [okaponta](https://atcoder.jp/users/okaponta)さんが、2023年10月18日に公開。
