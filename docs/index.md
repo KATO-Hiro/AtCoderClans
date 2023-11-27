@@ -87,6 +87,11 @@
 
 === "記事"
 
+    2023-11-27
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2023 - 学校ランキング (11月27日時点)](https://twitter.com/atcoder/status/1728981309178159379)
+
     2023-11-23
 
     - 「[競技プログラミングと就転職](articles/jobs)」ページ
@@ -125,11 +130,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2023 - 学校ランキング (11月15日時点)](https://twitter.com/atcoder/status/1724615306881204451)
 
-    2023-11-13
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AHC典型解法シリーズ第1弾「モンテカルロ法」](https://qiita.com/thun-c/items/8e7ae0249f1907854763)
-
 === "動画"
 
     2023-11-18
@@ -141,6 +141,15 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [全探索とは？お気持ち編［競技プログラミング初心者へ］【ゆっくり解説】](https://www.youtube.com/watch?v=-vGsAqDIgQo)
+
+=== "色変記事"
+
+    色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-11-27
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [through](https://atcoder.jp/users/through)さん - [2年かけてAtCoderで青色になりました！](https://zenn.dev/through/articles/fba81b6c5f4644)
 
 ## AtCoder公式グッズを購入する
 
