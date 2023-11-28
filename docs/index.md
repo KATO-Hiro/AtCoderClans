@@ -48,13 +48,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "入門者・初心者向けの内容"
-
-    2023-11-14
-
-    - 「[Q0: アルゴリズム、競技プログラミングとは?](for_beginners/question0)」ページ
-        - [競技プログラミングの始め方【ゆっくり解説】](https://www.youtube.com/watch?v=BPkZc3wsCxU)
-
 === "Webアプリ・Webサイト"
 
     2023-11-26
@@ -141,6 +134,13 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [全探索とは？お気持ち編［競技プログラミング初心者へ］【ゆっくり解説】](https://www.youtube.com/watch?v=-vGsAqDIgQo)
+
+=== "ライブラリ・スニペット"
+
+    2023-11-28
+
+    - 「[Java](libraries/java)」ページ
+        - [viral8code/viral-Library](https://github.com/viral8code/viral-Library) ![GitHub Repo stars](https://img.shields.io/github/stars/viral8code/viral-Library?style=plastic)
 
 === "色変記事"
 
