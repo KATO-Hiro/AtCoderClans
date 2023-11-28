@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-11-28
+
+- [#7311](https://github.com/KATO-Hiro/AtCoderClans/pull/7311) - 「[Libraries and Snippets](../../libraries)」の「[Java](../../libraries/java)」ページに、Javaで実装されたライブラリを追加。
+    - [viral8code/viral-Library](https://github.com/viral8code/viral-Library) ![GitHub Repo stars](https://img.shields.io/github/stars/viral8code/viral-Library?style=plastic)
+
 ### 2023-11-27
 
 - [#7307](https://github.com/KATO-Hiro/AtCoderClans/pull/7307) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
