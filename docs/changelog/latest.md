@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-11-29
+
+- [#7319](https://github.com/KATO-Hiro/AtCoderClans/pull/7319) - 「[Libraries and Snippets](../../libraries)」の「[Python](../../libraries/python)」ページに、Pythonで実装されたライブラリを追加。
+    - [prd-xxx/gorichan_kyopro_library](https://github.com/prd-xxx/gorichan_kyopro_library) ![GitHub Repo stars](https://img.shields.io/github/stars/prd-xxx/gorichan_kyopro_library?style=plastic)
+- [#7318](https://github.com/KATO-Hiro/AtCoderClans/pull/7318) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Python](../../articles/implementation/python)」ページに、以下の記事を追加。
+    - [ABC330-E Mex and Update を無思考で解けるライブラリを書いた](https://prd-xxx.hateblo.jp/entry/2023/11/29/002226)
+
 ### 2023-11-28
 
 - [#7311](https://github.com/KATO-Hiro/AtCoderClans/pull/7311) - 「[Libraries and Snippets](../../libraries)」の「[Java](../../libraries/java)」ページに、Javaで実装されたライブラリを追加。
