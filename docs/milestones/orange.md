@@ -2,10 +2,19 @@
 title: レーティング2400〜2799(橙色)
 ---
 
+!!! warning "注意"
+    サブカテゴリに部門名(アルゴリズム・ヒューリスティック)が明記されていない場合は、すべてアルゴリズム部門の記事です。
+
 ## 2023年
+
+### アルゴリズム部門
 
 - [【色変記事】AtCoder橙になりました - Yu_212’s diary](https://yu212.hatenablog.com/entry/2023/09/11/025001) - [Yu_212](https://atcoder.jp/users/Yu_212)さんが、2023年9月11日に公開。
 - [【色変記事】Python で AtCoder 橙になりました - toriidaoのブログ](https://toriidao.hateblo.jp/entry/2023/05/31/210009) - [toam](https://atcoder.jp/users/toam)さんが、2023年5月14日に達成。
+
+### ヒューリスティック部門
+
+- [焼きなまし法が使えなくても AHC 橙になれたよ - Kiri8128の日記](https://kiri8128.hatenablog.com/entry/2023/11/29/024335) - [Kiri8128](https://atcoder.jp/users/kiri8128)さんが、2023年11月29日に公開。
 
 ## 2022年
 
