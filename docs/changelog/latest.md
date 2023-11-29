@@ -6,6 +6,8 @@ title: Change Log
 
 ### 2023-11-29
 
+- [#7321](https://github.com/KATO-Hiro/AtCoderClans/pull/7321) - 「[Milestones](../../milestones/orange)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2400から2799まで(橙色)に[Kiri8128](https://atcoder.jp/users/kiri8128)さんの[記事](https://kiri8128.hatenablog.com/entry/2023/11/29/024335)を追加。
 - [#7319](https://github.com/KATO-Hiro/AtCoderClans/pull/7319) - 「[Libraries and Snippets](../../libraries)」の「[Python](../../libraries/python)」ページに、Pythonで実装されたライブラリを追加。
     - [prd-xxx/gorichan_kyopro_library](https://github.com/prd-xxx/gorichan_kyopro_library) ![GitHub Repo stars](https://img.shields.io/github/stars/prd-xxx/gorichan_kyopro_library?style=plastic)
 - [#7318](https://github.com/KATO-Hiro/AtCoderClans/pull/7318) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Python](../../articles/implementation/python)」ページに、以下の記事を追加。
