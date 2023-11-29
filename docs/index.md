@@ -80,6 +80,11 @@
 
 === "記事"
 
+    2023-11-29
+
+    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
+        - [ABC330-E Mex and Update を無思考で解けるライブラリを書いた](https://prd-xxx.hateblo.jp/entry/2023/11/29/002226)
+
     2023-11-27
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -136,6 +141,11 @@
         - [全探索とは？お気持ち編［競技プログラミング初心者へ］【ゆっくり解説】](https://www.youtube.com/watch?v=-vGsAqDIgQo)
 
 === "ライブラリ・スニペット"
+
+    2023-11-29
+
+    - 「[Python](libraries/python)」ページ
+        - [prd-xxx/gorichan_kyopro_library](https://github.com/prd-xxx/gorichan_kyopro_library) ![GitHub Repo stars](https://img.shields.io/github/stars/prd-xxx/gorichan_kyopro_library?style=plastic)
 
     2023-11-28
 
