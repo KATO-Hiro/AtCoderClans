@@ -148,9 +148,14 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
 
+    2023-11-29
+
+    - 「[ヒューリスティック部門 - レーティング2400〜2799(橙色)](milestones/orange)」ページ
+        - [Kiri8128](https://atcoder.jp/users/kiri8128)さん - [焼きなまし法が使えなくても AHC 橙になれたよ - Kiri8128の日記](https://kiri8128.hatenablog.com/entry/2023/11/29/024335)
+
     2023-11-27
 
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+    - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [through](https://atcoder.jp/users/through)さん - [2年かけてAtCoderで青色になりました！](https://zenn.dev/through/articles/fba81b6c5f4644)
 
 ## AtCoder公式グッズを購入する
