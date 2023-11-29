@@ -120,14 +120,6 @@
     - 「[競技プログラミングと就転職](articles/jobs)」ページ
         - [超強力なアルゴリズムチームの魅力 - Algo Artis Media](https://media.algo-artis.com/posts/1ZH8I2PM)
 
-    2023-11-15
-
-    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
-        - [【AtCoder】Pythonで競プロをするときの注意点まとめ【競技プログラミング】](https://qiita.com/kemuniku/items/1f1537e1df2ac8180d9b)
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2023 - 学校ランキング (11月15日時点)](https://twitter.com/atcoder/status/1724615306881204451)
-
 === "動画"
 
     2023-11-18
