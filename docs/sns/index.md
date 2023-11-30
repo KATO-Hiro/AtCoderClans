@@ -18,6 +18,8 @@ title: SNS
 
 - [AHCをみんなで解く会](https://discord.com/invite/ehyVPQ2sVt) - 通称、皆解会。[AtCoder Heuristic Contest (AHC)](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=AtCoder+Heuristic+Contest)のバーチャルコンテストにチームで参加できるグループ。[ainem](https://atcoder.jp/users/ainem)さんが主催されている。
 
+- [Pythonライブラリ研究](https://discord.com/invite/rPWuuGRha2) - [kemuniku](https://atcoder.jp/users/kemuniku)さんによって運営されている、 AtCoder上のPythonにあるライブラリを研究するサーバ。誰でも参加可能。
+
 ## Misskey.io
 
 - [競プロ鯖](https://misskey.kyoupro.com/) - 競技プログラミングに関心があるユーザのコミュニティ。
