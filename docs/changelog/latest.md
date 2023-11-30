@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-11-30
+
+- [#7329](https://github.com/KATO-Hiro/AtCoderClans/pull/7329) - [Home](../..)ページに、本サービスのスポンサー(敬称略)を掲載。ご支援いただき、ありがとうございます。
+    - [chokudai](https://github.com/chokudai)
+- [#7327](https://github.com/KATO-Hiro/AtCoderClans/pull/7327) - [ngtkana](https://github.com/ngtkana)さんのプルリクエストにより、「[Articles, Blogs, Books and Videos](../../media)」の「[SNS](../../sns)」ページに、以下のDiscordサーバを追加。
+    - [Pythonライブラリ研究](https://discord.com/invite/rPWuuGRha2)
+
 ### 2023-11-29
 
 - [#7321](https://github.com/KATO-Hiro/AtCoderClans/pull/7321) - 「[Milestones](../../milestones/orange)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
@@ -294,7 +301,7 @@ title: Change Log
 
 ### 2023-10-12
 
-- [#7024](https://github.com/KATO-Hiro/AtCoderClans/pull/7024)、[#7050](https://github.com/KATO-Hiro/AtCoderClans/pull/7050) - [Home](../..)ページに、本サービスのスポンサーを掲載。ご支援いただき、ありがとうございます。
+- [#7024](https://github.com/KATO-Hiro/AtCoderClans/pull/7024)、[#7050](https://github.com/KATO-Hiro/AtCoderClans/pull/7050) - [Home](../..)ページに、本サービスのスポンサー(敬称略)を掲載。ご支援いただき、ありがとうございます。
     - [toshi201](https://github.com/toshi201)
 - [#7022](https://github.com/KATO-Hiro/AtCoderClans/pull/7022) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
     - [社内ヒューリスティックコンテスト@アルゴ合宿2023 開催レポート](https://media.algo-artis.com/posts/bN4vP1cR)
