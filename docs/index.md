@@ -48,6 +48,14 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "ホーム"
+
+    2023-11-30
+
+    本サービスのスポンサーを掲載(敬称略)。ご支援いただき、ありがとうございます。
+
+    - [chokudai](https://github.com/chokudai)
+
 === "Webアプリ・Webサイト"
 
     2023-11-26
@@ -127,10 +135,12 @@
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [ngtkana](https://www.youtube.com/channel/UC9amFw1nimUfDGAf746HYXQ)
 
-    2023-11-16
+=== "SNS"
 
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [全探索とは？お気持ち編［競技プログラミング初心者へ］【ゆっくり解説】](https://www.youtube.com/watch?v=-vGsAqDIgQo)
+    2023-11-30
+
+    - 「[SNS](sns)」ページ
+        - [Pythonライブラリ研究](https://discord.com/invite/rPWuuGRha2)
 
 === "ライブラリ・スニペット"
 
