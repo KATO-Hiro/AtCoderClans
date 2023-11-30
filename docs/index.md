@@ -137,6 +137,8 @@
 
 === "SNS"
 
+    2023-11-30
+
     - 「[SNS](sns)」ページ
         - [Pythonライブラリ研究](https://discord.com/invite/rPWuuGRha2)
 
