@@ -158,6 +158,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
 
+    2023-12-01
+
+    - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [blueberry1001](https://atcoder.jp/users/blueberry1001)さん - [【Atcoder】高校1年生でAtcoder青色になりました](https://qiita.com/bluebery1001/items/ec889d958ee3a81525ff)
+
     2023-11-29
 
     - 「[ヒューリスティック部門 - レーティング2400〜2799(橙色)](milestones/orange)」ページ

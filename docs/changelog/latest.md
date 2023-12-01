@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-12-01
+
+- [#7332](https://github.com/KATO-Hiro/AtCoderClans/pull/7332) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[blueberry1001](https://atcoder.jp/users/blueberry1001)さんの[記事](https://qiita.com/bluebery1001/items/ec889d958ee3a81525ff)を追加。
+
 ### 2023-11-30
 
 - [#7329](https://github.com/KATO-Hiro/AtCoderClans/pull/7329) - [Home](../..)ページに、本サービスのスポンサー(敬称略)を掲載。ご支援いただき、ありがとうございます。
