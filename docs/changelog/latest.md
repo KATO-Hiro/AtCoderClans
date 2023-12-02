@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-12-02
+
+- [#7338](https://github.com/KATO-Hiro/AtCoderClans/pull/7338)、[#7339](https://github.com/KATO-Hiro/AtCoderClans/pull/7339) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [DFS・BFSとは？お気持ち編［競技プログラミング初心者へ］【ゆっくり解説】](https://www.youtube.com/watch?v=0_9heBS7Flg)
+    - [DP（動的計画法）とは？お気持ち編［競技プログラミング初心者へ］【ゆっくり解説】](https://www.youtube.com/watch?v=oB3L8yyHsFY)
+
 ### 2023-12-01
 
 - [#7332](https://github.com/KATO-Hiro/AtCoderClans/pull/7332) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

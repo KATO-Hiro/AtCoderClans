@@ -123,12 +123,13 @@
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
         - [AtCoder練習・活用サービス](https://atcoder.jp/posts/1134)
 
-    2023-11-17
-
-    - 「[競技プログラミングと就転職](articles/jobs)」ページ
-        - [超強力なアルゴリズムチームの魅力 - Algo Artis Media](https://media.algo-artis.com/posts/1ZH8I2PM)
-
 === "動画"
+
+    2023-12-02
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [DFS・BFSとは？お気持ち編［競技プログラミング初心者へ］【ゆっくり解説】](https://www.youtube.com/watch?v=0_9heBS7Flg)
+        - [DP（動的計画法）とは？お気持ち編［競技プログラミング初心者へ］【ゆっくり解説】](https://www.youtube.com/watch?v=oB3L8yyHsFY)
 
     2023-11-18
 
