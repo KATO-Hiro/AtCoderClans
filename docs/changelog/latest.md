@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-12-03
+
+- [#7347](https://github.com/KATO-Hiro/AtCoderClans/pull/7347) - 「[Scripts](../../scripts)」の「[Webページに色付けする](../../user_scripts/colors)」ページに、以下のユーザスクリプトを追加。
+    - [timemory-limit-emphasizer](https://greasyfork.org/ja/scripts/480675-timemory-limit-emphasizer)
+- [#7346](https://github.com/KATO-Hiro/AtCoderClans/pull/7346) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [AHC典型解法シリーズ第2弾「焼きなまし法」](https://qiita.com/thun-c/items/ecd438fde4d237b1f7bc)
+
 ### 2023-12-02
 
 - [#7338](https://github.com/KATO-Hiro/AtCoderClans/pull/7338)、[#7339](https://github.com/KATO-Hiro/AtCoderClans/pull/7339) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。

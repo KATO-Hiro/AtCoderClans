@@ -75,6 +75,17 @@
       <img loading = "lazy" src="images/web_app/mov_rating.png" alt="mov rating">
     </div>
 
+=== "ユーザスクリプト"
+
+    2023-12-03
+
+    - 「[Webページに色付けする](user_scripts/colors)」ページ
+        - [timemory-limit-emphasizer](https://greasyfork.org/ja/scripts/480675-timemory-limit-emphasizer)
+
+    <div align="center">
+      <img loading = "lazy" src="images/userscript/timemory_limit_emphasizer.png" alt="timemory limit emphasizer">
+    </div>
+
 === "Chrome拡張機能"
 
     2023-11-25
@@ -87,6 +98,11 @@
     </div>
 
 === "記事"
+
+    2023-12-03
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AHC典型解法シリーズ第2弾「焼きなまし法」](https://qiita.com/thun-c/items/ecd438fde4d237b1f7bc)
 
     2023-11-29
 
@@ -118,11 +134,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2023 - 学校ランキング (11月20日時点)](https://twitter.com/atcoder/status/1726455552606372167)
 
-    2023-11-18
-
-    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
-        - [AtCoder練習・活用サービス](https://atcoder.jp/posts/1134)
-
 === "動画"
 
     2023-12-02
@@ -130,11 +141,6 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [DFS・BFSとは？お気持ち編［競技プログラミング初心者へ］【ゆっくり解説】](https://www.youtube.com/watch?v=0_9heBS7Flg)
         - [DP（動的計画法）とは？お気持ち編［競技プログラミング初心者へ］【ゆっくり解説】](https://www.youtube.com/watch?v=oB3L8yyHsFY)
-
-    2023-11-18
-
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [ngtkana](https://www.youtube.com/channel/UC9amFw1nimUfDGAf746HYXQ)
 
 === "SNS"
 
