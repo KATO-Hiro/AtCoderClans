@@ -27,6 +27,10 @@ title: 部活・サークル・同好会・オンサイトイベントに参加�
 
 - [発案から10日で107名の大宴会を開催した話(メール一括作成GASつき)](https://d-burioden.hateblo.jp/entry/2023/04/03/043035) - 100人規模の宴会を開催する際に、店の予約・参加者の把握・懸念事項への対策などの知見がまとめられている記事。
 
+### 緑以下コンテスト
+
+- [第2回緑以下コンテスト開催記](https://kusirara.hatenablog.com/entry/2023/12/04/134934) - オンサイトイベントの主催者による開催記。同イベントの意義・開催経緯、準備状況、当日の様子、意識した内容、大変だった点や反省点、今後オンサイトイベントを開催したい人向けの行動指針などがつづられている。
+
 ### World Tour Finals 2022
 
 - [AtCoder World Tour Finals 2022 参加記](https://heno239.hatenablog.com/entry/2023/09/10/133932) - [heno239](https://atcoder.jp/users/heno239)さんによるWorld Tour Finals 2022 ([Day1](https://atcoder.jp/contests/wtf22-day1)、[Day2](https://atcoder.jp/contests/wtf22-day2))の参加記。コンテストの戦略・思考過程に加えて、各国の参加者との国際交流・グルメなどについても言及されている。
