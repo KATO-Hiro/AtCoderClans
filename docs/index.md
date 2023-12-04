@@ -99,6 +99,14 @@
 
 === "記事"
 
+    2023-12-04
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [第2回緑以下コンテスト開催記](https://kusirara.hatenablog.com/entry/2023/12/04/134934)
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2023 - 学校ランキング (12月4日時点)](https://twitter.com/atcoder/status/1731514391756243121)
+
     2023-12-03
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
