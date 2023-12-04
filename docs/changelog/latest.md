@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-12-04
+
+- [#7353](https://github.com/KATO-Hiro/AtCoderClans/pull/7353) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
+    - [第2回緑以下コンテスト開催記](https://kusirara.hatenablog.com/entry/2023/12/04/134934)
+- [#7352](https://github.com/KATO-Hiro/AtCoderClans/pull/7352) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AtCoder Junior League 2023 - 学校ランキング (12月4日時点)](https://twitter.com/atcoder/status/1731514391756243121)
+
 ### 2023-12-03
 
 - [#7347](https://github.com/KATO-Hiro/AtCoderClans/pull/7347) - 「[Scripts](../../scripts)」の「[Webページに色付けする](../../user_scripts/colors)」ページに、以下のユーザスクリプトを追加。
