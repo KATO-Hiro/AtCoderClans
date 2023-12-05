@@ -137,11 +137,6 @@
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
         - [【AtCoder】 AtCoder Beginner Contest A~C問題の傾向と対策 part1](https://qiita.com/darake/items/dd66663b80f6974cd8a9)
 
-    2023-11-20
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2023 - 学校ランキング (11月20日時点)](https://twitter.com/atcoder/status/1726455552606372167)
-
 === "動画"
 
     2023-12-02
