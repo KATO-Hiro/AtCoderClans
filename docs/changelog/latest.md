@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-12-06
+
+- [#7361](https://github.com/KATO-Hiro/AtCoderClans/pull/7361) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
+    - [オンサイトのプログラミングコンテスト「緑以下コンテスト」を開催しました！](https://deuteridayo.hateblo.jp/entry/2023/12/05/211915)
+
 ### 2023-12-05
 
 - [#7357](https://github.com/KATO-Hiro/AtCoderClans/pull/7357) - (破壊的な変更) 「[Change Log](../latest)」ページの2023年10月分を月別のアーカイブに移動。
