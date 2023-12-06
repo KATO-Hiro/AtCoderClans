@@ -99,6 +99,11 @@
 
 === "記事"
 
+    2023-12-06
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [オンサイトのプログラミングコンテスト「緑以下コンテスト」を開催しました！](https://deuteridayo.hateblo.jp/entry/2023/12/05/211915)
+
     2023-12-04
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
@@ -131,11 +136,6 @@
 
     - 「[競技プログラミングと就転職](articles/jobs)」ページ
         - [AtCoder株式会社代表 高橋直大氏 - 社長の履歴書](https://donzoko-ceo.com/atcoder/)
-
-    2023-11-21
-
-    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
-        - [【AtCoder】 AtCoder Beginner Contest A~C問題の傾向と対策 part1](https://qiita.com/darake/items/dd66663b80f6974cd8a9)
 
 === "動画"
 
