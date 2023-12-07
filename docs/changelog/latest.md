@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-12-07
+
+- [#7366](https://github.com/KATO-Hiro/AtCoderClans/pull/7336) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - C++](../../articles/implementation/cpp)」ページに、以下の記事を追加。
+    - [【GitHubスター100個突破】Pythonのprint()のC++版を本気で作ってみた](https://zenn.dev/sassan/articles/4878e79272ed61)
+
 ### 2023-12-06
 
 - [#7361](https://github.com/KATO-Hiro/AtCoderClans/pull/7361) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
