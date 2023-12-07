@@ -99,6 +99,11 @@
 
 === "記事"
 
+    2023-12-07
+
+    - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
+        - [【GitHubスター100個突破】Pythonのprint()のC++版を本気で作ってみた](https://zenn.dev/sassan/articles/4878e79272ed61)
+
     2023-12-06
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
@@ -131,11 +136,6 @@
 
     - 「[競技プログラミングと就転職](articles/jobs)」ページ
         - [グラフ縮約の前処理による再計算アルゴリズムの改善](https://tech.preferred.jp/ja/blog/improve_recomputation_algorithm_by_graph_contraction_preprocessing/)
-
-    2023-11-22
-
-    - 「[競技プログラミングと就転職](articles/jobs)」ページ
-        - [AtCoder株式会社代表 高橋直大氏 - 社長の履歴書](https://donzoko-ceo.com/atcoder/)
 
 === "動画"
 
