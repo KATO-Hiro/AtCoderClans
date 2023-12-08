@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-12-08
+
+- [#7374](https://github.com/KATO-Hiro/AtCoderClans/pull/7374) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[Kawa_](https://atcoder.jp/users/Kawa_)さんの[記事](https://qiita.com/Kawa_/items/19f4ea74efc70a347c8d)を追加。
+
 ### 2023-12-07
 
 - [#7366](https://github.com/KATO-Hiro/AtCoderClans/pull/7336) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - C++](../../articles/implementation/cpp)」ページに、以下の記事を追加。

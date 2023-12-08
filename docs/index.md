@@ -132,11 +132,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2023 - 学校ランキング (11月27日時点)](https://twitter.com/atcoder/status/1728981309178159379)
 
-    2023-11-23
-
-    - 「[競技プログラミングと就転職](articles/jobs)」ページ
-        - [グラフ縮約の前処理による再計算アルゴリズムの改善](https://tech.preferred.jp/ja/blog/improve_recomputation_algorithm_by_graph_contraction_preprocessing/)
-
 === "動画"
 
     2023-12-02
@@ -167,6 +162,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-12-08
+
+    - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
+        - [Kawa_](https://atcoder.jp/users/Kawa_)さん - [入茶しました](https://qiita.com/Kawa_/items/19f4ea74efc70a347c8d)
 
     2023-12-01
 
