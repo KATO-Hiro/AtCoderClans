@@ -65,6 +65,12 @@ title: 競技プログラミングと就転職
 
 ### 感想・体験記
 
+<!-- markdown-link-check-disable -->
+
+- [Web開発、まじで何もわからない](https://www.estie.jp/blog/entry/2023/12/08/152723) - [AtCoder](https://atcoder.jp/)やオンサイトコンテストなどをきっかけに、未経験のWeb開発への挑戦を振り返った記事。経歴、勤務先との出会い、働いた感想、採用フロー、これから実現したいことなどに言及されている。
+
+<!-- markdown-link-check-enable -->
+
 - [おいしいキャベツの育て方](https://ngtkana.hatenablog.com/entry/2021/03/17/210830) - [ngtkana](https://atcoder.jp/users/ngtkana)さんが、プログラミングを始めたきっかけ・[AtCoder](https://atcoder.jp/)との出会い・アルバイトを経て現職に至るまでの過程を紹介した記事。
 - [競プロは業務の役に立っているか？～ふるやんの場合～](https://www.creativ.xyz/shakaijin-first-anniversary/) - [furuya1223](https://atcoder.jp/users/furuya1223)さんが、音声認識に関する研究開発に1年間従事して、競技プログラミングが直接的・間接的に役に立った経験を紹介した記事。
 - [社会に出て感じたギャップTOP10](https://docs.google.com/presentation/d/16hCteY3ap_IIIyaT4KMmRBHM4X_4wt0Ge_kd9V_xg8s/edit#slide=id.g2cb369b990_0_113) - [kyuridenamida](https://atcoder.jp/users/kyuridenamida)さんがソフトウェア開発会社に就職する前後で感じたギャップをランキング形式で紹介したスライド資料。
