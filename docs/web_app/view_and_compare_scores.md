@@ -9,6 +9,8 @@ title: コンテストの成績を見る
 
 ## レーティングとパフォーマンス値を見る
 
+### 1人
+
 - [AtCoder Charts](https://atcoder-charts.netlify.com/) - 任意のユーザのレーティングとパフォーマンス値の推移を表示する。
 
     <div align="center">
@@ -19,6 +21,14 @@ title: コンテストの成績を見る
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_competition_history_chart_maker.png" alt="atcoder competition history chart maker">
+    </div>
+
+### 2人以上
+
+- [AtCoderパフォーマンス・レーティング](https://atcoder-tools.quizgenerator.net/performance_rating.php) - 指定した1人以上のユーザのレーティングとパフォーマンス値（内部補正なし）の推移を表示する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/performance_rating.png" alt="performance rating">
     </div>
 
 ## レーティングを見る・比較する
