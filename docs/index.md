@@ -58,6 +58,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2023-12-09
+
+    - 「[コンテストの成績を見る](web_app/view_and_compare_scores)」ページ
+        - [AtCoderパフォーマンス・レーティング](https://atcoder-tools.quizgenerator.net/performance_rating.php)
+
+    <div align="center">
+      <img loading = "lazy" src="images/web_app/performance_rating.png" alt="performance rating">
+    </div>
+
     2023-11-26
 
     - 「[問題を解く](web_app/solve_problems)」ページ
@@ -65,15 +74,6 @@
 
     - 「[Bot](bot)」ページ
         - [AtCoder After Contest Bot](https://twitter.com/AfterContestBot)
-
-    2023-11-24
-
-    - 「[コンテストの成績に関連するサービス](web_app/services_using_scores)」ページ
-        - [もすーんバチャ Rating Page](https://mosoon.net/mov_rating/top.html)
-
-    <div align="center">
-      <img loading = "lazy" src="images/web_app/mov_rating.png" alt="mov rating">
-    </div>
 
 === "ユーザスクリプト"
 
@@ -98,6 +98,13 @@
     </div>
 
 === "記事"
+
+    2023-12-09
+
+    - 「[競技プログラミングと就転職](articles/jobs)」ページ
+        <!-- markdown-link-check-disable -->
+        - [Web開発、まじで何もわからない](https://www.estie.jp/blog/entry/2023/12/08/152723)
+        <!-- markdown-link-check-enable -->
 
     2023-12-07
 
@@ -162,6 +169,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-12-09
+
+     - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
+        - [shinchan](https://atcoder.jp/users/shinchan)さん - [競プロ始めて6年、知らないうちに黄色になってました - 橙になりたいaquarium](https://shinchankosen.hatenadiary.jp/entry/2023/12/09/000012)
 
     2023-12-08
 

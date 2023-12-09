@@ -4,6 +4,20 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-12-09
+
+- [#7381](https://github.com/KATO-Hiro/AtCoderClans/pull/7381) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績を見る](../../web_app/view_and_compare_scores)」ページに、以下のWebアプリを追加。
+    - [AtCoderパフォーマンス・レーティング](https://atcoder-tools.quizgenerator.net/performance_rating.php)
+- [#7380](https://github.com/KATO-Hiro/AtCoderClans/pull/7380) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
+    <!-- markdown-link-check-disable -->
+
+    - [Web開発、まじで何もわからない](https://www.estie.jp/blog/entry/2023/12/08/152723)
+
+    <!-- markdown-link-check-enable -->
+
+- [#7379](https://github.com/KATO-Hiro/AtCoderClans/pull/7379) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[shinchan](https://atcoder.jp/users/shinchan)さんの[記事](https://shinchankosen.hatenadiary.jp/entry/2023/12/09/000012)を追加。
+
 ### 2023-12-08
 
 - [#7374](https://github.com/KATO-Hiro/AtCoderClans/pull/7374) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
