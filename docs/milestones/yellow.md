@@ -12,6 +12,7 @@ title: レーティング2000〜2399(黄色)
 - [AtCoder黄色になりました - memo46](https://bakamono1357.hatenablog.com/entry/2023/03/23/004604) - [siro53](https://atcoder.jp/users/siro53)さんが、2023年3月19日に達成。
 - [AtCoder黄色になりました](https://note.com/yfuka86/n/n2d8da12389d7) - [yfuka86](https://atcoder.jp/users/yfuka86)さんが、2023年2月4日に達成。
 - [AtCoder黄色になりました！！ - 橙になりたいaquarium](https://shinchankosen.hatenadiary.jp/entry/2023/01/31/204517) - [shinchan](https://atcoder.jp/users/shinchan)さんが、2023年1月14日に達成。
+    - [競プロ始めて6年、知らないうちに黄色になってました](https://shinchankosen.hatenadiary.jp/entry/2023/12/09/000012)
 
 ## 2022年
 
