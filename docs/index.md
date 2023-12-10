@@ -46,6 +46,16 @@
 
 ## 最新情報を確認する
 
+### AtCoder公式
+
+<!-- markdown-link-check-disable -->
+
+- [AtCoderInfo](https://info.atcoder.jp/) - [AtCoder](https://atcoder.jp/)の公式ポータルサイトです。コンテストの参加方法や取り組み方、採用担当者向け情報などが公開されています。
+
+<!-- markdown-link-check-enable -->
+
+### 非公式サービス・ツール・ライブラリ・記事など
+
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
 === "ホーム"
