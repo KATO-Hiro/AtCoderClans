@@ -60,6 +60,16 @@
 
 === "ホーム"
 
+    2023-12-10
+
+    [AtCoder](https://atcoder.jp/)の公式ポータルサイトを掲載。
+
+    <!-- markdown-link-check-disable -->
+
+    - [AtCoderInfo](https://info.atcoder.jp/)
+
+    <!-- markdown-link-check-enable -->
+
     2023-11-30
 
     本サービスのスポンサーを掲載(敬称略)。ご支援いただき、ありがとうございます。
@@ -149,6 +159,14 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2023 - 学校ランキング (11月27日時点)](https://twitter.com/atcoder/status/1728981309178159379)
 
+=== "ブログ"
+    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2023-12-10
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [Magentor](https://atcoder.jp/users/Magentor)さん - [Qiita](https://qiita.com/Magentor)
+
 === "動画"
 
     2023-12-02
@@ -158,6 +176,11 @@
         - [DP（動的計画法）とは？お気持ち編［競技プログラミング初心者へ］【ゆっくり解説】](https://www.youtube.com/watch?v=oB3L8yyHsFY)
 
 === "SNS"
+
+    2023-12-10
+
+    - 「[SNS](sns)」ページ
+        - [𝙠𝙮𝙤𝙥𝙧𝙪𝙨𝙩𝙚𝙘𝙚𝙖𝙣𝙨](https://discord.gg/RmRCzPnFPc)
 
     2023-11-30
 

@@ -4,6 +4,19 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-12-10
+
+- [#7390](https://github.com/KATO-Hiro/AtCoderClans/pull/7390) - [Home](../..)ページに、[AtCoder](https://atcoder.jp/)の公式ポータルサイトを追加。
+    <!-- markdown-link-check-disable -->
+
+    - [AtCoderInfo](https://info.atcoder.jp/)
+
+    <!-- markdown-link-check-enable -->
+
+- [#7389](https://github.com/KATO-Hiro/AtCoderClans/pull/7389) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加・更新。
+- [#7388](https://github.com/KATO-Hiro/AtCoderClans/pull/7388) - [ngtkana](https://github.com/ngtkana)さんのプルリクエストにより、「[Articles, Blogs, Books and Videos](../../media)」の「[SNS](../../sns)」ページに掲載しているDiscordサーバのURLを更新。
+    - [𝙠𝙮𝙤𝙥𝙧𝙪𝙨𝙩𝙚𝙘𝙚𝙖𝙣𝙨](https://discord.gg/RmRCzPnFPc)
+
 ### 2023-12-09
 
 - [#7381](https://github.com/KATO-Hiro/AtCoderClans/pull/7381) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績を見る](../../web_app/view_and_compare_scores)」ページに、以下のWebアプリを追加。
