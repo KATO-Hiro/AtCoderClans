@@ -16,6 +16,7 @@ title: C&#43;&#43;
 |phocom|[Qiita](https://qiita.com/phocom)||
 |saharan|[自作ブログ](https://blog.oimo.io/)||
 |Shun_PI|[Qiita](https://qiita.com/Shun_PI)||
+|siman|[はてなブログ](https://simanman.hatenablog.com/)||
 |square1001|[Qiita](https://qiita.com/square1001)||
 |takumi152|[はてなブログ](https://takumi152.hatenablog.jp/)||
 |WA_TLE|[はてなブログ](https://watle.hatenablog.com/)|2019年1月以降、新規の記事を確認できず。|
@@ -38,7 +39,6 @@ title: C&#43;&#43;
 |Nyaan|[はてなブログ](https://nyaan.hatenablog.com/)||
 |risujiroh|[はてなブログ](https://risujiroh.hatenablog.com/)||
 |shibh308|[はてなブログ](https://shibh308.hatenablog.com/)||
-|siman|[はてなブログ](https://simanman.hatenablog.com/)||
 |ValGrowth|[はてなブログ](https://valgrowth.hatenablog.com/archive)||
 |wanui|[Zenn](https://zenn.dev/gmeriaog)||
 |yunix|[はてなブログ](https://yunix-kyopro.hatenablog.com/)||
@@ -51,6 +51,7 @@ title: C&#43;&#43;
 |colun|[自作ブログ](http://www.colun.net/blog)|2016年10月以降、新規の記事を確認できず。|
 |E869120|[はてなブログ](https://e869120.hatenablog.com/)、[Qiita](https://qiita.com/e869120)||
 |ebicochineal|[自作ブログ](http://ebicochineal.blogspot.com/)||
+|ganmodokix|[はてなブログ](https://aprilganmo.hatenablog.com/)||
 |hakomo|[はてなブログ](https://hakomof.hatenablog.com/)||
 |hari64|[Qiita](https://qiita.com/hari64)||
 |hirokazu1020|[はてなブログ](https://hirokazu1020.hatenablog.com/)||
@@ -75,6 +76,7 @@ title: C&#43;&#43;
 |satanic0258|[はてなブログ](https://satanic0258.hatenablog.com/)|2018年9月以降、新規の記事を確認できず。|
 |Shibuyap|[Qiita](https://qiita.com/Shibuyap)||
 |shindannin|[はてなブログ](https://shindannin.hatenadiary.com/)||
+|shotoyoo|[Qiita](https://qiita.com/shotoyoo)||
 |ssaattoo|[はてなブログ](https://ssaattoo.hatenablog.com/)||
 |theory_and_me|[はてなブログ](https://theory-and-me.hatenablog.com/)||
 |tokoharu|[はてなブログ](https://tokoharuland.hateblo.jp/)|2020年1月以降、新規の記事を確認できず。|
