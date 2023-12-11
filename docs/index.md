@@ -106,18 +106,12 @@
       <img loading = "lazy" src="images/userscript/timemory_limit_emphasizer.png" alt="timemory limit emphasizer">
     </div>
 
-=== "Chrome拡張機能"
-
-    2023-11-25
-
-    - 「[ソースコードの提出・確認を簡単に](chrome_extensions/submit_codes)」ページ
-        - [AtCoder Parallel Alert](https://chromewebstore.google.com/detail/poiijcpfeaijlocfncmimadjkppkplef)
-
-    <div align="center">
-      <img loading = "lazy" src="images/chrome_extension/atcoder_parallel_alert.png" alt="atcoder parallel alert">
-    </div>
-
 === "記事"
+
+    2023-12-11
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2023 - 学校ランキング (12月11日時点)](https://twitter.com/atcoder/status/1734059295308931239)
 
     2023-12-09
 
@@ -161,6 +155,19 @@
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2023-12-11
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [siman](https://atcoder.jp/users/siman)さん - [はてなブログ](https://simanman.hatenablog.com/)
+        - [ganmodokix](https://atcoder.jp/users/ganmodokix)さん - [はてなブログ](https://aprilganmo.hatenablog.com/)
+        - [shotoyoo](https://atcoder.jp/users/shotoyoo)さん - [Qiita](https://qiita.com/shotoyoo)
+
+    - 「[ヒューリスティック部門 - C#](blogs/heuristic/csharp)」ページ
+        - [G4NP0N](https://atcoder.jp/users/G4NP0N)さん - [はてなブログ](https://g4np0n-kyopro.hatenablog.com)
+
+    - 「[ヒューリスティック部門 - Go](blogs/heuristic/go)」ページ
+        - [montplusa](https://atcoder.jp/users/montplusa)さん - [はてなブログ](https://montplusa.hatenablog.com/archive)
 
     2023-12-10
 

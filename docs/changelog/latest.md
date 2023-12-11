@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-12-11
+
+- [#7397](https://github.com/KATO-Hiro/AtCoderClans/pull/7397) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AtCoder Junior League 2023 - 学校ランキング (12月11日時点)](https://twitter.com/atcoder/status/1734059295308931239)
+- [#7396](https://github.com/KATO-Hiro/AtCoderClans/pull/7396) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加・更新。
+
 ### 2023-12-10
 
 - [#7390](https://github.com/KATO-Hiro/AtCoderClans/pull/7390) - [Home](../..)ページに、[AtCoder](https://atcoder.jp/)の公式ポータルサイトを追加。
