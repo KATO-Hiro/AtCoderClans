@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-12-12
+
+- [#7405](https://github.com/KATO-Hiro/AtCoderClans/pull/7405) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[zaki7](https://atcoder.jp/users/zaki7)さんの[記事](https://qiita.com/rfvr7/items/0e7dafdeef30ff0203e4)を追加。
+- [#7404](https://github.com/KATO-Hiro/AtCoderClans/pull/7404) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [HACK TO THE FUTURE 2024 （AtCoder Heuristic Contest 027）参加記](https://kaede2020.hatenablog.com/entry/2023/12/10/204502)
+
 ### 2023-12-11
 
 - [#7397](https://github.com/KATO-Hiro/AtCoderClans/pull/7397) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
