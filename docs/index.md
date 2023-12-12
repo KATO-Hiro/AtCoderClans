@@ -87,14 +87,6 @@
       <img loading = "lazy" src="images/web_app/performance_rating.png" alt="performance rating">
     </div>
 
-    2023-11-26
-
-    - 「[問題を解く](web_app/solve_problems)」ページ
-        - [GitHub ActionsでAtCoder Problemsのバーチャルコンテストを自動で作成したい](https://zenn.dev/powell/scraps/224688ca6ce2b5)
-
-    - 「[Bot](bot)」ページ
-        - [AtCoder After Contest Bot](https://twitter.com/AfterContestBot)
-
 === "ユーザスクリプト"
 
     2023-12-03
@@ -107,6 +99,11 @@
     </div>
 
 === "記事"
+
+    2023-12-12
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [HACK TO THE FUTURE 2024 （AtCoder Heuristic Contest 027）参加記](https://kaede2020.hatenablog.com/entry/2023/12/10/204502)
 
     2023-12-11
 
@@ -209,6 +206,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-12-12
+
+    - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [zaki7](https://atcoder.jp/users/zaki7)さん - [【入緑記念】レーティングの稼ぎ方(AtCoder)](https://qiita.com/rfvr7/items/0e7dafdeef30ff0203e4)
 
     2023-12-09
 
