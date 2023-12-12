@@ -4,6 +4,7 @@ title: レーティング800〜1199(緑色)
 
 ## 2023年
 
+- [【入緑記念】レーティングの稼ぎ方(AtCoder)](https://qiita.com/rfvr7/items/0e7dafdeef30ff0203e4) - [zaki7](https://atcoder.jp/users/zaki7)さんが、2023年12月9日に達成。
 - [【AtCoder】Pythonで入緑しました！！](https://qiita.com/Totosuki/items/cc98efbd260c76635cc5) - [totosuki](https://atcoder.jp/users/totosuki)さんが、2023年10月28日に達成。
 - [算数の教養がほとんどなかったプログラマがAtCoderを4年やって緑になれた話](https://note.com/kirimin_chan/n/n337f5bdf7e48) - [kirimin](https://atcoder.jp/users/kirimin)さんが、2023年9月23日に達成。
 - [数学が苦手な大学生の AtCoder 入緑記事](https://note.com/yindolsa/n/n512d1530339e) - [ZUkA_](https://atcoder.jp/users/ZUkA_)さんが、2023年9月16日に達成。
