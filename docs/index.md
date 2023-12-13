@@ -100,6 +100,14 @@
 
 === "記事"
 
+    2023-12-13
+
+    - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
+        - [AtCoderのFortranでfortran-stdlibが使えるようになったので何が楽になるかを考える](https://qiita.com/osada-yum/items/3674eb515fc25c891ecf)
+
+    - 「[数学を学ぶ](articles/math)」ページ
+        - [有理数 mod 998244353 の徹底解説！](https://drken1215.hatenablog.com/entry/2023/12/06/020241)
+
     2023-12-12
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -144,11 +152,6 @@
 
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
         - [ABC330-E Mex and Update を無思考で解けるライブラリを書いた](https://prd-xxx.hateblo.jp/entry/2023/11/29/002226)
-
-    2023-11-27
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2023 - 学校ランキング (11月27日時点)](https://twitter.com/atcoder/status/1728981309178159379)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -231,11 +234,6 @@
 
     - 「[ヒューリスティック部門 - レーティング2400〜2799(橙色)](milestones/orange)」ページ
         - [Kiri8128](https://atcoder.jp/users/kiri8128)さん - [焼きなまし法が使えなくても AHC 橙になれたよ - Kiri8128の日記](https://kiri8128.hatenablog.com/entry/2023/11/29/024335)
-
-    2023-11-27
-
-    - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [through](https://atcoder.jp/users/through)さん - [2年かけてAtCoderで青色になりました！](https://zenn.dev/through/articles/fba81b6c5f4644)
 
 ## AtCoder公式グッズを購入する
 
