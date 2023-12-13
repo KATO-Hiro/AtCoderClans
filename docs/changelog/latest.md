@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-12-13
+
+- [#7409](https://github.com/KATO-Hiro/AtCoderClans/pull/7409) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Others](../../articles/implementation/others)」ページに、以下の記事を追加。
+    - [AtCoderのFortranでfortran-stdlibが使えるようになったので何が楽になるかを考える](https://qiita.com/osada-yum/items/3674eb515fc25c891ecf)
+- [#7408](https://github.com/KATO-Hiro/AtCoderClans/pull/7408) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
+    - [有理数 mod 998244353 の徹底解説！](https://drken1215.hatenablog.com/entry/2023/12/06/020241)
+
 ### 2023-12-12
 
 - [#7405](https://github.com/KATO-Hiro/AtCoderClans/pull/7405) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
