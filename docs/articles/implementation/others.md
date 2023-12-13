@@ -42,6 +42,12 @@ title: Others
 
 - [AtCoderのABCのA問題でdcで書きやすいものまとめ](https://qiita.com/shogo314/items/fff4be1573d2f86dba2a) - AtCoder Beginner Contest 100までのA問題を対象として、各問題の解答の方針がまとめられている。
 
+## Fortran
+
+### 文法・言語仕様
+
+- [AtCoderのFortranでfortran-stdlibが使えるようになったので何が楽になるかを考える](https://qiita.com/osada-yum/items/3674eb515fc25c891ecf) - ジャッジシステムで利用可能なライブラリfortran-stdlibのうち、ソート・文字列入力・連想配列の実用性について言及されている。
+
 ## Go
 
 ### 文法・言語仕様
