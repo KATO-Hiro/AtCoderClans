@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-12-14
+
+- [#7417](https://github.com/KATO-Hiro/AtCoderClans/pull/7417) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[Rillaboom2020](https://atcoder.jp/users/Rillaboom2020)さんの[記事](https://note.com/chemmath1023/n/n60b94393f733)を追加。
+
 ### 2023-12-13
 
 - [#7409](https://github.com/KATO-Hiro/AtCoderClans/pull/7409) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Others](../../articles/implementation/others)」ページに、以下の記事を追加。
