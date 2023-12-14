@@ -201,14 +201,14 @@
     - 「[Python](libraries/python)」ページ
         - [prd-xxx/gorichan_kyopro_library](https://github.com/prd-xxx/gorichan_kyopro_library) ![GitHub Repo stars](https://img.shields.io/github/stars/prd-xxx/gorichan_kyopro_library?style=plastic)
 
-    2023-11-28
-
-    - 「[Java](libraries/java)」ページ
-        - [viral8code/viral-Library](https://github.com/viral8code/viral-Library) ![GitHub Repo stars](https://img.shields.io/github/stars/viral8code/viral-Library?style=plastic)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-12-14
+
+    - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [Rillaboom2020](https://atcoder.jp/users/Rillaboom2020)さん - [AtCoderで入青しました](https://note.com/chemmath1023/n/n60b94393f733)
 
     2023-12-12
 
