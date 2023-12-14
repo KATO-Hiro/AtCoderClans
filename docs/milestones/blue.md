@@ -4,6 +4,7 @@ title: レーティング1600〜1999(青色)
 
 ## 2023年
 
+- [AtCoderで入青しました](https://note.com/chemmath1023/n/n60b94393f733) - [Rillaboom2020](https://atcoder.jp/users/Rillaboom2020)さんが、2023年12月14日に公開。
 - [【Atcoder】高校1年生でAtcoder青色になりました](https://qiita.com/bluebery1001/items/ec889d958ee3a81525ff) - [blueberry1001](https://atcoder.jp/users/blueberry1001)さんが、2023年12月1日に公開。
 - [2年かけてAtCoderで青色になりました！](https://zenn.dev/through/articles/fba81b6c5f4644) - [through](https://atcoder.jp/users/through)さんが、2023年11月25日に達成。
 - [【AtCoder】プログラミング未経験からのんびり続けて青コーダーになった話](https://qiita.com/chimaki821/items/eb76c042954f725b3bbc) - [chimaki821](https://atcoder.jp/users/chimaki821)さんが、2023年10月26日に公開。
