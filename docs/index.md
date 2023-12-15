@@ -148,11 +148,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AHC典型解法シリーズ第2弾「焼きなまし法」](https://qiita.com/thun-c/items/ecd438fde4d237b1f7bc)
 
-    2023-11-29
-
-    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
-        - [ABC330-E Mex and Update を無思考で解けるライブラリを書いた](https://prd-xxx.hateblo.jp/entry/2023/11/29/002226)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -194,16 +189,14 @@
     - 「[SNS](sns)」ページ
         - [Pythonライブラリ研究](https://discord.com/invite/rPWuuGRha2)
 
-=== "ライブラリ・スニペット"
-
-    2023-11-29
-
-    - 「[Python](libraries/python)」ページ
-        - [prd-xxx/gorichan_kyopro_library](https://github.com/prd-xxx/gorichan_kyopro_library) ![GitHub Repo stars](https://img.shields.io/github/stars/prd-xxx/gorichan_kyopro_library?style=plastic)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-12-15
+
+    - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [shunta](https://atcoder.jp/users/shunta)さん - [AtCoderで入茶&入緑しました！！　～競プロに取り組んだ4年間を振り返る～](https://qiita.com/NAVYSHUNTA/items/cd6cee9c4bdb0f82d87f)
 
     2023-12-14
 
@@ -229,11 +222,6 @@
 
     - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [blueberry1001](https://atcoder.jp/users/blueberry1001)さん - [【Atcoder】高校1年生でAtcoder青色になりました](https://qiita.com/bluebery1001/items/ec889d958ee3a81525ff)
-
-    2023-11-29
-
-    - 「[ヒューリスティック部門 - レーティング2400〜2799(橙色)](milestones/orange)」ページ
-        - [Kiri8128](https://atcoder.jp/users/kiri8128)さん - [焼きなまし法が使えなくても AHC 橙になれたよ - Kiri8128の日記](https://kiri8128.hatenablog.com/entry/2023/11/29/024335)
 
 ## AtCoder公式グッズを購入する
 

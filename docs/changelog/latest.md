@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-12-15
+
+- [#7425](https://github.com/KATO-Hiro/AtCoderClans/pull/7425) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[shunta](https://atcoder.jp/users/shunta)さんの[記事](https://qiita.com/NAVYSHUNTA/items/cd6cee9c4bdb0f82d87f)を追加。
+- [#7424](https://github.com/KATO-Hiro/AtCoderClans/pull/7424) - (破壊的な変更) リンク切れと思われるWebアプリ・記事を一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2023-12-14
 
 - [#7417](https://github.com/KATO-Hiro/AtCoderClans/pull/7417) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
