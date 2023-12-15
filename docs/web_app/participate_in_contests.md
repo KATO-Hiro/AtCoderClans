@@ -26,11 +26,3 @@ title: コンテストに参加する
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_calender.png" alt="atcoder calendar">
     </div>
-
-## チーム分けを行う
-
-- [TeamMaker](https://compro.tsutajiro.com/cp-teammaker/index.php) - 競技プログラミングにおけるチーム分けを補助する。beta版。
-
-  <div align="center">
-    <img loading = "lazy" src="../../images/web_app/teammaker.png" alt="teammaker">
-  </div>
