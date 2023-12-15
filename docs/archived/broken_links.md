@@ -25,6 +25,15 @@ title: リンク切れ
 
 ## Webアプリ・Webサイト
 
+### チーム分けを行う
+
+- [TeamMaker](https://compro.tsutajiro.com/cp-teammaker/index.php) - 競技プログラミングにおけるチーム分けを補助する。beta版。
+    - 確認した日: 2023/12/15
+
+  <div align="center">
+    <img loading = "lazy" src="../../images/web_app/teammaker.png" alt="teammaker">
+  </div>
+
 ### 解法・解説を共有
 
 - [AC Solutions](https://ac-solutions.onrender.com/) - (ベータ版) 問題の解法・解説を共有できる。
@@ -242,6 +251,9 @@ title: リンク切れ
 
 ### レーティング1600〜1999(青色)
 
+- [AtCoder青色になりました](https://note.com/treewhitetree/n/ned03462f84a2) - [Medakaa](https://atcoder.jp/users/Medakaa)さんが、2021年11月21日に達成。
+    - 確認した日: 2023/12/15
+
 - [【色変記事】AtCoder青になりました - piddy’s blog](https://piddy-cp.hatenablog.com/entry/2021/10/31/015517) - [piddy](https://atcoder.jp/users/piddy)さんが、2021年10月30日に達成。
     - 確認した日: 2022/06/11
 
@@ -302,5 +314,8 @@ title: リンク切れ
     <div align="center">
       <img loading = "lazy" src="../../images/related_contest_sites/math_test/math_test.png" alt="math test">
     </div>
+
+- [OnlineMathContest 黄色になりました](https://note.com/treewhitetree/n/nb7d577fc24a4) - [Treewhitetree](https://onlinemathcontest.com/users/Treewhitetree)さんが、2021年11月2日に黄Solverに昇格。
+    - 確認した日: 2023/12/15
 
 <!-- markdown-link-check-enable -->
