@@ -2,7 +2,12 @@
 title: レーティング2000〜2399(黄色)
 ---
 
+!!! warning "注意"
+    サブカテゴリに部門名(アルゴリズム・ヒューリスティック)が明記されていない場合は、すべてアルゴリズム部門の記事です。
+
 ## 2023年
+
+### アルゴリズム部門
 
 - [【色変記事】黄色くなったからいろいろ書く - halcの競プロ精進ブログ](https://halc-kyopro.hatenablog.com/entry/2023/10/19/140719) - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さんが、2023年10月7日に達成。
 - [医師がAtCoderで黄色になった話【色変記事】](https://qiita.com/rinmao_catlover/items/587904effdd410134fcd) - [rinmao](https://atcoder.jp/users/rinmao)さんが、2023年7月21日に公開。
@@ -13,6 +18,10 @@ title: レーティング2000〜2399(黄色)
 - [AtCoder黄色になりました](https://note.com/yfuka86/n/n2d8da12389d7) - [yfuka86](https://atcoder.jp/users/yfuka86)さんが、2023年2月4日に達成。
 - [AtCoder黄色になりました！！ - 橙になりたいaquarium](https://shinchankosen.hatenadiary.jp/entry/2023/01/31/204517) - [shinchan](https://atcoder.jp/users/shinchan)さんが、2023年1月14日に達成。
     - [競プロ始めて6年、知らないうちに黄色になってました](https://shinchankosen.hatenadiary.jp/entry/2023/12/09/000012)
+
+### ヒューリスティック部門
+
+- [Heuristic黄色になれたので今までのAHCを全て振り返ってみる - G4NP0Nのブログ](https://g4np0n-kyopro.hatenablog.com/entry/2023/12/15/183152) - [G4NP0N](https://atcoder.jp/users/G4NP0N)さんが、2023年12月15日に公開。
 
 ## 2022年
 
