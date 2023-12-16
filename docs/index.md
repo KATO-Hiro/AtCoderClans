@@ -70,12 +70,6 @@
 
     <!-- markdown-link-check-enable -->
 
-    2023-11-30
-
-    本サービスのスポンサーを掲載(敬称略)。ご支援いただき、ありがとうございます。
-
-    - [chokudai](https://github.com/chokudai)
-
 === "Webアプリ・Webサイト"
 
     2023-12-09
@@ -184,14 +178,17 @@
     - 「[SNS](sns)」ページ
         - [𝙠𝙮𝙤𝙥𝙧𝙪𝙨𝙩𝙚𝙘𝙚𝙖𝙣𝙨](https://discord.gg/RmRCzPnFPc)
 
-    2023-11-30
-
-    - 「[SNS](sns)」ページ
-        - [Pythonライブラリ研究](https://discord.com/invite/rPWuuGRha2)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-12-16
+
+     - 「[ヒューリスティック部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
+        - [G4NP0N](https://atcoder.jp/users/G4NP0N)さん - [Heuristic黄色になれたので今までのAHCを全て振り返ってみる - G4NP0Nのブログ](https://g4np0n-kyopro.hatenablog.com/entry/2023/12/15/183152)
+
+    - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [uruzunyaa](https://atcoder.jp/users/uruzunyaa)さん - [緑コーダーになるのに、精進はいらないという話。](https://note.com/uruzunyaa/n/ne6f52956a928)
 
     2023-12-15
 
