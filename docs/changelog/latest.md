@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-12-17
+
+- [#7437](https://github.com/KATO-Hiro/AtCoderClans/pull/7437) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [セグメント木に変なものを乗せる](https://zenn.dev/magurofly/articles/0b3805b3614126)
+- [#7433](https://github.com/KATO-Hiro/AtCoderClans/pull/7433) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
+    - [【INTERVIEW / SWE】競技プログラミングから始まった、開発の力で追求し続けるよりよい学習体験](https://note.com/monoxer/n/n4ed05521d8d2)
+
 ### 2023-12-16
 
 - [#7429](https://github.com/KATO-Hiro/AtCoderClans/pull/7429) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

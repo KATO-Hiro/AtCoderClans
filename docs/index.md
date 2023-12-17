@@ -94,6 +94,14 @@
 
 === "記事"
 
+    2023-12-17
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [セグメント木に変なものを乗せる](https://zenn.dev/magurofly/articles/0b3805b3614126)
+
+    - 「[競技プログラミングと就転職](articles/jobs)」ページ
+        - [【INTERVIEW / SWE】競技プログラミングから始まった、開発の力で追求し続けるよりよい学習体験](https://note.com/monoxer/n/n4ed05521d8d2)
+
     2023-12-13
 
     - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
@@ -214,11 +222,6 @@
 
     - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
         - [Kawa_](https://atcoder.jp/users/Kawa_)さん - [入茶しました](https://qiita.com/Kawa_/items/19f4ea74efc70a347c8d)
-
-    2023-12-01
-
-    - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [blueberry1001](https://atcoder.jp/users/blueberry1001)さん - [【Atcoder】高校1年生でAtcoder青色になりました](https://qiita.com/bluebery1001/items/ec889d958ee3a81525ff)
 
 ## AtCoder公式グッズを購入する
 
