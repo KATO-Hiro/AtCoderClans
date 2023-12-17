@@ -62,6 +62,7 @@ title: 競技プログラミングと就転職
 - [AtCoder Jobsを使って転職しました](https://xkttqm.hatenablog.com/entry/2021/08/04/230000) - IT業界未経験の状態から転職を考えたきっかけ・[AtCoderJobs](https://jobs.atcoder.jp/)を利用した転職活動が紹介されている記事。
 - [AtCoder株式会社に入社しました](https://kaede2020.hatenablog.com/entry/2023/02/01/190234) - [kaede2020](https://atcoder.jp/users/kaede2020)さんが、[AtCoder](https://atcoder.jp/)に応募したきっかけ・面談から採用に至るまでの体験談をまとめた記事。
 - [【入社エントリ】新卒でモノグサに入社しました / 就活の振り返り](https://kona0001.hatenablog.com/entry/2023/04/11/202805) - [konayuki](https://atcoder.jp/users/konayuki)さんが、[モノグサ株式会社](https://corp.monoxer.com/)に応募・入社するまでの過程がまとめられている記事。
+- [【INTERVIEW / SWE】競技プログラミングから始まった、開発の力で追求し続けるよりよい学習体験](https://note.com/monoxer/n/n4ed05521d8d2) - 競技プログラミングをきっかけにエンジニアを志望し、[モノグサ株式会社](https://corp.monoxer.com/)で活躍されている[tsutaj](https://atcoder.jp/users/tsutaj)さんへのインタビュー記事。これまでのキャリア、同社の入社経緯・担当業務・働きがい・今後の目標について語られている。
 
 ### 感想・体験記
 
