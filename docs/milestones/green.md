@@ -4,6 +4,7 @@ title: レーティング800〜1199(緑色)
 
 ## 2023年
 
+- [遠回り入緑記　〜この道、寄り道、廻り道〜 - 脳筋ぱそこんおゆうぎ！](https://fujikawa.hatenablog.com/entry/2023/12/17/150911) - [fujikawahiroaki](https://atcoder.jp/users/fujikawahiroaki)さんが、2023年12月16日に達成。
 - [AtCoderで入茶&入緑しました！！　～競プロに取り組んだ4年間を振り返る～](https://qiita.com/NAVYSHUNTA/items/cd6cee9c4bdb0f82d87f) - [shunta](https://atcoder.jp/users/shunta)さんが、2023年12月10日に達成。
 - [緑コーダーになるのに、精進はいらないという話。](https://note.com/uruzunyaa/n/ne6f52956a928) - [uruzunyaa](https://atcoder.jp/users/uruzunyaa)さんが、2023年12月9日に達成。
 - [【入緑記念】レーティングの稼ぎ方(AtCoder)](https://qiita.com/rfvr7/items/0e7dafdeef30ff0203e4) - [zaki7](https://atcoder.jp/users/zaki7)さんが、2023年12月9日に達成。
