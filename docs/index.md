@@ -94,6 +94,11 @@
 
 === "記事"
 
+    2023-12-18
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2023 - 学校ランキング (12月18日時点)](https://twitter.com/atcoder/status/1736592889067774166)
+
     2023-12-17
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
@@ -171,14 +176,6 @@
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [Magentor](https://atcoder.jp/users/Magentor)さん - [Qiita](https://qiita.com/Magentor)
 
-=== "動画"
-
-    2023-12-02
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [DFS・BFSとは？お気持ち編［競技プログラミング初心者へ］【ゆっくり解説】](https://www.youtube.com/watch?v=0_9heBS7Flg)
-        - [DP（動的計画法）とは？お気持ち編［競技プログラミング初心者へ］【ゆっくり解説】](https://www.youtube.com/watch?v=oB3L8yyHsFY)
-
 === "SNS"
 
     2023-12-10
@@ -189,6 +186,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-12-18
+
+    - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [fujikawahiroaki](https://atcoder.jp/users/fujikawahiroaki)さん - [遠回り入緑記　〜この道、寄り道、廻り道〜 - 脳筋ぱそこんおゆうぎ！](https://fujikawa.hatenablog.com/entry/2023/12/17/150911)
 
     2023-12-16
 
