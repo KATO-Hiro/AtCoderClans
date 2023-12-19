@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-12-19
+
+- [#7452](https://github.com/KATO-Hiro/AtCoderClans/pull/7452) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[itojunpei](https://atcoder.jp/users/itojunpei)さんの[記事](https://qiita.com/itojun-1230/items/b5b139d9a5a7d6487f5c)を追加。
+- [#7451](https://github.com/KATO-Hiro/AtCoderClans/pull/7451) - [strangerxxxx](https://github.com/strangerxxxx)さんのご紹介で、「[Articles, Blogs, Books and Videos](../../media)」の「[SNS](../../sns)」ページにMisskey.ioインスタンスを追加。併せて、誤字を修正。
+    - [misskey競プロ部](https://misskey.io/channels/9b1va5xjkr)
+
 ### 2023-12-18
 
 - [#7445](https://github.com/KATO-Hiro/AtCoderClans/pull/7445) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
