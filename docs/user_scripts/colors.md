@@ -164,9 +164,9 @@ Webページの背景色の変更や文字・提出コード・問題の正誤�
 
 ### 外部サービス
 
-#### Misskey.io
+#### Misskey
 
-- [Misskey AtCoder Color Buttons](https://greasyfork.org/ja/scripts/470709-misskey-atcoder-color-buttons) -  Misskey.ioの投稿フォームに、文字の色を変更できるボタンを追加する。配色は、AtCoderの各レーティング帯に対応。
+- [Misskey AtCoder Color Buttons](https://greasyfork.org/ja/scripts/470709-misskey-atcoder-color-buttons) -  Misskeyの投稿フォームに、文字の色を変更できるボタンを追加する。配色は、AtCoderの各レーティング帯に対応。
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/misskey_atcoder_color_buttons.png" alt="misskey atcoder color buttons">
