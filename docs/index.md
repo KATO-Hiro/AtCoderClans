@@ -81,17 +81,6 @@
       <img loading = "lazy" src="images/web_app/performance_rating.png" alt="performance rating">
     </div>
 
-=== "ユーザスクリプト"
-
-    2023-12-03
-
-    - 「[Webページに色付けする](user_scripts/colors)」ページ
-        - [timemory-limit-emphasizer](https://greasyfork.org/ja/scripts/480675-timemory-limit-emphasizer)
-
-    <div align="center">
-      <img loading = "lazy" src="images/userscript/timemory_limit_emphasizer.png" alt="timemory limit emphasizer">
-    </div>
-
 === "記事"
 
     2023-12-18
@@ -150,11 +139,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2023 - 学校ランキング (12月4日時点)](https://twitter.com/atcoder/status/1731514391756243121)
 
-    2023-12-03
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AHC典型解法シリーズ第2弾「焼きなまし法」](https://qiita.com/thun-c/items/ecd438fde4d237b1f7bc)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -178,6 +162,11 @@
 
 === "SNS"
 
+    2023-12-19
+
+    - 「[SNS](sns)」ページ
+        - [misskey競プロ部](https://misskey.io/channels/9b1va5xjkr)
+
     2023-12-10
 
     - 「[SNS](sns)」ページ
@@ -186,6 +175,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-12-19
+
+    - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
+        - [itojunpei](https://atcoder.jp/users/itojunpei)さん - [【色変記事】TypeScriptで入茶した話](https://qiita.com/itojun-1230/items/b5b139d9a5a7d6487f5c)
 
     2023-12-18
 
