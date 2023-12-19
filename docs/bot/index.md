@@ -85,7 +85,7 @@ title: Bot
       <img loading = "lazy" src="../images/web_app/atcoder_chokuzen.png" alt="atcoder chokuzen">
     </div>
 
-### Misskey.io
+### Misskey
 
 - [contest](https://misskey.kyoupro.com/@contest) - 当日に予定されているコンテストを通知する。以下のコンテストサイトに対応。
     - [AtCoder](https://atcoder.jp/)

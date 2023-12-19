@@ -20,6 +20,8 @@ title: SNS
 
 - [Pythonライブラリ研究](https://discord.com/invite/rPWuuGRha2) - [kemuniku](https://atcoder.jp/users/kemuniku)さんによって運営されている、 AtCoder上のPythonにあるライブラリを研究するサーバ。誰でも参加可能。
 
-## Misskey.io
+## Misskey
 
 - [競プロ鯖](https://misskey.kyoupro.com/) - 競技プログラミングに関心があるユーザのコミュニティ。
+
+- [misskey競プロ部](https://misskey.io/channels/9b1va5xjkr) - [strangerxxxx](https://github.com/strangerxxxx)さんが運営されている競技プログラミングユーザ向けのMisskey.ioインスタンス。
