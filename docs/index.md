@@ -83,6 +83,11 @@
 
 === "記事"
 
+    2023-12-20
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [ヒューリスティックコンテストでビジュアライザを開発する方法に関するメモ](https://yunix-kyopro.hatenablog.com/entry/2023/12/17/150534)
+
     2023-12-18
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -131,14 +136,6 @@
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
         - [オンサイトのプログラミングコンテスト「緑以下コンテスト」を開催しました！](https://deuteridayo.hateblo.jp/entry/2023/12/05/211915)
 
-    2023-12-04
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-        - [第2回緑以下コンテスト開催記](https://kusirara.hatenablog.com/entry/2023/12/04/134934)
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2023 - 学校ランキング (12月4日時点)](https://twitter.com/atcoder/status/1731514391756243121)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -171,6 +168,13 @@
 
     - 「[SNS](sns)」ページ
         - [𝙠𝙮𝙤𝙥𝙧𝙪𝙨𝙩𝙚𝙘𝙚𝙖𝙣𝙨](https://discord.gg/RmRCzPnFPc)
+
+=== "ライブラリ・スニペット"
+
+    2023-12-20
+
+    - 「[ライブラリチェッカー](libraries/library_checker)」ページ
+        - [【競プロ】ライブラリの verify を GitHub Actions で並列に走らせたい (oj-verify)](https://qiita.com/KakurenboUni/items/b47d9e6e3582e2149d63)
 
 === "色変記事"
 
