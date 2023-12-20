@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-12-20
+
+- [#7457](https://github.com/KATO-Hiro/AtCoderClans/pull/7457) - 「[Libraries and Snippets](../../libraries)」の「[ライブラリチェッカー](../../libraries/library_checker)」ページに、以下の関連記事を追加。
+    - [【競プロ】ライブラリの verify を GitHub Actions で並列に走らせたい (oj-verify)](https://qiita.com/KakurenboUni/items/b47d9e6e3582e2149d63)
+- [#7455](https://github.com/KATO-Hiro/AtCoderClans/pull/7455) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [ヒューリスティックコンテストでビジュアライザを開発する方法に関するメモ](https://yunix-kyopro.hatenablog.com/entry/2023/12/17/150534)
+
 ### 2023-12-19
 
 - [#7452](https://github.com/KATO-Hiro/AtCoderClans/pull/7452) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
