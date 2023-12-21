@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-12-21
+
+- [#7464](https://github.com/KATO-Hiro/AtCoderClans/pull/7464) - 「[Milestones](../../milestones/orange)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2400から2799まで(橙色)に[tofudra](https://atcoder.jp/users/tofudra)さんの[記事](https://note.com/tofu_dra/n/n3d580cb31495)を追加。
+- [#7463](https://github.com/KATO-Hiro/AtCoderClans/pull/7463) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2400〜に到達したユーザのブログを追加。
+- [#7461](https://github.com/KATO-Hiro/AtCoderClans/pull/7461) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[Not_Leonian](https://atcoder.jp/users/Not_Leonian)さんの[記事](https://not-leonian.hatenablog.com/entry/2023/12/19/180622)を追加。
+
 ### 2023-12-20
 
 - [#7457](https://github.com/KATO-Hiro/AtCoderClans/pull/7457) - 「[Libraries and Snippets](../../libraries)」の「[ライブラリチェッカー](../../libraries/library_checker)」ページに、以下の関連記事を追加。
