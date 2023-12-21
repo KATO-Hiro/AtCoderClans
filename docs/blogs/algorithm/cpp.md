@@ -99,6 +99,7 @@ title: C&#43;&#43;
 |Shun_PI|[Qiita](https://qiita.com/Shun_PI)||
 |smiken|[はてなブログ](https://smiken.hatenablog.com/)|2019年10月以降、新規の記事を確認できず。|
 |suisen|[はてなブログ](https://suisen-kyopro.hatenablog.com)||
+|tofudra|[note](https://note.com/tofu_dra)||
 |tokoharu|[はてなブログ](https://tokoharuland.hateblo.jp/)|2020年1月以降、新規の記事を確認できず。|
 |Trineutron|[Qiita](https://qiita.com/trineutron)||
 |wafrelka|[はてなブログ](https://wafrelka.hatenablog.jp/)|2018年10月以降、新規の記事を確認できず。|
