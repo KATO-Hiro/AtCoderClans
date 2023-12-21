@@ -139,6 +139,11 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2023-12-21
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [tofudra](https://atcoder.jp/users/tofudra)さん - [note](https://note.com/tofu_dra)
+
     2023-12-11
 
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
@@ -179,6 +184,14 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-12-21
+
+    - 「[アルゴリズム部門 - レーティング2400〜2799(橙色)](milestones/orange)」ページ
+        - [tofudra](https://atcoder.jp/users/tofudra)さん - [【日記】Atcoder橙になりました・競技プログラミングは謎解きやペンシルパズルの役に立つのか](https://note.com/tofu_dra/n/n3d580cb31495)
+
+    - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [Not_Leonian](https://atcoder.jp/users/Not_Leonian)さん - [1年前、入水とともに停滞した人間のAtCoder入青記事 - 獅子座じゃない人のブログ](https://not-leonian.hatenablog.com/entry/2023/12/19/180622)
 
     2023-12-19
 
