@@ -83,6 +83,11 @@
 
 === "記事"
 
+    2023-12-22
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AHCのローカルテスト環境構築](https://zenn.dev/ikoma_3/articles/5c04ab03935f71)
+
     2023-12-20
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -130,11 +135,6 @@
 
     - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
         - [【GitHubスター100個突破】Pythonのprint()のC++版を本気で作ってみた](https://zenn.dev/sassan/articles/4878e79272ed61)
-
-    2023-12-06
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-        - [オンサイトのプログラミングコンテスト「緑以下コンテスト」を開催しました！](https://deuteridayo.hateblo.jp/entry/2023/12/05/211915)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
