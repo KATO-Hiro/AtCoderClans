@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-12-23
+
+- [#7475](https://github.com/KATO-Hiro/AtCoderClans/pull/7475) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
+    - [競技プログラマがIT企業に就職した、その後](https://kitanomx.hatenablog.com/entry/2023/12/17/004435)
+- [#7474](https://github.com/KATO-Hiro/AtCoderClans/pull/7474) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[shin3110](https://atcoder.jp/users/shin3110)さんの[記事](https://shin-ppp.hatenablog.com/entry/2023/12/21/204232)を追加。
+
 ### 2023-12-22
 
 - [#7469](https://github.com/KATO-Hiro/AtCoderClans/pull/7469) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。

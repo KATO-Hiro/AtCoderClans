@@ -83,6 +83,11 @@
 
 === "記事"
 
+    2023-12-23
+
+    - 「[競技プログラミングと就転職](articles/jobs)」ページ
+        - [競技プログラマがIT企業に就職した、その後](https://kitanomx.hatenablog.com/entry/2023/12/17/004435)
+
     2023-12-22
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -130,11 +135,6 @@
         <!-- markdown-link-check-disable -->
         - [Web開発、まじで何もわからない](https://www.estie.jp/blog/entry/2023/12/08/152723)
         <!-- markdown-link-check-enable -->
-
-    2023-12-07
-
-    - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
-        - [【GitHubスター100個突破】Pythonのprint()のC++版を本気で作ってみた](https://zenn.dev/sassan/articles/4878e79272ed61)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -184,6 +184,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-12-23
+
+    - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [shin3110](https://atcoder.jp/users/shin3110)さん - [入水しました！！！！！！！！ - Shin_pppのブログ](https://shin-ppp.hatenablog.com/entry/2023/12/21/204232)
 
     2023-12-21
 
