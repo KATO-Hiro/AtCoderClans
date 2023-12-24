@@ -81,6 +81,17 @@
       <img loading = "lazy" src="images/web_app/performance_rating.png" alt="performance rating">
     </div>
 
+=== "ユーザスクリプト"
+
+    2023-12-24
+
+    - 「[Webページに色付けする](user_scripts/colors)」ページ
+        - [Ace to Monaco for AtCoder](https://greasyfork.org/ja/scripts/482276-ace-to-monaco-for-atcoder)
+
+    <div align="center">
+      <img loading = "lazy" src="images/userscript/ace_to_monaco_for_atcoder.png" alt="ace to monaco for atcoder">
+    </div>
+
 === "記事"
 
     2023-12-23
@@ -235,11 +246,6 @@
 
      - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
         - [shinchan](https://atcoder.jp/users/shinchan)さん - [競プロ始めて6年、知らないうちに黄色になってました - 橙になりたいaquarium](https://shinchankosen.hatenadiary.jp/entry/2023/12/09/000012)
-
-    2023-12-08
-
-    - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
-        - [Kawa_](https://atcoder.jp/users/Kawa_)さん - [入茶しました](https://qiita.com/Kawa_/items/19f4ea74efc70a347c8d)
 
 ## AtCoder公式グッズを購入する
 
