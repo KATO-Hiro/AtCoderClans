@@ -78,6 +78,14 @@ Webページの背景色の変更や文字・提出コード・問題の正誤�
       <img loading = "lazy" src="../../images/userscript/snuke_smeke.png" alt="snuke? smeke?">
     </div>
 
+## AtCoderのエディタを変更
+
+- [Ace to Monaco for AtCoder](https://greasyfork.org/ja/scripts/482276-ace-to-monaco-for-atcoder) - 「コードテスト」ページのエディタを[Monaco Editor](https://github.com/microsoft/monaco-editor)に変更する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/ace_to_monaco_for_atcoder.png" alt="ace to monaco for atcoder">
+    </div>
+
 ## 問題の提出・正誤状況を確認
 
 ### オリジナル
