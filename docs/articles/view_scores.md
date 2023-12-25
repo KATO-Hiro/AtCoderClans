@@ -7,10 +7,11 @@ title: コンテストに関する統計情報を見る
 ### 2023年
 
 - [AtCoder Junior League 2023 - 学校ランキング](https://twitter.com/atcoder/status/1658033672879235075) - 中学・高校部門のそれぞれ上位20校のランキング。2023年5月15日時点(修正版)。
-    - [同12月18日時点](https://twitter.com/atcoder/status/1736592889067774166)
+    - [同12月25日時点](https://twitter.com/atcoder/status/1739135398625100112)
 
     ??? info "これまでのランキング"
 
+        - [同12月18日時点](https://twitter.com/atcoder/status/1736592889067774166)
         - [同12月11日時点](https://twitter.com/atcoder/status/1734059295308931239)
         - [同12月4日時点](https://twitter.com/atcoder/status/1731514391756243121)
         - [同11月27日時点](https://twitter.com/atcoder/status/1728981309178159379)
