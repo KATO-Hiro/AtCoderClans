@@ -70,17 +70,6 @@
 
     <!-- markdown-link-check-enable -->
 
-=== "Webアプリ・Webサイト"
-
-    2023-12-09
-
-    - 「[コンテストの成績を見る](web_app/view_and_compare_scores)」ページ
-        - [AtCoderパフォーマンス・レーティング](https://atcoder-tools.quizgenerator.net/performance_rating.php)
-
-    <div align="center">
-      <img loading = "lazy" src="images/web_app/performance_rating.png" alt="performance rating">
-    </div>
-
 === "ユーザスクリプト"
 
     2023-12-24
@@ -93,6 +82,11 @@
     </div>
 
 === "記事"
+
+    2023-12-25
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2023 - 学校ランキング (12月25日時点)](https://twitter.com/atcoder/status/1739135398625100112)
 
     2023-12-23
 
@@ -139,13 +133,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2023 - 学校ランキング (12月11日時点)](https://twitter.com/atcoder/status/1734059295308931239)
-
-    2023-12-09
-
-    - 「[競技プログラミングと就転職](articles/jobs)」ページ
-        <!-- markdown-link-check-disable -->
-        - [Web開発、まじで何もわからない](https://www.estie.jp/blog/entry/2023/12/08/152723)
-        <!-- markdown-link-check-enable -->
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -196,6 +183,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
 
+    2023-12-25
+
+    - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [Jikky1618](https://atcoder.jp/users/Jikky1618)さん - [競プロ未経験から1年でAtCoder水色になった話。](https://note.com/jikky1618/n/n3298c09633dc)
+
     2023-12-23
 
     - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
@@ -241,11 +233,6 @@
 
     - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
         - [zaki7](https://atcoder.jp/users/zaki7)さん - [【入緑記念】レーティングの稼ぎ方(AtCoder)](https://qiita.com/rfvr7/items/0e7dafdeef30ff0203e4)
-
-    2023-12-09
-
-     - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
-        - [shinchan](https://atcoder.jp/users/shinchan)さん - [競プロ始めて6年、知らないうちに黄色になってました - 橙になりたいaquarium](https://shinchankosen.hatenadiary.jp/entry/2023/12/09/000012)
 
 ## AtCoder公式グッズを購入する
 
