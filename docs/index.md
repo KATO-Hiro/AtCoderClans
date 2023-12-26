@@ -58,18 +58,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "ホーム"
-
-    2023-12-10
-
-    [AtCoder](https://atcoder.jp/)の公式ポータルサイトを掲載。
-
-    <!-- markdown-link-check-disable -->
-
-    - [AtCoderInfo](https://info.atcoder.jp/)
-
-    <!-- markdown-link-check-enable -->
-
 === "ユーザスクリプト"
 
     2023-12-24
@@ -82,6 +70,11 @@
     </div>
 
 === "記事"
+
+    2023-12-26
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [RECRUIT 日本橋ハーフマラソン 2024冬（AtCoder Heuristic Contest 029）参加記](https://kaede2020.hatenablog.com/entry/2023/12/26/210009)
 
     2023-12-25
 
@@ -155,22 +148,12 @@
     - 「[ヒューリスティック部門 - Go](blogs/heuristic/go)」ページ
         - [montplusa](https://atcoder.jp/users/montplusa)さん - [はてなブログ](https://montplusa.hatenablog.com/archive)
 
-    2023-12-10
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [Magentor](https://atcoder.jp/users/Magentor)さん - [Qiita](https://qiita.com/Magentor)
-
 === "SNS"
 
     2023-12-19
 
     - 「[SNS](sns)」ページ
         - [misskey競プロ部](https://misskey.io/channels/9b1va5xjkr)
-
-    2023-12-10
-
-    - 「[SNS](sns)」ページ
-        - [𝙠𝙮𝙤𝙥𝙧𝙪𝙨𝙩𝙚𝙘𝙚𝙖𝙣𝙨](https://discord.gg/RmRCzPnFPc)
 
 === "ライブラリ・スニペット"
 
