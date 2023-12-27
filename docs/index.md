@@ -122,11 +122,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [HACK TO THE FUTURE 2024 （AtCoder Heuristic Contest 027）参加記](https://kaede2020.hatenablog.com/entry/2023/12/10/204502)
 
-    2023-12-11
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2023 - 学校ランキング (12月11日時点)](https://twitter.com/atcoder/status/1734059295308931239)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -134,19 +129,6 @@
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [tofudra](https://atcoder.jp/users/tofudra)さん - [note](https://note.com/tofu_dra)
-
-    2023-12-11
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [siman](https://atcoder.jp/users/siman)さん - [はてなブログ](https://simanman.hatenablog.com/)
-        - [ganmodokix](https://atcoder.jp/users/ganmodokix)さん - [はてなブログ](https://aprilganmo.hatenablog.com/)
-        - [shotoyoo](https://atcoder.jp/users/shotoyoo)さん - [Qiita](https://qiita.com/shotoyoo)
-
-    - 「[ヒューリスティック部門 - C#](blogs/heuristic/csharp)」ページ
-        - [G4NP0N](https://atcoder.jp/users/G4NP0N)さん - [はてなブログ](https://g4np0n-kyopro.hatenablog.com)
-
-    - 「[ヒューリスティック部門 - Go](blogs/heuristic/go)」ページ
-        - [montplusa](https://atcoder.jp/users/montplusa)さん - [はてなブログ](https://montplusa.hatenablog.com/archive)
 
 === "SNS"
 
@@ -165,6 +147,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2023-12-27
+
+    - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [Ang107](https://atcoder.jp/users/Ang107)さん - [【色変記事】一般情報系大学生がAtCoder入茶＆入緑した話](https://qiita.com/Ang107/items/0ee28c41896cbcf11bbc)
 
     2023-12-25
 
