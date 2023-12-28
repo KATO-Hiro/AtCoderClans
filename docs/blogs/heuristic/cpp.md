@@ -29,6 +29,7 @@ title: C&#43;&#43;
 |assy|[はてなブログ](https://assy.hatenablog.jp/)||
 |ats5515|[はてなブログ](https://ats5515.hatenablog.com/)||
 |bin101|[はてなブログ](https://bin101.hatenablog.com/)||
+|ebicochineal|[自作ブログ](http://ebicochineal.blogspot.com/)||
 |gasin|[はてなブログ](https://gasin.hatenadiary.jp/)||
 |hamamu|[Qiita](https://qiita.com/hamamu)||
 |heno239|[はてなブログ](https://heno239.hatenablog.com/)||
@@ -50,7 +51,6 @@ title: C&#43;&#43;
 |birdwatcher|[Qiita](https://qiita.com/birdwatcher)||
 |colun|[自作ブログ](http://www.colun.net/blog)|2016年10月以降、新規の記事を確認できず。|
 |E869120|[はてなブログ](https://e869120.hatenablog.com/)、[Qiita](https://qiita.com/e869120)||
-|ebicochineal|[自作ブログ](http://ebicochineal.blogspot.com/)||
 |ganmodokix|[はてなブログ](https://aprilganmo.hatenablog.com/)||
 |hakomo|[はてなブログ](https://hakomof.hatenablog.com/)||
 |hari64|[Qiita](https://qiita.com/hari64)||
@@ -78,6 +78,7 @@ title: C&#43;&#43;
 |shindannin|[はてなブログ](https://shindannin.hatenadiary.com/)||
 |shotoyoo|[Qiita](https://qiita.com/shotoyoo)||
 |ssaattoo|[はてなブログ](https://ssaattoo.hatenablog.com/)||
+|tempura0224|[はてなブログ](https://tempura0224.hatenablog.com/)||
 |theory_and_me|[はてなブログ](https://theory-and-me.hatenablog.com/)||
 |tokoharu|[はてなブログ](https://tokoharuland.hateblo.jp/)|2020年1月以降、新規の記事を確認できず。|
 |Trineutron|[Qiita](https://qiita.com/trineutron)||
