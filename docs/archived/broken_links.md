@@ -215,6 +215,9 @@ title: リンク切れ
 
 ### レーティング400〜799(茶色)
 
+- [入茶しました。](https://note.com/coco__0715/n/n655dc80fc5b6) - [coco0715](https://atcoder.jp/users/coco0715)さんが、2023年8月12日に達成。
+    - 確認した日: 2023/12/28
+
 - [【初投稿】AtCoder茶色になりました](https://note.com/kikka_mfybyr/n/n864aeb594ab1) - [Mafuyu](https://atcoder.jp/users/Mafuyu)さんが、2023年2月4日に達成。
     - 確認した日: 2023/10/29
 
