@@ -117,13 +117,17 @@
     - 「[数学を学ぶ](articles/math)」ページ
         - [有理数 mod 998244353 の徹底解説！](https://drken1215.hatenablog.com/entry/2023/12/06/020241)
 
-    2023-12-12
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [HACK TO THE FUTURE 2024 （AtCoder Heuristic Contest 027）参加記](https://kaede2020.hatenablog.com/entry/2023/12/10/204502)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2023-12-28
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [ebicochineal](https://atcoder.jp/users/ebicochineal)さん - [自作ブログ](http://ebicochineal.blogspot.com/)
+        - [tempura0224](https://atcoder.jp/users/tempura0224)さん - [はてなブログ](https://tempura0224.hatenablog.com/)
+
+    - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
+        - [uta_ccc](https://atcoder.jp/users/uta_ccc)さん - [はてなブログ](https://utac.hateblo.jp/)
 
     2023-12-21
 
@@ -198,11 +202,6 @@
 
     - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [Rillaboom2020](https://atcoder.jp/users/Rillaboom2020)さん - [AtCoderで入青しました](https://note.com/chemmath1023/n/n60b94393f733)
-
-    2023-12-12
-
-    - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [zaki7](https://atcoder.jp/users/zaki7)さん - [【入緑記念】レーティングの稼ぎ方(AtCoder)](https://qiita.com/rfvr7/items/0e7dafdeef30ff0203e4)
 
 ## AtCoder公式グッズを購入する
 
