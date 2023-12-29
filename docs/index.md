@@ -58,6 +58,12 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "ホーム"
+
+    2023-12-29
+
+    - [競プロねこ　ドット](https://store.line.me/stickershop/product/25256215/en)
+
 === "ユーザスクリプト"
 
     2023-12-24
@@ -108,14 +114,6 @@
 
     - 「[競技プログラミングと就転職](articles/jobs)」ページ
         - [【INTERVIEW / SWE】競技プログラミングから始まった、開発の力で追求し続けるよりよい学習体験](https://note.com/monoxer/n/n4ed05521d8d2)
-
-    2023-12-13
-
-    - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
-        - [AtCoderのFortranでfortran-stdlibが使えるようになったので何が楽になるかを考える](https://qiita.com/osada-yum/items/3674eb515fc25c891ecf)
-
-    - 「[数学を学ぶ](articles/math)」ページ
-        - [有理数 mod 998244353 の徹底解説！](https://drken1215.hatenablog.com/entry/2023/12/06/020241)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
