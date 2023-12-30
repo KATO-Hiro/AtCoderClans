@@ -21,6 +21,7 @@ title: レーティング2000〜2399(黄色)
 
 ### ヒューリスティック部門
 
+- [AtCoder の Heuristic で入黄しました！](https://zenn.dev/through/articles/fc42b36d19ce02) - [through](https://atcoder.jp/users/through)さんが、2023年12月26日に達成。
 - [Heuristic黄色になれたので今までのAHCを全て振り返ってみる - G4NP0Nのブログ](https://g4np0n-kyopro.hatenablog.com/entry/2023/12/15/183152) - [G4NP0N](https://atcoder.jp/users/G4NP0N)さんが、2023年12月15日に公開。
 
 ## 2022年
