@@ -150,6 +150,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
 
+    2023-12-30
+
+     - 「[ヒューリスティック部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
+        - [through](https://atcoder.jp/users/through)さん - [AtCoder の Heuristic で入黄しました！](https://zenn.dev/through/articles/fc42b36d19ce02)
+
     2023-12-27
 
     - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
@@ -195,11 +200,6 @@
 
     - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
         - [shunta](https://atcoder.jp/users/shunta)さん - [AtCoderで入茶&入緑しました！！　～競プロに取り組んだ4年間を振り返る～](https://qiita.com/NAVYSHUNTA/items/cd6cee9c4bdb0f82d87f)
-
-    2023-12-14
-
-    - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [Rillaboom2020](https://atcoder.jp/users/Rillaboom2020)さん - [AtCoderで入青しました](https://note.com/chemmath1023/n/n60b94393f733)
 
 ## AtCoder公式グッズを購入する
 

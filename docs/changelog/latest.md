@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-12-30
+
+- [#7508](https://github.com/KATO-Hiro/AtCoderClans/pull/7508) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[through](https://atcoder.jp/users/through)さんの[記事](https://zenn.dev/through/articles/fc42b36d19ce02)を追加。
+
 ### 2023-12-29
 
 - [#7505](https://github.com/KATO-Hiro/AtCoderClans/pull/7505) - 「[Home](../../)」ページで掲載している「[競プロLINEスタンプ](https://store.line.me/stickershop/product/22113834/en)」の説明文を更新。以下のリンクを追加。
