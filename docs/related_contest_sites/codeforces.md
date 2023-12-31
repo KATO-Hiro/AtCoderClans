@@ -38,6 +38,12 @@ title: Codeforces
 
 #### レーティングを見る・比較する
 
+- [CF-Predictor](https://cf-predictor.wasylf.xyz/contestSelector.html) - コンテストの結果に基づいて、レーティングの変化を推定するWebサイト。また、複数のブラウザに対応した[拡張機能](https://cf-predictor.wasylf.xyz/)も利用できる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/codeforces/cf-predictor_2nd.png" alt="cf predictor">
+    </div>
+
 - [Codeforces Rating Comparison](https://rika0384.github.io/codeforces_rating_comparison/) - 指定した2人以上のレーティングの比較ができる。
 
     <div align="center">
@@ -91,6 +97,12 @@ title: Codeforces
     <div align="center">
       <img loading = "lazy" src="../../images/related_contest_sites/codeforces/codeforces_bold_emphasizer.png" alt="codeforces bold emphasizer">
     </div>
+
+## Google Chromeの拡張機能
+
+### コンテストの成績を見る
+
+- [CF-Predictor](https://cf-predictor.wasylf.xyz/) - コンテストの結果に基づいて、レーティングの予測値を表示する。MozillaやOperaにも対応している。
 
 ## コマンドラインツール・GUIツール
 
