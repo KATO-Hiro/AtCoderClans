@@ -21,6 +21,10 @@ title: プログラミング言語を学ぶ
 
 - [Fortran入門(Fortran版APG4b)](https://qiita.com/jj1guj/items/43a1c876360ddf180f1f) - プログラミングの入門教材「[C++入門 AtCoder Programming Guide for beginners (APG4b)](https://atcoder.jp/contests/APG4b)」のFortran版。
 
+## Haskell
+
+- [AtCoder ガチ言語 Haskell 🔥](https://zenn.dev/toyboot4e/books/seriously-haskell) - AtCoderを通して、Haskellの基礎とアルゴリズムを同時に学ぶことができる。
+
 ## Kotlin
 
 <!-- markdown-link-check-disable -->
