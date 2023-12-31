@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2023-12-31
+
+- [#7517](https://github.com/KATO-Hiro/AtCoderClans/pull/7517)、[#7519](https://github.com/KATO-Hiro/AtCoderClans/pull/7519)、[#7521](https://github.com/KATO-Hiro/AtCoderClans/pull/7521) - 「[Related Contest Sites](../../related_contest_sites)」の「[Codeforces](../../related_contest_sites/codeforces)」ページに、以下の記事およびWebサイト・拡張機能を追加。
+    - [CF-Predictor](https://cf-predictor.wasylf.xyz/)
+    - [AtCoderユーザがCodeforcesに参戦した話](https://qiita.com/tosh55/items/7703e9f1306ca7e00d10)
+    - [Codeforces 用に競技プログラミング環境を変更した](https://atug.tokyo/?p=598)
+- [#7516](https://github.com/KATO-Hiro/AtCoderClans/pull/7516) - 「[Articles, Blogs, Books and Videos](../../media)」の「[プログラミング言語を学ぶ](../../articles/programming_languages)」ページに、以下の書籍を追加。
+    - [AtCoder ガチ言語 Haskell 🔥](https://zenn.dev/toyboot4e/books/seriously-haskell)
+
 ### 2023-12-30
 
 - [#7508](https://github.com/KATO-Hiro/AtCoderClans/pull/7508) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

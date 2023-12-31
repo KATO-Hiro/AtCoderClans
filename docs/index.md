@@ -77,6 +77,11 @@
 
 === "記事"
 
+    2023-12-31
+
+    - 「[プログラミング言語を学ぶ](articles/programming_languages)」ページ
+        - [AtCoder ガチ言語 Haskell 🔥](https://zenn.dev/toyboot4e/books/seriously-haskell)
+
     2023-12-26
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -196,10 +201,18 @@
     - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
         - [uruzunyaa](https://atcoder.jp/users/uruzunyaa)さん - [緑コーダーになるのに、精進はいらないという話。](https://note.com/uruzunyaa/n/ne6f52956a928)
 
-    2023-12-15
+=== "国内外のコンテストサイト"
 
-    - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [shunta](https://atcoder.jp/users/shunta)さん - [AtCoderで入茶&入緑しました！！　～競プロに取り組んだ4年間を振り返る～](https://qiita.com/NAVYSHUNTA/items/cd6cee9c4bdb0f82d87f)
+    2023-12-31
+
+    - 「[Codeforces](related_contest_sites/codeforces)」ページ
+        - [CF-Predictor](https://cf-predictor.wasylf.xyz/)
+        - [AtCoderユーザがCodeforcesに参戦した話](https://qiita.com/tosh55/items/7703e9f1306ca7e00d10)
+        - [Codeforces 用に競技プログラミング環境を変更した](https://atug.tokyo/?p=598)
+
+    <div align="center">
+      <img loading = "lazy" src="images/related_contest_sites/codeforces/cf-predictor_2nd.png" alt="cf predictor">
+    </div>
 
 ## AtCoder公式グッズを購入する
 
