@@ -7,6 +7,7 @@ title: Codeforces
 ### コンテストに参加する
 
 - [AtCoderだけじゃない！こどふぉ(Codeforces) にも参加しよう🔥](https://qiita.com/Jessica_nao_/items/a7b621ee90856041d25d) - [Codeforces](https://codeforces.com/)のバーチャルコンテスト参加を勧めている記事。提出コードのテンプレート(Python)だけでなく、同コンテストで不便な点について解決方法も紹介されている。
+- [AtCoderユーザがCodeforcesに参戦した話](https://qiita.com/tosh55/items/7703e9f1306ca7e00d10) - [AtCoder](https://atcoder.jp/)ユーザが[Codeforces](https://codeforces.com/)に参加する上で調査・試行錯誤した内容がまとめられている(2023年11月末時点)。コンテスト間の違いやAtCoderとほぼ同等の環境を実現するためのツールの導入・設定例が紹介されている。
 - [Codeforcesのすすめ for AtCoderユーザー](https://ywmt.hatenablog.com/entry/2019/10/17/120914) - [AtCoder](https://atcoder.jp/)ユーザに向けて、[Codeforces](https://codeforces.com/)の特徴・おすすめポイントを解説した記事。
 - [はじめてのCodeforces 前編 (参加登録〜コンテスト本番)](https://noimin.hatenablog.com/entry/2019/10/18/162521) - [Codeforces](https://codeforces.com/)に関心があるユーザに向けて、コンテストに出場登録するところから参加するまでの流れを日本語でわかりやすく解説した記事。[後編](https://noimin.hatenablog.com/entry/2019/10/19/152633)では、レーティングの変化をプロフィールページで確認する方法やコンテストの復習方法などについて解説されている。
 
