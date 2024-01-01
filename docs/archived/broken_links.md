@@ -243,6 +243,9 @@ title: リンク切れ
 
 ### レーティング1200〜1599(水色)
 
+- [【色変記事（入水）】return文さえ理解していない俺が水色に！？　～今更unratedと言ってももう遅い～](https://qiita.com/rei_pandada/items/c46615469b0a2baab238) - [rei_pandada](https://atcoder.jp/users/rei_pandada)さんが、2023年6月24日に達成。
+    - 確認した日: 2024/01/01
+
 - [入水記事 - AFKK](https://afkk.hatenablog.com/entry/2023/09/25/180656) - [NEET0321](https://atcoder.jp/users/NEET0321)さんが、2023年9月25日に公開。
     - 確認した日: 2023/10/22
 
