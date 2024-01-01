@@ -49,6 +49,12 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/web_app/atcoder_search.png" alt="atcoder search">
     </div>
 
+- [AtCoder Editorial Problems](https://ajinoko33.github.io/AtCoderEditorialProblems/) - 解説を書いたユーザを指定して問題を検索できる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_editorial_problems.png" alt="atcoder editorial problems">
+    </div>
+
 - [Atcoder Daily Contests](https://github.com/ika9810/Atcoder-Daily-Contests) ![GitHub Repo stars](https://img.shields.io/github/stars/ika9810/Atcoder-Daily-Contests?style=plastic) - 日替わりで問題を解くことができる。[AtCoder](https://atcoder.jp/)の過去問から、仮想的なAtCoder Xxx Contest (Xxx: Beginner, Regular, Grand)クラスの問題セットが出題される。
 
     <div align="center">
