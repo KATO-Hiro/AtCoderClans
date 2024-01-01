@@ -64,6 +64,17 @@
 
     - [競プロねこ　ドット](https://store.line.me/stickershop/product/25256215/en)
 
+=== "Webアプリ・Webサイト"
+
+    2024-01-01
+
+    - 「[問題を解く](web_app/solve_problems)」ページ
+        - [AtCoder Editorial Problems](https://ajinoko33.github.io/AtCoderEditorialProblems/)
+
+    <div align="center">
+      <img loading = "lazy" src="images/web_app/atcoder_editorial_problems.png" alt="atcoder editorial problems">
+    </div>
+
 === "ユーザスクリプト"
 
     2023-12-24
@@ -122,6 +133,11 @@
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2024-01-01
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [through](https://atcoder.jp/users/through)さん - [Zenn](https://zenn.dev/through)
 
     2023-12-28
 
@@ -192,14 +208,6 @@
 
     - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
         - [fujikawahiroaki](https://atcoder.jp/users/fujikawahiroaki)さん - [遠回り入緑記　〜この道、寄り道、廻り道〜 - 脳筋ぱそこんおゆうぎ！](https://fujikawa.hatenablog.com/entry/2023/12/17/150911)
-
-    2023-12-16
-
-     - 「[ヒューリスティック部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
-        - [G4NP0N](https://atcoder.jp/users/G4NP0N)さん - [Heuristic黄色になれたので今までのAHCを全て振り返ってみる - G4NP0Nのブログ](https://g4np0n-kyopro.hatenablog.com/entry/2023/12/15/183152)
-
-    - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [uruzunyaa](https://atcoder.jp/users/uruzunyaa)さん - [緑コーダーになるのに、精進はいらないという話。](https://note.com/uruzunyaa/n/ne6f52956a928)
 
 === "国内外のコンテストサイト"
 
