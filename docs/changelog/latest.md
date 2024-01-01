@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-01-01
+
+- [#7529](https://github.com/KATO-Hiro/AtCoderClans/pull/7529) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のWebアプリを追加。
+    - [AtCoder Editorial Problems](https://ajinoko33.github.io/AtCoderEditorialProblems/)
+- [#7528](https://github.com/KATO-Hiro/AtCoderClans/pull/7528) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
+- [#7526](https://github.com/KATO-Hiro/AtCoderClans/pull/7526) - (破壊的な変更) リンク切れと思われる色変記事を一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2023-12-31
 
 - [#7517](https://github.com/KATO-Hiro/AtCoderClans/pull/7517)、[#7519](https://github.com/KATO-Hiro/AtCoderClans/pull/7519)、[#7521](https://github.com/KATO-Hiro/AtCoderClans/pull/7521) - 「[Related Contest Sites](../../related_contest_sites)」の「[Codeforces](../../related_contest_sites/codeforces)」ページに、以下の記事およびWebサイト・拡張機能を追加。
