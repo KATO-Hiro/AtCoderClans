@@ -80,6 +80,7 @@ title: C&#43;&#43;
 |ssaattoo|[はてなブログ](https://ssaattoo.hatenablog.com/)||
 |tempura0224|[はてなブログ](https://tempura0224.hatenablog.com/)||
 |theory_and_me|[はてなブログ](https://theory-and-me.hatenablog.com/)||
+|through|[Zenn](https://zenn.dev/through)||
 |tokoharu|[はてなブログ](https://tokoharuland.hateblo.jp/)|2020年1月以降、新規の記事を確認できず。|
 |Trineutron|[Qiita](https://qiita.com/trineutron)||
 |tsukasa_diary|[Qiita](https://qiita.com/tsukasa__diary)||
