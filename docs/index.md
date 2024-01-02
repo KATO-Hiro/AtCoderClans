@@ -88,6 +88,11 @@
 
 === "記事"
 
+    2024-01-02
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [DP高速化:累積和](https://drken1215.hatenablog.com/archive/category/DP%E9%AB%98%E9%80%9F%E5%8C%96%3A%E7%B4%AF%E7%A9%8D%E5%92%8C)
+
     2023-12-31
 
     - 「[プログラミング言語を学ぶ](articles/programming_languages)」ページ
@@ -122,14 +127,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2023 - 学校ランキング (12月18日時点)](https://twitter.com/atcoder/status/1736592889067774166)
-
-    2023-12-17
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [セグメント木に変なものを乗せる](https://zenn.dev/magurofly/articles/0b3805b3614126)
-
-    - 「[競技プログラミングと就転職](articles/jobs)」ページ
-        - [【INTERVIEW / SWE】競技プログラミングから始まった、開発の力で追求し続けるよりよい学習体験](https://note.com/monoxer/n/n4ed05521d8d2)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -210,6 +207,16 @@
         - [fujikawahiroaki](https://atcoder.jp/users/fujikawahiroaki)さん - [遠回り入緑記　〜この道、寄り道、廻り道〜 - 脳筋ぱそこんおゆうぎ！](https://fujikawa.hatenablog.com/entry/2023/12/17/150911)
 
 === "国内外のコンテストサイト"
+
+    2024-01-02
+
+    - 「[量子コンピュータ系コンテスト](related_contest_sites/quantum)」ページ
+        - [Qookbook](https://www.qookbook.net/)
+        - [競プロ学習サービスQookbookについて](https://kotamanegi.hatenablog.com/entry/2023/12/13/182110)
+
+    <div align="center">
+      <img loading = "lazy" src="images/related_contest_sites/qookbook/qookbook.png" alt="qookbook">
+    </div>
 
     2023-12-31
 
