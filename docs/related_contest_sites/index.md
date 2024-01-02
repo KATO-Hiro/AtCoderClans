@@ -24,3 +24,4 @@ title: Related Contest Sites - はじめに
 - [データベース系コンテスト](./db)
 - [Webサービス系コンテスト](./web_services)
 - [セキュリティ系コンテスト](./security)
+- [量子コンピュータ系コンテスト](./quantum)

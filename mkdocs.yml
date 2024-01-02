@@ -258,6 +258,7 @@ nav:
     - related_contest_sites/db.md
     - related_contest_sites/web_services.md
     - related_contest_sites/security.md
+    - related_contest_sites/quantum.md
   - Archives:
     - archived/index.md
     - archived/need_to_confirm_operation.md
