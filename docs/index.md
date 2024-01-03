@@ -123,11 +123,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [ヒューリスティックコンテストでビジュアライザを開発する方法に関するメモ](https://yunix-kyopro.hatenablog.com/entry/2023/12/17/150534)
 
-    2023-12-18
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2023 - 学校ランキング (12月18日時点)](https://twitter.com/atcoder/status/1736592889067774166)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -168,6 +163,12 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
 
+    2024-01-03
+
+    - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [fibon](https://atcoder.jp/users/fibon)さん - [AtCoderで水色になりました(入水記事)](https://fiboooo.com/atcoder-lightblue/)
+
+
     2023-12-30
 
      - 「[ヒューリスティック部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
@@ -200,11 +201,6 @@
 
     - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
         - [itojunpei](https://atcoder.jp/users/itojunpei)さん - [【色変記事】TypeScriptで入茶した話](https://qiita.com/itojun-1230/items/b5b139d9a5a7d6487f5c)
-
-    2023-12-18
-
-    - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [fujikawahiroaki](https://atcoder.jp/users/fujikawahiroaki)さん - [遠回り入緑記　〜この道、寄り道、廻り道〜 - 脳筋ぱそこんおゆうぎ！](https://fujikawa.hatenablog.com/entry/2023/12/17/150911)
 
 === "国内外のコンテストサイト"
 
