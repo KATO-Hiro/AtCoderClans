@@ -2,6 +2,10 @@
 title: レーティング1200〜1599(水色)
 ---
 
+## 2024年
+
+- [AtCoderで水色になりました(入水記事)](https://fiboooo.com/atcoder-lightblue/) - [fibon](https://atcoder.jp/users/fibon)さんが、2024年1月2日に公開。
+
 ## 2023年
 
 - [競プロ未経験から1年でAtCoder水色になった話。](https://note.com/jikky1618/n/n3298c09633dc) - [Jikky1618](https://atcoder.jp/users/Jikky1618)さんが、2023年12月25日に公開。
