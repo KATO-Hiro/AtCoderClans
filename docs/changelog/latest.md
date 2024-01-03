@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-01-03
+
+- [#7539](https://github.com/KATO-Hiro/AtCoderClans/pull/7539) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[fibon](https://atcoder.jp/users/fibon)さんの[記事](https://fiboooo.com/atcoder-lightblue/)を追加。
+
 ### 2024-01-02
 
 - [#7533](https://github.com/KATO-Hiro/AtCoderClans/pull/7533) - 「[Related Contest Sites](../../related_contest_sites)」の「[量子コンピュータ系コンテスト](../../related_contest_sites/quantum)」ページに、以下のWebサービスおよび記事を追加。
