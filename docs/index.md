@@ -154,11 +154,6 @@
     - 「[SNS](sns)」ページ
         - [競プロWeb部](https://discord.com/invite/Kp5Ygvh9)
 
-    2023-12-19
-
-    - 「[SNS](sns)」ページ
-        - [misskey競プロ部](https://misskey.io/channels/9b1va5xjkr)
-
 === "ライブラリ・スニペット"
 
     2023-12-20
@@ -203,11 +198,6 @@
 
     - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [Not_Leonian](https://atcoder.jp/users/Not_Leonian)さん - [1年前、入水とともに停滞した人間のAtCoder入青記事 - 獅子座じゃない人のブログ](https://not-leonian.hatenablog.com/entry/2023/12/19/180622)
-
-    2023-12-19
-
-    - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
-        - [itojunpei](https://atcoder.jp/users/itojunpei)さん - [【色変記事】TypeScriptで入茶した話](https://qiita.com/itojun-1230/items/b5b139d9a5a7d6487f5c)
 
 === "国内外のコンテストサイト"
 
