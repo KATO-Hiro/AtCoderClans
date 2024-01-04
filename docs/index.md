@@ -149,6 +149,11 @@
 
 === "SNS"
 
+    2024-01-04
+
+    - 「[SNS](sns)」ページ
+        - [競プロWeb部](https://discord.com/invite/Kp5Ygvh9)
+
     2023-12-19
 
     - 「[SNS](sns)」ページ
@@ -205,6 +210,15 @@
         - [itojunpei](https://atcoder.jp/users/itojunpei)さん - [【色変記事】TypeScriptで入茶した話](https://qiita.com/itojun-1230/items/b5b139d9a5a7d6487f5c)
 
 === "国内外のコンテストサイト"
+
+    2024-01-04
+
+    - 「[パズル・クイズ系コンテスト](related_contest_sites/puzzle_quiz)」ページ
+        - [New Year's Puzzles](https://nyp.snuke.org/) - オートマトンなどを利用したパズル形式の問題を解くことができる。
+
+    <div align="center">
+      <img loading = "lazy" src="images/related_contest_sites/nyp/new_year's_puzzles_2024.png" alt="new year's puzzles">
+    </div>
 
     2024-01-02
 
