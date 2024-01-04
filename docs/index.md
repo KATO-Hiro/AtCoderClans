@@ -149,10 +149,10 @@
 
 === "SNS"
 
-    2023-12-19
+    2024-01-04
 
     - 「[SNS](sns)」ページ
-        - [misskey競プロ部](https://misskey.io/channels/9b1va5xjkr)
+        - [競プロWeb部](https://discord.com/invite/Kp5Ygvh9)
 
 === "ライブラリ・スニペット"
 
@@ -199,12 +199,16 @@
     - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [Not_Leonian](https://atcoder.jp/users/Not_Leonian)さん - [1年前、入水とともに停滞した人間のAtCoder入青記事 - 獅子座じゃない人のブログ](https://not-leonian.hatenablog.com/entry/2023/12/19/180622)
 
-    2023-12-19
-
-    - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
-        - [itojunpei](https://atcoder.jp/users/itojunpei)さん - [【色変記事】TypeScriptで入茶した話](https://qiita.com/itojun-1230/items/b5b139d9a5a7d6487f5c)
-
 === "国内外のコンテストサイト"
+
+    2024-01-04
+
+    - 「[パズル・クイズ系コンテスト](related_contest_sites/puzzle_quiz)」ページ
+        - [New Year's Puzzles](https://nyp.snuke.org/) - オートマトンなどを利用したパズル形式の問題を解くことができる。
+
+    <div align="center">
+      <img loading = "lazy" src="images/related_contest_sites/nyp/new_year's_puzzles_2024.png" alt="new year's puzzles">
+    </div>
 
     2024-01-02
 

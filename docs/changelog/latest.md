@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-01-04
+
+- [#7546](https://github.com/KATO-Hiro/AtCoderClans/pull/7546) - 「[Articles, Blogs, Books and Videos](../../media)」の「[SNS](../../sns)」ページに、以下のDiscordサーバを追加。
+    - [競プロWeb部](https://discord.com/invite/Kp5Ygvh9)
+- [#7545](https://github.com/KATO-Hiro/AtCoderClans/pull/7545) - 「[Related Contest Sites](../../related_contest_sites)」の「[パズル・クイズ系コンテスト](../../related_contest_sites/puzzle_quiz)」ページに掲載している以下のWebサービスのサムネイル画像を更新。
+    - [New Year's Puzzles](https://nyp.snuke.org/)
+
 ### 2024-01-03
 
 - [#7539](https://github.com/KATO-Hiro/AtCoderClans/pull/7539) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
