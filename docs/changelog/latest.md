@@ -15,7 +15,9 @@ title: Change Log
     - [Qookbook](https://www.qookbook.net/)
     - [競プロ学習サービスQookbookについて](https://kotamanegi.hatenablog.com/entry/2023/12/13/182110)
 - [#7532](https://github.com/KATO-Hiro/AtCoderClans/pull/7532) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の問題集を追加。
+    <!-- markdown-link-check-disable -->
     - [DP高速化:累積和](https://drken1215.hatenablog.com/archive/category/DP%E9%AB%98%E9%80%9F%E5%8C%96%3A%E7%B4%AF%E7%A9%8D%E5%92%8C)
+    <!-- markdown-link-check-enable -->
 
 ### 2024-01-01
 
