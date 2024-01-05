@@ -120,11 +120,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AHCのローカルテスト環境構築](https://zenn.dev/ikoma_3/articles/5c04ab03935f71)
 
-    2023-12-20
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [ヒューリスティックコンテストでビジュアライザを開発する方法に関するメモ](https://yunix-kyopro.hatenablog.com/entry/2023/12/17/150534)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -153,13 +148,6 @@
 
     - 「[SNS](sns)」ページ
         - [競プロWeb部](https://discord.com/invite/Kp5Ygvh9)
-
-=== "ライブラリ・スニペット"
-
-    2023-12-20
-
-    - 「[ライブラリチェッカー](libraries/library_checker)」ページ
-        - [【競プロ】ライブラリの verify を GitHub Actions で並列に走らせたい (oj-verify)](https://qiita.com/KakurenboUni/items/b47d9e6e3582e2149d63)
 
 === "色変記事"
 

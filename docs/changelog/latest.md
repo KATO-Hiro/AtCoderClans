@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-01-05
+
+- [#7551](https://github.com/KATO-Hiro/AtCoderClans/pull/7551) - (破壊的な変更) 「[Change Log](../latest)」ページの2023年11月分を月別のアーカイブに移動。
+    - [November, 2023](../2023_11)
+
 ### 2024-01-04
 
 - [#7546](https://github.com/KATO-Hiro/AtCoderClans/pull/7546) - 「[Articles, Blogs, Books and Videos](../../media)」の「[SNS](../../sns)」ページに、以下のDiscordサーバを追加。
