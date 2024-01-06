@@ -137,11 +137,6 @@
     - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
         - [uta_ccc](https://atcoder.jp/users/uta_ccc)さん - [はてなブログ](https://utac.hateblo.jp/)
 
-    2023-12-21
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [tofudra](https://atcoder.jp/users/tofudra)さん - [note](https://note.com/tofu_dra)
-
 === "SNS"
 
     2024-01-04
@@ -179,15 +174,16 @@
     - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [shin3110](https://atcoder.jp/users/shin3110)さん - [入水しました！！！！！！！！ - Shin_pppのブログ](https://shin-ppp.hatenablog.com/entry/2023/12/21/204232)
 
-    2023-12-21
-
-    - 「[アルゴリズム部門 - レーティング2400〜2799(橙色)](milestones/orange)」ページ
-        - [tofudra](https://atcoder.jp/users/tofudra)さん - [【日記】Atcoder橙になりました・競技プログラミングは謎解きやペンシルパズルの役に立つのか](https://note.com/tofu_dra/n/n3d580cb31495)
-
-    - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [Not_Leonian](https://atcoder.jp/users/Not_Leonian)さん - [1年前、入水とともに停滞した人間のAtCoder入青記事 - 獅子座じゃない人のブログ](https://not-leonian.hatenablog.com/entry/2023/12/19/180622)
-
 === "国内外のコンテストサイト"
+
+    2024-01-06
+
+    - 「[量子コンピュータ系コンテスト](related_contest_sites/quantum)」ページ
+        - [QCoder](https://www.qcoder.jp/)
+
+    <div align="center">
+      <img loading = "lazy" src="images/related_contest_sites/qcoder/qcoder.png" alt="qcoder">
+    </div>
 
     2024-01-04
 
