@@ -189,6 +189,15 @@
 
 === "国内外のコンテストサイト"
 
+    2024-01-06
+
+    - 「[量子コンピュータ系コンテスト](related_contest_sites/quantum)」ページ
+        - [QCoder](https://www.qcoder.jp/)
+
+    <div align="center">
+      <img loading = "lazy" src="images/related_contest_sites/qcoder/qcoder.png" alt="qcoder">
+    </div>
+
     2024-01-04
 
     - 「[パズル・クイズ系コンテスト](related_contest_sites/puzzle_quiz)」ページ
