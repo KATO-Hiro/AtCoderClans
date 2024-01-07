@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-01-07
+
+- [#7562](https://github.com/KATO-Hiro/AtCoderClans/pull/7562) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[nishigake](https://atcoder.jp/users/nishigake)さんの[記事](https://blog.nishigake.net/posts/irohen_blue/)を追加。
+
 ### 2024-01-06
 
 - [#7555](https://github.com/KATO-Hiro/AtCoderClans/pull/7555) - 「[Related Contest Sites](../../related_contest_sites)」の「[量子コンピュータ系コンテスト](../../related_contest_sites/quantum)」ページに、以下のWebサービスを追加。

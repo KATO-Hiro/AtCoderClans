@@ -115,11 +115,6 @@
     - 「[競技プログラミングと就転職](articles/jobs)」ページ
         - [競技プログラマがIT企業に就職した、その後](https://kitanomx.hatenablog.com/entry/2023/12/17/004435)
 
-    2023-12-22
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AHCのローカルテスト環境構築](https://zenn.dev/ikoma_3/articles/5c04ab03935f71)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -147,6 +142,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2024-01-07
+
+    - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [nishigake](https://atcoder.jp/users/nishigake)さん - [凡人が約5年かけて青コーダーになった話 - 西懸のメモ帳](https://blog.nishigake.net/posts/irohen_blue/)
 
     2024-01-03
 
