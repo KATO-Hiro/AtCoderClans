@@ -2,6 +2,10 @@
 title: レーティング1600〜1999(青色)
 ---
 
+## 2024年
+
+- [凡人が約5年かけて青コーダーになった話 - 西懸のメモ帳](https://blog.nishigake.net/posts/irohen_blue/) - [nishigake](https://atcoder.jp/users/nishigake)さんが、2024年1月6日に達成。
+
 ## 2023年
 
 - [1年前、入水とともに停滞した人間のAtCoder入青記事 - 獅子座じゃない人のブログ](https://not-leonian.hatenablog.com/entry/2023/12/19/180622) - [Not_Leonian](https://atcoder.jp/users/Not_Leonian)さんが、2023年12月16日に達成。
