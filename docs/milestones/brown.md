@@ -2,6 +2,10 @@
 title: レーティング400〜799(茶色)
 ---
 
+## 2024年
+
+- [【色変記事】一般物理学徒の入茶](https://qiita.com/Ahoh/items/ca5c9fcb68eef8ffe05f) - [AtatakaiInTheSky](https://atcoder.jp/users/AtatakaiInTheSky)さんが、2024年1月6日に達成。
+
 ## 2023年
 
 - [【色変記事】TypeScriptで入茶した話](https://qiita.com/itojun-1230/items/b5b139d9a5a7d6487f5c) - [itojunpei](https://atcoder.jp/users/itojunpei)さんが、2023年12月16日に達成。
