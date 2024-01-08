@@ -110,11 +110,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2023 - 学校ランキング (12月25日時点)](https://twitter.com/atcoder/status/1739135398625100112)
 
-    2023-12-23
-
-    - 「[競技プログラミングと就転職](articles/jobs)」ページ
-        - [競技プログラマがIT企業に就職した、その後](https://kitanomx.hatenablog.com/entry/2023/12/17/004435)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -143,6 +138,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
 
+    2024-01-08
+
+    - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
+        - [AtatakaiInTheSky](https://atcoder.jp/users/AtatakaiInTheSky)さん - [【色変記事】一般物理学徒の入茶](https://qiita.com/Ahoh/items/ca5c9fcb68eef8ffe05f)
+
     2024-01-07
 
     - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
@@ -168,11 +168,6 @@
 
     - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [Jikky1618](https://atcoder.jp/users/Jikky1618)さん - [競プロ未経験から1年でAtCoder水色になった話。](https://note.com/jikky1618/n/n3298c09633dc)
-
-    2023-12-23
-
-    - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [shin3110](https://atcoder.jp/users/shin3110)さん - [入水しました！！！！！！！！ - Shin_pppのブログ](https://shin-ppp.hatenablog.com/entry/2023/12/21/204232)
 
 === "国内外のコンテストサイト"
 
