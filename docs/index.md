@@ -75,18 +75,12 @@
       <img loading = "lazy" src="images/web_app/atcoder_editorial_problems.png" alt="atcoder editorial problems">
     </div>
 
-=== "ユーザスクリプト"
-
-    2023-12-24
-
-    - 「[Webページに色付けする](user_scripts/colors)」ページ
-        - [Ace to Monaco for AtCoder](https://greasyfork.org/ja/scripts/482276-ace-to-monaco-for-atcoder)
-
-    <div align="center">
-      <img loading = "lazy" src="images/userscript/ace_to_monaco_for_atcoder.png" alt="ace to monaco for atcoder">
-    </div>
-
 === "記事"
+
+    2024-01-09
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [OUPC 2023 開催記](https://kowerkoint.hatenablog.com/entry/2024/01/09/220819)
 
     2024-01-02
 
