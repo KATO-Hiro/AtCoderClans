@@ -88,6 +88,11 @@
 
 === "記事"
 
+    2024-01-09
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [OUPC 2023 開催記](https://kowerkoint.hatenablog.com/entry/2024/01/09/220819)
+
     2024-01-02
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
