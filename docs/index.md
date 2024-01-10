@@ -99,11 +99,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [RECRUIT 日本橋ハーフマラソン 2024冬（AtCoder Heuristic Contest 029）参加記](https://kaede2020.hatenablog.com/entry/2023/12/26/210009)
 
-    2023-12-25
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2023 - 学校ランキング (12月25日時点)](https://twitter.com/atcoder/status/1739135398625100112)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -157,11 +152,6 @@
 
     - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
         - [Ang107](https://atcoder.jp/users/Ang107)さん - [【色変記事】一般情報系大学生がAtCoder入茶＆入緑した話](https://qiita.com/Ang107/items/0ee28c41896cbcf11bbc)
-
-    2023-12-25
-
-    - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [Jikky1618](https://atcoder.jp/users/Jikky1618)さん - [競プロ未経験から1年でAtCoder水色になった話。](https://note.com/jikky1618/n/n3298c09633dc)
 
 === "国内外のコンテストサイト"
 
