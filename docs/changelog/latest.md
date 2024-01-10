@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-01-10
+
+- [#7578](https://github.com/KATO-Hiro/AtCoderClans/pull/7578) - ブログのドメイン変更に対応。
+
 ### 2024-01-09
 
 - [#7571](https://github.com/KATO-Hiro/AtCoderClans/pull/7571) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
