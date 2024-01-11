@@ -65,6 +65,10 @@
 - tomii9273
 - toshi201
 
+### 🙂 Special Supporter
+
+- otsuneko
+
 ## 各ページの説明
 
 - [クイックスタート](https://kato-hiro.github.io/AtCoderClans/quick_start/)をご覧ください。
