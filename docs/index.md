@@ -227,3 +227,7 @@
 - ia7ck
 - tomii9273
 - toshi201
+
+### 🙂 Special Supporter
+
+- otsuneko
