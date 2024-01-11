@@ -60,6 +60,12 @@
 
 === "ホーム"
 
+    2024-01-11
+
+    本サービスのスポンサーを掲載(敬称略)。ご支援いただき、ありがとうございます。
+
+    - [otsuneko](https://github.com/otsuneko)
+
     2023-12-29
 
     - [競プロねこ　ドット](https://store.line.me/stickershop/product/25256215/en)
@@ -93,11 +99,6 @@
 
     - 「[プログラミング言語を学ぶ](articles/programming_languages)」ページ
         - [AtCoder ガチ言語 Haskell 🔥](https://zenn.dev/toyboot4e/books/seriously-haskell)
-
-    2023-12-26
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [RECRUIT 日本橋ハーフマラソン 2024冬（AtCoder Heuristic Contest 029）参加記](https://kaede2020.hatenablog.com/entry/2023/12/26/210009)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。

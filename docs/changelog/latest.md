@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-01-11
+
+- [#7582](https://github.com/KATO-Hiro/AtCoderClans/pull/7582) - [Home](../..)ページに、本サービスのスポンサー(敬称略)を掲載。ご支援いただき、ありがとうございます。
+    - [otsuneko](https://github.com/otsuneko)
+
 ### 2024-01-10
 
 - [#7578](https://github.com/KATO-Hiro/AtCoderClans/pull/7578) - ブログのドメイン変更に対応。
