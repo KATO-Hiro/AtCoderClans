@@ -83,6 +83,11 @@
 
 === "記事"
 
+    2024-01-12
+
+    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
+        - [AtcoderをGoで解答する環境をDevcontainerで作った話](https://horikawa.dev/p/atcoder-go-devcontainer/)
+
     2024-01-09
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
