@@ -83,6 +83,11 @@
 
 === "記事"
 
+    2024-01-12
+
+    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
+        - [AtcoderをGoで解答する環境をDevcontainerで作った話](https://horikawa.dev/p/atcoder-go-devcontainer/)
+
     2024-01-09
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
@@ -148,11 +153,6 @@
 
      - 「[ヒューリスティック部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
         - [through](https://atcoder.jp/users/through)さん - [AtCoder の Heuristic で入黄しました！](https://zenn.dev/through/articles/fc42b36d19ce02)
-
-    2023-12-27
-
-    - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [Ang107](https://atcoder.jp/users/Ang107)さん - [【色変記事】一般情報系大学生がAtCoder入茶＆入緑した話](https://qiita.com/Ang107/items/0ee28c41896cbcf11bbc)
 
 === "国内外のコンテストサイト"
 

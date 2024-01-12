@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-01-12
+
+- [#7591](https://github.com/KATO-Hiro/AtCoderClans/pull/7591) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。
+    - [AtcoderをGoで解答する環境をDevcontainerで作った話](https://horikawa.dev/p/atcoder-go-devcontainer/)
+
 ### 2024-01-11
 
 - [#7582](https://github.com/KATO-Hiro/AtCoderClans/pull/7582) - [Home](../..)ページに、本サービスのスポンサー(敬称略)を掲載。ご支援いただき、ありがとうございます。
