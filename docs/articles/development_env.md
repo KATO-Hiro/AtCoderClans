@@ -4,7 +4,7 @@ title: コードを書くための環境構築を行う
 
 !!! info "参考"
 
-    以下の記事は、2023年11月までに公開・更新されたものです。随時、最新の内容を追加する予定です。
+    以下の記事は、2024年1月までに公開・更新されたものです。随時、最新の内容を追加する予定です。
 
 !!! warning "注意"
 
@@ -22,6 +22,10 @@ title: コードを書くための環境構築を行う
 ### C&#43;&#43;
 
 - [AtCoderの環境を Docker で作りたい](https://qiita.com/tf63/items/c93c6f24d73599e637d8) - C++の実行環境を構築する方法が紹介されている。また、[AtCoder Library(ACL)](https://atcoder.jp/posts/517)やテストツールの導入、各種コマンドの自動化もできる。
+
+### Go
+
+- [AtcoderをGoで解答する環境をDevcontainerで作った話](https://horikawa.dev/p/atcoder-go-devcontainer/) - Goの実行環境の構築方法が紹介されている記事。各種コマンドの実行やテストツールの自動化もできる。
 
 ### PHP
 
