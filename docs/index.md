@@ -81,6 +81,17 @@
       <img loading = "lazy" src="images/web_app/atcoder_editorial_problems.png" alt="atcoder editorial problems">
     </div>
 
+=== "ユーザスクリプト"
+
+    2024-01-13
+
+    - 「[問題を解く](user_scripts/solve_problems)」ページ
+        - [AtCoder-quotation-adder](https://github.com/burioden/AtCoder-quotation-adder)
+
+    <div align="center">
+      <img loading = "lazy" src="images/userscript/atcoder_quotation_adder.png" alt="atcoder quotation adder">
+    </div>
+
 === "記事"
 
     2024-01-12
@@ -112,15 +123,6 @@
 
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
         - [through](https://atcoder.jp/users/through)さん - [Zenn](https://zenn.dev/through)
-
-    2023-12-28
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [ebicochineal](https://atcoder.jp/users/ebicochineal)さん - [自作ブログ](http://ebicochineal.blogspot.com/)
-        - [tempura0224](https://atcoder.jp/users/tempura0224)さん - [はてなブログ](https://tempura0224.hatenablog.com/)
-
-    - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
-        - [uta_ccc](https://atcoder.jp/users/uta_ccc)さん - [はてなブログ](https://utac.hateblo.jp/)
 
 === "SNS"
 

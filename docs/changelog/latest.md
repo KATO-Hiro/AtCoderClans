@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-01-13
+
+- [#7594](https://github.com/KATO-Hiro/AtCoderClans/pull/7594) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder-quotation-adder](https://github.com/burioden/AtCoder-quotation-adder)
+
 ### 2024-01-12
 
 - [#7591](https://github.com/KATO-Hiro/AtCoderClans/pull/7591) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。
