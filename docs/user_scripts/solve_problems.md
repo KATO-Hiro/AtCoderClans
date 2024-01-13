@@ -129,6 +129,14 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/atcoder_devotion_script.png" alt="atcoder devotion script">
     </div>
 
+### 問題文の文字列を扱いやすくする
+
+- [AtCoder-quotation-adder](https://github.com/burioden/AtCoder-quotation-adder) - 「問題」ページの問題文に含まれる文字列に""を追加する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_quotation_adder.png" alt="atcoder quotation adder">
+    </div>
+
 ### 制約条件を確認・非表示に
 
 - [制約をチェックする](https://greasyfork.org/ja/scripts/434715-check-constraints) - 「問題」ページの制約に、確認用のチェックボックスを追加する。
