@@ -66,10 +66,6 @@
 
     - [otsuneko](https://github.com/otsuneko)
 
-    2023-12-29
-
-    - [競プロねこ　ドット](https://store.line.me/stickershop/product/25256215/en)
-
 === "Webアプリ・Webサイト"
 
     2024-01-01
@@ -93,6 +89,11 @@
     </div>
 
 === "記事"
+
+    2024-01-14
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [ALGO ARTIS プログラミングコンテスト2023 冬（AtCoder Heuristic Contest 028）参加メモ](https://kaede2020.hatenablog.com/entry/2024/01/14/141500)
 
     2024-01-12
 
