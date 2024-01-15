@@ -151,12 +151,6 @@
     - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [fibon](https://atcoder.jp/users/fibon)さん - [AtCoderで水色になりました(入水記事)](https://fiboooo.com/atcoder-lightblue/)
 
-
-    2023-12-30
-
-     - 「[ヒューリスティック部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
-        - [through](https://atcoder.jp/users/through)さん - [AtCoder の Heuristic で入黄しました！](https://zenn.dev/through/articles/fc42b36d19ce02)
-
 === "国内外のコンテストサイト"
 
     2024-01-06
