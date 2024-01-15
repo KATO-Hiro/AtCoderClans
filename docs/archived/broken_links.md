@@ -243,6 +243,9 @@ title: リンク切れ
 
 ### レーティング1200〜1599(水色)
 
+- [3年かかってやっと水色コーダーになった話](https://qiita.com/kanten4205/items/60962a67ff36e647c373) - [Kanten4205](https://atcoder.jp/users/Kanten4205)さんが、2021年6月6日に達成。
+    - 確認した日: 2024/01/15
+
 - [【色変記事（入水）】return文さえ理解していない俺が水色に！？　～今更unratedと言ってももう遅い～](https://qiita.com/rei_pandada/items/c46615469b0a2baab238) - [rei_pandada](https://atcoder.jp/users/rei_pandada)さんが、2023年6月24日に達成。
     - 確認した日: 2024/01/01
 

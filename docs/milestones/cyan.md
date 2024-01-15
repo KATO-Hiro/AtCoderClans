@@ -72,7 +72,6 @@ title: レーティング1200〜1599(水色)
 - [【色変記事】実務未経験がAtCoderで水色になるまで](https://qiita.com/nizi24/items/f370cf0abfd349884baa) - [nizi24](https://atcoder.jp/users/nizi24)さんが、2021年8月21日に達成。
 - [AtCoder 水色になりました - harurun競プロ](https://harurunppp.hatenablog.com/entry/2021/08/11/010053) - [harurun](https://atcoder.jp/users/harurun)さんが、2021年8月8日に達成。
 - [AtCoder水色になりました - ころも（競プロ）のブログ](https://koromo-kyopro.hatenablog.com/entry/2021/06/20/023359) - [uytvcc](https://atcoder.jp/users/uytvcc)さんが、2021年6月12日に達成。
-- [3年かかってやっと水色コーダーになった話](https://qiita.com/kanten4205/items/60962a67ff36e647c373) - [Kanten4205](https://atcoder.jp/users/Kanten4205)さんが、2021年6月6日に達成。
 - [AtCoder水色になりました - からあげの備忘録](https://elekara.hatenablog.com/entry/2021/06/07/170401) - [ekaraage](https://atcoder.jp/users/ekaraage)さんが、2021年6月6日に達成。
 - [AtCoder 入水しました！ - Attack All Around](https://partender810.hatenablog.com/entry/2021/05/17/181115) - [partender](https://atcoder.jp/users/partender)さんが、2021年5月16日に達成。
 - [AtCoder水色になりました - Xenousの精進記録](https://xenous.hatenablog.com/entry/2021/05/22/130844) - [Xenous](https://atcoder.jp/users/Xenous)さんが、2021年5月15日に達成。
