@@ -90,6 +90,11 @@
 
 === "記事"
 
+    2024-01-16
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [アニメーションでみるアルゴリズムの計算量](https://qiita.com/S4nTo/items/2fe9e41d2f1eb3e124e9)
+
     2024-01-14
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -111,11 +116,6 @@
         <!-- markdown-link-check-disable -->
         - [DP高速化:累積和](https://drken1215.hatenablog.com/archive/category/DP%E9%AB%98%E9%80%9F%E5%8C%96%3A%E7%B4%AF%E7%A9%8D%E5%92%8C)
         <!-- markdown-link-check-enable -->
-
-    2023-12-31
-
-    - 「[プログラミング言語を学ぶ](articles/programming_languages)」ページ
-        - [AtCoder ガチ言語 Haskell 🔥](https://zenn.dev/toyboot4e/books/seriously-haskell)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -179,17 +179,6 @@
 
     <div align="center">
       <img loading = "lazy" src="images/related_contest_sites/qookbook/qookbook.png" alt="qookbook">
-    </div>
-
-    2023-12-31
-
-    - 「[Codeforces](related_contest_sites/codeforces)」ページ
-        - [CF-Predictor](https://cf-predictor.wasylf.xyz/)
-        - [AtCoderユーザがCodeforcesに参戦した話](https://qiita.com/tosh55/items/7703e9f1306ca7e00d10)
-        - [Codeforces 用に競技プログラミング環境を変更した](https://atug.tokyo/?p=598)
-
-    <div align="center">
-      <img loading = "lazy" src="images/related_contest_sites/codeforces/cf-predictor_2nd.png" alt="cf predictor">
     </div>
 
 ## AtCoder公式グッズを購入する

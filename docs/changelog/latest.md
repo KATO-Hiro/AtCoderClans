@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-01-16
+
+- [#7606](https://github.com/KATO-Hiro/AtCoderClans/pull/7606) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の問題集を追加。
+    - [アニメーションでみるアルゴリズムの計算量](https://qiita.com/S4nTo/items/2fe9e41d2f1eb3e124e9)
+
 ### 2024-01-15
 
 - [#7601](https://github.com/KATO-Hiro/AtCoderClans/pull/7601) - (破壊的な変更) リンク切れと思われる色変記事を一時的に「[Archives](../../archived)」ページに移動。
