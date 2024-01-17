@@ -66,17 +66,6 @@
 
     - [otsuneko](https://github.com/otsuneko)
 
-=== "Webアプリ・Webサイト"
-
-    2024-01-01
-
-    - 「[問題を解く](web_app/solve_problems)」ページ
-        - [AtCoder Editorial Problems](https://ajinoko33.github.io/AtCoderEditorialProblems/)
-
-    <div align="center">
-      <img loading = "lazy" src="images/web_app/atcoder_editorial_problems.png" alt="atcoder editorial problems">
-    </div>
-
 === "ユーザスクリプト"
 
     2024-01-13
@@ -89,6 +78,11 @@
     </div>
 
 === "記事"
+
+    2024-01-17
+
+    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
+        - [中高生向け 学校対抗競技プログラミング「AtCoder Junior League2023」入賞校・入賞者を発表](https://prtimes.jp/main/html/rd/p/000000044.000028415.html)
 
     2024-01-16
 
@@ -116,14 +110,6 @@
         <!-- markdown-link-check-disable -->
         - [DP高速化:累積和](https://drken1215.hatenablog.com/archive/category/DP%E9%AB%98%E9%80%9F%E5%8C%96%3A%E7%B4%AF%E7%A9%8D%E5%92%8C)
         <!-- markdown-link-check-enable -->
-
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2024-01-01
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [through](https://atcoder.jp/users/through)さん - [Zenn](https://zenn.dev/through)
 
 === "SNS"
 
