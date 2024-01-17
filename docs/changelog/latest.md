@@ -4,9 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-01-17
+
+- [#7611](https://github.com/KATO-Hiro/AtCoderClans/pull/7611) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の記事を追加。
+    - [中高生向け 学校対抗競技プログラミング「AtCoder Junior League2023」入賞校・入賞者を発表](https://prtimes.jp/main/html/rd/p/000000044.000028415.html)
+
 ### 2024-01-16
 
-- [#7606](https://github.com/KATO-Hiro/AtCoderClans/pull/7606) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の問題集を追加。
+- [#7606](https://github.com/KATO-Hiro/AtCoderClans/pull/7606) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
     - [アニメーションでみるアルゴリズムの計算量](https://qiita.com/S4nTo/items/2fe9e41d2f1eb3e124e9)
 
 ### 2024-01-15
