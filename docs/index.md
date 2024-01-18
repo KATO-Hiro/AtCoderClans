@@ -79,6 +79,11 @@
 
 === "記事"
 
+    2024-01-18
+
+    - 「[数学を学ぶ](articles/math)」ページ
+        - [競プロのための算数・数学](https://twitter.com/hashtag/%E7%AB%B6%E3%83%97%E3%83%AD%E7%AE%97%E6%95%B0?src=hashtag_click&f=live)
+
     2024-01-17
 
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
@@ -103,13 +108,6 @@
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
         - [OUPC 2023 開催記](https://kowerkoint.hatenablog.com/entry/2024/01/09/220819)
-
-    2024-01-02
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        <!-- markdown-link-check-disable -->
-        - [DP高速化:累積和](https://drken1215.hatenablog.com/archive/category/DP%E9%AB%98%E9%80%9F%E5%8C%96%3A%E7%B4%AF%E7%A9%8D%E5%92%8C)
-        <!-- markdown-link-check-enable -->
 
 === "SNS"
 
@@ -155,16 +153,6 @@
 
     <div align="center">
       <img loading = "lazy" src="images/related_contest_sites/nyp/new_year's_puzzles_2024.png" alt="new year's puzzles">
-    </div>
-
-    2024-01-02
-
-    - 「[量子コンピュータ系コンテスト](related_contest_sites/quantum)」ページ
-        - [Qookbook](https://www.qookbook.net/)
-        - [競プロ学習サービスQookbookについて](https://kotamanegi.hatenablog.com/entry/2023/12/13/182110)
-
-    <div align="center">
-      <img loading = "lazy" src="images/related_contest_sites/qookbook/qookbook.png" alt="qookbook">
     </div>
 
 ## AtCoder公式グッズを購入する

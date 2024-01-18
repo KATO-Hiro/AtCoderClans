@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-01-18
+
+- [#7616](https://github.com/KATO-Hiro/AtCoderClans/pull/7616) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下のリンクを追加。
+    - [競プロのための算数・数学](https://twitter.com/hashtag/%E7%AB%B6%E3%83%97%E3%83%AD%E7%AE%97%E6%95%B0?src=hashtag_click&f=live)
+
 ### 2024-01-17
 
 - [#7611](https://github.com/KATO-Hiro/AtCoderClans/pull/7611) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の記事を追加。
