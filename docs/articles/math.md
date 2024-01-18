@@ -27,6 +27,10 @@ title: 数学を学ぶ
 - [Wolfram Alpha](https://ja.wolframalpha.com/) - 数学に関する質問の回答や計算をしてくれるWebサービス。
     - [【競プロ Tips】Wolfram Alpha を使いこなそう](https://hackmd.io/@tatyam-prime/ByuUsAfla) - 同サービスを利用するにあたり、複雑な式の入力や時間のかかる計算への対処方法が紹介されている記事。
 
+## 問題集
+
+- [競プロのための算数・数学](https://twitter.com/hashtag/%E7%AB%B6%E3%83%97%E3%83%AD%E7%AE%97%E6%95%B0?src=hashtag_click&f=live) - 競技プログラミングの問題を解く上で必要な算数・数学の基礎知識を演習問題を通して身につけることができる。
+
 ## 数式が多い解説の読み方
 
 - [「数式の多い解説」の読み方について](https://drken1215.hatenablog.com/entry/2023/07/30/130100) - 数式がやや多めに書かれている解説を題材に、[drken](https://atcoder.jp/users/drken)さんが読み解くコツを紹介している記事。
