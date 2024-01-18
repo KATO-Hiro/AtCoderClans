@@ -79,6 +79,11 @@
 
 === "記事"
 
+    2024-01-18
+
+    - 「[数学を学ぶ](articles/math)」ページ
+        - [競プロのための算数・数学](https://twitter.com/hashtag/%E7%AB%B6%E3%83%97%E3%83%AD%E7%AE%97%E6%95%B0?src=hashtag_click&f=live)
+
     2024-01-17
 
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
