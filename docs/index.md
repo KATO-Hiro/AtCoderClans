@@ -120,6 +120,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
 
+    2024-01-18
+
+    - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
+        - [mizuho0613](https://atcoder.jp/users/mizuho0613)さん - [14歳がAtCoderで入茶しました](https://note.com/mizzpika/n/n6b1714aa2ad1)
+
     2024-01-08
 
     - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ

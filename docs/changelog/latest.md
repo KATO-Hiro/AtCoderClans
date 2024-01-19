@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-01-19
+
+- [#7619](https://github.com/KATO-Hiro/AtCoderClans/pull/7619) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[mizuho0613](https://atcoder.jp/users/mizuho0613)さんの[記事](https://note.com/mizzpika/n/n6b1714aa2ad1)を追加。
+
 ### 2024-01-18
 
 - [#7616](https://github.com/KATO-Hiro/AtCoderClans/pull/7616) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下のリンクを追加。
