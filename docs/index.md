@@ -120,6 +120,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
 
+    2024-01-18
+
+    - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
+        - [mizuho0613](https://atcoder.jp/users/mizuho0613)さん - [14歳がAtCoderで入茶しました](https://note.com/mizzpika/n/n6b1714aa2ad1)
+
     2024-01-08
 
     - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
@@ -129,11 +134,6 @@
 
     - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [nishigake](https://atcoder.jp/users/nishigake)さん - [凡人が約5年かけて青コーダーになった話 - 西懸のメモ帳](https://blog.nishigake.net/posts/irohen_blue/)
-
-    2024-01-03
-
-    - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [fibon](https://atcoder.jp/users/fibon)さん - [AtCoderで水色になりました(入水記事)](https://fiboooo.com/atcoder-lightblue/)
 
 === "国内外のコンテストサイト"
 
