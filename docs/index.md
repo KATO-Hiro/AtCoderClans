@@ -135,11 +135,6 @@
     - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [nishigake](https://atcoder.jp/users/nishigake)さん - [凡人が約5年かけて青コーダーになった話 - 西懸のメモ帳](https://blog.nishigake.net/posts/irohen_blue/)
 
-    2024-01-03
-
-    - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [fibon](https://atcoder.jp/users/fibon)さん - [AtCoderで水色になりました(入水記事)](https://fiboooo.com/atcoder-lightblue/)
-
 === "国内外のコンテストサイト"
 
     2024-01-06
