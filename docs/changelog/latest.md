@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-01-20
+
+- [#7623](https://github.com/KATO-Hiro/AtCoderClans/pull/7623) - 「[Related Contest Sites](../../related_contest_sites)」の「[量子コンピュータ系コンテスト](../../related_contest_sites/quantum)」ページに掲載しているWebサービスの説明文を更新。
+    - [QCoder](https://www.qcoder.jp/)
+
 ### 2024-01-19
 
 - [#7619](https://github.com/KATO-Hiro/AtCoderClans/pull/7619) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

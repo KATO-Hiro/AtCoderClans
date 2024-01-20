@@ -109,13 +109,6 @@
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
         - [OUPC 2023 開催記](https://kowerkoint.hatenablog.com/entry/2024/01/09/220819)
 
-=== "SNS"
-
-    2024-01-04
-
-    - 「[SNS](sns)」ページ
-        - [競プロWeb部](https://discord.com/invite/Kp5Ygvh9)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
@@ -144,15 +137,6 @@
 
     <div align="center">
       <img loading = "lazy" src="images/related_contest_sites/qcoder/qcoder.png" alt="qcoder">
-    </div>
-
-    2024-01-04
-
-    - 「[パズル・クイズ系コンテスト](related_contest_sites/puzzle_quiz)」ページ
-        - [New Year's Puzzles](https://nyp.snuke.org/) - オートマトンなどを利用したパズル形式の問題を解くことができる。
-
-    <div align="center">
-      <img loading = "lazy" src="images/related_contest_sites/nyp/new_year's_puzzles_2024.png" alt="new year's puzzles">
     </div>
 
 ## AtCoder公式グッズを購入する
