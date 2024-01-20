@@ -2,7 +2,7 @@
 title: 量子コンピュータ系コンテスト
 ---
 
-- [QCoder](https://www.qcoder.jp/) - （近日開催予定） 量子コンピュータに関する知識を競うプログラミングコンテストサービス。
+- [QCoder](https://www.qcoder.jp/) - 量子コンピュータに関する知識を競うプログラミングコンテストサービス。
     - [X(旧 Twitter)アカウント](https://twitter.com/QCoderOfficial)
 
     <div align="center">
