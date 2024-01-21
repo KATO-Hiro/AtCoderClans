@@ -4,6 +4,7 @@ title: レーティング400〜799(茶色)
 
 ## 2024年
 
+- [基本情報を持ってれば入茶できるからみんなAtCoder始めようぜ](https://note.com/empty845/n/n7117f2c317bc) - [kana_nu00](https://atcoder.jp/users/kana_nu00)さんが、2024年1月14日に達成。
 - [14歳がAtCoderで入茶しました](https://note.com/mizzpika/n/n6b1714aa2ad1) - [mizuho0613](https://atcoder.jp/users/mizuho0613)さんが、2024年1月14日に達成。
 - [【色変記事】一般物理学徒の入茶](https://qiita.com/Ahoh/items/ca5c9fcb68eef8ffe05f) - [AtatakaiInTheSky](https://atcoder.jp/users/AtatakaiInTheSky)さんが、2024年1月6日に達成。
 
