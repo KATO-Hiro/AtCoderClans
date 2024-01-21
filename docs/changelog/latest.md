@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-01-21
+
+- [#7626](https://github.com/KATO-Hiro/AtCoderClans/pull/7626) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[kana_nu00](https://atcoder.jp/users/kana_nu00)さんの[記事](https://note.com/empty845/n/n7117f2c317bc)を追加。
+
 ### 2024-01-20
 
 - [#7623](https://github.com/KATO-Hiro/AtCoderClans/pull/7623) - 「[Related Contest Sites](../../related_contest_sites)」の「[量子コンピュータ系コンテスト](../../related_contest_sites/quantum)」ページに掲載しているWebサービスの説明文を更新。
