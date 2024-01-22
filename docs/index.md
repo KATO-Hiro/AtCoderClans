@@ -133,17 +133,6 @@
     - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [nishigake](https://atcoder.jp/users/nishigake)さん - [凡人が約5年かけて青コーダーになった話 - 西懸のメモ帳](https://blog.nishigake.net/posts/irohen_blue/)
 
-=== "国内外のコンテストサイト"
-
-    2024-01-06
-
-    - 「[量子コンピュータ系コンテスト](related_contest_sites/quantum)」ページ
-        - [QCoder](https://www.qcoder.jp/)
-
-    <div align="center">
-      <img loading = "lazy" src="images/related_contest_sites/qcoder/qcoder.png" alt="qcoder">
-    </div>
-
 ## AtCoder公式グッズを購入する
 
 - [SUZURI](https://suzuri.jp/AtCoder) - [AtCoder](https://atcoder.jp/)のロゴ入りグッズが購入できる。
