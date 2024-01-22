@@ -150,6 +150,8 @@ title: リンク切れ
 
 ### 競技プログラミングと就転職
 
+- [AtCoder Jobsを使って転職しました](https://xkttqm.hatenablog.com/entry/2021/08/04/230000) - IT業界未経験の状態から転職を考えたきっかけ・[AtCoderJobs](https://jobs.atcoder.jp/)を利用した転職活動が紹介されている記事。
+    - 確認した日: 2024/01/22
 - [AtCoder純粋培養緑コーダーが転職ACするまで](https://seashellpink-frostywhite.hatenablog.com/entry/2021/03/31/185821) - [riano_](https://atcoder.jp/users/riano_)さんが[AtCoderJobs](https://jobs.atcoder.jp/)を利用してIT業界未経験の状態から転職した経験談を紹介した記事。
     - 確認した日: 2022/6/02
 - [AtCoderでしかプログラミングを知らない生物学徒がハッカソンに挑戦してみた話](https://tsuna-lab.hatenablog.com/entry/2021/04/28/233453) - ハッカソンに初めて参加した筆者が、チーム開発で経験した内容を紹介した記事。
@@ -242,6 +244,9 @@ title: リンク切れ
     - 確認した日: 2022/01/19
 
 ### レーティング1200〜1599(水色)
+
+- [python使ってAtCoderで水色になるまで - xkttqm's blog](https://xkttqm.hatenablog.com/entry/2021/01/17/140000) - [at12](https://atcoder.jp/users/at12)さんが、2021年1月16日に達成。
+    - 確認した日: 2024/01/22
 
 - [3年かかってやっと水色コーダーになった話](https://qiita.com/kanten4205/items/60962a67ff36e647c373) - [Kanten4205](https://atcoder.jp/users/Kanten4205)さんが、2021年6月6日に達成。
     - 確認した日: 2024/01/15
