@@ -68,6 +68,15 @@
 
 === "ユーザスクリプト"
 
+    2024-01-23
+
+    - 「[問題を解く](user_scripts/solve_problems)」ページ
+        - [AtCoder copy button adder](https://greasyfork.org/ja/scripts/485389-atcoder-copy-button-adder)
+
+    <div align="center">
+      <img loading = "lazy" src="images/userscript/atcoder_copy_button_adder.png" alt="atcoder copy button adder">
+    </div>
+
     2024-01-13
 
     - 「[問題を解く](user_scripts/solve_problems)」ページ
@@ -127,11 +136,6 @@
 
     - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
         - [AtatakaiInTheSky](https://atcoder.jp/users/AtatakaiInTheSky)さん - [【色変記事】一般物理学徒の入茶](https://qiita.com/Ahoh/items/ca5c9fcb68eef8ffe05f)
-
-    2024-01-07
-
-    - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [nishigake](https://atcoder.jp/users/nishigake)さん - [凡人が約5年かけて青コーダーになった話 - 西懸のメモ帳](https://blog.nishigake.net/posts/irohen_blue/)
 
 ## AtCoder公式グッズを購入する
 
