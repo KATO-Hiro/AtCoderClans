@@ -137,6 +137,12 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/atcoder_quotation_adder.png" alt="atcoder quotation adder">
     </div>
 
+- [AtCoder copy button adder](https://greasyfork.org/ja/scripts/485389-atcoder-copy-button-adder) - 「問題」ページの問題文に含まれる文字列をコピーできるボタンを追加する。[AtCoder-quotation-adder](https://github.com/burioden/AtCoder-quotation-adder)との併用もできる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_copy_button_adder.png" alt="atcoder copy button adder">
+    </div>
+
 ### 制約条件を確認・非表示に
 
 - [制約をチェックする](https://greasyfork.org/ja/scripts/434715-check-constraints) - 「問題」ページの制約に、確認用のチェックボックスを追加する。
