@@ -122,6 +122,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
 
+    2024-01-24
+
+    - 「[アルゴリズム部門 - レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
+        - [kobae964](https://atcoder.jp/users/kobae964)さん - [AtCoderで赤になるまでにやったこと - koba-e964の日記](https://koba-e964.hatenablog.com/entry/2019/06/30/020339)
+
     2024-01-21
 
     - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
@@ -131,11 +136,6 @@
 
     - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
         - [mizuho0613](https://atcoder.jp/users/mizuho0613)さん - [14歳がAtCoderで入茶しました](https://note.com/mizzpika/n/n6b1714aa2ad1)
-
-    2024-01-08
-
-    - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
-        - [AtatakaiInTheSky](https://atcoder.jp/users/AtatakaiInTheSky)さん - [【色変記事】一般物理学徒の入茶](https://qiita.com/Ahoh/items/ca5c9fcb68eef8ffe05f)
 
 ## AtCoder公式グッズを購入する
 

@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-01-24
+
+- [#7639](https://github.com/KATO-Hiro/AtCoderClans/pull/7639) - 「[Milestones](../../milestones/red)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2800以上(赤色、銅王冠、銀王冠、金王冠)に[kobae964](https://atcoder.jp/users/kobae964)さんの[記事](https://koba-e964.hatenablog.com/entry/2019/06/30/020339)を追加。
+
 ### 2024-01-23
 
 - [#7636](https://github.com/KATO-Hiro/AtCoderClans/pull/7636) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
