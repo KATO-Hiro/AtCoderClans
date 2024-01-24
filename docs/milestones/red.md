@@ -20,3 +20,7 @@ title: レーティング2800〜(赤色、銅・銀・金王冠)
 
 - [AtCoder赤になりました。 - tatyam’s blog](https://tatyam.hatenablog.com/entry/2020/12/24/030404) - [tatyam](https://atcoder.jp/users/tatyam)さんが、2020年11月28日に達成。
 - [[AtCoder] 赤(2800+)になりました - maspyのHP](https://maspypy.com/atcoder-%e8%b5%a42800%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f) - [maspy](https://atcoder.jp/users/maspy)さんが、2020年11月21日に達成。
+
+## 2019年
+
+- [AtCoderで赤になるまでにやったこと - koba-e964の日記](https://koba-e964.hatenablog.com/entry/2019/06/30/020339) - [kobae964](https://atcoder.jp/users/kobae964)さんが、2019年6月30日に公開。
