@@ -88,6 +88,11 @@
 
 === "記事"
 
+    2024-01-25
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [知名度がいまいち分かってないNextDPというテクニックについて](https://qiita.com/H20/items/922cc0a17ba5817f26d7)
+
     2024-01-18
 
     - 「[数学を学ぶ](articles/math)」ページ
@@ -112,11 +117,6 @@
 
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
         - [AtcoderをGoで解答する環境をDevcontainerで作った話](https://horikawa.dev/p/atcoder-go-devcontainer/)
-
-    2024-01-09
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-        - [OUPC 2023 開催記](https://kowerkoint.hatenablog.com/entry/2024/01/09/220819)
 
 === "色変記事"
 
