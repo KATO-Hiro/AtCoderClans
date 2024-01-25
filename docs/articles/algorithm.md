@@ -120,6 +120,7 @@ title: アルゴリズムを学ぶ
 ### DPの高速化
 
 - [LISでも大活躍！ DPの配列使いまわしテクニックを特集](https://qiita.com/drken/items/68b8503ad4ffb469624c) - 動的計画法において、配列を再利用することで、メモリの節約や根本的な計算量の改善につなげる方法をまとめた記事。ナップサック問題や最長増加部分列問題などが題材として扱われている。
+- [知名度がいまいち分かってないNextDPというテクニックについて](https://qiita.com/H20/items/922cc0a17ba5817f26d7) - 直前の状態のみ関心があり、そこから遷移する場合に高速化・省メモリ化を図る方法・Pythonの実装例が紹介されている。
 <!-- markdown-link-check-disable -->
 - [DP高速化:累積和](https://drken1215.hatenablog.com/archive/category/DP%E9%AB%98%E9%80%9F%E5%8C%96%3A%E7%B4%AF%E7%A9%8D%E5%92%8C) - [drken](https://atcoder.jp/users/drken)さんによる過去問の解説集。動的計画法を用いる問題の計算量改善に累積和が効果的な例題がまとめられている。
 <!-- markdown-link-check-enable -->
