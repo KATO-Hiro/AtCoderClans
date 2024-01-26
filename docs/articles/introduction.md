@@ -18,6 +18,11 @@ title: 入門者・初心者向けの内容
     - [日本最大のプログラミングコンテストサイト AtCoder 全世界での登録者数が30万人を突破！](https://prtimes.jp/main/html/rd/p/000000034.000028415.html) - AtCoderの登録者数が2021年6月に30万人を突破したことを報告した記事。競技プログラミングの関連書籍や無料のオンライン学習コンテンツも紹介されている。
     - [日本最大のプログラミングコンテストサイト AtCoder 全世界での登録者数が50万人を突破！](https://prtimes.jp/main/html/rd/p/000000038.000028415.html) - 上記の記事の続報(2023年4月時点)。登録者の国・地域を年代別にみたランキングや中高生を対象とした[AtCoder Junior League 2023](https://atcoder.jp/contests/ajl2023)も紹介されている。
 - [競技プログラミングことはじめ](https://speakerdeck.com/e869120/20221122-jing-ji-puroguramingukotohazime) - 競技プログラミングに関連する教育コンテンツを多数作成されている[E869120](https://atcoder.jp/users/E869120)さんのスライド。基本的な説明から、コンテストサイト[AtCoder](https://atcoder.jp/)の登録方法・問題の解き方・求められるスキルなどが紹介されている。
+    - [Let’s 競技プログラミング! E8さんが教える アルゴリズム発想のキホン](https://news.mynavi.jp/techplus/series/algorithm/) - 同名の著者によるアルゴリズムの紹介・解説記事(全24回)。
+
+        !!! warning "注意"
+            全文を読むには、会員登録が必要がある。
+
 - [競プロのすすめ](https://speakerdeck.com/uya116/jing-purofalsesusume) - 競技プログラミングの概要と例題、コンテストの参加手順などが紹介されている。
 - [やってみよう競技プログラミング](https://docs.google.com/presentation/d/1N5MTwRdZPCtUwTwQTajOwkyEvHWSSiRl8xIx-BPfOl0/view#slide=id.p) - 競技プログラミングそのものの説明から、コンテストの参加にまつわるアンチパターンとオススメの練習方法が解説されている。
 - [122人に聞いた！「競技プログラミングを始めたばかりの人に伝えたいこと」](https://qiita.com/sakofsuken/items/6194f8ee83b40749c0e4) - 「競技プログラミングを始めたばかりの人に伝えたいこと」について、筆者を含む122人のアンケート結果(回答者属性・競技プログラミング(競プロ)を始めたきっかけ・競プロをおすすめしたい人・アドバイスなど)がまとめられている記事。
