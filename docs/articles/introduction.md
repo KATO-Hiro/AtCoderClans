@@ -21,7 +21,7 @@ title: 入門者・初心者向けの内容
     - [Let’s 競技プログラミング! E8さんが教える アルゴリズム発想のキホン](https://news.mynavi.jp/techplus/series/algorithm/) - 同名の著者によるアルゴリズムの紹介・解説記事(全24回)。
 
         !!! warning "注意"
-            全文を読むには、会員登録が必要がある。
+            全文を読むには、会員登録が必要。
 
 - [競プロのすすめ](https://speakerdeck.com/uya116/jing-purofalsesusume) - 競技プログラミングの概要と例題、コンテストの参加手順などが紹介されている。
 - [やってみよう競技プログラミング](https://docs.google.com/presentation/d/1N5MTwRdZPCtUwTwQTajOwkyEvHWSSiRl8xIx-BPfOl0/view#slide=id.p) - 競技プログラミングそのものの説明から、コンテストの参加にまつわるアンチパターンとオススメの練習方法が解説されている。
