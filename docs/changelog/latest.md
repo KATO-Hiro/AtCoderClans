@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-01-27
+
+- [#7652](https://github.com/KATO-Hiro/AtCoderClans/pull/7652) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の記事を追加。
+    - [Let’s 競技プログラミング! E8さんが教える アルゴリズム発想のキホン](https://news.mynavi.jp/techplus/series/algorithm/)
+
 ### 2024-01-26
 
 - [#7648](https://github.com/KATO-Hiro/AtCoderClans/pull/7648) - (破壊的な変更) 「[Change Log](../latest)」ページの2023年12月分を月別のアーカイブに移動。
