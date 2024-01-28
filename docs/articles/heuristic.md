@@ -108,6 +108,7 @@ title: ヒューリスティック問題を解く
 - [AHCガチ素人のアルゴ茶コーダー VS AHC013 〜初歩的アルゴ知識だけで戦ってみました〜](https://fujikawa.hatenablog.com/entry/2022/08/18/051533) - [fujikawahiroaki](https://atcoder.jp/users/fujikawahiroaki)さんの参加記。アルゴリズム部門で身につけた知識を活用して、コンテストに挑戦する過程がまとめられている。
     - [AHC016（HTTF2023予選）敗戦記　〜傷まみれの青春〜](https://fujikawa.hatenablog.com/entry/2022/11/22/220829)
 - [AHC018の1位解法(Psyho氏の解法)解説](https://qiita.com/thun-c/items/11af0980cc938dc28d3b) - [Psyho](https://atcoder.jp/users/Psyho)さんによる[AtCoder Heuristic Contest 018](https://atcoder.jp/contests/ahc018)の解答方針を、[thunder](https://atcoder.jp/users/thunder)さんが詳しく解説した記事。
+    - [TOYOTA AHC 至高のアルゴリズム解説会 AHC015](https://speakerdeck.com/thunderc/toyota-ahc-zhi-gao-noarugorizumujie-shuo-hui-ahc015) - [AtCoder Heuristic Contest 015](https://atcoder.jp/contests/ahc015)の延長戦1位(2024年1月末時点)の解法を紹介・解説した記事。
 - [AHC018 ガウス過程回帰を用いた解法](https://docs.google.com/presentation/d/1JEcyHLw8XrDqL4FHUGYIVQC63KSZ2eaHRjO0E2y1WeU/edit#slide=id.p) - 観測された情報から未知の情報を推定するガウス過程回帰の説明を中心に、[AtCoder Heuristic Contest 018](https://atcoder.jp/contests/ahc018)への適用例も紹介されているスライド。
 - [【AHC020 参加記】初参加の初心者でもそれなりに善戦できるぞという話](https://qiita.com/halcyonFX/items/c6d7ebdf375f359c596c) - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さんの参加記。初参加の[AtCoder Heuristic Contest 020](https://atcoder.jp/contests/ahc020)で、愚直な解法から高得点を得るための思考過程を紹介した記事。
 - [【AHC022】 AHC初参加記 〜入茶しました](https://note.com/likaf/n/n81fc35c58550) - [Likaf](https://atcoder.jp/users/Likaf)さんの参加記。[AtCoder Heuristic Contest 022](https://atcoder.jp/contests/ahc022)に参加した経緯、考察内容やスコアの推移、感想などがまとめられている。
