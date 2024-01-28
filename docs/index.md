@@ -80,6 +80,11 @@
 
 === "記事"
 
+    2024-01-28
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [TOYOTA AHC 至高のアルゴリズム解説会 AHC015](https://speakerdeck.com/thunderc/toyota-ahc-zhi-gao-noarugorizumujie-shuo-hui-ahc015)
+
     2024-01-27
 
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
@@ -109,11 +114,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [ALGO ARTIS プログラミングコンテスト2023 冬（AtCoder Heuristic Contest 028）参加メモ](https://kaede2020.hatenablog.com/entry/2024/01/14/141500)
-
-    2024-01-12
-
-    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
-        - [AtcoderをGoで解答する環境をDevcontainerで作った話](https://horikawa.dev/p/atcoder-go-devcontainer/)
 
 === "色変記事"
 
