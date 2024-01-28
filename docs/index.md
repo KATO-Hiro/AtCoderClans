@@ -80,6 +80,11 @@
 
 === "記事"
 
+    2024-01-28
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [TOYOTA AHC 至高のアルゴリズム解説会 AHC015](https://speakerdeck.com/thunderc/toyota-ahc-zhi-gao-noarugorizumujie-shuo-hui-ahc015)
+
     2024-01-27
 
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ

@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-01-28
+
+- [#7657](https://github.com/KATO-Hiro/AtCoderClans/pull/7657) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下のスライドを追加。
+    - [TOYOTA AHC 至高のアルゴリズム解説会 AHC015](https://speakerdeck.com/thunderc/toyota-ahc-zhi-gao-noarugorizumujie-shuo-hui-ahc015)
+
 ### 2024-01-27
 
 - [#7652](https://github.com/KATO-Hiro/AtCoderClans/pull/7652) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の記事を追加。
