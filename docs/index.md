@@ -115,11 +115,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [ALGO ARTIS プログラミングコンテスト2023 冬（AtCoder Heuristic Contest 028）参加メモ](https://kaede2020.hatenablog.com/entry/2024/01/14/141500)
 
-    2024-01-12
-
-    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
-        - [AtcoderをGoで解答する環境をDevcontainerで作った話](https://horikawa.dev/p/atcoder-go-devcontainer/)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
