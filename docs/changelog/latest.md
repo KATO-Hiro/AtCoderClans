@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-01-29
+
+- [#7661](https://github.com/KATO-Hiro/AtCoderClans/pull/7661) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
+    - [CodeQUEEN 2023 決勝 参加記](https://abvi.hatenablog.com/entry/2024012600)
+
 ### 2024-01-28
 
 - [#7657](https://github.com/KATO-Hiro/AtCoderClans/pull/7657) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下のスライドを追加。
