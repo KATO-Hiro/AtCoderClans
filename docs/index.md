@@ -80,6 +80,11 @@
 
 === "記事"
 
+    2024-01-29
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [CodeQUEEN 2023 決勝 参加記](https://abvi.hatenablog.com/entry/2024012600)
+
     2024-01-28
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
