@@ -69,15 +69,6 @@
       <img loading = "lazy" src="images/userscript/atcoder_copy_button_adder.png" alt="atcoder copy button adder">
     </div>
 
-    2024-01-13
-
-    - 「[問題を解く](user_scripts/solve_problems)」ページ
-        - [AtCoder-quotation-adder](https://github.com/burioden/AtCoder-quotation-adder)
-
-    <div align="center">
-      <img loading = "lazy" src="images/userscript/atcoder_quotation_adder.png" alt="atcoder quotation adder">
-    </div>
-
 === "記事"
 
     2024-01-29
