@@ -71,6 +71,11 @@
 
 === "記事"
 
+    2024-01-30
+
+    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
+        - [AtCoder2023年言語アップデートでPythonに入るライブラリ](https://ikatakos.com/pot/programming_algorithm/python_tips/language_update_2023)
+
     2024-01-29
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
@@ -106,14 +111,14 @@
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [アニメーションでみるアルゴリズムの計算量](https://qiita.com/S4nTo/items/2fe9e41d2f1eb3e124e9)
 
-    2024-01-14
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [ALGO ARTIS プログラミングコンテスト2023 冬（AtCoder Heuristic Contest 028）参加メモ](https://kaede2020.hatenablog.com/entry/2024/01/14/141500)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2024-01-30
+
+    - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
+        - [aro](https://atcoder.jp/users/aro)さん - [色変記事&半年間競技プログラミングをやってみて良かったこと](https://qiita.com/kanekanekaneko/items/a86d7497d9dffd91fd7f)
 
     2024-01-24
 

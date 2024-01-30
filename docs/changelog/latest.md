@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-01-30
+
+- [#7668](https://github.com/KATO-Hiro/AtCoderClans/pull/7668) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Python](../../articles/implementation/python)」ページに、以下の記事を追加。
+    - [AtCoder2023年言語アップデートでPythonに入るライブラリ](https://ikatakos.com/pot/programming_algorithm/python_tips/language_update_2023)
+- [#7667](https://github.com/KATO-Hiro/AtCoderClans/pull/7667) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[aro](https://atcoder.jp/users/aro)さんの[記事](https://qiita.com/kanekanekaneko/items/a86d7497d9dffd91fd7f)を追加。
+
 ### 2024-01-29
 
 - [#7661](https://github.com/KATO-Hiro/AtCoderClans/pull/7661) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
