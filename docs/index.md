@@ -71,6 +71,11 @@
 
 === "記事"
 
+    2024-01-31
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [トヨタ自動車プログラミングコンテスト2023#6（AtCoder Heuristic Contest 026）至高のアルゴリズム解説](https://speakerdeck.com/bowwowforeach/toyotazi-dong-che-puroguramingukontesuto2023-number-6-atcoder-heuristic-contest-026-zhi-gao-noarugorizumujie-shuo)
+
     2024-01-30
 
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
