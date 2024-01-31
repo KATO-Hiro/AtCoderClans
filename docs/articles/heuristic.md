@@ -113,6 +113,7 @@ title: ヒューリスティック問題を解く
 - [【AHC020 参加記】初参加の初心者でもそれなりに善戦できるぞという話](https://qiita.com/halcyonFX/items/c6d7ebdf375f359c596c) - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さんの参加記。初参加の[AtCoder Heuristic Contest 020](https://atcoder.jp/contests/ahc020)で、愚直な解法から高得点を得るための思考過程を紹介した記事。
 - [【AHC022】 AHC初参加記 〜入茶しました](https://note.com/likaf/n/n81fc35c58550) - [Likaf](https://atcoder.jp/users/Likaf)さんの参加記。[AtCoder Heuristic Contest 022](https://atcoder.jp/contests/ahc022)に参加した経緯、考察内容やスコアの推移、感想などがまとめられている。
 - [第10回 Asprova プログラミングコンテスト 参加記 (39.1M; 130位)](https://www.wantedly.com/companies/learningbox/post_articles/538136) - [nishigake](https://atcoder.jp/users/nishigake)さんの参加記。[AtCoder Heuristic Contest 023](https://atcoder.jp/contests/ahc023)で、最初の解法から「改善案を考え、実装する」サイクルを繰り返して高得点を目指している記事。
+- [トヨタ自動車プログラミングコンテスト2023#6（AtCoder Heuristic Contest 026）至高のアルゴリズム解説](https://speakerdeck.com/bowwowforeach/toyotazi-dong-che-puroguramingukontesuto2023-number-6-atcoder-heuristic-contest-026-zhi-gao-noarugorizumujie-shuo) - [AtCoder Heuristic Contest 026](https://atcoder.jp/contests/ahc026)を対象として、延長戦の解法が2種類解説されている。
 - [FakePsyho/cpcontests](https://github.com/FakePsyho/cpcontests) ![GitHub Repo stars](https://img.shields.io/github/stars/FakePsyho/cpcontests?style=plastic) - [Psyho](https://atcoder.jp/users/Psyho)さんが参加したコンテストの解答の方針とソースコードがまとめられている。
 
     ---
