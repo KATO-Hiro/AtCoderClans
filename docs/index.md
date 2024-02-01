@@ -111,10 +111,12 @@
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
         - [中高生向け 学校対抗競技プログラミング「AtCoder Junior League2023」入賞校・入賞者を発表](https://prtimes.jp/main/html/rd/p/000000044.000028415.html)
 
-    2024-01-16
+=== "SNS"
 
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [アニメーションでみるアルゴリズムの計算量](https://qiita.com/S4nTo/items/2fe9e41d2f1eb3e124e9)
+    2024-02-01
+
+    - 「[SNS](sns)」ページ
+        - [N+1色を目指す鯖](https://discord.com/invite/vNHVTVXq)
 
 === "色変記事"
 

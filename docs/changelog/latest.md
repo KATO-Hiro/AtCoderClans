@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-02-01
+
+- [#7677](https://github.com/KATO-Hiro/AtCoderClans/pull/7677) - 「[Articles, Blogs, Books and Videos](../../media)」の「[SNS](../../sns)」ページに、以下のDiscordサーバを追加。
+    - [N+1色を目指す鯖](https://discord.com/invite/vNHVTVXq)
+
 ### 2024-01-31
 
 - [#7673](https://github.com/KATO-Hiro/AtCoderClans/pull/7673) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下のスライドを追加。
