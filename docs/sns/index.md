@@ -6,6 +6,8 @@ title: SNS
 
 - [AtCoder - Twitterコミュニティ](https://twitter.com/atcoder/status/1502641775609249793) - [AtCoder](https://atcoder.jp/)公式が提供するX(旧 Twitter)コミュニティ。コンテスト終了後における問題の解法の共有や、競技プログラミングを通した友人探しなどに活用できる。
 
+- [AtCoderDailyTraining](https://twitter.com/atcoder_adt) - AtCoder Daily Training (AtCoder Beginner Contestの練習用バーチャルコンテスト) の開催を通知してくれる公式アカウント。
+
 - [競プロオンサイト情報！](https://twitter.com/kyopro_onsite) - 競技プログラミングに関連するオンサイト情報を知ることができる。[prd_xxx](https://atcoder.jp/users/prd_xxx)さんが独自に情報収集・不定期で発信されている。
 
 ## Discord
