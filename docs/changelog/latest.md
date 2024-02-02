@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-02-02
+
+- [#7681](https://github.com/KATO-Hiro/AtCoderClans/pull/7681) - 「[Articles, Blogs, Books and Videos](../../media)」の「[SNS](../../sns)」ページに、以下のX (旧 Twitter)アカウントを追加。
+    - [AtCoderDailyTraining](https://twitter.com/atcoder_adt)
+
 ### 2024-02-01
 
 - [#7677](https://github.com/KATO-Hiro/AtCoderClans/pull/7677) - 「[Articles, Blogs, Books and Videos](../../media)」の「[SNS](../../sns)」ページに、以下のDiscordサーバを追加。

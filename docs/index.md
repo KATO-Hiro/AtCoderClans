@@ -106,12 +106,12 @@
     - 「[数学を学ぶ](articles/math)」ページ
         - [競プロのための算数・数学](https://twitter.com/hashtag/%E7%AB%B6%E3%83%97%E3%83%AD%E7%AE%97%E6%95%B0?src=hashtag_click&f=live)
 
-    2024-01-17
-
-    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
-        - [中高生向け 学校対抗競技プログラミング「AtCoder Junior League2023」入賞校・入賞者を発表](https://prtimes.jp/main/html/rd/p/000000044.000028415.html)
-
 === "SNS"
+
+    2024-02-02
+
+    - 「[SNS](sns)」ページ
+        - [AtCoderDailyTraining](https://twitter.com/atcoder_adt)
 
     2024-02-01
 
