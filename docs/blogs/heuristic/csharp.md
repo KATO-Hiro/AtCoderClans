@@ -10,13 +10,13 @@ title: C&#35;
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
+|chokudai|[はてなブログ](https://chokudai.hatenablog.com/)||
 |EmK|[はてなブログ](https://emkcsharp.hatenablog.com/)||
 
 ## レーティング2000〜2399(黄色)
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
-|chokudai|[はてなブログ](https://chokudai.hatenablog.com/)||
 |G4NP0N|[はてなブログ](https://g4np0n-kyopro.hatenablog.com)||
 |threecourse|[はてなブログ](https://threecourse.hatenablog.com/)||
 |yupiteru|[Qiita](https://qiita.com/yupiteru)||

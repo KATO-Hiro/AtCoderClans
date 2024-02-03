@@ -42,6 +42,7 @@ title: C&#43;&#43;
 |shibh308|[はてなブログ](https://shibh308.hatenablog.com/)||
 |ValGrowth|[はてなブログ](https://valgrowth.hatenablog.com/archive)||
 |wanui|[Zenn](https://zenn.dev/gmeriaog)||
+|yosupo|[はてなブログ](https://yosupo.hatenablog.com/)||
 |yunix|[はてなブログ](https://yunix-kyopro.hatenablog.com/)||
 
 ## レーティング2000〜2399(黄色)
