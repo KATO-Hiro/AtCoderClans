@@ -101,10 +101,16 @@
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [知名度がいまいち分かってないNextDPというテクニックについて](https://qiita.com/H20/items/922cc0a17ba5817f26d7)
 
-    2024-01-18
+=== "ブログ"
+    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
-    - 「[数学を学ぶ](articles/math)」ページ
-        - [競プロのための算数・数学](https://twitter.com/hashtag/%E7%AB%B6%E3%83%97%E3%83%AD%E7%AE%97%E6%95%B0?src=hashtag_click&f=live)
+    2024-02-03
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [yosupo](https://atcoder.jp/users/yosupo)さん - [はてなブログ](https://yosupo.hatenablog.com/)
+
+    - 「[ヒューリスティック部門 - C#](blogs/heuristic/csharp)」ページ
+        - [chokudai](https://atcoder.jp/users/chokudai)さん - [はてなブログ](https://chokudai.hatenablog.com/)
 
 === "SNS"
 
@@ -136,11 +142,6 @@
 
     - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
         - [kana_nu00](https://atcoder.jp/users/kana_nu00)さん - [基本情報を持ってれば入茶できるからみんなAtCoder始めようぜ](https://note.com/empty845/n/n7117f2c317bc)
-
-    2024-01-18
-
-    - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
-        - [mizuho0613](https://atcoder.jp/users/mizuho0613)さん - [14歳がAtCoderで入茶しました](https://note.com/mizzpika/n/n6b1714aa2ad1)
 
 ## AtCoder公式グッズを購入する
 
