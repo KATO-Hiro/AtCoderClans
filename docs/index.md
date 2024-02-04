@@ -71,6 +71,11 @@
 
 === "記事"
 
+    2024-02-04
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [ヒューリスティックコンテスト用Visualizer(Rust, SVG) チートシート集](https://zenn.dev/tipstar0125/articles/d2cf0ef63bceb7)
+
     2024-01-31
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
