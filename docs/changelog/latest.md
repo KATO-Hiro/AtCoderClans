@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-02-04
+
+- [#7690](https://github.com/KATO-Hiro/AtCoderClans/pull/7690) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [ヒューリスティックコンテスト用Visualizer(Rust, SVG) チートシート集](https://zenn.dev/tipstar0125/articles/d2cf0ef63bceb7)
+
 ### 2024-02-03
 
 - [#7686](https://github.com/KATO-Hiro/AtCoderClans/pull/7686) - (破壊的な変更) リンク切れと思われる色変記事を一時的に「[Archives](../../archived)」ページに移動。
