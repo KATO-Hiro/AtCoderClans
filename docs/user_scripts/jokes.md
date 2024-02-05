@@ -2,7 +2,7 @@
 title: ネタスクリプト
 ---
 
-AtCoderにおける流行語などをヒントに作成されたスクリプトを掲載しています。
+主にAtCoderにおける流行語などをヒントに作成されたスクリプトを掲載しています。
 
 ## 背景を変更する
 
@@ -11,6 +11,10 @@ AtCoderにおける流行語などをヒントに作成されたスクリプト�
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_super_hacker.png" alt="atcoder super hacker">
     </div>
+
+## 問題文の一部を書き換え
+
+- [文字化けcoder](https://greasyfork.org/ja/scripts/485969-%E6%96%87%E5%AD%97%E5%8C%96%E3%81%91coder) - 問題文の一部に文字化けが発生するようになる。
 
 ## 問題の正誤判定の表記を書き換え
 
