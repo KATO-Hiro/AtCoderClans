@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-02-05
+
+- [#7697](https://github.com/KATO-Hiro/AtCoderClans/pull/7697) - 「[Scripts](../../scripts)」の「[ネタスクリプト](../../user_scripts/jokes)」ページに、以下のユーザスクリプトを追加。
+    - [文字化けcoder](https://greasyfork.org/ja/scripts/485969-%E6%96%87%E5%AD%97%E5%8C%96%E3%81%91coder)
+
 ### 2024-02-04
 
 - [#7690](https://github.com/KATO-Hiro/AtCoderClans/pull/7690) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。

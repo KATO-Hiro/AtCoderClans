@@ -60,6 +60,11 @@
 
 === "ユーザスクリプト"
 
+    2024-02-05
+
+    - 「[ネタスクリプト](user_scripts/jokes)」ページ
+        - [文字化けcoder](https://greasyfork.org/ja/scripts/485969-%E6%96%87%E5%AD%97%E5%8C%96%E3%81%91coder)
+
     2024-01-23
 
     - 「[問題を解く](user_scripts/solve_problems)」ページ
