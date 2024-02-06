@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-02-06
+
+- [#7704](https://github.com/KATO-Hiro/AtCoderClans/pull/7704) - (破壊的な変更) 非公開にされたと思われる動画を一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2024-02-05
 
 - [#7697](https://github.com/KATO-Hiro/AtCoderClans/pull/7697) - 「[Scripts](../../scripts)」の「[ネタスクリプト](../../user_scripts/jokes)」ページに、以下のユーザスクリプトを追加。
