@@ -148,11 +148,6 @@
     - 「[アルゴリズム部門 - レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
         - [kobae964](https://atcoder.jp/users/kobae964)さん - [AtCoderで赤になるまでにやったこと - koba-e964の日記](https://koba-e964.hatenablog.com/entry/2019/06/30/020339)
 
-    2024-01-21
-
-    - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
-        - [kana_nu00](https://atcoder.jp/users/kana_nu00)さん - [基本情報を持ってれば入茶できるからみんなAtCoder始めようぜ](https://note.com/empty845/n/n7117f2c317bc)
-
 ## AtCoder公式グッズを購入する
 
 - [SUZURI](https://suzuri.jp/AtCoder) - [AtCoder](https://atcoder.jp/)のロゴ入りグッズが購入できる。
