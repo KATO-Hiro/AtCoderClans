@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-02-07
+
+- [#7707](https://github.com/KATO-Hiro/AtCoderClans/pull/7707) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
+    - [「中学受験の算数」で磨くプログラミング的思考力！ 〜 親・子供・プログラマすべてに送る 25 問 〜](https://qiita.com/drken/items/3b15cf5f089488c38faa)
+
 ### 2024-02-06
 
 - [#7704](https://github.com/KATO-Hiro/AtCoderClans/pull/7704) - (破壊的な変更) 非公開にされたと思われる動画を一時的に「[Archives](../../archived)」ページに移動。
