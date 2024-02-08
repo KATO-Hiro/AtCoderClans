@@ -23,6 +23,14 @@ title: コンテストの成績を見る
       <img loading = "lazy" src="../../images/web_app/atcoder_competition_history_chart_maker.png" alt="atcoder competition history chart maker">
     </div>
 
+#### アルゴリズム部門・ヒューリスティック部門
+
+- [AtCoder Rating Contributor Graph](https://atcoder-rating-contribution-graph.vercel.app/) - 任意のユーザのレーティングに対して、各コンテストにおけるパフォーマンス値の寄与度を可視化する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_rating_contributor_graph.png" alt="atcoder rating contributor graph">
+    </div>
+
 ### 2人以上
 
 - [AtCoderパフォーマンス・レーティング](https://atcoder-tools.quizgenerator.net/performance_rating.php) - 指定した1人以上のユーザのレーティングとパフォーマンス値（内部補正なし）の推移を表示する。
