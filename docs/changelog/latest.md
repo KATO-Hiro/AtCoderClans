@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-02-08
+
+- [#7712](https://github.com/KATO-Hiro/AtCoderClans/pull/7712) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績を見る](../../web_app/view_and_compare_scores)」ページに、以下のWebサイトを追加。
+    - [AtCoder Rating Contributor Graph](https://atcoder-rating-contribution-graph.vercel.app/)
+
 ### 2024-02-07
 
 - [#7707](https://github.com/KATO-Hiro/AtCoderClans/pull/7707) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。

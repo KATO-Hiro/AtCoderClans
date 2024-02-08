@@ -58,21 +58,23 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "Webアプリ・Webサイト"
+
+    2024-02-08
+
+    - 「[コンテストの成績を見る](web_app/view_and_compare_scores)」ページ
+        - [AtCoder Rating Contributor Graph](https://atcoder-rating-contribution-graph.vercel.app/)
+
+    <div align="center">
+      <img loading = "lazy" src="images/web_app/atcoder_rating_contributor_graph.png" alt="atcoder rating contributor graph">
+    </div>
+
 === "ユーザスクリプト"
 
     2024-02-05
 
     - 「[ネタスクリプト](user_scripts/jokes)」ページ
         - [文字化けcoder](https://greasyfork.org/ja/scripts/485969-%E6%96%87%E5%AD%97%E5%8C%96%E3%81%91coder)
-
-    2024-01-23
-
-    - 「[問題を解く](user_scripts/solve_problems)」ページ
-        - [AtCoder copy button adder](https://greasyfork.org/ja/scripts/485389-atcoder-copy-button-adder)
-
-    <div align="center">
-      <img loading = "lazy" src="images/userscript/atcoder_copy_button_adder.png" alt="atcoder copy button adder">
-    </div>
 
 === "記事"
 
