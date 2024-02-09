@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-02-09
+
+- [#7715](https://github.com/KATO-Hiro/AtCoderClans/pull/7715) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
+    - [【競技プログラミング】多項式のGCDを O(N(logN)^2) で行う方法(half GCD) に関して解説！【暫定版】](https://qiita.com/hotman78/items/14809fa0214b168ddf80)
+
 ### 2024-02-08
 
 - [#7712](https://github.com/KATO-Hiro/AtCoderClans/pull/7712) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績を見る](../../web_app/view_and_compare_scores)」ページに、以下のWebサイトを追加。

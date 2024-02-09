@@ -78,6 +78,11 @@
 
 === "記事"
 
+    2024-02-09
+
+    - 「[数学を学ぶ](articles/math)」ページ
+        - [【競技プログラミング】多項式のGCDを O(N(logN)^2) で行う方法(half GCD) に関して解説！【暫定版】](https://qiita.com/hotman78/items/14809fa0214b168ddf80)
+
     2024-02-07
 
     - 「[数学を学ぶ](articles/math)」ページ
@@ -149,11 +154,6 @@
 
     - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
         - [aro](https://atcoder.jp/users/aro)さん - [色変記事&半年間競技プログラミングをやってみて良かったこと](https://qiita.com/kanekanekaneko/items/a86d7497d9dffd91fd7f)
-
-    2024-01-24
-
-    - 「[アルゴリズム部門 - レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
-        - [kobae964](https://atcoder.jp/users/kobae964)さん - [AtCoderで赤になるまでにやったこと - koba-e964の日記](https://koba-e964.hatenablog.com/entry/2019/06/30/020339)
 
 ## AtCoder公式グッズを購入する
 
