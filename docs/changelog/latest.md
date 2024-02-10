@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-02-10
+
+- [#7718](https://github.com/KATO-Hiro/AtCoderClans/pull/7718) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [最小全域木問題を O(|E| log log |V|) 時間で【AdC2日目】](https://trap.jp/post/2059/)
+
 ### 2024-02-09
 
 - [#7715](https://github.com/KATO-Hiro/AtCoderClans/pull/7715) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。

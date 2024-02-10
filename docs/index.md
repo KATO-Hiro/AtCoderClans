@@ -78,6 +78,11 @@
 
 === "記事"
 
+    2024-02-10
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [最小全域木問題を O(|E| log log |V|) 時間で【AdC2日目】](https://trap.jp/post/2059/)
+
     2024-02-09
 
     - 「[数学を学ぶ](articles/math)」ページ
@@ -117,11 +122,6 @@
 
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
         - [Let’s 競技プログラミング! E8さんが教える アルゴリズム発想のキホン](https://news.mynavi.jp/techplus/series/algorithm/)
-
-    2024-01-25
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [知名度がいまいち分かってないNextDPというテクニックについて](https://qiita.com/H20/items/922cc0a17ba5817f26d7)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
