@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-02-11
+
+- [#7722](https://github.com/KATO-Hiro/AtCoderClans/pull/7722) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下のスライドを追加。
+    - [茶コーダーが競プロ家庭教師した話](https://speakerdeck.com/burioden/240117-uv-lt-fa84027b-5df9-4c05-b31c-ace56c010103)
+
 ### 2024-02-10
 
 - [#7718](https://github.com/KATO-Hiro/AtCoderClans/pull/7718) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。

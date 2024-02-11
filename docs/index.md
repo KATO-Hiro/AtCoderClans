@@ -78,6 +78,11 @@
 
 === "記事"
 
+    2024-02-11
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [茶コーダーが競プロ家庭教師した話](https://speakerdeck.com/burioden/240117-uv-lt-fa84027b-5df9-4c05-b31c-ace56c010103)
+
     2024-02-10
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
