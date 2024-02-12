@@ -123,11 +123,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [TOYOTA AHC 至高のアルゴリズム解説会 AHC015](https://speakerdeck.com/thunderc/toyota-ahc-zhi-gao-noarugorizumujie-shuo-hui-ahc015)
 
-    2024-01-27
-
-    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
-        - [Let’s 競技プログラミング! E8さんが教える アルゴリズム発想のキホン](https://news.mynavi.jp/techplus/series/algorithm/)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
