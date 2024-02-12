@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-02-12
+
+- [#7729](https://github.com/KATO-Hiro/AtCoderClans/pull/7729) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[momohara](https://atcoder.jp/users/momohara)さんの[記事](https://momoharahara.hatenadiary.com/entry/2024/02/11/181024)を追加。
+- [#7728](https://github.com/KATO-Hiro/AtCoderClans/pull/7728) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[hiroyuk1](https://atcoder.jp/users/hiroyuk1)さんの[記事](https://qiita.com/hiroyuk1/items/5a75448e826bb08a17e4)を追加。
+
 ### 2024-02-11
 
 - [#7722](https://github.com/KATO-Hiro/AtCoderClans/pull/7722) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下のスライドを追加。

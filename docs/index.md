@@ -155,6 +155,14 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
 
+    2024-02-12
+
+    - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
+        - [momohara](https://atcoder.jp/users/momohara)さん - [競プロ復帰してから約10ヶ月、黄色復帰するまでにやったこと](https://momoharahara.hatenadiary.com/entry/2024/02/11/181024)
+
+    - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [hiroyuk1](https://atcoder.jp/users/hiroyuk1)さん - [AtCoderで入青したので記事を書く](https://qiita.com/hiroyuk1/items/5a75448e826bb08a17e4)
+
     2024-01-30
 
     - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
