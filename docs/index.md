@@ -145,6 +145,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
 
+    2024-02-13
+
+    - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [highlighter_math](https://atcoder.jp/users/highlighter_math)さん - [AtCoderで入青しました！！](https://qiita.com/highlighter_math/items/4e28ac3aa3d7b592d514)
+
     2024-02-12
 
     - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ

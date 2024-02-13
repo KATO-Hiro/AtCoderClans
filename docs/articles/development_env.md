@@ -64,7 +64,6 @@ title: コードを書くための環境構築を行う
 
 - [Visual Studio Codeで競プロ環境構築(導入編)](https://qiita.com/AokabiC/items/e9312856f588dd9303ed) - C++(GCC)のコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)で構築する方法が丁寧に解説されている。
     - [Visual Studio Codeで競プロ環境構築(実践編)](https://qiita.com/AokabiC/items/af685bfd205dda44ec45) - 便利なショートカット、コードスニペット、拡張機能、サンプルケースの自動検証、デバッグツールについて紹介されている。
-- [WSL2 + Ubuntu22.04 + VScodeでAtCoder用のC++環境を構築する](https://qiita.com/Kal24w/items/467dd26c2e5306b3ba59) - C++の環境構築手順を紹介した記事。Ubuntu22.04を利用しているのが特徴。
 
 ### C&#35;
 
