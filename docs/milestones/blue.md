@@ -4,6 +4,7 @@ title: レーティング1600〜1999(青色)
 
 ## 2024年
 
+- [AtCoderで入青しました！！](https://qiita.com/highlighter_math/items/4e28ac3aa3d7b592d514) - [highlighter_math](https://atcoder.jp/users/highlighter_math)さんが、2024年2月10日に達成。
 - [AtCoderで入青したので記事を書く](https://qiita.com/hiroyuk1/items/5a75448e826bb08a17e4) - [hiroyuk1](https://atcoder.jp/users/hiroyuk1)さんが、2024年2月10日に達成。
 - [凡人が約5年かけて青コーダーになった話 - 西懸のメモ帳](https://blog.nishigake.net/posts/irohen_blue/) - [nishigake](https://atcoder.jp/users/nishigake)さんが、2024年1月6日に達成。
 
