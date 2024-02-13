@@ -118,11 +118,6 @@
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
         - [CodeQUEEN 2023 決勝 参加記](https://abvi.hatenablog.com/entry/2024012600)
 
-    2024-01-28
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [TOYOTA AHC 至高のアルゴリズム解説会 AHC015](https://speakerdeck.com/thunderc/toyota-ahc-zhi-gao-noarugorizumujie-shuo-hui-ahc015)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
