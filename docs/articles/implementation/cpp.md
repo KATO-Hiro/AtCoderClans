@@ -51,7 +51,7 @@ title: C&#43;&#43;
 
 ### 抽象化Segment Tree
 
-- [遅延Segtree3](https://yosupo.hatenablog.com/entry/2023/12/09/010658) - C++20から導入された「concepts」を利用して、抽象化Segment Treeの実装例が紹介されている。
+- [遅延Segtree3](https://yosupo.hatenablog.com/entry/2023/12/09/010658) - C++20から導入された「concepts」を利用した抽象化Segment Treeの実装例が紹介されている。
 
     !!! warning "注意"
 
