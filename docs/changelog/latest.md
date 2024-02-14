@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-02-14
+
+- [#7742](https://github.com/KATO-Hiro/AtCoderClans/pull/7742) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - C++](../../articles/implementation/cpp)」ページに、以下の記事を追加。
+    - [遅延Segtree3 (本サイト運営者による注: 抽象化Segtree Treeの実装例のみ)](https://yosupo.hatenablog.com/entry/2023/12/09/010658)
+- [#7741](https://github.com/KATO-Hiro/AtCoderClans/pull/7741) - (破壊的な変更) リンク切れと思われる色変記事を一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2024-02-13
 
 - [#7737](https://github.com/KATO-Hiro/AtCoderClans/pull/7737) - (破壊的な変更) リンク切れと思われる記事を一時的に「[Archives](../../archived)」ページに移動。
