@@ -217,6 +217,9 @@ title: リンク切れ
 
 ### レーティング400〜799(茶色)
 
+- [数弱大学生がatcoderで入茶した](https://note.com/yindolsa/n/ncd59431b7a4d) - [ZUkA_](https://atcoder.jp/users/ZUkA_)さんが、2023年1月7日に達成。
+    - 確認した日: 2024/02/14
+
 - [【AtCoder】茶に色変記念にラブコメ作品紹介します【競プロ】](https://untitledreport.com/%e3%80%90atcoder%e3%80%91%e3%82%88%e3%81%86%e3%82%84%e3%81%8f%e8%8c%b6%e3%81%ab%e8%89%b2%e5%a4%89%e3%81%99%e3%82%8b%e3%81%93%e3%81%a8%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f%e3%80%90/) - [ysknsid25](https://atcoder.jp/users/ysknsid25)さんが、2022年12月3日に達成。
     - 確認した日: 2024/02/03
 
