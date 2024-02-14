@@ -49,6 +49,14 @@ title: C&#43;&#43;
 
 - [任意modでの畳み込み演算をO(nlog(n))で](https://math314.hateblo.jp/entry/2015/05/07/014908) - 畳み込み演算を行うときに、任意のmodを使って高速に計算する方法・実装について解説した記事。
 
+### 抽象化Segment Tree
+
+- [遅延Segtree3](https://yosupo.hatenablog.com/entry/2023/12/09/010658) - C++20から導入された「concepts」を利用して、抽象化Segment Treeの実装例が紹介されている。
+
+    !!! warning "注意"
+
+        遅延Segment Treeの実装に関しては、別の記事を参照されたい。
+
 ### 抽象化Segment Tree Beats
 
 - [atcoder::lazy_segtreeに1行書き足すだけの抽象化 Segment Tree Beats](https://rsm9.hatenablog.com/entry/2021/02/01/220408) - [Segment tree beats (列に対する複雑な更新・取得処理を高速かつオンラインに実現する手法)](https://codeforces.com/blog/entry/57319)に対する知識はあるが、これから実装したい人を対象とした記事。[AtCoder Library (ACL)](https://github.com/atcoder/ac-library)の```atcoder::lazy_segtree```に1行追加するだけで実装できる。
