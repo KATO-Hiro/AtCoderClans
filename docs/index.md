@@ -78,6 +78,11 @@
 
 === "記事"
 
+    2024-02-14
+
+    - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
+        - [遅延Segtree3 (本サイト運営者による注: 抽象化Segtree Treeの実装例のみ)](https://yosupo.hatenablog.com/entry/2023/12/09/010658)
+
     2024-02-11
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
