@@ -118,11 +118,6 @@
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
         - [AtCoder2023年言語アップデートでPythonに入るライブラリ](https://ikatakos.com/pot/programming_algorithm/python_tips/language_update_2023)
 
-    2024-01-29
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-        - [CodeQUEEN 2023 決勝 参加記](https://abvi.hatenablog.com/entry/2024012600)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
