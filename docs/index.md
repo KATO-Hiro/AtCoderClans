@@ -78,6 +78,11 @@
 
 === "記事"
 
+    2024-02-15
+
+    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
+        - [【Python】セグ木、遅延セグ木【AtCoder】](https://qiita.com/ether2420/items/7b67b2b35ad5f441d686)
+
     2024-02-14
 
     - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
@@ -112,11 +117,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [トヨタ自動車プログラミングコンテスト2023#6（AtCoder Heuristic Contest 026）至高のアルゴリズム解説](https://speakerdeck.com/bowwowforeach/toyotazi-dong-che-puroguramingukontesuto2023-number-6-atcoder-heuristic-contest-026-zhi-gao-noarugorizumujie-shuo)
-
-    2024-01-30
-
-    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
-        - [AtCoder2023年言語アップデートでPythonに入るライブラリ](https://ikatakos.com/pot/programming_algorithm/python_tips/language_update_2023)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -157,11 +157,6 @@
 
     - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [hiroyuk1](https://atcoder.jp/users/hiroyuk1)さん - [AtCoderで入青したので記事を書く](https://qiita.com/hiroyuk1/items/5a75448e826bb08a17e4)
-
-    2024-01-30
-
-    - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
-        - [aro](https://atcoder.jp/users/aro)さん - [色変記事&半年間競技プログラミングをやってみて良かったこと](https://qiita.com/kanekanekaneko/items/a86d7497d9dffd91fd7f)
 
 ## AtCoder公式グッズを購入する
 
