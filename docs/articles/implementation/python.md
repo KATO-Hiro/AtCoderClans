@@ -96,7 +96,7 @@ title: Python
 
 ### セグメント木・遅延セグメント木
 
-- [【Python】セグ木、遅延セグ木【AtCoder】](https://qiita.com/ether2420/items/7b67b2b35ad5f441d686) - セグメント木、遅延セグメント木(区間加算・区間更新)のライブラリと例題が紹介されている。
+- [【Python】セグ木、遅延セグ木【AtCoder】](https://qiita.com/ether2420/items/7b67b2b35ad5f441d686) - セグメント木、遅延セグメント木(区間加算・区間更新)の実装例と例題が紹介されている。
 
 ### MEX
 
