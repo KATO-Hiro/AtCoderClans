@@ -78,6 +78,8 @@ title: 解説を読む・テストケースを見る
       <img loading = "lazy" src="../../images/userscript/atcoder_hide_editorial.png" alt="atcoder hide editorial">
     </div>
 
+- [Hide Solutions](https://greasyfork.org/ja/scripts/485421-hide-solutions) - (英語表記のみ対応) 問題の「解説」ボタンやタブを非表示にする。
+
 ## テストケースを見る
 
 - [AtCoder TestCase Extension](https://greasyfork.org/ja/scripts/371832-atcoder-testcase-extension) - 公開されているテストケースのリンクを追加する。
