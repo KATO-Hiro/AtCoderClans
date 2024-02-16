@@ -71,6 +71,11 @@
 
 === "ユーザスクリプト"
 
+    2024-02-16
+
+    - 「[解説を読む・テストケースを見る](user_scripts/read_editorials)」ページ
+        - [Hide Solutions](https://greasyfork.org/ja/scripts/485421-hide-solutions)
+
     2024-02-05
 
     - 「[ネタスクリプト](user_scripts/jokes)」ページ
@@ -112,11 +117,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [ヒューリスティックコンテスト用Visualizer(Rust, SVG) チートシート集](https://zenn.dev/tipstar0125/articles/d2cf0ef63bceb7)
-
-    2024-01-31
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [トヨタ自動車プログラミングコンテスト2023#6（AtCoder Heuristic Contest 026）至高のアルゴリズム解説](https://speakerdeck.com/bowwowforeach/toyotazi-dong-che-puroguramingukontesuto2023-number-6-atcoder-heuristic-contest-026-zhi-gao-noarugorizumujie-shuo)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
