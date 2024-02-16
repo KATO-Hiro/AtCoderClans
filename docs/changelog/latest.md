@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-02-16
+
+- [#7750](https://github.com/KATO-Hiro/AtCoderClans/pull/7750) - 「[Scripts](../../scripts)」の「[解説を読む・テストケースを見る](../../user_scripts/read_editorials)」ページに、以下のユーザスクリプトを追加。
+    - [Hide Solutions](https://greasyfork.org/ja/scripts/485421-hide-solutions)
+
 ### 2024-02-15
 
 - [#7746](https://github.com/KATO-Hiro/AtCoderClans/pull/7746) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Python](../../articles/implementation/python)」ページに、以下の記事を追加。
