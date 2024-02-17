@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-02-17
+
+- [#7753](https://github.com/KATO-Hiro/AtCoderClans/pull/7753) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [関係式付き Union Find](https://qiita.com/Kiri8128/items/ae19133ee6921cb18dec)
+
 ### 2024-02-16
 
 - [#7750](https://github.com/KATO-Hiro/AtCoderClans/pull/7750) - 「[Scripts](../../scripts)」の「[解説を読む・テストケースを見る](../../user_scripts/read_editorials)」ページに、以下のユーザスクリプトを追加。
