@@ -150,6 +150,7 @@ title: アルゴリズムを学ぶ
     !!! warning "注意"
         原典は記事投稿サービスの終了で閲覧できないため、アーカイブを掲載。
 
+- [関係式付き Union Find](https://qiita.com/Kiri8128/items/ae19133ee6921cb18dec) - ポテンシャル付き Union Findの一般化を試みており、クエリの性質・実装方針・例題がまとめられている。
 - [【競技プログラミング】online dynamic connectivity(削除可能union-find)の作り方を詳しく解説！！！](https://qiita.com/hotman78/items/78cd3aa50b05a57738d4) - Dynamic Connectivity(Union-Findの削除可能版)の構築と実装方法を解説した記事。前提として、平行二分木に関する知識が求められる。
 
     !!! warning "注意"
