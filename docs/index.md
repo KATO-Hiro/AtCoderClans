@@ -83,6 +83,11 @@
 
 === "記事"
 
+    2024-02-17
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [関係式付き Union Find](https://qiita.com/Kiri8128/items/ae19133ee6921cb18dec)
+
     2024-02-15
 
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
@@ -135,11 +140,6 @@
 
     - 「[SNS](sns)」ページ
         - [AtCoderDailyTraining](https://twitter.com/atcoder_adt)
-
-    2024-02-01
-
-    - 「[SNS](sns)」ページ
-        - [N+1色を目指す鯖](https://discord.com/invite/vNHVTVXq)
 
 === "色変記事"
 
