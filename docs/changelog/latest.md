@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-02-18
+
+- [#7741](https://github.com/KATO-Hiro/AtCoderClans/pull/7741) - (破壊的な変更) 更新履歴のアーカイブから、リンク切れと思われるWebアプリのURLを削除。
+
 ### 2024-02-17
 
 - [#7753](https://github.com/KATO-Hiro/AtCoderClans/pull/7753) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。

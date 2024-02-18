@@ -134,13 +134,6 @@
     - 「[ヒューリスティック部門 - C#](blogs/heuristic/csharp)」ページ
         - [chokudai](https://atcoder.jp/users/chokudai)さん - [はてなブログ](https://chokudai.hatenablog.com/)
 
-=== "SNS"
-
-    2024-02-02
-
-    - 「[SNS](sns)」ページ
-        - [AtCoderDailyTraining](https://twitter.com/atcoder_adt)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
