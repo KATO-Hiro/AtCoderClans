@@ -123,20 +123,18 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [ヒューリスティックコンテスト用Visualizer(Rust, SVG) チートシート集](https://zenn.dev/tipstar0125/articles/d2cf0ef63bceb7)
 
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2024-02-03
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [yosupo](https://atcoder.jp/users/yosupo)さん - [はてなブログ](https://yosupo.hatenablog.com/)
-
-    - 「[ヒューリスティック部門 - C#](blogs/heuristic/csharp)」ページ
-        - [chokudai](https://atcoder.jp/users/chokudai)さん - [はてなブログ](https://chokudai.hatenablog.com/)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2024-02-19
+
+    - 「[アルゴリズム部門 - レーティング2400〜2799(橙色)](milestones/orange)」ページ
+        - [MtSaka](https://atcoder.jp/users/MtSaka)さん - [【色変記事】AtCoder橙になりました - MtSakaのブログ](https://mt-saka.hatenablog.com/entry/2024/02/19/161655)
+        - [karinohito](https://atcoder.jp/users/karinohito)さん - [橙コーダーになりました. - 仮のブログ](https://karinohito.hatenablog.com/entry/2024/02/19/080635)
+
+    - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [ragna](https://atcoder.jp/users/ragna)さん - [AtCoderで入水した話 - ragnaのブログ](https://ragnawow.hatenablog.com/entry/2024/02/19/105006)
 
     2024-02-13
 

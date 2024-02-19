@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-02-19
+
+- [#7769](https://github.com/KATO-Hiro/AtCoderClans/pull/7769) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[ragna](https://atcoder.jp/users/ragna)さんの[記事](https://ragnawow.hatenablog.com/entry/2024/02/19/105006)を追加。
+- [#7767](https://github.com/KATO-Hiro/AtCoderClans/pull/7767)、[#7768](https://github.com/KATO-Hiro/AtCoderClans/pull/7768) - 「[Milestones](../../milestones/orange)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2400から2799まで(橙色)に[MtSaka](https://atcoder.jp/users/MtSaka)さんの[記事](https://mt-saka.hatenablog.com/entry/2024/02/19/161655)を追加。
+    - レーティング2400から2799まで(橙色)に[karinohito](https://atcoder.jp/users/karinohito)さんの[記事](https://karinohito.hatenablog.com/entry/2024/02/19/080635)を追加。
+
 ### 2024-02-18
 
 - [#7741](https://github.com/KATO-Hiro/AtCoderClans/pull/7741) - (破壊的な変更) 更新履歴のアーカイブから、リンク切れと思われるWebアプリのURLを削除。
