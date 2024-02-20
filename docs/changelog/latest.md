@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-02-20
+
+- [#7774](https://github.com/KATO-Hiro/AtCoderClans/pull/7774) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[YuuuT](https://atcoder.jp/users/YuuuT)さんの[記事](https://qiita.com/yukun_py/items/d5a3d5d7ef50987f22fb)を追加。
+
 ### 2024-02-19
 
 - [#7769](https://github.com/KATO-Hiro/AtCoderClans/pull/7769) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

@@ -118,14 +118,14 @@
     - 「[数学を学ぶ](articles/math)」ページ
         - [「中学受験の算数」で磨くプログラミング的思考力！ 〜 親・子供・プログラマすべてに送る 25 問 〜](https://qiita.com/drken/items/3b15cf5f089488c38faa)
 
-    2024-02-04
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [ヒューリスティックコンテスト用Visualizer(Rust, SVG) チートシート集](https://zenn.dev/tipstar0125/articles/d2cf0ef63bceb7)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2024-02-20
+
+     - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [YuuuT](https://atcoder.jp/users/YuuuT)さん - [文系大学生がプログラミング未経験から5ヶ月で入緑した話【AtCoder】](https://qiita.com/yukun_py/items/d5a3d5d7ef50987f22fb)
 
     2024-02-19
 
