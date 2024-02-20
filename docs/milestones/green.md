@@ -2,6 +2,10 @@
 title: レーティング800〜1199(緑色)
 ---
 
+## 2024年
+
+- [文系大学生がプログラミング未経験から5ヶ月で入緑した話【AtCoder】](https://qiita.com/yukun_py/items/d5a3d5d7ef50987f22fb) - [YuuuT](https://atcoder.jp/users/YuuuT)さんが、2024年2月20日に公開。
+
 ## 2023年
 
 - [【色変記事】一般情報系大学生がAtCoder入茶＆入緑した話](https://qiita.com/Ang107/items/0ee28c41896cbcf11bbc) - [Ang107](https://atcoder.jp/users/Ang107)さんが、2023年12月23日に達成。
