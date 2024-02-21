@@ -76,12 +76,12 @@
     - 「[解説を読む・テストケースを見る](user_scripts/read_editorials)」ページ
         - [Hide Solutions](https://greasyfork.org/ja/scripts/485421-hide-solutions)
 
-    2024-02-05
-
-    - 「[ネタスクリプト](user_scripts/jokes)」ページ
-        - [文字化けcoder](https://greasyfork.org/ja/scripts/485969-%E6%96%87%E5%AD%97%E5%8C%96%E3%81%91coder)
-
 === "記事"
+
+    2024-02-21
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [THIRD プログラミングコンテスト2023（AtCoder Heuristic Contest 030）参加記](https://kaede2020.hatenablog.com/entry/2024/02/19/190210)
 
     2024-02-17
 
