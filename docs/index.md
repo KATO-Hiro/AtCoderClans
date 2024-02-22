@@ -78,6 +78,11 @@
 
 === "記事"
 
+    2024-02-22
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AHC030のseed0のバババッて決まるやつは結構簡単に作れるよという話](https://qiita.com/aplysia/items/c3f2111110ac5043710a)
+
     2024-02-21
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
