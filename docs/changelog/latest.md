@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-02-22
+
+- [#7783](https://github.com/KATO-Hiro/AtCoderClans/pull/7783) - (破壊的な変更) リンク切れと思われる記事を一時的に「[Archives](../../archived)」ページに移動。
+- [#7782](https://github.com/KATO-Hiro/AtCoderClans/pull/7782) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [AHC030のseed0のバババッて決まるやつは結構簡単に作れるよという話](https://qiita.com/aplysia/items/c3f2111110ac5043710a)
+
 ### 2024-02-21
 
 - [#7778](https://github.com/KATO-Hiro/AtCoderClans/pull/7778) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
