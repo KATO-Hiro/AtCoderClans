@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-02-23
+
+- [#7789](https://github.com/KATO-Hiro/AtCoderClans/pull/7789) - 「[Milestones](../../milestones/orange)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2400から2799まで(橙色)に[ebicochineal](https://atcoder.jp/users/ebicochineal)さんの[記事](https://ebicochineal.blogspot.com/2024/02/atcoder-heuristic.html)を追加。
+
 ### 2024-02-22
 
 - [#7783](https://github.com/KATO-Hiro/AtCoderClans/pull/7783) - (破壊的な変更) リンク切れと思われる記事を一時的に「[Archives](../../archived)」ページに移動。

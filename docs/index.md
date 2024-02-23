@@ -118,14 +118,14 @@
     - 「[数学を学ぶ](articles/math)」ページ
         - [【競技プログラミング】多項式のGCDを O(N(logN)^2) で行う方法(half GCD) に関して解説！【暫定版】](https://qiita.com/hotman78/items/14809fa0214b168ddf80)
 
-    2024-02-07
-
-    - 「[数学を学ぶ](articles/math)」ページ
-        - [「中学受験の算数」で磨くプログラミング的思考力！ 〜 親・子供・プログラマすべてに送る 25 問 〜](https://qiita.com/drken/items/3b15cf5f089488c38faa)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2024-02-23
+
+    - 「[ヒューリスティック部門 - レーティング2400〜2799(橙色)](milestones/orange)」ページ
+        - [ebicochineal](https://atcoder.jp/users/ebicochineal)さん - [【色変記事】中卒無職ひきこもりがAtCoder Heuristicで橙になった話](https://ebicochineal.blogspot.com/2024/02/atcoder-heuristic.html)
 
     2024-02-20
 
