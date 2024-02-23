@@ -7,8 +7,14 @@ title: レーティング2400〜2799(橙色)
 
 ## 2024年
 
+### アルゴリズム部門
+
 - [橙コーダーになりました. - 仮のブログ](https://karinohito.hatenablog.com/entry/2024/02/19/080635) - [karinohito](https://atcoder.jp/users/karinohito)さんが、2024年2月18日に達成。
 - [【色変記事】AtCoder橙になりました - MtSakaのブログ](https://mt-saka.hatenablog.com/entry/2024/02/19/161655) - [MtSaka](https://atcoder.jp/users/MtSaka)さんが、2024年2月18日に達成。
+
+### ヒューリスティック部門
+
+- [【色変記事】中卒無職ひきこもりがAtCoder Heuristicで橙になった話](https://ebicochineal.blogspot.com/2024/02/atcoder-heuristic.html) - [ebicochineal](https://atcoder.jp/users/ebicochineal)さんが、2024年2月23日に公開。
 
 ## 2023年
 
