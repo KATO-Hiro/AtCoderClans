@@ -78,6 +78,11 @@
 
 === "記事"
 
+    2024-02-24
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [THIRD プログラミングコンテスト2023 (AHC030) 解説](https://www.terry-u16.net/entry/ahc030)
+
     2024-02-22
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
