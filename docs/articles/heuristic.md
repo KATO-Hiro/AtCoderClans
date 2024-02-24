@@ -84,6 +84,7 @@ title: ヒューリスティック問題を解く
 - [競プロ解法紹介～大局観で高得点を取る！～](https://qiita.com/tsukammo/items/85ffbe907e89b051d715) - マラソン形式の問題である[Chokudai Contest 001](https://atcoder.jp/contests/chokudai001/)の解法を紹介した記事。愚直な解法から高得点を狙うための着眼点や方法が解説されている。
 - [AtCoder Heuristic Contest 001 - じろうのブログ](https://shuu0914.hatenablog.com/entry/2021/03/14/200154) - [Jirotech](https://atcoder.jp/users/Jirotech)さんによる[AtCoder Heuristic Contest 001](https://atcoder.jp/contests/ahc001)の解答方針と、得点の増加につながった考え方・指標・調整方法などを紹介した記事。
 - [AtCoder Heuristic Contest 001 (AHC001) 初心者向け解説](https://www.terry-u16.net/entry/ahc001-how-to) - [terry_u16](https://atcoder.jp/users/terry_u16)さんが、ヒューリスティック型のコンテスト初心者に向けた解説・Tipsを紹介している記事。
+    - [THIRD プログラミングコンテスト2023 (AHC030) 解説](https://www.terry-u16.net/entry/ahc030)
     - [HACK TO THE FUTURE 2022 本選オープン 解説＋参加記](https://www.terry-u16.net/entry/httf2022-final)
 - [AtCoder Heuristic Contest 001 AtCoder Ad - びったんびったん](http://hakomof.hatenablog.com/entry/2021/03/14/202411) - [hakomo](https://atcoder.jp/users/hakomo)さんによる[AtCoder Heuristic Contest 001](https://atcoder.jp/contests/ahc001)の解答方針と頻出テクニックを紹介した記事。
 - [AHC003の2.926T解法+経緯](https://qiita.com/contramundum/items/b945400b81536df42d1a) - [eivour](https://atcoder.jp/users/eivour)さんが、[AtCoder Heuristic Contest 003](https://atcoder.jp/contests/ahc003)での最終解法と、その経緯などを紹介した記事。また、[HACK TO THE FUTURE 2022予選](https://atcoder.jp/contests/future-contest-2022-qual)に関する[記事](https://qiita.com/contramundum/items/52609b5a4c943bc6a275)も公開されている。
