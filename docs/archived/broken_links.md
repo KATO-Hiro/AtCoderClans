@@ -248,6 +248,9 @@ title: リンク切れ
 
 ### レーティング800〜1199(緑色)
 
+- [atcoderで入緑したのでやったことをまとめる](https://qiita.com/koriori/items/001e85e790ed8e9fd43b) - [koriori](https://atcoder.jp/users/koriori)さんが、2021年9月26日に達成。
+    - 確認した日: 2024/02/25
+
 - [30代プログラミング初心者がAtCoderで緑色になった所感](https://zenn.dev/shinsatt/articles/81a926fe88987f) - [shinsatt](https://atcoder.jp/users/shinsatt)さんが、2021年7月4日に達成。
     - 確認した日: 2022/01/19
 
