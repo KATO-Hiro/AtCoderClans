@@ -63,7 +63,6 @@ title: レーティング800〜1199(緑色)
 - [なんで私が緑色に!? ―文系大学生がゼロからプログラミングを始めたら2か月で入緑した件について - しょうがくせいにっき](https://miyako-lolita.hatenablog.com/entry/2021/10/24/120255) - [mya_Lolita](https://atcoder.jp/users/mya_Lolita)さんが、2021年10月23日に達成。
 - [緑コーダーになるまでにやったこと - Zobio's blog](https://zobio.github.io/kyopro/green.html) - [soshin](https://atcoder.jp/users/soshin)さんが、2021年10月2日に達成。
 - [業プロerが入緑した話 - ひたすらに雑記](https://malleroid.hatenablog.com/entry/2021/10/03/142940) - [malleus](https://atcoder.jp/users/malleus)さんが、2021年10月2日に達成。[別記事](https://qiita.com/malleroid/items/1a20d87dd8ddb85c01ba)で、学習方法や学んだアルゴリズム・データ構造が紹介されている。
-- [atcoderで入緑したのでやったことをまとめる](https://qiita.com/koriori/items/001e85e790ed8e9fd43b) - [koriori](https://atcoder.jp/users/koriori)さんが、2021年9月26日に達成。
 - [茶停滞から緑までの言語化](https://zenn.dev/burita083/articles/40a8b606152c06) - [burita083](https://atcoder.jp/users/burita083)さんが、2021年8月29日に達成。
 - [【WebエンジニアのAtcoder記】入緑しました！](https://qiita.com/kotaaaa/items/ddcf7f3e92e789731a7e) - [kotakota1110](https://atcoder.jp/users/kotakota1110)さんが、2021年8月21日に達成。
 - [緑コーダー(AtCoder)になった和洋 - みどマメモ](https://mdrm1rou.hatenablog.com/entry/2021/07/12/013644) - [MDMA](https://atcoder.jp/users/MDMA)さんが、2021年7月10日に達成。
