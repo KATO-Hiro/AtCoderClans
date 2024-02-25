@@ -58,17 +58,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "Webアプリ・Webサイト"
-
-    2024-02-08
-
-    - 「[コンテストの成績を見る](web_app/view_and_compare_scores)」ページ
-        - [AtCoder Rating Contributor Graph](https://atcoder-rating-contribution-graph.vercel.app/)
-
-    <div align="center">
-      <img loading = "lazy" src="images/web_app/atcoder_rating_contributor_graph.png" alt="atcoder rating contributor graph">
-    </div>
-
 === "ユーザスクリプト"
 
     2024-02-16
