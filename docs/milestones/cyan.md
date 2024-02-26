@@ -4,6 +4,7 @@ title: レーティング1200〜1599(水色)
 
 ## 2024年
 
+- [cyan が AtCoder で cyan になるまで](https://cyan515.github.io/blogs/records_of_activities/cyan_%E3%81%8C_AtCoder_%E3%81%A7_cyan_%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%BE%E3%81%A7.html) - [cyan0515](https://atcoder.jp/users/cyan0515)さんが、2024年2月25日に公開。
 - [AtCoderで入水した話 - ragnaのブログ](https://ragnawow.hatenablog.com/entry/2024/02/19/105006) - [ragna](https://atcoder.jp/users/ragna)さんが、2024年2月19日に公開。
 - [AtCoderで水色になりました(入水記事)](https://fiboooo.com/atcoder-lightblue/) - [fibon](https://atcoder.jp/users/fibon)さんが、2024年1月2日に公開。
 
