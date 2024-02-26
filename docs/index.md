@@ -107,14 +107,16 @@
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [最小全域木問題を O(|E| log log |V|) 時間で【AdC2日目】](https://trap.jp/post/2059/)
 
-    2024-02-09
-
-    - 「[数学を学ぶ](articles/math)」ページ
-        - [【競技プログラミング】多項式のGCDを O(N(logN)^2) で行う方法(half GCD) に関して解説！【暫定版】](https://qiita.com/hotman78/items/14809fa0214b168ddf80)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2024-02-26
+
+    - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [cyan0515](https://atcoder.jp/users/cyan0515)さん - [cyan が AtCoder で cyan になるまで](https://cyan515.github.io/blogs/records_of_activities/cyan_%E3%81%8C_AtCoder_%E3%81%A7_cyan_%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%BE%E3%81%A7.html)
+        - [RinaX](https://atcoder.jp/users/RinaX)さん - [AtCoder 入水までにやったこと 【Tier形式】](https://note.com/yokoyama_inf/n/nfaea395c71a3)
+        - [uta_ccc](https://atcoder.jp/users/uta_ccc)さん - [【色変記事】入水しました - 競プロ日記他](https://utac.hateblo.jp/entry/2024/02/25/223132)
 
     2024-02-23
 

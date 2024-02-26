@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-02-26
+
+- [#7807](https://github.com/KATO-Hiro/AtCoderClans/pull/7807)、[#7808](https://github.com/KATO-Hiro/AtCoderClans/pull/7808)、[#7809](https://github.com/KATO-Hiro/AtCoderClans/pull/7809)  - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[cyan0515](https://atcoder.jp/users/cyan0515)さんの[記事](https://cyan515.github.io/blogs/records_of_activities/cyan_%E3%81%8C_AtCoder_%E3%81%A7_cyan_%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%BE%E3%81%A7.html)を追加。
+    - レーティング1200から1599まで(水色)に[uta_ccc](https://atcoder.jp/users/uta_ccc)さんの[記事](https://utac.hateblo.jp/entry/2024/02/25/223132)を追加。
+    - レーティング1200から1599まで(水色)に[RinaX](https://atcoder.jp/users/RinaX)さんの[記事](https://note.com/yokoyama_inf/n/nfaea395c71a3)を追加。
+
 ### 2024-02-25
 
 - [#7800](https://github.com/KATO-Hiro/AtCoderClans/pull/7800) - (破壊的な変更) リンク切れと思われる色変記事を一時的に「[Archives](../../archived)」ページに移動。
