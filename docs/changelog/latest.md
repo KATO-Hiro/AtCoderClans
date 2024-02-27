@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-02-27
+
+- [#7814](https://github.com/KATO-Hiro/AtCoderClans/pull/7814) - 「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリのテンプレートを追加。
+    - [tatyam-prime/ICPC_notebook](https://github.com/tatyam-prime/ICPC_notebook) ![GitHub Repo stars](https://img.shields.io/github/stars/tatyam-prime/ICPC_notebook?style=plastic)
+
 ### 2024-02-26
 
 - [#7807](https://github.com/KATO-Hiro/AtCoderClans/pull/7807)、[#7808](https://github.com/KATO-Hiro/AtCoderClans/pull/7808)、[#7809](https://github.com/KATO-Hiro/AtCoderClans/pull/7809)  - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
