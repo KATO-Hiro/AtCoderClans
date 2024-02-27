@@ -107,6 +107,11 @@
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [最小全域木問題を O(|E| log log |V|) 時間で【AdC2日目】](https://trap.jp/post/2059/)
 
+=== "ライブラリ・スニペット"
+
+    - 「[C++](libraries/cpp)」ページ
+        - [tatyam-prime/ICPC_notebook](https://github.com/tatyam-prime/ICPC_notebook) ![GitHub Repo stars](https://img.shields.io/github/stars/tatyam-prime/ICPC_notebook?style=plastic)
+
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
