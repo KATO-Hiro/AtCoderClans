@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-02-28
+
+- [#7817](https://github.com/KATO-Hiro/AtCoderClans/pull/7817) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [相互情報量を学んでもっとうまくAHC030を解こう！](https://qiita.com/aplysia/items/29a4fb4573fc1b8dec79)
+
 ### 2024-02-27
 
 - [#7814](https://github.com/KATO-Hiro/AtCoderClans/pull/7814) - 「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリのテンプレートを追加。
