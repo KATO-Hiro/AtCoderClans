@@ -67,6 +67,11 @@
 
 === "記事"
 
+    2024-02-28
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [相互情報量を学んでもっとうまくAHC030を解こう！](https://qiita.com/aplysia/items/29a4fb4573fc1b8dec79)
+
     2024-02-24
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -102,12 +107,9 @@
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
         - [茶コーダーが競プロ家庭教師した話](https://speakerdeck.com/burioden/240117-uv-lt-fa84027b-5df9-4c05-b31c-ace56c010103)
 
-    2024-02-10
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [最小全域木問題を O(|E| log log |V|) 時間で【AdC2日目】](https://trap.jp/post/2059/)
-
 === "ライブラリ・スニペット"
+
+    2024-02-27
 
     - 「[C++](libraries/cpp)」ページ
         - [tatyam-prime/ICPC_notebook](https://github.com/tatyam-prime/ICPC_notebook) ![GitHub Repo stars](https://img.shields.io/github/stars/tatyam-prime/ICPC_notebook?style=plastic)
