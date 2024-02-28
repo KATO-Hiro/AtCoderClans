@@ -117,6 +117,7 @@ title: ヒューリスティック問題を解く
 - [第10回 Asprova プログラミングコンテスト 参加記 (39.1M; 130位)](https://www.wantedly.com/companies/learningbox/post_articles/538136) - [nishigake](https://atcoder.jp/users/nishigake)さんの参加記。[AtCoder Heuristic Contest 023](https://atcoder.jp/contests/ahc023)で、最初の解法から「改善案を考え、実装する」サイクルを繰り返して高得点を目指している記事。
 - [トヨタ自動車プログラミングコンテスト2023#6（AtCoder Heuristic Contest 026）至高のアルゴリズム解説](https://speakerdeck.com/bowwowforeach/toyotazi-dong-che-puroguramingukontesuto2023-number-6-atcoder-heuristic-contest-026-zhi-gao-noarugorizumujie-shuo) - [AtCoder Heuristic Contest 026](https://atcoder.jp/contests/ahc026)を対象として、延長戦の解法が2種類解説されている。
 - [AHC030のseed0のバババッて決まるやつは結構簡単に作れるよという話](https://qiita.com/aplysia/items/c3f2111110ac5043710a) - [AtCoder Heuristic Contest 030](https://atcoder.jp/contests/ahc030)を題材に、ベイズ推定の概略とC++の実装例が紹介されている。
+    - [相互情報量を学んでもっとうまくAHC030を解こう！](https://qiita.com/aplysia/items/29a4fb4573fc1b8dec79) - 上記の記事の続編。相互情報量を最大化するような点集合を選択することの具体的な意味とC++実装例が紹介されている。
 - [FakePsyho/cpcontests](https://github.com/FakePsyho/cpcontests) ![GitHub Repo stars](https://img.shields.io/github/stars/FakePsyho/cpcontests?style=plastic) - [Psyho](https://atcoder.jp/users/Psyho)さんが参加したコンテストの解答の方針とソースコードがまとめられている。
 
     ---
