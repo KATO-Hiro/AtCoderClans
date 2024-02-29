@@ -67,6 +67,11 @@
 
 === "記事"
 
+    2024-02-29
+
+    - 「[実装テクニックを学ぶ - 複数の言語](articles/implementation/multiple_languages)」ページ
+        - [浮動小数点型の算術とお近づきになりたい人向けの記事](https://rsk0315.hatenablog.com/entry/2024/02/25/231237)
+
     2024-02-28
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -96,16 +101,6 @@
 
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
         - [【Python】セグ木、遅延セグ木【AtCoder】](https://qiita.com/ether2420/items/7b67b2b35ad5f441d686)
-
-    2024-02-14
-
-    - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
-        - [遅延Segtree3 (本サイト運営者による注: 抽象化Segtree Treeの実装例のみ)](https://yosupo.hatenablog.com/entry/2023/12/09/010658)
-
-    2024-02-11
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-        - [茶コーダーが競プロ家庭教師した話](https://speakerdeck.com/burioden/240117-uv-lt-fa84027b-5df9-4c05-b31c-ace56c010103)
 
 === "ライブラリ・スニペット"
 
@@ -143,19 +138,6 @@
 
     - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [ragna](https://atcoder.jp/users/ragna)さん - [AtCoderで入水した話 - ragnaのブログ](https://ragnawow.hatenablog.com/entry/2024/02/19/105006)
-
-    2024-02-13
-
-    - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [highlighter_math](https://atcoder.jp/users/highlighter_math)さん - [AtCoderで入青しました！！](https://qiita.com/highlighter_math/items/4e28ac3aa3d7b592d514)
-
-    2024-02-12
-
-    - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
-        - [momohara](https://atcoder.jp/users/momohara)さん - [競プロ復帰してから約10ヶ月、黄色復帰するまでにやったこと](https://momoharahara.hatenadiary.com/entry/2024/02/11/181024)
-
-    - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [hiroyuk1](https://atcoder.jp/users/hiroyuk1)さん - [AtCoderで入青したので記事を書く](https://qiita.com/hiroyuk1/items/5a75448e826bb08a17e4)
 
 ## AtCoder公式グッズを購入する
 

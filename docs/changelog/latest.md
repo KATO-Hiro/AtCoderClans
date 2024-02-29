@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-02-29
+
+- [#7822](https://github.com/KATO-Hiro/AtCoderClans/pull/7822) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - 複数の言語](../../articles/implementation/multiple_languages)」ページに、以下の記事を追加。
+    - [浮動小数点型の算術とお近づきになりたい人向けの記事](https://rsk0315.hatenablog.com/entry/2024/02/25/231237)
+
 ### 2024-02-28
 
 - [#7817](https://github.com/KATO-Hiro/AtCoderClans/pull/7817) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
