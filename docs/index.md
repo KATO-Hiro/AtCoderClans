@@ -58,6 +58,17 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "Webアプリ・Webサイト"
+
+    2024-03-01
+
+    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
+        - [p5visualizer](https://github.com/shindannin/p5visualizer) ![GitHub Repo stars](https://img.shields.io/github/stars/shindannin/p5visualizer?style=plastic)
+
+    <div align="center">
+      <img loading = "lazy" src="images/web_app/p5visualizer.png" alt="p5visualizer">
+    </div>
+
 === "ユーザスクリプト"
 
     2024-02-16
@@ -96,11 +107,6 @@
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [関係式付き Union Find](https://qiita.com/Kiri8128/items/ae19133ee6921cb18dec)
-
-    2024-02-15
-
-    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
-        - [【Python】セグ木、遅延セグ木【AtCoder】](https://qiita.com/ether2420/items/7b67b2b35ad5f441d686)
 
 === "ライブラリ・スニペット"
 
