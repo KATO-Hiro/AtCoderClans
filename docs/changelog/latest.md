@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-03-01
+
+- [#7829](https://github.com/KATO-Hiro/AtCoderClans/pull/7829) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページに、ヒューリスティック問題用のビジュアライザを追加。
+    - [p5visualizer](https://github.com/shindannin/p5visualizer) ![GitHub Repo stars](https://img.shields.io/github/stars/shindannin/p5visualizer?style=plastic)
+
 ### 2024-02-29
 
 - [#7822](https://github.com/KATO-Hiro/AtCoderClans/pull/7822) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - 複数の言語](../../articles/implementation/multiple_languages)」ページに、以下の記事を追加。
