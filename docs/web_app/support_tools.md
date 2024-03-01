@@ -100,3 +100,9 @@ title: 問題を解くときの補助ツール
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/ahc_vis_archiver.png" alt="ahc vis archiver">
     </div>
+
+- [p5visualizer](https://github.com/shindannin/p5visualizer) ![GitHub Repo stars](https://img.shields.io/github/stars/shindannin/p5visualizer?style=plastic) - C++で書かれたソースコードに描画コマンドを埋め込み、出力結果をブラウザに表示させることができる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/p5visualizer.png" alt="p5visualizer">
+    </div>
