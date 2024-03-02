@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-03-02
+
+- [#7831](https://github.com/KATO-Hiro/AtCoderClans/pull/7831) - (破壊的な変更) 「[Change Log](../latest)」ページの2024年1月分を月別のアーカイブに移動。
+    - [January, 2024](../2024_01)
+
 ### 2024-03-01
 
 - [#7829](https://github.com/KATO-Hiro/AtCoderClans/pull/7829) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページに、ヒューリスティック問題用のビジュアライザを追加。

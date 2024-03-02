@@ -69,13 +69,6 @@
       <img loading = "lazy" src="images/web_app/p5visualizer.png" alt="p5visualizer">
     </div>
 
-=== "ユーザスクリプト"
-
-    2024-02-16
-
-    - 「[解説を読む・テストケースを見る](user_scripts/read_editorials)」ページ
-        - [Hide Solutions](https://greasyfork.org/ja/scripts/485421-hide-solutions)
-
 === "記事"
 
     2024-02-29
