@@ -25,6 +25,12 @@ title: 部活・サークル・同好会・オンサイトイベントに参加�
 
 ## イベント主催者・協賛者・参加者
 
+- [競プロer自己紹介シート](https://twitter.com/deuteridayodayo/status/1763197371704631355) - 競技プログラミングに関心のあるユーザ向けの自己紹介用テンプレート。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/articles/self_introduction_sheet.jpeg" alt="self introduction sheet">
+    </div>
+
 - [発案から10日で107名の大宴会を開催した話(メール一括作成GASつき)](https://d-burioden.hateblo.jp/entry/2023/04/03/043035) - 100人規模の宴会を開催する際に、店の予約・参加者の把握・懸念事項への対策などの知見がまとめられている記事。
 
 ### OUPC 2023
