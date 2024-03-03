@@ -71,6 +71,15 @@
 
 === "記事"
 
+    2024-03-03
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [競プロer自己紹介シート](https://twitter.com/deuteridayodayo/status/1763197371704631355)
+
+    <div align="center">
+      <img loading = "lazy" src="images/articles/self_introduction_sheet.jpeg" alt="self introduction sheet">
+    </div>
+
     2024-02-29
 
     - 「[実装テクニックを学ぶ - 複数の言語](articles/implementation/multiple_languages)」ページ
@@ -95,11 +104,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [THIRD プログラミングコンテスト2023（AtCoder Heuristic Contest 030）参加記](https://kaede2020.hatenablog.com/entry/2024/02/19/190210)
-
-    2024-02-17
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [関係式付き Union Find](https://qiita.com/Kiri8128/items/ae19133ee6921cb18dec)
 
 === "ライブラリ・スニペット"
 
