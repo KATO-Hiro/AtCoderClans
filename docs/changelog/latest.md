@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-03-03
+
+- [#7835](https://github.com/KATO-Hiro/AtCoderClans/pull/7835) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下のツイートを追加。
+    - [競プロer自己紹介シート](https://twitter.com/deuteridayodayo/status/1763197371704631355)
+
 ### 2024-03-02
 
 - [#7831](https://github.com/KATO-Hiro/AtCoderClans/pull/7831) - (破壊的な変更) 「[Change Log](../latest)」ページの2024年1月分を月別のアーカイブに移動。
