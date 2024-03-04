@@ -290,6 +290,11 @@ title: リンク切れ
 - [競技プログラミングを休んでいる理由 - little star's memory](https://koboshi-kyopro.hatenablog.com/entry/2021/05/24/012158) - [koboshi](https://atcoder.jp/users/koboshi)さんが2021年5月24日に公開。
     - 確認した日: 2022/05/23
 
+## 現役引退
+
+- [競技プログラミングから離れるという選択肢](https://note.com/lyu_lu/n/nb4287c27e026) - lyu_luさんが、2021年5月22日に退会。
+    - 確認した日: 2024/03/04
+
 ## 関連コンテストサイト
 
 ### CafeCoder
