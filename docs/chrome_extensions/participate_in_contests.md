@@ -14,6 +14,8 @@ title: コンテストに参加する
 
 ### 開催予定を見る
 
+<!-- markdown-link-check-disable -->
+
 - [Coder's Calendar](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll?hl=ja&gl=UA) - 開催予定のコンテスト情報を表示する。[Codechef](https://www.codechef.com/)、 [HackerEarth](https://www.hackerearth.com/)、[Hackerrank](https://www.hackerrank.com/)、[Topcoder](https://www.topcoder.com/)、[Codeforces](https://codeforces.com/)、[CSAcademy](https://csacademy.com/)、 [LeetCode](https://leetcode.com/)、[Kaggle](https://www.kaggle.com/)などにも対応している。
 
     <div align="center">
@@ -25,6 +27,8 @@ title: コンテストに参加する
     <div align="center">
       <img loading = "lazy" src="../../images/chrome_extension/coding_schedule.jpg" alt="coding schedule">
     </div>
+
+<!-- markdown-link-check-enable -->
 
 - [KONTESTS](https://chrome.google.com/webstore/detail/kontests/agpdemlkalmmeenclchlajdcmbcacoea?hl=ja&gl=UA) - コンテスト情報を表示する。[Codeforces](https://codeforces.com/)、Codeforces::Gym、[TopCoder](https://www.topcoder.com/)、[CSAcademy](https://csacademy.com/)にも対応している。
 
