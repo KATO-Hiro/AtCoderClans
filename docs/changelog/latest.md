@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-03-04
+
+- [#7840](https://github.com/KATO-Hiro/AtCoderClans/pull/7840) - (破壊的な変更) リンク切れと思われる記事を一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2024-03-03
 
 - [#7835](https://github.com/KATO-Hiro/AtCoderClans/pull/7835) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下のツイートを追加。
