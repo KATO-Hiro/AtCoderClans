@@ -9,7 +9,6 @@ title: 休止・引退
 - [仕事の役に立ったこと3選と引退理由：競技プログラミングAtCoder](https://ginlabo.com/2021/11/blog/c-programming/atcoder-benefit/) - [shu_crim](https://atcoder.jp/users/shu_crim)さんが、2021年11月11日に公開。
 - [だから僕は競プロを辞めた](https://note.com/daikisuyama/n/nac0543473eb1) - DaikiSuyamaさんが、2021年8月27日に公開。
 - [AtCoderを退会しました - cumin’s diary](https://ohirururu.hatenablog.com/entry/2021/06/20/001500) - cuminさんが、2021年6月19日に退会。
-- [競技プログラミングから離れるという選択肢](https://note.com/lyu_lu/n/nb4287c27e026) - lyu_luさんが、2021年5月22日に退会。
 
 ### 2020年
 
