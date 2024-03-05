@@ -105,6 +105,13 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [THIRD プログラミングコンテスト2023（AtCoder Heuristic Contest 030）参加記](https://kaede2020.hatenablog.com/entry/2024/02/19/190210)
 
+=== "書籍"
+
+    2024-03-05
+
+    - 「[書籍](books)」ページ
+        - [アルゴリズムの乙女たち](https://www.amazon.co.jp/dp/4198949344)
+
 === "ライブラリ・スニペット"
 
     2024-02-27
@@ -132,15 +139,6 @@
 
      - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
         - [YuuuT](https://atcoder.jp/users/YuuuT)さん - [文系大学生がプログラミング未経験から5ヶ月で入緑した話【AtCoder】](https://qiita.com/yukun_py/items/d5a3d5d7ef50987f22fb)
-
-    2024-02-19
-
-    - 「[アルゴリズム部門 - レーティング2400〜2799(橙色)](milestones/orange)」ページ
-        - [MtSaka](https://atcoder.jp/users/MtSaka)さん - [【色変記事】AtCoder橙になりました - MtSakaのブログ](https://mt-saka.hatenablog.com/entry/2024/02/19/161655)
-        - [karinohito](https://atcoder.jp/users/karinohito)さん - [橙コーダーになりました. - 仮のブログ](https://karinohito.hatenablog.com/entry/2024/02/19/080635)
-
-    - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [ragna](https://atcoder.jp/users/ragna)さん - [AtCoderで入水した話 - ragnaのブログ](https://ragnawow.hatenablog.com/entry/2024/02/19/105006)
 
 ## AtCoder公式グッズを購入する
 
