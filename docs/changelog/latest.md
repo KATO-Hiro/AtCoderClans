@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-03-05
+
+- [#7844](https://github.com/KATO-Hiro/AtCoderClans/pull/7844) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに、以下の小説を追加。
+    - [アルゴリズムの乙女たち](https://www.amazon.co.jp/dp/4198949344)
+
 ### 2024-03-04
 
 - [#7840](https://github.com/KATO-Hiro/AtCoderClans/pull/7840) - (破壊的な変更) リンク切れと思われる記事を一時的に「[Archives](../../archived)」ページに移動。
