@@ -16,12 +16,13 @@ title: Rust
 |primenumber|[はてなブログ](https://primenumber.hatenadiary.jp/)||
 |rhoo|[Qiita](https://qiita.com/rhoo)||
 |sugim48|[はてなブログ](https://sugim48.hatenadiary.org/)|2014年11月以降、新規の記事を確認できず。C++で実装されている回答もある。|
+|xyz600|[はてなブログ](https://xyz600.hatenablog.com/)||
 
 ## レーティング2000〜2399(黄色)
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
 |cunitac|[はてなブログ](https://cunitac.hatenablog.com/)||
+|Kyo_s_s|[自作ブログ](https://kyo-homepage.vercel.app/blog)||
 |penguin46|[はてなブログ](https://penguin46.hatenablog.com/)||
 |ToastUz|[Qiita](https://qiita.com/toast-uz)||
-|xyz600|[はてなブログ](https://xyz600.hatenablog.com/)||

@@ -74,10 +74,12 @@ title: C&#43;&#43;
 |ponjuice|[note](https://note.com/ponjuice0)||
 |qLethon|[はてなブログ](https://qlethon.hatenablog.com/)||
 |riantkb|[はてなブログ](https://rian.hatenablog.jp/)||
+|RinSakamichi|[GitHub Pages](https://rinsakamichi.github.io/)||
 |satanic0258|[はてなブログ](https://satanic0258.hatenablog.com/)|2018年9月以降、新規の記事を確認できず。|
 |Shibuyap|[Qiita](https://qiita.com/Shibuyap)||
 |shindannin|[はてなブログ](https://shindannin.hatenadiary.com/)||
 |shotoyoo|[Qiita](https://qiita.com/shotoyoo)||
+|sky58|[はてなブログ](https://topcoder-g-hatena-ne-jp.jag-icpc.org/skyaozora/)||
 |ssaattoo|[はてなブログ](https://ssaattoo.hatenablog.com/)||
 |tempura0224|[はてなブログ](https://tempura0224.hatenablog.com/)||
 |theory_and_me|[はてなブログ](https://theory-and-me.hatenablog.com/)||
