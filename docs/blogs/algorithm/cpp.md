@@ -178,6 +178,7 @@ title: C&#43;&#43;
 |Series_205|[Qiita](https://qiita.com/Series_205)||
 |set0gut1|[Qiita](https://qiita.com/set0gut1)|2019年8月以降、新規の記事を確認できず。|
 |siro53|[はてなブログ](https://bakamono1357.hatenablog.com/)||
+|Slephy|[Qiita](https://qiita.com/Slephy)||
 |souta_1326|[Qiita](https://qiita.com/souta_1326)||
 |Suibaka|[はてなブログ](https://suikaba.hatenablog.com/)||
 |takumi152|[はてなブログ](https://takumi152.hatenablog.jp/)||
