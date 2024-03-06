@@ -74,6 +74,7 @@ title: C&#43;&#43;
 |Hoi_koro|[はてなブログ](https://hoikoro.hatenablog.com/)|2019年3月以降、新規の記事を確認できず。|
 |hotman78|[はてなブログ](https://hotman78.hatenablog.com/)||
 |Jirotech|[はてなブログ](https://shuu0914.hatenablog.com/)||
+|karinohito|[はてなブログ](https://karinohito.hatenablog.com)||
 |Kite_kuma|[はてなブログ](https://kumakumatime.hateblo.jp/)||
 |kotamanegi|[はてなブログ](https://kotamanegi.hatenablog.com/)||
 |kyuridenamida|[はてなブログ](https://kyuridenamida.hatenablog.com/)|2019年10月以降、新規の記事を確認できず。|
@@ -82,6 +83,7 @@ title: C&#43;&#43;
 |maple116|[はてなブログ](https://fuma-maple.hatenablog.com/)|2020年2月以降、新規の記事を確認できず。|
 |MMNMM|[はてなブログ](https://259-momone.hatenablog.com/)||
 |Motsu_xe|[はてなブログ](https://motsu-xe.hatenablog.com/)||
+|MtSaka|[はてなブログ](https://mt-saka.hatenablog.com)||
 |nok0|[はてなブログ](https://tsuchi.hateblo.jp/)||
 |olphe|[はてなブログ](https://olphe.hatenablog.com/)||
 |omochana2|[はてなブログ](https://omochan.hatenablog.com/)||
