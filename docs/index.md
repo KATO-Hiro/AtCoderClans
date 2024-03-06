@@ -60,6 +60,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2024-03-06
+
+    - 「[問題を解く](web_app/solve_problems)」ページ
+        - [Atcoder Clock](https://clock.zuk246.net/)
+
+    <div align="center">
+      <img loading = "lazy" src="images/web_app/atcoder_clock.png" alt="atcoder clock">
+    </div>
+
     2024-03-01
 
     - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
@@ -105,6 +114,29 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [THIRD プログラミングコンテスト2023（AtCoder Heuristic Contest 030）参加記](https://kaede2020.hatenablog.com/entry/2024/02/19/190210)
 
+=== "ブログ"
+    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2024-03-06
+
+    - 「[アルゴリズム部門 - C++](blogs/heuristic/cpp)」ページ
+
+        - [karinohito](https://atcoder.jp/users/karinohito)さん - [はてなブログ](https://karinohito.hatenablog.com)
+
+        - [MtSaka](https://atcoder.jp/users/MtSaka)さん - [はてなブログ](https://mt-saka.hatenablog.com)
+
+        - [Slephy](https://atcoder.jp/users/Slephy)さん - [Qiita](https://qiita.com/Slephy)
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [RinSakamichi](https://atcoder.jp/users/RinSakamichi)さん - [GitHub Pages](https://rinsakamichi.github.io/)
+
+        - [sky58](https://atcoder.jp/users/sky58)さん - [はてなブログ](https://topcoder-g-hatena-ne-jp.jag-icpc.org/skyaozora/)
+
+    - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
+        - [xyz600](https://atcoder.jp/users/xyz600)さん - [はてなブログ](https://xyz600.hatenablog.com/)
+
+        - [Kyo_s_s](https://atcoder.jp/users/Kyo_s_s)さん - [自作ブログ](https://kyo-homepage.vercel.app/blog)
+
 === "書籍"
 
     2024-03-05
@@ -134,11 +166,6 @@
 
     - 「[ヒューリスティック部門 - レーティング2400〜2799(橙色)](milestones/orange)」ページ
         - [ebicochineal](https://atcoder.jp/users/ebicochineal)さん - [【色変記事】中卒無職ひきこもりがAtCoder Heuristicで橙になった話](https://ebicochineal.blogspot.com/2024/02/atcoder-heuristic.html)
-
-    2024-02-20
-
-     - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [YuuuT](https://atcoder.jp/users/YuuuT)さん - [文系大学生がプログラミング未経験から5ヶ月で入緑した話【AtCoder】](https://qiita.com/yukun_py/items/d5a3d5d7ef50987f22fb)
 
 ## AtCoder公式グッズを購入する
 

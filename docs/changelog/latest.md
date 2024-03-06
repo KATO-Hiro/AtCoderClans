@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-03-06
+
+- [#7848](https://github.com/KATO-Hiro/AtCoderClans/pull/7848)、[#7849](https://github.com/KATO-Hiro/AtCoderClans/pull/7849)、[#7851](https://github.com/KATO-Hiro/AtCoderClans/pull/7851) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門およびヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+- [#7847](https://github.com/KATO-Hiro/AtCoderClans/pull/7847) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のWebアプリを追加。
+    - [Atcoder Clock](https://clock.zuk246.net/)
+
 ### 2024-03-05
 
 - [#7844](https://github.com/KATO-Hiro/AtCoderClans/pull/7844) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに、以下の小説を追加。
