@@ -118,6 +118,7 @@ title: ヒューリスティック問題を解く
 - [トヨタ自動車プログラミングコンテスト2023#6（AtCoder Heuristic Contest 026）至高のアルゴリズム解説](https://speakerdeck.com/bowwowforeach/toyotazi-dong-che-puroguramingukontesuto2023-number-6-atcoder-heuristic-contest-026-zhi-gao-noarugorizumujie-shuo) - [AtCoder Heuristic Contest 026](https://atcoder.jp/contests/ahc026)を対象として、延長戦の解法が2種類解説されている。
 - [AHC030のseed0のバババッて決まるやつは結構簡単に作れるよという話](https://qiita.com/aplysia/items/c3f2111110ac5043710a) - [AtCoder Heuristic Contest 030](https://atcoder.jp/contests/ahc030)を題材に、ベイズ推定の概略とC++の実装例が紹介されている。
     - [相互情報量を学んでもっとうまくAHC030を解こう！](https://qiita.com/aplysia/items/29a4fb4573fc1b8dec79) - 上記の記事の続編。相互情報量を最大化するような点集合を選択することの具体的な意味とC++実装例が紹介されている。
+- [第一回マスターズ選手権予選・参加記](https://medium.com/karakuri/%E7%AC%AC%E4%B8%80%E5%9B%9E%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA%E4%BA%88%E9%81%B8-%E5%8F%82%E5%8A%A0%E8%A8%98-8f605012aa4a) - [第一回マスターズ選手権-予選-](https://atcoder.jp/contests/masters-qual)の参加記。問題の解法、高得点を取るための工夫が時系列でまとめられている。
 - [FakePsyho/cpcontests](https://github.com/FakePsyho/cpcontests) ![GitHub Repo stars](https://img.shields.io/github/stars/FakePsyho/cpcontests?style=plastic) - [Psyho](https://atcoder.jp/users/Psyho)さんが参加したコンテストの解答の方針とソースコードがまとめられている。
 
     ---
