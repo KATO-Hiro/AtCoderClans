@@ -38,6 +38,9 @@
     },
     {
       "pattern": "^https://cards-dev.twitter.com/"
+    },
+    {
+      "pattern": "^https://leetcode.com/"
     }
   ],
   "httpHeaders": [
