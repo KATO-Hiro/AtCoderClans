@@ -6,7 +6,7 @@ title: Change Log
 
 ### 2024-03-08
 
-- [#7860](https://github.com/KATO-Hiro/AtCoderClans/pull/7860) - [nonon](https://twitter.com/nonon_math)さんのご紹介で、 「[Related Contest Sites](../../related_contest_sites)」の「[BOJ (Baekjoon Online Judge)](../../related_contest_sites/boj)」ページに、以下のWebサービスを追加。
+- [#7860](https://github.com/KATO-Hiro/AtCoderClans/pull/7860) - [nonon](https://twitter.com/nonon_math)さんのご紹介で、「[Related Contest Sites](../../related_contest_sites)」の「[BOJ (Baekjoon Online Judge)](../../related_contest_sites/boj)」ページに、以下のWebサービスを追加。
     - [Baekjoon Online Judge](https://www.acmicpc.net/)
     - [solved.ac](https://solved.ac/en)
 
