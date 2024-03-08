@@ -109,11 +109,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [THIRD プログラミングコンテスト2023 (AHC030) 解説](https://www.terry-u16.net/entry/ahc030)
 
-    2024-02-22
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AHC030のseed0のバババッて決まるやつは結構簡単に作れるよという話](https://qiita.com/aplysia/items/c3f2111110ac5043710a)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -166,6 +161,24 @@
 
     - 「[ヒューリスティック部門 - レーティング2400〜2799(橙色)](milestones/orange)」ページ
         - [ebicochineal](https://atcoder.jp/users/ebicochineal)さん - [【色変記事】中卒無職ひきこもりがAtCoder Heuristicで橙になった話](https://ebicochineal.blogspot.com/2024/02/atcoder-heuristic.html)
+
+=== "国内外のコンテストサイト"
+
+    2024-03-08
+
+    - 「[BOJ (Baekjoon Online Judge)](related_contest_sites/boj)」ページ
+
+        - [Baekjoon Online Judge](https://www.acmicpc.net/)
+
+        - [solved.ac](https://solved.ac/en)
+
+    <div align="center">
+      <img loading = "lazy" src="images/related_contest_sites/boj/boj.png" alt="boj">
+    </div>
+
+    <div align="center">
+      <img loading = "lazy" src="images/related_contest_sites/boj/solved_ac.png" alt="solved ac">
+    </div>
 
 ## AtCoder公式グッズを購入する
 
