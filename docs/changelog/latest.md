@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-03-08
+
+- [#7860](https://github.com/KATO-Hiro/AtCoderClans/pull/7860) - [nonon](https://twitter.com/nonon_math)さんのご紹介で、「[Related Contest Sites](../../related_contest_sites)」の「[BOJ (Baekjoon Online Judge)](../../related_contest_sites/boj)」ページに、以下のWebサービスを追加。
+    - [Baekjoon Online Judge](https://www.acmicpc.net/)
+    - [solved.ac](https://solved.ac/en)
+
 ### 2024-03-07
 
 - [#7856](https://github.com/KATO-Hiro/AtCoderClans/pull/7856) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
