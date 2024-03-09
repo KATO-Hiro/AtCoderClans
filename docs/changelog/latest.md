@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-03-09
+
+- [#7868](https://github.com/KATO-Hiro/AtCoderClans/pull/7868) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[Zoi2](https://atcoder.jp/users/Zoi2)さんの[記事](https://qiita.com/ZOI2/items/9acafc4153356765721a)を追加。
+
 ### 2024-03-08
 
 - [#7860](https://github.com/KATO-Hiro/AtCoderClans/pull/7860) - [nonon](https://twitter.com/nonon_math)さんのご紹介で、「[Related Contest Sites](../../related_contest_sites)」の「[BOJ (Baekjoon Online Judge)](../../related_contest_sites/boj)」ページに、以下のWebサービスを追加。
