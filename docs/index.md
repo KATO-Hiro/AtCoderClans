@@ -150,17 +150,17 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
 
+    2024-03-09
+
+    - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [Zoi2](https://atcoder.jp/users/Zoi2)さん - [【色変記事】AtCoderで入水した話 by ZOI2](https://qiita.com/ZOI2/items/9acafc4153356765721a)
+
     2024-02-26
 
     - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [cyan0515](https://atcoder.jp/users/cyan0515)さん - [cyan が AtCoder で cyan になるまで](https://cyan515.github.io/blogs/records_of_activities/cyan_%E3%81%8C_AtCoder_%E3%81%A7_cyan_%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%BE%E3%81%A7.html)
         - [RinaX](https://atcoder.jp/users/RinaX)さん - [AtCoder 入水までにやったこと 【Tier形式】](https://note.com/yokoyama_inf/n/nfaea395c71a3)
         - [uta_ccc](https://atcoder.jp/users/uta_ccc)さん - [【色変記事】入水しました - 競プロ日記他](https://utac.hateblo.jp/entry/2024/02/25/223132)
-
-    2024-02-23
-
-    - 「[ヒューリスティック部門 - レーティング2400〜2799(橙色)](milestones/orange)」ページ
-        - [ebicochineal](https://atcoder.jp/users/ebicochineal)さん - [【色変記事】中卒無職ひきこもりがAtCoder Heuristicで橙になった話](https://ebicochineal.blogspot.com/2024/02/atcoder-heuristic.html)
 
 === "国内外のコンテストサイト"
 
