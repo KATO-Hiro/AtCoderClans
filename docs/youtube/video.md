@@ -19,6 +19,7 @@ title: 個別の動画
 - [全探索とは？お気持ち編［競技プログラミング初心者へ］【ゆっくり解説】](https://www.youtube.com/watch?v=-vGsAqDIgQo) - 競技プログラミング（通称、競プロ）の最も基本的な技法である「全探索」の概略が説明されている。
     - [DFS・BFSとは？お気持ち編［競技プログラミング初心者へ］【ゆっくり解説】](https://www.youtube.com/watch?v=0_9heBS7Flg) - 深さ優先探索(同DFS)、幅優先探索(同BFS)編。
     - [DP（動的計画法）とは？お気持ち編［競技プログラミング初心者へ］【ゆっくり解説】](https://www.youtube.com/watch?v=oB3L8yyHsFY) - 動的計画法（同DP）編。
+- [100÷9899=?（母関数・形式的べき級数入門）【ゆっくり解説】](https://www.youtube.com/watch?v=I02Obi-yXJU)- 母関数と形式的べき級数が、平易かつ簡潔に解説されている。
 
 ## 歌ってみた
 
