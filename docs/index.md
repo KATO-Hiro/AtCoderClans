@@ -104,11 +104,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [相互情報量を学んでもっとうまくAHC030を解こう！](https://qiita.com/aplysia/items/29a4fb4573fc1b8dec79)
 
-    2024-02-24
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [THIRD プログラミングコンテスト2023 (AHC030) 解説](https://www.terry-u16.net/entry/ahc030)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -138,6 +133,13 @@
 
     - 「[書籍](books)」ページ
         - [アルゴリズムの乙女たち](https://www.amazon.co.jp/dp/4198949344)
+
+=== "動画"
+
+    2024-03-10
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [100÷9899=?（母関数・形式的べき級数入門）【ゆっくり解説】](https://www.youtube.com/watch?v=I02Obi-yXJU)
 
 === "ライブラリ・スニペット"
 
