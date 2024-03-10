@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-03-10
+
+- [#7872](https://github.com/KATO-Hiro/AtCoderClans/pull/7872) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [100÷9899=?（母関数・形式的べき級数入門）【ゆっくり解説】](https://www.youtube.com/watch?v=I02Obi-yXJU)
+
 ### 2024-03-09
 
 - [#7868](https://github.com/KATO-Hiro/AtCoderClans/pull/7868) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
