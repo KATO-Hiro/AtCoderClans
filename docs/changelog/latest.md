@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-03-11
+
+- [#7879](https://github.com/KATO-Hiro/AtCoderClans/pull/7879) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[trkwm](https://atcoder.jp/users/trkwm)さんの[記事](https://qiita.com/Cecil_Ha/items/ee8b3620c87b255cf085)を追加。
+
 ### 2024-03-10
 
 - [#7872](https://github.com/KATO-Hiro/AtCoderClans/pull/7872) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
