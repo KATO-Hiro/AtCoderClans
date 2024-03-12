@@ -152,6 +152,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
 
+    2024-03-12
+
+    - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [masao_0323](https://atcoder.jp/users/masao_0323)さん - [緑になるために何をしたのか](https://qiita.com/kumasao0323/items/a10de284248cd01a8eb5)
+
     2024-03-11
 
     - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
@@ -161,13 +166,6 @@
 
     - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [Zoi2](https://atcoder.jp/users/Zoi2)さん - [【色変記事】AtCoderで入水した話 by ZOI2](https://qiita.com/ZOI2/items/9acafc4153356765721a)
-
-    2024-02-26
-
-    - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [cyan0515](https://atcoder.jp/users/cyan0515)さん - [cyan が AtCoder で cyan になるまで](https://cyan515.github.io/blogs/records_of_activities/cyan_%E3%81%8C_AtCoder_%E3%81%A7_cyan_%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%BE%E3%81%A7.html)
-        - [RinaX](https://atcoder.jp/users/RinaX)さん - [AtCoder 入水までにやったこと 【Tier形式】](https://note.com/yokoyama_inf/n/nfaea395c71a3)
-        - [uta_ccc](https://atcoder.jp/users/uta_ccc)さん - [【色変記事】入水しました - 競プロ日記他](https://utac.hateblo.jp/entry/2024/02/25/223132)
 
 === "国内外のコンテストサイト"
 
