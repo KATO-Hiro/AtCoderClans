@@ -4,7 +4,7 @@ title: コードを書くための環境構築を行う
 
 !!! info "参考"
 
-    以下の記事は、2024年1月までに公開・更新されたものです。随時、最新の内容を追加する予定です。
+    以下の記事は、2024年3月までに公開・更新されたものです。随時、最新の内容を追加する予定です。
 
 !!! warning "注意"
 
@@ -64,6 +64,7 @@ title: コードを書くための環境構築を行う
 
 - [Visual Studio Codeで競プロ環境構築(導入編)](https://qiita.com/AokabiC/items/e9312856f588dd9303ed) - C++(GCC)のコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)で構築する方法が丁寧に解説されている。
     - [Visual Studio Codeで競プロ環境構築(実践編)](https://qiita.com/AokabiC/items/af685bfd205dda44ec45) - 便利なショートカット、コードスニペット、拡張機能、サンプルケースの自動検証、デバッグツールについて紹介されている。
+- [【VScode + WSL / Windows】C++ 用の AtCoder 向け環境構築をしてみた。(WSL導入からGitによるソースコード管理まで)](https://yuulis.hatenablog.com/entry/atcoder-cpp-env-build) - [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)を利用して、C++(GCC、g++)のコンパイル・実行環境を構築する方法が紹介されている。エディタの拡張機能・[AtCoder Library(ACL)](https://atcoder.jp/posts/517)やテストツール・ソースコードの管理ツールの導入方法、各種設定などもまとめられている。
 
 ### C&#35;
 
