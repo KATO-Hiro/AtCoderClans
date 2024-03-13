@@ -80,6 +80,11 @@
 
 === "記事"
 
+    2024-03-13
+
+    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
+        - [【VScode + WSL / Windows】C++ 用の AtCoder 向け環境構築をしてみた。(WSL導入からGitによるソースコード管理まで)](https://yuulis.hatenablog.com/entry/atcoder-cpp-env-build)
+
     2024-03-07
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -140,13 +145,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [100÷9899=?（母関数・形式的べき級数入門）【ゆっくり解説】](https://www.youtube.com/watch?v=I02Obi-yXJU)
-
-=== "ライブラリ・スニペット"
-
-    2024-02-27
-
-    - 「[C++](libraries/cpp)」ページ
-        - [tatyam-prime/ICPC_notebook](https://github.com/tatyam-prime/ICPC_notebook) ![GitHub Repo stars](https://img.shields.io/github/stars/tatyam-prime/ICPC_notebook?style=plastic)
 
 === "色変記事"
 
