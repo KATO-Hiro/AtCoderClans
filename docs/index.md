@@ -104,11 +104,6 @@
     - 「[実装テクニックを学ぶ - 複数の言語](articles/implementation/multiple_languages)」ページ
         - [浮動小数点型の算術とお近づきになりたい人向けの記事](https://rsk0315.hatenablog.com/entry/2024/02/25/231237)
 
-    2024-02-28
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [相互情報量を学んでもっとうまくAHC030を解こう！](https://qiita.com/aplysia/items/29a4fb4573fc1b8dec79)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -149,6 +144,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2024-03-14
+
+    - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [yoto1980yen](https://atcoder.jp/users/yoto1980yen)さん - [【色変記事】AtCoder緑色になりました【Ruby】](https://zenn.dev/yoto1980yen/articles/d894ba2233169e)
 
     2024-03-12
 

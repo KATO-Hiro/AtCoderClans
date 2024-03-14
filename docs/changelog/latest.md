@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-03-14
+
+- [#7892](https://github.com/KATO-Hiro/AtCoderClans/pull/7892) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[yoto1980yen](https://atcoder.jp/users/yoto1980yen)さんの[記事](https://zenn.dev/yoto1980yen/articles/d894ba2233169e)を追加。
+
 ### 2024-03-13
 
 - [#7889](https://github.com/KATO-Hiro/AtCoderClans/pull/7889) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。
