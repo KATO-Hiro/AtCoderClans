@@ -99,11 +99,6 @@
       <img loading = "lazy" src="images/articles/self_introduction_sheet.jpeg" alt="self introduction sheet">
     </div>
 
-    2024-02-29
-
-    - 「[実装テクニックを学ぶ - 複数の言語](articles/implementation/multiple_languages)」ページ
-        - [浮動小数点型の算術とお近づきになりたい人向けの記事](https://rsk0315.hatenablog.com/entry/2024/02/25/231237)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -144,6 +139,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2024-03-15
+
+    - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [hals](https://atcoder.jp/users/hals)さん - [AtCoder水色になりました - はるすえすしーのぶろぐ](https://halss.hatenablog.com/entry/2024/03/15/023233)
 
     2024-03-14
 
