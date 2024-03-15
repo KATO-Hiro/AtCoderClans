@@ -41,6 +41,9 @@
     },
     {
       "pattern": "^https://leetcode.com/"
+    },
+    {
+      "pattern": "^https://ctftime.org/"
     }
   ],
   "httpHeaders": [
