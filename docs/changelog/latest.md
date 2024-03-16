@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-03-16
+
+- [#7904](https://github.com/KATO-Hiro/AtCoderClans/pull/7904) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
+    - [フォルシア競プロ部発足！活動レポート](https://www.forcia.com/blog/002879.html)
+
 ### 2024-03-15
 
 - [#7899](https://github.com/KATO-Hiro/AtCoderClans/pull/7899) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

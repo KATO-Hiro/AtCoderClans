@@ -69,16 +69,12 @@
       <img loading = "lazy" src="images/web_app/atcoder_clock.png" alt="atcoder clock">
     </div>
 
-    2024-03-01
-
-    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
-        - [p5visualizer](https://github.com/shindannin/p5visualizer) ![GitHub Repo stars](https://img.shields.io/github/stars/shindannin/p5visualizer?style=plastic)
-
-    <div align="center">
-      <img loading = "lazy" src="images/web_app/p5visualizer.png" alt="p5visualizer">
-    </div>
-
 === "記事"
+
+    2024-03-16
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [フォルシア競プロ部発足！活動レポート](https://www.forcia.com/blog/002879.html)
 
     2024-03-13
 
