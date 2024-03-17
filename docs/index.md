@@ -100,12 +100,12 @@
 
     2024-03-17
 
-    - 「[アルゴリズム部門 - C++](blogs/heuristic/cpp)」ページ
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [ponjuice](https://atcoder.jp/users/ponjuice)さん - [note](https://note.com/ponjuice0)
 
     2024-03-06
 
-    - 「[アルゴリズム部門 - C++](blogs/heuristic/cpp)」ページ
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
 
         - [karinohito](https://atcoder.jp/users/karinohito)さん - [はてなブログ](https://karinohito.hatenablog.com)
 
