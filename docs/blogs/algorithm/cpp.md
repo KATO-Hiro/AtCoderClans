@@ -92,6 +92,7 @@ title: C&#43;&#43;
 |physics0523|[はてなブログ](https://physics0523.hatenablog.com/)||
 |PIandS|[自作ブログ](https://pitsbuffersolution.com/)||
 |platypus|[はてなブログ](https://platypus999.hatenablog.com/)|2018年3月以降、新規の記事を確認できず。|
+|ponjuice|[note](https://note.com/ponjuice0)||
 |potetisensei|[はてなブログ](https://potetisensei.hatenablog.com/)||
 |primenumber|[はてなブログ](https://primenumber.hatenadiary.jp/)||
 |riano_|[はてなブログ](https://seashellpink-frostywhite.hatenablog.com/)||
