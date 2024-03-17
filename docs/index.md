@@ -98,6 +98,11 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2024-03-17
+
+    - 「[アルゴリズム部門 - C++](blogs/heuristic/cpp)」ページ
+        - [ponjuice](https://atcoder.jp/users/ponjuice)さん - [note](https://note.com/ponjuice0)
+
     2024-03-06
 
     - 「[アルゴリズム部門 - C++](blogs/heuristic/cpp)」ページ
