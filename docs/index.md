@@ -69,6 +69,13 @@
       <img loading = "lazy" src="images/web_app/atcoder_clock.png" alt="atcoder clock">
     </div>
 
+=== "ユーザスクリプト"
+
+    2024-03-18
+
+    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
+        - [Style Fixes for AtCoder](https://greasyfork.org/ja/scripts/489300-style-fixes-for-atcoder)
+
 === "記事"
 
     2024-03-16
@@ -85,15 +92,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [第一回マスターズ選手権予選・参加記](https://medium.com/karakuri/%E7%AC%AC%E4%B8%80%E5%9B%9E%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA%E4%BA%88%E9%81%B8-%E5%8F%82%E5%8A%A0%E8%A8%98-8f605012aa4a)
-
-    2024-03-03
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-        - [競プロer自己紹介シート](https://twitter.com/deuteridayodayo/status/1763197371704631355)
-
-    <div align="center">
-      <img loading = "lazy" src="images/articles/self_introduction_sheet.jpeg" alt="self introduction sheet">
-    </div>
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。

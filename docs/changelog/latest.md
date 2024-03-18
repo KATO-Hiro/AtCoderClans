@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-03-18
+
+- [#7922](https://github.com/KATO-Hiro/AtCoderClans/pull/7922) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
+    - [Style Fixes for AtCoder](https://greasyfork.org/ja/scripts/489300-style-fixes-for-atcoder)
+
 ### 2024-03-17
 
 - [#7908](https://github.com/KATO-Hiro/AtCoderClans/pull/7908) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
