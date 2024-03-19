@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-03-19
+
+- [#7928](https://github.com/KATO-Hiro/AtCoderClans/pull/7928) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
+    - [rng_58がおすすめする練習の仕方 - 茶色になるために](https://info.atcoder.jp/entry/2024/03/18/160342)
+
 ### 2024-03-18
 
 - [#7922](https://github.com/KATO-Hiro/AtCoderClans/pull/7922) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
