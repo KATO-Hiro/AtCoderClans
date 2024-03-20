@@ -78,6 +78,11 @@
 
 === "記事"
 
+    2024-03-20
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [2次元セグメント木](https://drive.google.com/file/d/1bSjYiA-nSsHzBbCnLq1GeTpRzs2Ucm0q/view)
+
     2024-03-19
 
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
@@ -125,13 +130,6 @@
         - [xyz600](https://atcoder.jp/users/xyz600)さん - [はてなブログ](https://xyz600.hatenablog.com/)
 
         - [Kyo_s_s](https://atcoder.jp/users/Kyo_s_s)さん - [自作ブログ](https://kyo-homepage.vercel.app/blog)
-
-=== "書籍"
-
-    2024-03-05
-
-    - 「[書籍](books)」ページ
-        - [アルゴリズムの乙女たち](https://www.amazon.co.jp/dp/4198949344)
 
 === "動画"
 

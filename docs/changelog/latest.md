@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-03-20
+
+- [#7935](https://github.com/KATO-Hiro/AtCoderClans/pull/7935) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の資料を追加。
+    - [2次元セグメント木](https://drive.google.com/file/d/1bSjYiA-nSsHzBbCnLq1GeTpRzs2Ucm0q/view)
+
 ### 2024-03-19
 
 - [#7928](https://github.com/KATO-Hiro/AtCoderClans/pull/7928) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
