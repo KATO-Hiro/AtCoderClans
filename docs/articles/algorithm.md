@@ -162,6 +162,7 @@ title: アルゴリズムを学ぶ
 - [【競プロ】緑〜水のためのSegmentTree超入門](https://qiita.com/ZOI_dayo/items/f53122c831be78c695bc) - セグメント木に関する基本的な処理・一般化の解説とC++の実装例が紹介されている。
 - [セグメント木に変なものを乗せる](https://zenn.dev/magurofly/articles/0b3805b3614126) - 10進数や括弧列を含むクエリをセグメント木で高速に処理するための工夫が紹介されている。
 - [遅延評価セグメント木をソラで書きたいあなたに](https://tsutaj.hatenablog.com/entry/2017/03/30/224339) - 遅延評価セグメント木に関する理論と実装方法を解説した記事。前提条件として、セグメント木の理論を理解して実装できることが求められる。
+- [2次元セグメント木](https://drive.google.com/file/d/1bSjYiA-nSsHzBbCnLq1GeTpRzs2Ucm0q/view) - 二次元遅延セグメント木の更新・取得の高速な処理が、なぜ困難と考えられているかが示されている。
 
 ### Fenwick tree (BIT)
 
