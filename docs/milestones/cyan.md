@@ -4,6 +4,7 @@ title: レーティング1200〜1599(水色)
 
 ## 2024年
 
+- [AtCoderで水色になりました](https://qiita.com/Blue-Sugar/items/99c60497b470a2401e75) - [Blue_S](https://atcoder.jp/users/Blue_S)さんが、2024年3月17日に達成。
 - [AtCoder水色になりました - はるすえすしーのぶろぐ](https://halss.hatenablog.com/entry/2024/03/15/023233) - [hals](https://atcoder.jp/users/hals)さんが、2024年3月15日に公開。
 - [【色変記事】AtCoderで入水した話 by ZOI2](https://qiita.com/ZOI2/items/9acafc4153356765721a) - [Zoi2](https://atcoder.jp/users/Zoi2)さんが、2024年3月2日に達成。
 - [cyan が AtCoder で cyan になるまで](https://cyan515.github.io/blogs/records_of_activities/cyan_%E3%81%8C_AtCoder_%E3%81%A7_cyan_%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%BE%E3%81%A7.html) - [cyan0515](https://atcoder.jp/users/cyan0515)さんが、2024年2月25日に公開。
