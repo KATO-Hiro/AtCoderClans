@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-03-22
+
+- [#7948](https://github.com/KATO-Hiro/AtCoderClans/pull/7948) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[ramunen](https://atcoder.jp/users/ramunen)さんの[記事](https://qiita.com/takarada/items/84528fae2ea86b3d7685)を追加。
+- [#7947](https://github.com/KATO-Hiro/AtCoderClans/pull/7947) - (破壊的な変更) リンク切れと思われる色変記事を一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2024-03-21
 
 - [#7941](https://github.com/KATO-Hiro/AtCoderClans/pull/7941) - (破壊的な変更) リンク切れと思われる色変記事を一時的に「[Archives](../../archived)」ページに移動。
