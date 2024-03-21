@@ -256,6 +256,9 @@ title: リンク切れ
 
 ### レーティング1200〜1599(水色)
 
+- [【色変記事】AtCoder水色になりました](https://blog.powell1213.com/2023/07/23/atcoder-cyan/) - [powell](https://atcoder.jp/users/powell)さんが、2023年7月22日に達成。
+    - 確認した日: 2024/03/22
+
 - [python使ってAtCoderで水色になるまで - xkttqm's blog](https://xkttqm.hatenablog.com/entry/2021/01/17/140000) - [at12](https://atcoder.jp/users/at12)さんが、2021年1月16日に達成。
     - 確認した日: 2024/01/22
 
