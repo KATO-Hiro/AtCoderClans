@@ -276,6 +276,9 @@ title: リンク切れ
 
 ### レーティング1600〜1999(青色)
 
+- [凡人が約5年かけて青コーダーになった話 - 西懸のメモ帳](https://blog.nishigake.net/posts/irohen_blue/) - [nishigake](https://atcoder.jp/users/nishigake)さんが、2024年1月6日に達成。
+    - 確認した日: 2024/03/21
+
 - [AtCoder青色になりました](https://note.com/treewhitetree/n/ned03462f84a2) - [Medakaa](https://atcoder.jp/users/Medakaa)さんが、2021年11月21日に達成。
     - 確認した日: 2023/12/15
 
