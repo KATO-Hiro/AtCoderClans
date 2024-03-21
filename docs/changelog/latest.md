@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-03-21
+
+- [#7941](https://github.com/KATO-Hiro/AtCoderClans/pull/7941) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[Blue_S](https://atcoder.jp/users/Blue_S)さんの[記事](https://qiita.com/Blue-Sugar/items/99c60497b470a2401e75)を追加。
+
 ### 2024-03-20
 
 - [#7935](https://github.com/KATO-Hiro/AtCoderClans/pull/7935) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の資料を追加。

@@ -142,6 +142,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
 
+    2024-03-21
+
+    - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [Blue_S](https://atcoder.jp/users/Blue_S)さん - [AtCoderで水色になりました](https://qiita.com/Blue-Sugar/items/99c60497b470a2401e75)
+
     2024-03-15
 
     - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
