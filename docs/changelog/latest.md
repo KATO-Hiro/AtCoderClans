@@ -6,7 +6,8 @@ title: Change Log
 
 ### 2024-03-21
 
-- [#7941](https://github.com/KATO-Hiro/AtCoderClans/pull/7941) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+- [#7941](https://github.com/KATO-Hiro/AtCoderClans/pull/7941) - (破壊的な変更) リンク切れと思われる色変記事を一時的に「[Archives](../../archived)」ページに移動。
+- [#7939](https://github.com/KATO-Hiro/AtCoderClans/pull/7939) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
     - レーティング1200から1599まで(水色)に[Blue_S](https://atcoder.jp/users/Blue_S)さんの[記事](https://qiita.com/Blue-Sugar/items/99c60497b470a2401e75)を追加。
 
 ### 2024-03-20
