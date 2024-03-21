@@ -87,11 +87,6 @@
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
         - [【VScode + WSL / Windows】C++ 用の AtCoder 向け環境構築をしてみた。(WSL導入からGitによるソースコード管理まで)](https://yuulis.hatenablog.com/entry/atcoder-cpp-env-build)
 
-    2024-03-07
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [第一回マスターズ選手権予選・参加記](https://medium.com/karakuri/%E7%AC%AC%E4%B8%80%E5%9B%9E%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA%E4%BA%88%E9%81%B8-%E5%8F%82%E5%8A%A0%E8%A8%98-8f605012aa4a)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -110,6 +105,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2024-03-22
+
+    - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
+        - [ramunen](https://atcoder.jp/users/ramunen)さん - [文系出身エンジニアコミュニティ運営人事が競プロ歴半年で入茶しました](https://qiita.com/takarada/items/84528fae2ea86b3d7685)
 
     2024-03-21
 
