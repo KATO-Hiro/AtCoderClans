@@ -67,6 +67,11 @@
 
 === "記事"
 
+    2024-03-23
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [TUPC2023開催記](https://nononmath.hatenablog.com/entry/2024/03/20/104538)
+
     2024-03-20
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
@@ -140,24 +145,6 @@
 
     - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [Zoi2](https://atcoder.jp/users/Zoi2)さん - [【色変記事】AtCoderで入水した話 by ZOI2](https://qiita.com/ZOI2/items/9acafc4153356765721a)
-
-=== "国内外のコンテストサイト"
-
-    2024-03-08
-
-    - 「[BOJ (Baekjoon Online Judge)](related_contest_sites/boj)」ページ
-
-        - [Baekjoon Online Judge](https://www.acmicpc.net/)
-
-        - [solved.ac](https://solved.ac/en)
-
-    <div align="center">
-      <img loading = "lazy" src="images/related_contest_sites/boj/boj.png" alt="boj">
-    </div>
-
-    <div align="center">
-      <img loading = "lazy" src="images/related_contest_sites/boj/solved_ac.png" alt="solved ac">
-    </div>
 
 ## AtCoder公式グッズを購入する
 
