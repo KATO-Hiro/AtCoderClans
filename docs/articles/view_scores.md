@@ -121,6 +121,10 @@ title: コンテストに関する統計情報を見る
 - [AtCoderのレート計算式](https://qiita.com/anqooqie/items/92005e337a0d2569bdbd) - Atcoder公式が公開している[レーティングシステム (以降、原文)](https://www.dropbox.com/sh/zpgcogxmmu84rr8/AADcw6o7M9tJFDgtpqEQQ46Ua?dl=0&preview=rating.pdf)の解説を試みた記事。原文では背景知識や計算式の設計意図が大幅に省略されているため、AtCoder公式のコメントや筆者の予想で補われている。
     - [【日本語翻訳】Atcoderレーティングの計算](https://qiita.com/karutetto332/items/42c5d710de0b0545cd57) - 原文を翻訳・整形した記事。
 
+## 出力形式
+
+- [AtCoderのコンテストで出力結果「YES/NO」「yes/no」「Yes/No」の割合を調べてみた](https://qiita.com/y_ta/items/9438ec3873c77f1e6f8e) - AtCoder Beginner Contest (通称、ABC) 042〜345までのA問題・B問題を対象として、判定問題の出力形式に関する集計が行われている。
+
 ## Webデータの分析・公開に関するノウハウ
 
 - [【AtCoderを分析】Webデータを分析して公開するための基本を網羅してみた](https://qiita.com/toast-uz/items/a0d9bfb64b9d85d3aa4f) - AtCoderに関連するWebデータの分析・公開までのノウハウが実例とともに紹介されている記事。
