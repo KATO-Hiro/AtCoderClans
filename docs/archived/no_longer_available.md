@@ -315,6 +315,16 @@ title: 開発・提供終了
       <img loading = "lazy" src="../../images/chrome_extension/atcoder_marathon_score.png" alt="atcoder marathon score">
     </div>
 
+### 成績をSNSで共有
+
+- [AtCoder_Result_Tweet_Button](https://greasyfork.org/ja/scripts/370227-atcoder-result-tweet-button) - [AtCoder](https://atcoder.jp/)のユーザページに、参加したコンテスト情報をツイートするボタンを追加する。
+    - 確認した日: 2024/03/24
+    - 理由: 作者が公開を取りやめたと思われるため。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_result_tweet_button.png" alt="atcoder result tweet button">
+    </div>
+
 ## 記事
 
 ### コードを書くための環境構築を行う
