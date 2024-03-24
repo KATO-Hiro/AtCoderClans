@@ -80,12 +80,6 @@ title: ライバルを探す・競う
 
 ### 成績をSNSで共有
 
-- [AtCoder_Result_Tweet_Button](https://greasyfork.org/ja/scripts/370227-atcoder-result-tweet-button) - [AtCoder](https://atcoder.jp/)のユーザページに、参加したコンテスト情報をツイートするボタンを追加する。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcoder_result_tweet_button.png" alt="atcoder result tweet button">
-    </div>
-
 - [AtCoderCustomResultSheetShare](https://greasyfork.org/ja/scripts/454451-atcodercustomresultsheetshare) - コンテストの成績をTwitterで共有するときに、ツイートする内容をカスタマイズできる。
 
 - [Misskey share button for AtCoder](https://greasyfork.org/ja/scripts/470028-misskey-share-button-for-atcoder) - ユーザページの「コンテスト成績証」に、Misskeyで共有するためのボタンを追加する。
