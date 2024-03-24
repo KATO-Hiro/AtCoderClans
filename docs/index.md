@@ -67,6 +67,11 @@
 
 === "記事"
 
+    2024-03-24
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoderのコンテストで出力結果「YES/NO」「yes/no」「Yes/No」の割合を調べてみた](https://qiita.com/y_ta/items/9438ec3873c77f1e6f8e)
+
     2024-03-23
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
@@ -140,11 +145,6 @@
 
     - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
         - [trkwm](https://atcoder.jp/users/trkwm)さん - [[AtCoder]入緑しました！競プロ始める前~入緑までの道のり](https://qiita.com/Cecil_Ha/items/ee8b3620c87b255cf085)
-
-    2024-03-09
-
-    - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [Zoi2](https://atcoder.jp/users/Zoi2)さん - [【色変記事】AtCoderで入水した話 by ZOI2](https://qiita.com/ZOI2/items/9acafc4153356765721a)
 
 ## AtCoder公式グッズを購入する
 

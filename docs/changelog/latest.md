@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-03-24
+
+- [#7959](https://github.com/KATO-Hiro/AtCoderClans/pull/7959) - (破壊的な変更) 公開を取りやめたと思われるユーザスクリプトを一時的に「[Archives](../../archived)」ページに移動。
+    - AtCoder_Result_Tweet_Button
+- [#7955](https://github.com/KATO-Hiro/AtCoderClans/pull/7955) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下の記事を追加。
+    - [AtCoderのコンテストで出力結果「YES/NO」「yes/no」「Yes/No」の割合を調べてみた](https://qiita.com/y_ta/items/9438ec3873c77f1e6f8e)
+
 ### 2024-03-23
 
 - [#7952](https://github.com/KATO-Hiro/AtCoderClans/pull/7952) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
