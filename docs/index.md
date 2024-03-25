@@ -100,21 +100,24 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2024-03-25
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [binap](https://atcoder.jp/users/binap)さん - [Qiita](https://qiita.com/binap/)
+
     2024-03-17
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [ponjuice](https://atcoder.jp/users/ponjuice)さん - [note](https://note.com/ponjuice0)
 
-=== "動画"
-
-    2024-03-10
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [100÷9899=?（母関数・形式的べき級数入門）【ゆっくり解説】](https://www.youtube.com/watch?v=I02Obi-yXJU)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2024-03-25
+
+    - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
+        - [binap](https://atcoder.jp/users/binap)さん - [binapの入黄記事](https://qiita.com/binap/items/ec99b413e77e274116c5)
 
     2024-03-22
 
