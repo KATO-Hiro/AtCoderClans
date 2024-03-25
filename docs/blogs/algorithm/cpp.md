@@ -115,6 +115,7 @@ title: C&#43;&#43;
 |:--:|:--:|:--|
 |aajisaka|[はてなブログ](https://aajisaka.hatenablog.com/)||
 |AngrySadEight|[はてなブログ](https://angrysadeight.hatenablog.com/)||
+|binap|[Qiita](https://qiita.com/binap/)||
 |Chanyuh|[はてなブログ](https://p-chanyuh.hatenablog.com/)||
 |cookies|[はてなブログ](https://cookies.hatenablog.jp/)||
 |ctyl|[はてなブログ](https://ctylim.hatenablog.com/)|2018年1月以降、新規の記事を確認できず。|
