@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-03-25
+
+- [#7966](https://github.com/KATO-Hiro/AtCoderClans/pull/7966) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
+- [#7964](https://github.com/KATO-Hiro/AtCoderClans/pull/7964) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[binap](https://atcoder.jp/users/binap)さんの[記事](https://qiita.com/binap/items/ec99b413e77e274116c5)を追加。
+
 ### 2024-03-24
 
 - [#7959](https://github.com/KATO-Hiro/AtCoderClans/pull/7959) - (破壊的な変更) 公開を取りやめたと思われるユーザスクリプトを一時的に「[Archives](../../archived)」ページに移動。
