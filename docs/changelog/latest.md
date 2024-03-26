@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-03-26
+
+- [#7969](https://github.com/KATO-Hiro/AtCoderClans/pull/7969) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績に関連するサービス](../../web_app/services_using_scores)」ページに、以下のWebサイトを追加。
+    - [まよコン🌽 レーティング](https://mayocon.shinnshinn.dev/)
+
 ### 2024-03-25
 
 - [#7966](https://github.com/KATO-Hiro/AtCoderClans/pull/7966) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。

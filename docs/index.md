@@ -58,6 +58,17 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "Webアプリ・Webサイト"
+
+    2024-03-26
+
+    - 「[コンテストの成績に関連するサービス](web_app/services_using_scores)」ページ
+        - [まよコン🌽 レーティング](https://mayocon.shinnshinn.dev/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/mayocon_rating.png" alt="mayocon rating">
+    </div>
+
 === "ユーザスクリプト"
 
     2024-03-18
@@ -143,11 +154,6 @@
 
     - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
         - [masao_0323](https://atcoder.jp/users/masao_0323)さん - [緑になるために何をしたのか](https://qiita.com/kumasao0323/items/a10de284248cd01a8eb5)
-
-    2024-03-11
-
-    - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [trkwm](https://atcoder.jp/users/trkwm)さん - [[AtCoder]入緑しました！競プロ始める前~入緑までの道のり](https://qiita.com/Cecil_Ha/items/ee8b3620c87b255cf085)
 
 ## AtCoder公式グッズを購入する
 
