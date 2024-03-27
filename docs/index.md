@@ -71,6 +71,15 @@
 
 === "ユーザスクリプト"
 
+    2024-03-27
+
+    - 「[問題を解く](user_scripts/solve_problems)」ページ
+        - [AtCoder Scoreboard Pinner](https://greasyfork.org/ja/scripts/490663-atcoder-scoreboard-pinner)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_scoreboard_pinner.png" alt="atcoder scoreboard pinner">
+    </div>
+
     2024-03-18
 
     - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
@@ -149,11 +158,6 @@
 
     - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
         - [yoto1980yen](https://atcoder.jp/users/yoto1980yen)さん - [【色変記事】AtCoder緑色になりました【Ruby】](https://zenn.dev/yoto1980yen/articles/d894ba2233169e)
-
-    2024-03-12
-
-    - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [masao_0323](https://atcoder.jp/users/masao_0323)さん - [緑になるために何をしたのか](https://qiita.com/kumasao0323/items/a10de284248cd01a8eb5)
 
 ## AtCoder公式グッズを購入する
 

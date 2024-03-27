@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-03-27
+
+- [#7973](https://github.com/KATO-Hiro/AtCoderClans/pull/7973) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Scoreboard Pinner](https://greasyfork.org/ja/scripts/490663-atcoder-scoreboard-pinner)
+
 ### 2024-03-26
 
 - [#7969](https://github.com/KATO-Hiro/AtCoderClans/pull/7969) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績に関連するサービス](../../web_app/services_using_scores)」ページに、以下のWebサイトを追加。
