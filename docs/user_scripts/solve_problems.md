@@ -186,7 +186,7 @@ title: 問題を解く
 
 ### 配点を確認しやすいように配置
 
-- [AtCoder Scoreboard Pinner](https://greasyfork.org/ja/scripts/490663-atcoder-scoreboard-pinner) - 各コンテストの「トップ」ページから、問題の配点を確認しやすいようにする。
+- [AtCoder Scoreboard Pinner](https://greasyfork.org/ja/scripts/490663-atcoder-scoreboard-pinner) - 各コンテストの「トップ」ページから、問題の配点を確認しやすくする。
 
     <div align="center">
       <img loading="lazy" src="../../images/userscript/atcoder_scoreboard_pinner.png" alt="atcoder scoreboard pinner">
