@@ -184,6 +184,14 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/atcodertags_hint.png" alt="atcodertags hint">
     </div>
 
+### 配点を確認しやすいように配置
+
+- [AtCoder Scoreboard Pinner](https://greasyfork.org/ja/scripts/490663-atcoder-scoreboard-pinner) - 各コンテストの「トップ」ページから、問題の配点を確認しやすくする。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_scoreboard_pinner.png" alt="atcoder scoreboard pinner">
+    </div>
+
 ### 配点を隠す
 
 - [AtCoderScoreHider](https://greasyfork.org/ja/scripts/371898-atcoderscorehider) - 「提出」ページなどの配点を隠す。日本語版のみ対応。
