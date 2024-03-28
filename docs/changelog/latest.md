@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-03-28
+
+- [#7979](https://github.com/KATO-Hiro/AtCoderClans/pull/7979) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[orangekid](https://atcoder.jp/users/orangekid)さんの[記事](https://note.com/orangekid1210/n/n70d627b13646)を追加。
+
 ### 2024-03-27
 
 - [#7973](https://github.com/KATO-Hiro/AtCoderClans/pull/7973) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。

@@ -112,11 +112,6 @@
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
         - [フォルシア競プロ部発足！活動レポート](https://www.forcia.com/blog/002879.html)
 
-    2024-03-13
-
-    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
-        - [【VScode + WSL / Windows】C++ 用の AtCoder 向け環境構築をしてみた。(WSL導入からGitによるソースコード管理まで)](https://yuulis.hatenablog.com/entry/atcoder-cpp-env-build)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -133,6 +128,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2024-03-28
+
+    - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
+        - [orangekid](https://atcoder.jp/users/orangekid)さん - [【入茶記事】ABC346で入茶しました！](https://note.com/orangekid1210/n/n70d627b13646)
 
     2024-03-25
 
