@@ -4,6 +4,7 @@ title: レーティング400〜799(茶色)
 
 ## 2024年
 
+- [【入茶記事】ABC346で入茶しました！](https://note.com/orangekid1210/n/n70d627b13646) - [orangekid](https://atcoder.jp/users/orangekid)さんが、2024年3月23日に達成。
 - [文系出身エンジニアコミュニティ運営人事が競プロ歴半年で入茶しました](https://qiita.com/takarada/items/84528fae2ea86b3d7685) - [ramunen](https://atcoder.jp/users/ramunen)さんが、2024年3月16日に達成。
 - [色変記事&半年間競技プログラミングをやってみて良かったこと](https://qiita.com/kanekanekaneko/items/a86d7497d9dffd91fd7f) - [aro](https://atcoder.jp/users/aro)さんが、2024年1月27日に達成。
 - [基本情報を持ってれば入茶できるからみんなAtCoder始めようぜ](https://note.com/empty845/n/n7117f2c317bc) - [kana_nu00](https://atcoder.jp/users/kana_nu00)さんが、2024年1月14日に達成。
