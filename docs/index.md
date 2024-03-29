@@ -87,6 +87,11 @@
 
 === "記事"
 
+    2024-03-29
+
+    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
+        - [日本最大のプログラミングコンテストサイト AtCoder　全世界での登録者数が60万人を突破！](https://prtimes.jp/main/html/rd/p/000000046.000028415.html)
+
     2024-03-24
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -153,11 +158,6 @@
 
     - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [hals](https://atcoder.jp/users/hals)さん - [AtCoder水色になりました - はるすえすしーのぶろぐ](https://halss.hatenablog.com/entry/2024/03/15/023233)
-
-    2024-03-14
-
-    - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [yoto1980yen](https://atcoder.jp/users/yoto1980yen)さん - [【色変記事】AtCoder緑色になりました【Ruby】](https://zenn.dev/yoto1980yen/articles/d894ba2233169e)
 
 ## AtCoder公式グッズを購入する
 
