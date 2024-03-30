@@ -87,6 +87,11 @@
 
 === "記事"
 
+    2024-03-30
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [UTPC2023 開催記](https://chineristac.hatenablog.com/entry/2024/03/27/011633)
+
     2024-03-29
 
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
@@ -153,11 +158,6 @@
 
     - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [Blue_S](https://atcoder.jp/users/Blue_S)さん - [AtCoderで水色になりました](https://qiita.com/Blue-Sugar/items/99c60497b470a2401e75)
-
-    2024-03-15
-
-    - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [hals](https://atcoder.jp/users/hals)さん - [AtCoder水色になりました - はるすえすしーのぶろぐ](https://halss.hatenablog.com/entry/2024/03/15/023233)
 
 ## AtCoder公式グッズを購入する
 
