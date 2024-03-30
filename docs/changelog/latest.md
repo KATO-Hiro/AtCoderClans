@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-03-30
+
+- [#7987](https://github.com/KATO-Hiro/AtCoderClans/pull/7987) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
+    - [UTPC2023 開催記](https://chineristac.hatenablog.com/entry/2024/03/27/011633)
+
 ### 2024-03-29
 
 - [#7984](https://github.com/KATO-Hiro/AtCoderClans/pull/7984) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の記事を追加。
