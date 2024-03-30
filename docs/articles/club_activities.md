@@ -4,8 +4,8 @@ title: 部活・サークル・同好会・オンサイトイベントに参加�
 
 ## 中学生・高校生
 
-- [42nd KCLC](https://kclc-kaisei.github.io/index.html) - Kaisei Computer Lovers' Club (KCLC)の有志によって作成された公式ホームページ。活動内容の紹介や新入生向けの学習教材が用意されている。
-- [Paken for beginners](https://tkpaken.github.io/beginners/) - 筑波大附属駒場中・高等学校の「中高パーソナル・コンピューター研究部(通称、Paken)」の新入生に向けて、部活の雰囲気やプログラミングの基礎を紹介している。
+- [KCLC Course Page](https://kclc-kaisei.github.io/index.html) - Kaisei Computer Lovers' Club (KCLC)の有志によって作成された公式ホームページ。活動内容の紹介や新入生向けの学習教材が用意されている。
+- [Introduction to Paken](https://tkpaken.github.io/beginners/) - 筑波大附属駒場中・高等学校の「中高パーソナル・コンピューター研究部(通称、Paken)」の新入生に向けて、部活の雰囲気やプログラミングの基礎を紹介している。
 
 ## 大学生・大学院生
 
@@ -16,7 +16,7 @@ title: 部活・サークル・同好会・オンサイトイベントに参加�
 
 ## 社会人
 
-- [競技プログラミング部活動をはじめました - MMM公式ブログ](https://blog.mmmcorp.co.jp/blog/2020/12/26/competitive-programming-club/) - 株式会社MMMの「競技プログラミング部」に関する記事。部活動を始めたきっかけ、活動内容、部活動によるメリット、社内制度が紹介されている。
+- [競技プログラミング部活動をはじめました - デロイト トーマツ リスクサービス公式ブログ](https://blog.mmmcorp.co.jp/blog/2020/12/26/competitive-programming-club/) - デロイト トーマツ リスクサービス株式会社(旧 株式会社MMM)の「競技プログラミング部」に関する記事。部活動を始めたきっかけ、活動内容、部活動によるメリット、社内制度が紹介されている。
 - [競プロ部の紹介](https://note.com/t_fuki889/n/nc4ecec3265e2) - [株式会社オプティマインド](https://www.optimind.tech/)の競プロ部の活動内容(メンバー・社内バーチャルコンテスト・勉強会など)を紹介した記事。
 - [フォルシア競プロ部発足！活動レポート](https://www.forcia.com/blog/002879.html) - [フォルシア株式会社](https://www.forcia.com/)の競技プログラミング部の活動内容(部活動の誕生の経緯、勉強会、オンサイトコンテスト)が紹介されている。
     - [「ゆるふわ競技プログラミングオンサイト at FORCIA #2」を開催しました](https://www.forcia.com/blog/001393.html) - 初級〜中級競技プログラマを対象としたオンサイトイベントについて、主催者がイベント当日の内容・感想をまとめている。
