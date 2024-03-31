@@ -117,11 +117,6 @@
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
         - [rng_58がおすすめする練習の仕方 - 茶色になるために](https://info.atcoder.jp/entry/2024/03/18/160342)
 
-    2024-03-16
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-        - [フォルシア競プロ部発足！活動レポート](https://www.forcia.com/blog/002879.html)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -134,6 +129,13 @@
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [ponjuice](https://atcoder.jp/users/ponjuice)さん - [note](https://note.com/ponjuice0)
+
+=== "動画"
+
+    2024-03-31
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [【ゆっくり解説】尺取り法と二分探索の「本当の」違い](https://www.youtube.com/watch?v=omD-yyb730k)
 
 === "色変記事"
 

@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-03-31
+
+- [#7992](https://github.com/KATO-Hiro/AtCoderClans/pull/7992) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [【ゆっくり解説】尺取り法と二分探索の「本当の」違い](https://www.youtube.com/watch?v=omD-yyb730k)
+
 ### 2024-03-30
 
 - [#7987](https://github.com/KATO-Hiro/AtCoderClans/pull/7987) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
