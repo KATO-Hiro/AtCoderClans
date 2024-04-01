@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-04-01
+
+- [#7999](https://github.com/KATO-Hiro/AtCoderClans/pull/7999) - 「[Milestones](../../milestones/orange)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2400から2799まで(橙色)に[shobonvip](https://atcoder.jp/users/shobonvip)さんの[記事](https://shobon2019.hatenablog.com/entry/2024/04/01/103336)を追加。
+
 ### 2024-03-31
 
 - [#7992](https://github.com/KATO-Hiro/AtCoderClans/pull/7992) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。

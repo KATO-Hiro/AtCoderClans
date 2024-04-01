@@ -125,11 +125,6 @@
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [binap](https://atcoder.jp/users/binap)さん - [Qiita](https://qiita.com/binap/)
 
-    2024-03-17
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [ponjuice](https://atcoder.jp/users/ponjuice)さん - [note](https://note.com/ponjuice0)
-
 === "動画"
 
     2024-03-31
@@ -140,6 +135,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2024-04-01
+
+    - 「[アルゴリズム部門 - レーティング2400〜2799(橙色)](milestones/orange)」ページ
+        - [shobonvip](https://atcoder.jp/users/shobonvip)さん - [AtCoder 黄色になりました！（橙→黄になっただけなので中身は入橙記事） - しょぼんブログ](https://shobon2019.hatenablog.com/entry/2024/04/01/103336)
 
     2024-03-28
 
