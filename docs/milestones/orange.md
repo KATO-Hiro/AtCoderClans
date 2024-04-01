@@ -9,6 +9,7 @@ title: レーティング2400〜2799(橙色)
 
 ### アルゴリズム部門
 
+- [AtCoder 黄色になりました！（橙→黄になっただけなので中身は入橙記事） - しょぼんブログ](https://shobon2019.hatenablog.com/entry/2024/04/01/103336) - [shobonvip](https://atcoder.jp/users/shobonvip)さんが、2024年4月1日に公開。
 - [橙コーダーになりました. - 仮のブログ](https://karinohito.hatenablog.com/entry/2024/02/19/080635) - [karinohito](https://atcoder.jp/users/karinohito)さんが、2024年2月18日に達成。
 - [【色変記事】AtCoder橙になりました - MtSakaのブログ](https://mt-saka.hatenablog.com/entry/2024/02/19/161655) - [MtSaka](https://atcoder.jp/users/MtSaka)さんが、2024年2月18日に達成。
 
