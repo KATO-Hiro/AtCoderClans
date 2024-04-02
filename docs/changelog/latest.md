@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-04-02
+
+- [#8004](https://github.com/KATO-Hiro/AtCoderClans/pull/8004) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[raspberry1729](https://atcoder.jp/users/raspberry1729)さんの[記事](https://qiita.com/raspberry1729/items/7d09fc03c2be5a1447b9)を追加。
+
 ### 2024-04-01
 
 - [#7999](https://github.com/KATO-Hiro/AtCoderClans/pull/7999) - 「[Milestones](../../milestones/orange)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

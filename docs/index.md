@@ -136,6 +136,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
 
+    2024-04-02
+
+    - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [raspberry1729](https://atcoder.jp/users/raspberry1729)さん - [【AtCoder】プログラミングを始めて3ヶ月でAtCoderで入緑しました](https://qiita.com/raspberry1729/items/7d09fc03c2be5a1447b9)
+
     2024-04-01
 
     - 「[アルゴリズム部門 - レーティング2400〜2799(橙色)](milestones/orange)」ページ
