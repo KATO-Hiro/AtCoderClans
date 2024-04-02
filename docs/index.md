@@ -80,11 +80,6 @@
       <img loading="lazy" src="images/userscript/atcoder_scoreboard_pinner.png" alt="atcoder scoreboard pinner">
     </div>
 
-    2024-03-18
-
-    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
-        - [Style Fixes for AtCoder](https://greasyfork.org/ja/scripts/489300-style-fixes-for-atcoder)
-
 === "記事"
 
     2024-03-30
