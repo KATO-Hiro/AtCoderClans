@@ -80,11 +80,6 @@
       <img loading="lazy" src="images/userscript/atcoder_scoreboard_pinner.png" alt="atcoder scoreboard pinner">
     </div>
 
-    2024-03-18
-
-    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
-        - [Style Fixes for AtCoder](https://greasyfork.org/ja/scripts/489300-style-fixes-for-atcoder)
-
 === "記事"
 
     2024-03-30
@@ -135,6 +130,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
+
+    2024-04-02
+
+    - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [raspberry1729](https://atcoder.jp/users/raspberry1729)さん - [【AtCoder】プログラミングを始めて3ヶ月でAtCoderで入緑しました](https://qiita.com/raspberry1729/items/7d09fc03c2be5a1447b9)
 
     2024-04-01
 
