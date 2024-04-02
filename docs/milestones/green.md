@@ -4,6 +4,7 @@ title: レーティング800〜1199(緑色)
 
 ## 2024年
 
+- [【AtCoder】プログラミングを始めて3ヶ月でAtCoderで入緑しました](https://qiita.com/raspberry1729/items/7d09fc03c2be5a1447b9) - [raspberry1729](https://atcoder.jp/users/raspberry1729)さんが、2024年3月31日に公開。
 - [[AtCoder]入緑しました！競プロ始める前~入緑までの道のり](https://qiita.com/Cecil_Ha/items/ee8b3620c87b255cf085) - [trkwm](https://atcoder.jp/users/trkwm)さんが、2024年3月11日に公開。
 - [【色変記事】AtCoder緑色になりました【Ruby】](https://zenn.dev/yoto1980yen/articles/d894ba2233169e) - [yoto1980yen](https://atcoder.jp/users/yoto1980yen)さんが、2024年3月9日に達成。
 - [緑になるために何をしたのか](https://qiita.com/kumasao0323/items/a10de284248cd01a8eb5) - [masao_0323](https://atcoder.jp/users/masao_0323)さんが、2024年3月9日に達成。
