@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-04-03
+
+- [#8010](https://github.com/KATO-Hiro/AtCoderClans/pull/8010) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [MC Digital プログラミングコンテスト2024（AtCoder Heuristic Contest 031）参加記](https://kaede2020.hatenablog.com/entry/2024/04/01/190115)
+
 ### 2024-04-02
 
 - [#8004](https://github.com/KATO-Hiro/AtCoderClans/pull/8004) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
