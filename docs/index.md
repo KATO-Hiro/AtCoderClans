@@ -82,6 +82,11 @@
 
 === "記事"
 
+    2024-04-03
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [MC Digital プログラミングコンテスト2024（AtCoder Heuristic Contest 031）参加記](https://kaede2020.hatenablog.com/entry/2024/04/01/190115)
+
     2024-03-30
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
@@ -106,11 +111,6 @@
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [2次元セグメント木](https://drive.google.com/file/d/1bSjYiA-nSsHzBbCnLq1GeTpRzs2Ucm0q/view)
-
-    2024-03-19
-
-    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
-        - [rng_58がおすすめする練習の仕方 - 茶色になるために](https://info.atcoder.jp/entry/2024/03/18/160342)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
