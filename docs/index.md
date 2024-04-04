@@ -107,13 +107,14 @@
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
         - [TUPC2023開催記](https://nononmath.hatenablog.com/entry/2024/03/20/104538)
 
-    2024-03-20
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [2次元セグメント木](https://drive.google.com/file/d/1bSjYiA-nSsHzBbCnLq1GeTpRzs2Ucm0q/view)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2024-04-04
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [tokoharu](https://atcoder.jp/users/tokoharu)さん - [はてなブログ](https://tokoharuland.hateblo.jp/)
+        - [starpentagon](https://atcoder.jp/users/starpentagon)さん - [自作ブログ](https://starpentagon.net/analytics/category/%e7%ab%b6%e6%8a%80%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0/)
 
     2024-03-25
 
