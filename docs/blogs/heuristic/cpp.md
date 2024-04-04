@@ -40,6 +40,7 @@ title: C&#43;&#43;
 |Nyaan|[はてなブログ](https://nyaan.hatenablog.com/)||
 |risujiroh|[はてなブログ](https://risujiroh.hatenablog.com/)||
 |shibh308|[はてなブログ](https://shibh308.hatenablog.com/)||
+|tokoharu|[はてなブログ](https://tokoharuland.hateblo.jp/)|2020年1月以降、新規の記事を確認できず。|
 |ValGrowth|[はてなブログ](https://valgrowth.hatenablog.com/archive)||
 |wanui|[Zenn](https://zenn.dev/gmeriaog)||
 |yosupo|[はてなブログ](https://yosupo.hatenablog.com/)||
@@ -81,10 +82,10 @@ title: C&#43;&#43;
 |shotoyoo|[Qiita](https://qiita.com/shotoyoo)||
 |sky58|[はてなブログ](https://topcoder-g-hatena-ne-jp.jag-icpc.org/skyaozora/)||
 |ssaattoo|[はてなブログ](https://ssaattoo.hatenablog.com/)||
+|starpentagon|[自作ブログ](https://starpentagon.net/analytics/category/%e7%ab%b6%e6%8a%80%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0/)||
 |tempura0224|[はてなブログ](https://tempura0224.hatenablog.com/)||
 |theory_and_me|[はてなブログ](https://theory-and-me.hatenablog.com/)||
 |through|[Zenn](https://zenn.dev/through)||
-|tokoharu|[はてなブログ](https://tokoharuland.hateblo.jp/)|2020年1月以降、新規の記事を確認できず。|
 |Trineutron|[Qiita](https://qiita.com/trineutron)||
 |tsukasa_diary|[Qiita](https://qiita.com/tsukasa__diary)||
 |YamagenSakam|[はてなブログ](https://yamagensakam.hatenablog.com/)||
