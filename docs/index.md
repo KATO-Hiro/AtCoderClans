@@ -132,6 +132,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事のことです。
 
+    2024-04-05
+
+    - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [shinnshinn](https://atcoder.jp/users/shinnshinn)さん - [AtCoderで青色になったので記事を書いてみる](https://www.ochappa.net/posts/atc-blue)
+
     2024-04-02
 
     - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
@@ -156,11 +161,6 @@
 
     - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
         - [ramunen](https://atcoder.jp/users/ramunen)さん - [文系出身エンジニアコミュニティ運営人事が競プロ歴半年で入茶しました](https://qiita.com/takarada/items/84528fae2ea86b3d7685)
-
-    2024-03-21
-
-    - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [Blue_S](https://atcoder.jp/users/Blue_S)さん - [AtCoderで水色になりました](https://qiita.com/Blue-Sugar/items/99c60497b470a2401e75)
 
 ## AtCoder公式グッズを購入する
 
