@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-04-05
+
+- [#8017](https://github.com/KATO-Hiro/AtCoderClans/pull/8017) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[shinnshinn](https://atcoder.jp/users/shinnshinn)さんの[記事](https://www.ochappa.net/posts/atc-blue)を追加。
+
 ### 2024-04-04
 
 - [#8013](https://github.com/KATO-Hiro/AtCoderClans/pull/8013) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
