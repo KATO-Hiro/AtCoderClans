@@ -43,6 +43,12 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/web_app/atcoder_gacha.png" alt="atcoder gacha">
     </div>
 
+- [AtCoder NoviSteps](https://atcoder-novisteps.vercel.app/) - 問題の取組み状況(AC、解説AC、挑戦中、未挑戦)を自分で記録していくことができる。また、細かく難易度付けされており、必要な知識を段階的に習得可能。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_novisteps.png" alt="atcoder novisteps">
+    </div>
+
 - [AtCoder Search](https://atcoder-search.fjnkt98.com/) - 条件(コンテストのカテゴリや難易度など)を指定して問題、ソースコードの提出結果(過去1か月以内)を検索できる。
 
     <div align="center">
