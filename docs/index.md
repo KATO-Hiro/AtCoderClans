@@ -60,6 +60,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2024-04-06
+
+    - 「[問題を解く](web_app/solve_problems)」ページ
+        - [AtCoder NoviSteps](https://atcoder-novisteps.vercel.app/)
+
+    <div align="center">
+      <img loading = "lazy" src="images/web_app/atcoder_novisteps.png" alt="atcoder novisteps">
+    </div>
+
     2024-03-26
 
     - 「[コンテストの成績に関連するサービス](web_app/services_using_scores)」ページ
@@ -156,11 +165,6 @@
 
     - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
         - [binap](https://atcoder.jp/users/binap)さん - [binapの入黄記事](https://qiita.com/binap/items/ec99b413e77e274116c5)
-
-    2024-03-22
-
-    - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
-        - [ramunen](https://atcoder.jp/users/ramunen)さん - [文系出身エンジニアコミュニティ運営人事が競プロ歴半年で入茶しました](https://qiita.com/takarada/items/84528fae2ea86b3d7685)
 
 ## AtCoder公式グッズを購入する
 
