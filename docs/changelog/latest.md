@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-04-06
+
+- [#8024](https://github.com/KATO-Hiro/AtCoderClans/pull/8024) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のWebアプリを追加。
+    - [AtCoder NoviSteps](https://atcoder-novisteps.vercel.app/)
+
 ### 2024-04-05
 
 - [#8017](https://github.com/KATO-Hiro/AtCoderClans/pull/8017) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
