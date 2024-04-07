@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-04-07
+
+- [#8027](https://github.com/KATO-Hiro/AtCoderClans/pull/8027) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[sinzyousan](https://atcoder.jp/users/sinzyousan)さんの[動画](https://www.youtube.com/watch?v=eOUXJ_KP9xg)を追加。
+
 ### 2024-04-06
 
 - [#8024](https://github.com/KATO-Hiro/AtCoderClans/pull/8024) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のWebアプリを追加。
