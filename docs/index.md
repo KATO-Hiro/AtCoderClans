@@ -111,11 +111,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoderのコンテストで出力結果「YES/NO」「yes/no」「Yes/No」の割合を調べてみた](https://qiita.com/y_ta/items/9438ec3873c77f1e6f8e)
 
-    2024-03-23
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-        - [TUPC2023開催記](https://nononmath.hatenablog.com/entry/2024/03/20/104538)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
