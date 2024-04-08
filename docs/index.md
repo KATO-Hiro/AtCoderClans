@@ -58,6 +58,13 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "入門者・初心者向けの内容"
+
+    2024-04-08
+
+    - 「[Q1: アルゴリズムや競技プログラミングに興味はありますが、何から始めたらいいですか?](for_beginners/question1)」ページ
+        - [Python入門 AtCoder Programming Guide for beginners (APG4bPython)](https://atcoder.jp/contests/APG4bPython)
+
 === "Webアプリ・Webサイト"
 
     2024-04-06
@@ -90,6 +97,11 @@
     </div>
 
 === "記事"
+
+    2024-04-08
+
+    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
+        - [Python入門 AtCoder Programming Guide for beginners (APG4bPython)](https://atcoder.jp/contests/APG4bPython)
 
     2024-04-03
 
