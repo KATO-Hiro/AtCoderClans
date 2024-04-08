@@ -6,11 +6,16 @@ A1: 入門者、初心者向けの教材や記事を読んでみましょう。[
 
 ## プログラミングの基礎を学ぶ
 
-- [C++入門 AtCoder Programming Guide for beginners (APG4b)](https://atcoder.jp/contests/APG4b) - 公式が提供する汎用的なプログラミングの基礎を学ぶための入門教材です。また、知識の定着を図るための練習問題と自分で書いたプログラムを自動で採点してくれるシステムがあるのが大きな特徴です。また、有志により[Fortran版](https://qiita.com/jj1guj/items/43a1c876360ddf180f1f)、[Python版](https://qiita.com/saba/items/b9418d7b54cce4b106e4)、[Rust版](https://zenn.dev/toga/books/rust-atcoder)も作成・公開されています。
+- [C++入門 AtCoder Programming Guide for beginners (APG4b)](https://atcoder.jp/contests/APG4b) - 公式が提供する汎用的なプログラミングの基礎を学ぶための入門教材です。また、知識の定着を図るための練習問題と自分で書いたプログラムを自動で採点してくれるシステムがあるのが大きな特徴です。また、公式や有志により、複数の言語で同等の内容の教材が作成・公開されています。
+    - [Python版 (公式)](https://atcoder.jp/contests/APG4bPython)
+    - [Python版 (有志)](https://qiita.com/saba/items/b9418d7b54cce4b106e4)
+    - [Rust版 (有志)](https://zenn.dev/toga/books/rust-atcoder)
+    - [Fortran版 (有志)](https://qiita.com/jj1guj/items/43a1c876360ddf180f1f)
 
     <div align="center">
       <img loading = "lazy" src="../../images/official/home_apg4b.png" alt="atcoder problems">
     </div>
+
 
 - [アルゴ式](https://algo-method.com/) - プログラミングを道具として利用しながら、論理的思考力やコーディング力を身につけることができるWebサービスです。[公式アカウント](https://twitter.com/algo_method)も用意されています。
 
