@@ -58,6 +58,13 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "入門者・初心者向けの内容"
+
+    2024-04-08
+
+    - 「[Q1: アルゴリズムや競技プログラミングに興味はありますが、何から始めたらいいですか?](for_beginners/question1)」ページ
+        - [Python入門 AtCoder Programming Guide for beginners (APG4bPython)](https://atcoder.jp/contests/APG4bPython)
+
 === "Webアプリ・Webサイト"
 
     2024-04-06
@@ -91,6 +98,11 @@
 
 === "記事"
 
+    2024-04-08
+
+    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
+        - [Python入門 AtCoder Programming Guide for beginners (APG4bPython)](https://atcoder.jp/contests/APG4bPython)
+
     2024-04-03
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -105,11 +117,6 @@
 
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
         - [日本最大のプログラミングコンテストサイト AtCoder　全世界での登録者数が60万人を突破！](https://prtimes.jp/main/html/rd/p/000000046.000028415.html)
-
-    2024-03-24
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoderのコンテストで出力結果「YES/NO」「yes/no」「Yes/No」の割合を調べてみた](https://qiita.com/y_ta/items/9438ec3873c77f1e6f8e)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
