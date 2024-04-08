@@ -89,6 +89,7 @@ title: 入門者・初心者向けの内容
 
 #### Python
 
+- [Python入門 AtCoder Programming Guide for beginners (APG4bPython)](https://atcoder.jp/contests/APG4bPython) - [AtCoder](https://atcoder.jp/)が提供している、Pythonで競技プログラミングを始める人向けの入門教材。
 - [【Python版】AtCoder を始めた方必見！とりあえず見てください！](https://qiita.com/ryusuke920/items/4a3bf6cd07d4df39c06e) - [AtCoder](https://atcoder.jp/)およびPythonを始めた人に向けて書かれた記事。競技プログラミングの概要、コンテストの種類と難易度、Pythonにおける標準的な入出力、過去問のサンプル、筆者のおすすめのWebサービス・ツールなどについて紹介されている記事。
     - [AtCoderで始めるPython入門](https://qiita.com/KoyanagiHitoshi/items/3286fbc65d56dd67737c) - [AtCoder](https://atcoder.jp/)で開催されているAtCoder Beginner Contest (ABC)のA問題、B問題をPython(3.8.2)で解くための解説記事。
 
