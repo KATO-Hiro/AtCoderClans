@@ -121,16 +121,20 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2024-04-09
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [heno239](https://atcoder.jp/users/heno239)さん - [はてなブログ](https://heno239.hatenablog.com/)
+        - [E869120](https://atcoder.jp/users/E869120)さん - [はてなブログ](https://e869120.hatenablog.com/)、[Qiita](https://qiita.com/e869120)
+        - [hitoare](https://atcoder.jp/users/hitoare)さん - [はてなブログ](https://hitoare.hatenablog.com/)
+        - [Nachia](https://atcoder.jp/users/Nachia)さん - [Qiita](https://qiita.com/Nachia)
+        - [nok0](https://atcoder.jp/users/)さん - [はてなブログ](https://tsuchi.hateblo.jp/)
+
     2024-04-04
 
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
         - [tokoharu](https://atcoder.jp/users/tokoharu)さん - [はてなブログ](https://tokoharuland.hateblo.jp/)
         - [starpentagon](https://atcoder.jp/users/starpentagon)さん - [自作ブログ](https://starpentagon.net/analytics/category/%e7%ab%b6%e6%8a%80%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0/)
-
-    2024-03-25
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [binap](https://atcoder.jp/users/binap)さん - [Qiita](https://qiita.com/binap/)
 
 === "動画"
 
@@ -142,6 +146,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2024-04-09
+
+    - 「[アルゴリズム部門 - レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
+        - [simasima](https://atcoder.jp/users/simasima)さん - [AtCoder赤・銅冠になりました【入赤記事】](https://mathlog.info/articles/ohb2RJIi8sZ1i62kxNDz)
 
     2024-04-07
 
@@ -167,11 +176,6 @@
 
     - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
         - [orangekid](https://atcoder.jp/users/orangekid)さん - [【入茶記事】ABC346で入茶しました！](https://note.com/orangekid1210/n/n70d627b13646)
-
-    2024-03-25
-
-    - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
-        - [binap](https://atcoder.jp/users/binap)さん - [binapの入黄記事](https://qiita.com/binap/items/ec99b413e77e274116c5)
 
 ## AtCoder公式グッズを購入する
 

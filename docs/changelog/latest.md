@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-04-09
+
+- [#8039](https://github.com/KATO-Hiro/AtCoderClans/pull/8039) - 「[Milestones](../../milestones/red)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2800以上(赤色、銅王冠、銀王冠、金王冠)に[simasima](https://atcoder.jp/users/simasima)さんの[記事](https://mathlog.info/articles/ohb2RJIi8sZ1i62kxNDz)を追加。
+- [#8038](https://github.com/KATO-Hiro/AtCoderClans/pull/8038) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+
 ### 2024-04-08
 
 - [#8034](https://github.com/KATO-Hiro/AtCoderClans/pull/8034) - 「[For Beginners](../../for_beginners)」の「[Q1: アルゴリズムや競技プログラミングに興味はありますが、何から始めたらいいですか?](../../for_beginners/question1)」ページと「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の教材を追加。
