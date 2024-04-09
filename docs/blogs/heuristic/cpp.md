@@ -9,6 +9,7 @@ title: C&#43;&#43;
 |bowwowforeach|[はてなブログ](https://bowwowforeach.hatenablog.com/)||
 |eijirou|[はてなブログ](https://eijirou-kyopro.hatenablog.com/)||
 |eivour|[Qiita](https://qiita.com/contramundum)||
+|heno239|[はてなブログ](https://heno239.hatenablog.com/)||
 |hitonanode|[はてなブログ](https://rsm9.hatenablog.com/)||
 |Jirotech|[はてなブログ](https://shuu0914.hatenablog.com/)||
 |mtsd|[はてなブログ](https://mtsd-programming.hatenablog.com/)||
@@ -30,9 +31,10 @@ title: C&#43;&#43;
 |ats5515|[はてなブログ](https://ats5515.hatenablog.com/)||
 |bin101|[はてなブログ](https://bin101.hatenablog.com/)||
 |ebicochineal|[自作ブログ](http://ebicochineal.blogspot.com/)||
+|E869120|[はてなブログ](https://e869120.hatenablog.com/)、[Qiita](https://qiita.com/e869120)||
 |gasin|[はてなブログ](https://gasin.hatenadiary.jp/)||
 |hamamu|[Qiita](https://qiita.com/hamamu)||
-|heno239|[はてなブログ](https://heno239.hatenablog.com/)||
+|hitoare|[はてなブログ](https://hitoare.hatenablog.com/)||
 |iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
 |kozima|[はてなブログ](https://lkozima.hatenablog.com/)||
 |LayCurse|[自作ブログ](http://rsujskf.s602.xrea.com/)||
@@ -52,12 +54,10 @@ title: C&#43;&#43;
 |:--:|:--:|:--|
 |birdwatcher|[Qiita](https://qiita.com/birdwatcher)||
 |colun|[自作ブログ](http://www.colun.net/blog)|2016年10月以降、新規の記事を確認できず。|
-|E869120|[はてなブログ](https://e869120.hatenablog.com/)、[Qiita](https://qiita.com/e869120)||
 |ganmodokix|[はてなブログ](https://aprilganmo.hatenablog.com/)||
 |hakomo|[はてなブログ](https://hakomof.hatenablog.com/)||
 |hari64|[Qiita](https://qiita.com/hari64)||
 |hirokazu1020|[はてなブログ](https://hirokazu1020.hatenablog.com/)||
-|hitoare|[はてなブログ](https://hitoare.hatenablog.com/)||
 |hogloid|[はてなブログ](https://hogloid.hatenablog.com/)||
 |itigo|[はてなブログ](https://ichigokunn.hatenablog.com/)||
 |kotamanegi|[はてなブログ](https://kotamanegi.hatenablog.com/)||
@@ -66,7 +66,9 @@ title: C&#43;&#43;
 |merom686|[はてなブログ](https://merom686.hatenablog.com/)||
 |milkcoffee|[はてなブログ](https://milkcoffee.hatenablog.jp/)||
 |m_buyoh|[はてなブログ](https://buyoh.hateblo.jp/)||
+|Nachia|[Qiita](https://qiita.com/Nachia)||
 |niuez|[GitHub Pages](https://niuez.github.io/)||
+|nok0|[はてなブログ](https://tsuchi.hateblo.jp/)||
 |olphe|[はてなブログ](https://olphe.hatenablog.com/)||
 |Omotchi|[はてなブログ](https://omotchi.hateblo.jp/)||
 |phyllo|[GitHub Pages](https://jetbead.github.io/AtCoderHeuristicContestMemo/)||
