@@ -26,6 +26,11 @@ title: 解説を読む・テストケースを見る
 
 ### 該当ページに移動
 
+- [Atcoder Easy Jump](https://greasyfork.org/ja/scripts/491701-atcoder-easy-jump) - 外部リンクへ移動するときに表示される警告画面を省略する。
+
+    !!! warning "注意"
+        外部リンクへ直接移動するリスクを理解した上で導入することを推奨。
+
 - [AtCoder Traffic Light](https://greasyfork.org/ja/scripts/420136-atcoder-traffic-light) - 「問題」ページから、直接解説ページに移動できる。また、解説ボタンの色が読み込み状況に応じて変化する。
 
     <div align="center">
