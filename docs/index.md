@@ -76,16 +76,12 @@
       <img loading = "lazy" src="images/web_app/atcoder_novisteps.png" alt="atcoder novisteps">
     </div>
 
-    2024-03-26
-
-    - 「[コンテストの成績に関連するサービス](web_app/services_using_scores)」ページ
-        - [まよコン🌽 レーティング](https://mayocon.shinnshinn.dev/)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/mayocon_rating.png" alt="mayocon rating">
-    </div>
-
 === "ユーザスクリプト"
+
+    2024-04-10
+
+    - 「[解説を読む・テストケースを見る](user_scripts/read_editorials)」ページ
+        - [Atcoder Easy Jump](https://greasyfork.org/ja/scripts/491701-atcoder-easy-jump)
 
     2024-03-27
 

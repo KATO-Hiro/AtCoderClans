@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-04-10
+
+- [#8042](https://github.com/KATO-Hiro/AtCoderClans/pull/8042) - 「[Scripts](../../scripts)」の「[解説を読む・テストケースを見る](../../user_scripts/read_editorials)」ページに、以下のユーザスクリプトを追加。
+    - [Atcoder Easy Jump](https://greasyfork.org/ja/scripts/491701-atcoder-easy-jump)
+
 ### 2024-04-09
 
 - [#8039](https://github.com/KATO-Hiro/AtCoderClans/pull/8039) - 「[Milestones](../../milestones/red)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
