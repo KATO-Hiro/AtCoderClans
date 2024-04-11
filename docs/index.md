@@ -58,6 +58,14 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "ホーム"
+
+    2024-04-11
+
+    本サービスのスポンサーを掲載(敬称略)。ご支援いただき、ありがとうございます。
+
+    - [KoyanagiHitoshi](https://github.com/KoyanagiHitoshi)
+
 === "入門者・初心者向けの内容"
 
     2024-04-08
@@ -82,15 +90,6 @@
 
     - 「[解説を読む・テストケースを見る](user_scripts/read_editorials)」ページ
         - [Atcoder Easy Jump](https://greasyfork.org/ja/scripts/491701-atcoder-easy-jump)
-
-    2024-03-27
-
-    - 「[問題を解く](user_scripts/solve_problems)」ページ
-        - [AtCoder Scoreboard Pinner](https://greasyfork.org/ja/scripts/490663-atcoder-scoreboard-pinner)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_scoreboard_pinner.png" alt="atcoder scoreboard pinner">
-    </div>
 
 === "記事"
 

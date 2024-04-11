@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-04-11
+
+- [#8047](https://github.com/KATO-Hiro/AtCoderClans/pull/8047) - [Home](../..)ページに、本サービスのスポンサー(敬称略)を掲載。ご支援いただき、ありがとうございます。
+    - [KoyanagiHitoshi](https://github.com/KoyanagiHitoshi)
+
 ### 2024-04-10
 
 - [#8042](https://github.com/KATO-Hiro/AtCoderClans/pull/8042) - 「[Scripts](../../scripts)」の「[解説を読む・テストケースを見る](../../user_scripts/read_editorials)」ページに、以下のユーザスクリプトを追加。
