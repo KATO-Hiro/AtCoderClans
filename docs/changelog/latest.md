@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-04-13
+
+- [#8056](https://github.com/KATO-Hiro/AtCoderClans/pull/8056) - (破壊的な変更) 更新停止したWebサービスを一時的に「[Archives](../../archived)」ページに移動。
+    - [AOJ-ICPC](http://aoj-icpc.ichyo.jp/)
+- [#8055](https://github.com/KATO-Hiro/AtCoderClans/pull/8055) - 「[Related Contest Sites](../../related_contest_sites)」の「[ICPC (国際大学対抗プログラミングコンテスト)](../../related_contest_sites/icpc)」ページに、以下のWebサービスを追加。
+    - [ICPC Japan Problems](https://icpc-japan-problems.irrrrr.cc/)
+
 ### 2024-04-12
 
 - [#8050](https://github.com/KATO-Hiro/AtCoderClans/pull/8050) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

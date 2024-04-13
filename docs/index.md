@@ -108,11 +108,6 @@
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
         - [UTPC2023 開催記](https://chineristac.hatenablog.com/entry/2024/03/27/011633)
 
-    2024-03-29
-
-    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
-        - [日本最大のプログラミングコンテストサイト AtCoder　全世界での登録者数が60万人を突破！](https://prtimes.jp/main/html/rd/p/000000046.000028415.html)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -171,6 +166,17 @@
 
     - 「[アルゴリズム部門 - レーティング2400〜2799(橙色)](milestones/orange)」ページ
         - [shobonvip](https://atcoder.jp/users/shobonvip)さん - [AtCoder 黄色になりました！（橙→黄になっただけなので中身は入橙記事） - しょぼんブログ](https://shobon2019.hatenablog.com/entry/2024/04/01/103336)
+
+=== "国内外のコンテストサイト"
+
+    2024-04-13
+
+    - 「[ICPC (国際大学対抗プログラミングコンテスト)](related_contest_sites/icpc)」ページ
+        - [ICPC Japan Problems](https://icpc-japan-problems.irrrrr.cc/)
+
+    <div align="center">
+      <img loading = "lazy" src="images/related_contest_sites/icpc/icpc_japan_problems.png" alt="icpc japan problems">
+    </div>
 
 ## AtCoder公式グッズを購入する
 
