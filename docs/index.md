@@ -91,6 +91,17 @@
     - 「[解説を読む・テストケースを見る](user_scripts/read_editorials)」ページ
         - [Atcoder Easy Jump](https://greasyfork.org/ja/scripts/491701-atcoder-easy-jump)
 
+=== "Chrome拡張機能"
+
+    2024-04-14
+
+    - 「[ソースコードの提出・確認を簡単に](chrome_extensions/submit_codes)」ページ
+        - [AtCoder Unit Test](https://chrome.google.com/webstore/detail/atcoder-unit-test/lmahhninbclefepjbcdfbcjnancipfmi?hl=ja&gl=UA)
+
+    <div align="center">
+      <img loading = "lazy" src="images/chrome_extension/atcoder_unit_test.png" alt="atcoder unit test">
+    </div>
+
 === "記事"
 
     2024-04-08
@@ -103,13 +114,13 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [MC Digital プログラミングコンテスト2024（AtCoder Heuristic Contest 031）参加記](https://kaede2020.hatenablog.com/entry/2024/04/01/190115)
 
-    2024-03-30
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-        - [UTPC2023 開催記](https://chineristac.hatenablog.com/entry/2024/03/27/011633)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2024-04-14
+
+    - 「[アルゴリズム部門 - Nim](blogs/algorithm/nim)」ページ
+        - [kemuniku](https://atcoder.jp/users/kemuniku)さん - [Qiita](https://qiita.com/kemuniku)
 
     2024-04-09
 

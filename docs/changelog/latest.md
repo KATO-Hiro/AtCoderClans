@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-04-14
+
+- [#8063](https://github.com/KATO-Hiro/AtCoderClans/pull/8063) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
+- [#8062](https://github.com/KATO-Hiro/AtCoderClans/pull/8062) - (破壊的な変更) リンク切れと思われる記事を一時的に「[Archives](../../archived)」ページに移動。
+- [#8059](https://github.com/KATO-Hiro/AtCoderClans/pull/8059) - [YujiSoftware](https://github.com/YujiSoftware)さんのプルリクエストにより、「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../chrome_extensions/submit_codes)」ページで掲載しているChrome拡張機能の説明文とサムネイルを更新。
+    - [AtCoder Unit Test](https://chrome.google.com/webstore/detail/atcoder-unit-test/lmahhninbclefepjbcdfbcjnancipfmi?hl=ja&gl=UA)
+
 ### 2024-04-13
 
 - [#8056](https://github.com/KATO-Hiro/AtCoderClans/pull/8056) - (破壊的な変更) 更新停止したWebサービスを一時的に「[Archives](../../archived)」ページに移動。
