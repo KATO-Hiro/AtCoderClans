@@ -12,7 +12,7 @@ title: ソースコードの提出・確認を簡単に
 
 ## バグがないか事前に確認
 
-- [AtCoder Unit Test](https://chrome.google.com/webstore/detail/atcoder-unit-test/lmahhninbclefepjbcdfbcjnancipfmi?hl=ja&gl=UA) - 「問題」ページから、単体(ユニット)テストを生成する。Java (JUnit)、Kotlin (JUnit)、C# (MS Test)、Python3 (unittest)に対応。デフォルトは、Java (JUnit)となっている。対応言語の切り替えは、「拡張機能 / アドオン」 → 「AC Unit Test」 のオプションで行うことができる。
+- [AtCoder Unit Test](https://chrome.google.com/webstore/detail/atcoder-unit-test/lmahhninbclefepjbcdfbcjnancipfmi?hl=ja&gl=UA) - 「問題」ページから、単体(ユニット)テストを生成する。Python3 (unittest)、Java (JUnit5)、Kotlin (JUnit5)、C# (MS Test), Go, Ruby (RSpec) に対応。デフォルトは、Python3 (unittest) となっている。Python と Ruby の場合は、テストコードを含んだまま提出できる。[Firefox版](https://addons.mozilla.org/ja/firefox/addon/ac-unit-test/)もある。
 
     <div align="center">
       <img loading = "lazy" src="../../images/chrome_extension/atcoder_unit_test.png" alt="atcoder unit test">
