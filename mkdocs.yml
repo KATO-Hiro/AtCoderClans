@@ -186,6 +186,7 @@ nav:
         - blogs/algorithm/crystal.md
         - blogs/algorithm/csharp.md
         - blogs/algorithm/java.md
+        - blogs/algorithm/nim.md
         - blogs/algorithm/python.md
         - blogs/algorithm/ruby.md
         - blogs/algorithm/rust.md
