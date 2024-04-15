@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-04-15
+
+- [#8067](https://github.com/KATO-Hiro/AtCoderClans/pull/8067) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [世界一やさしいAHC体験記](https://d-burioden.hateblo.jp/entry/2024/04/13/154639)
+
 ### 2024-04-14
 
 - [#8063](https://github.com/KATO-Hiro/AtCoderClans/pull/8063) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。

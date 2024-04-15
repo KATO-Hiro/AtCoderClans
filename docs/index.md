@@ -104,6 +104,11 @@
 
 === "記事"
 
+    2024-04-15
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [世界一やさしいAHC体験記](https://d-burioden.hateblo.jp/entry/2024/04/13/154639)
+
     2024-04-08
 
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
@@ -136,13 +141,6 @@
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
         - [tokoharu](https://atcoder.jp/users/tokoharu)さん - [はてなブログ](https://tokoharuland.hateblo.jp/)
         - [starpentagon](https://atcoder.jp/users/starpentagon)さん - [自作ブログ](https://starpentagon.net/analytics/category/%e7%ab%b6%e6%8a%80%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0/)
-
-=== "動画"
-
-    2024-03-31
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [【ゆっくり解説】尺取り法と二分探索の「本当の」違い](https://www.youtube.com/watch?v=omD-yyb730k)
 
 === "色変記事"
 
