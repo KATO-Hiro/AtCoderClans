@@ -171,12 +171,12 @@
     - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
         - [raspberry1729](https://atcoder.jp/users/raspberry1729)さん - [【AtCoder】プログラミングを始めて3ヶ月でAtCoderで入緑しました](https://qiita.com/raspberry1729/items/7d09fc03c2be5a1447b9)
 
-    2024-04-01
-
-    - 「[アルゴリズム部門 - レーティング2400〜2799(橙色)](milestones/orange)」ページ
-        - [shobonvip](https://atcoder.jp/users/shobonvip)さん - [AtCoder 黄色になりました！（橙→黄になっただけなので中身は入橙記事） - しょぼんブログ](https://shobon2019.hatenablog.com/entry/2024/04/01/103336)
-
 === "国内外のコンテストサイト"
+
+    2024-04-16
+
+    - 「[yukicoder](related_contest_sites/yukicoder)」ページ
+        - [yukicoder 1962 の解説の解説の解説](https://koba-e964.hatenablog.com/entry/2024/04/15/230008)
 
     2024-04-13
 
