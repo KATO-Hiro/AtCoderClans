@@ -29,6 +29,17 @@ title: yukicoder
       <img loading = "lazy" src="../../images/related_contest_sites/yukicoder/comfortable_yukicoder.png" alt="comfortable yukicoder">
     </div>
 
+## 記事
+
+### 数学を学ぶ
+
+#### 発展的な内容
+
+- [yukicoder 1962 の解説の解説の解説](https://koba-e964.hatenablog.com/entry/2024/04/15/230008) - 筆者が有志の解説記事を読んで納得するまでの過程がまとめられている。正規表現と形式的べき級数を同一視し、それらの対応関係を定めた上で定式化および一般化が図られている。
+    - [No.1962 Not Divide](https://yukicoder.me/problems/no/1962) - 問題へのリンク。
+    - [問題作成者による解説](https://yukicoder.me/problems/no/1962/editorial) - 記事を読むときは、[yukicoder](https://yukicoder.me/)でログインを済ませておく必要がある。
+    - [yukicoder 1962の解説の解説](https://sugarknri.hatenablog.com/entry/2022/06/08/180533) - 有志により上記の解説に対して、行間を補う形で説明されている。
+
 ## 補助ツール
 
 ### 問題を作成する
