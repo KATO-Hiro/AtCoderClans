@@ -178,6 +178,11 @@
 
 === "国内外のコンテストサイト"
 
+    2024-04-16
+
+    - 「[yukicoder](related_contest_sites/yukicoder)」ページ
+        - [yukicoder 1962 の解説の解説の解説](https://koba-e964.hatenablog.com/entry/2024/04/15/230008)
+
     2024-04-13
 
     - 「[ICPC (国際大学対抗プログラミングコンテスト)](related_contest_sites/icpc)」ページ

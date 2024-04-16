@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-04-16
+
+- [#8076](https://github.com/KATO-Hiro/AtCoderClans/pull/8076) - [koba](https://twitter.com/kobae964)さんのご紹介で、「[Related Contest Sites](../../related_contest_sites)」の「[yukicoder](../../related_contest_sites/yukicoder)」ページに、以下の記事を追加。
+    - [yukicoder 1962 の解説の解説の解説](https://koba-e964.hatenablog.com/entry/2024/04/15/230008)
+
 ### 2024-04-15
 
 - [#8067](https://github.com/KATO-Hiro/AtCoderClans/pull/8067) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
