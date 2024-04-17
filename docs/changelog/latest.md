@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-04-17
+
+- [#8080](https://github.com/KATO-Hiro/AtCoderClans/pull/8080) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のWebアプリを追加。
+    - [searchapp](https://andoryoto.github.io/WebApplication/searchapp/)
+
 ### 2024-04-16
 
 - [#8076](https://github.com/KATO-Hiro/AtCoderClans/pull/8076) - [koba](https://twitter.com/kobae964)さんのご紹介で、「[Related Contest Sites](../../related_contest_sites)」の「[yukicoder](../../related_contest_sites/yukicoder)」ページに、以下の記事を追加。

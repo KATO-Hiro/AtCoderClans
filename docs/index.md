@@ -75,6 +75,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2024-04-17
+
+    - 「[問題を解く](web_app/solve_problems)」ページ
+        - [searchapp](https://andoryoto.github.io/WebApplication/searchapp/)
+
+    <div align="center">
+      <img loading = "lazy" src="images/web_app/searchapp.png" alt="searchapp">
+    </div>
+
     2024-04-06
 
     - 「[問題を解く](web_app/solve_problems)」ページ
@@ -165,11 +174,6 @@
 
     - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [shinnshinn](https://atcoder.jp/users/shinnshinn)さん - [AtCoderで青色になったので記事を書いてみる](https://www.ochappa.net/posts/atc-blue)
-
-    2024-04-02
-
-    - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [raspberry1729](https://atcoder.jp/users/raspberry1729)さん - [【AtCoder】プログラミングを始めて3ヶ月でAtCoderで入緑しました](https://qiita.com/raspberry1729/items/7d09fc03c2be5a1447b9)
 
 === "国内外のコンテストサイト"
 
