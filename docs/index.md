@@ -123,13 +123,13 @@
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
         - [Python入門 AtCoder Programming Guide for beginners (APG4bPython)](https://atcoder.jp/contests/APG4bPython)
 
-    2024-04-03
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [MC Digital プログラミングコンテスト2024（AtCoder Heuristic Contest 031）参加記](https://kaede2020.hatenablog.com/entry/2024/04/01/190115)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2024-04-18
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [a1048576](https://atcoder.jp/users/a1048576)さん - [Qiita](https://qiita.com/a1048576/)
 
     2024-04-14
 
@@ -154,6 +154,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2024-04-18
+
+    - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
+        - [a1048576](https://atcoder.jp/users/a1048576)さん - [AtCoderで入黄しました](https://qiita.com/a1048576/items/635a7c2798bbb0d21bef)
 
     2024-04-12
 
