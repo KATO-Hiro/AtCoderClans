@@ -115,6 +115,7 @@ title: C&#43;&#43;
 |:--:|:--:|:--|
 |aajisaka|[はてなブログ](https://aajisaka.hatenablog.com/)||
 |AngrySadEight|[はてなブログ](https://angrysadeight.hatenablog.com/)||
+|a1048576|[Qiita](https://qiita.com/a1048576/)||
 |binap|[Qiita](https://qiita.com/binap/)||
 |Chanyuh|[はてなブログ](https://p-chanyuh.hatenablog.com/)||
 |cookies|[はてなブログ](https://cookies.hatenablog.jp/)||
