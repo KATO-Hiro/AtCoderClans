@@ -113,6 +113,11 @@
 
 === "記事"
 
+    2024-04-19
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [期待値DPと確率DPの例](https://paruma184.hatenablog.com/entry/2024/04/17/211859)
+
     2024-04-15
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -144,12 +149,6 @@
         - [hitoare](https://atcoder.jp/users/hitoare)さん - [はてなブログ](https://hitoare.hatenablog.com/)
         - [Nachia](https://atcoder.jp/users/Nachia)さん - [Qiita](https://qiita.com/Nachia)
         - [nok0](https://atcoder.jp/users/)さん - [はてなブログ](https://tsuchi.hateblo.jp/)
-
-    2024-04-04
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [tokoharu](https://atcoder.jp/users/tokoharu)さん - [はてなブログ](https://tokoharuland.hateblo.jp/)
-        - [starpentagon](https://atcoder.jp/users/starpentagon)さん - [自作ブログ](https://starpentagon.net/analytics/category/%e7%ab%b6%e6%8a%80%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0/)
 
 === "色変記事"
 
