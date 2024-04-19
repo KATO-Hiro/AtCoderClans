@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-04-19
+
+- [#8091](https://github.com/KATO-Hiro/AtCoderClans/pull/8091) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [期待値DPと確率DPの例](https://paruma184.hatenablog.com/entry/2024/04/17/211859)
+
 ### 2024-04-18
 
 - [#8088](https://github.com/KATO-Hiro/AtCoderClans/pull/8088) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
