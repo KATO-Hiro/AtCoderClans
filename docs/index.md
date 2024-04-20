@@ -183,11 +183,6 @@
     - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [sinzyousan](https://atcoder.jp/users/sinzyousan)さん - [【競技プログラミング】プログラミング初心者がAtCoderを始めて10か月で水色になった方法【ゆっくり解説】](https://www.youtube.com/watch?v=eOUXJ_KP9xg)
 
-    2024-04-05
-
-    - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [shinnshinn](https://atcoder.jp/users/shinnshinn)さん - [AtCoderで青色になったので記事を書いてみる](https://www.ochappa.net/posts/atc-blue)
-
 === "国内外のコンテストサイト"
 
     2024-04-16
