@@ -56,6 +56,13 @@ title: Bot
     - 開催日時: 不定期(30分)
     - 主催者: [Mo_SoooN](https://twitter.com/Mo_SoooN)さん
 
+### Bluesky
+
+- [Bluesky競プロ部](https://bsky.app/profile/kyopro.bsky.social)
+    - 出題範囲: [AtCoder Problems](https://kenkoooo.com/atcoder/)で推定された難易度のうち、灰色〜青色相当から2~5問
+    - 開催日時: 毎週1回で8:00~8:40
+    - 主催者: [Hiroshi Kurokawa](https://twitter.com/hydrakecat)さん
+
 ## コンテスト後の追加テストケースの有無を確認
 
 - [AtCoder After Contest Bot](https://twitter.com/AfterContestBot) - コンテスト後に追加のテストケース（例えば、after contest）がある場合に告知してくれる。
