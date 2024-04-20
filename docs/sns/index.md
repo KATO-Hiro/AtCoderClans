@@ -31,3 +31,8 @@ title: SNS
 - [競プロ鯖](https://misskey.kyoupro.com/) - 競技プログラミングに関心があるユーザのコミュニティ。
 
 - [misskey競プロ部](https://misskey.io/channels/9b1va5xjkr) - 競技プログラミングユーザ向けのMisskey.ioインスタンス。
+
+## Bluesky
+
+- [競プロフィード](https://bsky.app/profile/did:plc:oxqrfur74k6qr4xy4g3clfe3/feed/aaahi3lkvvr6i) - 最近の競技プログラミングに関するBlueskyの日本語ポストを集めたフィード
+
