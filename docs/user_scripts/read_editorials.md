@@ -69,6 +69,14 @@ title: 解説を読む・テストケースを見る
       <img loading = "lazy" src="../../images/userscript/typical90_direct_editorial_link.png" alt="typical90 direct editorial link">
     </div>
 
+### 解説に投票
+
+- [AtCoder Editorial Voting](https://greasyfork.org/ja/scripts/492964-atcoder-editorial-voting) - 解説に投票できる。また、投票数にマウスのカーソルを合わせると、投票者のレーティング分布が表示される。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_editorial_voting.png" alt="atcoder editorial voting">
+    </div>
+
 ### 解説を隠す・非表示に
 
 - [AtCoder Editorial Cover](https://greasyfork.org/en/scripts/463760-atcoder-editorial-cover) - 問題の「解説」を一度隠した上で、ボタンを押すと徐々に表示される。
