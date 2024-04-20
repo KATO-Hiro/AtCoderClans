@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-04-20
+
+- [#8095](https://github.com/KATO-Hiro/AtCoderClans/pull/8095) - 「[Scripts](../../scripts)」の「[解説を読む・テストケースを見る](../../user_scripts/read_editorials)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Editorial Voting](https://greasyfork.org/ja/scripts/492964-atcoder-editorial-voting)
+
 ### 2024-04-19
 
 - [#8091](https://github.com/KATO-Hiro/AtCoderClans/pull/8091) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。

@@ -95,6 +95,15 @@
 
 === "ユーザスクリプト"
 
+    2024-04-20
+
+    - 「[解説を読む・テストケースを見る](user_scripts/read_editorials)」ページ
+        - [AtCoder Editorial Voting](https://greasyfork.org/ja/scripts/492964-atcoder-editorial-voting)
+
+    <div align="center">
+      <img loading = "lazy" src="images/userscript/atcoder_editorial_voting.png" alt="atcoder editorial voting">
+    </div>
+
     2024-04-10
 
     - 「[解説を読む・テストケースを見る](user_scripts/read_editorials)」ページ
