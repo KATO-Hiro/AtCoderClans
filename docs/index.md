@@ -84,14 +84,12 @@
       <img loading = "lazy" src="images/web_app/searchapp.png" alt="searchapp">
     </div>
 
-    2024-04-06
+=== "ボット"
 
-    - 「[問題を解く](web_app/solve_problems)」ページ
-        - [AtCoder NoviSteps](https://atcoder-novisteps.vercel.app/)
+    2024-04-21
 
-    <div align="center">
-      <img loading = "lazy" src="images/web_app/atcoder_novisteps.png" alt="atcoder novisteps">
-    </div>
+    - 「[Bot](bot)」ページ
+        - [Bluesky競プロ部](https://bsky.app/profile/kyopro.bsky.social)
 
 === "ユーザスクリプト"
 
@@ -140,6 +138,11 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2024-04-21
+
+    - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
+        - [nahco314](https://atcoder.jp/users/nahco314)さん - [Qiita](https://qiita.com/NaHCO3)
+
     2024-04-18
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
@@ -158,6 +161,13 @@
         - [hitoare](https://atcoder.jp/users/hitoare)さん - [はてなブログ](https://hitoare.hatenablog.com/)
         - [Nachia](https://atcoder.jp/users/Nachia)さん - [Qiita](https://qiita.com/Nachia)
         - [nok0](https://atcoder.jp/users/)さん - [はてなブログ](https://tsuchi.hateblo.jp/)
+
+=== "SNS"
+
+    2024-04-21
+
+    - 「[SNS](sns)」ページ
+        - [競プロフィード](https://bsky.app/profile/did:plc:oxqrfur74k6qr4xy4g3clfe3/feed/aaahi3lkvvr6i)
 
 === "色変記事"
 

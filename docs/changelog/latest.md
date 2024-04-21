@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-04-21
+
+- [#8102](https://github.com/KATO-Hiro/AtCoderClans/pull/8102) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
+- [#8099](https://github.com/KATO-Hiro/AtCoderClans/pull/8099) - [zuk246](https://github.com/zuk246)さんのプルリクエストにより、「[Bot](../../bot)」ページと「[SNS](../../sns)」ページに、Blueskyアカウントを追加。
+    - [Bluesky競プロ部](https://bsky.app/profile/kyopro.bsky.social)
+    - [競プロフィード](https://bsky.app/profile/did:plc:oxqrfur74k6qr4xy4g3clfe3/feed/aaahi3lkvvr6i)
+
 ### 2024-04-20
 
 - [#8095](https://github.com/KATO-Hiro/AtCoderClans/pull/8095) - 「[Scripts](../../scripts)」の「[解説を読む・テストケースを見る](../../user_scripts/read_editorials)」ページに、以下のユーザスクリプトを追加。
