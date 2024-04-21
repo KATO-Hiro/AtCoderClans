@@ -33,6 +33,7 @@ title: Python
 |Mitarushi|[Qiita](https://qiita.com/Mitarushi)|高難易度の問題を中心にC++で実装されている回答もある。|
 |morio__|[自作ブログ](https://blog.morio.dev/)|高難易度の問題を中心にC++で実装されている回答もある。|
 |nagiss|[はてなブログ](https://nagiss.hateblo.jp/)||
+|nahco314|[Qiita](https://qiita.com/NaHCO3)|高難易度の問題を中心にC++で実装されている回答もある。|
 |penpenpen|[Qiita](https://qiita.com/penpenpen)|高難易度の問題を中心にC++で実装されている回答もある。|
 |qumazaki|[はてなブログ](https://qumazaki.hatenablog.com/)||
 |rinmao|[Qiita](https://qiita.com/rinmao_catlover)||
