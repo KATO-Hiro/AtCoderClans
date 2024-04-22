@@ -120,6 +120,7 @@ title: C&#43;&#43;
 |Chanyuh|[はてなブログ](https://p-chanyuh.hatenablog.com/)||
 |cookies|[はてなブログ](https://cookies.hatenablog.jp/)||
 |ctyl|[はてなブログ](https://ctylim.hatenablog.com/)|2018年1月以降、新規の記事を確認できず。|
+|deuteridayo|[Qiita](https://qiita.com/deuteridayo)||
 |eiya|[はてなブログ](https://eiya5498513.hatenablog.jp/)||
 |ferin_tech|[はてなブログ](https://ferin-tech.hatenablog.com/)|2020年1月以降、新規の記事を確認できず。|
 |firiexp|[自作ブログ](https://www.firiex.com/dokuwiki/%E8%A7%A3%E8%AA%AC%E8%A8%98%E4%BA%8B/start)||
@@ -168,6 +169,7 @@ title: C&#43;&#43;
 |NOSS|[はてなブログ](https://noss.hatenablog.com/)||
 |not|[はてなブログ](https://not522.hatenablog.com/)、[はてなグループ](https://topcoder-g-hatena-ne-jp.jag-icpc.org/not522/)||
 |nyoguta|[はてなブログ](https://nyoguta.hatenablog.com/)||
+|ococonomy1|[はてなブログ](https://ococonomy1.hateblo.jp/)||
 |packer_jp|[はてなブログ](https://packer-jp.hatenadiary.jp/)||
 |paruki|[はてなブログ](https://par.hateblo.jp/)||
 |phocom|[Qiita](https://qiita.com/phocom)||
