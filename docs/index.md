@@ -138,6 +138,12 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2024-04-22
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [deuteridayo](https://atcoder.jp/users/deuteridayo)さん - [Qiita](https://qiita.com/deuteridayo)
+        - [ococonomy1](https://atcoder.jp/users/ococonomy1)さん - [はてなブログ](https://ococonomy1.hateblo.jp/)
+
     2024-04-21
 
     - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
@@ -173,6 +179,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2024-04-22
+
+    - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
+        - [ococonomy1](https://atcoder.jp/users/ococonomy1)さん - [AtCoder 黄になりました！！](https://ococonomy1.hateblo.jp/entry/2024/04/21/201152)
+
     2024-04-18
 
     - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
@@ -187,11 +198,6 @@
 
     - 「[アルゴリズム部門 - レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
         - [simasima](https://atcoder.jp/users/simasima)さん - [AtCoder赤・銅冠になりました【入赤記事】](https://mathlog.info/articles/ohb2RJIi8sZ1i62kxNDz)
-
-    2024-04-07
-
-    - 「[アルゴリズム部門 - レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [sinzyousan](https://atcoder.jp/users/sinzyousan)さん - [【競技プログラミング】プログラミング初心者がAtCoderを始めて10か月で水色になった方法【ゆっくり解説】](https://www.youtube.com/watch?v=eOUXJ_KP9xg)
 
 === "国内外のコンテストサイト"
 
