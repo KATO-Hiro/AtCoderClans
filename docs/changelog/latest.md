@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-04-22
+
+- [#8112](https://github.com/KATO-Hiro/AtCoderClans/pull/8112) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
+- [#8108](https://github.com/KATO-Hiro/AtCoderClans/pull/8108) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[ococonomy1](https://atcoder.jp/users/ococonomy1)さんの[記事](https://ococonomy1.hateblo.jp/entry/2024/04/21/201152)を追加。
+
 ### 2024-04-21
 
 - [#8102](https://github.com/KATO-Hiro/AtCoderClans/pull/8102) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
