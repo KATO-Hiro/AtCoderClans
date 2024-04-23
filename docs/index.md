@@ -66,13 +66,6 @@
 
     - [KoyanagiHitoshi](https://github.com/KoyanagiHitoshi)
 
-=== "入門者・初心者向けの内容"
-
-    2024-04-08
-
-    - 「[Q1: アルゴリズムや競技プログラミングに興味はありますが、何から始めたらいいですか?](for_beginners/question1)」ページ
-        - [Python入門 AtCoder Programming Guide for beginners (APG4bPython)](https://atcoder.jp/contests/APG4bPython)
-
 === "Webアプリ・Webサイト"
 
     2024-04-17
@@ -120,6 +113,11 @@
 
 === "記事"
 
+    2024-04-23
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Summer - 学校ランキング (4月22日時点)](https://twitter.com/atcoder/status/1782249854766546993)
+
     2024-04-19
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
@@ -129,11 +127,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [世界一やさしいAHC体験記](https://d-burioden.hateblo.jp/entry/2024/04/13/154639)
-
-    2024-04-08
-
-    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
-        - [Python入門 AtCoder Programming Guide for beginners (APG4bPython)](https://atcoder.jp/contests/APG4bPython)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
