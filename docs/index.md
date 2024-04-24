@@ -113,6 +113,12 @@
 
 === "記事"
 
+    2024-04-24
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [いま、ここにしかない、出会い。(AtCoder 第一回マスターズ選手権 -決勝- で五位入賞しました。)](https://tsukammo.hatenablog.com/entry/2024/04/21/161831)
+        - [第一回マスターズ参加記](https://amentorimaru.hatenablog.com/entry/2024/04/21/034648)
+
     2024-04-23
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -152,15 +158,6 @@
     - 「[アルゴリズム部門 - Nim](blogs/algorithm/nim)」ページ
         - [kemuniku](https://atcoder.jp/users/kemuniku)さん - [Qiita](https://qiita.com/kemuniku)
 
-    2024-04-09
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [heno239](https://atcoder.jp/users/heno239)さん - [はてなブログ](https://heno239.hatenablog.com/)
-        - [E869120](https://atcoder.jp/users/E869120)さん - [はてなブログ](https://e869120.hatenablog.com/)、[Qiita](https://qiita.com/e869120)
-        - [hitoare](https://atcoder.jp/users/hitoare)さん - [はてなブログ](https://hitoare.hatenablog.com/)
-        - [Nachia](https://atcoder.jp/users/Nachia)さん - [Qiita](https://qiita.com/Nachia)
-        - [nok0](https://atcoder.jp/users/)さん - [はてなブログ](https://tsuchi.hateblo.jp/)
-
 === "SNS"
 
     2024-04-21
@@ -186,11 +183,6 @@
 
     - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [viral](https://atcoder.jp/users/viral)さん - [AtCoderで青色になって落ち着いたから書いた記事](https://qiita.com/viral_8/items/6ce0fbc58dbe55f8e7ae)
-
-    2024-04-09
-
-    - 「[アルゴリズム部門 - レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
-        - [simasima](https://atcoder.jp/users/simasima)さん - [AtCoder赤・銅冠になりました【入赤記事】](https://mathlog.info/articles/ohb2RJIi8sZ1i62kxNDz)
 
 === "国内外のコンテストサイト"
 
