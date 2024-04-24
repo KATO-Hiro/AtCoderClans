@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-04-24
+
+- [#8118](https://github.com/KATO-Hiro/AtCoderClans/pull/8118)、[#8119](https://github.com/KATO-Hiro/AtCoderClans/pull/8119) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [いま、ここにしかない、出会い。(AtCoder 第一回マスターズ選手権 -決勝- で五位入賞しました。)](https://tsukammo.hatenablog.com/entry/2024/04/21/161831)
+    - [第一回マスターズ参加記](https://amentorimaru.hatenablog.com/entry/2024/04/21/034648)
+
 ### 2024-04-23
 
 - [#8116](https://github.com/KATO-Hiro/AtCoderClans/pull/8116) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
