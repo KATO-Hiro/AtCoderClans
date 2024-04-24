@@ -120,6 +120,7 @@ title: ヒューリスティック問題を解く
     - [相互情報量を学んでもっとうまくAHC030を解こう！](https://qiita.com/aplysia/items/29a4fb4573fc1b8dec79) - 上記の記事の続編。相互情報量を最大化するような点集合を選択することの具体的な意味とC++実装例が紹介されている。
 - [第一回マスターズ選手権予選・参加記](https://medium.com/karakuri/%E7%AC%AC%E4%B8%80%E5%9B%9E%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA%E4%BA%88%E9%81%B8-%E5%8F%82%E5%8A%A0%E8%A8%98-8f605012aa4a) - [第一回マスターズ選手権-予選-](https://atcoder.jp/contests/masters-qual)の参加記。問題の解法、高得点を取るための工夫が時系列でまとめられている。
 - [世界一やさしいAHC体験記](https://d-burioden.hateblo.jp/entry/2024/04/13/154639) - [burioden](https://atcoder.jp/users/burioden)さんの体験記。ヒューリスティック型コンテストに興味がある人に向けて、筆者が初参加のコンテストで回答を提出するまでの流れや感想などがまとめられている。
+- [いま、ここにしかない、出会い。(AtCoder 第一回マスターズ選手権 -決勝- で五位入賞しました。)](https://tsukammo.hatenablog.com/entry/2024/04/21/161831) - [tsukammo](https://atcoder.jp/users/tsukammo)さんの備忘録。[第一回マスターズ選手権 -決勝-](https://atcoder.jp/contests/masters2024-final)におけるメンバーの立ち回り(チーム決めや予選の内容も含む)を時系列で振り返っている。
 - [第一回マスターズ参加記](https://amentorimaru.hatenablog.com/entry/2024/04/21/034648) - [amentorimaru](https://atcoder.jp/users/amentorimaru?contestType=heuristic)さんの参加記。[第一回マスターズ選手権 -決勝-](https://atcoder.jp/contests/masters2024-final)の振り返り(決勝進出までの内容を含む)・次回に向けた課題などがつづられている。
 - [FakePsyho/cpcontests](https://github.com/FakePsyho/cpcontests) ![GitHub Repo stars](https://img.shields.io/github/stars/FakePsyho/cpcontests?style=plastic) - [Psyho](https://atcoder.jp/users/Psyho)さんが参加したコンテストの解答の方針とソースコードがまとめられている。
 
