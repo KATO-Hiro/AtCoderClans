@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-04-25
+
+- [#8125](https://github.com/KATO-Hiro/AtCoderClans/pull/8125) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[dhirabayashi](https://atcoder.jp/users/dhirabayashi)さんの[記事](https://qiita.com/dhirabayashi/items/ae3a685140d1910747a9)を追加。
+
 ### 2024-04-24
 
 - [#8118](https://github.com/KATO-Hiro/AtCoderClans/pull/8118)、[#8119](https://github.com/KATO-Hiro/AtCoderClans/pull/8119) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
