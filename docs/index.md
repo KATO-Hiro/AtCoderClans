@@ -95,11 +95,6 @@
       <img loading = "lazy" src="images/userscript/atcoder_editorial_voting.png" alt="atcoder editorial voting">
     </div>
 
-    2024-04-10
-
-    - 「[解説を読む・テストケースを見る](user_scripts/read_editorials)」ページ
-        - [Atcoder Easy Jump](https://greasyfork.org/ja/scripts/491701-atcoder-easy-jump)
-
 === "Chrome拡張機能"
 
     2024-04-14
@@ -168,6 +163,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2024-04-25
+
+    - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [dhirabayashi](https://atcoder.jp/users/dhirabayashi)さん - [AtCoderでぴったり入緑したので、落ちないうちに色変記事を書かせてくださいお願いします](https://qiita.com/dhirabayashi/items/ae3a685140d1910747a9)
 
     2024-04-22
 
