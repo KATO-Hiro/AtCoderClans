@@ -58,15 +58,16 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "ホーム"
-
-    2024-04-11
-
-    本サービスのスポンサーを掲載(敬称略)。ご支援いただき、ありがとうございます。
-
-    - [KoyanagiHitoshi](https://github.com/KoyanagiHitoshi)
-
 === "Webアプリ・Webサイト"
+
+    2024-04-26
+
+    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
+        - [検索エンジン集](https://magurofly.github.io/tools/search)
+
+    <div align="center">
+      <img loading = "lazy" src="images/web_app/tools_search.png" alt="tools search">
+    </div>
 
     2024-04-17
 
