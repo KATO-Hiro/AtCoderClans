@@ -80,6 +80,14 @@ title: 問題を解くときの補助ツール
       <img loading = "lazy" src="../../images/web_app/random_testcase_generator.png" alt="random testcase generator">
     </div>
 
+## 関連記事を検索
+
+- [検索エンジン集](https://magurofly.github.io/tools/search) - 競技プログラミングに関する記事を検索できる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/tools_search.png" alt="tools search">
+    </div>
+
 ## ヒューリスティック問題の入出力を可視化
 
 !!! warning "注意"
