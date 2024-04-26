@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-04-26
+
+- [#8131](https://github.com/KATO-Hiro/AtCoderClans/pull/8131) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページに、以下のWebアプリを追加。
+    - [検索エンジン集](https://magurofly.github.io/tools/search)
+
 ### 2024-04-25
 
 - [#8125](https://github.com/KATO-Hiro/AtCoderClans/pull/8125) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
