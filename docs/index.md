@@ -154,6 +154,16 @@
     - 「[アルゴリズム部門 - Nim](blogs/algorithm/nim)」ページ
         - [kemuniku](https://atcoder.jp/users/kemuniku)さん - [Qiita](https://qiita.com/kemuniku)
 
+=== "動画"
+
+    2024-04-27
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [AngrySadEight](https://www.youtube.com/@AngrySadEight)
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [半分全列挙を「高速化」する【ゆっくり解説】](https://www.youtube.com/watch?v=EUZX4tBqo0M)
+
 === "SNS"
 
     2024-04-21
@@ -179,11 +189,6 @@
 
     - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
         - [a1048576](https://atcoder.jp/users/a1048576)さん - [AtCoderで入黄しました](https://qiita.com/a1048576/items/635a7c2798bbb0d21bef)
-
-    2024-04-12
-
-    - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [viral](https://atcoder.jp/users/viral)さん - [AtCoderで青色になって落ち着いたから書いた記事](https://qiita.com/viral_8/items/6ce0fbc58dbe55f8e7ae)
 
 === "国内外のコンテストサイト"
 
