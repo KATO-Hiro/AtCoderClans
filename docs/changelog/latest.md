@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-04-27
+
+- [#8135](https://github.com/KATO-Hiro/AtCoderClans/pull/8135) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページと「[YouTube - 個別の動画](../../youtube/video)」ページに、以下のチャンネルと動画を追加。
+    - [AngrySadEight](https://www.youtube.com/@AngrySadEight)
+    - [半分全列挙を「高速化」する【ゆっくり解説】](https://www.youtube.com/watch?v=EUZX4tBqo0M)
+
 ### 2024-04-26
 
 - [#8131](https://github.com/KATO-Hiro/AtCoderClans/pull/8131) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページに、以下のWebアプリを追加。
