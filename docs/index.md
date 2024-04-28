@@ -133,6 +133,12 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2024-04-28
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [new_textfile](https://atcoder.jp/users/new_textfile)さん - [はてなブログ](https://new-textfile.hatenablog.com/)
+        - [onsen_manjuuu](https://atcoder.jp/users/onsen_manjuuu)さん - [自作ブログ](https://onsen-manjuuu.net/blog/index.html)
+
     2024-04-22
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
@@ -196,15 +202,6 @@
 
     - 「[yukicoder](related_contest_sites/yukicoder)」ページ
         - [yukicoder 1962 の解説の解説の解説](https://koba-e964.hatenablog.com/entry/2024/04/15/230008)
-
-    2024-04-13
-
-    - 「[ICPC (国際大学対抗プログラミングコンテスト)](related_contest_sites/icpc)」ページ
-        - [ICPC Japan Problems](https://icpc-japan-problems.irrrrr.cc/)
-
-    <div align="center">
-      <img loading = "lazy" src="images/related_contest_sites/icpc/icpc_japan_problems.png" alt="icpc japan problems">
-    </div>
 
 ## AtCoder公式グッズを購入する
 
