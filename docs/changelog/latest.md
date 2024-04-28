@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-04-28
+
+- [#8144](https://github.com/KATO-Hiro/AtCoderClans/pull/8144) - (破壊的な変更) 公開を取りやめたと思われる色変記事を一時的に「[Archives](../../archived)」ページに移動。
+- [#8142](https://github.com/KATO-Hiro/AtCoderClans/pull/8142) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
+
 ### 2024-04-27
 
 - [#8135](https://github.com/KATO-Hiro/AtCoderClans/pull/8135) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページと「[YouTube - 個別の動画](../../youtube/video)」ページに、以下のチャンネルと動画を追加。
