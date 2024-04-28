@@ -162,6 +162,7 @@ title: C&#43;&#43;
 |nadeko|[はてなブログ](https://simezi-tan.hatenadiary.org/)|2018年10月以降、新規の記事を確認できず。|
 |naoya_t|[はてなブログ](https://naoyat.hatenablog.jp/)||
 |natrium|[はてなブログ](https://natrium.hatenablog.com/)|2016年1月以降、新規の記事を確認できず。|
+|new_textfile|[はてなブログ](https://new-textfile.hatenablog.com/)||
 |N_hara|[はてなブログ](https://n-hara.hatenablog.com/)||
 |ningenMe|[はてなブログ](https://ningenme.hatenablog.com/)||
 |ninja7|[自作ブログ](https://melting.love/blog/)|2020年5月以降、新規の記事を確認できず。|
@@ -170,6 +171,7 @@ title: C&#43;&#43;
 |not|[はてなブログ](https://not522.hatenablog.com/)、[はてなグループ](https://topcoder-g-hatena-ne-jp.jag-icpc.org/not522/)||
 |nyoguta|[はてなブログ](https://nyoguta.hatenablog.com/)||
 |ococonomy1|[はてなブログ](https://ococonomy1.hateblo.jp/)||
+|onsen_manjuuu|[自作ブログ](https://onsen-manjuuu.net/blog/index.html)||
 |packer_jp|[はてなブログ](https://packer-jp.hatenadiary.jp/)||
 |paruki|[はてなブログ](https://par.hateblo.jp/)||
 |phocom|[Qiita](https://qiita.com/phocom)||
