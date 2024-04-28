@@ -128,7 +128,7 @@ title: Change Log
 ### 2024-04-05
 
 - [#8017](https://github.com/KATO-Hiro/AtCoderClans/pull/8017) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
-    - レーティング1600から1999まで(青色)に[shinnshinn](https://atcoder.jp/users/shinnshinn)さんの[記事](https://www.ochappa.net/posts/atc-blue)を追加。
+    - レーティング1600から1999まで(青色)に[shinnshinn](https://atcoder.jp/users/shinnshinn)さんの記事を追加。
 
 ### 2024-04-04
 
