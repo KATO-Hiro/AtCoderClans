@@ -60,6 +60,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2024-04-29
+
+    - 「[コンテストの成績に関連するサービス](web_app/services_using_scores)」ページ
+        - [AtCoder Heuristic Season Ranking](https://ahc-season-ranking.terry-u16.net/)
+
+    <div align="center">
+      <img loading = "lazy" src="images/web_app/atcoder_heuristic_season_ranking.png" alt="atcoder heuristic season ranking">
+    </div>
+
     2024-04-26
 
     - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
@@ -94,17 +103,6 @@
 
     <div align="center">
       <img loading = "lazy" src="images/userscript/atcoder_editorial_voting.png" alt="atcoder editorial voting">
-    </div>
-
-=== "Chrome拡張機能"
-
-    2024-04-14
-
-    - 「[ソースコードの提出・確認を簡単に](chrome_extensions/submit_codes)」ページ
-        - [AtCoder Unit Test](https://chrome.google.com/webstore/detail/atcoder-unit-test/lmahhninbclefepjbcdfbcjnancipfmi?hl=ja&gl=UA)
-
-    <div align="center">
-      <img loading = "lazy" src="images/chrome_extension/atcoder_unit_test.png" alt="atcoder unit test">
     </div>
 
 === "記事"
@@ -154,11 +152,6 @@
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [a1048576](https://atcoder.jp/users/a1048576)さん - [Qiita](https://qiita.com/a1048576/)
-
-    2024-04-14
-
-    - 「[アルゴリズム部門 - Nim](blogs/algorithm/nim)」ページ
-        - [kemuniku](https://atcoder.jp/users/kemuniku)さん - [Qiita](https://qiita.com/kemuniku)
 
 === "動画"
 

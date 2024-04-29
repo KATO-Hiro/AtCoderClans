@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-04-29
+
+- [#8149](https://github.com/KATO-Hiro/AtCoderClans/pull/8149) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績に関連するサービス](../../web_app/services_using_scores)」ページに、以下のWebアプリを追加。
+    - [AtCoder Heuristic Season Ranking](https://ahc-season-ranking.terry-u16.net/)
+
 ### 2024-04-28
 
 - [#8144](https://github.com/KATO-Hiro/AtCoderClans/pull/8144) - (破壊的な変更) 公開を取りやめたと思われる色変記事を一時的に「[Archives](../../archived)」ページに移動。
