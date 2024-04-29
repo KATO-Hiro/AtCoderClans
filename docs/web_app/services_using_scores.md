@@ -42,6 +42,8 @@ title: コンテストの成績に関連するサービス
 
 ### 仮想的なレーティングを計算
 
+#### アルゴリズム部門
+
 - [AtCoder Anytime](https://atcoder-anytime.sonoapp.page/) - 「バーチャル参加」の結果を利用して、レーティングの変動を表示する。同一の作者により[Codeforces版](https://codeforces-anytime.firebaseapp.com/)も公開されている。
 
     <div align="center">
@@ -70,6 +72,14 @@ title: コンテストの成績に関連するサービス
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/mov_rating.png" alt="mov rating">
+    </div>
+
+#### ヒューリスティック部門
+
+- [AtCoder Heuristic Season Ranking](https://ahc-season-ranking.terry-u16.net/) - 期間を指定すると、該当するコンテストに基づいてレーティングのランキングや個人成績が表示される。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_heuristic_season_ranking.png" alt="atcoder heuristic season ranking">
     </div>
 
 ## ライバルを探す・競う
