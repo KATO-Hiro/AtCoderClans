@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-04-30
+
+- [#8158](https://github.com/KATO-Hiro/AtCoderClans/pull/8158) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [forループ](https://www.youtube.com/@for_i_in_loop/featured)
+- [#8157](https://github.com/KATO-Hiro/AtCoderClans/pull/8157) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページで掲載しているWebアプリのURLを修正。
+    - [AC Counter](https://ac-counter.onrender.com)
+
 ### 2024-04-29
 
 - [#8149](https://github.com/KATO-Hiro/AtCoderClans/pull/8149) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績に関連するサービス](../../web_app/services_using_scores)」ページに、以下のWebアプリを追加。
