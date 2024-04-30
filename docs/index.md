@@ -60,6 +60,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2024-04-30
+
+    - 「[コンテストに関する統計情報](web_app/statistics)」ページ
+        - [AC Counter](https://ac-counter.onrender.com)
+
+    <div align="center">
+      <img loading = "lazy" src="images/web_app/ac_counter.png" alt="ac counter">
+    </div>
+
     2024-04-29
 
     - 「[コンテストの成績に関連するサービス](web_app/services_using_scores)」ページ
@@ -123,11 +132,6 @@
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [期待値DPと確率DPの例](https://paruma184.hatenablog.com/entry/2024/04/17/211859)
 
-    2024-04-15
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [世界一やさしいAHC体験記](https://d-burioden.hateblo.jp/entry/2024/04/13/154639)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -154,6 +158,11 @@
         - [a1048576](https://atcoder.jp/users/a1048576)さん - [Qiita](https://qiita.com/a1048576/)
 
 === "動画"
+
+    2024-04-30
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [forループ](https://www.youtube.com/@for_i_in_loop)
 
     2024-04-27
 
