@@ -26,7 +26,7 @@ title: コンテストに関する統計情報
 
 ### 正解数
 
-- [AC Counter](https://accepted-counter.web.app/) - 任意のユーザが正解した問題数を表示する。以下のコンテストサイトに対応。
+- [AC Counter](https://ac-counter.onrender.com) - 任意のユーザが正解した問題数を表示する。以下のコンテストサイトに対応。
     - [AtCoder](https://atcoder.jp/)
     - [AOJ (AIZU ONLINE JUDGE)](https://onlinejudge.u-aizu.ac.jp/home)
     - [Codeforces](https://codeforces.com/)
