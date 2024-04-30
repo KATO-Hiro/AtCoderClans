@@ -50,6 +50,10 @@ title: チャンネル
 - [佐野太郎](https://www.youtube.com/channel/UCE2ID_KiY2kKne7d1zFT7JQ/featured) - [sano192](https://atcoder.jp/users/sano192)さんのチャンネル。頻出のアルゴリズムについて、コンテストで出題された問題を題材に解説している。
 - [みちらから](https://www.youtube.com/channel/UCqBF4sFbNDMLwIUYbS1wkhg/featured) - [michirakara](https://atcoder.jp/users/michirakara)さんのチャンネル。コンテストで出題された問題の解説とPythonでの実装方法が紹介されている。
 
+## VOICEROID実況
+
+- [forループ](https://www.youtube.com/@for_i_in_loop/featured) - [loop0919](https://atcoder.jp/users/loop0919)さんのチャンネル。コンテストの実況動画が公開されている。
+
 ## 生放送・動画配信に関するTips
 
 - [競技プログラミングやCTFの動画配信/生放送でのTips](https://kurenaif.hatenablog.com/entry/2020/11/27/223351) - [kurenaif](https://atcoder.jp/users/kurenaif)さんが、YouTubeの生放送や動画配信の経験から得られたTipsを紹介した記事。
