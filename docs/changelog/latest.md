@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-05-01
+
+- [#8166](https://github.com/KATO-Hiro/AtCoderClans/pull/8166) - (破壊的な変更) リンク切れと思われるWebアプリを一時的に「[Archives](../../archived)」ページに移動。
+    - AtCoder Charts
+- [#8164](https://github.com/KATO-Hiro/AtCoderClans/pull/8164) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[onsen_manjuuu](https://atcoder.jp/users/onsen_manjuuu)さんの[記事](https://onsen-manjuuu.net/blog/posts/yellow.html)を追加。
+
 ### 2024-04-30
 
 - [#8158](https://github.com/KATO-Hiro/AtCoderClans/pull/8158) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
