@@ -11,12 +11,6 @@ title: コンテストの成績を見る
 
 ### 1人
 
-- [AtCoder Charts](https://atcoder-charts.netlify.com/) - 任意のユーザのレーティングとパフォーマンス値の推移を表示する。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_charts.png" alt="atcoder charts">
-    </div>
-
 - [AtCoder Competition History Chart Maker](https://colab.research.google.com/github/bo9chan/AtCoderCharts/blob/main/CompetitionHistoryChart.ipynb) - 任意のユーザのレーティングとパフォーマンス値の推移を表示する。
 
     <div align="center">
