@@ -183,6 +183,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2024-05-01
+
+    - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
+        - [onsen_manjuuu](https://atcoder.jp/users/onsen_manjuuu)さん - [AtCoder黄色になったよ](https://onsen-manjuuu.net/blog/posts/yellow.html)
+
     2024-04-25
 
     - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
@@ -197,13 +202,6 @@
 
     - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
         - [a1048576](https://atcoder.jp/users/a1048576)さん - [AtCoderで入黄しました](https://qiita.com/a1048576/items/635a7c2798bbb0d21bef)
-
-=== "国内外のコンテストサイト"
-
-    2024-04-16
-
-    - 「[yukicoder](related_contest_sites/yukicoder)」ページ
-        - [yukicoder 1962 の解説の解説の解説](https://koba-e964.hatenablog.com/entry/2024/04/15/230008)
 
 ## AtCoder公式グッズを購入する
 
