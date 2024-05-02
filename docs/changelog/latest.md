@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-05-02
+
+- [#8170](https://github.com/KATO-Hiro/AtCoderClans/pull/8170) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[Alumite14](https://atcoder.jp/users/Alumite14)さんの[記事](https://qiita.com/alumite14/items/649aa426bc1b72e5de84)を追加。
+
 ### 2024-05-01
 
 - [#8166](https://github.com/KATO-Hiro/AtCoderClans/pull/8166) - (破壊的な変更) リンク切れと思われるWebアプリを一時的に「[Archives](../../archived)」ページに移動。
