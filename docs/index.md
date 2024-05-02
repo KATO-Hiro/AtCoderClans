@@ -87,15 +87,6 @@
       <img loading = "lazy" src="images/web_app/tools_search.png" alt="tools search">
     </div>
 
-    2024-04-17
-
-    - 「[問題を解く](web_app/solve_problems)」ページ
-        - [searchapp](https://andoryoto.github.io/WebApplication/searchapp/)
-
-    <div align="center">
-      <img loading = "lazy" src="images/web_app/searchapp.png" alt="searchapp">
-    </div>
-
 === "ボット"
 
     2024-04-21
@@ -182,6 +173,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2024-05-02
+
+    - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [Alumite14](https://atcoder.jp/users/Alumite14)さん - [【色変記事】PythonメインでAtCoder入緑したので振り返り（スニペットもあるよ）](https://qiita.com/alumite14/items/649aa426bc1b72e5de84)
 
     2024-05-01
 
