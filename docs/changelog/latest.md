@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-05-03
+
+- [#8176](https://github.com/KATO-Hiro/AtCoderClans/pull/8176) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Python](../../articles/implementation/python)」ページに、以下の記事を追加。
+    - [大きい方/小さい方からtopKを管理しながらなんかやるモジュールを書いた](https://prd-xxx.hateblo.jp/entry/2024/05/01/235922)
+- [#8175](https://github.com/KATO-Hiro/AtCoderClans/pull/8175) - 「[Related Contest Sites](../../related_contest_sites)」の「[ICPC (国際大学対抗プログラミングコンテスト)](../../related_contest_sites/icpc)」ページに、以下の記事を追加。
+    - [ICPC 2023 世界大会参加記](https://e869120.hatenablog.com/entry/2024/05/01/165143)
+
 ### 2024-05-02
 
 - [#8170](https://github.com/KATO-Hiro/AtCoderClans/pull/8170) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
