@@ -107,6 +107,11 @@
 
 === "記事"
 
+    2024-05-03
+
+    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
+        - [大きい方/小さい方からtopKを管理しながらなんかやるモジュールを書いた](https://prd-xxx.hateblo.jp/entry/2024/05/01/235922)
+
     2024-04-24
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -142,11 +147,6 @@
 
     - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
         - [nahco314](https://atcoder.jp/users/nahco314)さん - [Qiita](https://qiita.com/NaHCO3)
-
-    2024-04-18
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [a1048576](https://atcoder.jp/users/a1048576)さん - [Qiita](https://qiita.com/a1048576/)
 
 === "動画"
 
@@ -194,10 +194,12 @@
     - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
         - [ococonomy1](https://atcoder.jp/users/ococonomy1)さん - [AtCoder 黄になりました！！](https://ococonomy1.hateblo.jp/entry/2024/04/21/201152)
 
-    2024-04-18
+=== "国内外のコンテストサイト"
 
-    - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
-        - [a1048576](https://atcoder.jp/users/a1048576)さん - [AtCoderで入黄しました](https://qiita.com/a1048576/items/635a7c2798bbb0d21bef)
+    2024-05-03
+
+    - 「[ICPC (国際大学対抗プログラミングコンテスト)](related_contest_sites/icpc)」ページ
+        - [ICPC 2023 世界大会参加記](https://e869120.hatenablog.com/entry/2024/05/01/165143)
 
 ## AtCoder公式グッズを購入する
 
