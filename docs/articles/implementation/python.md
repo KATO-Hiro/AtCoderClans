@@ -83,6 +83,7 @@ title: Python
 
 - [std::setを使わない代替テクニック](https://ikatakos.com/pot/programming_algorithm/data_structure/balancing_binary_search_tree/tree_free) - C++の`std::set`の利用を前提とした問題が出題されたときに、Pythonにおける代替手段をまとめた記事。Binary Indexed Tree (BIT)、優先度付きキュー、ピボット木、平方分割などによる方法が紹介されている。
 - [Pythonでstd::setの代替物を作った](https://qiita.com/tatyam/items/492c70ac4c955c055602) - Pythonで平衡二分探索木(C++の`std::set`に相当)の代替手段を紹介した記事。平方分割で実装されており、コードが短く・高速・多機能であるのが特徴。ソースコードは、[GitHub](https://github.com/tatyam-prime/SortedSet)で公開されている。
+    - [大きい方/小さい方からtopKを管理しながらなんかやるモジュールを書いた](https://prd-xxx.hateblo.jp/entry/2024/05/01/235922) - 上記のソースコードを活用して、要素の追加・削除・任意の時点での上位 / 下位k個の和などを高速に計算するモジュールが紹介されている。
 - [平衡二分木を実装する](https://qiita.com/Kiri8128/items/6256f8559f0026485d90) - データ構造の一種である「平衡二分木」をPythonで実装する方法を紹介した記事。平衡を保つために、 ピボット値を設定しているのが特徴。
 
 - [【競プロ専用】PythonでMultiSetを今度こそ](https://qiita.com/toast-uz/items/a63f2d57ec7321186f12) - 簡単かつ汎用性の高い`Multiset`の実装方法が解説されている記事。
