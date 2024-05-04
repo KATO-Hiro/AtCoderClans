@@ -107,6 +107,11 @@
 
 === "記事"
 
+    2024-05-04
+
+    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
+        - [競プロでよく使うけど空で書けないフレーズ](https://qiita.com/do_an/items/e5a202cac4fc69fe849d)
+
     2024-05-03
 
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
@@ -122,11 +127,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Summer - 学校ランキング (4月22日時点)](https://twitter.com/atcoder/status/1782249854766546993)
-
-    2024-04-19
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [期待値DPと確率DPの例](https://paruma184.hatenablog.com/entry/2024/04/17/211859)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
