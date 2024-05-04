@@ -17,6 +17,7 @@ title: Python
 
 - [Pythonで競技プログラミング -ライブラリ編-](https://qiita.com/Kentaro_okumura/items/5b95b767a2e691cd5482) - 筆者がPythonの標準ライブラリでよく利用する機能をまとめた記事。利用する問題例のリンクも掲載されている。
 - [Pythonで競プロするのに必要な機能をまとめてみた〜itertools〜](https://qiita.com/DaikiSuyama/items/11f63a94d63fa72e8bf4) - Pythonのitertoolsライブラリのうち、競技プログラミングでよく使う関数をドキュメント形式でまとめた記事。関数の使い方だけでなく、関連した例題も掲載されている。
+- [競プロでよく使うけど空で書けないフレーズ](https://qiita.com/do_an/items/e5a202cac4fc69fe849d) - コンテストの問題を解く上で頻出、かつ、忘れがちな標準ライブラリの機能がまとめられている。
 - [Pythonで分数のリストを誤差なしでソートする](https://qiita.com/nishizumi_noob/items/7a1323c45cf6ce56a368) - 分数で構成されるリストを誤差なくソートする方法が紹介されている記事。
 - [TimeComplexity](https://wiki.python.org/moin/TimeComplexity) - CPythonにおけるlist、collections.deque、set、dictの各種操作に対する時間計算量がまとめられている記事。
 
