@@ -43,6 +43,7 @@ title: Python
 |simamumu|[はてなブログ](https://simamumu.hatenablog.com/)|2020年2月以降、新規の記事を確認できず。|
 |soraie|[Qiita](https://qiita.com/soraie)|高難易度の問題を中心にC++で実装されている回答もある。|
 |Tallfall|[はてなブログ](https://tallfall.hatenablog.com/)||
+|Thinkingpegasus|[Qiita](https://qiita.com/nouka28)|高難易度の問題を中心にC++で実装されている回答もある。|
 |titia|[Blogger](https://titianote.blogspot.com/)||
 |Tomii9273|[Qiita](https://qiita.com/tomii9273)||
 |yaketake08|[はてなブログ](https://smijake3.hatenablog.com/)|2020年1月以降、新規の記事を確認できず。|

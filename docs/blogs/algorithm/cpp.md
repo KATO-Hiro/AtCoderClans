@@ -118,6 +118,7 @@ title: C&#43;&#43;
 |a1048576|[Qiita](https://qiita.com/a1048576/)||
 |binap|[Qiita](https://qiita.com/binap/)||
 |Chanyuh|[はてなブログ](https://p-chanyuh.hatenablog.com/)||
+|cled0328|[はてなブログ](https://cled0328.hatenablog.com/)||
 |cookies|[はてなブログ](https://cookies.hatenablog.jp/)||
 |ctyl|[はてなブログ](https://ctylim.hatenablog.com/)|2018年1月以降、新規の記事を確認できず。|
 |deuteridayo|[Qiita](https://qiita.com/deuteridayo)||
