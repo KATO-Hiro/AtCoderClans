@@ -146,6 +146,7 @@ title: アルゴリズムを学ぶ
 
 - [UnionFindTreeに関する知見の諸々](https://noshi91.hatenablog.com/entry/2018/05/30/191943) - データ構造の一つであるUnion Find Treeに関する実装のバリエーションを解説した記事。また、同アルゴリズムの派生系とC++の実装例も紹介されている。
 - [重み付きUnion-Find木とそれが使える問題のまとめ、および、牛ゲーについて](https://qiita.com/drken/items/cce6fc5c579051e64fab) - 重みつき(ポテンシャル)UnionFind木について、通常のUnionFind木との違い・C++による実装・例題などを紹介した記事。
+    - [一次方程式をUnionFindに乗せる　〜dsu_equationを作ろう〜](https://qiita.com/nouka28/items/a7cf4bb7130a541e97fb) - 一次方程式を扱うUnionFind木の解説とC++の実装例が紹介されている。
 - ["データ構造をマージする一般的なテク"とは？](http://web.archive.org/web/20181213115442/http://topcoder.g.hatena.ne.jp/iwiwi/20131226/1388062106) - データ構造に効率的なマージ機能を追加する方法を解説した記事。Union Find Treeの`merge`を高速化したときの工夫を応用している。
 
     !!! warning "注意"
