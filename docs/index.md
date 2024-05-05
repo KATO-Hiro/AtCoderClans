@@ -94,18 +94,12 @@
     - 「[Bot](bot)」ページ
         - [Bluesky競プロ部](https://bsky.app/profile/kyopro.bsky.social)
 
-=== "ユーザスクリプト"
-
-    2024-04-20
-
-    - 「[解説を読む・テストケースを見る](user_scripts/read_editorials)」ページ
-        - [AtCoder Editorial Voting](https://greasyfork.org/ja/scripts/492964-atcoder-editorial-voting)
-
-    <div align="center">
-      <img loading = "lazy" src="images/userscript/atcoder_editorial_voting.png" alt="atcoder editorial voting">
-    </div>
-
 === "記事"
+
+    2024-05-05
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [一次方程式をUnionFindに乗せる　〜dsu_equationを作ろう〜](https://qiita.com/nouka28/items/a7cf4bb7130a541e97fb)
 
     2024-05-04
 
@@ -130,6 +124,14 @@
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2024-05-05
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [cled0328](https://atcoder.jp/users/cled0328)さん - [はてなブログ](https://cled0328.hatenablog.com/)
+
+    - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
+        - [Thinkingpegasus](https://atcoder.jp/users/Thinkingpegasus)さん - [Qiita](https://qiita.com/nouka28)
 
     2024-04-28
 

@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-05-05
+
+- [#8187](https://github.com/KATO-Hiro/AtCoderClans/pull/8187) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [一次方程式をUnionFindに乗せる　〜dsu_equationを作ろう〜](https://qiita.com/nouka28/items/a7cf4bb7130a541e97fb)
+- [#8186](https://github.com/KATO-Hiro/AtCoderClans/pull/8186) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
+
 ### 2024-05-04
 
 - [#8181](https://github.com/KATO-Hiro/AtCoderClans/pull/8181) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Python](../../articles/implementation/python)」ページに、以下の記事を追加。
