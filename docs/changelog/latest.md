@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-05-06
+
+- [#8194](https://github.com/KATO-Hiro/AtCoderClans/pull/8194) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Python](../../articles/implementation/python)」ページに、以下の記事を追加。
+    - [Python 高速化選手権](https://qiita.com/n4mlz/items/fbadc02b7864f62b9622)
+- [#8189](https://github.com/KATO-Hiro/AtCoderClans/pull/8189) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
+    - [エラトステネスの篩の高速化](https://qiita.com/peria/items/a4ff4ddb3336f7b81d50)
+
 ### 2024-05-05
 
 - [#8187](https://github.com/KATO-Hiro/AtCoderClans/pull/8187) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
