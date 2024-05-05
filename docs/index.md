@@ -87,14 +87,15 @@
       <img loading = "lazy" src="images/web_app/tools_search.png" alt="tools search">
     </div>
 
-=== "ボット"
-
-    2024-04-21
-
-    - 「[Bot](bot)」ページ
-        - [Bluesky競プロ部](https://bsky.app/profile/kyopro.bsky.social)
-
 === "記事"
+
+    2024-05-06
+
+    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
+        - [Python 高速化選手権](https://qiita.com/n4mlz/items/fbadc02b7864f62b9622)
+
+    - 「[数学を学ぶ](articles/math)」ページ
+        - [エラトステネスの篩の高速化](https://qiita.com/peria/items/a4ff4ddb3336f7b81d50)
 
     2024-05-05
 
@@ -145,11 +146,6 @@
         - [deuteridayo](https://atcoder.jp/users/deuteridayo)さん - [Qiita](https://qiita.com/deuteridayo)
         - [ococonomy1](https://atcoder.jp/users/ococonomy1)さん - [はてなブログ](https://ococonomy1.hateblo.jp/)
 
-    2024-04-21
-
-    - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
-        - [nahco314](https://atcoder.jp/users/nahco314)さん - [Qiita](https://qiita.com/NaHCO3)
-
 === "動画"
 
     2024-04-30
@@ -164,13 +160,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [半分全列挙を「高速化」する【ゆっくり解説】](https://www.youtube.com/watch?v=EUZX4tBqo0M)
-
-=== "SNS"
-
-    2024-04-21
-
-    - 「[SNS](sns)」ページ
-        - [競プロフィード](https://bsky.app/profile/did:plc:oxqrfur74k6qr4xy4g3clfe3/feed/aaahi3lkvvr6i)
 
 === "色変記事"
 
