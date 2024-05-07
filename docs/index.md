@@ -60,6 +60,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2024-05-07
+
+    - 「[コンテストの成績を見る](web_app/view_and_compare_scores)」ページ
+        - [AtCoder Charts](https://atcoder-charts.netlify.app/)
+
+    <div align="center">
+      <img loading = "lazy" src="images/web_app/atcoder_charts.png" alt="atcoder charts">
+    </div>
+
     2024-04-30
 
     - 「[コンテストに関する統計情報](web_app/statistics)」ページ
@@ -140,12 +149,6 @@
         - [new_textfile](https://atcoder.jp/users/new_textfile)さん - [はてなブログ](https://new-textfile.hatenablog.com/)
         - [onsen_manjuuu](https://atcoder.jp/users/onsen_manjuuu)さん - [自作ブログ](https://onsen-manjuuu.net/blog/index.html)
 
-    2024-04-22
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [deuteridayo](https://atcoder.jp/users/deuteridayo)さん - [Qiita](https://qiita.com/deuteridayo)
-        - [ococonomy1](https://atcoder.jp/users/ococonomy1)さん - [はてなブログ](https://ococonomy1.hateblo.jp/)
-
 === "動画"
 
     2024-04-30
@@ -165,6 +168,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2024-05-07
+
+    - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
+        - [Thinkingpegasus](https://atcoder.jp/users/Thinkingpegasus)さん - [AtCoderで入黄しました！！](https://qiita.com/nouka28/items/a8b06865331838642ff2)
+
     2024-05-02
 
     - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
@@ -179,11 +187,6 @@
 
     - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
         - [dhirabayashi](https://atcoder.jp/users/dhirabayashi)さん - [AtCoderでぴったり入緑したので、落ちないうちに色変記事を書かせてくださいお願いします](https://qiita.com/dhirabayashi/items/ae3a685140d1910747a9)
-
-    2024-04-22
-
-    - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
-        - [ococonomy1](https://atcoder.jp/users/ococonomy1)さん - [AtCoder 黄になりました！！](https://ococonomy1.hateblo.jp/entry/2024/04/21/201152)
 
 === "国内外のコンテストサイト"
 

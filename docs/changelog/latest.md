@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-05-07
+
+- [#8203](https://github.com/KATO-Hiro/AtCoderClans/pull/8203) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[Thinkingpegasus](https://atcoder.jp/users/Thinkingpegasus)さんの[記事](https://qiita.com/nouka28/items/a8b06865331838642ff2)を追加。
+- [#8201](https://github.com/KATO-Hiro/AtCoderClans/pull/8166) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績を見る](../../web_app/view_and_compare_scores)」ページに、以下のWebアプリを再掲。
+    - [AtCoder Charts](https://atcoder-charts.netlify.app/)
+
 ### 2024-05-06
 
 - [#8194](https://github.com/KATO-Hiro/AtCoderClans/pull/8194) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Python](../../articles/implementation/python)」ページに、以下の記事を追加。
