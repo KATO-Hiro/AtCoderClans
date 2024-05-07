@@ -135,11 +135,6 @@
         - [いま、ここにしかない、出会い。(AtCoder 第一回マスターズ選手権 -決勝- で五位入賞しました。)](https://tsukammo.hatenablog.com/entry/2024/04/21/161831)
         - [第一回マスターズ参加記](https://amentorimaru.hatenablog.com/entry/2024/04/21/034648)
 
-    2024-04-23
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Summer - 学校ランキング (4月22日時点)](https://twitter.com/atcoder/status/1782249854766546993)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
