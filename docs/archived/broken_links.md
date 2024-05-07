@@ -42,15 +42,6 @@ title: リンク切れ
       <img loading = "lazy" src="../../images/web_app/ac_solutions.png" alt="ac solutions">
     </div>
 
-### コンテストの成績を見る
-
-- [AtCoder Charts](https://atcoder-charts.netlify.com/) - 任意のユーザのレーティングとパフォーマンス値の推移を表示する。
-    - 確認した日: 2024/05/01
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_charts.png" alt="atcoder charts">
-    </div>
-
 ### 問題に関する統計情報
 
 - [AtCoder Code Evaluate](https://ac-code-eval.com/) - 問題の実装の重さをAC(Accepted)コードをもとに評価しているWebアプリ。
