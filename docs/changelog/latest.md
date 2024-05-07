@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-05-08
+
+- [#8207](https://github.com/KATO-Hiro/AtCoderClans/pull/8207) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Rust](../../articles/implementation/rust)」ページに、以下の記事を追加。
+    - [【Rust】ACL の遅延セグ木をベースに双対セグ木を作ってみた](https://paruma184.hatenablog.com/entry/2024/05/06/010239)
+- [#8206](https://github.com/KATO-Hiro/AtCoderClans/pull/8206) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AtCoder Junior League 2024 Summer - 学校ランキング (5月7日時点)](https://twitter.com/atcoder/status/1787659040098767241)
+
 ### 2024-05-07
 
 - [#8203](https://github.com/KATO-Hiro/AtCoderClans/pull/8203) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

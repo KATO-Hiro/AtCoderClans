@@ -98,6 +98,14 @@
 
 === "記事"
 
+    2024-05-08
+
+    - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
+        - [【Rust】ACL の遅延セグ木をベースに双対セグ木を作ってみた](https://paruma184.hatenablog.com/entry/2024/05/06/010239)
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Summer - 学校ランキング (5月7日時点)](https://twitter.com/atcoder/status/1787659040098767241)
+
     2024-05-06
 
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
