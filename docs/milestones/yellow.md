@@ -7,6 +7,7 @@ title: レーティング2000〜2399(黄色)
 
 ## 2024年
 
+- [AtCoderで入黄しました！！](https://qiita.com/nouka28/items/a8b06865331838642ff2) - [Thinkingpegasus](https://atcoder.jp/users/Thinkingpegasus)さんが、2024年5月4日に達成。
 - [AtCoder黄色になったよ](https://onsen-manjuuu.net/blog/posts/yellow.html) - [onsen_manjuuu](https://atcoder.jp/users/onsen_manjuuu)さんが、2024年4月27日に達成。
 - [AtCoder 黄になりました！！](https://ococonomy1.hateblo.jp/entry/2024/04/21/201152) - [ococonomy1](https://atcoder.jp/users/ococonomy1)さんが、2024年4月20日に達成。
 - [AtCoderで入黄しました](https://qiita.com/a1048576/items/635a7c2798bbb0d21bef) - [a1048576](https://atcoder.jp/users/a1048576)さんが、2024年4月13日に達成。
