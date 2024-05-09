@@ -248,6 +248,9 @@ title: リンク切れ
 
 ### レーティング800〜1199(緑色)
 
+- [数学が苦手な大学生の AtCoder 入緑記事](https://note.com/yindolsa/n/n512d1530339e) - [ZUkA_](https://atcoder.jp/users/ZUkA_)さんが、2023年9月16日に達成。
+    - 確認した日: 2024/05/09
+
 - [atcoderで入緑したのでやったことをまとめる](https://qiita.com/koriori/items/001e85e790ed8e9fd43b) - [koriori](https://atcoder.jp/users/koriori)さんが、2021年9月26日に達成。
     - 確認した日: 2024/02/25
 
