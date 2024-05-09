@@ -129,12 +129,6 @@
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
         - [大きい方/小さい方からtopKを管理しながらなんかやるモジュールを書いた](https://prd-xxx.hateblo.jp/entry/2024/05/01/235922)
 
-    2024-04-24
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [いま、ここにしかない、出会い。(AtCoder 第一回マスターズ選手権 -決勝- で五位入賞しました。)](https://tsukammo.hatenablog.com/entry/2024/04/21/161831)
-        - [第一回マスターズ参加記](https://amentorimaru.hatenablog.com/entry/2024/04/21/034648)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
