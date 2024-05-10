@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-05-10
+
+- [#8217](https://github.com/KATO-Hiro/AtCoderClans/pull/8217) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [AHCに取り組む上で心がけていること](https://hitoare.hatenablog.com/entry/2024/04/30/223646)
+- [#8216](https://github.com/KATO-Hiro/AtCoderClans/pull/8216) - (破壊的な変更) 「[Change Log](../latest)」ページの2024年2月分を月別のアーカイブに移動。
+    - [February, 2024](../2024_02)
+
 ### 2024-05-09
 
 - [#8213](https://github.com/KATO-Hiro/AtCoderClans/pull/8213) - (破壊的な変更) リンク切れと思われる色変記事を一時的に「[Archives](../../archived)」ページに移動。

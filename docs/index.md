@@ -98,6 +98,11 @@
 
 === "記事"
 
+    2024-05-10
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AHCに取り組む上で心がけていること](https://hitoare.hatenablog.com/entry/2024/04/30/223646)
+
     2024-05-08
 
     - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
@@ -179,11 +184,6 @@
 
     - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
         - [onsen_manjuuu](https://atcoder.jp/users/onsen_manjuuu)さん - [AtCoder黄色になったよ](https://onsen-manjuuu.net/blog/posts/yellow.html)
-
-    2024-04-25
-
-    - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [dhirabayashi](https://atcoder.jp/users/dhirabayashi)さん - [AtCoderでぴったり入緑したので、落ちないうちに色変記事を書かせてくださいお願いします](https://qiita.com/dhirabayashi/items/ae3a685140d1910747a9)
 
 === "国内外のコンテストサイト"
 
