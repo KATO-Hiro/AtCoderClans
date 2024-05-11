@@ -26,3 +26,7 @@ title: Related Contest Sites - はじめに
 - [Webサービス系コンテスト](./web_services)
 - [セキュリティ系コンテスト](./security)
 - [量子コンピュータ系コンテスト](./quantum)
+
+## 主要コンテストの紹介記事
+
+- [競プロ コンテスト(海外含む) まとめ](https://rubikun.hatenablog.jp/entry/2024/03/03/214112) - 筆者が参加している国内外の定期コンテストの基本情報とおすすめ度(AtCoderのレーティング2400以上を目指す人向け)がまとめられている。
