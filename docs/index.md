@@ -87,15 +87,6 @@
       <img loading = "lazy" src="images/web_app/atcoder_heuristic_season_ranking.png" alt="atcoder heuristic season ranking">
     </div>
 
-    2024-04-26
-
-    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
-        - [検索エンジン集](https://magurofly.github.io/tools/search)
-
-    <div align="center">
-      <img loading = "lazy" src="images/web_app/tools_search.png" alt="tools search">
-    </div>
-
 === "記事"
 
     2024-05-10
@@ -186,6 +177,11 @@
         - [onsen_manjuuu](https://atcoder.jp/users/onsen_manjuuu)さん - [AtCoder黄色になったよ](https://onsen-manjuuu.net/blog/posts/yellow.html)
 
 === "国内外のコンテストサイト"
+
+    2024-05-11
+
+    - 「[はじめに](related_contest_sites)」ページ
+        - [競プロ コンテスト(海外含む) まとめ](https://rubikun.hatenablog.jp/entry/2024/03/03/214112)
 
     2024-05-03
 

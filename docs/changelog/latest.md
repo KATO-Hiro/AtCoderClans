@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-05-11
+
+- [#8221](https://github.com/KATO-Hiro/AtCoderClans/pull/8221) - 「[Related Contest Sites - はじめに](../../related_contest_sites)」ページに以下の記事を追加。
+    - [競プロ コンテスト(海外含む) まとめ](https://rubikun.hatenablog.jp/entry/2024/03/03/214112)
+
 ### 2024-05-10
 
 - [#8217](https://github.com/KATO-Hiro/AtCoderClans/pull/8217) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
