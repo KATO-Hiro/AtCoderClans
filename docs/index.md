@@ -89,6 +89,12 @@
 
 === "記事"
 
+    2024-05-12
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [Splay 木の計算量解析](https://ngtkana.hatenablog.com/entry/2024/04/22/205043)
+        - [Splay 木ベースの Link-Cut 木の計算量解析](https://ngtkana.hatenablog.com/entry/2024/05/11/033439)
+
     2024-05-10
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -128,6 +134,11 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2024-05-12
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [Kyo_s_s](https://atcoder.jp/users/Kyo_s_s)さん - [自作ブログ](https://kyo-homepage.vercel.app/blog)
+
     2024-05-05
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
@@ -148,14 +159,6 @@
 
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [forループ](https://www.youtube.com/@for_i_in_loop)
-
-    2024-04-27
-
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [AngrySadEight](https://www.youtube.com/@AngrySadEight)
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [半分全列挙を「高速化」する【ゆっくり解説】](https://www.youtube.com/watch?v=EUZX4tBqo0M)
 
 === "色変記事"
 

@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-05-12
+
+- [#8228](https://github.com/KATO-Hiro/AtCoderClans/pull/8228)、[#8229](https://github.com/KATO-Hiro/AtCoderClans/pull/8229) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [Splay 木の計算量解析](https://ngtkana.hatenablog.com/entry/2024/04/22/205043)
+    - [Splay 木ベースの Link-Cut 木の計算量解析](https://ngtkana.hatenablog.com/entry/2024/05/11/033439)
+- [#8227](https://github.com/KATO-Hiro/AtCoderClans/pull/8227) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
+
 ### 2024-05-11
 
 - [#8221](https://github.com/KATO-Hiro/AtCoderClans/pull/8221) - 「[Related Contest Sites - はじめに](../../related_contest_sites)」ページに以下の記事を追加。
