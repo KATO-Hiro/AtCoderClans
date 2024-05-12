@@ -149,6 +149,7 @@ title: C&#43;&#43;
 |kozima|[はてなブログ](https://lkozima.hatenablog.com/)||
 |Ktya_59|[livedoor Blog](http://blog.livedoor.jp/tkoma512/)|2020年6月以降、新規の記事を確認できず。|
 |kyon2326|[tumblr](https://suzukiapple.tumblr.com/)||
+|Kyo_s_s|[自作ブログ](https://kyo-homepage.vercel.app/blog)||
 |Lorent|[はてなブログ](https://lorent-kyopro.hatenablog.com/)||
 |Luzhiled|[はてなブログ](https://luzhiled.hatenablog.com/)||
 |lynmisakura|[はてなブログ](https://andoreiji11.hatenadiary.jp/)||
