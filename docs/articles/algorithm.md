@@ -183,6 +183,7 @@ title: アルゴリズムを学ぶ
 ### 平衡二分探索木
 
 - [k番目の値を高速に取り出せるデータ構造のまとめ - BIT上二分探索や平衡二分探索木など](https://qiita.com/drken/items/1b7e6e459c24a83bb7fd) - k番目の値を高速に取り出すことができるデータ構造をまとめた記事。
+- [Splay 木の計算量解析](https://ngtkana.hatenablog.com/entry/2024/04/22/205043) - 平衡二分探索木の一つであるSplay 木の概略とポテンシャル増分に関する証明が行われている。
 
 ### Heavy-Light Decomposition
 
