@@ -65,7 +65,7 @@ title: C&#43;&#43;
 |amylase|[はてなブログ](https://pepsin-amylase.hatenablog.com/)||
 |dohatsutsu|[はてなブログ](https://dohatsutsu.hatenablog.com/)|2017年11月以降、新規の記事を確認できず。|
 |dokin|[はてなブログ](https://dokinac.hatenablog.com/)||
-|drken|[はてなブログ](https://drken1215.hatenablog.com/)、 [Qiita](https://qiita.com/drken)|[問題解決力を鍛える!アルゴリズムとデータ構造](https://www.amazon.co.jp/dp/4065128447/)の著者。[アルゴ式](https://algo-method.com/)の運営者。|
+|drken|[はてなブログ](https://drken1215.hatenablog.com/)、 [Qiita](https://qiita.com/drken)|[問題解決力を鍛える!アルゴリズムとデータ構造](https://www.amazon.co.jp/dp/4065128447/)の著者。[アルゴ式](https://algo-method.com/)の元運営者。|
 |drogskol|[はてなブログ](https://drogskol.hatenablog.com/)||
 |ei13333|[はてなブログ](https://ei1333.hateblo.jp/)||
 |enjapma|[はてなブログ](https://enjapma.hatenablog.com/)||

@@ -89,6 +89,11 @@
 
 === "記事"
 
+    2024-05-13
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Summer - 学校ランキング (5月13日時点)](https://twitter.com/atcoder/status/1789854331937734678)
+
     2024-05-12
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
@@ -134,6 +139,12 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2024-05-13
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さん - [はてなブログ](https://halc-kyopro.hatenablog.com/)
+        - [kaichou243](https://atcoder.jp/users/kaichou243)さん - [はてなブログ](https://kaichou243.hatenablog.com/)
+
     2024-05-12
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
@@ -146,12 +157,6 @@
 
     - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
         - [Thinkingpegasus](https://atcoder.jp/users/Thinkingpegasus)さん - [Qiita](https://qiita.com/nouka28)
-
-    2024-04-28
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [new_textfile](https://atcoder.jp/users/new_textfile)さん - [はてなブログ](https://new-textfile.hatenablog.com/)
-        - [onsen_manjuuu](https://atcoder.jp/users/onsen_manjuuu)さん - [自作ブログ](https://onsen-manjuuu.net/blog/index.html)
 
 === "動画"
 
