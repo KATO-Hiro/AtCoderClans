@@ -1,2 +1,2 @@
-mkdocs-material==9.5.21
+mkdocs-material==9.5.22
 pip==24.0
