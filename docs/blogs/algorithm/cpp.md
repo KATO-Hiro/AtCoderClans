@@ -71,6 +71,7 @@ title: C&#43;&#43;
 |enjapma|[はてなブログ](https://enjapma.hatenablog.com/)||
 |gasin|[はてなブログ](https://gasin.hatenadiary.jp/)||
 |goodbaton|[はてなブログ](https://goodbaton.hatenablog.com/)|2017年3月以降、新規の記事を確認できず。|
+|hirayuu_At|[はてなブログ](https://halc-kyopro.hatenablog.com/)||
 |Hoi_koro|[はてなブログ](https://hoikoro.hatenablog.com/)|2019年3月以降、新規の記事を確認できず。|
 |hotman78|[はてなブログ](https://hotman78.hatenablog.com/)||
 |Jirotech|[はてなブログ](https://shuu0914.hatenablog.com/)||
@@ -142,6 +143,7 @@ title: C&#43;&#43;
 |jp3bgy|[GitHub Pages](https://jp3bgy.github.io/blog/)||
 |k1suxu|[はてなブログ](https://k1suxu.hatenablog.com/)||
 |kaage|[はてなブログ](https://kaage.hatenablog.com/)||
+|kaichou243|[はてなブログ](https://kaichou243.hatenablog.com/)||
 |kanpurin|[はてなブログ](https://kanpurin.hatenablog.com/)||
 |KKT89|[はてなブログ](https://kkt89.hatenablog.com/)||
 |knshnb|[自作ブログ](https://blog.knshnb.com/)||
