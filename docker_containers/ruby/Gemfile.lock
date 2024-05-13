@@ -20,9 +20,9 @@ GEM
       webrick
     http-cookie (1.0.4)
       domain_name (~> 0.5)
-    mini_portile2 (2.8.5)
+    mini_portile2 (2.8.6)
     multipart-post (2.1.1)
-    nokogiri (1.16.2)
+    nokogiri (1.16.5)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     parallel (1.21.0)
