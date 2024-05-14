@@ -248,6 +248,9 @@ title: リンク切れ
 
 ### レーティング800〜1199(緑色)
 
+- [緑コーダー(AtCoder)になった和洋 - みどマメモ](https://mdrm1rou.hatenablog.com/entry/2021/07/12/013644) - [MDMA](https://atcoder.jp/users/MDMA)さんが、2021年7月10日に達成。
+    - 確認した日: 2024/05/14
+
 - [数学が苦手な大学生の AtCoder 入緑記事](https://note.com/yindolsa/n/n512d1530339e) - [ZUkA_](https://atcoder.jp/users/ZUkA_)さんが、2023年9月16日に達成。
     - 確認した日: 2024/05/09
 
@@ -258,6 +261,9 @@ title: リンク切れ
     - 確認した日: 2022/01/19
 
 ### レーティング1200〜1599(水色)
+
+- [水色を踏みました(AtCoder アルゴリズム部門)](https://ynm3n.blogspot.com/2022/12/atcoder.html) - [ynm3n](https://atcoder.jp/users/ynm3n)さんが、2022年12月10日に達成。
+    - 確認した日: 2024/05/14
 
 - [【色変記事】AtCoder水色になりました](https://blog.powell1213.com/2023/07/23/atcoder-cyan/) - [powell](https://atcoder.jp/users/powell)さんが、2023年7月22日に達成。
     - 確認した日: 2024/03/22
