@@ -78,15 +78,6 @@
       <img loading = "lazy" src="images/web_app/ac_counter.png" alt="ac counter">
     </div>
 
-    2024-04-29
-
-    - 「[コンテストの成績に関連するサービス](web_app/services_using_scores)」ページ
-        - [AtCoder Heuristic Season Ranking](https://ahc-season-ranking.terry-u16.net/)
-
-    <div align="center">
-      <img loading = "lazy" src="images/web_app/atcoder_heuristic_season_ranking.png" alt="atcoder heuristic season ranking">
-    </div>
-
 === "記事"
 
     2024-05-13
@@ -168,6 +159,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2024-05-14
+
+    - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
+        - [Yuyo1984](https://atcoder.jp/users/Yuyo1984)さん - [AtCoder入茶まで半年かかった凡人がやったこと](https://qiita.com/Yuyo1984/items/45397853f0116f720d68)
 
     2024-05-07
 

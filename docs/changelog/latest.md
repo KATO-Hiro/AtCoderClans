@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-05-14
+
+- [#8244](https://github.com/KATO-Hiro/AtCoderClans/pull/8244) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[Yuyo1984](https://atcoder.jp/users/Yuyo1984)さんの[記事](https://qiita.com/Yuyo1984/items/45397853f0116f720d68)を追加。
+- [#8243](https://github.com/KATO-Hiro/AtCoderClans/pull/8243) - (破壊的な変更) 公開を取りやめたと思われる色変記事を一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2024-05-13
 
 - [#8236](https://github.com/KATO-Hiro/AtCoderClans/pull/8236) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
