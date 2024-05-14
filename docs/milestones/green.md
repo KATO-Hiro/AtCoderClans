@@ -70,7 +70,6 @@ title: レーティング800〜1199(緑色)
 - [業プロerが入緑した話 - ひたすらに雑記](https://malleroid.hatenablog.com/entry/2021/10/03/142940) - [malleus](https://atcoder.jp/users/malleus)さんが、2021年10月2日に達成。[別記事](https://qiita.com/malleroid/items/1a20d87dd8ddb85c01ba)で、学習方法や学んだアルゴリズム・データ構造が紹介されている。
 - [茶停滞から緑までの言語化](https://zenn.dev/burita083/articles/40a8b606152c06) - [burita083](https://atcoder.jp/users/burita083)さんが、2021年8月29日に達成。
 - [【WebエンジニアのAtcoder記】入緑しました！](https://qiita.com/kotaaaa/items/ddcf7f3e92e789731a7e) - [kotakota1110](https://atcoder.jp/users/kotakota1110)さんが、2021年8月21日に達成。
-- [緑コーダー(AtCoder)になった和洋 - みどマメモ](https://mdrm1rou.hatenablog.com/entry/2021/07/12/013644) - [MDMA](https://atcoder.jp/users/MDMA)さんが、2021年7月10日に達成。
 - [40代で競プロができるのかという話 - 競プロ始めました](https://kaede2020.hatenablog.com/entry/2021/07/07/134334) - [kaede2020](https://atcoder.jp/users/kaede2020)さんが、2021年7月7日に公開。
 - [～AtCoderで緑Ratingになりました～](https://qiita.com/rute_not_route/items/c8b4f2251fdd852d29a0) - Ruteさんが、2021年5月30日に達成。
 - [【AtCoder】入緑しました！！！ - shuのブログ](https://shu8cream.hatenablog.com/entry/2021/04/24/120002) - [shu8Cream](https://atcoder.jp/users/shu8Cream)さんが、2021年4月18日に達成。
