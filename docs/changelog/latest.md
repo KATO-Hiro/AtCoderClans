@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-05-15
+
+- [#8250](https://github.com/KATO-Hiro/AtCoderClans/pull/8250)、[#8251](https://github.com/KATO-Hiro/AtCoderClans/pull/8251) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページと「[YouTube - 個別の動画](../../youtube/video)」ページに、以下のチャンネルと動画を追加。
+    - [宮乃やみ - MiyanoYami](https://www.youtube.com/@miyanoyami/search?query=%E7%AB%B6%E3%83%97%E3%83%AD)
+    - [【競技プログラミング　作問のポイント解説 #1】競プロの問題を思いつくには？【ゆっくり解説】](https://www.youtube.com/watch?v=Oe3gtdLNFfU)
+
 ### 2024-05-14
 
 - [#8244](https://github.com/KATO-Hiro/AtCoderClans/pull/8244) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
