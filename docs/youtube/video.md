@@ -23,6 +23,16 @@ title: 個別の動画
     - [半分全列挙を「高速化」する【ゆっくり解説】](https://www.youtube.com/watch?v=EUZX4tBqo0M) - 半分全列挙の基本と高速化テクニックが解説されている。
 - [100÷9899=?（母関数・形式的べき級数入門）【ゆっくり解説】](https://www.youtube.com/watch?v=I02Obi-yXJU) - 母関数と形式的べき級数が、平易かつ簡潔に解説されている。
 
+### 問題を作成・出題
+
+- [【競技プログラミング　作問のポイント解説 #1】競プロの問題を思いつくには？【ゆっくり解説】](https://www.youtube.com/watch?v=Oe3gtdLNFfU) - コンテストの開催に興味がある人向けに、前提条件や問題を思いつくためのヒントが解説されている。
+
+    !!! info "参考"
+        本格的に問題を作成される場合は、以下のページも併せて参照することを推奨いたします。
+
+        - [関連記事](../../articles/for_writers) - 役割分担・作業工程などを把握
+        - [補助ツール](../../cli/tools_for_writers) - 定型作業を自動化
+
 ## 歌ってみた
 
 - [【オリジナル曲 / 初音ミク】AC【競プロやろうぜ】](https://www.youtube.com/watch?v=loKekcFqQw0) - [burioden](https://twitter.com/burioden)さんによるオリジナル曲。[オフボーカル版](https://www.youtube.com/watch?v=jTaTFImLzKI)もある。
