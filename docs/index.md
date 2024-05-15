@@ -69,15 +69,6 @@
       <img loading = "lazy" src="images/web_app/atcoder_charts.png" alt="atcoder charts">
     </div>
 
-    2024-04-30
-
-    - 「[コンテストに関する統計情報](web_app/statistics)」ページ
-        - [AC Counter](https://ac-counter.onrender.com)
-
-    <div align="center">
-      <img loading = "lazy" src="images/web_app/ac_counter.png" alt="ac counter">
-    </div>
-
 === "記事"
 
     2024-05-13
@@ -151,10 +142,13 @@
 
 === "動画"
 
-    2024-04-30
+    2024-05-15
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [【競技プログラミング　作問のポイント解説 #1】競プロの問題を思いつくには？【ゆっくり解説】](https://www.youtube.com/watch?v=Oe3gtdLNFfU)
 
     - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [forループ](https://www.youtube.com/@for_i_in_loop)
+        - [宮乃やみ - MiyanoYami](https://www.youtube.com/@miyanoyami/search?query=%E7%AB%B6%E3%83%97%E3%83%AD)
 
 === "色変記事"
 
