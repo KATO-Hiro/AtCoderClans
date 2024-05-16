@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-05-16
+
+- [#8258](https://github.com/KATO-Hiro/AtCoderClans/pull/8258) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
+    - [大実験！ChatGPTは競プロの問題を解けるのか (2024年5月版)](https://e869120.hatenablog.com/entry/2024/05/15/100804)
+
 ### 2024-05-15
 
 - [#8250](https://github.com/KATO-Hiro/AtCoderClans/pull/8250)、[#8251](https://github.com/KATO-Hiro/AtCoderClans/pull/8251) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページと「[YouTube - 個別の動画](../../youtube/video)」ページに、以下のチャンネルと動画を追加。
