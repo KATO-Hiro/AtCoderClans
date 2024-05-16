@@ -71,6 +71,11 @@
 
 === "記事"
 
+    2024-05-16
+
+    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
+        - [大実験！ChatGPTは競プロの問題を解けるのか (2024年5月版)](https://e869120.hatenablog.com/entry/2024/05/15/100804)
+
     2024-05-13
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -168,11 +173,6 @@
 
     - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
         - [Alumite14](https://atcoder.jp/users/Alumite14)さん - [【色変記事】PythonメインでAtCoder入緑したので振り返り（スニペットもあるよ）](https://qiita.com/alumite14/items/649aa426bc1b72e5de84)
-
-    2024-05-01
-
-    - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
-        - [onsen_manjuuu](https://atcoder.jp/users/onsen_manjuuu)さん - [AtCoder黄色になったよ](https://onsen-manjuuu.net/blog/posts/yellow.html)
 
 === "国内外のコンテストサイト"
 
