@@ -51,6 +51,7 @@ title: コンテストに向けた練習方法を知る
 - [ChatGPTに競技プログラミングさせてみた【AtCoder】](https://qiita.com/relu/items/6cc9467748d580f50cfd) - [ChatGPT](https://openai.com/blog/chatgpt/)を利用して、[AtCoder](https://atcoder.jp/)で出題された問題を解いている記事。
 - [GPT-4は青色コーダーの夢を見るか](https://qiita.com/autotaker1984/items/2929937cd1fea6137d1f) - [GPT-4](https://openai.com/research/gpt-4)を利用して、[AtCoder](https://atcoder.jp/)の過去問をどこまで解けるか調査した記事。AIで解くのが難しい問題の種類や競技プログラミングにおける活用の方向性についても言及されている。
 - [ChatGPT3.5&4.0で競技プログラミングAtCoderの問題のスキル推定を検証しました](https://note.com/chatgpt_nobdata/n/n2d5769ebb622) - AtCoder Beginners Contest (通称ABC)のA〜C問題を対象として、解くために必要なスキルを推定・検証している記事。
+- [大実験！ChatGPTは競プロの問題を解けるのか (2024年5月版)](https://e869120.hatenablog.com/entry/2024/05/15/100804) - 筆者がオリジナルの問題を作成し、GPT-4oの回答性能を実験・調査している。
 
 <!-- markdown-link-check-enable -->
 
