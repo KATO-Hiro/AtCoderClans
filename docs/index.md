@@ -71,6 +71,11 @@
 
 === "記事"
 
+    2024-05-17
+
+    - 「[数学を学ぶ](articles/math)」ページ
+        - [競技プログラミング記事を書きたい人のための数式の書き方入門](https://zenn.dev/blue_jam/articles/05749c3638713f)
+
     2024-05-16
 
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
@@ -168,11 +173,6 @@
 
     - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
         - [Thinkingpegasus](https://atcoder.jp/users/Thinkingpegasus)さん - [AtCoderで入黄しました！！](https://qiita.com/nouka28/items/a8b06865331838642ff2)
-
-    2024-05-02
-
-    - 「[アルゴリズム部門 - レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [Alumite14](https://atcoder.jp/users/Alumite14)さん - [【色変記事】PythonメインでAtCoder入緑したので振り返り（スニペットもあるよ）](https://qiita.com/alumite14/items/649aa426bc1b72e5de84)
 
 === "国内外のコンテストサイト"
 
