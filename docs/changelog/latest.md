@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-05-17
+
+- [#8261](https://github.com/KATO-Hiro/AtCoderClans/pull/8261) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
+    - [競技プログラミング記事を書きたい人のための数式の書き方入門](https://zenn.dev/blue_jam/articles/05749c3638713f)
+
 ### 2024-05-16
 
 - [#8258](https://github.com/KATO-Hiro/AtCoderClans/pull/8258) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
