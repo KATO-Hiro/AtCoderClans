@@ -123,13 +123,13 @@
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
         - [競プロでよく使うけど空で書けないフレーズ](https://qiita.com/do_an/items/e5a202cac4fc69fe849d)
 
-    2024-05-03
-
-    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
-        - [大きい方/小さい方からtopKを管理しながらなんかやるモジュールを書いた](https://prd-xxx.hateblo.jp/entry/2024/05/01/235922)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2024-05-18
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [Magentor](https://atcoder.jp/users/Magentor)さん - [はてなブログ](https://magentor.hatenablog.com/)
 
     2024-05-13
 
@@ -180,11 +180,6 @@
 
     - 「[はじめに](related_contest_sites)」ページ
         - [競プロ コンテスト(海外含む) まとめ](https://rubikun.hatenablog.jp/entry/2024/03/03/214112)
-
-    2024-05-03
-
-    - 「[ICPC (国際大学対抗プログラミングコンテスト)](related_contest_sites/icpc)」ページ
-        - [ICPC 2023 世界大会参加記](https://e869120.hatenablog.com/entry/2024/05/01/165143)
 
 ## AtCoder公式グッズを購入する
 

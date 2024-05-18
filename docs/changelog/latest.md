@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-05-18
+
+- [#8264](https://github.com/KATO-Hiro/AtCoderClans/pull/8264) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページのアルゴリズム部門で掲載しているブログのURLを更新。
+
 ### 2024-05-17
 
 - [#8261](https://github.com/KATO-Hiro/AtCoderClans/pull/8261) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
