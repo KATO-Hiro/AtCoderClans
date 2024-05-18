@@ -155,7 +155,7 @@ title: C&#43;&#43;
 |Lorent|[はてなブログ](https://lorent-kyopro.hatenablog.com/)||
 |Luzhiled|[はてなブログ](https://luzhiled.hatenablog.com/)||
 |lynmisakura|[はてなブログ](https://andoreiji11.hatenadiary.jp/)||
-|Magentor|[Qiita](https://qiita.com/Magentor)||
+|Magentor|[はてなブログ](https://magentor.hatenablog.com/)||
 |mayoko|[はてなブログ](https://mayokoex.hatenablog.com/)|2019年12月以降、新規の記事を確認できず。|
 |maze1230|[はてなブログ](https://pazzle1230.hatenablog.com/)||
 |merom686|[はてなブログ](https://merom686.hatenablog.com/)||
