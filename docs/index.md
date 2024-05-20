@@ -71,6 +71,11 @@
 
 === "記事"
 
+    2024-05-20
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Summer - 学校ランキング (5月20日時点)](https://x.com/atcoder/status/1792415615967531418)
+
     2024-05-17
 
     - 「[数学を学ぶ](articles/math)」ページ
@@ -113,16 +118,6 @@
     - 「[数学を学ぶ](articles/math)」ページ
         - [エラトステネスの篩の高速化](https://qiita.com/peria/items/a4ff4ddb3336f7b81d50)
 
-    2024-05-05
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [一次方程式をUnionFindに乗せる　〜dsu_equationを作ろう〜](https://qiita.com/nouka28/items/a7cf4bb7130a541e97fb)
-
-    2024-05-04
-
-    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
-        - [競プロでよく使うけど空で書けないフレーズ](https://qiita.com/do_an/items/e5a202cac4fc69fe849d)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -141,14 +136,6 @@
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [Kyo_s_s](https://atcoder.jp/users/Kyo_s_s)さん - [自作ブログ](https://kyo-homepage.vercel.app/blog)
-
-    2024-05-05
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [cled0328](https://atcoder.jp/users/cled0328)さん - [はてなブログ](https://cled0328.hatenablog.com/)
-
-    - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
-        - [Thinkingpegasus](https://atcoder.jp/users/Thinkingpegasus)さん - [Qiita](https://qiita.com/nouka28)
 
 === "動画"
 
