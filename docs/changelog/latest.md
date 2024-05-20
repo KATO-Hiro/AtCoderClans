@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-05-20
+
+- [#8274](https://github.com/KATO-Hiro/AtCoderClans/pull/8274) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AtCoder Junior League 2024 Summer - 学校ランキング (5月20日時点)](https://x.com/atcoder/status/1792415615967531418)
+
 ### 2024-05-19
 
 - [#8269](https://github.com/KATO-Hiro/AtCoderClans/pull/8269) - (破壊的な変更) 「[Change Log](../latest)」ページの2024年3月分を月別のアーカイブに移動。
