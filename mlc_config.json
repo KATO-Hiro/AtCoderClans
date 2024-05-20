@@ -37,6 +37,9 @@
       "pattern": "^https://twitter.com/"
     },
     {
+      "pattern": "^https://x.com/"
+    },
+    {
       "pattern": "^https://cards-dev.twitter.com/"
     },
     {
