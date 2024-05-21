@@ -13,6 +13,7 @@ title: Java
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
 |piroz95|[はてなブログ](https://piroz.hatenablog.com/)||
+|sounansya|[Qiita](https://qiita.com/sounansya)||
 
 ## レーティング2000〜2399(黄色)
 
@@ -22,4 +23,3 @@ title: Java
 |ks2m|[はてなブログ](https://ks2m.hatenablog.com/)||
 |NASU41|[Qiita](https://qiita.com/NASU41)||
 |rabot|[Qiita](https://qiita.com/tanaka-a)|ヒューリスティック型のコンテストに関する記事も掲載されている。|
-|sounansya|[Qiita](https://qiita.com/sounansya)||
