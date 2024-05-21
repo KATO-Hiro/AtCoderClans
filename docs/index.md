@@ -110,16 +110,16 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Summer - 学校ランキング (5月7日時点)](https://twitter.com/atcoder/status/1787659040098767241)
 
-    2024-05-06
-
-    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
-        - [Python 高速化選手権](https://qiita.com/n4mlz/items/fbadc02b7864f62b9622)
-
-    - 「[数学を学ぶ](articles/math)」ページ
-        - [エラトステネスの篩の高速化](https://qiita.com/peria/items/a4ff4ddb3336f7b81d50)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2024-05-21
+
+    - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
+        - [chinerist](https://atcoder.jp/users/chinerist)さん - [はてなブログ](https://chineristac.hatenablog.com/)
+
+    - 「[アルゴリズム部門 - Java](blogs/algorithm/java)」ページ
+        - [sounansya](https://atcoder.jp/users/sounansya)さん - [Qiita](https://qiita.com/sounansya)
 
     2024-05-18
 
