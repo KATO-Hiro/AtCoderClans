@@ -13,7 +13,7 @@ title: Java
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
 |piroz95|[はてなブログ](https://piroz.hatenablog.com/)||
-|sounansya|[Qiita](https://qiita.com/sounansya)||
+|sounansya|[Qiita](https://qiita.com/sounansya)|高難易度の問題を中心にC++で実装されている回答もある。|
 
 ## レーティング2000〜2399(黄色)
 
