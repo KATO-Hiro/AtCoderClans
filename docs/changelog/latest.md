@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-05-22
+
+- [#8283](https://github.com/KATO-Hiro/AtCoderClans/pull/8283)、[#8285](https://github.com/KATO-Hiro/AtCoderClans/pull/8285) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [今だからこそ学ぶプログラミングとアルゴリズム](https://www.youtube.com/watch?v=PZOITpAccjo)
+    - [【速報】ChatGPT-4oに競技プログラミングをやらせてみた【ゆっくり解説】](https://www.youtube.com/watch?v=nhVfggY58IQ)
+
 ### 2024-05-21
 
 - [#8279](https://github.com/KATO-Hiro/AtCoderClans/pull/8279) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。

@@ -58,17 +58,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "Webアプリ・Webサイト"
-
-    2024-05-07
-
-    - 「[コンテストの成績を見る](web_app/view_and_compare_scores)」ページ
-        - [AtCoder Charts](https://atcoder-charts.netlify.app/)
-
-    <div align="center">
-      <img loading = "lazy" src="images/web_app/atcoder_charts.png" alt="atcoder charts">
-    </div>
-
 === "記事"
 
     2024-05-20
@@ -139,6 +128,12 @@
 
 === "動画"
 
+    2024-05-22
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [今だからこそ学ぶプログラミングとアルゴリズム](https://www.youtube.com/watch?v=PZOITpAccjo)
+        - [【速報】ChatGPT-4oに競技プログラミングをやらせてみた【ゆっくり解説】](https://www.youtube.com/watch?v=nhVfggY58IQ)
+
     2024-05-15
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
@@ -155,11 +150,6 @@
 
     - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
         - [Yuyo1984](https://atcoder.jp/users/Yuyo1984)さん - [AtCoder入茶まで半年かかった凡人がやったこと](https://qiita.com/Yuyo1984/items/45397853f0116f720d68)
-
-    2024-05-07
-
-    - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
-        - [Thinkingpegasus](https://atcoder.jp/users/Thinkingpegasus)さん - [AtCoderで入黄しました！！](https://qiita.com/nouka28/items/a8b06865331838642ff2)
 
 === "国内外のコンテストサイト"
 
