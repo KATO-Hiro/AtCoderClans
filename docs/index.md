@@ -91,14 +91,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AHCに取り組む上で心がけていること](https://hitoare.hatenablog.com/entry/2024/04/30/223646)
 
-    2024-05-08
-
-    - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
-        - [【Rust】ACL の遅延セグ木をベースに双対セグ木を作ってみた](https://paruma184.hatenablog.com/entry/2024/05/06/010239)
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Summer - 学校ランキング (5月7日時点)](https://twitter.com/atcoder/status/1787659040098767241)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -145,6 +137,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2024-05-23
+
+    - 「[アルゴリズム部門 - レーティング2400〜2799(橙色)](milestones/orange)」ページ
+        - [sounansya](https://atcoder.jp/users/sounansya)さん - [AtCoder橙色になりました](https://qiita.com/sounansya/items/ff20b4e25f2f2316bffe)
 
     2024-05-14
 

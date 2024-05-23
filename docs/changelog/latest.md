@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-05-23
+
+- [#8287](https://github.com/KATO-Hiro/AtCoderClans/pull/8287) - 「[Milestones](../../milestones/orange)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2400から2799まで(橙色)に[sounansya](https://atcoder.jp/users/sounansya)さんの[記事](https://qiita.com/sounansya/items/ff20b4e25f2f2316bffe)を追加。
+
 ### 2024-05-22
 
 - [#8283](https://github.com/KATO-Hiro/AtCoderClans/pull/8283)、[#8285](https://github.com/KATO-Hiro/AtCoderClans/pull/8285) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
