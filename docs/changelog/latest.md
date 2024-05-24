@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-05-24
+
+- [#8291](https://github.com/KATO-Hiro/AtCoderClans/pull/8291) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [相対スコア AHC の立ち回り](https://kiri8128.hatenablog.com/entry/2024/05/06/032420)
+
 ### 2024-05-23
 
 - [#8287](https://github.com/KATO-Hiro/AtCoderClans/pull/8287) - 「[Milestones](../../milestones/orange)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
