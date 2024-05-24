@@ -60,6 +60,11 @@
 
 === "記事"
 
+    2024-05-24
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [相対スコア AHC の立ち回り](https://kiri8128.hatenablog.com/entry/2024/05/06/032420)
+
     2024-05-20
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
