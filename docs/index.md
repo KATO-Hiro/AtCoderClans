@@ -60,6 +60,11 @@
 
 === "記事"
 
+    2024-05-25
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AtCoder AHCのインタラクティブ問題でデバッグ実行を実現する](https://qiita.com/tanaka-a/items/6856d7fcf78f2516f691)
+
     2024-05-24
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -90,11 +95,6 @@
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [Splay 木の計算量解析](https://ngtkana.hatenablog.com/entry/2024/04/22/205043)
         - [Splay 木ベースの Link-Cut 木の計算量解析](https://ngtkana.hatenablog.com/entry/2024/05/11/033439)
-
-    2024-05-10
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AHCに取り組む上で心がけていること](https://hitoare.hatenablog.com/entry/2024/04/30/223646)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
