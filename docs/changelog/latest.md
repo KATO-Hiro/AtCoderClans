@@ -6,6 +6,7 @@ title: Change Log
 
 ### 2024-05-25
 
+- [#8296](https://github.com/KATO-Hiro/AtCoderClans/pull/8296) - (破壊的な変更) リンク切れと思われるブログを一時的に「[Archives](../../archived)」ページに移動。
 - [#8294](https://github.com/KATO-Hiro/AtCoderClans/pull/8294) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
     - [AtCoder AHCのインタラクティブ問題でデバッグ実行を実現する](https://qiita.com/tanaka-a/items/6856d7fcf78f2516f691)
 
