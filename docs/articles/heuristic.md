@@ -162,6 +162,11 @@ title: ヒューリスティック問題を解く
 - [簡単＆便利！ C# × .NET Blazor で AHC ビジュアライザ作り](https://terumiyake.hatenablog.com/entry/2022/06/25/151919) - ヒューリスティックコンテストで使用するビジュアライザを自作する方法が解説されている記事。サーバサイドとクライアントサイドのロジックが、同じ言語(C#)で記述できるのが特徴。
     - [サンプルプロジェクト - AHC011](https://github.com/TeruMiyake/AHC011Visualiser-With-Blazor) ![GitHub Repo stars](https://img.shields.io/github/stars/TeruMiyake/AHC011Visualiser-With-Blazor?style=plastic)
 
+#### インタラクティブ問題をデバッグする
+
+- [AtCoder AHCのインタラクティブ問題でデバッグ実行を実現する](https://qiita.com/tanaka-a/items/6856d7fcf78f2516f691) - インタラクティブ問題をデバッグする方法が紹介されている。
+    - [AHC interactive debug tool](https://github.com/lavox/ahc_interactive_debug_tool) ![GitHub Repo stars](https://img.shields.io/github/stars/lavox/ahc_interactive_debug_tool?style=plastic) - 筆者が作成したツールが公開されている。
+
 #### Optuna
 
 - [Optunaでヒューリスティックコンテストを解く](https://kuruton.hatenablog.com/entry/2021/12/14/011150) - ヒューリスティックコンテストでハイパーパラメータの調整を行う際に、Pythonライブラリ「Optuna」を利用する方法を紹介した記事。また、Python以外の言語(C++)で書かれたコードに対するパラメータの調整方法が丁寧に解説されている。
