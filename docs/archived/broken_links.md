@@ -163,6 +163,8 @@ title: リンク切れ
 
 ## ブログ
 
+- [自作ブログ - ninja7](https://melting.love/blog/)
+    - 確認した日: 2024/05/25
 - [自作ブログ - hamadu](https://hamadu.net/)
     - 確認した日: 2023/10/14
 - [はてなブログ - blackyuki](https://black-yuki.hatenablog.com/)
