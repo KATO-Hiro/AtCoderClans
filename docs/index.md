@@ -58,6 +58,17 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "Webアプリ・Webサイト"
+
+    2024-05-26
+
+    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
+        - [MINI GENERATOR](https://mini-generator.netlify.app/graph)
+
+    <div align="center">
+      <img loading = "lazy" src="images/web_app/mini_generator.png" alt="mini generator">
+    </div>
+
 === "記事"
 
     2024-05-25
@@ -152,13 +163,6 @@
 
     - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
         - [Yuyo1984](https://atcoder.jp/users/Yuyo1984)さん - [AtCoder入茶まで半年かかった凡人がやったこと](https://qiita.com/Yuyo1984/items/45397853f0116f720d68)
-
-=== "国内外のコンテストサイト"
-
-    2024-05-11
-
-    - 「[はじめに](related_contest_sites)」ページ
-        - [競プロ コンテスト(海外含む) まとめ](https://rubikun.hatenablog.jp/entry/2024/03/03/214112)
 
 ## AtCoder公式グッズを購入する
 

@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-05-26
+
+- [#8303](https://github.com/KATO-Hiro/AtCoderClans/pull/8303) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページに、以下のWebアプリを追加。
+    - [MINI GENERATOR](https://mini-generator.netlify.app/graph)
+
 ### 2024-05-25
 
 - [#8296](https://github.com/KATO-Hiro/AtCoderClans/pull/8296) - (破壊的な変更) リンク切れと思われるブログを一時的に「[Archives](../../archived)」ページに移動。
