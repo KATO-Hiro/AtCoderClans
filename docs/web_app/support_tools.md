@@ -60,7 +60,7 @@ title: 問題を解くときの補助ツール
       <img loading = "lazy" src="../../images/web_app/graph_graph.png" alt="graph graph">
     </div>
 
-- [MINI GENERATOR](https://mini-generator.netlify.app/graph) - さまざまなグラフを生成できることに加えて、その内容をSNSで共有できる。
+- [MINI GENERATOR](https://mini-generator.netlify.app/graph) - さまざまなグラフが生成できることに加えて、その内容をSNSで共有できる。
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/mini_generator.png" alt="mini generator">
