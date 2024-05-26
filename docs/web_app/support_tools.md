@@ -60,6 +60,12 @@ title: 問題を解くときの補助ツール
       <img loading = "lazy" src="../../images/web_app/graph_graph.png" alt="graph graph">
     </div>
 
+- [MINI GENERATOR](https://mini-generator.netlify.app/graph) - さまざまなグラフが生成できることに加えて、その内容をSNSで共有できる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/mini_generator.png" alt="mini generator">
+    </div>
+
 - [Sheep Visualize Graph Beta](https://binomialsheep.github.io/sheep-visualize-graph-beta/) - (ベータ版) グラフ理論に関する問題の入力例を可視化する。頂点を左クリック、もしくは、右クリックすると色を変えられる。
 
     <div align="center">
