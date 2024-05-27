@@ -71,6 +71,11 @@
 
 === "記事"
 
+    2024-05-27
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Summer - 学校ランキング (5月27日時点)](https://x.com/atcoder/status/1794907108120649900)
+
     2024-05-25
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -101,12 +106,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Summer - 学校ランキング (5月13日時点)](https://twitter.com/atcoder/status/1789854331937734678)
 
-    2024-05-12
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [Splay 木の計算量解析](https://ngtkana.hatenablog.com/entry/2024/04/22/205043)
-        - [Splay 木ベースの Link-Cut 木の計算量解析](https://ngtkana.hatenablog.com/entry/2024/05/11/033439)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -128,11 +127,6 @@
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さん - [はてなブログ](https://halc-kyopro.hatenablog.com/)
         - [kaichou243](https://atcoder.jp/users/kaichou243)さん - [はてなブログ](https://kaichou243.hatenablog.com/)
-
-    2024-05-12
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [Kyo_s_s](https://atcoder.jp/users/Kyo_s_s)さん - [自作ブログ](https://kyo-homepage.vercel.app/blog)
 
 === "動画"
 
