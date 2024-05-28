@@ -71,6 +71,14 @@
 
 === "記事"
 
+    2024-05-28
+
+    - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
+        - [proconio を使わない Rust の標準入力（Rust 1.61 ～ Rust 1.65 の一連のアップデートについて）](https://ngtkana.hatenablog.com/entry/2024/05/26/184605)
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [トヨタ自動車プログラミングコンテスト2024#5（AtCoder Heuristic Contest 033）参加記](https://kaede2020.hatenablog.com/entry/2024/05/27/190036)
+
     2024-05-27
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -101,11 +109,6 @@
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
         - [大実験！ChatGPTは競プロの問題を解けるのか (2024年5月版)](https://e869120.hatenablog.com/entry/2024/05/15/100804)
 
-    2024-05-13
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Summer - 学校ランキング (5月13日時点)](https://twitter.com/atcoder/status/1789854331937734678)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -121,12 +124,6 @@
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [Magentor](https://atcoder.jp/users/Magentor)さん - [はてなブログ](https://magentor.hatenablog.com/)
-
-    2024-05-13
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さん - [はてなブログ](https://halc-kyopro.hatenablog.com/)
-        - [kaichou243](https://atcoder.jp/users/kaichou243)さん - [はてなブログ](https://kaichou243.hatenablog.com/)
 
 === "動画"
 
