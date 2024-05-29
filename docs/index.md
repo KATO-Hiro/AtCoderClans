@@ -127,6 +127,12 @@
 
 === "動画"
 
+    2024-05-29
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [【競技プログラミング　作問のポイント解説 #2】競プロの問題文を正しく書くには？【ゆっくり解説】](https://www.youtube.com/watch?v=uDeudtg_6-U)
+        - [結婚定理：N人の女は好みの男と結婚できるか？【ゆっくり解説】](https://www.youtube.com/watch?v=zlawYWmuP4c)
+
     2024-05-22
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
@@ -149,11 +155,6 @@
 
     - 「[アルゴリズム部門 - レーティング2400〜2799(橙色)](milestones/orange)」ページ
         - [sounansya](https://atcoder.jp/users/sounansya)さん - [AtCoder橙色になりました](https://qiita.com/sounansya/items/ff20b4e25f2f2316bffe)
-
-    2024-05-14
-
-    - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
-        - [Yuyo1984](https://atcoder.jp/users/Yuyo1984)さん - [AtCoder入茶まで半年かかった凡人がやったこと](https://qiita.com/Yuyo1984/items/45397853f0116f720d68)
 
 ## AtCoder公式グッズを購入する
 

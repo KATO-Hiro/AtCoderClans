@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-05-29
+
+- [#8318](https://github.com/KATO-Hiro/AtCoderClans/pull/8318)、[#8319](https://github.com/KATO-Hiro/AtCoderClans/pull/8319) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [【競技プログラミング　作問のポイント解説 #2】競プロの問題文を正しく書くには？【ゆっくり解説】](https://www.youtube.com/watch?v=uDeudtg_6-U)
+    - [結婚定理：N人の女は好みの男と結婚できるか？【ゆっくり解説】](https://www.youtube.com/watch?v=zlawYWmuP4c)
+
 ### 2024-05-28
 
 - [#8314](https://github.com/KATO-Hiro/AtCoderClans/pull/8314) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Rust](../../articles/implementation/rust)」ページに、以下の記事を追加。
