@@ -260,6 +260,8 @@ title: アルゴリズムを学ぶ
 
 ## その他
 
+- [競プロ初心者が怖がるもの](https://qiita.com/NokonoKotlin/items/75e56515139a872fb629) - 初心者に恐れられがちなアルゴリズムに対して、それぞれの要点や関連記事が紹介されている。
+
 ### 問題集
 
 - [x軸とy軸について独立に考えてよい](https://drken1215.hatenablog.com/archive/category/x%E8%BB%B8%E3%81%A8y%E8%BB%B8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E7%8B%AC%E7%AB%8B%E3%81%AB%E8%80%83%E3%81%88%E3%81%A6%E3%82%88%E3%81%84) - [drken](https://atcoder.jp/users/drken)さんによる過去問の解説集。x軸とy軸を独立に扱うことで考察・実装がしやすくなる問題がまとめられている。
