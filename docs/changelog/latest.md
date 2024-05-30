@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-05-30
+
+- [#8322](https://github.com/KATO-Hiro/AtCoderClans/pull/8322) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [競プロ初心者が怖がるもの](https://qiita.com/NokonoKotlin/items/75e56515139a872fb629)
+
 ### 2024-05-29
 
 - [#8318](https://github.com/KATO-Hiro/AtCoderClans/pull/8318)、[#8319](https://github.com/KATO-Hiro/AtCoderClans/pull/8319) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。

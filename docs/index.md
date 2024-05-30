@@ -71,6 +71,11 @@
 
 === "記事"
 
+    2024-05-30
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [競プロ初心者が怖がるもの](https://qiita.com/NokonoKotlin/items/75e56515139a872fb629)
+
     2024-05-28
 
     - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
@@ -138,14 +143,6 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [今だからこそ学ぶプログラミングとアルゴリズム](https://www.youtube.com/watch?v=PZOITpAccjo)
         - [【速報】ChatGPT-4oに競技プログラミングをやらせてみた【ゆっくり解説】](https://www.youtube.com/watch?v=nhVfggY58IQ)
-
-    2024-05-15
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [【競技プログラミング　作問のポイント解説 #1】競プロの問題を思いつくには？【ゆっくり解説】](https://www.youtube.com/watch?v=Oe3gtdLNFfU)
-
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [宮乃やみ - MiyanoYami](https://www.youtube.com/@miyanoyami/search?query=%E7%AB%B6%E3%83%97%E3%83%AD)
 
 === "色変記事"
 
