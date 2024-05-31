@@ -109,11 +109,6 @@
     - 「[数学を学ぶ](articles/math)」ページ
         - [競技プログラミング記事を書きたい人のための数式の書き方入門](https://zenn.dev/blue_jam/articles/05749c3638713f)
 
-    2024-05-16
-
-    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
-        - [大実験！ChatGPTは競プロの問題を解けるのか (2024年5月版)](https://e869120.hatenablog.com/entry/2024/05/15/100804)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -131,6 +126,11 @@
         - [Magentor](https://atcoder.jp/users/Magentor)さん - [はてなブログ](https://magentor.hatenablog.com/)
 
 === "動画"
+
+    2024-05-31
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [まぬお](https://www.youtube.com/@user-mj5sk4lu1t)
 
     2024-05-29
 

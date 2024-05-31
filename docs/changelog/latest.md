@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-05-31
+
+- [#8328](https://github.com/KATO-Hiro/AtCoderClans/pull/8328) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [まぬお](https://www.youtube.com/@user-mj5sk4lu1t)
+
 ### 2024-05-30
 
 - [#8322](https://github.com/KATO-Hiro/AtCoderClans/pull/8322) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
