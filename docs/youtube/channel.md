@@ -41,6 +41,7 @@ title: チャンネル
 - [妹尾の解ると楽しいアルゴリズムチャンネル](https://www.youtube.com/@user-rs9rl9bk2k/videos) - [senohtube](https://atcoder.jp/users/senohtube)さんのチャンネル。コンテストの過去問を解く動画などが公開されている。
 - [そまのすけ](https://www.youtube.com/playlist?list=PLTP2rhthd6G1qPKsKVTienMhos3X6Hvqh) - [somanosuke](https://atcoder.jp/users/somanosuke)さんのチャンネル。コンテストの振り返りや過去問を解く動画が公開されている。
 - [てぃーい企画](https://www.youtube.com/channel/UCfqYE4LdRYqAJSV_TKlsy9Q/videos) - [Yazaten](https://twitter.com/Yazaten)さんのチャンネル。競技プログラミングの話題を含む大喜利が行われており、投稿者の回答が紹介されている。
+- [まぬお](https://www.youtube.com/@user-mj5sk4lu1t) - [manuo](https://atcoder.jp/users/manuo)さんのチャンネル。コンテストの実況動画が公開されている。
 
 ## ゆっくり動画
 
