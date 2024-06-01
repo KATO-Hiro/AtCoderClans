@@ -175,6 +175,10 @@ title: ヒューリスティック問題を解く
 
 #### AWS
 
+!!! warning "注意"
+
+    AWSに関する基礎知識が必要であり、各サービスの利用状況に応じて料金の支払いが発生する。
+
 - [AWS上にマラソンマッチ用のジャッジ環境を作った](https://yunix-kyopro.hatenablog.com/entry/2022/07/02/134251) - ヒューリスティック型コンテストにおいて、大量のテストケースをAWS環境で処理する方法が紹介されている記事。
 
     <!-- markdown-link-check-disable -->
@@ -183,9 +187,7 @@ title: ヒューリスティック問題を解く
 
     <!-- markdown-link-check-enable -->
 
-    !!! warning "注意"
-
-        AWSに関する基礎知識が必要であり、各サービスの利用状況に応じて料金の支払いが発生する。
+- [私のスコア問題評価環境](https://topcoder-tomerun.hatenablog.jp/entry/2024/04/06/201915) - [tomerun](https://atcoder.jp/users/tomerun)さんが、大量のテストケースを低価格で評価する方法(AWS Batch)を紹介している。
 
 ## 資料集
 
