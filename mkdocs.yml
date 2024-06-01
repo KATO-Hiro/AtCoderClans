@@ -1,7 +1,6 @@
 # See:
 # https://github.com/squidfunk/mkdocs-material/blob/master/mkdocs.yml
 
-
 # Project information
 site_name: AtCoder Clans
 site_url: https://KATO-Hiro.github.io/AtCoderClans/
@@ -9,16 +8,13 @@ site_author: hiro_hiro
 site_description: >-
   【非公式】AtCoderがもっと楽しくなるリンク集です。有志による非公式サービス・ツール・ライブラリ・記事などをまとめています。
 
-
 # GitHub Repository
 repo_name: KATO-Hiro/AtCoderClans
 repo_url: https://github.com/KATO-Hiro/AtCoderClans
 edit_uri: "edit/master/docs"
 
-
 # Copyright
 copyright: Copyright &copy; 2020-2024 hiro_hiro
-
 
 ## Basic Configuration
 theme:
@@ -49,14 +45,12 @@ theme:
   favicon: images/favicon/android-chrome-512x512.png
   logo: images/favicon/android-chrome-512x512.png
 
-
 # Plugins
 plugins:
   - search:
       lang:
-      - ja
-      - en
-
+        - ja
+        - en
 
 # Customization
 extra:
@@ -83,7 +77,6 @@ extra_javascript:
   - https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
   - javascripts/link_as_new_tab.js
 
-
 # Extensions
 markdown_extensions:
   - admonition
@@ -98,213 +91,213 @@ markdown_extensions:
       alternate_style: true
   - tables
 
-
 # Page tree
 nav:
   - Home: index.md
   - Quick Start: quick_start.md
   - For Beginners:
-    - for_beginners/index.md
-    - for_beginners/question0.md
-    - for_beginners/question1.md
-    - for_beginners/question2.md
-    - for_beginners/question3.md
-    - for_beginners/question4.md
-    - for_beginners/question5.md
-    - for_beginners/question6.md
-    - for_beginners/question7.md
-    - for_beginners/question8.md
+      - for_beginners/index.md
+      - for_beginners/question0.md
+      - for_beginners/question1.md
+      - for_beginners/question2.md
+      - for_beginners/question3.md
+      - for_beginners/question4.md
+      - for_beginners/question5.md
+      - for_beginners/question6.md
+      - for_beginners/question7.md
+      - for_beginners/question8.md
   - Recommendation:
-    - recommendation/index.md
-    - recommendation/solve_problems.md
-    - recommendation/submit_codes.md
-    - recommendation/improve_ui.md
+      - recommendation/index.md
+      - recommendation/solve_problems.md
+      - recommendation/submit_codes.md
+      - recommendation/improve_ui.md
   - Web Apps and Sites:
-    - web_app/index.md
-    - Webアプリ・Webサイト:
-      - web_app/solve_problems.md
-      - web_app/support_tools.md
-      - web_app/participate_in_contests.md
-      - web_app/view_and_compare_scores.md
-      - web_app/services_using_scores.md
-      - web_app/statistics.md
-      - web_app/quiz_and_game.md
-      - web_app/for_developers.md
-    - Bot: bot/index.md
-    - Web API: web_api/index.md
+      - web_app/index.md
+      - Webアプリ・Webサイト:
+          - web_app/solve_problems.md
+          - web_app/support_tools.md
+          - web_app/participate_in_contests.md
+          - web_app/view_and_compare_scores.md
+          - web_app/services_using_scores.md
+          - web_app/statistics.md
+          - web_app/quiz_and_game.md
+          - web_app/for_developers.md
+      - Bot: bot/index.md
+      - Web API: web_api/index.md
   - Scripts:
-    - scripts/index.md
-    - ユーザスクリプト:
-      - user_scripts/solve_problems.md
-      - user_scripts/submit_codes.md
-      - user_scripts/read_editorials.md
-      - user_scripts/participate_in_contests.md
-      - user_scripts/view_scores.md
-      - user_scripts/colors.md
-      - user_scripts/rivals.md
-      - user_scripts/jokes.md
-      - user_scripts/for_developers.md
-    - Google Chromeの拡張機能:
-      - chrome_extensions/solve_problems.md
-      - chrome_extensions/submit_codes.md
-      - chrome_extensions/review.md
-      - chrome_extensions/participate_in_contests.md
-      - chrome_extensions/view_scores.md
-      - chrome_extensions/improve_ui.md
+      - scripts/index.md
+      - ユーザスクリプト:
+          - user_scripts/solve_problems.md
+          - user_scripts/submit_codes.md
+          - user_scripts/read_editorials.md
+          - user_scripts/participate_in_contests.md
+          - user_scripts/view_scores.md
+          - user_scripts/colors.md
+          - user_scripts/rivals.md
+          - user_scripts/jokes.md
+          - user_scripts/for_developers.md
+      - Google Chromeの拡張機能:
+          - chrome_extensions/solve_problems.md
+          - chrome_extensions/submit_codes.md
+          - chrome_extensions/review.md
+          - chrome_extensions/participate_in_contests.md
+          - chrome_extensions/view_scores.md
+          - chrome_extensions/improve_ui.md
   - Articles, Blogs, Books and Videos:
-    - media/index.md
-    - 記事:
-      - articles/introduction.md
-      - articles/development_env.md
-      - articles/programming_languages.md
-      - articles/how_to_practice.md
-      - articles/algorithm.md
-      - articles/heuristic.md
-      - articles/math.md
-      - 実装テクニックを学ぶ:
-        - articles/implementation/index.md
-        - articles/implementation/general.md
-        - articles/implementation/multiple_languages.md
-        - articles/implementation/cpp.md
-        - articles/implementation/python.md
-        - articles/implementation/ruby.md
-        - articles/implementation/rust.md
-        - articles/implementation/others.md
-      - articles/user_editorials.md
-      - articles/how_to_approach_difficult_problems.md
-      - articles/for_writers.md
-      - articles/view_scores.md
-      - articles/look_back_on_past.md
-      - articles/club_activities.md
-      - articles/past.md
-      - articles/jobs.md
-    - ブログ:
-      - blogs/index.md
-      - アルゴリズム部門:
-        - blogs/algorithm/c.md
-        - blogs/algorithm/cpp.md
-        - blogs/algorithm/crystal.md
-        - blogs/algorithm/csharp.md
-        - blogs/algorithm/java.md
-        - blogs/algorithm/nim.md
-        - blogs/algorithm/python.md
-        - blogs/algorithm/ruby.md
-        - blogs/algorithm/rust.md
-      - ヒューリスティック部門:
-        - blogs/heuristic/cpp.md
-        - blogs/heuristic/crystal.md
-        - blogs/heuristic/csharp.md
-        - blogs/heuristic/go.md
-        - blogs/heuristic/java.md
-        - blogs/heuristic/python.md
-        - blogs/heuristic/rust.md
-    - 資料集: materials/index.md
-    - 書籍: books/index.md
-    - 動画:
-      - videos/index.md
-      - YouTube:
-        - youtube/channel.md
-        - youtube/video.md
-      - videos/niconico.md
-      - videos/archived_video.md
-    - SNS: sns/index.md
+      - media/index.md
+      - 記事:
+          - articles/introduction.md
+          - articles/development_env.md
+          - articles/programming_languages.md
+          - articles/how_to_practice.md
+          - articles/algorithm.md
+          - articles/heuristic.md
+          - articles/math.md
+          - 実装テクニックを学ぶ:
+              - articles/implementation/index.md
+              - articles/implementation/general.md
+              - articles/implementation/multiple_languages.md
+              - articles/implementation/cpp.md
+              - articles/implementation/python.md
+              - articles/implementation/ruby.md
+              - articles/implementation/rust.md
+              - articles/implementation/others.md
+          - articles/user_editorials.md
+          - articles/how_to_approach_difficult_problems.md
+          - articles/for_writers.md
+          - articles/view_scores.md
+          - articles/look_back_on_past.md
+          - articles/club_activities.md
+          - articles/past.md
+          - articles/jobs.md
+      - ブログ:
+          - blogs/index.md
+          - アルゴリズム部門:
+              - blogs/algorithm/c.md
+              - blogs/algorithm/cpp.md
+              - blogs/algorithm/crystal.md
+              - blogs/algorithm/csharp.md
+              - blogs/algorithm/java.md
+              - blogs/algorithm/nim.md
+              - blogs/algorithm/python.md
+              - blogs/algorithm/ruby.md
+              - blogs/algorithm/rust.md
+          - ヒューリスティック部門:
+              - blogs/heuristic/cpp.md
+              - blogs/heuristic/crystal.md
+              - blogs/heuristic/csharp.md
+              - blogs/heuristic/go.md
+              - blogs/heuristic/java.md
+              - blogs/heuristic/nim.md
+              - blogs/heuristic/python.md
+              - blogs/heuristic/rust.md
+      - 資料集: materials/index.md
+      - 書籍: books/index.md
+      - 動画:
+          - videos/index.md
+          - YouTube:
+              - youtube/channel.md
+              - youtube/video.md
+          - videos/niconico.md
+          - videos/archived_video.md
+      - SNS: sns/index.md
   - Libraries and Snippets:
-    - libraries/index.md
-    - AtCoder Library (ACL):
-      - libraries/atcoder_library.md
-      - libraries/articles.md
-      - libraries/porting_of_acl.md
-    - libraries/library_checker.md
-    - 有志による公開ライブラリ:
-      - libraries/libraries.md
-      - libraries/cpp.md
-      - libraries/csharp.md
-      - libraries/d.md
-      - libraries/java.md
-      - libraries/python.md
-      - libraries/rust.md
-      - libraries/others.md
+      - libraries/index.md
+      - AtCoder Library (ACL):
+          - libraries/atcoder_library.md
+          - libraries/articles.md
+          - libraries/porting_of_acl.md
+      - libraries/library_checker.md
+      - 有志による公開ライブラリ:
+          - libraries/libraries.md
+          - libraries/cpp.md
+          - libraries/csharp.md
+          - libraries/d.md
+          - libraries/java.md
+          - libraries/python.md
+          - libraries/rust.md
+          - libraries/others.md
   - Command Line Tools:
-    - cli/index.md
-    - cli/test_tools.md
-    - cli/template_testcase_generator.md
-    - cli/tools_for_submission.md
-    - cli/programming_languages.md
-    - cli/solver.md
-    - cli/tools_for_writers.md
+      - cli/index.md
+      - cli/test_tools.md
+      - cli/template_testcase_generator.md
+      - cli/tools_for_submission.md
+      - cli/programming_languages.md
+      - cli/solver.md
+      - cli/tools_for_writers.md
   - Milestones:
-    - milestones/index.md
-    - 色変記事:
-      - milestones/brown.md
-      - milestones/green.md
-      - milestones/cyan.md
-      - milestones/blue.md
-      - milestones/yellow.md
-      - milestones/orange.md
-      - milestones/red.md
-    - 休止・引退: milestones/retirement.md
+      - milestones/index.md
+      - 色変記事:
+          - milestones/brown.md
+          - milestones/green.md
+          - milestones/cyan.md
+          - milestones/blue.md
+          - milestones/yellow.md
+          - milestones/orange.md
+          - milestones/red.md
+      - 休止・引退: milestones/retirement.md
   - Related Contest Sites:
-    - related_contest_sites/index.md
-    - アルゴリズム系コンテスト:
-      - related_contest_sites/algo_method.md
-      - related_contest_sites/aoj.md
-      - related_contest_sites/boj.md
-      - related_contest_sites/codeforces.md
-      - related_contest_sites/icpc.md
-      - related_contest_sites/joi_ioi.md
-      - related_contest_sites/leetcode.md
-      - related_contest_sites/topcoder.md
-      - related_contest_sites/yukicoder.md
-      - related_contest_sites/algorithm.md
-    - related_contest_sites/math.md
-    - related_contest_sites/puzzle_quiz.md
-    - related_contest_sites/db.md
-    - related_contest_sites/web_services.md
-    - related_contest_sites/security.md
-    - related_contest_sites/quantum.md
+      - related_contest_sites/index.md
+      - アルゴリズム系コンテスト:
+          - related_contest_sites/algo_method.md
+          - related_contest_sites/aoj.md
+          - related_contest_sites/boj.md
+          - related_contest_sites/codeforces.md
+          - related_contest_sites/icpc.md
+          - related_contest_sites/joi_ioi.md
+          - related_contest_sites/leetcode.md
+          - related_contest_sites/topcoder.md
+          - related_contest_sites/yukicoder.md
+          - related_contest_sites/algorithm.md
+      - related_contest_sites/math.md
+      - related_contest_sites/puzzle_quiz.md
+      - related_contest_sites/db.md
+      - related_contest_sites/web_services.md
+      - related_contest_sites/security.md
+      - related_contest_sites/quantum.md
   - Archives:
-    - archived/index.md
-    - archived/need_to_confirm_operation.md
-    - archived/outdated_information.md
-    - archived/migrate_servers.md
-    - archived/broken_links.md
-    - archived/no_longer_available.md
+      - archived/index.md
+      - archived/need_to_confirm_operation.md
+      - archived/outdated_information.md
+      - archived/migrate_servers.md
+      - archived/broken_links.md
+      - archived/no_longer_available.md
   - privacy_policy.md
   - contact.md
   - special_thanks.md
   - Contributing:
-    - contributing/index.md
-    - contributing/guideline.md
-    - contributing/design.md
-    - contributing/references.md
+      - contributing/index.md
+      - contributing/guideline.md
+      - contributing/design.md
+      - contributing/references.md
   - license.md
   - Change Log:
-    - changelog/latest.md
-    - 2024:
-      - March, 2024: changelog/2024_03.md
-      - February, 2024: changelog/2024_02.md
-      - January, 2024: changelog/2024_01.md
-    - 2023:
-      - December, 2023: changelog/2023_12.md
-      - November, 2023: changelog/2023_11.md
-      - October, 2023: changelog/2023_10.md
-      - September, 2023: changelog/2023_09.md
-      - August, 2023: changelog/2023_08.md
-      - July, 2023: changelog/2023_07.md
-      - June, 2023: changelog/2023_06.md
-      - May, 2023: changelog/2023_05.md
-      - April, 2023: changelog/2023_04.md
-      - March, 2023: changelog/2023_03.md
-      - February, 2023: changelog/2023_02.md
-      - January, 2023: changelog/2023_01.md
-    - 2022:
-      - December, 2022: changelog/2022_12.md
-      - November, 2022: changelog/2022_11.md
-      - October, 2022: changelog/2022_10.md
-      - September, 2022: changelog/2022_09.md
-      - August, 2022: changelog/2022_08.md
-      - July, 2022: changelog/2022_07.md
-      - June, 2022: changelog/2022_06.md
-      - May, 2022: changelog/2022_05.md
-      - April, 2022: changelog/2022_04.md
-      - March, 2022: changelog/2022_03.md
+      - changelog/latest.md
+      - 2024:
+          - March, 2024: changelog/2024_03.md
+          - February, 2024: changelog/2024_02.md
+          - January, 2024: changelog/2024_01.md
+      - 2023:
+          - December, 2023: changelog/2023_12.md
+          - November, 2023: changelog/2023_11.md
+          - October, 2023: changelog/2023_10.md
+          - September, 2023: changelog/2023_09.md
+          - August, 2023: changelog/2023_08.md
+          - July, 2023: changelog/2023_07.md
+          - June, 2023: changelog/2023_06.md
+          - May, 2023: changelog/2023_05.md
+          - April, 2023: changelog/2023_04.md
+          - March, 2023: changelog/2023_03.md
+          - February, 2023: changelog/2023_02.md
+          - January, 2023: changelog/2023_01.md
+      - 2022:
+          - December, 2022: changelog/2022_12.md
+          - November, 2022: changelog/2022_11.md
+          - October, 2022: changelog/2022_10.md
+          - September, 2022: changelog/2022_09.md
+          - August, 2022: changelog/2022_08.md
+          - July, 2022: changelog/2022_07.md
+          - June, 2022: changelog/2022_06.md
+          - May, 2022: changelog/2022_05.md
+          - April, 2022: changelog/2022_04.md
+          - March, 2022: changelog/2022_03.md
