@@ -12,6 +12,7 @@ title: Python
 |:--:|:--:|:--|
 |dn6049949|[Qiita](https://qiita.com/dn6049949)||
 |Kiri8128|[はてなブログ](https://kiri8128.hatenablog.com/)||
+|toam|[はてなブログ](https://toriidao.hateblo.jp/)||
 |yuusanlondon|[はてなブログ](https://yuusanlondon.hatenablog.com/)||
 
 ## レーティング2000〜2399(黄色)
@@ -20,5 +21,4 @@ title: Python
 |:--:|:--:|:--|
 |cozy_sauna|[Qiita](https://qiita.com/cozy_sauna/)||
 |titia|[Blogger](https://titianote.blogspot.com/)||
-|toam|[はてなブログ](https://toriidao.hateblo.jp/)||
 |uta_ccc|[はてなブログ](https://utac.hateblo.jp/)||
