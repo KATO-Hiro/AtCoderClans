@@ -71,6 +71,11 @@
 
 === "記事"
 
+    2024-06-01
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [私のスコア問題評価環境](https://topcoder-tomerun.hatenablog.jp/entry/2024/04/06/201915)
+
     2024-05-30
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
@@ -104,13 +109,24 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Summer - 学校ランキング (5月20日時点)](https://x.com/atcoder/status/1792415615967531418)
 
-    2024-05-17
-
-    - 「[数学を学ぶ](articles/math)」ページ
-        - [競技プログラミング記事を書きたい人のための数式の書き方入門](https://zenn.dev/blue_jam/articles/05749c3638713f)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2024-06-01
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [niuez](https://atcoder.jp/users/niuez)さん - [GitHub Pages](https://niuez.github.io/)
+        - [ssaattoo](https://atcoder.jp/users/ssaattoo)さん - [はてなブログ](https://ssaattoo.hatenablog.com/)
+        - [tsutaj](https://atcoder.jp/users/tsutaj)さん - [はてなブログ](https://tsutaj.hatenablog.com/)
+
+    - 「[ヒューリスティック部門 - Java](blogs/heuristic/java)」ページ
+        - [tsukammo](https://atcoder.jp/users/tsukammo)さん - [はてなブログ](https://tsukammo.hatenablog.com/)、[Qiita](https://qiita.com/tsukammo)
+
+    - 「[ヒューリスティック部門 - Nim](blogs/heuristic/nim)」ページ
+        - [Ang107](https://atcoder.jp/users/Ang107)さん - [はてなブログ](https://ang107.hatenablog.jp/)
+
+    - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
+        - [toam](https://atcoder.jp/users/toam)さん - [はてなブログ](https://toriidao.hateblo.jp/)
 
     2024-05-21
 
@@ -126,6 +142,11 @@
         - [Magentor](https://atcoder.jp/users/Magentor)さん - [はてなブログ](https://magentor.hatenablog.com/)
 
 === "動画"
+
+    2024-06-01
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [【検証】最新モデル AI、ChatGPT-4o は「ひっかけ問題」をどれくらい解けるのか？【ゆっくり実況・ゆっくり解説】](https://www.youtube.com/watch?v=ZQf_JcAFah0)
 
     2024-05-31
 
