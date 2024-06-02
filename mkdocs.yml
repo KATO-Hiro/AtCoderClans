@@ -76,12 +76,17 @@ extra_css:
 extra_javascript:
   - https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
   - javascripts/link_as_new_tab.js
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 # Extensions
 markdown_extensions:
   - admonition
   - attr_list
   - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
   - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
