@@ -71,6 +71,11 @@
 
 === "記事"
 
+    2024-06-02
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [負の添字を持つ対称な DP 配列を「半分だけ」管理する方法（$x^i$ + $x^{−i}$ で表す）](https://ngtkana.hatenablog.com/entry/2024/05/29/022603)
+
     2024-06-01
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -135,11 +140,6 @@
 
     - 「[アルゴリズム部門 - Java](blogs/algorithm/java)」ページ
         - [sounansya](https://atcoder.jp/users/sounansya)さん - [Qiita](https://qiita.com/sounansya)
-
-    2024-05-18
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [Magentor](https://atcoder.jp/users/Magentor)さん - [はてなブログ](https://magentor.hatenablog.com/)
 
 === "動画"
 
