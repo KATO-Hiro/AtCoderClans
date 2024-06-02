@@ -75,10 +75,10 @@ extra_css:
   - stylesheets/extra.css
 extra_javascript:
   - https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
+  - javascripts/link_as_new_tab.js
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
-  - javascripts/link_as_new_tab.js
 
 # Extensions
 markdown_extensions:
