@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-06-03
+
+- [#8348](https://github.com/KATO-Hiro/AtCoderClans/pull/8348) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - C++](../../articles/implementation/cpp)」ページに、以下の記事を追加。
+    - [比較回数の少ないソートについて](https://259-momone.hatenablog.com/entry/2024/06/03/012012)
+- [#8347](https://github.com/KATO-Hiro/AtCoderClans/pull/8347) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AtCoder Junior League 2024 Summer - 学校ランキング (6月3日時点)](https://x.com/atcoder/status/1797454145278128235)
+
 ### 2024-06-02
 
 - [#8341](https://github.com/KATO-Hiro/AtCoderClans/pull/8341) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。

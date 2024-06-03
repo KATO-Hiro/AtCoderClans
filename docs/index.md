@@ -71,6 +71,14 @@
 
 === "記事"
 
+    2024-06-03
+
+    - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
+        - [比較回数の少ないソートについて](https://259-momone.hatenablog.com/entry/2024/06/03/012012)
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Summer - 学校ランキング (6月3日時点)](https://x.com/atcoder/status/1797454145278128235)
+
     2024-06-02
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
