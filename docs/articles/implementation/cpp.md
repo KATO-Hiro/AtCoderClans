@@ -37,6 +37,10 @@ title: C&#43;&#43;
 
 ## アルゴリズム・データ構造の活用による高速化
 
+### ソート
+
+- [比較回数の少ないソートについて](https://259-momone.hatenablog.com/entry/2024/06/03/012012) - 最悪比較回数が少ないソートアルゴリズムであるMerge Insertion Sortの実装例が紹介されている。
+
 ### Dinic法
 
 - [Dinic法とその時間計算量](http://misawa.github.io/others/flow/dinic_time_complexity.html) - Dinic法(最大流問題を効率的に解くことができ、かつ、比較的実装が容易なアルゴリズム)について、標準的な実装方法を解説した記事。実装を間違えると、計算量が指数オーダーになることが指摘されている。
