@@ -4,6 +4,7 @@ title: レーティング1600〜1999(青色)
 
 ## 2024年
 
+- [AtCoderで入青しました！ - yukimyの日記](https://negiyukino.hatenablog.com/entry/2024/06/03/195516) - [yukimy](https://atcoder.jp/users/yukimy)さんが、2024年6月2日に達成。
 - [AtCoderで青色になって落ち着いたから書いた記事](https://qiita.com/viral_8/items/6ce0fbc58dbe55f8e7ae) - [viral](https://atcoder.jp/users/viral)さんが、2024年4月11日に公開。
 - [AtCoderで入青しました！！](https://qiita.com/highlighter_math/items/4e28ac3aa3d7b592d514) - [highlighter_math](https://atcoder.jp/users/highlighter_math)さんが、2024年2月10日に達成。
 - [AtCoderで入青したので記事を書く](https://qiita.com/hiroyuk1/items/5a75448e826bb08a17e4) - [hiroyuk1](https://atcoder.jp/users/hiroyuk1)さんが、2024年2月10日に達成。
