@@ -117,11 +117,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [相対スコア AHC の立ち回り](https://kiri8128.hatenablog.com/entry/2024/05/06/032420)
 
-    2024-05-20
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Summer - 学校ランキング (5月20日時点)](https://x.com/atcoder/status/1792415615967531418)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -176,6 +171,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2024-06-04
+
+    - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [yukimy](https://atcoder.jp/users/yukimy)さん - [AtCoderで入青しました！ - yukimyの日記](https://negiyukino.hatenablog.com/entry/2024/06/03/195516)
 
     2024-05-23
 

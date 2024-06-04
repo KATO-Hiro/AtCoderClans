@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-06-04
+
+- [#8351](https://github.com/KATO-Hiro/AtCoderClans/pull/8351) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[yukimy](https://atcoder.jp/users/yukimy)さんの[記事](https://negiyukino.hatenablog.com/entry/2024/06/03/195516)を追加。
+
 ### 2024-06-03
 
 - [#8348](https://github.com/KATO-Hiro/AtCoderClans/pull/8348) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - C++](../../articles/implementation/cpp)」ページに、以下の記事を追加。
