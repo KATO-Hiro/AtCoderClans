@@ -4,7 +4,7 @@ title: コードを書くための環境構築を行う
 
 !!! info "参考"
 
-    以下の記事は、2024年3月までに公開・更新されたものです。随時、最新の内容を追加する予定です。
+    以下の記事は、2024年6月までに公開・更新されたものです。随時、最新の内容を追加する予定です。
 
 !!! warning "注意"
 
@@ -41,6 +41,10 @@ title: コードを書くための環境構築を行う
     - [yiwiy9/atcoder-rust-devcontainer](https://github.com/yiwiy9/atcoder-rust-devcontainer) ![GitHub Repo stars](https://img.shields.io/github/stars/yiwiy9/atcoder-rust-devcontainer?style=plastic) - 実行環境を短時間で用意するための各種設定ファイルが公開されている。
 
 ## Macintosh
+
+### 任意の言語
+
+- [AtCoderで快適に戦うための環境を作ろう](https://note.com/dev_onecareer/n/n673b1e040956) - ユーザスクリプト「[AtCoder Easy Test v2](https://greasyfork.org/ja/scripts/433152-atcoder-easy-test-v2)」を利用する方法と、ローカル環境で[atcoder-cli](https://github.com/Tatamo/atcoder-cli)および[Online Judge Tools](https://github.com/online-judge-tools/oj)を導入する方法が紹介されている。
 
 ### C&#43;&#43;
 
