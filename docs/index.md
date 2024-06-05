@@ -71,6 +71,11 @@
 
 === "記事"
 
+    2024-06-05
+
+    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
+        - [AtCoderで快適に戦うための環境を作ろう](https://note.com/dev_onecareer/n/n673b1e040956)
+
     2024-06-03
 
     - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
@@ -136,14 +141,6 @@
     - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
         - [toam](https://atcoder.jp/users/toam)さん - [はてなブログ](https://toriidao.hateblo.jp/)
 
-    2024-05-21
-
-    - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
-        - [chinerist](https://atcoder.jp/users/chinerist)さん - [はてなブログ](https://chineristac.hatenablog.com/)
-
-    - 「[アルゴリズム部門 - Java](blogs/algorithm/java)」ページ
-        - [sounansya](https://atcoder.jp/users/sounansya)さん - [Qiita](https://qiita.com/sounansya)
-
 === "動画"
 
     2024-06-01
@@ -181,6 +178,17 @@
 
     - 「[アルゴリズム部門 - レーティング2400〜2799(橙色)](milestones/orange)」ページ
         - [sounansya](https://atcoder.jp/users/sounansya)さん - [AtCoder橙色になりました](https://qiita.com/sounansya/items/ff20b4e25f2f2316bffe)
+
+=== "国内外のコンテストサイト"
+
+    2024-06-05
+
+    - 「[データベース系コンテスト](related_contest_sites/db)」ページ
+        - [SQLab](https://sqlab.net/)
+
+    <div align="center">
+      <img loading="lazy" src="images/related_contest_sites/sqlab/sqlab.png" alt="sqlab">
+    </div>
 
 ## AtCoder公式グッズを購入する
 
