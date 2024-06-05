@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-06-05
+
+- [#8361](https://github.com/KATO-Hiro/AtCoderClans/pull/8361) - (破壊的な変更) 掲載内容がやや古くなったと思われる記事を「[Archives](../../archived)」ページに移動。
+- [#8359](https://github.com/KATO-Hiro/AtCoderClans/pull/8359) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。
+    - [AtCoderで快適に戦うための環境を作ろう](https://note.com/dev_onecareer/n/n673b1e040956)
+- [#8357](https://github.com/KATO-Hiro/AtCoderClans/pull/8357) - 「[Related Contest Sites](../../related_contest_sites)」の「[データベース系コンテスト](../../related_contest_sites/db)」ページに、Webサービスを追加。
+    - [SQLab](https://sqlab.net/)
+
 ### 2024-06-04
 
 - [#8351](https://github.com/KATO-Hiro/AtCoderClans/pull/8351) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
