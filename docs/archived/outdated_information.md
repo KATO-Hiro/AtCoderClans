@@ -210,6 +210,13 @@ title: 更新停止の可能性が高い
 
 ## 記事
 
+### 入門者・初心者向けの内容
+
+- [AtCoder Junior League 2023](https://atcoder.jp/contests/ajl2023) - [AtCoder](https://atcoder.jp/)の特設ページ。
+    - [中高生、学校対抗競技プログラミングコンテスト5-12月](https://resemom.jp/article/2023/04/12/71745.html) - [リセマム（ReseMom）](https://resemom.jp/pages/info.html)による紹介記事。
+    - [AtCoder Junior League 2023 ランキング上位校の強さの秘密に迫る（第1回：筑波大学附属駒場中・高等学校）](https://prtimes.jp/story/detail/7bZGPLcXjeB) - [chokudai](https://twitter.com/chokudai)さんと[kaede2020](https://atcoder.jp/users/kaede2020)さんがAJL上位校の中高生を訪問し、AJLや競技プログラミングへの取り組み方を紹介している記事。
+    - [中高生向け 学校対抗競技プログラミング「AtCoder Junior League2023」入賞校・入賞者を発表](https://prtimes.jp/main/html/rd/p/000000044.000028415.html) - AJL2023の学校・個人ランキングなどが集計・公表されている。
+
 ### コードを書くための環境構築を行う
 
 - [WSL2とVSCodeでC++環境構築した（AtCoder Libraryを使えるようになるまで）](https://ntk-ta01.hatenablog.com/entry/2020/09/09/181155) - C++やRustのコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)で構築するための記事。設定ファイルや[AtCoder Library](https://atcoder.jp/posts/517)に関する説明もある。
@@ -230,6 +237,18 @@ title: 更新停止の可能性が高い
 
     !!! warning "注意"
         2021年10月以降の更新は確認できず。
+
+- [AtCoder Typical Components (β)](https://not-leonian.hatenablog.com/entry/ATCs/ATCs) - AtCoder Beginner Contest 301以降を対象として、問題と典型要素を双方向に関連付けた一覧表。各問題の典型要素と、各典型要素を含む問題の表がそれぞれ用意されている。
+    - 確認した日: 2023/06/05
+
+    !!! warning "注意"
+        2024年5月以降の更新は確認できず。
+
+#### 競技プログラミングと生成AIとの関係
+
+- [ChatGPTに競技プログラミングさせてみた【AtCoder】](https://qiita.com/relu/items/6cc9467748d580f50cfd) - [ChatGPT](https://openai.com/blog/chatgpt/)を利用して、[AtCoder](https://atcoder.jp/)で出題された問題を解いている記事。
+- [GPT-4は青色コーダーの夢を見るか](https://qiita.com/autotaker1984/items/2929937cd1fea6137d1f) - [GPT-4](https://openai.com/research/gpt-4)を利用して、[AtCoder](https://atcoder.jp/)の過去問をどこまで解けるか調査した記事。AIで解くのが難しい問題の種類や競技プログラミングにおける活用の方向性についても言及されている。
+- [ChatGPT3.5&4.0で競技プログラミングAtCoderの問題のスキル推定を検証しました](https://note.com/chatgpt_nobdata/n/n2d5769ebb622) - AtCoder Beginners Contest (通称ABC)のA〜C問題を対象として、解くために必要なスキルを推定・検証している記事。
 
 ### 実装テクニックを学ぶ
 
@@ -256,6 +275,58 @@ title: 更新停止の可能性が高い
 
     - 理由: 言語アップデートに伴い、文法・言語仕様が変更されたため。
     - 代替手段: [AtCoder言語アップデートでRustの入出力が楽になっていた](https://qiita.com/koji-cw/items/0cce3b075faffe5e50ed)や[言語アップデートで追加されたライブラリ一覧](https://github.com/rust-lang-ja/atcoder-rust-base/blob/ja-all-enabled/Cargo.toml)を読む。
+
+### コンテストに関する統計情報を見る
+
+#### 2023年
+
+- [AtCoder Junior League 2023 - 学校ランキング](https://twitter.com/atcoder/status/1658033672879235075) - 中学・高校部門のそれぞれ上位20校のランキング。2023年5月15日時点(修正版)。
+    - [同12月25日時点](https://twitter.com/atcoder/status/1739135398625100112)
+
+    ??? info "これまでのランキング"
+
+        - [同12月18日時点](https://twitter.com/atcoder/status/1736592889067774166)
+        - [同12月11日時点](https://twitter.com/atcoder/status/1734059295308931239)
+        - [同12月4日時点](https://twitter.com/atcoder/status/1731514391756243121)
+        - [同11月27日時点](https://twitter.com/atcoder/status/1728981309178159379)
+        - [同11月20日時点](https://twitter.com/atcoder/status/1726455552606372167)
+        - [同11月15日時点](https://twitter.com/atcoder/status/1724615306881204451)
+        - [同11月6日時点](https://twitter.com/atcoder/status/1721379697609855201)
+        - [同10月30日時点](https://twitter.com/atcoder/status/1718845595371319578)
+        - [同10月23日時点](https://twitter.com/atcoder/status/1716318742169477574)
+        - [同10月16日時点](https://twitter.com/atcoder/status/1713793122206175428)
+        - [同10月10日時点](https://twitter.com/atcoder/status/1711587000539853082)
+        - [同10月2日時点](https://twitter.com/atcoder/status/1708694473100886405)
+        - [同9月25日時点](https://twitter.com/atcoder/status/1706169824861397059)
+        - [同9月19日時点](https://twitter.com/atcoder/status/1703981215890788411)
+        - [同9月11日時点](https://twitter.com/atcoder/status/1701090985978310979)
+        - [同9月4日時点](https://twitter.com/atcoder/status/1698538878603239785)
+        - [同8月28日時点](https://twitter.com/atcoder/status/1696009837765919013)
+        - [同8月21日時点](https://twitter.com/atcoder/status/1693462573507571886)
+        - [同8月16日時点](https://twitter.com/atcoder/status/1691665901823963201)
+        - [同8月7日時点](https://twitter.com/atcoder/status/1688404891516243968)
+        - [同7月31日時点](https://twitter.com/atcoder/status/1685856209742753792)
+        - [同5月22日時点](https://twitter.com/atcoder/status/1660527968102539264)
+
+- [AJL 学校スコア(上位5校)、個人スコア(上位5人)の推移(2023年6月19日時点)](https://twitter.com/gojira_kyopro/status/1670634706545836032)
+    - [同10月16日時点](https://twitter.com/gojira_kyopro/status/1713809087987667255)
+
+    ??? info "これまでの学校・個人スコアの推移"
+
+        - [同8月28日時点](https://twitter.com/gojira_kyopro/status/1696083230800433478)
+        - [同8月21日時点](https://twitter.com/gojira_kyopro/status/1693470716627423446)
+        - [同8月16日時点](https://twitter.com/gojira_kyopro/status/1691675667631579605)
+        - [同8月7日時点](https://twitter.com/gojira_kyopro/status/1688408587213979648)
+        - [同7月31日時点](https://twitter.com/gojira_kyopro/status/1685862331069452288)
+        - [同7月24日時点](https://twitter.com/gojira_kyopro/status/1683336164907036672)
+        - [同7月18日時点](https://twitter.com/gojira_kyopro/status/1681177713212821510)
+        - [同7月10日時点](https://twitter.com/gojira_kyopro/status/1678260520615546881)
+        - [同7月3日時点](https://twitter.com/gojira_kyopro/status/1675735792629714944)
+
+- [AJL 高校部門上位40校 (2023年9月11日時点)](https://twitter.com/kiri8128/status/1701251352075075616) - 高校部門の上位40校を対象として、各ユーザのコンテスト別獲得スコアが集計されている。[中学部門の上位40校](https://twitter.com/kiri8128/status/1701251566312022247)や[個人部門](https://twitter.com/kiri8128/status/1701252177392762975)もある。
+    - [同10月23日時点](https://twitter.com/kiri8128/status/1716453617291690065)
+    - [同10月10日時点](https://twitter.com/kiri8128/status/1711744359920812511)
+    - [同9月19日時点](https://twitter.com/kiri8128/status/1704120665950056450)
 
 ## 動画
 

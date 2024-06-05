@@ -34,7 +34,6 @@ title: コンテストに向けた練習方法を知る
 - [AtCoderの問題を分類しました](https://zenn.dev/koyanagihitoshi?tab=books) - [AtCoder](https://atcoder.jp/)で開催されたコンテストについて、問題が分類(入出力、組み込み型、組み込み関数・モジュール、データ構造・アルゴリズム、数学などの6種類)されている。
     - [Pythonによる解答例](https://github.com/KoyanagiHitoshi/AtCoder-Python-Introduction) - 動作環境は、Python3.11.4。
 - [【AtCoder】 AtCoder Beginner Contest A~C問題の傾向と対策 part1](https://qiita.com/darake/items/dd66663b80f6974cd8a9) - AtCoder Beginner Contest 200〜225のA〜C問題に関する出題傾向・活用方法がまとめられている。
-- [AtCoder Typical Components (β)](https://not-leonian.hatenablog.com/entry/ATCs/ATCs) - AtCoder Beginner Contest 301以降を対象として、問題と典型要素を双方向に関連付けた一覧表。各問題の典型要素と、各典型要素を含む問題の表がそれぞれ用意されている。
 
 ### 問題の作成者が公開している問題集
 
@@ -43,14 +42,11 @@ title: コンテストに向けた練習方法を知る
 - [nok0 問題集](https://hackmd.io/@nok0/SkQxZznwh) - [nok0](https://atcoder.jp/users/nok0)さんが原案の問題集(一部)。典型的な問題と応用的な問題に大別されている。
 - [rng問題](https://docs.google.com/spreadsheets/d/1-dwOvCUGF7ITCYXg2LUFo0YqvZc7PTNX3jz1USuXuBE/edit#gid=0) - [rng_58](https://twitter.com/rng_58)さんが作成した問題の難易度を[Topcoder](https://www.topcoder.com/)の基準で点数化している。また、有志によって難易度の評価やおすすめ問題の投票が行われている。
 
-### 競技プログラミングとAIとの関係
+### 競技プログラミングと生成AIとの関係
 
 <!-- markdown-link-check-disable -->
 
 - [競技プログラミングとChatGPTを含むAIについて](https://chokudai.hatenablog.com/entry/2022/12/07/161959) - [ChatGPT](https://openai.com/blog/chatgpt/)の公開に伴い、[AtCoder](https://atcoder.jp/)社長の[chokudai](https://twitter.com/chokudai)さんが個人的な見解を述べた記事。AIの実力、競技性や教育への影響、コンテストでの使用の是非などについて言及されている。
-- [ChatGPTに競技プログラミングさせてみた【AtCoder】](https://qiita.com/relu/items/6cc9467748d580f50cfd) - [ChatGPT](https://openai.com/blog/chatgpt/)を利用して、[AtCoder](https://atcoder.jp/)で出題された問題を解いている記事。
-- [GPT-4は青色コーダーの夢を見るか](https://qiita.com/autotaker1984/items/2929937cd1fea6137d1f) - [GPT-4](https://openai.com/research/gpt-4)を利用して、[AtCoder](https://atcoder.jp/)の過去問をどこまで解けるか調査した記事。AIで解くのが難しい問題の種類や競技プログラミングにおける活用の方向性についても言及されている。
-- [ChatGPT3.5&4.0で競技プログラミングAtCoderの問題のスキル推定を検証しました](https://note.com/chatgpt_nobdata/n/n2d5769ebb622) - AtCoder Beginners Contest (通称ABC)のA〜C問題を対象として、解くために必要なスキルを推定・検証している記事。
 - [大実験！ChatGPTは競プロの問題を解けるのか (2024年5月版)](https://e869120.hatenablog.com/entry/2024/05/15/100804) - 筆者がオリジナルの問題を作成し、GPT-4oの回答性能を実験・調査している。
 
 <!-- markdown-link-check-enable -->
