@@ -159,12 +159,6 @@
         - [【競技プログラミング　作問のポイント解説 #2】競プロの問題文を正しく書くには？【ゆっくり解説】](https://www.youtube.com/watch?v=uDeudtg_6-U)
         - [結婚定理：N人の女は好みの男と結婚できるか？【ゆっくり解説】](https://www.youtube.com/watch?v=zlawYWmuP4c)
 
-    2024-05-22
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [今だからこそ学ぶプログラミングとアルゴリズム](https://www.youtube.com/watch?v=PZOITpAccjo)
-        - [【速報】ChatGPT-4oに競技プログラミングをやらせてみた【ゆっくり解説】](https://www.youtube.com/watch?v=nhVfggY58IQ)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
