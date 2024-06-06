@@ -363,6 +363,8 @@ title: 更新停止の可能性が高い
       <img loading = "lazy" src="../../images/cli/wronganswer.gif" alt="wrong answer">
     </div>
 
+- [AtCoderSupporter](https://github.com/shun0923/AtCoderSupporter) ![GitHub stars](https://img.shields.io/github/stars/shun0923/AtCoderSupporter?style=plastic) - サンプルケースのテストと提出ができる。
+
 #### 複数の言語
 
 - [atsubmit](https://github.com/flow6852/atsubmit) ![GitHub stars](https://img.shields.io/github/stars/flow6852/atsubmit?style=plastic) - サンプルの取得・テスト、提出、結果の閲覧を自動で行うことができる。テストケースの正誤判定は、HaskellとRustが可能。
