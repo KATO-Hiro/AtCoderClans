@@ -18,7 +18,12 @@ A3: 基本的には、土曜日もしくは日曜日の21時から1時間40分�
 
 ## コンテストのルールなどを確認
 
+<!-- markdown-link-check-disable -->
+
+- [AtCoder生成AI対策ルール - 20240607版](https://info.atcoder.jp/entry/llm-abc-rules-ja) - AtCoder Beginner Contestのコンテスト開催中を対象として、生成AIの利用に関するルールの詳細が説明されています。
 - [AtCoder - コンテストモードについて](https://atcoder.jp/posts/1021) - コンテスト開催中の高負荷対策の一環として、一部のページへのアクセス制限をお知らせした記事です。
+
+<!-- markdown-link-check-enable -->
 
 ## コンテストの開催日時を確認
 

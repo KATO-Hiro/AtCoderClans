@@ -46,6 +46,8 @@ title: コンテストに向けた練習方法を知る
 
 <!-- markdown-link-check-disable -->
 
+- [AtCoder生成AI対策ルール - 20240607版](https://info.atcoder.jp/entry/llm-abc-rules-ja) - AtCoder Beginner Contestのコンテスト開催中を対象として、生成AIの利用に関するルールの詳細が説明されている。
+    - [生成AIの台頭に伴うABCにおけるルール変更について](https://atcoder.jp/posts/1246) - 上記のルール変更の背景、作成方針、概要、今後の変更の可能性について言及されている。
 - [競技プログラミングとChatGPTを含むAIについて](https://chokudai.hatenablog.com/entry/2022/12/07/161959) - [ChatGPT](https://openai.com/blog/chatgpt/)の公開に伴い、[AtCoder](https://atcoder.jp/)社長の[chokudai](https://twitter.com/chokudai)さんが個人的な見解を述べた記事。AIの実力、競技性や教育への影響、コンテストでの使用の是非などについて言及されている。
 - [大実験！ChatGPTは競プロの問題を解けるのか (2024年5月版)](https://e869120.hatenablog.com/entry/2024/05/15/100804) - 筆者がオリジナルの問題を作成し、GPT-4oの回答性能を実験・調査している。
 
