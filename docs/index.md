@@ -58,6 +58,12 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "入門者・初心者向けの内容"
+
+    - 「[Q3: コンテストは、いつ開催されていますか?](for_beginners/question3)」
+        - [AtCoder生成AI対策ルール - 20240607版](https://info.atcoder.jp/entry/llm-abc-rules-ja)
+        - [生成AIの台頭に伴うABCにおけるルール変更について](https://atcoder.jp/posts/1246)
+
 === "Webアプリ・Webサイト"
 
     2024-05-26
@@ -70,6 +76,12 @@
     </div>
 
 === "記事"
+
+    2024-06-07
+
+    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
+        - [AtCoder生成AI対策ルール - 20240607版](https://info.atcoder.jp/entry/llm-abc-rules-ja)
+        - [生成AIの台頭に伴うABCにおけるルール変更について](https://atcoder.jp/posts/1246)
 
     2024-06-05
 
@@ -167,11 +179,6 @@
 
     - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [yukimy](https://atcoder.jp/users/yukimy)さん - [AtCoderで入青しました！ - yukimyの日記](https://negiyukino.hatenablog.com/entry/2024/06/03/195516)
-
-    2024-05-23
-
-    - 「[アルゴリズム部門 - レーティング2400〜2799(橙色)](milestones/orange)」ページ
-        - [sounansya](https://atcoder.jp/users/sounansya)さん - [AtCoder橙色になりました](https://qiita.com/sounansya/items/ff20b4e25f2f2316bffe)
 
 === "国内外のコンテストサイト"
 
