@@ -2,6 +2,9 @@
 title: テンプレート・テストケースを用意
 ---
 
+!!! danger "警告"
+    AtCoder Beginner Contestのコンテスト開催中は、利用が禁止されているサービスや機能があります ([出典](https://info.atcoder.jp/entry/llm-abc-rules-ja))。参加前にルールをご確認ください。
+
 ## テンプレートを生成
 
 ### アルゴリズム部門

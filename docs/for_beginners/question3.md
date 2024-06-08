@@ -20,8 +20,8 @@ A3: 基本的には、土曜日もしくは日曜日の21時から1時間40分�
 
 <!-- markdown-link-check-disable -->
 
-- [AtCoder生成AI対策ルール - 20240607版](https://info.atcoder.jp/entry/llm-abc-rules-ja) - AtCoder Beginner Contestのコンテスト開催中を対象として、生成AIの利用に関するルールの詳細が説明されています。
-    - [生成AIの台頭に伴うABCにおけるルール変更について](https://atcoder.jp/posts/1246) - 上記のルール変更の背景、作成方針、概要、今後の変更の可能性について言及されています。
+- [AtCoder生成AI対策ルール - 20240607版](https://info.atcoder.jp/entry/llm-abc-rules-ja) - AtCoder Beginner Contestのコンテスト開催中を対象として、生成AIの利用における禁止事項が説明されています ([英語版](https://info.atcoder.jp/entry/llm-abc-rules-en))。
+    - [生成AIの台頭に伴うABCにおけるルール変更について](https://atcoder.jp/posts/1246) - 上記のルール変更の背景、作成方針、概要、今後の変更の可能性について言及されています ([英語版](https://atcoder.jp/posts/1247))。
 - [AtCoder - コンテストモードについて](https://atcoder.jp/posts/1021) - コンテスト開催中の高負荷対策の一環として、一部のページへのアクセス制限をお知らせした記事です。
 
 <!-- markdown-link-check-enable -->
