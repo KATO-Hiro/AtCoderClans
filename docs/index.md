@@ -60,6 +60,8 @@
 
 === "入門者・初心者向けの内容"
 
+    2024-06-07
+
     - 「[Q3: コンテストは、いつ開催されていますか?](for_beginners/question3)」
         - [AtCoder生成AI対策ルール - 20240607版](https://info.atcoder.jp/entry/llm-abc-rules-ja)
         - [生成AIの台頭に伴うABCにおけるルール変更について](https://atcoder.jp/posts/1246)
@@ -73,6 +75,17 @@
 
     <div align="center">
       <img loading = "lazy" src="images/web_app/mini_generator.png" alt="mini generator">
+    </div>
+
+=== "ユーザスクリプト"
+
+    2024-06-08
+
+    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
+        - [AtCoder Center Your Standing](https://greasyfork.org/ja/scripts/496241-atcoder-center-your-standing)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_center_your_standing.png" alt="atcoder center your standing">
     </div>
 
 === "記事"
@@ -128,11 +141,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AtCoder AHCのインタラクティブ問題でデバッグ実行を実現する](https://qiita.com/tanaka-a/items/6856d7fcf78f2516f691)
-
-    2024-05-24
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [相対スコア AHC の立ち回り](https://kiri8128.hatenablog.com/entry/2024/05/06/032420)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
