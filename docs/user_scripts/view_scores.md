@@ -36,7 +36,7 @@ title: コンテストの成績や関連する統計情報を見る
       <img loading = "lazy" src="../../images/userscript/atcoder_predictor.png" alt="ac predictor">
     </div>
 
-- [AtCoder Center Your Standing](https://greasyfork.org/ja/scripts/496241-atcoder-center-your-standing) - 「順位表」ページで、ログインユーザを中心とした結果をデフォルトで表示する。
+- [AtCoder Center Your Standing](https://greasyfork.org/ja/scripts/496241-atcoder-center-your-standing) - 「順位表」ページで、ログインユーザを中心とした結果が最初に表示されるようにする。
 
     <div align="center">
       <img loading="lazy" src="../../images/userscript/atcoder_center_your_standing.png" alt="atcoder center your standing">
