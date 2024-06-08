@@ -36,6 +36,12 @@ title: コンテストの成績や関連する統計情報を見る
       <img loading = "lazy" src="../../images/userscript/atcoder_predictor.png" alt="ac predictor">
     </div>
 
+- [AtCoder Center Your Standing](https://greasyfork.org/ja/scripts/496241-atcoder-center-your-standing) - 「順位表」ページで、ログインユーザを中心とした結果をデフォルトで表示する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_center_your_standing.png" alt="atcoder center your standing">
+    </div>
+
 - [AtCoderScoreHistogram](https://greasyfork.org/ja/scripts/462131-atcoderscorehistogram) - 「順位表」ページに、得点分布を追加する。ユーザ名を入力すると、該当ユーザの得点も表示される。
 
     <div align="center">
