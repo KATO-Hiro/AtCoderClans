@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-06-08
+
+- [#8378](https://github.com/KATO-Hiro/AtCoderClans/pull/8378) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Center Your Standing](https://greasyfork.org/ja/scripts/496241-atcoder-center-your-standing)
+- [#8377](https://github.com/KATO-Hiro/AtCoderClans/pull/8377) - [#8371](https://github.com/KATO-Hiro/AtCoderClans/pull/8371)に関する説明を加筆・修正。
+
 ### 2024-06-07
 
 - [#8371](https://github.com/KATO-Hiro/AtCoderClans/pull/8371) - 「[For Beginners](../../for_beginners)」の「[Q3: コンテストは、いつ開催されていますか?](../../for_beginners/question3)」ページと「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
