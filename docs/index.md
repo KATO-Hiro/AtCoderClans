@@ -137,11 +137,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Summer - 学校ランキング (5月27日時点)](https://x.com/atcoder/status/1794907108120649900)
 
-    2024-05-25
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AtCoder AHCのインタラクティブ問題でデバッグ実行を実現する](https://qiita.com/tanaka-a/items/6856d7fcf78f2516f691)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -162,6 +157,11 @@
         - [toam](https://atcoder.jp/users/toam)さん - [はてなブログ](https://toriidao.hateblo.jp/)
 
 === "動画"
+
+    2024-06-09
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [ながたかな 競プロ部屋](https://www.youtube.com/@ngtkana_kyopro)
 
     2024-06-01
 
