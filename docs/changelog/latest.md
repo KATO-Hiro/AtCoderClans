@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-06-09
+
+- [#8382](https://github.com/KATO-Hiro/AtCoderClans/pull/8382) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [ながたかな 競プロ部屋](https://www.youtube.com/@ngtkana_kyopro)
+
 ### 2024-06-08
 
 - [#8378](https://github.com/KATO-Hiro/AtCoderClans/pull/8378) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
