@@ -66,17 +66,6 @@
         - [AtCoder生成AI対策ルール - 20240607版](https://info.atcoder.jp/entry/llm-abc-rules-ja)
         - [生成AIの台頭に伴うABCにおけるルール変更について](https://atcoder.jp/posts/1246)
 
-=== "Webアプリ・Webサイト"
-
-    2024-05-26
-
-    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
-        - [MINI GENERATOR](https://mini-generator.netlify.app/graph)
-
-    <div align="center">
-      <img loading = "lazy" src="images/web_app/mini_generator.png" alt="mini generator">
-    </div>
-
 === "ユーザスクリプト"
 
     2024-06-08
@@ -89,6 +78,11 @@
     </div>
 
 === "記事"
+
+    2024-06-10
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Summer - 学校ランキング (6月10日時点)](https://x.com/atcoder/status/1800015044690026966)
 
     2024-06-07
 
@@ -139,6 +133,11 @@
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2024-06-10
+
+    - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
+        - [hato_](https://atcoder.jp/users/hato_)さん - [はてなブログ](https://hato336.hatenablog.com)
 
     2024-06-01
 
