@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-06-11
+
+- [#8397](https://github.com/KATO-Hiro/AtCoderClans/pull/8397) - 「[Milestones](../../milestones/orange)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2400から2799まで(橙色)に[hirayuu_At](https://atcoder.jp/users/hirayuu_At)さんの[記事](https://halc-kyopro.hatenablog.com/entry/2024/06/11/203504)を追加。
+
 ### 2024-06-10
 
 - [#8391](https://github.com/KATO-Hiro/AtCoderClans/pull/8391) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
