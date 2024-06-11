@@ -126,11 +126,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [トヨタ自動車プログラミングコンテスト2024#5（AtCoder Heuristic Contest 033）参加記](https://kaede2020.hatenablog.com/entry/2024/05/27/190036)
 
-    2024-05-27
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Summer - 学校ランキング (5月27日時点)](https://x.com/atcoder/status/1794907108120649900)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -181,6 +176,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2024-06-11
+
+    - 「[アルゴリズム部門 - レーティング2400〜2799(橙色)](milestones/orange)」ページ
+        - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さん - [【色変記事】橙になりました - halcの競プロ精進ブログ](https://halc-kyopro.hatenablog.com/entry/2024/06/11/203504)
 
     2024-06-04
 
