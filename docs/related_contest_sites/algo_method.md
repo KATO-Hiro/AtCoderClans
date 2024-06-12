@@ -21,6 +21,7 @@ title: アルゴ式
 
 ## 運営チームの記事を読む
 
+- [アルゴ式が国内最大規模の高校生・高専生向けプログラミングコンテスト『プログラミング甲子園2024』の競技制作を担当](https://prtimes.jp/main/html/rd/p/000000012.000105963.html)
 - [アルゴ式公開から2ヶ月が経ちました / これからの話](https://note.com/sak_algo/n/nf63c98059c5c)
 - [アルゴ式の存在意義](https://note.com/sak_algo/n/n33da1fbfea38)
 - [株式会社アルゴ式を設立し、資金調達を実施しました](https://note.com/sak_algo/n/nf5fbbbe3d600)
