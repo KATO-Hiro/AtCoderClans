@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-06-12
+
+- [#8405](https://github.com/KATO-Hiro/AtCoderClans/pull/8405) - 「[Related Contest Sites](../../related_contest_sites)」ページに掲載している「[アルゴ式](https://algo-method.com/)」の説明文に、以下の記事を追加。
+    - [アルゴ式が国内最大規模の高校生・高専生向けプログラミングコンテスト『プログラミング甲子園2024』の競技制作を担当](https://prtimes.jp/main/html/rd/p/000000012.000105963.html)
+- [#8404](https://github.com/KATO-Hiro/AtCoderClans/pull/8404) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [AHCでの解法選択](https://montplusa.hatenablog.com/entry/2024/06/10/214100)
+- [#8403](https://github.com/KATO-Hiro/AtCoderClans/pull/8403) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder NoCopy](https://greasyfork.org/ja/scripts/497349-atcoder-nocopy)
+
 ### 2024-06-11
 
 - [#8397](https://github.com/KATO-Hiro/AtCoderClans/pull/8397) - 「[Milestones](../../milestones/orange)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

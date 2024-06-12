@@ -68,6 +68,11 @@
 
 === "ユーザスクリプト"
 
+    2024-06-12
+
+    - 「[問題を解く](user_scripts/solve_problems)」ページ
+        - [AtCoder NoCopy](https://greasyfork.org/ja/scripts/497349-atcoder-nocopy)
+
     2024-06-08
 
     - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
@@ -78,6 +83,11 @@
     </div>
 
 === "記事"
+
+    2024-06-12
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AHCでの解法選択](https://montplusa.hatenablog.com/entry/2024/06/10/214100)
 
     2024-06-10
 
@@ -117,14 +127,6 @@
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [競プロ初心者が怖がるもの](https://qiita.com/NokonoKotlin/items/75e56515139a872fb629)
-
-    2024-05-28
-
-    - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
-        - [proconio を使わない Rust の標準入力（Rust 1.61 ～ Rust 1.65 の一連のアップデートについて）](https://ngtkana.hatenablog.com/entry/2024/05/26/184605)
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [トヨタ自動車プログラミングコンテスト2024#5（AtCoder Heuristic Contest 033）参加記](https://kaede2020.hatenablog.com/entry/2024/05/27/190036)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -188,6 +190,11 @@
         - [yukimy](https://atcoder.jp/users/yukimy)さん - [AtCoderで入青しました！ - yukimyの日記](https://negiyukino.hatenablog.com/entry/2024/06/03/195516)
 
 === "国内外のコンテストサイト"
+
+    2024-06-12
+
+    - 「[アルゴ式](related_contest_sites/algo_method)」ページ
+        - [アルゴ式が国内最大規模の高校生・高専生向けプログラミングコンテスト『プログラミング甲子園2024』の競技制作を担当](https://prtimes.jp/main/html/rd/p/000000012.000105963.html)
 
     2024-06-05
 
