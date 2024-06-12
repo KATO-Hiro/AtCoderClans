@@ -143,6 +143,8 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/atcoder_copy_button_adder.png" alt="atcoder copy button adder">
     </div>
 
+- [AtCoder NoCopy](https://greasyfork.org/ja/scripts/497349-atcoder-nocopy) - AtCoder Beginner Contestの問題文をコピーできないようにする(右クリックとCtrl + C)。
+
 ### 制約条件を確認・非表示に
 
 - [制約をチェックする](https://greasyfork.org/ja/scripts/434715-check-constraints) - 「問題」ページの制約に、確認用のチェックボックスを追加する。
