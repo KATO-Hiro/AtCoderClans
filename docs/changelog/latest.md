@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-06-13
+
+- [#8409](https://github.com/KATO-Hiro/AtCoderClans/pull/8409) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[hato_](https://atcoder.jp/users/hato_)さんの[記事](https://hato336.hatenablog.com/entry/2024/06/09/223814)を追加。
+
 ### 2024-06-12
 
 - [#8405](https://github.com/KATO-Hiro/AtCoderClans/pull/8405) - 「[Related Contest Sites](../../related_contest_sites)」ページに掲載している「[アルゴ式](https://algo-method.com/)」の説明文に、以下の記事を追加。
