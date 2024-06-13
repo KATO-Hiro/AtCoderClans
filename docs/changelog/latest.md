@@ -6,6 +6,7 @@ title: Change Log
 
 ### 2024-06-13
 
+- [#8412](https://github.com/KATO-Hiro/AtCoderClans/pull/8412) - (破壊的な変更) リンク切れと思われるWebアプリを一時的に「[Archives](../../archived)」ページに移動。
 - [#8409](https://github.com/KATO-Hiro/AtCoderClans/pull/8409) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
     - レーティング2000から2399まで(黄色)に[hato_](https://atcoder.jp/users/hato_)さんの[記事](https://hato336.hatenablog.com/entry/2024/06/09/223814)を追加。
 
