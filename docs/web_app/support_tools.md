@@ -78,14 +78,6 @@ title: 問題を解くときの補助ツール
       <img loading = "lazy" src="../../images/web_app/show_graph.png" alt="show graph">
     </div>
 
-## 入力データをランダムに生成
-
-- [テストケースランダム生成](https://testcase-generator-pr-5ba4e48ff086.herokuapp.com/index/) - 数列・グラフ・文字列を対象として、指定した条件を満たす入力データをランダムに生成できる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/random_testcase_generator.png" alt="random testcase generator">
-    </div>
-
 ## 関連記事を検索
 
 - [検索エンジン集](https://magurofly.github.io/tools/search) - 競技プログラミングに関する記事を検索できる。
