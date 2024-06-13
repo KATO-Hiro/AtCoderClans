@@ -74,6 +74,13 @@ title: 開発・提供終了
       <img loading = "lazy" src="../../images/web_app/procon_q&a.png" alt="procon q&a">
     </div>
 
+- [テストケースランダム生成](https://testcase-generator-pr-5ba4e48ff086.herokuapp.com/index/) - 数列・グラフ・文字列を対象として、指定した条件を満たす入力データをランダムに生成できる。
+    - 確認した日: 2024/06/13
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/random_testcase_generator.png" alt="random testcase generator">
+    </div>
+
 ### 解説を読む
 
 - [AtCoderEditorials](https://github.com/null-null-programming/AtCoder-Editorials) - 解法ブログの投稿・閲覧と知見の集約を目指したWebサービス。
