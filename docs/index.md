@@ -169,15 +169,14 @@
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [まぬお](https://www.youtube.com/@user-mj5sk4lu1t)
 
-    2024-05-29
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [【競技プログラミング　作問のポイント解説 #2】競プロの問題文を正しく書くには？【ゆっくり解説】](https://www.youtube.com/watch?v=uDeudtg_6-U)
-        - [結婚定理：N人の女は好みの男と結婚できるか？【ゆっくり解説】](https://www.youtube.com/watch?v=zlawYWmuP4c)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2024-06-13
+
+    - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
+        - [hato_](https://atcoder.jp/users/hato_)さん - [AtCoder 入黄しました！！！！！](https://hato336.hatenablog.com/entry/2024/06/09/223814)
 
     2024-06-11
 
