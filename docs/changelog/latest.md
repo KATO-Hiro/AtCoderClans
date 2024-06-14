@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-06-14
+
+- [#8415](https://github.com/KATO-Hiro/AtCoderClans/pull/8415) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - C++](../../articles/implementation/cpp)」ページに、以下の記事を追加。
+    - [競プロ　乱数　速度調査](https://yosupo.hatenablog.com/entry/2024/06/14/064913)
+
 ### 2024-06-13
 
 - [#8412](https://github.com/KATO-Hiro/AtCoderClans/pull/8412) - (破壊的な変更) リンク切れと思われるWebアプリを一時的に「[Archives](../../archived)」ページに移動。
