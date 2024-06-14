@@ -84,6 +84,11 @@
 
 === "記事"
 
+    2024-06-14
+
+    - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
+        - [競プロ　乱数　速度調査](https://yosupo.hatenablog.com/entry/2024/06/14/064913)
+
     2024-06-12
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -122,11 +127,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [私のスコア問題評価環境](https://topcoder-tomerun.hatenablog.jp/entry/2024/04/06/201915)
-
-    2024-05-30
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [競プロ初心者が怖がるもの](https://qiita.com/NokonoKotlin/items/75e56515139a872fb629)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
