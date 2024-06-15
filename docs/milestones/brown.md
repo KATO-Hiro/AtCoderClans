@@ -4,6 +4,7 @@ title: レーティング400〜799(茶色)
 
 ## 2024年
 
+- [言語習得の為に始めたAtCoderで入茶するまでの話](https://qiita.com/hiramax/items/4e6962f6e95d3f4b7e9e) - [hira0912](https://atcoder.jp/users/hira0912)さんが、2024年6月15日に達成。
 - [AtCoder入茶まで半年かかった凡人がやったこと](https://qiita.com/Yuyo1984/items/45397853f0116f720d68) - [Yuyo1984](https://atcoder.jp/users/Yuyo1984)さんが、2024年5月11日に達成。
 - [【入茶記事】ABC346で入茶しました！](https://note.com/orangekid1210/n/n70d627b13646) - [orangekid](https://atcoder.jp/users/orangekid)さんが、2024年3月23日に達成。
 - [文系出身エンジニアコミュニティ運営人事が競プロ歴半年で入茶しました](https://qiita.com/takarada/items/84528fae2ea86b3d7685) - [ramunen](https://atcoder.jp/users/ramunen)さんが、2024年3月16日に達成。
