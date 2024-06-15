@@ -58,6 +58,7 @@ title: ヒューリスティック問題を解く
 - [AHCに取り組む上で心がけていること](https://hitoare.hatenablog.com/entry/2024/04/30/223646) - ヒューリスティック型コンテストにおいて、[hitoare](https://atcoder.jp/users/hitoare)さんが心掛けていることをまとめた記事。
 - [AHCでの解法選択](https://montplusa.hatenablog.com/entry/2024/06/10/214100) - 問題の性質と主要な解法との関連性について、筆者の考えがまとめられている。
 - [相対スコア AHC の立ち回り](https://kiri8128.hatenablog.com/entry/2024/05/06/032420) - ヒューリスティック型コンテストで相対スコアが採用されているときのメタ戦略について、パラメータ群の重要度の把握・テストケースごとの行動最適化・解法の優劣比較の観点から考察されている。
+- [短期AHCで勝つためのテクニック](https://speakerdeck.com/shun_pi/duan-qi-ahcdesheng-tutamenotekunituku?slide=23) - 短期間コンテストにおける汎用的な戦略・テクニックが言語化されている。
 - [マラソンマッチで気をつけるべきこと](https://coonevo.hatenablog.com/entry/2021/03/15/091546) - 2週間程度のヒューリスティック型コンテストを対象として、筆者の戦略を紹介した記事。
 - [マラソンマッチで最初の12時間にすべきこと](https://hama-du.hatenablog.com/entry/2015/12/14/000000) - ヒューリスティック型コンテストにおいて、[hamadu](https://atcoder.jp/users/hamadu)さんが普段の取り組みで気をつけていることを紹介した記事。
 - [マラソンマッチの取り組み方](http://www.colun.net/archives/294) - ヒューリスティック型コンテストの取り組み方について、3つの観点(問題の把握・判断基準の明確化・反復期間の短縮)に集約して説明した記事。
