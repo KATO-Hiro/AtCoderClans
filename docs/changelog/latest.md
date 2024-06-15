@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-06-16
+
+- [#8428](https://github.com/KATO-Hiro/AtCoderClans/pull/8428) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [CODE THANKS FESTIVAL 2017 H - Union Sets （並列二分探索解法）](https://betrue12.hateblo.jp/entry/2019/08/14/152227)
+- [#8427](https://github.com/KATO-Hiro/AtCoderClans/pull/8427) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[hira0912](https://atcoder.jp/users/hira0912)さんの[記事](https://qiita.com/hiramax/items/4e6962f6e95d3f4b7e9e)を追加。
+
 ### 2024-06-15
 
 - [#8421](https://github.com/KATO-Hiro/AtCoderClans/pull/8421) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
