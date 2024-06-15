@@ -84,6 +84,11 @@
 
 === "記事"
 
+    2024-06-15
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [短期AHCで勝つためのテクニック](https://speakerdeck.com/shun_pi/duan-qi-ahcdesheng-tutamenotekunituku)
+
     2024-06-14
 
     - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
@@ -163,11 +168,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [【検証】最新モデル AI、ChatGPT-4o は「ひっかけ問題」をどれくらい解けるのか？【ゆっくり実況・ゆっくり解説】](https://www.youtube.com/watch?v=ZQf_JcAFah0)
-
-    2024-05-31
-
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [まぬお](https://www.youtube.com/@user-mj5sk4lu1t)
 
 === "色変記事"
 
