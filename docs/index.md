@@ -84,6 +84,11 @@
 
 === "記事"
 
+    2024-06-16
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [CODE THANKS FESTIVAL 2017 H - Union Sets （並列二分探索解法）](https://betrue12.hateblo.jp/entry/2019/08/14/152227)
+
     2024-06-15
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -128,11 +133,6 @@
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [負の添字を持つ対称な DP 配列を「半分だけ」管理する方法（$x^i$ + $x^{−i}$ で表す）](https://ngtkana.hatenablog.com/entry/2024/05/29/022603)
 
-    2024-06-01
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [私のスコア問題評価環境](https://topcoder-tomerun.hatenablog.jp/entry/2024/04/06/201915)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -141,22 +141,6 @@
     - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
         - [hato_](https://atcoder.jp/users/hato_)さん - [はてなブログ](https://hato336.hatenablog.com)
 
-    2024-06-01
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [niuez](https://atcoder.jp/users/niuez)さん - [GitHub Pages](https://niuez.github.io/)
-        - [ssaattoo](https://atcoder.jp/users/ssaattoo)さん - [はてなブログ](https://ssaattoo.hatenablog.com/)
-        - [tsutaj](https://atcoder.jp/users/tsutaj)さん - [はてなブログ](https://tsutaj.hatenablog.com/)
-
-    - 「[ヒューリスティック部門 - Java](blogs/heuristic/java)」ページ
-        - [tsukammo](https://atcoder.jp/users/tsukammo)さん - [はてなブログ](https://tsukammo.hatenablog.com/)、[Qiita](https://qiita.com/tsukammo)
-
-    - 「[ヒューリスティック部門 - Nim](blogs/heuristic/nim)」ページ
-        - [Ang107](https://atcoder.jp/users/Ang107)さん - [はてなブログ](https://ang107.hatenablog.jp/)
-
-    - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
-        - [toam](https://atcoder.jp/users/toam)さん - [はてなブログ](https://toriidao.hateblo.jp/)
-
 === "動画"
 
     2024-06-09
@@ -164,14 +148,14 @@
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [ながたかな 競プロ部屋](https://www.youtube.com/@ngtkana_kyopro)
 
-    2024-06-01
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [【検証】最新モデル AI、ChatGPT-4o は「ひっかけ問題」をどれくらい解けるのか？【ゆっくり実況・ゆっくり解説】](https://www.youtube.com/watch?v=ZQf_JcAFah0)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2024-06-16
+
+    - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
+        - [hira0912](https://atcoder.jp/users/hira0912)さん - [言語習得の為に始めたAtCoderで入茶するまでの話](https://qiita.com/hiramax/items/4e6962f6e95d3f4b7e9e)
 
     2024-06-13
 
