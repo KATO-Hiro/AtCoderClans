@@ -84,6 +84,11 @@
 
 === "記事"
 
+    2024-06-17
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Summer - 学校ランキング (6月17日時点)](https://x.com/atcoder/status/1802534399533252647)
+
     2024-06-16
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
@@ -127,11 +132,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Summer - 学校ランキング (6月3日時点)](https://x.com/atcoder/status/1797454145278128235)
-
-    2024-06-02
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [負の添字を持つ対称な DP 配列を「半分だけ」管理する方法（$x^i$ + $x^{−i}$ で表す）](https://ngtkana.hatenablog.com/entry/2024/05/29/022603)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
