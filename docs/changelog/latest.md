@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-06-18
+
+- [#8436](https://github.com/KATO-Hiro/AtCoderClans/pull/8436) - 「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
+    - [halc-git/Halc-Library](https://github.com/halc-git/Halc-Library) ![GitHub Repo stars](https://img.shields.io/github/stars/halc-git/Halc-Library?style=plastic)
+
 ### 2024-06-17
 
 - [#8433](https://github.com/KATO-Hiro/AtCoderClans/pull/8433) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
