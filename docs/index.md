@@ -125,14 +125,6 @@
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
         - [AtCoderで快適に戦うための環境を作ろう](https://note.com/dev_onecareer/n/n673b1e040956)
 
-    2024-06-03
-
-    - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
-        - [比較回数の少ないソートについて](https://259-momone.hatenablog.com/entry/2024/06/03/012012)
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Summer - 学校ランキング (6月3日時点)](https://x.com/atcoder/status/1797454145278128235)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -147,6 +139,14 @@
 
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [ながたかな 競プロ部屋](https://www.youtube.com/@ngtkana_kyopro)
+
+=== "ライブラリ・スニペット"
+
+    2024-06-18
+
+    - 「[C++](libraries/cpp)」ページ
+        - [halc-git/Halc-Library](https://github.com/halc-git/Halc-Library) ![GitHub Repo stars](https://img.shields.io/github/stars/halc-git/Halc-Library?style=plastic)
+
 
 === "色変記事"
 
