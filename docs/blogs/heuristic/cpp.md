@@ -20,6 +20,7 @@ title: C&#43;&#43;
 |siman|[はてなブログ](https://simanman.hatenablog.com/)||
 |square1001|[Qiita](https://qiita.com/square1001)||
 |takumi152|[はてなブログ](https://takumi152.hatenablog.jp/)||
+|yosupo|[はてなブログ](https://yosupo.hatenablog.com/)||
 |WA_TLE|[はてなブログ](https://watle.hatenablog.com/)|2019年1月以降、新規の記事を確認できず。|
 
 ## レーティング2400〜2799(橙色)
@@ -41,13 +42,13 @@ title: C&#43;&#43;
 |niuez|[GitHub Pages](https://niuez.github.io/)||
 |noimi|[はてなブログ](https://noimi.hatenablog.com/)||
 |Nyaan|[はてなブログ](https://nyaan.hatenablog.com/)||
+|physics0523|[はてなブログ](https://physics0523.hatenablog.com/)||
 |risujiroh|[はてなブログ](https://risujiroh.hatenablog.com/)||
 |shibh308|[はてなブログ](https://shibh308.hatenablog.com/)||
 |ssaattoo|[はてなブログ](https://ssaattoo.hatenablog.com/)||
 |tokoharu|[はてなブログ](https://tokoharuland.hateblo.jp/)|2020年1月以降、新規の記事を確認できず。|
 |ValGrowth|[はてなブログ](https://valgrowth.hatenablog.com/archive)||
 |wanui|[Zenn](https://zenn.dev/gmeriaog)||
-|yosupo|[はてなブログ](https://yosupo.hatenablog.com/)||
 |yunix|[はてなブログ](https://yunix-kyopro.hatenablog.com/)||
 
 ## レーティング2000〜2399(黄色)
@@ -56,6 +57,7 @@ title: C&#43;&#43;
 |:--:|:--:|:--|
 |birdwatcher|[Qiita](https://qiita.com/birdwatcher)||
 |colun|[自作ブログ](http://www.colun.net/blog)|2016年10月以降、新規の記事を確認できず。|
+|dsytk7|[はてなブログ](https://dsytk7.hateblo.jp)||
 |ganmodokix|[はてなブログ](https://aprilganmo.hatenablog.com/)||
 |hakomo|[はてなブログ](https://hakomof.hatenablog.com/)||
 |hari64|[Qiita](https://qiita.com/hari64)||
@@ -73,7 +75,6 @@ title: C&#43;&#43;
 |olphe|[はてなブログ](https://olphe.hatenablog.com/)||
 |Omotchi|[はてなブログ](https://omotchi.hateblo.jp/)||
 |phyllo|[GitHub Pages](https://jetbead.github.io/AtCoderHeuristicContestMemo/)||
-|physics0523|[はてなブログ](https://physics0523.hatenablog.com/)||
 |platinum|[はてなブログ](https://platinum-prog.hatenablog.com/)||
 |ponjuice|[note](https://note.com/ponjuice0)||
 |qLethon|[はてなブログ](https://qlethon.hatenablog.com/)||
