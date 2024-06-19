@@ -188,6 +188,7 @@ nav:
               - blogs/algorithm/ruby.md
               - blogs/algorithm/rust.md
           - ヒューリスティック部門:
+              - blogs/heuristic/c.md
               - blogs/heuristic/cpp.md
               - blogs/heuristic/crystal.md
               - blogs/heuristic/csharp.md
