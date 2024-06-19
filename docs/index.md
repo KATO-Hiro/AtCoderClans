@@ -128,6 +128,16 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2024-06-19
+
+    - 「[ヒューリスティック部門 - C](blogs/heuristic/c)」ページ
+        - [ygussany](https://atcoder.jp/users/ygussany)さん - [はてなブログ](https://ygussany.hatenablog.com/)
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [yosupo](https://atcoder.jp/users/yosupo)さん - [はてなブログ](https://yosupo.hatenablog.com/)
+        - [physics0523](https://atcoder.jp/users/physics0523)さん - [はてなブログ](https://physics0523.hatenablog.com/)
+        - [dsytk7](https://atcoder.jp/users/dsytk7)さん - [はてなブログ](https://dsytk7.hateblo.jp)
+
     2024-06-10
 
     - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
@@ -147,7 +157,6 @@
     - 「[C++](libraries/cpp)」ページ
         - [halc-git/Halc-Library](https://github.com/halc-git/Halc-Library) ![GitHub Repo stars](https://img.shields.io/github/stars/halc-git/Halc-Library?style=plastic)
 
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
@@ -166,11 +175,6 @@
 
     - 「[アルゴリズム部門 - レーティング2400〜2799(橙色)](milestones/orange)」ページ
         - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さん - [【色変記事】橙になりました - halcの競プロ精進ブログ](https://halc-kyopro.hatenablog.com/entry/2024/06/11/203504)
-
-    2024-06-04
-
-    - 「[アルゴリズム部門 - レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [yukimy](https://atcoder.jp/users/yukimy)さん - [AtCoderで入青しました！ - yukimyの日記](https://negiyukino.hatenablog.com/entry/2024/06/03/195516)
 
 === "国内外のコンテストサイト"
 
