@@ -84,6 +84,11 @@
 
 === "記事"
 
+    2024-06-20
+
+    - 「[数学を学ぶ](articles/math)」ページ
+        - [ミラー・ラビン素数判定法](https://drive.google.com/file/d/1ytqMuPhmxhE2loMZL1HOJ3l2iaLCv4tz/view)
+
     2024-06-17
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -119,11 +124,6 @@
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
         - [AtCoder生成AI対策ルール - 20240607版](https://info.atcoder.jp/entry/llm-abc-rules-ja)
         - [生成AIの台頭に伴うABCにおけるルール変更について](https://atcoder.jp/posts/1246)
-
-    2024-06-05
-
-    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
-        - [AtCoderで快適に戦うための環境を作ろう](https://note.com/dev_onecareer/n/n673b1e040956)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -182,15 +182,6 @@
 
     - 「[アルゴ式](related_contest_sites/algo_method)」ページ
         - [アルゴ式が国内最大規模の高校生・高専生向けプログラミングコンテスト『プログラミング甲子園2024』の競技制作を担当](https://prtimes.jp/main/html/rd/p/000000012.000105963.html)
-
-    2024-06-05
-
-    - 「[データベース系コンテスト](related_contest_sites/db)」ページ
-        - [SQLab](https://sqlab.net/)
-
-    <div align="center">
-      <img loading="lazy" src="images/related_contest_sites/sqlab/sqlab.png" alt="sqlab">
-    </div>
 
 ## AtCoder公式グッズを購入する
 

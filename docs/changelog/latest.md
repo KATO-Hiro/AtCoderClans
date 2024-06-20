@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-06-20
+
+- [#8445](https://github.com/KATO-Hiro/AtCoderClans/pull/8445) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
+    - [ミラー・ラビン素数判定法](https://drive.google.com/file/d/1ytqMuPhmxhE2loMZL1HOJ3l2iaLCv4tz/view)
+
 ### 2024-06-19
 
 - [#8440](https://github.com/KATO-Hiro/AtCoderClans/pull/8440) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
