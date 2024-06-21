@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-06-21
+
+- [#8448](https://github.com/KATO-Hiro/AtCoderClans/pull/8448) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。
+    - [Dockerを利用したローカルのAtCoder環境（C++）](https://zenn.dev/kinakomochi5250/articles/atcoder-cpp-docker)
+
 ### 2024-06-20
 
 - [#8445](https://github.com/KATO-Hiro/AtCoderClans/pull/8445) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
