@@ -84,6 +84,11 @@
 
 === "記事"
 
+    2024-06-21
+
+    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
+        - [Dockerを利用したローカルのAtCoder環境（C++）](https://zenn.dev/kinakomochi5250/articles/atcoder-cpp-docker)
+
     2024-06-20
 
     - 「[数学を学ぶ](articles/math)」ページ
