@@ -21,7 +21,8 @@ title: コードを書くための環境構築を行う
 
 ### C&#43;&#43;
 
-- [AtCoderの環境を Docker で作りたい](https://qiita.com/tf63/items/c93c6f24d73599e637d8) - C++の実行環境を構築する方法が紹介されている。また、[AtCoder Library(ACL)](https://atcoder.jp/posts/517)やテストツールの導入、各種コマンドの自動化もできる。
+- [AtCoderの環境を Docker で作りたい](https://qiita.com/tf63/items/c93c6f24d73599e637d8) - C++の実行環境を構築する方法が紹介されている。また、[AtCoder Library(ACL)](https://atcoder.jp/posts/517)やテストツール(atcoder-cli)の導入、各種コマンドの自動化もできる。
+    - [Dockerを利用したローカルのAtCoder環境（C++）](https://zenn.dev/kinakomochi5250/articles/atcoder-cpp-docker) - テストツールにatcoder-toolsを利用している点が、上記の記事とは異なる。
 
 ### Go
 
