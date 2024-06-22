@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-06-22
+
+- [#8452](https://github.com/KATO-Hiro/AtCoderClans/pull/8452) - 「[Related Contest Sites](../../related_contest_sites)」の「[セキュリティ系コンテスト](../../related_contest_sites/security)」ページに、以下のWebサービスを追加。
+    - [ksnctf](https://ksnctf.sweetduet.info/)
+
 ### 2024-06-21
 
 - [#8448](https://github.com/KATO-Hiro/AtCoderClans/pull/8448) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。
