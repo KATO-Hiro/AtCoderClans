@@ -58,14 +58,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "入門者・初心者向けの内容"
-
-    2024-06-07
-
-    - 「[Q3: コンテストは、いつ開催されていますか?](for_beginners/question3)」
-        - [AtCoder生成AI対策ルール - 20240607版](https://info.atcoder.jp/entry/llm-abc-rules-ja)
-        - [生成AIの台頭に伴うABCにおけるルール変更について](https://atcoder.jp/posts/1246)
-
 === "ユーザスクリプト"
 
     2024-06-12
@@ -124,12 +116,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Summer - 学校ランキング (6月10日時点)](https://x.com/atcoder/status/1800015044690026966)
 
-    2024-06-07
-
-    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
-        - [AtCoder生成AI対策ルール - 20240607版](https://info.atcoder.jp/entry/llm-abc-rules-ja)
-        - [生成AIの台頭に伴うABCにおけるルール変更について](https://atcoder.jp/posts/1246)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -182,6 +168,15 @@
         - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さん - [【色変記事】橙になりました - halcの競プロ精進ブログ](https://halc-kyopro.hatenablog.com/entry/2024/06/11/203504)
 
 === "国内外のコンテストサイト"
+
+    2024-06-22
+
+    - 「[セキュリティ系コンテスト](related_contest_sites/security)」ページ
+        - [ksnctf](https://ksnctf.sweetduet.info/)
+
+    <div align="center">
+      <img loading = "lazy" src="images/related_contest_sites/ctf/ksnctf.png" alt="ksnctf">
+    </div>
 
     2024-06-12
 
