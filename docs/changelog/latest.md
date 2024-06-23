@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-06-23
+
+- [#8457](https://github.com/KATO-Hiro/AtCoderClans/pull/8457) - 説明文に記載しているWebサイトのURLを修正。
+
 ### 2024-06-22
 
 - [#8452](https://github.com/KATO-Hiro/AtCoderClans/pull/8452) - 「[Related Contest Sites](../../related_contest_sites)」の「[セキュリティ系コンテスト](../../related_contest_sites/security)」ページに、以下のWebサービスを追加。
