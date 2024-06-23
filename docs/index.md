@@ -65,15 +65,6 @@
     - 「[問題を解く](user_scripts/solve_problems)」ページ
         - [AtCoder NoCopy](https://greasyfork.org/ja/scripts/497349-atcoder-nocopy)
 
-    2024-06-08
-
-    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
-        - [AtCoder Center Your Standing](https://greasyfork.org/ja/scripts/496241-atcoder-center-your-standing)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_center_your_standing.png" alt="atcoder center your standing">
-    </div>
-
 === "記事"
 
     2024-06-21
