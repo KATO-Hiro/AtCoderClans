@@ -67,6 +67,11 @@
 
 === "記事"
 
+    2024-06-24
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Summer - 学校ランキング (6月24日時点)](https://x.com/atcoder/status/1805057388875305367)
+
     2024-06-21
 
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
@@ -124,13 +129,6 @@
 
     - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
         - [hato_](https://atcoder.jp/users/hato_)さん - [はてなブログ](https://hato336.hatenablog.com)
-
-=== "動画"
-
-    2024-06-09
-
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [ながたかな 競プロ部屋](https://www.youtube.com/@ngtkana_kyopro)
 
 === "ライブラリ・スニペット"
 
