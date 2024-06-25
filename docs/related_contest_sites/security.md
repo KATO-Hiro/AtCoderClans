@@ -14,6 +14,12 @@ title: セキュリティ系コンテスト
       <img loading = "lazy" src="../../images/related_contest_sites/ctf/ksnctf.png" alt="ksnctf">
     </div>
 
+- [SadServers](https://sadservers.com/) - Linux リモートサーバで発生しているさまざま問題を修正しながら、CTFに関する知識を学ぶことができる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/related_contest_sites/ctf/sadservers.png" alt="sadservers">
+    </div>
+
 #### コンテストの開催日時・統計情報を見る
 
 - [CTF TIME](https://ctftime.org/) - CTFのコンテスト一覧(新着・アーカイブ)やレーティングをはじめとする統計情報などが閲覧できるWebサイト。
