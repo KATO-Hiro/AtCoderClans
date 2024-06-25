@@ -107,11 +107,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AHCでの解法選択](https://montplusa.hatenablog.com/entry/2024/06/10/214100)
 
-    2024-06-10
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Summer - 学校ランキング (6月10日時点)](https://x.com/atcoder/status/1800015044690026966)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -124,11 +119,6 @@
         - [yosupo](https://atcoder.jp/users/yosupo)さん - [はてなブログ](https://yosupo.hatenablog.com/)
         - [physics0523](https://atcoder.jp/users/physics0523)さん - [はてなブログ](https://physics0523.hatenablog.com/)
         - [dsytk7](https://atcoder.jp/users/dsytk7)さん - [はてなブログ](https://dsytk7.hateblo.jp)
-
-    2024-06-10
-
-    - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
-        - [hato_](https://atcoder.jp/users/hato_)さん - [はてなブログ](https://hato336.hatenablog.com)
 
 === "ライブラリ・スニペット"
 
