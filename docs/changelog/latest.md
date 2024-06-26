@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-06-26
+
+- [#8468](https://github.com/KATO-Hiro/AtCoderClans/pull/8468) - 「[Related Contest Sites](../../related_contest_sites)」の「[セキュリティ系コンテスト](../../related_contest_sites/security)」ページに、以下のWebサービスを追加。
+    - [SadServers](https://sadservers.com/)
+
 ### 2024-06-25
 
 - [#8465](https://github.com/KATO-Hiro/AtCoderClans/pull/8465) - (破壊的な変更) 「[Change Log](../latest)」ページの2024年4月分を月別のアーカイブに移動。
