@@ -141,12 +141,16 @@
     - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
         - [hato_](https://atcoder.jp/users/hato_)さん - [AtCoder 入黄しました！！！！！](https://hato336.hatenablog.com/entry/2024/06/09/223814)
 
-    2024-06-11
-
-    - 「[アルゴリズム部門 - レーティング2400〜2799(橙色)](milestones/orange)」ページ
-        - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さん - [【色変記事】橙になりました - halcの競プロ精進ブログ](https://halc-kyopro.hatenablog.com/entry/2024/06/11/203504)
-
 === "国内外のコンテストサイト"
+
+    2024-06-26
+
+    - 「[セキュリティ系コンテスト](related_contest_sites/security)」ページ
+        - [SadServers](https://sadservers.com/)
+
+    <div align="center">
+      <img loading="lazy" src="images/related_contest_sites/ctf/sadservers.png" alt="sadservers">
+    </div>
 
     2024-06-22
 
