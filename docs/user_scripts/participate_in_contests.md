@@ -47,6 +47,7 @@ title: コンテストに参加する
 ## 時間を気にせず問題に集中する
 
 - [AtCoderタイマー削除](https://greasyfork.org/ja/scripts/393176-calmatcoder) - コンテストが開催されている間のみ、タイマーを非表示にする。
+- [auto click AtCoder clock once on page load](https://greasyfork.org/ja/scripts/499009-auto-click-atcoder-clock-once-on-page-load) - タイマーの表示・非表示をクリックで切り替えられる。
 
 ## 質問の重要情報のみを表示
 
