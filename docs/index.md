@@ -60,10 +60,10 @@
 
 === "ユーザスクリプト"
 
-    2024-06-12
+    2024-06-27
 
-    - 「[問題を解く](user_scripts/solve_problems)」ページ
-        - [AtCoder NoCopy](https://greasyfork.org/ja/scripts/497349-atcoder-nocopy)
+    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
+        - [auto click AtCoder clock once on page load](https://greasyfork.org/ja/scripts/499009-auto-click-atcoder-clock-once-on-page-load)
 
 === "記事"
 
@@ -101,11 +101,6 @@
 
     - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
         - [競プロ　乱数　速度調査](https://yosupo.hatenablog.com/entry/2024/06/14/064913)
-
-    2024-06-12
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AHCでの解法選択](https://montplusa.hatenablog.com/entry/2024/06/10/214100)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -160,11 +155,6 @@
     <div align="center">
       <img loading = "lazy" src="images/related_contest_sites/ctf/ksnctf.png" alt="ksnctf">
     </div>
-
-    2024-06-12
-
-    - 「[アルゴ式](related_contest_sites/algo_method)」ページ
-        - [アルゴ式が国内最大規模の高校生・高専生向けプログラミングコンテスト『プログラミング甲子園2024』の競技制作を担当](https://prtimes.jp/main/html/rd/p/000000012.000105963.html)
 
 ## AtCoder公式グッズを購入する
 
