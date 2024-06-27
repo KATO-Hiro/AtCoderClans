@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-06-27
+
+- [#8472](https://github.com/KATO-Hiro/AtCoderClans/pull/8472) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
+    - [auto click AtCoder clock once on page load](https://greasyfork.org/ja/scripts/499009-auto-click-atcoder-clock-once-on-page-load)
+
 ### 2024-06-26
 
 - [#8468](https://github.com/KATO-Hiro/AtCoderClans/pull/8468) - 「[Related Contest Sites](../../related_contest_sites)」の「[セキュリティ系コンテスト](../../related_contest_sites/security)」ページに、以下のWebサービスを追加。
