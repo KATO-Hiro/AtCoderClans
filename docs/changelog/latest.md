@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-06-28
+
+- [#8478](https://github.com/KATO-Hiro/AtCoderClans/pull/8478) - (破壊的な変更) リンク切れと思われる色変記事を一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2024-06-27
 
 - [#8472](https://github.com/KATO-Hiro/AtCoderClans/pull/8472) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
