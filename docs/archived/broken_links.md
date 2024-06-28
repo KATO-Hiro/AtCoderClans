@@ -221,6 +221,9 @@ title: リンク切れ
 
 ### レーティング400〜799(茶色)
 
+- [14歳がAtCoderで入茶しました](https://note.com/mizzpika/n/n6b1714aa2ad1) - [mizuho0613](https://atcoder.jp/users/mizuho0613)さんが、2024年1月14日に達成。
+    - 確認した日: 2024/06/28
+
 - [数弱大学生がatcoderで入茶した](https://note.com/yindolsa/n/ncd59431b7a4d) - [ZUkA_](https://atcoder.jp/users/ZUkA_)さんが、2023年1月7日に達成。
     - 確認した日: 2024/02/14
 
