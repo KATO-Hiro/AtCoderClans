@@ -131,11 +131,6 @@
     - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
         - [hira0912](https://atcoder.jp/users/hira0912)さん - [言語習得の為に始めたAtCoderで入茶するまでの話](https://qiita.com/hiramax/items/4e6962f6e95d3f4b7e9e)
 
-    2024-06-13
-
-    - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
-        - [hato_](https://atcoder.jp/users/hato_)さん - [AtCoder 入黄しました！！！！！](https://hato336.hatenablog.com/entry/2024/06/09/223814)
-
 === "国内外のコンテストサイト"
 
     2024-06-26
