@@ -60,6 +60,15 @@
 
 === "ユーザスクリプト"
 
+    2024-06-29
+
+    - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
+        - [AtCoder quickly check fastest codes](https://greasyfork.org/ja/scripts/499102-atcoder-quickly-check-fastest-codes)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_quickly_check_fastest_codes.png" alt="atcoder quickly check fastest codes">
+    </div>
+
     2024-06-27
 
     - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
@@ -96,11 +105,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [短期AHCで勝つためのテクニック](https://speakerdeck.com/shun_pi/duan-qi-ahcdesheng-tutamenotekunituku)
-
-    2024-06-14
-
-    - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
-        - [競プロ　乱数　速度調査](https://yosupo.hatenablog.com/entry/2024/06/14/064913)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
