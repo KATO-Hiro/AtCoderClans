@@ -202,6 +202,14 @@ title: ソースコードの提出・確認を簡単に
       <img loading = "lazy" src="../../images/userscript/atcoder_jump_to_submissions_from_standings.gif" alt="atcoder jump to submissions from standings">
     </div>
 
+### 最速コード
+
+- [AtCoder quickly check fastest codes](https://greasyfork.org/ja/scripts/499102-atcoder-quickly-check-fastest-codes) - 「提出結果 - 自分の提出」ページの実行時間に、正解コードの実行時間が短い順に表示できるボタンを追加する。2024年6月時点では、C++のみ対応。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_quickly_check_fastest_codes.png" alt="atcoder quickly check fastest codes">
+    </div>
+
 ### 最短コード
 
 - [Add Shortest Tab](https://greasyfork.org/ja/scripts/391692-add-shortest-tab) - 開いている問題について、コード長に並べた提出ページのタブを追加する。
