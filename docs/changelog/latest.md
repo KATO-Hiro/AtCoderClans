@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-06-30
+
+- [#8488](https://github.com/KATO-Hiro/AtCoderClans/pull/8488) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[ripity](https://atcoder.jp/users/ripity)さんの[記事](https://ripity.hatenablog.com/entry/2024/06/30/003553)を追加。
+- [#8487](https://github.com/KATO-Hiro/AtCoderClans/pull/8487) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
+
 ### 2024-06-29
 
 - [#8481](https://github.com/KATO-Hiro/AtCoderClans/pull/8481) - 「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../user_scripts/submit_codes)」ページに、以下のユーザスクリプトを追加。

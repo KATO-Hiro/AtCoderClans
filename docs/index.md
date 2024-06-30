@@ -101,13 +101,13 @@
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [CODE THANKS FESTIVAL 2017 H - Union Sets （並列二分探索解法）](https://betrue12.hateblo.jp/entry/2019/08/14/152227)
 
-    2024-06-15
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [短期AHCで勝つためのテクニック](https://speakerdeck.com/shun_pi/duan-qi-ahcdesheng-tutamenotekunituku)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2024-06-30
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [ripity](https://atcoder.jp/users/ripity)さん - [はてなブログ](https://ripity.hatenablog.com/)
 
     2024-06-19
 
@@ -129,6 +129,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2024-06-30
+
+     - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
+        - [ripity](https://atcoder.jp/users/ripity)さん - [AtCoder 入黄](https://ripity.hatenablog.com/entry/2024/06/30/003553)
 
     2024-06-16
 
