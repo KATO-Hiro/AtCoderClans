@@ -76,6 +76,11 @@
 
 === "記事"
 
+    2024-07-01
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Summer - 学校ランキング (7月1日時点)](https://x.com/atcoder/status/1807644173765656817)
+
     2024-06-24
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -95,11 +100,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Summer - 学校ランキング (6月17日時点)](https://x.com/atcoder/status/1802534399533252647)
-
-    2024-06-16
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [CODE THANKS FESTIVAL 2017 H - Union Sets （並列二分探索解法）](https://betrue12.hateblo.jp/entry/2019/08/14/152227)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -134,11 +134,6 @@
 
      - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
         - [ripity](https://atcoder.jp/users/ripity)さん - [AtCoder 入黄](https://ripity.hatenablog.com/entry/2024/06/30/003553)
-
-    2024-06-16
-
-    - 「[アルゴリズム部門 - レーティング400〜799(茶色)](milestones/brown)」ページ
-        - [hira0912](https://atcoder.jp/users/hira0912)さん - [言語習得の為に始めたAtCoderで入茶するまでの話](https://qiita.com/hiramax/items/4e6962f6e95d3f4b7e9e)
 
 === "国内外のコンテストサイト"
 

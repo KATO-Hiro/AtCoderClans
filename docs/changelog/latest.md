@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-07-01
+
+- [#8494](https://github.com/KATO-Hiro/AtCoderClans/pull/8494) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AtCoder Junior League 2024 Summer - 学校ランキング (7月1日時点)](https://x.com/atcoder/status/1807644173765656817)
+
 ### 2024-06-30
 
 - [#8488](https://github.com/KATO-Hiro/AtCoderClans/pull/8488) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
