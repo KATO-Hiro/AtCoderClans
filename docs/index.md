@@ -76,6 +76,11 @@
 
 === "記事"
 
+    2024-07-02
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [【高菜式】Easiest 全方位木 DP](https://ngtkana.hatenablog.com/entry/2024/06/28/190119)
+
     2024-07-01
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -95,11 +100,6 @@
 
     - 「[数学を学ぶ](articles/math)」ページ
         - [ミラー・ラビン素数判定法](https://drive.google.com/file/d/1ytqMuPhmxhE2loMZL1HOJ3l2iaLCv4tz/view)
-
-    2024-06-17
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Summer - 学校ランキング (6月17日時点)](https://x.com/atcoder/status/1802534399533252647)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
