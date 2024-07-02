@@ -92,6 +92,7 @@ title: 書籍
     - [数字集め迷路](https://thun-c.github.io/one_player_maze/one_player_maze.html) - 同書に掲載されているオリジナルゲームで遊ぶことができる。
 - [ヒューリスティック探索入門](https://jinnaiyuu.github.io/pdf/textbook.pdf) - グラフ探索アルゴリズムを状態空間問題(完全情報決定論的モデル)に応用するための入門書。特に、ヒューリスティック型コンテストで活用されることが期待される。
 - [メタヒューリスティクスの数理](https://www.amazon.co.jp/dp/B0C36F5TJY) - メタヒューリスティクス(難易度の高い最適化問題を解くための経験的手法を有機的に結合させたもの)の手法がうまく働く理由を数理的に説明している書籍。
+- [Design of Heuristic Algorithms for Hard Optimization](https://link.springer.com/book/10.1007/978-3-031-13714-3) - 巡回セールスマン問題を題材に、主要なヒューリスティック・メタヒューリスティックスに関する手法がシンプルかつ厳密に解説されている。
 - [Optunaによるブラックボックス最適化](https://www.amazon.co.jp/dp/4274230104) - 機械学習に不可欠なハイパーパラメータ調整を自動化するブラックボックス最適化を分かりやすく・詳しく説明した入門書。
 
 ## 小説
