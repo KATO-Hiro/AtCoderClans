@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-07-02
+
+- [#8497](https://github.com/KATO-Hiro/AtCoderClans/pull/8497) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [【高菜式】Easiest 全方位木 DP](https://ngtkana.hatenablog.com/entry/2024/06/28/190119)
+
 ### 2024-07-01
 
 - [#8494](https://github.com/KATO-Hiro/AtCoderClans/pull/8494) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
