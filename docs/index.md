@@ -119,12 +119,12 @@
         - [physics0523](https://atcoder.jp/users/physics0523)さん - [はてなブログ](https://physics0523.hatenablog.com/)
         - [dsytk7](https://atcoder.jp/users/dsytk7)さん - [はてなブログ](https://dsytk7.hateblo.jp)
 
-=== "ライブラリ・スニペット"
+=== "書籍"
 
-    2024-06-18
+    2024-07-03
 
-    - 「[C++](libraries/cpp)」ページ
-        - [halc-git/Halc-Library](https://github.com/halc-git/Halc-Library) ![GitHub Repo stars](https://img.shields.io/github/stars/halc-git/Halc-Library?style=plastic)
+    - 「[書籍](books)」ページ
+        - [Design of Heuristic Algorithms for Hard Optimization](https://link.springer.com/book/10.1007/978-3-031-13714-3)
 
 === "色変記事"
 
