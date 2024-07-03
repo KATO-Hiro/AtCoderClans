@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-07-03
+
+- [#8500](https://github.com/KATO-Hiro/AtCoderClans/pull/8500) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに、以下の書籍を追加。
+    - [Design of Heuristic Algorithms for Hard Optimization](https://link.springer.com/book/10.1007/978-3-031-13714-3)
+
 ### 2024-07-02
 
 - [#8497](https://github.com/KATO-Hiro/AtCoderClans/pull/8497) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
