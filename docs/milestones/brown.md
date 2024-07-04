@@ -69,7 +69,6 @@ title: レーティング400〜799(茶色)
 - [[初投稿] AtCoder入茶してみたw [至って真面目です]](https://qiita.com/Shiroha_MK3/items/aacc2727b511682e1cf2) - [Shiroha_F14](https://atcoder.jp/users/shiroha_f14)さんが、2021年3月20日に達成。
 - [【AtCoder】プログラミング初心者が1カ月でAtCoder茶色になるまで【Python】](https://qiita.com/shirumono/items/0d6a3abb747d6b144cca) - [shirumono](https://atcoder.jp/users/shirumono)さんが、2021年2月27日に達成。
 - [灰色スタックしていた私が考える「茶色になるために必要なこと」 - segment_threeの日記](https://segment-three.hatenablog.com/entry/2021/01/24/171947) - [tyamahosen](https://atcoder.jp/users/tyamahosen)さんが、2021年1月23日に達成。
-- [AtCoderで茶色になりました（色変記事） - 岸原オカルト研究部](https://kisihara-c.hatenablog.com/entry/2021/01/03/123133) - [kisihara_c](https://twitter.com/kisihara_c)さんが、2021年1月3日に公開。
 
 ## 2020年
 
