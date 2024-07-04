@@ -109,16 +109,6 @@
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [ripity](https://atcoder.jp/users/ripity)さん - [はてなブログ](https://ripity.hatenablog.com/)
 
-    2024-06-19
-
-    - 「[ヒューリスティック部門 - C](blogs/heuristic/c)」ページ
-        - [ygussany](https://atcoder.jp/users/ygussany)さん - [はてなブログ](https://ygussany.hatenablog.com/)
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [yosupo](https://atcoder.jp/users/yosupo)さん - [はてなブログ](https://yosupo.hatenablog.com/)
-        - [physics0523](https://atcoder.jp/users/physics0523)さん - [はてなブログ](https://physics0523.hatenablog.com/)
-        - [dsytk7](https://atcoder.jp/users/dsytk7)さん - [はてなブログ](https://dsytk7.hateblo.jp)
-
 === "書籍"
 
     2024-07-03
