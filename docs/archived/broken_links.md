@@ -221,6 +221,9 @@ title: リンク切れ
 
 ### レーティング400〜799(茶色)
 
+- [AtCoderで茶色になりました（色変記事） - 岸原オカルト研究部](https://kisihara-c.hatenablog.com/entry/2021/01/03/123133) - [kisihara_c](https://twitter.com/kisihara_c)さんが、2021年1月3日に公開。
+    - 確認した日: 2024/07/04
+
 - [14歳がAtCoderで入茶しました](https://note.com/mizzpika/n/n6b1714aa2ad1) - [mizuho0613](https://atcoder.jp/users/mizuho0613)さんが、2024年1月14日に達成。
     - 確認した日: 2024/06/28
 
