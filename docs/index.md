@@ -96,11 +96,6 @@
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
         - [Dockerを利用したローカルのAtCoder環境（C++）](https://zenn.dev/kinakomochi5250/articles/atcoder-cpp-docker)
 
-    2024-06-20
-
-    - 「[数学を学ぶ](articles/math)」ページ
-        - [ミラー・ラビン素数判定法](https://drive.google.com/file/d/1ytqMuPhmxhE2loMZL1HOJ3l2iaLCv4tz/view)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -115,6 +110,13 @@
 
     - 「[書籍](books)」ページ
         - [Design of Heuristic Algorithms for Hard Optimization](https://link.springer.com/book/10.1007/978-3-031-13714-3)
+
+=== "動画"
+
+    2024-07-05
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [要注意！ベルマンフォード法を使う際に陥りやすい「罠」【ゆっくり解説】](https://www.youtube.com/watch?v=KLwNUbIyHrI)
 
 === "色変記事"
 
