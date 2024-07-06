@@ -108,6 +108,11 @@
 
 === "動画"
 
+    2024-07-07
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [コンピュータが永久にできないこと【ゆっくり解説】](https://www.youtube.com/watch?v=zPbNx0nmxVw)
+
     2024-07-06
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
@@ -136,15 +141,6 @@
 
     <div align="center">
       <img loading="lazy" src="images/related_contest_sites/ctf/sadservers.png" alt="sadservers">
-    </div>
-
-    2024-06-22
-
-    - 「[セキュリティ系コンテスト](related_contest_sites/security)」ページ
-        - [ksnctf](https://ksnctf.sweetduet.info/)
-
-    <div align="center">
-      <img loading = "lazy" src="images/related_contest_sites/ctf/ksnctf.png" alt="ksnctf">
     </div>
 
 ## AtCoder公式グッズを購入する
