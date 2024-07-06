@@ -91,11 +91,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Summer - 学校ランキング (6月24日時点)](https://x.com/atcoder/status/1805057388875305367)
 
-    2024-06-21
-
-    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
-        - [Dockerを利用したローカルのAtCoder環境（C++）](https://zenn.dev/kinakomochi5250/articles/atcoder-cpp-docker)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -112,6 +107,11 @@
         - [Design of Heuristic Algorithms for Hard Optimization](https://link.springer.com/book/10.1007/978-3-031-13714-3)
 
 === "動画"
+
+    2024-07-06
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [素数の逆数の和は収束するか？【ゆっくり解説】](https://www.youtube.com/watch?v=b9OyjyNSdDs)
 
     2024-07-05
 
