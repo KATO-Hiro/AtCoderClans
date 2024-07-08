@@ -121,7 +121,7 @@ Webページの背景色の変更や文字・提出コード・問題の正誤�
       <img loading = "lazy" src="../../images/userscript/atcoder_error_colorizer.png" alt="atcoder error colorizer">
     </div>
 
-## コンテストの成績に応じて色付け、アイコンの追加・削除
+## コンテストの成績に応じて色付け、アイコンの追加・非表示
 
 ### 複数のページ
 
