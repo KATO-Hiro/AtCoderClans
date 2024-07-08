@@ -85,6 +85,11 @@
 
 === "記事"
 
+    2024-07-09
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Summer - 学校ランキング (7月8日時点)](https://x.com/atcoder/status/1810142588697301171)
+
     2024-07-02
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
@@ -94,11 +99,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Summer - 学校ランキング (7月1日時点)](https://x.com/atcoder/status/1807644173765656817)
-
-    2024-06-24
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Summer - 学校ランキング (6月24日時点)](https://x.com/atcoder/status/1805057388875305367)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
