@@ -60,6 +60,15 @@
 
 === "ユーザスクリプト"
 
+    2024-07-08
+
+    - 「[Webページに色付けする](user_scripts/colors)」ページ
+        - [ac-hide-official-rating-icon](https://greasyfork.org/ja/scripts/499759-ac-hide-official-rating-icon)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/ac_hide_official_rating_icon.png" alt="ac hide official rating icon">
+    </div>
+
     2024-06-29
 
     - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ

@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-07-08
+
+- [#8522](https://github.com/KATO-Hiro/AtCoderClans/pull/8522) - [@konchan_ksu](https://x.com/konchan_ksu)さんのご紹介で、「[Scripts](../../scripts)」の「[Webページに色付けする](../../user_scripts/colors)」ページに、以下のユーザスクリプトを追加。
+    - [ac-hide-official-rating-icon](https://greasyfork.org/ja/scripts/499759-ac-hide-official-rating-icon)
+
 ### 2024-07-07
 
 - [#8518](https://github.com/KATO-Hiro/AtCoderClans/pull/8518) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
