@@ -121,7 +121,7 @@ Webページの背景色の変更や文字・提出コード・問題の正誤�
       <img loading = "lazy" src="../../images/userscript/atcoder_error_colorizer.png" alt="atcoder error colorizer">
     </div>
 
-## コンテストの成績に応じて色付け・アイコンの追加
+## コンテストの成績に応じて色付け、アイコンの追加・非表示
 
 ### 複数のページ
 
@@ -129,6 +129,12 @@ Webページの背景色の変更や文字・提出コード・問題の正誤�
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/ac_rating_icon.png" alt="ac rating icon">
+    </div>
+
+- [ac-hide-official-rating-icon](https://greasyfork.org/ja/scripts/499759-ac-hide-official-rating-icon) - 公式のレーティングアイコンを非表示にできる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/ac_hide_official_rating_icon.png" alt="ac hide official rating icon">
     </div>
 
 ### コンテスト成績表
