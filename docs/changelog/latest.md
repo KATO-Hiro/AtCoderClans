@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-07-10
+
+- [#8533](https://github.com/KATO-Hiro/AtCoderClans/pull/8533) - 「[Home](../..)」ページに、以下の記事を追加。
+    - [【重要なお知らせ】AtCoderを騙る偽サイトにご注意ください](https://atcoder.jp/posts/1268)
+- [#8532](https://github.com/KATO-Hiro/AtCoderClans/pull/8532) - 「[Related Contest Sites](../../related_contest_sites)」の「[ICPC (国際大学対抗プログラミングコンテスト)](../../related_contest_sites/icpc)」ページに、以下の記事を追加。
+    - [【ICPC国内予選】テストケース並列化でなぐろう](https://hackmd.io/@tatyam-prime/SyfzRuBwR)
+
 ### 2024-07-09
 
 - [#8527](https://github.com/KATO-Hiro/AtCoderClans/pull/8527) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。

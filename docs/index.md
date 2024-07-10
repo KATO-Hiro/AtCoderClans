@@ -145,6 +145,11 @@
 
 === "国内外のコンテストサイト"
 
+    2024-07-10
+
+    - 「[ICPC (国際大学対抗プログラミングコンテスト)](related_contest_sites/icpc)」ページ
+        - [【ICPC国内予選】テストケース並列化でなぐろう](https://hackmd.io/@tatyam-prime/SyfzRuBwR)
+
     2024-06-26
 
     - 「[セキュリティ系コンテスト](related_contest_sites/security)」ページ
