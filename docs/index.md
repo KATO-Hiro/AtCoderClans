@@ -119,6 +119,11 @@
 
 === "動画"
 
+    2024-07-11
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [0.999…は1か？【ゆっくり解説】](https://www.youtube.com/watch?v=Zp4I_fDtdi8)
+
     2024-07-07
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
@@ -149,15 +154,6 @@
 
     - 「[ICPC (国際大学対抗プログラミングコンテスト)](related_contest_sites/icpc)」ページ
         - [【ICPC国内予選】テストケース並列化でなぐろう](https://hackmd.io/@tatyam-prime/SyfzRuBwR)
-
-    2024-06-26
-
-    - 「[セキュリティ系コンテスト](related_contest_sites/security)」ページ
-        - [SadServers](https://sadservers.com/)
-
-    <div align="center">
-      <img loading="lazy" src="images/related_contest_sites/ctf/sadservers.png" alt="sadservers">
-    </div>
 
 ## AtCoder公式グッズを購入する
 
