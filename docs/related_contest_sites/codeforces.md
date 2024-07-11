@@ -44,12 +44,6 @@ title: Codeforces
       <img loading = "lazy" src="../../images/related_contest_sites/codeforces/cf-predictor_2nd.png" alt="cf predictor">
     </div>
 
-- [Codeforces Rating Comparison](https://rika0384.github.io/codeforces_rating_comparison/) - 指定した2人以上のレーティングの比較ができる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/related_contest_sites/codeforces/codeforces_rating_comparison.png" alt="codeforces rating comparison">
-    </div>
-
 #### 仮想的なレーティングを計算
 
 - [Codeforces Anytime](https://codeforces-anytime.firebaseapp.com/) - バーチャルコンテストの結果を利用して、レーティングの変動を表示するWebアプリ。同一の作者により[AtCoder版](https://atcoder-anytime.sonoapp.page/)も公開されている。
