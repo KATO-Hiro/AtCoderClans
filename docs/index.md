@@ -119,6 +119,11 @@
 
 === "動画"
 
+    2024-07-11
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [0.999…は1か？【ゆっくり解説】](https://www.youtube.com/watch?v=Zp4I_fDtdi8)
+
     2024-07-07
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
