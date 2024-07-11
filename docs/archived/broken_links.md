@@ -34,6 +34,16 @@ title: リンク切れ
     <img loading = "lazy" src="../../images/web_app/teammaker.png" alt="teammaker">
   </div>
 
+
+### 有名アルゴリズムを可視化
+
+- [Algorithm Visualizer](https://algorithm-visualizer.org) ![GitHub Repo stars](https://img.shields.io/github/stars/algorithm-visualizer/algorithm-visualizer?style=plastic) - 有名なアルゴリズムを視覚的に理解することができる。
+    - 確認した日: 2024/07/12
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/algorithm_visualizer.png" alt="algorithm visualizer">
+    </div>
+
 ### 解法・解説を共有
 
 - [AC Solutions](https://ac-solutions.onrender.com/) - (ベータ版) 問題の解法・解説を共有できる。
@@ -42,7 +52,23 @@ title: リンク切れ
       <img loading = "lazy" src="../../images/web_app/ac_solutions.png" alt="ac solutions">
     </div>
 
-### 問題に関する統計情報
+### コンテストの成績を見る
+
+- [AtCoder Rating Comparison](https://atcoder-rating-comparison.herokuapp.com/?q=) - 指定した2人以上のレーティングの比較ができる。[Codeforces版](https://rika0384.github.io/codeforces_rating_comparison/)も公開されている。
+    - 確認した日: 2024/07/12
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_rating_comparison.png" alt="atcoder rating comparison">
+    </div>
+
+### コンテスト・問題に関する統計情報
+
+- [AC heatmap](https://rika0384.github.io/ac-heatmap/?handle_atcoder=&handle_codeforces=&handle_aoj=&handle_yukicoder=) - 任意のユーザが[AtCoder](https://atcoder.jp/)、[Codeforces](https://codeforces.com/)、[AOJ (AIZU ONLINE JUDGE)](https://onlinejudge.u-aizu.ac.jp/home)、[yukicoder](https://yukicoder.me/)で解いた問題のうち、unique ACをヒートマップで表示する。
+    - 確認した日: 2024/07/12
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/ac_heatmap.png" alt="ac heatmap">
+    </div>
 
 - [AtCoder Code Evaluate](https://ac-code-eval.com/) - 問題の実装の重さをAC(Accepted)コードをもとに評価しているWebアプリ。
     - 確認した日: 2022/06/23
@@ -296,6 +322,9 @@ title: リンク切れ
 
 ### レーティング1600〜1999(青色)
 
+- [AtCoder青になりました](https://note.com/ococonomy1/n/n9eaf09ee0685) - [ococonomy1](https://atcoder.jp/users/ococonomy1)さんが、2023年4月1日に達成。
+    - 確認した日: 2024/07/12
+
 - [AtCoderで青色になったので記事を書いてみる](https://www.ochappa.net/posts/atc-blue) - [shinnshinn](https://atcoder.jp/users/shinnshinn)さんが、2024年3月30日に達成。
     - 確認した日: 2024/04/28
 
@@ -334,6 +363,13 @@ title: リンク切れ
 
     <div align="center">
       <img loading = "lazy" src="../../images/related_contest_sites/codeforces/cf-predictor.png" alt="cf predictor">
+    </div>
+
+- [Codeforces Rating Comparison](https://rika0384.github.io/codeforces_rating_comparison/) - 指定した2人以上のレーティングの比較ができる。
+    - 確認した日: 2024/07/12
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/codeforces/codeforces_rating_comparison.png" alt="codeforces rating comparison">
     </div>
 
 ### Leetcode

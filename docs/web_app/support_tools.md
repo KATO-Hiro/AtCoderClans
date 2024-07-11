@@ -44,14 +44,6 @@ title: 問題を解くときの補助ツール
       <img loading = "lazy" src="../../images/web_app/memory.png" alt="memory">
     </div>
 
-## 有名アルゴリズムを可視化
-
-- [Algorithm Visualizer](https://algorithm-visualizer.org) ![GitHub Repo stars](https://img.shields.io/github/stars/algorithm-visualizer/algorithm-visualizer?style=plastic) - 有名なアルゴリズムを視覚的に理解することができる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/algorithm_visualizer.png" alt="algorithm visualizer">
-    </div>
-
 ## グラフを可視化
 
 - [GRAPH × GRAPH](https://hello-world-494ec.firebaseapp.com/) - グラフ理論に関する問題の入力例を可視化する。ターミナル上で同サイトを起動するためのCLIツール[ggg(go GRAPH × GRAPH)](https://github.com/monkukui/ggg)と[作者による紹介記事](https://monkukui.hatenablog.com/entry/2020/10/01/173918)もある。

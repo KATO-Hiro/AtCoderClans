@@ -16,14 +16,6 @@ title: コンテストに関する統計情報
 
 ## ユーザに関する統計
 
-### 解答状況をヒートマップで見る
-
-- [AC heatmap](https://rika0384.github.io/ac-heatmap/?handle_atcoder=&handle_codeforces=&handle_aoj=&handle_yukicoder=) - 任意のユーザが[AtCoder](https://atcoder.jp/)、[Codeforces](https://codeforces.com/)、[AOJ (AIZU ONLINE JUDGE)](https://onlinejudge.u-aizu.ac.jp/home)、[yukicoder](https://yukicoder.me/)で解いた問題のうち、unique ACをヒートマップで表示する。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/ac_heatmap.png" alt="ac heatmap">
-    </div>
-
 ### 正解数
 
 - [AC Counter](https://ac-counter.onrender.com) - 任意のユーザが正解した問題数を表示する。以下のコンテストサイトに対応。
