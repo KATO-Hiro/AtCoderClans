@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-07-12
+
+- [#8543](https://github.com/KATO-Hiro/AtCoderClans/pull/8543) - (破壊的な変更) リンク切れと思われるWebアプリ、色変記事を一時的に「[Archives](../../archived)」ページに移動。
+    - AC heatmap
+    - Algorithm Visualizer
+    - AtCoder Rating Comparison
+    - Codeforces Rating Comparison
+
 ### 2024-07-11
 
 - [#8539](https://github.com/KATO-Hiro/AtCoderClans/pull/8539) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
