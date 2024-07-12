@@ -80,11 +80,6 @@
       <img loading="lazy" src="images/userscript/atcoder_quickly_check_fastest_codes.png" alt="atcoder quickly check fastest codes">
     </div>
 
-    2024-06-27
-
-    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
-        - [auto click AtCoder clock once on page load](https://greasyfork.org/ja/scripts/499009-auto-click-atcoder-clock-once-on-page-load)
-
 === "記事"
 
     2024-07-09
