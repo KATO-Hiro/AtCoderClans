@@ -62,6 +62,15 @@
 
 === "ユーザスクリプト"
 
+    2024-07-13
+
+    - 「[Webページに色付けする](user_scripts/colors)」ページ
+        - [Virtual Contest Result Highlighter](https://greasyfork.org/ja/scripts/500190-virtual-contest-result-highlighter)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/virtual_contest_result_highlighter.png" alt="virtual contest result highlighter">
+    </div>
+
     2024-07-08
 
     - 「[Webページに色付けする](user_scripts/colors)」ページ
@@ -149,6 +158,17 @@
 
     - 「[ICPC (国際大学対抗プログラミングコンテスト)](related_contest_sites/icpc)」ページ
         - [【ICPC国内予選】テストケース並列化でなぐろう](https://hackmd.io/@tatyam-prime/SyfzRuBwR)
+
+=== "アーカイブス"
+
+    諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2024-07-12
+
+    - AC heatmap
+    - Algorithm Visualizer
+    - AtCoder Rating Comparison
+    - Codeforces Rating Comparison
 
 ## AtCoder公式グッズを購入する
 
