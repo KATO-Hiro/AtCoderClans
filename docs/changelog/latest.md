@@ -6,6 +6,7 @@ title: Change Log
 
 ### 2024-07-13
 
+- [#8550](https://github.com/KATO-Hiro/AtCoderClans/pull/8550) - (破壊的な変更) 公開を取りやめたと思われるC++ライブラリを一時的に「[Archives](../../archived)」ページに移動。
 - [#8547](https://github.com/KATO-Hiro/AtCoderClans/pull/8547) - 「[Scripts](../../scripts)」の「[Webページに色付けする](../../user_scripts/colors)」ページに、以下のユーザスクリプトを追加。
     - [Virtual Contest Result Highlighter](https://greasyfork.org/ja/scripts/500190-virtual-contest-result-highlighter)
 
