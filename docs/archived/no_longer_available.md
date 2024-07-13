@@ -399,7 +399,7 @@ title: 開発・提供終了
 - [comp-prog-jp-library-standard/competitive-programming-library](https://github.com/comp-prog-jp-library-standard/competitive-programming-library) - 競技プログラミングのための共通ライブラリをまとめようとしたプロジェクト。
     - 理由: 記載なし。
     - 代替手段: [AtCoder Library (ACL)](https://atcoder.jp/posts/517)や[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)などで公開されているライブラリを利用するか、自分で作成する。
-- [fuppy0716/kyopro](https://github.com/fuppy0716/kyopro) ![GitHub stars](https://img.shields.io/github/stars/fuppy0716/kyopro?style=plastic) - [fuppy0716](https://atcoder.jp/users/fuppy0716)さんのライブラリ。
+- [fuppy0716/kyopro](https://github.com/fuppy0716/kyopro) ![GitHub stars](https://img.shields.io/github/stars/fuppy0716/kyopro?style=plastic) - [fuppy0716](https://atcoder.jp/users/fuppy0716)さんのC++ライブラリ。
     - 確認した日: 2024/07/13
 - [gzlcp/competitive-library](https://github.com/gzlcp/competitive-library) ![GitHub Repo stars](https://img.shields.io/github/stars/gzlcp/competitive-library?style=plastic) - [gazelle](https://atcoder.jp/users/gazelle)さんのC++ライブラリ。
 - [latte0119/Library](https://github.com/latte0119/Library) ![GitHub stars](https://img.shields.io/github/stars/latte0119/Library?style=plastic) - [latte0119](https://atcoder.jp/users/latte0119)さんのC++ライブラリ。
