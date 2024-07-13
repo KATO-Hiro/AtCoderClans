@@ -178,6 +178,14 @@ Webページの背景色の変更や文字・提出コード・問題の正誤�
 
 ### 外部サービス
 
+#### AtCoder Problems
+
+- [Virtual Contest Result Highlighter](https://greasyfork.org/ja/scripts/500190-virtual-contest-result-highlighter) - AtCoder Problemsにおけるバーチャルコンテストの問題一覧と順位表に対して、提出結果に応じた色付けをする。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/virtual_contest_result_highlighter.png" alt="virtual contest result highlighter">
+    </div>
+
 #### Misskey
 
 - [Misskey AtCoder Color Buttons](https://greasyfork.org/ja/scripts/470709-misskey-atcoder-color-buttons) -  Misskeyの投稿フォームに、文字の色を変更できるボタンを追加する。配色は、AtCoderの各レーティング帯に対応。
@@ -196,7 +204,7 @@ Webページの背景色の変更や文字・提出コード・問題の正誤�
 
 #### ICPC
 
-- [ICPC Standing Colorizer](https://github.com/riantkb/icpc_standing_colorizer) - [ICPC 2023 国内予選](https://icpcsec.firebaseapp.com/standings/)に、ユーザ名とAtCoderのレーティングに対応した色を表示する。
+- [ICPC Standing Colorizer](https://github.com/riantkb/icpc_standing_colorizer) - [ICPC 国内予選](https://icpcsec.firebaseapp.com/standings/)に、ユーザ名とAtCoderのレーティングに対応した色を表示する。
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/icpc_standing_colorizer.png" alt="icpc standing colorizer">
