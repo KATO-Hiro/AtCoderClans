@@ -80,15 +80,6 @@
       <img loading="lazy" src="images/userscript/ac_hide_official_rating_icon.png" alt="ac hide official rating icon">
     </div>
 
-    2024-06-29
-
-    - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
-        - [AtCoder quickly check fastest codes](https://greasyfork.org/ja/scripts/499102-atcoder-quickly-check-fastest-codes)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_quickly_check_fastest_codes.png" alt="atcoder quickly check fastest codes">
-    </div>
-
 === "記事"
 
     2024-07-09
@@ -153,6 +144,11 @@
         - [ripity](https://atcoder.jp/users/ripity)さん - [AtCoder 入黄](https://ripity.hatenablog.com/entry/2024/06/30/003553)
 
 === "国内外のコンテストサイト"
+
+    2024-07-14
+
+    - 「[Topcoder](related_contest_sites/topcoder)」ページ
+        - [Single Round Match (SRM) の最新情報 (2024年7月時点)](https://archive.topcoder.com/)
 
     2024-07-10
 
