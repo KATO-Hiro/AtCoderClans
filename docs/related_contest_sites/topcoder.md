@@ -8,7 +8,7 @@ title: Topcoder
 
 #### コンテストに参加する
 
-- [TopCoderをはじめよう！(2021年版) Python/C++対応版](https://qiita.com/recuraki/items/a359624c2981e82853d5) - Single Round Match (SRM)に参加するために必要な環境構築の方法と基本操作を日本語で解説した記事。注意事項が丁寧に解説されているのが特徴。
+- [Single Round Match (SRM) の最新情報 (2024年7月時点)](https://archive.topcoder.com/) - Topcoder Arena（applet版・Web版）の提供終了と、コンテストの開催が一時的に休止されることが報告されている ([出典](https://archive.topcoder.com/))。
 
 ### ヒューリスティック部門
 
@@ -29,10 +29,6 @@ title: Topcoder
         記事は、2014年12月1日時点の内容であるため、最近のコンテストと傾向が大きく異なる可能性もある。
 
 ## Webサイトと関連リンク
-
-### コンテストに参加する
-
-- [How To Compete in SRMs](https://www.topcoder.com/community/competitive-programming/how-to-compete) - Single Round Match (SRM) に登録・参加するための方法を説明した公式サイトのページ。
 
 ### 問題を解く
 
