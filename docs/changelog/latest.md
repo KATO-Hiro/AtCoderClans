@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-07-14
+
+- [#8555](https://github.com/KATO-Hiro/AtCoderClans/pull/8555) - (破壊的な変更) 「[Related Contest Sites](../../related_contest_sites)」の「[Topcoder](../../related_contest_sites/topcoder)」ページに、以下の記事を追加。これに伴い、掲載内容がやや古くなったと思われる記事を「[Archives](../../archived)」ページに移動。
+    - [Single Round Match (SRM) の最新情報 (2024年7月時点)](https://archive.topcoder.com/)
+
 ### 2024-07-13
 
 - [#8550](https://github.com/KATO-Hiro/AtCoderClans/pull/8550) - (破壊的な変更) 公開を取りやめたと思われるC++ライブラリを一時的に「[Archives](../../archived)」ページに移動。

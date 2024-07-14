@@ -8,7 +8,7 @@ title: Topcoder
 
 #### コンテストに参加する
 
-- [Single Round Match (SRM) の最新情報 (2024年7月時点)](https://archive.topcoder.com/) - Topcoder Arena（applet版・Web版）の提供終了と、コンテストの開催が一時的に休止されることが報告されている ([出典](https://archive.topcoder.com/))。
+- [Single Round Match (SRM) の最新情報 (2024年7月時点)](https://archive.topcoder.com/) - Topcoder Arena（applet版・Web版）の提供終了と、コンテストの開催が一時的に休止されることが報告されている。
 
 ### ヒューリスティック部門
 
