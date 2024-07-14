@@ -425,6 +425,16 @@ title: 更新停止の可能性が高い
 
 - [JOI夏季セミナーに代わる輪読会の開催について](https://kaage.hatenablog.com/entry/2022/03/25/210000) - JOI夏季セミナー(ハイレベルコース)の開催見送りに伴い、代替イベントとなる輪読会の参加者を募集している記事。
 
+### Topcoder
+
+Topcoder Arena（applet版・Web版）の提供終了とともに、コンテストの開催が一時的に休止されるためです([出典](https://archive.topcoder.com/))。
+
+- [How To Compete in SRMs](https://www.topcoder.com/community/competitive-programming/how-to-compete) - Single Round Match (SRM) に登録・参加するための方法を説明した公式サイトのページ。
+    - 確認した日: 2024/07/14
+
+- [TopCoderをはじめよう！(2021年版) Python/C++対応版](https://qiita.com/recuraki/items/a359624c2981e82853d5) - Single Round Match (SRM)に参加するために必要な環境構築の方法と基本操作を日本語で解説した記事。注意事項が丁寧に解説されているのが特徴。
+    - 確認した日: 2024/07/14
+
 ### 数学系コンテスト
 
 - [Beginners Math Contest](https://twitter.com/BMC_rifle) - 初心者向けの競技数学コンテストが開催されている。
