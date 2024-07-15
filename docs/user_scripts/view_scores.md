@@ -156,8 +156,15 @@ title: コンテストの成績や関連する統計情報を見る
         パフォーマンスによる検索を行うためには、[ac-predictor](https://greasyfork.org/ja/scripts/369954-ac-predictor)を導入する必要がある。
 
     <div align="center">
-
       <img loading = "lazy" src="../../images/userscript/atcoder_auto_pager.png" alt="atcoder auto pager">
+    </div>
+
+### ユーザの成績を一部非表示に
+
+- [AtCoder-HiderRatingAndPerformance](https://greasyfork.org/ja/scripts/492653-atcoder-hiderratingandperformance) - 「ユーザ」ページで、レーティングやパフォーマンスに関する内容を一部非表示にする。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_hider_rating_and_performance.png" alt="atcoder hider rating and performance">
     </div>
 
 ### ユーザの使用言語を見る
