@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-07-15
+
+- [#8558](https://github.com/KATO-Hiro/AtCoderClans/pull/8558) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder-HiderRatingAndPerformance](https://greasyfork.org/ja/scripts/492653-atcoder-hiderratingandperformance)
+
 ### 2024-07-14
 
 - [#8555](https://github.com/KATO-Hiro/AtCoderClans/pull/8555) - (破壊的な変更) 「[Related Contest Sites](../../related_contest_sites)」の「[Topcoder](../../related_contest_sites/topcoder)」ページに、以下の記事を追加。これに伴い、掲載内容がやや古くなったと思われる記事を「[Archives](../../archived)」ページに移動。

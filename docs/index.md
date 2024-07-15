@@ -62,6 +62,11 @@
 
 === "ユーザスクリプト"
 
+    2024-07-15
+
+    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
+        - [AtCoder-HiderRatingAndPerformance](https://greasyfork.org/ja/scripts/492653-atcoder-hiderratingandperformance)
+
     2024-07-13
 
     - 「[Webページに色付けする](user_scripts/colors)」ページ
@@ -97,14 +102,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Summer - 学校ランキング (7月1日時点)](https://x.com/atcoder/status/1807644173765656817)
 
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2024-06-30
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [ripity](https://atcoder.jp/users/ripity)さん - [はてなブログ](https://ripity.hatenablog.com/)
-
 === "書籍"
 
     2024-07-03
@@ -133,15 +130,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [要注意！ベルマンフォード法を使う際に陥りやすい「罠」【ゆっくり解説】](https://www.youtube.com/watch?v=KLwNUbIyHrI)
-
-=== "色変記事"
-
-    色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
-
-    2024-06-30
-
-     - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
-        - [ripity](https://atcoder.jp/users/ripity)さん - [AtCoder 入黄](https://ripity.hatenablog.com/entry/2024/06/30/003553)
 
 === "国内外のコンテストサイト"
 
