@@ -67,6 +67,10 @@
     - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
         - [AtCoder-HiderRatingAndPerformance](https://greasyfork.org/ja/scripts/492653-atcoder-hiderratingandperformance)
 
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_hider_rating_and_performance.png" alt="atcoder hider rating and performance">
+    </div>
+
     2024-07-13
 
     - 「[Webページに色付けする](user_scripts/colors)」ページ
