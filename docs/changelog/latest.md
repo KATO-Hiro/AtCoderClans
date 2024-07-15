@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-07-16
+
+- [#8566](https://github.com/KATO-Hiro/AtCoderClans/pull/8566) - [conlacda](https://github.com/conlacda)さんのご紹介で、「[Scripts](../../scripts)」の「[コンテストの成績を見る](../../chrome_extensions/view_scores)」ページに、以下のChrome拡張機能を追加。
+    - [AtCoder Companion](https://chromewebstore.google.com/detail/atcoder-companion/bflhekmjlbpdlibcmojpikplaldgceec)
+
 ### 2024-07-15
 
 - [#8558](https://github.com/KATO-Hiro/AtCoderClans/pull/8558) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。

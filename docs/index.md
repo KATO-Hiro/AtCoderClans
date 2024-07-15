@@ -89,6 +89,17 @@
       <img loading="lazy" src="images/userscript/ac_hide_official_rating_icon.png" alt="ac hide official rating icon">
     </div>
 
+=== "Chrome拡張機能"
+
+    2024-07-16
+
+    - 「[コンテストの成績を見る](chrome_extensions/view_scores)」ページ
+        - [AtCoder Companion](https://chromewebstore.google.com/detail/atcoder-companion/bflhekmjlbpdlibcmojpikplaldgceec)
+
+    <div align="center">
+      <img loading="lazy" src="images/chrome_extension/atcoder_companion.png" alt="atcoder companion">
+    </div>
+
 === "記事"
 
     2024-07-09
@@ -100,11 +111,6 @@
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [【高菜式】Easiest 全方位木 DP](https://ngtkana.hatenablog.com/entry/2024/06/28/190119)
-
-    2024-07-01
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Summer - 学校ランキング (7月1日時点)](https://x.com/atcoder/status/1807644173765656817)
 
 === "書籍"
 
