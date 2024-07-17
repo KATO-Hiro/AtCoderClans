@@ -4,6 +4,17 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-07-17
+
+- [#8575](https://github.com/KATO-Hiro/AtCoderClans/pull/8575) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
+    - [競技プログラミングの練習法](https://hitoare.hatenablog.com/entry/2024/07/14/195940)
+- [#8574](https://github.com/KATO-Hiro/AtCoderClans/pull/8574) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
+    - [Atcoder AC Submission Duration](https://greasyfork.org/ja/scripts/500705-atcoder-ac-submission-duration)
+- [#8573](https://github.com/KATO-Hiro/AtCoderClans/pull/8573) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績を見る](../../web_app/view_and_compare_scores)」ページに、以下のWebアプリを追加。
+    - [AtCoder 延長戦GP30ランキング](https://qropa.github.io/extended-gp30-ranking/)
+- [#8572](https://github.com/KATO-Hiro/AtCoderClans/pull/8572) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AtCoder Junior League 2024 Summer - 学校ランキング (7月16日時点)](https://x.com/atcoder/status/1813035584010539051)
+
 ### 2024-07-16
 
 - [#8566](https://github.com/KATO-Hiro/AtCoderClans/pull/8566) - [conlacda](https://github.com/conlacda)さんのご紹介で、「[Scripts](../../scripts)」の「[コンテストの成績を見る](../../chrome_extensions/view_scores)」ページに、以下のChrome拡張機能を追加。
