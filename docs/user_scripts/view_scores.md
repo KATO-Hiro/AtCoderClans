@@ -80,6 +80,14 @@ title: コンテストの成績や関連する統計情報を見る
       <img loading = "lazy" src="../../images/userscript/ajl_join_count.png" alt="ajl join count">
     </div>
 
+### 正解するまでの所要時間
+
+- [Atcoder AC Submission Duration](https://greasyfork.org/ja/scripts/500705-atcoder-ac-submission-duration) - 「順位表」ページで、ユーザが各問題を正解するまでの所要時間を表示する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_ac_submission_duration.png" alt="atcoder ac submission duration">
+    </div>
+
 ### パフォーマンス値の推移
 
 - [Atcoder Perf Graph](https://greasyfork.org/ja/scripts/476103-atcoder-perf-graph) - ユーザの「プロフィール」ページにあるレーティンググラフに、各コンテストのパフォーマンス値を折れ線グラフで重ねて表示する。
