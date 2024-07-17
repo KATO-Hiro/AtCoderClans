@@ -60,7 +60,27 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "Webアプリ・Webサイト"
+
+    2024-07-17
+
+    - 「[コンテストの成績を見る](web_app/view_and_compare_scores)」ページ
+        - [AtCoder 延長戦GP30ランキング](https://qropa.github.io/extended-gp30-ranking/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/extended_gp30_ranking.png" alt="extended gp30 ranking">
+    </div>
+
 === "ユーザスクリプト"
+
+    2024-07-17
+
+    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
+        - [Atcoder AC Submission Duration](https://greasyfork.org/ja/scripts/500705-atcoder-ac-submission-duration)
+
+    <div align="center">
+      <img loading = "lazy" src="images/userscript/atcoder_ac_submission_duration.png" alt="atcoder ac submission duration">
+    </div>
 
     2024-07-15
 
@@ -102,15 +122,18 @@
 
 === "記事"
 
+    2024-07-17
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Summer - 学校ランキング (7月16日時点)](https://x.com/atcoder/status/1813035584010539051)
+
+    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
+        - [競技プログラミングの練習法](https://hitoare.hatenablog.com/entry/2024/07/14/195940)
+
     2024-07-09
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Summer - 学校ランキング (7月8日時点)](https://x.com/atcoder/status/1810142588697301171)
-
-    2024-07-02
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [【高菜式】Easiest 全方位木 DP](https://ngtkana.hatenablog.com/entry/2024/06/28/190119)
 
 === "書籍"
 
