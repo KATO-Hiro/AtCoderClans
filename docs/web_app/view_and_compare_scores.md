@@ -86,6 +86,12 @@ title: コンテストの成績を見る
       <img loading = "lazy" src="../../images/web_app/atcoder_marathon_replay.png" alt="atcoder marathon replay">
     </div>
 
+- [AtCoder 延長戦GP30ランキング](https://qropa.github.io/extended-gp30-ranking/) - 「延長戦」があるコンテストを対象として、GP30スコア ([出典](https://atcoder.jp/posts/982)) の総和のランキングを表示する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/extended_gp30_ranking.png" alt="extended gp30 ranking">
+    </div>
+
 ## 成績からバッジを作成
 
 ### 最新のレーティング
