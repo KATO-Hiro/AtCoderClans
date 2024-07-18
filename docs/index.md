@@ -164,6 +164,11 @@
 
 === "国内外のコンテストサイト"
 
+    2024-07-19
+
+    - 「[数学系コンテスト](related_contest_sites/math.md)」ページ
+        - [OMC水までの問題に使う知識まとめ](https://note.com/orangekid1210/n/nfab310b51ec3)
+
     2024-07-14
 
     - 「[Topcoder](related_contest_sites/topcoder)」ページ
