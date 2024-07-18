@@ -47,6 +47,9 @@
     },
     {
       "pattern": "^https://ctftime.org/"
+    },
+    {
+      "pattern": "^https://www.codechef.com/"
     }
   ],
   "httpHeaders": [
