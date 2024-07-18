@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-07-19
+
+- [#8582](https://github.com/KATO-Hiro/AtCoderClans/pull/8582) - 「[Related Contest Sites](../../related_contest_sites)」の「[数学系コンテスト](../../related_contest_sites/math)」ページに、以下の記事を追加。
+    - [OMC水までの問題に使う知識まとめ](https://note.com/orangekid1210/n/nfab310b51ec3)
+
 ### 2024-07-18
 
 - [#8579](https://github.com/KATO-Hiro/AtCoderClans/pull/8579) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
