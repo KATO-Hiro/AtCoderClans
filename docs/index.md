@@ -135,14 +135,12 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Summer - 学校ランキング (7月8日時点)](https://x.com/atcoder/status/1810142588697301171)
 
-=== "書籍"
-
-    2024-07-03
-
-    - 「[書籍](books)」ページ
-        - [Design of Heuristic Algorithms for Hard Optimization](https://link.springer.com/book/10.1007/978-3-031-13714-3)
-
 === "動画"
+
+    2024-07-18
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [特別講義「定数倍高速化の技術」by tatyam](https://www.youtube.com/live/j1KGQHlHJ5E)
 
     2024-07-11
 
