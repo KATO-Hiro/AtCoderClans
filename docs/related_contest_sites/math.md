@@ -11,3 +11,7 @@ title: 数学系コンテスト
 ### YouTubeチャンネル
 
 - [OnlineMathContest](https://www.youtube.com/channel/UC7s9Bwj4fUN_WhoahHBI1cg) - [OnlineMathContest](https://onlinemathcontest.com/)の公式YouTubeチャンネル。
+
+### 記事
+
+- [OMC水までの問題に使う知識まとめ](https://note.com/orangekid1210/n/nfab310b51ec3) - 同コンテストの水色diffレベルまでの問題を解くのに必要な知識・テクニックと該当する問題がまとめられている。
