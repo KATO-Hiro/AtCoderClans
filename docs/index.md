@@ -73,6 +73,15 @@
 
 === "ユーザスクリプト"
 
+    2024-07-20
+
+    - 「[解説を読む・テストケースを見る](user_scripts/read_editorials)」ページ
+        - [Editorials Dropdown for AtCoder](https://greasyfork.org/ja/scripts/500819-editorials-dropdown-for-atcoder)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/editorials_dropdown_for_atcoder.png" alt="editorials dropdown for atcoder">
+    </div>
+
     2024-07-17
 
     - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
@@ -156,11 +165,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [素数の逆数の和は収束するか？【ゆっくり解説】](https://www.youtube.com/watch?v=b9OyjyNSdDs)
-
-    2024-07-05
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [要注意！ベルマンフォード法を使う際に陥りやすい「罠」【ゆっくり解説】](https://www.youtube.com/watch?v=KLwNUbIyHrI)
 
 === "国内外のコンテストサイト"
 
