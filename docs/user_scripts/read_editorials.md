@@ -37,6 +37,14 @@ title: 解説を読む・テストケースを見る
       <img loading = "lazy" src="../../images/userscript/atcoder_traffic_light.png" alt="snuke? smeke?">
     </div>
 
+### 問題単位で一覧を表示
+
+- [Editorials Dropdown for AtCoder](https://greasyfork.org/ja/scripts/500819-editorials-dropdown-for-atcoder) - 「問題」ページの解説ボタンの右側に、解説の一覧を表示するドロップダウンメニューを追加する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/editorials_dropdown_for_atcoder.png" alt="editorials dropdown for atcoder">
+    </div>
+
 ### 解説コードのエディタを変更
 
 - [AtCoder Ace Editor Editorial](https://greasyfork.org/ja/scripts/473919-atcoder-ace-editor-editorial) - 「解説」ページで、Ace Editorに対応していない解説コードを変換する。[View All Editorials](https://greasyfork.org/ja/scripts/416554-view-all-editorials)にも対応している。
