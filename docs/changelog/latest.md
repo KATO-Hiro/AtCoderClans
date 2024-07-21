@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-07-21
+
+- [#8593](https://github.com/KATO-Hiro/AtCoderClans/pull/8593) - (破壊的な変更) 「[Related Contest Sites](../../related_contest_sites)」の「[Topcoder](../../related_contest_sites/topcoder)」ページの掲載内容のうち、閉鎖されたWebサイトと開発・メンテナンスが停止したと思われるツールを「[Archives](../../archived)」ページに移動。
+
 ### 2024-07-20
 
 - [#8588](https://github.com/KATO-Hiro/AtCoderClans/pull/8588) - 「[Scripts](../../scripts)」の「[解説を読む・テストケースを見る](../../user_scripts/read_editorials)」ページに、以下のユーザスクリプトを追加。

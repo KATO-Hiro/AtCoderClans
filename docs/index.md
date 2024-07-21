@@ -161,11 +161,6 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [コンピュータが永久にできないこと【ゆっくり解説】](https://www.youtube.com/watch?v=zPbNx0nmxVw)
 
-    2024-07-06
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [素数の逆数の和は収束するか？【ゆっくり解説】](https://www.youtube.com/watch?v=b9OyjyNSdDs)
-
 === "国内外のコンテストサイト"
 
     2024-07-19
@@ -186,6 +181,12 @@
 === "アーカイブス"
 
     諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2024-07-21
+
+    - Topcoder ARENA (Practice Problem List)
+    - Topcoder (Problem Search)
+    - Greed
 
     2024-07-12
 
