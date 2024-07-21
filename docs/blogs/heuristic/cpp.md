@@ -42,6 +42,7 @@ title: C&#43;&#43;
 |niuez|[GitHub Pages](https://niuez.github.io/)||
 |noimi|[はてなブログ](https://noimi.hatenablog.com/)||
 |Nyaan|[はてなブログ](https://nyaan.hatenablog.com/)||
+|peroon|[はてなブログ](https://perogram.hateblo.jp/)||
 |physics0523|[はてなブログ](https://physics0523.hatenablog.com/)||
 |risujiroh|[はてなブログ](https://risujiroh.hatenablog.com/)||
 |shibh308|[はてなブログ](https://shibh308.hatenablog.com/)||
@@ -90,6 +91,7 @@ title: C&#43;&#43;
 |theory_and_me|[はてなブログ](https://theory-and-me.hatenablog.com/)||
 |through|[Zenn](https://zenn.dev/through)||
 |Trineutron|[Qiita](https://qiita.com/trineutron)||
+|tokumini|[はてなブログ](https://tokumini.hatenablog.com/)||
 |tsukasa_diary|[Qiita](https://qiita.com/tsukasa__diary)||
 |tsutaj|[はてなブログ](https://tsutaj.hatenablog.com/)||
 |YamagenSakam|[はてなブログ](https://yamagensakam.hatenablog.com/)||

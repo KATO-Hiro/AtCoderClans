@@ -25,4 +25,5 @@ title: Rust
 |cunitac|[はてなブログ](https://cunitac.hatenablog.com/)||
 |Kyo_s_s|[自作ブログ](https://kyo-homepage.vercel.app/blog)||
 |penguin46|[はてなブログ](https://penguin46.hatenablog.com/)||
+|tanakh|[Qiita](https://qiita.com/tanakh)||
 |ToastUz|[Qiita](https://qiita.com/toast-uz)||
