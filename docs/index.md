@@ -144,6 +144,21 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Summer - 学校ランキング (7月8日時点)](https://x.com/atcoder/status/1810142588697301171)
 
+=== "ブログ"
+    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2024-07-22
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [peroon](https://atcoder.jp/users/peroon)さん - [はてなブログ](https://perogram.hateblo.jp/)
+        - [tokumini](https://atcoder.jp/users/tokumini)さん - [はてなブログ](https://tokumini.hatenablog.com/)
+
+    - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
+        - [Koi51](https://atcoder.jp/users/Koi51)さん - [Qiita](https://qiita.com/koi51)
+
+    - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
+        - [tanakh](https://atcoder.jp/users/tanakh)さん - [Qiita](https://qiita.com/tanakh)
+
 === "動画"
 
     2024-07-18
