@@ -20,5 +20,6 @@ title: Python
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
 |cozy_sauna|[Qiita](https://qiita.com/cozy_sauna/)||
+|Koi51|[Qiita](https://qiita.com/koi51)||
 |titia|[Blogger](https://titianote.blogspot.com/)||
 |uta_ccc|[はてなブログ](https://utac.hateblo.jp/)||
