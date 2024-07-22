@@ -131,6 +131,11 @@
 
 === "記事"
 
+    2024-07-23
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Summer - 学校ランキング (7月22日時点)](https://x.com/atcoder/status/1815218587344531576)
+
     2024-07-17
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -170,11 +175,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [0.999…は1か？【ゆっくり解説】](https://www.youtube.com/watch?v=Zp4I_fDtdi8)
-
-    2024-07-07
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [コンピュータが永久にできないこと【ゆっくり解説】](https://www.youtube.com/watch?v=zPbNx0nmxVw)
 
 === "国内外のコンテストサイト"
 
