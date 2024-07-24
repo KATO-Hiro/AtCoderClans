@@ -109,15 +109,6 @@
       <img loading="lazy" src="images/userscript/virtual_contest_result_highlighter.png" alt="virtual contest result highlighter">
     </div>
 
-    2024-07-08
-
-    - 「[Webページに色付けする](user_scripts/colors)」ページ
-        - [ac-hide-official-rating-icon](https://greasyfork.org/ja/scripts/499759-ac-hide-official-rating-icon)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/ac_hide_official_rating_icon.png" alt="ac hide official rating icon">
-    </div>
-
 === "Chrome拡張機能"
 
     2024-07-16
@@ -166,6 +157,11 @@
 
 === "動画"
 
+    2024-07-24
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [100サイズの箱は80サイズの箱に入るか？【ゆっくり解説】](https://www.youtube.com/watch?v=8wT7V-Pw6_w)
+
     2024-07-18
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
@@ -175,6 +171,15 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [0.999…は1か？【ゆっくり解説】](https://www.youtube.com/watch?v=Zp4I_fDtdi8)
+
+=== "色変記事"
+
+    2024-07-24
+
+    色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [darake](https://atcoder.jp/users/darake)さん - [[AtCoder] 入緑しました！](https://qiita.com/darake/items/25d0951fe9b49a274216)
 
 === "国内外のコンテストサイト"
 

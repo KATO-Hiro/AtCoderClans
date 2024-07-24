@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-07-24
+
+- [#8611](https://github.com/KATO-Hiro/AtCoderClans/pull/8611) - (破壊的な変更) リンク切れと思われるブログ・記事を一時的に「[Archives](../../archived)」ページに移動。
+- [#8610](https://github.com/KATO-Hiro/AtCoderClans/pull/8610) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [100サイズの箱は80サイズの箱に入るか？【ゆっくり解説】](https://www.youtube.com/watch?v=8wT7V-Pw6_w)
+- [#8609](https://github.com/KATO-Hiro/AtCoderClans/pull/8609) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[darake](https://atcoder.jp/users/darake)さんの[記事](https://qiita.com/darake/items/25d0951fe9b49a274216)を追加。
+
 ### 2024-07-23
 
 - [#8604](https://github.com/KATO-Hiro/AtCoderClans/pull/8604) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
