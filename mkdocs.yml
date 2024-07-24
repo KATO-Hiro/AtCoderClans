@@ -280,6 +280,7 @@ nav:
   - Change Log:
       - changelog/latest.md
       - 2024:
+          - May, 2024: changelog/2024_05.md
           - April, 2024: changelog/2024_04.md
           - March, 2024: changelog/2024_03.md
           - February, 2024: changelog/2024_02.md
