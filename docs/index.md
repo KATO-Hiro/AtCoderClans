@@ -135,11 +135,6 @@
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
         - [競技プログラミングの練習法](https://hitoare.hatenablog.com/entry/2024/07/14/195940)
 
-    2024-07-09
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Summer - 学校ランキング (7月8日時点)](https://x.com/atcoder/status/1810142588697301171)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
