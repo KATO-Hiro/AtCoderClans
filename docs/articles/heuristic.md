@@ -61,15 +61,11 @@ title: ヒューリスティック問題を解く
 - [短期AHCで勝つためのテクニック](https://speakerdeck.com/shun_pi/duan-qi-ahcdesheng-tutamenotekunituku) - 短期間コンテストにおける汎用的な戦略・テクニックが言語化されている。
 - [マラソンマッチで気をつけるべきこと](https://coonevo.hatenablog.com/entry/2021/03/15/091546) - 2週間程度のヒューリスティック型コンテストを対象として、筆者の戦略を紹介した記事。
 - [マラソンマッチで最初の12時間にすべきこと](https://hama-du.hatenablog.com/entry/2015/12/14/000000) - ヒューリスティック型コンテストにおいて、[hamadu](https://atcoder.jp/users/hamadu)さんが普段の取り組みで気をつけていることを紹介した記事。
-- [マラソンマッチの取り組み方](http://www.colun.net/archives/294) - ヒューリスティック型コンテストの取り組み方について、3つの観点(問題の把握・判断基準の明確化・反復期間の短縮)に集約して説明した記事。
 - [Psyhoさんによるヒューリスティック・ボットコンテストのための無料Tips](https://ozy4dm.hateblo.jp/entry/2022/12/22/162046) - [Psyho](https://twitter.com/FakePsyho)さんがTwitterに投稿したヒューリスティック/ボット プログラミングコンテストに関する知見を、日本語に翻訳してまとめている記事。
 - [Marathon Matchでいつもやってること](http://web.archive.org/web/20170809211026/http://topcoder.g.hatena.ne.jp/tomerun/20120502) - [tomerun](https://atcoder.jp/users/tomerun)さんが、ヒューリスティック型コンテストに関するノウハウをまとめた記事。
 - [rhooさんによるヒューリスティックコンテストの汎用テクニック集](https://github.com/rhoo19937/p/blob/main/tech/.md) - ヒューリスティックコンテストにおける汎用的なテクニック（焼きなまし法・ビームサーチ・評価関数・高速化など）が簡潔にまとめられている。
 - [北大日立新概念マラソンでやった高速化色々](http://web.archive.org/web/20200105011004/https://topcoder.g.hatena.ne.jp/tomerun/20171216/) - ヒューリスティック型のコンテストにおいて、アルゴリズムの側面から高速化に関する知見の一般化を図った記事。
 - [マラソンマッチにおける頻出Q＆Aと小技](http://web.archive.org/web/20150308101507/https://topcoder.g.hatena.ne.jp/CKomaki/20141202/1418158488) - ヒューリスティック型コンテストのうち、最適化問題における疑問点やコツがQ&A形式で簡潔にまとめられている記事。
-
-    !!! warning "注意"
-        本記事を読む前に、[マラソンマッチの取り組み方](http://www.colun.net/archives/294)などの記事を読み込み、何回かコンテストに参加することが推奨されている。
 
 ### 取り組み方(実装)
 
@@ -238,11 +234,6 @@ title: ヒューリスティック問題を解く
 
     !!! warning "注意"
         最終更新が2018年11月末であり、一部の項目については準備中であると思われる。
-
-- [焼きなまし法の真実](http://www.colun.net/archives/774) - 焼きなまし法に関する疑問点・コンテストを通して得られた知見が整理されている記事。
-
-    !!! warning "注意"
-        前提条件として、焼きなまし法に関する一定程度の知識が求められる。
 
 ### ベイズ推定
 
