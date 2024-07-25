@@ -169,6 +169,11 @@
 
 === "色変記事"
 
+    2024-07-26
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [kazuppa](https://atcoder.jp/users/kazuppa)さん - [無知の学生が3ヶ月で緑色コーダーになるまで](https://qiita.com/kazuppa/items/4f11e45743ae179dc459)
+
     2024-07-24
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
@@ -187,11 +192,6 @@
 
     - 「[Topcoder](related_contest_sites/topcoder)」ページ
         - [Single Round Match (SRM) の最新情報 (2024年7月時点)](https://archive.topcoder.com/)
-
-    2024-07-10
-
-    - 「[ICPC (国際大学対抗プログラミングコンテスト)](related_contest_sites/icpc)」ページ
-        - [【ICPC国内予選】テストケース並列化でなぐろう](https://hackmd.io/@tatyam-prime/SyfzRuBwR)
 
 === "アーカイブス"
 
