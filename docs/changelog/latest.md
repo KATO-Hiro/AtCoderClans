@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-07-27
+
+- [#8623](https://github.com/KATO-Hiro/AtCoderClans/pull/8623) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下のスライドを追加。
+    - [AHC035解説](https://speakerdeck.com/terryu16/ahc035jie-shuo)
+
 ### 2024-07-26
 
 - [#8618](https://github.com/KATO-Hiro/AtCoderClans/pull/8618) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
