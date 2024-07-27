@@ -123,6 +123,7 @@ title: ヒューリスティック問題を解く
 - [世界一やさしいAHC体験記](https://d-burioden.hateblo.jp/entry/2024/04/13/154639) - [burioden](https://atcoder.jp/users/burioden)さんの体験記。ヒューリスティック型コンテストに興味がある人に向けて、筆者が初参加のコンテストで回答を提出するまでの流れや感想などがまとめられている。
 - [いま、ここにしかない、出会い。(AtCoder 第一回マスターズ選手権 -決勝- で五位入賞しました。)](https://tsukammo.hatenablog.com/entry/2024/04/21/161831) - [tsukammo](https://atcoder.jp/users/tsukammo)さんの備忘録。[第一回マスターズ選手権 -決勝-](https://atcoder.jp/contests/masters2024-final)におけるメンバーの立ち回り(チーム決めや予選の内容も含む)を時系列で振り返っている。
 - [第一回マスターズ参加記](https://amentorimaru.hatenablog.com/entry/2024/04/21/034648) - [amentorimaru](https://atcoder.jp/users/amentorimaru?contestType=heuristic)さんの参加記。[第一回マスターズ選手権 -決勝-](https://atcoder.jp/contests/masters2024-final)の振り返り(決勝進出までの内容を含む)・次回に向けた課題などがつづられている。
+- [AHC035解説](https://speakerdeck.com/terryu16/ahc035jie-shuo) - [terry_u16](https://atcoder.jp/users/terry_u16)さんによる[ALGO ARTIS プログラミングコンテスト2024 夏（AtCoder Heuristic Contest 035）](https://atcoder.jp/contests/ahc035)の解説。考察のポイントと複数の方針が紹介されている。
 - [FakePsyho/cpcontests](https://github.com/FakePsyho/cpcontests) ![GitHub Repo stars](https://img.shields.io/github/stars/FakePsyho/cpcontests?style=plastic) - [Psyho](https://atcoder.jp/users/Psyho)さんが参加したコンテストの解答の方針とソースコードがまとめられている。
 
     ---
