@@ -122,6 +122,11 @@
 
 === "記事"
 
+    2024-07-27
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AHC035解説](https://speakerdeck.com/terryu16/ahc035jie-shuo)
+
     2024-07-23
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -161,11 +166,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [特別講義「定数倍高速化の技術」by tatyam](https://www.youtube.com/live/j1KGQHlHJ5E)
-
-    2024-07-11
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [0.999…は1か？【ゆっくり解説】](https://www.youtube.com/watch?v=Zp4I_fDtdi8)
 
 === "色変記事"
 
