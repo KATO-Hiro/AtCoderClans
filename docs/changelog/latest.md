@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-07-29
+
+- [#8633](https://github.com/KATO-Hiro/AtCoderClans/pull/8633) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Navbar Restrictor](https://greasyfork.org/ja/scripts/501929-atcoder-navbar-restrictor)
+
 ### 2024-07-28
 
 - [#8629](https://github.com/KATO-Hiro/AtCoderClans/pull/8629) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
