@@ -169,6 +169,11 @@
 
 === "色変記事"
 
+    2024-07-28
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [m1une](https://atcoder.jp/users/m1une)さん - [AtCoderで入水しました！](https://qiita.com/m1une/items/41ab13e46b95f667d932)
+
     2024-07-26
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
@@ -202,13 +207,6 @@
     - Topcoder ARENA (Practice Problem List)
     - Topcoder (Problem Search)
     - Greed
-
-    2024-07-12
-
-    - AC heatmap
-    - Algorithm Visualizer
-    - AtCoder Rating Comparison
-    - Codeforces Rating Comparison
 
 ## AtCoder公式グッズを購入する
 

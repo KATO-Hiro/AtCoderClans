@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-07-28
+
+- [#8629](https://github.com/KATO-Hiro/AtCoderClans/pull/8629) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[m1une](https://atcoder.jp/users/m1une)さんの[記事](https://qiita.com/m1une/items/41ab13e46b95f667d932)を追加。
+
 ### 2024-07-27
 
 - [#8623](https://github.com/KATO-Hiro/AtCoderClans/pull/8623) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下のスライドを追加。
