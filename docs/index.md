@@ -208,13 +208,6 @@
     - Topcoder (Problem Search)
     - Greed
 
-    2024-07-12
-
-    - AC heatmap
-    - Algorithm Visualizer
-    - AtCoder Rating Comparison
-    - Codeforces Rating Comparison
-
 ## AtCoder公式グッズを購入する
 
 - [SUZURI](https://suzuri.jp/AtCoder) - [AtCoder](https://atcoder.jp/)のロゴ入りグッズが購入できる。
