@@ -40,6 +40,12 @@ title: コンテストに参加する
 
 - [Style Fixes for AtCoder](https://greasyfork.org/ja/scripts/489300-style-fixes-for-atcoder) - [AtCoder](https://atcoder.jp/)の一部のページを、PCで閲覧したときに発生する表示上の不具合を改善・修正する。
 
+- [AtCoder Navbar Restrictor](https://greasyfork.org/ja/scripts/501929-atcoder-navbar-restrictor) - コンテストページで、名称が長い場合に改行せず、末尾に三点リーダー（...）をつけて省略表示する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_navbar_restrictor.png" alt="atcoder navbar restrictor">
+    </div>
+
 ### シングルディスプレイの表示を最適化
 
 - [AtCoder Style Optimizer for Single Display](https://greasyfork.org/ja/scripts/463585-atcoder-style-optimizer-for-single-display) - [AtCoder](https://atcoder.jp/)の各ページの横幅を最大まで広げて表示する。
