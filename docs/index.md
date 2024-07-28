@@ -73,6 +73,15 @@
 
 === "ユーザスクリプト"
 
+    2024-07-29
+
+    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
+        - [AtCoder Navbar Restrictor](https://greasyfork.org/ja/scripts/501929-atcoder-navbar-restrictor)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_navbar_restrictor.png" alt="atcoder navbar restrictor">
+    </div>
+
     2024-07-20
 
     - 「[解説を読む・テストケースを見る](user_scripts/read_editorials)」ページ
@@ -98,15 +107,6 @@
 
     <div align="center">
       <img loading="lazy" src="images/userscript/atcoder_hider_rating_and_performance.png" alt="atcoder hider rating and performance">
-    </div>
-
-    2024-07-13
-
-    - 「[Webページに色付けする](user_scripts/colors)」ページ
-        - [Virtual Contest Result Highlighter](https://greasyfork.org/ja/scripts/500190-virtual-contest-result-highlighter)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/virtual_contest_result_highlighter.png" alt="virtual contest result highlighter">
     </div>
 
 === "Chrome拡張機能"
