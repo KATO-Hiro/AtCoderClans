@@ -4,6 +4,7 @@ title: レーティング1200〜1599(水色)
 
 ## 2024年
 
+- [プログラミング初心者の40代おじさんが3年半かけてAtCoder水色になった話(色変記事)](https://qiita.com/june19312/items/4a714b772f04f44c1877) - [june193](https://atcoder.jp/users/june193)さんが、2024年7月27日に達成。
 - [AtCoderで入水しました！](https://qiita.com/m1une/items/41ab13e46b95f667d932) - [m1une](https://atcoder.jp/users/m1une)さんが、2024年7月20日に達成。
 - [【競技プログラミング】プログラミング初心者がAtCoderを始めて10か月で水色になった方法【ゆっくり解説】](https://www.youtube.com/watch?v=eOUXJ_KP9xg) - [sinzyousan](https://atcoder.jp/users/sinzyousan)さんが、2024年3月31日に公開。
 - [AtCoderで水色になりました](https://qiita.com/Blue-Sugar/items/99c60497b470a2401e75) - [Blue_S](https://atcoder.jp/users/Blue_S)さんが、2024年3月17日に達成。
