@@ -105,3 +105,4 @@ title: 情報オリンピック
 #### 参加記を読む
 
 - [EGOI2023　イギリス代表としての参加記](https://clara775.hatenablog.com/entry/2023/07/27/005753) - [うえこ](https://clara775.hatenablog.com/)さんによる「European Girls' Olympiad in Informatics 2023 (EGOI2023)」の参加記。コンテスト当日の振り返りに加えて、各国の参加者との国際交流・関連イベント・観光・グルメなど幅広い話題に言及されている。
+    - [EGOI2024 日本代表としての参加記](https://clara775.hatenablog.com/entry/2024/07/29/145535) - 同じ筆者によるEGOI2024の参加記。
