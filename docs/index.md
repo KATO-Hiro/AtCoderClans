@@ -100,15 +100,6 @@
       <img loading = "lazy" src="images/userscript/atcoder_ac_submission_duration.png" alt="atcoder ac submission duration">
     </div>
 
-    2024-07-15
-
-    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
-        - [AtCoder-HiderRatingAndPerformance](https://greasyfork.org/ja/scripts/492653-atcoder-hiderratingandperformance)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_hider_rating_and_performance.png" alt="atcoder hider rating and performance">
-    </div>
-
 === "Chrome拡張機能"
 
     2024-07-16
@@ -169,6 +160,11 @@
 
 === "色変記事"
 
+    2024-07-30
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [june193](https://atcoder.jp/users/june193)さん - [プログラミング初心者の40代おじさんが3年半かけてAtCoder水色になった話(色変記事)](https://qiita.com/june19312/items/4a714b772f04f44c1877)
+
     2024-07-28
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
@@ -192,11 +188,6 @@
 
     - 「[数学系コンテスト](related_contest_sites/math)」ページ
         - [OMC水までの問題に使う知識まとめ](https://note.com/orangekid1210/n/nfab310b51ec3)
-
-    2024-07-14
-
-    - 「[Topcoder](related_contest_sites/topcoder)」ページ
-        - [Single Round Match (SRM) の最新情報 (2024年7月時点)](https://archive.topcoder.com/)
 
 === "アーカイブス"
 

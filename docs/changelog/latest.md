@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-07-30
+
+- [#8643](https://github.com/KATO-Hiro/AtCoderClans/pull/8643) - (破壊的な変更) リンク切れと思われる記事を一時的に「[Archives](../../archived)」ページに移動。
+- [#8642](https://github.com/KATO-Hiro/AtCoderClans/pull/8642) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[june193](https://atcoder.jp/users/june193)さんの[記事](https://qiita.com/june19312/items/4a714b772f04f44c1877)を追加。
+
 ### 2024-07-29
 
 - [#8633](https://github.com/KATO-Hiro/AtCoderClans/pull/8633) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
