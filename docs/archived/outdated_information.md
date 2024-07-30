@@ -62,17 +62,6 @@ title: 更新停止の可能性が高い
 
 ### コンテストに関する統計情報
 
-- [AtCoderFacts](https://app.atcoder-facts.com/) - Ratedコンテストを対象として、レーティング別・問題別の正解者数・正解率を表示する。また、所定のパフォーマンスを得るための得点と所要時間の目安を知ることもできる。
-
-    - 理由: 記載なし。
-
-    !!! warning "注意"
-        2022年2月以降のコンテストは、反映されていない可能性が高い。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_facts.png" alt="atcoder facts">
-    </div>
-
 - [AtCoder賞金ランキング](https://docs.google.com/spreadsheets/d/1E7Ho85znRw7ebB7ZATWBQckM2P_7qZYc35XZExlL_a4/edit#gid=1741891477) - 賞金付きコンテストの獲得額(目安)を集計している。[元ツイート](https://twitter.com/gojira_kyopro/status/1281199066408292353)を参照。
     - 確認した日: 2023/07/15
 

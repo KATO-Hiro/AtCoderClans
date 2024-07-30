@@ -192,6 +192,17 @@ title: 開発・提供終了
       <img loading = "lazy" src="../../images/web_app/atcoder_diff_scores.png" alt="Atcoder Diff Scores">
     </div>
 
+- [AtCoderFacts](https://app.atcoder-facts.com/) - Ratedコンテストを対象として、レーティング別・問題別の正解者数・正解率を表示する。また、所定のパフォーマンスを得るための得点と所要時間の目安を知ることもできる。
+    - 確認した日: 2024/07/31
+    - 理由: 記載なし。
+
+    !!! warning "注意"
+        2022年2月以降のコンテストは、反映されていない可能性が高い。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_facts.png" alt="atcoder facts">
+    </div>
+
 - [AtCoder 色別正解率](http://shobonvip.web.fc2.com/atcoder/cp/index.html) - 各種コンテストにおけるレーティング帯ごとの正解率を表示する。作者による注: 手動更新のため、最新情報の反映にやや時間を要する。
     - 理由: 作者からサービスの更新終了の連絡を受けたため。
     - 代替手段: 同一の作者が公開しているユーザスクリプト「[AtCoderColorStandings](https://greasyfork.org/ja/scripts/423713-atcodercolorstandings)」を利用する。
