@@ -495,4 +495,10 @@ title: 開発・提供終了
       <img loading = "lazy" src="../../images/related_contest_sites/omc/omc_problems.png" alt="omc problems">
     </div>
 
+### パズル・クイズ系コンテスト
+
+- [競技くそなぞなぞ関連ページ一覧：コンテストとその解説を中心に](https://hamukichi.hatenablog.jp/entry/kuso-nazonazo-portal#f-0e4fd4eb) - 「くそなぞなぞコンテスト」へのリンク、解説、支援ツールなどが網羅的にまとめられている記事。
+    - 確認した日: 2024/07/30
+    - 理由: 記載なし。
+
 <!-- markdown-link-check-enable -->
