@@ -67,17 +67,6 @@
     - 「[Q3: コンテストは、いつ開催されていますか?](for_beginners/question3)」ページ
         - [コンテスト体制の変更について](https://atcoder.jp/posts/1280)
 
-=== "Webアプリ・Webサイト"
-
-    2024-07-17
-
-    - 「[コンテストの成績を見る](web_app/view_and_compare_scores)」ページ
-        - [AtCoder 延長戦GP30ランキング](https://qropa.github.io/extended-gp30-ranking/)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/extended_gp30_ranking.png" alt="extended gp30 ranking">
-    </div>
-
 === "ユーザスクリプト"
 
     2024-07-29
@@ -98,16 +87,12 @@
       <img loading="lazy" src="images/userscript/editorials_dropdown_for_atcoder.png" alt="editorials dropdown for atcoder">
     </div>
 
-    2024-07-17
-
-    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
-        - [Atcoder AC Submission Duration](https://greasyfork.org/ja/scripts/500705-atcoder-ac-submission-duration)
-
-    <div align="center">
-      <img loading = "lazy" src="images/userscript/atcoder_ac_submission_duration.png" alt="atcoder ac submission duration">
-    </div>
-
 === "記事"
+
+    2024-08-01
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [ALGO ARTIS プログラミングコンテスト2024 夏(AHC035)解説](https://math-gorilla.hatenablog.com/entry/2024/07/28/161631)
 
     2024-07-31
 
@@ -127,16 +112,13 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Summer - 学校ランキング (7月22日時点)](https://x.com/atcoder/status/1815218587344531576)
 
-    2024-07-17
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Summer - 学校ランキング (7月16日時点)](https://x.com/atcoder/status/1813035584010539051)
-
-    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
-        - [競技プログラミングの練習法](https://hitoare.hatenablog.com/entry/2024/07/14/195940)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2024-08-01
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [MathGorilla](https://atcoder.jp/users/MathGorilla)さん - [はてなブログ](https://math-gorilla.hatenablog.com)
 
     2024-07-22
 
