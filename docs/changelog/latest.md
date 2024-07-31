@@ -4,6 +4,19 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-07-31
+
+- [#8655](https://github.com/KATO-Hiro/AtCoderClans/pull/8655) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [「K番目に⚪︎⚪︎」のにぶたん(二分探索)への直し方](https://prd-xxx.hateblo.jp/entry/2024/07/30/000457)
+- [#8653](https://github.com/KATO-Hiro/AtCoderClans/pull/8653)、[#8654](https://github.com/KATO-Hiro/AtCoderClans/pull/8654) - 「[Related Contest Sites](../../related_contest_sites)」の「[情報オリンピック](../../related_contest_sites/joi_ioi)」ページに、以下の記事を追加。
+    - [EGOI2024 日本代表としての参加記](https://clara775.hatenablog.com/entry/2024/07/29/145535)
+    - [EGOI2024 参加記](https://a-kyopro.hatenablog.com/entry/2024/07/30/111623)
+- [#8652](https://github.com/KATO-Hiro/AtCoderClans/pull/8652) - 「[For Beginners](../../for_beginners)」の「[Q3: コンテストは、いつ開催されていますか?](../../for_beginners/question3)」ページに、以下の記事を追加。
+    - [コンテスト体制の変更について](https://atcoder.jp/posts/1280)
+- [#8651](https://github.com/KATO-Hiro/AtCoderClans/pull/8651) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AtCoder Junior League 2024 Summer - 学校ランキング (7月29日時点)](https://x.com/atcoder/status/1817799820645671410)
+- [#8649](https://github.com/KATO-Hiro/AtCoderClans/pull/8649) - (破壊的な変更) リンク切れと思われるWebアプリを一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2024-07-30
 
 - [#8643](https://github.com/KATO-Hiro/AtCoderClans/pull/8643) - (破壊的な変更) リンク切れと思われる記事を一時的に「[Archives](../../archived)」ページに移動。
