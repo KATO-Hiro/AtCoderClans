@@ -67,6 +67,7 @@ title: C&#43;&#43;
 |kotamanegi|[はてなブログ](https://kotamanegi.hatenablog.com/)||
 |kotatsugame|[はてなブログ](https://kotatsugame.hatenablog.com/)||
 |kusano|[はてなブログ](https://kusano-k.hatenablog.com/)、[Qiita](https://qiita.com/kusano_k)||
+|MathGorilla|[はてなブログ](https://math-gorilla.hatenablog.com)||
 |merom686|[はてなブログ](https://merom686.hatenablog.com/)||
 |milkcoffee|[はてなブログ](https://milkcoffee.hatenablog.jp/)||
 |m_buyoh|[はてなブログ](https://buyoh.hateblo.jp/)||
