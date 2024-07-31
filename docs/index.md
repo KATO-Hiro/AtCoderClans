@@ -60,6 +60,13 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "入門者・初心者向けの内容"
+
+    2024-07-31
+
+    - 「[Q3: コンテストは、いつ開催されていますか?](for_beginners/question3)」ページ
+        - [コンテスト体制の変更について](https://atcoder.jp/posts/1280)
+
 === "Webアプリ・Webサイト"
 
     2024-07-17
@@ -100,18 +107,15 @@
       <img loading = "lazy" src="images/userscript/atcoder_ac_submission_duration.png" alt="atcoder ac submission duration">
     </div>
 
-=== "Chrome拡張機能"
-
-    2024-07-16
-
-    - 「[コンテストの成績を見る](chrome_extensions/view_scores)」ページ
-        - [AtCoder Companion](https://chromewebstore.google.com/detail/atcoder-companion/bflhekmjlbpdlibcmojpikplaldgceec)
-
-    <div align="center">
-      <img loading="lazy" src="images/chrome_extension/atcoder_companion.png" alt="atcoder companion">
-    </div>
-
 === "記事"
+
+    2024-07-31
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [「K番目に⚪︎⚪︎」のにぶたん(二分探索)への直し方](https://prd-xxx.hateblo.jp/entry/2024/07/30/000457)
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Summer - 学校ランキング (7月29日時点)](https://x.com/atcoder/status/1817799820645671410)
 
     2024-07-27
 
@@ -183,6 +187,12 @@
         - [darake](https://atcoder.jp/users/darake)さん - [[AtCoder] 入緑しました！](https://qiita.com/darake/items/25d0951fe9b49a274216)
 
 === "国内外のコンテストサイト"
+
+    2024-07-31
+
+    - 「[情報オリンピック](related_contest_sites/joi_ioi)」ページ
+        - [EGOI2024 日本代表としての参加記](https://clara775.hatenablog.com/entry/2024/07/29/145535)
+        - [EGOI2024 参加記](https://a-kyopro.hatenablog.com/entry/2024/07/30/111623)
 
     2024-07-19
 
