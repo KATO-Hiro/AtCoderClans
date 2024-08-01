@@ -139,11 +139,6 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [100サイズの箱は80サイズの箱に入るか？【ゆっくり解説】](https://www.youtube.com/watch?v=8wT7V-Pw6_w)
 
-    2024-07-18
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [特別講義「定数倍高速化の技術」by tatyam](https://www.youtube.com/live/j1KGQHlHJ5E)
-
 === "色変記事"
 
     2024-07-30

@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-08-02
+
+- [#8663](https://github.com/KATO-Hiro/AtCoderClans/pull/8663) - (破壊的な変更) 「[Change Log](../latest)」ページの2024年6月分を月別のアーカイブに移動。
+    - [June, 2024](../2024_06)
+
 ### 2024-08-01
 
 - [#8660](https://github.com/KATO-Hiro/AtCoderClans/pull/8660) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
