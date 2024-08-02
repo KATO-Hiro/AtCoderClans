@@ -89,6 +89,11 @@
 
 === "記事"
 
+    2024-08-03
+
+    - 「[プログラミング言語を学ぶ](articles/programming_languages)」ページ
+        - [実践C++入門講座](https://theolizer.com/cpp-school-root/cpp-school/)
+
     2024-08-01
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -170,11 +175,6 @@
     - 「[情報オリンピック](related_contest_sites/joi_ioi)」ページ
         - [EGOI2024 日本代表としての参加記](https://clara775.hatenablog.com/entry/2024/07/29/145535)
         - [EGOI2024 参加記](https://a-kyopro.hatenablog.com/entry/2024/07/30/111623)
-
-    2024-07-19
-
-    - 「[数学系コンテスト](related_contest_sites/math)」ページ
-        - [OMC水までの問題に使う知識まとめ](https://note.com/orangekid1210/n/nfab310b51ec3)
 
 === "アーカイブス"
 
