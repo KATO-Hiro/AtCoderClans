@@ -5,6 +5,11 @@ title: プログラミング言語を学ぶ
 ## C&#43;&#43;
 
 - [C++入門 AtCoder Programming Guide for beginners (APG4b)](https://atcoder.jp/contests/APG4b) - [AtCoder](https://atcoder.jp/)公式が提供する汎用的なプログラミングの基礎を学ぶための入門教材。また、知識の定着を図るための練習問題と自分で書いたプログラムを自動で採点してくれるシステムがあるのが大きな特徴。
+- [実践C++入門講座](https://theolizer.com/cpp-school-root/cpp-school/) - C++の解説記事。概念を理解するのが難しい内容やバグを埋め込みやすい点とその対処方法について、丁寧に解説されている。
+
+    !!! warning "注意"
+        実行環境を用意する部分に関しては記載内容が古くなっているため、最新の情報を調べる必要がある。
+
 - [競プロのための標準 C++](https://zenn.dev/reputeless/books/standard-cpp-for-competitive-programming) - C++の主要な標準機能について、解説とサンプルがまとめられているオンラインドキュメント。
 - [cpprefjp - C++日本語リファレンス](https://cpprefjp.github.io/) - C++のリファレンスを日本語で提供するWebサイト。サンプルコードも用意されている。
 - [Google C++ スタイルガイド 日本語全訳](https://ttsuki.github.io/styleguide/cppguide.ja.html) - 「Google C++ Style Guide」の日本語訳。
