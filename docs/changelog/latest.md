@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-08-03
+
+- [#8667](https://github.com/KATO-Hiro/AtCoderClans/pull/8667) - 「[Articles, Blogs, Books and Videos](../../media)」の「[プログラミング言語を学ぶ](../../articles/programming_languages)」ページに、以下の記事を追加。
+    - [実践C++入門講座](https://theolizer.com/cpp-school-root/cpp-school/)
+
 ### 2024-08-02
 
 - [#8663](https://github.com/KATO-Hiro/AtCoderClans/pull/8663) - (破壊的な変更) 「[Change Log](../latest)」ページの2024年6月分を月別のアーカイブに移動。
