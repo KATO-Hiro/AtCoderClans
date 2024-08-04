@@ -78,16 +78,12 @@
       <img loading="lazy" src="images/userscript/atcoder_navbar_restrictor.png" alt="atcoder navbar restrictor">
     </div>
 
-    2024-07-20
-
-    - 「[解説を読む・テストケースを見る](user_scripts/read_editorials)」ページ
-        - [Editorials Dropdown for AtCoder](https://greasyfork.org/ja/scripts/500819-editorials-dropdown-for-atcoder)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/editorials_dropdown_for_atcoder.png" alt="editorials dropdown for atcoder">
-    </div>
-
 === "記事"
+
+    2024-08-04
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [Cartesian Tree の実装 〜 stack を用いた O(N) 時間構築](https://drken1215.hatenablog.com/entry/2023/10/19/025800)
 
     2024-08-03
 

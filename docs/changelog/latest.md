@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-08-04
+
+- [#8672](https://github.com/KATO-Hiro/AtCoderClans/pull/8672) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [Cartesian Tree の実装 〜 stack を用いた O(N) 時間構築](https://drken1215.hatenablog.com/entry/2023/10/19/025800)
+
 ### 2024-08-03
 
 - [#8667](https://github.com/KATO-Hiro/AtCoderClans/pull/8667) - 「[Articles, Blogs, Books and Videos](../../media)」の「[プログラミング言語を学ぶ](../../articles/programming_languages)」ページに、以下の記事を追加。
