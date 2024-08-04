@@ -207,6 +207,10 @@ title: アルゴリズムを学ぶ
 - [Mo's algorithm とその上位互換の話](https://snuke.hatenablog.com/entry/2016/07/01/000000) - より汎用性の高いアルゴリズム(`Rollback`機能の追加)が紹介されている記事。
 - [定数倍が最適な Mo's Algorithm](https://noshi91.hatenablog.com/entry/2023/04/13/224811) - 計算量が最悪となるケース(端部の移動)に着目して、アルゴリズムを改善している記事。
 
+### Cartesian木
+
+- [Cartesian Tree の実装 〜 stack を用いた O(N) 時間構築](https://drken1215.hatenablog.com/entry/2023/10/19/025800) - Cartesian木の概説と、スタックを利用してO(N)で構築する方法が紹介されている。
+
 ### 正式名称と略語
 
 - [競プロのアルゴリズム関連略称まとめ](https://noshi91.hatenablog.com/entry/2020/02/19/200656) - アルゴリズムに関連する正式名称と略語との対応関係をまとめた記事。
