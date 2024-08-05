@@ -80,6 +80,11 @@
 
 === "記事"
 
+    2024-08-05
+
+    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
+        - [競技プログラミングの練習法(AtCoderレート2100突破のために)](https://shinchankosen.hatenadiary.jp/entry/2024/07/21/181817)
+
     2024-08-04
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
@@ -171,16 +176,6 @@
     - 「[情報オリンピック](related_contest_sites/joi_ioi)」ページ
         - [EGOI2024 日本代表としての参加記](https://clara775.hatenablog.com/entry/2024/07/29/145535)
         - [EGOI2024 参加記](https://a-kyopro.hatenablog.com/entry/2024/07/30/111623)
-
-=== "アーカイブス"
-
-    諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
-
-    2024-07-21
-
-    - Topcoder ARENA (Practice Problem List)
-    - Topcoder (Problem Search)
-    - Greed
 
 ## AtCoder公式グッズを購入する
 
