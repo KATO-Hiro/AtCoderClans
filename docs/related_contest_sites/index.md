@@ -22,6 +22,7 @@ title: Related Contest Sites - はじめに
     - [不定期開催](./algorithm)
 - [数学系コンテスト](./math)
 - [パズル・クイズ系コンテスト](./puzzle_quiz)
+- [機械学習系コンテスト](./machine_learning)
 - [データベース系コンテスト](./db)
 - [Webサービス系コンテスト](./web_services)
 - [セキュリティ系コンテスト](./security)
