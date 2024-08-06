@@ -8,6 +8,13 @@ title: セキュリティ系コンテスト
 
 #### 問題を解く
 
+- [AlpacaHack](https://alpacahack.com/) - 個人戦を対象としたコンテストサイト。一つのカテゴリにフォーカスした短期間コンテストが定期的に開催される見込み。また、コンテスト終了後に問題を復習することも可能。
+    - [X(旧 Twitter)アカウント](https://x.com/AlpacaHack)
+
+    <div align="center">
+      <img loading="lazy" src="../../images/related_contest_sites/ctf/alpacahack.png" alt="alpacahack">
+    </div>
+
 - [ksnctf](https://ksnctf.sweetduet.info/) - コンピュータセキュリティに関する問題を解くことができる。
 
     <div align="center">
