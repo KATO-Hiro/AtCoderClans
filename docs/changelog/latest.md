@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-08-07
+
+- [#8691](https://github.com/KATO-Hiro/AtCoderClans/pull/8691) - 「[Related Contest Sites](../../related_contest_sites)」の「[機械学習系コンテスト](../../related_contest_sites/machine_learning)」ページに、以下のテンプレートを追加。
+    - [kaggle-template](https://github.com/unonao/kaggle-template) ![GitHub Repo stars](https://img.shields.io/github/stars/unonao/kaggle-template?style=plastic)
+- [#8690](https://github.com/KATO-Hiro/AtCoderClans/pull/8690) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AtCoder Junior League 2024 Summer - 学校ランキング (8月5日時点)](https://x.com/atcoder/status/1820281059982057982)
+
 ### 2024-08-06
 
 - [#8684](https://github.com/KATO-Hiro/AtCoderClans/pull/8684) - 「[Related Contest Sites](../../related_contest_sites)」の「[セキュリティ系コンテスト](../../related_contest_sites/security)」ページに、以下のWebサービスを追加。
