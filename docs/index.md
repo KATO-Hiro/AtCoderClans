@@ -126,18 +126,6 @@
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
         - [MathGorilla](https://atcoder.jp/users/MathGorilla)さん - [はてなブログ](https://math-gorilla.hatenablog.com)
 
-    2024-07-22
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [peroon](https://atcoder.jp/users/peroon)さん - [はてなブログ](https://perogram.hateblo.jp/)
-        - [tokumini](https://atcoder.jp/users/tokumini)さん - [はてなブログ](https://tokumini.hatenablog.com/)
-
-    - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
-        - [Koi51](https://atcoder.jp/users/Koi51)さん - [Qiita](https://qiita.com/koi51)
-
-    - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
-        - [tanakh](https://atcoder.jp/users/tanakh)さん - [Qiita](https://qiita.com/tanakh)
-
 === "動画"
 
     2024-07-24
@@ -171,11 +159,28 @@
 
 === "国内外のコンテストサイト"
 
+    2024-08-06
+
+    - 「[セキュリティ系コンテスト](related_contest_sites/security)」ページ
+        - [AlpacaHack](https://alpacahack.com/)
+
+    <div align="center">
+      <img loading="lazy" src="images/related_contest_sites/ctf/alpacahack.png" alt="alpacahack">
+    </div>
+
     2024-07-31
 
     - 「[情報オリンピック](related_contest_sites/joi_ioi)」ページ
         - [EGOI2024 日本代表としての参加記](https://clara775.hatenablog.com/entry/2024/07/29/145535)
         - [EGOI2024 参加記](https://a-kyopro.hatenablog.com/entry/2024/07/30/111623)
+
+=== "アーカイブス"
+
+    諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2024-08-06
+
+    - AtCoderBlogs
 
 ## AtCoder公式グッズを購入する
 

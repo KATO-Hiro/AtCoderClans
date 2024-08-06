@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-08-06
+
+- [#8684](https://github.com/KATO-Hiro/AtCoderClans/pull/8684) - 「[Related Contest Sites](../../related_contest_sites)」の「[セキュリティ系コンテスト](../../related_contest_sites/security)」ページに、以下のWebサービスを追加。
+    - [AlpacaHack](https://alpacahack.com/)
+- [#8682](https://github.com/KATO-Hiro/AtCoderClans/pull/8682) - (破壊的な変更) リンク切れと思われるWebアプリを一時的に「[Archives](../../archived)」ページに移動。
+    - AtCoderBlogs
+
 ### 2024-08-05
 
 - [#8679](https://github.com/KATO-Hiro/AtCoderClans/pull/8679) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
