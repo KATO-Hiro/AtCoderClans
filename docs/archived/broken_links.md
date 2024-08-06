@@ -52,6 +52,15 @@ title: リンク切れ
       <img loading = "lazy" src="../../images/web_app/ac_solutions.png" alt="ac solutions">
     </div>
 
+### 復習の効果をより高める
+
+- [AtCoderBlogs](https://atcoder-blogs.jp) - 問題の思考過程や解法を整理したブログを掲載・閲覧できる。
+    - 確認した日: 2024/08/06
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_blogs.jpeg" alt="atcoder blogs">
+    </div>
+
 ### コンテストの成績を見る
 
 - [AtCoder Rating Comparison](https://atcoder-rating-comparison.herokuapp.com/?q=) - 指定した2人以上のレーティングの比較ができる。[Codeforces版](https://rika0384.github.io/codeforces_rating_comparison/)も公開されている。
