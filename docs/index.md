@@ -80,6 +80,11 @@
 
 === "記事"
 
+    2024-08-07
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Summer - 学校ランキング (8月5日時点)](https://x.com/atcoder/status/1820281059982057982)
+
     2024-08-05
 
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
@@ -112,11 +117,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AHC035解説](https://speakerdeck.com/terryu16/ahc035jie-shuo)
-
-    2024-07-23
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Summer - 学校ランキング (7月22日時点)](https://x.com/atcoder/status/1815218587344531576)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -158,6 +158,11 @@
         - [darake](https://atcoder.jp/users/darake)さん - [[AtCoder] 入緑しました！](https://qiita.com/darake/items/25d0951fe9b49a274216)
 
 === "国内外のコンテストサイト"
+
+    2024-08-07
+
+    - 「[機械学習系コンテスト](related_contest_sites/machine_learning)」ページ
+        - [kaggle-template](https://github.com/unonao/kaggle-template) ![GitHub Repo stars](https://img.shields.io/github/stars/unonao/kaggle-template?style=plastic)
 
     2024-08-06
 
