@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-08-08
+
+- [#8695](https://github.com/KATO-Hiro/AtCoderClans/pull/8695) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
+    - [CodeQUEEN 2024参加記](https://momoharahara.hatenadiary.com/entry/2024/08/07/122348)
+
 ### 2024-08-07
 
 - [#8691](https://github.com/KATO-Hiro/AtCoderClans/pull/8691) - 「[Related Contest Sites](../../related_contest_sites)」の「[機械学習系コンテスト](../../related_contest_sites/machine_learning)」ページに、以下のテンプレートを追加。

@@ -80,6 +80,11 @@
 
 === "記事"
 
+    2024-08-08
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [CodeQUEEN 2024参加記](https://momoharahara.hatenadiary.com/entry/2024/08/07/122348)
+
     2024-08-07
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -126,14 +131,9 @@
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
         - [MathGorilla](https://atcoder.jp/users/MathGorilla)さん - [はてなブログ](https://math-gorilla.hatenablog.com)
 
-=== "動画"
-
-    2024-07-24
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [100サイズの箱は80サイズの箱に入るか？【ゆっくり解説】](https://www.youtube.com/watch?v=8wT7V-Pw6_w)
-
 === "色変記事"
+
+    色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
     2024-07-30
 
@@ -149,13 +149,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [kazuppa](https://atcoder.jp/users/kazuppa)さん - [無知の学生が3ヶ月で緑色コーダーになるまで](https://qiita.com/kazuppa/items/4f11e45743ae179dc459)
-
-    2024-07-24
-
-    色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [darake](https://atcoder.jp/users/darake)さん - [[AtCoder] 入緑しました！](https://qiita.com/darake/items/25d0951fe9b49a274216)
 
 === "国内外のコンテストサイト"
 
