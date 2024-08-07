@@ -34,6 +34,10 @@ title: 部活・サークル・同好会・オンサイトイベントに参加�
 
 - [発案から10日で107名の大宴会を開催した話(メール一括作成GASつき)](https://d-burioden.hateblo.jp/entry/2023/04/03/043035) - 100人規模の宴会を開催する際に、店の予約・参加者の把握・懸念事項への対策などの知見がまとめられている記事。
 
+### CodeQUEEN 2024
+
+- [CodeQUEEN 2024参加記](https://momoharahara.hatenadiary.com/entry/2024/08/07/122348) - [CodeQUEEN 2024 決勝](https://atcoder.jp/contests/codequeen2024-final-N9tn8QqD)の参加記。本番までの練習内容・コンテスト当日の振り返り・各種イベント・オフ会などについてまとめられている。
+
 ### UTPC 2023
 
 - [UTPC2023 開催記](https://chineristac.hatenablog.com/entry/2024/03/27/011633) - [UTPC 2023](https://atcoder.jp/contests/utpc2023)の運営・出題者による開催記。筆者が各問題を解いた感想や運営面での反省点がまとめられている。
