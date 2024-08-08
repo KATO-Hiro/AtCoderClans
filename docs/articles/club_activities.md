@@ -37,6 +37,7 @@ title: 部活・サークル・同好会・オンサイトイベントに参加�
 ### CodeQUEEN 2024
 
 - [CodeQUEEN 2024参加記](https://momoharahara.hatenadiary.com/entry/2024/08/07/122348) - [CodeQUEEN 2024 決勝](https://atcoder.jp/contests/codequeen2024-final-N9tn8QqD)の参加記。本番までの練習内容・コンテスト当日の振り返り・各種イベント・オフ会などについてまとめられている。
+- [総勢217名の女性競技プログラマーが参加　女性競技プログラミングコンテスト「CodeQUEEN」結果発表](https://prtimes.jp/main/html/rd/p/000000048.000028415.html) - 同コンテストの開催経緯と優勝者・上位入賞者のコメントがまとめられている。
 
 ### UTPC 2023
 
