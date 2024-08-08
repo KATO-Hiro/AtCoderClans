@@ -1,0 +1,32 @@
+:root {
+  --md-default-fg-color--light: #159957;
+  --md-default-fg-color--dark:  #159957;
+  --md-primary-fg-color:        #159957;
+  --md-primary-fg-color--light: #159957;
+  --md-primary-fg-color--dark:  #159957;
+  --md-accent-fg-color:         #159957;
+}
+
+[data-md-color-scheme="atcoderclans"] {
+  --md-default-fg-color--light: #159957;
+  --md-default-fg-color--dark:  #159957;
+  --md-primary-fg-color:        #159957;
+  --md-primary-fg-color--light: #159957;
+  --md-primary-fg-color--dark:  #159957;
+  --md-accent-fg-color:         #159957;
+}
+
+/* FIXME: */
+/* --md-typeset-a-color: #159957; was set manually in the Developper tools,
+   it is reflected, but not via CSS. */
+[data-md-color-scheme="slate"] {
+  --md-default-fg-color--light: #159957;
+  --md-primary-fg-color:        #159957;
+  --md-primary-fg-color--light: #159957;
+  --md-accent-fg-color:         #159957;
+  --md-typeset-a-color: #159957;
+}
+
+#atcoder-clans, h2, h3, h4 {
+  color: #159957;
+}
