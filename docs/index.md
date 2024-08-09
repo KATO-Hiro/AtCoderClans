@@ -80,6 +80,11 @@
 
 === "記事"
 
+    2024-08-10
+
+    - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
+        - [AtCoderで使えるRustのクレートについて調べてみた](https://horologe.hatenablog.jp/entry/2024/03/28/220044)
+
     2024-08-09
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
@@ -149,11 +154,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [m1une](https://atcoder.jp/users/m1une)さん - [AtCoderで入水しました！](https://qiita.com/m1une/items/41ab13e46b95f667d932)
-
-    2024-07-26
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [kazuppa](https://atcoder.jp/users/kazuppa)さん - [無知の学生が3ヶ月で緑色コーダーになるまで](https://qiita.com/kazuppa/items/4f11e45743ae179dc459)
 
 === "国内外のコンテストサイト"
 

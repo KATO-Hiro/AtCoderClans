@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-08-10
+
+- [#8704](https://github.com/KATO-Hiro/AtCoderClans/pull/8704) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Rust](../../articles/implementation/rust)」ページに、以下の記事を追加。
+    - [AtCoderで使えるRustのクレートについて調べてみた](https://horologe.hatenablog.jp/entry/2024/03/28/220044)
+
 ### 2024-08-09
 
 - [#8700](https://github.com/KATO-Hiro/AtCoderClans/pull/8700) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
