@@ -138,6 +138,11 @@
 
 === "動画"
 
+    2024-08-12
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [20人の囚人と12個の箱【ゆっくり解説】](https://www.youtube.com/watch?v=gLHWaYhssXY)
+
     2024-08-11
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
@@ -151,11 +156,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [june193](https://atcoder.jp/users/june193)さん - [プログラミング初心者の40代おじさんが3年半かけてAtCoder水色になった話(色変記事)](https://qiita.com/june19312/items/4a714b772f04f44c1877)
-
-    2024-07-28
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [m1une](https://atcoder.jp/users/m1une)さん - [AtCoderで入水しました！](https://qiita.com/m1une/items/41ab13e46b95f667d932)
 
 === "国内外のコンテストサイト"
 

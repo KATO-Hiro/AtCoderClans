@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-08-12
+
+- [#8714](https://github.com/KATO-Hiro/AtCoderClans/pull/8714) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [20人の囚人と12個の箱【ゆっくり解説】](https://www.youtube.com/watch?v=gLHWaYhssXY)
+
 ### 2024-08-11
 
 - [#8708](https://github.com/KATO-Hiro/AtCoderClans/pull/8708) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
