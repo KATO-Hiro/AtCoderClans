@@ -141,6 +141,13 @@
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
         - [MathGorilla](https://atcoder.jp/users/MathGorilla)さん - [はてなブログ](https://math-gorilla.hatenablog.com)
 
+=== "動画"
+
+    2024-08-11
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [【競技プログラミング】AtCoder緑色あるある【愚痴多め】](https://www.youtube.com/watch?v=oLaD-gJ5bhs)
+
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。

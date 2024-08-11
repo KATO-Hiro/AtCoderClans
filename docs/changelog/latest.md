@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-08-11
+
+- [#8708](https://github.com/KATO-Hiro/AtCoderClans/pull/8708) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [【競技プログラミング】AtCoder緑色あるある【愚痴多め】](https://www.youtube.com/watch?v=oLaD-gJ5bhs)
+
 ### 2024-08-10
 
 - [#8704](https://github.com/KATO-Hiro/AtCoderClans/pull/8704) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Rust](../../articles/implementation/rust)」ページに、以下の記事を追加。
