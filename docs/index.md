@@ -128,11 +128,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Summer - 学校ランキング (7月29日時点)](https://x.com/atcoder/status/1817799820645671410)
 
-    2024-07-27
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AHC035解説](https://speakerdeck.com/terryu16/ahc035jie-shuo)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
