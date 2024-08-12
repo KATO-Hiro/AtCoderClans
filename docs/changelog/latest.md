@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-08-13
+
+- [#8720](https://github.com/KATO-Hiro/AtCoderClans/pull/8720) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
+- [#8718](https://github.com/KATO-Hiro/AtCoderClans/pull/8718) - 「[Milestones](../../milestones/orange)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2400から2799まで(橙色)に[hiikunZ](https://atcoder.jp/users/hiikunZ)さんの[記事](https://hiikunz.hatenablog.com/entry/achieve-orange)を追加。
+
 ### 2024-08-12
 
 - [#8714](https://github.com/KATO-Hiro/AtCoderClans/pull/8714) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
