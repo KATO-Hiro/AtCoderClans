@@ -9,6 +9,7 @@ title: レーティング2400〜2799(橙色)
 
 ### アルゴリズム部門
 
+- [AtCoder 橙色になりました - hiikunZのブログ](https://hiikunz.hatenablog.com/entry/achieve-orange) - [hiikunZ](https://atcoder.jp/users/hiikunZ)さんが、2024年8月11日に達成。
 - [【色変記事】橙になりました - halcの競プロ精進ブログ](https://halc-kyopro.hatenablog.com/entry/2024/06/11/203504) - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さんが、2024年6月11日に公開。
 - [AtCoder橙色になりました](https://qiita.com/sounansya/items/ff20b4e25f2f2316bffe) - [sounansya](https://atcoder.jp/users/sounansya)さんが、2024年5月19日に達成。
 - [AtCoder 黄色になりました！（橙→黄になっただけなので中身は入橙記事） - しょぼんブログ](https://shobon2019.hatenablog.com/entry/2024/04/01/103336) - [shobonvip](https://atcoder.jp/users/shobonvip)さんが、2024年4月1日に公開。
