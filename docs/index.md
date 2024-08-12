@@ -67,17 +67,6 @@
     - 「[Q3: コンテストは、いつ開催されていますか?](for_beginners/question3)」ページ
         - [コンテスト体制の変更について](https://atcoder.jp/posts/1280)
 
-=== "ユーザスクリプト"
-
-    2024-07-29
-
-    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
-        - [AtCoder Navbar Restrictor](https://greasyfork.org/ja/scripts/501929-atcoder-navbar-restrictor)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_navbar_restrictor.png" alt="atcoder navbar restrictor">
-    </div>
-
 === "記事"
 
     2024-08-10
@@ -131,6 +120,11 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2024-08-13
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [hiikunZ](https://atcoder.jp/users/hiikunZ)さん - [はてなブログ](https://hiikunz.hatenablog.com/)
+
     2024-08-01
 
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
@@ -151,6 +145,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2024-08-13
+
+    - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
+        - [hiikunZ](https://atcoder.jp/users/hiikunZ)さん - [AtCoder 橙色になりました - hiikunZのブログ](https://hiikunz.hatenablog.com/entry/achieve-orange)
 
     2024-07-30
 
