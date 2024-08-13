@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-08-14
+
+- [#8725](https://github.com/KATO-Hiro/AtCoderClans/pull/8725) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[nashisandesu](https://atcoder.jp/users/nashisandesu)さんの[記事](https://qiita.com/nashisan/items/a4b31077e582bb9efc04)を追加。
+
 ### 2024-08-13
 
 - [#8720](https://github.com/KATO-Hiro/AtCoderClans/pull/8720) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
