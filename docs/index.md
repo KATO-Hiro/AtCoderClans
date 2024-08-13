@@ -146,15 +146,15 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2024-08-14
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [nashisandesu](https://atcoder.jp/users/nashisandesu)さん - [競プロのすすめ　挫折を繰り返したのち一年続けて良かったこと (本サイト運営者による注:水色コーダー達成に関する内容を含む)](https://qiita.com/nashisan/items/a4b31077e582bb9efc04)
+
     2024-08-13
 
     - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
         - [hiikunZ](https://atcoder.jp/users/hiikunZ)さん - [AtCoder 橙色になりました - hiikunZのブログ](https://hiikunz.hatenablog.com/entry/achieve-orange)
-
-    2024-07-30
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [june193](https://atcoder.jp/users/june193)さん - [プログラミング初心者の40代おじさんが3年半かけてAtCoder水色になった話(色変記事)](https://qiita.com/june19312/items/4a714b772f04f44c1877)
 
 === "国内外のコンテストサイト"
 
