@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-08-16
+
+- [#8732](https://github.com/KATO-Hiro/AtCoderClans/pull/8732) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事・ツイートを追加。
+    - [切り上げ処理 〜 (a + b - 1) / b とは何か 〜](https://drken1215.hatenablog.com/entry/2024/08/12/201231)
+    - [a / b の切り上げ処理が (a + b - 1) / b でうまくいく絵本](https://x.com/burioden/status/1823675946974716166)
+
 ### 2024-08-15
 
 - [#8730](https://github.com/KATO-Hiro/AtCoderClans/pull/8730) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
