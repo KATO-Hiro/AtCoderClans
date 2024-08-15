@@ -60,13 +60,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "入門者・初心者向けの内容"
-
-    2024-07-31
-
-    - 「[Q3: コンテストは、いつ開催されていますか?](for_beginners/question3)」ページ
-        - [コンテスト体制の変更について](https://atcoder.jp/posts/1280)
-
 === "記事"
 
     2024-08-10
@@ -109,14 +102,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [ALGO ARTIS プログラミングコンテスト2024 夏(AHC035)解説](https://math-gorilla.hatenablog.com/entry/2024/07/28/161631)
 
-    2024-07-31
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [「K番目に⚪︎⚪︎」のにぶたん(二分探索)への直し方](https://prd-xxx.hateblo.jp/entry/2024/07/30/000457)
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Summer - 学校ランキング (7月29日時点)](https://x.com/atcoder/status/1817799820645671410)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -149,7 +134,6 @@
     2024-08-15
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-
         - [n0ma_ru](https://atcoder.jp/users/n0ma_ru)さん - [青色になった！](https://warp-asteroid-8f6.notion.site/97f48f73432e4bb0b453178264c219f7)
 
     2024-08-14
@@ -177,12 +161,6 @@
     <div align="center">
       <img loading="lazy" src="images/related_contest_sites/ctf/alpacahack.png" alt="alpacahack">
     </div>
-
-    2024-07-31
-
-    - 「[情報オリンピック](related_contest_sites/joi_ioi)」ページ
-        - [EGOI2024 日本代表としての参加記](https://clara775.hatenablog.com/entry/2024/07/29/145535)
-        - [EGOI2024 参加記](https://a-kyopro.hatenablog.com/entry/2024/07/30/111623)
 
 === "アーカイブス"
 
