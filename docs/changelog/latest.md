@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-08-15
+
+- [#8730](https://github.com/KATO-Hiro/AtCoderClans/pull/8730) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[n0ma_ru](https://atcoder.jp/users/n0ma_ru)さんの[記事](https://warp-asteroid-8f6.notion.site/97f48f73432e4bb0b453178264c219f7)を追加。
+
 ### 2024-08-14
 
 - [#8725](https://github.com/KATO-Hiro/AtCoderClans/pull/8725) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
