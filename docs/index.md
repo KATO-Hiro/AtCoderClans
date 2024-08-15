@@ -62,6 +62,12 @@
 
 === "記事"
 
+    2024-08-16
+
+    - 「[数学を学ぶ](articles/math)」ページ
+        - [切り上げ処理 〜 (a + b - 1) / b とは何か 〜](https://drken1215.hatenablog.com/entry/2024/08/12/201231)
+        - [a / b の切り上げ処理が (a + b - 1) / b でうまくいく絵本](https://x.com/burioden/status/1823675946974716166)
+
     2024-08-10
 
     - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
@@ -97,11 +103,6 @@
     - 「[プログラミング言語を学ぶ](articles/programming_languages)」ページ
         - [実践C++入門講座](https://theolizer.com/cpp-school-root/cpp-school/)
 
-    2024-08-01
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [ALGO ARTIS プログラミングコンテスト2024 夏(AHC035)解説](https://math-gorilla.hatenablog.com/entry/2024/07/28/161631)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -109,11 +110,6 @@
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [hiikunZ](https://atcoder.jp/users/hiikunZ)さん - [はてなブログ](https://hiikunz.hatenablog.com/)
-
-    2024-08-01
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [MathGorilla](https://atcoder.jp/users/MathGorilla)さん - [はてなブログ](https://math-gorilla.hatenablog.com)
 
 === "動画"
 
