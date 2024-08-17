@@ -113,6 +113,11 @@
 
 === "動画"
 
+    2024-08-17
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [π^π^π^πは整数か？【ゆっくり解説】](https://www.youtube.com/watch?v=TooFbrU-Wb4)
+
     2024-08-12
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ

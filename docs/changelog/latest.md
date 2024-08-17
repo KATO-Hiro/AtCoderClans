@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-08-17
+
+- [#8737](https://github.com/KATO-Hiro/AtCoderClans/pull/8737) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [π^π^π^πは整数か？【ゆっくり解説】](https://www.youtube.com/watch?v=TooFbrU-Wb4)
+
 ### 2024-08-16
 
 - [#8732](https://github.com/KATO-Hiro/AtCoderClans/pull/8732) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事・ツイートを追加。
