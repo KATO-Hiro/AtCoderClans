@@ -98,13 +98,13 @@
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [Cartesian Tree の実装 〜 stack を用いた O(N) 時間構築](https://drken1215.hatenablog.com/entry/2023/10/19/025800)
 
-    2024-08-03
-
-    - 「[プログラミング言語を学ぶ](articles/programming_languages)」ページ
-        - [実践C++入門講座](https://theolizer.com/cpp-school-root/cpp-school/)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2024-08-18
+
+    - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
+        - [hiro1729](https://atcoder.jp/users/hiro1729)さん - [はてなブログ](https://hiro1729.hatenablog.com/)
 
     2024-08-13
 
