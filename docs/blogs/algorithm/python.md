@@ -7,7 +7,7 @@ title: Python
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
 |chinerist|[はてなブログ](https://chineristac.hatenablog.com/)|高難易度の問題を中心にC++で実装されている回答もある。|
-|maspy|[はてなブログ](https://maspypy.com/)||
+|maspy|[はてなブログ](https://maspypy.com/)|近年の回答は、C++で実装されている|
 
 ## レーティング2400〜2799(橙色)
 
