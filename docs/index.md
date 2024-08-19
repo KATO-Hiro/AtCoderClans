@@ -93,11 +93,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Summer - 学校ランキング (8月5日時点)](https://x.com/atcoder/status/1820281059982057982)
 
-    2024-08-05
-
-    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
-        - [競技プログラミングの練習法(AtCoderレート2100突破のために)](https://shinchankosen.hatenadiary.jp/entry/2024/07/21/181817)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -131,6 +126,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2024-08-20
+
+    - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
+        - [hiro1729](https://atcoder.jp/users/hiro1729)さん - [AtCoder 入黄しました！ - hiro1729 競プロ](https://hiro1729.hatenablog.com/entry/2024/08/19/070114)
 
     2024-08-15
 
