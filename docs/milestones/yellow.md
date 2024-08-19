@@ -7,6 +7,7 @@ title: レーティング2000〜2399(黄色)
 
 ## 2024年
 
+- [AtCoder 入黄しました！ - hiro1729 競プロ](https://hiro1729.hatenablog.com/entry/2024/08/19/070114) - [hiro1729](https://atcoder.jp/users/hiro1729)さんが、2024年8月17日に達成。
 - [AtCoder 入黄](https://ripity.hatenablog.com/entry/2024/06/30/003553) - [ripity](https://atcoder.jp/users/ripity)さんが、2024年6月29日に達成。
 - [AtCoder 入黄しました！！！！！](https://hato336.hatenablog.com/entry/2024/06/09/223814) - [hato_](https://atcoder.jp/users/hato_)さんが、2024年6月8日に達成。
 - [AtCoderで入黄しました！！](https://qiita.com/nouka28/items/a8b06865331838642ff2) - [Thinkingpegasus](https://atcoder.jp/users/Thinkingpegasus)さんが、2024年5月4日に達成。
