@@ -62,6 +62,11 @@
 
 === "記事"
 
+    2024-08-19
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Summer - 学校ランキング (8月19日時点)](https://x.com/atcoder/status/1825362031178137972)
+
     2024-08-16
 
     - 「[数学を学ぶ](articles/math)」ページ
@@ -92,11 +97,6 @@
 
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
         - [競技プログラミングの練習法(AtCoderレート2100突破のために)](https://shinchankosen.hatenadiary.jp/entry/2024/07/21/181817)
-
-    2024-08-04
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [Cartesian Tree の実装 〜 stack を用いた O(N) 時間構築](https://drken1215.hatenablog.com/entry/2023/10/19/025800)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
