@@ -23,6 +23,8 @@ title: コードを書くための環境構築を行う
 
 - [AtCoderの環境を Docker で作りたい](https://qiita.com/tf63/items/c93c6f24d73599e637d8) - C++の実行環境を構築する方法が紹介されている。また、[AtCoder Library(ACL)](https://atcoder.jp/posts/517)やテストツール(atcoder-cli)の導入、各種コマンドの自動化もできる。
     - [Dockerを利用したローカルのAtCoder環境（C++）](https://zenn.dev/kinakomochi5250/articles/atcoder-cpp-docker) - テストツールにatcoder-toolsを利用している点が、上記の記事とは異なる。
+- [【GitHubスター100個突破】Pythonのprint()のC++版を本気で作ってみた](https://zenn.dev/sassan/articles/4878e79272ed61) - Pythonの`print()`やJavaScriptの`console.log()`のようにC++でデバッグ用にあらゆる変数をプリントするためのライブラリ`cpp-dump`の競プロ環境への導入方法を紹介した記事。
+    - [philip82148/cpp-dump](https://github.com/philip82148/cpp-dump) ![GitHub Repo stars](https://img.shields.io/github/stars/philip82148/cpp-dump?style=plastic) - 自動インデント機能、カスタマイズ可能な色付き出力、豊富なマニピュレータなど、多種多様な機能をそろえたあらゆる型の変数をプリントできるデバッグライブラリ。
 
 ### Go
 
