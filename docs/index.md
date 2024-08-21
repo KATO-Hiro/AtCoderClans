@@ -62,6 +62,16 @@
 
 === "記事"
 
+    2024-08-21
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+
+        <!-- markdown-link-check-disable -->
+
+        - [「CodeQUEEN 2024」決勝にスポンサーとして参加してきました！](https://note.e-seikatsu.info/n/n58a992f584f4)
+
+        <!-- markdown-link-check-enable -->
+
     2024-08-19
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -126,6 +136,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2024-08-21
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [loop0919](https://atcoder.jp/users/loop0919)さん - [【AtCoder】入青した！ので語らせて【うれしい！】](https://zenn.dev/loop0919/articles/5a66f529ba9e08)
 
     2024-08-20
 

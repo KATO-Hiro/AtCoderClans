@@ -4,6 +4,19 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-08-21
+
+- [#8762](https://github.com/KATO-Hiro/AtCoderClans/pull/8762) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
+
+    <!-- markdown-link-check-disable -->
+
+    - [「CodeQUEEN 2024」決勝にスポンサーとして参加してきました！](https://note.e-seikatsu.info/n/n58a992f584f4)
+
+    <!-- markdown-link-check-enable -->
+
+- [#8761](https://github.com/KATO-Hiro/AtCoderClans/pull/8761) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[loop0919](https://atcoder.jp/users/loop0919)さんの[記事](https://zenn.dev/loop0919/articles/5a66f529ba9e08)を追加。
+
 ### 2024-08-20
 
 - [#8756](https://github.com/KATO-Hiro/AtCoderClans/pull/8756) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
