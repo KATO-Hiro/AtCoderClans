@@ -38,7 +38,7 @@ title: 部活・サークル・同好会・オンサイトイベントに参加�
 
 <!-- markdown-link-check-disable -->
 
-- [「CodeQUEEN 2024」決勝にスポンサーとして参加してきました！](https://note.e-seikatsu.info/n/n58a992f584f4) - 昨年に続き、[CodeQUEEN 2024 決勝](https://atcoder.jp/contests/codequeen2024-final-N9tn8QqD)の協賛者が当日を振り返った記事。主にコンテストの表彰式・懇親会に言及している。
+- [「CodeQUEEN 2024」決勝にスポンサーとして参加してきました！](https://note.e-seikatsu.info/n/n58a992f584f4) - 昨年に続き、[CodeQUEEN 2024 決勝](https://atcoder.jp/contests/codequeen2024-final-N9tn8QqD)の協賛者が当日を振り返った記事。主にコンテストの表彰式・懇親会について言及している。
 
 <!-- markdown-link-check-enable -->
 
