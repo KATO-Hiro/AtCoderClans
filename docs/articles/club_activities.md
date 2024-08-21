@@ -36,8 +36,14 @@ title: 部活・サークル・同好会・オンサイトイベントに参加�
 
 ### CodeQUEEN 2024
 
-- [CodeQUEEN 2024参加記](https://momoharahara.hatenadiary.com/entry/2024/08/07/122348) - [CodeQUEEN 2024 決勝](https://atcoder.jp/contests/codequeen2024-final-N9tn8QqD)の参加記。本番までの練習内容・コンテスト当日の振り返り・各種イベント・オフ会などについてまとめられている。
+<!-- markdown-link-check-disable -->
+
+- [「CodeQUEEN 2024」決勝にスポンサーとして参加してきました！](https://note.e-seikatsu.info/n/n58a992f584f4) - 昨年に続き、[CodeQUEEN 2024 決勝](https://atcoder.jp/contests/codequeen2024-final-N9tn8QqD)の協賛者が当日を振り返った記事。主にコンテストの表彰式・懇親会に言及されている。
+
+<!-- markdown-link-check-enable -->
+
 - [総勢217名の女性競技プログラマーが参加　女性競技プログラミングコンテスト「CodeQUEEN」結果発表](https://prtimes.jp/main/html/rd/p/000000048.000028415.html) - 同コンテストの開催経緯と優勝者・上位入賞者のコメントがまとめられている。
+- [CodeQUEEN 2024参加記](https://momoharahara.hatenadiary.com/entry/2024/08/07/122348) - [CodeQUEEN 2024 決勝](https://atcoder.jp/contests/codequeen2024-final-N9tn8QqD)の参加記。本番までの練習内容・コンテスト当日の振り返り・各種イベント・オフ会などについてまとめられている。
 
 ### UTPC 2023
 
