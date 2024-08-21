@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-08-22
+
+- [#8767](https://github.com/KATO-Hiro/AtCoderClans/pull/8767) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[soutome](https://atcoder.jp/users/soutome)さんの[記事](https://qiita.com/W0VKS1Cm8hwomGk/items/6a8910bcf5cb9439cec9)を追加。
+
 ### 2024-08-21
 
 - [#8762](https://github.com/KATO-Hiro/AtCoderClans/pull/8762) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
