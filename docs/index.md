@@ -137,6 +137,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2024-08-22
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [soutome](https://atcoder.jp/users/soutome)さん - [AtCoder入水しました！！！！～ゼロから入水までの軌跡～](https://qiita.com/W0VKS1Cm8hwomGk/items/6a8910bcf5cb9439cec9)
+
     2024-08-21
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
@@ -168,23 +173,6 @@
 
     - 「[機械学習系コンテスト](related_contest_sites/machine_learning)」ページ
         - [kaggle-template](https://github.com/unonao/kaggle-template) ![GitHub Repo stars](https://img.shields.io/github/stars/unonao/kaggle-template?style=plastic)
-
-    2024-08-06
-
-    - 「[セキュリティ系コンテスト](related_contest_sites/security)」ページ
-        - [AlpacaHack](https://alpacahack.com/)
-
-    <div align="center">
-      <img loading="lazy" src="images/related_contest_sites/ctf/alpacahack.png" alt="alpacahack">
-    </div>
-
-=== "アーカイブス"
-
-    諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
-
-    2024-08-06
-
-    - AtCoderBlogs
 
 ## AtCoder公式グッズを購入する
 
