@@ -6,6 +6,9 @@ title: Change Log
 
 ### 2024-08-22
 
+- [#8770](https://github.com/KATO-Hiro/AtCoderClans/pull/8770) - [philip82148](https://github.com/philip82148)さんのプルリクエストにより、「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事とデバッグツールを追加。
+    - [【GitHubスター100個突破】Pythonのprint()のC++版を本気で作ってみた](https://zenn.dev/sassan/articles/4878e79272ed61)
+        - [philip82148/cpp-dump](https://github.com/philip82148/cpp-dump) ![GitHub Repo stars](https://img.shields.io/github/stars/philip82148/cpp-dump?style=plastic)
 - [#8767](https://github.com/KATO-Hiro/AtCoderClans/pull/8767) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
     - レーティング1200から1599まで(水色)に[soutome](https://atcoder.jp/users/soutome)さんの[記事](https://qiita.com/W0VKS1Cm8hwomGk/items/6a8910bcf5cb9439cec9)を追加。
 

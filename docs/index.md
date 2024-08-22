@@ -62,6 +62,12 @@
 
 === "記事"
 
+    2024-08-22
+
+    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
+        - [【GitHubスター100個突破】Pythonのprint()のC++版を本気で作ってみた](https://zenn.dev/sassan/articles/4878e79272ed61)
+            - [philip82148/cpp-dump](https://github.com/philip82148/cpp-dump) ![GitHub Repo stars](https://img.shields.io/github/stars/philip82148/cpp-dump?style=plastic)
+
     2024-08-21
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
