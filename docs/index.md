@@ -104,11 +104,6 @@
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
         - [CodeQUEEN 2024参加記](https://momoharahara.hatenadiary.com/entry/2024/08/07/122348)
 
-    2024-08-07
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Summer - 学校ランキング (8月5日時点)](https://x.com/atcoder/status/1820281059982057982)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -143,6 +138,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2024-08-23
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [jupiter_68](https://atcoder.jp/users/jupiter_68)さん - [AtCoderで水色コーダーになりました](https://trap.jp/post/2310/)
+
     2024-08-22
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
@@ -172,13 +172,6 @@
 
     - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
         - [hiikunZ](https://atcoder.jp/users/hiikunZ)さん - [AtCoder 橙色になりました - hiikunZのブログ](https://hiikunz.hatenablog.com/entry/achieve-orange)
-
-=== "国内外のコンテストサイト"
-
-    2024-08-07
-
-    - 「[機械学習系コンテスト](related_contest_sites/machine_learning)」ページ
-        - [kaggle-template](https://github.com/unonao/kaggle-template) ![GitHub Repo stars](https://img.shields.io/github/stars/unonao/kaggle-template?style=plastic)
 
 ## AtCoder公式グッズを購入する
 
