@@ -4,6 +4,7 @@ title: レーティング1200〜1599(水色)
 
 ## 2024年
 
+- [AtCoderで水色コーダーになりました](https://trap.jp/post/2310/) - [jupiter_68](https://atcoder.jp/users/jupiter_68)さんが、2024年8月22日に公開。
 - [AtCoder入水しました！！！！～ゼロから入水までの軌跡～](https://qiita.com/W0VKS1Cm8hwomGk/items/6a8910bcf5cb9439cec9) - [soutome](https://atcoder.jp/users/soutome)さんが、2024年8月17日に達成。
 - [競プロのすすめ　挫折を繰り返したのち一年続けて良かったこと (本サイト運営者による注:水色コーダー達成に関する内容を含む)](https://qiita.com/nashisan/items/a4b31077e582bb9efc04) - [nashisandesu](https://atcoder.jp/users/nashisandesu)さんが、2024年8月12日に公開。
 - [プログラミング初心者の40代おじさんが3年半かけてAtCoder水色になった話(色変記事)](https://qiita.com/june19312/items/4a714b772f04f44c1877) - [june193](https://atcoder.jp/users/june193)さんが、2024年7月27日に達成。
