@@ -54,7 +54,13 @@ title: Codeforces
 
 #### 統計情報を見る
 
-- [Codeforces Stats](https://github.com/SiriusKoan/codeforces-stats) - ユーザの統計情報をREADMEなどに表示することができる。
+- [Codeforces Readme Stats](https://codeforces-readme-stats.vercel.app/) - 任意のユーザのレーティング（現在・最高）、提出数、コントリビューション数、フレンド数などをREADMEに表示できる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/related_contest_sites/codeforces/codeforces_readme_stats.png" alt="codeforces readme stats">
+    </div>
+
+- [Codeforces Stats](https://github.com/SiriusKoan/codeforces-stats) - ユーザのレーティング（現在・最高）、コントリビューション数、フレンド数をREADMEなどに表示することができる。
 
     <div align="center">
       <img loading = "lazy" src="../../images/related_contest_sites/codeforces/codeforces_stats.png" alt="codeforces stats">
