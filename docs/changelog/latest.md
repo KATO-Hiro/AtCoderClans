@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-08-24
+
+- [#8780](https://github.com/KATO-Hiro/AtCoderClans/pull/8780) - 「[Related Contest Sites](../../related_contest_sites)」の「[Codeforces](../../related_contest_sites/codeforces)」ページに、以下のWebアプリを追加。
+    - [Codeforces Readme Stats](https://codeforces-readme-stats.vercel.app/)
+
 ### 2024-08-23
 
 - [#8775](https://github.com/KATO-Hiro/AtCoderClans/pull/8775) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
