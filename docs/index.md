@@ -94,16 +94,6 @@
     - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
         - [AtCoderで使えるRustのクレートについて調べてみた](https://horologe.hatenablog.jp/entry/2024/03/28/220044)
 
-    2024-08-09
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-        - [総勢217名の女性競技プログラマーが参加　女性競技プログラミングコンテスト「CodeQUEEN」結果発表](https://prtimes.jp/main/html/rd/p/000000048.000028415.html)
-
-    2024-08-08
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-        - [CodeQUEEN 2024参加記](https://momoharahara.hatenadiary.com/entry/2024/08/07/122348)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -172,6 +162,17 @@
 
     - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
         - [hiikunZ](https://atcoder.jp/users/hiikunZ)さん - [AtCoder 橙色になりました - hiikunZのブログ](https://hiikunz.hatenablog.com/entry/achieve-orange)
+
+=== "国内外のコンテストサイト"
+
+    2024-08-24
+
+    - 「[Codeforces](related_contest_sites/codeforces)」ページ
+        - [Codeforces Readme Stats](https://codeforces-readme-stats.vercel.app/)
+
+    <div align="center">
+      <img loading="lazy" src="images/related_contest_sites/codeforces/codeforces_readme_stats.png" alt="codeforces readme stats">
+    </div>
 
 ## AtCoder公式グッズを購入する
 
