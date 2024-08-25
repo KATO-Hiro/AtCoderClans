@@ -60,6 +60,12 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "ホーム"
+
+    2024-08-25
+
+    - [アドバイスするねこ - 競プロするねこ](https://github.com/burioden/kyopro-neko/tree/main/advice_neko)
+
 === "記事"
 
     2024-08-22
@@ -164,6 +170,15 @@
         - [hiikunZ](https://atcoder.jp/users/hiikunZ)さん - [AtCoder 橙色になりました - hiikunZのブログ](https://hiikunz.hatenablog.com/entry/achieve-orange)
 
 === "国内外のコンテストサイト"
+
+    2024-08-25
+
+    - 「[AIプロセッサー（アクセラレータ）系コンテスト](related_contest_sites/ai_accelerator)」ページ
+        - [MN-Core Challenge](https://mncore-challenge.preferred.jp/)
+
+    <div align="center">
+      <img loading="lazy" src="images/related_contest_sites/mn_core_challenge/mn_core_challenge.png" alt="mn core challenge">
+    </div>
 
     2024-08-24
 
