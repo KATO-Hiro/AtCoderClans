@@ -23,6 +23,7 @@ title: Related Contest Sites - はじめに
 - [数学系コンテスト](./math)
 - [パズル・クイズ系コンテスト](./puzzle_quiz)
 - [機械学習系コンテスト](./machine_learning)
+- [AIプロセッサー（アクセラレータ）系コンテスト](./ai_accelerator)
 - [データベース系コンテスト](./db)
 - [Webサービス系コンテスト](./web_services)
 - [セキュリティ系コンテスト](./security)
