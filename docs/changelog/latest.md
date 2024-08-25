@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-08-25
+
+- [#8791](https://github.com/KATO-Hiro/AtCoderClans/pull/8791) - 「[Related Contest Sites](../../related_contest_sites)」の「[AIプロセッサー（アクセラレータ）系コンテスト](../../related_contest_sites/ai_accelerator)」ページに、以下のコンテストサイトを追加。
+    - [MN-Core Challenge](https://mncore-challenge.preferred.jp/)
+- [#8790](https://github.com/KATO-Hiro/AtCoderClans/pull/8790) - 「[Home](../../)」ページで掲載している「[競プロLINEスタンプ](https://store.line.me/stickershop/product/22113834/en)」の説明文を更新。以下のリンクを追加。
+    - [アドバイスするねこ](https://github.com/burioden/kyopro-neko/tree/main/advice_neko)
+
 ### 2024-08-24
 
 - [#8780](https://github.com/KATO-Hiro/AtCoderClans/pull/8780) - 「[Related Contest Sites](../../related_contest_sites)」の「[Codeforces](../../related_contest_sites/codeforces)」ページに、以下のWebアプリを追加。
