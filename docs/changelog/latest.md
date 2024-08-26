@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-08-27
+
+- [#8799](https://github.com/KATO-Hiro/AtCoderClans/pull/8799) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [2本の交わらない線で点を結べるか？【ゆっくり解説】](https://www.youtube.com/watch?v=FnMgl2z86qo)
+
 ### 2024-08-26
 
 - [#8796](https://github.com/KATO-Hiro/AtCoderClans/pull/8796) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
