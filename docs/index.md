@@ -115,15 +115,15 @@
 
 === "動画"
 
+    2024-08-27
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [2本の交わらない線で点を結べるか？【ゆっくり解説】](https://www.youtube.com/watch?v=FnMgl2z86qo)
+
     2024-08-17
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [π^π^π^πは整数か？【ゆっくり解説】](https://www.youtube.com/watch?v=TooFbrU-Wb4)
-
-    2024-08-12
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [20人の囚人と12個の箱【ゆっくり解説】](https://www.youtube.com/watch?v=gLHWaYhssXY)
 
 === "色変記事"
 
