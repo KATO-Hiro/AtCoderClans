@@ -68,6 +68,11 @@
 
 === "記事"
 
+    2024-08-26
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Summer - 学校ランキング (8月26日時点)](https://x.com/atcoder/status/1827887897418387898)
+
     2024-08-22
 
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
@@ -95,11 +100,6 @@
         - [切り上げ処理 〜 (a + b - 1) / b とは何か 〜](https://drken1215.hatenablog.com/entry/2024/08/12/201231)
         - [a / b の切り上げ処理が (a + b - 1) / b でうまくいく絵本](https://x.com/burioden/status/1823675946974716166)
 
-    2024-08-10
-
-    - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
-        - [AtCoderで使えるRustのクレートについて調べてみた](https://horologe.hatenablog.jp/entry/2024/03/28/220044)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -124,11 +124,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [20人の囚人と12個の箱【ゆっくり解説】](https://www.youtube.com/watch?v=gLHWaYhssXY)
-
-    2024-08-11
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [【競技プログラミング】AtCoder緑色あるある【愚痴多め】](https://www.youtube.com/watch?v=oLaD-gJ5bhs)
 
 === "色変記事"
 
