@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-08-28
+
+- [#8803](https://github.com/KATO-Hiro/AtCoderClans/pull/8803) - 「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
+    - [rainbou-kpr/library](https://github.com/rainbou-kpr/library) ![GitHub stars](https://img.shields.io/github/stars/rainbou-kpr/library?style=plastic)
+
 ### 2024-08-27
 
 - [#8799](https://github.com/KATO-Hiro/AtCoderClans/pull/8799) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。

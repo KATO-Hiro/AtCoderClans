@@ -108,11 +108,6 @@
     - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
         - [hiro1729](https://atcoder.jp/users/hiro1729)さん - [はてなブログ](https://hiro1729.hatenablog.com/)
 
-    2024-08-13
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [hiikunZ](https://atcoder.jp/users/hiikunZ)さん - [はてなブログ](https://hiikunz.hatenablog.com/)
-
 === "動画"
 
     2024-08-27
@@ -124,6 +119,13 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [π^π^π^πは整数か？【ゆっくり解説】](https://www.youtube.com/watch?v=TooFbrU-Wb4)
+
+=== "ライブラリ・スニペット"
+
+    2024-08-28
+
+    - 「[C++](libraries/cpp)」ページ
+        - [rainbou-kpr/library](https://github.com/rainbou-kpr/library) ![GitHub stars](https://img.shields.io/github/stars/rainbou-kpr/library?style=plastic)
 
 === "色変記事"
 
@@ -158,11 +160,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [nashisandesu](https://atcoder.jp/users/nashisandesu)さん - [競プロのすすめ　挫折を繰り返したのち一年続けて良かったこと (本サイト運営者による注:水色コーダー達成に関する内容を含む)](https://qiita.com/nashisan/items/a4b31077e582bb9efc04)
-
-    2024-08-13
-
-    - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
-        - [hiikunZ](https://atcoder.jp/users/hiikunZ)さん - [AtCoder 橙色になりました - hiikunZのブログ](https://hiikunz.hatenablog.com/entry/achieve-orange)
 
 === "国内外のコンテストサイト"
 
