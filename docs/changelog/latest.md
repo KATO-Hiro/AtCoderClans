@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-08-29
+
+- [#8808](https://github.com/KATO-Hiro/AtCoderClans/pull/8808) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
+    - [CodeQUEEN2024で優勝しました](https://www.forcia.com/blog/002983.html)
+
 ### 2024-08-28
 
 - [#8803](https://github.com/KATO-Hiro/AtCoderClans/pull/8803) - 「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
