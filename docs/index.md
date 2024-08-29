@@ -68,6 +68,11 @@
 
 === "記事"
 
+    2024-08-29
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [CodeQUEEN2024で優勝しました](https://www.forcia.com/blog/002983.html)
+
     2024-08-26
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -155,11 +160,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [n0ma_ru](https://atcoder.jp/users/n0ma_ru)さん - [青色になった！](https://warp-asteroid-8f6.notion.site/97f48f73432e4bb0b453178264c219f7)
-
-    2024-08-14
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [nashisandesu](https://atcoder.jp/users/nashisandesu)さん - [競プロのすすめ　挫折を繰り返したのち一年続けて良かったこと (本サイト運営者による注:水色コーダー達成に関する内容を含む)](https://qiita.com/nashisan/items/a4b31077e582bb9efc04)
 
 === "国内外のコンテストサイト"
 
