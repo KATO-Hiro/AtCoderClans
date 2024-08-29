@@ -43,6 +43,7 @@ title: 部活・サークル・同好会・オンサイトイベントに参加�
 <!-- markdown-link-check-enable -->
 
 - [総勢217名の女性競技プログラマーが参加　女性競技プログラミングコンテスト「CodeQUEEN」結果発表](https://prtimes.jp/main/html/rd/p/000000048.000028415.html) - 同コンテストの開催経緯と優勝者・上位入賞者のコメントがまとめられている。
+- [CodeQUEEN2024で優勝しました](https://www.forcia.com/blog/002983.html) - 同コンテストの優勝者が当日を振り返った参加記。配点に基づいた戦略・各問題の図解に加え、スポンサー活動にも言及されている。
 - [CodeQUEEN 2024参加記](https://momoharahara.hatenadiary.com/entry/2024/08/07/122348) - [CodeQUEEN 2024 決勝](https://atcoder.jp/contests/codequeen2024-final-N9tn8QqD)の参加記。本番までの練習内容・コンテスト当日の振り返り・各種イベント・オフ会などについてまとめられている。
 
 ### UTPC 2023
