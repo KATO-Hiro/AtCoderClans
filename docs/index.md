@@ -156,11 +156,6 @@
     - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
         - [hiro1729](https://atcoder.jp/users/hiro1729)さん - [AtCoder 入黄しました！ - hiro1729 競プロ](https://hiro1729.hatenablog.com/entry/2024/08/19/070114)
 
-    2024-08-15
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [n0ma_ru](https://atcoder.jp/users/n0ma_ru)さん - [青色になった！](https://warp-asteroid-8f6.notion.site/97f48f73432e4bb0b453178264c219f7)
-
 === "国内外のコンテストサイト"
 
     2024-08-25

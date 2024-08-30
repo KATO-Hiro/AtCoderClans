@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-08-30
+
+- [#8811](https://github.com/KATO-Hiro/AtCoderClans/pull/8811) - (破壊的な変更) 「[Change Log](../latest)」ページの2024年7月分を月別のアーカイブに移動。
+    - [July, 2024](../2024_07)
+
 ### 2024-08-29
 
 - [#8808](https://github.com/KATO-Hiro/AtCoderClans/pull/8808) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
