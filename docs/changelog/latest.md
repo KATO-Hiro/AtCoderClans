@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-08-31
+
+- [#8814](https://github.com/KATO-Hiro/AtCoderClans/pull/8814) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページに、以下のWebアプリを追加。
+    - [deviation](https://atcoder-notify.com/deviation/)
+
 ### 2024-08-30
 
 - [#8811](https://github.com/KATO-Hiro/AtCoderClans/pull/8811) - (破壊的な変更) 「[Change Log](../latest)」ページの2024年7月分を月別のアーカイブに移動。
