@@ -31,6 +31,14 @@ title: コンテストに関する統計情報
       <img loading = "lazy" src="../../images/web_app/ac_counter.png" alt="ac counter">
     </div>
 
+### 偏差値
+
+- [deviation](https://atcoder-notify.com/deviation/) -　任意のユーザもしくは特定のレーティングに基づいた偏差値（アルゴリズム部門・ヒューリスティック部門）を表示する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/deviation.png" alt="deviation">
+    </div>
+
 ### 成績の推移
 
 - [AtCoder Heuristic Contest Statistics (AHC-stats)](https://ahc-stats.vercel.app) - [AtCoder Heuristic Contest (AHC)](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=)のパフォーマンス値・レーティングの推移、アルゴリズム部門とヒューリスティック部門のレーティングの相関などを見ることができる。
