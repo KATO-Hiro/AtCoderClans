@@ -66,6 +66,17 @@
 
     - [アドバイスするねこ - 競プロするねこ](https://github.com/burioden/kyopro-neko/tree/main/advice_neko)
 
+=== "Webアプリ・Webサイト"
+
+    2024-08-31
+
+    - 「[コンテストに関する統計情報](web_app/statistics)」ページ
+        - [deviation](https://atcoder-notify.com/deviation/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/deviation.png" alt="deviation">
+    </div>
+
 === "記事"
 
     2024-08-29
@@ -98,12 +109,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Summer - 学校ランキング (8月19日時点)](https://x.com/atcoder/status/1825362031178137972)
-
-    2024-08-16
-
-    - 「[数学を学ぶ](articles/math)」ページ
-        - [切り上げ処理 〜 (a + b - 1) / b とは何か 〜](https://drken1215.hatenablog.com/entry/2024/08/12/201231)
-        - [a / b の切り上げ処理が (a + b - 1) / b でうまくいく絵本](https://x.com/burioden/status/1823675946974716166)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
