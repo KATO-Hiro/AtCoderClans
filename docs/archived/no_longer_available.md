@@ -136,9 +136,16 @@ title: 開発・提供終了
 
 ### コンテストの成績に関連するサービス
 
+- [AtCoder Rating Simulator](https://atcoder-rating-simulator.dt.r.appspot.com/) - 目標とするレーティングに到達するまでに必要なパフォーマンスを表示する。任意の回数だけ同じパフォーマンスを取ったと仮定した場合についても計算できる。
+    - 理由: 記載なし。
+    - 代替手段: [AtCoder Rating Simulator(仮)](https://atcoder-notify.com/rating_simulator/)を利用する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_rating_simulator_web.png" alt="atcoder rating simulator web">
+
 - [AtCoder Rating Simulator](https://twitter.com/AtCoderRS) - Ratedコンテスト当日に、所定のレーティングに到達するのに必要なパフォーマンスを自動返信するTwitter Bot。
     - 理由: 開発者により、Twitterアカウントの運用終了が告知されたため([出典](https://twitter.com/AtCoderRS/status/1323666246173413376))。
-    - 代替手段: 同名の[Webページ版](https://atcoderratingsimulator.herokuapp.com/)を利用する。
+    - 代替手段: [AtCoder Rating Simulator(仮)](https://atcoder-notify.com/rating_simulator/)を利用する。
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_rating_simulator.png" alt="atcoder rating simulator">
