@@ -57,6 +57,7 @@ title: 数学を学ぶ
     - [エラトステネスの篩の高速化](https://qiita.com/peria/items/a4ff4ddb3336f7b81d50) - さまざまな方法でエラトステネスの篩の高速化・省メモリ化が図られている(全6回)。実装例は、C++11。
 - [ミラー・ラビン素数判定法](https://drive.google.com/file/d/1ytqMuPhmxhE2loMZL1HOJ3l2iaLCv4tz/view) - 素数を判定するアルゴリズムの概略と証明が掲載されているスライド。
 - [Prime CountのPDFを書きました](https://tk0-math.hatenablog.com/entry/2020/04/16/181024) - 素数の個数を求めるアルゴリズムであるMeissel-Lehmer Algorithmとその高速化方法について紹介した記事。
+- [線形篩で遊ぼう](https://rsk0315.hatenablog.com/entry/2024/08/25/194341) - 線形時間で前計算を行い素数の判定・列挙を高速に処理する方法と、その応用例が紹介されている。
 - [素数に関する上からの評価（初等的な証明）](https://maspypy.com/%e7%b4%a0%e6%95%b0%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e4%b8%8a%e3%81%8b%e3%82%89%e3%81%ae%e8%a9%95%e4%be%a1%ef%bc%88%e5%88%9d%e7%ad%89%e7%9a%84%e3%81%aa%e8%a8%bc%e6%98%8e%ef%bc%89) - 素数の個数や逆数和の計算量評価のうち、「弱い評価」について証明した記事。
 
 ### 最大公約数
