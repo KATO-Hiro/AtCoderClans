@@ -79,6 +79,11 @@
 
 === "記事"
 
+    2024-09-01
+
+    - 「[数学を学ぶ](articles/math)」ページ
+        - [線形篩で遊ぼう](https://rsk0315.hatenablog.com/entry/2024/08/25/194341)
+
     2024-08-29
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
@@ -124,11 +129,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [2本の交わらない線で点を結べるか？【ゆっくり解説】](https://www.youtube.com/watch?v=FnMgl2z86qo)
-
-    2024-08-17
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [π^π^π^πは整数か？【ゆっくり解説】](https://www.youtube.com/watch?v=TooFbrU-Wb4)
 
 === "ライブラリ・スニペット"
 
