@@ -13,7 +13,7 @@ title: "Q8: 脱初心者に向けて、次は何をすればいいですか?"
 - コンテストで目標とする成績(パフォーマンス値)を設定してみましょう。有志が公開している[Webサービス](https://atcoder-notify.com/rating_simulator/)を利用すると、簡単に計算できます。
 
     <div align="center">
-      <img loading="lazy" src="../../images/web_app/atcoder_rating_simulator2.png" alt="atcoder rating estimator">
+      <img loading="lazy" src="../../images/web_app/atcoder_rating_simulator2.png" alt="atcoder rating simulator">
     </div>
 
 - また、コンテスト開催中に[参加者のパフォーマンス値の推定値をリアルタイムで見られるスクリプト](https://greasyfork.org/ja/scripts/369954-ac-predictor)が公開されています。下の図は、左側がパフォーマンス値を、右側がレーティングの変動と前回との差分をそれぞれ表しています。
