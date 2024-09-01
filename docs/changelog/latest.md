@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-09-01
+
+- [#8821](https://github.com/KATO-Hiro/AtCoderClans/pull/8821) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
+    - [線形篩で遊ぼう](https://rsk0315.hatenablog.com/entry/2024/08/25/194341)
+
 ### 2024-08-31
 
 - [#8814](https://github.com/KATO-Hiro/AtCoderClans/pull/8814) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページに、以下のWebアプリを追加。
