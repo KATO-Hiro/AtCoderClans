@@ -124,14 +124,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Summer - 学校ランキング (8月19日時点)](https://x.com/atcoder/status/1825362031178137972)
 
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2024-08-18
-
-    - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
-        - [hiro1729](https://atcoder.jp/users/hiro1729)さん - [はてなブログ](https://hiro1729.hatenablog.com/)
-
 === "動画"
 
     2024-08-27
