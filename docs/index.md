@@ -88,6 +88,11 @@
 
 === "記事"
 
+    2024-09-03
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Summer - 学校ランキング (9月2日時点)](https://x.com/atcoder/status/1830437147792613885)
+
     2024-09-01
 
     - 「[数学を学ぶ](articles/math)」ページ
@@ -118,11 +123,6 @@
         - [「CodeQUEEN 2024」決勝にスポンサーとして参加してきました！](https://note.e-seikatsu.info/n/n58a992f584f4)
 
         <!-- markdown-link-check-enable -->
-
-    2024-08-19
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Summer - 学校ランキング (8月19日時点)](https://x.com/atcoder/status/1825362031178137972)
 
 === "動画"
 
