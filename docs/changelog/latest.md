@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-09-02
+
+- [#8829](https://github.com/KATO-Hiro/AtCoderClans/pull/8829) - (破壊的な変更) リンク切れと思われる記事、ブログを一時的に「[Archives](../../archived)」ページに移動。
+- [#8825](https://github.com/KATO-Hiro/AtCoderClans/pull/8825) - (破壊的な変更) 「[Web apps and sites](../../web_app)」の「[コンテストの成績に関連するサービス](../../web_app/services_using_scores)」ページで掲載しているWebアプリがリンク切れと思われるため、一時的に「[Archives](../../archived)」ページに移動。また、ほぼ同等の機能を有する代替アプリを追加。
+    - [AtCoder Rating Simulator(仮)](https://atcoder-notify.com/rating_simulator/)
+
 ### 2024-09-01
 
 - [#8821](https://github.com/KATO-Hiro/AtCoderClans/pull/8821) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。

@@ -68,6 +68,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2024-09-02
+
+    - 「[コンテストの成績に関連するサービス](web_app/services_using_scores)」ページ
+        - [AtCoder Rating Simulator(仮)](https://atcoder-notify.com/rating_simulator/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/atcoder_rating_simulator2.png" alt="atcoder rating simulator">
+    </div>
+
     2024-08-31
 
     - 「[コンテストに関する統計情報](web_app/statistics)」ページ
@@ -114,14 +123,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Summer - 学校ランキング (8月19日時点)](https://x.com/atcoder/status/1825362031178137972)
-
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2024-08-18
-
-    - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
-        - [hiro1729](https://atcoder.jp/users/hiro1729)さん - [はてなブログ](https://hiro1729.hatenablog.com/)
 
 === "動画"
 
@@ -179,6 +180,18 @@
 
     <div align="center">
       <img loading="lazy" src="images/related_contest_sites/codeforces/codeforces_readme_stats.png" alt="codeforces readme stats">
+    </div>
+
+=== "アーカイブス"
+
+    諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2024-09-02
+
+    - AtCoder Rating Simulator
+
+    <div align="center">
+      <img loading = "lazy" src="images/web_app/atcoder_rating_simulator_web.png" alt="atcoder rating simulator web">
     </div>
 
 ## AtCoder公式グッズを購入する
