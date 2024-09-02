@@ -50,6 +50,9 @@
     },
     {
       "pattern": "^https://www.codechef.com/"
+    },
+    {
+      "pattern": "^https://archive.topcoder.com/"
     }
   ],
   "httpHeaders": [
