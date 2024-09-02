@@ -208,6 +208,8 @@ title: リンク切れ
 
 ## ブログ
 
+- [はてなブログ - RheoTommy](https://rheotommy.hatenablog.com/)
+    - 確認した日: 2024/09/02
 - [自作ブログ - colun](http://www.colun.net/blog)
     - 確認した日: 2024/07/24
 - [自作ブログ - ninja7](https://melting.love/blog/)

@@ -26,6 +26,5 @@ title: Rust
 |kenkoooo|[はてなブログ](https://kenkoooo.hatenablog.com/)||
 |koyumeishi|[はてなブログ](https://koyumeishi.hatenablog.com/)||
 |magurofly|[GitHub Pages](https://magurofly.github.io/)|Rubyで実装されている回答もある。|
-|RheoTommy|[はてなブログ](https://rheotommy.hatenablog.com/)||
 |rsk0315|[はてなブログ](https://rsk0315.hatenablog.com/)、[GitHub Pages](https://rsk0315.github.io/links/)||
 |wata|[はてなブログ](https://wata-orz.hatenablog.com/)|2019年8月以降、新規の記事を確認できず。|
