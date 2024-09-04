@@ -55,6 +55,12 @@ title: コンテストに関する統計情報
       <img loading = "lazy" src="../../images/web_app/ahc_standings.png" alt="ahc standings">
     </div>
 
+- [AHC statistics](https://siman-man.github.io/ahc_statistics/) - 長期コンテストのシステムテストの結果に基づいて、パラメータ別の得点・順位が集計されている。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/ahc_statistics.png" alt="ahc statistics">
+    </div>
+
 - [scorerun](https://siman-man.github.io/scorerun/index.html) - 各コンテストで1位となったユーザの得点と提出コードの一覧を表示する。延長戦の有無別に集計されている。
 
     <div align="center">
