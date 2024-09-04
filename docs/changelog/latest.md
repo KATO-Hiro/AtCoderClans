@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-09-04
+
+- [#8843](https://github.com/KATO-Hiro/AtCoderClans/pull/8843) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページに、以下のWebサイトを追加。
+    - [AHC statistics](https://siman-man.github.io/ahc_statistics/)
+- [#8841](https://github.com/KATO-Hiro/AtCoderClans/pull/8841) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [RECRUIT 日本橋ハーフマラソン 2024夏（AtCoder Heuristic Contest 036）参加記](https://kaede2020.hatenablog.com/entry/2024/09/02/190404)
+- [#8840](https://github.com/KATO-Hiro/AtCoderClans/pull/8840) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[tomoba](https://atcoder.jp/users/tomoba)さんの[記事](https://qiita.com/omakasessan/items/51af39959ba0b54ac0af)を追加。
+
 ### 2024-09-03
 
 - [#8832](https://github.com/KATO-Hiro/AtCoderClans/pull/8832) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
