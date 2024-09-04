@@ -4,6 +4,7 @@ title: レーティング800〜1199(緑色)
 
 ## 2024年
 
+- [【色変】40過ぎたおっさんが 5ヶ月で Atcoder 入緑できた](https://qiita.com/omakasessan/items/51af39959ba0b54ac0af) - [tomoba](https://atcoder.jp/users/tomoba)さんが、2024年8月31日に達成。
 - [[AtCoder] 入緑しました！](https://qiita.com/darake/items/25d0951fe9b49a274216) - [darake](https://atcoder.jp/users/darake)さんが、2024年7月20日に達成。
 - [無知の学生が3ヶ月で緑色コーダーになるまで](https://qiita.com/kazuppa/items/4f11e45743ae179dc459) - [kazuppa](https://atcoder.jp/users/kazuppa)さんが、2024年7月13日に達成。
 - [【色変記事】PythonメインでAtCoder入緑したので振り返り（スニペットもあるよ）](https://qiita.com/alumite14/items/649aa426bc1b72e5de84) - [Alumite14](https://atcoder.jp/users/Alumite14)さんが、2024年4月27日に達成。
