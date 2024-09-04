@@ -68,6 +68,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2024-09-04
+
+    - 「[コンテストに関する統計情報](web_app/statistics)」ページ
+        - [AHC statistics](https://siman-man.github.io/ahc_statistics/)
+
+    <div align="center">
+      <img loading = "lazy" src="images/web_app/ahc_statistics.png" alt="ahc statistics">
+    </div>
+
     2024-09-02
 
     - 「[コンテストの成績に関連するサービス](web_app/services_using_scores)」ページ
@@ -87,6 +96,11 @@
     </div>
 
 === "記事"
+
+    2024-09-04
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [RECRUIT 日本橋ハーフマラソン 2024夏（AtCoder Heuristic Contest 036）参加記](https://kaede2020.hatenablog.com/entry/2024/09/02/190404)
 
     2024-09-03
 
@@ -142,6 +156,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2024-09-04
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [tomoba](https://atcoder.jp/users/tomoba)さん - [【色変】40過ぎたおっさんが 5ヶ月で Atcoder 入緑できた](https://qiita.com/omakasessan/items/51af39959ba0b54ac0af)
+
     2024-08-23
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
@@ -156,11 +175,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [loop0919](https://atcoder.jp/users/loop0919)さん - [【AtCoder】入青した！ので語らせて【うれしい！】](https://zenn.dev/loop0919/articles/5a66f529ba9e08)
-
-    2024-08-20
-
-    - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
-        - [hiro1729](https://atcoder.jp/users/hiro1729)さん - [AtCoder 入黄しました！ - hiro1729 競プロ](https://hiro1729.hatenablog.com/entry/2024/08/19/070114)
 
 === "国内外のコンテストサイト"
 
