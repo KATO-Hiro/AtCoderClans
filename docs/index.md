@@ -97,6 +97,11 @@
 
 === "記事"
 
+    2024-09-06
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [bitDP 問題一覧](https://qiita.com/ryusuke920/items/c4c69c2b3a01a042d96a)
+
     2024-09-04
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -121,12 +126,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Summer - 学校ランキング (8月26日時点)](https://x.com/atcoder/status/1827887897418387898)
-
-    2024-08-22
-
-    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
-        - [【GitHubスター100個突破】Pythonのprint()のC++版を本気で作ってみた](https://zenn.dev/sassan/articles/4878e79272ed61)
-            - [philip82148/cpp-dump](https://github.com/philip82148/cpp-dump) ![GitHub Repo stars](https://img.shields.io/github/stars/philip82148/cpp-dump?style=plastic)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -167,11 +166,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [jupiter_68](https://atcoder.jp/users/jupiter_68)さん - [AtCoderで水色コーダーになりました](https://trap.jp/post/2310/)
-
-    2024-08-22
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [soutome](https://atcoder.jp/users/soutome)さん - [AtCoder入水しました！！！！～ゼロから入水までの軌跡～](https://qiita.com/W0VKS1Cm8hwomGk/items/6a8910bcf5cb9439cec9)
 
 === "国内外のコンテストサイト"
 
