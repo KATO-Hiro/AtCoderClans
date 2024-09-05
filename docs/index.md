@@ -128,15 +128,17 @@
         - [【GitHubスター100個突破】Pythonのprint()のC++版を本気で作ってみた](https://zenn.dev/sassan/articles/4878e79272ed61)
             - [philip82148/cpp-dump](https://github.com/philip82148/cpp-dump) ![GitHub Repo stars](https://img.shields.io/github/stars/philip82148/cpp-dump?style=plastic)
 
-    2024-08-21
+=== "ブログ"
+    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+    2024-09-05
 
-        <!-- markdown-link-check-disable -->
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [MathGorilla](https://atcoder.jp/users/MathGorilla)さん - [はてなブログ](https://math-gorilla.hatenablog.com)
 
-        - [「CodeQUEEN 2024」決勝にスポンサーとして参加してきました！](https://note.e-seikatsu.info/n/n58a992f584f4)
-
-        <!-- markdown-link-check-enable -->
+    - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
+        - [rhoo](https://atcoder.jp/users/rhoo)さん - [Qiita](https://qiita.com/rhoo)
+        - [koyumeishi](https://atcoder.jp/users/koyumeishi)さん - [はてなブログ](https://koyumeishi.hatenablog.com/)
 
 === "動画"
 
@@ -170,11 +172,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [soutome](https://atcoder.jp/users/soutome)さん - [AtCoder入水しました！！！！～ゼロから入水までの軌跡～](https://qiita.com/W0VKS1Cm8hwomGk/items/6a8910bcf5cb9439cec9)
-
-    2024-08-21
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [loop0919](https://atcoder.jp/users/loop0919)さん - [【AtCoder】入青した！ので語らせて【うれしい！】](https://zenn.dev/loop0919/articles/5a66f529ba9e08)
 
 === "国内外のコンテストサイト"
 
