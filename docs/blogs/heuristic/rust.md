@@ -6,6 +6,7 @@ title: Rust
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
+|rhoo|[Qiita](https://qiita.com/rhoo)||
 |terry_u16|[はてなブログ](https://www.terry-u16.net/)||
 
 ## レーティング2400〜2799(橙色)
@@ -14,7 +15,6 @@ title: Rust
 |:--:|:--:|:--|
 |ichyo|[はてなブログ](https://blog.ichyo.jp/)||
 |primenumber|[はてなブログ](https://primenumber.hatenadiary.jp/)||
-|rhoo|[Qiita](https://qiita.com/rhoo)||
 |sugim48|[はてなブログ](https://sugim48.hatenadiary.org/)|2014年11月以降、新規の記事を確認できず。C++で実装されている回答もある。|
 |xyz600|[はてなブログ](https://xyz600.hatenablog.com/)||
 
@@ -23,6 +23,7 @@ title: Rust
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
 |cunitac|[はてなブログ](https://cunitac.hatenablog.com/)||
+|koyumeishi|[はてなブログ](https://koyumeishi.hatenablog.com/)||
 |Kyo_s_s|[自作ブログ](https://kyo-homepage.vercel.app/blog)||
 |penguin46|[はてなブログ](https://penguin46.hatenablog.com/)||
 |tanakh|[Qiita](https://qiita.com/tanakh)||
