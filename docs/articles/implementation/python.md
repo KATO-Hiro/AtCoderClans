@@ -100,6 +100,10 @@ title: Python
 
 - [【Python】セグ木、遅延セグ木【AtCoder】](https://qiita.com/ether2420/items/7b67b2b35ad5f441d686) - セグメント木、遅延セグメント木(区間加算・区間更新)の実装例と例題が紹介されている。
 
+### DP
+
+- [PythonでbitDPを使い巡回セールスマン問題を解く](https://qiita.com/Ll_e_ki/items/fa475f5bb224ada9be97) - 巡回セールスマン問題をbitDPで解くときに、Pythonで実装する方法が紹介されている。
+
 ### MEX
 
 - [ABC330-E Mex and Update を無思考で解けるライブラリを書いた](https://prd-xxx.hateblo.jp/entry/2023/11/29/002226) - 配列に含まれない最小の非負整数(MEX)を簡単、かつ、高速に計算できるライブラリが紹介されている。
