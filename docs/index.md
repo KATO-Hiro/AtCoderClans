@@ -97,6 +97,11 @@
 
 === "記事"
 
+    2024-09-07
+
+    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
+        - [PythonでbitDPを使い巡回セールスマン問題を解く](https://qiita.com/Ll_e_ki/items/fa475f5bb224ada9be97)
+
     2024-09-06
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
@@ -161,11 +166,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [tomoba](https://atcoder.jp/users/tomoba)さん - [【色変】40過ぎたおっさんが 5ヶ月で Atcoder 入緑できた](https://qiita.com/omakasessan/items/51af39959ba0b54ac0af)
-
-    2024-08-23
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [jupiter_68](https://atcoder.jp/users/jupiter_68)さん - [AtCoderで水色コーダーになりました](https://trap.jp/post/2310/)
 
 === "国内外のコンテストサイト"
 
