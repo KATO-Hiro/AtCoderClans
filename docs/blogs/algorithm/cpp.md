@@ -210,3 +210,4 @@ title: C&#43;&#43;
 |you070707|[GitHub Pages](https://haar-you.github.io/)|Rated対象外のコンテストを中心に複数の言語で実装されている回答もある。|
 |yuma220284|[Qiita](https://qiita.com/yuma220284)|2020年2月以降、新規の記事を確認できず。|
 |zaki_|[はてなブログ](https://zaki-joho.hatenablog.com/)||
+|zawatin|[はてなブログ](https://zawatin.hatenablog.com/)||
