@@ -135,6 +135,11 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2024-09-07
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [zawatin](https://atcoder.jp/users/zawatin)さん - [はてなブログ](https://zawatin.hatenablog.com/)
+
     2024-09-05
 
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
@@ -176,15 +181,6 @@
 
     <div align="center">
       <img loading="lazy" src="images/related_contest_sites/mn_core_challenge/mn_core_challenge.png" alt="mn core challenge">
-    </div>
-
-    2024-08-24
-
-    - 「[Codeforces](related_contest_sites/codeforces)」ページ
-        - [Codeforces Readme Stats](https://codeforces-readme-stats.vercel.app/)
-
-    <div align="center">
-      <img loading="lazy" src="images/related_contest_sites/codeforces/codeforces_readme_stats.png" alt="codeforces readme stats">
     </div>
 
 === "アーカイブス"
