@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-09-10
+
+- [#8876](https://github.com/KATO-Hiro/AtCoderClans/pull/8876) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[padic](https://atcoder.jp/users/padic)さんの[記事](https://p-adic.github.io/became-Heuristic-green-in-AtCoder/)を追加。
+- [#8875](https://github.com/KATO-Hiro/AtCoderClans/pull/8875) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AtCoder Junior League 2024 Summer - 学校ランキング (9月9日時点)](https://x.com/atcoder/status/1833043546976448590)
+
 ### 2024-09-09
 
 - [#8873](https://github.com/KATO-Hiro/AtCoderClans/pull/8873) - 「[Web apps and sites](../../web_app)」の「[ライバルを探す・競う](../../web_app/rivals)」ページに、以下のWebアプリを追加。
