@@ -2,7 +2,12 @@
 title: レーティング800〜1199(緑色)
 ---
 
+!!! warning "注意"
+    サブカテゴリに部門名(アルゴリズム・ヒューリスティック)が明記されていない場合は、すべてアルゴリズム部門の記事です。
+
 ## 2024年
+
+### アルゴリズム部門
 
 - [【色変】40過ぎたおっさんが 5ヶ月で Atcoder 入緑できた](https://qiita.com/omakasessan/items/51af39959ba0b54ac0af) - [tomoba](https://atcoder.jp/users/tomoba)さんが、2024年8月31日に達成。
 - [[AtCoder] 入緑しました！](https://qiita.com/darake/items/25d0951fe9b49a274216) - [darake](https://atcoder.jp/users/darake)さんが、2024年7月20日に達成。
@@ -14,6 +19,10 @@ title: レーティング800〜1199(緑色)
 - [【色変記事】AtCoder緑色になりました【Ruby】](https://zenn.dev/yoto1980yen/articles/d894ba2233169e) - [yoto1980yen](https://atcoder.jp/users/yoto1980yen)さんが、2024年3月9日に達成。
 - [緑になるために何をしたのか](https://qiita.com/kumasao0323/items/a10de284248cd01a8eb5) - [masao_0323](https://atcoder.jp/users/masao_0323)さんが、2024年3月9日に達成。
 - [文系大学生がプログラミング未経験から5ヶ月で入緑した話【AtCoder】](https://qiita.com/yukun_py/items/d5a3d5d7ef50987f22fb) - [YuuuT](https://atcoder.jp/users/YuuuT)さんが、2024年2月20日に公開。
+
+### ヒューリスティック部門
+
+- [AtCoder Heuristic Contest 入緑色記事](https://p-adic.github.io/became-Heuristic-green-in-AtCoder/) - [padic](https://atcoder.jp/users/padic)さんが、2024年9月2日に達成。
 
 ## 2023年
 
