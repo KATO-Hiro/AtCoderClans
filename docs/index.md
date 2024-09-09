@@ -100,6 +100,11 @@
 
 === "記事"
 
+    2024-09-10
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Summer - 学校ランキング (9月9日時点)](https://x.com/atcoder/status/1833043546976448590)
+
     2024-09-07
 
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
