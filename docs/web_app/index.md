@@ -24,7 +24,9 @@ title: Web Apps and Sites - はじめに
 - [コンテストの成績を見る](./view_and_compare_scores)
 - [コンテストの成績に関連するサービス](./services_using_scores)
 - [コンテストに関する統計情報](./statistics)
+- [ライバルを探す・競う](./rivals)
 - [クイズ・ゲームなど](./quiz_and_game)
+- [開発者向けの情報](./for_developers.md)
 
 ### Bot
 
