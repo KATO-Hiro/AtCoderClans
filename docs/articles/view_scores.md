@@ -7,10 +7,11 @@ title: コンテストに関する統計情報を見る
 ### 2024年
 
 - [AtCoder Junior League 2024 Summer - 学校ランキング](https://twitter.com/atcoder/status/1782249854766546993) - 中学および高校のアルゴリズム部門の学校別ランキング。2024年4月22日時点。
-    - [同9月2日時点](https://x.com/atcoder/status/1830437147792613885)
+    - [同9月9日時点](https://x.com/atcoder/status/1833043546976448590)
 
     ??? info "これまでのランキング"
 
+        - [同9月2日時点](https://x.com/atcoder/status/1830437147792613885)
         - [同8月26日時点](https://x.com/atcoder/status/1827887897418387898)
         - [同8月19日時点](https://x.com/atcoder/status/1825362031178137972)
         - [同8月5日時点](https://x.com/atcoder/status/1820281059982057982)
