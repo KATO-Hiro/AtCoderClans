@@ -21,7 +21,6 @@ title: コンテストに向けた練習方法を知る
 - [競技プログラミングの問題の解き方、そのマニュアル](https://kmyk.github.io/blog/blog/2016/06/21/how-to-solve-problems-in-competitive-programming/) - 問題を解くときに、それぞれの段階(コンテスト前の準備、問題文を読む、前処理、方針の探索、実装、解けない問題への対処方法など)で考慮すべき項目が言語化されている記事。
 - [競技プログラミングの練習法](https://hitoare.hatenablog.com/entry/2024/07/14/195940) - [hitoare](https://atcoder.jp/users/hitoare)さんが考える効率の良い練習方法が紹介されている。
 - [精進について](https://kyopro-friends.hatenablog.com/entry/2020/02/03/202835) - [kyopro_friends](https://atcoder.jp/users/kyopro_friends)さんの練習に対する考え方や方法について書かれた記事。
-- [競技プログラミングの練習法(AtCoderレート2100突破のために)](https://shinchankosen.hatenadiary.jp/entry/2024/07/21/181817) - [shinchan](https://atcoder.jp/users/shinchan)さんが取り組んでいる練習方法（主にレーティング2000前後のユーザ向け）が紹介されている。
 
 ### 練習の質を高める
 

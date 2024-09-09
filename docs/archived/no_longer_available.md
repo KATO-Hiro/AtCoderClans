@@ -358,6 +358,11 @@ title: 開発・提供終了
     - 確認した日: 2024/02/13
 - [atcoder_docker_sample](https://github.com/yamatia/atcoder_docker_sample) - [Visual Studio Code](https://code.visualstudio.com/)・[Docker](https://www.docker.com/)・[Git](https://git-scm.com/downloads)を使って、PythonとC++の実行環境を構築することができる。
 
+### コンテストに向けた練習方法を知る
+
+- [競技プログラミングの練習法(AtCoderレート2100突破のために)](https://shinchankosen.hatenadiary.jp/entry/2024/07/21/181817) - [shinchan](https://atcoder.jp/users/shinchan)さんが取り組んでいる練習方法（主にレーティング2000前後のユーザ向け）が紹介されている。
+    - 確認した日: 2024/09/09
+
 ### ヒューリスティック問題を解く
 
 - [【AHC020 参加記】初参加の初心者でもそれなりに善戦できるぞという話](https://qiita.com/halcyonFX/items/c6d7ebdf375f359c596c) - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さんの参加記。初参加の[AtCoder Heuristic Contest 020](https://atcoder.jp/contests/ahc020)で、愚直な解法から高得点を得るための思考過程を紹介した記事。
