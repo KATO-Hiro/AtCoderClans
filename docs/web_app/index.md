@@ -26,7 +26,7 @@ title: Web Apps and Sites - はじめに
 - [コンテストに関する統計情報](./statistics)
 - [ライバルを探す・競う](./rivals)
 - [クイズ・ゲームなど](./quiz_and_game)
-- [開発者向けの情報](./for_developers.md)
+- [開発者向けの情報](./for_developers)
 
 ### Bot
 
