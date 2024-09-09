@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-09-09
+
+- [#8873](https://github.com/KATO-Hiro/AtCoderClans/pull/8873) - 「[Web apps and sites](../../web_app)」の「[ライバルを探す・競う](../../web_app/rivals)」ページに、以下のWebアプリを追加。
+    - [競プロer自己紹介カード](https://nauclhlt.github.io/cardmaker/)
+- [#8872](https://github.com/KATO-Hiro/AtCoderClans/pull/8872) - (破壊的な変更) 公開を取りやめたと思われる記事を一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2024-09-08
 
 - [#8864](https://github.com/KATO-Hiro/AtCoderClans/pull/8864) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。

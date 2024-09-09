@@ -60,13 +60,16 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "ホーム"
-
-    2024-08-25
-
-    - [アドバイスするねこ - 競プロするねこ](https://github.com/burioden/kyopro-neko/tree/main/advice_neko)
-
 === "Webアプリ・Webサイト"
+
+    2024-09-09
+
+    - 「[ライバルを探す・競う](web_app/rivals)」ページ
+        - [競プロer自己紹介カード](https://nauclhlt.github.io/cardmaker/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/cardmaker.png" alt="cardmaker">
+    </div>
 
     2024-09-04
 
@@ -171,17 +174,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [tomoba](https://atcoder.jp/users/tomoba)さん - [【色変】40過ぎたおっさんが 5ヶ月で Atcoder 入緑できた](https://qiita.com/omakasessan/items/51af39959ba0b54ac0af)
-
-=== "国内外のコンテストサイト"
-
-    2024-08-25
-
-    - 「[AIプロセッサー（アクセラレータ）系コンテスト](related_contest_sites/ai_accelerator)」ページ
-        - [MN-Core Challenge](https://mncore-challenge.preferred.jp/)
-
-    <div align="center">
-      <img loading="lazy" src="images/related_contest_sites/mn_core_challenge/mn_core_challenge.png" alt="mn core challenge">
-    </div>
 
 === "アーカイブス"
 
