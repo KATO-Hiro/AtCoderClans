@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-09-11
+
+- [#8880](https://github.com/KATO-Hiro/AtCoderClans/pull/8880) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [AHC036 参加記](https://soumat.hatenablog.com/entry/2024/09/07/152734)
+
 ### 2024-09-10
 
 - [#8876](https://github.com/KATO-Hiro/AtCoderClans/pull/8876) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

@@ -100,6 +100,11 @@
 
 === "記事"
 
+    2024-09-11
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AHC036 参加記](https://soumat.hatenablog.com/entry/2024/09/07/152734)
+
     2024-09-10
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -151,13 +156,6 @@
     - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
         - [rhoo](https://atcoder.jp/users/rhoo)さん - [Qiita](https://qiita.com/rhoo)
         - [koyumeishi](https://atcoder.jp/users/koyumeishi)さん - [はてなブログ](https://koyumeishi.hatenablog.com/)
-
-=== "動画"
-
-    2024-08-27
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [2本の交わらない線で点を結べるか？【ゆっくり解説】](https://www.youtube.com/watch?v=FnMgl2z86qo)
 
 === "ライブラリ・スニペット"
 
