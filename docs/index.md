@@ -157,12 +157,12 @@
         - [rhoo](https://atcoder.jp/users/rhoo)さん - [Qiita](https://qiita.com/rhoo)
         - [koyumeishi](https://atcoder.jp/users/koyumeishi)さん - [はてなブログ](https://koyumeishi.hatenablog.com/)
 
-=== "ライブラリ・スニペット"
+=== "動画"
 
-    2024-08-28
+    2024-09-12
 
-    - 「[C++](libraries/cpp)」ページ
-        - [rainbou-kpr/library](https://github.com/rainbou-kpr/library) ![GitHub stars](https://img.shields.io/github/stars/rainbou-kpr/library?style=plastic)
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [9個の正方形をもう1個にくっつけられるか？【ゆっくり解説】](https://www.youtube.com/watch?v=O_2uOiOeyF8)
 
 === "色変記事"
 
