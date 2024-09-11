@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-09-12
+
+- [#8884](https://github.com/KATO-Hiro/AtCoderClans/pull/8884) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [9個の正方形をもう1個にくっつけられるか？【ゆっくり解説】](https://www.youtube.com/watch?v=O_2uOiOeyF8)
+
 ### 2024-09-11
 
 - [#8880](https://github.com/KATO-Hiro/AtCoderClans/pull/8880) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
