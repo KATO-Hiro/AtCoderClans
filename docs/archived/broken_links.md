@@ -403,6 +403,15 @@ title: リンク切れ
       <img loading = "lazy" src="../../images/related_contest_sites/leetcode/leetcode_rating_predictor.png" alt="leetcode rating predictor">
     </div>
 
+### 情報オリンピック
+
+- [夏季セミナーで効率の良いアルゴリズムを一緒に学ぼう！（中高生対象：8/17～8/20の4日間, 設定：初級, 中級, 上級コース）](https://jcioi-summer-seminar-2023.peatix.com/) - 情報科学に興味のある中高生・高専生を対象として、オンラインの勉強会の参加者を募集している記事。
+
+    !!! warning "注意"
+        ・募集期間: 7月3日(月)〜8月10日(木) 12:00　(定員になり次第、締め切り)
+
+        ・テキストを自己負担で事前に用意する必要がある
+
 ### TopCoder
 
 - [Topcoder ARENA (Applet)](https://www.topcoder.com/contest/arena/ContestAppletProd7.2.jnlp) - 過去問を解くときに必要なアプリをダウンロードするためのリンク。
