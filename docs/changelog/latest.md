@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-09-13
+
+- [#8891](https://github.com/KATO-Hiro/AtCoderClans/pull/8891) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[tagokoro](https://atcoder.jp/users/tagokoro)さんの[記事](https://qiita.com/tagokoro/items/7757dbf63c46eec8c92f)を追加。
+- [#8890](https://github.com/KATO-Hiro/AtCoderClans/pull/8890) - (破壊的な変更) リンク切れと思われる記事を一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2024-09-12
 
 - [#8884](https://github.com/KATO-Hiro/AtCoderClans/pull/8884) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
