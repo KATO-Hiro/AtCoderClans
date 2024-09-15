@@ -89,15 +89,6 @@
       <img loading="lazy" src="images/web_app/atcoder_rating_simulator2.png" alt="atcoder rating simulator">
     </div>
 
-    2024-08-31
-
-    - 「[コンテストに関する統計情報](web_app/statistics)」ページ
-        - [deviation](https://atcoder-notify.com/deviation/)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/deviation.png" alt="deviation">
-    </div>
-
 === "記事"
 
     2024-09-11
@@ -137,6 +128,12 @@
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2024-09-15
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [askr_58](https://atcoder.jp/users/askr_58)さん - [はてなブログ](https://askr-58.hatenablog.com/)
+        - [blueberry1001](https://atcoder.jp/users/blueberry1001)さん - [Qiita](https://qiita.com/bluebery1001)
 
     2024-09-07
 
