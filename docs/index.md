@@ -121,11 +121,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Summer - 学校ランキング (9月2日時点)](https://x.com/atcoder/status/1830437147792613885)
 
-    2024-09-01
-
-    - 「[数学を学ぶ](articles/math)」ページ
-        - [線形篩で遊ぼう](https://rsk0315.hatenablog.com/entry/2024/08/25/194341)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -150,6 +145,11 @@
         - [koyumeishi](https://atcoder.jp/users/koyumeishi)さん - [はてなブログ](https://koyumeishi.hatenablog.com/)
 
 === "動画"
+
+    2024-09-16
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [五色定理・改【ゆっくり解説】](https://www.youtube.com/watch?v=uBy2Vghh--8)
 
     2024-09-14
 
