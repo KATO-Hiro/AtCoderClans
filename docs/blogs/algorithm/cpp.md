@@ -117,8 +117,10 @@ title: C&#43;&#43;
 |:--:|:--:|:--|
 |aajisaka|[はてなブログ](https://aajisaka.hatenablog.com/)||
 |AngrySadEight|[はてなブログ](https://angrysadeight.hatenablog.com/)||
+|askr_58|[はてなブログ](https://askr-58.hatenablog.com/)||
 |a1048576|[Qiita](https://qiita.com/a1048576/)||
 |binap|[Qiita](https://qiita.com/binap/)||
+|blueberry1001|[Qiita](https://qiita.com/bluebery1001)||
 |Chanyuh|[はてなブログ](https://p-chanyuh.hatenablog.com/)||
 |cled0328|[はてなブログ](https://cled0328.hatenablog.com/)||
 |cookies|[はてなブログ](https://cookies.hatenablog.jp/)||
