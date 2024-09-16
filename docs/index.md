@@ -80,15 +80,6 @@
       <img loading = "lazy" src="images/web_app/ahc_statistics.png" alt="ahc statistics">
     </div>
 
-    2024-09-02
-
-    - 「[コンテストの成績に関連するサービス](web_app/services_using_scores)」ページ
-        - [AtCoder Rating Simulator(仮)](https://atcoder-notify.com/rating_simulator/)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/atcoder_rating_simulator2.png" alt="atcoder rating simulator">
-    </div>
-
 === "記事"
 
     2024-09-11
@@ -165,6 +156,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2024-09-17
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [ZUkA_](https://atcoder.jp/users/ZUkA_)さん - [数学が苦手な大学生の AtCoder 入水記事](https://note.com/yindolsa/n/n61b2b4f17e78)
+
     2024-09-13
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
@@ -179,18 +175,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [tomoba](https://atcoder.jp/users/tomoba)さん - [【色変】40過ぎたおっさんが 5ヶ月で Atcoder 入緑できた](https://qiita.com/omakasessan/items/51af39959ba0b54ac0af)
-
-=== "アーカイブス"
-
-    諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
-
-    2024-09-02
-
-    - AtCoder Rating Simulator
-
-    <div align="center">
-      <img loading = "lazy" src="images/web_app/atcoder_rating_simulator_web.png" alt="atcoder rating simulator web">
-    </div>
 
 ## AtCoder公式グッズを購入する
 
