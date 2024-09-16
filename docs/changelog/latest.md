@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-09-17
+
+- [#8905](https://github.com/KATO-Hiro/AtCoderClans/pull/8905) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[ZUkA_](https://atcoder.jp/users/ZUkA_)さんの[記事](https://note.com/yindolsa/n/n61b2b4f17e78)を追加。
+
 ### 2024-09-16
 
 - [#8902](https://github.com/KATO-Hiro/AtCoderClans/pull/8902) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
