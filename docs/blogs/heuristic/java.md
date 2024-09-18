@@ -18,3 +18,4 @@ title: Java
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
 |ks2m|[はてなブログ](https://ks2m.hatenablog.com/)||
+|uwi|[はてなブログ](https://uwitenpen.hatenadiary.org/)|2016年8月以降、新規の記事を確認できず。|
