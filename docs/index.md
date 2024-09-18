@@ -71,15 +71,6 @@
       <img loading="lazy" src="images/web_app/cardmaker.png" alt="cardmaker">
     </div>
 
-    2024-09-04
-
-    - 「[コンテストに関する統計情報](web_app/statistics)」ページ
-        - [AHC statistics](https://siman-man.github.io/ahc_statistics/)
-
-    <div align="center">
-      <img loading = "lazy" src="images/web_app/ahc_statistics.png" alt="ahc statistics">
-    </div>
-
 === "記事"
 
     2024-09-18
@@ -106,11 +97,6 @@
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [bitDP 問題一覧](https://qiita.com/ryusuke920/items/c4c69c2b3a01a042d96a)
-
-    2024-09-04
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [RECRUIT 日本橋ハーフマラソン 2024夏（AtCoder Heuristic Contest 036）参加記](https://kaede2020.hatenablog.com/entry/2024/09/02/190404)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -165,6 +151,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2024-09-19
+
+    - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
+        - [zawatin](https://atcoder.jp/users/zawatin)さん - [AtCoderで入黄しました 【雑談】 - zawatinはてなブログ](https://zawatin.hatenablog.com/entry/2024/09/18/171103)
+
     2024-09-17
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
@@ -179,11 +170,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [padic](https://atcoder.jp/users/padic)さん - [AtCoder Heuristic Contest 入緑色記事](https://p-adic.github.io/became-Heuristic-green-in-AtCoder/)
-
-    2024-09-04
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [tomoba](https://atcoder.jp/users/tomoba)さん - [【色変】40過ぎたおっさんが 5ヶ月で Atcoder 入緑できた](https://qiita.com/omakasessan/items/51af39959ba0b54ac0af)
 
 ## AtCoder公式グッズを購入する
 

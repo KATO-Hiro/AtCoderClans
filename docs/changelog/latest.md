@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-09-19
+
+- [#8917](https://github.com/KATO-Hiro/AtCoderClans/pull/8917) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[zawatin](https://atcoder.jp/users/zawatin)さんの[記事](https://zawatin.hatenablog.com/entry/2024/09/18/171103)を追加。
+
 ### 2024-09-18
 
 - [#8911](https://github.com/KATO-Hiro/AtCoderClans/pull/8911) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
