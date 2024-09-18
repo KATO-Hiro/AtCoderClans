@@ -112,11 +112,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [RECRUIT 日本橋ハーフマラソン 2024夏（AtCoder Heuristic Contest 036）参加記](https://kaede2020.hatenablog.com/entry/2024/09/02/190404)
 
-    2024-09-03
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Summer - 学校ランキング (9月2日時点)](https://x.com/atcoder/status/1830437147792613885)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
