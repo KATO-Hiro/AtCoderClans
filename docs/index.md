@@ -71,6 +71,13 @@
       <img loading="lazy" src="images/web_app/cardmaker.png" alt="cardmaker">
     </div>
 
+=== "ユーザスクリプト"
+
+    2024-09-20
+
+    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
+        - [AtCoder-RedirectRecentABC](https://greasyfork.org/ja/scripts/508772-atcoder-redirectrecentabc)
+
 === "記事"
 
     2024-09-18
@@ -120,15 +127,6 @@
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [zawatin](https://atcoder.jp/users/zawatin)さん - [はてなブログ](https://zawatin.hatenablog.com/)
-
-    2024-09-05
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [MathGorilla](https://atcoder.jp/users/MathGorilla)さん - [はてなブログ](https://math-gorilla.hatenablog.com)
-
-    - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
-        - [rhoo](https://atcoder.jp/users/rhoo)さん - [Qiita](https://qiita.com/rhoo)
-        - [koyumeishi](https://atcoder.jp/users/koyumeishi)さん - [はてなブログ](https://koyumeishi.hatenablog.com/)
 
 === "動画"
 
