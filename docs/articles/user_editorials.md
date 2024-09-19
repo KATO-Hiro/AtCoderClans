@@ -31,12 +31,6 @@ title: 解説ブログ・サイトを見る
 - [いかたこのたこつぼ](https://ikatakos.com/pot/programming_algorithm/contest_history/atcoder) - [ikatakos](https://atcoder.jp/users/ikatakos)さんの解説ブログ。AtCoder Beginner Contestの問題を中心に継続的に更新されている。
 - [ものすごく丁寧でわかりやすいABC解説一覧 python ～灰色・茶色コーダー向け～ #AtCoder](https://qiita.com/sano192/items/54accd04df62242b70f0) - 主にAtCoder Beginner ContestのA問題〜D問題までを対象とした解説記事の一覧。実装例に加えて、詳細なコメントが併記されているのが特徴。
 - [ABCxxxをPythonで解いてみたよ。](https://qiita.com/hyouchun) - AtCoder Beginner Contest 302以降の主にA〜E問題までを対象とした解説記事。各問題における考察のポイントと実装例が紹介されている。
-- [【AtCoder解説】PythonでABCxxxの(問題番号)問題を制する！](https://qiita.com/u2dayo) - [unidayo](https://atcoder.jp/users/unidayo)さんの解説記事。主にAtCoder Beginner ContestのA〜C問題を中心とした解説と実装例が紹介されている。
-
-    !!! info "参考"
-
-        AtCoder Beginner Contest 266以降は、別の著者の解説ブログを参照されたい。
-
 - [maspyのHP](https://maspypy.com/category/atcoder) - [maspy](https://atcoder.jp/users/maspy)さんの解説ブログ。高難易度の問題を中心に多数の解説が掲載されている。
 
 ---

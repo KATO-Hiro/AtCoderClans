@@ -49,7 +49,6 @@ title: アルゴリズムを学ぶ
 ### bit全探索
 
 - [ビット演算(bit演算)の使い方を総特集！ 〜 マスクビットからbitDPまで 〜](https://qiita.com/drken/items/7c6ff2aa4d8fce1c9361) - ビット演算を用いて実現できる処理について、基本的な内容(フラグ管理、マスクビット)から高度な内容まで解説した記事。同一の著者によって、bit全探索をより詳しく解説した[記事](https://drken1215.hatenablog.com/entry/2019/12/14/171657)もある。
-- [こわくないbit全探索【AtCoder・アルゴリズム解説】](https://qiita.com/u2dayo/items/68e35815659b1041c3c2) - bit全探索の考え方や実装方法(C++とPython)について丁寧に解説されている記事。
 
 ### 問題集
 

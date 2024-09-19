@@ -363,6 +363,11 @@ title: 開発・提供終了
 - [競技プログラミングの練習法(AtCoderレート2100突破のために)](https://shinchankosen.hatenadiary.jp/entry/2024/07/21/181817) - [shinchan](https://atcoder.jp/users/shinchan)さんが取り組んでいる練習方法（主にレーティング2000前後のユーザ向け）が紹介されている。
     - 確認した日: 2024/09/09
 
+### アルゴリズムを学ぶ
+
+- [こわくないbit全探索【AtCoder・アルゴリズム解説】](https://qiita.com/u2dayo/items/68e35815659b1041c3c2) - bit全探索の考え方や実装方法(C++とPython)について丁寧に解説されている記事。
+    - 確認した日: 2024/09/20
+
 ### ヒューリスティック問題を解く
 
 - [【AHC020 参加記】初参加の初心者でもそれなりに善戦できるぞという話](https://qiita.com/halcyonFX/items/c6d7ebdf375f359c596c) - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さんの参加記。初参加の[AtCoder Heuristic Contest 020](https://atcoder.jp/contests/ahc020)で、愚直な解法から高得点を得るための思考過程を紹介した記事。
@@ -372,6 +377,15 @@ title: 開発・提供終了
 
 - [【プログラミング言語速度比較】Collatz数列ベンチマークを言語別比較しよー！](https://rheotommy.hatenablog.com/entry/2020/07/18/205343) - [RheoTommy](https://atcoder.jp/users/RheoTommy)さんによる記事。[Collatz数列](https://en.wikipedia.org/wiki/Collatz_conjecture#:~:text=Unsolved%20problem%20in%20mathematics%3A&text=The%20Collatz%20conjecture%20is%20a,half%20of%20the%20previous%20term.)を題材に、各言語の実行速度を比較・分類している。
     - 確認した日: 2024/09/02
+
+### 解説ブログ・サイトを見る
+
+- [【AtCoder解説】PythonでABCxxxの(問題番号)問題を制する！](https://qiita.com/u2dayo) - [unidayo](https://atcoder.jp/users/unidayo)さんの解説記事。主にAtCoder Beginner ContestのA〜C問題を中心とした解説と実装例が紹介されている。
+    - 確認した日: 2024/09/20
+
+    !!! info "参考"
+
+        AtCoder Beginner Contest 266以降は、別の著者の解説ブログを参照されたい。
 
 ### 部活・サークル・同好会に参加する
 
