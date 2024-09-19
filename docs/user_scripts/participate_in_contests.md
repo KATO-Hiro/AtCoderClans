@@ -18,6 +18,10 @@ title: コンテストに参加する
       <img loading = "lazy" src="../../images/userscript/atcoder_google_calender.png" alt="atcoder google calender">
     </div>
 
+## 直近のAtCoder Beginner Contest (ABC)を閲覧
+
+- [AtCoder-RedirectRecentABC](https://greasyfork.org/ja/scripts/508772-atcoder-redirectrecentabc) - 直近(開催中を含む)のAtCoder Beginner Contest (ABC)を閲覧できるようにする。
+
 ## 企業コンテストの参加登録補助・記入ミスを防ぐ
 
 - [ac-register-checker](https://greasyfork.org/ja/scripts/467401-ac-register-checker) - 企業コンテストの参加登録フォームで、「あなたは日本国内に在住していますか」が「いいえ」の場合に警告を表示する。
