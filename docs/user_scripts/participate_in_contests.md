@@ -20,7 +20,7 @@ title: コンテストに参加する
 
 ## 直近のAtCoder Beginner Contest (ABC)を閲覧
 
-- [AtCoder-RedirectRecentABC](https://greasyfork.org/ja/scripts/508772-atcoder-redirectrecentabc) - 直近（開催中を含む）のAtCoder Beginner Contest (ABC)を閲覧できるようにする。
+- [AtCoder-RedirectRecentABC](https://greasyfork.org/ja/scripts/508772-atcoder-redirectrecentabc) - 直近(開催中を含む)のAtCoder Beginner Contest (ABC)を閲覧できるようにする。
 
 ## 企業コンテストの参加登録補助・記入ミスを防ぐ
 
