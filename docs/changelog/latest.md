@@ -6,6 +6,7 @@ title: Change Log
 
 ### 2024-09-20
 
+- [#8927](https://github.com/KATO-Hiro/AtCoderClans/pull/8927) - (破壊的な変更) リンク切れと思われる記事、ブログを一時的に「[Archives](../../archived)」ページに移動。
 - [#8923](https://github.com/KATO-Hiro/AtCoderClans/pull/8923) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
     - [AtCoder-RedirectRecentABC](https://greasyfork.org/ja/scripts/508772-atcoder-redirectrecentabc)
 
