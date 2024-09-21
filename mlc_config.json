@@ -53,6 +53,9 @@
     },
     {
       "pattern": "^https://archive.topcoder.com/"
+    },
+    {
+      "pattern": "^https://vjudge.net/"
     }
   ],
   "httpHeaders": [
