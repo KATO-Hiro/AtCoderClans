@@ -100,11 +100,6 @@
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
         - [PythonでbitDPを使い巡回セールスマン問題を解く](https://qiita.com/Ll_e_ki/items/fa475f5bb224ada9be97)
 
-    2024-09-06
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [bitDP 問題一覧](https://qiita.com/ryusuke920/items/c4c69c2b3a01a042d96a)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -168,6 +163,13 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [padic](https://atcoder.jp/users/padic)さん - [AtCoder Heuristic Contest 入緑色記事](https://p-adic.github.io/became-Heuristic-green-in-AtCoder/)
+
+=== "国内外のコンテストサイト"
+
+    2024-09-21
+
+    - 「[セキュリティ系コンテスト](related_contest_sites/security)」ページ
+        - [Dreamhack](https://dreamhack.io/ctf)
 
 ## AtCoder公式グッズを購入する
 

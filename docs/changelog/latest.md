@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-09-21
+
+- [#8932](https://github.com/KATO-Hiro/AtCoderClans/pull/8932) - 「[Related Contest Sites](../../related_contest_sites)」の「[セキュリティ系コンテスト](../../related_contest_sites/security)」ページに、以下のコンテストサイトを追加。
+    - [Dreamhack](https://dreamhack.io/ctf)
+
 ### 2024-09-20
 
 - [#8927](https://github.com/KATO-Hiro/AtCoderClans/pull/8927) - (破壊的な変更) リンク切れと思われる記事、ブログを一時的に「[Archives](../../archived)」ページに移動。
