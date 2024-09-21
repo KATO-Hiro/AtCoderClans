@@ -15,6 +15,8 @@ title: セキュリティ系コンテスト
       <img loading="lazy" src="../../images/related_contest_sites/ctf/alpacahack.png" alt="alpacahack">
     </div>
 
+- [Dreamhack](https://dreamhack.io/ctf) - 韓国のコンテストサイト。個人戦が開催されており、レーティングが付与される。また、豊富な教育コンテンツも提供されている。
+
 - [ksnctf](https://ksnctf.sweetduet.info/) - コンピュータセキュリティに関する問題を解くことができる。
 
     <div align="center">
