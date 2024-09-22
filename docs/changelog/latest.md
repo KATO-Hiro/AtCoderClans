@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-09-23
+
+- [#8943](https://github.com/KATO-Hiro/AtCoderClans/pull/8943) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[2bit](https://atcoder.jp/users/2bit)さんの[記事](https://2bitpng.hatenablog.com/entry/2024/09/22/085912)を追加。
+
 ### 2024-09-22
 
 - [#8937](https://github.com/KATO-Hiro/AtCoderClans/pull/8937) - 「[Related Contest Sites](../../related_contest_sites)」の「[セキュリティ系コンテスト](../../related_contest_sites/security)」ページに、以下のWebサービスを追加。

@@ -134,6 +134,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2024-09-23
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [2bit](https://atcoder.jp/users/2bit)さん - [AtCoder青になったので記録をメモ - nibitのブログ](https://2bitpng.hatenablog.com/entry/2024/09/22/085912)
+
     2024-09-19
 
     - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
