@@ -95,11 +95,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Summer - 学校ランキング (9月9日時点)](https://x.com/atcoder/status/1833043546976448590)
 
-    2024-09-07
-
-    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
-        - [PythonでbitDPを使い巡回セールスマン問題を解く](https://qiita.com/Ll_e_ki/items/fa475f5bb224ada9be97)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -117,11 +112,6 @@
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [askr_58](https://atcoder.jp/users/askr_58)さん - [はてなブログ](https://askr-58.hatenablog.com/)
         - [blueberry1001](https://atcoder.jp/users/blueberry1001)さん - [Qiita](https://qiita.com/bluebery1001)
-
-    2024-09-07
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [zawatin](https://atcoder.jp/users/zawatin)さん - [はてなブログ](https://zawatin.hatenablog.com/)
 
 === "動画"
 
@@ -165,6 +155,22 @@
         - [padic](https://atcoder.jp/users/padic)さん - [AtCoder Heuristic Contest 入緑色記事](https://p-adic.github.io/became-Heuristic-green-in-AtCoder/)
 
 === "国内外のコンテストサイト"
+
+    2024-09-22
+
+    - 「[セキュリティ系コンテスト](related_contest_sites/security)」ページ
+        - [picoCTF](https://play.picoctf.org/practice)
+
+    <div align="center">
+      <img loading="lazy" src="images/related_contest_sites/ctf/picoCTF.png" alt="picoCTF">
+    </div>
+
+    - 「[セキュリティ系コンテスト](related_contest_sites/security)」ページ
+        - [CryptoHack](https://cryptohack.org/)
+
+    <div align="center">
+      <img loading="lazy" src="images/related_contest_sites/ctf/cryptohack.png" alt="cryptohack">
+    </div>
 
     2024-09-21
 

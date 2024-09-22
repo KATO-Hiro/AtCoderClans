@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-09-22
+
+- [#8937](https://github.com/KATO-Hiro/AtCoderClans/pull/8937) - 「[Related Contest Sites](../../related_contest_sites)」の「[セキュリティ系コンテスト](../../related_contest_sites/security)」ページに、以下のWebサービスを追加。
+    - [picoCTF](https://play.picoctf.org/practice)
+    - [CryptoHack](https://cryptohack.org/)
+
 ### 2024-09-21
 
 - [#8932](https://github.com/KATO-Hiro/AtCoderClans/pull/8932) - 「[Related Contest Sites](../../related_contest_sites)」の「[セキュリティ系コンテスト](../../related_contest_sites/security)」ページに、以下のコンテストサイトを追加。
