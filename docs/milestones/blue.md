@@ -4,6 +4,7 @@ title: レーティング1600〜1999(青色)
 
 ## 2024年
 
+- [AtCoder青になったので記録をメモ - nibitのブログ](https://2bitpng.hatenablog.com/entry/2024/09/22/085912) - [2bit](https://atcoder.jp/users/2bit)さんが、2024年9月21日に達成。
 - [【AtCoder】入青した！ので語らせて【うれしい！】](https://zenn.dev/loop0919/articles/5a66f529ba9e08) - [loop0919](https://atcoder.jp/users/loop0919)さんが、2024年8月17日に達成。
 - [青色になった！](https://warp-asteroid-8f6.notion.site/97f48f73432e4bb0b453178264c219f7) - [n0ma_ru](https://atcoder.jp/users/n0ma_ru)さんが、2024年8月10日に達成。
 - [AtCoderで入青しました！ - yukimyの日記](https://negiyukino.hatenablog.com/entry/2024/06/03/195516) - [yukimy](https://atcoder.jp/users/yukimy)さんが、2024年6月2日に達成。
