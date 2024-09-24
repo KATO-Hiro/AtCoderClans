@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-09-24
+
+- [#8949](https://github.com/KATO-Hiro/AtCoderClans/pull/8949) - 「[Libraries and Snippets](../../libraries)」の「[Rust](../../libraries/rust)」ページに、Rustで実装されたライブラリを追加。
+    - [tayu0110/tayu-procon](https://github.com/tayu0110/tayu-procon) ![GitHub Repo stars](https://img.shields.io/github/stars/tayu0110/tayu-procon?style=plastic)
+
 ### 2024-09-23
 
 - [#8943](https://github.com/KATO-Hiro/AtCoderClans/pull/8943) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

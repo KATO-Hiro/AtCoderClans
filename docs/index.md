@@ -60,17 +60,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "Webアプリ・Webサイト"
-
-    2024-09-09
-
-    - 「[ライバルを探す・競う](web_app/rivals)」ページ
-        - [競プロer自己紹介カード](https://nauclhlt.github.io/cardmaker/)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/cardmaker.png" alt="cardmaker">
-    </div>
-
 === "ユーザスクリプト"
 
     2024-09-20
@@ -129,6 +118,13 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [9個の正方形をもう1個にくっつけられるか？【ゆっくり解説】](https://www.youtube.com/watch?v=O_2uOiOeyF8)
+
+=== "ライブラリ・スニペット"
+
+    2024-09-24
+
+    - 「[Rust](libraries/rust)」ページ
+        - [tayu0110/tayu-procon](https://github.com/tayu0110/tayu-procon) ![GitHub Repo stars](https://img.shields.io/github/stars/tayu0110/tayu-procon?style=plastic)
 
 === "色変記事"
 
