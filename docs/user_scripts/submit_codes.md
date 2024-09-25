@@ -92,7 +92,9 @@ title: ソースコードの提出・確認を簡単に
 
 ### ショートカットキーで提出
 
-- [AtCoder_submit_keyboard_shortcut](https://greasyfork.org/ja/scripts/378760-atcoder-submit-keyboard-shortcut) - ソースコードの提出が、Ctrl+Enterでできる。
+- [AtCoder_submit_keyboard_shortcut](https://greasyfork.org/ja/scripts/378760-atcoder-submit-keyboard-shortcut) - ソースコードの提出が、Ctrl + Enterでできる。
+
+- [Atcoder Submission Shortcut](https://greasyfork.org/ja/scripts/509606-atcoder-submission-shortcut) - 「問題」「提出」「コードテスト」の各ページで、Ctrl + Shift + Enterを押すとソースコードを提出・実行できる。
 
 - [AtCoder dos2unix UserScript](https://greasyfork.org/ja/scripts/372122-atcoder-dos2unix-userscript) - 改行コードをCRLFからLFに変換して、ソースコードを提出する。
 
