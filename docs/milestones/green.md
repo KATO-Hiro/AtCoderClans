@@ -33,7 +33,6 @@ title: レーティング800〜1199(緑色)
 - [【入緑記念】レーティングの稼ぎ方(AtCoder)](https://qiita.com/rfvr7/items/0e7dafdeef30ff0203e4) - [zaki7](https://atcoder.jp/users/zaki7)さんが、2023年12月9日に達成。
 - [【AtCoder】Pythonで入緑しました！！](https://qiita.com/Totosuki/items/cc98efbd260c76635cc5) - [totosuki](https://atcoder.jp/users/totosuki)さんが、2023年10月28日に達成。
 - [算数の教養がほとんどなかったプログラマがAtCoderを4年やって緑になれた話](https://note.com/kirimin_chan/n/n337f5bdf7e48) - [kirimin](https://atcoder.jp/users/kirimin)さんが、2023年9月23日に達成。
-- [入緑記事 - rotti_coderのプログラミング](https://rotti-coder.hatenablog.com/entry/2023/08/13/085808) - [rotti](https://atcoder.jp/users/rotti)さんが、2023年8月12日に達成。
 - [AtCoderで入緑しました！](https://ragnawow.hatenablog.com/entry/2023/07/30/011040) - [ragna](https://atcoder.jp/users/ragna)さんが、2023年7月29日に達成。
 - [【色変記事】AtCoderで入緑した話 by ZOI2](https://qiita.com/ZOI2/items/6dd677775270eb65aae9) - [Zoi2](https://atcoder.jp/users/Zoi2)さんが、2023年7月23日に公開。
 - [AtCoderにてRating4桁に突入しました（入千記事）](https://note.com/ka37ri/n/n49dd54210973) - [KA37RI](https://atcoder.jp/users/KA37RI)さんが、2023年6月23日に公開。
