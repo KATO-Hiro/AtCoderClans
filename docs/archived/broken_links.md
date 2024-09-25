@@ -305,6 +305,9 @@ title: リンク切れ
 
 ### レーティング800〜1199(緑色)
 
+- [入緑記事 - rotti_coderのプログラミング](https://rotti-coder.hatenablog.com/entry/2023/08/13/085808) - [rotti](https://atcoder.jp/users/rotti)さんが、2023年8月12日に達成。
+    - 確認した日: 2024/09/25
+
 - [緑コーダー(AtCoder)になった和洋 - みどマメモ](https://mdrm1rou.hatenablog.com/entry/2021/07/12/013644) - [MDMA](https://atcoder.jp/users/MDMA)さんが、2021年7月10日に達成。
     - 確認した日: 2024/05/14
 
