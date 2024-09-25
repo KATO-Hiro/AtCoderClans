@@ -62,6 +62,11 @@
 
 === "ユーザスクリプト"
 
+    2024-09-26
+
+    - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
+        - [Atcoder Submission Shortcut](https://greasyfork.org/ja/scripts/509606-atcoder-submission-shortcut)
+
     2024-09-20
 
     - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
@@ -73,11 +78,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Summer - 学校ランキング (9月17日時点)](https://x.com/atcoder/status/1835861099616645324)
-
-    2024-09-11
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AHC036 参加記](https://soumat.hatenablog.com/entry/2024/09/07/152734)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
