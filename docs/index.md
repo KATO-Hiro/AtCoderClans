@@ -79,11 +79,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AHC036 参加記](https://soumat.hatenablog.com/entry/2024/09/07/152734)
 
-    2024-09-10
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Summer - 学校ランキング (9月9日時点)](https://x.com/atcoder/status/1833043546976448590)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -149,11 +144,6 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [tagokoro](https://atcoder.jp/users/tagokoro)さん - [プログラミング初心者、数弱が入茶するまでにやったこと](https://qiita.com/tagokoro/items/7757dbf63c46eec8c92f)
-
-    2024-09-10
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [padic](https://atcoder.jp/users/padic)さん - [AtCoder Heuristic Contest 入緑色記事](https://p-adic.github.io/became-Heuristic-green-in-AtCoder/)
 
 === "国内外のコンテストサイト"
 

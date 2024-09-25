@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-09-25
+
+- [#8953](https://github.com/KATO-Hiro/AtCoderClans/pull/8953) - (破壊的な変更) リンク切れと思われる記事、書籍を一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2024-09-24
 
 - [#8949](https://github.com/KATO-Hiro/AtCoderClans/pull/8949) - 「[Libraries and Snippets](../../libraries)」の「[Rust](../../libraries/rust)」ページに、Rustで実装されたライブラリを追加。
