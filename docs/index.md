@@ -109,11 +109,6 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [もし時計の時針と分針が区別できなかったら【ゆっくり解説】](https://www.youtube.com/watch?v=G5qF3c_ac9M)
 
-    2024-09-12
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [9個の正方形をもう1個にくっつけられるか？【ゆっくり解説】](https://www.youtube.com/watch?v=O_2uOiOeyF8)
-
 === "ライブラリ・スニペット"
 
     2024-09-24
