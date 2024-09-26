@@ -305,6 +305,9 @@ title: リンク切れ
 
 ### レーティング800〜1199(緑色)
 
+- [AtCoder色変記事（緑）。あるいは趣味としての競プロの勧め。 - 加具留矢流余](https://mikebird28.hatenablog.jp/entry/2020/11/09/223426) - [toritoritori29](https://atcoder.jp/users/toritoritori29)さんが、2020年11月8日に達成。
+    - 確認した日: 2024/09/27
+
 - [入緑記事 - rotti_coderのプログラミング](https://rotti-coder.hatenablog.com/entry/2023/08/13/085808) - [rotti](https://atcoder.jp/users/rotti)さんが、2023年8月12日に達成。
     - 確認した日: 2024/09/25
 
