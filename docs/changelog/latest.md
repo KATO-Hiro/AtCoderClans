@@ -4,6 +4,16 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-09-28
+
+- [#8969](https://github.com/KATO-Hiro/AtCoderClans/pull/8969) - 「[Related Contest Sites](../../related_contest_sites)」の「[セキュリティ系コンテスト](../../related_contest_sites/security)」ページに、以下のWebサービスを追加。
+
+    <!-- markdown-link-check-disable -->
+
+    - [HackAll v3](https://hackall.tech/)
+
+    <!-- markdown-link-check-enable -->
+
 ### 2024-09-27
 
 - [#8966](https://github.com/KATO-Hiro/AtCoderClans/pull/8966) - (破壊的な変更) リンク切れと思われる記事を一時的に「[Archives](../../archived)」ページに移動。
