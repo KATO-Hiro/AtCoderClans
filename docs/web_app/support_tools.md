@@ -10,15 +10,6 @@ title: 問題を解くときの補助ツール
       <img loading = "lazy" src="../../images/web_app/simple_cpp_editor.png" alt="simple cpp editor">
     </div>
 
-- [Hisui](https://github.com/adenohitu/hisui) ![GitHub Repo stars](https://img.shields.io/github/stars/adenohitu/hisui?style=plastic) - 競技プログラミング専用のサポートツール(Alpha版)。コードエディタ(C++とPythonに対応)、ダッシュボード、解答コードのテスト・提出などの機能が用意されている。
-
-    !!! warning "注意"
-        2022年6月時点で、コンテスト中の利用は非推奨。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/hisui.png" alt="hisui">
-    </div>
-
 - [Rujaion](https://github.com/fukatani/rujaion) ![GitHub Repo stars](https://img.shields.io/github/stars/fukatani/rujaion?style=plastic) - 競技プログラミングのためのRust IDE。C++とPythonも試験的にサポートされている。サンプルのテスト、解答コードの提出、コードの補完・移動・自動整形、テンプレートの生成、グラフの構造の可視化などの機能がある。
 
     <div align="center">

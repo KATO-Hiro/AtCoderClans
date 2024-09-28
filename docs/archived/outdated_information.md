@@ -17,6 +17,17 @@ title: 更新停止の可能性が高い
       <img loading = "lazy" src="../../images/web_app/atcoder_translations.png" alt="atcoder translations">
     </div>
 
+### 問題を解くときの補助ツール
+
+- [Hisui](https://github.com/adenohitu/hisui) ![GitHub Repo stars](https://img.shields.io/github/stars/adenohitu/hisui?style=plastic) - 競技プログラミング専用のサポートツール(Alpha版)。コードエディタ(C++とPythonに対応)、ダッシュボード、解答コードのテスト・提出などの機能が用意されている。
+
+    !!! warning "注意"
+        2022年6月時点で、コンテスト中の利用は非推奨。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/hisui.png" alt="hisui">
+    </div>
+
 ### 得点状況と配点から次に解く問題を決める
 
 - [AtCoder Strategies](https://atcoder-strategies.web.app/) - ある時点の得点状況と正解の可能性がある問題の配点に基づいて、得られる点数の組み合わせ(見込み)を昇順に表示する。
