@@ -135,12 +135,20 @@
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [ZUkA_](https://atcoder.jp/users/ZUkA_)さん - [数学が苦手な大学生の AtCoder 入水記事](https://note.com/yindolsa/n/n61b2b4f17e78)
 
-    2024-09-13
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [tagokoro](https://atcoder.jp/users/tagokoro)さん - [プログラミング初心者、数弱が入茶するまでにやったこと](https://qiita.com/tagokoro/items/7757dbf63c46eec8c92f)
-
 === "国内外のコンテストサイト"
+
+    2024-09-28
+
+    - 「[セキュリティ系コンテスト](related_contest_sites/security)」ページ
+        <!-- markdown-link-check-disable -->
+
+        - [HackAll v3](https://hackall.tech/)
+
+        <!-- markdown-link-check-enable -->
+
+    <div align="center">
+      <img loading="lazy" src="images/related_contest_sites/ctf/hackall.png" alt="hackall">
+    </div>
 
     2024-09-22
 

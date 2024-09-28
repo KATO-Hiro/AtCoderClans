@@ -70,8 +70,12 @@ CTFに関する話題を扱ったアドベントカレンダー。
 
 ### 問題を解く
 
+<!-- markdown-link-check-disable -->
+
 - [HackAll v3](https://hackall.tech/) - さまざまな方法を駆使して、ログイン認証の突破に挑戦するデモサイト。
 
     <div align="center">
       <img loading="lazy" src="../../images/related_contest_sites/ctf/hackall.png" alt="hackall">
     </div>
+
+<!-- markdown-link-check-enable -->
