@@ -171,6 +171,14 @@
     - 「[セキュリティ系コンテスト](related_contest_sites/security)」ページ
         - [Dreamhack](https://dreamhack.io/ctf)
 
+=== "アーカイブス"
+
+    諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2024-09-28
+
+    - Hisui
+
 ## AtCoder公式グッズを購入する
 
 - [SUZURI](https://suzuri.jp/AtCoder) - [AtCoder](https://atcoder.jp/)のロゴ入りグッズが購入できる。
