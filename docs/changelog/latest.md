@@ -6,6 +6,7 @@ title: Change Log
 
 ### 2024-09-28
 
+- [#8972](https://github.com/KATO-Hiro/AtCoderClans/pull/8972)、[#8975](https://github.com/KATO-Hiro/AtCoderClans/pull/8975) - (破壊的な変更) 公開を取りやめたと思われるPythonライブラリおよび開発が終了したと思われるツールを一時的に「[Archives](../../archived)」ページに移動。
 - [#8969](https://github.com/KATO-Hiro/AtCoderClans/pull/8969) - 「[Related Contest Sites](../../related_contest_sites)」の「[セキュリティ系コンテスト](../../related_contest_sites/security)」ページに、以下のWebサービスを追加。
 
     <!-- markdown-link-check-disable -->
