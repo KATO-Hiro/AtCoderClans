@@ -62,6 +62,15 @@
 
 === "ユーザスクリプト"
 
+    2024-09-29
+
+    - 「[Webページに色付けする](user_scripts/colors)」ページ
+        - [AtCoder Limit Colorizer](https://github.com/sevenc-nanashi/atcoder-limit-colorizer)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_limit_colorizer.png" alt="atcoder limit colorizer">
+    </div>
+
     2024-09-26
 
     - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
@@ -81,6 +90,11 @@
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2024-09-29
+
+    - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
+        - [mutualns](https://atcoder.jp/users/mutualns)さん - [はてなブログ](https://mutualns.hatenablog.com/)
 
     2024-09-18
 
@@ -103,11 +117,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [五色定理・改【ゆっくり解説】](https://www.youtube.com/watch?v=uBy2Vghh--8)
-
-    2024-09-14
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [もし時計の時針と分針が区別できなかったら【ゆっくり解説】](https://www.youtube.com/watch?v=G5qF3c_ac9M)
 
 === "ライブラリ・スニペット"
 
