@@ -83,6 +83,11 @@
 
 === "記事"
 
+    2024-09-30
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [第11回 Asprova プログラミングコンテスト（AtCoder Heuristic Contest 037）の復習](https://kaede2020.hatenablog.com/entry/2024/09/29/165627)
+
     2024-09-18
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -90,6 +95,11 @@
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2024-09-30
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [Series_205](https://atcoder.jp/users/Series_205)さん - [Qiita](https://qiita.com/Series_205)
 
     2024-09-29
 
@@ -104,12 +114,6 @@
 
     - 「[ヒューリスティック部門 - Java](blogs/heuristic/java)」ページ
         - [uwi](https://atcoder.jp/users/uwi)さん - [はてなブログ](https://uwitenpen.hatenadiary.org/)
-
-    2024-09-15
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [askr_58](https://atcoder.jp/users/askr_58)さん - [はてなブログ](https://askr-58.hatenablog.com/)
-        - [blueberry1001](https://atcoder.jp/users/blueberry1001)さん - [Qiita](https://qiita.com/bluebery1001)
 
 === "動画"
 
