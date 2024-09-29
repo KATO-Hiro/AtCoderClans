@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-09-29
+
+- [#8982](https://github.com/KATO-Hiro/AtCoderClans/pull/8982) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
+- [#8980](https://github.com/KATO-Hiro/AtCoderClans/pull/8980) - 「[Scripts](../../scripts)」の「[Webページに色付けする](../../user_scripts/colors)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Limit Colorizer](https://github.com/sevenc-nanashi/atcoder-limit-colorizer)
+
 ### 2024-09-28
 
 - [#8972](https://github.com/KATO-Hiro/AtCoderClans/pull/8972)、[#8975](https://github.com/KATO-Hiro/AtCoderClans/pull/8975) - (破壊的な変更) 公開を取りやめたと思われるPythonライブラリおよび開発が終了したと思われるツールを一時的に「[Archives](../../archived)」ページに移動。
