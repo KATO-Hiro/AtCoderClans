@@ -62,6 +62,14 @@ Webページの背景色の変更や文字・提出コード・問題の正誤�
       <img loading = "lazy" src="../../images/userscript/timemory_limit_emphasizer.png" alt="timemory limit emphasizer">
     </div>
 
+### 問題の制約条件
+
+- [AtCoder Limit Colorizer](https://github.com/sevenc-nanashi/atcoder-limit-colorizer) - 問題の制約条件の大小に応じて、色分けする。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_limit_colorizer.png" alt="atcoder limit colorizer">
+    </div>
+
 ### 色を表す漢字
 
 - [AtCoderCharacterColorizer](https://greasyfork.org/ja/scripts/429815-atcodercharactercolorizer) - 「問題」ページで、色を表す漢字(赤・青など)をハイライトする。
