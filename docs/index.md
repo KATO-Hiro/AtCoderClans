@@ -115,13 +115,6 @@
     - 「[ヒューリスティック部門 - Java](blogs/heuristic/java)」ページ
         - [uwi](https://atcoder.jp/users/uwi)さん - [はてなブログ](https://uwitenpen.hatenadiary.org/)
 
-=== "動画"
-
-    2024-09-16
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [五色定理・改【ゆっくり解説】](https://www.youtube.com/watch?v=uBy2Vghh--8)
-
 === "ライブラリ・スニペット"
 
     2024-09-24
@@ -132,6 +125,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2024-10-01
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [MNoNamer](https://atcoder.jp/users/MNoNamer)さん - [色変記事：実質2.5ヶ月でRubyとRustを使って入緑した話](https://zenn.dev/mnonamer/articles/atcoder-green)
 
     2024-09-23
 
