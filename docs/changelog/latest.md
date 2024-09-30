@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-10-01
+
+- [#9001](https://github.com/KATO-Hiro/AtCoderClans/pull/9001) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[MNoNamer](https://atcoder.jp/users/MNoNamer)さんの[記事](https://zenn.dev/mnonamer/articles/atcoder-green)を追加。
+
 ### 2024-09-30
 
 - [#8993](https://github.com/KATO-Hiro/AtCoderClans/pull/8993) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
