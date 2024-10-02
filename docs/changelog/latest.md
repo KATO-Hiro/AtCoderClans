@@ -4,6 +4,18 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-10-02
+
+- [#9012](https://github.com/KATO-Hiro/AtCoderClans/pull/9012) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
+- [#9010](https://github.com/KATO-Hiro/AtCoderClans/pull/9010) - 「[Milestones](../../milestones/orange)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2400から2799まで(橙色)に[keisuke6](https://atcoder.jp/users/keisuke6)さんの[記事](https://note.com/keisuke6/n/n20f37585d93b)を追加。
+- [#9009](https://github.com/KATO-Hiro/AtCoderClans/pull/9009) - 「[Related Contest Sites](../../related_contest_sites)」の「[セキュリティ系コンテスト](../../related_contest_sites/security)」ページに、以下のTips集を追加。
+    - [CTF-pwn-tip](https://github.com/Naetw/CTF-pwn-tips) ![GitHub Repo stars](https://img.shields.io/github/stars/Naetw/CTF-pwn-tips?style=plastic)
+- [#9008](https://github.com/KATO-Hiro/AtCoderClans/pull/9008) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
+    - [「AtCoder 競技プログラマー就職企業人気ランキング2024」を発表](https://prtimes.jp/main/html/rd/p/000000049.000028415.html)
+- [#9006](https://github.com/KATO-Hiro/AtCoderClans/pull/9006) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AtCoder Junior League 2024 Summer - 学校ランキング (9月30日時点)](https://x.com/atcoder/status/1840602893814276144)
+
 ### 2024-10-01
 
 - [#9001](https://github.com/KATO-Hiro/AtCoderClans/pull/9001) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

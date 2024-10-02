@@ -83,6 +83,14 @@
 
 === "記事"
 
+    2024-10-02
+
+    - 「[競技プログラミングと就転職](articles/jobs)」ページ
+        - [「AtCoder 競技プログラマー就職企業人気ランキング2024」を発表](https://prtimes.jp/main/html/rd/p/000000049.000028415.html)
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Summer - 学校ランキング (9月30日時点)](https://x.com/atcoder/status/1840602893814276144)
+
     2024-09-30
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -95,6 +103,11 @@
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2024-10-02
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [keisuke6](https://atcoder.jp/users/keisuke6)さん - [note](https://note.com/keisuke6)
 
     2024-09-30
 
@@ -126,6 +139,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2024-10-02
+
+     - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
+        - [keisuke6](https://atcoder.jp/users/keisuke6)さん - [AtCoder 橙になりました！](https://note.com/keisuke6/n/n20f37585d93b)
+
     2024-10-01
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
@@ -141,12 +159,12 @@
     - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
         - [zawatin](https://atcoder.jp/users/zawatin)さん - [AtCoderで入黄しました 【雑談】 - zawatinはてなブログ](https://zawatin.hatenablog.com/entry/2024/09/18/171103)
 
-    2024-09-17
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [ZUkA_](https://atcoder.jp/users/ZUkA_)さん - [数学が苦手な大学生の AtCoder 入水記事](https://note.com/yindolsa/n/n61b2b4f17e78)
-
 === "国内外のコンテストサイト"
+
+    2024-10-02
+
+    - 「[セキュリティ系コンテスト](related_contest_sites/security)」ページ
+        - [CTF-pwn-tip](https://github.com/Naetw/CTF-pwn-tips) ![GitHub Repo stars](https://img.shields.io/github/stars/Naetw/CTF-pwn-tips?style=plastic)
 
     2024-09-28
 
