@@ -53,6 +53,14 @@ title: セキュリティ系コンテスト
 
 ### 記事
 
+#### Tips
+
+- [CTF-pwn-tip](https://github.com/Naetw/CTF-pwn-tips) ![GitHub Repo stars](https://img.shields.io/github/stars/Naetw/CTF-pwn-tips?style=plastic) - Pwnに関するTipsがまとめられている。
+
+!!! warning "注意"
+
+    更新が停止しているため、いくつかの項目に関しては別の資料を参照する必要がある。
+
 #### Advent Calendar
 
 CTFに関する話題を扱ったアドベントカレンダー。
