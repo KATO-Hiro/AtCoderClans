@@ -96,11 +96,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [第11回 Asprova プログラミングコンテスト（AtCoder Heuristic Contest 037）の復習](https://kaede2020.hatenablog.com/entry/2024/09/29/165627)
 
-    2024-09-18
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Summer - 学校ランキング (9月17日時点)](https://x.com/atcoder/status/1835861099616645324)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -118,15 +113,6 @@
 
     - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
         - [mutualns](https://atcoder.jp/users/mutualns)さん - [はてなブログ](https://mutualns.hatenablog.com/)
-
-    2024-09-18
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [LayCurse](https://atcoder.jp/users/LayCurse)さん - [自作ブログ](http://rsujskf.s602.xrea.com/)
-        - [tempura0224](https://atcoder.jp/users/tempura0224)さん - [はてなブログ](https://tempura0224.hatenablog.com/)
-
-    - 「[ヒューリスティック部門 - Java](blogs/heuristic/java)」ページ
-        - [uwi](https://atcoder.jp/users/uwi)さん - [はてなブログ](https://uwitenpen.hatenadiary.org/)
 
 === "ライブラリ・スニペット"
 
