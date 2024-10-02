@@ -18,7 +18,6 @@ title: レーティング1200〜1599(水色)
 - [AtCoder 入水までにやったこと 【Tier形式】](https://note.com/yokoyama_inf/n/nfaea395c71a3) - [RinaX](https://atcoder.jp/users/RinaX)さんが、2024年2月24日に達成。
 - [【色変記事】入水しました - 競プロ日記他](https://utac.hateblo.jp/entry/2024/02/25/223132) - [uta_ccc](https://atcoder.jp/users/uta_ccc)さんが、2024年2月24日に達成。
 - [AtCoderで入水した話 - ragnaのブログ](https://ragnawow.hatenablog.com/entry/2024/02/19/105006) - [ragna](https://atcoder.jp/users/ragna)さんが、2024年2月19日に公開。
-- [AtCoderで水色になりました(入水記事)](https://fiboooo.com/atcoder-lightblue/) - [fibon](https://atcoder.jp/users/fibon)さんが、2024年1月2日に公開。
 
 ## 2023年
 
