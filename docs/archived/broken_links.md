@@ -325,6 +325,9 @@ title: リンク切れ
 
 ### レーティング1200〜1599(水色)
 
+- [AtCoderで水色になりました(入水記事)](https://fiboooo.com/atcoder-lightblue/) - [fibon](https://atcoder.jp/users/fibon)さんが、2024年1月2日に公開。
+    - 確認した日: 2024/10/03
+
 - [水色を踏みました(AtCoder アルゴリズム部門)](https://ynm3n.blogspot.com/2022/12/atcoder.html) - [ynm3n](https://atcoder.jp/users/ynm3n)さんが、2022年12月10日に達成。
     - 確認した日: 2024/05/14
 
