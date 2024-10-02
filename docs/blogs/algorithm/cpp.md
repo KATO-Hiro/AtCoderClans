@@ -77,6 +77,7 @@ title: C&#43;&#43;
 |hotman78|[はてなブログ](https://hotman78.hatenablog.com/)||
 |Jirotech|[はてなブログ](https://shuu0914.hatenablog.com/)||
 |karinohito|[はてなブログ](https://karinohito.hatenablog.com)||
+|keisuke6|[note](https://note.com/keisuke6)||
 |Kite_kuma|[はてなブログ](https://kumakumatime.hateblo.jp/)||
 |kotamanegi|[はてなブログ](https://kotamanegi.hatenablog.com/)||
 |kyuridenamida|[はてなブログ](https://kyuridenamida.hatenablog.com/)|2019年10月以降、新規の記事を確認できず。|
