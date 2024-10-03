@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-10-04
+
+- [#9021](https://github.com/KATO-Hiro/AtCoderClans/pull/9021) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Python](../../articles/implementation/python)」ページに、以下の記事を追加。
+    - [PythonでO(1)ランダムアクセス可能なdequeの新規提案](https://qiita.com/alumite14/items/e4fb361474eb2bebfbff)
+
 ### 2024-10-03
 
 - [#9016](https://github.com/KATO-Hiro/AtCoderClans/pull/9016) - (破壊的な変更) リンク切れと思われる色変記事を一時的に「[Archives](../../archived)」ページに移動。
