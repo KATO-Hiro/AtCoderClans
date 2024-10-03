@@ -83,6 +83,11 @@
 
 === "記事"
 
+    2024-10-04
+
+    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
+        - [PythonでO(1)ランダムアクセス可能なdequeの新規提案](https://qiita.com/alumite14/items/e4fb361474eb2bebfbff)
+
     2024-10-02
 
     - 「[競技プログラミングと就転職](articles/jobs)」ページ
@@ -139,11 +144,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [2bit](https://atcoder.jp/users/2bit)さん - [AtCoder青になったので記録をメモ - nibitのブログ](https://2bitpng.hatenablog.com/entry/2024/09/22/085912)
-
-    2024-09-19
-
-    - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
-        - [zawatin](https://atcoder.jp/users/zawatin)さん - [AtCoderで入黄しました 【雑談】 - zawatinはてなブログ](https://zawatin.hatenablog.com/entry/2024/09/18/171103)
 
 === "国内外のコンテストサイト"
 
