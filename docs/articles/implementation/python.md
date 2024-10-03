@@ -79,6 +79,7 @@ title: Python
 ### 両端キュー
 
 - [Pythonで各要素にO(1)でランダムアクセスできるdeque(両端キュー)を書いてみた](https://prd-xxx.hateblo.jp/entry/2020/02/07/114818) - `deque`モジュールの基本的な機能に加えて、ランダムアクセス(indexを指定したアクセス)による参照・変更がO(1)で実行できる方法を紹介した記事。
+    - [PythonでO(1)ランダムアクセス可能なdequeの新規提案](https://qiita.com/alumite14/items/e4fb361474eb2bebfbff) - 上記の記事を踏まえて、`stack`を2つ使った実装例とベンチマークが紹介されている。
 
 ### 順序付き(多重)集合の代替手段
 
