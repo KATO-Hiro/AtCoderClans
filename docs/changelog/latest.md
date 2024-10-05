@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-10-05
+
+- [#9024](https://github.com/KATO-Hiro/AtCoderClans/pull/9024) - (破壊的な変更) 「[Change Log](../latest)」ページの2024年8月分を月別のアーカイブに移動。
+    - [August, 2024](../2024_08)
+
 ### 2024-10-04
 
 - [#9021](https://github.com/KATO-Hiro/AtCoderClans/pull/9021) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Python](../../articles/implementation/python)」ページに、以下の記事を追加。
