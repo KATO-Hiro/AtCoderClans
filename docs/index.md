@@ -76,11 +76,6 @@
     - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
         - [Atcoder Submission Shortcut](https://greasyfork.org/ja/scripts/509606-atcoder-submission-shortcut)
 
-    2024-09-20
-
-    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
-        - [AtCoder-RedirectRecentABC](https://greasyfork.org/ja/scripts/508772-atcoder-redirectrecentabc)
-
 === "記事"
 
     2024-10-04
