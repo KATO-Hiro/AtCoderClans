@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-10-06
+
+- [#9028](https://github.com/KATO-Hiro/AtCoderClans/pull/9028) - 「[Libraries and Snippets](../../libraries)」の「[Rust](../../libraries/rust)」ページに、主にRustで実装されたライブラリを追加。
+    - [magurofly/shed](https://github.com/magurofly/shed) ![GitHub Repo stars](https://img.shields.io/github/stars/magurofly/shed?style=plastic)
+
 ### 2024-10-05
 
 - [#9024](https://github.com/KATO-Hiro/AtCoderClans/pull/9024) - (破壊的な変更) 「[Change Log](../latest)」ページの2024年8月分を月別のアーカイブに移動。
