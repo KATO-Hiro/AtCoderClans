@@ -116,6 +116,11 @@
 
 === "ライブラリ・スニペット"
 
+    2024-10-06
+
+    - 「[Rust](libraries/rust)」ページ
+        - [magurofly/shed](https://github.com/magurofly/shed) ![GitHub Repo stars](https://img.shields.io/github/stars/magurofly/shed?style=plastic)
+
     2024-09-24
 
     - 「[Rust](libraries/rust)」ページ
@@ -175,11 +180,6 @@
     <div align="center">
       <img loading="lazy" src="images/related_contest_sites/ctf/cryptohack.png" alt="cryptohack">
     </div>
-
-    2024-09-21
-
-    - 「[セキュリティ系コンテスト](related_contest_sites/security)」ページ
-        - [Dreamhack](https://dreamhack.io/ctf)
 
 === "アーカイブス"
 
