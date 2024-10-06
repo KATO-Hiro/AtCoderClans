@@ -148,6 +148,18 @@ title: コンテストの成績や関連する統計情報を見る
       <img loading = "lazy" src="../../images/userscript/atcoder_rating_cumlative_distribution.png" alt="atcoder rating cumlative distribution">
     </div>
 
+### レーティングに基づいた順位のパーセンタイル値
+
+- [AtCoder - You're top X%](https://greasyfork.org/ja/scripts/511580-atcoder-you-re-top-x-only-for-algorithm-ranking) - 「プロフィール」ページに、アクティブユーザの上位何%に相当するかを表示する。
+
+    !!! info "参考"
+
+        2024年10月上旬時点では、「アルゴリズム部門」に対応している。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_youre_top_xpercent.png" alt="atcoder you're top x percent">
+    </div>
+
 ### 正解した問題の総得点の推移
 
 - [AtcoderDevotionGraph](https://greasyfork.org/ja/scripts/416588-atcoderdevotiongraph) - 「ユーザ」ページのレーティンググラフに、ACした問題の総得点の推移を上書き表示する。
