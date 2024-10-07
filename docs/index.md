@@ -87,6 +87,11 @@
 
 === "記事"
 
+    2024-10-08
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Winter - 学校ランキング (10月7日時点)](https://x.com/atcoder/status/1843137096841875936)
+
     2024-10-04
 
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
@@ -148,11 +153,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [MNoNamer](https://atcoder.jp/users/MNoNamer)さん - [色変記事：実質2.5ヶ月でRubyとRustを使って入緑した話](https://zenn.dev/mnonamer/articles/atcoder-green)
-
-    2024-09-23
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [2bit](https://atcoder.jp/users/2bit)さん - [AtCoder青になったので記録をメモ - nibitのブログ](https://2bitpng.hatenablog.com/entry/2024/09/22/085912)
 
 === "国内外のコンテストサイト"
 
