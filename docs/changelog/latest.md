@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-10-07
+
+- [#9032](https://github.com/KATO-Hiro/AtCoderClans/pull/9032) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder - You're top X%](https://greasyfork.org/ja/scripts/511580-atcoder-you-re-top-x-only-for-algorithm-ranking)
+
 ### 2024-10-06
 
 - [#9028](https://github.com/KATO-Hiro/AtCoderClans/pull/9028) - 「[Libraries and Snippets](../../libraries)」の「[Rust](../../libraries/rust)」ページに、主にRustで実装されたライブラリを追加。
