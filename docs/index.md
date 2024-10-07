@@ -62,6 +62,15 @@
 
 === "ユーザスクリプト"
 
+    2024-10-07
+
+    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
+        - [AtCoder - You're top X%](https://greasyfork.org/ja/scripts/511580-atcoder-you-re-top-x-only-for-algorithm-ranking)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_youre_top_xpercent.png" alt="atcoder you're top x percent">
+    </div>
+
     2024-09-29
 
     - 「[Webページに色付けする](user_scripts/colors)」ページ
@@ -163,22 +172,6 @@
 
     <div align="center">
       <img loading="lazy" src="images/related_contest_sites/ctf/hackall.png" alt="hackall">
-    </div>
-
-    2024-09-22
-
-    - 「[セキュリティ系コンテスト](related_contest_sites/security)」ページ
-        - [picoCTF](https://play.picoctf.org/practice)
-
-    <div align="center">
-      <img loading="lazy" src="images/related_contest_sites/ctf/picoCTF.png" alt="picoCTF">
-    </div>
-
-    - 「[セキュリティ系コンテスト](related_contest_sites/security)」ページ
-        - [CryptoHack](https://cryptohack.org/)
-
-    <div align="center">
-      <img loading="lazy" src="images/related_contest_sites/ctf/cryptohack.png" alt="cryptohack">
     </div>
 
 === "アーカイブス"
