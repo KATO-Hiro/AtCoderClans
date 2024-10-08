@@ -50,6 +50,8 @@ title: コンテストに参加する
       <img loading="lazy" src="../../images/userscript/atcoder_navbar_restrictor.png" alt="atcoder navbar restrictor">
     </div>
 
+- [AtCoder Customize Panel Fix](https://greasyfork.org/ja/scripts/511359-atcoder-customize-panel-fix) - 「順位表」ページをリロードしたときに、カスタマイズパネルを開いたままにする。
+
 ### シングルディスプレイの表示を最適化
 
 - [AtCoder Style Optimizer for Single Display](https://greasyfork.org/ja/scripts/463585-atcoder-style-optimizer-for-single-display) - [AtCoder](https://atcoder.jp/)の各ページの横幅を最大まで広げて表示する。
