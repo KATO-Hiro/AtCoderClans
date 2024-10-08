@@ -62,6 +62,11 @@
 
 === "ユーザスクリプト"
 
+    2024-10-09
+
+    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
+        - [AtCoder Customize Panel Fix](https://greasyfork.org/ja/scripts/511359-atcoder-customize-panel-fix)
+
     2024-10-07
 
     - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
@@ -134,11 +139,6 @@
 
     - 「[Rust](libraries/rust)」ページ
         - [magurofly/shed](https://github.com/magurofly/shed) ![GitHub Repo stars](https://img.shields.io/github/stars/magurofly/shed?style=plastic)
-
-    2024-09-24
-
-    - 「[Rust](libraries/rust)」ページ
-        - [tayu0110/tayu-procon](https://github.com/tayu0110/tayu-procon) ![GitHub Repo stars](https://img.shields.io/github/stars/tayu0110/tayu-procon?style=plastic)
 
 === "色変記事"
 
