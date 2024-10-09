@@ -144,6 +144,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2024-10-10
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [Rin_statistics](https://atcoder.jp/users/Rin_statistics)さん - [【AtCoder】非ITエンジニアですが入緑しました](https://qiita.com/Rin_statistics/items/b0555784eb8725a57833)
+
     2024-10-02
 
      - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ

@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-10-10
+
+- [#9044](https://github.com/KATO-Hiro/AtCoderClans/pull/9044) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[Rin_statistics](https://atcoder.jp/users/Rin_statistics)さんの[記事](https://qiita.com/Rin_statistics/items/b0555784eb8725a57833)を追加。
+
 ### 2024-10-09
 
 - [#9040](https://github.com/KATO-Hiro/AtCoderClans/pull/9040) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
