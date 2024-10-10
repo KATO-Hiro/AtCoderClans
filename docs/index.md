@@ -133,6 +133,13 @@
     - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
         - [mutualns](https://atcoder.jp/users/mutualns)さん - [はてなブログ](https://mutualns.hatenablog.com/)
 
+=== "動画"
+
+    2024-10-11
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [どんな数も「114514」で表すツール【ゆっくり解説】](https://www.youtube.com/watch?v=Sl64oiwG0yE)
+
 === "ライブラリ・スニペット"
 
     2024-10-06
