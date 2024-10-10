@@ -6,7 +6,7 @@ title: Change Log
 
 ### 2024-10-11
 
-- [#8902](https://github.com/KATO-Hiro/AtCoderClans/pull/8902) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+- [#9049](https://github.com/KATO-Hiro/AtCoderClans/pull/9049) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
     - [どんな数も「114514」で表すツール【ゆっくり解説】](https://www.youtube.com/watch?v=Sl64oiwG0yE)
 
 ### 2024-10-10
