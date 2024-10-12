@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-10-12
+
+- [#9055](https://github.com/KATO-Hiro/AtCoderClans/pull/9055) - 「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
+    - [hos-lyric/libra](https://github.com/hos-lyric/libra) ![GitHub stars](https://img.shields.io/github/stars/hos-lyric/libra?style=plastic)
+- [#9053](https://github.com/KATO-Hiro/AtCoderClans/pull/9053) - (破壊的な変更) リンク切れと思われる記事を一時的に「[Archives](../../archived)」ページに移動。
+
 ### 2024-10-11
 
 - [#9049](https://github.com/KATO-Hiro/AtCoderClans/pull/9049) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
