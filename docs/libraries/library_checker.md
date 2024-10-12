@@ -4,7 +4,6 @@ title: ライブラリチェッカー
 
 - [Library Checker Problems](https://judge.yosupo.jp/) ![GitHub stars](https://img.shields.io/github/stars/yosupo06/library-checker-problems?style=plastic) - オンラインジャッジシステムにより、ライブラリが正しく実装されているか確認できる。初心者向けに[有志による解説記事のまとめ](https://qiita.com/hotman78/items/b8986a23b8fdfe25c9fb)も公開されている。サービスで使用されている技術に関心がある方は、[作者による紹介記事](https://yosupo.hatenablog.com/entry/2020/01/02/001617)を参照されたい。
     - [library-checker-testcases](https://github.com/hotman78/library-checker-testcases) ![GitHub Repo stars](https://img.shields.io/github/stars/hotman78/library-checker-testcases?style=plastic) - 有志によりテストケースのリストが公開されている。
-    - [競プロAdC やってるみたいなので Library Checker の解法紹介をぶっこむ](https://www.mathenachia.blog/library-report-2022/) - 有志が問題の解法を解説した記事。
 
   <div align="center">
     <img loading = "lazy" src="../../images/library/library_checker.png" alt="library checker">
