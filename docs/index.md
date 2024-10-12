@@ -85,11 +85,6 @@
       <img loading="lazy" src="images/userscript/atcoder_limit_colorizer.png" alt="atcoder limit colorizer">
     </div>
 
-    2024-09-26
-
-    - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
-        - [Atcoder Submission Shortcut](https://greasyfork.org/ja/scripts/509606-atcoder-submission-shortcut)
-
 === "記事"
 
     2024-10-08
@@ -141,6 +136,11 @@
         - [どんな数も「114514」で表すツール【ゆっくり解説】](https://www.youtube.com/watch?v=Sl64oiwG0yE)
 
 === "ライブラリ・スニペット"
+
+    2024-10-12
+
+    - 「[C++](libraries/cpp)」ページ
+        - [hos-lyric/libra](https://github.com/hos-lyric/libra) ![GitHub stars](https://img.shields.io/github/stars/hos-lyric/libra?style=plastic)
 
     2024-10-06
 
