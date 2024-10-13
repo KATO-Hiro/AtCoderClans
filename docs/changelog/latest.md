@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-10-13
+
+- [#9061](https://github.com/KATO-Hiro/AtCoderClans/pull/9061) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[Eunha](https://atcoder.jp/users/Eunha)さんの[記事](https://riyuna.hatenablog.com/entry/2024/02/07/003642)を追加。
+
 ### 2024-10-12
 
 - [#9055](https://github.com/KATO-Hiro/AtCoderClans/pull/9055) - 「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。

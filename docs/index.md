@@ -151,6 +151,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2024-10-13
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [Eunha](https://atcoder.jp/users/Eunha)さん - [AtCoder 入青しました！(+ユリ漫画のおすすめ)](https://riyuna.hatenablog.com/entry/2024/02/07/003642)
+
     2024-10-10
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
