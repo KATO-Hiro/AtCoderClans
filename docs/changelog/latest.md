@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-10-15
+
+- [#9070](https://github.com/KATO-Hiro/AtCoderClans/pull/9070) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [トヨタ自動車プログラミングコンテスト2024#10（AtCoder Heuristic Contest 038）参加記](https://kaede2020.hatenablog.com/entry/2024/10/14/190050)
+
 ### 2024-10-14
 
 - [#9065](https://github.com/KATO-Hiro/AtCoderClans/pull/9065) - [nonon](https://twitter.com/nonon_math)さんのご紹介で、「[Related Contest Sites](../../related_contest_sites)」の「[BOJ (Baekjoon Online Judge)](../../related_contest_sites/boj)」ページに、以下の記事を追加。
