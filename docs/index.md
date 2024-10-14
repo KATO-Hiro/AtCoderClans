@@ -78,6 +78,11 @@
 
 === "記事"
 
+    2024-10-15
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [トヨタ自動車プログラミングコンテスト2024#10（AtCoder Heuristic Contest 038）参加記](https://kaede2020.hatenablog.com/entry/2024/10/14/190050)
+
     2024-10-08
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -96,11 +101,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Summer - 学校ランキング (9月30日時点)](https://x.com/atcoder/status/1840602893814276144)
 
-    2024-09-30
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [第11回 Asprova プログラミングコンテスト（AtCoder Heuristic Contest 037）の復習](https://kaede2020.hatenablog.com/entry/2024/09/29/165627)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -108,11 +108,6 @@
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [keisuke6](https://atcoder.jp/users/keisuke6)さん - [note](https://note.com/keisuke6)
-
-    2024-09-30
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [Series_205](https://atcoder.jp/users/Series_205)さん - [Qiita](https://qiita.com/Series_205)
 
 === "動画"
 
