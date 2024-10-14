@@ -76,15 +76,6 @@
       <img loading="lazy" src="images/userscript/atcoder_youre_top_xpercent.png" alt="atcoder you're top x percent">
     </div>
 
-    2024-09-29
-
-    - 「[Webページに色付けする](user_scripts/colors)」ページ
-        - [AtCoder Limit Colorizer](https://github.com/sevenc-nanashi/atcoder-limit-colorizer)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_limit_colorizer.png" alt="atcoder limit colorizer">
-    </div>
-
 === "記事"
 
     2024-10-08
@@ -122,11 +113,6 @@
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [Series_205](https://atcoder.jp/users/Series_205)さん - [Qiita](https://qiita.com/Series_205)
-
-    2024-09-29
-
-    - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
-        - [mutualns](https://atcoder.jp/users/mutualns)さん - [はてなブログ](https://mutualns.hatenablog.com/)
 
 === "動画"
 
@@ -173,31 +159,16 @@
 
 === "国内外のコンテストサイト"
 
+    2024-10-14
+
+    - 「[BOJ (Baekjoon Online Judge)](related_contest_sites/boj)」ページ
+        - [韓国最大のオンラインジャッジサイトBOJとは？あと、solved.acとは？](https://riyuna.hatenablog.com/entry/2023/12/20/084520)
+        - [Baekjoon Online Judge について](https://kkt89.hatenablog.com/entry/2022/12/04/Baekjoon_Online_Judge_%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
+
     2024-10-02
 
     - 「[セキュリティ系コンテスト](related_contest_sites/security)」ページ
         - [CTF-pwn-tip](https://github.com/Naetw/CTF-pwn-tips) ![GitHub Repo stars](https://img.shields.io/github/stars/Naetw/CTF-pwn-tips?style=plastic)
-
-    2024-09-28
-
-    - 「[セキュリティ系コンテスト](related_contest_sites/security)」ページ
-        <!-- markdown-link-check-disable -->
-
-        - [HackAll v3](https://hackall.tech/)
-
-        <!-- markdown-link-check-enable -->
-
-    <div align="center">
-      <img loading="lazy" src="images/related_contest_sites/ctf/hackall.png" alt="hackall">
-    </div>
-
-=== "アーカイブス"
-
-    諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
-
-    2024-09-28
-
-    - Hisui
 
 ## AtCoder公式グッズを購入する
 
