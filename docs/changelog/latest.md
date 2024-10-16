@@ -4,6 +4,16 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-10-16
+
+- [#9080](https://github.com/KATO-Hiro/AtCoderClans/pull/9080) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページに、以下のWebサイトを追加。
+    - [wladimirleite.github.io](https://github.com/wladimirleite/wladimirleite.github.io) ![GitHub Repo stars](https://img.shields.io/github/stars/wladimirleite/wladimirleite.github.io?style=plastic)
+        - [AHC 038](https://wladimirleite.github.io/ahc038.html)
+- [#9078](https://github.com/KATO-Hiro/AtCoderClans/pull/9078) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [1 辺を除いたときの最短路長](https://noshi91.hatenablog.com/entry/2024/10/14/164225)
+- [#9077](https://github.com/KATO-Hiro/AtCoderClans/pull/9077) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AtCoder Junior League 2024 Winter - 学校ランキング (10月15日時点)](https://x.com/atcoder/status/1846023207230616014)
+
 ### 2024-10-15
 
 - [#9070](https://github.com/KATO-Hiro/AtCoderClans/pull/9070) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。

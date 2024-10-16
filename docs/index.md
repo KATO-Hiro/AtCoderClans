@@ -60,6 +60,19 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "Webアプリ・Webサイト"
+
+    2024-10-16
+
+    - 「[コンテストに関する統計情報](web_app/statistics)」ページ
+
+        - [wladimirleite.github.io](https://github.com/wladimirleite/wladimirleite.github.io) ![GitHub Repo stars](https://img.shields.io/github/stars/wladimirleite/wladimirleite.github.io?style=plastic)
+            - [AHC 038](https://wladimirleite.github.io/ahc038.html)
+
+    <div align="center">
+      <img loading = "lazy" src="images/web_app/wladimirleite_github_io.png" alt="wladimirleite github io">
+    </div>
+
 === "ユーザスクリプト"
 
     2024-10-09
@@ -77,6 +90,14 @@
     </div>
 
 === "記事"
+
+    2024-10-16
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [1 辺を除いたときの最短路長](https://noshi91.hatenablog.com/entry/2024/10/14/164225)
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Winter - 学校ランキング (10月15日時点)](https://x.com/atcoder/status/1846023207230616014)
 
     2024-10-15
 

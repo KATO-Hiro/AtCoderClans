@@ -81,7 +81,7 @@ title: コンテストに関する統計情報
         - [AHC 008](https://wladimirleite.github.io/ahc008.html)
 
     <div align="center">
-      <img loading = "lazy" src="../../images/web_app/tc_wleite_github_io.png" alt="tc wleite github io">
+      <img loading = "lazy" src="../../images/web_app/wladimirleite_github_io.png" alt="wladimirleite github io">
     </div>
 
 ### 成績の平均値・最高値
