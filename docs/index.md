@@ -168,11 +168,6 @@
      - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
         - [keisuke6](https://atcoder.jp/users/keisuke6)さん - [AtCoder 橙になりました！](https://note.com/keisuke6/n/n20f37585d93b)
 
-    2024-10-01
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [MNoNamer](https://atcoder.jp/users/MNoNamer)さん - [色変記事：実質2.5ヶ月でRubyとRustを使って入緑した話](https://zenn.dev/mnonamer/articles/atcoder-green)
-
 === "国内外のコンテストサイト"
 
     2024-10-14
