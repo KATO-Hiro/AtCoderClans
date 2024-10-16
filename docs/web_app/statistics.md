@@ -67,6 +67,23 @@ title: コンテストに関する統計情報
       <img loading = "lazy" src="../../images/web_app/scorerun.png" alt="scorerun">
     </div>
 
+- [wladimirleite.github.io](https://github.com/wladimirleite/wladimirleite.github.io) ![GitHub Repo stars](https://img.shields.io/github/stars/wladimirleite/wladimirleite.github.io?style=plastic) - [AtCoder Heuristic Contest (AHC)](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=)の最終成績や制約条件別の得点・順位を見ることができる。[Topcoder](https://www.topcoder.com/)のMarathon Matches(MM)についても、同様の集計がされている。
+    - [AHC 038](https://wladimirleite.github.io/ahc038.html)
+
+    ??? info "過去のAHCの集計結果"
+
+        - [AHC 031](https://wladimirleite.github.io/ahc031.html)
+        - [AHC 017](https://wladimirleite.github.io/ahc017.html)
+        - [AHC 016](https://wladimirleite.github.io/ahc016.html)
+        - [AHC 014](https://wladimirleite.github.io/ahc014.html)
+        - [AHC 013](https://wladimirleite.github.io/ahc013.html)
+        - [AHC 011](https://wladimirleite.github.io/ahc011.html)
+        - [AHC 008](https://wladimirleite.github.io/ahc008.html)
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/tc_wleite_github_io.png" alt="tc wleite github io">
+    </div>
+
 ### 成績の平均値・最高値
 
 - [AtCoder QQ](https://atcoder-qq.vercel.app/) - コンテストの順位を、最高順位が含まれる形で表形式 (縦軸: 10の位、横軸: 1の位) で示す。また、セルをクリックすると、該当するコンテスト情報が表示される。
