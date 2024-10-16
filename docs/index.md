@@ -91,6 +91,11 @@
 
 === "記事"
 
+    2024-10-17
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Winter - 学校ランキング (10月16日時点)](https://x.com/atcoder/status/1846352329563410495)
+
     2024-10-16
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
@@ -113,22 +118,6 @@
 
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
         - [PythonでO(1)ランダムアクセス可能なdequeの新規提案](https://qiita.com/alumite14/items/e4fb361474eb2bebfbff)
-
-    2024-10-02
-
-    - 「[競技プログラミングと就転職](articles/jobs)」ページ
-        - [「AtCoder 競技プログラマー就職企業人気ランキング2024」を発表](https://prtimes.jp/main/html/rd/p/000000049.000028415.html)
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Summer - 学校ランキング (9月30日時点)](https://x.com/atcoder/status/1840602893814276144)
-
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2024-10-02
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [keisuke6](https://atcoder.jp/users/keisuke6)さん - [note](https://note.com/keisuke6)
 
 === "動画"
 
@@ -163,11 +152,6 @@
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [Rin_statistics](https://atcoder.jp/users/Rin_statistics)さん - [【AtCoder】非ITエンジニアですが入緑しました](https://qiita.com/Rin_statistics/items/b0555784eb8725a57833)
 
-    2024-10-02
-
-     - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
-        - [keisuke6](https://atcoder.jp/users/keisuke6)さん - [AtCoder 橙になりました！](https://note.com/keisuke6/n/n20f37585d93b)
-
 === "国内外のコンテストサイト"
 
     2024-10-14
@@ -175,11 +159,6 @@
     - 「[BOJ (Baekjoon Online Judge)](related_contest_sites/boj)」ページ
         - [韓国最大のオンラインジャッジサイトBOJとは？あと、solved.acとは？](https://riyuna.hatenablog.com/entry/2023/12/20/084520)
         - [Baekjoon Online Judge について](https://kkt89.hatenablog.com/entry/2022/12/04/Baekjoon_Online_Judge_%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
-
-    2024-10-02
-
-    - 「[セキュリティ系コンテスト](related_contest_sites/security)」ページ
-        - [CTF-pwn-tip](https://github.com/Naetw/CTF-pwn-tips) ![GitHub Repo stars](https://img.shields.io/github/stars/Naetw/CTF-pwn-tips?style=plastic)
 
 ## AtCoder公式グッズを購入する
 
