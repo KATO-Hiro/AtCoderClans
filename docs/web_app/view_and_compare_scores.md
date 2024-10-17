@@ -25,10 +25,10 @@ title: コンテストの成績を見る
 
 #### アルゴリズム部門・ヒューリスティック部門
 
-- [AtCoder Rating Contributor Graph](https://atcoder-rating-contribution-graph.vercel.app/) - 任意のユーザのレーティングに対して、各コンテストにおけるパフォーマンス値の寄与度を可視化する。
+- [AtCoder Graphs](https://atcoder-graphs.vercel.app/) - 任意のユーザのレーティングに対して、各コンテストにおけるパフォーマンス値の寄与度を表示する。また、アルゴリズム部門を対象として、得点別のパフォーマンス値の時間推移や各問題におけるレーティング別の正解率なども閲覧できる。
 
     <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_rating_contributor_graph.png" alt="atcoder rating contributor graph">
+      <img loading = "lazy" src="../../images/web_app/atcoder_graphs.png" alt="atcoder graph">
     </div>
 
 ### 2人以上

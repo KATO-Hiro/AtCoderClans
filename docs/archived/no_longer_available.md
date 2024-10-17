@@ -105,6 +105,14 @@ title: 開発・提供終了
 
 ### コンテストの成績を見る
 
+- [AtCoder Rating Contributor Graph](https://atcoder-rating-contribution-graph.vercel.app/) - 任意のユーザのレーティングに対して、各コンテストにおけるパフォーマンス値の寄与度を可視化する。
+    - 理由: 作者からサービスの提供終了(予定)の連絡を受けたため ([出典](https://github.com/KATO-Hiro/AtCoderClans/issues/9086))。
+    - 代替手段: [AtCoder Graphs](https://atcoder-graphs.vercel.app/)を利用する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_rating_contributor_graph.png" alt="atcoder rating contributor graph">
+    </div>
+
 - [AtCoder Marathon Rating History](https://iilj.github.io/AtCoderMarathonRatingHistory/#/rating/) - [AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=0&category=1200&keyword=AtCoder+Heuristic+Contest)のレーティングの推移を表示する。
     - 理由: AtCoderで、ヒューリテスィックコンテストのランキング・レーティンググラフが実装されたため。
     - 対処方法: AtCoderの[ランキングページ](https://atcoder.jp/ranking?contestType=heuristic)やプロフィールページを閲覧する。
