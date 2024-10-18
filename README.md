@@ -72,6 +72,7 @@
 ### 🙂 Special Supporter
 
 - otsuneko
+- yunix-kyopro
 
 ## 各ページの説明
 
