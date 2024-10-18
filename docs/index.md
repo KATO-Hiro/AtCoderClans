@@ -227,3 +227,4 @@
 ### 🙂 Special Supporter
 
 - otsuneko
+- yunix-kyopro
