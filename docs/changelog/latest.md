@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-10-18
+
+- [#9089](https://github.com/KATO-Hiro/AtCoderClans/pull/9089) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績を見る](../../web_app/view_and_compare_scores)」ページに、以下のWebアプリを追加。
+    - [AtCoder Graphs](https://atcoder-graphs.vercel.app/)
+
 ### 2024-10-17
 
 - [#9084](https://github.com/KATO-Hiro/AtCoderClans/pull/9084) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
