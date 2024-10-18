@@ -6,6 +6,8 @@ title: Change Log
 
 ### 2024-10-18
 
+- [#9093](https://github.com/KATO-Hiro/AtCoderClans/pull/9093) - [Home](../..)ページに、本サービスのスポンサー(敬称略)を掲載。ご支援いただき、ありがとうございます。
+    - [yunix-kyopro](https://github.com/yunix-kyopro)
 - [#9089](https://github.com/KATO-Hiro/AtCoderClans/pull/9089) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績を見る](../../web_app/view_and_compare_scores)」ページに、以下のWebアプリを追加。
     - [AtCoder Graphs](https://atcoder-graphs.vercel.app/)
 
