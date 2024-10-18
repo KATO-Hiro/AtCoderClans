@@ -62,6 +62,23 @@
 
 === "Webアプリ・Webサイト"
 
+    2024-10-18
+
+    - 「[コンテストの成績を見る](web_app/view_and_compare_scores)」ページ
+        - [AtCoder Graphs](https://atcoder-graphs.vercel.app/)
+
+    <div align="center">
+      <img loading = "lazy" src="images/web_app/atcoder_graphs.png" alt="atcoder graph">
+    </div>
+
+    <div align="center">
+      <img loading = "lazy" src="images/web_app/atcoder_graphs2.png" alt="atcoder graph">
+    </div>
+
+    <div align="center">
+      <img loading = "lazy" src="images/web_app/atcoder_graphs3.png" alt="atcoder graph">
+    </div>
+
     2024-10-16
 
     - 「[コンテストに関する統計情報](web_app/statistics)」ページ
@@ -159,6 +176,14 @@
     - 「[BOJ (Baekjoon Online Judge)](related_contest_sites/boj)」ページ
         - [韓国最大のオンラインジャッジサイトBOJとは？あと、solved.acとは？](https://riyuna.hatenablog.com/entry/2023/12/20/084520)
         - [Baekjoon Online Judge について](https://kkt89.hatenablog.com/entry/2022/12/04/Baekjoon_Online_Judge_%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
+
+=== "アーカイブス"
+
+    諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2024-10-18
+
+    - AtCoder Rating Contributor Graph
 
 ## AtCoder公式グッズを購入する
 
