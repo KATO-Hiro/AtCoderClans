@@ -92,6 +92,11 @@
 
 === "ユーザスクリプト"
 
+    2024-10-19
+
+    - 「[ネタスクリプト](user_scripts/jokes)」ページ
+        - [AtCoder♡♡](https://greasyfork.org/ja/scripts/512956-atcoder)
+
     2024-10-09
 
     - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
@@ -131,10 +136,16 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Winter - 学校ランキング (10月7日時点)](https://x.com/atcoder/status/1843137096841875936)
 
-    2024-10-04
+=== "ブログ"
+    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
-    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
-        - [PythonでO(1)ランダムアクセス可能なdequeの新規提案](https://qiita.com/alumite14/items/e4fb361474eb2bebfbff)
+    2024-10-19
+
+    - 「[ヒューリスティック部門 - Go](blogs/heuristic/go)」ページ
+        - [montplusa](https://atcoder.jp/users/montplusa)さん - [はてなブログ](https://montplusa.hatenablog.com/archive)
+
+    - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
+        - [nishigake](https://atcoder.jp/users/nishigake)さん - [はてなブログ](https://blog.nishigake.net/posts)
 
 === "動画"
 
@@ -181,7 +192,7 @@
 
     諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
 
-    2024-10-18
+    2024-10-19
 
     - AtCoder Rating Contributor Graph
 
