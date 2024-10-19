@@ -21,5 +21,6 @@ title: Python
 |:--:|:--:|:--|
 |cozy_sauna|[Qiita](https://qiita.com/cozy_sauna/)||
 |Koi51|[Qiita](https://qiita.com/koi51)||
+|nishigake|[はてなブログ](https://blog.nishigake.net/posts)|C++で実装されている回答もある。|
 |titia|[Blogger](https://titianote.blogspot.com/)||
 |uta_ccc|[はてなブログ](https://utac.hateblo.jp/)||
