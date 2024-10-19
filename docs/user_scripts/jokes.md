@@ -16,6 +16,12 @@ title: ネタスクリプト
 
 - [文字化けcoder](https://greasyfork.org/ja/scripts/485969-%E6%96%87%E5%AD%97%E5%8C%96%E3%81%91coder) - 問題文の一部に文字化けが発生するようになる。
 
+- [AtCoder♡♡](https://greasyfork.org/ja/scripts/512956-atcoder) - 問題文の一部に対して、「♡♡」を含む内容に置き換える。
+
+    !!! info "参考"
+
+        日本語の問題文のみ対応。
+
 ## 問題の正誤判定の表記を書き換え
 
 - [AC そのまさかだよ](https://greasyfork.org/ja/scripts/439526-ac-%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%95%E3%81%8B%E3%81%A0%E3%82%88) - 「提出結果」ページの正誤判定のうち、「AC(Acceptedの略記)」を「AC そのまさかだよ」に置き換える([元ネタの出典](https://twitter.com/microkents/status/1208346268872790016?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1208346268872790016%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fkaage.hatenablog.com%2Fentry%2F2020%2F05%2F04%2F142125))。
