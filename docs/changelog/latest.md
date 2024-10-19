@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-10-19
+
+- [#9100](https://github.com/KATO-Hiro/AtCoderClans/pull/9100) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+- [#9089](https://github.com/KATO-Hiro/AtCoderClans/pull/9089)、[#9099](https://github.com/KATO-Hiro/AtCoderClans/pull/9099) - (破壊的な変更) サービス提供終了したWebアプリを「[Archives](../../archived)」ページに移動。
+    - AtCoder Rating Contributor Graph
+- [#9097](https://github.com/KATO-Hiro/AtCoderClans/pull/9097) - 「[Scripts](../../scripts)」の「[ネタスクリプト](../../user_scripts/jokes)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder♡♡](https://greasyfork.org/ja/scripts/512956-atcoder)
+
 ### 2024-10-18
 
 - [#9093](https://github.com/KATO-Hiro/AtCoderClans/pull/9093) - [Home](../..)ページに、本サービスのスポンサー(敬称略)を掲載。ご支援いただき、ありがとうございます。
