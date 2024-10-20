@@ -149,6 +149,11 @@
 
 === "動画"
 
+    2024-10-20
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [7分で入試数学史上最難問【ゆっくり解説】](https://www.youtube.com/watch?v=paYeCZuBhhA)
+
     2024-10-11
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
