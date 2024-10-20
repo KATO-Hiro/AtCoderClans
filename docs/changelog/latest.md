@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-10-21
+
+- [#9109](https://github.com/KATO-Hiro/AtCoderClans/pull/9109) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [AHC038でビームサーチをしてみよう！](https://montplusa.hatenablog.com/entry/2024/10/17/174500)
+
 ### 2024-10-20
 
 - [#9106](https://github.com/KATO-Hiro/AtCoderClans/pull/9106) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。

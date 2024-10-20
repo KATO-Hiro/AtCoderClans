@@ -113,6 +113,11 @@
 
 === "記事"
 
+    2024-10-21
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AHC038でビームサーチをしてみよう！](https://montplusa.hatenablog.com/entry/2024/10/17/174500)
+
     2024-10-17
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -165,11 +170,6 @@
 
     - 「[C++](libraries/cpp)」ページ
         - [hos-lyric/libra](https://github.com/hos-lyric/libra) ![GitHub stars](https://img.shields.io/github/stars/hos-lyric/libra?style=plastic)
-
-    2024-10-06
-
-    - 「[Rust](libraries/rust)」ページ
-        - [magurofly/shed](https://github.com/magurofly/shed) ![GitHub Repo stars](https://img.shields.io/github/stars/magurofly/shed?style=plastic)
 
 === "色変記事"
 
