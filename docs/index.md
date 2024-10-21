@@ -102,16 +102,12 @@
     - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
         - [AtCoder Customize Panel Fix](https://greasyfork.org/ja/scripts/511359-atcoder-customize-panel-fix)
 
-    2024-10-07
-
-    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
-        - [AtCoder - You're top X%](https://greasyfork.org/ja/scripts/511580-atcoder-you-re-top-x-only-for-algorithm-ranking)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_youre_top_xpercent.png" alt="atcoder you're top x percent">
-    </div>
-
 === "記事"
+
+    2024-10-22
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Winter - 学校ランキング (10月21日時点)](https://x.com/atcoder/status/1848216655513735519)
 
     2024-10-21
 
