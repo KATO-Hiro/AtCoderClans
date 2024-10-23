@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-10-24
+
+- [#9126](https://github.com/KATO-Hiro/AtCoderClans/pull/9126) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
+    - [世界ランク最高2位のアルゴリズムエンジニアが、ALGO ARTISに入社した理由](https://note.com/algoartis/n/nf62e1ba1c4ab)
+
 ### 2024-10-23
 
 - [#9121](https://github.com/KATO-Hiro/AtCoderClans/pull/9121) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。

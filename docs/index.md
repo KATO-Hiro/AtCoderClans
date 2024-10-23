@@ -97,12 +97,12 @@
     - 「[ネタスクリプト](user_scripts/jokes)」ページ
         - [AtCoder♡♡](https://greasyfork.org/ja/scripts/512956-atcoder)
 
-    2024-10-09
-
-    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
-        - [AtCoder Customize Panel Fix](https://greasyfork.org/ja/scripts/511359-atcoder-customize-panel-fix)
-
 === "記事"
+
+    2024-10-24
+
+    - 「[競技プログラミングと就転職](articles/jobs)」ページ
+        - [世界ランク最高2位のアルゴリズムエンジニアが、ALGO ARTISに入社した理由](https://note.com/algoartis/n/nf62e1ba1c4ab)
 
     2024-10-22
 
