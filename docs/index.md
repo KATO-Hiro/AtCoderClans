@@ -132,11 +132,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [トヨタ自動車プログラミングコンテスト2024#10（AtCoder Heuristic Contest 038）参加記](https://kaede2020.hatenablog.com/entry/2024/10/14/190050)
 
-    2024-10-08
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Winter - 学校ランキング (10月7日時点)](https://x.com/atcoder/status/1843137096841875936)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -149,6 +144,11 @@
         - [nishigake](https://atcoder.jp/users/nishigake)さん - [はてなブログ](https://blog.nishigake.net/posts)
 
 === "動画"
+
+    2024-10-23
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [【速報】2^136279841-1は素数　6年ぶり新記録](https://www.youtube.com/watch?v=f89QYS-Pqfw)
 
     2024-10-20
 

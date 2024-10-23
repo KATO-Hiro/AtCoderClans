@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-10-23
+
+- [#9121](https://github.com/KATO-Hiro/AtCoderClans/pull/9121) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [【速報】2^136279841-1は素数　6年ぶり新記録](https://www.youtube.com/watch?v=f89QYS-Pqfw)
+
 ### 2024-10-22
 
 - [#9116](https://github.com/KATO-Hiro/AtCoderClans/pull/9116) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
