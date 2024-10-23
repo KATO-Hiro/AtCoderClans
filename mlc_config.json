@@ -59,6 +59,9 @@
     },
     {
       "pattern": "^https://play.picoctf.org/"
+    },
+    {
+      "pattern": "^https://www.creativ.xyz/"
     }
   ],
   "httpHeaders": [
