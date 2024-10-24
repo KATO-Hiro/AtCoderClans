@@ -145,6 +145,11 @@
 
 === "動画"
 
+    2024-10-25
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [楽しんで学ぶ](https://www.youtube.com/@WillowLog)
+
     2024-10-23
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
@@ -175,11 +180,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [Eunha](https://atcoder.jp/users/Eunha)さん - [AtCoder 入青しました！(+ユリ漫画のおすすめ)](https://riyuna.hatenablog.com/entry/2024/02/07/003642)
-
-    2024-10-10
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [Rin_statistics](https://atcoder.jp/users/Rin_statistics)さん - [【AtCoder】非ITエンジニアですが入緑しました](https://qiita.com/Rin_statistics/items/b0555784eb8725a57833)
 
 === "国内外のコンテストサイト"
 

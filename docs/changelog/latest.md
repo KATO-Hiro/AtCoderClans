@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-10-25
+
+- [#9129](https://github.com/KATO-Hiro/AtCoderClans/pull/9129) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [楽しんで学ぶ](https://www.youtube.com/@WillowLog)
+
 ### 2024-10-24
 
 - [#9126](https://github.com/KATO-Hiro/AtCoderClans/pull/9126) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
