@@ -20,6 +20,7 @@ title: チャンネル
 - [きりみんちゃん kirimin-chan](https://www.youtube.com/c/kiriminchan/playlists) - [kirimin](https://atcoder.jp/users/kirimin)さんのチャンネル。競技プログラミングやライブコーディングだけでなく、幅広い話題の動画が公開されている。
 - [坂道輪の競プロ](https://www.youtube.com/playlist?list=PLFi46EaoQjc-c4BoLQl7Gibo0ncGLX5A2) - [RinSakamichi](https://atcoder.jp/users/RinSakamichi)さんのチャンネル。コンテスト終了後に、問題の解答や感想を配信している。
 - [高井茅乃と毒芽えるのバ美nIQ](https://www.youtube.com/channel/UCTOxnI3eOI_o1HRgzq-LEZw/playlists) - [takaichino](https://atcoder.jp/users/takaichino)さんのチャンネル。コンテストの過去問を解いたり、反省会をしたりしている。
+- [楽しんで学ぶ](https://www.youtube.com/@WillowLog) - [WillowLog](https://atcoder.jp/users/WillowLog)さんのチャンネル。コンテストの実況動画などが公開されている。
 - [ながたかな 競プロ部屋](https://www.youtube.com/@ngtkana_kyopro) - [ngtkana](https://atcoder.jp/users/ngtkana)さんのチャンネル。コンテストの実況動画が公開されている。「[歌い手V](https://www.youtube.com/channel/UC9amFw1nimUfDGAf746HYXQ)」のチャンネルもある。
 - [ナス太郎](https://www.youtube.com/channel/UCs7sxmQBTBqtuGzsEWCUupQ) - [DFNasutarou](https://atcoder.jp/users/DFNasutarou)さんのチャンネル。1問あたり15分以内で解き続ける動画などが公開されている。
 - [ぱるま](https://www.youtube.com/playlist?list=PL2M7xTSHX0HqdXvk74PKSZ2De_EyVUq0d) - [paruma184](https://atcoder.jp/users/paruma184)さんのチャンネル。コンテストの過去問を解いたり、コンテスト後の振り返ったりする動画が公開されている。
@@ -34,7 +35,7 @@ title: チャンネル
 - [tatyam](https://www.youtube.com/channel/UC3MXq-nGMDQENm5ihfQeIkg/featured) - レッドコーダーの[tatyam](https://atcoder.jp/users/tatyam)さんのチャンネル。コンテストの過去問を解く動画が公開されている。
 - [Tozan Southerpacks Redcoder レッドコーダー](https://www.youtube.com/channel/UCwsapfci2p1oDVO4Q2sJOQw) - レッドコーダーの[tozangezan](https://atcoder.jp/users/tozangezan)さんのチャンネル。アルゴリズムやコンテスト後の解説が英語で行われている。
 - [Yoshitaka Tomiyama](https://www.youtube.com/channel/UC10LLTlikPURslw2Wqj8vJA/featured) - [Johann](https://atcoder.jp/users/Johann)さんのチャンネル。アルゴリズムやコンテストの過去問を題材とした勉強会の動画が公開されている。
-- [ｲﾜｲﾉﾐｺﾄﾉﾘ](https://www.youtube.com/channel/UCqlJwj9fWlVi26KeSb_e-og/videos) - [yiwiy9](https://atcoder.jp/users/yiwiy9)さんのチャンネル。コンテストの実況動画が公開されている。
+- [岩井星人](https://www.youtube.com/channel/UCqlJwj9fWlVi26KeSb_e-og/videos) - [yiwiy9](https://atcoder.jp/users/yiwiy9)さんのチャンネル。コンテストの実況動画が公開されている。
 - [かつっぱ競プロ](https://www.youtube.com/channel/UCqqeYOh1gk_TJ16sxazWhUg) - [AtCoder](https://atcoder.jp/)でレッドコーダーの[catupper](https://atcoder.jp/users/catupper)さんのチャンネル。コンテストの実況動画が公開されている。
 - [こたつがめ](https://www.youtube.com/channel/UCL8EOznhSyreT9O0-KFxgZQ/videos) - [kotatsugame](https://atcoder.jp/users/kotatsugame)さんのチャンネル。コードゴルフに関する動画が多く公開されている。
 - [じょえチャンネル](https://www.youtube.com/channel/UCRXsI3FL_kvaVL9zoolBfbQ/videos) - [xuzijian629](https://atcoder.jp/users/xuzijian629)さんのチャンネル。斬新な企画が数多く公開されている。
