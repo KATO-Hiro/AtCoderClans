@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-10-26
+
+- [#9135](https://github.com/KATO-Hiro/AtCoderClans/pull/9135) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[AwashAmityOak](https://atcoder.jp/users/AwashAmityOak)さんの[記事](https://qiita.com/AwashAmityOak/items/516573796cb8bb578620)を追加。
+
 ### 2024-10-25
 
 - [#9129](https://github.com/KATO-Hiro/AtCoderClans/pull/9129) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。

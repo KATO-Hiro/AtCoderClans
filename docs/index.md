@@ -160,11 +160,6 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [7分で入試数学史上最難問【ゆっくり解説】](https://www.youtube.com/watch?v=paYeCZuBhhA)
 
-    2024-10-11
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [どんな数も「114514」で表すツール【ゆっくり解説】](https://www.youtube.com/watch?v=Sl64oiwG0yE)
-
 === "ライブラリ・スニペット"
 
     2024-10-12
@@ -175,6 +170,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2024-10-26
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [AwashAmityOak](https://atcoder.jp/users/AwashAmityOak)さん - [【AtCoder】中学3年生が1年で入青したときにやったこと](https://qiita.com/AwashAmityOak/items/516573796cb8bb578620)
 
     2024-10-13
 
