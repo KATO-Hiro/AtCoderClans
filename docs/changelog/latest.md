@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-10-28
+
+- [#9147](https://github.com/KATO-Hiro/AtCoderClans/pull/9147) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [Claudeにパソコンを乗っ取らせて猫の絵を描かせてみた【ゆっくり解説】](https://www.youtube.com/watch?v=jjUDDexo_hM)
+
 ### 2024-10-27
 
 - [#9141](https://github.com/KATO-Hiro/AtCoderClans/pull/9141) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
