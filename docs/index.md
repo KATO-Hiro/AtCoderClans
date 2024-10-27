@@ -150,6 +150,11 @@
 
 === "動画"
 
+    2024-10-28
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [Claudeにパソコンを乗っ取らせて猫の絵を描かせてみた【ゆっくり解説】](https://www.youtube.com/watch?v=jjUDDexo_hM)
+
     2024-10-25
 
     - 「[YouTube - チャンネル](youtube/channel)」ページ
@@ -178,11 +183,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [AwashAmityOak](https://atcoder.jp/users/AwashAmityOak)さん - [【AtCoder】中学3年生が1年で入青したときにやったこと](https://qiita.com/AwashAmityOak/items/516573796cb8bb578620)
-
-    2024-10-13
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [Eunha](https://atcoder.jp/users/Eunha)さん - [AtCoder 入青しました！(+ユリ漫画のおすすめ)](https://riyuna.hatenablog.com/entry/2024/02/07/003642)
 
 === "国内外のコンテストサイト"
 
