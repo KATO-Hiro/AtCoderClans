@@ -23,6 +23,7 @@ title: C&#35;
 |fairy_lettuce|[はてなブログ](https://fairy-lettuce.hatenadiary.com/)||
 |mban|[はてなブログ](https://m-ban.hatenablog.com/)|2019年4月以降、新規の記事を確認できず。|
 |kzrnm|[Zenn](https://zenn.dev/naminodarie)||
+|okudeottu|[Blogger](https://blog.tobisatis.com/)||
 |selpo|[はてなブログ](https://selpog.hateblo.jp/)|2019年2月以降、新規の記事を確認できず。|
 |terry_u16|[はてなブログ](https://www.terry-u16.net/)|ヒューリスティック型のコンテストに関する記事も掲載されている。|
 |yupiteru|[Qiita](https://qiita.com/yupiteru)||
