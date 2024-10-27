@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-10-27
+
+- [#9139](https://github.com/KATO-Hiro/AtCoderClans/pull/9139) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[okudeottu](https://atcoder.jp/users/okudeottu)さんの[記事](https://blog.tobisatis.com/2024/10/atcoder-yellow.html)を追加。
+
 ### 2024-10-26
 
 - [#9135](https://github.com/KATO-Hiro/AtCoderClans/pull/9135) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

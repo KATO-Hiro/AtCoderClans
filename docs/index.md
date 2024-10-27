@@ -135,6 +135,11 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2024-10-27
+
+    - 「[アルゴリズム部門 - C&#35](blogs/algorithm/csharp)」ページ
+        - [okudeottu](https://atcoder.jp/users/okudeottu)さん - [Blogger](https://blog.tobisatis.com/)
+
     2024-10-19
 
     - 「[ヒューリスティック部門 - Go](blogs/heuristic/go)」ページ
@@ -160,16 +165,14 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [7分で入試数学史上最難問【ゆっくり解説】](https://www.youtube.com/watch?v=paYeCZuBhhA)
 
-=== "ライブラリ・スニペット"
-
-    2024-10-12
-
-    - 「[C++](libraries/cpp)」ページ
-        - [hos-lyric/libra](https://github.com/hos-lyric/libra) ![GitHub stars](https://img.shields.io/github/stars/hos-lyric/libra?style=plastic)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2024-10-27
+
+    - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
+        - [okudeottu](https://atcoder.jp/users/okudeottu)さん - [社会人競プロerが6年かけてAtCoder黄色になるまで - Commentārius Tobisatis](https://blog.tobisatis.com/2024/10/atcoder-yellow.html)
 
     2024-10-26
 
