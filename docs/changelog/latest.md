@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-10-29
+
+- [#9161](https://github.com/KATO-Hiro/AtCoderClans/pull/9161) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[amesyu](https://atcoder.jp/users/amesyu)さんの[記事](https://amesyu.hatenablog.com/entry/2024/10/28/105538)を追加。
+- [#9160](https://github.com/KATO-Hiro/AtCoderClans/pull/9160) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[Hasu123](https://atcoder.jp/users/Hasu123)さんの[記事](https://www.shibehasu-inugoya-programming.com/green-coder/)を追加。
+- [#9158](https://github.com/KATO-Hiro/AtCoderClans/pull/9158) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
+    - [AtCoder Junior League 2024 Winter - 学校ランキング (10月28日時点)](https://x.com/atcoder/status/1850734216864297016)
+
 ### 2024-10-28
 
 - [#9147](https://github.com/KATO-Hiro/AtCoderClans/pull/9147) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
