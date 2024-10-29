@@ -99,6 +99,11 @@
 
 === "記事"
 
+    2024-10-29
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Winter - 学校ランキング (10月28日時点)](https://x.com/atcoder/status/1850734216864297016)
+
     2024-10-24
 
     - 「[競技プログラミングと就転職](articles/jobs)」ページ
@@ -174,6 +179,14 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2024-10-29
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [amesyu](https://atcoder.jp/users/amesyu)さん - [Atcoder入青までにした精進 - あめしゅのぶろぐ](https://amesyu.hatenablog.com/entry/2024/10/28/105538)
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [Hasu123](https://atcoder.jp/users/Hasu123)さん - [AtCoder入緑までにやったことなどです！！](https://www.shibehasu-inugoya-programming.com/green-coder/)
+
     2024-10-27
 
     - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
@@ -183,14 +196,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [AwashAmityOak](https://atcoder.jp/users/AwashAmityOak)さん - [【AtCoder】中学3年生が1年で入青したときにやったこと](https://qiita.com/AwashAmityOak/items/516573796cb8bb578620)
-
-=== "国内外のコンテストサイト"
-
-    2024-10-14
-
-    - 「[BOJ (Baekjoon Online Judge)](related_contest_sites/boj)」ページ
-        - [韓国最大のオンラインジャッジサイトBOJとは？あと、solved.acとは？](https://riyuna.hatenablog.com/entry/2023/12/20/084520)
-        - [Baekjoon Online Judge について](https://kkt89.hatenablog.com/entry/2022/12/04/Baekjoon_Online_Judge_%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
 
 === "アーカイブス"
 
