@@ -22,9 +22,6 @@
       "pattern": "^https://kato-hiro.github.io/AtCoderClans/"
     },
     {
-      "pattern": "^https://community.topcoder.com/tc?module=ProblemArchive"
-    },
-    {
       "pattern": "^https://speakerdeck.com/"
     },
     {
@@ -62,6 +59,12 @@
     },
     {
       "pattern": "^https://www.creativ.xyz/"
+    },
+    {
+      "pattern": "^https://shindanmaker.com/"
+    },
+    {
+      "pattern": "^https://www.acmicpc.net/"
     }
   ],
   "httpHeaders": [
