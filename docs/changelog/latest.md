@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-10-30
+
+- [#9166](https://github.com/KATO-Hiro/AtCoderClans/pull/9166) - 「[Related Contest Sites](../../related_contest_sites)」の「[プロセッサー（アクセラレータ）系コンテスト](../../related_contest_sites/ai_accelerator)」ページに、以下のコンテストサイトを追加。
+    - [学生向け Fixstars 高速化コンテスト 2024](https://fixstars-contest.com/)
+- [#9165](https://github.com/KATO-Hiro/AtCoderClans/pull/9165) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [3乗根を一瞬で暗算する方法【ゆっくり解説】](https://www.youtube.com/watch?v=mybn4a6FM10)
+- [#9164](https://github.com/KATO-Hiro/AtCoderClans/pull/9164) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[ZOIZOI](https://atcoder.jp/users/ZOIZOI)さんの[記事](https://qiita.com/ZOI_dayo/items/a3419ebf6377a25f4806)を追加。
+
 ### 2024-10-29
 
 - [#9161](https://github.com/KATO-Hiro/AtCoderClans/pull/9161) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

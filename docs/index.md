@@ -132,11 +132,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Winter - 学校ランキング (10月15日時点)](https://x.com/atcoder/status/1846023207230616014)
 
-    2024-10-15
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [トヨタ自動車プログラミングコンテスト2024#10（AtCoder Heuristic Contest 038）参加記](https://kaede2020.hatenablog.com/entry/2024/10/14/190050)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -154,6 +149,11 @@
         - [nishigake](https://atcoder.jp/users/nishigake)さん - [はてなブログ](https://blog.nishigake.net/posts)
 
 === "動画"
+
+    2024-10-30
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [3乗根を一瞬で暗算する方法【ゆっくり解説】](https://www.youtube.com/watch?v=mybn4a6FM10)
 
     2024-10-28
 
@@ -179,6 +179,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2024-10-30
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [ZOIZOI](https://atcoder.jp/users/ZOIZOI)さん - [【色変記事】AtCoderで青になりました!!!](https://qiita.com/ZOI_dayo/items/a3419ebf6377a25f4806)
+
     2024-10-29
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
@@ -196,6 +201,13 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [AwashAmityOak](https://atcoder.jp/users/AwashAmityOak)さん - [【AtCoder】中学3年生が1年で入青したときにやったこと](https://qiita.com/AwashAmityOak/items/516573796cb8bb578620)
+
+=== "国内外のコンテストサイト"
+
+    2024-10-30
+
+    - 「[プロセッサー（アクセラレータ）系コンテスト](related_contest_sites/ai_accelerator)」ページ
+        - [学生向け Fixstars 高速化コンテスト 2024](https://fixstars-contest.com/)
 
 === "アーカイブス"
 
