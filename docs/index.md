@@ -79,17 +79,6 @@
       <img loading = "lazy" src="images/web_app/atcoder_graphs3.png" alt="atcoder graph">
     </div>
 
-    2024-10-16
-
-    - 「[コンテストに関する統計情報](web_app/statistics)」ページ
-
-        - [wladimirleite.github.io](https://github.com/wladimirleite/wladimirleite.github.io) ![GitHub Repo stars](https://img.shields.io/github/stars/wladimirleite/wladimirleite.github.io?style=plastic)
-            - [AHC 038](https://wladimirleite.github.io/ahc038.html)
-
-    <div align="center">
-      <img loading = "lazy" src="images/web_app/wladimirleite_github_io.png" alt="wladimirleite github io">
-    </div>
-
 === "ユーザスクリプト"
 
     2024-10-19
@@ -123,14 +112,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Winter - 学校ランキング (10月16日時点)](https://x.com/atcoder/status/1846352329563410495)
-
-    2024-10-16
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [1 辺を除いたときの最短路長](https://noshi91.hatenablog.com/entry/2024/10/14/164225)
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Winter - 学校ランキング (10月15日時点)](https://x.com/atcoder/status/1846023207230616014)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -178,6 +159,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2024-10-31
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [MrTired](https://atcoder.jp/users/MrTired)さん - [Fortran vs AtCoder 〜青色になったよ〜](https://qiita.com/osada-yum/items/f349480fd8ae6884ff5b)
 
     2024-10-30
 

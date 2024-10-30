@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-10-31
+
+- [#9171](https://github.com/KATO-Hiro/AtCoderClans/pull/9171) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[MrTired](https://atcoder.jp/users/MrTired)さんの[記事](https://qiita.com/osada-yum/items/f349480fd8ae6884ff5b)を追加。
+
 ### 2024-10-30
 
 - [#9166](https://github.com/KATO-Hiro/AtCoderClans/pull/9166) - 「[Related Contest Sites](../../related_contest_sites)」の「[プロセッサー（アクセラレータ）系コンテスト](../../related_contest_sites/ai_accelerator)」ページに、以下のコンテストサイトを追加。
