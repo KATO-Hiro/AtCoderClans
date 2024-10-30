@@ -4,6 +4,7 @@ title: レーティング1600〜1999(青色)
 
 ## 2024年
 
+- [【色変記事】AtCoderで青になりました!!!](https://qiita.com/ZOI_dayo/items/a3419ebf6377a25f4806) - [ZOIZOI](https://atcoder.jp/users/ZOIZOI)さんが、2024年10月26日に達成。
 - [Atcoder入青までにした精進 - あめしゅのぶろぐ](https://amesyu.hatenablog.com/entry/2024/10/28/105538) - [amesyu](https://atcoder.jp/users/amesyu)さんが、2024年10月26日に達成。
 - [【AtCoder】中学3年生が1年で入青したときにやったこと](https://qiita.com/AwashAmityOak/items/516573796cb8bb578620) - [AwashAmityOak](https://atcoder.jp/users/AwashAmityOak)さんが、2024年10月19日に達成。
 - [AtCoder青になったので記録をメモ - nibitのブログ](https://2bitpng.hatenablog.com/entry/2024/09/22/085912) - [2bit](https://atcoder.jp/users/2bit)さんが、2024年9月21日に達成。
