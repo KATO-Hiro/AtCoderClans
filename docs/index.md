@@ -88,6 +88,11 @@
 
 === "記事"
 
+    2024-10-31
+
+    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
+        - [中高生向け 学校対抗競技プログラミング「AtCoder Junior League 2024 Summer」入賞校・入賞者を発表](https://prtimes.jp/main/html/rd/p/000000051.000028415.html)
+
     2024-10-29
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -107,11 +112,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AHC038でビームサーチをしてみよう！](https://montplusa.hatenablog.com/entry/2024/10/17/174500)
-
-    2024-10-17
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Winter - 学校ランキング (10月16日時点)](https://x.com/atcoder/status/1846352329563410495)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
