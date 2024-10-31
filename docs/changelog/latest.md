@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-11-01
+
+- [#9178](https://github.com/KATO-Hiro/AtCoderClans/pull/9178) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の記事を追加。
+    - [中高生向け 学校対抗競技プログラミング「AtCoder Junior League 2024 Summer」入賞校・入賞者を発表](https://prtimes.jp/main/html/rd/p/000000051.000028415.html)
+
 ### 2024-10-31
 
 - [#9171](https://github.com/KATO-Hiro/AtCoderClans/pull/9171) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
