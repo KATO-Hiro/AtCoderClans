@@ -32,6 +32,7 @@ title: 入門者・初心者向けの内容
 - [情報オリンピックへのいざない　～日本一の競技プログラマーを決める戦い～](https://qiita.com/e869120/items/43181c2084e6e5337ca9) - 主に高校生以下を対象としたコンテストである「情報オリンピック」の説明から、大会の面白さ・上位に入るためテクニックを解説した記事。高専・大学生以上の人にも一読の価値があると思われる。
 - [中高生向け 学校対抗競技プログラミング「AtCoder Junior League2023」を開催](https://prtimes.jp/main/html/rd/p/000000037.000028415.html) - 中高生を対象として、2023年5月〜12月のコンテストの成績に基づいた学校・個人のランキングが作成されることを紹介した記事。中学・高校での競技プログラミングの普及、同世代で切磋琢磨できる環境と交流の機会の確保、教員による認知・応援を目的としている。
     - [AtCoder Junior League 2024](https://atcoder.jp/contests/ajl2024) - [AtCoder](https://atcoder.jp/)の特設ページ。
+    - [中高生向け 学校対抗競技プログラミング「AtCoder Junior League 2024 Summer」入賞校・入賞者を発表](https://prtimes.jp/main/html/rd/p/000000051.000028415.html) - 入賞校・入賞者が公表されている。
     - [日本最大のプログラミングコンテストサイトAtCoder　中高生に特化した学校対抗リーグ「AtCoder Junior League」開催にかける思いとは](https://prtimes.jp/story/detail/zrELeosmk4x) - [AtCoder](https://atcoder.jp/)社長の[chokudai](https://twitter.com/chokudai)さんとAtCoder Junior League (AJL) 運営担当者である[kaede2020](https://atcoder.jp/users/kaede2020)さんへの取材記事。中高生に特化した部門が設置された背景・狙い、2023年9月上旬時点での参加状況、今後の展望などが語られている。
 
 ### 社会人向け
