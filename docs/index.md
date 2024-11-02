@@ -60,25 +60,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "Webアプリ・Webサイト"
-
-    2024-10-18
-
-    - 「[コンテストの成績を見る](web_app/view_and_compare_scores)」ページ
-        - [AtCoder Graphs](https://atcoder-graphs.vercel.app/)
-
-    <div align="center">
-      <img loading = "lazy" src="images/web_app/atcoder_graphs.png" alt="atcoder graph">
-    </div>
-
-    <div align="center">
-      <img loading = "lazy" src="images/web_app/atcoder_graphs2.png" alt="atcoder graph">
-    </div>
-
-    <div align="center">
-      <img loading = "lazy" src="images/web_app/atcoder_graphs3.png" alt="atcoder graph">
-    </div>
-
 === "ユーザスクリプト"
 
     2024-10-19
@@ -130,6 +111,11 @@
         - [nishigake](https://atcoder.jp/users/nishigake)さん - [はてなブログ](https://blog.nishigake.net/posts)
 
 === "動画"
+
+    2024-11-02
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [x^x^4=64【ゆっくり解説】](https://www.youtube.com/watch?v=QeAr5NXGfi0)
 
     2024-10-30
 
