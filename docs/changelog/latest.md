@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-11-03
+
+- [#9185](https://github.com/KATO-Hiro/AtCoderClans/pull/9185) - (破壊的な変更) 非公開になったと思われるYouTubeチャンネルを「[Archives](../../archived)」ページに移動。
+
 ### 2024-11-02
 
 - [#9181](https://github.com/KATO-Hiro/AtCoderClans/pull/9181) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
