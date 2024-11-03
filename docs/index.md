@@ -60,13 +60,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "ユーザスクリプト"
-
-    2024-10-19
-
-    - 「[ネタスクリプト](user_scripts/jokes)」ページ
-        - [AtCoder♡♡](https://greasyfork.org/ja/scripts/512956-atcoder)
-
 === "記事"
 
     2024-10-31
@@ -101,14 +94,6 @@
 
     - 「[アルゴリズム部門 - C&#35](blogs/algorithm/csharp)」ページ
         - [okudeottu](https://atcoder.jp/users/okudeottu)さん - [Blogger](https://blog.tobisatis.com/)
-
-    2024-10-19
-
-    - 「[ヒューリスティック部門 - Go](blogs/heuristic/go)」ページ
-        - [montplusa](https://atcoder.jp/users/montplusa)さん - [はてなブログ](https://montplusa.hatenablog.com/archive)
-
-    - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
-        - [nishigake](https://atcoder.jp/users/nishigake)さん - [はてなブログ](https://blog.nishigake.net/posts)
 
 === "動画"
 
@@ -180,14 +165,6 @@
 
     - 「[プロセッサー（アクセラレータ）系コンテスト](related_contest_sites/ai_accelerator)」ページ
         - [学生向け Fixstars 高速化コンテスト 2024](https://fixstars-contest.com/)
-
-=== "アーカイブス"
-
-    諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
-
-    2024-10-19
-
-    - AtCoder Rating Contributor Graph
 
 ## AtCoder公式グッズを購入する
 
