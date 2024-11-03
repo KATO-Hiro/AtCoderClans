@@ -419,6 +419,8 @@ title: 開発・提供終了
 
 ### YouTubeのチャンネル
 
+- [妹尾の解ると楽しいアルゴリズムチャンネル](https://www.youtube.com/@user-rs9rl9bk2k/videos) - [senohtube](https://atcoder.jp/users/senohtube)さんのチャンネル。コンテストの過去問を解く動画などが公開されている。
+    - 確認した日: 2024/11/03
 - [ななみつき](https://www.youtube.com/playlist?list=PLKs3DZp2szRMAHKnNg2ZlIhW9uXfBQg6a) - [Nanamitsuki](https://atcoder.jp/users/Nanamitsuki)さんのチャンネル。コンテストの過去問を解く動画などが公開されている。
     - 確認した日: 2023/07/02
     - 理由: 記載なし。
