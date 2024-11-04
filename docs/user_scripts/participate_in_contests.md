@@ -56,6 +56,10 @@ title: コンテストに参加する
 
 - [AtCoder Style Optimizer for Single Display](https://greasyfork.org/ja/scripts/463585-atcoder-style-optimizer-for-single-display) - [AtCoder](https://atcoder.jp/)の各ページの横幅を最大まで広げて表示する。
 
+## Webサイトで表示されるエラーを解消
+
+- [AtCoder-429 Error-Auto Reload](https://greasyfork.org/ja/scripts/514834-atcoder-429-error-auto-reload) - Webサイトで `429 Too Many Requests` が表示されたときに自動でリロードする。
+
 ## 時間を気にせず問題に集中する
 
 - [AtCoderタイマー削除](https://greasyfork.org/ja/scripts/393176-calmatcoder) - コンテストが開催されている間のみ、タイマーを非表示にする。
