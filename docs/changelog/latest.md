@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-11-04
+
+- [#9191](https://github.com/KATO-Hiro/AtCoderClans/pull/9191) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder-429 Error-Auto Reload](https://greasyfork.org/ja/scripts/514834-atcoder-429-error-auto-reload)
+
 ### 2024-11-03
 
 - [#9185](https://github.com/KATO-Hiro/AtCoderClans/pull/9185) - (破壊的な変更) 非公開になったと思われるYouTubeチャンネルを「[Archives](../../archived)」ページに移動。
