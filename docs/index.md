@@ -60,6 +60,13 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "ユーザスクリプト"
+
+    2024-11-04
+
+    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
+        - [AtCoder-429 Error-Auto Reload](https://greasyfork.org/ja/scripts/514834-atcoder-429-error-auto-reload)
+
 === "記事"
 
     2024-10-31
@@ -121,11 +128,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [【速報】2^136279841-1は素数　6年ぶり新記録](https://www.youtube.com/watch?v=f89QYS-Pqfw)
-
-    2024-10-20
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [7分で入試数学史上最難問【ゆっくり解説】](https://www.youtube.com/watch?v=paYeCZuBhhA)
 
 === "色変記事"
 
