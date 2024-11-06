@@ -9,6 +9,7 @@ title: レーティング800〜1199(緑色)
 
 ### アルゴリズム部門
 
+- [【競プロ】【入緑】AtCoder続けて良かったこと](https://qiita.com/Reid2147/items/030602512c0d76967bf5) - [Reid2147](https://atcoder.jp/users/Reid2147)さんが、2024年11月2日に達成。
 - [AtCoder入緑までにやったことなどです！！](https://www.shibehasu-inugoya-programming.com/green-coder/) - [Hasu123](https://atcoder.jp/users/Hasu123)さんが、2024年10月26日に達成。
 - [【AtCoder】非ITエンジニアですが入緑しました](https://qiita.com/Rin_statistics/items/b0555784eb8725a57833) - [Rin_statistics](https://atcoder.jp/users/Rin_statistics)さんが、2024年10月5日に達成。
 - [色変記事：実質2.5ヶ月でRubyとRustを使って入緑した話](https://zenn.dev/mnonamer/articles/atcoder-green) - [MNoNamer](https://atcoder.jp/users/MNoNamer)さんが、2024年9月28日に達成。
