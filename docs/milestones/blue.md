@@ -4,6 +4,7 @@ title: レーティング1600〜1999(青色)
 
 ## 2024年
 
+- [【AtCoder入青】数弱コーダーの戦い方](https://note.com/rikimarublack/n/nba119ee7776e) - [rikimaru2446](https://atcoder.jp/users/rikimaru2446)さんが、2024年11月2日に達成。
 - [Fortran vs AtCoder 〜青色になったよ〜](https://qiita.com/osada-yum/items/f349480fd8ae6884ff5b) - [MrTired](https://atcoder.jp/users/MrTired)さんが、2024年10月30日に公開。
 - [【色変記事】AtCoderで青になりました!!!](https://qiita.com/ZOI_dayo/items/a3419ebf6377a25f4806) - [ZOIZOI](https://atcoder.jp/users/ZOIZOI)さんが、2024年10月26日に達成。
 - [Atcoder入青までにした精進 - あめしゅのぶろぐ](https://amesyu.hatenablog.com/entry/2024/10/28/105538) - [amesyu](https://atcoder.jp/users/amesyu)さんが、2024年10月26日に達成。
