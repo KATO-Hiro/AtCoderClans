@@ -89,11 +89,6 @@
     - 「[競技プログラミングと就転職](articles/jobs)」ページ
         - [世界ランク最高2位のアルゴリズムエンジニアが、ALGO ARTISに入社した理由](https://note.com/algoartis/n/nf62e1ba1c4ab)
 
-    2024-10-22
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Winter - 学校ランキング (10月21日時点)](https://x.com/atcoder/status/1848216655513735519)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -132,6 +127,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2024-11-06
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [rikimaru2446](https://atcoder.jp/users/rikimaru2446)さん - [【AtCoder入青】数弱コーダーの戦い方](https://note.com/rikimarublack/n/nba119ee7776e)
 
     2024-10-31
 
