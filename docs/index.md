@@ -119,14 +119,14 @@
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [楽しんで学ぶ](https://www.youtube.com/@WillowLog)
 
-    2024-10-23
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [【速報】2^136279841-1は素数　6年ぶり新記録](https://www.youtube.com/watch?v=f89QYS-Pqfw)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2024-11-07
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [Reid2147](https://atcoder.jp/users/Reid2147)さん - [【競プロ】【入緑】AtCoder続けて良かったこと](https://qiita.com/Reid2147/items/030602512c0d76967bf5)
 
     2024-11-06
 
