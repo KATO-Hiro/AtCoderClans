@@ -136,6 +136,7 @@ title: 入門者・初心者向けの内容
     - [中級編](https://qiita.com/drken/items/2f56925972c1d34e05d8)
     - [上級編](https://qiita.com/drken/items/9b311d553aa434bb26e4)
     - [発展的トピック編](https://qiita.com/drken/items/0de3d205690d92307b7c)
+- [絶対にAtCoderで青コーダーになる！典型別 良問500選](https://note.com/rikimarublack/n/n3074b0955e95) - 典型的なアルゴリズム・テクニックを約150種類に分類し、それらの例題を紹介している。
 
 ---
 
