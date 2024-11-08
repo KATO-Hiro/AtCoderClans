@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-11-08
+
+- [#9209](https://github.com/KATO-Hiro/AtCoderClans/pull/9209) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の記事を追加。
+    - [絶対にAtCoderで青コーダーになる！典型別 良問500選](https://note.com/rikimarublack/n/n3074b0955e95)
+
 ### 2024-11-07
 
 - [#9206](https://github.com/KATO-Hiro/AtCoderClans/pull/9206) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

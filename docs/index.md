@@ -69,6 +69,11 @@
 
 === "記事"
 
+    2024-11-08
+
+    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
+        - [絶対にAtCoderで青コーダーになる！典型別 良問500選](https://note.com/rikimarublack/n/n3074b0955e95)
+
     2024-11-05
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -83,11 +88,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Winter - 学校ランキング (10月28日時点)](https://x.com/atcoder/status/1850734216864297016)
-
-    2024-10-24
-
-    - 「[競技プログラミングと就転職](articles/jobs)」ページ
-        - [世界ランク最高2位のアルゴリズムエンジニアが、ALGO ARTISに入社した理由](https://note.com/algoartis/n/nf62e1ba1c4ab)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
