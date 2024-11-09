@@ -12,6 +12,8 @@ title: SNS
 
 ## Discord
 
+- [AtCoder 言語アップデート 2024-2025](https://discord.com/invite/NQ3PZQkq7M) - [AtCoder](https://atcoder.jp/)公式のサーバ。ジャッジシステムの言語アップデートに関する議論が行われている。
+
 - [競プロer集会所](http://discord.gg/2xCjYvK) - [mencotton](https://atcoder.jp/users/mencotton)さんによって管理・運営されている、競技プログラミングの話題に特化した会話ができるグループ。2020年10月時点で500人以上が参加している。有志による「質問への回答」や「記事の紹介」など多数のチャンネルが用意されている。
 
 - [𝙠𝙮𝙤𝙥𝙧𝙪𝙨𝙩𝙚𝙘𝙚𝙖𝙣𝙨](https://discord.gg/RmRCzPnFPc) - [ngtkana](https://atcoder.jp/users/ngtkana)さんによって運営されている、Rustで競技プログラミングに参加している人・参加したい人向けのサーバ。
@@ -35,4 +37,3 @@ title: SNS
 ## Bluesky
 
 - [競プロフィード](https://bsky.app/profile/did:plc:oxqrfur74k6qr4xy4g3clfe3/feed/aaahi3lkvvr6i) - 最近の競技プログラミングに関するBlueskyの日本語ポストを集めたフィード
-
