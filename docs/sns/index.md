@@ -12,19 +12,27 @@ title: SNS
 
 ## Discord
 
-- [AtCoder 言語アップデート 2024-2025](https://discord.com/invite/NQ3PZQkq7M) - [AtCoder](https://atcoder.jp/)公式のサーバ。ジャッジシステムの言語アップデートに関する議論が行われている。
+### 競技プログラミング全般
 
-- [競プロer集会所](http://discord.gg/2xCjYvK) - [mencotton](https://atcoder.jp/users/mencotton)さんによって管理・運営されている、競技プログラミングの話題に特化した会話ができるグループ。2020年10月時点で500人以上が参加している。有志による「質問への回答」や「記事の紹介」など多数のチャンネルが用意されている。
-
-- [𝙠𝙮𝙤𝙥𝙧𝙪𝙨𝙩𝙚𝙘𝙚𝙖𝙣𝙨](https://discord.gg/RmRCzPnFPc) - [ngtkana](https://atcoder.jp/users/ngtkana)さんによって運営されている、Rustで競技プログラミングに参加している人・参加したい人向けのサーバ。
-
-- [高専競プロ部](https://discord.com/invite/nhMReq9nMz) - 高専生および関係者で競技プログラミングに参加している人・参加を考えている人向けのサーバ。[tsunamayo123](https://atcoder.jp/users/tsunamayo123)さんが管理・運営されている。
+- [競プロer集会所](http://discord.gg/2xCjYvK) - [mencotton](https://atcoder.jp/users/mencotton)さんによって管理・運営されている、競技プログラミングの話題に特化した会話ができるグループ。2024年11月時点で約1000人が参加している。有志による「質問への回答」や「記事の紹介」など多数のチャンネルが用意されている。
 
 - [N+1色を目指す鯖](https://discord.com/invite/vNHVTVXq) - 現在のレーティング帯よりも一つ上を目指す人のためのサーバ。
 
+- [高専競プロ部](https://discord.com/invite/nhMReq9nMz) - 高専生および関係者で競技プログラミングに参加している人・参加を考えている人向けのサーバ。[tsunamayo123](https://atcoder.jp/users/tsunamayo123)さんが管理・運営されている。
+
+### ヒューリスティック部門
+
 - [AHCをみんなで解く会](https://discord.com/invite/ehyVPQ2sVt) - 通称、皆解会。[AtCoder Heuristic Contest (AHC)](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=AtCoder+Heuristic+Contest)のバーチャルコンテストにチームで参加できるグループ。[ainem](https://atcoder.jp/users/ainem)さんが主催されている。
 
+### 言語・ライブラリ
+
+- [AtCoder 言語アップデート 2024-2025](https://discord.com/invite/NQ3PZQkq7M) - [AtCoder](https://atcoder.jp/)公式のサーバ。ジャッジシステムの言語アップデートに関する議論が行われている。
+
+- [𝙠𝙮𝙤𝙥𝙧𝙪𝙨𝙩𝙚𝙘𝙚𝙖𝙣𝙨](https://discord.gg/RmRCzPnFPc) - [ngtkana](https://atcoder.jp/users/ngtkana)さんによって運営されている、Rustで競技プログラミングに参加している人・参加したい人向けのサーバ。
+
 - [Pythonライブラリ研究](https://discord.com/invite/rPWuuGRha2) - [kemuniku](https://atcoder.jp/users/kemuniku)さんによって運営されている、 AtCoder上のPythonにあるライブラリを研究するサーバ。誰でも参加可能。
+
+### Web開発
 
 - [競プロWeb部](https://discord.com/invite/Kp5Ygvh9) - 競技プログラミングをきっかけにWeb開発を学びたい人・学んでいる人向けのサーバ。[くしらっちょ](https://twitter.com/kusirakusira)さんが主催されている。
 
