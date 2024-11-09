@@ -114,10 +114,12 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [Claudeにパソコンを乗っ取らせて猫の絵を描かせてみた【ゆっくり解説】](https://www.youtube.com/watch?v=jjUDDexo_hM)
 
-    2024-10-25
+=== "SNS"
 
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [楽しんで学ぶ](https://www.youtube.com/@WillowLog)
+    2024-11-09
+
+    - 「[SNS](sns)」ページ
+        - [AtCoder 言語アップデート 2024-2025](https://discord.com/invite/NQ3PZQkq7M)
 
 === "色変記事"
 

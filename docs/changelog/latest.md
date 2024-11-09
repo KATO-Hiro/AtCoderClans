@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-11-09
+
+- [#9204](https://github.com/KATO-Hiro/AtCoderClans/pull/9024) - 「[Articles, Blogs, Books and Videos](../../media)」の「[SNS](../../sns)」ページに、以下のDiscordサーバを追加。
+    - [AtCoder 言語アップデート 2024-2025](https://discord.com/invite/NQ3PZQkq7M)
+
 ### 2024-11-08
 
 - [#9209](https://github.com/KATO-Hiro/AtCoderClans/pull/9209) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の記事を追加。
