@@ -92,6 +92,11 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2024-11-10
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [n_o_n_o_n](https://atcoder.jp/users/n_o_n_o_n)さん - [はてなブログ](https://nononmath.hatenablog.com/)
+
     2024-10-27
 
     - 「[アルゴリズム部門 - C&#35](blogs/algorithm/csharp)」ページ
@@ -157,11 +162,6 @@
 
     - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
         - [okudeottu](https://atcoder.jp/users/okudeottu)さん - [社会人競プロerが6年かけてAtCoder黄色になるまで - Commentārius Tobisatis](https://blog.tobisatis.com/2024/10/atcoder-yellow.html)
-
-    2024-10-26
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [AwashAmityOak](https://atcoder.jp/users/AwashAmityOak)さん - [【AtCoder】中学3年生が1年で入青したときにやったこと](https://qiita.com/AwashAmityOak/items/516573796cb8bb578620)
 
 === "国内外のコンテストサイト"
 
