@@ -11,7 +11,6 @@ title: 解説ブログ・サイトを見る
 
 - [競技プログラマーのブログをまとめてみた](https://blog.hamayanhamayan.com/entry/2020/12/24/001540) - [hamayanhamayan](https://atcoder.jp/users/hamayanhamayan)さんが、[AtCoder](https://atcoder.jp/)で日本人上位300人+αのブログ・Qiitaの投稿の有無を調査した記事。
 - [Kyopro Encyclopedia of Algorithms](https://noshi91.github.io/algorithm-encyclopedia/) - 競技プログラミングに関するアルゴリズムの百科事典を目指している解説サイト(通称: ア辞典)。想定読者は、[AtCoder](https://atcoder.jp/)の黄色以上(レーティングで2000以上)。
-- [AtCoder 昔の公式解説リンク集](https://bo9chan.hatenablog.jp/) - (非公式)Slideshareでアップロードされている公式解説へのリンク集。AtCoder Beginner Contest 001〜035とAtCoder Regular Contest 001、002、015〜049が掲載されている。
 
 ## 複数の言語
 
