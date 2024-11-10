@@ -4,9 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-11-10
+
+- [#9218](https://github.com/KATO-Hiro/AtCoderClans/pull/9218) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
+- [#9217](https://github.com/KATO-Hiro/AtCoderClans/pull/9217) - (破壊的な変更) 非公開になったと思われるブログを「[Archives](../../archived)」ページに移動。また、記事のURLの一部を修正。
+
 ### 2024-11-09
 
-- [#9204](https://github.com/KATO-Hiro/AtCoderClans/pull/9024) - 「[Articles, Blogs, Books and Videos](../../media)」の「[SNS](../../sns)」ページに、以下のDiscordサーバを追加。
+- [#9212](https://github.com/KATO-Hiro/AtCoderClans/pull/9212) - 「[Articles, Blogs, Books and Videos](../../media)」の「[SNS](../../sns)」ページに、以下のDiscordサーバを追加。
     - [AtCoder 言語アップデート 2024-2025](https://discord.com/invite/NQ3PZQkq7M)
 
 ### 2024-11-08
