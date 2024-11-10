@@ -97,11 +97,6 @@
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [n_o_n_o_n](https://atcoder.jp/users/n_o_n_o_n)さん - [はてなブログ](https://nononmath.hatenablog.com/)
 
-    2024-10-27
-
-    - 「[アルゴリズム部門 - C&#35](blogs/algorithm/csharp)」ページ
-        - [okudeottu](https://atcoder.jp/users/okudeottu)さん - [Blogger](https://blog.tobisatis.com/)
-
 === "動画"
 
     2024-11-02
@@ -130,6 +125,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2024-11-11
+
+    - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
+        - [n_o_n_o_n](https://atcoder.jp/users/n_o_n_o_n)さん - [入黄記事 - nononの落書き帳](https://nononmath.hatenablog.com/entry/2024/11/10/130322)
+
     2024-11-07
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
@@ -157,11 +157,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [Hasu123](https://atcoder.jp/users/Hasu123)さん - [AtCoder入緑までにやったことなどです！！](https://www.shibehasu-inugoya-programming.com/green-coder/)
-
-    2024-10-27
-
-    - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
-        - [okudeottu](https://atcoder.jp/users/okudeottu)さん - [社会人競プロerが6年かけてAtCoder黄色になるまで - Commentārius Tobisatis](https://blog.tobisatis.com/2024/10/atcoder-yellow.html)
 
 === "国内外のコンテストサイト"
 
