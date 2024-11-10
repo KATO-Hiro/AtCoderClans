@@ -146,7 +146,7 @@ title: アルゴリズムを学ぶ
 
 ### 連想配列
 
-- [計算量改善:setやmapの活用](https://drken1215.hatenablog.com/archive/category/計算量改善%3Asetやmapの活用) - [drken](https://atcoder.jp/users/drken)さんによる過去問の解説集。連想配列を活用する問題がまとめられている。
+- [計算量改善:setやmapの活用](https://drken1215.hatenablog.com/archive/category/%E8%A8%88%E7%AE%97%E9%87%8F%E6%94%B9%E5%96%84:set%E3%82%84map%E3%81%AE%E6%B4%BB%E7%94%A8) - [drken](https://atcoder.jp/users/drken)さんによる過去問の解説集。連想配列を活用する問題がまとめられている。
 
 ### Union-Find木
 
