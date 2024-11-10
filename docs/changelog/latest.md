@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-11-11
+
+- [#9224](https://github.com/KATO-Hiro/AtCoderClans/pull/9224) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[n_o_n_o_n](https://atcoder.jp/users/n_o_n_o_n)さんの[記事](https://nononmath.hatenablog.com/entry/2024/11/10/130322)を追加。
+
 ### 2024-11-10
 
 - [#9218](https://github.com/KATO-Hiro/AtCoderClans/pull/9218) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
