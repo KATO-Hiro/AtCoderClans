@@ -388,6 +388,8 @@ title: 開発・提供終了
 
 ### 解説ブログ・サイトを見る
 
+- [AtCoder 昔の公式解説リンク集](https://bo9chan.hatenablog.jp/) - (非公式)Slideshareでアップロードされている公式解説へのリンク集。AtCoder Beginner Contest 001〜035とAtCoder Regular Contest 001、002、015〜049が掲載されている。
+    - 確認した日: 2024/11/10
 - [【AtCoder解説】PythonでABCxxxの(問題番号)問題を制する！](https://qiita.com/u2dayo) - [unidayo](https://atcoder.jp/users/unidayo)さんの解説記事。主にAtCoder Beginner ContestのA〜C問題を中心とした解説と実装例が紹介されている。
     - 確認した日: 2024/09/20
 
