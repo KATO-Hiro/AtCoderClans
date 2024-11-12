@@ -69,6 +69,11 @@
 
 === "記事"
 
+    2024-11-12
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Winter - 学校ランキング (11月11日時点)](https://x.com/atcoder/status/1855799989181751468)
+
     2024-11-08
 
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
@@ -108,11 +113,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [3乗根を一瞬で暗算する方法【ゆっくり解説】](https://www.youtube.com/watch?v=mybn4a6FM10)
-
-    2024-10-28
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [Claudeにパソコンを乗っ取らせて猫の絵を描かせてみた【ゆっくり解説】](https://www.youtube.com/watch?v=jjUDDexo_hM)
 
 === "SNS"
 
