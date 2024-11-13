@@ -69,6 +69,11 @@
 
 === "記事"
 
+    2024-11-14
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [THIRD プログラミングコンテスト2024（AtCoder Heuristic Contest 039）参加記](https://kaede2020.hatenablog.com/entry/2024/11/11/222634)
+
     2024-11-12
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -108,11 +113,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [x^x^4=64【ゆっくり解説】](https://www.youtube.com/watch?v=QeAr5NXGfi0)
-
-    2024-10-30
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [3乗根を一瞬で暗算する方法【ゆっくり解説】](https://www.youtube.com/watch?v=mybn4a6FM10)
 
 === "SNS"
 
@@ -155,18 +155,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [MrTired](https://atcoder.jp/users/MrTired)さん - [Fortran vs AtCoder 〜青色になったよ〜](https://qiita.com/osada-yum/items/f349480fd8ae6884ff5b)
-
-    2024-10-30
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [ZOIZOI](https://atcoder.jp/users/ZOIZOI)さん - [【色変記事】AtCoderで青になりました!!!](https://qiita.com/ZOI_dayo/items/a3419ebf6377a25f4806)
-
-=== "国内外のコンテストサイト"
-
-    2024-10-30
-
-    - 「[プロセッサー（アクセラレータ）系コンテスト](related_contest_sites/ai_accelerator)」ページ
-        - [学生向け Fixstars 高速化コンテスト 2024](https://fixstars-contest.com/)
 
 ## AtCoder公式グッズを購入する
 
