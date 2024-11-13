@@ -62,6 +62,7 @@ title: C&#43;&#43;
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
 |abc050|[はてなブログ](https://htnglsh.hatenablog.com/)||
+|amentorimaru|[はてなブログ](https://amentorimaru.hatenablog.com)||
 |amylase|[はてなブログ](https://pepsin-amylase.hatenablog.com/)||
 |dohatsutsu|[はてなブログ](https://dohatsutsu.hatenablog.com/)|2017年11月以降、新規の記事を確認できず。|
 |dokin|[はてなブログ](https://dokinac.hatenablog.com/)||
