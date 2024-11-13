@@ -89,13 +89,13 @@
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
         - [中高生向け 学校対抗競技プログラミング「AtCoder Junior League 2024 Summer」入賞校・入賞者を発表](https://prtimes.jp/main/html/rd/p/000000051.000028415.html)
 
-    2024-10-29
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Winter - 学校ランキング (10月28日時点)](https://x.com/atcoder/status/1850734216864297016)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2024-11-13
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [amentorimaru](https://atcoder.jp/users/amentorimaru)さん - [はてなブログ](https://amentorimaru.hatenablog.com)
 
     2024-11-10
 
@@ -125,6 +125,17 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2024-11-13
+
+    - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
+        - [amentorimaru](https://atcoder.jp/users/amentorimaru)さん - [【AtCoder】橙に一瞬なりました - あめんばーどのバーチャル日記](https://amentorimaru.hatenablog.com/entry/2024/11/11/221155)
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [Q_re](https://atcoder.jp/users/Q_re)さん - [【色変記事】プログラミング未経験文系→AtCoderで入緑しました](https://note.com/kaze_246/n/n9682b5398878)
+
+    - 「[レーティング400〜799(茶色)](milestones/brown)」ページ
+        - [dualboot51](https://atcoder.jp/users/dualboot51)さん - [AtCoderで入茶するまでにやったこと3選](https://begi-pro.com/atcoder_brown/)
+
     2024-11-11
 
     - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
@@ -149,14 +160,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [ZOIZOI](https://atcoder.jp/users/ZOIZOI)さん - [【色変記事】AtCoderで青になりました!!!](https://qiita.com/ZOI_dayo/items/a3419ebf6377a25f4806)
-
-    2024-10-29
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [amesyu](https://atcoder.jp/users/amesyu)さん - [Atcoder入青までにした精進 - あめしゅのぶろぐ](https://amesyu.hatenablog.com/entry/2024/10/28/105538)
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [Hasu123](https://atcoder.jp/users/Hasu123)さん - [AtCoder入緑までにやったことなどです！！](https://www.shibehasu-inugoya-programming.com/green-coder/)
 
 === "国内外のコンテストサイト"
 
