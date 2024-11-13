@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-11-13
+
+- [#9237](https://github.com/KATO-Hiro/AtCoderClans/pull/9237) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[Q_re](https://atcoder.jp/users/Q_re)さんの[記事](https://note.com/kaze_246/n/n9682b5398878)を追加。
+- [#9236](https://github.com/KATO-Hiro/AtCoderClans/pull/9236) - 「[Milestones](../../milestones/orange)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2400から2799まで(橙色)に[amentorimaru](https://atcoder.jp/users/amentorimaru)さんの[記事](https://amentorimaru.hatenablog.com/entry/2024/11/11/221155)を追加。
+- [#9235](https://github.com/KATO-Hiro/AtCoderClans/pull/9235) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[dualboot51](https://atcoder.jp/users/dualboot51)さんの[記事](https://begi-pro.com/atcoder_brown/)を追加。
+
 ### 2024-11-12
 
 - [#9229](https://github.com/KATO-Hiro/AtCoderClans/pull/9229) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
