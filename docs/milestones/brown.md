@@ -4,6 +4,7 @@ title: レーティング400〜799(茶色)
 
 ## 2024年
 
+- [AtCoderで入茶するまでにやったこと3選](https://begi-pro.com/atcoder_brown/) - [dualboot51](https://atcoder.jp/users/dualboot51)さんが、2024年11月9日に達成。
 - [プログラミング初心者、数弱が入茶するまでにやったこと](https://qiita.com/tagokoro/items/7757dbf63c46eec8c92f) - [tagokoro](https://atcoder.jp/users/tagokoro)さんが、2024年9月11日に公開。
 - [言語習得の為に始めたAtCoderで入茶するまでの話](https://qiita.com/hiramax/items/4e6962f6e95d3f4b7e9e) - [hira0912](https://atcoder.jp/users/hira0912)さんが、2024年6月15日に達成。
 - [AtCoder入茶まで半年かかった凡人がやったこと](https://qiita.com/Yuyo1984/items/45397853f0116f720d68) - [Yuyo1984](https://atcoder.jp/users/Yuyo1984)さんが、2024年5月11日に達成。
