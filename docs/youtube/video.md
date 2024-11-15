@@ -58,6 +58,7 @@ title: 個別の動画
     - [Claudeにパソコンを乗っ取らせて猫の絵を描かせてみた【ゆっくり解説】](https://www.youtube.com/watch?v=jjUDDexo_hM) - Claude の新機能 computer use (2024年10月下旬時点)を利用して、猫の絵を描かせている。
     - [コンピュータが永久にできないこと【ゆっくり解説】](https://www.youtube.com/watch?v=zPbNx0nmxVw) - 任意のプログラムとデータを与えて有限の時間で処理が終了するか判定する問題を通して、「全知全能」がコンピュータの原理上不可能なことを証明している。
 - [100サイズの箱は80サイズの箱に入るか？【ゆっくり解説】](https://www.youtube.com/watch?v=8wT7V-Pw6_w) - 直方体の縦・横・高さの合計でサイズを計る場合に、大きい箱が小さい箱に入るかどうかを示している。
+    - [1/√xを計算する変態コード【ゆっくり解説】](https://www.youtube.com/watch?v=n2Q1Sp7iew4) - ゲームで光の入射角・反射角の計算に使われるコードを解説している。
     - [x^x^4=64【ゆっくり解説】](https://www.youtube.com/watch?v=QeAr5NXGfi0) - 題意を満たす実数xを求めている。
     - [3乗根を一瞬で暗算する方法【ゆっくり解説】](https://www.youtube.com/watch?v=mybn4a6FM10) - 答えが2桁の整数となるときの3乗根を暗算する方法が紹介されている。
     - [【速報】2^136279841-1は素数　6年ぶり新記録](https://www.youtube.com/watch?v=f89QYS-Pqfw) - 2024年10月に史上最大の素数が発見されたことの報告と、判定方法の概略が紹介されている。
