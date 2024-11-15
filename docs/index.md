@@ -89,11 +89,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Winter - 学校ランキング (11月5日時点)](https://x.com/atcoder/status/1853611788476293584)
 
-    2024-10-31
-
-    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
-        - [中高生向け 学校対抗競技プログラミング「AtCoder Junior League 2024 Summer」入賞校・入賞者を発表](https://prtimes.jp/main/html/rd/p/000000051.000028415.html)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -108,6 +103,11 @@
         - [n_o_n_o_n](https://atcoder.jp/users/n_o_n_o_n)さん - [はてなブログ](https://nononmath.hatenablog.com/)
 
 === "動画"
+
+    2024-11-15
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [1/√xを計算する変態コード【ゆっくり解説】](https://www.youtube.com/watch?v=n2Q1Sp7iew4)
 
     2024-11-02
 
@@ -150,11 +150,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [rikimaru2446](https://atcoder.jp/users/rikimaru2446)さん - [【AtCoder入青】数弱コーダーの戦い方](https://note.com/rikimarublack/n/nba119ee7776e)
-
-    2024-10-31
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [MrTired](https://atcoder.jp/users/MrTired)さん - [Fortran vs AtCoder 〜青色になったよ〜](https://qiita.com/osada-yum/items/f349480fd8ae6884ff5b)
 
 ## AtCoder公式グッズを購入する
 
