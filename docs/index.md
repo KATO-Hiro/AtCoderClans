@@ -109,6 +109,14 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2024-11-17
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [miiitomi](https://atcoder.jp/users/miiitomi)さん - [GitHub Pages](https://miiitomi.github.io/categories/%E7%AB%B6%E3%83%97%E3%83%AD/)
+
+    - 「[ヒューリスティック部門 - C&#35](blogs/heuristic/csharp)」ページ
+        - [okudeottu](https://atcoder.jp/users/okudeottu)さん - [Blogger](https://blog.tobisatis.com/)
+
     2024-11-13
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
@@ -125,11 +133,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [1/√xを計算する変態コード【ゆっくり解説】](https://www.youtube.com/watch?v=n2Q1Sp7iew4)
-
-    2024-11-02
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [x^x^4=64【ゆっくり解説】](https://www.youtube.com/watch?v=QeAr5NXGfi0)
 
 === "SNS"
 
