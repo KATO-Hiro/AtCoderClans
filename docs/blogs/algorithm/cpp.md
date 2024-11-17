@@ -165,6 +165,7 @@ title: C&#43;&#43;
 |mayoko|[はてなブログ](https://mayokoex.hatenablog.com/)|2019年12月以降、新規の記事を確認できず。|
 |maze1230|[はてなブログ](https://pazzle1230.hatenablog.com/)||
 |merom686|[はてなブログ](https://merom686.hatenablog.com/)||
+|miiitomi|[GitHub Pages](https://miiitomi.github.io/categories/%E7%AB%B6%E3%83%97%E3%83%AD/)||
 |milkcoffee|[はてなブログ](https://milkcoffee.hatenablog.jp/)||
 |monkukui|[はてなブログ](https://monkukui.hatenablog.com/)||
 |m_tsubasa|[はてなブログ](https://emtubasa.hateblo.jp/)||
