@@ -71,14 +71,12 @@
         - [AtCoder生成AI対策ルール - 20241115版](https://info.atcoder.jp/entry/llm-rules-ja)
         - [生成AIの技術向上に伴うABCおよびARCにおけるルール変更について](https://atcoder.jp/posts/1347)
 
-=== "ユーザスクリプト"
-
-    2024-11-04
-
-    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
-        - [AtCoder-429 Error-Auto Reload](https://greasyfork.org/ja/scripts/514834-atcoder-429-error-auto-reload)
-
 === "記事"
+
+    2024-11-19
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Winter - 学校ランキング (11月18日時点)](https://x.com/atcoder/status/1858360891198361785)
 
     2024-11-16
 
