@@ -72,7 +72,7 @@ title: コンテストの成績を見る
 
 ### アルゴリズム部門
 
-- [AtCoder Replay](https://atcoder-replay.kakira.dev/) - 任意のユーザを対象として、参加したコンテストの開始〜終了までの順位変化を表示する。
+- [AtCoder Replay](https://atcoder-replay.kakira.dev/) - 任意のユーザを対象として、参加したコンテストの開始〜終了までの順位変化を表示する。別の作者により[ICPC版](https://icpc-replay.vercel.app/)も公開されている。
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_replay.png" alt="atcoder replay">

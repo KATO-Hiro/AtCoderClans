@@ -12,6 +12,14 @@ title: ICPC (国際大学対抗プログラミングコンテスト)
       <img loading = "lazy" src="../../images/related_contest_sites/icpc/icpc_japan_problems.png" alt="icpc japan problems">
     </div>
 
+### コンテストの成績を見る
+
+- [ICPC Replay](https://icpc-replay.vercel.app/) - [AtCoder Replay](https://atcoder-replay.kakira.dev/)のICPC版。2022年以降の国内予選・アジア地区予選を対象として、参加チームのコンテスト開始〜終了までの順位変化を表示する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/icpc/icpc_replay.png" alt="icpc replay">
+    </div>
+
 ## 記事
 
 ### 問題を解く
