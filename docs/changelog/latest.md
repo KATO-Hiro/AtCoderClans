@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-11-20
+
+- [#9274](https://github.com/KATO-Hiro/AtCoderClans/pull/9274) - 「[Milestones](../../milestones/orange)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2400から2799まで(橙色)に[hint908](https://atcoder.jp/users/hint908)さんの[記事](https://kureha908.hatenablog.com/entry/2024/11/18/154518)を追加。
+- [#9272](https://github.com/KATO-Hiro/AtCoderClans/pull/9272) - (破壊的な変更) サービス提供終了したと思われるWebアプリを「[Archives](../../archived)」ページに移動。
+    - AtCoder Rating Simulator(仮)
+    - deviation
+
 ### 2024-11-19
 
 - [#9266](https://github.com/KATO-Hiro/AtCoderClans/pull/9266) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
