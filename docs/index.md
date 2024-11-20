@@ -99,13 +99,13 @@
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
         - [絶対にAtCoderで青コーダーになる！典型別 良問500選](https://note.com/rikimarublack/n/n3074b0955e95)
 
-    2024-11-05
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Winter - 学校ランキング (11月5日時点)](https://x.com/atcoder/status/1853611788476293584)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2024-11-20
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [hint908](https://atcoder.jp/users/hint908)さん - [はてなブログ](https://kureha908.hatenablog.com/)
 
     2024-11-17
 
@@ -143,6 +143,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2024-11-20
+
+    - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
+        - [hint908](https://atcoder.jp/users/hint908)さん - [AtCoder 橙になりました - kureha's diary](https://kureha908.hatenablog.com/entry/2024/11/18/154518)
+
     2024-11-18
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
@@ -173,6 +178,15 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [rikimaru2446](https://atcoder.jp/users/rikimaru2446)さん - [【AtCoder入青】数弱コーダーの戦い方](https://note.com/rikimarublack/n/nba119ee7776e)
+
+=== "アーカイブス"
+
+    諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2024-11-20
+
+    - AtCoder Rating Simulator(仮)
+    - deviation
 
 ## AtCoder公式グッズを購入する
 
