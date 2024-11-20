@@ -73,6 +73,7 @@ title: C&#43;&#43;
 |gasin|[はてなブログ](https://gasin.hatenadiary.jp/)||
 |goodbaton|[はてなブログ](https://goodbaton.hatenablog.com/)|2017年3月以降、新規の記事を確認できず。|
 |hiikunZ|[はてなブログ](https://hiikunz.hatenablog.com/)||
+|hint908|[はてなブログ](https://kureha908.hatenablog.com/)||
 |hirayuu_At|[はてなブログ](https://halc-kyopro.hatenablog.com/)||
 |Hoi_koro|[はてなブログ](https://hoikoro.hatenablog.com/)|2019年3月以降、新規の記事を確認できず。|
 |hotman78|[はてなブログ](https://hotman78.hatenablog.com/)||
