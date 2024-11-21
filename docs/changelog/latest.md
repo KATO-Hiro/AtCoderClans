@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-11-21
+
+- [#9278](https://github.com/KATO-Hiro/AtCoderClans/pull/9278) - 「[Related Contest Sites](../../related_contest_sites)」の「[ICPC (国際大学対抗プログラミングコンテスト)](../../related_contest_sites/icpc)」ページに、以下のWebアプリを追加。
+    - [ICPC Replay](https://icpc-replay.vercel.app/)
+
 ### 2024-11-20
 
 - [#9274](https://github.com/KATO-Hiro/AtCoderClans/pull/9274) - 「[Milestones](../../milestones/orange)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
