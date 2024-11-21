@@ -174,10 +174,16 @@
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [Reid2147](https://atcoder.jp/users/Reid2147)さん - [【競プロ】【入緑】AtCoder続けて良かったこと](https://qiita.com/Reid2147/items/030602512c0d76967bf5)
 
-    2024-11-06
+=== "国内外のコンテストサイト"
 
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [rikimaru2446](https://atcoder.jp/users/rikimaru2446)さん - [【AtCoder入青】数弱コーダーの戦い方](https://note.com/rikimarublack/n/nba119ee7776e)
+    2024-11-21
+
+    - 「[ICPC (国際大学対抗プログラミングコンテスト)](related_contest_sites/icpc)」ページ
+        - [ICPC Replay](https://icpc-replay.vercel.app/)
+
+    <div align="center">
+      <img loading = "lazy" src="images/related_contest_sites/icpc/icpc_replay.png" alt="icpc replay">
+    </div>
 
 === "アーカイブス"
 
