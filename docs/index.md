@@ -73,6 +73,11 @@
 
 === "記事"
 
+    2024-11-22
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [THIRD プログラミングコンテスト2024 (AHC039) 解説](https://www.terry-u16.net/entry/ahc039)
+
     2024-11-19
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -168,11 +173,6 @@
 
     - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
         - [n_o_n_o_n](https://atcoder.jp/users/n_o_n_o_n)さん - [入黄記事 - nononの落書き帳](https://nononmath.hatenablog.com/entry/2024/11/10/130322)
-
-    2024-11-07
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [Reid2147](https://atcoder.jp/users/Reid2147)さん - [【競プロ】【入緑】AtCoder続けて良かったこと](https://qiita.com/Reid2147/items/030602512c0d76967bf5)
 
 === "国内外のコンテストサイト"
 
