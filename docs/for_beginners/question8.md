@@ -10,7 +10,11 @@ title: "Q8: 脱初心者に向けて、次は何をすればいいですか?"
 
         紹介している記事は、2020年6月下旬に更新されているものの、特定のレーティング帯については到達するまでの要求水準がさらに上がっている可能性があります。
 
-- コンテストで目標とする成績(パフォーマンス値)を設定してみましょう。有志が公開している[Webサービス](https://koba-e964.github.io/atcoder-rating-estimator/test-last.html)を利用すると、簡単に計算できます。
+- コンテストで目標とする成績(パフォーマンス値)を設定してみましょう。有志が公開している[Webサービス](https://atcoder-notify.com/rating_simulator/)を利用すると、簡単に計算できます。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/atcoder_rating_simulator2.png" alt="atcoder rating simulator">
+    </div>
 
 - また、コンテスト開催中に[参加者のパフォーマンス値の推定値をリアルタイムで見られるスクリプト](https://greasyfork.org/ja/scripts/369954-ac-predictor)が公開されています。下の図は、左側がパフォーマンス値を、右側がレーティングの変動と前回との差分をそれぞれ表しています。
 
