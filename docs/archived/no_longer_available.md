@@ -144,25 +144,16 @@ title: 開発・提供終了
 
 ### コンテストの成績に関連するサービス
 
-- [AtCoder Rating Simulator(仮)](https://atcoder-notify.com/rating_simulator/) - 目標とするレーティングに到達するまでに必要なパフォーマンスを表示する。任意の回数だけ同じパフォーマンスを取ったと仮定した場合についても計算できる。本家のリンク切れに伴い、有志が新たに作成・公開した。
-    - 確認した日: 2024/11/20
-    - 理由: 記載なし。
-    - 代替手段: 調査中。
-
-    <div align="center">
-      <img loading="lazy" src="../../images/web_app/atcoder_rating_simulator2.png" alt="atcoder rating simulator">
-    </div>
-
 - [AtCoder Rating Simulator](https://atcoder-rating-simulator.dt.r.appspot.com/) - 目標とするレーティングに到達するまでに必要なパフォーマンスを表示する。任意の回数だけ同じパフォーマンスを取ったと仮定した場合についても計算できる。
     - 理由: 記載なし。
-    - 代替手段: 調査中。
+    - 代替手段: [AtCoder Rating Simulator(仮)](https://atcoder-notify.com/rating_simulator/)を利用する。
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_rating_simulator_web.png" alt="atcoder rating simulator web">
 
 - [AtCoder Rating Simulator](https://twitter.com/AtCoderRS) - Ratedコンテスト当日に、所定のレーティングに到達するのに必要なパフォーマンスを自動返信するTwitter Bot。
     - 理由: 開発者により、Twitterアカウントの運用終了が告知されたため([出典](https://twitter.com/AtCoderRS/status/1323666246173413376))。
-    - 代替手段: 調査中。
+    - 代替手段: [AtCoder Rating Simulator(仮)](https://atcoder-notify.com/rating_simulator/)を利用する。
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_rating_simulator.png" alt="atcoder rating simulator">
@@ -240,12 +231,6 @@ title: 開発・提供終了
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_stats.png" alt="atcoder stats">
-    </div>
-
-- [deviation](https://atcoder-notify.com/deviation/) -　任意のユーザもしくは特定のレーティングに基づいた偏差値（アルゴリズム部門・ヒューリスティック部門）を表示する。
-
-    <div align="center">
-      <img loading="lazy" src="../../images/web_app/deviation.png" alt="deviation">
     </div>
 
 - [あなたのレートはどこから?](https://rating-history.herokuapp.com/rating.html) - レーティングが、どのコンテスト区分(ABC、ARC、AGC、その他)から得られているかを求める。
