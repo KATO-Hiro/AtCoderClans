@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-11-23
+
+- [#9290](https://github.com/KATO-Hiro/AtCoderClans/pull/9290) - (破壊的な変更) [#9272](https://github.com/KATO-Hiro/AtCoderClans/pull/9272) で「[Archives](../../archived)」ページに移動したWebアプリが再公開されているのを確認したため、元のページに戻した。
+    - [AtCoder Rating Simulator(仮)](https://atcoder-notify.com/rating_simulator/)
+    - [deviation](https://atcoder-notify.com/deviation/)
+- [#9288](https://github.com/KATO-Hiro/AtCoderClans/pull/9288) - (破壊的な変更) 「[Change Log](../latest)」ページの2024年9月分を月別のアーカイブに移動。
+    - [September, 2024](../2024_09)
+
 ### 2024-11-22
 
 - [#9283](https://github.com/KATO-Hiro/AtCoderClans/pull/9283) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
