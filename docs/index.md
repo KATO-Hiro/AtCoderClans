@@ -71,6 +71,28 @@
         - [AtCoder生成AI対策ルール - 20241115版](https://info.atcoder.jp/entry/llm-rules-ja)
         - [生成AIの技術向上に伴うABCおよびARCにおけるルール変更について](https://atcoder.jp/posts/1347)
 
+=== "Webアプリ・Webサイト"
+
+    !!! info "お知らせ"
+
+        一時的にリンク切れとなっていましたが、サービスが利用できることを確認したため、改めて掲載しています。
+
+    2024-11-23
+
+    - 「[コンテストの成績に関連するサービス](web_app/services_using_scores)」ページ
+        - [AtCoder Rating Simulator(仮)](https://atcoder-notify.com/rating_simulator/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/atcoder_rating_simulator2.png" alt="atcoder rating simulator">
+    </div>
+
+    - 「[コンテストに関する統計情報](web_app/statistics)」ページ
+        - [deviation](https://atcoder-notify.com/deviation/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/deviation.png" alt="deviation">
+    </div>
+
 === "記事"
 
     2024-11-22
@@ -98,11 +120,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Winter - 学校ランキング (11月11日時点)](https://x.com/atcoder/status/1855799989181751468)
-
-    2024-11-08
-
-    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
-        - [絶対にAtCoderで青コーダーになる！典型別 良問500選](https://note.com/rikimarublack/n/n3074b0955e95)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -184,15 +201,6 @@
     <div align="center">
       <img loading = "lazy" src="images/related_contest_sites/icpc/icpc_replay.png" alt="icpc replay">
     </div>
-
-=== "アーカイブス"
-
-    諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
-
-    2024-11-20
-
-    - AtCoder Rating Simulator(仮)
-    - deviation
 
 ## AtCoder公式グッズを購入する
 
