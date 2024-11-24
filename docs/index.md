@@ -154,16 +154,14 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [1/√xを計算する変態コード【ゆっくり解説】](https://www.youtube.com/watch?v=n2Q1Sp7iew4)
 
-=== "SNS"
-
-    2024-11-09
-
-    - 「[SNS](sns)」ページ
-        - [AtCoder 言語アップデート 2024-2025](https://discord.com/invite/NQ3PZQkq7M)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2024-11-24
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [InTheBloom](https://atcoder.jp/users/InTheBloom)さん - [AtCoder Algorithm 1600達成！](https://inthebloom.github.io/post/reached-1600/)
 
     2024-11-20
 
