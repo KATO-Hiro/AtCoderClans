@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-11-24
+
+- [#9295](https://github.com/KATO-Hiro/AtCoderClans/pull/9295) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[InTheBloom](https://atcoder.jp/users/InTheBloom)さんの[記事](https://inthebloom.github.io/post/reached-1600/)を追加。
+
 ### 2024-11-23
 
 - [#9290](https://github.com/KATO-Hiro/AtCoderClans/pull/9290) - (破壊的な変更) [#9272](https://github.com/KATO-Hiro/AtCoderClans/pull/9272) で「[Archives](../../archived)」ページに移動したWebアプリが再公開されているのを確認したため、元のページに戻した。
