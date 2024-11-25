@@ -142,11 +142,6 @@
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [amentorimaru](https://atcoder.jp/users/amentorimaru)さん - [はてなブログ](https://amentorimaru.hatenablog.com)
 
-    2024-11-10
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [n_o_n_o_n](https://atcoder.jp/users/n_o_n_o_n)さん - [はてなブログ](https://nononmath.hatenablog.com/)
-
 === "動画"
 
     2024-11-15
@@ -157,6 +152,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2024-11-25
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [comet725](https://atcoder.jp/users/comet725)さん - [【色変記事】AtCoder入緑しました](https://qiita.com/comet725/items/39cbd3a73ad3c50b3abc)
 
     2024-11-24
 
