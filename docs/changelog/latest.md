@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-11-27
+
+- [#9310](https://github.com/KATO-Hiro/AtCoderClans/pull/9310) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [lower_boundとかupper_boundとか「～を満たす最小」とか「～を満たす最大」とかを徹底的に整理](https://qiita.com/hibit/items/7637b6cee79e38a4ca13)
+
 ### 2024-11-26
 
 - [#9307](https://github.com/KATO-Hiro/AtCoderClans/pull/9307) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。

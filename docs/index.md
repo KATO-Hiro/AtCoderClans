@@ -95,6 +95,11 @@
 
 === "記事"
 
+    2024-11-27
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [lower_boundとかupper_boundとか「～を満たす最小」とか「～を満たす最大」とかを徹底的に整理](https://qiita.com/hibit/items/7637b6cee79e38a4ca13)
+
     2024-11-26
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -120,11 +125,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [THIRD プログラミングコンテスト2024（AtCoder Heuristic Contest 039）参加記](https://kaede2020.hatenablog.com/entry/2024/11/11/222634)
-
-    2024-11-12
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Winter - 学校ランキング (11月11日時点)](https://x.com/atcoder/status/1855799989181751468)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
