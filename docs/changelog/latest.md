@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-11-28
+
+- [#9319](https://github.com/KATO-Hiro/AtCoderClans/pull/9319) - 「[Related Contest Sites](../../related_contest_sites)」の「[セキュリティ系コンテスト](../../related_contest_sites/security)」ページに、以下のアドベントカレンダーを追加。
+    - [CTF Advent Calendar 2024](https://adventar.org/calendars/10469)
+
 ### 2024-11-27
 
 - [#9310](https://github.com/KATO-Hiro/AtCoderClans/pull/9310) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。

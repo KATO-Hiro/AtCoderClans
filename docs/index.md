@@ -142,11 +142,6 @@
     - 「[ヒューリスティック部門 - C&#35](blogs/heuristic/csharp)」ページ
         - [okudeottu](https://atcoder.jp/users/okudeottu)さん - [Blogger](https://blog.tobisatis.com/)
 
-    2024-11-13
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [amentorimaru](https://atcoder.jp/users/amentorimaru)さん - [はてなブログ](https://amentorimaru.hatenablog.com)
-
 === "動画"
 
     2024-11-15
@@ -178,18 +173,12 @@
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [Andrew8128](https://atcoder.jp/users/Andrew8128)さん - [競技プログラミングで意識していること【AtCoder】【入青】](https://qiita.com/Andrew8128/items/6931c014d33a95b6349b)
 
-    2024-11-13
-
-    - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
-        - [amentorimaru](https://atcoder.jp/users/amentorimaru)さん - [【AtCoder】橙に一瞬なりました - あめんばーどのバーチャル日記](https://amentorimaru.hatenablog.com/entry/2024/11/11/221155)
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [Q_re](https://atcoder.jp/users/Q_re)さん - [【色変記事】プログラミング未経験文系→AtCoderで入緑しました](https://note.com/kaze_246/n/n9682b5398878)
-
-    - 「[レーティング400〜799(茶色)](milestones/brown)」ページ
-        - [dualboot51](https://atcoder.jp/users/dualboot51)さん - [AtCoderで入茶するまでにやったこと3選](https://begi-pro.com/atcoder_brown/)
-
 === "国内外のコンテストサイト"
+
+    2024-11-28
+
+    - 「[セキュリティ系コンテスト](related_contest_sites/security)」ページ
+        - [CTF Advent Calendar 2024](https://adventar.org/calendars/10469)
 
     2024-11-21
 
