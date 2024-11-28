@@ -65,6 +65,7 @@ title: セキュリティ系コンテスト
 
 CTFに関する話題を扱ったアドベントカレンダー。
 
+- [CTF Advent Calendar 2024](https://adventar.org/calendars/10469)
 - [CTF Advent Calendar 2022](https://adventar.org/calendars/7550)
 - [CTF Advent Calendar 2021](https://adventar.org/calendars/6914)
 
