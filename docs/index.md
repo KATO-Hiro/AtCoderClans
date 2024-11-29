@@ -95,6 +95,11 @@
 
 === "記事"
 
+    2024-11-29
+
+    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
+        - [日本最大のプログラミングコンテストサイト AtCoder　全世界での登録者数が70万人を突破！](https://prtimes.jp/main/html/rd/p/000000052.000028415.html)
+
     2024-11-27
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
@@ -120,11 +125,6 @@
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
         - [AtCoder生成AI対策ルール - 20241115版](https://info.atcoder.jp/entry/llm-rules-ja)
         - [生成AIの技術向上に伴うABCおよびARCにおけるルール変更について](https://atcoder.jp/posts/1347)
-
-    2024-11-14
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [THIRD プログラミングコンテスト2024（AtCoder Heuristic Contest 039）参加記](https://kaede2020.hatenablog.com/entry/2024/11/11/222634)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
