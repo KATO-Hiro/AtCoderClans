@@ -15,7 +15,7 @@ title: 入門者・初心者向けの内容
 ### 競技プログラミングとは?
 
 - [初心者こそ、競技プログラミングに挑戦してほしい。髙橋直大の「世界にAtCoderを広める」という夢](https://persol-tech-s.co.jp/i-engineer/human/atcoder) - [AtCoder](https://atcoder.jp/)社長の[chokudai](https://twitter.com/chokudai)さんが、プログラミング初心者に競技プログラミングを勧めている記事。また、同氏がプログラミングと出会ったきっかけ・競技プログラミングの魅力・会社設立に至った経緯なども語られている。
-    - [日本最大のプログラミングコンテストサイト AtCoder 全世界での登録者数が30万人を突破！](https://prtimes.jp/main/html/rd/p/000000034.000028415.html) - AtCoderの登録者数が2021年6月に30万人を突破したことを報告した記事。競技プログラミングの関連書籍や無料のオンライン学習コンテンツも紹介されている。続報として、[同50万人突破 (2023年4月時点)](https://prtimes.jp/main/html/rd/p/000000038.000028415.html)、[同60万人突破 (2024年2月時点)](https://prtimes.jp/main/html/rd/p/000000046.000028415.html)も公開されている。
+    - [日本最大のプログラミングコンテストサイト AtCoder　全世界での登録者数が70万人を突破！](https://prtimes.jp/main/html/rd/p/000000052.000028415.html) - AtCoderの登録者数が70万人（2024年10月現在）を突破したことを報告している。競技プログラミングにおける国際大会の変化や世界トッププレイヤーのコメントが紹介されている。
 - [競技プログラミングことはじめ](https://speakerdeck.com/e869120/20221122-jing-ji-puroguramingukotohazime) - 競技プログラミングに関連する教育コンテンツを多数作成されている[E869120](https://atcoder.jp/users/E869120)さんのスライド。基本的な説明から、コンテストサイト[AtCoder](https://atcoder.jp/)の登録方法・問題の解き方・求められるスキルなどが紹介されている。
     - [Let’s 競技プログラミング! E8さんが教える アルゴリズム発想のキホン](https://news.mynavi.jp/techplus/series/algorithm/) - 同名の著者によるアルゴリズムの紹介・解説記事(全24回)。
 
