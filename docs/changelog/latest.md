@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-11-30
+
+- [#9325](https://github.com/KATO-Hiro/AtCoderClans/pull/9325) - 「[Libraries and Snippets](../../libraries)」の「[Rust](../../libraries/rust)」ページに、主にRustで実装されたライブラリを追加。
+    - [kentakom1213/cp-library](https://github.com/kentakom1213/cp-library) ![GitHub Repo stars](https://img.shields.io/github/stars/kentakom1213/cp-library?style=plastic)
+
 ### 2024-11-29
 
 - [#9321](https://github.com/KATO-Hiro/AtCoderClans/pull/9321) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の記事を追加。

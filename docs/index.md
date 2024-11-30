@@ -142,12 +142,12 @@
     - 「[ヒューリスティック部門 - C&#35](blogs/heuristic/csharp)」ページ
         - [okudeottu](https://atcoder.jp/users/okudeottu)さん - [Blogger](https://blog.tobisatis.com/)
 
-=== "動画"
+=== "ライブラリ・スニペット"
 
-    2024-11-15
+    2024-11-30
 
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [1/√xを計算する変態コード【ゆっくり解説】](https://www.youtube.com/watch?v=n2Q1Sp7iew4)
+    - 「[Rust](libraries/rust)」ページ
+        - [kentakom1213/cp-library](https://github.com/kentakom1213/cp-library) ![GitHub Repo stars](https://img.shields.io/github/stars/kentakom1213/cp-library?style=plastic)
 
 === "色変記事"
 
