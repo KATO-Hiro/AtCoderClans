@@ -129,6 +129,11 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2024-12-01
+
+    - 「[アルゴリズム部門 - Rust](blogs/algorithm/rust)」ページ
+        - [MoSooN](https://atcoder.jp/users/MoSooN)さん - [自作ブログ](https://mosoon.net/)
+
     2024-11-20
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
