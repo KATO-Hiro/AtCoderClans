@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-12-01
+
+- [#9328](https://github.com/KATO-Hiro/AtCoderClans/pull/9328) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
+
 ### 2024-11-30
 
 - [#9325](https://github.com/KATO-Hiro/AtCoderClans/pull/9325) - 「[Libraries and Snippets](../../libraries)」の「[Rust](../../libraries/rust)」ページに、主にRustで実装されたライブラリを追加。

@@ -63,14 +63,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "入門者・初心者向けの内容"
-
-    2024-11-16
-
-    - 「[Q3: コンテストは、いつ開催されていますか?](for_beginners/question3)」ページ
-        - [AtCoder生成AI対策ルール - 20241115版](https://info.atcoder.jp/entry/llm-rules-ja)
-        - [生成AIの技術向上に伴うABCおよびARCにおけるルール変更について](https://atcoder.jp/posts/1347)
-
 === "Webアプリ・Webサイト"
 
     !!! info "お知らせ"
@@ -120,14 +112,13 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Winter - 学校ランキング (11月18日時点)](https://x.com/atcoder/status/1858360891198361785)
 
-    2024-11-16
-
-    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
-        - [AtCoder生成AI対策ルール - 20241115版](https://info.atcoder.jp/entry/llm-rules-ja)
-        - [生成AIの技術向上に伴うABCおよびARCにおけるルール変更について](https://atcoder.jp/posts/1347)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2024-12-01
+
+    - 「[アルゴリズム部門 - Rust](blogs/algorithm/rust)」ページ
+        - [MoSooN](https://atcoder.jp/users/MoSooN)さん - [自作ブログ](https://mosoon.net/)
 
     2024-11-20
 
