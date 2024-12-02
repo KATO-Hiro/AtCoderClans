@@ -87,6 +87,11 @@
 
 === "記事"
 
+    2024-12-02
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Winter - 学校ランキング (12月2日時点)](https://x.com/atcoder/status/1863398659259601225)
+
     2024-11-29
 
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
@@ -124,14 +129,6 @@
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [hint908](https://atcoder.jp/users/hint908)さん - [はてなブログ](https://kureha908.hatenablog.com/)
-
-    2024-11-17
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [miiitomi](https://atcoder.jp/users/miiitomi)さん - [GitHub Pages](https://miiitomi.github.io/categories/%E7%AB%B6%E3%83%97%E3%83%AD/)
-
-    - 「[ヒューリスティック部門 - C&#35](blogs/heuristic/csharp)」ページ
-        - [okudeottu](https://atcoder.jp/users/okudeottu)さん - [Blogger](https://blog.tobisatis.com/)
 
 === "ライブラリ・スニペット"
 
