@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-12-03
+
+- [#9343](https://github.com/KATO-Hiro/AtCoderClans/pull/9343) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[MoSooN](https://atcoder.jp/users/MoSooN)さんの[記事](https://mo-sooon.hatenablog.com/entry/2024/12/02/235226)を追加。
+
 ### 2024-12-02
 
 - [#9336](https://github.com/KATO-Hiro/AtCoderClans/pull/9336) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。

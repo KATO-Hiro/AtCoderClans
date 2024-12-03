@@ -141,6 +141,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2024-12-03
+
+    - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
+        - [MoSooN](https://atcoder.jp/users/MoSooN)さん - [AtCoder黄色になりました - もすーんの日記](https://mo-sooon.hatenablog.com/entry/2024/12/02/235226)
+
     2024-11-25
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
@@ -155,11 +160,6 @@
 
     - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
         - [hint908](https://atcoder.jp/users/hint908)さん - [AtCoder 橙になりました - kureha's diary](https://kureha908.hatenablog.com/entry/2024/11/18/154518)
-
-    2024-11-18
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [Andrew8128](https://atcoder.jp/users/Andrew8128)さん - [競技プログラミングで意識していること【AtCoder】【入青】](https://qiita.com/Andrew8128/items/6931c014d33a95b6349b)
 
 === "国内外のコンテストサイト"
 
