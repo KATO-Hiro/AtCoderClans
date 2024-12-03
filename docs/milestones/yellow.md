@@ -7,6 +7,7 @@ title: レーティング2000〜2399(黄色)
 
 ## 2024年
 
+- [AtCoder黄色になりました - もすーんの日記](https://mo-sooon.hatenablog.com/entry/2024/12/02/235226) - [MoSooN](https://atcoder.jp/users/MoSooN)さんが、2024年11月30日に達成。
 - [入黄記事 - nononの落書き帳](https://nononmath.hatenablog.com/entry/2024/11/10/130322) - [n_o_n_o_n](https://atcoder.jp/users/n_o_n_o_n)さんが、2024年11月9日に達成。
 - [社会人競プロerが6年かけてAtCoder黄色になるまで - Commentārius Tobisatis](https://blog.tobisatis.com/2024/10/atcoder-yellow.html) - [okudeottu](https://atcoder.jp/users/okudeottu)さんが、2024年10月26日に公開。
 - [AtCoderで入黄しました 【雑談】 - zawatinはてなブログ](https://zawatin.hatenablog.com/entry/2024/09/18/171103) - [zawatin](https://atcoder.jp/users/zawatin)さんが、2024年9月18日に公開。
