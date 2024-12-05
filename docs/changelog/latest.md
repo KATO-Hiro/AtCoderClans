@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-12-05
+
+- [#9354](https://github.com/KATO-Hiro/AtCoderClans/pull/9354) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[lmori](https://atcoder.jp/users/lmori)さんの[記事](https://kuiper.hatenablog.com/entry/2024/12/04/024018)を追加。
+
 ### 2024-12-04
 
 - [#9347](https://github.com/KATO-Hiro/AtCoderClans/pull/9347) - [Home](../..)ページに、以下の記事を掲載。

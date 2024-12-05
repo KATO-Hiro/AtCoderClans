@@ -122,11 +122,6 @@
     - 「[アルゴリズム部門 - Rust](blogs/algorithm/rust)」ページ
         - [MoSooN](https://atcoder.jp/users/MoSooN)さん - [自作ブログ](https://mosoon.net/)
 
-    2024-11-20
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [hint908](https://atcoder.jp/users/hint908)さん - [はてなブログ](https://kureha908.hatenablog.com/)
-
 === "ライブラリ・スニペット"
 
     2024-11-30
@@ -137,6 +132,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2024-12-05
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [lmori](https://atcoder.jp/users/lmori)さん - [AtCoderで水色になりました - kuiper’s diary](https://kuiper.hatenablog.com/entry/2024/12/04/024018)
 
     2024-12-03
 
@@ -152,11 +152,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [InTheBloom](https://atcoder.jp/users/InTheBloom)さん - [AtCoder Algorithm 1600達成！](https://inthebloom.github.io/post/reached-1600/)
-
-    2024-11-20
-
-    - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
-        - [hint908](https://atcoder.jp/users/hint908)さん - [AtCoder 橙になりました - kureha's diary](https://kureha908.hatenablog.com/entry/2024/11/18/154518)
 
 === "国内外のコンテストサイト"
 
