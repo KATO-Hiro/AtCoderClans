@@ -4,6 +4,7 @@ title: レーティング1200〜1599(水色)
 
 ## 2024年
 
+- [AtCoderで水色になりました - kuiper’s diary](https://kuiper.hatenablog.com/entry/2024/12/04/024018) - [lmori](https://atcoder.jp/users/lmori)さんが、2024年12月4日に公開。
 - [数学が苦手な大学生の AtCoder 入水記事](https://note.com/yindolsa/n/n61b2b4f17e78) - [ZUkA_](https://atcoder.jp/users/ZUkA_)さんが、2024年9月14日に達成。
 - [AtCoderで水色コーダーになりました](https://trap.jp/post/2310/) - [jupiter_68](https://atcoder.jp/users/jupiter_68)さんが、2024年8月22日に公開。
 - [AtCoder入水しました！！！！～ゼロから入水までの軌跡～](https://qiita.com/W0VKS1Cm8hwomGk/items/6a8910bcf5cb9439cec9) - [soutome](https://atcoder.jp/users/soutome)さんが、2024年8月17日に達成。
@@ -29,7 +30,7 @@ title: レーティング1200〜1599(水色)
 - [AtCoder入水記事！！](https://qiita.com/Toncochan/items/a131519f7431f9da0882) - [Toncochan](https://atcoder.jp/users/Toncochan)さんが、2023年10月7日に公開。
 - [【AtCoder】一年と半年、水色になりました。](https://zenn.dev/yu7400ki/articles/bea3e57ac34de1) - [yu7400ki](https://atcoder.jp/users/yu7400ki)さんが、2023年9月30日に達成。
 - [ABC321で中2が入水したよ！！！！](https://qiita.com/hiroyuk1/items/363fce5a43f1cda1d49d) - [hiroyuk1](https://atcoder.jp/users/hiroyuk1)さんが、2023年9月23日に達成。
-- [Houdinist が競プロerになってみた話  (本サイト運営者による注:水色コーダー達成に関する内容を含む) ](https://qiita.com/Satsuki-Sensei/items/2e5ed965f4a6b8794f9e) - [Satsuki_8198](https://atcoder.jp/users/Satsuki_8198)さんが、2023年9月16日に達成。
+- [Houdinist が競プロerになってみた話  (本サイト運営者による注:水色コーダー達成に関する内容を含む)](https://qiita.com/Satsuki-Sensei/items/2e5ed965f4a6b8794f9e) - [Satsuki_8198](https://atcoder.jp/users/Satsuki_8198)さんが、2023年9月16日に達成。
 - [【色編記事】AtCoder水色になりました 〜4年間の挑戦を振り返る〜](https://qiita.com/_ken_/items/c32d4b2e680058abd77a) - [hassy_](https://atcoder.jp/users/hassy_)さんが、2023年8月30日に公開。
 - [【色変記事】なんやかんやでAtCoder水コーダーになりました](https://qiita.com/ZOI_dayo/items/7f3b5e0dc0c6ba8c3d2d) - [ZOIZOI](https://atcoder.jp/users/ZOIZOI)さんが、2023年8月12日に達成。
 - [入水記事 - nononの落書き帳](https://nononmath.hatenablog.com/entry/2023/08/14/102643) - [n_o_n_o_n](https://atcoder.jp/users/n_o_n_o_n)さんが、2023年8月12日に達成。
