@@ -4,6 +4,7 @@ title: レーティング1200〜1599(水色)
 
 ## 2024年
 
+- [入水したぞー！！](https://www.tellpro.net/ruku/articles/olHWiWjTpHDBLnYLmTVEDRERuauTzfkG) - [rurumaru](https://atcoder.jp/users/rurumaru)さんが、2024年12月4日に公開。
 - [AtCoderで水色になりました - kuiper’s diary](https://kuiper.hatenablog.com/entry/2024/12/04/024018) - [lmori](https://atcoder.jp/users/lmori)さんが、2024年12月4日に公開。
 - [数学が苦手な大学生の AtCoder 入水記事](https://note.com/yindolsa/n/n61b2b4f17e78) - [ZUkA_](https://atcoder.jp/users/ZUkA_)さんが、2024年9月14日に達成。
 - [AtCoderで水色コーダーになりました](https://trap.jp/post/2310/) - [jupiter_68](https://atcoder.jp/users/jupiter_68)さんが、2024年8月22日に公開。
