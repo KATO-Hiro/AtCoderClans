@@ -133,6 +133,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2024-12-06
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [rurumaru](https://atcoder.jp/users/rurumaru)さん - [入水したぞー！！](https://www.tellpro.net/ruku/articles/olHWiWjTpHDBLnYLmTVEDRERuauTzfkG)
+
     2024-12-05
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
@@ -159,15 +164,6 @@
 
     - 「[セキュリティ系コンテスト](related_contest_sites/security)」ページ
         - [CTF Advent Calendar 2024](https://adventar.org/calendars/10469)
-
-    2024-11-21
-
-    - 「[ICPC (国際大学対抗プログラミングコンテスト)](related_contest_sites/icpc)」ページ
-        - [ICPC Replay](https://icpc-replay.vercel.app/)
-
-    <div align="center">
-      <img loading = "lazy" src="images/related_contest_sites/icpc/icpc_replay.png" alt="icpc replay">
-    </div>
 
 ## AtCoder公式グッズを購入する
 
