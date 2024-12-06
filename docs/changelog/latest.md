@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-12-06
+
+- [#9360](https://github.com/KATO-Hiro/AtCoderClans/pull/9360) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[rurumaru](https://atcoder.jp/users/rurumaru)さんの[記事](https://www.tellpro.net/ruku/articles/olHWiWjTpHDBLnYLmTVEDRERuauTzfkG)を追加。
+
 ### 2024-12-05
 
 - [#9354](https://github.com/KATO-Hiro/AtCoderClans/pull/9354) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
