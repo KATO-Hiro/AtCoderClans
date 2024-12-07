@@ -129,6 +129,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2024-12-07
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [kazuppa](https://atcoder.jp/users/kazuppa)さん - [AtCoderで入青したのでいろいろなことを書く](https://qiita.com/kazuppa/items/838835c28e549858fd1c)
+
     2024-12-06
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
