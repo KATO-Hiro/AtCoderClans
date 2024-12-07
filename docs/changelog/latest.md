@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-12-07
+
+- [#9365](https://github.com/KATO-Hiro/AtCoderClans/pull/9365) - [#9253](https://github.com/KATO-Hiro/AtCoderClans/pull/9253)に関連して、「[For Beginners](../../for_beginners)」の「[Q3: コンテストは、いつ開催されていますか?](../../for_beginners/question3)」ページと「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加および説明文を一部修正。
+    - [AtCoder生成AI対策ルール - 20241206版](https://info.atcoder.jp/entry/llm-rules-ja)
+    - [ARCのDivision制に伴うルール変更について](https://atcoder.jp/posts/1368)
+- [#9363](https://github.com/KATO-Hiro/AtCoderClans/pull/9363) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[kazuppa](https://atcoder.jp/users/kazuppa)さんの[記事](https://qiita.com/kazuppa/items/838835c28e549858fd1c)を追加。
+
 ### 2024-12-06
 
 - [#9360](https://github.com/KATO-Hiro/AtCoderClans/pull/9360) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
