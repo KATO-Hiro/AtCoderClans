@@ -66,28 +66,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "Webアプリ・Webサイト"
-
-    !!! info "お知らせ"
-
-        一時的にリンク切れとなっていましたが、サービスが利用できることを確認したため、改めて掲載しています。
-
-    2024-11-23
-
-    - 「[コンテストの成績に関連するサービス](web_app/services_using_scores)」ページ
-        - [AtCoder Rating Simulator(仮)](https://atcoder-notify.com/rating_simulator/)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/atcoder_rating_simulator2.png" alt="atcoder rating simulator">
-    </div>
-
-    - 「[コンテストに関する統計情報](web_app/statistics)」ページ
-        - [deviation](https://atcoder-notify.com/deviation/)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/deviation.png" alt="deviation">
-    </div>
-
 === "記事"
 
     2024-12-02
@@ -117,6 +95,13 @@
 
     - 「[アルゴリズム部門 - Rust](blogs/algorithm/rust)」ページ
         - [MoSooN](https://atcoder.jp/users/MoSooN)さん - [自作ブログ](https://mosoon.net/)
+
+=== "動画"
+
+    2024-12-08
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [a!b! = a! + b! + c!【ゆっくり解説】](https://www.youtube.com/watch?v=9Yw0ekDSBgE)
 
 === "ライブラリ・スニペット"
 
