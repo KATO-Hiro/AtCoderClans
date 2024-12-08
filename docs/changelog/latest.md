@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-12-08
+
+- [#9369](https://github.com/KATO-Hiro/AtCoderClans/pull/9369) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [a!b! = a! + b! + c!【ゆっくり解説】](https://www.youtube.com/watch?v=9Yw0ekDSBgE)
+
 ### 2024-12-07
 
 - [#9365](https://github.com/KATO-Hiro/AtCoderClans/pull/9365) - [#9253](https://github.com/KATO-Hiro/AtCoderClans/pull/9253)に関連して、「[For Beginners](../../for_beginners)」の「[Q3: コンテストは、いつ開催されていますか?](../../for_beginners/question3)」ページと「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加および説明文を一部修正。
