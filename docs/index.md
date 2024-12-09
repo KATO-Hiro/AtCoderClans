@@ -68,6 +68,11 @@
 
 === "記事"
 
+    2024-12-09
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [HACK TO THE FUTURE 2025 （AtCoder Heuristic Contest 040）参加記](https://kaede2020.hatenablog.com/entry/2024/12/09/191102)
+
     2024-12-02
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -138,11 +143,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [comet725](https://atcoder.jp/users/comet725)さん - [【色変記事】AtCoder入緑しました](https://qiita.com/comet725/items/39cbd3a73ad3c50b3abc)
-
-    2024-11-24
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [InTheBloom](https://atcoder.jp/users/InTheBloom)さん - [AtCoder Algorithm 1600達成！](https://inthebloom.github.io/post/reached-1600/)
 
 === "国内外のコンテストサイト"
 
