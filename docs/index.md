@@ -68,6 +68,11 @@
 
 === "記事"
 
+    2024-12-10
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Winter - 学校ランキング (12月9日時点)](https://x.com/atcoder/status/1865943124809601378)
+
     2024-12-09
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -138,11 +143,6 @@
 
     - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
         - [MoSooN](https://atcoder.jp/users/MoSooN)さん - [AtCoder黄色になりました - もすーんの日記](https://mo-sooon.hatenablog.com/entry/2024/12/02/235226)
-
-    2024-11-25
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [comet725](https://atcoder.jp/users/comet725)さん - [【色変記事】AtCoder入緑しました](https://qiita.com/comet725/items/39cbd3a73ad3c50b3abc)
 
 === "国内外のコンテストサイト"
 
