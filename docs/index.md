@@ -68,6 +68,11 @@
 
 === "記事"
 
+    2024-12-11
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AutoSampler：Optunaの最適化アルゴリズムを自動選択する機能を公開](https://tech.preferred.jp/ja/blog/optuna-autosampler/)
+
     2024-12-10
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -92,11 +97,6 @@
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [lower_boundとかupper_boundとか「～を満たす最小」とか「～を満たす最大」とかを徹底的に整理](https://qiita.com/hibit/items/7637b6cee79e38a4ca13)
-
-    2024-11-26
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Winter - 学校ランキング (11月25日時点)](https://x.com/atcoder/status/1860906179104510443)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
