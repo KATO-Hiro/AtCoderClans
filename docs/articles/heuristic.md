@@ -179,6 +179,7 @@ title: ヒューリスティック問題を解く
 
 - [Optunaでヒューリスティックコンテストを解く](https://kuruton.hatenablog.com/entry/2021/12/14/011150) - ヒューリスティックコンテストでハイパーパラメータの調整を行う際に、Pythonライブラリ「Optuna」を利用する方法を紹介した記事。また、Python以外の言語(C++)で書かれたコードに対するパラメータの調整方法が丁寧に解説されている。
 - [Optunaを使ってAtCoder Heuristic Contest 007を優勝する](https://blog.knshnb.com/posts/ahc007-optuna/) - [AtCoder Heuristic Contest 007](https://atcoder.jp/contests/ahc007)を題材に、ハイパーパラメータをPythonライブラリ「Optuna」で探索して高スコアが得られたことを紹介した記事。提出コードと各ツールの連携方法やパラメータの探索結果の可視化について解説されている。
+- [AutoSampler：Optunaの最適化アルゴリズムを自動選択する機能を公開](https://tech.preferred.jp/ja/blog/optuna-autosampler/) - Optunaの最適アルゴリズムを自動的に選択する[AutoSampler](https://hub.optuna.org/samplers/auto_sampler/)の必要性、利用方法などが紹介されている。
 
 #### AWS
 
