@@ -93,11 +93,6 @@
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
         - [日本最大のプログラミングコンテストサイト AtCoder　全世界での登録者数が70万人を突破！](https://prtimes.jp/main/html/rd/p/000000052.000028415.html)
 
-    2024-11-27
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [lower_boundとかupper_boundとか「～を満たす最小」とか「～を満たす最大」とかを徹底的に整理](https://qiita.com/hibit/items/7637b6cee79e38a4ca13)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -123,6 +118,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2024-12-12
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [kota1t](https://atcoder.jp/users/kota1t)さん - [初投稿&AtCoder入茶&入緑](https://qiita.com/Kota1t/items/23bd20c7eb59e47d68f0)
 
     2024-12-07
 
