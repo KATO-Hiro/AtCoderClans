@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-12-13
+
+- [#9395](https://github.com/KATO-Hiro/AtCoderClans/pull/9395) - [Home](../..)ページに、以下の記事を掲載。
+    - [AtCoderアカウントのパスワード管理について](https://atcoder.jp/posts/1366)
+
 ### 2024-12-12
 
 - [#9390](https://github.com/KATO-Hiro/AtCoderClans/pull/9390) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

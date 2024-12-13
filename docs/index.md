@@ -145,13 +145,6 @@
     - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
         - [MoSooN](https://atcoder.jp/users/MoSooN)さん - [AtCoder黄色になりました - もすーんの日記](https://mo-sooon.hatenablog.com/entry/2024/12/02/235226)
 
-=== "国内外のコンテストサイト"
-
-    2024-11-28
-
-    - 「[セキュリティ系コンテスト](related_contest_sites/security)」ページ
-        - [CTF Advent Calendar 2024](https://adventar.org/calendars/10469)
-
 ## AtCoder公式グッズを購入する
 
 - [SUZURI](https://suzuri.jp/AtCoder) - [AtCoder](https://atcoder.jp/)のロゴ入りグッズが購入できる。
