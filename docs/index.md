@@ -69,6 +69,11 @@
 
 === "記事"
 
+    2024-12-14
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [HACK TO THE FUTURE 2025 (AHC040) 解説](https://www.terry-u16.net/entry/ahc040)
+
     2024-12-11
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -88,11 +93,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Winter - 学校ランキング (12月2日時点)](https://x.com/atcoder/status/1863398659259601225)
-
-    2024-11-29
-
-    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
-        - [日本最大のプログラミングコンテストサイト AtCoder　全世界での登録者数が70万人を突破！](https://prtimes.jp/main/html/rd/p/000000052.000028415.html)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。

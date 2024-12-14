@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-12-14
+
+- [#9398](https://github.com/KATO-Hiro/AtCoderClans/pull/9398) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [HACK TO THE FUTURE 2025 (AHC040) 解説](https://www.terry-u16.net/entry/ahc040)
+
 ### 2024-12-13
 
 - [#9395](https://github.com/KATO-Hiro/AtCoderClans/pull/9395) - [Home](../..)ページに、以下の記事を掲載。
