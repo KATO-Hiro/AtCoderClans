@@ -109,13 +109,6 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [a!b! = a! + b! + c!【ゆっくり解説】](https://www.youtube.com/watch?v=9Yw0ekDSBgE)
 
-=== "ライブラリ・スニペット"
-
-    2024-11-30
-
-    - 「[Rust](libraries/rust)」ページ
-        - [kentakom1213/cp-library](https://github.com/kentakom1213/cp-library) ![GitHub Repo stars](https://img.shields.io/github/stars/kentakom1213/cp-library?style=plastic)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
