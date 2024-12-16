@@ -69,6 +69,11 @@
 
 === "記事"
 
+    2024-12-16
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Winter - 学校ランキング (12月16日時点)](https://x.com/atcoder/status/1868475958212387298)
+
     2024-12-14
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -93,14 +98,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Winter - 学校ランキング (12月2日時点)](https://x.com/atcoder/status/1863398659259601225)
-
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2024-12-01
-
-    - 「[アルゴリズム部門 - Rust](blogs/algorithm/rust)」ページ
-        - [MoSooN](https://atcoder.jp/users/MoSooN)さん - [自作ブログ](https://mosoon.net/)
 
 === "動画"
 
