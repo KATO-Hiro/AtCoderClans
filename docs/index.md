@@ -94,12 +94,12 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [HACK TO THE FUTURE 2025 （AtCoder Heuristic Contest 040）参加記](https://kaede2020.hatenablog.com/entry/2024/12/09/191102)
 
-    2024-12-02
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Winter - 学校ランキング (12月2日時点)](https://x.com/atcoder/status/1863398659259601225)
-
 === "動画"
+
+    2024-12-17
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [1分で国際数学オリンピックの1問目【ゆっくり解説】](https://www.youtube.com/watch?v=p_ETbKjVcyY)
 
     2024-12-08
 

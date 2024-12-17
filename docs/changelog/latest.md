@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-12-17
+
+- [#9414](https://github.com/KATO-Hiro/AtCoderClans/pull/9414) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [1分で国際数学オリンピックの1問目【ゆっくり解説】](https://www.youtube.com/watch?v=p_ETbKjVcyY)
+
 ### 2024-12-16
 
 - [#9410](https://github.com/KATO-Hiro/AtCoderClans/pull/9410) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
