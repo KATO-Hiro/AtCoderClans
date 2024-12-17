@@ -58,6 +58,7 @@ title: 個別の動画
     - [Claudeにパソコンを乗っ取らせて猫の絵を描かせてみた【ゆっくり解説】](https://www.youtube.com/watch?v=jjUDDexo_hM) - Claude の新機能 computer use (2024年10月下旬時点)を利用して、猫の絵を描かせている。
     - [コンピュータが永久にできないこと【ゆっくり解説】](https://www.youtube.com/watch?v=zPbNx0nmxVw) - 任意のプログラムとデータを与えて有限の時間で処理が終了するか判定する問題を通して、「全知全能」がコンピュータの原理上不可能なことを証明している。
 - [100サイズの箱は80サイズの箱に入るか？【ゆっくり解説】](https://www.youtube.com/watch?v=8wT7V-Pw6_w) - 直方体の縦・横・高さの合計でサイズを計る場合に、大きい箱が小さい箱に入るかどうかを示している。
+    - [1分で国際数学オリンピックの1問目【ゆっくり解説】](https://www.youtube.com/watch?v=p_ETbKjVcyY) - 国際数学オリンピックで出題された問題の解法を1分で説明している。
     - [a!b! = a! + b! + c!【ゆっくり解説】](https://www.youtube.com/watch?v=9Yw0ekDSBgE) - 題意を満たす正整数a, b, cの組をすべて求めるとともに、その正当性を証明している。
     - [1/√xを計算する変態コード【ゆっくり解説】](https://www.youtube.com/watch?v=n2Q1Sp7iew4) - ゲームを題材に、光の入射角・反射角の計算が手動で最適化されたコードを解説している。
     - [x^x^4=64【ゆっくり解説】](https://www.youtube.com/watch?v=QeAr5NXGfi0) - 題意を満たす実数xを求めている。
