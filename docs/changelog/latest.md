@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-12-18
+
+- [#9420](https://github.com/KATO-Hiro/AtCoderClans/pull/9420) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
+    - [競プロ知識を現実の問題解決に応用する](https://qiita.com/shozawa/items/3394e346293ee008cd04)
+- [#9419](https://github.com/KATO-Hiro/AtCoderClans/pull/9419) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [【競プロ】ヒューリスティックコンテストで戦うヒント](https://qiita.com/tanaka-a/items/ab1c1f539a826606dc65)
+
 ### 2024-12-17
 
 - [#9414](https://github.com/KATO-Hiro/AtCoderClans/pull/9414) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。

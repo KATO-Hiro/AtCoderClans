@@ -69,6 +69,14 @@
 
 === "記事"
 
+    2024-12-18
+
+    - 「[競技プログラミングと就転職](articles/jobs)」ページ
+        - [競プロ知識を現実の問題解決に応用する](https://qiita.com/shozawa/items/3394e346293ee008cd04)
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [【競プロ】ヒューリスティックコンテストで戦うヒント](https://qiita.com/tanaka-a/items/ab1c1f539a826606dc65)
+
     2024-12-16
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -129,11 +137,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [lmori](https://atcoder.jp/users/lmori)さん - [AtCoderで水色になりました - kuiper’s diary](https://kuiper.hatenablog.com/entry/2024/12/04/024018)
-
-    2024-12-03
-
-    - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
-        - [MoSooN](https://atcoder.jp/users/MoSooN)さん - [AtCoder黄色になりました - もすーんの日記](https://mo-sooon.hatenablog.com/entry/2024/12/02/235226)
 
 ## AtCoder公式グッズを購入する
 
