@@ -118,6 +118,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2024-12-19
+
+    - 「[レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
+        - [noshi91](https://atcoder.jp/users/noshi91)さん - [AtCoder で rating が 3200 に到達しました - noshi91のメモ](https://noshi91.hatenablog.com/entry/2024/12/18/171613)
+
     2024-12-12
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ

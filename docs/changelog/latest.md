@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-12-19
+
+- [#9425](https://github.com/KATO-Hiro/AtCoderClans/pull/9425) - 「[Milestones](../../milestones/red)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2800以上(赤色、銅王冠、銀王冠、金王冠)に[noshi91](https://atcoder.jp/users/noshi91)さんの[記事](https://noshi91.hatenablog.com/entry/2024/12/18/171613)を追加。
+
 ### 2024-12-18
 
 - [#9420](https://github.com/KATO-Hiro/AtCoderClans/pull/9420) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
