@@ -4,6 +4,7 @@ title: レーティング2800〜(赤色、銅・銀・金王冠)
 
 ## 2024年
 
+- [AtCoder で rating が 3200 に到達しました - noshi91のメモ](https://noshi91.hatenablog.com/entry/2024/12/18/171613) - [noshi91](https://atcoder.jp/users/noshi91)さんが、2024年12月18日に公開。
 - [AtCoder赤・銅冠になりました【入赤記事】](https://mathlog.info/articles/ohb2RJIi8sZ1i62kxNDz) - [simasima](https://atcoder.jp/users/simasima)さんが、2024年4月7日に公開。
 
 ## 2023年
