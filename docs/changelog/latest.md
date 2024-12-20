@@ -4,6 +4,7 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-12-20
 
 - [#9429](https://github.com/KATO-Hiro/AtCoderClans/pull/9429) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
     - レーティング1600から1999まで(青色)に[Cafe_j19419](https://atcoder.jp/users/Cafe_j19419)さんの[記事](https://note.com/cafe_j19419/n/n26aa290b318a)を追加。
