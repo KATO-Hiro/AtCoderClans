@@ -4,6 +4,7 @@ title: レーティング1600〜1999(青色)
 
 ## 2024年
 
+- [AtCoder Algorithm 入青記事](https://note.com/cafe_j19419/n/n26aa290b318a) - [Cafe_j19419](https://atcoder.jp/users/Cafe_j19419)さんが、2024年12月8日に達成。
 - [AtCoderで入青したのでいろいろなことを書く](https://qiita.com/kazuppa/items/838835c28e549858fd1c) - [kazuppa](https://atcoder.jp/users/kazuppa)さんが、2024年11月30日に達成。
 - [AtCoder Algorithm 1600達成！](https://inthebloom.github.io/post/reached-1600/) - [InTheBloom](https://atcoder.jp/users/InTheBloom)さんが、2024年11月22日に達成。
 - [競技プログラミングで意識していること【AtCoder】【入青】](https://qiita.com/Andrew8128/items/6931c014d33a95b6349b) - [Andrew8128](https://atcoder.jp/users/Andrew8128)さんが、2024年11月15日に公開。
