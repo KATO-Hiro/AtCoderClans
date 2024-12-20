@@ -118,6 +118,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2024-12-20
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [Cafe_j19419](https://atcoder.jp/users/Cafe_j19419)さん - [AtCoder Algorithm 入青記事](https://note.com/cafe_j19419/n/n26aa290b318a)
+
     2024-12-19
 
     - 「[レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
@@ -137,11 +142,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [rurumaru](https://atcoder.jp/users/rurumaru)さん - [入水したぞー！！](https://www.tellpro.net/ruku/articles/olHWiWjTpHDBLnYLmTVEDRERuauTzfkG)
-
-    2024-12-05
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [lmori](https://atcoder.jp/users/lmori)さん - [AtCoderで水色になりました - kuiper’s diary](https://kuiper.hatenablog.com/entry/2024/12/04/024018)
 
 ## AtCoder公式グッズを購入する
 
