@@ -46,6 +46,7 @@ title: チャンネル
 
 - [AngrySadEight](https://www.youtube.com/@AngrySadEight) - [AngrySadEight](https://atcoder.jp/users/AngrySadEight)さんのチャンネル。コンテストや有名アルゴリズムの解説動画が公開されている。
 - [blueberry1001](https://www.youtube.com/@blueberry-1001/featured) - [blueberry1001](https://atcoder.jp/users/blueberry1001)さんのチャンネル。コンテスト当日を振り返った動画が公開されている。
+- [Cαfe1942](https://www.youtube.com/playlist?list=PLWDxpG33dobEYiBtm06Gky8apePjny6mj) - [Cafe_j19419](https://atcoder.jp/users/Cafe_j19419)さんのチャンネル。コンテスト当日のゆっくり実況動画が公開されている。
 - [あずぱん動画](https://www.youtube.com/playlist?list=PLwlP26Z1O_DesFumSto6rfa9T2jmk9iD4) - [azm](https://atcoder.jp/users/azm)さんのチャンネル。AtCoderの始め方や過去問に関する「ゆっくり動画」が公開されている。
 - [えびまラボ](https://www.youtube.com/channel/UCw4Ty20l1DccGCQ2HWiEcgw) - コンテストのwriterとして長年活躍されている[えびま](https://twitter.com/evima0)さんのチャンネル。コンテストやアルゴリズムなどに関する「ゆっくり解説」が公開されている。
 - [佐野太郎](https://www.youtube.com/channel/UCE2ID_KiY2kKne7d1zFT7JQ/featured) - [sano192](https://atcoder.jp/users/sano192)さんのチャンネル。頻出のアルゴリズムについて、コンテストで出題された問題を題材に解説している。
