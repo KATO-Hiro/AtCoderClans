@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-12-21
+
+- [#9434](https://github.com/KATO-Hiro/AtCoderClans/pull/9434) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [Cαfe1942](https://www.youtube.com/playlist?list=PLWDxpG33dobEYiBtm06Gky8apePjny6mj)
+
 ### 2024-12-20
 
 - [#9429](https://github.com/KATO-Hiro/AtCoderClans/pull/9429) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
