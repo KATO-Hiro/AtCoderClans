@@ -104,6 +104,11 @@
 
 === "動画"
 
+    2024-12-21
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [Cαfe1942](https://www.youtube.com/playlist?list=PLWDxpG33dobEYiBtm06Gky8apePjny6mj)
+
     2024-12-17
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
@@ -137,11 +142,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [kazuppa](https://atcoder.jp/users/kazuppa)さん - [AtCoderで入青したのでいろいろなことを書く](https://qiita.com/kazuppa/items/838835c28e549858fd1c)
-
-    2024-12-06
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [rurumaru](https://atcoder.jp/users/rurumaru)さん - [入水したぞー！！](https://www.tellpro.net/ruku/articles/olHWiWjTpHDBLnYLmTVEDRERuauTzfkG)
 
 ## AtCoder公式グッズを購入する
 
