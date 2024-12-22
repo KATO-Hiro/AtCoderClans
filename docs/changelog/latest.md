@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-12-22
+
+- [#9440](https://github.com/KATO-Hiro/AtCoderClans/pull/9440) - 「[Libraries and Snippets](../../libraries)」の「[AtCoder Library (ACL)の各言語への移植](../../libraries/porting_of_acl)」ページに、以下のPythonライブラリを追加。
+    - [tatyam-prime/acl-cpp-python](https://github.com/tatyam-prime/acl-cpp-python) - ![GitHub stars](https://img.shields.io/github/stars/tatyam-prime/acl-cpp-python?style=plastic)
+- [#9438](https://github.com/KATO-Hiro/AtCoderClans/pull/9438) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+- [#9437](https://github.com/KATO-Hiro/AtCoderClans/pull/9437) - (破壊的な変更) リンク切れと思われるWebアプリを「[Archives](../../archived)」ページに移動。
+    - Atcoder Clock
+
 ### 2024-12-21
 
 - [#9434](https://github.com/KATO-Hiro/AtCoderClans/pull/9434) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
