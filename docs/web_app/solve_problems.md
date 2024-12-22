@@ -79,13 +79,6 @@ title: 問題を解く
 
 ## 復習の効果をより高める
 
-- [Atcoder Clock](https://clock.zuk246.net/) - 指定した時間が経過すると、AtCoder IDを登録したユーザの提出(過去2週間以内)からランダムに出題してくれる。
-    - [作者による解説記事](https://zenn.dev/iizuka0000/articles/atcoder-clock-introduction)
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_clock.png" alt="atcoder clock">
-    </div>
-
 - [AtCoder Companions](https://atcoder-companions.kakira.dev/) - 指定された提出(WA・RE・TLE・MLE)に基づいて、類似した誤答と最終的に正解した提出との差分を見やすく表示する。
     - [AtCoder Companions Quick Jump](https://greasyfork.org/ja/scripts/463653-atcoder-companions-quick-jump) - [AtCoder](https://atcoder.jp/)の「提出結果」ページから、指定した提出に類似したコードを探せるユーザスクリプト。
 
