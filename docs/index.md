@@ -102,6 +102,14 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [HACK TO THE FUTURE 2025 （AtCoder Heuristic Contest 040）参加記](https://kaede2020.hatenablog.com/entry/2024/12/09/191102)
 
+=== "ブログ"
+    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2024-12-22
+
+    - 「[ヒューリスティック部門 - C#](blogs/heuristic/csharp)」ページ
+        - [chokudai](https://atcoder.jp/users/chokudai)さん - [はてなブログ](https://chokudai.hatenablog.com/)
+
 === "動画"
 
     2024-12-21
@@ -118,6 +126,13 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [a!b! = a! + b! + c!【ゆっくり解説】](https://www.youtube.com/watch?v=9Yw0ekDSBgE)
+
+=== "ライブラリ・スニペット"
+
+    2024-12-22
+
+    - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
+        - [tatyam-prime/acl-cpp-python](https://github.com/tatyam-prime/acl-cpp-python) - ![GitHub stars](https://img.shields.io/github/stars/tatyam-prime/acl-cpp-python?style=plastic)
 
 === "色変記事"
 
@@ -142,6 +157,14 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [kazuppa](https://atcoder.jp/users/kazuppa)さん - [AtCoderで入青したのでいろいろなことを書く](https://qiita.com/kazuppa/items/838835c28e549858fd1c)
+
+=== "アーカイブス"
+
+    諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2024-12-22
+
+    - Atcoder Clock
 
 ## AtCoder公式グッズを購入する
 
