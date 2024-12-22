@@ -54,6 +54,14 @@ title: リンク切れ
 
 ### 復習の効果をより高める
 
+- [Atcoder Clock](https://clock.zuk246.net/) - 指定した時間が経過すると、AtCoder IDを登録したユーザの提出(過去2週間以内)からランダムに出題してくれる。
+    - [作者による解説記事](https://zenn.dev/iizuka0000/articles/atcoder-clock-introduction)
+    - 確認した日: 2024/12/22
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_clock.png" alt="atcoder clock">
+    </div>
+
 - [AtCoderBlogs](https://atcoder-blogs.jp) - 問題の思考過程や解法を整理したブログを掲載・閲覧できる。
     - 確認した日: 2024/08/06
 
