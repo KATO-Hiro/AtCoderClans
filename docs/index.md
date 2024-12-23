@@ -69,6 +69,11 @@
 
 === "記事"
 
+    2024-12-23
+
+    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
+        - [楽しい競技プログラミングの世界](https://drive.google.com/file/d/1Vu1_9VzPhMjiVKfJvCPUhmXBbkywG6co)
+
     2024-12-18
 
     - 「[競技プログラミングと就転職](articles/jobs)」ページ
@@ -152,11 +157,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [kota1t](https://atcoder.jp/users/kota1t)さん - [初投稿&AtCoder入茶&入緑](https://qiita.com/Kota1t/items/23bd20c7eb59e47d68f0)
-
-    2024-12-07
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [kazuppa](https://atcoder.jp/users/kazuppa)さん - [AtCoderで入青したのでいろいろなことを書く](https://qiita.com/kazuppa/items/838835c28e549858fd1c)
 
 === "アーカイブス"
 
