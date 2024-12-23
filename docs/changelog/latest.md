@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-12-23
+
+- [#9445](https://github.com/KATO-Hiro/AtCoderClans/pull/9445) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下のスライドを追加。
+    - [楽しい競技プログラミングの世界](https://drive.google.com/file/d/1Vu1_9VzPhMjiVKfJvCPUhmXBbkywG6co)
+
 ### 2024-12-22
 
 - [#9440](https://github.com/KATO-Hiro/AtCoderClans/pull/9440) - 「[Libraries and Snippets](../../libraries)」の「[AtCoder Library (ACL)の各言語への移植](../../libraries/porting_of_acl)」ページに、以下のPythonライブラリを追加。
