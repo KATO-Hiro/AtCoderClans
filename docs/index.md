@@ -69,6 +69,11 @@
 
 === "記事"
 
+    2024-12-24
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Winter - 学校ランキング (12月24日時点)](https://x.com/atcoder/status/1871385196383375665)
+
     2024-12-23
 
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
@@ -126,11 +131,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [1分で国際数学オリンピックの1問目【ゆっくり解説】](https://www.youtube.com/watch?v=p_ETbKjVcyY)
-
-    2024-12-08
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [a!b! = a! + b! + c!【ゆっくり解説】](https://www.youtube.com/watch?v=9Yw0ekDSBgE)
 
 === "ライブラリ・スニペット"
 
