@@ -107,11 +107,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Winter - 学校ランキング (12月9日時点)](https://x.com/atcoder/status/1865943124809601378)
 
-    2024-12-09
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [HACK TO THE FUTURE 2025 （AtCoder Heuristic Contest 040）参加記](https://kaede2020.hatenablog.com/entry/2024/12/09/191102)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -157,6 +152,13 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [kota1t](https://atcoder.jp/users/kota1t)さん - [初投稿&AtCoder入茶&入緑](https://qiita.com/Kota1t/items/23bd20c7eb59e47d68f0)
+
+=== "国内外のコンテストサイト"
+
+    2024-12-25
+
+    - 「[ICPC (国際大学対抗プログラミングコンテスト)](related_contest_sites/icpc)」ページ
+        - [ICPC 2024 横浜大会参加記](https://e869120.hatenablog.com/entry/2024/12/25/124746)
 
 === "アーカイブス"
 
