@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-12-25
+
+- [#9453](https://github.com/KATO-Hiro/AtCoderClans/pull/9453) - 「[Related Contest Sites](../../related_contest_sites)」の「[ICPC (国際大学対抗プログラミングコンテスト)](../../related_contest_sites/icpc)」ページに、以下の記事を追加。
+    - [ICPC 2024 横浜大会参加記](https://e869120.hatenablog.com/entry/2024/12/25/124746)
+
 ### 2024-12-24
 
 - [#9449](https://github.com/KATO-Hiro/AtCoderClans/pull/9449) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
