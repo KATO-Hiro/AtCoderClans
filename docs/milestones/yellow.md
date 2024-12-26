@@ -7,6 +7,7 @@ title: レーティング2000〜2399(黄色)
 
 ## 2024年
 
+- [【Atcoder】高校2年生でAtcoder黄色になりました](https://qiita.com/bluebery1001/items/3253399ebf287e197346) - [blueberry1001](https://atcoder.jp/users/blueberry1001)さんが、2024年12月25日に公開。
 - [AtCoder黄色になりました - もすーんの日記](https://mo-sooon.hatenablog.com/entry/2024/12/02/235226) - [MoSooN](https://atcoder.jp/users/MoSooN)さんが、2024年11月30日に達成。
 - [入黄記事 - nononの落書き帳](https://nononmath.hatenablog.com/entry/2024/11/10/130322) - [n_o_n_o_n](https://atcoder.jp/users/n_o_n_o_n)さんが、2024年11月9日に達成。
 - [社会人競プロerが6年かけてAtCoder黄色になるまで - Commentārius Tobisatis](https://blog.tobisatis.com/2024/10/atcoder-yellow.html) - [okudeottu](https://atcoder.jp/users/okudeottu)さんが、2024年10月26日に公開。
