@@ -102,11 +102,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AutoSampler：Optunaの最適化アルゴリズムを自動選択する機能を公開](https://tech.preferred.jp/ja/blog/optuna-autosampler/)
 
-    2024-12-10
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Winter - 学校ランキング (12月9日時点)](https://x.com/atcoder/status/1865943124809601378)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -137,6 +132,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2024-12-26
+
+    - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
+        - [blueberry1001](https://atcoder.jp/users/blueberry1001)さん - [【Atcoder】高校2年生でAtcoder黄色になりました](https://qiita.com/bluebery1001/items/3253399ebf287e197346)
 
     2024-12-20
 
