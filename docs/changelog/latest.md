@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-12-27
+
+- [#9462](https://github.com/KATO-Hiro/AtCoderClans/pull/9462) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[Yuulis](https://atcoder.jp/users/Yuulis)さんの[記事](https://yuulis.hatenablog.com/entry/atc-green)を追加。
+
 ### 2024-12-26
 
 - [#9457](https://github.com/KATO-Hiro/AtCoderClans/pull/9457) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
