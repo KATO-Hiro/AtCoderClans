@@ -97,11 +97,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [HACK TO THE FUTURE 2025 (AHC040) 解説](https://www.terry-u16.net/entry/ahc040)
 
-    2024-12-11
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AutoSampler：Optunaの最適化アルゴリズムを自動選択する機能を公開](https://tech.preferred.jp/ja/blog/optuna-autosampler/)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -132,6 +127,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2024-12-27
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [Yuulis](https://atcoder.jp/users/Yuulis)さん - [【色変記事】AtCoderで入緑したのでこれまでの軌跡を振り返る - Yuulis.log](https://yuulis.hatenablog.com/entry/atc-green)
 
     2024-12-26
 
