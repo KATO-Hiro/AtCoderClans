@@ -9,6 +9,7 @@ title: レーティング800〜1199(緑色)
 
 ### アルゴリズム部門
 
+- [【色変記事】AtCoderで入緑したのでこれまでの軌跡を振り返る - Yuulis.log](https://yuulis.hatenablog.com/entry/atc-green) - [Yuulis](https://atcoder.jp/users/Yuulis)さんが、2024年12月21日に達成。
 - [初投稿&AtCoder入茶&入緑](https://qiita.com/Kota1t/items/23bd20c7eb59e47d68f0) - [kota1t](https://atcoder.jp/users/kota1t)さんが、2024年12月9日に公開。
 - [【色変記事】AtCoder入緑しました](https://qiita.com/comet725/items/39cbd3a73ad3c50b3abc) - [comet725](https://atcoder.jp/users/comet725)さんが、2024年11月16日に達成。
 - [【色変記事】プログラミング未経験文系→AtCoderで入緑しました](https://note.com/kaze_246/n/n9682b5398878) - [Q_re](https://atcoder.jp/users/Q_re)さんが、2024年11月2日に達成。
