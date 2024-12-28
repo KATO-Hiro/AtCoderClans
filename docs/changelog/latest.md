@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-12-28
+
+- [#9466](https://github.com/KATO-Hiro/AtCoderClans/pull/9466) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[hirakuuuu](https://atcoder.jp/users/hirakuuuu)さんの[記事](https://www.jackapp.jp/blog/d7384dc1-260e-4748-9bb8-bdb648f6f5fa)を追加。
+
 ### 2024-12-27
 
 - [#9462](https://github.com/KATO-Hiro/AtCoderClans/pull/9462) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
