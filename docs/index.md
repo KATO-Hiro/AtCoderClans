@@ -128,6 +128,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2024-12-28
+
+    - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
+        - [hirakuuuu](https://atcoder.jp/users/hirakuuuu)さん - [AtCoder黄色になりました](https://www.jackapp.jp/blog/d7384dc1-260e-4748-9bb8-bdb648f6f5fa)
+
     2024-12-27
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
@@ -147,11 +152,6 @@
 
     - 「[レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
         - [noshi91](https://atcoder.jp/users/noshi91)さん - [AtCoder で rating が 3200 に到達しました - noshi91のメモ](https://noshi91.hatenablog.com/entry/2024/12/18/171613)
-
-    2024-12-12
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [kota1t](https://atcoder.jp/users/kota1t)さん - [初投稿&AtCoder入茶&入緑](https://qiita.com/Kota1t/items/23bd20c7eb59e47d68f0)
 
 === "国内外のコンテストサイト"
 
