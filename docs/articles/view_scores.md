@@ -119,7 +119,7 @@ title: コンテストに関する統計情報を見る
 
 ### ヒューリスティック部門
 
-- [AHCの新ratingのお知らせ](https://atcoder.jp/posts/1380) - 2025年以降、[AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=AtCoder+Heuristic+Contest)におけるレーティング計算式の変更が告知されている。
+- [AHCの新ratingのお知らせ](https://atcoder.jp/posts/1380) - 2025年以降、[AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=AtCoder+Heuristic+Contest)におけるレーティング計算方法の変更が告知されている。
     - [AHC Rating System (ver.2)](https://img.atcoder.jp/file/AHC_rating_v2.pdf) - AtCoder公式が公開しているレーティング計算式の詳細。
     - [AHCレーティングver.2の計算スクリプト](https://gist.github.com/terry-u16/0901a3e8f4119ee58ed9d8817a423b6f) - [terry_u16](https://atcoder.jp/users/terry_u16)さんによるレーティング計算用スクリプト。
 
