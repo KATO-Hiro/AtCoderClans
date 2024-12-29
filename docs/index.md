@@ -69,6 +69,12 @@
 
 === "記事"
 
+    2024-12-29
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AHCの新ratingのお知らせ](https://atcoder.jp/posts/1380)
+        - [AHCレーティングver.2の計算スクリプト](https://gist.github.com/terry-u16/0901a3e8f4119ee58ed9d8817a423b6f)
+
     2024-12-24
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -91,11 +97,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Winter - 学校ランキング (12月16日時点)](https://x.com/atcoder/status/1868475958212387298)
-
-    2024-12-14
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [HACK TO THE FUTURE 2025 (AHC040) 解説](https://www.terry-u16.net/entry/ahc040)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
