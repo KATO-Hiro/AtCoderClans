@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-12-29
+
+- [#9471](https://github.com/KATO-Hiro/AtCoderClans/pull/9471) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下の記事・スクリプトを追加。
+    - [AHCの新ratingのお知らせ](https://atcoder.jp/posts/1380)
+    - [AHCレーティングver.2の計算スクリプト](https://gist.github.com/terry-u16/0901a3e8f4119ee58ed9d8817a423b6f)
+
 ### 2024-12-28
 
 - [#9466](https://github.com/KATO-Hiro/AtCoderClans/pull/9466) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
