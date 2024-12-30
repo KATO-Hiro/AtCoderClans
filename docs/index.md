@@ -69,6 +69,11 @@
 
 === "記事"
 
+    2024-12-30
+
+    - 「[数学を学ぶ](articles/math)」ページ
+        - [グリッドの最短経路の数え上げまとめ](https://kanpurin.hatenablog.com/entry/2021/09/15/220913)
+
     2024-12-29
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
