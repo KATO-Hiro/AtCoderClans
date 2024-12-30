@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-12-30
+
+- [#9475](https://github.com/KATO-Hiro/AtCoderClans/pull/9475) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
+    - [グリッドの最短経路の数え上げまとめ](https://kanpurin.hatenablog.com/entry/2021/09/15/220913)
+
 ### 2024-12-29
 
 - [#9471](https://github.com/KATO-Hiro/AtCoderClans/pull/9471) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下の記事・スクリプトを追加。
