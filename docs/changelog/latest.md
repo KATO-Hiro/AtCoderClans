@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2024-12-31
+
+- [#9479](https://github.com/KATO-Hiro/AtCoderClans/pull/9479) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[KA37RI](https://atcoder.jp/users/KA37RI)さんの[記事](https://note.com/ka37ri/n/na3937d3996f4)を追加。
+
 ### 2024-12-30
 
 - [#9475](https://github.com/KATO-Hiro/AtCoderClans/pull/9475) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
