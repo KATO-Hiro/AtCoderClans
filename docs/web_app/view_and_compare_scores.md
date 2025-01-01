@@ -51,6 +51,12 @@ title: コンテストの成績を見る
 
 ### 2人以上
 
+- [AtCoder Rating Comparer](https://atcoderratingcomparer.onrender.com/) - 任意のユーザ2人のレーティングの推移を比較できる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/atcoder_rating_comparer.png" alt="atcoder rating comparer">
+    </div>
+
 - [AtCoder Rating Graph](https://github.com/hiramekun/AtCoderRatingGraph) - 任意のユーザのレーティングの推移を比較できる。
 
     !!! warning "注意"
