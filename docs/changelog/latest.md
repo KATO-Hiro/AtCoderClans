@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-01-01
+
+- [#9488](https://github.com/KATO-Hiro/AtCoderClans/pull/9488) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[kojyasu](https://atcoder.jp/users/kojyasu)さんの[記事](https://note.com/kojyasu/n/nfcba254b9974)を追加。
+- [#9485](https://github.com/KATO-Hiro/AtCoderClans/pull/9485) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績を見る](../../web_app/view_and_compare_scores)」ページに、以下のWebアプリを追加。
+    - [AtCoder Rating Comparer](https://atcoderratingcomparer.onrender.com/)
+
 ### 2024-12-31
 
 - [#9479](https://github.com/KATO-Hiro/AtCoderClans/pull/9479) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
