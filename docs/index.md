@@ -67,6 +67,17 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "Webアプリ・Webサイト"
+
+    2025-01-01
+
+    - 「[コンテストの成績を見る](web_app/view_and_compare_scores)」ページ
+        - [AtCoder Rating Comparer](https://atcoderratingcomparer.onrender.com/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/atcoder_rating_comparer.png" alt="atcoder rating comparer">
+    </div>
+
 === "記事"
 
     2024-12-30
@@ -113,11 +124,6 @@
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [Cαfe1942](https://www.youtube.com/playlist?list=PLWDxpG33dobEYiBtm06Gky8apePjny6mj)
 
-    2024-12-17
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [1分で国際数学オリンピックの1問目【ゆっくり解説】](https://www.youtube.com/watch?v=p_ETbKjVcyY)
-
 === "ライブラリ・スニペット"
 
     2024-12-22
@@ -128,6 +134,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-01-01
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [kojyasu](https://atcoder.jp/users/kojyasu)さん - [子育てしながらAtCoder水色になりました。](https://note.com/kojyasu/n/nfcba254b9974)
 
     2024-12-31
 
