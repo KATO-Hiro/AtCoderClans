@@ -80,6 +80,11 @@
 
 === "記事"
 
+    2025-01-02
+
+    - 「[実装テクニックを学ぶ - 複数の言語](articles/implementation/multiple_languages)」ページ
+        - [誤差に対して祈ることしかできない人かわいそう](https://rsk0315.hatenablog.com/entry/2024/12/28/151905)
+
     2024-12-30
 
     - 「[数学を学ぶ](articles/math)」ページ
@@ -100,14 +105,6 @@
 
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
         - [楽しい競技プログラミングの世界](https://drive.google.com/file/d/1Vu1_9VzPhMjiVKfJvCPUhmXBbkywG6co)
-
-    2024-12-18
-
-    - 「[競技プログラミングと就転職](articles/jobs)」ページ
-        - [競プロ知識を現実の問題解決に応用する](https://qiita.com/shozawa/items/3394e346293ee008cd04)
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [【競プロ】ヒューリスティックコンテストで戦うヒント](https://qiita.com/tanaka-a/items/ab1c1f539a826606dc65)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -180,6 +177,10 @@
 === "アーカイブス"
 
     諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2025-01-02
+
+    - AtCoder Find Rivals
 
     2024-12-22
 

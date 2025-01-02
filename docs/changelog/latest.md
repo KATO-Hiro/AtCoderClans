@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-01-02
+
+- [#9493](https://github.com/KATO-Hiro/AtCoderClans/pull/9493) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - 複数の言語](../../articles/implementation/multiple_languages)」ページに、以下の記事を追加。
+    - [誤差に対して祈ることしかできない人かわいそう](https://rsk0315.hatenablog.com/entry/2024/12/28/151905)
+- [#9491](https://github.com/KATO-Hiro/AtCoderClans/pull/9491) - (破壊的な変更) リンク切れと思われるWebアプリを「[Archives](../../archived)」ページに移動。また、記事のURLを更新。
+    - AtCoder Find Rivals
+
 ### 2025-01-01
 
 - [#9488](https://github.com/KATO-Hiro/AtCoderClans/pull/9488) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
