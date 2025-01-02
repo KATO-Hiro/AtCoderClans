@@ -99,6 +99,15 @@ title: リンク切れ
       <img loading = "lazy" src="../../images/web_app/atcoder_hot_problems.png" alt="atcoder hot problems">
     </div>
 
+### レーティングが近いユーザを探す
+
+- [AtCoder Find Rivals](https://atcoder-find-rivals.herokuapp.com/) - 指定したユーザに近いレーティングのユーザを探すことができる。
+    - 確認した日: 2025/01/02
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_find_rivals.png" alt="atcoder find rivals">
+    </div>
+
 ### Bot
 
 - [AtCoder Notify](https://atcoder-bot.firebaseapp.com/) - コンテスト情報を通知する。
