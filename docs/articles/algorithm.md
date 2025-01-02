@@ -152,7 +152,7 @@ title: アルゴリズムを学ぶ
 
 ### 連想配列
 
-- [計算量改善:setやmapの活用](https://drken1215.hatenablog.com/archive/category/%E8%A8%88%E7%AE%97%E9%87%8F%E6%94%B9%E5%96%84:set%E3%82%84map%E3%81%AE%E6%B4%BB%E7%94%A8) - [drken](https://atcoder.jp/users/drken)さんによる過去問の解説集。連想配列を活用する問題がまとめられている。
+- [計算量改善:setやmapの活用](https://drken1215.hatenablog.com/archive/category/%E8%A8%88%E7%AE%97%E9%87%8F%E6%94%B9%E5%96%84%EF%BC%9Aset%E3%82%84map%E3%81%AE%E6%B4%BB%E7%94%A8) - [drken](https://atcoder.jp/users/drken)さんによる過去問の解説集。連想配列を活用する問題がまとめられている。
 
 ### Union-Find木
 
@@ -281,7 +281,7 @@ title: アルゴリズムを学ぶ
 
 ### 問題集
 
-- [x軸とy軸について独立に考えてよい](https://drken1215.hatenablog.com/archive/category/x%E8%BB%B8%E3%81%A8y%E8%BB%B8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E7%8B%AC%E7%AB%8B%E3%81%AB%E8%80%83%E3%81%88%E3%81%A6%E3%82%88%E3%81%84) - [drken](https://atcoder.jp/users/drken)さんによる過去問の解説集。x軸とy軸を独立に扱うことで考察・実装がしやすくなる問題がまとめられている。
+- [独立に考える：x軸とy軸](https://drken1215.hatenablog.com/archive/category/%E7%8B%AC%E7%AB%8B%E3%81%AB%E8%80%83%E3%81%88%E3%82%8B%EF%BC%9Ax%E8%BB%B8%E3%81%A8y%E8%BB%B8) - [drken](https://atcoder.jp/users/drken)さんによる過去問の解説集。x軸とy軸を独立に扱うことで考察・実装がしやすくなる問題がまとめられている。
 
 ### 三分探索
 

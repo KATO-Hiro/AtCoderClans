@@ -12,14 +12,6 @@ title: ライバルを探す・競う
 
 ## ライバルを探す・競う
 
-### レーティングが近いユーザを探す
-
-- [AtCoder Find Rivals](https://atcoder-find-rivals.herokuapp.com/) - 指定したユーザに近いレーティングのユーザを探すことができる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_find_rivals.png" alt="atcoder find rivals">
-    </div>
-
 ### ライバルの練習状況を知る
 
 - [AtCoder Rivals](https://atcoder-rivals.web.app/) - パフォーマンスやレーティングの遷移、日々の練習(通称、精進)状況などをライバルと比べることができる。
