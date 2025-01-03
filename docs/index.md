@@ -69,6 +69,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2025-01-03
+
+    - 「[問題作成者向けの情報](web_app/for_writers)」ページ
+        - [Is my problem new?](http://yuantiji.ac/en/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/is_my_problem_new.png" alt="is my problem new">
+    </div>
+
     2025-01-01
 
     - 「[コンテストの成績を見る](web_app/view_and_compare_scores)」ページ
@@ -161,11 +170,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [Cafe_j19419](https://atcoder.jp/users/Cafe_j19419)さん - [AtCoder Algorithm 入青記事](https://note.com/cafe_j19419/n/n26aa290b318a)
-
-    2024-12-19
-
-    - 「[レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
-        - [noshi91](https://atcoder.jp/users/noshi91)さん - [AtCoder で rating が 3200 に到達しました - noshi91のメモ](https://noshi91.hatenablog.com/entry/2024/12/18/171613)
 
 === "国内外のコンテストサイト"
 

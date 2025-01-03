@@ -11,3 +11,7 @@ title: 問題作成者向けの情報
 ## AIによる問題の既出判定
 
 - [Is my problem new?](http://yuantiji.ac/en/) - 問題文を入力すると、各コンテストサイトの過去問([Virtual Judge](https://vjudge.net/))との類似度を確認できる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/is_my_problem_new.png" alt="is my problem new">
+    </div>
