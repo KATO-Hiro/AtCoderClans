@@ -127,6 +127,7 @@ nav:
           - web_app/statistics.md
           - web_app/rivals.md
           - web_app/quiz_and_game.md
+          - web_app/for_writers.md
           - web_app/for_developers.md
       - Bot: bot/index.md
       - Web API: web_api/index.md
