@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-01-03
+
+- [#9497](https://github.com/KATO-Hiro/AtCoderClans/pull/9497) - 「[Web apps and sites](../../web_app)」の「[問題作成者向けの情報](../../web_app/for_writers)」ページに、以下のWebサービスを追加。
+    - [Is my problem new?](http://yuantiji.ac/en/)
+
 ### 2025-01-02
 
 - [#9493](https://github.com/KATO-Hiro/AtCoderClans/pull/9493) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - 複数の言語](../../articles/implementation/multiple_languages)」ページに、以下の記事を追加。
