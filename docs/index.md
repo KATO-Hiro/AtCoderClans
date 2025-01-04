@@ -69,6 +69,16 @@
 
 === "Webアプリ・Webサイト"
 
+    2025-01-04
+
+    - 「[コンテストの成績に関連するサービス](web_app/services_using_scores)」ページ
+        - [AtCoder Junior League (AJL）のスコア予測ツール](https://kfrom40.github.io/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/kfrom40_github_io.png" alt="kfrom40 github io">
+    </div>
+
+
     2025-01-03
 
     - 「[問題作成者向けの情報](web_app/for_writers)」ページ
@@ -165,11 +175,6 @@
 
     - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
         - [blueberry1001](https://atcoder.jp/users/blueberry1001)さん - [【Atcoder】高校2年生でAtcoder黄色になりました](https://qiita.com/bluebery1001/items/3253399ebf287e197346)
-
-    2024-12-20
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [Cafe_j19419](https://atcoder.jp/users/Cafe_j19419)さん - [AtCoder Algorithm 入青記事](https://note.com/cafe_j19419/n/n26aa290b318a)
 
 === "国内外のコンテストサイト"
 
