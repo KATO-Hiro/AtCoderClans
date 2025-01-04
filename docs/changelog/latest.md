@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-01-04
+
+- [#9500](https://github.com/KATO-Hiro/AtCoderClans/pull/9500) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績に関連するサービス](../../web_app/services_using_scores)」ページに、以下のWebサイトを追加。
+    - [AtCoder Junior League (AJL）のスコア予測ツール](https://kfrom40.github.io/)
+
 ### 2025-01-03
 
 - [#9497](https://github.com/KATO-Hiro/AtCoderClans/pull/9497) - 「[Web apps and sites](../../web_app)」の「[問題作成者向けの情報](../../web_app/for_writers)」ページに、以下のWebサービスを追加。
