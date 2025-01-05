@@ -69,6 +69,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2025-01-05
+
+    - 「[問題を解く](web_app/solve_problems)」ページ
+        - [CompSnips](https://compsnips.zeronosu77108.com/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/compsnips.png" alt="compsnips">
+    </div>
+
     2025-01-04
 
     - 「[コンテストの成績に関連するサービス](web_app/services_using_scores)」ページ
@@ -77,7 +86,6 @@
     <div align="center">
       <img loading="lazy" src="images/web_app/kfrom40_github_io.png" alt="kfrom40 github io">
     </div>
-
 
     2025-01-03
 
@@ -132,13 +140,6 @@
 
     - 「[ヒューリスティック部門 - C#](blogs/heuristic/csharp)」ページ
         - [chokudai](https://atcoder.jp/users/chokudai)さん - [はてなブログ](https://chokudai.hatenablog.com/)
-
-=== "動画"
-
-    2024-12-21
-
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [Cαfe1942](https://www.youtube.com/playlist?list=PLWDxpG33dobEYiBtm06Gky8apePjny6mj)
 
 === "ライブラリ・スニペット"
 
