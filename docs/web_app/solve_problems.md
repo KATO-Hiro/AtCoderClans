@@ -109,6 +109,14 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/web_app/kyopro_share.png" alt="kyopro share">
     </div>
 
+## ライブラリ・スニペットを共有
+
+- [CompSnips](https://compsnips.zeronosu77108.com/) - 競技プログラミングのライブラリ・スニペットを登録・閲覧できる。検索やVisual Studio Codeのスニペット用のJSONを出力する機能もある。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/compsnips.png" alt="compsnips">
+    </div>
+
 ## 問題を投稿・解答する
 
 - [MojaCoder](https://mojacoder.app/) - 競技プログラミングに関する問題を投稿・解答できるオンラインジャッジシステム。解答で利用できる言語は、Brainfuck、C、C++、C#、Go、Java、Python3、Ruby、Rust、Textなど。
