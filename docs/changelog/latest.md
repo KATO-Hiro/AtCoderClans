@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-01-05
+
+- [#9505](https://github.com/KATO-Hiro/AtCoderClans/pull/9505) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のWebアプリを追加。
+    - [CompSnips](https://compsnips.zeronosu77108.com/)
+
 ### 2025-01-04
 
 - [#9500](https://github.com/KATO-Hiro/AtCoderClans/pull/9500) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績に関連するサービス](../../web_app/services_using_scores)」ページに、以下のWebサイトを追加。
