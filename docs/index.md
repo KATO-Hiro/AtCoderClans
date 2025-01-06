@@ -107,6 +107,11 @@
 
 === "記事"
 
+    2025-01-06
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年1月6日時点)](https://x.com/atcoder/status/1876085047893389331)
+
     2025-01-02
 
     - 「[実装テクニックを学ぶ - 複数の言語](articles/implementation/multiple_languages)」ページ
@@ -132,21 +137,6 @@
 
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
         - [楽しい競技プログラミングの世界](https://drive.google.com/file/d/1Vu1_9VzPhMjiVKfJvCPUhmXBbkywG6co)
-
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2024-12-22
-
-    - 「[ヒューリスティック部門 - C#](blogs/heuristic/csharp)」ページ
-        - [chokudai](https://atcoder.jp/users/chokudai)さん - [はてなブログ](https://chokudai.hatenablog.com/)
-
-=== "ライブラリ・スニペット"
-
-    2024-12-22
-
-    - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
-        - [tatyam-prime/acl-cpp-python](https://github.com/tatyam-prime/acl-cpp-python) - ![GitHub stars](https://img.shields.io/github/stars/tatyam-prime/acl-cpp-python?style=plastic)
 
 === "色変記事"
 
@@ -191,10 +181,6 @@
     2025-01-02
 
     - AtCoder Find Rivals
-
-    2024-12-22
-
-    - Atcoder Clock
 
 ## AtCoder公式グッズを購入する
 
