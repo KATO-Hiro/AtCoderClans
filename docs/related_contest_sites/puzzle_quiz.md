@@ -30,7 +30,7 @@ title: パズル・クイズ系コンテスト
 - [New Year's Puzzles](https://nyp.snuke.org/) - オートマトンなどを利用したパズル形式の問題を解くことができる。
 
     <div align="center">
-      <img loading = "lazy" src="../../images/related_contest_sites/nyp/new_year's_puzzles_2024.png" alt="new year's puzzles">
+      <img loading = "lazy" src="../../images/related_contest_sites/nyp/new_year's_puzzles_2025.png" alt="new year's puzzles">
     </div>
 
 ## Painter Programming
