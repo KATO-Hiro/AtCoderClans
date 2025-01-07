@@ -133,11 +133,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Winter - 学校ランキング (12月24日時点)](https://x.com/atcoder/status/1871385196383375665)
 
-    2024-12-23
-
-    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
-        - [楽しい競技プログラミングの世界](https://drive.google.com/file/d/1Vu1_9VzPhMjiVKfJvCPUhmXBbkywG6co)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
@@ -168,6 +163,15 @@
         - [blueberry1001](https://atcoder.jp/users/blueberry1001)さん - [【Atcoder】高校2年生でAtcoder黄色になりました](https://qiita.com/bluebery1001/items/3253399ebf287e197346)
 
 === "国内外のコンテストサイト"
+
+    2025-01-07
+
+    - 「[パズル・クイズ系コンテスト](related_contest_sites/puzzle_quiz)」ページ
+        - [New Year's Puzzles](https://nyp.snuke.org/)
+
+    <div align="center">
+      <img loading="lazy" src="images/related_contest_sites/nyp/new_year's_puzzles_2025.png" alt="new year's puzzles">
+    </div>
 
     2024-12-25
 

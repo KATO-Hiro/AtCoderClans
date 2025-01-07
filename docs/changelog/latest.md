@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-01-07
+
+- [#9515](https://github.com/KATO-Hiro/AtCoderClans/pull/9515) - 「[Related Contest Sites](../../related_contest_sites)」の「[パズル・クイズ系コンテスト](../../related_contest_sites/puzzle_quiz)」ページに掲載している以下のWebサービスのサムネイル画像を更新。
+    - [New Year's Puzzles](https://nyp.snuke.org/)
+
 ### 2025-01-06
 
 - [#9513](https://github.com/KATO-Hiro/AtCoderClans/pull/9513) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
