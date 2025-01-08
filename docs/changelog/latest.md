@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-01-08
+
+- [#9523](https://github.com/KATO-Hiro/AtCoderClans/pull/9523) - 「[Web apps and sites](../../web_app)」の「[ライバルを探す・競う](../../web_app/rivals)」ページに、以下のWebアプリを追加。
+    - [Atcoder 精進チャート🐾](https://a-tilol.github.io/atcoder-shojin-chart-nextjs/)
+
 ### 2025-01-07
 
 - [#9515](https://github.com/KATO-Hiro/AtCoderClans/pull/9515) - 「[Related Contest Sites](../../related_contest_sites)」の「[パズル・クイズ系コンテスト](../../related_contest_sites/puzzle_quiz)」ページに掲載している以下のWebサービスのサムネイル画像を更新。

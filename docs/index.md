@@ -69,6 +69,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2025-01-08
+
+    - 「[ライバルを探す・競う](web_app/rivals)」ページ
+        - [Atcoder 精進チャート🐾](https://a-tilol.github.io/atcoder-shojin-chart-nextjs/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/atcoder_shojin_chart.png" alt="atcoder shojin chart">
+    </div>
+
     2025-01-05
 
     - 「[問題を解く](web_app/solve_problems)」ページ
@@ -127,11 +136,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AHCの新ratingのお知らせ](https://atcoder.jp/posts/1380)
         - [AHCレーティングver.2の計算スクリプト](https://gist.github.com/terry-u16/0901a3e8f4119ee58ed9d8817a423b6f)
-
-    2024-12-24
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Winter - 学校ランキング (12月24日時点)](https://x.com/atcoder/status/1871385196383375665)
 
 === "色変記事"
 
