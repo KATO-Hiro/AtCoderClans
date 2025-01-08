@@ -23,6 +23,12 @@ title: ライバルを探す・競う
       <img loading = "lazy" src="../../images/web_app/atcoder_rivals.png" alt="atcoder rivals">
     </div>
 
+- [Atcoder 精進チャート🐾](https://a-tilol.github.io/atcoder-shojin-chart-nextjs/) - 所定の期間における正解した問題の得点や問題数に加えて、レーティングの推移も比較できる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/atcoder_shojin_chart.png" alt="atcoder shojin chart">
+    </div>
+
 ### 成績で勝敗を競う
 
 - [Atcoder Beginner Contest Tournament](https://abc.kenkoooo.com) - AtCoder Beginner Contestの順位を使ったトーナメント戦の結果を見ることができる。また、[X (旧 Twitter)](https://x.com/abc_tournament)で最新情報の告知が行われている。
