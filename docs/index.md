@@ -116,6 +116,11 @@
 
 === "記事"
 
+    2025-01-09
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AHCに初めて参加する人が読む記事2025](https://qiita.com/tomerun/items/8d2b67476c25ecef35f5)
+
     2025-01-06
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -176,11 +181,6 @@
     <div align="center">
       <img loading="lazy" src="images/related_contest_sites/nyp/new_year's_puzzles_2025.png" alt="new year's puzzles">
     </div>
-
-    2024-12-25
-
-    - 「[ICPC (国際大学対抗プログラミングコンテスト)](related_contest_sites/icpc)」ページ
-        - [ICPC 2024 横浜大会参加記](https://e869120.hatenablog.com/entry/2024/12/25/124746)
 
 === "アーカイブス"
 

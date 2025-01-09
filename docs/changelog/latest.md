@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-01-09
+
+- [#9527](https://github.com/KATO-Hiro/AtCoderClans/pull/9527) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [AHCに初めて参加する人が読む記事2025](https://qiita.com/tomerun/items/8d2b67476c25ecef35f5)
+
 ### 2025-01-08
 
 - [#9523](https://github.com/KATO-Hiro/AtCoderClans/pull/9523) - 「[Web apps and sites](../../web_app)」の「[ライバルを探す・競う](../../web_app/rivals)」ページに、以下のWebアプリを追加。
