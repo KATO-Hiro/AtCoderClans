@@ -116,6 +116,11 @@
 
 === "記事"
 
+    2025-01-10
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [マラソンマッチで誤解してたこと、してなかったこと](https://koyumeishi.hatenablog.com/entry/2018/12/28/055220)
+
     2025-01-09
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
