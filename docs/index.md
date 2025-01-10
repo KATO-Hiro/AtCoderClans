@@ -171,11 +171,6 @@
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [Yuulis](https://atcoder.jp/users/Yuulis)さん - [【色変記事】AtCoderで入緑したのでこれまでの軌跡を振り返る - Yuulis.log](https://yuulis.hatenablog.com/entry/atc-green)
 
-    2024-12-26
-
-    - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
-        - [blueberry1001](https://atcoder.jp/users/blueberry1001)さん - [【Atcoder】高校2年生でAtcoder黄色になりました](https://qiita.com/bluebery1001/items/3253399ebf287e197346)
-
 === "国内外のコンテストサイト"
 
     2025-01-07
