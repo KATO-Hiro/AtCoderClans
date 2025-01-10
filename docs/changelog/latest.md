@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-01-10
+
+- [#9531](https://github.com/KATO-Hiro/AtCoderClans/pull/9531) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [マラソンマッチで誤解してたこと、してなかったこと](https://koyumeishi.hatenablog.com/entry/2018/12/28/055220)
+
 ### 2025-01-09
 
 - [#9527](https://github.com/KATO-Hiro/AtCoderClans/pull/9527) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
