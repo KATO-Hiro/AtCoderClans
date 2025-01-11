@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-01-11
+
+- [#9538](https://github.com/KATO-Hiro/AtCoderClans/pull/9538) - (破壊的な変更) 「[Change Log](../latest)」ページの2024年11月分を月別のアーカイブに移動。
+    - [November, 2024](../2024_11)
+
 ### 2025-01-10
 
 - [#9531](https://github.com/KATO-Hiro/AtCoderClans/pull/9531) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
