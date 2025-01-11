@@ -166,11 +166,6 @@
     - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
         - [hirakuuuu](https://atcoder.jp/users/hirakuuuu)さん - [AtCoder黄色になりました](https://www.jackapp.jp/blog/d7384dc1-260e-4748-9bb8-bdb648f6f5fa)
 
-    2024-12-27
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [Yuulis](https://atcoder.jp/users/Yuulis)さん - [【色変記事】AtCoderで入緑したのでこれまでの軌跡を振り返る - Yuulis.log](https://yuulis.hatenablog.com/entry/atc-green)
-
 === "国内外のコンテストサイト"
 
     2025-01-07
