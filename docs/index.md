@@ -116,6 +116,11 @@
 
 === "記事"
 
+    2025-01-12
+
+    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
+        - [thirdlf03/setup-atcoder](https://github.com/thirdlf03/setup-atcoder) ![GitHub Repo stars](https://img.shields.io/github/stars/thirdlf03/setup-atcoder?style=plastic)
+
     2025-01-10
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -160,11 +165,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [KA37RI](https://atcoder.jp/users/KA37RI)さん - [AtCoderにて水色に到達しました（入水記事）](https://note.com/ka37ri/n/na3937d3996f4)
-
-    2024-12-28
-
-    - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
-        - [hirakuuuu](https://atcoder.jp/users/hirakuuuu)さん - [AtCoder黄色になりました](https://www.jackapp.jp/blog/d7384dc1-260e-4748-9bb8-bdb648f6f5fa)
 
 === "国内外のコンテストサイト"
 

@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-01-12
+
+- [#9541](https://github.com/KATO-Hiro/AtCoderClans/pull/9541) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下のテンプレートを追加。
+    - [thirdlf03/setup-atcoder](https://github.com/thirdlf03/setup-atcoder) ![GitHub Repo stars](https://img.shields.io/github/stars/thirdlf03/setup-atcoder?style=plastic)
+
 ### 2025-01-11
 
 - [#9538](https://github.com/KATO-Hiro/AtCoderClans/pull/9538) - (破壊的な変更) 「[Change Log](../latest)」ページの2024年11月分を月別のアーカイブに移動。
