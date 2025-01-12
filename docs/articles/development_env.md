@@ -4,7 +4,7 @@ title: コードを書くための環境構築を行う
 
 !!! info "参考"
 
-    以下の記事は、2024年6月までに公開・更新されたものです。随時、最新の内容を追加する予定です。
+    以下の記事は、2025年1月までに公開・更新されたものです。随時、最新の内容を追加する予定です。
 
 !!! warning "注意"
 
@@ -88,6 +88,10 @@ title: コードを書くための環境構築を行う
 - [【どこでも精進】競プロのためのC++スマホコーディング環境構築　※iOS限定](https://qiita.com/deuteridayo/items/5ce27e8780847330e324) - スマートフォン(iOS端末)でC++の実行環境を構築したい人向けの記事。ライブラリやテストツールの導入方法、提出方法も紹介されている。
 
 ## 実行環境のテンプレート・サンプル
+
+### 複数の言語
+
+- [thirdlf03/setup-atcoder](https://github.com/thirdlf03/setup-atcoder) ![GitHub Repo stars](https://img.shields.io/github/stars/thirdlf03/setup-atcoder?style=plastic) - C++・Java・Python (PyPy) の実行環境を作成できるテンプレート。Go、Rustにも対応予定。
 
 ### Rust
 
