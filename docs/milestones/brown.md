@@ -2,6 +2,10 @@
 title: レーティング400〜799(茶色)
 ---
 
+## 2025年
+
+- [【入茶記事】プログラミング完全未経験者がAtCoderで入茶するまで2カ月の過程](https://qiita.com/hkt_shichisei/items/23557ec7cdd02e47eb2d) - [Sa15MiyagiJapan](https://atcoder.jp/users/Sa15MiyagiJapan)さんが、2025年1月11日に達成。
+
 ## 2024年
 
 - [AtCoderで入茶するまでにやったこと3選](https://begi-pro.com/atcoder_brown/) - [dualboot51](https://atcoder.jp/users/dualboot51)さんが、2024年11月9日に達成。
