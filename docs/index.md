@@ -146,15 +146,14 @@
     - 「[数学を学ぶ](articles/math)」ページ
         - [グリッドの最短経路の数え上げまとめ](https://kanpurin.hatenablog.com/entry/2021/09/15/220913)
 
-    2024-12-29
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AHCの新ratingのお知らせ](https://atcoder.jp/posts/1380)
-        - [AHCレーティングver.2の計算スクリプト](https://gist.github.com/terry-u16/0901a3e8f4119ee58ed9d8817a423b6f)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-01-12
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [Sa15MiyagiJapan](https://atcoder.jp/users/Sa15MiyagiJapan)さん - [【入茶記事】プログラミング完全未経験者がAtCoderで入茶するまで2カ月の過程](https://qiita.com/hkt_shichisei/items/23557ec7cdd02e47eb2d)
 
     2025-01-01
 

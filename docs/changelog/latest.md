@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-01-13
+
+- [#9546](https://github.com/KATO-Hiro/AtCoderClans/pull/9546) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[Sa15MiyagiJapan](https://atcoder.jp/users/Sa15MiyagiJapan)さんの[記事](https://qiita.com/hkt_shichisei/items/23557ec7cdd02e47eb2d)を追加。
+
 ### 2025-01-12
 
 - [#9541](https://github.com/KATO-Hiro/AtCoderClans/pull/9541) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下のテンプレートを追加。
