@@ -116,6 +116,11 @@
 
 === "記事"
 
+    2025-01-14
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年1月14日時点)](https://x.com/atcoder/status/1878991127224967451)
+
     2025-01-12
 
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
@@ -140,11 +145,6 @@
 
     - 「[実装テクニックを学ぶ - 複数の言語](articles/implementation/multiple_languages)」ページ
         - [誤差に対して祈ることしかできない人かわいそう](https://rsk0315.hatenablog.com/entry/2024/12/28/151905)
-
-    2024-12-30
-
-    - 「[数学を学ぶ](articles/math)」ページ
-        - [グリッドの最短経路の数え上げまとめ](https://kanpurin.hatenablog.com/entry/2021/09/15/220913)
 
 === "色変記事"
 
