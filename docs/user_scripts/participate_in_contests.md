@@ -52,6 +52,12 @@ title: コンテストに参加する
 
 - [AtCoder Customize Panel Fix](https://greasyfork.org/ja/scripts/511359-atcoder-customize-panel-fix) - 「順位表」ページをリロードしたときに、カスタマイズパネルを開いたままにする。
 
+- [AtCoder Standings AC Time Formatter](https://greasyfork.org/ja/scripts/523392-atcoder-standings-ac-time-formatter) - 「順位表」ページで、問題に正解するまでの所要時間を見やすくする。アルゴリズム部門だけでなく、ヒューリスティック部門にも対応している。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_standings_ac_time_formatter.png" alt="atcoder standings ac time formatter">
+    </div>
+
 ### シングルディスプレイの表示を最適化
 
 - [AtCoder Style Optimizer for Single Display](https://greasyfork.org/ja/scripts/463585-atcoder-style-optimizer-for-single-display) - [AtCoder](https://atcoder.jp/)の各ページの横幅を最大まで広げて表示する。
