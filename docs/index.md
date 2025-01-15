@@ -114,6 +114,17 @@
       <img loading="lazy" src="images/web_app/atcoder_rating_comparer.png" alt="atcoder rating comparer">
     </div>
 
+=== "ユーザスクリプト"
+
+    2025-01-15
+
+    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
+        - [AtCoder Standings AC Time Formatter](https://greasyfork.org/ja/scripts/523392-atcoder-standings-ac-time-formatter)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_standings_ac_time_formatter.png" alt="atcoder standings ac time formatter">
+    </div>
+
 === "記事"
 
     2025-01-14
@@ -159,11 +170,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [kojyasu](https://atcoder.jp/users/kojyasu)さん - [子育てしながらAtCoder水色になりました。](https://note.com/kojyasu/n/nfcba254b9974)
-
-    2024-12-31
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [KA37RI](https://atcoder.jp/users/KA37RI)さん - [AtCoderにて水色に到達しました（入水記事）](https://note.com/ka37ri/n/na3937d3996f4)
 
 === "国内外のコンテストサイト"
 
