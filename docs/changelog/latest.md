@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-01-16
+
+- [#9563](https://github.com/KATO-Hiro/AtCoderClans/pull/9563) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [AHC典型解法シリーズ第3弾「ベイズ推定」](https://qiita.com/thun-c/items/688442aad6a0410545cc)
+
 ### 2025-01-15
 
 - [#9556](https://github.com/KATO-Hiro/AtCoderClans/pull/9556) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。

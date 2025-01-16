@@ -105,15 +105,6 @@
       <img loading="lazy" src="images/web_app/is_my_problem_new.png" alt="is my problem new">
     </div>
 
-    2025-01-01
-
-    - 「[コンテストの成績を見る](web_app/view_and_compare_scores)」ページ
-        - [AtCoder Rating Comparer](https://atcoderratingcomparer.onrender.com/)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/atcoder_rating_comparer.png" alt="atcoder rating comparer">
-    </div>
-
 === "ユーザスクリプト"
 
     2025-01-15
@@ -126,6 +117,11 @@
     </div>
 
 === "記事"
+
+    2025-01-16
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AHC典型解法シリーズ第3弾「ベイズ推定」](https://qiita.com/thun-c/items/688442aad6a0410545cc)
 
     2025-01-14
 
@@ -165,11 +161,6 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [Sa15MiyagiJapan](https://atcoder.jp/users/Sa15MiyagiJapan)さん - [【入茶記事】プログラミング完全未経験者がAtCoderで入茶するまで2カ月の過程](https://qiita.com/hkt_shichisei/items/23557ec7cdd02e47eb2d)
-
-    2025-01-01
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [kojyasu](https://atcoder.jp/users/kojyasu)さん - [子育てしながらAtCoder水色になりました。](https://note.com/kojyasu/n/nfcba254b9974)
 
 === "国内外のコンテストサイト"
 
