@@ -74,6 +74,7 @@ title: ヒューリスティック問題を解く
 - [AHC 典型: 解をたくさん作る](https://iwashi31.hatenablog.com/entry/2023/11/05/234449) - ヒューリスティックコンテストで、貪欲法の次に試すアプローチ方法が紹介されている。
 - [AHC典型解法シリーズ第1弾「モンテカルロ法」](https://qiita.com/thun-c/items/8e7ae0249f1907854763) - [AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=AtCoder+Heuristic+Contest)の解法の分類により、典型的な手法の抽出とその重要性が指摘されている。また、モンテカルロ法と過去問への適用例が紹介されている。
     - [AHC典型解法シリーズ第2弾「焼きなまし法」](https://qiita.com/thun-c/items/ecd438fde4d237b1f7bc) - 典型的な解法をまとめたシリーズの第2弾。コンテストの過去問を例題に、焼きなまし法の適用するときの工夫が解説されている。
+    - [AHC典型解法シリーズ第3弾「ベイズ推定」](https://qiita.com/thun-c/items/688442aad6a0410545cc) - 同第3弾。ベイズ推定の具体的な使い方が紹介されている。
 - [マラソン系コンテストでソースコードを分割して書く方法のメモ(C++)](https://yunix-kyopro.hatenablog.com/entry/2023/03/14/220453) - コンテストで快適にコーディングできるように、開発時にはソースコード(C++)を複数のファイルに分割して記述し、提出時に1つにまとめて提出する方法が紹介されている記事。
     - [サンプルコード](https://github.com/yunix-kyopro/AHC-cpp-template-public) ![GitHub Repo stars](https://img.shields.io/github/stars/yunix-kyopro/AHC-cpp-template-public?style=plastic)
 - [ヒューリスティックコンテストで機械学習しよう](https://speakerdeck.com/nagiss/hiyurisuteitukukontesutodeji-jie-xue-xi-siyou) - コンテストで統計的な手法を検討したい場合に、典型的な問題とその実装例が紹介されているスライド。
