@@ -148,14 +148,14 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年1月6日時点)](https://x.com/atcoder/status/1876085047893389331)
 
-    2025-01-02
-
-    - 「[実装テクニックを学ぶ - 複数の言語](articles/implementation/multiple_languages)」ページ
-        - [誤差に対して祈ることしかできない人かわいそう](https://rsk0315.hatenablog.com/entry/2024/12/28/151905)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-01-17
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [SourCreamOnion](https://atcoder.jp/users/SourCreamOnion)さん - [【色変記事】非プログラマーが2ヶ月で入茶した方法をまとめてみる](https://note.com/sco0720/n/n88839cc0350a)
 
     2025-01-12
 
@@ -172,14 +172,6 @@
     <div align="center">
       <img loading="lazy" src="images/related_contest_sites/nyp/new_year's_puzzles_2025.png" alt="new year's puzzles">
     </div>
-
-=== "アーカイブス"
-
-    諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
-
-    2025-01-02
-
-    - AtCoder Find Rivals
 
 ## AtCoder公式グッズを購入する
 
