@@ -70,7 +70,6 @@ title: レーティング800〜1199(緑色)
 - [AtCoderで入緑しました](https://qiita.com/RubyLrving/items/b92df84ef9d5132c69c7) - [seim](https://atcoder.jp/users/seim)さんが、2022年10月29日に達成。
 - [AtCoder緑になりました](https://qiita.com/gakusei_programmer/items/146728aaa229475c4826) - [Rensyu](https://atcoder.jp/users/Rensyu)さんが、2022年10月8日に達成。
 - [atcoderで入緑しました](https://note.com/sekiengineer/n/n4e130af7a030) - [sekimuto](https://atcoder.jp/users/sekimuto)さんが、2022年9月10日に達成。
-- [【AtCoder】 入緑したので精進やら精神面やら競プロの意義やら色々書く【色変記事】【初投稿】](https://qiita.com/swapman/items/cadd63dc902366158010) - [swapman](https://atcoder.jp/users/swapman)さんが、2022年8月27日に達成。
 - [AtCoderで緑色になったから書いた記事](https://qiita.com/viral_8/items/e2074372015de7d6f87a) - [viral](https://atcoder.jp/users/viral)さんが、2022年8月21日に達成。
 - [入緑！しました！](https://note.com/syntax_error_/n/n74cca048ba60) - [King314](https://atcoder.jp/users/King314)さんが、2022年7月17日に達成。
 - [AtCoderで入緑したからnote書きます](https://note.com/very_yami__/n/n99b68e693790) - [etty](https://atcoder.jp/users/etty)さんが、2022年7月17日に達成。
