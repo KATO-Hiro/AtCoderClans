@@ -318,6 +318,9 @@ title: リンク切れ
 
 ### レーティング800〜1199(緑色)
 
+- [【AtCoder】 入緑したので精進やら精神面やら競プロの意義やら色々書く【色変記事】【初投稿】](https://qiita.com/swapman/items/cadd63dc902366158010) - [swapman](https://atcoder.jp/users/swapman)さんが、2022年8月27日に達成。
+    - 確認した日: 2025/01/17
+
 - [AtCoder色変記事（緑）。あるいは趣味としての競プロの勧め。 - 加具留矢流余](https://mikebird28.hatenablog.jp/entry/2020/11/09/223426) - [toritoritori29](https://atcoder.jp/users/toritoritori29)さんが、2020年11月8日に達成。
     - 確認した日: 2024/09/27
 
