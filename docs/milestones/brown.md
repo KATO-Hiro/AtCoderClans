@@ -4,6 +4,7 @@ title: レーティング400〜799(茶色)
 
 ## 2025年
 
+- [【色変記事】非プログラマーが2ヶ月で入茶した方法をまとめてみる](https://note.com/sco0720/n/n88839cc0350a) - [SourCreamOnion](https://atcoder.jp/users/SourCreamOnion)さんが、2025年1月14日に公開。
 - [【入茶記事】プログラミング完全未経験者がAtCoderで入茶するまで2カ月の過程](https://qiita.com/hkt_shichisei/items/23557ec7cdd02e47eb2d) - [Sa15MiyagiJapan](https://atcoder.jp/users/Sa15MiyagiJapan)さんが、2025年1月11日に達成。
 
 ## 2024年
