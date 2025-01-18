@@ -96,15 +96,6 @@
       <img loading="lazy" src="images/web_app/kfrom40_github_io.png" alt="kfrom40 github io">
     </div>
 
-    2025-01-03
-
-    - 「[問題作成者向けの情報](web_app/for_writers)」ページ
-        - [Is my problem new?](http://yuantiji.ac/en/)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/is_my_problem_new.png" alt="is my problem new">
-    </div>
-
 === "ユーザスクリプト"
 
     2025-01-15
@@ -151,6 +142,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-01-18
+
+    - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
+        - [uta_ccc](https://atcoder.jp/users/uta_ccc)さん - [【色変記事】ヒューリスティック入橙しました](https://utac.hateblo.jp/entry/2025/01/17/231729)
 
     2025-01-17
 
