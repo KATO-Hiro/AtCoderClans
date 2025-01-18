@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-01-18
+
+- [#9572](https://github.com/KATO-Hiro/AtCoderClans/pull/9572) - 「[Milestones](../../milestones/orange)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2400から2799まで(橙色)に[uta_ccc](https://atcoder.jp/users/uta_ccc)さんの[記事](https://utac.hateblo.jp/entry/2025/01/17/231729)を追加。
+
 ### 2025-01-17
 
 - [#9569](https://github.com/KATO-Hiro/AtCoderClans/pull/9569) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
