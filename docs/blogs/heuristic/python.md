@@ -13,6 +13,7 @@ title: Python
 |dn6049949|[Qiita](https://qiita.com/dn6049949)||
 |Kiri8128|[はてなブログ](https://kiri8128.hatenablog.com/)||
 |toam|[はてなブログ](https://toriidao.hateblo.jp/)||
+|uta_ccc|[はてなブログ](https://utac.hateblo.jp/)||
 |yuusanlondon|[はてなブログ](https://yuusanlondon.hatenablog.com/)||
 
 ## レーティング2000〜2399(黄色)
@@ -23,4 +24,3 @@ title: Python
 |Koi51|[Qiita](https://qiita.com/koi51)||
 |nishigake|[はてなブログ](https://blog.nishigake.net/posts)|C++で実装されている回答もある。|
 |titia|[Blogger](https://titianote.blogspot.com/)||
-|uta_ccc|[はてなブログ](https://utac.hateblo.jp/)||
