@@ -87,15 +87,6 @@
       <img loading="lazy" src="images/web_app/compsnips.png" alt="compsnips">
     </div>
 
-    2025-01-04
-
-    - 「[コンテストの成績に関連するサービス](web_app/services_using_scores)」ページ
-        - [AtCoder Junior League (AJL）のスコア予測ツール](https://kfrom40.github.io/)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/kfrom40_github_io.png" alt="kfrom40 github io">
-    </div>
-
 === "ユーザスクリプト"
 
     2025-01-15
@@ -108,6 +99,11 @@
     </div>
 
 === "記事"
+
+    2025-01-19
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [ビジュアライザ筋トレ2025年 chatGPT活用編](https://yunix-kyopro.hatenablog.com/entry/2025/01/16/204053)
 
     2025-01-16
 
@@ -138,6 +134,14 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年1月6日時点)](https://x.com/atcoder/status/1876085047893389331)
+
+=== "ブログ"
+    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2025-01-19
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [kouty](https://atcoder.jp/users/kouty)さん - [はてなブログ](https://koutykkk.hatenablog.com/)
 
 === "色変記事"
 
