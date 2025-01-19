@@ -155,6 +155,7 @@ title: C&#43;&#43;
 |KKT89|[はてなブログ](https://kkt89.hatenablog.com/)||
 |knshnb|[自作ブログ](https://blog.knshnb.com/)||
 |KowerKoint|[Qiita](https://qiita.com/KowerKoint)||
+|kouty|[はてなブログ](https://koutykkk.hatenablog.com/)||
 |kozima|[はてなブログ](https://lkozima.hatenablog.com/)||
 |Ktya_59|[livedoor Blog](http://blog.livedoor.jp/tkoma512/)|2020年6月以降、新規の記事を確認できず。|
 |kyon2326|[tumblr](https://suzukiapple.tumblr.com/)||
