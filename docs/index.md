@@ -78,15 +78,6 @@
       <img loading="lazy" src="images/web_app/atcoder_shojin_chart.png" alt="atcoder shojin chart">
     </div>
 
-    2025-01-05
-
-    - 「[問題を解く](web_app/solve_problems)」ページ
-        - [CompSnips](https://compsnips.zeronosu77108.com/)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/compsnips.png" alt="compsnips">
-    </div>
-
 === "ユーザスクリプト"
 
     2025-01-15
@@ -99,6 +90,11 @@
     </div>
 
 === "記事"
+
+    2025-01-20
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年1月20日時点)](https://x.com/atcoder/status/1881161748369317928)
 
     2025-01-19
 
