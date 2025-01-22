@@ -5,6 +5,10 @@ title: レーティング2000〜2399(黄色)
 !!! warning "注意"
     サブカテゴリに部門名(アルゴリズム・ヒューリスティック)が明記されていない場合は、すべてアルゴリズム部門の記事です。
 
+## 2025年
+
+- [【色変記事】AtCoderアルゴレートで黄色になりました！](https://miiitomi.github.io/p/yellow/) - [miiitomi](https://atcoder.jp/users/miiitomi)さんが、2025年1月19日に公開。
+
 ## 2024年
 
 - [【Atcoder】高校2年生でAtcoder黄色になりました](https://qiita.com/bluebery1001/items/3253399ebf287e197346) - [blueberry1001](https://atcoder.jp/users/blueberry1001)さんが、2024年12月25日に公開。
