@@ -69,6 +69,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2025-01-22
+
+    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
+        - [Kyopro Visualizer](https://yukitonegawa.github.io/visualizer.html)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/kyopro_visualizer.png" alt="kyopro visualizer">
+    </div>
+
     2025-01-08
 
     - 「[ライバルを探す・競う](web_app/rivals)」ページ
@@ -143,6 +152,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2025-01-22
+
+    - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
+        - [miiitomi](https://atcoder.jp/users/miiitomi)さん - [【色変記事】AtCoderアルゴレートで黄色になりました！](https://miiitomi.github.io/p/yellow/)
+
     2025-01-18
 
     - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
@@ -157,17 +171,6 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [Sa15MiyagiJapan](https://atcoder.jp/users/Sa15MiyagiJapan)さん - [【入茶記事】プログラミング完全未経験者がAtCoderで入茶するまで2カ月の過程](https://qiita.com/hkt_shichisei/items/23557ec7cdd02e47eb2d)
-
-=== "国内外のコンテストサイト"
-
-    2025-01-07
-
-    - 「[パズル・クイズ系コンテスト](related_contest_sites/puzzle_quiz)」ページ
-        - [New Year's Puzzles](https://nyp.snuke.org/)
-
-    <div align="center">
-      <img loading="lazy" src="images/related_contest_sites/nyp/new_year's_puzzles_2025.png" alt="new year's puzzles">
-    </div>
 
 ## AtCoder公式グッズを購入する
 

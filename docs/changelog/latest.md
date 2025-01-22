@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-01-22
+
+- [#9596](https://github.com/KATO-Hiro/AtCoderClans/pull/9596) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページに、以下のWebアプリを追加。
+    - [Kyopro Visualizer](https://yukitonegawa.github.io/visualizer.html)
+- [#9595](https://github.com/KATO-Hiro/AtCoderClans/pull/9595) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[miiitomi](https://atcoder.jp/users/miiitomi)さんの[記事](https://miiitomi.github.io/p/yellow/)を追加。
+
 ### 2025-01-21
 
 - [#9592](https://github.com/KATO-Hiro/AtCoderClans/pull/9592) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
