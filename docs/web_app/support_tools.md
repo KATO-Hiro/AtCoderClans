@@ -43,6 +43,12 @@ title: 問題を解くときの補助ツール
       <img loading = "lazy" src="../../images/web_app/graph_graph.png" alt="graph graph">
     </div>
 
+- [Kyopro Visualizer](https://yukitonegawa.github.io/visualizer.html) - 有向グラフ・無向グラフの生成・図示だけでなく、数列の生成・統計諸量の要約や幾何の図示にも対応している。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/kyopro_visualizer.png" alt="kyopro visualizer">
+    </div>
+
 - [MINI GENERATOR](https://mini-generator.netlify.app/graph) - さまざまなグラフが生成できることに加えて、その内容をSNSで共有できる。
 
     <div align="center">
