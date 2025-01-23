@@ -78,15 +78,6 @@
       <img loading="lazy" src="images/web_app/kyopro_visualizer.png" alt="kyopro visualizer">
     </div>
 
-    2025-01-08
-
-    - 「[ライバルを探す・競う](web_app/rivals)」ページ
-        - [Atcoder 精進チャート🐾](https://a-tilol.github.io/atcoder-shojin-chart-nextjs/)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/atcoder_shojin_chart.png" alt="atcoder shojin chart">
-    </div>
-
 === "ユーザスクリプト"
 
     2025-01-15
@@ -99,6 +90,11 @@
     </div>
 
 === "記事"
+
+    2025-01-23
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AHC初心者向け、ローカルテスタの使い方](https://qiita.com/thun-c/items/bb090c1d8d4c38d5e4d2)
 
     2025-01-21
 
