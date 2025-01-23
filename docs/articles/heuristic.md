@@ -42,6 +42,7 @@ title: ヒューリスティック問題を解く
 ### 入出力データの管理
 
 - [ヒューリスティック初心者の取り組み方](https://shu8cream.hatenablog.com/entry/2021/12/18/221429) - ヒューリスティック型コンテストの参加希望者・初心者に向けて、大量の入出力を扱う方法を解説した記事。C++で実装されたサンプルもある。
+- [AHC初心者向け、ローカルテスタの使い方](https://qiita.com/thun-c/items/bb090c1d8d4c38d5e4d2) - ヒューリスティック型コンテスト初心者に向けて、ローカルテスタの実行環境を用意する方法と、各種コマンドが丁寧に解説されている。
 - [AHCのローカルテスト環境構築](https://zenn.dev/ikoma_3/articles/5c04ab03935f71) - ローカル環境で複数のテストを実行するための方法が紹介されている。
 - [AHC(AtCoder Heuristic Contest)で、手元で100テストケースを自動で試す(Linux)](https://qiita.com/gengar-094/items/e4918c3cab5c1d096751) - ローカル環境で多数のテストケースを実行する必要性とその方法を解説した記事。
 - [AHC(AtCoder Heuristic Contest)のテスト用スクリプト](https://tayu0110.hatenablog.com/entry/2022/08/14/031726) - 複数のテストを手軽、かつ、高速に実行するためのシェルスクリプトが紹介されている。
