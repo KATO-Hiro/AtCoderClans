@@ -91,6 +91,11 @@
 
 === "記事"
 
+    2025-01-24
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AHC041 解説](https://speakerdeck.com/terryu16/ahc041jie-shuo)
+
     2025-01-23
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -130,11 +135,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [マラソンマッチで誤解してたこと、してなかったこと](https://koyumeishi.hatenablog.com/entry/2018/12/28/055220)
-
-    2025-01-09
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AHCに初めて参加する人が読む記事2025](https://qiita.com/tomerun/items/8d2b67476c25ecef35f5)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
