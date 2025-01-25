@@ -131,13 +131,16 @@
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
         - [thirdlf03/setup-atcoder](https://github.com/thirdlf03/setup-atcoder) ![GitHub Repo stars](https://img.shields.io/github/stars/thirdlf03/setup-atcoder?style=plastic)
 
-    2025-01-10
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [マラソンマッチで誤解してたこと、してなかったこと](https://koyumeishi.hatenablog.com/entry/2018/12/28/055220)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2025-01-25
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [asi1024](https://atcoder.jp/users/asi1024)さん - [はてなブログ](https://asi1024.hatenablog.com/)
+        - [tatyam](https://atcoder.jp/users/tatyam)さん - [はてなブログ](https://tatyam.hatenablog.com/)、[Qiita](https://qiita.com/tatyam)
+    - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
+        - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さん - [はてなブログ](https://halc-kyopro.hatenablog.com/)
 
     2025-01-19
 
