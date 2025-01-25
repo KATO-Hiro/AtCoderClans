@@ -6,6 +6,7 @@ title: C&#43;&#43;
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
+|asi1024|[はてなブログ](https://asi1024.hatenablog.com/)|2017年3月以降、新規の記事を確認できず。|
 |bowwowforeach|[はてなブログ](https://bowwowforeach.hatenablog.com/)||
 |eijirou|[はてなブログ](https://eijirou-kyopro.hatenablog.com/)||
 |eivour|[Qiita](https://qiita.com/contramundum)||
@@ -28,7 +29,6 @@ title: C&#43;&#43;
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
-|asi1024|[はてなブログ](https://asi1024.hatenablog.com/)|2017年3月以降、新規の記事を確認できず。|
 |assy|[はてなブログ](https://assy.hatenablog.jp/)||
 |ats5515|[はてなブログ](https://ats5515.hatenablog.com/)||
 |bin101|[はてなブログ](https://bin101.hatenablog.com/)||
@@ -88,6 +88,7 @@ title: C&#43;&#43;
 |shotoyoo|[Qiita](https://qiita.com/shotoyoo)||
 |sky58|[はてなブログ](https://topcoder-g-hatena-ne-jp.jag-icpc.org/skyaozora/)||
 |starpentagon|[自作ブログ](https://starpentagon.net/analytics/category/%e7%ab%b6%e6%8a%80%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0/)||
+|tatyam|[はてなブログ](https://tatyam.hatenablog.com/)、[Qiita](https://qiita.com/tatyam)||
 |theory_and_me|[はてなブログ](https://theory-and-me.hatenablog.com/)||
 |through|[Zenn](https://zenn.dev/through)||
 |Trineutron|[Qiita](https://qiita.com/trineutron)||
