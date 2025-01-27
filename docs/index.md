@@ -99,6 +99,11 @@
 
 === "記事"
 
+    2025-01-27
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年1月27日時点)](https://x.com/atcoder/status/1883695093561061486)
+
     2025-01-24
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -134,11 +139,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年1月14日時点)](https://x.com/atcoder/status/1878991127224967451)
 
-    2025-01-12
-
-    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
-        - [thirdlf03/setup-atcoder](https://github.com/thirdlf03/setup-atcoder) ![GitHub Repo stars](https://img.shields.io/github/stars/thirdlf03/setup-atcoder?style=plastic)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -173,11 +173,6 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [SourCreamOnion](https://atcoder.jp/users/SourCreamOnion)さん - [【色変記事】非プログラマーが2ヶ月で入茶した方法をまとめてみる](https://note.com/sco0720/n/n88839cc0350a)
-
-    2025-01-12
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [Sa15MiyagiJapan](https://atcoder.jp/users/Sa15MiyagiJapan)さん - [【入茶記事】プログラミング完全未経験者がAtCoderで入茶するまで2カ月の過程](https://qiita.com/hkt_shichisei/items/23557ec7cdd02e47eb2d)
 
 ## AtCoder公式グッズを購入する
 
