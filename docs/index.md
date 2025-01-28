@@ -99,6 +99,11 @@
 
 === "記事"
 
+    2025-01-28
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AHC041 参加記・本番 1 位解法の説明](https://rsm9.hatenablog.com/entry/2025/01/22/213923)
+
     2025-01-27
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
