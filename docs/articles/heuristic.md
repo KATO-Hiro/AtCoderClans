@@ -139,6 +139,7 @@ title: ヒューリスティック問題を解く
 - [AHC035解説](https://speakerdeck.com/terryu16/ahc035jie-shuo) - [terry_u16](https://atcoder.jp/users/terry_u16)さんによる[ALGO ARTIS プログラミングコンテスト2024 夏（AtCoder Heuristic Contest 035）](https://atcoder.jp/contests/ahc035)の解説。考察のポイントと複数の方針が紹介されている。
 - [ALGO ARTIS プログラミングコンテスト2024 夏(AHC035)解説](https://math-gorilla.hatenablog.com/entry/2024/07/28/161631) - [MathGorilla](https://atcoder.jp/users/MathGorilla)さんによる[ALGO ARTIS プログラミングコンテスト2024 夏（AtCoder Heuristic Contest 035）](https://atcoder.jp/contests/ahc035)の考察と実装方針が紹介されている。
 - [AHC036 参加記](https://soumat.hatenablog.com/entry/2024/09/07/152734) - [soumat](https://atcoder.jp/users/soumat)さんによる[RECRUIT 日本橋ハーフマラソン 2024夏（AtCoder Heuristic Contest 036）](https://atcoder.jp/contests/ahc036)の参加記。解法および高速化のテクニックが紹介されている。
+- [AHC041 参加記・本番 1 位解法の説明](https://rsm9.hatenablog.com/entry/2025/01/22/213923) - [hitonanode](https://atcoder.jp/users/hitonanode)さんによる[ALGO ARTIS プログラミングコンテスト2025 冬（AtCoder Heuristic Contest 041）](https://atcoder.jp/contests/ahc041)の参加記。ビームサーチによる解法に加えて、汎用ソルバーの活用の仕方・解法に至るまでの過程が紹介されている。
 - [FakePsyho/cpcontests](https://github.com/FakePsyho/cpcontests) ![GitHub Repo stars](https://img.shields.io/github/stars/FakePsyho/cpcontests?style=plastic) - [Psyho](https://atcoder.jp/users/Psyho)さんが参加したコンテストの解答の方針とソースコードがまとめられている。
 
     ---
