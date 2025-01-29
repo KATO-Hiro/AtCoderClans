@@ -88,6 +88,15 @@
 
 === "ユーザスクリプト"
 
+    2025-01-29
+
+    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
+        - [AtCoder Participants Display](https://greasyfork.org/ja/scripts/523852-atcoder-participants-display)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_participants_display.png" alt="atcoder participants display">
+    </div>
+
     2025-01-15
 
     - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
@@ -138,11 +147,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AHC典型解法シリーズ第3弾「ベイズ推定」](https://qiita.com/thun-c/items/688442aad6a0410545cc)
-
-    2025-01-14
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年1月14日時点)](https://x.com/atcoder/status/1878991127224967451)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
