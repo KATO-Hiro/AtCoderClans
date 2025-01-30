@@ -284,6 +284,7 @@ nav:
   - Change Log:
       - changelog/latest.md
       - 2024:
+          - December, 2024: changelog/2024_12.md
           - November, 2024: changelog/2024_11.md
           - October, 2024: changelog/2024_10.md
           - September, 2024: changelog/2024_09.md
