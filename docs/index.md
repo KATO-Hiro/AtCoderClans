@@ -97,15 +97,6 @@
       <img loading="lazy" src="images/userscript/atcoder_participants_display.png" alt="atcoder participants display">
     </div>
 
-    2025-01-15
-
-    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
-        - [AtCoder Standings AC Time Formatter](https://greasyfork.org/ja/scripts/523392-atcoder-standings-ac-time-formatter)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_standings_ac_time_formatter.png" alt="atcoder standings ac time formatter">
-    </div>
-
 === "記事"
 
     2025-01-28
