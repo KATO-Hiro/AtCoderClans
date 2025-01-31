@@ -99,6 +99,11 @@
 
 === "記事"
 
+    2025-02-01
+
+    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
+        - [JavaでのAtCoder環境構築](https://qiita.com/HERUESTA/items/bed73a2906115c68ce11)
+
     2025-01-31
 
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
@@ -168,11 +173,6 @@
 
     - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
         - [uta_ccc](https://atcoder.jp/users/uta_ccc)さん - [【色変記事】ヒューリスティック入橙しました](https://utac.hateblo.jp/entry/2025/01/17/231729)
-
-    2025-01-17
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [SourCreamOnion](https://atcoder.jp/users/SourCreamOnion)さん - [【色変記事】非プログラマーが2ヶ月で入茶した方法をまとめてみる](https://note.com/sco0720/n/n88839cc0350a)
 
 ## AtCoder公式グッズを購入する
 
