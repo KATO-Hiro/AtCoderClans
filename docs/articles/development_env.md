@@ -58,7 +58,7 @@ title: コードを書くための環境構築を行う
 
 ### Java
 
-- [JavaでのAtCoder環境構築](https://qiita.com/HERUESTA/items/bed73a2906115c68ce11) - Javaをローカル環境で実行するための方法に加えて、[Visual Studio Code](https://code.visualstudio.com/)の拡張機能やテストツールの導入方法も紹介されている。
+- [JavaでのAtCoder環境構築](https://qiita.com/HERUESTA/items/bed73a2906115c68ce11) - Javaをローカル環境で実行する方法だけでなく、[Visual Studio Code](https://code.visualstudio.com/)の拡張機能やテストツールの導入方法も紹介されている。
 
 ### Rust
 
