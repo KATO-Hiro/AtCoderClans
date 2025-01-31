@@ -99,6 +99,11 @@
 
 === "記事"
 
+    2025-01-31
+
+    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
+        - [AndroidスマホにAtCoder精進用CLI環境を構築してみた](https://qiita.com/VOT/items/c9ce841e9c30b6ba5b36)
+
     2025-01-28
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -133,11 +138,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [ビジュアライザ筋トレ2025年 chatGPT活用編](https://yunix-kyopro.hatenablog.com/entry/2025/01/16/204053)
-
-    2025-01-16
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AHC典型解法シリーズ第3弾「ベイズ推定」](https://qiita.com/thun-c/items/688442aad6a0410545cc)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。

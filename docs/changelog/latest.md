@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-01-31
+
+- [#9631](https://github.com/KATO-Hiro/AtCoderClans/pull/9631) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。
+    - [AndroidスマホにAtCoder精進用CLI環境を構築してみた](https://qiita.com/VOT/items/c9ce841e9c30b6ba5b36)
+
 ### 2025-01-30
 
 - [#9628](https://github.com/KATO-Hiro/AtCoderClans/pull/9628) - (破壊的な変更) 「[Change Log](../latest)」ページの2024年12月分を月別のアーカイブに移動。
