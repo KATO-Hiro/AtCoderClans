@@ -56,6 +56,10 @@ title: コードを書くための環境構築を行う
 - [MacでGCCを"正しく"環境構築しよう！](https://qiita.com/DaikiSuyama/items/09f5aa399aad37783146) - MacでのGCCの環境構築を丁寧に解説した記事。パッケージ管理システムであるHomebrewを用いたGCCのインストールからパスの設定・コンパイルの実行まで紹介されている。
 - [Visual studio codeで競プロ環境構築[mac OS]](https://qiita.com/EngTks/items/ffa2a7b4d264e7a052c6) - 動作環境は、macOS Mojave。C++(GCC)のコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と、拡張機能を使って構築する方法が紹介されている。便利な標準ライブラリ(bits/std++.h)を使用することができる。
 
+### Java
+
+- [JavaでのAtCoder環境構築](https://qiita.com/HERUESTA/items/bed73a2906115c68ce11) - Javaをローカル環境で実行する方法だけでなく、[Visual Studio Code](https://code.visualstudio.com/)の拡張機能やテストツールの導入方法も紹介されている。
+
 ### Rust
 
 - [AtCoder用にVSCodeを用いたRustの開発環境の構築をした話](https://paruma184.hatenablog.com/entry/2021/09/22/210945) - 動作環境は、macOS Big Sur。Rustのコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と拡張機能を利用して構築する方法が詳しく紹介されている記事。
