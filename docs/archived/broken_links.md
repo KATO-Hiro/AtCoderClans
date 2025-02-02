@@ -54,6 +54,13 @@ title: リンク切れ
 
 ### 復習の効果をより高める
 
+- [AtCoder-Ebbing](https://atcoder-ebbing.web.app/) - 任意のユーザのレーティング・回答状況に応じて、復習すると効果が高い問題が出題される。作者による[解説記事](https://qiita.com/numeric_tuba/items/9898e31e2566e7296c5d)もある。
+    - 確認した日: 2025/02/02
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_ebbing.png" alt="atcoder ebbing">
+    </div>
+
 - [Atcoder Clock](https://clock.zuk246.net/) - 指定した時間が経過すると、AtCoder IDを登録したユーザの提出(過去2週間以内)からランダムに出題してくれる。
     - [作者による解説記事](https://zenn.dev/iizuka0000/articles/atcoder-clock-introduction)
     - 確認した日: 2024/12/22

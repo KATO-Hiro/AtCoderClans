@@ -86,12 +86,6 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/web_app/atcoder_companions.png" alt="atcoder companions">
     </div>
 
-- [AtCoder-Ebbing](https://atcoder-ebbing.web.app/) - 任意のユーザのレーティング・回答状況に応じて、復習すると効果が高い問題が出題される。作者による[解説記事](https://qiita.com/numeric_tuba/items/9898e31e2566e7296c5d)もある。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_ebbing.png" alt="atcoder ebbing">
-    </div>
-
 - [AtCoder-Review](https://at-coder-review.vercel.app/) - 任意のユーザが正解(AC)した問題とその回数を表示する。
 
     !!! warning "注意"
