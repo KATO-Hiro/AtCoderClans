@@ -169,10 +169,13 @@
     - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
         - [miiitomi](https://atcoder.jp/users/miiitomi)さん - [【色変記事】AtCoderアルゴレートで黄色になりました！](https://miiitomi.github.io/p/yellow/)
 
-    2025-01-18
+=== "アーカイブス"
 
-    - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
-        - [uta_ccc](https://atcoder.jp/users/uta_ccc)さん - [【色変記事】ヒューリスティック入橙しました](https://utac.hateblo.jp/entry/2025/01/17/231729)
+    諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2025-02-02
+
+    - AtCoder-Ebbing
 
 ## AtCoder公式グッズを購入する
 

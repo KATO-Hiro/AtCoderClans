@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-02-02
+
+- [#9642](https://github.com/KATO-Hiro/AtCoderClans/pull/9642) - (破壊的な変更) リンク切れと思われるWebアプリを「[Archives](../../archived)」ページに移動。
+    - AtCoder-Ebbing
+
 ### 2025-02-01
 
 - [#9637](https://github.com/KATO-Hiro/AtCoderClans/pull/9637) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。
