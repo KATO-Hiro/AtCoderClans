@@ -99,6 +99,11 @@
 
 === "記事"
 
+    2025-02-03
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AtCoder Heuristic Contest 042参加メモ](https://kaede2020.hatenablog.com/entry/2025/02/03/091637)
+
     2025-02-01
 
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
@@ -139,11 +144,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年1月20日時点)](https://x.com/atcoder/status/1881161748369317928)
 
-    2025-01-19
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [ビジュアライザ筋トレ2025年 chatGPT活用編](https://yunix-kyopro.hatenablog.com/entry/2025/01/16/204053)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -154,11 +154,6 @@
         - [tatyam](https://atcoder.jp/users/tatyam)さん - [はてなブログ](https://tatyam.hatenablog.com/)、[Qiita](https://qiita.com/tatyam)
     - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
         - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さん - [はてなブログ](https://halc-kyopro.hatenablog.com/)
-
-    2025-01-19
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [kouty](https://atcoder.jp/users/kouty)さん - [はてなブログ](https://koutykkk.hatenablog.com/)
 
 === "色変記事"
 
