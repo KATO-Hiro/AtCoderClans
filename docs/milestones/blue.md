@@ -2,6 +2,10 @@
 title: レーティング1600〜1999(青色)
 ---
 
+## 2025年
+
+- [【AtCoder】 入青しました。](https://note.com/another_akizuki/n/nd243d9828ee6) - [tenp1729](https://atcoder.jp/users/tenp1729)さんが、2025年2月1日に達成。
+
 ## 2024年
 
 - [AtCoder Algorithm 入青記事](https://note.com/cafe_j19419/n/n26aa290b318a) - [Cafe_j19419](https://atcoder.jp/users/Cafe_j19419)さんが、2024年12月8日に達成。
