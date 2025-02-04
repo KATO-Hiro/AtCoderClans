@@ -99,6 +99,11 @@
 
 === "記事"
 
+    2025-02-04
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年2月3日時点)](https://x.com/atcoder/status/1886251197230936368)
+
     2025-02-03
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -138,11 +143,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [ALGO ARTIS プログラミングコンテスト2025 冬（AtCoder Heuristic Contest 041）参加メモ](https://kaede2020.hatenablog.com/entry/2025/01/20/194438)
-
-    2025-01-20
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年1月20日時点)](https://x.com/atcoder/status/1881161748369317928)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
