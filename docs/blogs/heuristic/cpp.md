@@ -63,6 +63,7 @@ title: C&#43;&#43;
 |ganmodokix|[はてなブログ](https://aprilganmo.hatenablog.com/)||
 |hakomo|[はてなブログ](https://hakomof.hatenablog.com/)||
 |hari64|[Qiita](https://qiita.com/hari64)||
+|Hec|[はてなブログ](https://osrehun.hatenadiary.jp/)||
 |hirokazu1020|[はてなブログ](https://hirokazu1020.hatenablog.com/)||
 |hogloid|[はてなブログ](https://hogloid.hatenablog.com/)||
 |itigo|[はてなブログ](https://ichigokunn.hatenablog.com/)||
@@ -80,6 +81,7 @@ title: C&#43;&#43;
 |platinum|[はてなブログ](https://platinum-prog.hatenablog.com/)||
 |ponjuice|[note](https://note.com/ponjuice0)||
 |qLethon|[はてなブログ](https://qlethon.hatenablog.com/)||
+|riano_|[はてなブログ](https://seashellpink-frostywhite.hatenablog.com/)||
 |riantkb|[はてなブログ](https://rian.hatenablog.jp/)||
 |RinSakamichi|[GitHub Pages](https://rinsakamichi.github.io/)||
 |satanic0258|[はてなブログ](https://satanic0258.hatenablog.com/)|2018年9月以降、新規の記事を確認できず。|
