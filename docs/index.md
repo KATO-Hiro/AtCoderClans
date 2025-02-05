@@ -139,13 +139,17 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AHC初心者向け、ローカルテスタの使い方](https://qiita.com/thun-c/items/bb090c1d8d4c38d5e4d2)
 
-    2025-01-21
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [ALGO ARTIS プログラミングコンテスト2025 冬（AtCoder Heuristic Contest 041）参加メモ](https://kaede2020.hatenablog.com/entry/2025/01/20/194438)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2025-02-05
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [Hec](https://atcoder.jp/users/Hec)さん - [はてなブログ](https://osrehun.hatenadiary.jp/)
+        - [riano_](https://atcoder.jp/users/riano_)さん - [はてなブログ](https://seashellpink-frostywhite.hatenablog.com/)
+
+    - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
+        - [bio4eta](https://atcoder.jp/users/bio4eta)さん - [はてなブログ](https://hudeha.hatenablog.com/)
 
     2025-01-25
 
