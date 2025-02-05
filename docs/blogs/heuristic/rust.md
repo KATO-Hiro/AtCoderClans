@@ -22,6 +22,7 @@ title: Rust
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
+|bio4eta|[はてなブログ](https://hudeha.hatenablog.com/)||
 |cunitac|[はてなブログ](https://cunitac.hatenablog.com/)||
 |koyumeishi|[はてなブログ](https://koyumeishi.hatenablog.com/)||
 |Kyo_s_s|[自作ブログ](https://kyo-homepage.vercel.app/blog)||
