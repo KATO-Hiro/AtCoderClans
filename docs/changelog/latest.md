@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-02-06
+
+- [#9663](https://github.com/KATO-Hiro/AtCoderClans/pull/9663) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [AHC042 解説](https://www.terry-u16.net/entry/ahc042)
+
 ### 2025-02-05
 
 - [#9658](https://github.com/KATO-Hiro/AtCoderClans/pull/9658) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。

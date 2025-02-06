@@ -75,17 +75,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "Webアプリ・Webサイト"
-
-    2025-01-22
-
-    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
-        - [Kyopro Visualizer](https://yukitonegawa.github.io/visualizer.html)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/kyopro_visualizer.png" alt="kyopro visualizer">
-    </div>
-
 === "ユーザスクリプト"
 
     2025-01-29
@@ -98,6 +87,11 @@
     </div>
 
 === "記事"
+
+    2025-02-06
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AHC042 解説](https://www.terry-u16.net/entry/ahc042)
 
     2025-02-04
 
@@ -158,15 +152,6 @@
         - [tatyam](https://atcoder.jp/users/tatyam)さん - [はてなブログ](https://tatyam.hatenablog.com/)、[Qiita](https://qiita.com/tatyam)
     - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
         - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さん - [はてなブログ](https://halc-kyopro.hatenablog.com/)
-
-=== "色変記事"
-
-    色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
-
-    2025-01-22
-
-    - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
-        - [miiitomi](https://atcoder.jp/users/miiitomi)さん - [【色変記事】AtCoderアルゴレートで黄色になりました！](https://miiitomi.github.io/p/yellow/)
 
 === "アーカイブス"
 
