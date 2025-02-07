@@ -26,6 +26,10 @@ title: 各言語への移植
 
 - [arkark/ac-library-d](https://github.com/arkark/ac-library-d) ![GitHub stars](https://img.shields.io/github/stars/arkark/ac-library-d?style=plastic) - D版。
 
+## ACL Fortran
+
+- [ue1221/ac-library-fortran](https://github.com/ue1221/ac-library-fortran) ![GitHub stars](https://img.shields.io/github/stars/ue1221/ac-library-fortran?style=plastic) - Fortran版。
+
 ## ACL Go
 
 - [monkukui/ac-library-go](https://github.com/monkukui/ac-library-go) ![GitHub stars](https://img.shields.io/github/stars/monkukui/ac-library-go?style=plastic) - Go版。
@@ -39,6 +43,7 @@ title: 各言語への移植
 ## ACL Java
 
 - [NASU41/AtCoderLibraryForJava](https://github.com/NASU41/AtCoderLibraryForJava) ![GitHub stars](https://img.shields.io/github/stars/NASU41/AtCoderLibraryForJava?style=plastic) - Java版。また、このレポジトリから派生した[Kotlin版](https://github.com/Hiromi-Ayase/ac-library-kt)もある。
+- [ocha98/ac-library-java](https://github.com/ocha98/ac-library-java) ![GitHub stars](https://img.shields.io/github/stars/ocha98/ac-library-java?style=plastic) - Java版。ライブラリを一つのソースファイルにまとめるツールもある。
 
 ## ACL Julia
 
@@ -63,7 +68,6 @@ title: 各言語への移植
         - `segtree`、`lazysegtree`、`modint` は高速化が難しいため、実装されていない (2024年12月時点)。
         - 関数・クラスの入力値として与える整数の大きさ、および、オーバーフローに注意。
 
-
 ## ACL Ruby
 
 - [universato/ac-library-rb](https://github.com/universato/ac-library-rb) ![GitHub stars](https://img.shields.io/github/stars/universato/ac-library-rb?style=plastic) - Ruby版。[Slack](https://ruby-jp.github.io/)ワークスペースが用意されている。
@@ -74,3 +78,11 @@ title: 各言語への移植
 - [kenkoooo/cargo-concat](https://github.com/kenkoooo/cargo-concat) ![GitHub Repo stars](https://img.shields.io/github/stars/kenkoooo/cargo-concat?style=plastic) - コマンド一つで、Rustの依存モジュールを一つのファイルにまとめるツール。
 - [qryxip/cargo-equip](https://github.com/qryxip/cargo-equip) ![GitHub Repo stars](https://img.shields.io/github/stars/qryxip/cargo-equip?style=plastic) - Rustのファイルを一つのファイルにバンドルするCargoサブコマンド。
 - [shino16/cargo-auto-bundle](https://github.com/shino16/cargo-auto-bundle) ![GitHub stars](https://img.shields.io/github/stars/shino16/cargo-auto-bundle?style=plastic) - Rustのライブラリを一つのファイルにまとめて提出するときに、コピー&ペーストの作業を補助するツール。
+
+## ACL Scala
+
+- [harry0000/ac-library-scala](https://github.com/harry0000/ac-library-scala) ![GitHub stars](https://img.shields.io/github/stars/harry0000/ac-library-scala?style=plastic) - Scala版。
+
+## ACL Zig
+
+- [Ryoga-exe/ac-library-zig](https://github.com/Ryoga-exe/ac-library-zig) ![GitHub stars](https://img.shields.io/github/stars/Ryoga-exe/ac-library-zig?style=plastic) - Zig版。
