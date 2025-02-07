@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-02-07
+
+- [#9665](https://github.com/KATO-Hiro/AtCoderClans/pull/9665) - [puni073](https://github.com/puni073)さんのご紹介で、「[Libraries and Snippets](../../libraries)」の「[AtCoder Library (ACL)の各言語への移植](../../libraries/porting_of_acl)」ページに、以下のライブラリを追加。
+    - [ue1221/ac-library-fortran](https://github.com/ue1221/ac-library-fortran) ![GitHub stars](https://img.shields.io/github/stars/ue1221/ac-library-fortran?style=plastic)
+    - [ocha98/ac-library-java](https://github.com/ocha98/ac-library-java) ![GitHub stars](https://img.shields.io/github/stars/ocha98/ac-library-java?style=plastic)
+    - [harry0000/ac-library-scala](https://github.com/harry0000/ac-library-scala) ![GitHub stars](https://img.shields.io/github/stars/harry0000/ac-library-scala?style=plastic)
+    - [Ryoga-exe/ac-library-zig](https://github.com/Ryoga-exe/ac-library-zig) ![GitHub stars](https://img.shields.io/github/stars/Ryoga-exe/ac-library-zig?style=plastic)
+
 ### 2025-02-06
 
 - [#9663](https://github.com/KATO-Hiro/AtCoderClans/pull/9663) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
