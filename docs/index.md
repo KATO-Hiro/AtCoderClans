@@ -128,11 +128,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AHC041 解説](https://speakerdeck.com/terryu16/ahc041jie-shuo)
 
-    2025-01-23
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AHC初心者向け、ローカルテスタの使い方](https://qiita.com/thun-c/items/bb090c1d8d4c38d5e4d2)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -152,6 +147,16 @@
         - [tatyam](https://atcoder.jp/users/tatyam)さん - [はてなブログ](https://tatyam.hatenablog.com/)、[Qiita](https://qiita.com/tatyam)
     - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
         - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さん - [はてなブログ](https://halc-kyopro.hatenablog.com/)
+
+=== "ライブラリ・スニペット"
+
+    2025-02-07
+
+    - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
+        - [ue1221/ac-library-fortran](https://github.com/ue1221/ac-library-fortran) ![GitHub stars](https://img.shields.io/github/stars/ue1221/ac-library-fortran?style=plastic)
+        - [ocha98/ac-library-java](https://github.com/ocha98/ac-library-java) ![GitHub stars](https://img.shields.io/github/stars/ocha98/ac-library-java?style=plastic)
+        - [harry0000/ac-library-scala](https://github.com/harry0000/ac-library-scala) ![GitHub stars](https://img.shields.io/github/stars/harry0000/ac-library-scala?style=plastic)
+        - [Ryoga-exe/ac-library-zig](https://github.com/Ryoga-exe/ac-library-zig) ![GitHub stars](https://img.shields.io/github/stars/Ryoga-exe/ac-library-zig?style=plastic)
 
 === "アーカイブス"
 
