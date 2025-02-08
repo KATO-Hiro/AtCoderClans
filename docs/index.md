@@ -123,11 +123,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年1月27日時点)](https://x.com/atcoder/status/1883695093561061486)
 
-    2025-01-24
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AHC041 解説](https://speakerdeck.com/terryu16/ahc041jie-shuo)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -147,6 +142,13 @@
         - [tatyam](https://atcoder.jp/users/tatyam)さん - [はてなブログ](https://tatyam.hatenablog.com/)、[Qiita](https://qiita.com/tatyam)
     - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
         - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さん - [はてなブログ](https://halc-kyopro.hatenablog.com/)
+
+=== "動画"
+
+    2025-02-08
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [【競技プログラミング】貪欲法×乱択で戦う！AHC入門動画【ゆっくり解説】](https://www.youtube.com/watch?v=-ns6ZuVmrsQ)
 
 === "ライブラリ・スニペット"
 
