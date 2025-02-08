@@ -10,6 +10,7 @@ title: 個別の動画
 - [AtCoder 布教 PV](https://www.youtube.com/watch?v=-z3bTeA_SEY&feature=youtu.be) - 有志による[AtCoder](https://atcoder.jp/)のプロモーションビデオ。特に、競技プログラミングを始めようと思っている人や周囲に布教したい人におすすめ。
 - [アルゴリズムの素晴らしさが2分でわかる動画](https://twitter.com/e869120/status/1512391454936936448) - 迷路を題材に、アルゴリズム(計算手順)の素晴らしさや学ぶ意義を紹介した動画。
 - [2分で始める競技プログラミング【高井茅乃 #31】](https://www.youtube.com/watch?v=F4_1yWI5Z-Y&feature=youtu.be) - 競技プログラミングの概説、[AtCoder](https://atcoder.jp/)のアカウント登録、練習問題を解く方法が2分で紹介されている。
+- [【競技プログラミング】貪欲法×乱択で戦う！AHC入門動画【ゆっくり解説】](https://www.youtube.com/watch?v=-ns6ZuVmrsQ) - ヒューリスティック型コンテストの特徴・ビジュアライザの使い方・最もシンプルな正解コードの提出とスコアを改善するための方法などが紹介されている。
 - [『フカシギの数え方』 おねえさんといっしょ！ みんなで数えてみよう！](https://www.youtube.com/watch?v=Q4gTV4r0zRs) - 「組み合わせの数え方」に関する問題を通して、計算量を見積もることやアルゴリズムの大事さを教えてくれる動画。
     - [kazoeage-oneesan](https://github.com/primenumber/kazoeage-oneesan) - [primenumber](https://atcoder.jp/users/primenumber)さんによる愚直解の実装例(Rust)。
     - [kazoeage-oneesan-cuda](https://github.com/primenumber/kazoeage-oneesan-cuda) - GPGPUによって高速化が図られている例。[解説記事](https://primenumber.hatenadiary.jp/entry/2021/12/04/230653)もある。
