@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-02-08
+
+- [#9672](https://github.com/KATO-Hiro/AtCoderClans/pull/9672) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [【競技プログラミング】貪欲法×乱択で戦う！AHC入門動画【ゆっくり解説】](https://www.youtube.com/watch?v=-ns6ZuVmrsQ)
+
 ### 2025-02-07
 
 - [#9665](https://github.com/KATO-Hiro/AtCoderClans/pull/9665) - [puni073](https://github.com/puni073)さんのご紹介で、「[Libraries and Snippets](../../libraries)」の「[AtCoder Library (ACL)の各言語への移植](../../libraries/porting_of_acl)」ページに、以下のライブラリを追加。
