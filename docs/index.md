@@ -88,6 +88,11 @@
 
 === "記事"
 
+    2025-02-09
+
+    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
+        - [AtCoderで生成AIをフル活用！2025年の競技プログラミング術](https://qiita.com/toast-uz/items/98a4ff7fd63a061ef18d)
+
     2025-02-06
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -134,14 +139,6 @@
 
     - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
         - [bio4eta](https://atcoder.jp/users/bio4eta)さん - [はてなブログ](https://hudeha.hatenablog.com/)
-
-    2025-01-25
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [asi1024](https://atcoder.jp/users/asi1024)さん - [はてなブログ](https://asi1024.hatenablog.com/)
-        - [tatyam](https://atcoder.jp/users/tatyam)さん - [はてなブログ](https://tatyam.hatenablog.com/)、[Qiita](https://qiita.com/tatyam)
-    - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
-        - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さん - [はてなブログ](https://halc-kyopro.hatenablog.com/)
 
 === "動画"
 
