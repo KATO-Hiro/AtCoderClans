@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-02-09
+
+- [#9676](https://github.com/KATO-Hiro/AtCoderClans/pull/9676) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
+    - [AtCoderで生成AIをフル活用！2025年の競技プログラミング術](https://qiita.com/toast-uz/items/98a4ff7fd63a061ef18d)
+
 ### 2025-02-08
 
 - [#9672](https://github.com/KATO-Hiro/AtCoderClans/pull/9672) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
