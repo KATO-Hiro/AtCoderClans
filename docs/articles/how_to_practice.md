@@ -51,6 +51,7 @@ title: コンテストに向けた練習方法を知る
     - [生成AIの技術向上に伴うABCおよびARCにおけるルール変更について](https://atcoder.jp/posts/1347) - 上記のルール変更の背景、作成方針、概要、今後の変更の可能性について言及されている ([英語版](https://atcoder.jp/posts/1350))。
     - [ARCのDivision制に伴うルール変更について](https://atcoder.jp/posts/1368) - ARC の Division制の導入に伴うルールの変更点が紹介されている。
 - [ARCのDivision制についての告知](https://atcoder.jp/posts/1364) - ARC189以降、AtCoder Regular Contest (通称 ARC) は難易度の異なる2種類のコンテストに分けられることが告知されている。
+- [AtCoderで生成AIをフル活用！2025年の競技プログラミング術](https://qiita.com/toast-uz/items/98a4ff7fd63a061ef18d) - [AtCoder](https://atcoder.jp/)のルールを遵守しながら、生成AIを活用する方法（プログラミング言語の変換・難しい問題の解説・ライブラリ整備など）が紹介されている。
 - [競技プログラミングとChatGPTを含むAIについて](https://chokudai.hatenablog.com/entry/2022/12/07/161959) - [ChatGPT](https://openai.com/blog/chatgpt/)の公開に伴い、[AtCoder](https://atcoder.jp/)社長の[chokudai](https://twitter.com/chokudai)さんが個人的な見解を述べた記事。AIの実力、競技性や教育への影響、コンテストでの使用の是非などについて言及されている。
 - [大実験！ChatGPTは競プロの問題を解けるのか (2024年5月版)](https://e869120.hatenablog.com/entry/2024/05/15/100804) - 筆者がオリジナルの問題を作成し、GPT-4oの回答性能を実験・調査している。
 
