@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-02-10
+
+- [#9684](https://github.com/KATO-Hiro/AtCoderClans/pull/9684) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[juten](https://atcoder.jp/users/juten)さんの[記事](https://note.com/asian202388/n/nabc6648788af)を追加。
+- [#9683](https://github.com/KATO-Hiro/AtCoderClans/pull/9683) - (破壊的な変更) 非公開になったと思われる記事を「[Archives](../../archived)」ページに移動。
+
 ### 2025-02-09
 
 - [#9676](https://github.com/KATO-Hiro/AtCoderClans/pull/9676) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
