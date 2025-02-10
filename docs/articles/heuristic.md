@@ -63,7 +63,6 @@ title: ヒューリスティック問題を解く
 - [相対スコア AHC の立ち回り](https://kiri8128.hatenablog.com/entry/2024/05/06/032420) - ヒューリスティック型コンテストで相対スコアが採用されているときのメタ戦略について、パラメータ群の重要度の把握・テストケースごとの行動最適化・解法の優劣比較の観点から考察されている。
 - [短期AHCで勝つためのテクニック](https://speakerdeck.com/shun_pi/duan-qi-ahcdesheng-tutamenotekunituku) - 短期間コンテストにおける汎用的な戦略・テクニックが言語化されている。
 - [マラソンマッチで気をつけるべきこと](https://coonevo.hatenablog.com/entry/2021/03/15/091546) - 2週間程度のヒューリスティック型コンテストを対象として、筆者の戦略を紹介した記事。
-- [マラソンマッチで最初の12時間にすべきこと](https://hama-du.hatenablog.com/entry/2015/12/14/000000) - ヒューリスティック型コンテストにおいて、[hamadu](https://atcoder.jp/users/hamadu)さんが普段の取り組みで気をつけていることを紹介した記事。
 - [Psyhoさんによるヒューリスティック・ボットコンテストのための無料Tips](https://ozy4dm.hateblo.jp/entry/2022/12/22/162046) - [Psyho](https://twitter.com/FakePsyho)さんがTwitterに投稿したヒューリスティック/ボット プログラミングコンテストに関する知見を、日本語に翻訳してまとめている記事。
 - [Marathon Matchでいつもやってること](http://web.archive.org/web/20170809211026/http://topcoder.g.hatena.ne.jp/tomerun/20120502) - [tomerun](https://atcoder.jp/users/tomerun)さんが、ヒューリスティック型コンテストに関するノウハウをまとめた記事。
 - [rhooさんによるヒューリスティックコンテストの汎用テクニック集](https://github.com/rhoo19937/p/blob/main/tech/.md) - ヒューリスティックコンテストにおける汎用的なテクニック（焼きなまし法・ビームサーチ・評価関数・高速化など）が簡潔にまとめられている。
