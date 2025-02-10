@@ -2,6 +2,10 @@
 title: レーティング1200〜1599(水色)
 ---
 
+## 2025年
+
+- [半年ぶりの色変なので色変記事](https://note.com/asian202388/n/nabc6648788af) - [juten](https://atcoder.jp/users/juten)さんが、2025年2月8日に達成。
+
 ## 2024年
 
 - [子育てしながらAtCoder水色になりました。](https://note.com/kojyasu/n/nfcba254b9974) - [kojyasu](https://atcoder.jp/users/kojyasu)さんが、2024年12月30日に公開。
