@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-02-12
+
+- [#9691](https://github.com/KATO-Hiro/AtCoderClans/pull/9691) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下のスライドを追加。
+    - [ダブリングの定数倍を救いたい](https://docs.google.com/presentation/d/1u24-FEoKUS5yTVQ5FsjRMNsor_A3dDmUIA4H7TBcnJ4/)
+
 ### 2025-02-11
 
 - [#9688](https://github.com/KATO-Hiro/AtCoderClans/pull/9688) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
