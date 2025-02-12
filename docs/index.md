@@ -88,6 +88,11 @@
 
 === "記事"
 
+    2025-02-12
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [ダブリングの定数倍を救いたい](https://docs.google.com/presentation/d/1u24-FEoKUS5yTVQ5FsjRMNsor_A3dDmUIA4H7TBcnJ4/)
+
     2025-02-11
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -122,11 +127,6 @@
 
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
         - [AndroidスマホにAtCoder精進用CLI環境を構築してみた](https://qiita.com/VOT/items/c9ce841e9c30b6ba5b36)
-
-    2025-01-28
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AHC041 参加記・本番 1 位解法の説明](https://rsm9.hatenablog.com/entry/2025/01/22/213923)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
