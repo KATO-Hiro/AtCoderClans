@@ -86,6 +86,7 @@ title: アルゴリズムを学ぶ
 ### ダブリング
 
 - [[競プロ用]ダブリングまとめ](https://qiita.com/Kept1994/items/ea91c057b0e552323da3) - ダブリングの使い道・利点・実装方法、例題などをまとめた記事。
+- [ダブリングの定数倍を救いたい](https://docs.google.com/presentation/d/1u24-FEoKUS5yTVQ5FsjRMNsor_A3dDmUIA4H7TBcnJ4/edit) - ダブリングにおける高速化の方法（添え字の入れ替え・クエリのオフライン化）の紹介と実装例（C++、D、Python）が比較されている。
 
 ## DP (動的計画法)
 
