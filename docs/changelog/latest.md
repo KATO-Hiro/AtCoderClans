@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-02-13
+
+- [#9696](https://github.com/KATO-Hiro/AtCoderClans/pull/9696) - [Home](../..)ページに、本サービスのスポンサー(敬称略)を掲載。ご支援いただき、ありがとうございます。
+    - [ngtkana](https://github.com/ngtkana)
+
 ### 2025-02-12
 
 - [#9691](https://github.com/KATO-Hiro/AtCoderClans/pull/9691) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下のスライドを追加。

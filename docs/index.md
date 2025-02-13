@@ -75,17 +75,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "ユーザスクリプト"
-
-    2025-01-29
-
-    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
-        - [AtCoder Participants Display](https://greasyfork.org/ja/scripts/523852-atcoder-participants-display)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_participants_display.png" alt="atcoder participants display">
-    </div>
-
 === "記事"
 
     2025-02-12
