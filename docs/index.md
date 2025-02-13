@@ -210,6 +210,7 @@
 ### 🍨 Ice Cream Supporter
 
 - ia7ck
+- ngtkana
 - tomii9273
 - toshi201
 
