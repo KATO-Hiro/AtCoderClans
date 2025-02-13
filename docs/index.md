@@ -75,16 +75,13 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "ユーザスクリプト"
+=== "ホーム"
 
-    2025-01-29
+    本サービスのスポンサーを掲載(敬称略)。長年にわたりご支援いただき、ありがとうございます。
 
-    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
-        - [AtCoder Participants Display](https://greasyfork.org/ja/scripts/523852-atcoder-participants-display)
+    2025-02-13
 
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_participants_display.png" alt="atcoder participants display">
-    </div>
+    - [ngtkana](https://github.com/ngtkana)
 
 === "記事"
 
