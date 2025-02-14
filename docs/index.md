@@ -85,6 +85,11 @@
 
 === "記事"
 
+    2025-02-14
+
+    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
+        - [AtCoder環境を持ち運ぶ](https://trap.jp/post/2417/)
+
     2025-02-12
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ

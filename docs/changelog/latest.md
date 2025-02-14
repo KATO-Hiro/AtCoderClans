@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-02-14
+
+- [#9700](https://github.com/KATO-Hiro/AtCoderClans/pull/9700) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。
+    - [AtCoder環境を持ち運ぶ](https://trap.jp/post/2417/)
+
 ### 2025-02-13
 
 - [#9696](https://github.com/KATO-Hiro/AtCoderClans/pull/9696) - [Home](../..)ページに、本サービスのスポンサー(敬称略)を掲載。ご支援いただき、ありがとうございます。
