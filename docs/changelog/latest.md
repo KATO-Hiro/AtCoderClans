@@ -7,7 +7,7 @@ title: Change Log
 ### 2025-02-15
 
 - [#9703](https://github.com/KATO-Hiro/AtCoderClans/pull/9703) - 「[Command Line Tools](../../cli)」の「[ソースコードにバグがないか確認](../../cli/test_tools)」ページに、ヒューリスティック部門専用のテストツールを追加。
-    - [pahcer](https://github.com/terry-u16/pahcer)
+    - [pahcer](https://github.com/terry-u16/pahcer) ![GitHub Repo stars](https://img.shields.io/github/stars/terry-u16/pahcer?style=plastic)
 
 ### 2025-02-14
 
