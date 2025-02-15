@@ -159,7 +159,7 @@
     2025-02-15
 
     - 「[ソースコードにバグがないか確認](cli/test_tools)」ページ
-        - [pahcer](https://github.com/terry-u16/pahcer)
+        - [pahcer](https://github.com/terry-u16/pahcer) ![GitHub Repo stars](https://img.shields.io/github/stars/terry-u16/pahcer?style=plastic)
 
 === "色変記事"
 
