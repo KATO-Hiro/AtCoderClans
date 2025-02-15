@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-02-15
+
+- [#9703](https://github.com/KATO-Hiro/AtCoderClans/pull/9703) - 「[Command Line Tools](../../cli)」の「[ソースコードにバグがないか確認](../../cli/test_tools)」ページに、ヒューリスティック部門専用のテストツールを追加。
+    - [pahcer](https://github.com/terry-u16/pahcer)
+
 ### 2025-02-14
 
 - [#9700](https://github.com/KATO-Hiro/AtCoderClans/pull/9700) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。

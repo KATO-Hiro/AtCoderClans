@@ -125,11 +125,6 @@
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
         - [JavaでのAtCoder環境構築](https://qiita.com/HERUESTA/items/bed73a2906115c68ce11)
 
-    2025-01-31
-
-    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
-        - [AndroidスマホにAtCoder精進用CLI環境を構築してみた](https://qiita.com/VOT/items/c9ce841e9c30b6ba5b36)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -158,6 +153,13 @@
         - [ocha98/ac-library-java](https://github.com/ocha98/ac-library-java) ![GitHub stars](https://img.shields.io/github/stars/ocha98/ac-library-java?style=plastic)
         - [harry0000/ac-library-scala](https://github.com/harry0000/ac-library-scala) ![GitHub stars](https://img.shields.io/github/stars/harry0000/ac-library-scala?style=plastic)
         - [Ryoga-exe/ac-library-zig](https://github.com/Ryoga-exe/ac-library-zig) ![GitHub stars](https://img.shields.io/github/stars/Ryoga-exe/ac-library-zig?style=plastic)
+
+=== "コマンドラインツール"
+
+    2025-02-15
+
+    - 「[ソースコードにバグがないか確認](cli/test_tools)」ページ
+        - [pahcer](https://github.com/terry-u16/pahcer)
 
 === "色変記事"
 
