@@ -85,6 +85,11 @@
 
 === "記事"
 
+    2025-02-16
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AtCoder は Kaggle の役に立つ](https://speakerdeck.com/chettub/di-3hui-guan-dong-kagglerhui-atcoderhakagglenoyi-nili-tu)
+
     2025-02-14
 
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
@@ -119,11 +124,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AtCoder Heuristic Contest 042参加メモ](https://kaede2020.hatenablog.com/entry/2025/02/03/091637)
-
-    2025-02-01
-
-    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
-        - [JavaでのAtCoder環境構築](https://qiita.com/HERUESTA/items/bed73a2906115c68ce11)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
