@@ -20,6 +20,7 @@ title: ヒューリスティック問題を解く
 - [数理最適化ことはじめ](https://speakerdeck.com/e869120/introduction-to-mathematical-optimization-5cdef842-50f6-4e46-ab2d-549cf85c1b81) - 数理最適化を概観し、基本的な問題とその解き方を分かりやすく解説したスライド。豊富な図解や社会での活用例が掲載されているのが特徴。
 - [AHC001の知識とpythonの力で、奇想の浮世絵師「歌川国芳」の絵を再現する](https://qiita.com/hari64/items/b651e9e83ff86992e590) - 浮世絵師・歌川国芳風の寄せ絵の制作過程、使用技術の概略、寄せ絵・だまし絵を得意とする画家を紹介した記事。猫の絵を敷き詰める際に、[AtCoder Heuristic Contest 001](https://atcoder.jp/contests/ahc001)の知識が活用されている。
 - [メタヒューリスティクスで広がる「解けた！」の世界](https://speakerdeck.com/terryu16/metahiyurisuteikusudeguang-garu-jie-keta-noshi-jie) - メタヒューリスティクスの概説、解けるようになる問題例と代表的な手法、実社会への応用例などが紹介されている。
+    - [AtCoder は Kaggle の役に立つ](https://speakerdeck.com/chettub/di-3hui-guan-dong-kagglerhui-atcoderhakagglenoyi-nili-tu) - AtCoder Heuristic Contest と Kaggle の共通点・相違点が紹介されている。
 - [アルゴリズムで実社会を捉える～評価関数の作り方～](https://qiita.com/tsukammo/items/de70b49dcd8912e78505) - 競技プログラミングにおけるゲームAI系のコンテストを題材に、筆者が評価関数を作成するときに意識していることを紹介した記事。評価関数の説明から、実社会の問題をアルゴリズムで解くときに人間の感覚を評価関数に反映させるための考え方やその意義について解説されている。
 
 ### コンテストの面白さ・楽しみ方
