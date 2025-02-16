@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-02-16
+
+- [#9708](https://github.com/KATO-Hiro/AtCoderClans/pull/9708) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下のスライドを追加。
+    - [AtCoder は Kaggle の役に立つ](https://speakerdeck.com/chettub/di-3hui-guan-dong-kagglerhui-atcoderhakagglenoyi-nili-tu)
+
 ### 2025-02-15
 
 - [#9703](https://github.com/KATO-Hiro/AtCoderClans/pull/9703) - 「[Command Line Tools](../../cli)」の「[ソースコードにバグがないか確認](../../cli/test_tools)」ページに、ヒューリスティック部門専用のテストツールを追加。
