@@ -85,6 +85,11 @@
 
 === "記事"
 
+    2025-02-17
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年2月17日時点)](https://x.com/atcoder/status/1891340977459134690)
+
     2025-02-16
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -169,14 +174,6 @@
 
      - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [juten](https://atcoder.jp/users/juten)さん - [半年ぶりの色変なので色変記事](https://note.com/asian202388/n/nabc6648788af)
-
-=== "アーカイブス"
-
-    諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
-
-    2025-02-02
-
-    - AtCoder-Ebbing
 
 ## AtCoder公式グッズを購入する
 
