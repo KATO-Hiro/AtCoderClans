@@ -203,9 +203,10 @@ title: アルゴリズムを学ぶ
 
 - [絶対に初心者でもわかるHL分解/Heavy-Light-Decomposition](https://qiita.com/ageprocpp/items/8dfe768218da83314989) - 木に対するクエリ処理を効率的に行うためのデータ構造Heavy-Light Decompositionを解説した記事。
 
-### 高速ゼータ変換
+### ゼータ変換・素数ゼータ変換・高速ゼータ変換
 
 - [ゼータ変換・メビウス変換を理解する](https://qiita.com/convexineq/items/afc84dfb9ee4ec4a67d5) - 累積和の多次元への一般化を表すゼータ変換と、その逆変換であるメビウス変換を解説している記事。
+- [ゼータ変換・素数ゼータ変換について](https://hackmd.io/@tatyam-prime/H1EhuQAt1x) - ゼータ変換と、素数ゼータ変換（素数の次元のみのゼータ変換）について解説されている。
 - [高速ゼータ変換について](https://qiita.com/Euglenese/items/260f9ddf513f772d7e42) - 高速ゼータ変換について解説した記事。
 
 ### Mo's algorithm
