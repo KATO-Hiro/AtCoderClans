@@ -85,6 +85,11 @@
 
 === "記事"
 
+    2025-02-18
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [ゼータ変換・素数ゼータ変換について](https://hackmd.io/@tatyam-prime/H1EhuQAt1x)
+
     2025-02-17
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -124,11 +129,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年2月3日時点)](https://x.com/atcoder/status/1886251197230936368)
-
-    2025-02-03
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AtCoder Heuristic Contest 042参加メモ](https://kaede2020.hatenablog.com/entry/2025/02/03/091637)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
