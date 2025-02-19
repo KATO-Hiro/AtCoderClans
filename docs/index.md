@@ -85,6 +85,11 @@
 
 === "記事"
 
+    2025-02-19
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [TOYOTA AHC 至高のアルゴリズム解説会#2 AHC026 解説](https://www.docswell.com/s/hitonanode/K22QM4-2024-11-29)
+
     2025-02-18
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
@@ -124,11 +129,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AHC042 解説](https://www.terry-u16.net/entry/ahc042)
-
-    2025-02-04
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年2月3日時点)](https://x.com/atcoder/status/1886251197230936368)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
