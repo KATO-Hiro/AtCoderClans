@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-02-19
+
+- [#9721](https://github.com/KATO-Hiro/AtCoderClans/pull/9721) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下のスライドを追加。
+    - [TOYOTA AHC 至高のアルゴリズム解説会#2 AHC026 解説](https://www.docswell.com/s/hitonanode/K22QM4-2024-11-29)
+
 ### 2025-02-18
 
 - [#9718](https://github.com/KATO-Hiro/AtCoderClans/pull/9718) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
