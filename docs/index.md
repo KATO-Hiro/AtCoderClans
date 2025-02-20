@@ -130,18 +130,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AHC042 解説](https://www.terry-u16.net/entry/ahc042)
 
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2025-02-05
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [Hec](https://atcoder.jp/users/Hec)さん - [はてなブログ](https://osrehun.hatenadiary.jp/)
-        - [riano_](https://atcoder.jp/users/riano_)さん - [はてなブログ](https://seashellpink-frostywhite.hatenablog.com/)
-
-    - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
-        - [bio4eta](https://atcoder.jp/users/bio4eta)さん - [はてなブログ](https://hudeha.hatenablog.com/)
-
 === "動画"
 
     2025-02-08
@@ -169,6 +157,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-02-20
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [nanndato01](https://atcoder.jp/users/nanndato01)さん - [AtCoderで緑色になったよ](https://note.com/nanndato01/n/n2fa9746e798c)
 
     2025-02-10
 

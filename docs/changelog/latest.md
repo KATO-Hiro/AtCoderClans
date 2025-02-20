@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-02-20
+
+- [#9726](https://github.com/KATO-Hiro/AtCoderClans/pull/9726) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[nanndato01](https://atcoder.jp/users/nanndato01)さんの[記事](https://note.com/nanndato01/n/n2fa9746e798c)を追加。
+
 ### 2025-02-19
 
 - [#9721](https://github.com/KATO-Hiro/AtCoderClans/pull/9721) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下のスライドを追加。
