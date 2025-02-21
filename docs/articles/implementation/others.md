@@ -72,6 +72,12 @@ title: Others
 
 - [【Atcoder】JavaScriptでもC++のSTLが使いたい！](https://qiita.com/sdk40010/items/a93eebcb5e55c154e577) - JavaScript(TypeScript)環境で、C++の標準ライブラリStandard Template Library (STL)を利用する方法について紹介した記事。
 
+## PHP
+
+### 文法・言語仕様
+
+- [【PHP】標準入力・標準出力チートシート【AtCoder】](https://qiita.com/noko206/items/421ae69d91f3c442d9cf) - 標準入力・標準出力を楽に実行できる自作関数の使い方と、それらの具体例がまとめられている。
+
 ## R
 
 ### 文法・言語仕様
