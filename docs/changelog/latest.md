@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-02-21
+
+- [#9730](https://github.com/KATO-Hiro/AtCoderClans/pull/9730) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Others](../../articles/implementation/others)」ページに、以下の記事を追加。
+    - [【PHP】標準入力・標準出力チートシート【AtCoder】](https://qiita.com/noko206/items/421ae69d91f3c442d9cf)
+
 ### 2025-02-20
 
 - [#9726](https://github.com/KATO-Hiro/AtCoderClans/pull/9726) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
