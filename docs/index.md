@@ -85,6 +85,11 @@
 
 === "記事"
 
+    2025-02-21
+
+    - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
+        - [【PHP】標準入力・標準出力チートシート【AtCoder】](https://qiita.com/noko206/items/421ae69d91f3c442d9cf)
+
     2025-02-19
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -124,11 +129,6 @@
 
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
         - [AtCoderで生成AIをフル活用！2025年の競技プログラミング術](https://qiita.com/toast-uz/items/98a4ff7fd63a061ef18d)
-
-    2025-02-06
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AHC042 解説](https://www.terry-u16.net/entry/ahc042)
 
 === "動画"
 
