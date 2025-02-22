@@ -85,6 +85,11 @@
 
 === "記事"
 
+    2025-02-22
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [1000人を熱狂させる問題はこうして作る – AHC Writer の奮闘記](https://note.com/algoartis/n/na09ebec91106)
+
     2025-02-21
 
     - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
@@ -136,16 +141,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [【競技プログラミング】貪欲法×乱択で戦う！AHC入門動画【ゆっくり解説】](https://www.youtube.com/watch?v=-ns6ZuVmrsQ)
-
-=== "ライブラリ・スニペット"
-
-    2025-02-07
-
-    - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
-        - [ue1221/ac-library-fortran](https://github.com/ue1221/ac-library-fortran) ![GitHub stars](https://img.shields.io/github/stars/ue1221/ac-library-fortran?style=plastic)
-        - [ocha98/ac-library-java](https://github.com/ocha98/ac-library-java) ![GitHub stars](https://img.shields.io/github/stars/ocha98/ac-library-java?style=plastic)
-        - [harry0000/ac-library-scala](https://github.com/harry0000/ac-library-scala) ![GitHub stars](https://img.shields.io/github/stars/harry0000/ac-library-scala?style=plastic)
-        - [Ryoga-exe/ac-library-zig](https://github.com/Ryoga-exe/ac-library-zig) ![GitHub stars](https://img.shields.io/github/stars/Ryoga-exe/ac-library-zig?style=plastic)
 
 === "コマンドラインツール"
 

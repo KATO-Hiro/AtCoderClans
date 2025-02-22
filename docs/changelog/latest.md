@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-02-22
+
+- [#9735](https://github.com/KATO-Hiro/AtCoderClans/pull/9735) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [1000人を熱狂させる問題はこうして作る – AHC Writer の奮闘記](https://note.com/algoartis/n/na09ebec91106)
+
 ### 2025-02-21
 
 - [#9730](https://github.com/KATO-Hiro/AtCoderClans/pull/9730) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Others](../../articles/implementation/others)」ページに、以下の記事を追加。
