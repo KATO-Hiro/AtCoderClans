@@ -160,6 +160,7 @@ title: ヒューリスティック問題を解く
 <!-- markdown-link-check-enable -->
 
 - [ALGO ARTISプログラミングコンテスト writerインタビュー  アルゴリズムエンジニア松尾が語るコンテストの舞台裏](https://media.algo-artis.com/posts/8A4hMugo) - [ALGO ARTIS プログラミングコンテスト2023（AtCoder Heuristic Contest 020）](https://atcoder.jp/contests/ahc020)のwriterである[terry_u16](https://atcoder.jp/users/terry_u16)さんへのインタビュー記事。コンテスト開催までの経緯、問題の作成・調整の過程とコンテスト当日の状況などがまとめられている。
+    - [1000人を熱狂させる問題はこうして作る – AHC Writer の奮闘記](https://note.com/algoartis/n/na09ebec91106) - [ALGO ARTIS プログラミングコンテスト2025 冬（AtCoder Heuristic Contest 041）](https://atcoder.jp/contests/ahc041)における問題の準備からコンテスト当日までの流れが時系列順に紹介されている。
 
 ### 問題や参加者に関する調査・分析
 
