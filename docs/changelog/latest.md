@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-02-23
+
+- [#9739](https://github.com/KATO-Hiro/AtCoderClans/pull/9739) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
+    - [floor sum アルゴリズムとその一般化](https://qiita.com/sounansya/items/51b39e0d7bf5cc194081)
+
 ### 2025-02-22
 
 - [#9735](https://github.com/KATO-Hiro/AtCoderClans/pull/9735) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
