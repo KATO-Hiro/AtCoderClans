@@ -85,6 +85,11 @@
 
 === "記事"
 
+    2025-02-23
+
+    - 「[数学を学ぶ](articles/math)」ページ
+        - [floor sum アルゴリズムとその一般化](https://qiita.com/sounansya/items/51b39e0d7bf5cc194081)
+
     2025-02-22
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -134,13 +139,6 @@
 
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
         - [AtCoderで生成AIをフル活用！2025年の競技プログラミング術](https://qiita.com/toast-uz/items/98a4ff7fd63a061ef18d)
-
-=== "動画"
-
-    2025-02-08
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [【競技プログラミング】貪欲法×乱択で戦う！AHC入門動画【ゆっくり解説】](https://www.youtube.com/watch?v=-ns6ZuVmrsQ)
 
 === "コマンドラインツール"
 
