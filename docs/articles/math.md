@@ -49,6 +49,7 @@ title: 数学を学ぶ
 - [切り上げ処理 〜 (a + b - 1) / b とは何か 〜](https://drken1215.hatenablog.com/entry/2024/08/12/201231) - 切り上げ処理を1行で書くための方法と、その妥当性が解説されている。
     - [a / b の切り上げ処理が (a + b - 1) / b でうまくいく絵本](https://x.com/burioden/status/1823675946974716166) - 上記の内容をより身近な題材を通して図解している。
 - [床関数・天井関数（floor function / ceiling function）の典型まとめ](https://ricky-pon.hatenablog.com/entry/2023/01/04/195253) - 床関数・天井関数の定義、不等式評価、切り捨て除算による実装例、オーバーフローを回避した大小比較などがまとめられている記事。
+- [floor sum アルゴリズムとその一般化](https://qiita.com/sounansya/items/51b39e0d7bf5cc194081) - 同アルゴリズムと、その一般形の導出方法が紹介されている。
 
 ### 素数・素因数分解
 
