@@ -85,6 +85,11 @@
 
 === "記事"
 
+    2025-02-24
+
+    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
+        - [PuLP入門](https://speakerdeck.com/mosson/pulpru-men)
+
     2025-02-23
 
     - 「[数学を学ぶ](articles/math)」ページ
@@ -134,11 +139,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年2月10日時点)](https://x.com/atcoder/status/1888772408687149422)
-
-    2025-02-09
-
-    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
-        - [AtCoderで生成AIをフル活用！2025年の競技プログラミング術](https://qiita.com/toast-uz/items/98a4ff7fd63a061ef18d)
 
 === "コマンドラインツール"
 

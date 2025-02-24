@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-02-24
+
+- [#9743](https://github.com/KATO-Hiro/AtCoderClans/pull/9743) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Python](../../articles/implementation/python)」ページに、以下のスライドを追加。
+    - [PuLP入門](https://speakerdeck.com/mosson/pulpru-men)
+
 ### 2025-02-23
 
 - [#9739](https://github.com/KATO-Hiro/AtCoderClans/pull/9739) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
