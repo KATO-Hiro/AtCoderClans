@@ -85,6 +85,11 @@
 
 === "記事"
 
+    2025-02-25
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [RECRUIT 日本橋ハーフマラソン 2025冬（AtCoder Heuristic Contest 043）参加記](https://kaede2020.hatenablog.com/entry/2025/02/24/190210)
+
     2025-02-24
 
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
@@ -155,11 +160,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [nanndato01](https://atcoder.jp/users/nanndato01)さん - [AtCoderで緑色になったよ](https://note.com/nanndato01/n/n2fa9746e798c)
-
-    2025-02-10
-
-     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [juten](https://atcoder.jp/users/juten)さん - [半年ぶりの色変なので色変記事](https://note.com/asian202388/n/nabc6648788af)
 
 ## AtCoder公式グッズを購入する
 
