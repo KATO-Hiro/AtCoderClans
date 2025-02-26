@@ -85,6 +85,11 @@
 
 === "記事"
 
+    2025-02-26
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年2月25日時点)](https://x.com/atcoder/status/1894213612027207815)
+
     2025-02-25
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -139,11 +144,6 @@
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [ダブリングの定数倍を救いたい](https://docs.google.com/presentation/d/1u24-FEoKUS5yTVQ5FsjRMNsor_A3dDmUIA4H7TBcnJ4/)
-
-    2025-02-11
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年2月10日時点)](https://x.com/atcoder/status/1888772408687149422)
 
 === "コマンドラインツール"
 
