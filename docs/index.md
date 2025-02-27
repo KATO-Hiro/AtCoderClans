@@ -140,11 +140,6 @@
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
         - [AtCoder環境を持ち運ぶ](https://trap.jp/post/2417/)
 
-    2025-02-12
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [ダブリングの定数倍を救いたい](https://docs.google.com/presentation/d/1u24-FEoKUS5yTVQ5FsjRMNsor_A3dDmUIA4H7TBcnJ4/)
-
 === "コマンドラインツール"
 
     2025-02-15
