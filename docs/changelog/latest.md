@@ -6,7 +6,7 @@ title: Change Log
 
 ### 2025-02-27
 
-- [#9628](https://github.com/KATO-Hiro/AtCoderClans/pull/9628) - (破壊的な変更) 「[Change Log](../latest)」ページの2025年1月分を月別のアーカイブに移動。
+- [#9755](https://github.com/KATO-Hiro/AtCoderClans/pull/9755) - (破壊的な変更) 「[Change Log](../latest)」ページの2025年1月分を月別のアーカイブに移動。
     - [January, 2025](../2025_01)
 
 ### 2025-02-26
