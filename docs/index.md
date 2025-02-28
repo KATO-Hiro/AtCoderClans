@@ -75,14 +75,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "ホーム"
-
-    本サービスのスポンサーを掲載(敬称略)。長年にわたりご支援いただき、ありがとうございます。
-
-    2025-02-13
-
-    - [ngtkana](https://github.com/ngtkana)
-
 === "記事"
 
     2025-02-26
@@ -139,6 +131,21 @@
 
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
         - [AtCoder環境を持ち運ぶ](https://trap.jp/post/2417/)
+
+=== "ブログ"
+    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+<!-- markdown-link-check-disable -->
+
+    2025-02-28
+
+    - 「[ヒューリスティック部門 - Nim](blogs/heuristic/nim)」ページ
+        - [Ang107](https://atcoder.jp/users/Ang107)さん - [はてなブログ](https://ang107.hatenablog.jp/)
+
+    - 「[ヒューリスティック部門 - D](blogs/heuristic/d)」ページ
+        - [allegrogiken](https://atcoder.jp/users/allegrogiken)さん - [はてなブログ](https://vvani07.hatenadiary.org/)
+
+<!-- markdown-link-check-enable -->
 
 === "コマンドラインツール"
 
