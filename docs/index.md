@@ -135,7 +135,7 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
-<!-- markdown-link-check-disable -->
+    <!-- markdown-link-check-disable -->
 
     2025-02-28
 
@@ -145,7 +145,7 @@
     - 「[ヒューリスティック部門 - D](blogs/heuristic/d)」ページ
         - [allegrogiken](https://atcoder.jp/users/allegrogiken)さん - [はてなブログ](https://vvani07.hatenadiary.org/)
 
-<!-- markdown-link-check-enable -->
+    <!-- markdown-link-check-enable -->
 
 === "コマンドラインツール"
 
