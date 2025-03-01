@@ -83,6 +83,17 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "入門者・初心者向けの内容"
+
+    2025-03-01
+
+    - 「[Q3: コンテストは、いつ開催されていますか?](for_beginners/question3)」ページ
+        - [公式コンテストカレンダー運用のお知らせ](https://atcoder.jp/posts/1422)
+            - [ABCカレンダー](https://calendar.google.com/calendar/u/0?cid=Y180MzA3MDIxZTE0ZDhhMzNlYzgzNjI5YmM1MWQ2OTEzMWMwNjMxOGJiNGQ1ZmRjOTYwODNlZDE2ODFmMGEwZWQ2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+            - [ARCカレンダー](https://calendar.google.com/calendar/u/0?cid=Y185NGJiMDZmYmI0MDA2NjEzM2VmOTlkNTQ2NDhiZjIzYjI4MTEwNzdjZjU0MWE0ZGMyZDJlYjFiODI1MmU2NmZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+            - [AGCカレンダー](https://calendar.google.com/calendar/u/0?cid=Y18wMTk0MDA5MTllZmYyNTI2MzNjNGIxNWE3MTA5YjUyNjhjNTkyNmFhMTFlMDQ2NWE5OWVmNTE5NDdhOTI4YmQ0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+            - [AHCカレンダー](https://calendar.google.com/calendar/u/0?cid=Y18yYTZiOWYxNTc3Nzg0N2E5YmNlNDhlMDI2OTkyYmY2ZGZjOWE2ZTlhMjk3Mjk4YTFjNjQ5NWMwYjE3NjQ5NjU0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+
 === "記事"
 
     2025-02-26
@@ -134,11 +145,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AtCoder は Kaggle の役に立つ](https://speakerdeck.com/chettub/di-3hui-guan-dong-kagglerhui-atcoderhakagglenoyi-nili-tu)
-
-    2025-02-14
-
-    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
-        - [AtCoder環境を持ち運ぶ](https://trap.jp/post/2417/)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
