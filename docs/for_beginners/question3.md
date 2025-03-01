@@ -2,7 +2,7 @@
 title: "Q3: コンテストは、いつ開催されていますか?"
 ---
 
-A3: 基本的には、土曜日もしくは日曜日の21時から1時間40分〜2時間程度です。また、コンテスト終了後には、解説資料の公開とYouTubeを利用した[解説放送](https://www.youtube.com/channel/UCtG3StnbhxHxXfE6Q4cPZwQ)が行われます。
+A3: 基本的には、土曜日もしくは日曜日の21時から1時間40分〜2時間程度です。[公式コンテストカレンダー](https://atcoder.jp/posts/1422)から確認できます。また、コンテスト終了後には、解説資料の公開とYouTubeを利用した[解説放送](https://www.youtube.com/channel/UCtG3StnbhxHxXfE6Q4cPZwQ)が行われます。
 
 !!! warning "注意"
 
@@ -31,7 +31,11 @@ A3: 基本的には、土曜日もしくは日曜日の21時から1時間40分�
 
 ## コンテストの開催日時を確認
 
-- Twitterで[公式アカウント](https://twitter.com/atcoder)や[AtCoder](https://atcoder.jp/)社長の[chokudai](https://twitter.com/chokudai)さんをフォローすると、最新の情報が得られます。
+- X (旧 Twitter) で[公式アカウント](https://x.com/atcoder)や[AtCoder](https://atcoder.jp/)社長の[chokudai](https://x.com/chokudai)さんをフォローすると、最新の情報が得られます。
+
+- [公式コンテストカレンダー運用のお知らせ](https://atcoder.jp/posts/1422) - Google カレンダーに追加すると、公式コンテストの開催日時を簡単に確認できます。
+    - [ABCカレンダー](https://calendar.google.com/calendar/u/0?cid=Y180MzA3MDIxZTE0ZDhhMzNlYzgzNjI5YmM1MWQ2OTEzMWMwNjMxOGJiNGQ1ZmRjOTYwODNlZDE2ODFmMGEwZWQ2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+    - [AHCカレンダー](https://calendar.google.com/calendar/u/0?cid=Y18yYTZiOWYxNTc3Nzg0N2E5YmNlNDhlMDI2OTkyYmY2ZGZjOWE2ZTlhMjk3Mjk4YTFjNjQ5NWMwYjE3NjQ5NjU0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
 - [CLIST](https://clist.by/) - コンテストの開始・終了時刻、制限時間と閲覧時点での残り時間が一覧で表示されるWebアプリです。検索で「AtCoder」のコンテストを抽出するとより見やすくなります。
 
