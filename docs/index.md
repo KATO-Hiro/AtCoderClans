@@ -175,6 +175,14 @@
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [nanndato01](https://atcoder.jp/users/nanndato01)さん - [AtCoderで緑色になったよ](https://note.com/nanndato01/n/n2fa9746e798c)
 
+=== "アーカイブス"
+
+    諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2025-03-02
+
+    - TOPSIC SQL Contest
+
 ## AtCoder公式グッズを購入する
 
 - [SUZURI](https://suzuri.jp/AtCoder) - [AtCoder](https://atcoder.jp/)のロゴ入りグッズが購入できる。
