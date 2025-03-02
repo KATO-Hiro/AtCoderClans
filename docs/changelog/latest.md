@@ -6,6 +6,8 @@ title: Change Log
 
 ### 2025-03-02
 
+- [#9773](https://github.com/KATO-Hiro/AtCoderClans/pull/9773) - (破壊的な変更) リンク切れと思われるコンテストサイトを「[Archives](../../archived)」ページに移動。
+    - TOPSIC SQL Contest
 - [#9769](https://github.com/KATO-Hiro/AtCoderClans/pull/9769) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Python](../../articles/implementation/python)」ページに、以下の記事を追加。
     - [Python における int(a / b) と a // b について](https://rsk0315.hatenablog.com/entry/2025/02/27/230634)
 
