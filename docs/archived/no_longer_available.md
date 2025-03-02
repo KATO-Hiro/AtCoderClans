@@ -568,4 +568,13 @@ title: 開発・提供終了
     - 確認した日: 2024/07/30
     - 理由: 記載なし。
 
+### データベース系コンテスト
+
+- [TOPSIC SQL Contest](https://topsic-contest.jp/home) - SQLを利用して問題を解くことができるコンテストが開催されている。
+    - 確認した日: 2025/03/02
+    - 理由: 記載なし。
+
+    !!! warning "注意"
+        使用できるのはSQLiteのみ。
+
 <!-- markdown-link-check-enable -->
