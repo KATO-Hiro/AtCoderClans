@@ -96,6 +96,11 @@
 
 === "記事"
 
+    2025-03-02
+
+    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
+        - [Python における int(a / b) と a // b について](https://rsk0315.hatenablog.com/entry/2025/02/27/230634)
+
     2025-02-26
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -160,13 +165,6 @@
         - [allegrogiken](https://atcoder.jp/users/allegrogiken)さん - [はてなブログ](https://vvani07.hatenadiary.org/)
 
     <!-- markdown-link-check-enable -->
-
-=== "コマンドラインツール"
-
-    2025-02-15
-
-    - 「[ソースコードにバグがないか確認](cli/test_tools)」ページ
-        - [pahcer](https://github.com/terry-u16/pahcer) ![GitHub Repo stars](https://img.shields.io/github/stars/terry-u16/pahcer?style=plastic)
 
 === "色変記事"
 
