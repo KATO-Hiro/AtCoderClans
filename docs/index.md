@@ -96,6 +96,11 @@
 
 === "記事"
 
+    2025-03-03
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年3月3日時点)](https://x.com/atcoder/status/1896378668232139251)
+
     2025-03-02
 
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
@@ -145,11 +150,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年2月17日時点)](https://x.com/atcoder/status/1891340977459134690)
-
-    2025-02-16
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AtCoder は Kaggle の役に立つ](https://speakerdeck.com/chettub/di-3hui-guan-dong-kagglerhui-atcoderhakagglenoyi-nili-tu)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
