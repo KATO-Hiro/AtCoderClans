@@ -146,11 +146,6 @@
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [ゼータ変換・素数ゼータ変換について](https://hackmd.io/@tatyam-prime/H1EhuQAt1x)
 
-    2025-02-17
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年2月17日時点)](https://x.com/atcoder/status/1891340977459134690)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -169,6 +164,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-03-04
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [oceajigger](https://atcoder.jp/users/oceajigger)さん - [AtCoder で水色になった](https://publish.obsidian.md/naoya/articles/AtCoder+%E3%81%A7%E6%B0%B4%E8%89%B2%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F)
 
     2025-02-20
 
