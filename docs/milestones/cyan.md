@@ -4,6 +4,7 @@ title: レーティング1200〜1599(水色)
 
 ## 2025年
 
+- [AtCoder で水色になった](https://publish.obsidian.md/naoya/articles/AtCoder+%E3%81%A7%E6%B0%B4%E8%89%B2%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F) - [oceajigger](https://atcoder.jp/users/oceajigger)さんが、2025年3月4日に公開。
 - [半年ぶりの色変なので色変記事](https://note.com/asian202388/n/nabc6648788af) - [juten](https://atcoder.jp/users/juten)さんが、2025年2月8日に達成。
 
 ## 2024年
