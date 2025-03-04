@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-03-04
+
+- [#9788](https://github.com/KATO-Hiro/AtCoderClans/pull/9788) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[oceajigger](https://atcoder.jp/users/oceajigger)さんの[記事](https://publish.obsidian.md/naoya/articles/AtCoder+%E3%81%A7%E6%B0%B4%E8%89%B2%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F)を追加。
+
 ### 2025-03-03
 
 - [#9783](https://github.com/KATO-Hiro/AtCoderClans/pull/9783) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
