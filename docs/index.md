@@ -94,7 +94,23 @@
             - [AGCカレンダー](https://calendar.google.com/calendar/u/0?cid=Y18wMTk0MDA5MTllZmYyNTI2MzNjNGIxNWE3MTA5YjUyNjhjNTkyNmFhMTFlMDQ2NWE5OWVmNTE5NDdhOTI4YmQ0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
             - [AHCカレンダー](https://calendar.google.com/calendar/u/0?cid=Y18yYTZiOWYxNTc3Nzg0N2E5YmNlNDhlMDI2OTkyYmY2ZGZjOWE2ZTlhMjk3Mjk4YTFjNjQ5NWMwYjE3NjQ5NjU0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
+=== "Webアプリ・Webサイト"
+
+    2025-03-05
+
+    - 「[コンテストの成績を見る](web_app/view_and_compare_scores)」ページ
+        - [point 精進グラフ](https://atcoder-db.sirogami.com/public/question/69720724-2aa4-4594-984b-37bd39fa1b9b?user_id=sirogamichandayo)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/point_shojin_graph.png" alt="point shojin graph">
+    </div>
+
 === "記事"
+
+    2025-03-05
+
+    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
+        - [生成AIはAtCoderBeginnerContestを実際に破壊しているのか](https://qiita.com/sirsoldano/items/cccb48c7201ed1de099f)
 
     2025-03-03
 
@@ -140,11 +156,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [TOYOTA AHC 至高のアルゴリズム解説会#2 AHC026 解説](https://www.docswell.com/s/hitonanode/K22QM4-2024-11-29)
-
-    2025-02-18
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [ゼータ変換・素数ゼータ変換について](https://hackmd.io/@tatyam-prime/H1EhuQAt1x)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
