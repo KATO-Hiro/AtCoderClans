@@ -39,6 +39,16 @@ title: コンテストの成績を見る
       <img loading = "lazy" src="../../images/web_app/performance_rating.png" alt="performance rating">
     </div>
 
+## レーティングと解いた問題の合計ポイントを見る
+
+### 1人
+
+- [point 精進グラフ](https://atcoder-db.sirogami.com/public/question/69720724-2aa4-4594-984b-37bd39fa1b9b?user_id=sirogamichandayo) - 任意のユーザのレーティングと解いた問題の合計ポイントの推移を表示する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/point_shojin_graph.png" alt="point shojin graph">
+    </div>
+
 ## レーティングを見る・比較する
 
 ### 1人
