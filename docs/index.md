@@ -107,6 +107,11 @@
 
 === "記事"
 
+    2025-03-06
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AHC典型解法シリーズ第4弾「ビームサーチ」](https://qiita.com/thun-c/items/98f22c8fcdb1fd827b00)
+
     2025-03-05
 
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
@@ -151,11 +156,6 @@
 
     - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
         - [【PHP】標準入力・標準出力チートシート【AtCoder】](https://qiita.com/noko206/items/421ae69d91f3c442d9cf)
-
-    2025-02-19
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [TOYOTA AHC 至高のアルゴリズム解説会#2 AHC026 解説](https://www.docswell.com/s/hitonanode/K22QM4-2024-11-29)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
