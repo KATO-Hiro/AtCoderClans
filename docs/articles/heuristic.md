@@ -179,11 +179,12 @@ title: ヒューリスティック問題を解く
 
 #### ビジュアライザを自作する
 
-- [ヒューリスティックコンテストでビジュアライザを開発する方法に関するメモ](https://yunix-kyopro.hatenablog.com/entry/2023/12/17/150534) - ヒューリスティックコンテストで使用するビジュアライザの開発方法が紹介されている記事。
+- [ヒューリスティックコンテストでビジュアライザを開発する方法に関するメモ](https://yunix-kyopro.hatenablog.com/entry/2023/12/17/150534) - ヒューリスティックコンテストで使用するビジュアライザの開発方法が紹介されている。
     - [ReactとRustで実装されているテンプレート](https://github.com/yunix-kyopro/visualizer-template-public) ![GitHub Repo stars](https://img.shields.io/github/stars/yunix-kyopro/visualizer-template-public?style=plastic)
     - [ビジュアライザ筋トレ2025年 chatGPT活用編](https://yunix-kyopro.hatenablog.com/entry/2025/01/16/204053) - 上記のテンプレートのうち、問題固有の部分を生成AIで出力させ、その実用性を検証している。
     - [ヒューリスティックコンテスト用Visualizer(Rust, SVG) チートシート集](https://zenn.dev/tipstar0125/articles/d2cf0ef63bceb7)
-- [簡単＆便利！ C# × .NET Blazor で AHC ビジュアライザ作り](https://terumiyake.hatenablog.com/entry/2022/06/25/151919) - ヒューリスティックコンテストで使用するビジュアライザを自作する方法が解説されている記事。サーバサイドとクライアントサイドのロジックが、同じ言語(C#)で記述できるのが特徴。
+- [AHC のジャッジコードを流用して作る visualzer作成 (AtCoder 第二回マスターズ選手権 -予選- )](https://tsukammo.hatenablog.com/entry/2025/03/03/011646) - AtCoder Heuristic Contest (AHC) で提供されているジャッジコードを活用して、ビジュアライザを作成する方法が説明されている。
+- [簡単＆便利！ C# × .NET Blazor で AHC ビジュアライザ作り](https://terumiyake.hatenablog.com/entry/2022/06/25/151919) - ヒューリスティックコンテストで使用するビジュアライザを自作する方法が解説されている。サーバサイドとクライアントサイドのロジックが、同じ言語(C#)で記述できるのが特徴。
     - [サンプルプロジェクト - AHC011](https://github.com/TeruMiyake/AHC011Visualiser-With-Blazor) ![GitHub Repo stars](https://img.shields.io/github/stars/TeruMiyake/AHC011Visualiser-With-Blazor?style=plastic)
 
 #### インタラクティブ問題をデバッグする
