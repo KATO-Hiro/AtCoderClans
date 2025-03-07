@@ -107,6 +107,11 @@
 
 === "記事"
 
+    2025-03-07
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AHC のジャッジコードを流用して作る visualzer作成 (AtCoder 第二回マスターズ選手権 -予選- )](https://tsukammo.hatenablog.com/entry/2025/03/03/011646)
+
     2025-03-06
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -180,11 +185,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [oceajigger](https://atcoder.jp/users/oceajigger)さん - [AtCoder で水色になった](https://publish.obsidian.md/naoya/articles/AtCoder+%E3%81%A7%E6%B0%B4%E8%89%B2%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F)
-
-    2025-02-20
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [nanndato01](https://atcoder.jp/users/nanndato01)さん - [AtCoderで緑色になったよ](https://note.com/nanndato01/n/n2fa9746e798c)
 
 === "アーカイブス"
 

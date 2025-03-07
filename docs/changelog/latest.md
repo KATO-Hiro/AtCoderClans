@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-03-07
+
+- [#9802](https://github.com/KATO-Hiro/AtCoderClans/pull/9802) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [AHC のジャッジコードを流用して作る visualzer作成 (AtCoder 第二回マスターズ選手権 -予選- )](https://tsukammo.hatenablog.com/entry/2025/03/03/011646)
+
 ### 2025-03-06
 
 - [#9798](https://github.com/KATO-Hiro/AtCoderClans/pull/9798) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
