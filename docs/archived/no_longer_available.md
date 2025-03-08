@@ -358,6 +358,28 @@ title: 開発・提供終了
       <img loading = "lazy" src="../../images/userscript/atcoder_result_tweet_button.png" alt="atcoder result tweet button">
     </div>
 
+## Google Chromeの拡張機能
+
+### ソースコードの提出・確認を簡単に
+
+- [AtCoder-Submission-RadioButton](https://chrome.google.com/webstore/detail/atcoder-submission-radiob/hkehpabdllmdfmflgjofmgcdbmjafcdd?hl=ja&gl=UA) - 「提出」ページに、各問題を選択するラジオボタンを設置する。[ユーザスクリプト版](https://greasyfork.org/ja/scripts/390828-atcoder-submission-radiobutton)もある。
+    - 確認した日: 2025/03/08
+    - 理由: 作者が公開を取りやめたと思われるため。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/chrome_extension/atcoder_submission_radiobutton.png" alt="atcoder submission radiobutton">
+    </div>
+
+### コンテストに参加する
+
+- [AtCoder Calendar](https://chrome.google.com/webstore/detail/atcoder-calendar/dokfhaljgioiaeappgnmibgoipegbldf?hl=ja&gl=UA) - コンテストの「トップ」ページにGoogle Calendarのスケジュール作成リンクを生成する。
+    - 確認した日: 2025/03/08
+    - 理由: 作者が公開を取りやめたと思われるため。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/chrome_extension/atcoder_google_calender.png" alt="atcoder calendar">
+    </div>
+
 ## 記事
 
 ### コードを書くための環境構築を行う

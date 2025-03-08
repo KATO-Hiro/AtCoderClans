@@ -147,9 +147,7 @@ nav:
           - chrome_extensions/solve_problems.md
           - chrome_extensions/submit_codes.md
           - chrome_extensions/review.md
-          - chrome_extensions/participate_in_contests.md
           - chrome_extensions/view_scores.md
-          - chrome_extensions/improve_ui.md
   - Articles, Blogs, Books and Videos:
       - media/index.md
       - 記事:

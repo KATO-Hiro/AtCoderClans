@@ -47,6 +47,4 @@ title: Scripts - はじめに
 - [問題を解く](../chrome_extensions/solve_problems)
 - [ソースコードの提出・確認を簡単に](../chrome_extensions/submit_codes)
 - [テストケースを見る・復習の効果をより高める](../chrome_extensions/review)
-- [コンテストに参加する](../chrome_extensions/participate_in_contests)
 - [コンテストの成績を見る](../chrome_extensions/view_scores)
-- [Webページをより見やすく](../chrome_extensions/improve_ui)

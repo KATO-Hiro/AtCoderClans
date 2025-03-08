@@ -20,28 +20,12 @@ title: ソースコードの提出・確認を簡単に
 
 ## ソースコードを提出する
 
-### 問題を選択
-
-- [AtCoder-Submission-RadioButton](https://chrome.google.com/webstore/detail/atcoder-submission-radiob/hkehpabdllmdfmflgjofmgcdbmjafcdd?hl=ja&gl=UA) - 「提出」ページに、各問題を選択するラジオボタンを設置する。[ユーザスクリプト版](https://greasyfork.org/ja/scripts/390828-atcoder-submission-radiobutton)もある。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/chrome_extension/atcoder_submission_radiobutton.png" alt="atcoder submission radiobutton">
-    </div>
-
 ### 誤提出による意図しない規約違反を防ぐ
 
 - [AtCoder Parallel Alert](https://chromewebstore.google.com/detail/poiijcpfeaijlocfncmimadjkppkplef) - [AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=AtCoder+Heuristic+Contest)とそれ以外のコンテストの問題文を同時に閲覧しているときに、後者の「提出」ページに警告文を表示する。
 
     <div align="center">
       <img loading = "lazy" src="../../images/chrome_extension/atcoder_parallel_alert.png" alt="atcoder parallel alert">
-    </div>
-
-## 提出コードを確認する
-
-- [Comfortable Atcoder](https://chrome.google.com/webstore/detail/comfortable-atcoder/ipmmkccdccnephfilbjdnmnfcbopbpaj?hl=ja&gl=UA) - 提出結果の通知、問題をドロップダウンリストで表示、などを設定できる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/chrome_extension/comfortable_atcoder.png" alt="comfortable atcoder">
     </div>
 
 ## 提出コードをSNSで共有

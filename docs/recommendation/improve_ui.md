@@ -6,12 +6,12 @@ title: Webページをより見やすく
 
     ユーザスクリプト(⭐️印が付いたサービス)を初めて利用される場合は、最初に[スクリプトマネージャ](https://greasyfork.org/ja)を導入する必要があります。
 
-## 問題を解くときに便利な拡張機能を導入
+## 問題を解く
 
-- [Comfortable Atcoder](https://chrome.google.com/webstore/detail/comfortable-atcoder/ipmmkccdccnephfilbjdnmnfcbopbpaj?hl=ja&gl=UA) - 提出結果の通知、問題をドロップダウンリストで表示、などを設定できるChrome拡張機能です。
+- [⭐ AtCoder Dropdown Tasks](https://greasyfork.org/ja/scripts/529085-atcoder-dropdown-tasks) - 「問題」タブにマウスのカーソルを合わせると、各問題へ移動できるドロップダウンリストが表示されます。
 
     <div align="center">
-      <img loading = "lazy" src="../../images/chrome_extension/comfortable_atcoder.png" alt="comfortable atcoder">
+      <img loading="lazy" src="../../images/userscript/atcoder_dropdown_tasks.png" alt="atcoder dropdown tasks">
     </div>
 
 ## 問題の提出・正誤状況を確認
