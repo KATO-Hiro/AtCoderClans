@@ -41,6 +41,12 @@ title: 問題を解く
 
 ### 一覧(特定のコンテスト)
 
+- [AtCoder Dropdown Tasks](https://greasyfork.org/ja/scripts/529085-atcoder-dropdown-tasks) - 「問題」タブにマウスのカーソルを合わせると、各問題へ移動できるドロップダウンリストが表示されるようにする。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_dropdown_tasks.png" alt="atcoder dropdown tasks">
+    </div>
+
 - [AtCoder Listing Tasks](https://greasyfork.org/ja/scripts/467289-atcoder-listing-tasks) - 「問題」ページに、各問題に移動できるドロップダウンリストを追加する。また、複数の問題をまとめて開くこともできる。
 
     <div align="center">
