@@ -185,6 +185,16 @@ title: 更新停止の可能性が高い
       <img loading = "lazy" src="../../images/userscript/atcoder_heuristic_rating_coloring.png" alt="atcoder heuristic rating coloring">
     </div>
 
+- [atcoder-tasks-dropdown-menu-colorizer](https://greasyfork.org/ja/scripts/444170-atcoder-tasks-dropdown-menu-colorizer) - 「問題」ページのドロップダウンメニューに、[atcoder-tasks-page-colorizer](https://greasyfork.org/ja/scripts/380404-atcoder-tasks-page-colorizer)と同じ色付けを行う。
+    - 確認した日: 2025/03/08
+    - 理由: 該当スクリプトが前提としている[Comfortable Atcoder](https://chrome.google.com/webstore/detail/comfortable-atcoder/ipmmkccdccnephfilbjdnmnfcbopbpaj?hl=ja&gl=UA)の利用が非推奨とされたため。
+
+    !!! warning "注意"
+        Chrome拡張機能の[Comfortable Atcoder](https://chrome.google.com/webstore/detail/comfortable-atcoder/ipmmkccdccnephfilbjdnmnfcbopbpaj?hl=ja&gl=UA)をインストールする必要がある。
+
+  <div align="center">
+    <img loading = "lazy" src="../../images/userscript/atcoder_tasks_dropdown_menu_colorizer.png" alt="atcoder tasks dropdown menu colorizer">
+  </div>
 
 - [icpc2021_teamlist](https://github.com/riantkb/icpc2021_teamlist) - [ICPC 2021チーム一覧](http://www.yamagula.ic.i.u-tokyo.ac.jp/icpc2021/standings.html)に、ユーザ名とAtCoderのレーティングに対応した色を表示する。[Webサイト版](https://riantkb.github.io/icpc2021_teamlist/)もある。
 
@@ -196,6 +206,98 @@ title: 更新停止の可能性が高い
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/icpc_yokohama_2020_username_and_atcoder_color.png" alt="icpc yokohama 2020 username and atcoder color">
+    </div>
+
+## Google Chromeの拡張機能
+
+以下の拡張機能の利用は非推奨です。これは、同拡張機能のベストプラクティスに沿っておらず、安全性が担保できないことと、まもなくサポートされなくなる可能性があるためです。
+
+### 問題を解く
+
+- [AtCoder Opener](https://chrome.google.com/webstore/detail/atcoder-opener/fcfbcmhldmilebbhlapaekahjlcflinl) - コンテストの「トップ」ページで拡張機能のボタン(Aのマーク)をクリックすると、「印刷用問題文」と「提出」ページを新しいタブで開くことができる。
+    - 確認した日: 2025/03/08
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/chrome_extension/atcoder_opener.png" alt="atcoder opener">
+    </div>
+
+- [NextPage](https://chrome.google.com/webstore/detail/nextpage/mhhmddcnnehdkpclpjpmidpeejohlmfb?hl=ja&gl=UA) - あるコンテストの次の回のページに移動できる。
+    - 確認した日: 2025/03/08
+
+    !!! info "参考"
+
+        拡張機能のアイコンが表示されていない場合は、ピン止めをする必要がある。青矢印のマークをクリックすると動作する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/chrome_extension/next_page.png" alt="next page">
+    </div>
+
+### ソースコードの提出・確認を簡単に
+
+- [Comfortable Atcoder](https://chrome.google.com/webstore/detail/comfortable-atcoder/ipmmkccdccnephfilbjdnmnfcbopbpaj?hl=ja&gl=UA) - 提出結果の通知、問題をドロップダウンリストで表示、などを設定できる。
+    - 確認した日: 2025/03/08
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/chrome_extension/comfortable_atcoder.png" alt="comfortable atcoder">
+    </div>
+
+### コンテストに参加する
+
+<!-- markdown-link-check-disable -->
+
+- [Coder's Calendar](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll?hl=ja&gl=UA) - 開催予定のコンテスト情報を表示する。[Codechef](https://www.codechef.com/)、 [HackerEarth](https://www.hackerearth.com/)、[Hackerrank](https://www.hackerrank.com/)、[Topcoder](https://www.topcoder.com/)、[Codeforces](https://codeforces.com/)、[CSAcademy](https://csacademy.com/)、 [LeetCode](https://leetcode.com/)、[Kaggle](https://www.kaggle.com/)などにも対応している。
+    - 確認した日: 2025/03/08
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/chrome_extension/coders_calendar.jpg" alt="coders calendar">
+    </div>
+
+- [Coding Schedule](https://chrome.google.com/webstore/detail/coding-schedule/jbekfkgidfgnjgnnaiklfjhepdbhclme?hl=ja&gl=UA) - 開催中・開催予定のコンテスト情報を表示する。[Codeforces](https://codeforces.com/)、[Codechef](https://www.codechef.com/)、[CSAcademy](https://csacademy.com/)、[HackerEarth](https://www.hackerearth.com/)、[Hackerrank](https://www.hackerrank.com/)、[Topcoder](https://www.topcoder.com/)、[Sphere online judge (Spoj)](https://www.spoj.com/)などにも対応している。
+    - 確認した日: 2025/03/08
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/chrome_extension/coding_schedule.jpg" alt="coding schedule">
+    </div>
+
+<!-- markdown-link-check-enable -->
+
+- [KONTESTS](https://chrome.google.com/webstore/detail/kontests/agpdemlkalmmeenclchlajdcmbcacoea?hl=ja&gl=UA) - コンテスト情報を表示する。[Codeforces](https://codeforces.com/)、Codeforces::Gym、[TopCoder](https://www.topcoder.com/)、[CSAcademy](https://csacademy.com/)にも対応している。
+    - 確認した日: 2025/03/08
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/chrome_extension/kontests.png" alt="kontests">
+    </div>
+
+### コンテストの成績を見る
+
+- [AtCoder ACer](https://chrome.google.com/webstore/detail/atcoder-acer/pmdfjdiiiacncpgmjmeicdoidkaadjde?hl=ja&gl=UA) - 「問題一覧」ページにコンテスト中にAC(Accepted)した人数を表示する。
+    - 確認した日: 2025/03/08
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/chrome_extension/atcoder_acer.png" alt="atcoder acer">
+    </div>
+
+- [AtCoder VirtualContest-Connect](https://chrome.google.com/webstore/detail/atcoder-virtualcontest-co/cedjfjpgichjfeaaijciagaoggpagipg) - バーチャルコンテストの成績を利用して、コンテスト当日に得られた可能性がある順位・パフォーマンス値を表示する。
+    - 確認した日: 2025/03/08
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/chrome_extension/atcoder_virtualcontest_connect.png" alt="atcoder virtualcontest connect">
+    </div>
+
+### Webページをより見やすく
+
+- [AtCoder Color Mark](https://chrome.google.com/webstore/detail/atcoder-color-mark/dogcmibkiolcdafifopmnghhlajpbmga?hl=ja&gl=UA) - 「順位表」や「コンテスト成績表」のページにレーティングを示す円を表示する。
+    - 確認した日: 2025/03/08
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/chrome_extension/atcoder_color_mark.png" alt="atcoder color mark">
+    </div>
+
+- [AtCoder Color](https://chrome.google.com/webstore/detail/atcoder-color/mcefknoiablejellmicpmokcaelpdaec?hl=ja&gl=UA) - 「問題」ページで提出状況に応じて色付けする。
+    - 確認した日: 2025/03/08
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/chrome_extension/atcoder_color.png" alt="atcoder color">
     </div>
 
 ## Visual Studio Code 拡張機能
