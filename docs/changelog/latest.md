@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-03-08
+
+- [#9808](https://github.com/KATO-Hiro/AtCoderClans/pull/9808) - (破壊的な変更) 今後の利用が非推奨、もしくは、非公開になったと思われる Google Chrome 拡張機能を「[Archives](../../archived)」ページに移動。
+- [#9807](https://github.com/KATO-Hiro/AtCoderClans/pull/9807) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Dropdown Tasks](https://greasyfork.org/ja/scripts/529085-atcoder-dropdown-tasks)
+
 ### 2025-03-07
 
 - [#9802](https://github.com/KATO-Hiro/AtCoderClans/pull/9802) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
