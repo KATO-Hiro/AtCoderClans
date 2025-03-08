@@ -105,6 +105,17 @@
       <img loading="lazy" src="images/web_app/point_shojin_graph.png" alt="point shojin graph">
     </div>
 
+=== "ユーザスクリプト"
+
+    2025-03-08
+
+    - 「[問題を解く](user_scripts/solve_problems)」ページ
+        - [AtCoder Dropdown Tasks](https://greasyfork.org/ja/scripts/529085-atcoder-dropdown-tasks)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_dropdown_tasks.png" alt="atcoder dropdown tasks">
+    </div>
+
 === "記事"
 
     2025-03-07
@@ -188,11 +199,30 @@
 
 === "アーカイブス"
 
-    諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+    諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2025-03-08
+
+    - サービスの開発・提供終了の可能性が高い
+        - AtCoder Calendar
+        - AtCoder-Submission-RadioButton
+
+    - 安全性が保証できないため、今後の利用は非推奨
+        - AtCoder ACer
+        - AtCoder Color
+        - AtCoder Color Mark
+        - AtCoder Opener
+        - AtCoder VirtualContest-Connect
+        - Coder's Calendar
+        - Coding Schedule
+        - Comfortable Atcoder
+        - KONTESTS
+        - NextPage
 
     2025-03-02
 
-    - TOPSIC SQL Contest
+    - サービスの開発・提供終了の可能性が高い
+        - TOPSIC SQL Contest
 
 ## AtCoder公式グッズを購入する
 
