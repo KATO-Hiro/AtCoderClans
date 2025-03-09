@@ -7,6 +7,7 @@ title: レーティング800〜1199(緑色)
 
 ## 2025年
 
+- [【色変記事】非エンジニアが茶色から5か月で緑色になった話](https://note.com/sco0720/n/n530787739df0) - [SourCreamOnion](https://atcoder.jp/users/SourCreamOnion)さんが、2025年3月1日に達成。
 - [AtCoderで緑色になったよ](https://note.com/nanndato01/n/n2fa9746e798c) - [nanndato01](https://atcoder.jp/users/nanndato01)さんが、2025年2月8日に達成。
 
 ## 2024年
