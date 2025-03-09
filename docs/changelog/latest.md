@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-03-09
+
+- [#9815](https://github.com/KATO-Hiro/AtCoderClans/pull/9815) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[SourCreamOnion](https://atcoder.jp/users/SourCreamOnion)さんの[記事](https://note.com/sco0720/n/n530787739df0)を追加。
+- [#9813](https://github.com/KATO-Hiro/AtCoderClans/pull/9813) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[s_tkrz](https://atcoder.jp/users/s_tkrz)さんの[記事](https://note.com/s_tkrz/n/n93a710e55115)を追加。
+
 ### 2025-03-08
 
 - [#9808](https://github.com/KATO-Hiro/AtCoderClans/pull/9808) - (破壊的な変更) 今後の利用が非推奨、もしくは、非公開になったと思われる Google Chrome 拡張機能を「[Archives](../../archived)」ページに移動。

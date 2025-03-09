@@ -168,11 +168,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [1000人を熱狂させる問題はこうして作る – AHC Writer の奮闘記](https://note.com/algoartis/n/na09ebec91106)
 
-    2025-02-21
-
-    - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
-        - [【PHP】標準入力・標準出力チートシート【AtCoder】](https://qiita.com/noko206/items/421ae69d91f3c442d9cf)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -191,6 +186,14 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-03-09
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [SourCreamOnion](https://atcoder.jp/users/SourCreamOnion)さん - [【色変記事】非エンジニアが茶色から5か月で緑色になった話](https://note.com/sco0720/n/n530787739df0)
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [s_tkrz](https://atcoder.jp/users/s_tkrz)さん - [競技しないコードを書かなくなって久しい人がAtCoderで入茶できました、という話。](https://note.com/s_tkrz/n/n93a710e55115)
 
     2025-03-04
 
