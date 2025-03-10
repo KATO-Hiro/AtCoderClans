@@ -118,6 +118,11 @@
 
 === "記事"
 
+    2025-03-10
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年3月10日時点)](https://x.com/atcoder/status/1898919337853173979)
+
     2025-03-07
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -162,11 +167,6 @@
 
     - 「[数学を学ぶ](articles/math)」ページ
         - [floor sum アルゴリズムとその一般化](https://qiita.com/sounansya/items/51b39e0d7bf5cc194081)
-
-    2025-02-22
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [1000人を熱狂させる問題はこうして作る – AHC Writer の奮闘記](https://note.com/algoartis/n/na09ebec91106)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
