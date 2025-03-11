@@ -118,6 +118,11 @@
 
 === "記事"
 
+    2025-03-11
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [BFSを繰り返すときに訪問済みかを記録する配列を毎回初期化しなくて良くするアレ](https://topcoder-tomerun.hatenablog.jp/entry/2022/11/06/145156)
+
     2025-03-10
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -162,11 +167,6 @@
 
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
         - [PuLP入門](https://speakerdeck.com/mosson/pulpru-men)
-
-    2025-02-23
-
-    - 「[数学を学ぶ](articles/math)」ページ
-        - [floor sum アルゴリズムとその一般化](https://qiita.com/sounansya/items/51b39e0d7bf5cc194081)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。

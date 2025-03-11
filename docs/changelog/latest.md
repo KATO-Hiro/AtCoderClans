@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-03-11
+
+- [#9824](https://github.com/KATO-Hiro/AtCoderClans/pull/9824) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [BFSを繰り返すときに訪問済みかを記録する配列を毎回初期化しなくて良くするアレ](https://topcoder-tomerun.hatenablog.jp/entry/2022/11/06/145156)
+
 ### 2025-03-10
 
 - [#9820](https://github.com/KATO-Hiro/AtCoderClans/pull/9820) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。
