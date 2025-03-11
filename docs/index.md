@@ -210,7 +210,7 @@
         - AtCoder Calendar
         - AtCoder-Submission-RadioButton
 
-    - 安全性が保証できないため、今後の利用は非推奨
+    - サポートが終了したため、今後の利用は非推奨
         - AtCoder ACer
         - AtCoder Color
         - AtCoder Color Mark
