@@ -350,6 +350,9 @@ title: リンク切れ
 
 ### レーティング1200〜1599(水色)
 
+- [Atcoder！水色になったぞ！](https://qiita.com/8bai/items/b024315be8b6bec4a9dc) - [yabit](https://atcoder.jp/users/yabit)さんが、2023年1月21日に達成。
+    - 確認した日: 2025/03/12
+
 - [AtCoderで水色になりました(入水記事)](https://fiboooo.com/atcoder-lightblue/) - [fibon](https://atcoder.jp/users/fibon)さんが、2024年1月2日に公開。
     - 確認した日: 2024/10/03
 

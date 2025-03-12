@@ -55,7 +55,6 @@ title: レーティング1200〜1599(水色)
 - [40代でRustを触り始めて1年でAtCoderに入水できた件](https://qiita.com/hossie/items/19b2c3d9ebe789f05a3a) - [hossie](https://atcoder.jp/users/hossie)さんが、2023年4月1日に達成。
 - [Atcoderで入水しました！^~^](https://qiita.com/7deQSJCy8c4Hg7I/items/facfec22c64dcc04f55a) - [laoidn](https://atcoder.jp/users/laoidn)さんが、2023年2月11日に達成。
 - [AtCoder水色になりました](https://zenn.dev/soshin/articles/28ce9e3eea85d1) - [soshin](https://atcoder.jp/users/soshin)さんが、2023年2月4日に達成。
-- [Atcoder！水色になったぞ！](https://qiita.com/8bai/items/b024315be8b6bec4a9dc) - [yabit](https://atcoder.jp/users/yabit)さんが、2023年1月21日に達成。
 - [【色変記事】AtCoder水色までにやったこと](https://qiita.com/yamamotoyuki/items/035a7eda2ab52ea1ec65) - [yamamotoyuki](https://atcoder.jp/users/yamamotoyuki)さんが、2023年1月14日に達成。
 - [AtCoderで水色になったから書いた記事](https://qiita.com/viral_8/items/20a39d023d8090061191) - [viral](https://atcoder.jp/users/viral)さんが、2023年1月7日に達成。
 - [Atcoderで入水しました記事](https://magicode.io/aoblue2547/articles/c4bf29fd934a4d068de0b6d3fb0dbebb) - [ryu150](https://atcoder.jp/users/ryu150)さんが、2023年1月7日に達成。
