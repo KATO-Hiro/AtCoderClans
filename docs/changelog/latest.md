@@ -54,8 +54,8 @@ title: Change Log
 
 ### 2025-03-05
 
-- [#9794](https://github.com/KATO-Hiro/AtCoderClans/pull/9794) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績を見る](../../web_app/view_and_compare_scores)」ページに、以下のWebアプリを追加。
-    - [point 精進グラフ](https://atcoder-db.sirogami.com/public/question/69720724-2aa4-4594-984b-37bd39fa1b9b?user_id=sirogamichandayo)
+- [#9794](https://github.com/KATO-Hiro/AtCoderClans/pull/9794) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページに、以下の分析・可視化プラットフォームを追加。
+    - [AtCoder Dashboard (beta)](https://atcoder-db.sirogami.com/)
 - [#9792](https://github.com/KATO-Hiro/AtCoderClans/pull/9792) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
     - [生成AIはAtCoderBeginnerContestを実際に破壊しているのか](https://qiita.com/sirsoldano/items/cccb48c7201ed1de099f)
 
