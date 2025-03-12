@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-03-12
+
+- [#9830](https://github.com/KATO-Hiro/AtCoderClans/pull/9830) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページに、以下のWebアプリを追加。
+    - [Graph Editor](https://kentakom1213.github.io/graph-editor/)
+- [#9829](https://github.com/KATO-Hiro/AtCoderClans/pull/9829) - (破壊的な変更) リンク切れと思われる色変記事を「[Archives](../../archived)」ページに移動。
+- [#9828](https://github.com/KATO-Hiro/AtCoderClans/pull/9828) - [#9794](https://github.com/KATO-Hiro/AtCoderClans/pull/9794)に関連して、掲載ページおよび説明文を更新。
+
 ### 2025-03-11
 
 - [#9824](https://github.com/KATO-Hiro/AtCoderClans/pull/9824) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
