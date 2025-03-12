@@ -37,6 +37,12 @@ title: 問題を解くときの補助ツール
 
 ## グラフを可視化
 
+- [Graph Editor](https://kentakom1213.github.io/graph-editor/) - グラフを直感的に作成しながら、標準入力用の数値データも同時に用意できる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/graph_editor.png" alt="graph editor">
+    </div>
+
 - [GRAPH × GRAPH](https://hello-world-494ec.firebaseapp.com/) - グラフ理論に関する問題の入力例を可視化する。ターミナル上で同サイトを起動するためのCLIツール[ggg(go GRAPH × GRAPH)](https://github.com/monkukui/ggg)と[作者による紹介記事](https://monkukui.hatenablog.com/entry/2020/10/01/173918)もある。
 
     <div align="center">
