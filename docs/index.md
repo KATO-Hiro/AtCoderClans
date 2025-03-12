@@ -98,11 +98,11 @@
 
     2025-03-05
 
-    - 「[コンテストの成績を見る](web_app/view_and_compare_scores)」ページ
-        - [point 精進グラフ](https://atcoder-db.sirogami.com/public/question/69720724-2aa4-4594-984b-37bd39fa1b9b?user_id=sirogamichandayo)
+    - 「[コンテストに関する統計情報](web_app/statistics)」ページ
+        - [AtCoder Dashboard (beta)](https://atcoder-db.sirogami.com/)
 
     <div align="center">
-      <img loading="lazy" src="images/web_app/point_shojin_graph.png" alt="point shojin graph">
+      <img loading = "lazy" src="images/web_app/atcoder_dashboard.png" alt="atcoder dashboard">
     </div>
 
 === "ユーザスクリプト"

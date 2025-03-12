@@ -4,6 +4,18 @@ title: コンテストに関する統計情報
 
 コンテストに関する統計情報を、問題とユーザの観点から分類しています。
 
+## 分析・可視化プラットフォーム
+
+- [AtCoder Dashboard (beta)](https://atcoder-db.sirogami.com/) - AtCoder の関連データの分析・可視化が誰でも実行できる環境が提供されている。言語の利用状況・ユーザの提出状況・ランキングを閲覧できる。
+
+    !!! info "参考"
+
+        - Google アカウントでログイン、もしくは、任意のメールアドレスでサインインが必要。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_dashboard.png" alt="atcoder dashboard">
+    </div>
+
 ## 問題に関する統計・予測
 
 ### 提出数
