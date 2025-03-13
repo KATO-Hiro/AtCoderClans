@@ -4,6 +4,7 @@ title: レーティング1600〜1999(青色)
 
 ## 2025年
 
+- [【競技プログラミング】AtCoder Beginner Contest 396 入青実況(地声)](https://www.youtube.com/watch?v=q5Xa2RG3y7Q) - [sinzyousan](https://atcoder.jp/users/sinzyousan)さんが、2025年3月8日に達成。
 - [【AtCoder】 入青しました。](https://note.com/another_akizuki/n/nd243d9828ee6) - [tenp1729](https://atcoder.jp/users/tenp1729)さんが、2025年2月1日に達成。
 
 ## 2024年
