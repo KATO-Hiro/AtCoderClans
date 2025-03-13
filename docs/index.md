@@ -191,6 +191,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2025-03-13
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [sinzyousan](https://atcoder.jp/users/sinzyousan)さん - [【競技プログラミング】AtCoder Beginner Contest 396 入青実況(地声)](https://www.youtube.com/watch?v=q5Xa2RG3y7Q)
+
     2025-03-09
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
