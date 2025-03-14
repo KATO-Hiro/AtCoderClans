@@ -162,16 +162,6 @@
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
         - [Python における int(a / b) と a // b について](https://rsk0315.hatenablog.com/entry/2025/02/27/230634)
 
-    2025-02-26
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年2月25日時点)](https://x.com/atcoder/status/1894213612027207815)
-
-    2025-02-25
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [RECRUIT 日本橋ハーフマラソン 2025冬（AtCoder Heuristic Contest 043）参加記](https://kaede2020.hatenablog.com/entry/2025/02/24/190210)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -212,6 +202,11 @@
 === "アーカイブス"
 
     諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2025-03-14
+
+    - サービスの開発・提供終了の可能性が高い
+        - 学生向け Fixstars 高速化コンテスト 2024
 
     2025-03-08
 
