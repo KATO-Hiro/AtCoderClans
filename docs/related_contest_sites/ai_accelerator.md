@@ -2,10 +2,6 @@
 title: プロセッサー（アクセラレータ）系コンテスト
 ---
 
-## Intel® CPU プロセッサー
-
-- [学生向け Fixstars 高速化コンテスト 2024](https://fixstars-contest.com/) - Intel® CPUを利用した高速化コンテストが開催されている。
-
 ## AI プロセッサー
 
 - [MN-Core Challenge](https://mncore-challenge.preferred.jp/) - AIプロセッサー（アクセラレータ）を題材としたプログラミングコンテストサイト。
