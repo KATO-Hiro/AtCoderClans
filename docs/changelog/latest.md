@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-03-14
+
+- [#9841](https://github.com/KATO-Hiro/AtCoderClans/pull/9841) - (破壊的な変更) リンク切れと思われる関連コンテストサイトを「[Archives](../../archived)」ページに移動。
+    - 学生向け Fixstars 高速化コンテスト 2024
+
 ### 2025-03-13
 
 - [#9836](https://github.com/KATO-Hiro/AtCoderClans/pull/9836) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
@@ -39,7 +44,7 @@ title: Change Log
     - サービスの開発・提供終了の可能性が高い
         - AtCoder Calendar
         - AtCoder-Submission-RadioButton
-    - 安全性が保証できないため、今後の利用は非推奨
+    - サポートが終了したため、今後の利用は非推奨
         - AtCoder ACer
         - AtCoder Color
         - AtCoder Color Mark
