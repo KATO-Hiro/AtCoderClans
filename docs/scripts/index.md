@@ -48,3 +48,4 @@ title: Scripts - はじめに
 - [ソースコードの提出・確認を簡単に](../chrome_extensions/submit_codes)
 - [テストケースを見る・復習の効果をより高める](../chrome_extensions/review)
 - [コンテストの成績を見る](../chrome_extensions/view_scores)
+- [Webページをより見やすく](../chrome_extensions/improve_ui)
