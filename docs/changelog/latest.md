@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-03-15
+
+- [#9845](https://github.com/KATO-Hiro/AtCoderClans/pull/9845) - 「[Scripts](../../scripts)」の「[Webページをより見やすく](../../chrome_extensions/improve_ui)」ページに、以下のChrome拡張機能を追加。
+    - [AtCoder Universal Color](https://github.com/gj5752/AtCoder-Universal-Color)
+
 ### 2025-03-14
 
 - [#9841](https://github.com/KATO-Hiro/AtCoderClans/pull/9841) - (破壊的な変更) リンク切れと思われる関連コンテストサイトを「[Archives](../../archived)」ページに移動。

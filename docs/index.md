@@ -125,6 +125,17 @@
       <img loading="lazy" src="images/userscript/atcoder_dropdown_tasks.png" alt="atcoder dropdown tasks">
     </div>
 
+=== "Chrome拡張機能"
+
+    2025-03-15
+
+    - 「[Webページをより見やすく](chrome_extensions/improve_ui)」ページ
+        - [AtCoder Universal Color](https://github.com/gj5752/AtCoder-Universal-Color)
+
+    <div align="center">
+      <img loading="lazy" src="images/chrome_extension/atcoder_universal_color.png" alt="atcoder universal color">
+    </div>
+
 === "記事"
 
     2025-03-11
@@ -161,21 +172,6 @@
 
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
         - [Python における int(a / b) と a // b について](https://rsk0315.hatenablog.com/entry/2025/02/27/230634)
-
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    <!-- markdown-link-check-disable -->
-
-    2025-02-28
-
-    - 「[ヒューリスティック部門 - Nim](blogs/heuristic/nim)」ページ
-        - [Ang107](https://atcoder.jp/users/Ang107)さん - [はてなブログ](https://ang107.hatenablog.jp/)
-
-    - 「[ヒューリスティック部門 - D](blogs/heuristic/d)」ページ
-        - [allegrogiken](https://atcoder.jp/users/allegrogiken)さん - [はてなブログ](https://vvani07.hatenadiary.org/)
-
-    <!-- markdown-link-check-enable -->
 
 === "色変記事"
 
