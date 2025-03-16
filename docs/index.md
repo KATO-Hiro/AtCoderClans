@@ -83,17 +83,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "入門者・初心者向けの内容"
-
-    2025-03-01
-
-    - 「[Q3: コンテストは、いつ開催されていますか?](for_beginners/question3)」ページ
-        - [公式コンテストカレンダー運用のお知らせ](https://atcoder.jp/posts/1422)
-            - [ABCカレンダー](https://calendar.google.com/calendar/u/0?cid=Y180MzA3MDIxZTE0ZDhhMzNlYzgzNjI5YmM1MWQ2OTEzMWMwNjMxOGJiNGQ1ZmRjOTYwODNlZDE2ODFmMGEwZWQ2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
-            - [ARCカレンダー](https://calendar.google.com/calendar/u/0?cid=Y185NGJiMDZmYmI0MDA2NjEzM2VmOTlkNTQ2NDhiZjIzYjI4MTEwNzdjZjU0MWE0ZGMyZDJlYjFiODI1MmU2NmZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
-            - [AGCカレンダー](https://calendar.google.com/calendar/u/0?cid=Y18wMTk0MDA5MTllZmYyNTI2MzNjNGIxNWE3MTA5YjUyNjhjNTkyNmFhMTFlMDQ2NWE5OWVmNTE5NDdhOTI4YmQ0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
-            - [AHCカレンダー](https://calendar.google.com/calendar/u/0?cid=Y18yYTZiOWYxNTc3Nzg0N2E5YmNlNDhlMDI2OTkyYmY2ZGZjOWE2ZTlhMjk3Mjk4YTFjNjQ5NWMwYjE3NjQ5NjU0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
-
 === "Webアプリ・Webサイト"
 
     2025-03-12
@@ -115,6 +104,15 @@
     </div>
 
 === "ユーザスクリプト"
+
+    2025-03-16
+
+    - 「[問題を解く](user_scripts/solve_problems)」ページ
+        - [AtCoderNotesForBeginners](https://greasyfork.org/ja/scripts/529251-atcodernotesforbeginners)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_notes_for_beginners.png" alt="atcoder notes for beginners">
+    </div>
 
     2025-03-08
 
