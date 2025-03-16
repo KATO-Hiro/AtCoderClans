@@ -161,6 +161,12 @@ title: 問題を解く
 
 - [atcoder_constraints_eraser](https://greasyfork.org/ja/scripts/461798-atcoder-constraints-eraser) - 「問題」ページの制約を非表示にする。
 
+- [AtCoderNotesForBeginners](https://greasyfork.org/ja/scripts/529251-atcodernotesforbeginners) - 「問題」ページの制約に、型の有効範囲や入力データ量に応じた時間計算量の一覧を表示する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_notes_for_beginners.png" alt="atcoder notes for beginners">
+    </div>
+
 ### 入出力例を集約
 
 - [AtCoder Efficient Layout](https://greasyfork.org/ja/scripts/453117-atcoder-efficient-layout) - 「問題」ページで、入出力の形式とそれらの例を横並びで表示できる。
