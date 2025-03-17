@@ -67,6 +67,7 @@ title: C&#43;&#43;
 |hirokazu1020|[はてなブログ](https://hirokazu1020.hatenablog.com/)||
 |hogloid|[はてなブログ](https://hogloid.hatenablog.com/)||
 |itigo|[はてなブログ](https://ichigokunn.hatenablog.com/)||
+|KKT89|[はてなブログ](https://kkt89.hatenablog.com/)||
 |kotamanegi|[はてなブログ](https://kotamanegi.hatenablog.com/)||
 |kotatsugame|[はてなブログ](https://kotatsugame.hatenablog.com/)||
 |kusano|[はてなブログ](https://kusano-k.hatenablog.com/)、[Qiita](https://qiita.com/kusano_k)||
