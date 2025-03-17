@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-03-17
+
+- [#9853](https://github.com/KATO-Hiro/AtCoderClans/pull/9853) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
+
 ### 2025-03-16
 
 - [#9850](https://github.com/KATO-Hiro/AtCoderClans/pull/9850) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。

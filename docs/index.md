@@ -166,10 +166,13 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年3月3日時点)](https://x.com/atcoder/status/1896378668232139251)
 
-    2025-03-02
+=== "ブログ"
+    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
-    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
-        - [Python における int(a / b) と a // b について](https://rsk0315.hatenablog.com/entry/2025/02/27/230634)
+    2025-03-17
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [KKT89](https://atcoder.jp/users/KKT89)さん - [はてなブログ](https://kkt89.hatenablog.com/)
 
 === "色変記事"
 
@@ -219,11 +222,6 @@
         - Comfortable Atcoder
         - KONTESTS
         - NextPage
-
-    2025-03-02
-
-    - サービスの開発・提供終了の可能性が高い
-        - TOPSIC SQL Contest
 
 ## AtCoder公式グッズを購入する
 
