@@ -161,11 +161,6 @@
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
         - [生成AIはAtCoderBeginnerContestを実際に破壊しているのか](https://qiita.com/sirsoldano/items/cccb48c7201ed1de099f)
 
-    2025-03-03
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年3月3日時点)](https://x.com/atcoder/status/1896378668232139251)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -173,6 +168,13 @@
 
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
         - [KKT89](https://atcoder.jp/users/KKT89)さん - [はてなブログ](https://kkt89.hatenablog.com/)
+
+=== "コマンドラインツール"
+
+    2025-03-18
+
+    - 「[問題作成に関する便利ツール](cli/tools_for_writers)」ページ
+        - [rime + testlib で部分点の制約チェックをする](https://sapphire15.hatenablog.com/entry/2025/03/17/231709)
 
 === "色変記事"
 
