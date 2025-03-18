@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-03-18
+
+- [#9858](https://github.com/KATO-Hiro/AtCoderClans/pull/9858) - 「[Command line tools](../../cli)」の「[問題作成に関する便利ツール](../../cli/tools_for_writers)」ページに、以下の関連記事を追加。
+    - [rime + testlib で部分点の制約チェックをする](https://sapphire15.hatenablog.com/entry/2025/03/17/231709)
+
 ### 2025-03-17
 
 - [#9853](https://github.com/KATO-Hiro/AtCoderClans/pull/9853) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
