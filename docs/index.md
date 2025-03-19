@@ -171,6 +171,11 @@
 
 === "コマンドラインツール"
 
+    2025-03-19
+
+    - 「[ソースコードにバグがないか確認](cli/test_tools)」ページ
+        - [aclogin](https://github.com/key-moon/aclogin) ![GitHub stars](https://img.shields.io/github/stars/key-moon/aclogin?style=plastic)
+
     2025-03-18
 
     - 「[問題作成に関する便利ツール](cli/tools_for_writers)」ページ
@@ -192,11 +197,6 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [s_tkrz](https://atcoder.jp/users/s_tkrz)さん - [競技しないコードを書かなくなって久しい人がAtCoderで入茶できました、という話。](https://note.com/s_tkrz/n/n93a710e55115)
-
-    2025-03-04
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [oceajigger](https://atcoder.jp/users/oceajigger)さん - [AtCoder で水色になった](https://publish.obsidian.md/naoya/articles/AtCoder+%E3%81%A7%E6%B0%B4%E8%89%B2%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F)
 
 === "アーカイブス"
 
