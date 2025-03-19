@@ -10,6 +10,18 @@ title: ソースコードにバグがないか確認
 !!! warning "注意"
     サブカテゴリで部門名(アルゴリズム・ヒューリスティック)が明記されていない場合は、アルゴリズム部門を対象としたサービスを表しています。
 
+## コマンドラインツールからAtCoderにログイン
+
+- [aclogin](https://github.com/key-moon/aclogin) ![GitHub stars](https://img.shields.io/github/stars/key-moon/aclogin?style=plastic) - コマンドラインツールからAtCoderに自動ログインできるようにする。
+
+    !!! info "参考"
+
+        2025年3月時点では、[Online Judge Tools](https://github.com/online-judge-tools/oj) ![GitHub stars](https://img.shields.io/github/stars/online-judge-tools/oj?style=plastic)に対応。
+
+    !!! warning "注意"
+
+        2025年3月にAtCoderの認証方法（Cloudflare CAPTCHAの導入）が変更されたことに伴う暫定的な対処方法。
+
 ## 任意の言語
 
 ### アルゴリズム部門
