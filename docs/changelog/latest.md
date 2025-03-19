@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-03-19
+
+- [#9863](https://github.com/KATO-Hiro/AtCoderClans/pull/9863) - 「[Command Line Tools](../../cli)」の「[ソースコードにバグがないか確認](../../cli/test_tools)」ページに、コマンドラインツールからAtCoderにログインするための補助ツールを追加。
+    - [aclogin](https://github.com/key-moon/aclogin) ![GitHub stars](https://img.shields.io/github/stars/key-moon/aclogin?style=plastic)
+
 ### 2025-03-18
 
 - [#9858](https://github.com/KATO-Hiro/AtCoderClans/pull/9858) - 「[Command line tools](../../cli)」の「[問題作成に関する便利ツール](../../cli/tools_for_writers)」ページに、以下の関連記事を追加。
