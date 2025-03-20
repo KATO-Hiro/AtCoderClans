@@ -94,15 +94,6 @@
       <img loading="lazy" src="images/web_app/graph_editor.png" alt="graph editor">
     </div>
 
-    2025-03-05
-
-    - 「[コンテストに関する統計情報](web_app/statistics)」ページ
-        - [AtCoder Dashboard (beta)](https://atcoder-db.sirogami.com/)
-
-    <div align="center">
-      <img loading = "lazy" src="images/web_app/atcoder_dashboard.png" alt="atcoder dashboard">
-    </div>
-
 === "ユーザスクリプト"
 
     2025-03-16
@@ -136,6 +127,11 @@
 
 === "記事"
 
+    2025-03-20
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年3月17日時点)](https://x.com/atcoder/status/1901458780032045328)
+
     2025-03-11
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -155,11 +151,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AHC典型解法シリーズ第4弾「ビームサーチ」](https://qiita.com/thun-c/items/98f22c8fcdb1fd827b00)
-
-    2025-03-05
-
-    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
-        - [生成AIはAtCoderBeginnerContestを実際に破壊しているのか](https://qiita.com/sirsoldano/items/cccb48c7201ed1de099f)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
