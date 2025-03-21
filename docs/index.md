@@ -127,6 +127,11 @@
 
 === "記事"
 
+    2025-03-21
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AHC044 解説](https://www.terry-u16.net/entry/ahc044)
+
     2025-03-20
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -146,11 +151,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AHC のジャッジコードを流用して作る visualzer作成 (AtCoder 第二回マスターズ選手権 -予選- )](https://tsukammo.hatenablog.com/entry/2025/03/03/011646)
-
-    2025-03-06
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AHC典型解法シリーズ第4弾「ビームサーチ」](https://qiita.com/thun-c/items/98f22c8fcdb1fd827b00)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
