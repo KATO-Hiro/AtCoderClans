@@ -90,12 +90,18 @@ title: ヒューリスティック問題を解く
 - [競プロ解法紹介～大局観で高得点を取る！～](https://qiita.com/tsukammo/items/85ffbe907e89b051d715) - マラソン形式の問題である[Chokudai Contest 001](https://atcoder.jp/contests/chokudai001/)の解法を紹介した記事。愚直な解法から高得点を狙うための着眼点や方法が解説されている。
 - [AtCoder Heuristic Contest 001 - じろうのブログ](https://shuu0914.hatenablog.com/entry/2021/03/14/200154) - [Jirotech](https://atcoder.jp/users/Jirotech)さんによる[AtCoder Heuristic Contest 001](https://atcoder.jp/contests/ahc001)の解答方針と、得点の増加につながった考え方・指標・調整方法などを紹介した記事。
 - [AtCoder Heuristic Contest 001 (AHC001) 初心者向け解説](https://www.terry-u16.net/entry/ahc001-how-to) - [terry_u16](https://atcoder.jp/users/terry_u16)さんが、ヒューリスティック型のコンテスト初心者に向けた解説・Tipsを紹介している記事。
-    - [AHC042 解説](https://www.terry-u16.net/entry/ahc042)
-    - [AHC041 解説](https://speakerdeck.com/terryu16/ahc041jie-shuo)
-    - [HACK TO THE FUTURE 2025 (AHC040) 解説](https://www.terry-u16.net/entry/ahc040)
-    - [THIRD プログラミングコンテスト2024 (AHC039) 解説](https://www.terry-u16.net/entry/ahc039)
-    - [THIRD プログラミングコンテスト2023 (AHC030) 解説](https://www.terry-u16.net/entry/ahc030)
-    - [HACK TO THE FUTURE 2022 本選オープン 解説＋参加記](https://www.terry-u16.net/entry/httf2022-final)
+    - [AHC044 解説](https://www.terry-u16.net/entry/ahc044)
+
+    ??? info "参加記の一覧"
+
+        - [AHC042 解説](https://www.terry-u16.net/entry/ahc042)
+        - [AHC041 解説](https://speakerdeck.com/terryu16/ahc041jie-shuo)
+        - [HACK TO THE FUTURE 2025 (AHC040) 解説](https://www.terry-u16.net/entry/ahc040)
+        - [THIRD プログラミングコンテスト2024 (AHC039) 解説](https://www.terry-u16.net/entry/ahc039)
+        - [AHC035解説](https://speakerdeck.com/terryu16/ahc035jie-shuo)
+        - [THIRD プログラミングコンテスト2023 (AHC030) 解説](https://www.terry-u16.net/entry/ahc030)
+        - [HACK TO THE FUTURE 2022 本選オープン 解説＋参加記](https://www.terry-u16.net/entry/httf2022-final)
+
 - [AtCoder Heuristic Contest 001 AtCoder Ad - びったんびったん](http://hakomof.hatenablog.com/entry/2021/03/14/202411) - [hakomo](https://atcoder.jp/users/hakomo)さんによる[AtCoder Heuristic Contest 001](https://atcoder.jp/contests/ahc001)の解答方針と頻出テクニックを紹介した記事。
 - [AHC003の2.926T解法+経緯](https://qiita.com/contramundum/items/b945400b81536df42d1a) - [eivour](https://atcoder.jp/users/eivour)さんが、[AtCoder Heuristic Contest 003](https://atcoder.jp/contests/ahc003)での最終解法と、その経緯などを紹介した記事。また、[HACK TO THE FUTURE 2022予選](https://atcoder.jp/contests/future-contest-2022-qual)に関する[記事](https://qiita.com/contramundum/items/52609b5a4c943bc6a275)も公開されている。
 - [実録！AtCoder Heuristic Contest 011参加記](https://kaede2020.hatenablog.com/entry/2022/06/05/190049) - [kaede2020](https://atcoder.jp/users/kaede2020)さんの参加記。良い得点を得るために試行錯誤する過程がリアルタイムで記録されている。
@@ -142,7 +148,6 @@ title: ヒューリスティック問題を解く
 - [世界一やさしいAHC体験記](https://d-burioden.hateblo.jp/entry/2024/04/13/154639) - [burioden](https://atcoder.jp/users/burioden)さんの体験記。ヒューリスティック型コンテストに興味がある人に向けて、筆者が初参加のコンテストで回答を提出するまでの流れや感想などがまとめられている。
 - [いま、ここにしかない、出会い。(AtCoder 第一回マスターズ選手権 -決勝- で五位入賞しました。)](https://tsukammo.hatenablog.com/entry/2024/04/21/161831) - [tsukammo](https://atcoder.jp/users/tsukammo)さんの備忘録。[第一回マスターズ選手権 -決勝-](https://atcoder.jp/contests/masters2024-final)におけるメンバーの立ち回り(チーム決めや予選の内容も含む)を時系列で振り返っている。
 - [第一回マスターズ参加記](https://amentorimaru.hatenablog.com/entry/2024/04/21/034648) - [amentorimaru](https://atcoder.jp/users/amentorimaru?contestType=heuristic)さんの参加記。[第一回マスターズ選手権 -決勝-](https://atcoder.jp/contests/masters2024-final)の振り返り(決勝進出までの内容を含む)・次回に向けた課題などがつづられている。
-- [AHC035解説](https://speakerdeck.com/terryu16/ahc035jie-shuo) - [terry_u16](https://atcoder.jp/users/terry_u16)さんによる[ALGO ARTIS プログラミングコンテスト2024 夏（AtCoder Heuristic Contest 035）](https://atcoder.jp/contests/ahc035)の解説。考察のポイントと複数の方針が紹介されている。
 - [ALGO ARTIS プログラミングコンテスト2024 夏(AHC035)解説](https://math-gorilla.hatenablog.com/entry/2024/07/28/161631) - [MathGorilla](https://atcoder.jp/users/MathGorilla)さんによる[ALGO ARTIS プログラミングコンテスト2024 夏（AtCoder Heuristic Contest 035）](https://atcoder.jp/contests/ahc035)の考察と実装方針が紹介されている。
 - [AHC036 参加記](https://soumat.hatenablog.com/entry/2024/09/07/152734) - [soumat](https://atcoder.jp/users/soumat)さんによる[RECRUIT 日本橋ハーフマラソン 2024夏（AtCoder Heuristic Contest 036）](https://atcoder.jp/contests/ahc036)の参加記。解法および高速化のテクニックが紹介されている。
 - [AHC041 参加記・本番 1 位解法の説明](https://rsm9.hatenablog.com/entry/2025/01/22/213923) - [hitonanode](https://atcoder.jp/users/hitonanode)さんによる[ALGO ARTIS プログラミングコンテスト2025 冬（AtCoder Heuristic Contest 041）](https://atcoder.jp/contests/ahc041)の参加記。ビームサーチによる解法に加えて、汎用ソルバーの活用の仕方・解法に至るまでの過程が紹介されている。
