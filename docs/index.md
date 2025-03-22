@@ -148,11 +148,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年3月10日時点)](https://x.com/atcoder/status/1898919337853173979)
 
-    2025-03-07
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AHC のジャッジコードを流用して作る visualzer作成 (AtCoder 第二回マスターズ選手権 -予選- )](https://tsukammo.hatenablog.com/entry/2025/03/03/011646)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 

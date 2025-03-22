@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-03-22
+
+- [#9879](https://github.com/KATO-Hiro/AtCoderClans/pull/9879) - 「[Home](../..)」ページに、以下の記事を追加。
+    - [ARC Div.1 の rated 上限の変更について](https://atcoder.jp/posts/1433)
+
 ### 2025-03-21
 
 - [#9875](https://github.com/KATO-Hiro/AtCoderClans/pull/9875) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
