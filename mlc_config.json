@@ -65,6 +65,9 @@
     },
     {
       "pattern": "^https://www.acmicpc.net/"
+    },
+    {
+      "pattern": "^https://oeis.org/"
     }
   ],
   "httpHeaders": [
