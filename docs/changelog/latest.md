@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-03-23
+
+- [#9885](https://github.com/KATO-Hiro/AtCoderClans/pull/9885) - 「[Related Contest Sites](../../related_contest_sites)」の「[情報オリンピック](../../related_contest_sites/joi_ioi)」ページに、以下の記事を追加。
+    - [JOI春環境構築【MakeFile】](https://blueberry1001.hatenablog.com/entry/2025/03/19/151024)
+
 ### 2025-03-22
 
 - [#9879](https://github.com/KATO-Hiro/AtCoderClans/pull/9879) - 「[Home](../..)」ページに、以下の記事を追加。

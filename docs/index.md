@@ -106,15 +106,6 @@
       <img loading="lazy" src="images/userscript/atcoder_notes_for_beginners.png" alt="atcoder notes for beginners">
     </div>
 
-    2025-03-08
-
-    - 「[問題を解く](user_scripts/solve_problems)」ページ
-        - [AtCoder Dropdown Tasks](https://greasyfork.org/ja/scripts/529085-atcoder-dropdown-tasks)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_dropdown_tasks.png" alt="atcoder dropdown tasks">
-    </div>
-
 === "Chrome拡張機能"
 
     2025-03-15
@@ -185,6 +176,13 @@
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [s_tkrz](https://atcoder.jp/users/s_tkrz)さん - [競技しないコードを書かなくなって久しい人がAtCoderで入茶できました、という話。](https://note.com/s_tkrz/n/n93a710e55115)
 
+=== "国内外のコンテストサイト"
+
+    2025-03-23
+
+    - 「[情報オリンピック](related_contest_sites/joi_ioi)」ページ
+        - [JOI春環境構築【MakeFile】](https://blueberry1001.hatenablog.com/entry/2025/03/19/151024)
+
 === "アーカイブス"
 
     諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
@@ -193,24 +191,6 @@
 
     - サービスの開発・提供終了の可能性が高い
         - 学生向け Fixstars 高速化コンテスト 2024
-
-    2025-03-08
-
-    - サービスの開発・提供終了の可能性が高い
-        - AtCoder Calendar
-        - AtCoder-Submission-RadioButton
-
-    - サポートが終了したため、今後の利用は非推奨
-        - AtCoder ACer
-        - AtCoder Color
-        - AtCoder Color Mark
-        - AtCoder Opener
-        - AtCoder VirtualContest-Connect
-        - Coder's Calendar
-        - Coding Schedule
-        - Comfortable Atcoder
-        - KONTESTS
-        - NextPage
 
 ## AtCoder公式グッズを購入する
 
