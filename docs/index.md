@@ -119,6 +119,11 @@
 
 === "記事"
 
+    2025-03-24
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年3月24日時点)](https://x.com/atcoder/status/1903989351903821897)
+
     2025-03-21
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -167,14 +172,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [sinzyousan](https://atcoder.jp/users/sinzyousan)さん - [【競技プログラミング】AtCoder Beginner Contest 396 入青実況(地声)](https://www.youtube.com/watch?v=q5Xa2RG3y7Q)
-
-    2025-03-09
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [SourCreamOnion](https://atcoder.jp/users/SourCreamOnion)さん - [【色変記事】非エンジニアが茶色から5か月で緑色になった話](https://note.com/sco0720/n/n530787739df0)
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [s_tkrz](https://atcoder.jp/users/s_tkrz)さん - [競技しないコードを書かなくなって久しい人がAtCoderで入茶できました、という話。](https://note.com/s_tkrz/n/n93a710e55115)
 
 === "国内外のコンテストサイト"
 
