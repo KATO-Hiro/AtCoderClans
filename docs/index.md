@@ -173,14 +173,6 @@
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [sinzyousan](https://atcoder.jp/users/sinzyousan)さん - [【競技プログラミング】AtCoder Beginner Contest 396 入青実況(地声)](https://www.youtube.com/watch?v=q5Xa2RG3y7Q)
 
-    2025-03-09
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [SourCreamOnion](https://atcoder.jp/users/SourCreamOnion)さん - [【色変記事】非エンジニアが茶色から5か月で緑色になった話](https://note.com/sco0720/n/n530787739df0)
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [s_tkrz](https://atcoder.jp/users/s_tkrz)さん - [競技しないコードを書かなくなって久しい人がAtCoderで入茶できました、という話。](https://note.com/s_tkrz/n/n93a710e55115)
-
 === "国内外のコンテストサイト"
 
     2025-03-23
