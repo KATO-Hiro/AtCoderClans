@@ -139,11 +139,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [BFSを繰り返すときに訪問済みかを記録する配列を毎回初期化しなくて良くするアレ](https://topcoder-tomerun.hatenablog.jp/entry/2022/11/06/145156)
 
-    2025-03-10
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年3月10日時点)](https://x.com/atcoder/status/1898919337853173979)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -167,6 +162,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-03-25
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [Sa15MiyagiJapan](https://atcoder.jp/users/Sa15MiyagiJapan)さん - [【入緑記事】プログラミング未経験者でもAtCoder初参加から4か月で緑色になれた](https://qiita.com/hkt_shichisei/items/5b9587244bb819e6682a)
 
     2025-03-13
 
