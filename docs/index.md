@@ -119,6 +119,12 @@
 
 === "記事"
 
+    2025-03-26
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AtCoder Heuristic First-step Vol.1 講義スライド 〜問題理解と貪欲法〜](https://speakerdeck.com/terryu16/atcoder-heuristic-first-step-vol-dot-1-jiang-yi-suraido)
+        - [AtCoder Heuristic First-step Vol.1 講義スライド 〜山登り法・焼きなまし法編〜](https://speakerdeck.com/takumi152/atcoder-heuristic-first-step-vol-dot-1-jiang-yi-suraido-shan-deng-rifa-shao-kinamasifa-bian)
+
     2025-03-24
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -133,11 +139,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年3月17日時点)](https://x.com/atcoder/status/1901458780032045328)
-
-    2025-03-11
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [BFSを繰り返すときに訪問済みかを記録する配列を毎回初期化しなくて良くするアレ](https://topcoder-tomerun.hatenablog.jp/entry/2022/11/06/145156)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
