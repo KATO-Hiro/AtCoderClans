@@ -59,6 +59,8 @@ title: ヒューリスティック問題を解く
 ### 取り組み方(技術)
 
 - [AHCに初めて参加する人が読む記事2025](https://qiita.com/tomerun/items/8d2b67476c25ecef35f5) - [AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=AtCoder+Heuristic+Contest)への参加登録から回答提出までの大まかな手順・留意事項、練習方法などがまとめられている。
+- [AtCoder Heuristic First-step Vol.1 講義スライド 問題理解と貪欲法](https://speakerdeck.com/terryu16/atcoder-heuristic-first-step-vol-dot-1-jiang-yi-suraido) - コンテストの過去問を題材に、問題文の理解と基本的な貪欲法の書き方・改善に向けた考え方が紹介されている。
+    - [AtCoder Heuristic First-step Vol.1 〜山登り法・焼きなまし法編〜](https://speakerdeck.com/takumi152/atcoder-heuristic-first-step-vol-dot-1-jiang-yi-suraido-shan-deng-rifa-shao-kinamasifa-bian) - 上記の解法を改善するため、山登り法・焼きなまし法の概略や解法の判断基準が解説されている。
 - [AHCに取り組む上で心がけていること](https://hitoare.hatenablog.com/entry/2024/04/30/223646) - ヒューリスティック型コンテストにおいて、[hitoare](https://atcoder.jp/users/hitoare)さんが心掛けていることをまとめた記事。
 - [AHCでの解法選択](https://montplusa.hatenablog.com/entry/2024/06/10/214100) - 問題の性質と主要な解法との関連性について、筆者の考えがまとめられている。
 - [相対スコア AHC の立ち回り](https://kiri8128.hatenablog.com/entry/2024/05/06/032420) - ヒューリスティック型コンテストで相対スコアが採用されているときのメタ戦略について、パラメータ群の重要度の把握・テストケースごとの行動最適化・解法の優劣比較の観点から考察されている。
