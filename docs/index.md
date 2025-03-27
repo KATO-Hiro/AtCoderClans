@@ -84,17 +84,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "Webアプリ・Webサイト"
-
-    2025-03-12
-
-    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
-        - [Graph Editor](https://kentakom1213.github.io/graph-editor/)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/graph_editor.png" alt="graph editor">
-    </div>
-
 === "ユーザスクリプト"
 
     2025-03-16
@@ -163,6 +152,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-03-27
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [ytz](https://atcoder.jp/users/ytz)さん - [【色変記事】某国支社長61歳文系、入茶しました(初心者）](https://qiita.com/ytz/items/07898c9afbf451071113)
 
     2025-03-25
 
