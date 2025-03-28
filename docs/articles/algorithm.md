@@ -275,7 +275,7 @@ title: アルゴリズムを学ぶ
 
 - [安全で爆速なRollingHashの話](https://qiita.com/keymoon/items/11fac5627672a6d6a9f6) - 文字列検索に関する手法・RollingHashについて、Hashの衝突(異なる文字が同じHashを取ること)を回避しながら高速に計算する方法を解説した記事。
     - [ちょっと速いかもしれないローリングハッシュ](https://yosupo.hatenablog.com/entry/2023/08/06/181942) - 上記の記事を踏まえて、より高速化することが試みられている。
-- [Manacher's algorithm でダミー文字を使わなくて済む方法](https://ngtkana.hatenablog.com/entry/2024/03/17/034026) - 各文字の回文半径（その文字を中心とした回文の長さ引く 1 割る 2）を高速に計算するにあたり、少しの変更で使いやすくする方法が紹介されている。
+- [Manacher's algorithm でダミー文字を使わなくて済む方法](https://ngtkana.hatenablog.com/entry/2024/03/17/034026) - 各文字の回文半径（その文字を中心とした回文の長さ引く 1 割る 2）を高速に計算するにあたり、少しの変更でより使いやすくする方法が紹介されている。
 - [文字列の頭良い感じの線形アルゴリズムたち](https://snuke.hatenablog.com/entry/2014/12/01/235807) - 文字列検索に関するアルゴリズムを紹介した記事。
 
 ## その他
