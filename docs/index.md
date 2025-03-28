@@ -108,6 +108,11 @@
 
 === "記事"
 
+    2025-03-28
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [Manacher's algorithm でダミー文字を使わなくて済む方法](https://ngtkana.hatenablog.com/entry/2024/03/17/034026)
+
     2025-03-26
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -162,11 +167,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [Sa15MiyagiJapan](https://atcoder.jp/users/Sa15MiyagiJapan)さん - [【入緑記事】プログラミング未経験者でもAtCoder初参加から4か月で緑色になれた](https://qiita.com/hkt_shichisei/items/5b9587244bb819e6682a)
-
-    2025-03-13
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [sinzyousan](https://atcoder.jp/users/sinzyousan)さん - [【競技プログラミング】AtCoder Beginner Contest 396 入青実況(地声)](https://www.youtube.com/watch?v=q5Xa2RG3y7Q)
 
 === "国内外のコンテストサイト"
 
