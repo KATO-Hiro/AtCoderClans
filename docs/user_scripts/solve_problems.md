@@ -86,6 +86,14 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/tessoku_display_difficulty.png" alt="tessoku_display_difficulty">
     </div>
 
+### AtCoder Daily Training
+
+- [ADT⇄ABC Converter Button](https://greasyfork.org/ja/scripts/531079-adt-abc-converter-button) - [AtCoder Daily Training](https://atcoder.jp/contests/adt_top)と該当コンテストの「問題」ページを往復できるボタンを追加する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/adt_abc_converter_button.png" alt="adt abc converter button">
+    </div>
+
 ### 関連コンテストサイト
 
 - [AtCoderLinkCompletionForJOI](https://greasyfork.org/ja/scripts/382313-atcoderlinkcompletionforjoi) - JOIの問題ページにPDFへのリンクを追加する。
