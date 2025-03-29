@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-03-29
+
+- [#9914](https://github.com/KATO-Hiro/AtCoderClans/pull/9914) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
+    - [ADT⇄ABC Converter Button](https://greasyfork.org/ja/scripts/531079-adt-abc-converter-button)
+
 ### 2025-03-28
 
 - [#9910](https://github.com/KATO-Hiro/AtCoderClans/pull/9910) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。

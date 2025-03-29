@@ -86,6 +86,15 @@
 
 === "ユーザスクリプト"
 
+    2025-03-29
+
+    - 「[問題を解く](user_scripts/solve_problems)」ページ
+        - [ADT⇄ABC Converter Button](https://greasyfork.org/ja/scripts/531079-adt-abc-converter-button)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/adt_abc_converter_button.png" alt="adt abc converter button">
+    </div>
+
     2025-03-16
 
     - 「[問題を解く](user_scripts/solve_problems)」ページ
@@ -174,15 +183,6 @@
 
     - 「[情報オリンピック](related_contest_sites/joi_ioi)」ページ
         - [JOI春環境構築【MakeFile】](https://blueberry1001.hatenablog.com/entry/2025/03/19/151024)
-
-=== "アーカイブス"
-
-    諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
-
-    2025-03-14
-
-    - サービスの開発・提供終了の可能性が高い
-        - 学生向け Fixstars 高速化コンテスト 2024
 
 ## AtCoder公式グッズを購入する
 
