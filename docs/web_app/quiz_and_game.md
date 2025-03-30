@@ -41,6 +41,14 @@ title: クイズ・ゲーム・ネタアプリ
       <img loading = "lazy" src="../../images/web_app/atcoder_diet.png" alt="atcoder diet">
     </div>
 
+### 四コマ漫画を作成
+
+- [嘘解法4コマジェネレーター](https://catupper.github.io/usokaiho-comic-generator/) - コンテストで確信を持って思いついた解法が不正解となってしまう状況を四コマ漫画にできる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/usokaiho_comic_generator.png" alt="usokaiho comic generator">
+    </div>
+
 ### コンテスト占い
 
 - [今日のコンテスト結果占い](https://shindanmaker.com/1019867) - コンテストの結果を事前に占う。
