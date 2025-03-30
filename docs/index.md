@@ -84,6 +84,17 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "Webアプリ・Webサイト"
+
+    2025-03-30
+
+    - 「[クイズ・ゲーム・ネタアプリ](web_app/quiz_and_game)」ページ
+        - [嘘解法4コマジェネレーター](https://catupper.github.io/usokaiho-comic-generator/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/usokaiho_comic_generator.png" alt="usokaiho comic generator">
+    </div>
+
 === "ユーザスクリプト"
 
     2025-03-29
@@ -102,17 +113,6 @@
 
     <div align="center">
       <img loading="lazy" src="images/userscript/atcoder_notes_for_beginners.png" alt="atcoder notes for beginners">
-    </div>
-
-=== "Chrome拡張機能"
-
-    2025-03-15
-
-    - 「[Webページをより見やすく](chrome_extensions/improve_ui)」ページ
-        - [AtCoder Universal Color](https://github.com/gj5752/AtCoder-Universal-Color)
-
-    <div align="center">
-      <img loading="lazy" src="images/chrome_extension/atcoder_universal_color.png" alt="atcoder universal color">
     </div>
 
 === "記事"
@@ -166,6 +166,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-03-30
+
+     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [yoniha](https://atcoder.jp/users/yoniha)さん - [ABC399でAlgorithm入水したぞ！](https://note.com/yoniha428/n/n6203f6d35764)
 
     2025-03-27
 

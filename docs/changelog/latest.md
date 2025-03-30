@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-03-30
+
+- [#9920](https://github.com/KATO-Hiro/AtCoderClans/pull/9920) - 「[Web apps and sites](../../web_app)」の「[クイズ・ゲーム・ネタアプリ](../../web_app/quiz_and_game)」ページに、以下のWebアプリを追加。
+    - [嘘解法4コマジェネレーター](https://catupper.github.io/usokaiho-comic-generator/)
+- [#9919](https://github.com/KATO-Hiro/AtCoderClans/pull/9919) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[yoniha](https://atcoder.jp/users/yoniha)さんの[記事](https://note.com/yoniha428/n/n6203f6d35764)を追加。
+
 ### 2025-03-29
 
 - [#9914](https://github.com/KATO-Hiro/AtCoderClans/pull/9914) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
