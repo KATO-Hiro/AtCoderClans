@@ -114,6 +114,7 @@ title: C&#43;&#43;
 |wafrelka|[はてなブログ](https://wafrelka.hatenablog.jp/)|2018年10月以降、新規の記事を確認できず。|
 |yamunaku|[はてなブログ](https://yamunaku.hatenablog.com/)||
 |ynymxiaolongbao|[はてなブログ](https://segtree.hatenablog.com/)||
+|yuma220284|[Qiita](https://qiita.com/yuma220284)|2020年2月以降、新規の記事を確認できず。|
 
 ## レーティング2000〜2399(黄色)
 
@@ -216,6 +217,5 @@ title: C&#43;&#43;
 |yamake|[はてなブログ](https://yamakeeee.hatenadiary.com/)||
 |yfuka86|[note](https://note.com/yfuka86)||
 |you070707|[GitHub Pages](https://haar-you.github.io/)|Rated対象外のコンテストを中心に複数の言語で実装されている回答もある。|
-|yuma220284|[Qiita](https://qiita.com/yuma220284)|2020年2月以降、新規の記事を確認できず。|
 |zaki_|[はてなブログ](https://zaki-joho.hatenablog.com/)||
 |zawatin|[はてなブログ](https://zawatin.hatenablog.com/)||
