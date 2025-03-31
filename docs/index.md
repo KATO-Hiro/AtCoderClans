@@ -106,15 +106,6 @@
       <img loading="lazy" src="images/userscript/adt_abc_converter_button.png" alt="adt abc converter button">
     </div>
 
-    2025-03-16
-
-    - 「[問題を解く](user_scripts/solve_problems)」ページ
-        - [AtCoderNotesForBeginners](https://greasyfork.org/ja/scripts/529251-atcodernotesforbeginners)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_notes_for_beginners.png" alt="atcoder notes for beginners">
-    </div>
-
 === "記事"
 
     2025-03-28
@@ -146,6 +137,14 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2025-03-31
+
+     - 「[アルゴリズム部門 - C](blogs/algorithm/c)」ページ
+        - [sheyasutaka](https://atcoder.jp/users/sheyasutaka)さん - [はてなブログ](https://shojinbusoku.hatenablog.com/)
+
+     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [yuma220284](https://atcoder.jp/users/yuma220284)さん - [はてなブログ](https://yuma220284.hatenablog.com/)
+
     2025-03-17
 
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
@@ -166,6 +165,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-03-31
+
+    - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
+        - [yuma220284](https://atcoder.jp/users/yuma220284)さん - [AtCoder橙になりました - yuma220284's diary](https://yuma220284.hatenablog.com/entry/2025/03/31/151403)
 
     2025-03-30
 
