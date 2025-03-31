@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-03-31
+
+- [#9929](https://github.com/KATO-Hiro/AtCoderClans/pull/9929) - 「[Milestones](../../milestones/orange)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2400から2799まで(橙色)に[yuma220284](https://atcoder.jp/users/yuma220284)さんの[記事](https://yuma220284.hatenablog.com/)を追加。
+- [#9928](https://github.com/KATO-Hiro/AtCoderClans/pull/9928) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+
 ### 2025-03-30
 
 - [#9920](https://github.com/KATO-Hiro/AtCoderClans/pull/9920) - 「[Web apps and sites](../../web_app)」の「[クイズ・ゲーム・ネタアプリ](../../web_app/quiz_and_game)」ページに、以下のWebアプリを追加。
