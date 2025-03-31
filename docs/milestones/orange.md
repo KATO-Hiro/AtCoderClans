@@ -7,6 +7,10 @@ title: レーティング2400〜2799(橙色)
 
 ## 2025年
 
+### アルゴリズム部門
+
+- [AtCoder橙になりました - yuma220284's diary](https://yuma220284.hatenablog.com/entry/2025/03/31/151403) - [yuma220284](https://atcoder.jp/users/yuma220284)さんが、2025年3月31日に達成。
+
 ### ヒューリスティック部門
 
 - [【色変記事】ヒューリスティック入橙しました](https://utac.hateblo.jp/entry/2025/01/17/231729) - [uta_ccc](https://atcoder.jp/users/uta_ccc)さんが、2025年1月17日に公開。
