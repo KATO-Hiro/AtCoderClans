@@ -108,6 +108,11 @@
 
 === "記事"
 
+    2025-04-01
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年4月1日時点、最終結果)](https://x.com/atcoder/status/1906966348435235212)
+
     2025-03-28
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
@@ -144,11 +149,6 @@
 
      - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [yuma220284](https://atcoder.jp/users/yuma220284)さん - [はてなブログ](https://yuma220284.hatenablog.com/)
-
-    2025-03-17
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [KKT89](https://atcoder.jp/users/KKT89)さん - [はてなブログ](https://kkt89.hatenablog.com/)
 
 === "コマンドラインツール"
 
