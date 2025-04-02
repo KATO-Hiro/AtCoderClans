@@ -55,6 +55,7 @@ title: チャンネル
 ## VOICEROID実況
 
 - [forループ](https://www.youtube.com/@for_i_in_loop/featured) - [loop0919](https://atcoder.jp/users/loop0919)さんのチャンネル。コンテストの実況動画が公開されている。
+- [リテモス](https://www.youtube.com/@%E3%83%AA%E3%83%86%E3%83%A2%E3%82%B9) - [Litms](https://atcoder.jp/users/Litms)さんのチャンネル。コンテストの実況動画が公開されている。
 
 ## 生放送・動画配信に関するTips
 
