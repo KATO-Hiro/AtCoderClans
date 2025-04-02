@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-04-02
+
+- [#9945](https://github.com/KATO-Hiro/AtCoderClans/pull/9945) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [リテモス](https://www.youtube.com/@%E3%83%AA%E3%83%86%E3%83%A2%E3%82%B9)
+- [#9944](https://github.com/KATO-Hiro/AtCoderClans/pull/9944) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の記事を追加。
+    - [プログラミングスキル判定サービス「TOPSIC」を全国の教育機関に無償提供](https://prtimes.jp/main/html/rd/p/000000055.000028415.html)
+
 ### 2025-04-01
 
 - [#9935](https://github.com/KATO-Hiro/AtCoderClans/pull/9935) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のツイートを追加。

@@ -108,6 +108,11 @@
 
 === "記事"
 
+    2025-04-02
+
+    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
+        - [プログラミングスキル判定サービス「TOPSIC」を全国の教育機関に無償提供](https://prtimes.jp/main/html/rd/p/000000055.000028415.html)
+
     2025-04-01
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -150,17 +155,19 @@
      - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [yuma220284](https://atcoder.jp/users/yuma220284)さん - [はてなブログ](https://yuma220284.hatenablog.com/)
 
+=== "動画"
+
+    2025-04-02
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [リテモス](https://www.youtube.com/@%E3%83%AA%E3%83%86%E3%83%A2%E3%82%B9)
+
 === "コマンドラインツール"
 
     2025-03-19
 
     - 「[ソースコードにバグがないか確認](cli/test_tools)」ページ
         - [aclogin](https://github.com/key-moon/aclogin) ![GitHub stars](https://img.shields.io/github/stars/key-moon/aclogin?style=plastic)
-
-    2025-03-18
-
-    - 「[問題作成に関する便利ツール](cli/tools_for_writers)」ページ
-        - [rime + testlib で部分点の制約チェックをする](https://sapphire15.hatenablog.com/entry/2025/03/17/231709)
 
 === "色変記事"
 
