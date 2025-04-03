@@ -162,13 +162,6 @@
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [リテモス](https://www.youtube.com/@%E3%83%AA%E3%83%86%E3%83%A2%E3%82%B9)
 
-=== "コマンドラインツール"
-
-    2025-03-19
-
-    - 「[ソースコードにバグがないか確認](cli/test_tools)」ページ
-        - [aclogin](https://github.com/key-moon/aclogin) ![GitHub stars](https://img.shields.io/github/stars/key-moon/aclogin?style=plastic)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
@@ -194,6 +187,11 @@
         - [Sa15MiyagiJapan](https://atcoder.jp/users/Sa15MiyagiJapan)さん - [【入緑記事】プログラミング未経験者でもAtCoder初参加から4か月で緑色になれた](https://qiita.com/hkt_shichisei/items/5b9587244bb819e6682a)
 
 === "国内外のコンテストサイト"
+
+    2025-04-03
+
+    - 「[情報オリンピック](related_contest_sites/joi_ioi)」ページ
+        - [Chromebookで情報オリンピックに挑戦する環境を作る](https://zenn.dev/blue_jam/articles/564a8a5c3a2f1e)
 
     2025-03-23
 
