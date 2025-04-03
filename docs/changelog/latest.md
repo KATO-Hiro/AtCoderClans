@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-04-03
+
+- [#9948](https://github.com/KATO-Hiro/AtCoderClans/pull/9948) - 「[Related Contest Sites](../../related_contest_sites)」の「[情報オリンピック](../../related_contest_sites/joi_ioi)」ページに、以下の記事を追加。
+    - [Chromebookで情報オリンピックに挑戦する環境を作る](https://zenn.dev/blue_jam/articles/564a8a5c3a2f1e)
+
 ### 2025-04-02
 
 - [#9945](https://github.com/KATO-Hiro/AtCoderClans/pull/9945) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
