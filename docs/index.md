@@ -139,11 +139,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AHC044 解説](https://www.terry-u16.net/entry/ahc044)
 
-    2025-03-20
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年3月17日時点)](https://x.com/atcoder/status/1901458780032045328)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -161,6 +156,13 @@
 
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [リテモス](https://www.youtube.com/@%E3%83%AA%E3%83%86%E3%83%A2%E3%82%B9)
+
+=== "コマンドラインツール"
+
+    2025-04-04
+
+    - 「[ソースコードにバグがないか確認](cli/test_tools)」ページ
+        - [aclogin](https://github.com/key-moon/aclogin) ![GitHub stars](https://img.shields.io/github/stars/key-moon/aclogin?style=plastic)
 
 === "色変記事"
 
