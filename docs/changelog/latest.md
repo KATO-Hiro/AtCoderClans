@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-04-04
+
+- [#9951](https://github.com/KATO-Hiro/AtCoderClans/pull/9951) - [#9863](https://github.com/KATO-Hiro/AtCoderClans/pull/9863)に関連して、以下の補助ツールの対応状況を更新。
+    - [aclogin](https://github.com/key-moon/aclogin) ![GitHub stars](https://img.shields.io/github/stars/key-moon/aclogin?style=plastic)
+
 ### 2025-04-03
 
 - [#9948](https://github.com/KATO-Hiro/AtCoderClans/pull/9948) - 「[Related Contest Sites](../../related_contest_sites)」の「[情報オリンピック](../../related_contest_sites/joi_ioi)」ページに、以下の記事を追加。
