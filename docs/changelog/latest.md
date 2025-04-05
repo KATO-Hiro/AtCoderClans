@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-04-05
+
+- [#9955](https://github.com/KATO-Hiro/AtCoderClans/pull/9955) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事とGitHubレポジトリを追加。
+    - [AtCoder環境をDockerで作ってみた](https://qiita.com/kurimochi/items/62330d4e7f53ec3704d5)
+        - [kurimochi/atcoder_on_docker](https://github.com/kurimochi/atcoder_on_docker) ![GitHub Repo stars](https://img.shields.io/github/stars/kurimochi/atcoder_on_docker?style=plastic)
+
 ### 2025-04-04
 
 - [#9951](https://github.com/KATO-Hiro/AtCoderClans/pull/9951) - [#9863](https://github.com/KATO-Hiro/AtCoderClans/pull/9863)に関連して、以下の補助ツールの対応状況を更新。
