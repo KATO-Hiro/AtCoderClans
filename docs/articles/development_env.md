@@ -4,7 +4,7 @@ title: コードを書くための環境構築を行う
 
 !!! info "参考"
 
-    以下の記事は、2025年1月までに公開・更新されたものです。随時、最新の内容を追加する予定です。
+    以下の記事は、2025年4月までに公開・更新されたものです。随時、最新の内容を追加する予定です。
 
 !!! warning "注意"
 
@@ -18,6 +18,8 @@ title: コードを書くための環境構築を行う
 
 - [競技プログラミングの環境を VSCode devcontainer で作成する](https://zenn.dev/ganariya/articles/competitive-devcontainer) - 複数の言語の実行環境を構築する方法と設定例(C++、Go、Python)が紹介されている記事。
     - [ganyariya/competitive](https://github.com/ganyariya/competitive) ![GitHub Repo stars](https://img.shields.io/github/stars/ganyariya/competitive?style=plastic) - C++、C#、Go、Python、Luaの設定例がGitHubで公開されている。
+- [AtCoder環境をDockerで作ってみた](https://qiita.com/kurimochi/items/62330d4e7f53ec3704d5) - C++、Pythonの実行環境の公開と、基本的な利用方法が紹介されている。
+    - [kurimochi/atcoder_on_docker](https://github.com/kurimochi/atcoder_on_docker) ![GitHub Repo stars](https://img.shields.io/github/stars/kurimochi/atcoder_on_docker?style=plastic)
 
 ### C&#43;&#43;
 
