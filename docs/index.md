@@ -84,6 +84,13 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "入門者・初心者向けの内容"
+
+    2025-04-06
+
+    - 「[Q0: アルゴリズム、競技プログラミングとは?](for_beginners/question0)」ページ
+        - [競技プログラミングAtCoderに参加してみよう！初心者向け！AtCoderのはじめ方](https://www.youtube.com/watch?v=_pd3ndlaveU)
+
 === "Webアプリ・Webサイト"
 
     2025-03-30
@@ -152,6 +159,11 @@
         - [yuma220284](https://atcoder.jp/users/yuma220284)さん - [はてなブログ](https://yuma220284.hatenablog.com/)
 
 === "動画"
+
+    2025-04-06
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [競技プログラミングAtCoderに参加してみよう！初心者向け！AtCoderのはじめ方](https://www.youtube.com/watch?v=_pd3ndlaveU)
 
     2025-04-02
 
