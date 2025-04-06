@@ -12,9 +12,15 @@ A0: 入門者、初心者向けの記事や動画に目を通してみましょ�
 
 ### 動画を観る
 
+#### AtCoder公式
+
 - [AtCoderPV](https://www.youtube.com/watch?v=TbZhKTMPJeI) - [AtCoder](https://atcoder.jp/)の公式プロモーションビデオです。特に、競技プログラミングを始めようと思っている人や周囲に布教したい人におすすめです。同一の作者による[別バージョン(2019年版)](https://www.youtube.com/watch?v=-z3bTeA_SEY&feature=youtu.be)もあります。
-- [未経験者のアナタもハマる？競技プログラミング「AtCoder」って何だ？【理系通信】](https://www.youtube.com/watch?v=WGNQrH0AV2k) - テレビ東京総合ニュースサイト([テレ東NEWS](https://www.youtube.com/c/tvtokyonews/playlists))のサイエンスニュースで、[AtCoder](https://atcoder.jp/)が紹介されている動画です。番組ディレクターが、実際のコンテストで出題された問題を解きながら競技プログラミングの魅力を伝えるとともに、企業における高度IT人材の需要などについても取材しています。
-- [競技プログラミングの始め方【ゆっくり解説】](https://www.youtube.com/watch?v=BPkZc3wsCxU) - 競技プログラミングの始め方が紹介されています。PCの選び方、タッチタイピングの必要性、プログラミング言語の選び方、無料教材、問題の一覧と公式解説などが説明されています。
 - [AtCoderの始め方](https://www.youtube.com/watch?v=GlIbjsEttaY) - [AtCoder](https://atcoder.jp/)が公開しているチュートリアルです。ユーザ登録やコンテストへの参加方法、コンテスト後の復習方法などが説明されています。
+
+#### 有志
+
+- [競技プログラミングの始め方【ゆっくり解説】](https://www.youtube.com/watch?v=BPkZc3wsCxU) - 競技プログラミングの始め方が紹介されています。PCの選び方、タッチタイピングの必要性、プログラミング言語の選び方、無料教材、問題の一覧と公式解説などが説明されています。
+- [競技プログラミングAtCoderに参加してみよう！初心者向け！AtCoderのはじめ方](https://www.youtube.com/watch?v=_pd3ndlaveU) - [AtCoder](https://atcoder.jp/)のアカウント登録、練習問題の解き方、コンテストの参加方法などが紹介されています。
+- [未経験者のアナタもハマる？競技プログラミング「AtCoder」って何だ？【理系通信】](https://www.youtube.com/watch?v=WGNQrH0AV2k) - テレビ東京総合ニュースサイト([テレ東NEWS](https://www.youtube.com/c/tvtokyonews/playlists))のサイエンスニュースで、[AtCoder](https://atcoder.jp/)が紹介されている動画です。番組ディレクターが、実際のコンテストで出題された問題を解きながら競技プログラミングの魅力を伝えるとともに、企業における高度IT人材の需要などについても取材しています。
 - [2分で始める競技プログラミング【高井茅乃 #31】](https://www.youtube.com/watch?v=F4_1yWI5Z-Y&feature=youtu.be) - 競技プログラミングの概説、[AtCoder](https://atcoder.jp/)のアカウント登録、練習問題を解く方法が2分で紹介されています。
 - [AtCoderの始め方。競プロに興味はあるけどやっていないという方へ。](https://www.youtube.com/watch?v=vxBOC08XZ44&feature=youtu.be) - 教育系エンジニアによる[AtCoder](https://atcoder.jp/)の紹介動画です。競技プログラミングの解説に加えて、便利なサービス・ツールが紹介されています。
