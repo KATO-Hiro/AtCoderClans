@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-04-07
+
+- [#9968](https://github.com/KATO-Hiro/AtCoderClans/pull/9968) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[what_a_mess](https://atcoder.jp/users/what_a_mess)さんの[記事](https://qiita.com/what_a_mess/items/84959019bd18d7c5ed59)を追加。
+- [#9966](https://github.com/KATO-Hiro/AtCoderClans/pull/9966) - (破壊的な変更) リンク切れと思われる記事を「[Archives](../../archived)」ページに移動。
+
 ### 2025-04-06
 
 - [#9960](https://github.com/KATO-Hiro/AtCoderClans/pull/9960) - 「[For Beginners](../../for_beginners)」の「[Q0: アルゴリズム、競技プログラミングとは?](../../for_beginners/question0)」ページと「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。

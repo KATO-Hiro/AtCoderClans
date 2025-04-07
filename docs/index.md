@@ -181,6 +181,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2025-04-07
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [what_a_mess](https://atcoder.jp/users/what_a_mess)さん - [AtCoder水色になりました](https://qiita.com/what_a_mess/items/84959019bd18d7c5ed59)
+
     2025-03-31
 
     - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
@@ -188,7 +193,7 @@
 
     2025-03-30
 
-     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [yoniha](https://atcoder.jp/users/yoniha)さん - [ABC399でAlgorithm入水したぞ！](https://note.com/yoniha428/n/n6203f6d35764)
 
     2025-03-27
@@ -207,11 +212,6 @@
 
     - 「[情報オリンピック](related_contest_sites/joi_ioi)」ページ
         - [Chromebookで情報オリンピックに挑戦する環境を作る](https://zenn.dev/blue_jam/articles/564a8a5c3a2f1e)
-
-    2025-03-23
-
-    - 「[情報オリンピック](related_contest_sites/joi_ioi)」ページ
-        - [JOI春環境構築【MakeFile】](https://blueberry1001.hatenablog.com/entry/2025/03/19/151024)
 
 ## AtCoder公式グッズを購入する
 
