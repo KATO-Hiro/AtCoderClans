@@ -400,6 +400,8 @@ title: 開発・提供終了
 
 ### ヒューリスティック問題を解く
 
+- [みんなAHCの魅力を知らなすぎて困る](https://trap.jp/post/2006/) - [AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=AtCoder+Heuristic+Contest)の魅力・おすすめの理由が語られている記事。次のコンテストに参加するまでにできることも紹介されている。
+    - 確認した日: 2025/04/07
 - [【AHC020 参加記】初参加の初心者でもそれなりに善戦できるぞという話](https://qiita.com/halcyonFX/items/c6d7ebdf375f359c596c) - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さんの参加記。初参加の[AtCoder Heuristic Contest 020](https://atcoder.jp/contests/ahc020)で、愚直な解法から高得点を得るための思考過程を紹介した記事。
     - 確認した日: 2024/04/14
 

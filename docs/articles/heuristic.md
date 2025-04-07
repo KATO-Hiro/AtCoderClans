@@ -28,7 +28,6 @@ title: ヒューリスティック問題を解く
 - [AHC(AtCoder Heuristic Contest)はいいぞ](https://qiita.com/erukku/items/b3418afbedb263174d05) - [AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=AtCoder+Heuristic+Contest)への参加を布教している記事。筆者のおすすめポイントが紹介されている。
 - [競技プログラミングにおけるマラソン系コンテストの楽しみ方](https://qiita.com/tsukammo/items/878f87243d6df17d6c69) - ヒューリスティック型コンテストの楽しみ方を、点数・visualizer・感想戦の観点から紹介した記事。
 - [競技プログラミングにおけるゲーム木探索の面白さ](https://qiita.com/tsukammo/items/02e8ad2469c5441d2956) - 実例をもとにゲームAI系コンテストの魅力・面白さを紹介した記事。
-- [みんなAHCの魅力を知らなすぎて困る](https://trap.jp/post/2006/) - [AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=AtCoder+Heuristic+Contest)の魅力・おすすめの理由が語られている記事。次のコンテストに参加するまでにできることも紹介されている。
 
 ### 問題を解く
 
