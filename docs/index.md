@@ -142,11 +142,6 @@
         - [AtCoder Heuristic First-step Vol.1 講義スライド 〜問題理解と貪欲法〜](https://speakerdeck.com/terryu16/atcoder-heuristic-first-step-vol-dot-1-jiang-yi-suraido)
         - [AtCoder Heuristic First-step Vol.1 講義スライド 〜山登り法・焼きなまし法編〜](https://speakerdeck.com/takumi152/atcoder-heuristic-first-step-vol-dot-1-jiang-yi-suraido-shan-deng-rifa-shao-kinamasifa-bian)
 
-    2025-03-24
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年3月24日時点)](https://x.com/atcoder/status/1903989351903821897)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -180,6 +175,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-04-08
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [YFYF](https://atcoder.jp/users/YFYF)さん - [ABC400振り返り兼入青記事](https://note.com/yyyfff48/n/n0240fea1a143)
 
     2025-04-07
 
