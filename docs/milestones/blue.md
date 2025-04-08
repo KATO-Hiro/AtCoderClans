@@ -4,6 +4,7 @@ title: レーティング1600〜1999(青色)
 
 ## 2025年
 
+- [ABC400振り返り兼入青記事](https://note.com/yyyfff48/n/n0240fea1a143) - [YFYF](https://atcoder.jp/users/YFYF)さんが、2025年4月5日に達成。
 - [【競技プログラミング】AtCoder Beginner Contest 396 入青実況(地声)](https://www.youtube.com/watch?v=q5Xa2RG3y7Q) - [sinzyousan](https://atcoder.jp/users/sinzyousan)さんが、2025年3月8日に達成。
 - [【AtCoder】 入青しました。](https://note.com/another_akizuki/n/nd243d9828ee6) - [tenp1729](https://atcoder.jp/users/tenp1729)さんが、2025年2月1日に達成。
 
