@@ -115,6 +115,14 @@
 
 === "記事"
 
+    2025-04-09
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年4月7日時点)](https://x.com/atcoder/status/1909173426184675597)
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [THIRD プログラミングコンテスト2025（AtCoder Heuristic Contest 045）参加記](https://kaede2020.hatenablog.com/entry/2025/04/07/190047)
+
     2025-04-05
 
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
@@ -200,11 +208,6 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [ytz](https://atcoder.jp/users/ytz)さん - [【色変記事】某国支社長61歳文系、入茶しました(初心者）](https://qiita.com/ytz/items/07898c9afbf451071113)
-
-    2025-03-25
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [Sa15MiyagiJapan](https://atcoder.jp/users/Sa15MiyagiJapan)さん - [【入緑記事】プログラミング未経験者でもAtCoder初参加から4か月で緑色になれた](https://qiita.com/hkt_shichisei/items/5b9587244bb819e6682a)
 
 === "国内外のコンテストサイト"
 
