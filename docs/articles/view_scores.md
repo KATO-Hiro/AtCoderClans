@@ -4,6 +4,10 @@ title: コンテストに関する統計情報を見る
 
 ## AtCoder Junior League (AJL)
 
+### 2025年
+
+- [AtCoder Junior League 2025 Summer - 学校ランキング](https://x.com/atcoder/status/1909173426184675597) - 中学および高校のアルゴリズム部門・ヒューリスティック部門の学校別ランキング。2025年4月7日時点。
+
 ### 2024年
 
 - [AtCoder Junior League 2024 Winter - 学校ランキング](https://x.com/atcoder/status/1843137096841875936) - 中学および高校のアルゴリズム部門・ヒューリスティック部門の学校別ランキング。2024年10月7日時点。
