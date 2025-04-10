@@ -93,6 +93,12 @@
 
 === "Webアプリ・Webサイト"
 
+    2025-04-10
+
+    - 「[コンテストに関する統計情報](web_app/statistics)」ページ
+        - [wladimirleite.github.io](https://github.com/wladimirleite/wladimirleite.github.io) ![GitHub Repo stars](https://img.shields.io/github/stars/wladimirleite/wladimirleite.github.io?style=plastic)
+            - [AHC 045](https://wladimirleite.github.io/ahc045.html)
+
     2025-03-30
 
     - 「[クイズ・ゲーム・ネタアプリ](web_app/quiz_and_game)」ページ
@@ -143,12 +149,6 @@
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [Manacher's algorithm でダミー文字を使わなくて済む方法](https://ngtkana.hatenablog.com/entry/2024/03/17/034026)
-
-    2025-03-26
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AtCoder Heuristic First-step Vol.1 講義スライド 〜問題理解と貪欲法〜](https://speakerdeck.com/terryu16/atcoder-heuristic-first-step-vol-dot-1-jiang-yi-suraido)
-        - [AtCoder Heuristic First-step Vol.1 講義スライド 〜山登り法・焼きなまし法編〜](https://speakerdeck.com/takumi152/atcoder-heuristic-first-step-vol-dot-1-jiang-yi-suraido-shan-deng-rifa-shao-kinamasifa-bian)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。

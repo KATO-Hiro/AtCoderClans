@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-04-10
+
+- [#9984](https://github.com/KATO-Hiro/AtCoderClans/pull/9984) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページに掲載しているWebサイトの説明文を更新。
+    - [wladimirleite.github.io](https://github.com/wladimirleite/wladimirleite.github.io) ![GitHub Repo stars](https://img.shields.io/github/stars/wladimirleite/wladimirleite.github.io?style=plastic)
+        - [AHC 045](https://wladimirleite.github.io/ahc045.html)
+
 ### 2025-04-09
 
 - [#9977](https://github.com/KATO-Hiro/AtCoderClans/pull/9977) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
