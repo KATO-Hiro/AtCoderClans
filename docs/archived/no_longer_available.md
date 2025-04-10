@@ -519,6 +519,8 @@ title: 開発・提供終了
 - [Coki628/Python/lib](https://github.com/Coki628/Python/tree/master/lib) ![GitHub stars](https://img.shields.io/github/stars/Coki628/Python?style=plastic) - [Coki628](https://atcoder.jp/users/Coki628)さんのPythonライブラリ。
 - [maspypy/compro_library](https://github.com/maspypy/compro_library) ![GitHub stars](https://img.shields.io/github/stars/maspypy/compro_library?style=plastic) - [maspy](https://atcoder.jp/users/maspy)さんのPythonライブラリ。
 - [mts1104/atcoder](https://github.com/mts1104/atcoder/tree/master/python/lib) ![GitHub Repo stars](https://img.shields.io/github/stars/mts1104/atcoder?style=plastic) - [parentheses](https://atcoder.jp/users/parentheses)さんのライブラリ。レポジトリには、[C++のライブラリ](https://github.com/mts1104/atcoder/tree/master/cpp/lib)も含まれている。
+- [nanoseeing/AtCoder](https://github.com/nanoseeing/AtCoder) ![GitHub Repo stars](https://img.shields.io/github/stars/nanoseeing/AtCoder?style=plastic) - [nanoseeing](https://atcoder.jp/users/nanoseeing)さんのライブラリ。
+    - 確認した日: 2025/04/10
 - [Neterukun1993/algorithm](https://github.com/Neterukun1993/algorithm) ![GitHub stars](https://img.shields.io/github/stars/Neterukun1993/algorithm?style=plastic) - [neterukun](https://atcoder.jp/users/neterukun)さんのPythonライブラリ。
 
 ### 不明
