@@ -6,6 +6,7 @@ title: Change Log
 
 ### 2025-04-10
 
+- [#9988](https://github.com/KATO-Hiro/AtCoderClans/pull/9988) - (破壊的な変更) 非公開になったと思われるライブラリを「[Archives](../../archived)」ページに移動。
 - [#9984](https://github.com/KATO-Hiro/AtCoderClans/pull/9984) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページに掲載しているWebサイトの説明文を更新。
     - [wladimirleite.github.io](https://github.com/wladimirleite/wladimirleite.github.io) ![GitHub Repo stars](https://img.shields.io/github/stars/wladimirleite/wladimirleite.github.io?style=plastic)
         - [AHC 045](https://wladimirleite.github.io/ahc045.html)
