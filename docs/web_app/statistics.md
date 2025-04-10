@@ -80,10 +80,11 @@ title: コンテストに関する統計情報
     </div>
 
 - [wladimirleite.github.io](https://github.com/wladimirleite/wladimirleite.github.io) ![GitHub Repo stars](https://img.shields.io/github/stars/wladimirleite/wladimirleite.github.io?style=plastic) - [AtCoder Heuristic Contest (AHC)](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=)の最終成績や制約条件別の得点・順位を見ることができる。[Topcoder](https://www.topcoder.com/)のMarathon Matches(MM)についても、同様の集計がされている。
-    - [AHC 038](https://wladimirleite.github.io/ahc038.html)
+    - [AHC 045](https://wladimirleite.github.io/ahc045.html)
 
     ??? info "過去のAHCの集計結果"
 
+        - [AHC 038](https://wladimirleite.github.io/ahc038.html)
         - [AHC 031](https://wladimirleite.github.io/ahc031.html)
         - [AHC 017](https://wladimirleite.github.io/ahc017.html)
         - [AHC 016](https://wladimirleite.github.io/ahc016.html)
