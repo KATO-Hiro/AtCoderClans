@@ -121,6 +121,11 @@
 
 === "記事"
 
+    2025-04-11
+
+    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
+        - [中高生向け学校対抗競技プログラミング「AtCoder Junior League 2025 Summer」](https://reseed.resemom.jp/article/2025/04/10/10675.html)
+
     2025-04-09
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -203,11 +208,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [yoniha](https://atcoder.jp/users/yoniha)さん - [ABC399でAlgorithm入水したぞ！](https://note.com/yoniha428/n/n6203f6d35764)
-
-    2025-03-27
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [ytz](https://atcoder.jp/users/ytz)さん - [【色変記事】某国支社長61歳文系、入茶しました(初心者）](https://qiita.com/ytz/items/07898c9afbf451071113)
 
 === "国内外のコンテストサイト"
 
