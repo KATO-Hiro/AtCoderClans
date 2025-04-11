@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-04-11
+
+- [#9992](https://github.com/KATO-Hiro/AtCoderClans/pull/9992) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の記事を追加。
+    - [中高生向け学校対抗競技プログラミング「AtCoder Junior League 2025 Summer」](https://reseed.resemom.jp/article/2025/04/10/10675.html)
+
 ### 2025-04-10
 
 - [#9988](https://github.com/KATO-Hiro/AtCoderClans/pull/9988) - (破壊的な変更) 非公開になったと思われるライブラリを「[Archives](../../archived)」ページに移動。
