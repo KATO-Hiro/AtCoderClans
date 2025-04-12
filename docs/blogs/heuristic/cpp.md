@@ -14,6 +14,7 @@ title: C&#43;&#43;
 |hitonanode|[はてなブログ](https://rsm9.hatenablog.com/)||
 |Jirotech|[はてなブログ](https://shuu0914.hatenablog.com/)||
 |LayCurse|[自作ブログ](http://rsujskf.s602.xrea.com/)||
+|MathGorilla|[はてなブログ](https://math-gorilla.hatenablog.com)||
 |mtsd|[はてなブログ](https://mtsd-programming.hatenablog.com/)||
 |nagiss|[はてなブログ](https://nagiss.hateblo.jp/)||
 |phocom|[Qiita](https://qiita.com/phocom)||
@@ -39,7 +40,6 @@ title: C&#43;&#43;
 |hitoare|[はてなブログ](https://hitoare.hatenablog.com/)||
 |iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
 |kozima|[はてなブログ](https://lkozima.hatenablog.com/)||
-|MathGorilla|[はてなブログ](https://math-gorilla.hatenablog.com)||
 |niuez|[GitHub Pages](https://niuez.github.io/)||
 |noimi|[はてなブログ](https://noimi.hatenablog.com/)||
 |Nyaan|[はてなブログ](https://nyaan.hatenablog.com/)||
@@ -59,6 +59,7 @@ title: C&#43;&#43;
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
 |birdwatcher|[Qiita](https://qiita.com/birdwatcher)||
+|bo9chan|[Qiita](https://qiita.com/bo9chan)||
 |dsytk7|[はてなブログ](https://dsytk7.hateblo.jp)||
 |ganmodokix|[はてなブログ](https://aprilganmo.hatenablog.com/)||
 |hakomo|[はてなブログ](https://hakomof.hatenablog.com/)||
