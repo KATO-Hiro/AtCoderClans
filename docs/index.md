@@ -119,6 +119,17 @@
       <img loading="lazy" src="images/userscript/adt_abc_converter_button.png" alt="adt abc converter button">
     </div>
 
+=== "FireFox拡張機能"
+
+    2025-04-12
+
+    - 「[復習の効果をより高める](firefox_extensions/review)」ページ
+        - [Atcoder to Obsidian](https://github.com/1m-N00b/Atcoder-to-Obsidian) ![GitHub Repo stars](https://img.shields.io/github/stars/1m-N00b/Atcoder-to-Obsidian?style=plastic)
+
+    <div align="center">
+    <img loading="lazy" src="images/firefox_extension/atcoder_to_obsidian.png" alt="atcoder to obsidian">
+    </div>
+
 === "記事"
 
     2025-04-11
@@ -150,13 +161,14 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年4月1日時点、最終結果)](https://x.com/atcoder/status/1906966348435235212)
 
-    2025-03-28
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [Manacher's algorithm でダミー文字を使わなくて済む方法](https://ngtkana.hatenablog.com/entry/2024/03/17/034026)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2025-04-12
+
+     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [MathGorilla](https://atcoder.jp/users/MathGorilla)さん - [はてなブログ](https://math-gorilla.hatenablog.com)
+        - [bo9chan](https://atcoder.jp/users/bo9chan)さん - [Qiita](https://qiita.com/bo9chan)
 
     2025-03-31
 
