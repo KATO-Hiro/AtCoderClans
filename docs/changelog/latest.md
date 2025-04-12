@@ -7,7 +7,7 @@ title: Change Log
 ### 2025-04-12
 
 - [#9997](https://github.com/KATO-Hiro/AtCoderClans/pull/9997) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
-- [#9994](https://github.com/KATO-Hiro/AtCoderClans/pull/9994) - 「[Scripts](../../scripts)」の「[復習の効果をより高める](../../firefox_extensions/review)」ページに、以下のFireFox/Chrome拡張を追加。
+- [#9994](https://github.com/KATO-Hiro/AtCoderClans/pull/9994) - [@n00b_c0d3r](https://x.com/n00b_c0d3r)さんのご紹介で、「[Scripts](../../scripts)」の「[復習の効果をより高める](../../firefox_extensions/review)」ページに、以下のFireFox/Chrome拡張を追加。
     - [Atcoder to Obsidian](https://github.com/1m-N00b/Atcoder-to-Obsidian) ![GitHub Repo stars](https://img.shields.io/github/stars/1m-N00b/Atcoder-to-Obsidian?style=plastic)
 
 ### 2025-04-11
