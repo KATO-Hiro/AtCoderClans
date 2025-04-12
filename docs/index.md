@@ -124,7 +124,6 @@
     2025-04-12
 
     - 「[復習の効果をより高める](firefox_extensions/review)」ページ
-
         - [Atcoder to Obsidian](https://github.com/1m-N00b/Atcoder-to-Obsidian) ![GitHub Repo stars](https://img.shields.io/github/stars/1m-N00b/Atcoder-to-Obsidian?style=plastic)
 
     <div align="center">
