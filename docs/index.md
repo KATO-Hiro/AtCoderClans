@@ -257,10 +257,6 @@
 
 - [AtCoder株式会社](https://github.com/atcoder)
 
-### 💚 AtCoder Clans Sponsor
-
-- [chokudai](https://github.com/chokudai)
-
 ### 🌐 Domain Supporter
 
 - [KoyanagiHitoshi](https://github.com/KoyanagiHitoshi)
@@ -270,9 +266,3 @@
 - ia7ck
 - ngtkana
 - tomii9273
-- toshi201
-
-### 🙂 Special Supporter
-
-- otsuneko
-- yunix-kyopro
