@@ -253,6 +253,10 @@
 
 [GitHub Sponsors](https://github.com/sponsors/KATO-Hiro)で寄付していただいた方には、いくつかの特典をご用意しております。
 
+### 🏢 𝑬𝑵𝑻𝑬𝑹𝑷𝑹𝑰𝑺𝑬 Sponsor
+
+- [AtCoder株式会社](https://github.com/atcoder)
+
 ### 💚 AtCoder Clans Sponsor
 
 - [chokudai](https://github.com/chokudai)
