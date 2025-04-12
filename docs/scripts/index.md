@@ -49,3 +49,7 @@ title: Scripts - はじめに
 - [テストケースを見る・復習の効果をより高める](../chrome_extensions/review)
 - [コンテストの成績を見る](../chrome_extensions/view_scores)
 - [Webページをより見やすく](../chrome_extensions/improve_ui)
+
+### FireFoxの拡張機能
+
+- [復習の効果をより高める](../firefox_extensions/review)
