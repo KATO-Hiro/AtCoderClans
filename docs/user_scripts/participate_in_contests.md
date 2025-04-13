@@ -58,6 +58,12 @@ title: コンテストに参加する
       <img loading="lazy" src="../../images/userscript/atcoder_standings_ac_time_formatter.png" alt="atcoder standings ac time formatter">
     </div>
 
+- [AtCoder の順位表を広げるやつ](https://greasyfork.org/ja/scripts/532077-atcoder-%E3%81%AE%E9%A0%86%E4%BD%8D%E8%A1%A8%E3%82%92%E5%BA%83%E3%81%92%E3%82%8B%E3%82%84%E3%81%A4) - 「順位表」ページで、表の幅を100%に広げるとともに、高さをやや狭くする。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_full_page_standings.png" alt="atcoder full page standings">
+    </div>
+
 ### シングルディスプレイの表示を最適化
 
 - [AtCoder Style Optimizer for Single Display](https://greasyfork.org/ja/scripts/463585-atcoder-style-optimizer-for-single-display) - [AtCoder](https://atcoder.jp/)の各ページの横幅を最大まで広げて表示する。
