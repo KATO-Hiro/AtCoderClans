@@ -118,13 +118,13 @@
 
 === "ユーザスクリプト"
 
-    2025-03-29
+    2025-04-13
 
-    - 「[問題を解く](user_scripts/solve_problems)」ページ
-        - [ADT⇄ABC Converter Button](https://greasyfork.org/ja/scripts/531079-adt-abc-converter-button)
+    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
+        - [AtCoder の順位表を広げるやつ](https://greasyfork.org/ja/scripts/532077-atcoder-%E3%81%AE%E9%A0%86%E4%BD%8D%E8%A1%A8%E3%82%92%E5%BA%83%E3%81%92%E3%82%8B%E3%82%84%E3%81%A4)
 
     <div align="center">
-      <img loading="lazy" src="images/userscript/adt_abc_converter_button.png" alt="adt abc converter button">
+      <img loading="lazy" src="images/userscript/atcoder_full_page_standings.png" alt="atcoder full page standings">
     </div>
 
 === "FireFox拡張機能"

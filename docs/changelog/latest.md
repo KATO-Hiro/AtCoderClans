@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-04-13
+
+- [#10006](https://github.com/KATO-Hiro/AtCoderClans/pull/10006) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder の順位表を広げるやつ](https://greasyfork.org/ja/scripts/532077-atcoder-%E3%81%AE%E9%A0%86%E4%BD%8D%E8%A1%A8%E3%82%92%E5%BA%83%E3%81%92%E3%82%8B%E3%82%84%E3%81%A4)
+
 ### 2025-04-12
 
 - [#10001](https://github.com/KATO-Hiro/AtCoderClans/pull/9093) - [Home](../..)ページに、本サービスのスポンサー(敬称略)を掲載。ご支援いただき、ありがとうございます。
