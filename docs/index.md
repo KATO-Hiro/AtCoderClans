@@ -107,15 +107,6 @@
         - [wladimirleite.github.io](https://github.com/wladimirleite/wladimirleite.github.io) ![GitHub Repo stars](https://img.shields.io/github/stars/wladimirleite/wladimirleite.github.io?style=plastic)
             - [AHC 045](https://wladimirleite.github.io/ahc045.html)
 
-    2025-03-30
-
-    - 「[クイズ・ゲーム・ネタアプリ](web_app/quiz_and_game)」ページ
-        - [嘘解法4コマジェネレーター](https://catupper.github.io/usokaiho-comic-generator/)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/usokaiho_comic_generator.png" alt="usokaiho comic generator">
-    </div>
-
 === "ユーザスクリプト"
 
     2025-04-13
@@ -139,6 +130,11 @@
     </div>
 
 === "記事"
+
+    2025-04-14
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年4月14日時点)](https://x.com/atcoder/status/1911607012141777336)
 
     2025-04-11
 
@@ -223,11 +219,6 @@
 
     - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
         - [yuma220284](https://atcoder.jp/users/yuma220284)さん - [AtCoder橙になりました - yuma220284's diary](https://yuma220284.hatenablog.com/entry/2025/03/31/151403)
-
-    2025-03-30
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [yoniha](https://atcoder.jp/users/yoniha)さん - [ABC399でAlgorithm入水したぞ！](https://note.com/yoniha428/n/n6203f6d35764)
 
 === "国内外のコンテストサイト"
 
