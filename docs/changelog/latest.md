@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-04-15
+
+- [#10016](https://github.com/KATO-Hiro/AtCoderClans/pull/10016) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [【ネタバレ注意】AHCの焼きなまし・ビームサーチ練習にオススメの問題まとめ](https://www.terry-u16.net/entry/ahc-practice-problem)
+- [#10015](https://github.com/KATO-Hiro/AtCoderClans/pull/10015) - 「[Libraries and Snippets](../../libraries)」の「[ライブラリチェッカー](../../libraries/library_checker)」ページに掲載している関連リンクを更新。
+    - [library-checker-testcases-2](https://github.com/hotman78/library-checker-testcases-2) ![GitHub Repo stars](https://img.shields.io/github/stars/hotman78/library-checker-testcases-2?style=plastic)
+
 ### 2025-04-14
 
 - [#10012](https://github.com/KATO-Hiro/AtCoderClans/pull/10012) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
