@@ -78,6 +78,7 @@ title: ヒューリスティック問題を解く
     - [AHC典型解法シリーズ第2弾「焼きなまし法」](https://qiita.com/thun-c/items/ecd438fde4d237b1f7bc) - 典型的な解法をまとめたシリーズの第2弾。コンテストの過去問を例題に、焼きなまし法の適用するときの工夫が解説されている。
     - [AHC典型解法シリーズ第3弾「ベイズ推定」](https://qiita.com/thun-c/items/688442aad6a0410545cc) - 同第3弾。ベイズ推定の具体的な使い方が紹介されている。
     - [AHC典型解法シリーズ第4弾「ビームサーチ」](https://qiita.com/thun-c/items/98f22c8fcdb1fd827b00) - 同4弾。ビームサーチを単に利用するだけでなく、問題の解き方を考えることの重要性も示されている。
+- [【ネタバレ注意】AHCの焼きなまし・ビームサーチ練習にオススメの問題まとめ](https://www.terry-u16.net/entry/ahc-practice-problem) - ヒューリスティック部門における典型アルゴリズムを学習するための問題がまとめられている。
 - [マラソン系コンテストでソースコードを分割して書く方法のメモ(C++)](https://yunix-kyopro.hatenablog.com/entry/2023/03/14/220453) - コンテストで快適にコーディングできるように、開発時にはソースコード(C++)を複数のファイルに分割して記述し、提出時に1つにまとめて提出する方法が紹介されている記事。
     - [サンプルコード](https://github.com/yunix-kyopro/AHC-cpp-template-public) ![GitHub Repo stars](https://img.shields.io/github/stars/yunix-kyopro/AHC-cpp-template-public?style=plastic)
 - [ヒューリスティックコンテストで機械学習しよう](https://speakerdeck.com/nagiss/hiyurisuteitukukontesutodeji-jie-xue-xi-siyou) - コンテストで統計的な手法を検討したい場合に、典型的な問題とその実装例が紹介されているスライド。
