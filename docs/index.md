@@ -131,6 +131,11 @@
 
 === "記事"
 
+    2025-04-15
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [【ネタバレ注意】AHCの焼きなまし・ビームサーチ練習にオススメの問題まとめ](https://www.terry-u16.net/entry/ahc-practice-problem)
+
     2025-04-14
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -174,14 +179,6 @@
         - [MathGorilla](https://atcoder.jp/users/MathGorilla)さん - [はてなブログ](https://math-gorilla.hatenablog.com)
         - [bo9chan](https://atcoder.jp/users/bo9chan)さん - [Qiita](https://qiita.com/bo9chan)
 
-    2025-03-31
-
-     - 「[アルゴリズム部門 - C](blogs/algorithm/c)」ページ
-        - [sheyasutaka](https://atcoder.jp/users/sheyasutaka)さん - [はてなブログ](https://shojinbusoku.hatenablog.com/)
-
-     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [yuma220284](https://atcoder.jp/users/yuma220284)さん - [はてなブログ](https://yuma220284.hatenablog.com/)
-
 === "動画"
 
     2025-04-06
@@ -193,6 +190,13 @@
 
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [リテモス](https://www.youtube.com/@%E3%83%AA%E3%83%86%E3%83%A2%E3%82%B9)
+
+=== "ライブラリ・スニペット"
+
+    2025-04-15
+
+    - 「[ライブラリチェッカー](libraries/library_checker)」ページ
+        - [library-checker-testcases-2](https://github.com/hotman78/library-checker-testcases-2) ![GitHub Repo stars](https://img.shields.io/github/stars/hotman78/library-checker-testcases-2?style=plastic)
 
 === "コマンドラインツール"
 
@@ -214,11 +218,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [what_a_mess](https://atcoder.jp/users/what_a_mess)さん - [AtCoder水色になりました](https://qiita.com/what_a_mess/items/84959019bd18d7c5ed59)
-
-    2025-03-31
-
-    - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
-        - [yuma220284](https://atcoder.jp/users/yuma220284)さん - [AtCoder橙になりました - yuma220284's diary](https://yuma220284.hatenablog.com/entry/2025/03/31/151403)
 
 === "国内外のコンテストサイト"
 
