@@ -165,11 +165,6 @@
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
         - [プログラミングスキル判定サービス「TOPSIC」を全国の教育機関に無償提供](https://prtimes.jp/main/html/rd/p/000000055.000028415.html)
 
-    2025-04-01
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2024 Winter - 学校ランキング (2025年4月1日時点、最終結果)](https://x.com/atcoder/status/1906966348435235212)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -180,6 +175,11 @@
         - [bo9chan](https://atcoder.jp/users/bo9chan)さん - [Qiita](https://qiita.com/bo9chan)
 
 === "動画"
+
+    2025-04-16
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [鵺宮ミヤ(やみやみや)](https://www.youtube.com/playlist?list=PLfDk7e-j_wHFSc2F_EZ_7CyGXIrMx0gup)
 
     2025-04-06
 

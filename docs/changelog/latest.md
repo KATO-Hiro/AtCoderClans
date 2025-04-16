@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-04-16
+
+- [#10020](https://github.com/KATO-Hiro/AtCoderClans/pull/10020) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [鵺宮ミヤ(やみやみや)](https://www.youtube.com/playlist?list=PLfDk7e-j_wHFSc2F_EZ_7CyGXIrMx0gup)
+
 ### 2025-04-15
 
 - [#10016](https://github.com/KATO-Hiro/AtCoderClans/pull/10016) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
