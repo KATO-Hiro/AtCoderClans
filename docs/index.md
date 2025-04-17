@@ -169,11 +169,6 @@
         - [AtCoder環境をDockerで作ってみた](https://qiita.com/kurimochi/items/62330d4e7f53ec3704d5)
             - [kurimochi/atcoder_on_docker](https://github.com/kurimochi/atcoder_on_docker) ![GitHub Repo stars](https://img.shields.io/github/stars/kurimochi/atcoder_on_docker?style=plastic)
 
-    2025-04-02
-
-    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
-        - [プログラミングスキル判定サービス「TOPSIC」を全国の教育機関に無償提供](https://prtimes.jp/main/html/rd/p/000000055.000028415.html)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -194,11 +189,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [競技プログラミングAtCoderに参加してみよう！初心者向け！AtCoderのはじめ方](https://www.youtube.com/watch?v=_pd3ndlaveU)
-
-    2025-04-02
-
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [リテモス](https://www.youtube.com/@%E3%83%AA%E3%83%86%E3%83%A2%E3%82%B9)
 
 === "ライブラリ・スニペット"
 
