@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-04-17
+
+- [#10023](https://github.com/KATO-Hiro/AtCoderClans/pull/10023) - [Home](../..)ページに、以下の記事を掲載。
+    - [ジャッジキューの処理遅延と今後の対応につきまして](https://atcoder.jp/posts/1456)
+
 ### 2025-04-16
 
 - [#10020](https://github.com/KATO-Hiro/AtCoderClans/pull/10020) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
