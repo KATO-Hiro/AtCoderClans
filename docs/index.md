@@ -69,6 +69,10 @@
 - [ARCのDivision制についての告知](https://atcoder.jp/posts/1364) - ARC189以降、AtCoder Regular Contest (通称 ARC) は難易度の異なる2種類のコンテストに分けられることが告知されています。
     - [ARC Div.1 の rated 上限の変更について](https://atcoder.jp/posts/1433) - ARC196 以降の ARC Div.1 の 開催形式の変更に関するお知らせです。
 
+#### ジャッジシステムの処理状況
+
+- [ジャッジキューの処理遅延と今後の対応につきまして](https://atcoder.jp/posts/1456) - ジャッジシステムで処理の遅延が発生している原因と今後の対応、非公式ツールへの影響が説明されています。
+
 #### セキュリティ対策
 
 - [AtCoderアカウントのパスワード管理について](https://atcoder.jp/posts/1366) - 不正アクセス防止のため、[AtCoder](https://atcoder.jp/)アカウントのパスワード確認・必要に応じて変更を促しています。
