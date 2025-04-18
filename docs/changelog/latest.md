@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-04-18
+
+- [#10028](https://github.com/KATO-Hiro/AtCoderClans/pull/10028) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。
+    - [AtCoder 環境構築 Python編](https://zenn.dev/fro25zen/articles/atcoder_setup_article)
+
 ### 2025-04-17
 
 - [#10023](https://github.com/KATO-Hiro/AtCoderClans/pull/10023) - [Home](../..)ページに、以下の記事を掲載。

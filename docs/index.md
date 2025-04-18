@@ -140,6 +140,11 @@
 
 === "記事"
 
+    2025-04-18
+
+    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
+        - [AtCoder 環境構築 Python編](https://zenn.dev/fro25zen/articles/atcoder_setup_article)
+
     2025-04-15
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -217,13 +222,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [what_a_mess](https://atcoder.jp/users/what_a_mess)さん - [AtCoder水色になりました](https://qiita.com/what_a_mess/items/84959019bd18d7c5ed59)
-
-=== "国内外のコンテストサイト"
-
-    2025-04-03
-
-    - 「[情報オリンピック](related_contest_sites/joi_ioi)」ページ
-        - [Chromebookで情報オリンピックに挑戦する環境を作る](https://zenn.dev/blue_jam/articles/564a8a5c3a2f1e)
 
 ## AtCoder公式グッズを購入する
 
