@@ -88,6 +88,10 @@ title: コードを書くための環境構築を行う
 
 - [【2023年8月時点】KotlinでAtCoderのコンテストに参加するための環境構築（最低限）](https://qiita.com/dhirabayashi/items/56d6af2c0b2bda6f588f) - Kotlinの実行環境を用意するために、最小限必要なツールの導入方法が紹介されている。
 
+### Python
+
+- [AtCoder 環境構築 Python編](https://zenn.dev/fro25zen/articles/atcoder_setup_article) - [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install)を用いて、Pythonの実行環境を構築する方法が紹介されている。また、2025年4月時点におけるAtCoderの認証方法の変更にも対応している。
+
 ## iOS
 
 ### C&#43;&#43;
