@@ -6,6 +6,8 @@ title: Change Log
 
 ### 2025-04-19
 
+- [#10035](https://github.com/KATO-Hiro/AtCoderClans/pull/10035) - (破壊的な変更) リンク切れと思われるWebアプリを「[Archives](../../archived)」ページに移動。
+    - AtCoder Search
 - [#10032](https://github.com/KATO-Hiro/AtCoderClans/pull/10032) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
     - [非再帰DFSに思いを馳せる記事](https://www.tellpro.net/harurun/articles/xuxYbrhlCwuvwkYlaVuxFXaNOhkgCyfk)
 

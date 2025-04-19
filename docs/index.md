@@ -221,6 +221,14 @@
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [what_a_mess](https://atcoder.jp/users/what_a_mess)さん - [AtCoder水色になりました](https://qiita.com/what_a_mess/items/84959019bd18d7c5ed59)
 
+=== "アーカイブス"
+
+    諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2025-04-19
+
+    - AtCoder Search
+
 ## AtCoder公式グッズを購入する
 
 - [SUZURI](https://suzuri.jp/AtCoder) - [AtCoder](https://atcoder.jp/)のロゴ入りグッズが購入できる。
