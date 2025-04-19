@@ -49,12 +49,6 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/web_app/atcoder_novisteps.png" alt="atcoder novisteps">
     </div>
 
-- [AtCoder Search](https://atcoder-search.fjnkt98.com/) - 条件(コンテストのカテゴリや難易度など)を指定して問題、ソースコードの提出結果(過去1か月以内)を検索できる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_search.png" alt="atcoder search">
-    </div>
-
 - [searchapp](https://andoryoto.github.io/WebApplication/searchapp/) - 指定した語句が問題文や公式解説に含まれる問題を検索できる。
 
     <div align="center">
