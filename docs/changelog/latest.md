@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-04-19
+
+- [#10032](https://github.com/KATO-Hiro/AtCoderClans/pull/10032) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [非再帰DFSに思いを馳せる記事](https://www.tellpro.net/harurun/articles/xuxYbrhlCwuvwkYlaVuxFXaNOhkgCyfk)
+
 ### 2025-04-18
 
 - [#10028](https://github.com/KATO-Hiro/AtCoderClans/pull/10028) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。
