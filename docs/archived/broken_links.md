@@ -25,6 +25,15 @@ title: リンク切れ
 
 ## Webアプリ・Webサイト
 
+### 特定の分野・難易度を重点的に学ぶ
+
+- [AtCoder Search](https://atcoder-search.fjnkt98.com/) - 条件(コンテストのカテゴリや難易度など)を指定して問題、ソースコードの提出結果(過去1か月以内)を検索できる。
+    - 確認した日: 2025/04/19
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_search.png" alt="atcoder search">
+    </div>
+
 ### チーム分けを行う
 
 - [TeamMaker](https://compro.tsutajiro.com/cp-teammaker/index.php) - 競技プログラミングにおけるチーム分けを補助する。beta版。
