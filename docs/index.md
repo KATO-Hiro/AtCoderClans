@@ -140,6 +140,11 @@
 
 === "記事"
 
+    2025-04-19
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [非再帰DFSに思いを馳せる記事](https://www.tellpro.net/harurun/articles/xuxYbrhlCwuvwkYlaVuxFXaNOhkgCyfk)
+
     2025-04-18
 
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
@@ -201,13 +206,6 @@
 
     - 「[ライブラリチェッカー](libraries/library_checker)」ページ
         - [library-checker-testcases-2](https://github.com/hotman78/library-checker-testcases-2) ![GitHub Repo stars](https://img.shields.io/github/stars/hotman78/library-checker-testcases-2?style=plastic)
-
-=== "コマンドラインツール"
-
-    2025-04-04
-
-    - 「[ソースコードにバグがないか確認](cli/test_tools)」ページ
-        - [aclogin](https://github.com/key-moon/aclogin) ![GitHub stars](https://img.shields.io/github/stars/key-moon/aclogin?style=plastic)
 
 === "色変記事"
 
