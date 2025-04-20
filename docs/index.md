@@ -173,12 +173,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [THIRD プログラミングコンテスト2025（AtCoder Heuristic Contest 045）参加記](https://kaede2020.hatenablog.com/entry/2025/04/07/190047)
 
-    2025-04-05
-
-    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
-        - [AtCoder環境をDockerで作ってみた](https://qiita.com/kurimochi/items/62330d4e7f53ec3704d5)
-            - [kurimochi/atcoder_on_docker](https://github.com/kurimochi/atcoder_on_docker) ![GitHub Repo stars](https://img.shields.io/github/stars/kurimochi/atcoder_on_docker?style=plastic)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
