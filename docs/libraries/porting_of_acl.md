@@ -45,6 +45,10 @@ title: 各言語への移植
 - [NASU41/AtCoderLibraryForJava](https://github.com/NASU41/AtCoderLibraryForJava) ![GitHub stars](https://img.shields.io/github/stars/NASU41/AtCoderLibraryForJava?style=plastic) - Java版。また、このレポジトリから派生した[Kotlin版](https://github.com/Hiromi-Ayase/ac-library-kt)もある。
 - [ocha98/ac-library-java](https://github.com/ocha98/ac-library-java) ![GitHub stars](https://img.shields.io/github/stars/ocha98/ac-library-java?style=plastic) - Java版。ライブラリを一つのソースファイルにまとめるツールもある。
 
+## ACL JavaScript / TypeScript
+
+- [e6nlaq/ac-library-js](https://github.com/e6nlaq/ac-library-js) ![GitHub stars](https://img.shields.io/github/stars/e6nlaq/ac-library-js?style=plastic) - JavaScriptおよびTypeScript版。
+
 ## ACL Julia
 
 - [abap34/ACL.jl](https://github.com/abap34/ACL.jl) ![GitHub stars](https://img.shields.io/github/stars/abap34/ACL.jl?style=plastic) - Julia版。
