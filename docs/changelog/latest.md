@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-04-21
+
+- [#10048](https://github.com/KATO-Hiro/AtCoderClans/pull/10048) - [puni073](https://github.com/puni073)さんのご紹介で、「[Libraries and Snippets](../../libraries)」の「[AtCoder Library (ACL)の各言語への移植](../../libraries/porting_of_acl)」ページに、以下のライブラリを追加。
+    - [e6nlaq/ac-library-js](https://github.com/e6nlaq/ac-library-js) ![GitHub stars](https://img.shields.io/github/stars/e6nlaq/ac-library-js?style=plastic)
+- [#10047](https://github.com/KATO-Hiro/AtCoderClans/pull/10047) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
+    - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年4月21日時点)](https://x.com/atcoder/status/1914167916003725624)
+
 ### 2025-04-20
 
 - [#10040](https://github.com/KATO-Hiro/AtCoderClans/pull/10040) - (破壊的な変更) 「[Change Log](../latest)」ページの2025年2月分を月別のアーカイブに移動。
