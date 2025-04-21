@@ -101,13 +101,6 @@
 
     - [AtCoder株式会社](https://github.com/atcoder)
 
-=== "入門者・初心者向けの内容"
-
-    2025-04-06
-
-    - 「[Q0: アルゴリズム、競技プログラミングとは?](for_beginners/question0)」ページ
-        - [競技プログラミングAtCoderに参加してみよう！初心者向け！AtCoderのはじめ方](https://www.youtube.com/watch?v=_pd3ndlaveU)
-
 === "Webアプリ・Webサイト"
 
     2025-04-10
@@ -139,6 +132,11 @@
     </div>
 
 === "記事"
+
+    2025-04-21
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年4月21日時点)](https://x.com/atcoder/status/1914167916003725624)
 
     2025-04-19
 
@@ -189,12 +187,12 @@
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [鵺宮ミヤ(やみやみや)](https://www.youtube.com/playlist?list=PLfDk7e-j_wHFSc2F_EZ_7CyGXIrMx0gup)
 
-    2025-04-06
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [競技プログラミングAtCoderに参加してみよう！初心者向け！AtCoderのはじめ方](https://www.youtube.com/watch?v=_pd3ndlaveU)
-
 === "ライブラリ・スニペット"
+
+    2025-04-21
+
+    - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
+        - [e6nlaq/ac-library-js](https://github.com/e6nlaq/ac-library-js) ![GitHub stars](https://img.shields.io/github/stars/e6nlaq/ac-library-js?style=plastic)
 
     2025-04-15
 
