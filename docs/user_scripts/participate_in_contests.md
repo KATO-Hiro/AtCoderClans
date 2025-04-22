@@ -64,6 +64,10 @@ title: コンテストに参加する
       <img loading="lazy" src="../../images/userscript/atcoder_full_page_standings.png" alt="atcoder full page standings">
     </div>
 
+### 操作性の改善
+
+- [Atcoder Easy Accordion](https://greasyfork.org/ja/scripts/532617-atcoder-easy-accordion) - ドロップダウンリスト（プロフィールページや「提出結果」ページなど）にマウスのカーソルを合わせると、開くことができる。
+
 ### シングルディスプレイの表示を最適化
 
 - [AtCoder Style Optimizer for Single Display](https://greasyfork.org/ja/scripts/463585-atcoder-style-optimizer-for-single-display) - [AtCoder](https://atcoder.jp/)の各ページの横幅を最大まで広げて表示する。
