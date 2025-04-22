@@ -111,6 +111,11 @@
 
 === "ユーザスクリプト"
 
+    2025-04-22
+
+    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
+        - [Atcoder Easy Accordion](https://greasyfork.org/ja/scripts/532617-atcoder-easy-accordion)
+
     2025-04-13
 
     - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
@@ -207,11 +212,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [YFYF](https://atcoder.jp/users/YFYF)さん - [ABC400振り返り兼入青記事](https://note.com/yyyfff48/n/n0240fea1a143)
-
-    2025-04-07
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [what_a_mess](https://atcoder.jp/users/what_a_mess)さん - [AtCoder水色になりました](https://qiita.com/what_a_mess/items/84959019bd18d7c5ed59)
 
 === "アーカイブス"
 

@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-04-22
+
+- [#10052](https://github.com/KATO-Hiro/AtCoderClans/pull/10052) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
+    - [Atcoder Easy Accordion](https://greasyfork.org/ja/scripts/532617-atcoder-easy-accordion)
+
 ### 2025-04-21
 
 - [#10048](https://github.com/KATO-Hiro/AtCoderClans/pull/10048) - [puni073](https://github.com/puni073)さんのご紹介で、「[Libraries and Snippets](../../libraries)」の「[AtCoder Library (ACL)の各言語への移植](../../libraries/porting_of_acl)」ページに、以下のライブラリを追加。
