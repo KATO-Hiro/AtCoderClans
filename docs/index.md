@@ -138,6 +138,11 @@
 
 === "記事"
 
+    2025-04-23
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [THIRD プログラミングコンテスト2025（AtCoder Heuristic Contest 045）の復習](https://kaede2020.hatenablog.com/entry/2025/04/22/215515)
+
     2025-04-21
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -203,15 +208,6 @@
 
     - 「[ライブラリチェッカー](libraries/library_checker)」ページ
         - [library-checker-testcases-2](https://github.com/hotman78/library-checker-testcases-2) ![GitHub Repo stars](https://img.shields.io/github/stars/hotman78/library-checker-testcases-2?style=plastic)
-
-=== "色変記事"
-
-    色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
-
-    2025-04-08
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [YFYF](https://atcoder.jp/users/YFYF)さん - [ABC400振り返り兼入青記事](https://note.com/yyyfff48/n/n0240fea1a143)
 
 === "アーカイブス"
 
