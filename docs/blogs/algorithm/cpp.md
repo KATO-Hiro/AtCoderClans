@@ -185,7 +185,6 @@ title: C&#43;&#43;
 |not|[はてなブログ](https://not522.hatenablog.com/)、[はてなグループ](https://topcoder-g-hatena-ne-jp.jag-icpc.org/not522/)||
 |nyoguta|[はてなブログ](https://nyoguta.hatenablog.com/)||
 |ococonomy1|[はてなブログ](https://ococonomy1.hateblo.jp/)||
-|onsen_manjuuu|[自作ブログ](https://onsen-manjuuu.net/blog/index.html)||
 |packer_jp|[はてなブログ](https://packer-jp.hatenadiary.jp/)||
 |paruki|[はてなブログ](https://par.hateblo.jp/)||
 |phocom|[Qiita](https://qiita.com/phocom)||
