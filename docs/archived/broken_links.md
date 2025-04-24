@@ -234,6 +234,8 @@ title: リンク切れ
 
 ## ブログ
 
+- [自作ブログ - onsen_manjuuu](https://onsen-manjuuu.net/blog/index.html)
+    - 確認した日: 2025/04/24
 - [はてなブログ - RheoTommy](https://rheotommy.hatenablog.com/)
     - 確認した日: 2024/09/02
 - [自作ブログ - colun](http://www.colun.net/blog)
@@ -405,6 +407,11 @@ title: リンク切れ
 
 - [AtCoder青になった感想 - An Engineering Student's Frank Report.](https://hachiji.hatenadiary.com/entry/2021/07/31/230301) - [AngrySadEight](https://atcoder.jp/users/AngrySadEight)さんが、2021年7月25日に達成。
     - 確認した日: 2022/09/17
+
+### レーティング2000〜2399(黄色)
+
+- [AtCoder黄色になったよ](https://onsen-manjuuu.net/blog/posts/yellow.html) - [onsen_manjuuu](https://atcoder.jp/users/onsen_manjuuu)さんが、2024年4月27日に達成。
+    - 確認した日: 2025/04/24
 
 ### 休止
 
