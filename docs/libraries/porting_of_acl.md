@@ -57,6 +57,10 @@ title: 各言語への移植
 
 - [Hiromi-Ayase/ac-library-kt](https://github.com/Hiromi-Ayase/ac-library-kt) ![GitHub stars](https://img.shields.io/github/stars/Hiromi-Ayase/ac-library-kt?style=plastic) - Kotlin版。[Java版](https://github.com/NASU41/AtCoderLibraryForJava)をベースに作成されている。
 
+## ACL Mojo
+
+- [shogo314/ac-library-mojo](https://github.com/shogo314/ac-library-mojo) - ![GitHub stars](https://img.shields.io/github/stars/shogo314/ac-library-mojo?style=plastic) - Mojo版。
+
 ## ACL Nim
 
 - [zer0-star/Nim-ACL](https://github.com/zer0-star/Nim-ACL) ![GitHub stars](https://img.shields.io/github/stars/zer0-star/Nim-ACL?style=plastic) - Nim版。
