@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-04-25
+
+- [#10067](https://github.com/KATO-Hiro/AtCoderClans/pull/10067) - [puni073](https://github.com/puni073)さんのご紹介で、「[Libraries and Snippets](../../libraries)」の「[AtCoder Library (ACL)の各言語への移植](../../libraries/porting_of_acl)」ページに、以下のライブラリを追加。
+    - [shogo314/ac-library-mojo](https://github.com/shogo314/ac-library-mojo) - ![GitHub stars](https://img.shields.io/github/stars/shogo314/ac-library-mojo?style=plastic)
+
 ### 2025-04-24
 
 - [#10063](https://github.com/KATO-Hiro/AtCoderClans/pull/10063) - (破壊的な変更) リンク切れと思われるブログを「[Archives](../../archived)」ページに移動。

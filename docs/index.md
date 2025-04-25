@@ -101,14 +101,6 @@
 
     - [AtCoder株式会社](https://github.com/atcoder)
 
-=== "Webアプリ・Webサイト"
-
-    2025-04-10
-
-    - 「[コンテストに関する統計情報](web_app/statistics)」ページ
-        - [wladimirleite.github.io](https://github.com/wladimirleite/wladimirleite.github.io) ![GitHub Repo stars](https://img.shields.io/github/stars/wladimirleite/wladimirleite.github.io?style=plastic)
-            - [AHC 045](https://wladimirleite.github.io/ahc045.html)
-
 === "ユーザスクリプト"
 
     2025-04-22
@@ -190,6 +182,11 @@
         - [鵺宮ミヤ(やみやみや)](https://www.youtube.com/playlist?list=PLfDk7e-j_wHFSc2F_EZ_7CyGXIrMx0gup)
 
 === "ライブラリ・スニペット"
+
+    2025-04-25
+
+    - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
+        - [shogo314/ac-library-mojo](https://github.com/shogo314/ac-library-mojo) - ![GitHub stars](https://img.shields.io/github/stars/shogo314/ac-library-mojo?style=plastic)
 
     2025-04-21
 
