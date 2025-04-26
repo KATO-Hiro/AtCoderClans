@@ -4,6 +4,7 @@ title: レーティング400〜799(茶色)
 
 ## 2025年
 
+- [入茶記事といふものを、書いてみんとするなり](https://qiita.com/Un_titled/items/28182697bf060cbcfbe3) - [Un_titled](https://atcoder.jp/users/Un_titled)さんが、2025年4月12日に達成。
 - [【色変記事】某国支社長61歳文系、入茶しました(初心者）](https://qiita.com/ytz/items/07898c9afbf451071113) - [ytz](https://atcoder.jp/users/ytz)さんが、2025年3月24日に公開。
 - [競技しないコードを書かなくなって久しい人がAtCoderで入茶できました、という話。](https://note.com/s_tkrz/n/n93a710e55115) - [s_tkrz](https://atcoder.jp/users/s_tkrz)さんが、2025年3月1日に達成。
 - [【色変記事】非プログラマーが2ヶ月で入茶した方法をまとめてみる](https://note.com/sco0720/n/n88839cc0350a) - [SourCreamOnion](https://atcoder.jp/users/SourCreamOnion)さんが、2025年1月14日に公開。
