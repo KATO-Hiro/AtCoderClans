@@ -160,11 +160,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年4月14日時点)](https://x.com/atcoder/status/1911607012141777336)
 
-    2025-04-11
-
-    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
-        - [中高生向け学校対抗競技プログラミング「AtCoder Junior League 2025 Summer」](https://reseed.resemom.jp/article/2025/04/10/10675.html)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
