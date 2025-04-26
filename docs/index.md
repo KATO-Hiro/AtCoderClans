@@ -163,6 +163,15 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2025-04-26
+
+     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [kotamanegi](https://atcoder.jp/users/kotamanegi)さん - [はてなブログ](https://kotamanegi.hatenablog.com/)
+        - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さん - [はてなブログ](https://halc-kyopro.hatenablog.com/)
+
+     - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
+        - [ansain](https://atcoder.jp/users/ansain)さん - [はてなブログ](https://ansain.hatenablog.com/)
+
     2025-04-12
 
      - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
