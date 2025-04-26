@@ -6,6 +6,7 @@ title: Change Log
 
 ### 2025-04-26
 
+- [#10074](https://github.com/KATO-Hiro/AtCoderClans/pull/10074) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
 - [#10071](https://github.com/KATO-Hiro/AtCoderClans/pull/10071) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
     - レーティング400から799まで(茶色)に[Un_titled](https://atcoder.jp/users/Un_titled)さんの[記事](https://qiita.com/Un_titled/items/28182697bf060cbcfbe3)を追加。
 
