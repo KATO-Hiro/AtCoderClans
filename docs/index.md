@@ -198,6 +198,15 @@
     - 「[ライブラリチェッカー](libraries/library_checker)」ページ
         - [library-checker-testcases-2](https://github.com/hotman78/library-checker-testcases-2) ![GitHub Repo stars](https://img.shields.io/github/stars/hotman78/library-checker-testcases-2?style=plastic)
 
+=== "色変記事"
+
+    色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-04-26
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [Un_titled](https://atcoder.jp/users/Un_titled)さん - [入茶記事といふものを、書いてみんとするなり](https://qiita.com/Un_titled/items/28182697bf060cbcfbe3)
+
 === "アーカイブス"
 
     諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
