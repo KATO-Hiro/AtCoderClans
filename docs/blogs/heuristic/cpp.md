@@ -39,6 +39,7 @@ title: C&#43;&#43;
 |hamamu|[Qiita](https://qiita.com/hamamu)||
 |hitoare|[はてなブログ](https://hitoare.hatenablog.com/)||
 |iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
+|kotamanegi|[はてなブログ](https://kotamanegi.hatenablog.com/)||
 |kozima|[はてなブログ](https://lkozima.hatenablog.com/)||
 |niuez|[GitHub Pages](https://niuez.github.io/)||
 |noimi|[はてなブログ](https://noimi.hatenablog.com/)||
@@ -65,11 +66,11 @@ title: C&#43;&#43;
 |hakomo|[はてなブログ](https://hakomof.hatenablog.com/)||
 |hari64|[Qiita](https://qiita.com/hari64)||
 |Hec|[はてなブログ](https://osrehun.hatenadiary.jp/)||
+|hirayuu_At|[はてなブログ](https://halc-kyopro.hatenablog.com/)||
 |hirokazu1020|[はてなブログ](https://hirokazu1020.hatenablog.com/)||
 |hogloid|[はてなブログ](https://hogloid.hatenablog.com/)||
 |itigo|[はてなブログ](https://ichigokunn.hatenablog.com/)||
 |KKT89|[はてなブログ](https://kkt89.hatenablog.com/)||
-|kotamanegi|[はてなブログ](https://kotamanegi.hatenablog.com/)||
 |kotatsugame|[はてなブログ](https://kotatsugame.hatenablog.com/)||
 |kusano|[はてなブログ](https://kusano-k.hatenablog.com/)、[Qiita](https://qiita.com/kusano_k)||
 |merom686|[はてなブログ](https://merom686.hatenablog.com/)||
