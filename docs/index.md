@@ -160,11 +160,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年4月14日時点)](https://x.com/atcoder/status/1911607012141777336)
 
-    2025-04-11
-
-    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
-        - [中高生向け学校対抗競技プログラミング「AtCoder Junior League 2025 Summer」](https://reseed.resemom.jp/article/2025/04/10/10675.html)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -197,6 +192,15 @@
 
     - 「[ライブラリチェッカー](libraries/library_checker)」ページ
         - [library-checker-testcases-2](https://github.com/hotman78/library-checker-testcases-2) ![GitHub Repo stars](https://img.shields.io/github/stars/hotman78/library-checker-testcases-2?style=plastic)
+
+=== "色変記事"
+
+    色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-04-26
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [Un_titled](https://atcoder.jp/users/Un_titled)さん - [入茶記事といふものを、書いてみんとするなり](https://qiita.com/Un_titled/items/28182697bf060cbcfbe3)
 
 === "アーカイブス"
 

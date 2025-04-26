@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-04-26
+
+- [#10071](https://github.com/KATO-Hiro/AtCoderClans/pull/10071) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[Un_titled](https://atcoder.jp/users/Un_titled)さんの[記事](https://qiita.com/Un_titled/items/28182697bf060cbcfbe3)を追加。
+
 ### 2025-04-25
 
 - [#10067](https://github.com/KATO-Hiro/AtCoderClans/pull/10067) - [puni073](https://github.com/puni073)さんのご紹介で、「[Libraries and Snippets](../../libraries)」の「[AtCoder Library (ACL)の各言語への移植](../../libraries/porting_of_acl)」ページに、以下のライブラリを追加。
