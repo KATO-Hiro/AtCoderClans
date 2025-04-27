@@ -130,6 +130,11 @@
 
 === "記事"
 
+    2025-04-27
+
+    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
+        - [PythonのSortedContainersで一番大きい要素にアクセスしたいときは-1でアクセスした方がいい](https://qiita.com/kemuniku/items/9691f43cc81cf5271e84)
+
     2025-04-23
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
