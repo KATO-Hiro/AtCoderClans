@@ -95,12 +95,6 @@
     - [ジャッジキューの処理遅延と今後の対応につきまして](https://atcoder.jp/posts/1456)
 
 
-    2025-04-12
-
-    本サービスのスポンサーを掲載(敬称略)。ご支援いただき、ありがとうございます。
-
-    - [AtCoder株式会社](https://github.com/atcoder)
-
 === "ユーザスクリプト"
 
     2025-04-22
@@ -117,18 +111,12 @@
       <img loading="lazy" src="images/userscript/atcoder_full_page_standings.png" alt="atcoder full page standings">
     </div>
 
-=== "FireFox拡張機能"
-
-    2025-04-12
-
-    - 「[復習の効果をより高める](firefox_extensions/review)」ページ
-        - [Atcoder to Obsidian](https://github.com/1m-N00b/Atcoder-to-Obsidian) ![GitHub Repo stars](https://img.shields.io/github/stars/1m-N00b/Atcoder-to-Obsidian?style=plastic)
-
-    <div align="center">
-    <img loading="lazy" src="images/firefox_extension/atcoder_to_obsidian.png" alt="atcoder to obsidian">
-    </div>
-
 === "記事"
+
+    2025-04-28
+
+    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
+        - [SortedContainersの計算量まとめ](https://qiita.com/kemuniku/items/1dd49b4cad22c54d3754)
 
     2025-04-27
 
@@ -176,12 +164,6 @@
 
      - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
         - [ansain](https://atcoder.jp/users/ansain)さん - [はてなブログ](https://ansain.hatenablog.com/)
-
-    2025-04-12
-
-     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [MathGorilla](https://atcoder.jp/users/MathGorilla)さん - [はてなブログ](https://math-gorilla.hatenablog.com)
-        - [bo9chan](https://atcoder.jp/users/bo9chan)さん - [Qiita](https://qiita.com/bo9chan)
 
 === "動画"
 
