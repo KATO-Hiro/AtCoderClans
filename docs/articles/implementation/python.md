@@ -20,6 +20,7 @@ title: Python
 - [競プロでよく使うけど空で書けないフレーズ](https://qiita.com/do_an/items/e5a202cac4fc69fe849d) - コンテストの問題を解く上で頻出、かつ、忘れがちな標準ライブラリの機能がまとめられている。
 - [Pythonで分数のリストを誤差なしでソートする](https://qiita.com/nishizumi_noob/items/7a1323c45cf6ce56a368) - 分数で構成されるリストを誤差なくソートする方法が紹介されている記事。
 - [TimeComplexity](https://wiki.python.org/moin/TimeComplexity) - CPythonにおけるlist、collections.deque、set、dictの各種操作に対する時間計算量がまとめられている記事。
+    - [SortedContainersの計算量まとめ](https://qiita.com/kemuniku/items/1dd49b4cad22c54d3754) - `sortedcontainer` の SortedList と SortedSet の計算量がまとめられている。
 
 ### 言語アップデートによる新機能のまとめ
 
