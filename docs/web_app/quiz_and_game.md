@@ -29,6 +29,14 @@ title: クイズ・ゲーム・ネタアプリ
       <img loading = "lazy" src="../../images/web_app/answer_from_algorithm_abbreviation_to_full_name.png" alt="answer from algorithm abbreviation to full name">
     </div>
 
+### ソースコードの実行時間を予測
+
+- [AtCoder 実行時間クイズ](https://quiz-maker.site/quiz/play/d8Vt1O20250428222638) - C++で実装されたソースコードについて、AtCoderのジャッジシステムでの実行時間を回答するクイズ。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/atcoder_runtime_quiz.png" alt="atcoder runtime quiz">
+    </div>
+
 ### 問題の難易度を予想
 
 - [AtCoder Difficult Quiz](https://atcoder-difficulty-quiz.appspot.com/) - 2つの問題のうち、難易度が高いほう選ぶクイズ。
