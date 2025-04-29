@@ -78,10 +78,6 @@
 - [AtCoderアカウントのパスワード管理について](https://atcoder.jp/posts/1366) - 不正アクセス防止のため、[AtCoder](https://atcoder.jp/)アカウントのパスワード確認・必要に応じて変更を促しています。
 - [【重要なお知らせ】AtCoderを騙る偽サイトにご注意ください](https://atcoder.jp/posts/1268) - [AtCoder](https://atcoder.jp/)の偽サイトへのアクセス・ログインなどをしないように注意喚起している記事です。
 
-#### 中学生・高校生向け
-
-- [競技プログラミング教室](https://atcoder.jp/contests/atcoder_programming_class) - [AtCoder](https://atcoder.jp/)が開催を予定している中学生・高校生向けの教室です。競技プログラミングに興味があり、国内トップクラスの実力を身につけたいユーザが対象です。
-
 <!-- markdown-link-check-enable -->
 
 ### 非公式サービス・ツール・ライブラリ・記事など
@@ -94,6 +90,25 @@
 
     - [ジャッジキューの処理遅延と今後の対応につきまして](https://atcoder.jp/posts/1456)
 
+=== "Webアプリ・Webサイト"
+
+    2025-04-29
+
+    - 「[クイズ・ゲーム・ネタアプリ](web_app/quiz_and_game)」ページ
+        - [AtCoder SNS Contest](https://quiz-maker.site/quiz/play/8i0Ogy20200315154852)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/atcoder_sns_contest.png" alt="atcoder sns contest">
+    </div>
+
+    2025-04-29
+
+    - 「[クイズ・ゲーム・ネタアプリ](web_app/quiz_and_game)」ページ
+        - [AtCoder 実行時間クイズ](https://quiz-maker.site/quiz/play/d8Vt1O20250428222638)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/atcoder_runtime_quiz.png" alt="atcoder runtime quiz">
+    </div>
 
 === "ユーザスクリプト"
 
@@ -101,15 +116,6 @@
 
     - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
         - [Atcoder Easy Accordion](https://greasyfork.org/ja/scripts/532617-atcoder-easy-accordion)
-
-    2025-04-13
-
-    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
-        - [AtCoder の順位表を広げるやつ](https://greasyfork.org/ja/scripts/532077-atcoder-%E3%81%AE%E9%A0%86%E4%BD%8D%E8%A1%A8%E3%82%92%E5%BA%83%E3%81%92%E3%82%8B%E3%82%84%E3%81%A4)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_full_page_standings.png" alt="atcoder full page standings">
-    </div>
 
 === "記事"
 
