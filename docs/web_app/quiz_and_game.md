@@ -12,7 +12,13 @@ title: クイズ・ゲーム・ネタアプリ
         コンテスト参加前に確認されることを強く推奨。
 
     <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_rule_quiz.png" alt="compro reminder">
+      <img loading="lazy" src="../../images/web_app/atcoder_rule_quiz.png" alt="atcoder rule quiz">
+    </div>
+
+- [AtCoder SNS Contest](https://quiz-maker.site/quiz/play/8i0Ogy20200315154852) - コンテストの開催中・終了後に、SNSに投稿可能な内容の理解度を確認できる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/atcoder_sns_contest.png" alt="atcoder sns contest">
     </div>
 
 ### アルゴリズムの正式名称を回答
