@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-04-30
+
+- [#10096](https://github.com/KATO-Hiro/AtCoderClans/pull/10096) - 「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [AtCoder Heuristic First-step Vol.1 前半](https://www.youtube.com/watch?v=MVrDouD35gU)
+    - [AtCoder Heuristic First-step Vol.1 後半](https://www.youtube.com/watch?v=RxbTHAu9Ct8)
+- [#10094](https://github.com/KATO-Hiro/AtCoderClans/pull/10094) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
+    - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年4月30日時点)](https://x.com/atcoder/status/1917476205235954110)
+
 ### 2025-04-29
 
 - [#10090](https://github.com/KATO-Hiro/AtCoderClans/pull/10090)、[#10091](https://github.com/KATO-Hiro/AtCoderClans/pull/10091) - 「[Web apps and sites](../../web_app)」の「[クイズ・ゲーム・ネタアプリ](../../web_app/quiz_and_game)」ページに、以下のWebアプリを追加。
