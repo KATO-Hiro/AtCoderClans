@@ -119,6 +119,11 @@
 
 === "記事"
 
+    2025-04-30
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年4月30日時点)](https://x.com/atcoder/status/1917476205235954110)
+
     2025-04-28
 
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
@@ -149,16 +154,6 @@
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
         - [AtCoder 環境構築 Python編](https://zenn.dev/fro25zen/articles/atcoder_setup_article)
 
-    2025-04-15
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [【ネタバレ注意】AHCの焼きなまし・ビームサーチ練習にオススメの問題まとめ](https://www.terry-u16.net/entry/ahc-practice-problem)
-
-    2025-04-14
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年4月14日時点)](https://x.com/atcoder/status/1911607012141777336)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -172,6 +167,12 @@
         - [ansain](https://atcoder.jp/users/ansain)さん - [はてなブログ](https://ansain.hatenablog.com/)
 
 === "動画"
+
+    2025-04-30
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [AtCoder Heuristic First-step Vol.1 前半](https://www.youtube.com/watch?v=MVrDouD35gU)
+        - [AtCoder Heuristic First-step Vol.1 後半](https://www.youtube.com/watch?v=RxbTHAu9Ct8)
 
     2025-04-16
 
@@ -189,11 +190,6 @@
 
     - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
         - [e6nlaq/ac-library-js](https://github.com/e6nlaq/ac-library-js) ![GitHub stars](https://img.shields.io/github/stars/e6nlaq/ac-library-js?style=plastic)
-
-    2025-04-15
-
-    - 「[ライブラリチェッカー](libraries/library_checker)」ページ
-        - [library-checker-testcases-2](https://github.com/hotman78/library-checker-testcases-2) ![GitHub Repo stars](https://img.shields.io/github/stars/hotman78/library-checker-testcases-2?style=plastic)
 
 === "色変記事"
 
