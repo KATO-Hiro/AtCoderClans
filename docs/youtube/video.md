@@ -77,10 +77,23 @@ title: 個別の動画
 
 ## 感想会・講座・講演・対談
 
+### 感想会
+
 - [AtCoder Heuristic Contest 001 感想会](https://www.youtube.com/watch?v=eV6dX8a0MeM) - [AtCoder Heuristic Contest 001](https://atcoder.jp/contests/ahc001)のオンライン感想会。参加者は、writerの[wata](https://atcoder.jp/users/wata)さん、同コンテスト2位の[ymatsux](https://atcoder.jp/users/ymatsux)さん、[AtCoder](https://atcoder.jp/)社長で世界大会での上位入賞経験もある[chokudai](https://twitter.com/chokudai)さん。ヒューリスティックコンテストでよく使われる手法、点数を上げるためのテクニック、アルゴリズムコンテストとの関連性などが紹介されている。
-- [今だからこそ学ぶプログラミングとアルゴリズム](https://www.youtube.com/watch?v=PZOITpAccjo) - [chokudai](https://twitter.com/chokudai)さんが、プログラミングとアルゴリズムを学ぶ意義、AIとの関係性について講演している。
-- [これから身につけるべきITスキルとは?](https://www.youtube.com/watch?v=oSIRyxJNBrI&feature=youtu.be) - [chokudai](https://twitter.com/chokudai)さんと就活系YouTuberが、今後必要なITスキルについて対談している動画。ITスキルが求められる理由、意識的にプログラミングを学ぶ意義・必要性、今後減る・増える仕事について語られている。
+
+### 講座
+
 - [特別講義「定数倍高速化の技術」by tatyam](https://www.youtube.com/live/j1KGQHlHJ5E) - 定数倍高速化の重要性とC++における様々なテクニックが紹介されている。
+- [ワンランク上に行くプロコン講座](https://www.youtube.com/watch?v=_Je4rukUcqE) - [chokudai](https://twitter.com/chokudai)さんによるトークライブ。競技プログラミングの典型的な問題に対して、上位陣が一瞬で解ける理由と考え方のコツを解説している。
+
+### 講演
+
+- [今だからこそ学ぶプログラミングとアルゴリズム](https://www.youtube.com/watch?v=PZOITpAccjo) - [chokudai](https://twitter.com/chokudai)さんが、プログラミングとアルゴリズムを学ぶ意義、AIとの関係性について講演している。
+- [AtCoder Heuristic First-step Vol.1 前半](https://www.youtube.com/watch?v=MVrDouD35gU) - ヒューリスティック型コンテストの過去問を題材に、問題文の理解と基本的な貪欲法の書き方・改善に向けた考え方が紹介されている。
+    - [AtCoder Heuristic First-step Vol.1 後半](https://www.youtube.com/watch?v=RxbTHAu9Ct8) - 上記の解法を改善するため、山登り法・焼きなまし法の概略や解法の判断基準が解説されている。
 - [プログラミングコンテストのすゝめ 〜競プロはキャリアであり、趣味でもあり、学びである〜](https://www.youtube.com/watch?v=Jb0-8ZuRpNM&feature=youtu.be) - 2020年7月に開催された日本最大の学生向けテックカンファレンス「技育祭」（ぎいくさい）の講演動画。[chokudai](https://twitter.com/chokudai)さんが、競技プログラミングの面白さ・楽しさを解説している。
 - [「レッドコーダーの作り方」競プロに活かす㊙私生活](https://www.youtube.com/watch?v=bQ9vSFDIxLo) - [iwiwi](https://twitter.com/iwiwi)さんが、オンサイトイベントの参加者からプログラミングコンテスト、私生活、研究に関する質問に対して回答している動画。
-- [ワンランク上に行くプロコン講座](https://www.youtube.com/watch?v=_Je4rukUcqE) - [chokudai](https://twitter.com/chokudai)さんによるトークライブ。競技プログラミングの典型的な問題に対して、上位陣が一瞬で解ける理由と考え方のコツを解説している。
+
+### 対談
+
+- [これから身につけるべきITスキルとは?](https://www.youtube.com/watch?v=oSIRyxJNBrI&feature=youtu.be) - [chokudai](https://twitter.com/chokudai)さんと就活系YouTuberが、今後必要なITスキルについて対談している。ITスキルが求められる理由、意識的にプログラミングを学ぶ意義・必要性、今後減る・増える仕事について語られている。
