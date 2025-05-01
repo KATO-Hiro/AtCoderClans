@@ -119,6 +119,11 @@
 
 === "記事"
 
+    2025-05-01
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [競プロオンサイトは、数名の素晴らしい仲間と覚悟があれば開けるという話。（TOUPC001 開催記）](https://note.com/uruzunyaa/n/n0e83e9a59242)
+
     2025-04-30
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -173,11 +178,6 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [AtCoder Heuristic First-step Vol.1 前半](https://www.youtube.com/watch?v=MVrDouD35gU)
         - [AtCoder Heuristic First-step Vol.1 後半](https://www.youtube.com/watch?v=RxbTHAu9Ct8)
-
-    2025-04-16
-
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [鵺宮ミヤ(やみやみや)](https://www.youtube.com/playlist?list=PLfDk7e-j_wHFSc2F_EZ_7CyGXIrMx0gup)
 
 === "ライブラリ・スニペット"
 
