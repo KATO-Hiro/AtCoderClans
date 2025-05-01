@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-05-01
+
+- [#10100](https://github.com/KATO-Hiro/AtCoderClans/pull/10100) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
+    - [競プロオンサイトは、数名の素晴らしい仲間と覚悟があれば開けるという話。（TOUPC001 開催記）](https://note.com/uruzunyaa/n/n0e83e9a59242)
+
 ### 2025-04-30
 
 - [#10096](https://github.com/KATO-Hiro/AtCoderClans/pull/10096) - 「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
