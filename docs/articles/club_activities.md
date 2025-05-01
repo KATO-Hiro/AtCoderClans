@@ -34,6 +34,10 @@ title: 部活・サークル・同好会・オンサイトイベントに参加�
 
 - [発案から10日で107名の大宴会を開催した話(メール一括作成GASつき)](https://d-burioden.hateblo.jp/entry/2023/04/03/043035) - 100人規模の宴会を開催する際に、店の予約・参加者の把握・懸念事項への対策などの知見がまとめられている記事。
 
+### TOUPC001
+
+- [競プロオンサイトは、数名の素晴らしい仲間と覚悟があれば開けるという話。（TOUPC001 開催記）](https://note.com/uruzunyaa/n/n0e83e9a59242) - [TOUPC001](https://onlinejudge.u-aizu.ac.jp/beta/room.html#TOUPC001)の主催者による開催記。コンテストのコンセプト・開催までの経緯と熱意を持って行動することの重要性・当日の会場運営・問題の振り返り・問題作成のTipsなどがまとめられている。
+
 ### CodeQUEEN 2024
 
 <!-- markdown-link-check-disable -->
