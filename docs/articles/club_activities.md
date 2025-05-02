@@ -37,6 +37,7 @@ title: 部活・サークル・同好会・オンサイトイベントに参加�
 ### TOUPC001
 
 - [競プロオンサイトは、数名の素晴らしい仲間と覚悟があれば開けるという話。（TOUPC001 開催記）](https://note.com/uruzunyaa/n/n0e83e9a59242) - [TOUPC001](https://onlinejudge.u-aizu.ac.jp/beta/room.html#TOUPC001)の主催者による開催記。コンテストのコンセプト・開催までの経緯と熱意を持って行動することの重要性・当日の会場運営・問題の振り返り・問題作成のTipsなどがまとめられている。
+- [TOUPC001に参加してきた](https://inthebloom.github.io/post/toupc001/) - コンテストの参加記。コンテスト参加の経緯・振り返り・懇親会の様子などがつづられている。
 
 ### CodeQUEEN 2024
 
