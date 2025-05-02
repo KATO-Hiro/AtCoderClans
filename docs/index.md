@@ -84,12 +84,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "ホーム"
-
-    2025-04-17
-
-    - [ジャッジキューの処理遅延と今後の対応につきまして](https://atcoder.jp/posts/1456)
-
 === "Webアプリ・Webサイト"
 
     2025-04-29
@@ -118,6 +112,11 @@
         - [Atcoder Easy Accordion](https://greasyfork.org/ja/scripts/532617-atcoder-easy-accordion)
 
 === "記事"
+
+    2025-05-02
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [TOUPC001に参加してきた](https://inthebloom.github.io/post/toupc001/)
 
     2025-05-01
 

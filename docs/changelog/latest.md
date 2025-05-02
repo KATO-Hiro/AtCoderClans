@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-05-02
+
+- [#10107](https://github.com/KATO-Hiro/AtCoderClans/pull/10107) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
+    - [TOUPC001に参加してきた](https://inthebloom.github.io/post/toupc001/)
+
 ### 2025-05-01
 
 - [#10100](https://github.com/KATO-Hiro/AtCoderClans/pull/10100) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
