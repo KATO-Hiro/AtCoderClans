@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-05-03
+
+- [#10113](https://github.com/KATO-Hiro/AtCoderClans/pull/10113) - (破壊的な変更) リンク切れと思われる記事・ブログを「[Archives](../../archived)」ページに移動。
+- [#10111](https://github.com/KATO-Hiro/AtCoderClans/pull/10111) - 「[Articles, Blogs, Books and Videos](../../media)」の「[番組アーカイブ](../../videos/archived_video)」ページに、以下の動画を追加。
+    - [【AtCoder創業者】高橋直大(chokudai)の半生 / AtCoder創業から現在に至るまで](https://www.youtube.com/watch?v=kIsLTQ0yaIs)
+
 ### 2025-05-02
 
 - [#10107](https://github.com/KATO-Hiro/AtCoderClans/pull/10107) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
