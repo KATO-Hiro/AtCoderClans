@@ -234,6 +234,9 @@ title: リンク切れ
 
 ## ブログ
 
+- [はてなブログ - sky58](https://topcoder-g-hatena-ne-jp.jag-icpc.org/skyaozora/)
+    - 確認した日: 2025/05/03
+- [はてなグループ - not](https://topcoder-g-hatena-ne-jp.jag-icpc.org/not522/)
 - [自作ブログ - onsen_manjuuu](https://onsen-manjuuu.net/blog/index.html)
     - 確認した日: 2025/04/24
 - [はてなブログ - RheoTommy](https://rheotommy.hatenablog.com/)
@@ -337,6 +340,9 @@ title: リンク切れ
     - 確認した日: 2021/12/19
 
 ### レーティング800〜1199(緑色)
+
+- [AtCoder入緑までにやったことなどです！！](https://www.shibehasu-inugoya-programming.com/green-coder/) - [Hasu123](https://atcoder.jp/users/Hasu123)さんが、2024年10月26日に達成。
+    - 確認した日: 2025/05/03
 
 - [【AtCoder】 入緑したので精進やら精神面やら競プロの意義やら色々書く【色変記事】【初投稿】](https://qiita.com/swapman/items/cadd63dc902366158010) - [swapman](https://atcoder.jp/users/swapman)さんが、2022年8月27日に達成。
     - 確認した日: 2025/01/17
