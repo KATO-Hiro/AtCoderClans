@@ -153,11 +153,6 @@
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [非再帰DFSに思いを馳せる記事](https://www.tellpro.net/harurun/articles/xuxYbrhlCwuvwkYlaVuxFXaNOhkgCyfk)
 
-    2025-04-18
-
-    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
-        - [AtCoder 環境構築 Python編](https://zenn.dev/fro25zen/articles/atcoder_setup_article)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -171,6 +166,11 @@
         - [ansain](https://atcoder.jp/users/ansain)さん - [はてなブログ](https://ansain.hatenablog.com/)
 
 === "動画"
+
+    2025-05-03
+
+    - 「[番組アーカイブ](videos/archived_video)」ページ
+        - [【AtCoder創業者】高橋直大(chokudai)の半生 / AtCoder創業から現在に至るまで](https://www.youtube.com/watch?v=kIsLTQ0yaIs)
 
     2025-04-30
 
