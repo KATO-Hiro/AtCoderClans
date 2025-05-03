@@ -45,7 +45,6 @@ title: C&#43;&#43;
 |satashun|[はてなブログ](https://satashun.hatenablog.com/)||
 |semiexp|[自作ブログ](https://semiexp.net/blog/index.html)||
 |sigma425|[はてなブログ](https://sigma425.hatenablog.com/)||
-|sky58|[はてなブログ](https://topcoder-g-hatena-ne-jp.jag-icpc.org/skyaozora/)||
 |snuke|[はてなブログ](https://snuke.hatenablog.com/)||
 |square1001|[Qiita](https://qiita.com/square1001)||
 |SSRS|[はてなブログ](https://ssrs.hatenablog.com/)||
@@ -182,7 +181,7 @@ title: C&#43;&#43;
 |niuez|[GitHub Pages](https://niuez.github.io/)||
 |n_o_n_o_n|[はてなブログ](https://nononmath.hatenablog.com/)||
 |NOSS|[はてなブログ](https://noss.hatenablog.com/)||
-|not|[はてなブログ](https://not522.hatenablog.com/)、[はてなグループ](https://topcoder-g-hatena-ne-jp.jag-icpc.org/not522/)||
+|not|[はてなブログ](https://not522.hatenablog.com/)||
 |nyoguta|[はてなブログ](https://nyoguta.hatenablog.com/)||
 |ococonomy1|[はてなブログ](https://ococonomy1.hateblo.jp/)||
 |packer_jp|[はてなブログ](https://packer-jp.hatenadiary.jp/)||

@@ -20,7 +20,6 @@ title: レーティング800〜1199(緑色)
 - [【色変記事】AtCoder入緑しました](https://qiita.com/comet725/items/39cbd3a73ad3c50b3abc) - [comet725](https://atcoder.jp/users/comet725)さんが、2024年11月16日に達成。
 - [【色変記事】プログラミング未経験文系→AtCoderで入緑しました](https://note.com/kaze_246/n/n9682b5398878) - [Q_re](https://atcoder.jp/users/Q_re)さんが、2024年11月2日に達成。
 - [【競プロ】【入緑】AtCoder続けて良かったこと](https://qiita.com/Reid2147/items/030602512c0d76967bf5) - [Reid2147](https://atcoder.jp/users/Reid2147)さんが、2024年11月2日に達成。
-- [AtCoder入緑までにやったことなどです！！](https://www.shibehasu-inugoya-programming.com/green-coder/) - [Hasu123](https://atcoder.jp/users/Hasu123)さんが、2024年10月26日に達成。
 - [【AtCoder】非ITエンジニアですが入緑しました](https://qiita.com/Rin_statistics/items/b0555784eb8725a57833) - [Rin_statistics](https://atcoder.jp/users/Rin_statistics)さんが、2024年10月5日に達成。
 - [色変記事：実質2.5ヶ月でRubyとRustを使って入緑した話](https://zenn.dev/mnonamer/articles/atcoder-green) - [MNoNamer](https://atcoder.jp/users/MNoNamer)さんが、2024年9月28日に達成。
 - [【色変】40過ぎたおっさんが 5ヶ月で Atcoder 入緑できた](https://qiita.com/omakasessan/items/51af39959ba0b54ac0af) - [tomoba](https://atcoder.jp/users/tomoba)さんが、2024年8月31日に達成。
