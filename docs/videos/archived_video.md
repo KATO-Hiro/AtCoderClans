@@ -4,6 +4,7 @@ title: 番組アーカイブ
 
 ## [chokudai](https://twitter.com/chokudai)さんが出演した番組
 
+- [【AtCoder創業者】高橋直大(chokudai)の半生 / AtCoder創業から現在に至るまで](https://www.youtube.com/watch?v=kIsLTQ0yaIs) - 国内最大級のITエンジニア向けのYouTubeメディア「TECH WORLD」のアーカイブ。生い立ち、AtCoderの創業秘話・サービスの拡大や海外展開・スポンサー企業の広がり・現在の業務などについて語られている。
 - [逆転人生を描け！プログラミングの黄金比](https://newspicks.com/live-movie/1192) - 経済トークバラエティ番組「OFFRECO.」のアーカイブ。[chokudai](https://twitter.com/chokudai)さんが出演しており、ビジネスにおけるプログラミングの必要性についてコメントしている。
 - [【Fresh Faces #309】髙橋直大（AtCoder株式会社 代表取締役社長）](https://www.youtube.com/watch?v=x1WJdK6qqDk) - 「Fresh Faces 〜アタラシイヒト〜BS朝日」のアーカイブ。[chokudai](https://twitter.com/chokudai)さんが、競技プログラミングの意義や将来の展望などを語っている。
 - [【ローランド×金言】ビジネスは「世界一から逆算せよ」](https://newspicks.com/live-movie/976/) - 起業家のプレゼンに対して、ローランドさんや著名な経営者がビジネスのヒントを贈る番組「Greatest Hints」のアーカイブ。[chokudai](https://twitter.com/chokudai)さんが[AtCoder](https://atcoder.jp/)の事業内容について、対外的に発信している(38:53頃から出演)。
