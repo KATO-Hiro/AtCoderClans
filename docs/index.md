@@ -87,6 +87,13 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "ホーム"
+
+    2025-05-05
+
+    - [AtCoderの言語アップデートに関して (2024-25年度)](https://atcoder.jp/posts/1342)
+    - [Language Test 202505](https://atcoder.jp/contests/language-test-202505)
+
 === "Webアプリ・Webサイト"
 
     2025-04-29
@@ -151,11 +158,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年4月21日時点)](https://x.com/atcoder/status/1914167916003725624)
 
-    2025-04-19
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [非再帰DFSに思いを馳せる記事](https://www.tellpro.net/harurun/articles/xuxYbrhlCwuvwkYlaVuxFXaNOhkgCyfk)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -201,14 +203,6 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [Un_titled](https://atcoder.jp/users/Un_titled)さん - [入茶記事といふものを、書いてみんとするなり](https://qiita.com/Un_titled/items/28182697bf060cbcfbe3)
-
-=== "アーカイブス"
-
-    諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
-
-    2025-04-19
-
-    - AtCoder Search
 
 ## AtCoder公式グッズを購入する
 
