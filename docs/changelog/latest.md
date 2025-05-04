@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-05-04
+
+- [#10119](https://github.com/KATO-Hiro/AtCoderClans/pull/10119) - [Home](../..)ページに、以下の記事と言語アップデート用のコンテストへのリンクを追加。
+    - [AtCoderの言語アップデートに関して (2024-25年度)](https://atcoder.jp/posts/1342)
+    - [Language Test 202505](https://atcoder.jp/contests/language-test-202505)
+
 ### 2025-05-03
 
 - [#10113](https://github.com/KATO-Hiro/AtCoderClans/pull/10113) - (破壊的な変更) リンク切れと思われる記事・ブログを「[Archives](../../archived)」ページに移動。
