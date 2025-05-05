@@ -51,7 +51,7 @@ title: レーティング800〜1199(緑色)
 - [AtCoderにてRating4桁に突入しました（入千記事）](https://note.com/ka37ri/n/n49dd54210973) - [KA37RI](https://atcoder.jp/users/KA37RI)さんが、2023年6月23日に公開。
 - [3年かけて再入緑した話](https://qiita.com/dorimiamn/items/700021e8ef48d76d68ed) - [adomine](https://atcoder.jp/users/adomine)さんが、2023年6月10日に達成。
 - [AtCoder入緑記事](https://qiita.com/8pGCJmg4nVU2o37/items/3d95e317d4ac44c5e679) - [kosilov_water](https://atcoder.jp/users/kosilov_water)さんが、2023年5月14日に達成。
-- [AtCoderで入緑したのでこれまでのことを振り返る - QLITRE DIALY](https://www.qlitre-dialy.ink/post/became-green-coder-look-back-my-study) - [Qlitre](https://atcoder.jp/users/Qlitre)さんが、2023年5月13日に達成。
+- [AtCoderで入緑したのでこれまでのことを振り返る - QLITRE DIALY](https://qlitre-dialy.ink/post/became-green-coder-look-back-my-study) - [Qlitre](https://atcoder.jp/users/Qlitre)さんが、2023年5月13日に達成。
 - [Atcoderで緑色コーダーになりました](https://note.com/unicorn__unicorn/n/nd9c27a3ba398) - [Unicorn1](https://atcoder.jp/users/Unicorn1)さんが、2023年4月22日に公開。
 - [ABC297で入緑しました【色変記事】](https://qiita.com/mado1024/items/873af655c692a3f3eb2b) - [mintia419](https://atcoder.jp/users/mintia419)さんが、2023年4月9日に達成。
 - [緑色になりました](https://qiita.com/dvoraker3/items/d6861c9cc6293052098b) - [dvoraker3](https://atcoder.jp/users/dvoraker3)さんが、2023年3月25日に達成。
