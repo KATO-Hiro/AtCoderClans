@@ -89,7 +89,7 @@
 
 === "ホーム"
 
-    2025-05-05
+    2025-05-04
 
     - [AtCoderの言語アップデートに関して (2024-25年度)](https://atcoder.jp/posts/1342)
     - [Language Test 202505](https://atcoder.jp/contests/language-test-202505)
@@ -161,6 +161,11 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2025-05-05
+
+    - 「[アルゴリズム部門 - Rust](blogs/algorithm/rust)」ページ
+        - [rhoo](https://atcoder.jp/users/rhoo)さん - [Qiita](https://qiita.com/rhoo)
+
     2025-04-26
 
      - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
@@ -203,6 +208,13 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [Un_titled](https://atcoder.jp/users/Un_titled)さん - [入茶記事といふものを、書いてみんとするなり](https://qiita.com/Un_titled/items/28182697bf060cbcfbe3)
+
+=== "国内外のコンテストサイト"
+
+    2025-05-05
+
+    - 「[Topcoder](related_contest_sites/topcoder)」ページ
+        - [Marathon Match Tournament](https://www.topcoder.com/marathon-match-tournament)
 
 ## AtCoder公式グッズを購入する
 
