@@ -14,7 +14,7 @@ title: Topcoder
 
 #### コンテストに参加する
 
-- [Topcoder Marathon Matchの始め方（最新版）](https://qiita.com/phocom/items/da0f8123f7a8d5201cbf) - Marathon Match (MM)の始め方を日本語で解説した記事。アカウント登録から環境構築、サンプルコードの動作確認、回答の作成、提出および結果の確認方法まで丁寧に紹介されている。
+- [Marathon Match Tournament](https://www.topcoder.com/marathon-match-tournament) - ヒューリスティック部門の公式サイト。
 
 #### コンテストの取り組み方
 
