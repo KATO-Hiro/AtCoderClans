@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-05-05
+
+- [#10125](https://github.com/KATO-Hiro/AtCoderClans/pull/10125) - (破壊的な変更) 「[Related Contest Sites](../../related_contest_sites)」の「[Topcoder](../../related_contest_sites/topcoder)」ページに、以下の記事を追加。これに伴い、掲載内容がやや古くなったと思われる記事を「[Archives](../../archived)」ページに移動。
+    - [Marathon Match Tournament](https://www.topcoder.com/marathon-match-tournament)
+- [#10124](https://github.com/KATO-Hiro/AtCoderClans/pull/10124) - ブログのドメイン変更に対応。
+- [#10123](https://github.com/KATO-Hiro/AtCoderClans/pull/10123) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
+
 ### 2025-05-04
 
 - [#10119](https://github.com/KATO-Hiro/AtCoderClans/pull/10119) - [Home](../..)ページに、以下の記事と言語アップデート用のコンテストへのリンクを追加。
