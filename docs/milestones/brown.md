@@ -48,7 +48,7 @@ title: レーティング400〜799(茶色)
 ## 2022年
 
 - [ABC283で入茶しました！〜成長日記〜 - 成長観察日記](https://d-burioden.hateblo.jp/entry/2022/12/25/200953) - [burioden](https://atcoder.jp/users/burioden)さんが、2022年12月24日に達成。
-- [AtCoderで入茶したのでこれまでのことを振り返る - QLITRE DIALY](https://www.qlitre-dialy.ink/post/became-brown-coder-look-back-my-study) - [Qlitre](https://atcoder.jp/users/Qlitre)さんが、2022年12月17日に達成。
+- [AtCoderで入茶したのでこれまでのことを振り返る - QLITRE DIALY](https://qlitre-dialy.ink/post/became-brown-coder-look-back-my-study) - [Qlitre](https://atcoder.jp/users/Qlitre)さんが、2022年12月17日に達成。
 - [Atcoderでお洒落に入茶した話](http://neko-mac.blogspot.com/2022/11/atcoder.html) - [shunsk2020](https://atcoder.jp/users/shunsk2020)さんが、2022年11月19日に達成。
 - [【Atcoder】文系が3ヶ月で入茶した話](https://qiita.com/satopin/items/8fdb5681bd5a55cfc8e5) - [satopin](https://atcoder.jp/users/satopin)さんが、2022年11月19日に達成。
 - [【色変記事】出場3回目にして2回目の茶色になったので初めて色変記事を書いてみた~AtCoderのすゝめ~](https://note.com/likaf/n/nba8f592509e6) - [LiKaf](https://atcoder.jp/users/LiKaf)さんが、2022年11月5日に達成。
