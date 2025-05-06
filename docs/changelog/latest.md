@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-05-06
+
+- [#10130](https://github.com/KATO-Hiro/AtCoderClans/pull/10130) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [差分更新ビームサーチライブラリの実装 (C++)](https://eijirou-kyopro.hatenablog.com/entry/2024/02/01/115639)
+
 ### 2025-05-05
 
 - [#10125](https://github.com/KATO-Hiro/AtCoderClans/pull/10125) - (破壊的な変更) 「[Related Contest Sites](../../related_contest_sites)」の「[Topcoder](../../related_contest_sites/topcoder)」ページに、以下の記事を追加。これに伴い、掲載内容がやや古くなったと思われる記事を「[Archives](../../archived)」ページに移動。
