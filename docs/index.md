@@ -123,6 +123,11 @@
 
 === "記事"
 
+    2025-05-06
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [差分更新ビームサーチライブラリの実装 (C++)](https://eijirou-kyopro.hatenablog.com/entry/2024/02/01/115639)
+
     2025-05-02
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
@@ -152,11 +157,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [THIRD プログラミングコンテスト2025（AtCoder Heuristic Contest 045）の復習](https://kaede2020.hatenablog.com/entry/2025/04/22/215515)
-
-    2025-04-21
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年4月21日時点)](https://x.com/atcoder/status/1914167916003725624)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -194,11 +194,6 @@
 
     - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
         - [shogo314/ac-library-mojo](https://github.com/shogo314/ac-library-mojo) - ![GitHub stars](https://img.shields.io/github/stars/shogo314/ac-library-mojo?style=plastic)
-
-    2025-04-21
-
-    - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
-        - [e6nlaq/ac-library-js](https://github.com/e6nlaq/ac-library-js) ![GitHub stars](https://img.shields.io/github/stars/e6nlaq/ac-library-js?style=plastic)
 
 === "色変記事"
 
