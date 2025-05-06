@@ -256,6 +256,7 @@ title: ヒューリスティック問題を解く
 - [ビームサーチの上位N件を高速に取る手法について考えてみる](https://zenn.dev/siman/articles/e94f63246f6cb3) - ビームサーチで、表題の内容について高速化を図った記事。C++で実装された実験コードに基づいて、実行速度の計測・比較が行われている。
 - [高速なビームサーチが欲しい!!!](https://qiita.com/rhoo/items/f2be256cde5ad2e62dde) - ビームサーチの高速化について解説した記事。前提として、ビームサーチの基礎とC++のポインタなどの知識が必要。
     - [ビームサーチをライブラリ化する【基礎編】](https://platinum-prog.hatenablog.com/entry/2023/07/28/222536) - ライブラリ作成の方針・一般的な実装方法(C++)を紹介した記事。[応用編](https://platinum-prog.hatenablog.com/entry/2023/08/09/203217)もある。
+    - [差分更新ビームサーチライブラリの実装 (C++)](https://eijirou-kyopro.hatenablog.com/entry/2024/02/01/115639) - 差分更新型のビームサーチの実装例(C++)が紹介されている。
     - [爆速ビームサーチライブラリを作る](https://qiita.com/rhoo/items/2f647e32f6ff2c6ee056) - 典型的なケースに対応した高速なビームサーチの実装とライブラリ化の方法を紹介した記事。
         - [Rustで実装されたライブラリ](https://github.com/rhoo19937/beam-search-library) ![GitHub Repo stars](https://img.shields.io/github/stars/rhoo19937/beam-search-library?style=plastic)
 - [ビームスタックサーチ（Beam-Stack Search）の解説](https://qiita.com/tsukasa__diary/items/f050291b6adad80b7998) - ビームスタックサーチについて、原著論文をもとに解説した記事。上述のchokudaiサーチとは異なるアリゴリズムであると指摘されている。
