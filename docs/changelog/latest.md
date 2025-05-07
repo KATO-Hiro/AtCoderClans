@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-05-07
+
+- [#10138](https://github.com/KATO-Hiro/AtCoderClans/pull/10138) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [【ネタバレ注意】AHCの天才貪欲練習にオススメの問題まとめ](https://topcoder-tomerun.hatenablog.jp/entry/2025/05/06/170319)
+- [#10137](https://github.com/KATO-Hiro/AtCoderClans/pull/10137) - 「[Scripts](../../scripts)」の「[Webページをより見やすく](../../chrome_extensions/improve_ui)」ページに、以下のChrome拡張機能を追加。
+    - [AtCoder Label Customizer](https://chromewebstore.google.com/detail/atcoder-label-customizer/jfgmfcnlmgolnfadehfomajomolbadhl)
+- [#10136](https://github.com/KATO-Hiro/AtCoderClans/pull/10136) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
+    - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年5月07日時点)](https://x.com/atcoder/status/1919935522698625437)
+
 ### 2025-05-06
 
 - [#10130](https://github.com/KATO-Hiro/AtCoderClans/pull/10130) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
