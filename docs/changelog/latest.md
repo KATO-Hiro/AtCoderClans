@@ -6,6 +6,7 @@ title: Change Log
 
 ### 2025-05-07
 
+- [#10143](https://github.com/KATO-Hiro/AtCoderClans/pull/10143) - (破壊的な変更) 非公開になったと思われるライブラリを「[Archives](../../archived)」ページに移動。
 - [#10138](https://github.com/KATO-Hiro/AtCoderClans/pull/10138) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
     - [【ネタバレ注意】AHCの天才貪欲練習にオススメの問題まとめ](https://topcoder-tomerun.hatenablog.jp/entry/2025/05/06/170319)
 - [#10137](https://github.com/KATO-Hiro/AtCoderClans/pull/10137) - 「[Scripts](../../scripts)」の「[Webページをより見やすく](../../chrome_extensions/improve_ui)」ページに、以下のChrome拡張機能を追加。
