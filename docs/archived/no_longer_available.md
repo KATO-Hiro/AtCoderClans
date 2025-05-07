@@ -502,6 +502,11 @@ title: 開発・提供終了
 
 - [Sobaya007/sbylib](https://github.com/Sobaya007/sbylib) ![GitHub stars](https://img.shields.io/github/stars/Sobaya007/sbylib?style=plastic) - [sobaya](https://atcoder.jp/users/sobaya)さんのDライブラリ。
 
+### Fortran
+
+- [DSCF-1224/Fortran](https://github.com/DSCF-1224/Fortran) ![GitHub stars](https://img.shields.io/github/stars/DSCF-1224/Fortran?style=plastic) - [DSCF_1224](https://atcoder.jp/users/DSCF_1224)さんのFortranライブラリ。
+    - 確認した日: 2025/05/07
+
 ### Go
 
 - [naipia/competitive-programming-go](https://github.com/naipia/competitive-programming-go) ![GitHub stars](https://img.shields.io/github/stars/naipia/competitive-programming-go?style=plastic) - [naipia](https://atcoder.jp/users/naipia)さんのGoライブラリ。
