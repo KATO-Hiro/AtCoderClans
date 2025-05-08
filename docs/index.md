@@ -167,11 +167,6 @@
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
         - [PythonのSortedContainersで一番大きい要素にアクセスしたいときは-1でアクセスした方がいい](https://qiita.com/kemuniku/items/9691f43cc81cf5271e84)
 
-    2025-04-23
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [THIRD プログラミングコンテスト2025（AtCoder Heuristic Contest 045）の復習](https://kaede2020.hatenablog.com/entry/2025/04/22/215515)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -190,6 +185,11 @@
         - [ansain](https://atcoder.jp/users/ansain)さん - [はてなブログ](https://ansain.hatenablog.com/)
 
 === "動画"
+
+    2025-05-08
+
+    - 「[番組アーカイブ](videos/archived_video)」ページ
+        - [【競プロって実務に役に立つの？】競プロ世界ランカーに説明してもらいました | AtCoder社長 高橋直大(chokudai)](https://www.youtube.com/watch?v=r0SidfjSzJM)
 
     2025-05-03
 

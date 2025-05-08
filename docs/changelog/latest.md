@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-05-08
+
+- [#10146](https://github.com/KATO-Hiro/AtCoderClans/pull/10146) - 「[Articles, Blogs, Books and Videos](../../media)」の「[番組アーカイブ](../../videos/archived_video)」ページに、以下の動画を追加。
+    - [【競プロって実務に役に立つの？】競プロ世界ランカーに説明してもらいました | AtCoder社長 高橋直大(chokudai)](https://www.youtube.com/watch?v=r0SidfjSzJM)
+
 ### 2025-05-07
 
 - [#10143](https://github.com/KATO-Hiro/AtCoderClans/pull/10143) - (破壊的な変更) 非公開になったと思われるライブラリを「[Archives](../../archived)」ページに移動。
