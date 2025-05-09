@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-05-09
+
+- [#10151](https://github.com/KATO-Hiro/AtCoderClans/pull/10151) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[torikara_chicken](https://atcoder.jp/users/torikara_chicken)さんの[記事](https://zenn.dev/torikara/articles/a9c6024a5c0f7c)を追加。
+
 ### 2025-05-08
 
 - [#10146](https://github.com/KATO-Hiro/AtCoderClans/pull/10146) - 「[Articles, Blogs, Books and Videos](../../media)」の「[番組アーカイブ](../../videos/archived_video)」ページに、以下の動画を追加。

@@ -213,6 +213,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2025-05-09
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [torikara_chicken](https://atcoder.jp/users/torikara_chicken)さん - [子育て奮闘おじさんが競プロで入水しました](https://zenn.dev/torikara/articles/a9c6024a5c0f7c)
+
     2025-04-26
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
