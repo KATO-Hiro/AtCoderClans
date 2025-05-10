@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-05-10
+
+- [#10156](https://github.com/KATO-Hiro/AtCoderClans/pull/10156) - (破壊的な変更) 「[Change Log](../latest)」ページの2025年3月分を月別のアーカイブに移動。
+    - [March, 2025](../2025_03)
+
 ### 2025-05-09
 
 - [#10151](https://github.com/KATO-Hiro/AtCoderClans/pull/10151) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

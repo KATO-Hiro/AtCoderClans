@@ -202,13 +202,6 @@
         - [AtCoder Heuristic First-step Vol.1 前半](https://www.youtube.com/watch?v=MVrDouD35gU)
         - [AtCoder Heuristic First-step Vol.1 後半](https://www.youtube.com/watch?v=RxbTHAu9Ct8)
 
-=== "ライブラリ・スニペット"
-
-    2025-04-25
-
-    - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
-        - [shogo314/ac-library-mojo](https://github.com/shogo314/ac-library-mojo) - ![GitHub stars](https://img.shields.io/github/stars/shogo314/ac-library-mojo?style=plastic)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
