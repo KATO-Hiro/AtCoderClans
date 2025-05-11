@@ -175,15 +175,6 @@
     - 「[アルゴリズム部門 - Rust](blogs/algorithm/rust)」ページ
         - [rhoo](https://atcoder.jp/users/rhoo)さん - [Qiita](https://qiita.com/rhoo)
 
-    2025-04-26
-
-     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [kotamanegi](https://atcoder.jp/users/kotamanegi)さん - [はてなブログ](https://kotamanegi.hatenablog.com/)
-        - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さん - [はてなブログ](https://halc-kyopro.hatenablog.com/)
-
-     - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
-        - [ansain](https://atcoder.jp/users/ansain)さん - [はてなブログ](https://ansain.hatenablog.com/)
-
 === "動画"
 
     2025-05-08
@@ -206,15 +197,15 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2025-05-11
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [Nom8](https://atcoder.jp/users/Nom8)さん - [【AtCoder】高校2年の入緑記事と、競プロを始め、続けている理由](https://qiita.com/Nom8/items/d47207f5f1ff73cd36eb)
+
     2025-05-09
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [torikara_chicken](https://atcoder.jp/users/torikara_chicken)さん - [子育て奮闘おじさんが競プロで入水しました](https://zenn.dev/torikara/articles/a9c6024a5c0f7c)
-
-    2025-04-26
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [Un_titled](https://atcoder.jp/users/Un_titled)さん - [入茶記事といふものを、書いてみんとするなり](https://qiita.com/Un_titled/items/28182697bf060cbcfbe3)
 
 === "国内外のコンテストサイト"
 
