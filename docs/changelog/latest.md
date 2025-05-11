@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-05-11
+
+- [#10162](https://github.com/KATO-Hiro/AtCoderClans/pull/10162) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[Nom8](https://atcoder.jp/users/Nom8)さんの[記事](https://qiita.com/Nom8/items/d47207f5f1ff73cd36eb)を追加。
+
 ### 2025-05-10
 
 - [#10156](https://github.com/KATO-Hiro/AtCoderClans/pull/10156) - (破壊的な変更) 「[Change Log](../latest)」ページの2025年3月分を月別のアーカイブに移動。
