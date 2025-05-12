@@ -127,6 +127,11 @@
 
 === "記事"
 
+    2025-05-12
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年5月12日時点)](https://x.com/atcoder/status/1921742776863162817)
+
     2025-05-07
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -161,11 +166,6 @@
 
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
         - [SortedContainersの計算量まとめ](https://qiita.com/kemuniku/items/1dd49b4cad22c54d3754)
-
-    2025-04-27
-
-    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
-        - [PythonのSortedContainersで一番大きい要素にアクセスしたいときは-1でアクセスした方がいい](https://qiita.com/kemuniku/items/9691f43cc81cf5271e84)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
