@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-05-13
+
+- [#10172](https://github.com/KATO-Hiro/AtCoderClans/pull/10172) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Others](../../articles/implementation/others)」ページに、以下の記事を追加。
+    - [Nim言語の良さを伝えたい](https://utac.hateblo.jp/entry/2025/04/25/230241)
+
 ### 2025-05-12
 
 - [#10166](https://github.com/KATO-Hiro/AtCoderClans/pull/10166) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
