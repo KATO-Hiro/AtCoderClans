@@ -127,6 +127,11 @@
 
 === "記事"
 
+    2025-05-13
+
+    - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
+        - [Nim言語の良さを伝えたい](https://utac.hateblo.jp/entry/2025/04/25/230241)
+
     2025-05-12
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -161,11 +166,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年4月30日時点)](https://x.com/atcoder/status/1917476205235954110)
-
-    2025-04-28
-
-    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
-        - [SortedContainersの計算量まとめ](https://qiita.com/kemuniku/items/1dd49b4cad22c54d3754)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
