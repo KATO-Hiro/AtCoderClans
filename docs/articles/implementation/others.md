@@ -72,6 +72,12 @@ title: Others
 
 - [【Atcoder】JavaScriptでもC++のSTLが使いたい！](https://qiita.com/sdk40010/items/a93eebcb5e55c154e577) - JavaScript(TypeScript)環境で、C++の標準ライブラリStandard Template Library (STL)を利用する方法について紹介した記事。
 
+## Nim
+
+### 文法・言語仕様
+
+- [Nim言語の良さを伝えたい](https://utac.hateblo.jp/entry/2025/04/25/230241) - Nim言語の良さを布教している。実行速度が早い、学習コストが低い、シンプルに記述できるなどのメリットが紹介されている。
+
 ## PHP
 
 ### 文法・言語仕様
