@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-05-14
+
+- [#10178](https://github.com/KATO-Hiro/AtCoderClans/pull/10178) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Scroll Page Top Hider](https://greasyfork.org/ja/scripts/535017-atcoder-scroll-page-top-hider)
+
 ### 2025-05-13
 
 - [#10172](https://github.com/KATO-Hiro/AtCoderClans/pull/10172) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Others](../../articles/implementation/others)」ページに、以下の記事を追加。

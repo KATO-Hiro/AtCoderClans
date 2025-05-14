@@ -94,25 +94,12 @@
     - [AtCoderの言語アップデートに関して (2024-25年度)](https://atcoder.jp/posts/1342)
     - [Language Test 202505](https://atcoder.jp/contests/language-test-202505)
 
-=== "Webアプリ・Webサイト"
+=== "ユーザスクリプト"
 
-    2025-04-29
+    2025-05-14
 
-    - 「[クイズ・ゲーム・ネタアプリ](web_app/quiz_and_game)」ページ
-        - [AtCoder SNS Contest](https://quiz-maker.site/quiz/play/8i0Ogy20200315154852)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/atcoder_sns_contest.png" alt="atcoder sns contest">
-    </div>
-
-    2025-04-29
-
-    - 「[クイズ・ゲーム・ネタアプリ](web_app/quiz_and_game)」ページ
-        - [AtCoder 実行時間クイズ](https://quiz-maker.site/quiz/play/d8Vt1O20250428222638)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/atcoder_runtime_quiz.png" alt="atcoder runtime quiz">
-    </div>
+    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
+        - [AtCoder Scroll Page Top Hider](https://greasyfork.org/ja/scripts/535017-atcoder-scroll-page-top-hider)
 
 === "Chrome拡張機能"
 
