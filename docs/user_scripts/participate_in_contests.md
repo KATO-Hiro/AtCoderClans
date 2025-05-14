@@ -50,6 +50,8 @@ title: コンテストに参加する
       <img loading="lazy" src="../../images/userscript/atcoder_navbar_restrictor.png" alt="atcoder navbar restrictor">
     </div>
 
+- [AtCoder Scroll Page Top Hider](https://greasyfork.org/ja/scripts/535017-atcoder-scroll-page-top-hider) - 「問題」ページにある「↑ページトップ」を非表示にする。
+
 - [AtCoder Customize Panel Fix](https://greasyfork.org/ja/scripts/511359-atcoder-customize-panel-fix) - 「順位表」ページをリロードしたときに、カスタマイズパネルを開いたままにする。
 
 - [AtCoder Standings AC Time Formatter](https://greasyfork.org/ja/scripts/523392-atcoder-standings-ac-time-formatter) - 「順位表」ページで、問題に正解するまでの所要時間を見やすくする。アルゴリズム部門だけでなく、ヒューリスティック部門にも対応している。
