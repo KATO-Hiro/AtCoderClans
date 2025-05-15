@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-05-15
+
+- [#10180](https://github.com/KATO-Hiro/AtCoderClans/pull/10180) - 「[Articles, Blogs, Books and Videos](../../media)」の「[SNS](../../sns)」ページに掲載しているDiscordサーバの名称を更新。
+    - [高専競プロ鯖](https://discord.com/invite/nhMReq9nMz)
+
 ### 2025-05-14
 
 - [#10178](https://github.com/KATO-Hiro/AtCoderClans/pull/10178) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。

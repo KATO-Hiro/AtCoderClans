@@ -149,11 +149,6 @@
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
         - [競プロオンサイトは、数名の素晴らしい仲間と覚悟があれば開けるという話。（TOUPC001 開催記）](https://note.com/uruzunyaa/n/n0e83e9a59242)
 
-    2025-04-30
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年4月30日時点)](https://x.com/atcoder/status/1917476205235954110)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -174,11 +169,12 @@
     - 「[番組アーカイブ](videos/archived_video)」ページ
         - [【AtCoder創業者】高橋直大(chokudai)の半生 / AtCoder創業から現在に至るまで](https://www.youtube.com/watch?v=kIsLTQ0yaIs)
 
-    2025-04-30
+=== "SNS"
 
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [AtCoder Heuristic First-step Vol.1 前半](https://www.youtube.com/watch?v=MVrDouD35gU)
-        - [AtCoder Heuristic First-step Vol.1 後半](https://www.youtube.com/watch?v=RxbTHAu9Ct8)
+    2025-05-15
+
+    - 「[SNS](sns)」ページ
+        - [高専競プロ鯖](https://discord.com/invite/nhMReq9nMz)
 
 === "色変記事"
 
