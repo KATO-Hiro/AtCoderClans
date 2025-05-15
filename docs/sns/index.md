@@ -18,7 +18,7 @@ title: SNS
 
 - [N+1色を目指す鯖](https://discord.com/invite/vNHVTVXq) - 現在のレーティング帯よりも一つ上を目指す人のためのサーバ。
 
-- [高専競プロ部](https://discord.com/invite/nhMReq9nMz) - 高専生および関係者で競技プログラミングに参加している人・参加を考えている人向けのサーバ。[tsunamayo123](https://atcoder.jp/users/tsunamayo123)さんが管理・運営されている。
+- [高専競プロ鯖](https://discord.com/invite/nhMReq9nMz) - 高専生および関係者で競技プログラミングに参加している人・参加を考えている人向けのサーバ。[tsunamayo123](https://atcoder.jp/users/tsunamayo123)さんが管理・運営されている。
 
 ### ヒューリスティック部門
 
