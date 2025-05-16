@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-05-16
+
+- [#10184](https://github.com/KATO-Hiro/AtCoderClans/pull/10184) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
+    - [競プロにおける約数の個数の見積もり](https://noshi91.hatenablog.com/entry/2022/07/05/021040)
+
 ### 2025-05-15
 
 - [#10180](https://github.com/KATO-Hiro/AtCoderClans/pull/10180) - 「[Articles, Blogs, Books and Videos](../../media)」の「[SNS](../../sns)」ページに掲載しているDiscordサーバの名称を更新。

@@ -114,6 +114,11 @@
 
 === "記事"
 
+    2025-05-16
+
+    - 「[数学を学ぶ](articles/math)」ページ
+        - [競プロにおける約数の個数の見積もり](https://noshi91.hatenablog.com/entry/2022/07/05/021040)
+
     2025-05-13
 
     - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
@@ -143,11 +148,6 @@
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
         - [TOUPC001に参加してきた](https://inthebloom.github.io/post/toupc001/)
-
-    2025-05-01
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-        - [競プロオンサイトは、数名の素晴らしい仲間と覚悟があれば開けるという話。（TOUPC001 開催記）](https://note.com/uruzunyaa/n/n0e83e9a59242)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
