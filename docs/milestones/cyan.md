@@ -4,6 +4,7 @@ title: レーティング1200〜1599(水色)
 
 ## 2025年
 
+- [ジャイロ「ジョジョ７部もアニメ化されるし、入水記事でも書くか...」](https://qiita.com/mattsunkun/items/96241a3c39282cbca1f5) - [mattsunkun](https://atcoder.jp/users/mattsunkun)さんが、2025年5月16日に公開。
 - [子育て奮闘おじさんが競プロで入水しました](https://zenn.dev/torikara/articles/a9c6024a5c0f7c) - [torikara_chicken](https://atcoder.jp/users/torikara_chicken)さんが、2025年5月3日に達成。
 - [AtCoder水色になりました](https://qiita.com/what_a_mess/items/84959019bd18d7c5ed59) - [what_a_mess](https://atcoder.jp/users/what_a_mess)さんが、2025年4月5日に達成。
 - [ABC399でAlgorithm入水したぞ！](https://note.com/yoniha428/n/n6203f6d35764) - [yoniha](https://atcoder.jp/users/yoniha)さんが、2025年3月29日に達成。
