@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-05-17
+
+- [#10195](https://github.com/KATO-Hiro/AtCoderClans/pull/10195) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[mattsunkun](https://atcoder.jp/users/mattsunkun)さんの[記事](https://qiita.com/mattsunkun/items/96241a3c39282cbca1f5)を追加。
+- [#10194](https://github.com/KATO-Hiro/AtCoderClans/pull/10194) - (破壊的な変更) リンク切れと思われる記事・ブログを「[Archives](../../archived)」ページに移動。
+
 ### 2025-05-16
 
 - [#10184](https://github.com/KATO-Hiro/AtCoderClans/pull/10184) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
