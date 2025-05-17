@@ -279,10 +279,6 @@ title: アルゴリズムを学ぶ
 - [Manacher's algorithm でダミー文字を使わなくて済む方法](https://ngtkana.hatenablog.com/entry/2024/03/17/034026) - 各文字の回文半径（その文字を中心とした回文の長さ引く 1 割る 2）を高速に計算するにあたり、少しの変更でより使いやすくする方法が紹介されている。
 - [文字列の頭良い感じの線形アルゴリズムたち](https://snuke.hatenablog.com/entry/2014/12/01/235807) - 文字列検索に関するアルゴリズムを紹介した記事。
 
-## その他
-
-- [競プロ初心者が怖がるもの](https://qiita.com/NokonoKotlin/items/75e56515139a872fb629) - 初心者に恐れられがちなアルゴリズムに対して、それぞれの要点や関連記事が紹介されている。
-
 ### 問題集
 
 - [独立に考える：x軸とy軸](https://drken1215.hatenablog.com/archive/category/%E7%8B%AC%E7%AB%8B%E3%81%AB%E8%80%83%E3%81%88%E3%82%8B%EF%BC%9Ax%E8%BB%B8%E3%81%A8y%E8%BB%B8) - [drken](https://atcoder.jp/users/drken)さんによる過去問の解説集。x軸とy軸を独立に扱うことで考察・実装がしやすくなる問題がまとめられている。
