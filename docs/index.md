@@ -144,11 +144,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [差分更新ビームサーチライブラリの実装 (C++)](https://eijirou-kyopro.hatenablog.com/entry/2024/02/01/115639)
 
-    2025-05-02
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-        - [TOUPC001に参加してきた](https://inthebloom.github.io/post/toupc001/)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -179,6 +174,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-05-17
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [mattsunkun](https://atcoder.jp/users/mattsunkun)さん - [ジャイロ「ジョジョ７部もアニメ化されるし、入水記事でも書くか...」](https://qiita.com/mattsunkun/items/96241a3c39282cbca1f5)
 
     2025-05-11
 
