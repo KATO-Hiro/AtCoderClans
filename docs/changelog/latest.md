@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-05-18
+
+- [#10202](https://github.com/KATO-Hiro/AtCoderClans/pull/10202) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに掲載している「[競技プログラミングの鉄則 ~アルゴリズム力と思考力を高める77の技術~](https://www.amazon.co.jp/dp/483997750X)」の説明文を更新。以下の関連書籍を追加。
+    - [Haskellで競プロ鉄則本を解いていく](https://zenn.dev/ppdx999/books/65e882010be891)
+- [#10200](https://github.com/KATO-Hiro/AtCoderClans/pull/10200) - 「[Command Line Tools](../../cli)」の「[ソースコードにバグがないか確認](../../cli/test_tools)」ページに、テストツールを追加。
+    - [ppdx999/atcoder-cli](https://github.com/ppdx999/atcoder-cli) ![GitHub stars](https://img.shields.io/github/stars/ppdx999/atcoder-cli?style=plastic)
+- [#10199](https://github.com/KATO-Hiro/AtCoderClans/pull/10199) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [「DFSが苦手」がなくなる！BFSと合わせて体系的に再解釈する話](https://zenn.dev/torikara/articles/0e4e4b6c71c371)
+
 ### 2025-05-17
 
 - [#10195](https://github.com/KATO-Hiro/AtCoderClans/pull/10195) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

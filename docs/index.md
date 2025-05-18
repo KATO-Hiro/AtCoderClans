@@ -114,6 +114,11 @@
 
 === "記事"
 
+    2025-05-18
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [「DFSが苦手」がなくなる！BFSと合わせて体系的に再解釈する話](https://zenn.dev/torikara/articles/0e4e4b6c71c371)
+
     2025-05-16
 
     - 「[数学を学ぶ](articles/math)」ページ
@@ -159,10 +164,12 @@
     - 「[番組アーカイブ](videos/archived_video)」ページ
         - [【競プロって実務に役に立つの？】競プロ世界ランカーに説明してもらいました | AtCoder社長 高橋直大(chokudai)](https://www.youtube.com/watch?v=r0SidfjSzJM)
 
-    2025-05-03
+=== "書籍"
 
-    - 「[番組アーカイブ](videos/archived_video)」ページ
-        - [【AtCoder創業者】高橋直大(chokudai)の半生 / AtCoder創業から現在に至るまで](https://www.youtube.com/watch?v=kIsLTQ0yaIs)
+    2025-05-18
+
+    - 「[書籍](books)」ページ
+        - [Haskellで競プロ鉄則本を解いていく](https://zenn.dev/ppdx999/books/65e882010be891)
 
 === "SNS"
 
@@ -170,6 +177,13 @@
 
     - 「[SNS](sns)」ページ
         - [高専競プロ鯖](https://discord.com/invite/nhMReq9nMz)
+
+=== "コマンドラインツール"
+
+    2025-05-18
+
+    - 「[ソースコードにバグがないか確認](cli/test_tools)」ページ
+        - [ppdx999/atcoder-cli](https://github.com/ppdx999/atcoder-cli) ![GitHub stars](https://img.shields.io/github/stars/ppdx999/atcoder-cli?style=plastic)
 
 === "色変記事"
 
