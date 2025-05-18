@@ -31,14 +31,20 @@ title: 書籍
     - [書籍に掲載されているソースコードや章末問題の略解](https://github.com/drken1215/book_algorithm_solution)
     - [yuk1ty/book-algorithm-solution](https://github.com/yuk1ty/book-algorithm-solution) ![GitHub Repo stars](https://img.shields.io/github/stars/yuk1ty/book-algorithm-solution?style=plastic) - 有志が本文のソースコード(C++)をPythonで書き直している。
 - [競技プログラミングの鉄則 ~アルゴリズム力と思考力を高める77の技術~](https://www.amazon.co.jp/dp/483997750X) - [E869120](https://atcoder.jp/users/E869120)さんによる書籍の第2弾。アルゴリズムや思考テクニックを学ぶことができる。豊富なオリジナル問題やヒューリスティック最適化への対応などが特徴。
-    - [書籍「競技プログラミングの鉄則」を書きました](https://e869120.hatenablog.com/entry/2022/09/08/214552) - 著者による書籍の内容と想定読者の説明。
-    - [【発売即重版】書籍『競技プログラミングの鉄則』を著者が解説](https://www.youtube.com/watch?v=iZ_-sGVHBVg) - 著者による書籍の解説動画。視聴者からの質問・回答コーナーもある。
-    - [『競技プログラミングの鉄則』序盤20,000文字+目次を無料公開します！](https://e869120.hatenablog.com/entry/2022/11/01/224639) - 著者が書籍の目次と序章・第1章を無料で公開している記事。
-    - [E869120/kyopro-tessoku](https://github.com/E869120/kyopro-tessoku) ![GitHub Repo stars](https://img.shields.io/github/stars/E869120/kyopro-tessoku?style=plastic) - ソースコード(C++、Python、Java)、節末問題・力試し問題の解答、正誤表が掲載されている。
     - [競技プログラミングの鉄則　演習問題集](https://atcoder.jp/contests/tessoku-book) - [AtCoder](https://atcoder.jp/)の自動採点システムで、書籍に掲載されている問題を解くことができる。
-        - [演習問題のテストケース](https://www.dropbox.com/sh/nx3tnilzqz7df8a/AABh1dWn9MpTS1XX_t3_2nHfa/tessoku-book)
-    - [有志による紹介動画](https://twitter.com/kaede20203/status/1570163622755827713) - [kaede2020](https://atcoder.jp/users/kaede2020)さんが、書籍の7章「ヒューリスティック」の概要を紹介している。
-    - [有志による書評](https://zenn.dev/reputeless/articles/idea-tessoku-review) - [Ryo Suzuki](https://twitter.com/reputeless)さんによる書評。
+        - [E869120/kyopro-tessoku](https://github.com/E869120/kyopro-tessoku) ![GitHub Repo stars](https://img.shields.io/github/stars/E869120/kyopro-tessoku?style=plastic) - ソースコード(C++、Python、Java)、節末問題・力試し問題の解答、正誤表が掲載されている。
+        - [Haskellで競プロ鉄則本を解いていく](https://zenn.dev/ppdx999/books/65e882010be891) - 有志によるHaskellの実装例。
+
+    !!! info "参考"
+
+        - 筆者よる紹介・解説
+            - [書籍「競技プログラミングの鉄則」を書きました](https://e869120.hatenablog.com/entry/2022/09/08/214552) - 著者による書籍の内容と想定読者の説明。
+            - [【発売即重版】書籍『競技プログラミングの鉄則』を著者が解説](https://www.youtube.com/watch?v=iZ_-sGVHBVg) - 著者による書籍の解説動画。視聴者からの質問・回答コーナーもある。
+            - [『競技プログラミングの鉄則』序盤20,000文字+目次を無料公開します！](https://e869120.hatenablog.com/entry/2022/11/01/224639) - 著者が書籍の目次と序章・第1章を無料で公開している記事。
+        - 有志による紹介・書評
+            - [有志による紹介動画](https://twitter.com/kaede20203/status/1570163622755827713) - [kaede2020](https://atcoder.jp/users/kaede2020)さんが、書籍の7章「ヒューリスティック」の概要を紹介している。
+            - [有志による書評](https://zenn.dev/reputeless/articles/idea-tessoku-review) - [Ryo Suzuki](https://twitter.com/reputeless)さんによる書評。
+
 - [プログラミングコンテストチャレンジブック [第2版] ～問題解決のアルゴリズム活用力とコーディングテクニックを鍛える～](https://www.amazon.co.jp/dp/B00CY9256C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - 通称、蟻本。初級編からかなり難しいが、典型的なアルゴリズムと考え方が収録されている。
 
     !!! info "参考"
