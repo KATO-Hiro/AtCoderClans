@@ -16,7 +16,7 @@ title: ソースコードにバグがないか確認
 
     !!! info "参考"
 
-        2025年4月時点では、[Online Judge Tools](https://github.com/online-judge-tools/oj) ![GitHub stars](https://img.shields.io/github/stars/online-judge-tools/oj?style=plastic)と[atcoder-cli](https://github.com/Tatamo/atcoder-cli) ![GitHub stars](https://img.shields.io/github/stars/Tatamo/atcoder-cli?style=plastic)に対応。
+        2025年5月時点では、[Online Judge Tools](https://github.com/online-judge-tools/oj) ![GitHub stars](https://img.shields.io/github/stars/online-judge-tools/oj?style=plastic)と[Tatamo/atcoder-cli](https://github.com/Tatamo/atcoder-cli) ![GitHub stars](https://img.shields.io/github/stars/Tatamo/atcoder-cli?style=plastic)に対応。
 
     !!! warning "注意"
 
@@ -26,7 +26,7 @@ title: ソースコードにバグがないか確認
 
 ### アルゴリズム部門
 
-- [atcoder-cli](https://github.com/Tatamo/atcoder-cli) ![GitHub stars](https://img.shields.io/github/stars/Tatamo/atcoder-cli?style=plastic) - AtCoderでの利用に特化しているのが特徴。一部の機能は、後述の[Online Judge Tools](https://github.com/online-judge-tools/oj)に依存しており、導入が必要。日本語・英語ともにドキュメントが充実している。
+- [Tatamo/atcoder-cli](https://github.com/Tatamo/atcoder-cli) ![GitHub stars](https://img.shields.io/github/stars/Tatamo/atcoder-cli?style=plastic) - AtCoderでの利用に特化しているのが特徴。一部の機能は、後述の[Online Judge Tools](https://github.com/online-judge-tools/oj)に依存しており、導入が必要。日本語・英語ともにドキュメントが充実している。
 - [AtCoder Tools](https://github.com/kyuridenamida/atcoder-tools) ![GitHub stars](https://img.shields.io/github/stars/kyuridenamida/atcoder-tools?style=plastic) - サンプルケースのダウンロードが便利になる。ログイン、サンプルのローカルテスト、コード提出、テンプレートからのコード自動生成機能などを備えている。
 
     <div align="center">
@@ -63,6 +63,13 @@ title: ソースコードにバグがないか確認
     <div align="center">
       <img loading = "lazy" src="../../images/cli/ai_virtual_assistant_python.png" alt="ai virtual assistant python">
     </div>
+
+- [ppdx999/atcoder-cli](https://github.com/ppdx999/atcoder-cli) ![GitHub stars](https://img.shields.io/github/stars/ppdx999/atcoder-cli?style=plastic) - サンプルのダウンロードとテスト、提出（一部手動を含む）ができる。C、C++、Python、Java、Haskell、Go、Rust、Zigに対応。
+
+    !!! warning "注意"
+
+        - (READMEの補足) 初めて利用するときは、[GHCup](https://www.haskell.org/ghcup/#)で Haskell の実行環境を準備し、`install.sh` や `build.sh` を実行する必要があると思われる。
+        - [Tatamo/atcoder-cli](https://github.com/Tatamo/atcoder-cli)とサービス名は同じだが、導入方法・使い方・対応言語などが異なる。
 
 - [AtCoderFriends](https://github.com/nejiko96/at_coder_friends) ![GitHub stars](https://img.shields.io/github/stars/nejiko96/at_coder_friends?style=plastic) - サンプルのテスト・提出が[36言語](https://github.com/nejiko96/at_coder_friends/blob/master/docs/CONFIGURATION.md)に対応している。また、テンプレートコードの生成機能もある（RubyとC++、C#はデフォルトで対応しており、他の言語もプラグインで追加できる）。
 - [Snowchains](https://github.com/qryxip/snowchains) ![GitHub stars](https://img.shields.io/github/stars/qryxip/snowchains?style=plastic) - サンプルケースのテスト、解答コードの提出に加えて、システムテストの取得もできる。C++とRustが利用可能。また、一部の機能を除いて、[Codeforces](https://codeforces.com/)、[yukicoder](https://yukicoder.me/)にも対応している。
