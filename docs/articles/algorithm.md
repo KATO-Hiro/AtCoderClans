@@ -45,6 +45,7 @@ title: アルゴリズムを学ぶ
 - [DFS(深さ優先探索)超入門！ 〜 グラフ・アルゴリズムの世界への入口 〜【前編】](https://qiita.com/drken/items/4a7869c5e304883f539b) - 探索手法の一つである深さ優先探索について、問題を解きながら慣れることを目指した記事。[後編](https://qiita.com/drken/items/a803d4fc4a727e02f7ba)もある。
     - [非再帰DFSに思いを馳せる記事](https://www.tellpro.net/harurun/articles/xuxYbrhlCwuvwkYlaVuxFXaNOhkgCyfk) - 深さ優先探索を再帰関数で実装すると処理が遅くなる場合に、`stack`で実装する方法がまとめられている。
 - [BFS (幅優先探索) 超入門！ 〜 キューを鮮やかに使いこなす 〜](https://qiita.com/drken/items/996d80bcae64649a6580) - 探索手法の一つである幅優先探索について解説されている記事。異なる視点・方法で問題を解くことで、グラフの性質について深く親しむことを目指しているのが特徴。また、[深さ優先探索の記事](https://qiita.com/drken/items/4a7869c5e304883f539b)とは、独立に読むことができるよう工夫されている。
+- [「DFSが苦手」がなくなる！BFSと合わせて体系的に再解釈する話](https://zenn.dev/torikara/articles/0e4e4b6c71c371) - 深さ優先探索と幅優先探索について、それぞれの基本的な考え方・実装方法・探索順序の違いによる特性に加え、俯瞰的に捉えた解釈が示されている。
 - [【問題集】DFS・BFSのステップアップ](https://drken1215.hatenablog.com/archive/category/%E3%80%90%E5%95%8F%E9%A1%8C%E9%9B%86%E3%80%91DFS%E3%83%BBBFS%E3%81%AE%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97) - DFS・BFSの理解をより深めるための問題と[drken](https://atcoder.jp/users/drken)さんによる解説の一覧。
 
 ### bit全探索
