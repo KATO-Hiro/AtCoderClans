@@ -87,13 +87,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "ホーム"
-
-    2025-05-04
-
-    - [AtCoderの言語アップデートに関して (2024-25年度)](https://atcoder.jp/posts/1342)
-    - [Language Test 202505](https://atcoder.jp/contests/language-test-202505)
-
 === "ユーザスクリプト"
 
     2025-05-14
@@ -113,6 +106,11 @@
     </div>
 
 === "記事"
+
+    2025-05-19
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年5月19日時点)](https://x.com/atcoder/status/1924291835029336527)
 
     2025-05-18
 
@@ -152,6 +150,12 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2025-05-19
+
+     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [yunix](https://atcoder.jp/users/yunix)さん - [はてなブログ](https://yunix-kyopro.hatenablog.com/)
+        - [miiitomi](https://atcoder.jp/users/miiitomi)さん - [GitHub Pages](https://miiitomi.github.io/categories/%E7%AB%B6%E3%83%97%E3%83%AD/)
+
     2025-05-05
 
     - 「[アルゴリズム部門 - Rust](blogs/algorithm/rust)」ページ
@@ -188,6 +192,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-05-19
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [pond6814](https://atcoder.jp/users/pond6814)さん - [【色変記事】AtCoderで入緑しました！](https://qiita.com/pond-e/items/863e8f49447f1d10bda0)
 
     2025-05-17
 
