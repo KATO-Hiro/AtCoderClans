@@ -7,6 +7,7 @@ title: レーティング800〜1199(緑色)
 
 ## 2025年
 
+- [【色変記事】AtCoderで入緑しました！](https://qiita.com/pond-e/items/863e8f49447f1d10bda0) - [pond6814](https://atcoder.jp/users/pond6814)さんが、2025年5月19日に公開。
 - [【AtCoder】高校2年の入緑記事と、競プロを始め、続けている理由](https://qiita.com/Nom8/items/d47207f5f1ff73cd36eb) - [Nom8](https://atcoder.jp/users/Nom8)さんが、2025年5月10日に達成。
 - [【入緑記事】プログラミング未経験者でもAtCoder初参加から4か月で緑色になれた](https://qiita.com/hkt_shichisei/items/5b9587244bb819e6682a) - [Sa15MiyagiJapan](https://atcoder.jp/users/Sa15MiyagiJapan)さんが、2025年3月22日に達成。
 - [【色変記事】非エンジニアが茶色から5か月で緑色になった話](https://note.com/sco0720/n/n530787739df0) - [SourCreamOnion](https://atcoder.jp/users/SourCreamOnion)さんが、2025年3月1日に達成。
