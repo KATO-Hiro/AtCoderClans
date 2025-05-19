@@ -24,6 +24,7 @@ title: C&#43;&#43;
 |square1001|[Qiita](https://qiita.com/square1001)||
 |takumi152|[はてなブログ](https://takumi152.hatenablog.jp/)||
 |yosupo|[はてなブログ](https://yosupo.hatenablog.com/)||
+|yunix|[はてなブログ](https://yunix-kyopro.hatenablog.com/)||
 |WA_TLE|[はてなブログ](https://watle.hatenablog.com/)|2019年1月以降、新規の記事を確認できず。|
 
 ## レーティング2400〜2799(橙色)
@@ -53,7 +54,6 @@ title: C&#43;&#43;
 |tokoharu|[はてなブログ](https://tokoharuland.hateblo.jp/)|2020年1月以降、新規の記事を確認できず。|
 |ValGrowth|[はてなブログ](https://valgrowth.hatenablog.com/archive)||
 |wanui|[Zenn](https://zenn.dev/gmeriaog)||
-|yunix|[はてなブログ](https://yunix-kyopro.hatenablog.com/)||
 
 ## レーティング2000〜2399(黄色)
 
@@ -74,6 +74,7 @@ title: C&#43;&#43;
 |kotatsugame|[はてなブログ](https://kotatsugame.hatenablog.com/)||
 |kusano|[はてなブログ](https://kusano-k.hatenablog.com/)、[Qiita](https://qiita.com/kusano_k)||
 |merom686|[はてなブログ](https://merom686.hatenablog.com/)||
+|miiitomi|[GitHub Pages](https://miiitomi.github.io/categories/%E7%AB%B6%E3%83%97%E3%83%AD/)||
 |milkcoffee|[はてなブログ](https://milkcoffee.hatenablog.jp/)||
 |m_buyoh|[はてなブログ](https://buyoh.hateblo.jp/)||
 |Nachia|[Qiita](https://qiita.com/Nachia)||
