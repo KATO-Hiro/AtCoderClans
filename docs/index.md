@@ -156,11 +156,6 @@
         - [yunix](https://atcoder.jp/users/yunix)さん - [はてなブログ](https://yunix-kyopro.hatenablog.com/)
         - [miiitomi](https://atcoder.jp/users/miiitomi)さん - [GitHub Pages](https://miiitomi.github.io/categories/%E7%AB%B6%E3%83%97%E3%83%AD/)
 
-    2025-05-05
-
-    - 「[アルゴリズム部門 - Rust](blogs/algorithm/rust)」ページ
-        - [rhoo](https://atcoder.jp/users/rhoo)さん - [Qiita](https://qiita.com/rhoo)
-
 === "動画"
 
     2025-05-08
@@ -181,6 +176,13 @@
 
     - 「[SNS](sns)」ページ
         - [高専競プロ鯖](https://discord.com/invite/nhMReq9nMz)
+
+=== "ライブラリ・スニペット"
+
+    2025-05-20
+
+    - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
+        - [toyboot4e/ac-library-hs](https://github.com/toyboot4e/ac-library-hs) - ![GitHub stars](https://img.shields.io/github/stars/toyboot4e/ac-library-hs?style=plastic)
 
 === "コマンドラインツール"
 
@@ -212,13 +214,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [torikara_chicken](https://atcoder.jp/users/torikara_chicken)さん - [子育て奮闘おじさんが競プロで入水しました](https://zenn.dev/torikara/articles/a9c6024a5c0f7c)
-
-=== "国内外のコンテストサイト"
-
-    2025-05-05
-
-    - 「[Topcoder](related_contest_sites/topcoder)」ページ
-        - [Marathon Match Tournament](https://www.topcoder.com/marathon-match-tournament)
 
 ## AtCoder公式グッズを購入する
 
