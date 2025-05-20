@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-05-20
+
+- [#10217](https://github.com/KATO-Hiro/AtCoderClans/pull/10217) - 「[Libraries and Snippets](../../libraries)」の「[AtCoder Library (ACL)の各言語への移植](../../libraries/porting_of_acl)」ページに、以下のライブラリを追加。
+    - [toyboot4e/ac-library-hs](https://github.com/toyboot4e/ac-library-hs) - ![GitHub stars](https://img.shields.io/github/stars/toyboot4e/ac-library-hs?style=plastic)
+
 ### 2025-05-19
 
 - [#10212](https://github.com/KATO-Hiro/AtCoderClans/pull/10212) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
