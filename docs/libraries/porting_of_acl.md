@@ -40,6 +40,10 @@ title: 各言語への移植
 
         レポジトリのREADMEによると、未完成の状態。
 
+## ACL Haskell
+
+- [toyboot4e/ac-library-hs](https://github.com/toyboot4e/ac-library-hs) - ![GitHub stars](https://img.shields.io/github/stars/toyboot4e/ac-library-hs?style=plastic) - Haskell版。
+
 ## ACL Java
 
 - [NASU41/AtCoderLibraryForJava](https://github.com/NASU41/AtCoderLibraryForJava) ![GitHub stars](https://img.shields.io/github/stars/NASU41/AtCoderLibraryForJava?style=plastic) - Java版。また、このレポジトリから派生した[Kotlin版](https://github.com/Hiromi-Ayase/ac-library-kt)もある。
