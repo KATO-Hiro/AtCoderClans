@@ -4,6 +4,16 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-05-21
+
+- [#10226](https://github.com/KATO-Hiro/AtCoderClans/pull/10226) - 「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../user_scripts/submit_codes)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoderLeftShiftOverflowWarning](https://greasyfork.org/ja/scripts/536353-atcoderleftshiftoverflowwarning)
+- [#10225](https://github.com/KATO-Hiro/AtCoderClans/pull/10225) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [【競プロ】括弧列の性質・知識をまとめてみる](https://qiita.com/Nauclhlt/items/b700cf31f524214a0735)
+- [#10223](https://github.com/KATO-Hiro/AtCoderClans/pull/10223)、[#10224](https://github.com/KATO-Hiro/AtCoderClans/pull/10224) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [ChatGPT×Codexの競技プログラミング（ヒューリスティック）での活用](https://qiita.com/keroru/items/66fcd6fed26bf2f6f0ae)
+    - [あえて考えなかった4時間：AIにすべてを任せたAHC047参戦記](https://note.com/tak_nakamori/n/n847bf483d44c)
+
 ### 2025-05-20
 
 - [#10217](https://github.com/KATO-Hiro/AtCoderClans/pull/10217) - 「[Libraries and Snippets](../../libraries)」の「[AtCoder Library (ACL)の各言語への移植](../../libraries/porting_of_acl)」ページに、以下のライブラリを追加。

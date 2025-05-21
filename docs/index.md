@@ -89,6 +89,15 @@
 
 === "ユーザスクリプト"
 
+    2025-05-21
+
+    - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
+        - [AtCoderLeftShiftOverflowWarning](https://greasyfork.org/ja/scripts/536353-atcoderleftshiftoverflowwarning)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_left_shift_overflow_warning.png" alt="atcoder left shift overflow warning">
+    </div>
+
     2025-05-14
 
     - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
@@ -106,6 +115,17 @@
     </div>
 
 === "記事"
+
+    2025-05-21
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [【競プロ】括弧列の性質・知識をまとめてみる](https://qiita.com/Nauclhlt/items/b700cf31f524214a0735)
+
+    2025-05-21
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [ChatGPT×Codexの競技プログラミング（ヒューリスティック）での活用](https://qiita.com/keroru/items/66fcd6fed26bf2f6f0ae)
+        - [あえて考えなかった4時間：AIにすべてを任せたAHC047参戦記](https://note.com/tak_nakamori/n/n847bf483d44c)
 
     2025-05-19
 
@@ -141,11 +161,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年5月07日時点)](https://x.com/atcoder/status/1919935522698625437)
-
-    2025-05-06
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [差分更新ビームサーチライブラリの実装 (C++)](https://eijirou-kyopro.hatenablog.com/entry/2024/02/01/115639)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
