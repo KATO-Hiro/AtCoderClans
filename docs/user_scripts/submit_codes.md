@@ -84,6 +84,12 @@ title: ソースコードの提出・確認を簡単に
       <img loading = "lazy" src="../../images/userscript/atcoder_penalty_rate_check_easer.png" alt="atcoder penalty rate check easer">
     </div>
 
+- [AtCoderLeftShiftOverflowWarning](https://greasyfork.org/ja/scripts/536353-atcoderleftshiftoverflowwarning) - 「問題」「提出」ページで、数値リテラルを左シフトしているC++コード（例: 1 << i）を含む場合に、提出ボタンに警告メッセージを表示する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_left_shift_overflow_warning.png" alt="atcoder left shift overflow warning">
+    </div>
+
 - [mod noticer](https://greasyfork.org/ja/scripts/429808-mod-noticer) - 「問題」ページで、剰余(mod)を取る必要がある問題に対して、提出ボタンに確認メッセージを追加する。
 
     <div align="center">
