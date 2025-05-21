@@ -225,6 +225,10 @@ title: ヒューリスティック問題を解く
 
 - [私のスコア問題評価環境](https://topcoder-tomerun.hatenablog.jp/entry/2024/04/06/201915) - [tomerun](https://atcoder.jp/users/tomerun)さんが、大量のテストケースを低価格で評価する方法(AWS Batch)を紹介している。
 
+#### 生成AIの活用
+
+- [ChatGPT×Codexの競技プログラミング（ヒューリスティック）での活用](https://qiita.com/keroru/items/66fcd6fed26bf2f6f0ae) - ChatGPT版Codex を活用して、ヒューリスティックな問題を解く方法、その利点や課題などが紹介されている。
+
 ## 資料集
 
 ### 数理最適化
