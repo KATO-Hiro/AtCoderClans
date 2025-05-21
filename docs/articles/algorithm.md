@@ -273,6 +273,8 @@ title: アルゴリズムを学ぶ
 
 ## 文字列
 
+- [【競プロ】括弧列の性質・知識をまとめてみる](https://qiita.com/Nauclhlt/items/b700cf31f524214a0735) - 括弧列の定義・判定問題・数え上げ・木構造との対応関係などがまとめられている。
+
 ### 文字列検索
 
 - [安全で爆速なRollingHashの話](https://qiita.com/keymoon/items/11fac5627672a6d6a9f6) - 文字列検索に関する手法・RollingHashについて、Hashの衝突(異なる文字が同じHashを取ること)を回避しながら高速に計算する方法を解説した記事。
