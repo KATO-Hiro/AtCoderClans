@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-05-22
+
+- [#10231](https://github.com/KATO-Hiro/AtCoderClans/pull/10231) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下の記事を追加。
+    - [中高生向け 学校対抗競技プログラミング「AtCoder Junior League 2024 Winter」入賞校・入賞者を発表](https://prtimes.jp/main/html/rd/p/000000057.000028415.html)
+
 ### 2025-05-21
 
 - [#10226](https://github.com/KATO-Hiro/AtCoderClans/pull/10226) - 「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../user_scripts/submit_codes)」ページに、以下のユーザスクリプトを追加。
@@ -24,7 +29,7 @@ title: Change Log
 - [#10212](https://github.com/KATO-Hiro/AtCoderClans/pull/10212) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
 - [#10211](https://github.com/KATO-Hiro/AtCoderClans/pull/10211) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
     - レーティング800から1199まで(緑色)に[pond6814](https://atcoder.jp/users/pond6814)さんの[記事](https://qiita.com/pond-e/items/863e8f49447f1d10bda0)を追加。
-- [#10210](https://github.com/KATO-Hiro/AtCoderClans/pull/102100) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
+- [#10210](https://github.com/KATO-Hiro/AtCoderClans/pull/10210) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
     - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年5月19日時点)](https://x.com/atcoder/status/1924291835029336527)
 
 ### 2025-05-18

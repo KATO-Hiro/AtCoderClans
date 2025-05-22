@@ -116,6 +116,11 @@
 
 === "記事"
 
+    2025-05-22
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [中高生向け 学校対抗競技プログラミング「AtCoder Junior League 2024 Winter」入賞校・入賞者を発表](https://prtimes.jp/main/html/rd/p/000000057.000028415.html)
+
     2025-05-21
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
