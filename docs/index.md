@@ -103,18 +103,12 @@
     - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
         - [AtCoder Scroll Page Top Hider](https://greasyfork.org/ja/scripts/535017-atcoder-scroll-page-top-hider)
 
-=== "Chrome拡張機能"
-
-    2025-05-07
-
-    - 「[Webページをより見やすく](chrome_extensions/improve_ui)」ページ
-        - [AtCoder Label Customizer](https://chromewebstore.google.com/detail/atcoder-label-customizer/jfgmfcnlmgolnfadehfomajomolbadhl)
-
-    <div align="center">
-      <img loading="lazy" src="images/chrome_extension/atcoder_label_customizer.png" alt="atcoder label customizer">
-    </div>
-
 === "記事"
+
+    2025-05-23
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [トヨタ自動車プログラミングコンテスト2025#2 (AHC047) 解説](https://www.terry-u16.net/entry/ahc047)
 
     2025-05-22
 
@@ -156,16 +150,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年5月12日時点)](https://x.com/atcoder/status/1921742776863162817)
-
-    2025-05-07
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [【ネタバレ注意】AHCの天才貪欲練習にオススメの問題まとめ](https://topcoder-tomerun.hatenablog.jp/entry/2025/05/06/170319)
-
-    2025-05-07
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年5月07日時点)](https://x.com/atcoder/status/1919935522698625437)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。

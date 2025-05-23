@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-05-23
+
+- [#10234](https://github.com/KATO-Hiro/AtCoderClans/pull/10234) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [トヨタ自動車プログラミングコンテスト2025#2 (AHC047) 解説](https://www.terry-u16.net/entry/ahc047)
+
 ### 2025-05-22
 
 - [#10231](https://github.com/KATO-Hiro/AtCoderClans/pull/10231) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下の記事を追加。
