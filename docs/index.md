@@ -89,6 +89,11 @@
 
 === "ユーザスクリプト"
 
+    2025-05-24
+
+    - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
+        - [AtCoderFavSubmissionFilter](https://greasyfork.org/ja/scripts/536911-atcoderfavsubmissionfilter)
+
     2025-05-21
 
     - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
@@ -160,14 +165,12 @@
         - [yunix](https://atcoder.jp/users/yunix)さん - [はてなブログ](https://yunix-kyopro.hatenablog.com/)
         - [miiitomi](https://atcoder.jp/users/miiitomi)さん - [GitHub Pages](https://miiitomi.github.io/categories/%E7%AB%B6%E3%83%97%E3%83%AD/)
 
-=== "動画"
-
-    2025-05-08
-
-    - 「[番組アーカイブ](videos/archived_video)」ページ
-        - [【競プロって実務に役に立つの？】競プロ世界ランカーに説明してもらいました | AtCoder社長 高橋直大(chokudai)](https://www.youtube.com/watch?v=r0SidfjSzJM)
-
 === "書籍"
+
+    2025-05-24
+
+    - 「[書籍](books)」ページ
+        - [なっとく！アルゴリズム 第2版](https://www.amazon.co.jp/dp/4798186899)
 
     2025-05-18
 
