@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-05-24
+
+- [#10240](https://github.com/KATO-Hiro/AtCoderClans/pull/10240) - 「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../user_scripts/submit_codes)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoderFavSubmissionFilter](https://greasyfork.org/ja/scripts/536911-atcoderfavsubmissionfilter)
+- [#10239](https://github.com/KATO-Hiro/AtCoderClans/pull/10239) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページのリンクおよび説明文を更新。
+    - [なっとく！アルゴリズム 第2版](https://www.amazon.co.jp/dp/4798186899)
+
 ### 2025-05-23
 
 - [#10234](https://github.com/KATO-Hiro/AtCoderClans/pull/10234) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
