@@ -180,6 +180,12 @@ title: ソースコードの提出・確認を簡単に
 
 - [AtCoder Default Search Fields](https://greasyfork.org/ja/scripts/445634-atcoder-default-search-fields) - 「すべての提出」ページで、結果がAC(正解)の提出を検索する。さらに、個別の問題ページから「すべての提出」ページに移動したときは、直前に見ていた問題に限定して絞り込むことができる。
 
+- [AtCoderFavSubmissionFilter](https://greasyfork.org/ja/scripts/536911-atcoderfavsubmissionfilter) - 「提出結果」ページの「すべての提出」で、「お気に入り」に登録済みユーザの回答のみを表示する。
+
+    !!! warning "注意"
+
+        絞り込みの対象は、開いているページのみ。
+
 - [AtCoder ResultsPage Tweaks](https://greasyfork.org/ja/scripts/424079-atcoder-resultspage-tweaks) - 「提出結果」ページの「すべての提出」で、検索条件を変更したときに自動で検索する。
 
 - [AtCoder Search Query Holder](https://greasyfork.org/ja/scripts/460696-atcoder-search-query-holder) - 検索条件を保持したまま「自分の提出」ページから「すべての提出」ページへ移動できる。
