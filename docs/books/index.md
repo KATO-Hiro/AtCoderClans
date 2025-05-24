@@ -14,11 +14,7 @@ title: 書籍
 
 
 - [アルゴリズム ビジュアル大事典](https://www.amazon.co.jp/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0-%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E5%A4%A7%E4%BA%8B%E5%85%B8-%E6%B8%A1%E9%83%A8-%E6%9C%89%E9%9A%86-ebook/dp/B085VHBD3W/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) - アルゴリズム・データ構造の計算方法と結果をビジュアル的に捉えることができる書籍。スマートフォンのカメラで、[QRコードにアクセスするとアルゴリズム・データ構造に関するアニメーションが閲覧できるページ](https://yutaka-watanobe.github.io/star-aida/books/)もある。
-- [なっとく！アルゴリズム](https://www.amazon.co.jp/%E3%81%AA%E3%81%A3%E3%81%A8%E3%81%8F%EF%BC%81%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0-%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%82%A2%E3%83%BBY%E3%83%BB%E3%83%90%E3%83%BC%E3%82%AC%E3%83%90-ebook/dp/B01N14WBX3/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1594869441&sr=8-1) - 解説の丁寧さと図の豊富さが特徴。
-
-    !!! warning "注意"
-
-        サンプルコードがPython2(公式のサポート終了)で書かれているため、print文などはPython3の書き方を調べる必要がある。
+- [なっとく！アルゴリズム 第2版](https://www.amazon.co.jp/dp/4798186899) - 解説の丁寧さと図の豊富さが特徴。サンプルコードはPython3で書かれている。
 
 ### コンテストで頻出・典型的な知識を習得する
 
