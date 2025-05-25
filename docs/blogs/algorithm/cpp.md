@@ -173,7 +173,7 @@ title: C&#43;&#43;
 |monkukui|[はてなブログ](https://monkukui.hatenablog.com/)||
 |m_tsubasa|[はてなブログ](https://emtubasa.hateblo.jp/)||
 |myau|[はてなブログ](https://myau-atcoder.hatenablog.com/)||
-|m1une|[はてなブログ](https://qiita.com/m1une/)||
+|m1une|[Qiita](https://qiita.com/m1une/)||
 |nadeko|[はてなブログ](https://simezi-tan.hatenadiary.org/)|2018年10月以降、新規の記事を確認できず。|
 |naoya_t|[はてなブログ](https://naoyat.hatenablog.jp/)||
 |natrium|[はてなブログ](https://natrium.hatenablog.com/)|2016年1月以降、新規の記事を確認できず。|
