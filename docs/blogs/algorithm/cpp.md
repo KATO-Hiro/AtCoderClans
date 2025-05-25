@@ -169,9 +169,11 @@ title: C&#43;&#43;
 |merom686|[はてなブログ](https://merom686.hatenablog.com/)||
 |miiitomi|[GitHub Pages](https://miiitomi.github.io/categories/%E7%AB%B6%E3%83%97%E3%83%AD/)||
 |milkcoffee|[はてなブログ](https://milkcoffee.hatenablog.jp/)||
+|momohara|[はてなブログ](https://momoharahara.hatenadiary.com/)||
 |monkukui|[はてなブログ](https://monkukui.hatenablog.com/)||
 |m_tsubasa|[はてなブログ](https://emtubasa.hateblo.jp/)||
 |myau|[はてなブログ](https://myau-atcoder.hatenablog.com/)||
+|m1une|[はてなブログ](https://qiita.com/m1une/)||
 |nadeko|[はてなブログ](https://simezi-tan.hatenadiary.org/)|2018年10月以降、新規の記事を確認できず。|
 |naoya_t|[はてなブログ](https://naoyat.hatenablog.jp/)||
 |natrium|[はてなブログ](https://natrium.hatenablog.com/)|2016年1月以降、新規の記事を確認できず。|
