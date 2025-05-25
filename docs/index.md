@@ -110,6 +110,11 @@
 
 === "記事"
 
+    2025-05-25
+
+    - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
+        - [個人的に嬉しい、AtCoder の Rust 言語アップデートで変わるもの一覧（Rust 1.70 → Rust 1.86)](https://ngtkana.hatenablog.com/entry/2025/05/24/115236)
+
     2025-05-23
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -159,6 +164,12 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2025-05-25
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [momohara](https://atcoder.jp/users/momohara)さん - [はてなブログ](https://momoharahara.hatenadiary.com/)
+        - [m1une](https://atcoder.jp/users/m1une)さん - [Qiita](https://qiita.com/m1une/)
+
     2025-05-19
 
      - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
@@ -193,6 +204,11 @@
 
 === "コマンドラインツール"
 
+    2025-05-25
+
+    - 「[ソースコードにバグがないか確認](cli/test_tools)」ページ
+        - [WSL への online-judge-tools (oj) 導入メモ 2025年5月時点](https://qiita.com/hamamu/items/243e2d82fe6316fef6c3)
+
     2025-05-18
 
     - 「[ソースコードにバグがないか確認](cli/test_tools)」ページ
@@ -216,11 +232,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [Nom8](https://atcoder.jp/users/Nom8)さん - [【AtCoder】高校2年の入緑記事と、競プロを始め、続けている理由](https://qiita.com/Nom8/items/d47207f5f1ff73cd36eb)
-
-    2025-05-09
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [torikara_chicken](https://atcoder.jp/users/torikara_chicken)さん - [子育て奮闘おじさんが競プロで入水しました](https://zenn.dev/torikara/articles/a9c6024a5c0f7c)
 
 ## AtCoder公式グッズを購入する
 
