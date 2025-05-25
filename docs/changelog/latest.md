@@ -6,6 +6,8 @@ title: Change Log
 
 ### 2025-05-25
 
+- [#10251](https://github.com/KATO-Hiro/AtCoderClans/pull/10251) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[satoyuki](https://atcoder.jp/users/satoyuki)さんの[記事](https://tomatokiraida52.hatenablog.com/entry/2025/05/25/035247)を追加。
 - [#10248](https://github.com/KATO-Hiro/AtCoderClans/pull/10248) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Rust](../../articles/implementation/rust)」ページに、以下の記事を追加。
     - [個人的に嬉しい、AtCoder の Rust 言語アップデートで変わるもの一覧（Rust 1.70 → Rust 1.86)](https://ngtkana.hatenablog.com/entry/2025/05/24/115236)
 - [#10247](https://github.com/KATO-Hiro/AtCoderClans/pull/10247) - 「[Command Line Tools](../../cli)」の「[ソースコードにバグがないか確認](../../cli/test_tools)」ページで掲載している「[Online Judge Tools](https://github.com/online-judge-tools/oj)」の関連記事を追加。
