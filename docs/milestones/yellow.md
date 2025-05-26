@@ -7,7 +7,13 @@ title: レーティング2000〜2399(黄色)
 
 ## 2025年
 
+### アルゴリズム部門
+
 - [【色変記事】AtCoderアルゴレートで黄色になりました！](https://miiitomi.github.io/p/yellow/) - [miiitomi](https://atcoder.jp/users/miiitomi)さんが、2025年1月19日に公開。
+
+### ヒューリスティック部門
+
+- [【色変記事】AtCoderヒューリスティックレートで黄色になりました！](https://miiitomi.github.io/p/heuristic_yellow/) - [miiitomi](https://atcoder.jp/users/miiitomi)さんが、2025年5月25日に公開。
 
 ## 2024年
 
