@@ -4,6 +4,19 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-05-26
+
+- [#10267](https://github.com/KATO-Hiro/AtCoderClans/pull/10267) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
+    - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年5月26日時点)](https://x.com/atcoder/status/1926854143085252791)
+- [#10266](https://github.com/KATO-Hiro/AtCoderClans/pull/10266) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[miiitomi](https://atcoder.jp/users/miiitomi)さんの[記事](https://miiitomi.github.io/p/heuristic_yellow/)を追加。
+- [#10265](https://github.com/KATO-Hiro/AtCoderClans/pull/10265) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[tyokousagi](https://atcoder.jp/users/tyokousagi)さんの[記事](https://qiita.com/pond-e/items/863e8f49447f1d10bda0)を追加。
+- [#10264](https://github.com/KATO-Hiro/AtCoderClans/pull/10264) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[ryuiso](https://atcoder.jp/users/ryuiso)さんの[記事](https://zenn.dev/green_tea/articles/1963db5bc27a1d)を追加。
+- [#10263](https://github.com/KATO-Hiro/AtCoderClans/pull/10263) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[mackerel38](https://atcoder.jp/users/mackerel38)さんの[記事](https://qiita.com/poe4294967296/items/0fdb4547eee65d9e751a)を追加。
+
 ### 2025-05-25
 
 - [#10251](https://github.com/KATO-Hiro/AtCoderClans/pull/10251) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

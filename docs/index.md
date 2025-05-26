@@ -110,6 +110,11 @@
 
 === "記事"
 
+    2025-05-26
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年5月26日時点)](https://x.com/atcoder/status/1926854143085252791)
+
     2025-05-25
 
     - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
@@ -217,6 +222,20 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-05-26
+
+    - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
+        - [miiitomi](https://atcoder.jp/users/miiitomi)さん - [【色変記事】AtCoderヒューリスティックレートで黄色になりました！](https://miiitomi.github.io/p/heuristic_yellow/)
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [mackerel38](https://atcoder.jp/users/mackerel38)さん - [AtCoder 入青しました【色変記事】](https://qiita.com/poe4294967296/items/0fdb4547eee65d9e751a)
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [ryuiso](https://atcoder.jp/users/ryuiso)さん - [生成AI時代にAtCoderをやる理由: 水色データサイエンティストが得た4つの学び](https://zenn.dev/green_tea/articles/1963db5bc27a1d)
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [tyokousagi](https://atcoder.jp/users/tyokousagi)さん - [入緑しました！！](https://qiita.com/tyokousagi/items/a7c1c84062e270de0e27)
 
     2025-05-25
 
