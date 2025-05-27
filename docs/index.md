@@ -202,6 +202,11 @@
 
 === "ライブラリ・スニペット"
 
+    2025-05-27
+
+    - 「[C++](libraries/cpp)」ページ
+        - [mackerel38/competitive](https://github.com/mackerel38/competitive/tree/main/library) ![GitHub stars](https://img.shields.io/github/stars/mackerel38/competitive?style=plastic)
+
     2025-05-20
 
     - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
@@ -251,11 +256,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [mattsunkun](https://atcoder.jp/users/mattsunkun)さん - [ジャイロ「ジョジョ７部もアニメ化されるし、入水記事でも書くか...」](https://qiita.com/mattsunkun/items/96241a3c39282cbca1f5)
-
-    2025-05-11
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [Nom8](https://atcoder.jp/users/Nom8)さん - [【AtCoder】高校2年の入緑記事と、競プロを始め、続けている理由](https://qiita.com/Nom8/items/d47207f5f1ff73cd36eb)
 
 ## AtCoder公式グッズを購入する
 
