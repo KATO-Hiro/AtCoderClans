@@ -548,6 +548,10 @@ Topcoder Arena（applet版・Web版）の提供終了とともに、コンテス
 
 ### 数学系コンテスト
 
+- [とある数学の凡人](https://www.youtube.com/c/toaru_math/featured) - 日本数学オリンピックの解説動画が多数公開されているYouTubeのチャンネル。最新情報は、[Twitter](https://twitter.com/toaru_math_bot)で確認できる。
+    - 確認した日: 2025/05/28
+    - 理由: 記載なし。
+
 - [Beginners Math Contest](https://twitter.com/BMC_rifle) - 初心者向けの競技数学コンテストが開催されている。
     - 確認した日: 2023/06/22
     - 理由: 記載なし。
