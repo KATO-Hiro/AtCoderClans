@@ -14,7 +14,7 @@ title: 数学系コンテスト
 
 ### ユーザスクリプト
 
-- [OMC Difficult Pies](https://greasyfork.org/ja/scripts/537420-omc-difficult-pies) - 回答状況を円グラフで難易度別に表示する。
+- [OMC Difficult Pies](https://greasyfork.org/ja/scripts/537420-omc-difficult-pies) - 問題の回答状況を難易度別に円グラフで表示する。
 
     <div align="center">
       <img loading="lazy" src="../../images/related_contest_sites/omc/omc_difficult_pies.png" alt="omc difficult pies">
