@@ -6,6 +6,7 @@ title: Change Log
 
 ### 2025-05-28
 
+- [#10282](https://github.com/KATO-Hiro/AtCoderClans/pull/10282) - (破壊的な変更) 更新が停止したと思われるYouTubeのチャンネルを「[Archives](../../archived)」ページへ移動。
 - [#10278](https://github.com/KATO-Hiro/AtCoderClans/pull/10278) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
     - [ac-history-perf-estimator](https://greasyfork.org/ja/scripts/535100-ac-history-perf-estimator)
 - [#10277](https://github.com/KATO-Hiro/AtCoderClans/pull/10277) - 「[Related Contest Sites](../../related_contest_sites)」の「[数学系コンテスト](../../related_contest_sites/math)」ページに、以下のユーザスクリプトを追加。
