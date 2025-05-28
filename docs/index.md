@@ -89,6 +89,15 @@
 
 === "ユーザスクリプト"
 
+    2025-05-28
+
+    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
+        - [ac-history-perf-estimator](https://greasyfork.org/ja/scripts/535100-ac-history-perf-estimator)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/ac_history_perf_estimator.png" alt="ac history perf estimator">
+    </div>
+
     2025-05-24
 
     - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
@@ -109,6 +118,12 @@
         - [AtCoder Scroll Page Top Hider](https://greasyfork.org/ja/scripts/535017-atcoder-scroll-page-top-hider)
 
 === "記事"
+
+    2025-05-28
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [区間add / 0存在判定 Ω(N^(1.333))](https://yosupo.hatenablog.com/entry/2025/05/27/014201)
+        - [区間add / 0存在判定 Ω*(N^(1.5))](https://yosupo.hatenablog.com/entry/2025/05/28/023254)
 
     2025-05-26
 
@@ -161,11 +176,6 @@
     - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
         - [Nim言語の良さを伝えたい](https://utac.hateblo.jp/entry/2025/04/25/230241)
 
-    2025-05-12
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年5月12日時点)](https://x.com/atcoder/status/1921742776863162817)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -180,6 +190,13 @@
      - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
         - [yunix](https://atcoder.jp/users/yunix)さん - [はてなブログ](https://yunix-kyopro.hatenablog.com/)
         - [miiitomi](https://atcoder.jp/users/miiitomi)さん - [GitHub Pages](https://miiitomi.github.io/categories/%E7%AB%B6%E3%83%97%E3%83%AD/)
+
+=== "動画"
+
+    2025-05-28
+
+    - 「[番組アーカイブ](videos/archived_video)」ページ
+        - [AI時代を勝ち抜くためにエンジニアはどうすれば良いのか | AtCoder社長 高橋直大(chokudai)](https://www.youtube.com/watch?v=elXb40BHXYU)
 
 === "書籍"
 
@@ -256,6 +273,17 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [mattsunkun](https://atcoder.jp/users/mattsunkun)さん - [ジャイロ「ジョジョ７部もアニメ化されるし、入水記事でも書くか...」](https://qiita.com/mattsunkun/items/96241a3c39282cbca1f5)
+
+=== "国内外のコンテストサイト"
+
+    2025-05-28
+
+    - 「[数学系コンテスト](related_contest_sites/math)」ページ
+        - [OMC Difficult Pies](https://greasyfork.org/ja/scripts/537420-omc-difficult-pies)
+
+    <div align="center">
+      <img loading="lazy" src="images/related_contest_sites/omc/omc_difficult_pies.png" alt="omc difficult pies">
+    </div>
 
 ## AtCoder公式グッズを購入する
 

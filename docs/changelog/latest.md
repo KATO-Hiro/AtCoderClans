@@ -4,6 +4,18 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-05-28
+
+- [#10278](https://github.com/KATO-Hiro/AtCoderClans/pull/10278) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
+    - [ac-history-perf-estimator](https://greasyfork.org/ja/scripts/535100-ac-history-perf-estimator)
+- [#10277](https://github.com/KATO-Hiro/AtCoderClans/pull/10277) - 「[Related Contest Sites](../../related_contest_sites)」の「[数学系コンテスト](../../related_contest_sites/math)」ページに、以下のユーザスクリプトを追加。
+    - [OMC Difficult Pies](https://greasyfork.org/ja/scripts/537420-omc-difficult-pies)
+- [#10276](https://github.com/KATO-Hiro/AtCoderClans/pull/10276) - 「[Articles, Blogs, Books and Videos](../../media)」の「[番組アーカイブ](../../videos/archived_video)」ページに、以下の動画を追加。
+    - [AI時代を勝ち抜くためにエンジニアはどうすれば良いのか | AtCoder社長 高橋直大(chokudai)](https://www.youtube.com/watch?v=elXb40BHXYU)
+- [#10275](https://github.com/KATO-Hiro/AtCoderClans/pull/10275) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [区間add / 0存在判定 Ω(N^(1.333))](https://yosupo.hatenablog.com/entry/2025/05/27/014201)
+    - [区間add / 0存在判定 Ω*(N^(1.5))](https://yosupo.hatenablog.com/entry/2025/05/28/023254)
+
 ### 2025-05-27
 
 - [#10272](https://github.com/KATO-Hiro/AtCoderClans/pull/10272) - 「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
