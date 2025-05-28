@@ -126,6 +126,12 @@ title: コンテストの成績や関連する統計情報を見る
       <img loading = "lazy" src="../../images/userscript/atcoder_unrated_perf_displayer.png" alt="atcoder unrated perf displayer">
     </div>
 
+- [ac-history-perf-estimator](https://greasyfork.org/ja/scripts/535100-ac-history-perf-estimator) - ユーザの「コンテスト成績表」ページに、Unratedで参加したときの推定パフォーマンス値を表示する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/ac_history_perf_estimator.png" alt="ac history perf estimator">
+    </div>
+
 ### レーティングの推移・分布
 
 - [AtCoderAnotherGraph](https://greasyfork.org/ja/scripts/455542-atcoderanothergraph) - 「ユーザ」ページにあるレーティンググラフ︎を、ヒューリスティック/アルゴリズムの計算式で表示する。
