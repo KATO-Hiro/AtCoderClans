@@ -119,6 +119,11 @@
 
 === "記事"
 
+    2025-05-29
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [トヨタ自動車プログラミングコンテスト2025#2（AtCoder Heuristic Contest 047）の復習](https://kaede2020.hatenablog.com/entry/2025/05/29/205228)
+
     2025-05-28
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
@@ -170,11 +175,6 @@
 
     - 「[数学を学ぶ](articles/math)」ページ
         - [競プロにおける約数の個数の見積もり](https://noshi91.hatenablog.com/entry/2022/07/05/021040)
-
-    2025-05-13
-
-    - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
-        - [Nim言語の良さを伝えたい](https://utac.hateblo.jp/entry/2025/04/25/230241)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
