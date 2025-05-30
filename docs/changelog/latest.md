@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-05-30
+
+- [#10292](https://github.com/KATO-Hiro/AtCoderClans/pull/10292) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、[競プロ典型90問](https://twitter.com/e869120/status/1376089196100653060)の有志による実装例を追加。
+    - [riantkb/typical90_python](https://github.com/riantkb/typical90_python) ![GitHub Repo stars](https://img.shields.io/github/stars/riantkb/typical90_python?style=plastic)
+
 ### 2025-05-29
 
 - [#10287](https://github.com/KATO-Hiro/AtCoderClans/pull/10287) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
