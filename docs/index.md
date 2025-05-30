@@ -112,12 +112,12 @@
       <img loading="lazy" src="images/userscript/atcoder_left_shift_overflow_warning.png" alt="atcoder left shift overflow warning">
     </div>
 
-    2025-05-14
-
-    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
-        - [AtCoder Scroll Page Top Hider](https://greasyfork.org/ja/scripts/535017-atcoder-scroll-page-top-hider)
-
 === "記事"
+
+    2025-05-30
+
+    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
+        - [riantkb/typical90_python](https://github.com/riantkb/typical90_python) ![GitHub Repo stars](https://img.shields.io/github/stars/riantkb/typical90_python?style=plastic)
 
     2025-05-29
 
