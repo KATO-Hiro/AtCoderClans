@@ -133,7 +133,8 @@ title: 入門者・初心者向けの内容
     - 有志による実装例
         - [C++17](https://github.com/Reputeless/tenkei_90) ![GitHub Repo stars](https://img.shields.io/github/stars/Reputeless/tenkei_90?style=plastic)
         - [Java](https://github.com/NASU41/tenkei90) ![GitHub Repo stars](https://img.shields.io/github/stars/NASU41/tenkei90?style=plastic)
-        - [Python](https://github.com/ryusuke920/kyopro_educational_90_python) ![GitHub Repo stars](https://img.shields.io/github/stars/ryusuke920/kyopro_educational_90_python?style=plastic)
+        - [Python、ryusuke920さん](https://github.com/ryusuke920/kyopro_educational_90_python) ![GitHub Repo stars](https://img.shields.io/github/stars/ryusuke920/kyopro_educational_90_python?style=plastic)
+        - [Python、riantkbさん](https://github.com/riantkb/typical90_python) ![GitHub Repo stars](https://img.shields.io/github/stars/riantkb/typical90_python?style=plastic)
 
 - [AtCoder版！蟻本 (初級編)](https://qiita.com/drken/items/e77685614f3c6bf86f44) - 書籍「[プログラミングコンテストチャレンジブック [第2版] ～問題解決のアルゴリズム活用力とコーディングテクニックを鍛える～](https://www.amazon.co.jp/dp/B00CY9256C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)」(通称、蟻本)の例題を[AtCoder](https://atcoder.jp/)などで出題された問題に対応づけた記事。
     - [中級編](https://qiita.com/drken/items/2f56925972c1d34e05d8)
