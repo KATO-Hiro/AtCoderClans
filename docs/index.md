@@ -89,6 +89,15 @@
 
 === "ユーザスクリプト"
 
+    2025-05-31
+
+    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
+        - [AtCoderUnratedButtonDisabler](https://greasyfork.org/ja/scripts/537742-atcoderunratedbuttondisabler)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_unrated_button_disabler.png" alt="atcoder unrated button disabler">
+    </div>
+
     2025-05-28
 
     - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
@@ -209,13 +218,6 @@
 
     - 「[書籍](books)」ページ
         - [Haskellで競プロ鉄則本を解いていく](https://zenn.dev/ppdx999/books/65e882010be891)
-
-=== "SNS"
-
-    2025-05-15
-
-    - 「[SNS](sns)」ページ
-        - [高専競プロ鯖](https://discord.com/invite/nhMReq9nMz)
 
 === "ライブラリ・スニペット"
 
