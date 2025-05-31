@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-05-31
+
+- [#10295](https://github.com/KATO-Hiro/AtCoderClans/pull/10295) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoderUnratedButtonDisabler](https://greasyfork.org/ja/scripts/537742-atcoderunratedbuttondisabler)
+
 ### 2025-05-30
 
 - [#10292](https://github.com/KATO-Hiro/AtCoderClans/pull/10292) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、[競プロ典型90問](https://twitter.com/e869120/status/1376089196100653060)の有志による実装例を追加。
