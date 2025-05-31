@@ -22,6 +22,14 @@ title: コンテストに参加する
 
 - [AtCoder-RedirectRecentABC](https://greasyfork.org/ja/scripts/508772-atcoder-redirectrecentabc) - 直近(開催中を含む)のAtCoder Beginner Contest (ABC)を閲覧できるようにする。
 
+## Ratedで参加登録
+
+- [AtCoderUnratedButtonDisabler](https://greasyfork.org/ja/scripts/537742-atcoderunratedbuttondisabler) - 各コンテストの「トップ」ページで、「Unrated参加登録」のボタンを押せないようにする。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_unrated_button_disabler.png" alt="atcoder unrated button disabler">
+    </div>
+
 ## 企業コンテストの参加登録補助・記入ミスを防ぐ
 
 - [ac-register-checker](https://greasyfork.org/ja/scripts/467401-ac-register-checker) - 企業コンテストの参加登録フォームで、「あなたは日本国内に在住していますか」が「いいえ」の場合に警告を表示する。
