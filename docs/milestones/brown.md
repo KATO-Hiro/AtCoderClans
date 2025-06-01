@@ -54,7 +54,6 @@ title: レーティング400〜799(茶色)
 - [【色変記事】出場3回目にして2回目の茶色になったので初めて色変記事を書いてみた~AtCoderのすゝめ~](https://note.com/likaf/n/nba8f592509e6) - [LiKaf](https://atcoder.jp/users/LiKaf)さんが、2022年11月5日に達成。
 - [競プロ未経験から3ヶ月でAtCoder茶色になった話。](https://note.com/jikky1618/n/nbf891072355e) - [Jikky1618](https://atcoder.jp/users/Jikky1618)さんが、2022年11月5日に達成。
 - [【色変記事】AtCoder始めて入茶まで](https://qiita.com/ys_dirard/items/7e2c6f595ef3fb323575) - [dirard](https://atcoder.jp/users/dirard)さんが、2022年11月5日に達成。
-- [【色変記事】AtCoder茶色になりました](https://tech.devopslead.jp/knowledge/%e7%ab%b6%e6%8a%80%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0/%e3%80%90%e8%89%b2%e5%a4%89%e8%a8%98%e4%ba%8b%e3%80%91atcoder%e8%8c%b6%e8%89%b2%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f/) - [yoto1980yen](https://atcoder.jp/users/yoto1980yen)さんが、2022年10月15日に達成。
 <!-- markdown-link-check-disable -->
 - [【色変記事】数学超苦手なエンジニアがAtCoderで茶色コーダー（脱初心者）になるまで](https://dev.classmethod.jp/articles/atcoder_change_color_brown/) - [bun913](https://atcoder.jp/users/bun913)さんが、2022年9月24日に達成。
 <!-- markdown-link-check-enable -->

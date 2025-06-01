@@ -306,6 +306,9 @@ title: リンク切れ
 
 ### レーティング400〜799(茶色)
 
+- [【色変記事】AtCoder茶色になりました](https://tech.devopslead.jp/knowledge/%e7%ab%b6%e6%8a%80%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0/%e3%80%90%e8%89%b2%e5%a4%89%e8%a8%98%e4%ba%8b%e3%80%91atcoder%e8%8c%b6%e8%89%b2%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f/) - [yoto1980yen](https://atcoder.jp/users/yoto1980yen)さんが、2022年10月15日に達成。
+    - 確認した日: 2025/06/01
+
 - [AtCoderで茶色になりました（色変記事） - 岸原オカルト研究部](https://kisihara-c.hatenablog.com/entry/2021/01/03/123133) - [kisihara_c](https://twitter.com/kisihara_c)さんが、2021年1月3日に公開。
     - 確認した日: 2024/07/04
 
