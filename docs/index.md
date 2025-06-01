@@ -89,6 +89,11 @@
 
 === "ユーザスクリプト"
 
+    2025-06-01
+
+    - 「[ネタスクリプト](user_scripts/jokes)」ページ
+        - [AC-Rotate](https://greasyfork.org/ja/scripts/537633-ac-rotate)
+
     2025-05-31
 
     - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
@@ -180,13 +185,13 @@
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [「DFSが苦手」がなくなる！BFSと合わせて体系的に再解釈する話](https://zenn.dev/torikara/articles/0e4e4b6c71c371)
 
-    2025-05-16
-
-    - 「[数学を学ぶ](articles/math)」ページ
-        - [競プロにおける約数の個数の見積もり](https://noshi91.hatenablog.com/entry/2022/07/05/021040)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2025-06-01
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [lX57](https://atcoder.jp/users/lX57)さん - [はてなブログ](https://logk.hateblo.jp/)
 
     2025-05-25
 
