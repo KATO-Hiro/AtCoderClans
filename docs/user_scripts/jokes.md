@@ -36,7 +36,7 @@ title: ネタスクリプト
       <img loading = "lazy" src="../../images/userscript/ac_custom.png" alt="ac custom">
     </div>
 
-- [AC-Rotate](https://greasyfork.org/ja/scripts/537633-ac-rotate) - 「提出結果」ページで、「結果」のアイコンを斜めに回転させるアニメーションを追加。
+- [AC-Rotate](https://greasyfork.org/ja/scripts/537633-ac-rotate) - 「提出結果」ページで、「結果」のアイコンを斜めに回転させるアニメーションを追加する。
 
 - [AtCoderMLEtoHisoka](https://greasyfork.org/ja/scripts/478297-atcodermletohisoka) - 提出コードが「MLE (Memory Limit Exceeded)」となった場合に、「キミの敗因は容量（メモリ）のムダ使い❤︎」と表示する。
 
