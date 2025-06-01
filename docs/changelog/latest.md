@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-06-01
+
+- [#10304](https://github.com/KATO-Hiro/AtCoderClans/pull/10304) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
+- [#10302](https://github.com/KATO-Hiro/AtCoderClans/pull/10302) - (破壊的な変更) リンク切れと思われる色変記事を「[Archives](../../archived)」ページに移動。
+- [#10300](https://github.com/KATO-Hiro/AtCoderClans/pull/10300) - 「[Scripts](../../scripts)」の「[ネタスクリプト](../../user_scripts/jokes)」ページに、以下のユーザスクリプトを追加。
+    - [AC-Rotate](https://greasyfork.org/ja/scripts/537633-ac-rotate)
+
 ### 2025-05-31
 
 - [#10295](https://github.com/KATO-Hiro/AtCoderClans/pull/10295) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
