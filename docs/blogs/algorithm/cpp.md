@@ -162,6 +162,7 @@ title: C&#43;&#43;
 |Kyo_s_s|[自作ブログ](https://kyo-homepage.vercel.app/blog)||
 |Lorent|[はてなブログ](https://lorent-kyopro.hatenablog.com/)||
 |Luzhiled|[はてなブログ](https://luzhiled.hatenablog.com/)||
+|lX57|[はてなブログ](https://logk.hateblo.jp/)||
 |lynmisakura|[はてなブログ](https://andoreiji11.hatenadiary.jp/)||
 |Magentor|[はてなブログ](https://magentor.hatenablog.com/)||
 |mayoko|[はてなブログ](https://mayokoex.hatenablog.com/)|2019年12月以降、新規の記事を確認できず。|
