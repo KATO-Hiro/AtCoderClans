@@ -128,6 +128,11 @@
 
 === "記事"
 
+    2025-06-02
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年6月2日時点)](https://x.com/atcoder/status/1929411005198520806)
+
     2025-05-30
 
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
@@ -275,11 +280,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [pond6814](https://atcoder.jp/users/pond6814)さん - [【色変記事】AtCoderで入緑しました！](https://qiita.com/pond-e/items/863e8f49447f1d10bda0)
-
-    2025-05-17
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [mattsunkun](https://atcoder.jp/users/mattsunkun)さん - [ジャイロ「ジョジョ７部もアニメ化されるし、入水記事でも書くか...」](https://qiita.com/mattsunkun/items/96241a3c39282cbca1f5)
 
 === "国内外のコンテストサイト"
 
