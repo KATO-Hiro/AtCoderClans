@@ -200,6 +200,7 @@ title: アルゴリズムを学ぶ
 - [k番目の値を高速に取り出せるデータ構造のまとめ - BIT上二分探索や平衡二分探索木など](https://qiita.com/drken/items/1b7e6e459c24a83bb7fd) - k番目の値を高速に取り出すことができるデータ構造をまとめた記事。
 - [Splay 木の計算量解析](https://ngtkana.hatenablog.com/entry/2024/04/22/205043) - 平衡二分探索木の一つであるSplay 木の概略とポテンシャル増分に関する証明が行われている。
     - [Splay 木ベースの Link-Cut 木の計算量解析](https://ngtkana.hatenablog.com/entry/2024/05/11/033439) - 上記の記事の続編。Splay 木に基づいたLink-Cut 木の計算量解析が行われている。
+- [Implicit Treap解説](https://qiita.com/hamamu/items/570e7c36bf73913cbeb8) - 平衡二分探索木の一種であるImplicit Treapの概要・高速に処理できる操作と実装方針・配列として利用する方法・遅延伝搬セグメント木と同等の機能を実現するための考え方が紹介されている。
 
 ### Heavy-Light Decomposition
 
