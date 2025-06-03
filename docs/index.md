@@ -128,6 +128,11 @@
 
 === "記事"
 
+    2025-06-03
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [Implicit Treap解説](https://qiita.com/hamamu/items/570e7c36bf73913cbeb8)
+
     2025-06-02
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -185,11 +190,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年5月19日時点)](https://x.com/atcoder/status/1924291835029336527)
 
-    2025-05-18
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [「DFSが苦手」がなくなる！BFSと合わせて体系的に再解釈する話](https://zenn.dev/torikara/articles/0e4e4b6c71c371)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -224,11 +224,6 @@
     - 「[書籍](books)」ページ
         - [なっとく！アルゴリズム 第2版](https://www.amazon.co.jp/dp/4798186899)
 
-    2025-05-18
-
-    - 「[書籍](books)」ページ
-        - [Haskellで競プロ鉄則本を解いていく](https://zenn.dev/ppdx999/books/65e882010be891)
-
 === "ライブラリ・スニペット"
 
     2025-05-27
@@ -247,11 +242,6 @@
 
     - 「[ソースコードにバグがないか確認](cli/test_tools)」ページ
         - [WSL への online-judge-tools (oj) 導入メモ 2025年5月時点](https://qiita.com/hamamu/items/243e2d82fe6316fef6c3)
-
-    2025-05-18
-
-    - 「[ソースコードにバグがないか確認](cli/test_tools)」ページ
-        - [ppdx999/atcoder-cli](https://github.com/ppdx999/atcoder-cli) ![GitHub stars](https://img.shields.io/github/stars/ppdx999/atcoder-cli?style=plastic)
 
 === "色変記事"
 
