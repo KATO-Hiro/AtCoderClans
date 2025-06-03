@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-06-03
+
+- [#10313](https://github.com/KATO-Hiro/AtCoderClans/pull/10313) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [Implicit Treap解説](https://qiita.com/hamamu/items/570e7c36bf73913cbeb8)
+
 ### 2025-06-02
 
 - [#10309](https://github.com/KATO-Hiro/AtCoderClans/pull/10309) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
