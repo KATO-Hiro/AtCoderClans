@@ -2,7 +2,7 @@
 title: yukicoder
 ---
 
-## Webアプリ・Webサイト・Bot
+## Webアプリ・Webサイト
 
 ### 問題を解く
 
