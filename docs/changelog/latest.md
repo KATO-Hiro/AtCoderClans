@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-06-04
+
+- [#10321](https://github.com/KATO-Hiro/AtCoderClans/pull/10321) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [毒チョコゲームの必勝法【ゆっくり解説】](https://www.youtube.com/watch?v=agRtx_XREtA)
+- [#10320](https://github.com/KATO-Hiro/AtCoderClans/pull/10320) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - C++](../../articles/implementation/cpp)」ページに、以下の記事を追加。
+    - [【非公式】[C++] AtCoder ジャッジアップデート (2024–2025) について](https://trap.jp/post/2589/)
+- [#10319](https://github.com/KATO-Hiro/AtCoderClans/pull/10319) - 「[Related Contest Sites](../../related_contest_sites)」の「[yukicoder](../../related_contest_sites/yukicoder)」ページに、以下のWebアプリを追加。
+    - [yukicoder lazy solving](https://maruoka842.github.io/yukicoder-lazy-solving/)
+
 ### 2025-06-03
 
 - [#10313](https://github.com/KATO-Hiro/AtCoderClans/pull/10313) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。

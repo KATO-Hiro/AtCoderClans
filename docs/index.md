@@ -128,6 +128,11 @@
 
 === "記事"
 
+    2025-06-04
+
+    - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
+        - [【非公式】[C++] AtCoder ジャッジアップデート (2024–2025) について](https://trap.jp/post/2589/)
+
     2025-06-03
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
@@ -212,6 +217,11 @@
 
 === "動画"
 
+    2025-06-04
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [毒チョコゲームの必勝法【ゆっくり解説】](https://www.youtube.com/watch?v=agRtx_XREtA)
+
     2025-05-28
 
     - 「[番組アーカイブ](videos/archived_video)」ページ
@@ -272,6 +282,15 @@
         - [pond6814](https://atcoder.jp/users/pond6814)さん - [【色変記事】AtCoderで入緑しました！](https://qiita.com/pond-e/items/863e8f49447f1d10bda0)
 
 === "国内外のコンテストサイト"
+
+    2025-06-04
+
+    - 「[yukicoder](related_contest_sites/yukicoder)」ページ
+        - [yukicoder lazy solving](https://maruoka842.github.io/yukicoder-lazy-solving/)
+
+    <div align="center">
+      <img loading="lazy" src="images/related_contest_sites/yukicoder/yukicoder_lazy_solving.png" alt="yukicoder lazy solving">
+    </div>
 
     2025-05-28
 
