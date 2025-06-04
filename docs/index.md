@@ -190,11 +190,6 @@
         - [ChatGPT×Codexの競技プログラミング（ヒューリスティック）での活用](https://qiita.com/keroru/items/66fcd6fed26bf2f6f0ae)
         - [あえて考えなかった4時間：AIにすべてを任せたAHC047参戦記](https://note.com/tak_nakamori/n/n847bf483d44c)
 
-    2025-05-19
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年5月19日時点)](https://x.com/atcoder/status/1924291835029336527)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -208,12 +203,6 @@
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [momohara](https://atcoder.jp/users/momohara)さん - [はてなブログ](https://momoharahara.hatenadiary.com/)
         - [m1une](https://atcoder.jp/users/m1une)さん - [Qiita](https://qiita.com/m1une/)
-
-    2025-05-19
-
-     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [yunix](https://atcoder.jp/users/yunix)さん - [はてなブログ](https://yunix-kyopro.hatenablog.com/)
-        - [miiitomi](https://atcoder.jp/users/miiitomi)さん - [GitHub Pages](https://miiitomi.github.io/categories/%E7%AB%B6%E3%83%97%E3%83%AD/)
 
 === "動画"
 
@@ -275,11 +264,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [satoyuki](https://atcoder.jp/users/satoyuki)さん - [【競技プログラミング】社会人が青色コーダーになったので競プロを始めるきっかけになった恋愛を振り返る](https://tomatokiraida52.hatenablog.com/entry/2025/05/25/035247)
-
-    2025-05-19
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [pond6814](https://atcoder.jp/users/pond6814)さん - [【色変記事】AtCoderで入緑しました！](https://qiita.com/pond-e/items/863e8f49447f1d10bda0)
 
 === "国内外のコンテストサイト"
 
