@@ -19,6 +19,8 @@ title: 個別の動画
 
 ## 解説動画
 
+### アルゴリズム
+
 - [全探索とは？お気持ち編［競技プログラミング初心者へ］【ゆっくり解説】](https://www.youtube.com/watch?v=-vGsAqDIgQo) - 競技プログラミング（通称、競プロ）の最も基本的な技法である「全探索」の概略が説明されている。
     - [DFS・BFSとは？お気持ち編［競技プログラミング初心者へ］【ゆっくり解説】](https://www.youtube.com/watch?v=0_9heBS7Flg) - 深さ優先探索(同DFS)、幅優先探索(同BFS)編。
     - [DP（動的計画法）とは？お気持ち編［競技プログラミング初心者へ］【ゆっくり解説】](https://www.youtube.com/watch?v=oB3L8yyHsFY) - 動的計画法（同DP）編。
@@ -29,6 +31,28 @@ title: 個別の動画
     - [半分全列挙を「高速化」する【ゆっくり解説】](https://www.youtube.com/watch?v=EUZX4tBqo0M) - 半分全列挙の基本と高速化テクニックが解説されている。
     - [要注意！ベルマンフォード法を使う際に陥りやすい「罠」【ゆっくり解説】](https://www.youtube.com/watch?v=KLwNUbIyHrI) - ベルマンフォード法で負閉路検知を行うときの注意事項と対処法が紹介されている。
 - [100÷9899=?（母関数・形式的べき級数入門）【ゆっくり解説】](https://www.youtube.com/watch?v=I02Obi-yXJU) - 母関数と形式的べき級数が、平易かつ簡潔に解説されている。
+
+### 数学・パズルに関する問題
+
+- [100サイズの箱は80サイズの箱に入るか？【ゆっくり解説】](https://www.youtube.com/watch?v=8wT7V-Pw6_w) - 直方体の縦・横・高さの合計でサイズを計る場合に、大きい箱が小さい箱に入るかどうかを示している。
+    - [毒チョコゲームの必勝法【ゆっくり解説】](https://www.youtube.com/watch?v=agRtx_XREtA) - Chompと呼ばれるゲームの必勝法の有無と、その方法が証明されている。
+
+    ??? info "関連動画の一覧"
+
+        - [1分で国際数学オリンピックの1問目【ゆっくり解説】](https://www.youtube.com/watch?v=p_ETbKjVcyY) - 国際数学オリンピックで出題された問題の解法を1分で説明している。
+        - [a!b! = a! + b! + c!【ゆっくり解説】](https://www.youtube.com/watch?v=9Yw0ekDSBgE) - 題意を満たす正整数a, b, cの組をすべて求めるとともに、その正当性を証明している。
+        - [1/√xを計算する変態コード【ゆっくり解説】](https://www.youtube.com/watch?v=n2Q1Sp7iew4) - ゲームを題材に、光の入射角・反射角の計算が手動で最適化されたコードを解説している。
+        - [x^x^4=64【ゆっくり解説】](https://www.youtube.com/watch?v=QeAr5NXGfi0) - 題意を満たす実数xを求めている。
+        - [3乗根を一瞬で暗算する方法【ゆっくり解説】](https://www.youtube.com/watch?v=mybn4a6FM10) - 答えが2桁の整数となるときの3乗根を暗算する方法が紹介されている。
+        - [【速報】2^136279841-1は素数　6年ぶり新記録](https://www.youtube.com/watch?v=f89QYS-Pqfw) - 2024年10月に史上最大の素数が発見されたことの報告と、判定方法の概略が紹介されている。
+        - [7分で入試数学史上最難問【ゆっくり解説】](https://www.youtube.com/watch?v=paYeCZuBhhA) - 2種類の操作によって、白丸を一直線に並べることができる個数とその証明がされている。
+        - [どんな数も「114514」で表すツール【ゆっくり解説】](https://www.youtube.com/watch?v=Sl64oiwG0yE) - あらゆる整数を「114514」と四則演算で表現するツールのソースコードの概略が解説されている。
+        - [もし時計の時針と分針が区別できなかったら【ゆっくり解説】](https://www.youtube.com/watch?v=G5qF3c_ac9M) - 時計の針の長さが同じと仮定し、1日に時刻が分からなくなる回数を導出している。
+        - [9個の正方形をもう1個にくっつけられるか？【ゆっくり解説】](https://www.youtube.com/watch?v=O_2uOiOeyF8) - 正方形に接するように、同じサイズの正方形を9枚置けるかどうかを示している。
+        - [五色定理・改【ゆっくり解説】](https://www.youtube.com/watch?v=uBy2Vghh--8) - 任意の地図を5色で塗り分けることと、より制約が厳しい条件で可能かどうかを証明している。
+        - [20人の囚人と12個の箱【ゆっくり解説】](https://www.youtube.com/watch?v=gLHWaYhssXY) - 一人あたりの勝率が60%のとき、20人全員が連続して勝つ確率が50%以上となる戦略が存在するかを示している。
+        - [π^π^π^πは整数か？【ゆっくり解説】](https://www.youtube.com/watch?v=TooFbrU-Wb4) - π^π^π^πが整数ではないことの証明が試みられている。
+        - [2本の交わらない線で点を結べるか？【ゆっくり解説】](https://www.youtube.com/watch?v=FnMgl2z86qo) - 正方形の内側にしか線が引けない場合に、表題の内容を満たせるかどうかを示している。
 
 ### 問題を作成・出題
 
@@ -43,37 +67,30 @@ title: 個別の動画
 
 ## 歌ってみた
 
-- [【オリジナル曲 / 初音ミク】AC【競プロやろうぜ】](https://www.youtube.com/watch?v=loKekcFqQw0) - [burioden](https://twitter.com/burioden)さんによるオリジナル曲。[オフボーカル版](https://www.youtube.com/watch?v=jTaTFImLzKI)もある。
-
-## ネタ動画
-
-- [AtCoderってなんだし？](https://www.youtube.com/watch?v=Xh7Uc486SrM) - [chokudai](https://twitter.com/chokudai)さんが登場するAGCのCM。
 - [「だから慶応は学歴自慢じゃないっつーの」、4部合唱にして歌ってみました！](https://twitter.com/TumoiYorozu/status/1448666012639895562) - [chokudai](https://twitter.com/chokudai)さんの有名ツイートを4部合唱で歌っている。
     - [9つの変奏曲Ver](https://www.youtube.com/watch?v=7tTufTl2Ch4)
     - [シンセロック調Ver](https://www.youtube.com/watch?v=8eBmV6R-kaw)
     - [東北きりたんVer](https://twitter.com/gochaism/status/1476226270480711680)
     - [夏色花梨Ver](https://twitter.com/gochaism/status/1572607173678735364)
+- [【オリジナル曲 / 初音ミク】AC【競プロやろうぜ】](https://www.youtube.com/watch?v=loKekcFqQw0) - [burioden](https://twitter.com/burioden)さんによるオリジナル曲。[オフボーカル版](https://www.youtube.com/watch?v=jTaTFImLzKI)もある。
+
+## ネタ動画
+
+### CMのパロディ
+
+- [AtCoderってなんだし？](https://www.youtube.com/watch?v=Xh7Uc486SrM) - [chokudai](https://twitter.com/chokudai)さんが登場するAGCのCM。
+
+### YouTuberの企画
+
 - [【！？】東大生、ストレス発散しろって言われて勉強し始める](https://www.youtube.com/watch?v=W1fxwbkV1Zg) - 東大生のストレス発散方法の一つとして、競技プログラミングが取り上げられている動画。
     - [【未公開シーン】実験する須貝とプログラミングをする鶴崎【ストレス発散】](https://www.youtube.com/watch?v=TJX71Jeg_dc) - 上記の動画の未公開シーン(出演者が実際に問題を解いているところ)が公開されている。
+
+### 生成AIの利活用例
+
 - [【速報】ChatGPT-4oに競技プログラミングをやらせてみた【ゆっくり解説】](https://www.youtube.com/watch?v=nhVfggY58IQ) - ChatGPT の最新モデル(2024年5月中旬時点)を利用して、コンテストの過去問がどこまで解けるか検証している。
     - [【検証】最新モデル AI、ChatGPT-4o は「ひっかけ問題」をどれくらい解けるのか？【ゆっくり実況・ゆっくり解説】](https://www.youtube.com/watch?v=ZQf_JcAFah0) - 同モデルで、「ひっかけ問題」をどこまで解けるか検証している。
     - [Claudeにパソコンを乗っ取らせて猫の絵を描かせてみた【ゆっくり解説】](https://www.youtube.com/watch?v=jjUDDexo_hM) - Claude の新機能 computer use (2024年10月下旬時点)を利用して、猫の絵を描かせている。
     - [コンピュータが永久にできないこと【ゆっくり解説】](https://www.youtube.com/watch?v=zPbNx0nmxVw) - 任意のプログラムとデータを与えて有限の時間で処理が終了するか判定する問題を通して、「全知全能」がコンピュータの原理上不可能なことを証明している。
-- [100サイズの箱は80サイズの箱に入るか？【ゆっくり解説】](https://www.youtube.com/watch?v=8wT7V-Pw6_w) - 直方体の縦・横・高さの合計でサイズを計る場合に、大きい箱が小さい箱に入るかどうかを示している。
-    - [1分で国際数学オリンピックの1問目【ゆっくり解説】](https://www.youtube.com/watch?v=p_ETbKjVcyY) - 国際数学オリンピックで出題された問題の解法を1分で説明している。
-    - [a!b! = a! + b! + c!【ゆっくり解説】](https://www.youtube.com/watch?v=9Yw0ekDSBgE) - 題意を満たす正整数a, b, cの組をすべて求めるとともに、その正当性を証明している。
-    - [1/√xを計算する変態コード【ゆっくり解説】](https://www.youtube.com/watch?v=n2Q1Sp7iew4) - ゲームを題材に、光の入射角・反射角の計算が手動で最適化されたコードを解説している。
-    - [x^x^4=64【ゆっくり解説】](https://www.youtube.com/watch?v=QeAr5NXGfi0) - 題意を満たす実数xを求めている。
-    - [3乗根を一瞬で暗算する方法【ゆっくり解説】](https://www.youtube.com/watch?v=mybn4a6FM10) - 答えが2桁の整数となるときの3乗根を暗算する方法が紹介されている。
-    - [【速報】2^136279841-1は素数　6年ぶり新記録](https://www.youtube.com/watch?v=f89QYS-Pqfw) - 2024年10月に史上最大の素数が発見されたことの報告と、判定方法の概略が紹介されている。
-    - [7分で入試数学史上最難問【ゆっくり解説】](https://www.youtube.com/watch?v=paYeCZuBhhA) - 2種類の操作によって、白丸を一直線に並べることができる個数とその証明がされている。
-    - [どんな数も「114514」で表すツール【ゆっくり解説】](https://www.youtube.com/watch?v=Sl64oiwG0yE) - あらゆる整数を「114514」と四則演算で表現するツールのソースコードの概略が解説されている。
-    - [もし時計の時針と分針が区別できなかったら【ゆっくり解説】](https://www.youtube.com/watch?v=G5qF3c_ac9M) - 時計の針の長さが同じと仮定し、1日に時刻が分からなくなる回数を導出している。
-    - [9個の正方形をもう1個にくっつけられるか？【ゆっくり解説】](https://www.youtube.com/watch?v=O_2uOiOeyF8) - 正方形に接するように、同じサイズの正方形を9枚置けるかどうかを示している。
-    - [五色定理・改【ゆっくり解説】](https://www.youtube.com/watch?v=uBy2Vghh--8) - 任意の地図を5色で塗り分けることと、より制約が厳しい条件で可能かどうかを証明している。
-    - [20人の囚人と12個の箱【ゆっくり解説】](https://www.youtube.com/watch?v=gLHWaYhssXY) - 一人あたりの勝率が60%のとき、20人全員が連続して勝つ確率が50%以上となる戦略が存在するかを示している。
-    - [π^π^π^πは整数か？【ゆっくり解説】](https://www.youtube.com/watch?v=TooFbrU-Wb4) - π^π^π^πが整数ではないことの証明が試みられている。
-    - [2本の交わらない線で点を結べるか？【ゆっくり解説】](https://www.youtube.com/watch?v=FnMgl2z86qo) - 正方形の内側にしか線が引けない場合に、表題の内容を満たせるかどうかを示している。
 
 ## 感想会・講座・講演・対談
 
