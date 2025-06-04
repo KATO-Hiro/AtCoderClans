@@ -12,6 +12,12 @@ title: yukicoder
       <img loading = "lazy" src="../../images/related_contest_sites/yukicoder/yukicoder_problems.png" alt="yukicoder problems">
     </div>
 
+- [yukicoder lazy solving](https://maruoka842.github.io/yukicoder-lazy-solving/) - 指定したユーザが正解していない問題を、実装量の少ない順に表示する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/related_contest_sites/yukicoder/yukicoder_lazy_solving.png" alt="yukicoder lazy solving">
+    </div>
+
 ## ユーザスクリプト
 
 ### 問題を解くときに便利な機能を導入
