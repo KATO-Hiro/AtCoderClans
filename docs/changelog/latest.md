@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-06-05
+
+- [#10327](https://github.com/KATO-Hiro/AtCoderClans/pull/10327) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Others](../../articles/implementation/others)」ページに、以下の記事を追加。
+    - [AtCoderでのJavaScriptの入力](https://qiita.com/mizu7e/items/89db39527c7b920bbea1)
+
 ### 2025-06-04
 
 - [#10321](https://github.com/KATO-Hiro/AtCoderClans/pull/10321) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
