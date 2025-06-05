@@ -128,6 +128,11 @@
 
 === "記事"
 
+    2025-06-05
+
+    - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
+        - [AtCoderでのJavaScriptの入力](https://qiita.com/mizu7e/items/89db39527c7b920bbea1)
+
     2025-06-04
 
     - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
@@ -229,11 +234,6 @@
 
     - 「[C++](libraries/cpp)」ページ
         - [mackerel38/competitive](https://github.com/mackerel38/competitive/tree/main/library) ![GitHub stars](https://img.shields.io/github/stars/mackerel38/competitive?style=plastic)
-
-    2025-05-20
-
-    - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
-        - [toyboot4e/ac-library-hs](https://github.com/toyboot4e/ac-library-hs) - ![GitHub stars](https://img.shields.io/github/stars/toyboot4e/ac-library-hs?style=plastic)
 
 === "コマンドラインツール"
 
