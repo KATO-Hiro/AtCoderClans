@@ -117,15 +117,6 @@
     - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
         - [AtCoderFavSubmissionFilter](https://greasyfork.org/ja/scripts/536911-atcoderfavsubmissionfilter)
 
-    2025-05-21
-
-    - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
-        - [AtCoderLeftShiftOverflowWarning](https://greasyfork.org/ja/scripts/536353-atcoderleftshiftoverflowwarning)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_left_shift_overflow_warning.png" alt="atcoder left shift overflow warning">
-    </div>
-
 === "記事"
 
     2025-06-05
@@ -184,17 +175,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [中高生向け 学校対抗競技プログラミング「AtCoder Junior League 2024 Winter」入賞校・入賞者を発表](https://prtimes.jp/main/html/rd/p/000000057.000028415.html)
 
-    2025-05-21
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [【競プロ】括弧列の性質・知識をまとめてみる](https://qiita.com/Nauclhlt/items/b700cf31f524214a0735)
-
-    2025-05-21
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [ChatGPT×Codexの競技プログラミング（ヒューリスティック）での活用](https://qiita.com/keroru/items/66fcd6fed26bf2f6f0ae)
-        - [あえて考えなかった4時間：AIにすべてを任せたAHC047参戦記](https://note.com/tak_nakamori/n/n847bf483d44c)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -210,6 +190,11 @@
         - [m1une](https://atcoder.jp/users/m1une)さん - [Qiita](https://qiita.com/m1une/)
 
 === "動画"
+
+    2025-06-06
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [DPの思いつき方](https://www.youtube.com/watch?v=2QDQUj69OiE)
 
     2025-06-04
 
