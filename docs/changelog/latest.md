@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-06-06
+
+- [#10330](https://github.com/KATO-Hiro/AtCoderClans/pull/10330) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [DPの思いつき方](https://www.youtube.com/watch?v=2QDQUj69OiE)
+
 ### 2025-06-05
 
 - [#10327](https://github.com/KATO-Hiro/AtCoderClans/pull/10327) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Others](../../articles/implementation/others)」ページに、以下の記事を追加。
