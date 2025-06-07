@@ -4,6 +4,16 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-06-07
+
+- [#10340](https://github.com/KATO-Hiro/AtCoderClans/pull/10340) - (破壊的な変更) 「[Change Log](../latest)」ページの2025年4月分を月別のアーカイブに移動。
+    - [April, 2025](../2025_04)
+- [#10337](https://github.com/KATO-Hiro/AtCoderClans/pull/10337) - 「[Special Thanks](../../special_thanks)」ページに、以下のリンクを追加。
+    - [競技プログラミング入門ストーリー - 便利なリンク集](https://paiza.jp/pages/works/stories/competitive_programming)
+- [#10336](https://github.com/KATO-Hiro/AtCoderClans/pull/10336) - (破壊的な変更) 更新が停止した可能性が高いと思われるWebアプリを「[Archives](../../archived)」ページに移動。
+- [#10334](https://github.com/KATO-Hiro/AtCoderClans/pull/10334) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のWebアプリを追加。
+    - [Rosetta Problems](https://rosetta-problems-dev.vercel.app/)
+
 ### 2025-06-06
 
 - [#10330](https://github.com/KATO-Hiro/AtCoderClans/pull/10330) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
