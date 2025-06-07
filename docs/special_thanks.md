@@ -21,6 +21,9 @@ GitHubを通してプルリクエストを送っていただいた皆さまの�
     - [第15回 - 2020年10月07日](https://youtu.be/ldMrqUZt2mc?list=PLLeJZg4opYKY2vLnqkPSGgT4iOrIwhbHq&t=3448)
     - [第16回 - 2020年10月21日](https://youtu.be/rW5l-CzD5uw?list=PLLeJZg4opYKY2vLnqkPSGgT4iOrIwhbHq&t=2988)
 
+### paiza公式
+
+- [競技プログラミング入門ストーリー - 便利なリンク集](https://paiza.jp/pages/works/stories/competitive_programming)
 
 ### ユーザ
 
