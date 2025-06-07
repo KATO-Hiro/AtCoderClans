@@ -68,6 +68,9 @@
     },
     {
       "pattern": "^https://oeis.org/"
+    },
+    {
+      "pattern": "^https://solved.ac/"
     }
   ],
   "httpHeaders": [
