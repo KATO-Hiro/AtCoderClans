@@ -67,6 +67,8 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/web_app/atcoder_daily_contests.png" alt="atcoder daily contests">
     </div>
 
+- [Rosetta Problems](https://rosetta-problems-dev.vercel.app/) - 国内外30以上のオンラインジャッジシステムから有名な問題を一括検索できる。
+
 ### ヒューリスティック部門
 
 - [mm-tester](https://github.com/kosakkun/mm-tester) ![GitHub Repo stars](https://img.shields.io/github/stars/kosakkun/mm-tester?style=plastic) - ヒューリスティック型コンテストの問題とサンプルコードがまとめられている。
