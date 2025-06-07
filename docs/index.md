@@ -87,6 +87,21 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "スペシャル・サンクス"
+
+    2025-06-07
+
+    - 「[Special Thanks](special_thanks)」ページ
+        - [競技プログラミング入門ストーリー - 便利なリンク集](https://paiza.jp/pages/works/stories/competitive_programming)
+
+
+=== "Webアプリ・Webサイト"
+
+    2025-06-07
+
+    - 「[問題を解く](web_app/solve_problems)」ページ
+        - [Rosetta Problems](https://rosetta-problems-dev.vercel.app/)
+
 === "ユーザスクリプト"
 
     2025-06-01
@@ -169,11 +184,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [トヨタ自動車プログラミングコンテスト2025#2 (AHC047) 解説](https://www.terry-u16.net/entry/ahc047)
-
-    2025-05-22
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [中高生向け 学校対抗競技プログラミング「AtCoder Junior League 2024 Winter」入賞校・入賞者を発表](https://prtimes.jp/main/html/rd/p/000000057.000028415.html)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
