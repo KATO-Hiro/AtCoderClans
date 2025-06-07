@@ -8,6 +8,13 @@ title: 更新停止の可能性が高い
 
 ### 問題を解く
 
+- [kyopro share](https://kyopro-share.onrender.com/#/about) - 競技プログラミングのおすすめの問題を共有できる。
+    - 理由: 記載なし。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/kyopro_share.png" alt="kyopro share">
+    </div>
+
 - [AtCoderTranslations](https://github.com/ADJA/AtCoderTranslations) ![GitHub Repo stars](https://img.shields.io/github/stars/ADJA/AtCoderTranslations?style=plastic) - 日本語で出題されているコンテストの問題を英語に翻訳している。
 
     - 理由: 記載なし。

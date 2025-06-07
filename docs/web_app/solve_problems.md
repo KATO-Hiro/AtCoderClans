@@ -91,14 +91,6 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/web_app/at_coder_review.png" alt="atcoder review">
     </div>
 
-## おすすめの問題を共有
-
-- [kyopro share](https://kyopro-share.onrender.com/#/about) - 競技プログラミングのおすすめの問題を共有できる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/kyopro_share.png" alt="kyopro share">
-    </div>
-
 ## ライブラリ・スニペットを共有
 
 - [CompSnips](https://compsnips.zeronosu77108.com/) - 競技プログラミングのライブラリ・スニペットを登録・閲覧できる。検索やVisual Studio Codeのスニペット用のJSONを出力する機能もある。
