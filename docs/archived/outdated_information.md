@@ -647,6 +647,20 @@ title: 更新停止の可能性が高い
       <img loading = "lazy" src="../../images/related_contest_sites/aoj/aoj_icpc.png" alt="aoj icpc">
     </div>
 
+### Codeforces
+
+- [Codeforces Tool](https://github.com/xalanq/cf-tool) ![GitHub stars](https://img.shields.io/github/stars/xalanq/cf-tool?style=plastic) - サンプルの入出力の取得、テスト、解答コードの提出などができるCLIツール。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/codeforces/cf_tool.gif" alt="cf_tool">
+    </div>
+
+- [Hightail](https://github.com/dj3500/hightail) ![GitHub Repo stars](https://img.shields.io/github/stars/dj3500/Hightail?style=plastic) - サンプルの入出力を取得し、ローカル環境でテストするGUIツール。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/codeforces/hightail.png" alt="hightail">
+    </div>
+
 ### 情報オリンピック
 
 - [AtCoderにJOIの過去問の移植作業を行う有志を募集するツイート](https://twitter.com/Pro_ktmr/status/1485612598842519552) - AtCoderでJOIの過去問を解くことができるように、2022年度以降の移植作業を引き継ぐ方を募集しているツイート。
