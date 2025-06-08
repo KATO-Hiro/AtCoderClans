@@ -33,14 +33,6 @@ title: コンテストの成績に関連するサービス
     <div align="center"> <img loading = "lazy" src="../../images/web_app/atcoder_heuristic_rating_estimator.png" alt="atcoder heuristic rating estimator">
     </div>
 
-### 将来のレーティングを予測
-
-- [AtCoder Prophet](https://sotanishy.github.io/atcoder-prophet) - 機械学習モデルを使って、将来のレーティングを予測する。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_prophet.png" alt="atcoder prophet">
-    </div>
-
 ### AtCoder Junior League (AJL） のスコアを予測
 
 - [AtCoder Junior League (AJL）のスコア予測ツール](https://kfrom40.github.io/) - コンテストの成績に基づいて、AtCoder Junior League のスコアと順位の予測値を知ることができる。スコアやレーティングによる並び替え、未参加のユーザを順位表に追加する機能もある。

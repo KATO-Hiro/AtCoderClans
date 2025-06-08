@@ -26,6 +26,8 @@ title: 開発・提供終了
 
 ### 問題を解く
 
+- [mm-tester](https://github.com/kosakkun/mm-tester) ![GitHub Repo stars](https://img.shields.io/github/stars/kosakkun/mm-tester?style=plastic) - ヒューリスティック型コンテストの問題とサンプルコードがまとめられている。
+
 - [AtCoder Scores](http://atcoder-scores.herokuapp.com/) - AtCoder Grand Contest 001(AGC 001)以降の問題が点数順に並んでいる。
     - 理由: サービスの提供終了を告知した[作者のツイート](https://twitter.com/rsk0315_h4x/status/1593906452259033088)を観測したため。
 
@@ -105,12 +107,24 @@ title: 開発・提供終了
 
 ### コンテストの成績を見る
 
+- [AtCoder Competition History Chart Maker](https://colab.research.google.com/github/bo9chan/AtCoderCharts/blob/main/CompetitionHistoryChart.ipynb) - 任意のユーザのレーティングとパフォーマンス値の推移を表示する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_competition_history_chart_maker.png" alt="atcoder competition history chart maker">
+    </div>
+
 - [AtCoder Rating Contributor Graph](https://atcoder-rating-contribution-graph.vercel.app/) - 任意のユーザのレーティングに対して、各コンテストにおけるパフォーマンス値の寄与度を可視化する。
     - 理由: 作者からサービスの提供終了(予定)の連絡を受けたため ([出典](https://github.com/KATO-Hiro/AtCoderClans/issues/9086))。
     - 代替手段: [AtCoder Graphs](https://atcoder-graphs.vercel.app/)を利用する。
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_rating_contributor_graph.png" alt="atcoder rating contributor graph">
+    </div>
+
+- [AtCoder Rollback](https://phocom.github.io/atcoder-rollback/index.html) - 指定した日時までのレーティングの推移を表示する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_rollback.png" alt="atcoder rollback">
     </div>
 
 - [AtCoder Marathon Rating History](https://iilj.github.io/AtCoderMarathonRatingHistory/#/rating/) - [AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=0&category=1200&keyword=AtCoder+Heuristic+Contest)のレーティングの推移を表示する。
@@ -126,6 +140,12 @@ title: 開発・提供終了
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_performances.png" alt="atcoder performances">
+    </div>
+
+- [Atcoder Performance Chart](https://atcoder-chart.web.app/) - パフォーマンス値、それらの短期・長期平均値を表示する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_performance_chart.png" alt="atcoder performance chart">
     </div>
 
 - [Rating History](https://rating-history.herokuapp.com/index.html) - 複数のコンテストサイトで、解いた問題数とレーティングの推移を表示する。
@@ -194,6 +214,12 @@ title: 開発・提供終了
 
 ### コンテストに関する統計情報
 
+- [AtCoder Training-Performance Visualizer](http://atcoder-training-performance-visualizer.azurewebsites.net/App) - 日々の練習（通称、精進）が、コンテストのパフォーマンスにどの程度影響しているかを確認できる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_training_performance_visualizer.png" alt="atcoder training performance visualizer">
+    </div>
+
 - [AtCoder平均](http://rating-history.herokuapp.com/average.html) - 直近nか月における各種コンテストの平均順位とパフォーマンスを表示する。
     - 理由: 作者からサービスの提供終了の連絡を受けたため。
 
@@ -238,6 +264,17 @@ title: 開発・提供終了
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/where_does_your_rating_come_from.png" alt="where does your rating come from?">
+    </div>
+
+### ライバルを探す・競う
+
+- [AtCoder Rivals](https://atcoder-rivals.web.app/) - パフォーマンスやレーティングの遷移、日々の練習(通称、精進)状況などをライバルと比べることができる。
+    <!-- markdown-link-check-disable -->
+    - [作者による技術記事](https://note.com/sacckey/n/nf0b7ed1e9d1a)
+    <!-- markdown-link-check-enable -->
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_rivals.png" alt="atcoder rivals">
     </div>
 
 ### クイズ・ゲームなど

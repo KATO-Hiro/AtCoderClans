@@ -29,14 +29,6 @@ title: 問題を解く
 
 ## 特定の分野・難易度を重点的に学ぶ
 
-### アルゴリズム部門
-
-- [AtCoder Tags](https://atcoder-tags.herokuapp.com/) - 問題のカテゴリーを分類する。ユーザ登録を行えば、問題にふさわしいと思うカテゴリーを投票できる。[AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper)を導入すると、[AtCoder](https://atcoder.jp/)の「問題」ページからも投票できる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_tags.png" alt="atcoder tags">
-    </div>
-
 - [AtCoder Gacha](https://atcoder-gacha.onrender.com/) - 難易度や正誤状況を指定して、問題を絞り込むことができる。
 
     <div align="center">
@@ -61,17 +53,7 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/web_app/atcoder_editorial_problems.png" alt="atcoder editorial problems">
     </div>
 
-- [Atcoder Daily Contests](https://github.com/ika9810/Atcoder-Daily-Contests) ![GitHub Repo stars](https://img.shields.io/github/stars/ika9810/Atcoder-Daily-Contests?style=plastic) - 日替わりで問題を解くことができる。[AtCoder](https://atcoder.jp/)の過去問から、仮想的なAtCoder Xxx Contest (Xxx: Beginner, Regular, Grand)クラスの問題セットが出題される。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_daily_contests.png" alt="atcoder daily contests">
-    </div>
-
 - [Rosetta Problems](https://rosetta-problems-dev.vercel.app/) - 国内外30以上のオンラインジャッジシステムから有名な問題を一括検索できる。
-
-### ヒューリスティック部門
-
-- [mm-tester](https://github.com/kosakkun/mm-tester) ![GitHub Repo stars](https://img.shields.io/github/stars/kosakkun/mm-tester?style=plastic) - ヒューリスティック型コンテストの問題とサンプルコードがまとめられている。
 
 ## 復習の効果をより高める
 
@@ -80,15 +62,6 @@ title: 問題を解く
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_companions.png" alt="atcoder companions">
-    </div>
-
-- [AtCoder-Review](https://at-coder-review.vercel.app/) - 任意のユーザが正解(AC)した問題とその回数を表示する。
-
-    !!! warning "注意"
-        検索ボタンの連打などは控える。過剰なAPIリクエストを回避するため。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/at_coder_review.png" alt="atcoder review">
     </div>
 
 ## ライブラリ・スニペットを共有
@@ -112,12 +85,4 @@ title: 問題を解く
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/mojacoder.png" alt="mojacoder">
-    </div>
-
-## 多言語への対応
-
-- [AtCoder 中文站](https://atcoder-for-chinese-developers.github.io/atcoder-for-chinese/) - 中国語ユーザ向けに、コンテストの問題文の翻訳と解説・ソースコードの一例がまとめられている。[ユーザスクリプト版](https://greasyfork.org/ja/scripts/452449-atcoder-%E4%B8%AD%E6%96%87%E5%8A%A9%E6%89%8B)もある。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_for_chinese.png" alt="atcoder for chinese">
     </div>

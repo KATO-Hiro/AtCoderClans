@@ -34,22 +34,7 @@ title: Bot
     - 開催日時: 21:00〜22:40
     - 主催者: [mayocornsuki](https://twitter.com/mayocornsuki)さん
 
-### Twitter
-
-- [ほぼ日バチャbot](https://twitter.com/contest_bot_mcc)
-    - 出題範囲: 登録されているバーチャルコンテストによって異なる
-    - 通知日時: 各コンテストの開始10〜60分前
-
-- [A?Cなにか](https://twitter.com/abc_nanica)
-    - 出題範囲:
-        - AtCoder Beginner Contest (通称、ABC)のA〜D問題
-        - AtCoder Regular Contest (同ARC)のA〜C問題
-        - AtCoder Grand Contest (同AGC)のA〜B問題
-    - 開催日時:
-        - ABC: 平日の14:00〜14:35、21:00〜21:35
-        - ARC: 月曜日・水曜日・金曜日の15:00〜15:55、22:00〜22:55
-        - AGC: 火曜日・木曜日の15:00〜15:55、22:00〜22:55
-    - 主催者: [burioden](https://twitter.com/burioden)さん
+### X (旧Twitter)
 
 - [もすーんバチャ通知](https://twitter.com/Mosoon_V)
     - 出題範囲: [AtCoder Problems](https://kenkoooo.com/atcoder/)で推定された難易度のうち、灰色〜黄色相当の7問
@@ -63,24 +48,12 @@ title: Bot
     - 開催日時: 毎週1回で8:00~8:40
     - 主催者: [Hiroshi Kurokawa](https://twitter.com/hydrakecat)さん
 
-## コンテスト後の追加テストケースの有無を確認
-
-- [AtCoder After Contest Bot](https://twitter.com/AfterContestBot) - コンテスト後に追加のテストケース（例えば、after contest）がある場合に告知してくれる。
-
 ## 問題の解答状況・記録を確認する
 
 ### Slack
 
 - [AtCoder Daily AC Checker](https://github.com/purple-jwl/atcoder-daily-ac-checker) ![GitHub Repo stars](https://img.shields.io/github/stars/purple-jwl/atcoder-daily-ac-checker?style=plastic) - AC(Accepted)している人をSlack上で褒めてくれる。
 - [atcoder_useful](https://github.com/Kota-Y/atcoder_useful) ![GitHub Repo stars](https://img.shields.io/github/stars/Kota-Y/atcoder_useful?style=plastic) - [AtCoder Problems](https://kenkoooo.com/atcoder/)のCurrent Streakを切らさないように通知する。
-
-### Twitter
-
-- [atgolfer](https://twitter.com/atgolfer1) - [コードゴルフ](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%82%B4%E3%83%AB%E3%83%95)の記録更新を通知する。
-
-    <div align="center">
-      <img loading = "lazy" src="../images/web_app/atgolfer.png" alt="atgolfer">
-    </div>
 
 ## コンテストの開催日時を確認する
 
@@ -104,7 +77,7 @@ title: Bot
       <img loading = "lazy" src="../images/web_app/misskey_contest_bot.png" alt="misskey contest bot">
     </div>
 
-### Twitter
+### X (旧Twitter)
 
 - [AtCoderお知らせ更新情報 (非公式)](https://twitter.com/AtCoderInfoBot) - [AtCoder](https://atcoder.jp/)公式のお知らせが更新されたときに通知する。
 
@@ -118,7 +91,7 @@ title: Bot
 
 - [atcoder-rate-notify](https://github.com/ysk1180/atcoder-rate-notify) ![GitHub Repo stars](https://img.shields.io/github/stars/ysk1180/atcoder-rate-notify?style=plastic) - レーティングを毎週お知らせしてくれる。
 
-### Twitter
+### X (旧Twitter)
 
 - [ABC bot](https://twitter.com/abc_notifier) - AtCoder Beginner Contest (ABC)の結果が確定したときにツイートしてくれる。
 

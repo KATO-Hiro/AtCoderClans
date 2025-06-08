@@ -17,12 +17,6 @@ title: コンテストの成績を見る
       <img loading = "lazy" src="../../images/web_app/atcoder_charts.png" alt="atcoder charts">
     </div>
 
-- [AtCoder Competition History Chart Maker](https://colab.research.google.com/github/bo9chan/AtCoderCharts/blob/main/CompetitionHistoryChart.ipynb) - 任意のユーザのレーティングとパフォーマンス値の推移を表示する。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_competition_history_chart_maker.png" alt="atcoder competition history chart maker">
-    </div>
-
 #### アルゴリズム部門・ヒューリスティック部門
 
 - [AtCoder Graphs](https://atcoder-graphs.vercel.app/) - 任意のユーザのレーティングに対して、各コンテストにおけるパフォーマンス値の寄与度を表示する。また、アルゴリズム部門を対象として、得点別のパフォーマンス値の時間推移や各問題におけるレーティング別の正解率なども閲覧できる。
@@ -40,14 +34,6 @@ title: コンテストの成績を見る
     </div>
 
 ## レーティングを見る・比較する
-
-### 1人
-
-- [AtCoder Rollback](https://phocom.github.io/atcoder-rollback/index.html) - 指定した日時までのレーティングの推移を表示する。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_rollback.png" alt="atcoder rollback">
-    </div>
 
 ### 2人以上
 
@@ -67,14 +53,6 @@ title: コンテストの成績を見る
     </div>
 
 ## パフォーマンス値を見る・比較する
-
-- [Atcoder Performance Chart](https://atcoder-chart.web.app/) - パフォーマンス値、それらの短期・長期平均値を表示する。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_performance_chart.png" alt="atcoder performance chart">
-    </div>
-
-## 順位を見る・比較する
 
 ### アルゴリズム部門
 

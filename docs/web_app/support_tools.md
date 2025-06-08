@@ -10,12 +10,6 @@ title: 問題を解くときの補助ツール
       <img loading = "lazy" src="../../images/web_app/simple_cpp_editor.png" alt="simple cpp editor">
     </div>
 
-- [Rujaion](https://github.com/fukatani/rujaion) ![GitHub Repo stars](https://img.shields.io/github/stars/fukatani/rujaion?style=plastic) - 競技プログラミングのためのRust IDE。C++とPythonも試験的にサポートされている。サンプルのテスト、解答コードの提出、コードの補完・移動・自動整形、テンプレートの生成、グラフの構造の可視化などの機能がある。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/rujaion.gif" alt="rujaion">
-    </div>
-
 ## 問題文から提出用コードのテンプレートを作成
 
 - [online-judge-tools/template-generator-webapp](https://online-judge-tools.github.io/template-generator-webapp/) - コンテストの問題を解析して、提出用コードのテンプレートを出力する[Online Judge Template Generator](https://github.com/online-judge-tools/template-generator)のWebアプリ版。C++とPython3に対応している。
