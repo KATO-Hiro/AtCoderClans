@@ -4,6 +4,41 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-06-08
+
+- [#10348](https://github.com/KATO-Hiro/AtCoderClans/pull/10348) - 「[Related Contest Sites](../../related_contest_sites)」の「[Codeforces](../../related_contest_sites/codeforces)」ページに、以下のWebサービスを追加。
+    - [Codeforces Daily Problems](https://github.com/ika9810/Codeforces-Daily-Problems) - ![GitHub stars](https://img.shields.io/github/stars/ika9810/Codeforces-Daily-Problems?style=plastic)
+- [#10347](https://github.com/KATO-Hiro/AtCoderClans/pull/10347)、[#10348](https://github.com/KATO-Hiro/AtCoderClans/pull/10348) - (破壊的な変更) 更新が停止した可能性が高いと思われるWebアプリ・Botなどを「[Archives](../../archived)」ページに移動。
+    - Webアプリ・Webサイト
+        - Atcoder Beginner Contest Tournament
+        - AtCoder Competition History Chart Maker
+        - Atcoder Daily Contests
+        - AtCoder Heuristic Race Ranking *Unofficial*
+        - AtCoder Language Visualizer
+        - Atcoder Performance Chart
+        - AtCoder Prophet
+        - AtCoder QQ
+        - AtCoder Rivals
+        - AtCoder-Review
+        - AtCoder Rollback
+        - atcoder-synchronicity
+        - AtCoder Tags
+        - AtCoder Training-Performance Visualizer
+        - AtCoder 中文站
+        - mm-tester
+    - エディタ
+        - Rujaioon
+    - Bot
+        - AtCoder After Contest Bot
+        - atgolfer
+        - A?Cなにか
+        - ほぼ日バチャbot
+    - ユーザスクリプト
+        - AtCoderTags_Helper
+    - 関連コンテストサイト
+        - Codeforces Tool
+        - Hightail
+
 ### 2025-06-07
 
 - [#10340](https://github.com/KATO-Hiro/AtCoderClans/pull/10340) - (破壊的な変更) 「[Change Log](../latest)」ページの2025年4月分を月別のアーカイブに移動。
