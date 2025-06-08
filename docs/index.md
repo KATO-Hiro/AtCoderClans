@@ -180,11 +180,6 @@
     - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
         - [個人的に嬉しい、AtCoder の Rust 言語アップデートで変わるもの一覧（Rust 1.70 → Rust 1.86)](https://ngtkana.hatenablog.com/entry/2025/05/24/115236)
 
-    2025-05-23
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [トヨタ自動車プログラミングコンテスト2025#2 (AHC047) 解説](https://www.terry-u16.net/entry/ahc047)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -262,6 +257,15 @@
 
 === "国内外のコンテストサイト"
 
+    2025-06-08
+
+    - 「[Codeforces](related_contest_sites/codeforces)」ページ
+        - [Codeforces Daily Problems](https://github.com/ika9810/Codeforces-Daily-Problems) - ![GitHub stars](https://img.shields.io/github/stars/ika9810/Codeforces-Daily-Problems?style=plastic)
+
+    <div align="center">
+      <img loading="lazy" src="images/related_contest_sites/codeforces/codeforces_daily_problems.png" alt="codeforces daily problems">
+    </div>
+
     2025-06-04
 
     - 「[yukicoder](related_contest_sites/yukicoder)」ページ
@@ -279,6 +283,46 @@
     <div align="center">
       <img loading="lazy" src="images/related_contest_sites/omc/omc_difficult_pies.png" alt="omc difficult pies">
     </div>
+
+=== "アーカイブス"
+
+    諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2025-06-08
+
+    - Webアプリ・Webサイト
+        - Atcoder Beginner Contest Tournament
+        - AtCoder Competition History Chart Maker
+        - Atcoder Daily Contests
+        - AtCoder Heuristic Race Ranking *Unofficial*
+        - AtCoder Language Visualizer
+        - Atcoder Performance Chart
+        - AtCoder Prophet
+        - AtCoder QQ
+        - AtCoder Rivals
+        - AtCoder-Review
+        - AtCoder Rollback
+        - atcoder-synchronicity
+        - AtCoder Tags
+        - AtCoder Training-Performance Visualizer
+        - AtCoder 中文站
+        - mm-tester
+
+    - エディタ
+        - Rujaioon
+
+    - Bot
+        - AtCoder After Contest Bot
+        - atgolfer
+        - A?Cなにか
+        - ほぼ日バチャbot
+
+    - ユーザスクリプト
+        - AtCoderTags_Helper
+
+    - 関連コンテストサイト
+        - Codeforces Tool
+        - Hightail
 
 ## AtCoder公式グッズを購入する
 
