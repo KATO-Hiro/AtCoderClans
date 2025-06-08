@@ -34,6 +34,12 @@ title: Codeforces
       <img loading = "lazy" src="../../images/related_contest_sites/codeforces/contest_mania.png" alt="contest mania">
     </div>
 
+- [Codeforces Daily Problems](https://github.com/ika9810/Codeforces-Daily-Problems) - ![GitHub stars](https://img.shields.io/github/stars/ika9810/Codeforces-Daily-Problems?style=plastic) - 日替わりで問題を解くことができる。[Codeforces](https://codeforces.com/)の過去問から、入門者〜超上級者向けの問題セットが出題される。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/related_contest_sites/codeforces/codeforces_daily_problems.png" alt="codeforces daily problems">
+    </div>
+
 ### コンテストの成績を見る
 
 #### レーティングを見る・比較する
@@ -108,20 +114,8 @@ title: Codeforces
 
 ### ソースコードにバグがないか確認
 
-- [Codeforces Tool](https://github.com/xalanq/cf-tool) ![GitHub stars](https://img.shields.io/github/stars/xalanq/cf-tool?style=plastic) - サンプルの入出力の取得、テスト、解答コードの提出などができるCLIツール。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/related_contest_sites/codeforces/cf_tool.gif" alt="cf_tool">
-    </div>
-
 - [CP Editor](https://cpeditor.org/) ![GitHub Repo stars](https://img.shields.io/github/stars/cpeditor/cpeditor?style=plastic) - サンプルの入出力の取得、テスト、文法チェック、解答コードの提出などができる競技プログラミング専用のIDE。
 
     <div align="center">
       <img loading = "lazy" src="../../images/related_contest_sites/codeforces/cp_editor.jpg" alt="hightail">
-    </div>
-
-- [Hightail](https://github.com/dj3500/hightail) ![GitHub Repo stars](https://img.shields.io/github/stars/dj3500/Hightail?style=plastic) - サンプルの入出力を取得し、ローカル環境でテストするGUIツール。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/related_contest_sites/codeforces/hightail.png" alt="hightail">
     </div>
