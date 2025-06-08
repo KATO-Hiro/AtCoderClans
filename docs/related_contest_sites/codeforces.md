@@ -34,6 +34,12 @@ title: Codeforces
       <img loading = "lazy" src="../../images/related_contest_sites/codeforces/contest_mania.png" alt="contest mania">
     </div>
 
+- [Codeforces Daily Problems](https://github.com/ika9810/Codeforces-Daily-Problems) - ![GitHub stars](https://img.shields.io/github/stars/ika9810/Codeforces-Daily-Problems?style=plastic) - 日替わりで問題を解くことができる。[Codeforces](https://codeforces.com/)の過去問から、入門者〜超上級者向けの問題セットが出題される。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/related_contest_sites/codeforces/codeforces_daily_problems.png" alt="codeforces daily problems">
+    </div>
+
 ### コンテストの成績を見る
 
 #### レーティングを見る・比較する
