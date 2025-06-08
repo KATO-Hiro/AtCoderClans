@@ -2,11 +2,55 @@
 title: 更新停止の可能性が高い
 ---
 
-各種情報の更新が停止されたと思われるサービス・ツール、記載内容が古くなったと思われる記事・ツイートなどを掲載しています。
+各種情報の更新が停止されたと思われるサービス・ツール、記載内容が古くなったと思われるサービス・記事・ツイートなどを掲載しています。
+
+## おすすめのサービス・ツール
+
+### 問題を解く
+
+- [AtCoder Tags](https://atcoder-tags.herokuapp.com/) - カテゴリーごとに問題を見ることができるWebアプリです。ユーザ登録を行えば、問題にふさわしいと思うカテゴリーを投票できます。[⭐ AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper)を導入すると、[AtCoder](https://atcoder.jp/)の「問題」ページからも投票できます。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_tags.png" alt="atcoder tags">
+    </div>
+
+    !!! info "参考"
+
+        ユーザスクリプト(⭐️印が付いたサービス)を初めて利用される場合は、最初に[スクリプトマネージャ](https://greasyfork.org/ja)を導入する必要があります。
 
 ## Webアプリ・Webサイト
 
 ### 問題を解く
+
+- [AtCoder Tags](https://atcoder-tags.herokuapp.com/) - 問題のカテゴリーを分類する。ユーザ登録を行えば、問題にふさわしいと思うカテゴリーを投票できる。[AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper)を導入すると、[AtCoder](https://atcoder.jp/)の「問題」ページからも投票できる。
+    - 理由: 記載なし。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_tags.png" alt="atcoder tags">
+    </div>
+
+- [Atcoder Daily Contests](https://github.com/ika9810/Atcoder-Daily-Contests) ![GitHub Repo stars](https://img.shields.io/github/stars/ika9810/Atcoder-Daily-Contests?style=plastic) - 日替わりで問題を解くことができる。[AtCoder](https://atcoder.jp/)の過去問から、仮想的なAtCoder Xxx Contest (Xxx: Beginner, Regular, Grand)クラスの問題セットが出題される。
+    - 理由: 記載なし。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_daily_contests.png" alt="atcoder daily contests">
+
+- [AtCoder-Review](https://at-coder-review.vercel.app/) - 任意のユーザが正解(AC)した問題とその回数を表示する。
+
+    !!! warning "注意"
+        検索ボタンの連打などは控える。過剰なAPIリクエストを回避するため。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/at_coder_review.png" alt="atcoder review">
+    </div>
+
+## 多言語への対応
+
+- [AtCoder 中文站](https://atcoder-for-chinese-developers.github.io/atcoder-for-chinese/) - 中国語ユーザ向けに、コンテストの問題文の翻訳と解説・ソースコードの一例がまとめられている。[ユーザスクリプト版](https://greasyfork.org/ja/scripts/452449-atcoder-%E4%B8%AD%E6%96%87%E5%8A%A9%E6%89%8B)もある。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_for_chinese.png" alt="atcoder for chinese">
+    </div>
 
 - [kyopro share](https://kyopro-share.onrender.com/#/about) - 競技プログラミングのおすすめの問題を共有できる。
     - 理由: 記載なし。
@@ -25,6 +69,12 @@ title: 更新停止の可能性が高い
     </div>
 
 ### 問題を解くときの補助ツール
+
+- [Rujaion](https://github.com/fukatani/rujaion) ![GitHub Repo stars](https://img.shields.io/github/stars/fukatani/rujaion?style=plastic) - 競技プログラミングのためのRust IDE。C++とPythonも試験的にサポートされている。サンプルのテスト、解答コードの提出、コードの補完・移動・自動整形、テンプレートの生成、グラフの構造の可視化などの機能がある。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/rujaion.gif" alt="rujaion">
+    </div>
 
 - [Hisui](https://github.com/adenohitu/hisui) ![GitHub Repo stars](https://img.shields.io/github/stars/adenohitu/hisui?style=plastic) - 競技プログラミング専用のサポートツール(Alpha版)。コードエディタ(C++とPythonに対応)、ダッシュボード、解答コードのテスト・提出などの機能が用意されている。
 
@@ -78,7 +128,39 @@ title: 更新停止の可能性が高い
       <img loading = "lazy" src="../../images/web_app/atcoder_marathon_ranking.png" alt="atcoder marathon ranking">
     </div>
 
+### コンテストの成績に関連するサービス
+
+- [AtCoder Prophet](https://sotanishy.github.io/atcoder-prophet) - 機械学習モデルを使って、将来のレーティングを予測する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_prophet.png" alt="atcoder prophet">
+    </div>
+
 ### コンテストに関する統計情報
+
+- [AtCoder Language Visualizer](https://inazuma110.github.io/atcoder_language_visualizer/) - 各問題の言語別提出数・割合を表示する。また、作者による使い方・技術解説に関する[記事](https://qiita.com/Inazuma110/items/e02b8b1c71e101b41635)もある。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_language_visualizer.png" alt="atcoder language visualizer">
+    </div>
+
+- [AtCoder QQ](https://atcoder-qq.vercel.app/) - コンテストの順位を、最高順位が含まれる形で表形式 (縦軸: 10の位、横軸: 1の位) で示す。また、セルをクリックすると、該当するコンテスト情報が表示される。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_qq.png" alt="atcoder qq">
+    </div>
+
+- [atcoder-synchronicity](https://phocom.github.io/atcoder-synchronicity/) - 指定した2人のユーザのシンクロ率(両者のパフォーマンス値の相関係数)を表示する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_synchronicity.png" alt="atcoder synchronicity">
+    </div>
+
+- [AtCoder Heuristic Race Ranking *Unofficial*](https://tomerun.github.io/ahc_point_race/publish/2023.html) - [AtCoder Heuristic Contest (AHC)](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=)の順位に基づいた年別のポイントランキングを見ることができる。集計は、[AtCoder レースランキング](https://atcoder.jp/posts/170)の方法に基づいている。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_heuristic_race_ranking_unofficial.png" alt="atcoder heuristic race ranking unofficial">
+    </div>
 
 - [AtCoder賞金ランキング](https://docs.google.com/spreadsheets/d/1E7Ho85znRw7ebB7ZATWBQckM2P_7qZYc35XZExlL_a4/edit#gid=1741891477) - 賞金付きコンテストの獲得額(目安)を集計している。[元ツイート](https://twitter.com/gojira_kyopro/status/1281199066408292353)を参照。
     - 確認した日: 2023/07/15
@@ -88,6 +170,14 @@ title: 更新停止の可能性が高い
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_prize_ranking.png" alt="atcoder prize ranking">
+    </div>
+
+### ライバルを探す・競う
+
+- [Atcoder Beginner Contest Tournament](https://abc.kenkoooo.com) - AtCoder Beginner Contestの順位を使ったトーナメント戦の結果を見ることができる。また、[X (旧 Twitter)](https://x.com/abc_tournament)で最新情報の告知が行われている。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_beginner_contest_tournament.png" alt="abc tournament">
     </div>
 
 ### コンテスト後の情報収集・発信
@@ -111,6 +201,12 @@ title: 更新停止の可能性が高い
 ## Bot
 
 ### 問題の解答状況・記録を確認する
+
+- [atgolfer](https://twitter.com/atgolfer1) - [コードゴルフ](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%82%B4%E3%83%AB%E3%83%95)の記録更新を通知する。
+
+    <div align="center">
+      <img loading = "lazy" src="../images/web_app/atgolfer.png" alt="atgolfer">
+    </div>
 
 - [AtCoder Alert](https://atcoderalert-2a1a8.web.app/) - 自分の解答状況を自動でツイートしてくれる。つぶやく内容をカスタマイズすることも可能。
     - 確認した日: 2023/07/08
@@ -146,6 +242,23 @@ title: 更新停止の可能性が高い
       <img loading = "lazy" src="../../images/web_app/compro_reminder.png" alt="compro reminder">
     </div>
 
+### AtCoder Problemsでバーチャルコンテストに参加する
+
+- [ほぼ日バチャbot](https://twitter.com/contest_bot_mcc)
+    - 出題範囲: 登録されているバーチャルコンテストによって異なる
+    - 通知日時: 各コンテストの開始10〜60分前
+
+- [A?Cなにか](https://twitter.com/abc_nanica)
+    - 出題範囲:
+        - AtCoder Beginner Contest (通称、ABC)のA〜D問題
+        - AtCoder Regular Contest (同ARC)のA〜C問題
+        - AtCoder Grand Contest (同AGC)のA〜B問題
+    - 開催日時:
+        - ABC: 平日の14:00〜14:35、21:00〜21:35
+        - ARC: 月曜日・水曜日・金曜日の15:00〜15:55、22:00〜22:55
+        - AGC: 火曜日・木曜日の15:00〜15:55、22:00〜22:55
+    - 主催者: [burioden](https://twitter.com/burioden)さん
+
 ### コンテストの成績を見る
 
 - [AtCoder コンテスト実況 Bot](https://twitter.com/cpcontest_bot?lang=en) - コンテスト開催中に登録されているユーザの順位が上がったら通知する。
@@ -156,7 +269,19 @@ title: 更新停止の可能性が高い
       <img loading = "lazy" src="../../images/web_app/atcoder_contest_live.png" alt="atcoder contest live">
     </div>
 
+### コンテスト後の追加テストケースの有無を確認
+
+- [AtCoder After Contest Bot](https://twitter.com/AfterContestBot) - コンテスト後に追加のテストケース（例えば、after contest）がある場合に告知してくれる。
+
 ## ユーザスクリプト
+
+### カテゴリーを投票
+
+- [AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper) - 「問題」ページから[AtCoderTags](https://atcoder-tags.herokuapp.com/)に投票できる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcodertags_helper.png" alt="atcodertags helper">
+    </div>
 
 ### Webページに色付けする
 

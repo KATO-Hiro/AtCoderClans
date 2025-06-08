@@ -20,10 +20,11 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/atcoder_add_link_to_problems.png" alt="atcoder add link to problems">
     </div>
 
-- [AtCoderUsers](https://greasyfork.org/ja/scripts/420811-atcoderusers) - 「プロフィール」ページに、[AtCoder Problems](https://kenkoooo.com/atcoder/)、[AtCoder Tags](https://atcoder-tags.herokuapp.com/)のリンクを追加する。
+- [AtCoderUsers](https://greasyfork.org/ja/scripts/420811-atcoderusers) - 「プロフィール」ページに、[AtCoder Problems](https://kenkoooo.com/atcoder/)のリンクを追加する。
 
     !!! warning "注意"
         AtCoder PerformancesとAtCoder Scores: いずれも2022年11月26日にサービス終了。
+        AtCoder Tags: 主要な機能の動作が確認できず（2025年6月時点）。
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_users.png" alt="atcoder users">
@@ -220,14 +221,6 @@ title: 問題を解く
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_score_hider.png" alt="atcoder score hider">
-    </div>
-
-### カテゴリーを投票
-
-- [AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper) - 「問題」ページから[AtCoderTags](https://atcoder-tags.herokuapp.com/)に投票できる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcodertags_helper.png" alt="atcodertags helper">
     </div>
 
 ### タイトルをコピー
