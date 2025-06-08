@@ -6,6 +6,7 @@ title: Change Log
 
 ### 2025-06-08
 
+- [#10351](https://github.com/KATO-Hiro/AtCoderClans/pull/10351) - (破壊的な変更) 非公開になったと思われるライブラリを「[Archives](../../archived)」ページに移動。
 - [#10348](https://github.com/KATO-Hiro/AtCoderClans/pull/10348) - 「[Related Contest Sites](../../related_contest_sites)」の「[Codeforces](../../related_contest_sites/codeforces)」ページに、以下のWebサービスを追加。
     - [Codeforces Daily Problems](https://github.com/ika9810/Codeforces-Daily-Problems) - ![GitHub stars](https://img.shields.io/github/stars/ika9810/Codeforces-Daily-Problems?style=plastic)
 - [#10347](https://github.com/KATO-Hiro/AtCoderClans/pull/10347)、[#10348](https://github.com/KATO-Hiro/AtCoderClans/pull/10348) - (破壊的な変更) 更新が停止した可能性が高いと思われるWebアプリ・Botなどを「[Archives](../../archived)」ページに移動。
