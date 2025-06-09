@@ -127,12 +127,17 @@
       <img loading="lazy" src="images/userscript/ac_history_perf_estimator.png" alt="ac history perf estimator">
     </div>
 
-    2025-05-24
-
-    - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
-        - [AtCoderFavSubmissionFilter](https://greasyfork.org/ja/scripts/536911-atcoderfavsubmissionfilter)
-
 === "記事"
+
+    2025-06-09
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年6月9日時点)](https://x.com/atcoder/status/1931906690863271960)
+
+    2025-06-09
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [MC Digital プログラミングコンテスト2025（AtCoder Heuristic Contest 048）参加記](https://kaede2020.hatenablog.com/entry/2025/06/09/202655)
 
     2025-06-05
 
@@ -210,13 +215,6 @@
 
     - 「[番組アーカイブ](videos/archived_video)」ページ
         - [AI時代を勝ち抜くためにエンジニアはどうすれば良いのか | AtCoder社長 高橋直大(chokudai)](https://www.youtube.com/watch?v=elXb40BHXYU)
-
-=== "書籍"
-
-    2025-05-24
-
-    - 「[書籍](books)」ページ
-        - [なっとく！アルゴリズム 第2版](https://www.amazon.co.jp/dp/4798186899)
 
 === "ライブラリ・スニペット"
 
