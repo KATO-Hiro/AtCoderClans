@@ -576,6 +576,15 @@ title: 開発・提供終了
 
 ### アルゴリズム系コンテスト
 
+- [AOJ-ICPC](http://aoj-icpc.ichyo.jp/) - [ICPC 日本リージョン](https://icpc.iisf.or.jp/)の国内予選・アジア地区予選および[ICPC OB/OG の会](https://jag-icpc.org/)で出題された問題の難易度を、有志が評価したWebサイト。
+    - 確認した日: 2025/06/10
+    - 理由: 作者によりサービスの更新停止が明言されているため。
+    - 代替手段: [ICPC Japan Problems](https://icpc-japan-problems.irrrrr.cc/)を利用する
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/aoj/aoj_icpc.png" alt="aoj icpc">
+    </div>
+
 - [CF Problems](https://cf-problems.glitch.me/) - 開催されたコンテストの問題を一覧できるwebアプリ。
     - 理由: 記載なし。
     - 代替手段: [CONTEST MANIA](https://contestmania.web.app/)や別の作者による同名の[Codeforces Problems](https://cf.kira924age.com/#/table/)、[CF-Problems](https://tom0727.github.io/cf-problems/)を利用する。
