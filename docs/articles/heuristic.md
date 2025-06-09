@@ -109,10 +109,11 @@ title: ヒューリスティック問題を解く
 - [AtCoder Heuristic Contest 001 AtCoder Ad - びったんびったん](http://hakomof.hatenablog.com/entry/2021/03/14/202411) - [hakomo](https://atcoder.jp/users/hakomo)さんによる[AtCoder Heuristic Contest 001](https://atcoder.jp/contests/ahc001)の解答方針と頻出テクニックを紹介した記事。
 - [AHC003の2.926T解法+経緯](https://qiita.com/contramundum/items/b945400b81536df42d1a) - [eivour](https://atcoder.jp/users/eivour)さんが、[AtCoder Heuristic Contest 003](https://atcoder.jp/contests/ahc003)での最終解法と、その経緯などを紹介した記事。また、[HACK TO THE FUTURE 2022予選](https://atcoder.jp/contests/future-contest-2022-qual)に関する[記事](https://qiita.com/contramundum/items/52609b5a4c943bc6a275)も公開されている。
 - [実録！AtCoder Heuristic Contest 011参加記](https://kaede2020.hatenablog.com/entry/2022/06/05/190049) - [kaede2020](https://atcoder.jp/users/kaede2020)さんの参加記。良い得点を得るために試行錯誤する過程がリアルタイムで記録されている。
-    - [トヨタ自動車プログラミングコンテスト2025#2（AtCoder Heuristic Contest 047）の復習](https://kaede2020.hatenablog.com/entry/2025/05/29/205228)
+    - [MC Digital プログラミングコンテスト2025（AtCoder Heuristic Contest 048）参加記](https://kaede2020.hatenablog.com/entry/2025/06/09/202655)
 
     ??? info "参加記の一覧"
 
+        - [トヨタ自動車プログラミングコンテスト2025#2（AtCoder Heuristic Contest 047）の復習](https://kaede2020.hatenablog.com/entry/2025/05/29/205228)
         - [THIRD プログラミングコンテスト2025（AtCoder Heuristic Contest 045）の復習](https://kaede2020.hatenablog.com/entry/2025/04/22/215515)
         - [THIRD プログラミングコンテスト2025（AtCoder Heuristic Contest 045）参加記](https://kaede2020.hatenablog.com/entry/2025/04/07/190047)
         - [RECRUIT 日本橋ハーフマラソン 2025冬（AtCoder Heuristic Contest 043）参加記](https://kaede2020.hatenablog.com/entry/2025/02/24/190210)
