@@ -636,17 +636,6 @@ title: 更新停止の可能性が高い
 
 ## 関連コンテストサイト
 
-### AOJ (Aizu Online Judge)
-
-- [AOJ-ICPC](http://aoj-icpc.ichyo.jp/) - [ICPC 日本リージョン](https://icpc.iisf.or.jp/)の国内予選・アジア地区予選および[ICPC OB/OG の会](https://jag-icpc.org/)で出題された問題の難易度を、有志が評価したWebサイト。
-    - 確認した日: 2024/04/13
-    - 理由: 作者によりサービスの更新停止が明言されているため。
-    - 代替手段: [ICPC Japan Problems](https://icpc-japan-problems.irrrrr.cc/)を利用する
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/related_contest_sites/aoj/aoj_icpc.png" alt="aoj icpc">
-    </div>
-
 ### Codeforces
 
 - [Codeforces Tool](https://github.com/xalanq/cf-tool) ![GitHub stars](https://img.shields.io/github/stars/xalanq/cf-tool?style=plastic) - サンプルの入出力の取得、テスト、解答コードの提出などができるCLIツール。
