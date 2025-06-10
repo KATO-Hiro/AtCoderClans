@@ -97,6 +97,20 @@
 
 === "Webアプリ・Webサイト"
 
+    2025-06-10
+
+    - 「[問題を解く](web_app/solve_problems)」ページ
+
+        <!-- markdown-link-check-disable -->
+
+        - [AtCoder Redirect](https://codepen.io/uchi8977/full/gbpGOzY)
+
+        <!-- markdown-link-check-enable -->
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/atcoder_redirect.png" alt="atcoder editorial problems">
+    </div>
+
     2025-06-07
 
     - 「[問題を解く](web_app/solve_problems)」ページ
@@ -180,11 +194,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年5月26日時点)](https://x.com/atcoder/status/1926854143085252791)
 
-    2025-05-25
-
-    - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
-        - [個人的に嬉しい、AtCoder の Rust 言語アップデートで変わるもの一覧（Rust 1.70 → Rust 1.86)](https://ngtkana.hatenablog.com/entry/2025/05/24/115236)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -192,12 +201,6 @@
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [lX57](https://atcoder.jp/users/lX57)さん - [はてなブログ](https://logk.hateblo.jp/)
-
-    2025-05-25
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [momohara](https://atcoder.jp/users/momohara)さん - [はてなブログ](https://momoharahara.hatenadiary.com/)
-        - [m1une](https://atcoder.jp/users/m1une)さん - [Qiita](https://qiita.com/m1une/)
 
 === "動画"
 
@@ -223,13 +226,6 @@
     - 「[C++](libraries/cpp)」ページ
         - [mackerel38/competitive](https://github.com/mackerel38/competitive/tree/main/library) ![GitHub stars](https://img.shields.io/github/stars/mackerel38/competitive?style=plastic)
 
-=== "コマンドラインツール"
-
-    2025-05-25
-
-    - 「[ソースコードにバグがないか確認](cli/test_tools)」ページ
-        - [WSL への online-judge-tools (oj) 導入メモ 2025年5月時点](https://qiita.com/hamamu/items/243e2d82fe6316fef6c3)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
@@ -247,11 +243,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [tyokousagi](https://atcoder.jp/users/tyokousagi)さん - [入緑しました！！](https://qiita.com/tyokousagi/items/a7c1c84062e270de0e27)
-
-    2025-05-25
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [satoyuki](https://atcoder.jp/users/satoyuki)さん - [【競技プログラミング】社会人が青色コーダーになったので競プロを始めるきっかけになった恋愛を振り返る](https://tomatokiraida52.hatenablog.com/entry/2025/05/25/035247)
 
 === "国内外のコンテストサイト"
 
@@ -285,6 +276,11 @@
 === "アーカイブス"
 
     諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2025-06-10
+
+    - 関連コンテストサイト
+        - AOJ-ICPC
 
     2025-06-08
 

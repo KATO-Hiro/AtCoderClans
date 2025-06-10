@@ -4,6 +4,19 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-06-10
+
+- [#10364](https://github.com/KATO-Hiro/AtCoderClans/pull/10364) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のWebサービスを追加。
+
+    <!-- markdown-link-check-disable -->
+
+    - [AtCoder Redirect](https://codepen.io/uchi8977/full/gbpGOzY)
+
+    <!-- markdown-link-check-enable -->
+
+- [#10363](https://github.com/KATO-Hiro/AtCoderClans/pull/10363)- (破壊的な変更) 更新が停止した可能性が高いと思われるWebアプリ・Botなどを「[Archives](../../archived)」ページに移動。
+    - AOJ-ICPC
+
 ### 2025-06-09
 
 - [#10358](https://github.com/KATO-Hiro/AtCoderClans/pull/10358) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
