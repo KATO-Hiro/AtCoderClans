@@ -14,7 +14,7 @@ title: Change Log
 
     <!-- markdown-link-check-enable -->
 
-- [#10363](https://github.com/KATO-Hiro/AtCoderClans/pull/10363)- (破壊的な変更) 更新が停止した可能性が高いと思われるWebアプリ・Botなどを「[Archives](../../archived)」ページに移動。
+- [#10363](https://github.com/KATO-Hiro/AtCoderClans/pull/10363)- (破壊的な変更) 更新が停止した可能性が高いと思われるWebアプリを「[Archives](../../archived)」ページに移動。
     - AOJ-ICPC
 
 ### 2025-06-09
