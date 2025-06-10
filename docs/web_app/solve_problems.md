@@ -41,11 +41,15 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/web_app/atcoder_novisteps.png" alt="atcoder novisteps">
     </div>
 
+<!-- markdown-link-check-disable -->
+
 - [AtCoder Redirect](https://codepen.io/uchi8977/full/gbpGOzY) - 各コンテスト（ABC、ARC、AGC、AHC）の問題に直接移動できる。
 
     <div align="center">
       <img loading="lazy" src="../../images/web_app/atcoder_redirect.png" alt="atcoder editorial problems">
     </div>
+
+<!-- markdown-link-check-enable -->
 
 - [searchapp](https://andoryoto.github.io/WebApplication/searchapp/) - 指定した語句が問題文や公式解説に含まれる問題を検索できる。
 
