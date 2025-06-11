@@ -97,6 +97,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2025-06-11
+
+    - 「[コンテストに関する統計情報](web_app/statistics)」ページ
+        - [Competitive Programming Hall Of Fame](https://cphof.org/)
+
+    <div align="center">
+      <img loading = "lazy" src="images/web_app/competitive_programming_hall_of_fame.png" alt="competitive programming hall of fame">
+    </div>
+
     2025-06-10
 
     - 「[問題を解く](web_app/solve_problems)」ページ
@@ -189,13 +198,20 @@
         - [区間add / 0存在判定 Ω(N^(1.333))](https://yosupo.hatenablog.com/entry/2025/05/27/014201)
         - [区間add / 0存在判定 Ω*(N^(1.5))](https://yosupo.hatenablog.com/entry/2025/05/28/023254)
 
-    2025-05-26
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年5月26日時点)](https://x.com/atcoder/status/1926854143085252791)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2025-06-11
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [dn6049949](https://atcoder.jp/users/dn6049949)さん - [Qiita](https://qiita.com/dn6049949)
+        - [BinomialSheep](https://atcoder.jp/users/BinomialSheep)さん - [Qiita](https://qiita.com/BinomialSheep/items/e7a717f34e6991affa1c)
+
+    - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
+        - [isee](https://atcoder.jp/users/isee)さん - [Qiita](https://qiita.com/isee)
+
+    - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
+        - [tipstar0125](https://atcoder.jp/users/tipstar0125)さん - [Zenn](https://zenn.dev/tipstar0125)
 
     2025-06-01
 
@@ -225,24 +241,6 @@
 
     - 「[C++](libraries/cpp)」ページ
         - [mackerel38/competitive](https://github.com/mackerel38/competitive/tree/main/library) ![GitHub stars](https://img.shields.io/github/stars/mackerel38/competitive?style=plastic)
-
-=== "色変記事"
-
-    色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
-
-    2025-05-26
-
-    - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
-        - [miiitomi](https://atcoder.jp/users/miiitomi)さん - [【色変記事】AtCoderヒューリスティックレートで黄色になりました！](https://miiitomi.github.io/p/heuristic_yellow/)
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [mackerel38](https://atcoder.jp/users/mackerel38)さん - [AtCoder 入青しました【色変記事】](https://qiita.com/poe4294967296/items/0fdb4547eee65d9e751a)
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [ryuiso](https://atcoder.jp/users/ryuiso)さん - [生成AI時代にAtCoderをやる理由: 水色データサイエンティストが得た4つの学び](https://zenn.dev/green_tea/articles/1963db5bc27a1d)
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [tyokousagi](https://atcoder.jp/users/tyokousagi)さん - [入緑しました！！](https://qiita.com/tyokousagi/items/a7c1c84062e270de0e27)
 
 === "国内外のコンテストサイト"
 
