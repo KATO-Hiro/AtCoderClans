@@ -8,6 +8,7 @@ title: C&#43;&#43;
 |:--:|:--:|:--|
 |asi1024|[はてなブログ](https://asi1024.hatenablog.com/)|2017年3月以降、新規の記事を確認できず。|
 |bowwowforeach|[はてなブログ](https://bowwowforeach.hatenablog.com/)||
+|dn6049949|[Qiita](https://qiita.com/dn6049949)||
 |eijirou|[はてなブログ](https://eijirou-kyopro.hatenablog.com/)||
 |eivour|[Qiita](https://qiita.com/contramundum)||
 |heno239|[はてなブログ](https://heno239.hatenablog.com/)||
@@ -59,6 +60,7 @@ title: C&#43;&#43;
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
+|BinomialSheep|[Qiita](https://qiita.com/BinomialSheep/items/e7a717f34e6991affa1c)||
 |birdwatcher|[Qiita](https://qiita.com/birdwatcher)||
 |bo9chan|[Qiita](https://qiita.com/bo9chan)||
 |dsytk7|[はてなブログ](https://dsytk7.hateblo.jp)||
