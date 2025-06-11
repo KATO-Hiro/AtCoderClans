@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-06-11
+
+- [#10370](https://github.com/KATO-Hiro/AtCoderClans/pull/10370) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+- [#10367](https://github.com/KATO-Hiro/AtCoderClans/pull/10367) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページに、以下のWebサイトを追加。
+    - [Competitive Programming Hall Of Fame](https://cphof.org/)
+
 ### 2025-06-10
 
 - [#10364](https://github.com/KATO-Hiro/AtCoderClans/pull/10364) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のWebサービスを追加。
