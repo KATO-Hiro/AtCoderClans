@@ -10,7 +10,6 @@ title: Python
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
-|dn6049949|[Qiita](https://qiita.com/dn6049949)||
 |Kiri8128|[はてなブログ](https://kiri8128.hatenablog.com/)||
 |toam|[はてなブログ](https://toriidao.hateblo.jp/)||
 |uta_ccc|[はてなブログ](https://utac.hateblo.jp/)||
@@ -23,6 +22,7 @@ title: Python
 |ansain|[はてなブログ](https://ansain.hatenablog.com/)||
 |cozy_sauna|[Qiita](https://qiita.com/cozy_sauna/)||
 |hirayuu_At|[はてなブログ](https://halc-kyopro.hatenablog.com/)|C++で実装されている回答もある。|
+|isee|[Qiita](https://qiita.com/isee)|C++で実装されている回答もある。|
 |Koi51|[Qiita](https://qiita.com/koi51)||
 |nishigake|[はてなブログ](https://blog.nishigake.net/posts)|C++で実装されている回答もある。|
 |titia|[Blogger](https://titianote.blogspot.com/)||
