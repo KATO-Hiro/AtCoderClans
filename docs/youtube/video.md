@@ -81,6 +81,10 @@ title: 個別の動画
 
 - [AtCoderってなんだし？](https://www.youtube.com/watch?v=Xh7Uc486SrM) - [chokudai](https://twitter.com/chokudai)さんが登場するAGCのCM。
 
+### 音MAD
+
+- [【音MAD】イワイイ（岩井星人×フォニイ）【競技プログラミング】](https://www.youtube.com/watch?v=zEbVkrb7FuM) - [yiwiy9](https://atcoder.jp/users/yiwiy9)さんの名言を集めた音MAD。
+
 ### YouTuberの企画
 
 - [【！？】東大生、ストレス発散しろって言われて勉強し始める](https://www.youtube.com/watch?v=W1fxwbkV1Zg) - 東大生のストレス発散方法の一つとして、競技プログラミングが取り上げられている動画。
