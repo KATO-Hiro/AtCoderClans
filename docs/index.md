@@ -220,6 +220,11 @@
 
 === "動画"
 
+    2025-06-12
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [【音MAD】イワイイ（岩井星人×フォニイ）【競技プログラミング】](https://www.youtube.com/watch?v=zEbVkrb7FuM)
+
     2025-06-06
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
@@ -234,13 +239,6 @@
 
     - 「[番組アーカイブ](videos/archived_video)」ページ
         - [AI時代を勝ち抜くためにエンジニアはどうすれば良いのか | AtCoder社長 高橋直大(chokudai)](https://www.youtube.com/watch?v=elXb40BHXYU)
-
-=== "ライブラリ・スニペット"
-
-    2025-05-27
-
-    - 「[C++](libraries/cpp)」ページ
-        - [mackerel38/competitive](https://github.com/mackerel38/competitive/tree/main/library) ![GitHub stars](https://img.shields.io/github/stars/mackerel38/competitive?style=plastic)
 
 === "国内外のコンテストサイト"
 
