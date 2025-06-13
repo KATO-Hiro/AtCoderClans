@@ -571,6 +571,10 @@ title: 更新停止の可能性が高い
 
 ## 動画
 
+### AtCoder公式チャンネル
+
+- [社長のお仕事配信](https://www.youtube.com/watch?v=PiQvXNoV5YQ): [chokudai](https://twitter.com/chokudai)さんの仕事が見られる実験的な生放送
+
 ### VTuber (バーチャルYouTuber)
 
 - [糟屋もふ](https://www.youtube.com/playlist?list=PLXzhjyS-h7aEH31fB0gAfy_gskIirxBS7) - [KasuyaMofu](https://atcoder.jp/users/KasuyaMofu)さんのチャンネル。[C++入門 AtCoder Programming Guide for beginners (APG4b)](https://atcoder.jp/contests/APG4b)を解く動画などが公開されている。
@@ -585,7 +589,12 @@ title: 更新停止の可能性が高い
 
 ### YouTuber
 
+- [Rute _](https://www.youtube.com/channel/UCvB4r-9OCn84AohIsnvLYhA) - Ruteさんのチャンネル。コンテストの振り返りに関する配信が行われている。
 - [ことり兄貴【プログラマ】](https://www.youtube.com/channel/UCf86wNbQtsJKh2EpRm7-Mrg/videos) - [KotoriAniki](https://atcoder.jp/users/KotoriAniki)さんのチャンネル。コンテストの過去問を解く動画などが公開されている。
+
+### ゆっくり動画
+
+- [あずぱん動画](https://www.youtube.com/playlist?list=PLwlP26Z1O_DesFumSto6rfa9T2jmk9iD4) - [azm](https://atcoder.jp/users/azm)さんのチャンネル。AtCoderの始め方や過去問に関する「ゆっくり動画」が公開されている。
 
 ## コマンドラインツール
 

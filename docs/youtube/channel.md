@@ -9,7 +9,6 @@ title: チャンネル
         - [ヒューリスティックコンテスト(AHCラジオ)](https://www.youtube.com/playlist?list=PLLeJZg4opYKY6yCPd7j0b5NS4b7krV2yF) - ヒューリスティック部門の解説放送
     - あーだこーだー: 運営チームによる最新情報の生放送
     - [AtCoderPV](https://www.youtube.com/watch?v=TbZhKTMPJeI) - 同チャンネルの公式プロモーションビデオ。特に、競技プログラミングを始めようと思っている人や周囲に布教したい人におすすめ。
-    - [社長のお仕事配信](https://www.youtube.com/watch?v=PiQvXNoV5YQ): [chokudai](https://twitter.com/chokudai)さんの仕事が見られる実験的な生放送
 
 ## VTuber (バーチャルYouTuber)
 
@@ -31,7 +30,6 @@ title: チャンネル
 
 - [Gennady Korotkevich](https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw) - 世界最強の競技プログラマーである[tourist](https://atcoder.jp/users/tourist)さんのチャンネル。
 - [heno 239](https://www.youtube.com/channel/UCmYTD76ZGm8hcrzaI7xJLAg) - レッドコーダー（競技プログラマーとして世界最高峰の実力の持ち主であることを示す）の[heno239](https://atcoder.jp/users/heno239)さんのチャンネル。過去問の早解き、2人で1行ずつ交互にコーディングしてACを目指す動画などが公開されている。
-- [Rute _](https://www.youtube.com/channel/UCvB4r-9OCn84AohIsnvLYhA) - Ruteさんのチャンネル。コンテストの振り返りに関する配信が行われている。
 - [skyaozora58](https://www.youtube.com/user/skyaozora58/videos) - レッドコーダーの[sky58](https://atcoder.jp/users/sky58)さんのチャンネル。コンテスト当日のスクリーンキャプチャが多く公開されている。
 - [tatyam](https://www.youtube.com/channel/UC3MXq-nGMDQENm5ihfQeIkg/featured) - レッドコーダーの[tatyam](https://atcoder.jp/users/tatyam)さんのチャンネル。コンテストの過去問を解く動画が公開されている。
 - [Tozan Southerpacks Redcoder レッドコーダー](https://www.youtube.com/channel/UCwsapfci2p1oDVO4Q2sJOQw) - レッドコーダーの[tozangezan](https://atcoder.jp/users/tozangezan)さんのチャンネル。アルゴリズムやコンテスト後の解説が英語で行われている。
@@ -42,13 +40,13 @@ title: チャンネル
 - [じょえチャンネル](https://www.youtube.com/channel/UCRXsI3FL_kvaVL9zoolBfbQ/videos) - [xuzijian629](https://atcoder.jp/users/xuzijian629)さんのチャンネル。斬新な企画が数多く公開されている。
 - [そまのすけ](https://www.youtube.com/playlist?list=PLTP2rhthd6G1qPKsKVTienMhos3X6Hvqh) - [somanosuke](https://atcoder.jp/users/somanosuke)さんのチャンネル。コンテストの振り返りや過去問を解く動画が公開されている。
 - [てぃーい企画](https://www.youtube.com/channel/UCfqYE4LdRYqAJSV_TKlsy9Q/videos) - [Yazaten](https://twitter.com/Yazaten)さんのチャンネル。競技プログラミングの話題を含む大喜利が行われており、投稿者の回答が紹介されている。
+- [ぶるけんプログラミング道場](https://www.youtube.com/@%E3%81%B6%E3%82%8B%E3%81%91%E3%82%93%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E9%81%93%E5%A0%B4) - [blue_jam](https://x.com/blue_jam)さんと[けんちょん](https://x.com/drken1215)さんのチャンネル。解説動画が公開されている。
 
 ## ゆっくり動画
 
 - [AngrySadEight](https://www.youtube.com/@AngrySadEight) - [AngrySadEight](https://atcoder.jp/users/AngrySadEight)さんのチャンネル。コンテストや有名アルゴリズムの解説動画が公開されている。
 - [blueberry1001](https://www.youtube.com/@blueberry-1001/featured) - [blueberry1001](https://atcoder.jp/users/blueberry1001)さんのチャンネル。コンテスト当日を振り返った動画が公開されている。
 - [Cαfe1942](https://www.youtube.com/playlist?list=PLWDxpG33dobEYiBtm06Gky8apePjny6mj) - [Cafe_j19419](https://atcoder.jp/users/Cafe_j19419)さんのチャンネル。コンテスト当日のゆっくり実況動画が公開されている。
-- [あずぱん動画](https://www.youtube.com/playlist?list=PLwlP26Z1O_DesFumSto6rfa9T2jmk9iD4) - [azm](https://atcoder.jp/users/azm)さんのチャンネル。AtCoderの始め方や過去問に関する「ゆっくり動画」が公開されている。
 - [えびまラボ](https://www.youtube.com/channel/UCw4Ty20l1DccGCQ2HWiEcgw) - コンテストのwriterとして長年活躍されている[えびま](https://twitter.com/evima0)さんのチャンネル。コンテストやアルゴリズムなどに関する「ゆっくり解説」が公開されている。
 - [佐野太郎](https://www.youtube.com/channel/UCE2ID_KiY2kKne7d1zFT7JQ/featured) - [sano192](https://atcoder.jp/users/sano192)さんのチャンネル。頻出のアルゴリズムについて、コンテストで出題された問題を題材に解説している。
 - [みちらから](https://www.youtube.com/channel/UCqBF4sFbNDMLwIUYbS1wkhg/featured) - [michirakara](https://atcoder.jp/users/michirakara)さんのチャンネル。コンテストで出題された問題の解説とPythonでの実装方法が紹介されている。
