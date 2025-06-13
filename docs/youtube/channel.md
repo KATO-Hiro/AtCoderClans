@@ -42,6 +42,7 @@ title: チャンネル
 - [じょえチャンネル](https://www.youtube.com/channel/UCRXsI3FL_kvaVL9zoolBfbQ/videos) - [xuzijian629](https://atcoder.jp/users/xuzijian629)さんのチャンネル。斬新な企画が数多く公開されている。
 - [そまのすけ](https://www.youtube.com/playlist?list=PLTP2rhthd6G1qPKsKVTienMhos3X6Hvqh) - [somanosuke](https://atcoder.jp/users/somanosuke)さんのチャンネル。コンテストの振り返りや過去問を解く動画が公開されている。
 - [てぃーい企画](https://www.youtube.com/channel/UCfqYE4LdRYqAJSV_TKlsy9Q/videos) - [Yazaten](https://twitter.com/Yazaten)さんのチャンネル。競技プログラミングの話題を含む大喜利が行われており、投稿者の回答が紹介されている。
+- [ぶるけんプログラミング道場](https://www.youtube.com/@%E3%81%B6%E3%82%8B%E3%81%91%E3%82%93%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E9%81%93%E5%A0%B4) - [blue_jam](https://x.com/blue_jam)さんと[けんちょん](https://x.com/drken1215)さんのチャンネル。解説動画が公開されている。
 
 ## ゆっくり動画
 
