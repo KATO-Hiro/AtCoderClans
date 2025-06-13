@@ -141,15 +141,6 @@
       <img loading="lazy" src="images/userscript/atcoder_unrated_button_disabler.png" alt="atcoder unrated button disabler">
     </div>
 
-    2025-05-28
-
-    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
-        - [ac-history-perf-estimator](https://greasyfork.org/ja/scripts/535100-ac-history-perf-estimator)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/ac_history_perf_estimator.png" alt="ac history perf estimator">
-    </div>
-
 === "記事"
 
     2025-06-09
@@ -187,17 +178,6 @@
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
         - [riantkb/typical90_python](https://github.com/riantkb/typical90_python) ![GitHub Repo stars](https://img.shields.io/github/stars/riantkb/typical90_python?style=plastic)
 
-    2025-05-29
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [トヨタ自動車プログラミングコンテスト2025#2（AtCoder Heuristic Contest 047）の復習](https://kaede2020.hatenablog.com/entry/2025/05/29/205228)
-
-    2025-05-28
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [区間add / 0存在判定 Ω(N^(1.333))](https://yosupo.hatenablog.com/entry/2025/05/27/014201)
-        - [区間add / 0存在判定 Ω*(N^(1.5))](https://yosupo.hatenablog.com/entry/2025/05/28/023254)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -220,6 +200,11 @@
 
 === "動画"
 
+    2025-06-13
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [ぶるけんプログラミング道場](https://www.youtube.com/@%E3%81%B6%E3%82%8B%E3%81%91%E3%82%93%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E9%81%93%E5%A0%B4)
+
     2025-06-12
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
@@ -234,11 +219,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [毒チョコゲームの必勝法【ゆっくり解説】](https://www.youtube.com/watch?v=agRtx_XREtA)
-
-    2025-05-28
-
-    - 「[番組アーカイブ](videos/archived_video)」ページ
-        - [AI時代を勝ち抜くためにエンジニアはどうすれば良いのか | AtCoder社長 高橋直大(chokudai)](https://www.youtube.com/watch?v=elXb40BHXYU)
 
 === "国内外のコンテストサイト"
 
@@ -258,15 +238,6 @@
 
     <div align="center">
       <img loading="lazy" src="images/related_contest_sites/yukicoder/yukicoder_lazy_solving.png" alt="yukicoder lazy solving">
-    </div>
-
-    2025-05-28
-
-    - 「[数学系コンテスト](related_contest_sites/math)」ページ
-        - [OMC Difficult Pies](https://greasyfork.org/ja/scripts/537420-omc-difficult-pies)
-
-    <div align="center">
-      <img loading="lazy" src="images/related_contest_sites/omc/omc_difficult_pies.png" alt="omc difficult pies">
     </div>
 
 === "アーカイブス"
