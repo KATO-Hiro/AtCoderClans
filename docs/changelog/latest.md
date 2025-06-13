@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-06-13
+
+- [#10378](https://github.com/KATO-Hiro/AtCoderClans/pull/10378) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [ぶるけんプログラミング道場](https://www.youtube.com/@%E3%81%B6%E3%82%8B%E3%81%91%E3%82%93%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E9%81%93%E5%A0%B4)
+
 ### 2025-06-12
 
 - [#10373](https://github.com/KATO-Hiro/AtCoderClans/pull/10373) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
