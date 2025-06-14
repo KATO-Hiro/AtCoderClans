@@ -173,11 +173,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年6月2日時点)](https://x.com/atcoder/status/1929411005198520806)
 
-    2025-05-30
-
-    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
-        - [riantkb/typical90_python](https://github.com/riantkb/typical90_python) ![GitHub Repo stars](https://img.shields.io/github/stars/riantkb/typical90_python?style=plastic)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -197,6 +192,13 @@
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [lX57](https://atcoder.jp/users/lX57)さん - [はてなブログ](https://logk.hateblo.jp/)
+
+=== "書籍"
+
+    2025-06-14
+
+    - 「[書籍](books)」ページ
+        - [ヒューリスティック探索 合理的なAIをつくるためのアルゴリズム](https://www.amazon.co.jp/dp/4065392187)
 
 === "動画"
 
