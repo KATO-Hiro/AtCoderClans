@@ -97,7 +97,7 @@
 
 === "Webアプリ・Webサイト"
 
-    2025-06-16
+    2025-06-15
 
     - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
         - [Generic Grid Editor](https://snuke.main.jp/gge/)
