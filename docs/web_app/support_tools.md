@@ -67,6 +67,14 @@ title: 問題を解くときの補助ツール
       <img loading = "lazy" src="../../images/web_app/show_graph.png" alt="show graph">
     </div>
 
+## グリッド状の図を作成・出力
+
+- [Generic Grid Editor](https://snuke.main.jp/gge/) - グリッド状の図を作成・出力できる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/generic_grid_editor.png" alt="generic grid editor">
+    </div>
+
 ## 関連記事を検索
 
 - [検索エンジン集](https://magurofly.github.io/tools/search) - 競技プログラミングに関する記事を検索できる。
