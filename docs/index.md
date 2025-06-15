@@ -97,6 +97,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2025-06-16
+
+    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
+        - [Generic Grid Editor](https://snuke.main.jp/gge/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/generic_grid_editor.png" alt="generic grid editor">
+    </div>
+
     2025-06-11
 
     - 「[コンテストに関する統計情報](web_app/statistics)」ページ
@@ -131,15 +140,6 @@
 
     - 「[ネタスクリプト](user_scripts/jokes)」ページ
         - [AC-Rotate](https://greasyfork.org/ja/scripts/537633-ac-rotate)
-
-    2025-05-31
-
-    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
-        - [AtCoderUnratedButtonDisabler](https://greasyfork.org/ja/scripts/537742-atcoderunratedbuttondisabler)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_unrated_button_disabler.png" alt="atcoder unrated button disabler">
-    </div>
 
 === "記事"
 
