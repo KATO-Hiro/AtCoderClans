@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-06-15
+
+- [#10385](https://github.com/KATO-Hiro/AtCoderClans/pull/10385) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページに、以下のWebアプリを追加。
+    - [Generic Grid Editor](https://snuke.main.jp/gge/)
+
 ### 2025-06-14
 
 - [#10381](https://github.com/KATO-Hiro/AtCoderClans/pull/10381) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに、以下の書籍を追加。
