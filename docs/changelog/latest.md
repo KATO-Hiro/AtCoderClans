@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-06-16
+
+- [#10393](https://github.com/KATO-Hiro/AtCoderClans/pull/10393) - 「[For Beginners](../../for_beginners)」の「[Q3: コンテストは、いつ開催されていますか?](../../for_beginners/question3)」ページと「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
+    - [AHCにおける生成AIルールの策定について](https://atcoder.jp/posts/1494)
+    - [AtCoder Heuristic Contest 生成AI利用ルール - 20250616版](https://info.atcoder.jp/entry/ahc-llm-rules-ja)
+- [#10391](https://github.com/KATO-Hiro/AtCoderClans/pull/10391) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
+    - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年6月16日時点)](https://x.com/atcoder/status/1934475776763871289)
+
 ### 2025-06-15
 
 - [#10385](https://github.com/KATO-Hiro/AtCoderClans/pull/10385) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページに、以下のWebアプリを追加。
