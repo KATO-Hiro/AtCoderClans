@@ -95,6 +95,13 @@
     - 「[Special Thanks](special_thanks)」ページ
         - [競技プログラミング入門ストーリー - 便利なリンク集](https://paiza.jp/pages/works/stories/competitive_programming)
 
+=== "入門者・初心者向けの内容"
+
+    2025-06-16
+
+    - 「[Q3: コンテストは、いつ開催されていますか?](for_beginners/question3)」ページ
+        - [AHCにおける生成AIルールの策定について](https://atcoder.jp/posts/1494)
+        - [AtCoder Heuristic Contest 生成AI利用ルール - 20250616版](https://info.atcoder.jp/entry/ahc-llm-rules-ja)
 
 === "Webアプリ・Webサイト"
 
@@ -135,14 +142,18 @@
     - 「[問題を解く](web_app/solve_problems)」ページ
         - [Rosetta Problems](https://rosetta-problems-dev.vercel.app/)
 
-=== "ユーザスクリプト"
-
-    2025-06-01
-
-    - 「[ネタスクリプト](user_scripts/jokes)」ページ
-        - [AC-Rotate](https://greasyfork.org/ja/scripts/537633-ac-rotate)
-
 === "記事"
+
+    2025-06-16
+
+    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
+        - [AHCにおける生成AIルールの策定について](https://atcoder.jp/posts/1494)
+        - [AtCoder Heuristic Contest 生成AI利用ルール - 20250616版](https://info.atcoder.jp/entry/ahc-llm-rules-ja)
+
+    2025-06-16
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年6月16日時点)](https://x.com/atcoder/status/1934475776763871289)
 
     2025-06-09
 
@@ -188,11 +199,6 @@
 
     - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
         - [tipstar0125](https://atcoder.jp/users/tipstar0125)さん - [Zenn](https://zenn.dev/tipstar0125)
-
-    2025-06-01
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [lX57](https://atcoder.jp/users/lX57)さん - [はてなブログ](https://logk.hateblo.jp/)
 
 === "書籍"
 
