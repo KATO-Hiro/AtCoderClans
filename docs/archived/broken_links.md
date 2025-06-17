@@ -402,6 +402,9 @@ title: リンク切れ
 
 ### レーティング1600〜1999(青色)
 
+- [AtCoder青になったりならなかったりしました - でぶ脱却日記](https://shojin-debu.hatenablog.com/entry/2022/06/19/155624) - [shojin_debu](https://atcoder.jp/users/shojin_debu)さんが、2022年6月18日に達成。
+    - 確認した日: 2025/06/17
+
 - [AtCoder青になりました](https://note.com/ococonomy1/n/n9eaf09ee0685) - [ococonomy1](https://atcoder.jp/users/ococonomy1)さんが、2023年4月1日に達成。
     - 確認した日: 2024/07/12
 

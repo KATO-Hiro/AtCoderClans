@@ -64,7 +64,6 @@ title: レーティング1600〜1999(青色)
 - [atcoderで青色になった話](https://qiita.com/mo124121/items/ee0c75c89e2fe0640cb6) - [mo12412](https://atcoder.jp/users/mo12412)さんが、2022年10月2日に達成。
 - [AtCoderで青になりました - zeronosu77108’s blog](https://zeronosu77108.hatenablog.com/entry/2022/08/01/221949) - [zeronosu77108](https://atcoder.jp/users/zeronosu77108)さんが、2022年7月31日に達成。
 - [重い腰を上げてAtcoderを始めた(青)](https://qiita.com/Lenqth/items/babdc1e652e0e041b321) - [Lenqth](https://atcoder.jp/users/Lenqth)さんが、2022年6月26日に達成。
-- [AtCoder青になったりならなかったりしました - でぶ脱却日記](https://shojin-debu.hatenablog.com/entry/2022/06/19/155624) - [shojin_debu](https://atcoder.jp/users/shojin_debu)さんが、2022年6月18日に達成。
 - [入青しました！！！！](https://note.com/ponjuice0/n/ne26ca6061eb4) - [ponjuice](https://atcoder.jp/users/ponjuice)さんが、2022年5月21日に達成。
 - [CrystalでAtCoder青色になりました（色変記事）](https://qiita.com/tamura2004/items/e5828162db074bb664a7) - [tamura2004](https://atcoder.jp/users/tamura2004)さんが、2022年5月14日に達成。
 - [青色コーダー(AtCoder)になりました！！ - k1suxuの競プロ日記](https://k1suxu.hatenablog.com/entry/2022/05/15/173243) - [k1suxu](https://atcoder.jp/users/k1suxu)さんが、2022年5月14日に達成。
