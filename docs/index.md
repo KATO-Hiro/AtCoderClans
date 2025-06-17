@@ -175,16 +175,6 @@
     - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
         - [【非公式】[C++] AtCoder ジャッジアップデート (2024–2025) について](https://trap.jp/post/2589/)
 
-    2025-06-03
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [Implicit Treap解説](https://qiita.com/hamamu/items/570e7c36bf73913cbeb8)
-
-    2025-06-02
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年6月2日時点)](https://x.com/atcoder/status/1929411005198520806)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -228,6 +218,15 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [毒チョコゲームの必勝法【ゆっくり解説】](https://www.youtube.com/watch?v=agRtx_XREtA)
+
+=== "色変記事"
+
+    色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-06-17
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [Litms](https://atcoder.jp/users/Litms)さん - [【AtCoder】無事茶色になれたので、入茶までにやったことをまとめてみる！！](https://qiita.com/Litms/items/90276b42673bc890660f)
 
 === "国内外のコンテストサイト"
 
