@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-06-17
+
+- [#10399](https://github.com/KATO-Hiro/AtCoderClans/pull/10399) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[Litms](https://atcoder.jp/users/Litms)さんの[記事](https://qiita.com/Litms/items/90276b42673bc890660f)を追加。
+- [#10398](https://github.com/KATO-Hiro/AtCoderClans/pull/10398) - (破壊的な変更) リンク切れと思われる色変記事を「[Archives](../../archived)」ページに移動。
+
 ### 2025-06-16
 
 - [#10393](https://github.com/KATO-Hiro/AtCoderClans/pull/10393) - 「[For Beginners](../../for_beginners)」の「[Q3: コンテストは、いつ開催されていますか?](../../for_beginners/question3)」ページと「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
