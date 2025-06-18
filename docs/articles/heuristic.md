@@ -287,6 +287,10 @@ title: ヒューリスティック問題を解く
 
 - [ヒューリスティックコンテストでベイズ推定に入門しよう](https://platinum-prog.hatenablog.com/entry/2023/05/20/231200) - ベイズ推定を活用して、限られた情報からパラメータを予測する方法を解説した記事。[AtCoder Heuristic Contest 003](https://atcoder.jp/contests/ahc003)を題材として、C++での実装例も紹介されている。
 
+### カルマンフィルタ
+
+- [カルマンフィルタを使ってマスターズ選手権2024決勝のA問題を解いてみた](https://zenn.dev/algoartis/articles/kalmanfilter_masters_2024) - カルマンフィルタの概説と解決できる問題、および、[第一回マスターズ選手権 -決勝-](https://atcoder.jp/contests/masters2024-final)のA問題における適用例が紹介されている。
+
 ### シュタイナー木
 
 - [プリム法ベースのシュタイナー木](https://bowwowforeach.hatenablog.com/entry/2023/06/18/213212) - プリム法をベースとしたシュタイナー木に関するアルゴリズムが図解されている記事。Dreyfus-Wagner法と比べて計算量は少ないもののコストが最小になるとは限らないため、厳密さよりも速度が優先される場面での利用が想定されている。
