@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-06-18
+
+- [#10404](https://github.com/KATO-Hiro/AtCoderClans/pull/10404) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [カルマンフィルタを使ってマスターズ選手権2024決勝のA問題を解いてみた](https://zenn.dev/algoartis/articles/kalmanfilter_masters_2024)
+- [#10403](https://github.com/KATO-Hiro/AtCoderClans/pull/10403) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。
+    - [【AtCoder】acc、ojでログインできなくなった時の対処法](https://kaiyou9.com/acc_and_oj_login_failed/)
+    - [[AtCoder] 死んだ自動ログインを復活させよう](https://trap.jp/post/2591/)
+
 ### 2025-06-17
 
 - [#10399](https://github.com/KATO-Hiro/AtCoderClans/pull/10399) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

@@ -144,6 +144,17 @@
 
 === "記事"
 
+    2025-06-18
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [カルマンフィルタを使ってマスターズ選手権2024決勝のA問題を解いてみた](https://zenn.dev/algoartis/articles/kalmanfilter_masters_2024)
+
+    2025-06-18
+
+    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
+        - [【AtCoder】acc、ojでログインできなくなった時の対処法](https://kaiyou9.com/acc_and_oj_login_failed/)
+        - [[AtCoder] 死んだ自動ログインを復活させよう](https://trap.jp/post/2591/)
+
     2025-06-16
 
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
@@ -169,11 +180,6 @@
 
     - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
         - [AtCoderでのJavaScriptの入力](https://qiita.com/mizu7e/items/89db39527c7b920bbea1)
-
-    2025-06-04
-
-    - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
-        - [【非公式】[C++] AtCoder ジャッジアップデート (2024–2025) について](https://trap.jp/post/2589/)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -214,11 +220,6 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [DPの思いつき方](https://www.youtube.com/watch?v=2QDQUj69OiE)
 
-    2025-06-04
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [毒チョコゲームの必勝法【ゆっくり解説】](https://www.youtube.com/watch?v=agRtx_XREtA)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
@@ -237,15 +238,6 @@
 
     <div align="center">
       <img loading="lazy" src="images/related_contest_sites/codeforces/codeforces_daily_problems.png" alt="codeforces daily problems">
-    </div>
-
-    2025-06-04
-
-    - 「[yukicoder](related_contest_sites/yukicoder)」ページ
-        - [yukicoder lazy solving](https://maruoka842.github.io/yukicoder-lazy-solving/)
-
-    <div align="center">
-      <img loading="lazy" src="images/related_contest_sites/yukicoder/yukicoder_lazy_solving.png" alt="yukicoder lazy solving">
     </div>
 
 === "アーカイブス"
