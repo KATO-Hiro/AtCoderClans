@@ -4,19 +4,16 @@ title: ソースコードにバグがないか確認
 
 類似した機能を持つツールが多いため、対応言語ごとに分類しています。
 
-!!! danger "警告"
-    一部のコンテスト開催中は、利用が禁止されているサービスや機能があります ([出典](https://info.atcoder.jp/entry/llm-rules-ja))。参加前にルールをご確認ください。
-
 !!! warning "注意"
     サブカテゴリで部門名(アルゴリズム・ヒューリスティック)が明記されていない場合は、アルゴリズム部門を対象としたサービスを表しています。
 
-## コマンドラインツールからAtCoderにログイン
+## コマンドラインツールからAtCoderにログインできない場合の対処方法
 
 - [aclogin](https://github.com/key-moon/aclogin) ![GitHub stars](https://img.shields.io/github/stars/key-moon/aclogin?style=plastic) - コマンドラインツールからAtCoderに自動ログインできるようにする。
 
     !!! info "参考"
 
-        2025年5月時点では、[Online Judge Tools](https://github.com/online-judge-tools/oj) ![GitHub stars](https://img.shields.io/github/stars/online-judge-tools/oj?style=plastic)と[Tatamo/atcoder-cli](https://github.com/Tatamo/atcoder-cli) ![GitHub stars](https://img.shields.io/github/stars/Tatamo/atcoder-cli?style=plastic)に対応。
+        2025年6月時点では、[Online Judge Tools](https://github.com/online-judge-tools/oj) ![GitHub stars](https://img.shields.io/github/stars/online-judge-tools/oj?style=plastic)と[Tatamo/atcoder-cli](https://github.com/Tatamo/atcoder-cli) ![GitHub stars](https://img.shields.io/github/stars/Tatamo/atcoder-cli?style=plastic)に対応。
 
     !!! warning "注意"
 

@@ -4,11 +4,21 @@ title: コードを書くための環境構築を行う
 
 !!! info "参考"
 
-    以下の記事は、2025年4月までに公開・更新されたものです。随時、最新の内容を追加する予定です。
+    以下の記事は、2025年6月までに公開・更新されたものです。随時、最新の内容を追加する予定です。
 
 !!! warning "注意"
 
     [言語アップデート(2023年版)](https://atcoder.jp/posts/966)に対応した実行環境を用意するには、OS・言語・ライブラリなどのバージョン更新が必要な場合もあります。
+
+## コマンドラインツールからAtCoderにログインできない場合の対処方法
+
+!!! info "参考"
+    2025年3月にAtCoderの認証方法（Cloudflare CAPTCHAの導入）が変更されたことに伴う対処方法です。
+
+    以下の記事を参考にするとともに、有志による[補助ツール](../../cli/test_tools)を利用することもできます。
+
+- [【AtCoder】acc、ojでログインできなくなった時の対処法](https://kaiyou9.com/acc_and_oj_login_failed/) - [Online Judge Tools](https://github.com/online-judge-tools/oj) ![GitHub stars](https://img.shields.io/github/stars/online-judge-tools/oj?style=plastic)と[Tatamo/atcoder-cli](https://github.com/Tatamo/atcoder-cli) ![GitHub stars](https://img.shields.io/github/stars/Tatamo/atcoder-cli?style=plastic)で自動ログインする方法が紹介されている。
+    - [[AtCoder] 死んだ自動ログインを復活させよう](https://trap.jp/post/2591/) - 上記の内容に加えて、ソースコードを自動提出するプログラムの実装例が紹介されている。
 
 ## 任意のOS
 
