@@ -7,7 +7,7 @@ title: ソースコードにバグがないか確認
 !!! warning "注意"
     サブカテゴリで部門名(アルゴリズム・ヒューリスティック)が明記されていない場合は、アルゴリズム部門を対象としたサービスを表しています。
 
-## コマンドラインツールからAtCoderにログイン
+## コマンドラインツールからAtCoderにログインできない場合の対処方法
 
 - [aclogin](https://github.com/key-moon/aclogin) ![GitHub stars](https://img.shields.io/github/stars/key-moon/aclogin?style=plastic) - コマンドラインツールからAtCoderに自動ログインできるようにする。
 
