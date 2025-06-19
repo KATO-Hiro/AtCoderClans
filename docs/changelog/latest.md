@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-06-19
+
+- [#10413](https://github.com/KATO-Hiro/AtCoderClans/pull/10413) - (破壊的な変更) リンク切れと思われる色変記事を「[Archives](../../archived)」ページに移動。
+- [#10412](https://github.com/KATO-Hiro/AtCoderClans/pull/10) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Python](../../articles/implementation/python)」ページに、以下の記事を追加。
+    - [PyPyでpopcountしたい！](https://qiita.com/kemuniku/items/7121870ad77c14a09fd9)
+
 ### 2025-06-18
 
 - [#10404](https://github.com/KATO-Hiro/AtCoderClans/pull/10404) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
