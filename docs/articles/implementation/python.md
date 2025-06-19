@@ -72,6 +72,10 @@ title: Python
 
 - [【Python】行列の90度右回転、90度左回転、180度回転【AtCoder】](https://qiita.com/rudorufu1981/items/5341d9603ecb1f9c2e5c) - 行列の90度回転、180度回転をシンプルに実装する方法が紹介されている。
 
+### bit演算
+
+- [PyPyでpopcountしたい！](https://qiita.com/kemuniku/items/7121870ad77c14a09fd9) - 10進数を2進数で表現したときに桁が1である個数（= popcount）を高速に求める方法が紹介されている。
+
 ### 多倍長演算の活用
 
 - [多倍長演算の活用①](https://qiita.com/Kiri8128/items/5b38f839185acdf3e707) - 多倍長演算を活用して、処理の簡素化・高速化を図る方法を紹介した記事。整数の各bitをフラグとみなして、bit演算で処理する方法が解説されている。
