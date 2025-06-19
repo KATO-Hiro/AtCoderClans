@@ -370,6 +370,9 @@ title: リンク切れ
 
 ### レーティング1200〜1599(水色)
 
+- [数学が苦手な大学生の AtCoder 入水記事](https://note.com/yindolsa/n/n61b2b4f17e78) - [ZUkA_](https://atcoder.jp/users/ZUkA_)さんが、2024年9月14日に達成。
+    - 確認した日: 2025/06/19
+
 - [Atcoder！水色になったぞ！](https://qiita.com/8bai/items/b024315be8b6bec4a9dc) - [yabit](https://atcoder.jp/users/yabit)さんが、2023年1月21日に達成。
     - 確認した日: 2025/03/12
 
