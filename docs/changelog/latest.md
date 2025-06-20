@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-06-20
+
+- [#10419](https://github.com/KATO-Hiro/AtCoderClans/pull/10419) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
+    - [生成AIはAtCoderBeginnerContestのインフレを加速させたか](https://qiita.com/sirsoldano/items/ad3d05e4a37759850445)
+
 ### 2025-06-19
 
 - [#10413](https://github.com/KATO-Hiro/AtCoderClans/pull/10413) - (破壊的な変更) リンク切れと思われる色変記事を「[Archives](../../archived)」ページに移動。

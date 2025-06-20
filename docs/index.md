@@ -144,6 +144,11 @@
 
 === "記事"
 
+    2025-06-20
+
+    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
+        - [生成AIはAtCoderBeginnerContestのインフレを加速させたか](https://qiita.com/sirsoldano/items/ad3d05e4a37759850445)
+
     2025-06-19
 
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
@@ -214,11 +219,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [【音MAD】イワイイ（岩井星人×フォニイ）【競技プログラミング】](https://www.youtube.com/watch?v=zEbVkrb7FuM)
-
-    2025-06-06
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [DPの思いつき方](https://www.youtube.com/watch?v=2QDQUj69OiE)
 
 === "色変記事"
 
