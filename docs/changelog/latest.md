@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-06-21
+
+- [#10422](https://github.com/KATO-Hiro/AtCoderClans/pull/10422)、[#10423](https://github.com/KATO-Hiro/AtCoderClans/pull/10423) - 「[Scripts](../../scripts)」の「[ネタスクリプト](../../user_scripts/jokes)」ページに、以下のユーザスクリプトを追加。
+    - [AC Super Ultra Many Very Happy Notification](https://greasyfork.org/ja/scripts/540026-ac-super-ultra-many-very-happy-notification)
+    - [AI補助付きAtCoder](https://greasyfork.org/ja/scripts/539951-ai%E8%A3%9C%E5%8A%A9%E4%BB%98%E3%81%8Datcoder)
+
 ### 2025-06-20
 
 - [#10419](https://github.com/KATO-Hiro/AtCoderClans/pull/10419) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。

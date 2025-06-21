@@ -88,13 +88,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "スペシャル・サンクス"
-
-    2025-06-07
-
-    - 「[Special Thanks](special_thanks)」ページ
-        - [競技プログラミング入門ストーリー - 便利なリンク集](https://paiza.jp/pages/works/stories/competitive_programming)
-
 === "入門者・初心者向けの内容"
 
     2025-06-16
@@ -137,10 +130,23 @@
       <img loading="lazy" src="images/web_app/atcoder_redirect.png" alt="atcoder editorial problems">
     </div>
 
-    2025-06-07
+=== "ユーザスクリプト"
 
-    - 「[問題を解く](web_app/solve_problems)」ページ
-        - [Rosetta Problems](https://rosetta-problems-dev.vercel.app/)
+    2025-06-21
+
+    - 「[ネタスクリプト](user_scripts/jokes)」ページ
+        - [AC Super Ultra Many Very Happy Notification](https://greasyfork.org/ja/scripts/540026-ac-super-ultra-many-very-happy-notification)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/ac_super_ultra_many_very_happy_notification.png" alt="ac super ultra many very happy notification">
+    </div>
+
+    - 「[ネタスクリプト](user_scripts/jokes)」ページ
+        - [AI補助付きAtCoder](https://greasyfork.org/ja/scripts/539951-ai%E8%A3%9C%E5%8A%A9%E4%BB%98%E3%81%8Datcoder)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_with_ai_assistance.png" alt="atcoder with ai assistance">
+    </div>
 
 === "記事"
 
