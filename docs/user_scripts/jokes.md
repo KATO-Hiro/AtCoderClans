@@ -22,6 +22,14 @@ title: ネタスクリプト
 
         日本語の問題文のみ対応。
 
+## ソースコードの一部を擬似的なAIに書かせる
+
+- [AI補助付きAtCoder](https://greasyfork.org/ja/scripts/539951-ai%E8%A3%9C%E5%8A%A9%E4%BB%98%E3%81%8Datcoder) - 「問題」「提出」「コードテスト」ページで、C++のソースコードの一部の出力と、自力での考察・実装を促すメッセージが表示される。([元ネタの出典](https://x.com/chokudai/status/1935569460016157000))
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_with_ai_assistance.png" alt="atcoder with ai assistance">
+    </div>
+
 ## 問題に正解したときの演出を追加
 
 - [AC Super Ultra Many Very Happy Notification](https://greasyfork.org/ja/scripts/540026-ac-super-ultra-many-very-happy-notification) - 問題に正解したときに、[chokudai](https://x.com/chokudai)さんが祝福してくれる。
