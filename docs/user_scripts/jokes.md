@@ -22,9 +22,17 @@ title: ネタスクリプト
 
         日本語の問題文のみ対応。
 
+## 問題に正解したときの演出を追加
+
+- [AC Super Ultra Many Very Happy Notification](https://greasyfork.org/ja/scripts/540026-ac-super-ultra-many-very-happy-notification) - 問題に正解したときに、[chokudai](https://x.com/chokudai)さんが祝福してくれる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/ac_super_ultra_many_very_happy_notification.png" alt="ac super ultra many very happy notification">
+    </div>
+
 ## 問題の正誤判定の表記を書き換え
 
-- [AC そのまさかだよ](https://greasyfork.org/ja/scripts/439526-ac-%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%95%E3%81%8B%E3%81%A0%E3%82%88) - 「提出結果」ページの正誤判定のうち、「AC(Acceptedの略記)」を「AC そのまさかだよ」に置き換える([元ネタの出典](https://twitter.com/microkents/status/1208346268872790016?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1208346268872790016%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fkaage.hatenablog.com%2Fentry%2F2020%2F05%2F04%2F142125))。
+- [AC そのまさかだよ](https://greasyfork.org/ja/scripts/439526-ac-%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%95%E3%81%8B%E3%81%A0%E3%82%88) - 「提出結果」ページの正誤判定のうち、「AC(Acceptedの略記)」を「AC そのまさかだよ」に置き換える。
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/ac_sonomasakadayo.png" alt="ac search old languages">
