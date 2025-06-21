@@ -141,8 +141,6 @@
       <img loading="lazy" src="images/userscript/ac_super_ultra_many_very_happy_notification.png" alt="ac super ultra many very happy notification">
     </div>
 
-    2025-06-21
-
     - 「[ネタスクリプト](user_scripts/jokes)」ページ
         - [AI補助付きAtCoder](https://greasyfork.org/ja/scripts/539951-ai%E8%A3%9C%E5%8A%A9%E4%BB%98%E3%81%8Datcoder)
 
