@@ -4,13 +4,14 @@ title: Python
 
 ## レーティング2800〜(赤色、銅・銀・金王冠)
 
-- 調査中。
+|ユーザ名 (敬称略)|ブログ / Qiita|備考|
+|:--:|:--:|:--|
+|Kiri8128|[はてなブログ](https://kiri8128.hatenablog.com/)||
 
 ## レーティング2400〜2799(橙色)
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
-|Kiri8128|[はてなブログ](https://kiri8128.hatenablog.com/)||
 |toam|[はてなブログ](https://toriidao.hateblo.jp/)||
 |uta_ccc|[はてなブログ](https://utac.hateblo.jp/)||
 |yuusanlondon|[はてなブログ](https://yuusanlondon.hatenablog.com/)||
