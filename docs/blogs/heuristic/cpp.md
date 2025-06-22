@@ -95,6 +95,7 @@ title: C&#43;&#43;
 |shindannin|[はてなブログ](https://shindannin.hatenadiary.com/)||
 |shotoyoo|[Qiita](https://qiita.com/shotoyoo)||
 |starpentagon|[自作ブログ](https://starpentagon.net/analytics/category/%e7%ab%b6%e6%8a%80%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0/)||
+|tardigrade|[はてなブログ](https://tardigrade.hatenablog.com/)、[Qiita](https://qiita.com/TARDIGRADE)||
 |tatyam|[はてなブログ](https://tatyam.hatenablog.com/)、[Qiita](https://qiita.com/tatyam)||
 |theory_and_me|[はてなブログ](https://theory-and-me.hatenablog.com/)||
 |through|[Zenn](https://zenn.dev/through)||
