@@ -8,7 +8,7 @@ title: Change Log
 
 - [#10431](https://github.com/KATO-Hiro/AtCoderClans/pull/10431) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
 - [#10428](https://github.com/KATO-Hiro/AtCoderClans/pull/10428) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
-    - [TLEに悩み始めた人のための計算量](https://www.youtube.com/watch?v=IOsK87oW438ひxy
+    - [TLEに悩み始めた人のための計算量](https://www.youtube.com/watch?v=IOsK87oW438)
 
 ### 2025-06-21
 
