@@ -150,6 +150,11 @@
 
 === "記事"
 
+    2025-06-23
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年6月23日時点)](https://x.com/atcoder/status/1936979941201195264)
+
     2025-06-20
 
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
@@ -181,16 +186,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年6月16日時点)](https://x.com/atcoder/status/1934475776763871289)
-
-    2025-06-09
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年6月9日時点)](https://x.com/atcoder/status/1931906690863271960)
-
-    2025-06-09
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [MC Digital プログラミングコンテスト2025（AtCoder Heuristic Contest 048）参加記](https://kaede2020.hatenablog.com/entry/2025/06/09/202655)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
