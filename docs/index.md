@@ -116,20 +116,6 @@
       <img loading = "lazy" src="images/web_app/competitive_programming_hall_of_fame.png" alt="competitive programming hall of fame">
     </div>
 
-    2025-06-10
-
-    - 「[問題を解く](web_app/solve_problems)」ページ
-
-        <!-- markdown-link-check-disable -->
-
-        - [AtCoder Redirect](https://codepen.io/uchi8977/full/gbpGOzY)
-
-        <!-- markdown-link-check-enable -->
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/atcoder_redirect.png" alt="atcoder editorial problems">
-    </div>
-
 === "ユーザスクリプト"
 
     2025-06-21
@@ -219,6 +205,11 @@
 
 === "動画"
 
+    2025-06-24
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [ポテロング](https://www.youtube.com/@potato167/videos)
+
     2025-06-22
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
@@ -242,15 +233,6 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [Litms](https://atcoder.jp/users/Litms)さん - [【AtCoder】無事茶色になれたので、入茶までにやったことをまとめてみる！！](https://qiita.com/Litms/items/90276b42673bc890660f)
-
-=== "アーカイブス"
-
-    諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
-
-    2025-06-10
-
-    - 関連コンテストサイト
-        - AOJ-ICPC
 
 ## AtCoder公式グッズを購入する
 

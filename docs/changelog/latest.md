@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-06-24
+
+- [#10441](https://github.com/KATO-Hiro/AtCoderClans/pull/10441) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [ポテロング](https://www.youtube.com/@potato167/videos)
+
 ### 2025-06-23
 
 - [#10439](https://github.com/KATO-Hiro/AtCoderClans/pull/10439) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
