@@ -10,7 +10,7 @@ title: Change Log
     - [Reverse Mod](https://e6nlaq.vercel.app/mod)
 - [#10448](https://github.com/KATO-Hiro/AtCoderClans/pull/10448) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
     - [「ゆるふわ競技プログラミングオンサイト at FORCIA #8」を開催しました](https://www.forcia.com/blog/003203.html)
-- [#10446](https://github.com/KATO-Hiro/AtCoderClans/pull/10447) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+- [#10447](https://github.com/KATO-Hiro/AtCoderClans/pull/10447) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
     - [TLE解消法 その1 バケット](https://www.youtube.com/watch?v=66B0oJ51mtE)
 
 ### 2025-06-24
