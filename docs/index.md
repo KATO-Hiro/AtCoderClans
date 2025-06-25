@@ -98,6 +98,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2025-06-25
+
+    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
+        - [Reverse Mod](https://e6nlaq.vercel.app/mod)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/reverse_mod.png" alt="reverse mod">
+    </div>
+
     2025-06-15
 
     - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
@@ -105,15 +114,6 @@
 
     <div align="center">
       <img loading="lazy" src="images/web_app/generic_grid_editor.png" alt="generic grid editor">
-    </div>
-
-    2025-06-11
-
-    - 「[コンテストに関する統計情報](web_app/statistics)」ページ
-        - [Competitive Programming Hall Of Fame](https://cphof.org/)
-
-    <div align="center">
-      <img loading = "lazy" src="images/web_app/competitive_programming_hall_of_fame.png" alt="competitive programming hall of fame">
     </div>
 
 === "ユーザスクリプト"
@@ -135,6 +135,11 @@
     </div>
 
 === "記事"
+
+    2025-06-25
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [「ゆるふわ競技プログラミングオンサイト at FORCIA #8」を開催しました](https://www.forcia.com/blog/003203.html)
 
     2025-06-23
 
@@ -184,18 +189,6 @@
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
         - [tardigrade](https://atcoder.jp/users/tardigrade)さん - [はてなブログ](https://tardigrade.hatenablog.com/)、[Qiita](https://qiita.com/TARDIGRADE)
 
-    2025-06-11
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [dn6049949](https://atcoder.jp/users/dn6049949)さん - [Qiita](https://qiita.com/dn6049949)
-        - [BinomialSheep](https://atcoder.jp/users/BinomialSheep)さん - [Qiita](https://qiita.com/BinomialSheep/items/e7a717f34e6991affa1c)
-
-    - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
-        - [isee](https://atcoder.jp/users/isee)さん - [Qiita](https://qiita.com/isee)
-
-    - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
-        - [tipstar0125](https://atcoder.jp/users/tipstar0125)さん - [Zenn](https://zenn.dev/tipstar0125)
-
 === "書籍"
 
     2025-06-14
@@ -204,6 +197,11 @@
         - [ヒューリスティック探索 合理的なAIをつくるためのアルゴリズム](https://www.amazon.co.jp/dp/4065392187)
 
 === "動画"
+
+    2025-06-25
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [TLE解消法 その1 バケット](https://www.youtube.com/watch?v=66B0oJ51mtE)
 
     2025-06-24
 
