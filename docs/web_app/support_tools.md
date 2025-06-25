@@ -75,6 +75,14 @@ title: 問題を解くときの補助ツール
       <img loading="lazy" src="../../images/web_app/generic_grid_editor.png" alt="generic grid editor">
     </div>
 
+## 有理数 mod から復元
+
+- [Reverse Mod](https://e6nlaq.vercel.app/mod) - 剰余演算で変換された有理数を元の分数形式に戻せる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/reverse_mod.png" alt="reverse mod">
+    </div>
+
 ## 関連記事を検索
 
 - [検索エンジン集](https://magurofly.github.io/tools/search) - 競技プログラミングに関する記事を検索できる。
