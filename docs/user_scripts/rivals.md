@@ -58,14 +58,6 @@ title: ライバルを探す・競う
       <img loading = "lazy" src="../../images/userscript/atcoder_standings_excluding_unrated_user.png" alt="atcoder standings excluding unrated user">
     </div>
 
-### 成績を見る
-
-- [AtCoder Fav Rating](https://greasyfork.org/ja/scripts/406745-atcoder-fav-rating) - 「アカウント」ページにお気に入りの順位・レーティング(現在・最高)・参加回数を一覧で表示するボタンを設置する。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcoder_fav_rating.png" alt="atcoder fav rating">
-    </div>
-
 ### レーティング帯の変化を通知
 
 - [AtcoderColorNEWS](https://greasyfork.org/ja/scripts/387896-atcodercolornews) - お気に入りに登録した人の色の変化を通知する。
@@ -76,9 +68,9 @@ title: ライバルを探す・競う
 
 ## コンテスト後の情報収集・発信
 
-### 順位表にTwitter IDを表示
+### 順位表に X (旧 Twitter) IDを表示
 
-- [AtCoder Contest Standings with Twitter ID](https://greasyfork.org/ja/scripts/446375-atcoder-contest-standings-with-twitter-id) - 「順位表」と「バーチャル順位表」ページに、Twitter IDを表示する。
+- [AtCoder Contest Standings with Twitter ID](https://greasyfork.org/ja/scripts/446375-atcoder-contest-standings-with-twitter-id) - 「順位表」と「バーチャル順位表」ページに、X (旧 Twitter) IDを表示する。
 
   <div align="center">
     <img loading = "lazy" src="../../images/userscript/atcoder_contest_standings_with_twitter_id.png" alt="atcoder contest standings with twitter id">
@@ -86,7 +78,7 @@ title: ライバルを探す・競う
 
 ### 成績をSNSで共有
 
-- [AtCoderCustomResultSheetShare](https://greasyfork.org/ja/scripts/454451-atcodercustomresultsheetshare) - コンテストの成績をTwitterで共有するときに、ツイートする内容をカスタマイズできる。
+- [AtCoderCustomResultSheetShare](https://greasyfork.org/ja/scripts/454451-atcodercustomresultsheetshare) - コンテストの成績をX (旧 Twitter)で共有するときに、ツイートする内容をカスタマイズできる。
 
 - [Misskey share button for AtCoder](https://greasyfork.org/ja/scripts/470028-misskey-share-button-for-atcoder) - ユーザページの「コンテスト成績証」に、Misskeyで共有するためのボタンを追加する。
 
