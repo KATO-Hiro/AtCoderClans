@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-06-26
+
+- [#10457](https://github.com/KATO-Hiro/AtCoderClans/pull/10457) - (破壊的な変更) 作者により利用が非推奨とされたユーザスクリプトを「[Archives](../../archived)」ページに移動。
+- [#10455](https://github.com/KATO-Hiro/AtCoderClans/pull/10455) - [ルク@TellPro](https://x.com/pg_rurukun)さんのご紹介で、「[Scripts](../../scripts)」の「[ライバルを探す・競う](../../user_scripts/rivals)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder-Favorite-Person-Colors](https://greasyfork.org/ja/scripts/539986-atcoder-favorite-person-colors)
+
 ### 2025-06-25
 
 - [#10449](https://github.com/KATO-Hiro/AtCoderClans/pull/10449) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページに、以下のWebアプリを追加。
