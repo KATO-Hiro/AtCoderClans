@@ -38,6 +38,12 @@ title: ライバルを探す・競う
       <img loading = "lazy" src="../../images/userscript/ac_favorite_manager.png" alt="ac favorite manager">
     </div>
 
+- [AtCoder-Favorite-Person-Colors](https://greasyfork.org/ja/scripts/539986-atcoder-favorite-person-colors) - プロフィールの「お気に入り管理」で、各ユーザ名をレーティングに対応した色で塗る。また、レーティングの降順に並び替えられるボタンを追加する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_favorite_person_colors.png" alt="atcoder favorite person colors">
+    </div>
+
 ### コンテストの不参加者を非表示に
 
 - [AtCoder Non-Participant Hider](https://greasyfork.org/ja/scripts/470676-atcoder-non-participant-hider) - 「順位表」ページで、コンテストの不参加者（お気に入りのみ）を非表示にできるフィルタを追加する。
