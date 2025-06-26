@@ -68,7 +68,7 @@ title: ライバルを探す・競う
 
 ## コンテスト後の情報収集・発信
 
-### 順位表にTwitter IDを表示
+### 順位表に X (旧 Twitter) IDを表示
 
 - [AtCoder Contest Standings with Twitter ID](https://greasyfork.org/ja/scripts/446375-atcoder-contest-standings-with-twitter-id) - 「順位表」と「バーチャル順位表」ページに、X (旧 Twitter) IDを表示する。
 
