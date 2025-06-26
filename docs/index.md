@@ -118,6 +118,15 @@
 
 === "ユーザスクリプト"
 
+    2025-06-26
+
+    - 「[ライバルを探す・競う](user_scripts/rivals)」ページ
+        - [AtCoder-Favorite-Person-Colors](https://greasyfork.org/ja/scripts/539986-atcoder-favorite-person-colors)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_favorite_person_colors.png" alt="atcoder favorite person colors">
+    </div>
+
     2025-06-21
 
     - 「[ネタスクリプト](user_scripts/jokes)」ページ
@@ -218,11 +227,6 @@
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [ぶるけんプログラミング道場](https://www.youtube.com/@%E3%81%B6%E3%82%8B%E3%81%91%E3%82%93%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E9%81%93%E5%A0%B4)
 
-    2025-06-12
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [【音MAD】イワイイ（岩井星人×フォニイ）【競技プログラミング】](https://www.youtube.com/watch?v=zEbVkrb7FuM)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
@@ -231,6 +235,14 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [Litms](https://atcoder.jp/users/Litms)さん - [【AtCoder】無事茶色になれたので、入茶までにやったことをまとめてみる！！](https://qiita.com/Litms/items/90276b42673bc890660f)
+
+=== "アーカイブス"
+
+    諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2025-06-26
+
+    - AtCoder Fav Rating
 
 ## AtCoder公式グッズを購入する
 
