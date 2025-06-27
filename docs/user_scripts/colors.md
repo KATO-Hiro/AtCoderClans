@@ -177,6 +177,12 @@ Webページの背景色の変更や文字・提出コード・問題の正誤�
 
 #### AtCoder Problems
 
+- [AtCoder Problems Pie Chart 正常判定](https://greasyfork.org/ja/scripts/539930-atcoder-problems-pie-chart-%E6%AD%A3%E5%B8%B8%E5%88%A4%E5%AE%9A) - 「AtCoder Pie Charts」「Difficulty Pies」「Category Pies」に、すべての問題を解き終えたかどうかを示すアイコンを表示する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_problems_pie_chart_is_filled.png" alt="atcoder problems pie chart">
+    </div>
+
 - [Virtual Contest Result Highlighter](https://greasyfork.org/ja/scripts/500190-virtual-contest-result-highlighter) - AtCoder Problemsにおけるバーチャルコンテストの問題一覧と順位表に対して、提出結果に応じた色付けをする。
 
     <div align="center">
