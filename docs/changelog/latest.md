@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-06-27
+
+- [#10460](https://github.com/KATO-Hiro/AtCoderClans/pull/10460) - 「[Scripts](../../scripts)」の「[Webページに色付けする](../../user_scripts/colors)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Problems Pie Chart 正常判定](https://greasyfork.org/ja/scripts/539930-atcoder-problems-pie-chart-%E6%AD%A3%E5%B8%B8%E5%88%A4%E5%AE%9A)
+
 ### 2025-06-26
 
 - [#10457](https://github.com/KATO-Hiro/AtCoderClans/pull/10457) - (破壊的な変更) 作者により利用が非推奨とされたユーザスクリプトを「[Archives](../../archived)」ページに移動。
