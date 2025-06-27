@@ -118,6 +118,15 @@
 
 === "ユーザスクリプト"
 
+    2025-06-27
+
+    - 「[Webページに色付けする](user_scripts/colors)」ページ
+        - [AtCoder Problems Pie Chart 正常判定](https://greasyfork.org/ja/scripts/539930-atcoder-problems-pie-chart-%E6%AD%A3%E5%B8%B8%E5%88%A4%E5%AE%9A)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_problems_pie_chart_is_filled.png" alt="atcoder problems pie chart">
+    </div>
+
     2025-06-26
 
     - 「[ライバルを探す・競う](user_scripts/rivals)」ページ
@@ -221,11 +230,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [TLEに悩み始めた人のための計算量](https://www.youtube.com/watch?v=IOsK87oW438)
-
-    2025-06-13
-
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [ぶるけんプログラミング道場](https://www.youtube.com/@%E3%81%B6%E3%82%8B%E3%81%91%E3%82%93%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E9%81%93%E5%A0%B4)
 
 === "色変記事"
 
