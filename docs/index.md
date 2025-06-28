@@ -98,6 +98,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2025-06-28
+
+    - 「[コンテストに関する統計情報](web_app/statistics)」ページ
+        - [AtCoder Users Viewer](https://beta.kyo-pro.club/apps/users)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/atcoder_users_viewer.png" alt="atcoder users viewer">
+    </div>
+
     2025-06-25
 
     - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
@@ -206,13 +215,6 @@
 
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
         - [tardigrade](https://atcoder.jp/users/tardigrade)さん - [はてなブログ](https://tardigrade.hatenablog.com/)、[Qiita](https://qiita.com/TARDIGRADE)
-
-=== "書籍"
-
-    2025-06-14
-
-    - 「[書籍](books)」ページ
-        - [ヒューリスティック探索 合理的なAIをつくるためのアルゴリズム](https://www.amazon.co.jp/dp/4065392187)
 
 === "動画"
 
