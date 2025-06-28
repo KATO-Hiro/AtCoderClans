@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-06-28
+
+- [#10463](https://github.com/KATO-Hiro/AtCoderClans/pull/10463) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページに、以下のWebサイトを追加。
+    - [AtCoder Users Viewer](https://beta.kyo-pro.club/apps/users)
+
 ### 2025-06-27
 
 - [#10460](https://github.com/KATO-Hiro/AtCoderClans/pull/10460) - 「[Scripts](../../scripts)」の「[Webページに色付けする](../../user_scripts/colors)」ページに、以下のユーザスクリプトを追加。
