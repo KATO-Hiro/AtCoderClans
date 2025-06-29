@@ -38,10 +38,11 @@ title: 個別の動画
 ### 数学・パズルに関する問題
 
 - [100サイズの箱は80サイズの箱に入るか？【ゆっくり解説】](https://www.youtube.com/watch?v=8wT7V-Pw6_w) - 直方体の縦・横・高さの合計でサイズを計る場合に、大きい箱が小さい箱に入るかどうかを示している。
-    - [毒チョコゲームの必勝法【ゆっくり解説】](https://www.youtube.com/watch?v=agRtx_XREtA) - Chompと呼ばれるゲームの必勝法の有無と、その方法が証明されている。
+    - [赤の面積は青の面積の何倍くらい？【ゆっくり解説】](https://www.youtube.com/watch?v=z2LL4vNZKic) - 題意を満たす比率、および、青色の面積の期待値を求める方法が解説されている。
 
     ??? info "関連動画の一覧"
 
+        - [毒チョコゲームの必勝法【ゆっくり解説】](https://www.youtube.com/watch?v=agRtx_XREtA) - Chompと呼ばれるゲームの必勝法の有無と、その方法が証明されている。
         - [1分で国際数学オリンピックの1問目【ゆっくり解説】](https://www.youtube.com/watch?v=p_ETbKjVcyY) - 国際数学オリンピックで出題された問題の解法を1分で説明している。
         - [a!b! = a! + b! + c!【ゆっくり解説】](https://www.youtube.com/watch?v=9Yw0ekDSBgE) - 題意を満たす正整数a, b, cの組をすべて求めるとともに、その正当性を証明している。
         - [1/√xを計算する変態コード【ゆっくり解説】](https://www.youtube.com/watch?v=n2Q1Sp7iew4) - ゲームを題材に、光の入射角・反射角の計算が手動で最適化されたコードを解説している。
