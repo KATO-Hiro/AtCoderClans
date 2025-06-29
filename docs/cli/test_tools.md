@@ -24,7 +24,7 @@ title: ソースコードにバグがないか確認
 ### アルゴリズム部門
 
 - [Tatamo/atcoder-cli](https://github.com/Tatamo/atcoder-cli) ![GitHub stars](https://img.shields.io/github/stars/Tatamo/atcoder-cli?style=plastic) - AtCoderでの利用に特化しているのが特徴。一部の機能は、後述の[Online Judge Tools](https://github.com/online-judge-tools/oj)に依存しており、導入が必要。日本語・英語ともにドキュメントが充実している。
-- [AtCoderStudyBooster](https://github.com/yuta6/AtCoderStudyBooster) - ![GitHub stars](https://img.shields.io/github/stars/yuta6/AtCoderStudyBooster?style=plastic) - 問題文・入出力例のダウンロード、ログイン、ローカルテスト、コード提出などをコマンドで実行できる。
+- [AtCoderStudyBooster](https://github.com/yuta6/AtCoderStudyBooster) ![GitHub stars](https://img.shields.io/github/stars/yuta6/AtCoderStudyBooster?style=plastic) - 問題文・入出力例のダウンロード、ログイン、ローカルテスト、コード提出などをコマンドで実行できる。
 - [AtCoder Tools](https://github.com/kyuridenamida/atcoder-tools) ![GitHub stars](https://img.shields.io/github/stars/kyuridenamida/atcoder-tools?style=plastic) - サンプルケースのダウンロードが便利になる。ログイン、サンプルのローカルテスト、コード提出、テンプレートからのコード自動生成機能などを備えている。
 
     <div align="center">
