@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-06-29
+
+- [#10473](https://github.com/KATO-Hiro/AtCoderClans/pull/10473) - 「[Libraries and Snippets](../../libraries)」の「[Python](../../libraries/python)」ページに、Pythonで実装されたライブラリを追加。
+    - [kangping-git/AtCoder-Module](https://github.com/kangping-git/AtCoder-Module) ![GitHub Repo stars](https://img.shields.io/github/stars/kangping-git/AtCoder-Module?style=plastic)
+- [#10471](https://github.com/KATO-Hiro/AtCoderClans/pull/10471) - 「[Command Line Tools](../../cli)」の「[ソースコードにバグがないか確認](../../cli/test_tools)」ページに、テストツールを追加。
+    - [AtCoderStudyBooster](https://github.com/yuta6/AtCoderStudyBooster) ![GitHub stars](https://img.shields.io/github/stars/yuta6/AtCoderStudyBooster?style=plastic)
+- [#10470](https://github.com/KATO-Hiro/AtCoderClans/pull/10470) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [赤の面積は青の面積の何倍くらい？【ゆっくり解説】](https://www.youtube.com/watch?v=z2LL4vNZKic)
+
 ### 2025-06-28
 
 - [#10463](https://github.com/KATO-Hiro/AtCoderClans/pull/10463) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページに、以下のWebサイトを追加。

@@ -116,15 +116,6 @@
       <img loading="lazy" src="images/web_app/reverse_mod.png" alt="reverse mod">
     </div>
 
-    2025-06-15
-
-    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
-        - [Generic Grid Editor](https://snuke.main.jp/gge/)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/generic_grid_editor.png" alt="generic grid editor">
-    </div>
-
 === "ユーザスクリプト"
 
     2025-06-27
@@ -218,6 +209,11 @@
 
 === "動画"
 
+    2025-06-29
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [赤の面積は青の面積の何倍くらい？【ゆっくり解説】](https://www.youtube.com/watch?v=z2LL4vNZKic)
+
     2025-06-25
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
@@ -232,6 +228,20 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [TLEに悩み始めた人のための計算量](https://www.youtube.com/watch?v=IOsK87oW438)
+
+=== "コマンドラインツール"
+
+    2025-06-29
+
+    - 「[ソースコードにバグがないか確認](cli/test_tools)」ページ
+        - [AtCoderStudyBooster](https://github.com/yuta6/AtCoderStudyBooster) ![GitHub stars](https://img.shields.io/github/stars/yuta6/AtCoderStudyBooster?style=plastic)
+
+=== "ライブラリ・スニペット"
+
+    2025-06-29
+
+    - 「[Python](libraries/python)」ページ
+        - [kangping-git/AtCoder-Module](https://github.com/kangping-git/AtCoder-Module) ![GitHub Repo stars](https://img.shields.io/github/stars/kangping-git/AtCoder-Module?style=plastic)
 
 === "色変記事"
 
