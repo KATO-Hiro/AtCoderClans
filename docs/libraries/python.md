@@ -7,6 +7,7 @@ title: Python
 - [customaddone/beginPython](https://github.com/customaddone/beginPython) ![GitHub Repo stars](https://img.shields.io/github/stars/customaddone/beginPython?style=plastic) - [customaddone](https://github.com/customaddone)さんのライブラリ。
 - [horiso0921/Mylib](https://github.com/horiso0921/Mylib) ![GitHub stars](https://img.shields.io/github/stars/horiso0921/Mylib?style=plastic) - [horiso0921](https://atcoder.jp/users/horiso0921)さんのライブラリ。
 - [iehn/lib](https://github.com/iehn/lib) ![GitHub stars](https://img.shields.io/github/stars/iehn/lib?style=plastic) - [iehn](https://atcoder.jp/users/iehn)さんのライブラリ。
+- [kangping-git/AtCoder-Module](https://github.com/kangping-git/AtCoder-Module) ![GitHub Repo stars](https://img.shields.io/github/stars/kangping-git/AtCoder-Module?style=plastic) - [kangping](https://atcoder.jp/users/kangping)さんのライブラリ。
 - [kerroggu/AtCoderLibrary](https://github.com/kerroggu/AtCoderLibrary) ![GitHub stars](https://img.shields.io/github/stars/kerroggu/AtCoderLibrary?style=plastic) - Pythonで実装されたアルゴリズムのライブラリ。
 - [kuuso/comp_pro_python](https://github.com/kuuso/comp_pro_python) ![GitHub stars](https://img.shields.io/github/stars/kuuso/comp_pro_python?style=plastic) - [kuuso](https://atcoder.jp/users/kuuso)さんのライブラリ。[C#版](https://github.com/kuuso/comp_pro_csharp)もある。
 - [Lgeu/snippet](https://github.com/Lgeu/snippet) ![GitHub Repo stars](https://img.shields.io/github/stars/Lgeu/snippet?style=plastic) - [Lgeu](https://twitter.com/lgeuwce)さんのスニペット集。
