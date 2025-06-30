@@ -10,7 +10,6 @@ title: レーティング1200〜1599(水色)
 - [AtCoder水色になりました](https://qiita.com/what_a_mess/items/84959019bd18d7c5ed59) - [what_a_mess](https://atcoder.jp/users/what_a_mess)さんが、2025年4月5日に達成。
 - [ABC399でAlgorithm入水したぞ！](https://note.com/yoniha428/n/n6203f6d35764) - [yoniha](https://atcoder.jp/users/yoniha)さんが、2025年3月29日に達成。
 - [AtCoder で水色になった](https://publish.obsidian.md/naoya/articles/AtCoder+%E3%81%A7%E6%B0%B4%E8%89%B2%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F) - [oceajigger](https://atcoder.jp/users/oceajigger)さんが、2025年3月4日に公開。
-- [半年ぶりの色変なので色変記事](https://note.com/asian202388/n/nabc6648788af) - [juten](https://atcoder.jp/users/juten)さんが、2025年2月8日に達成。
 
 ## 2024年
 

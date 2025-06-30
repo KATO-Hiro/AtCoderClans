@@ -370,6 +370,9 @@ title: リンク切れ
 
 ### レーティング1200〜1599(水色)
 
+- [半年ぶりの色変なので色変記事](https://note.com/asian202388/n/nabc6648788af) - [juten](https://atcoder.jp/users/juten)さんが、2025年2月8日に達成。
+    - 確認した日: 2025/06/30
+
 - [数学が苦手な大学生の AtCoder 入水記事](https://note.com/yindolsa/n/n61b2b4f17e78) - [ZUkA_](https://atcoder.jp/users/ZUkA_)さんが、2024年9月14日に達成。
     - 確認した日: 2025/06/19
 
