@@ -2,6 +2,15 @@
 title: レーティング2800〜(赤色、銅・銀・金王冠)
 ---
 
+!!! warning "注意"
+    サブカテゴリに部門名(アルゴリズム・ヒューリスティック)が明記されていない場合は、すべてアルゴリズム部門の記事です。
+
+## 2025年
+
+### ヒューリスティック部門
+
+- [焼きなまし法が書けなくても AHC 赤になれたよ - Kiri8128の日記](https://kiri8128.hatenablog.com/entry/2025/06/29/163454) - [Kiri8128](https://atcoder.jp/users/kiri8128?contestType=heuristic)さんが、2025年6月21日に達成。
+
 ## 2024年
 
 - [AtCoder で rating が 3200 に到達しました - noshi91のメモ](https://noshi91.hatenablog.com/entry/2024/12/18/171613) - [noshi91](https://atcoder.jp/users/noshi91)さんが、2024年12月18日に公開。
