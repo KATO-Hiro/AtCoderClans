@@ -88,14 +88,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "入門者・初心者向けの内容"
-
-    2025-06-16
-
-    - 「[Q3: コンテストは、いつ開催されていますか?](for_beginners/question3)」ページ
-        - [AHCにおける生成AIルールの策定について](https://atcoder.jp/posts/1494)
-        - [AtCoder Heuristic Contest 生成AI利用ルール - 20250616版](https://info.atcoder.jp/entry/ahc-llm-rules-ja)
-
 === "Webアプリ・Webサイト"
 
     2025-06-28
@@ -185,17 +177,6 @@
         - [【AtCoder】acc、ojでログインできなくなった時の対処法](https://kaiyou9.com/acc_and_oj_login_failed/)
         - [[AtCoder] 死んだ自動ログインを復活させよう](https://trap.jp/post/2591/)
 
-    2025-06-16
-
-    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
-        - [AHCにおける生成AIルールの策定について](https://atcoder.jp/posts/1494)
-        - [AtCoder Heuristic Contest 生成AI利用ルール - 20250616版](https://info.atcoder.jp/entry/ahc-llm-rules-ja)
-
-    2025-06-16
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年6月16日時点)](https://x.com/atcoder/status/1934475776763871289)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -246,6 +227,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-06-30
+
+    - 「[レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
+        - [Kiri8128](https://atcoder.jp/users/kiri8128?contestType=heuristic)さん - [焼きなまし法が書けなくても AHC 赤になれたよ - Kiri8128の日記](https://kiri8128.hatenablog.com/entry/2025/06/29/163454)
 
     2025-06-17
 

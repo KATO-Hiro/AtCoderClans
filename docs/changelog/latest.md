@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-06-30
+
+- [#10478](https://github.com/KATO-Hiro/AtCoderClans/pull/10478) - 「[Milestones](../../milestones/red)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2800以上(赤色、銅王冠、銀王冠、金王冠)に[Kiri8128](https://atcoder.jp/users/kiri8128?contestType=heuristic)さんの[記事](https://kiri8128.hatenablog.com/entry/2025/06/29/163454)を追加。
+
 ### 2025-06-29
 
 - [#10473](https://github.com/KATO-Hiro/AtCoderClans/pull/10473) - 「[Libraries and Snippets](../../libraries)」の「[Python](../../libraries/python)」ページに、Pythonで実装されたライブラリを追加。
