@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-07-01
+
+- [#10486](https://github.com/KATO-Hiro/AtCoderClans/pull/10486) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [3つの2でどんな整数も表せるか？【ゆっくり解説】](https://www.youtube.com/watch?v=QW1wHdg3ji0)
+- [#10484](https://github.com/KATO-Hiro/AtCoderClans/pull/10484) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の備忘録を追加。
+    - [ヒューリスティックコンテストのテクニック集](https://harsh-den-aaf.notion.site/9352f361c46a4514875e9c99f0a0718f)
+
 ### 2025-06-30
 
 - [#10478](https://github.com/KATO-Hiro/AtCoderClans/pull/10478) - 「[Milestones](../../milestones/red)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

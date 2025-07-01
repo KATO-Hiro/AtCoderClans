@@ -146,6 +146,11 @@
 
 === "記事"
 
+    2025-07-01
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [ヒューリスティックコンテストのテクニック集](https://harsh-den-aaf.notion.site/9352f361c46a4514875e9c99f0a0718f)
+
     2025-06-25
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
@@ -190,6 +195,11 @@
 
 === "動画"
 
+    2025-07-01
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [3つの2でどんな整数も表せるか？【ゆっくり解説】](https://www.youtube.com/watch?v=QW1wHdg3ji0)
+
     2025-06-29
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
@@ -232,11 +242,6 @@
 
     - 「[レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
         - [Kiri8128](https://atcoder.jp/users/kiri8128?contestType=heuristic)さん - [焼きなまし法が書けなくても AHC 赤になれたよ - Kiri8128の日記](https://kiri8128.hatenablog.com/entry/2025/06/29/163454)
-
-    2025-06-17
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [Litms](https://atcoder.jp/users/Litms)さん - [【AtCoder】無事茶色になれたので、入茶までにやったことをまとめてみる！！](https://qiita.com/Litms/items/90276b42673bc890660f)
 
 === "アーカイブス"
 
