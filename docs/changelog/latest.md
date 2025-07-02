@@ -6,6 +6,8 @@ title: Change Log
 
 ### 2025-07-02
 
+- [#10499](https://github.com/KATO-Hiro/AtCoderClans/pull/10499) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
+    - [競技プログラミングと生成AIの今 2025/07/02版](https://chokudai.hatenablog.com/entry/2025/07/02/151841)
 - [#10495](https://github.com/KATO-Hiro/AtCoderClans/pull/10495) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページに、以下のWebサイトを追加。
     - [Sequence Recurrence Finder](https://maruoka842.github.io/functionFinder/)
 - [#10494](https://github.com/KATO-Hiro/AtCoderClans/pull/10494) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
