@@ -52,6 +52,7 @@ title: コンテストに向けた練習方法を知る
     - [ARCのDivision制に伴うルール変更について](https://atcoder.jp/posts/1368) - ARC の Division制の導入に伴うルールの変更点が紹介されている。
     - [AHCにおける生成AIルールの策定について](https://atcoder.jp/posts/1494) - AtCoder Heuristic Contest (通称 AHC) 049以降で適用される生成AI利用ルールのお知らせ ([詳細](https://info.atcoder.jp/entry/ahc-llm-rules-ja))。
 - [ARCのDivision制についての告知](https://atcoder.jp/posts/1364) - ARC189以降、AtCoder Regular Contest (通称 ARC) は難易度の異なる2種類のコンテストに分けられることが告知されている。
+- [AtCoder World Tour Finals 2025 に OpenAI がスポンサーとして参画](https://prtimes.jp/main/html/rd/p/000000059.000028415.html) - 同大会において OpenAI がスポンサー参画に至った背景に加えて、「人間 vs AI」のエキシビジョンマッチの開催とその目的にも言及されている。
 - [AtCoderで生成AIをフル活用！2025年の競技プログラミング術](https://qiita.com/toast-uz/items/98a4ff7fd63a061ef18d) - [AtCoder](https://atcoder.jp/)のルールを遵守しながら、生成AIを活用する方法（プログラミング言語の変換・難しい問題の解説・ライブラリ整備など）が紹介されている。
 - [生成AIはAtCoderBeginnerContestを実際に破壊しているのか](https://qiita.com/sirsoldano/items/cccb48c7201ed1de099f) - 生成AIの発展が、ABCにおける中級ユーザのレーティングの変化量に与える影響について、統計的な分析が行われている。
     - [生成AIはAtCoderBeginnerContestのインフレを加速させたか](https://qiita.com/sirsoldano/items/ad3d05e4a37759850445) - 上記の続編。AIがレーティングのインフレ幅に与えた影響が分析されている。
