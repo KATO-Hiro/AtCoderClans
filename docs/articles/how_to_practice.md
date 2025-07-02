@@ -56,8 +56,6 @@ title: コンテストに向けた練習方法を知る
 - [AtCoderで生成AIをフル活用！2025年の競技プログラミング術](https://qiita.com/toast-uz/items/98a4ff7fd63a061ef18d) - [AtCoder](https://atcoder.jp/)のルールを遵守しながら、生成AIを活用する方法（プログラミング言語の変換・難しい問題の解説・ライブラリ整備など）が紹介されている。
 - [生成AIはAtCoderBeginnerContestを実際に破壊しているのか](https://qiita.com/sirsoldano/items/cccb48c7201ed1de099f) - 生成AIの発展が、ABCにおける中級ユーザのレーティングの変化量に与える影響について、統計的な分析が行われている。
     - [生成AIはAtCoderBeginnerContestのインフレを加速させたか](https://qiita.com/sirsoldano/items/ad3d05e4a37759850445) - 上記の続編。AIがレーティングのインフレ幅に与えた影響が分析されている。
-- [競技プログラミングとChatGPTを含むAIについて](https://chokudai.hatenablog.com/entry/2022/12/07/161959) - [ChatGPT](https://openai.com/blog/chatgpt/)の公開に伴い、[AtCoder](https://atcoder.jp/)社長の[chokudai](https://twitter.com/chokudai)さんが個人的な見解を述べた記事。AIの実力、競技性や教育への影響、コンテストでの使用の是非などについて言及されている。
-- [大実験！ChatGPTは競プロの問題を解けるのか (2024年5月版)](https://e869120.hatenablog.com/entry/2024/05/15/100804) - 筆者がオリジナルの問題を作成し、GPT-4oの回答性能を実験・調査している。
 
 <!-- markdown-link-check-enable -->
 
