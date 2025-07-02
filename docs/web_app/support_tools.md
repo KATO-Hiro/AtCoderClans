@@ -83,6 +83,14 @@ title: 問題を解くときの補助ツール
       <img loading="lazy" src="../../images/web_app/reverse_mod.png" alt="reverse mod">
     </div>
 
+## 数列から母関数や数式を求める
+
+- [Sequence Recurrence Finder](https://maruoka842.github.io/functionFinder/) - 任意の数列から、その規則性を表す母関数や数式を導出できる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/sequence_recurrence_finder.png" alt="sequence recurrence finder">
+    </div>
+
 ## 関連記事を検索
 
 - [検索エンジン集](https://magurofly.github.io/tools/search) - 競技プログラミングに関する記事を検索できる。
