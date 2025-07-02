@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-07-02
+
+- [#10495](https://github.com/KATO-Hiro/AtCoderClans/pull/10495) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページに、以下のWebサイトを追加。
+    - [Sequence Recurrence Finder](https://maruoka842.github.io/functionFinder/)
+- [#10494](https://github.com/KATO-Hiro/AtCoderClans/pull/10494) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
+    - [AtCoder World Tour Finals 2025 に OpenAI がスポンサーとして参画](https://prtimes.jp/main/html/rd/p/000000059.000028415.html)
+- [#10493](https://github.com/KATO-Hiro/AtCoderClans/pull/10493) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
+    - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年6月30日時点)](https://x.com/atcoder/status/1939551635514208283)
+
 ### 2025-07-01
 
 - [#10486](https://github.com/KATO-Hiro/AtCoderClans/pull/10486) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。

@@ -90,6 +90,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2025-07-02
+
+    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
+        - [Sequence Recurrence Finder](https://maruoka842.github.io/functionFinder/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/sequence_recurrence_finder.png" alt="sequence recurrence finder">
+    </div>
+
     2025-06-28
 
     - 「[コンテストに関する統計情報](web_app/statistics)」ページ
@@ -146,6 +155,14 @@
 
 === "記事"
 
+    2025-07-02
+
+    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
+        - [AtCoder World Tour Finals 2025 に OpenAI がスポンサーとして参画](https://prtimes.jp/main/html/rd/p/000000059.000028415.html)
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年6月30日時点)](https://x.com/atcoder/status/1939551635514208283)
+
     2025-07-01
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -170,17 +187,6 @@
 
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
         - [PyPyでpopcountしたい！](https://qiita.com/kemuniku/items/7121870ad77c14a09fd9)
-
-    2025-06-18
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [カルマンフィルタを使ってマスターズ選手権2024決勝のA問題を解いてみた](https://zenn.dev/algoartis/articles/kalmanfilter_masters_2024)
-
-    2025-06-18
-
-    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
-        - [【AtCoder】acc、ojでログインできなくなった時の対処法](https://kaiyou9.com/acc_and_oj_login_failed/)
-        - [[AtCoder] 死んだ自動ログインを復活させよう](https://trap.jp/post/2591/)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
