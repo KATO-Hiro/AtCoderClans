@@ -184,11 +184,6 @@
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
         - [生成AIはAtCoderBeginnerContestのインフレを加速させたか](https://qiita.com/sirsoldano/items/ad3d05e4a37759850445)
 
-    2025-06-19
-
-    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
-        - [PyPyでpopcountしたい！](https://qiita.com/kemuniku/items/7121870ad77c14a09fd9)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -201,6 +196,11 @@
         - [tardigrade](https://atcoder.jp/users/tardigrade)さん - [はてなブログ](https://tardigrade.hatenablog.com/)、[Qiita](https://qiita.com/TARDIGRADE)
 
 === "動画"
+
+    2025-07-03
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [TLE解消法 その2 set](https://www.youtube.com/watch?v=YHvG_qAzLEQ)
 
     2025-07-01
 
