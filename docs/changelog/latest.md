@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-07-03
+
+- [#10506](https://github.com/KATO-Hiro/AtCoderClans/pull/10506) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [TLE解消法 その2 set](https://www.youtube.com/watch?v=YHvG_qAzLEQ)
+
 ### 2025-07-02
 
 - [#10499](https://github.com/KATO-Hiro/AtCoderClans/pull/10499) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
