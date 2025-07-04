@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-07-04
+
+- [#10509](https://github.com/KATO-Hiro/AtCoderClans/pull/10509) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [差分更新ビームサーチライブラリをテンプレートメタプログラミングでつくってみた](https://qiita.com/thun-c/items/a29c80f7ba54b271a6c7)
+
 ### 2025-07-03
 
 - [#10506](https://github.com/KATO-Hiro/AtCoderClans/pull/10506) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。

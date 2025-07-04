@@ -155,6 +155,11 @@
 
 === "記事"
 
+    2025-07-04
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [差分更新ビームサーチライブラリをテンプレートメタプログラミングでつくってみた](https://qiita.com/thun-c/items/a29c80f7ba54b271a6c7)
+
     2025-07-02
 
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
@@ -178,11 +183,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年6月23日時点)](https://x.com/atcoder/status/1936979941201195264)
-
-    2025-06-20
-
-    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
-        - [生成AIはAtCoderBeginnerContestのインフレを加速させたか](https://qiita.com/sirsoldano/items/ad3d05e4a37759850445)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
