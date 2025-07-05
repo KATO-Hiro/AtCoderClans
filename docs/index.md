@@ -137,22 +137,6 @@
       <img loading="lazy" src="images/userscript/atcoder_favorite_person_colors.png" alt="atcoder favorite person colors">
     </div>
 
-    2025-06-21
-
-    - 「[ネタスクリプト](user_scripts/jokes)」ページ
-        - [AC Super Ultra Many Very Happy Notification](https://greasyfork.org/ja/scripts/540026-ac-super-ultra-many-very-happy-notification)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/ac_super_ultra_many_very_happy_notification.png" alt="ac super ultra many very happy notification">
-    </div>
-
-    - 「[ネタスクリプト](user_scripts/jokes)」ページ
-        - [AI補助付きAtCoder](https://greasyfork.org/ja/scripts/539951-ai%E8%A3%9C%E5%8A%A9%E4%BB%98%E3%81%8Datcoder)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_with_ai_assistance.png" alt="atcoder with ai assistance">
-    </div>
-
 === "記事"
 
     2025-07-04
@@ -228,6 +212,15 @@
         - [TLEに悩み始めた人のための計算量](https://www.youtube.com/watch?v=IOsK87oW438)
 
 === "コマンドラインツール"
+
+    2025-07-05
+
+    - 「[ソースコードにバグがないか確認](cli/test_tools)」ページ
+        - [pahcer-studio](https://github.com/yunix-kyopro/pahcer-studio) ![GitHub Repo stars](https://img.shields.io/github/stars/yunix-kyopro/pahcer-studio?style=plastic)
+
+    <div align="center">
+      <img loading="lazy" src="images/cli/pahcer_studio.png" alt="pahcer studio">
+    </div>
 
     2025-06-29
 
