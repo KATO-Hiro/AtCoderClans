@@ -46,6 +46,11 @@ title: ソースコードにバグがないか確認
 ### ヒューリスティック部門
 
 - [pahcer](https://github.com/terry-u16/pahcer) ![GitHub Repo stars](https://img.shields.io/github/stars/terry-u16/pahcer?style=plastic) - ローカル環境でのテストの並列実行・実行結果の出力・相対スコアの表示・Optunaとの連携などができる。
+    - [pahcer-studio](https://github.com/yunix-kyopro/pahcer-studio) ![GitHub Repo stars](https://img.shields.io/github/stars/yunix-kyopro/pahcer-studio?style=plastic) - テスト実行と履歴管理に特化したデスクトップアプリ。過去のテスト結果との比較や分析機能もある。
+
+      <div align="center">
+        <img loading="lazy" src="../../images/cli/pahcer_studio.png" alt="pahcer studio">
+      </div>
 
 - [psytester](https://github.com/FakePsyho/psytester) ![GitHub Repo stars](https://img.shields.io/github/stars/FakePsyho/psytester?style=plastic) - マルチスレッドを利用したテストの実行、スコアボードの表示、ユーザ定義のメタデータによるグループ化・フィルタリング、メトリクスに基づいた検索などができる。
 
