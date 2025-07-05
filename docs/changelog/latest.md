@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-07-05
+
+- [#10512](https://github.com/KATO-Hiro/AtCoderClans/pull/10512) - 「[Command Line Tools](../../cli)」の「[ソースコードにバグがないか確認](../../cli/test_tools)」ページに、以下のデスクトップアプリを追加。
+    - [pahcer-studio](https://github.com/yunix-kyopro/pahcer-studio) ![GitHub Repo stars](https://img.shields.io/github/stars/yunix-kyopro/pahcer-studio?style=plastic)
+
 ### 2025-07-04
 
 - [#10509](https://github.com/KATO-Hiro/AtCoderClans/pull/10509) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
