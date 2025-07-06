@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-07-06
+
+- [#10518](https://github.com/KATO-Hiro/AtCoderClans/pull/10518) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [「相加平均≧相乗平均」を4分で3回証明してみた【ゆっくり解説】](https://www.youtube.com/watch?v=V1X2_OdG36Q)
+
 ### 2025-07-05
 
 - [#10512](https://github.com/KATO-Hiro/AtCoderClans/pull/10512) - 「[Command Line Tools](../../cli)」の「[ソースコードにバグがないか確認](../../cli/test_tools)」ページに、以下のデスクトップアプリを追加。

@@ -168,18 +168,12 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年6月23日時点)](https://x.com/atcoder/status/1936979941201195264)
 
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2025-06-22
-
-    - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
-        - [Kiri8128](https://atcoder.jp/users/Kiri8128)さん - [はてなブログ](https://kiri8128.hatenablog.com/)
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [tardigrade](https://atcoder.jp/users/tardigrade)さん - [はてなブログ](https://tardigrade.hatenablog.com/)、[Qiita](https://qiita.com/TARDIGRADE)
-
 === "動画"
+
+    2025-07-06
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [「相加平均≧相乗平均」を4分で3回証明してみた【ゆっくり解説】](https://www.youtube.com/watch?v=V1X2_OdG36Q)
 
     2025-07-03
 
@@ -205,11 +199,6 @@
 
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [ポテロング](https://www.youtube.com/@potato167/videos)
-
-    2025-06-22
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [TLEに悩み始めた人のための計算量](https://www.youtube.com/watch?v=IOsK87oW438)
 
 === "コマンドラインツール"
 
