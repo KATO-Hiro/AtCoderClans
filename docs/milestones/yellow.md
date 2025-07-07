@@ -9,6 +9,7 @@ title: レーティング2000〜2399(黄色)
 
 ### アルゴリズム部門
 
+- [入黄するまでに考えたこと - Iroha_3856の日記](https://iroha-3856.hatenablog.com/entry/2025/07/06/171457) - [Iroha_3856](https://atcoder.jp/users/Iroha_3856)さんが、2025年7月6日に公開。
 - [【色変記事】AtCoderアルゴレートで黄色になりました！](https://miiitomi.github.io/p/yellow/) - [miiitomi](https://atcoder.jp/users/miiitomi)さんが、2025年1月19日に公開。
 
 ### ヒューリスティック部門
