@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-07-07
+
+- [#10529](https://github.com/KATO-Hiro/AtCoderClans/pull/10529) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+- [#10525](https://github.com/KATO-Hiro/AtCoderClans/pull/10525) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[Iroha_3856](https://atcoder.jp/users/Iroha_3856)さんの[記事](https://iroha-3856.hatenablog.com/entry/2025/07/06/171457)を追加。
+- [#10524](https://github.com/KATO-Hiro/AtCoderClans/pull/10524) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [2つの卵と100階建てのビル【ゆっくり解説】](https://www.youtube.com/watch?v=kE3E2oUOYeQ)
+
 ### 2025-07-06
 
 - [#10518](https://github.com/KATO-Hiro/AtCoderClans/pull/10518) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
