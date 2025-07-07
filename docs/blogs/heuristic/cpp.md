@@ -43,6 +43,7 @@ title: C&#43;&#43;
 |iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
 |kotamanegi|[はてなブログ](https://kotamanegi.hatenablog.com/)||
 |kozima|[はてなブログ](https://lkozima.hatenablog.com/)||
+|milkcoffee|[はてなブログ](https://milkcoffee.hatenablog.jp/)||
 |niuez|[GitHub Pages](https://niuez.github.io/)||
 |noimi|[はてなブログ](https://noimi.hatenablog.com/)||
 |Nyaan|[はてなブログ](https://nyaan.hatenablog.com/)||
@@ -77,7 +78,6 @@ title: C&#43;&#43;
 |kusano|[はてなブログ](https://kusano-k.hatenablog.com/)、[Qiita](https://qiita.com/kusano_k)||
 |merom686|[はてなブログ](https://merom686.hatenablog.com/)||
 |miiitomi|[GitHub Pages](https://miiitomi.github.io/categories/%E7%AB%B6%E3%83%97%E3%83%AD/)||
-|milkcoffee|[はてなブログ](https://milkcoffee.hatenablog.jp/)||
 |m_buyoh|[はてなブログ](https://buyoh.hateblo.jp/)||
 |Nachia|[Qiita](https://qiita.com/Nachia)||
 |nok0|[はてなブログ](https://tsuchi.hateblo.jp/)||
