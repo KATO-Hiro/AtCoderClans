@@ -139,6 +139,11 @@
 
 === "記事"
 
+    2025-07-08
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年7月7日時点)](https://x.com/atcoder/status/1942054829217681758)
+
     2025-07-04
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -202,11 +207,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [TLE解消法 その1 バケット](https://www.youtube.com/watch?v=66B0oJ51mtE)
-
-    2025-06-24
-
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [ポテロング](https://www.youtube.com/@potato167/videos)
 
 === "コマンドラインツール"
 
