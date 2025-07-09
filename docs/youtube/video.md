@@ -6,7 +6,6 @@ title: 個別の動画
 
 - [AtCoderの始め方](https://www.youtube.com/watch?v=GlIbjsEttaY) - [AtCoder](https://atcoder.jp/)が公開しているチュートリアル。ユーザ登録やコンテストへの参加方法、コンテスト後の復習方法などが説明されている。
 - [AtCoder 布教 PV](https://www.youtube.com/watch?v=-z3bTeA_SEY&feature=youtu.be) - 有志による[AtCoder](https://atcoder.jp/)のプロモーションビデオ。特に、競技プログラミングを始めようと思っている人や周囲に布教したい人におすすめ。
-- [AtCoder 日本人 レーティング TOP10 2016-2019](https://www.youtube.com/watch?v=1oct64q2V5g) - アクティブユーザを対象とした日本人上位10人のレーティングの変遷を紹介している。[全世界版](https://www.youtube.com/watch?v=CsBASF9skxE)もある。
 - [競技プログラミングAtCoderに参加してみよう！初心者向け！AtCoderのはじめ方](https://www.youtube.com/watch?v=_pd3ndlaveU) - [AtCoder](https://atcoder.jp/)のアカウント登録、練習問題の解き方、コンテストの参加方法などが紹介されている。
 - [AtCoderの始め方。競プロに興味はあるけどやっていないという方へ。](https://www.youtube.com/watch?v=vxBOC08XZ44&feature=youtu.be) - 教育系エンジニアによる[AtCoder](https://atcoder.jp/)の紹介動画。競技プログラミングの解説に加えて、便利なサイト・ツールが紹介されている。
 - [アルゴリズムの素晴らしさが2分でわかる動画](https://twitter.com/e869120/status/1512391454936936448) - 迷路を題材に、アルゴリズム(計算手順)の素晴らしさや学ぶ意義を紹介した動画。
@@ -72,6 +71,16 @@ title: 個別の動画
 
         - [関連記事](../../articles/for_writers) - 役割分担・作業工程などを把握
         - [補助ツール](../../cli/tools_for_writers) - 定型作業を自動化
+
+## ランキングの推移
+
+### AtCoderのレーティング
+
+- [AtCoder 日本人 レーティング TOP10 2016-2019](https://www.youtube.com/watch?v=1oct64q2V5g) - アクティブユーザを対象とした日本人上位10人のレーティングの変遷を紹介している。[全世界版](https://www.youtube.com/watch?v=CsBASF9skxE)もある。
+
+### 国際大学対抗プログラミングコンテスト
+
+- [ICPC 2025 国内予選 Standing Race](https://www.youtube.com/watch?v=9GQFmE-7WoY) - 国際大学対抗プログラミングコンテスト ICPC 2025 国内予選において、上位約100チームの順位の推移を3分で振り返ることができる。
 
 ## 歌ってみた
 
