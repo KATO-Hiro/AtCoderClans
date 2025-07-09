@@ -6,8 +6,9 @@ title: Change Log
 
 ### 2025-07-09
 
-- [#10537](https://github.com/KATO-Hiro/AtCoderClans/pull/10537) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+- [#10543](https://github.com/KATO-Hiro/AtCoderClans/pull/10543) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
     - [ICPC 2025 国内予選 Standing Race](https://www.youtube.com/watch?v=9GQFmE-7WoY)
+    - [王将をかわりばんこに動かすゲーム【ゆっくり解説】](https://www.youtube.com/watch?v=3qtjG50cVzg)
 - [#10536](https://github.com/KATO-Hiro/AtCoderClans/pull/10536) - (破壊的な変更) 「[Web apps and sites](../../web_app)」の「[コンテストの成績に関連するサービス](../../web_app/services_using_scores)」ページで掲載しているWebアプリのURLの変更に追従。
     - [AtCoder Rating Simulator(仮)](https://beta.kyo-pro.club/apps/rating-simulator)
 
