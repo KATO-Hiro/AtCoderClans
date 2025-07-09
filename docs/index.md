@@ -90,6 +90,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2025-07-09
+
+    - 「[コンテストの成績に関連するサービス](web_app/services_using_scores)」ページ
+        - [AtCoder Rating Simulator(仮)](https://beta.kyo-pro.club/apps/rating-simulator)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/atcoder_rating_simulator2.png" alt="atcoder rating simulator">
+    </div>
+
     2025-07-02
 
     - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
@@ -106,15 +115,6 @@
 
     <div align="center">
       <img loading="lazy" src="images/web_app/atcoder_users_viewer.png" alt="atcoder users viewer">
-    </div>
-
-    2025-06-25
-
-    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
-        - [Reverse Mod](https://e6nlaq.vercel.app/mod)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/reverse_mod.png" alt="reverse mod">
     </div>
 
 === "ユーザスクリプト"
@@ -163,11 +163,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [ヒューリスティックコンテストのテクニック集](https://harsh-den-aaf.notion.site/9352f361c46a4514875e9c99f0a0718f)
 
-    2025-06-25
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-        - [「ゆるふわ競技プログラミングオンサイト at FORCIA #8」を開催しました](https://www.forcia.com/blog/003203.html)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -177,6 +172,11 @@
         - [milkcoffee](https://atcoder.jp/users/milkcoffee)さん - [はてなブログ](https://milkcoffee.hatenablog.jp/)
 
 === "動画"
+
+    2025-07-09
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [ICPC 2025 国内予選 Standing Race](https://www.youtube.com/watch?v=9GQFmE-7WoY)
 
     2025-07-07
 
@@ -202,11 +202,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [赤の面積は青の面積の何倍くらい？【ゆっくり解説】](https://www.youtube.com/watch?v=z2LL4vNZKic)
-
-    2025-06-25
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [TLE解消法 その1 バケット](https://www.youtube.com/watch?v=66B0oJ51mtE)
 
 === "コマンドラインツール"
 
