@@ -73,6 +73,12 @@ title: 個別の動画
         - [関連記事](../../articles/for_writers) - 役割分担・作業工程などを把握
         - [補助ツール](../../cli/tools_for_writers) - 定型作業を自動化
 
+## ランキングの推移
+
+### 国際大学対抗プログラミングコンテスト
+
+- [ICPC 2025 国内予選 Standing Race](https://www.youtube.com/watch?v=9GQFmE-7WoY) - 国際大学対抗プログラミングコンテスト ICPC 2025 国内予選において、上位約100チームの順位の推移を3分で振り返ることができる。
+
 ## 歌ってみた
 
 - [「だから慶応は学歴自慢じゃないっつーの」、4部合唱にして歌ってみました！](https://twitter.com/TumoiYorozu/status/1448666012639895562) - [chokudai](https://twitter.com/chokudai)さんの有名ツイートを4部合唱で歌っている。
