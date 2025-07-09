@@ -12,7 +12,7 @@ title: コンテストの成績に関連するサービス
 
 ### 目標レーティングに必要なパフォーマンス値を計算
 
-- [AtCoder Rating Simulator(仮)](https://atcoder-notify.com/rating_simulator/) - 目標とするレーティングに到達するまでに必要なパフォーマンスを表示する。任意の回数だけ同じパフォーマンスを取ったと仮定した場合についても計算できる。[本家](../archived/no_longer_available.md)のリンク切れに伴い、有志が新たに作成・公開した。
+- [AtCoder Rating Simulator(仮)](https://beta.kyo-pro.club/apps/rating-simulator) - 目標とするレーティングに到達するまでに必要なパフォーマンスを表示する。任意の回数だけ同じパフォーマンスを取ったと仮定した場合についても計算できる。[本家](../archived/no_longer_available.md)のリンク切れに伴い、有志が新たに作成・公開した。
 
     <div align="center">
       <img loading="lazy" src="../../images/web_app/atcoder_rating_simulator2.png" alt="atcoder rating simulator">

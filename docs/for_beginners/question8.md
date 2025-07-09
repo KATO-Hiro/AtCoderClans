@@ -10,7 +10,7 @@ title: "Q8: 脱初心者に向けて、次は何をすればいいですか?"
 
         紹介している記事は、2020年6月下旬に更新されているものの、特定のレーティング帯については到達するまでの要求水準がさらに上がっている可能性があります。
 
-- コンテストで目標とする成績(パフォーマンス値)を設定してみましょう。有志が公開している[Webサービス](https://atcoder-notify.com/rating_simulator/)を利用すると、簡単に計算できます。
+- コンテストで目標とする成績(パフォーマンス値)を設定してみましょう。有志が公開している[Webサービス](https://beta.kyo-pro.club/apps/rating-simulator)を利用すると、簡単に計算できます。
 
     <div align="center">
       <img loading="lazy" src="../../images/web_app/atcoder_rating_simulator2.png" alt="atcoder rating simulator">
