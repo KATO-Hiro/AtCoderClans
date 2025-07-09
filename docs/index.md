@@ -177,6 +177,7 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [ICPC 2025 国内予選 Standing Race](https://www.youtube.com/watch?v=9GQFmE-7WoY)
+        - [王将をかわりばんこに動かすゲーム【ゆっくり解説】](https://www.youtube.com/watch?v=3qtjG50cVzg)
 
     2025-07-07
 
