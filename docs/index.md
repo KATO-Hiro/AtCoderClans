@@ -128,16 +128,12 @@
       <img loading="lazy" src="images/userscript/atcoder_problems_pie_chart_is_filled.png" alt="atcoder problems pie chart">
     </div>
 
-    2025-06-26
-
-    - 「[ライバルを探す・競う](user_scripts/rivals)」ページ
-        - [AtCoder-Favorite-Person-Colors](https://greasyfork.org/ja/scripts/539986-atcoder-favorite-person-colors)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_favorite_person_colors.png" alt="atcoder favorite person colors">
-    </div>
-
 === "記事"
+
+    2025-07-10
+
+    - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
+        - [int の列が等比数列かの判定を long double で行うのは正当か？](https://rsk0315.hatenablog.com/entry/2025/07/06/175632)
 
     2025-07-08
 
@@ -240,14 +236,6 @@
 
     - 「[レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
         - [Kiri8128](https://atcoder.jp/users/kiri8128?contestType=heuristic)さん - [焼きなまし法が書けなくても AHC 赤になれたよ - Kiri8128の日記](https://kiri8128.hatenablog.com/entry/2025/06/29/163454)
-
-=== "アーカイブス"
-
-    諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
-
-    2025-06-26
-
-    - AtCoder Fav Rating
 
 ## AtCoder公式グッズを購入する
 

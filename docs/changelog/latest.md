@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-07-10
+
+- [#10547](https://github.com/KATO-Hiro/AtCoderClans/pull/10547) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - C++](../../articles/implementation/cpp)」ページに、以下の記事を追加。
+    - [int の列が等比数列かの判定を long double で行うのは正当か？](https://rsk0315.hatenablog.com/entry/2025/07/06/175632)
+
 ### 2025-07-09
 
 - [#10537](https://github.com/KATO-Hiro/AtCoderClans/pull/10537)、[#10543](https://github.com/KATO-Hiro/AtCoderClans/pull/10543) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
