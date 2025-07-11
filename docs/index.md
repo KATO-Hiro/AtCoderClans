@@ -117,17 +117,6 @@
       <img loading="lazy" src="images/web_app/atcoder_users_viewer.png" alt="atcoder users viewer">
     </div>
 
-=== "ユーザスクリプト"
-
-    2025-06-27
-
-    - 「[Webページに色付けする](user_scripts/colors)」ページ
-        - [AtCoder Problems Pie Chart 正常判定](https://greasyfork.org/ja/scripts/539930-atcoder-problems-pie-chart-%E6%AD%A3%E5%B8%B8%E5%88%A4%E5%AE%9A)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_problems_pie_chart_is_filled.png" alt="atcoder problems pie chart">
-    </div>
-
 === "記事"
 
     2025-07-10
