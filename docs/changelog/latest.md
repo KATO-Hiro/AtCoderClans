@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-07-11
+
+- [#10550](https://github.com/KATO-Hiro/AtCoderClans/pull/10550) - (破壊的な変更) 「[Change Log](../latest)」ページの2025年5月分を月別のアーカイブに移動。
+    - [May, 2025](../2025_05)
+
 ### 2025-07-10
 
 - [#10547](https://github.com/KATO-Hiro/AtCoderClans/pull/10547) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - C++](../../articles/implementation/cpp)」ページに、以下の記事を追加。
