@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-07-12
+
+
+- [#10556](https://github.com/KATO-Hiro/AtCoderClans/pull/10556) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [TLE解消法 その3 連想配列](https://www.youtube.com/watch?v=NL8rXIGpRCE)
+- [#10553](https://github.com/KATO-Hiro/AtCoderClans/pull/10533) - 「[Scripts](../../scripts)」の「[ネタスクリプト](../../user_scripts/jokes)」ページに、以下のユーザスクリプトを追加。
+    - [Toyota Mayuko AtCoder](https://greasyfork.org/ja/scripts/541725-toyota-mayuko-atcoder)
+
 ### 2025-07-11
 
 - [#10550](https://github.com/KATO-Hiro/AtCoderClans/pull/10550) - (破壊的な変更) 「[Change Log](../latest)」ページの2025年5月分を月別のアーカイブに移動。
