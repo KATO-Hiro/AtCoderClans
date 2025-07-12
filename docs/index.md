@@ -108,13 +108,15 @@
       <img loading="lazy" src="images/web_app/sequence_recurrence_finder.png" alt="sequence recurrence finder">
     </div>
 
-    2025-06-28
+=== "ユーザスクリプト"
 
-    - 「[コンテストに関する統計情報](web_app/statistics)」ページ
-        - [AtCoder Users Viewer](https://beta.kyo-pro.club/apps/users)
+    2025-07-12
+
+    - 「[ネタスクリプト](user_scripts/jokes)」ページ
+        - [Toyota Mayuko AtCoder](https://greasyfork.org/ja/scripts/541725-toyota-mayuko-atcoder)
 
     <div align="center">
-      <img loading="lazy" src="images/web_app/atcoder_users_viewer.png" alt="atcoder users viewer">
+      <img loading="lazy" src="images/userscript/toyota_mayuko_atcoder.png" alt="toyota mayuko atcoder">
     </div>
 
 === "記事"
@@ -157,6 +159,11 @@
         - [milkcoffee](https://atcoder.jp/users/milkcoffee)さん - [はてなブログ](https://milkcoffee.hatenablog.jp/)
 
 === "動画"
+
+    2025-07-12
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [TLE解消法 その3 連想配列](https://www.youtube.com/watch?v=NL8rXIGpRCE)
 
     2025-07-09
 
