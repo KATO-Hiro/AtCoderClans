@@ -160,6 +160,11 @@
 
 === "動画"
 
+    2025-07-13
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [simasima | 数学実況](https://www.youtube.com/@simasima2479)
+
     2025-07-12
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
@@ -191,11 +196,6 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [3つの2でどんな整数も表せるか？【ゆっくり解説】](https://www.youtube.com/watch?v=QW1wHdg3ji0)
 
-    2025-06-29
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [赤の面積は青の面積の何倍くらい？【ゆっくり解説】](https://www.youtube.com/watch?v=z2LL4vNZKic)
-
 === "コマンドラインツール"
 
     2025-07-05
@@ -206,18 +206,6 @@
     <div align="center">
       <img loading="lazy" src="images/cli/pahcer_studio.png" alt="pahcer studio">
     </div>
-
-    2025-06-29
-
-    - 「[ソースコードにバグがないか確認](cli/test_tools)」ページ
-        - [AtCoderStudyBooster](https://github.com/yuta6/AtCoderStudyBooster) ![GitHub stars](https://img.shields.io/github/stars/yuta6/AtCoderStudyBooster?style=plastic)
-
-=== "ライブラリ・スニペット"
-
-    2025-06-29
-
-    - 「[Python](libraries/python)」ページ
-        - [kangping-git/AtCoder-Module](https://github.com/kangping-git/AtCoder-Module) ![GitHub Repo stars](https://img.shields.io/github/stars/kangping-git/AtCoder-Module?style=plastic)
 
 === "色変記事"
 
