@@ -4,8 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
-### 2025-07-12
+### 2025-07-13
 
+- [#10562](https://github.com/KATO-Hiro/AtCoderClans/pull/10562) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [simasima | 数学実況](https://www.youtube.com/@simasima2479)
+
+### 2025-07-12
 
 - [#10556](https://github.com/KATO-Hiro/AtCoderClans/pull/10556) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
     - [TLE解消法 その3 連想配列](https://www.youtube.com/watch?v=NL8rXIGpRCE)
