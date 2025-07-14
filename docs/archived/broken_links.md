@@ -94,6 +94,15 @@ title: リンク切れ
       <img loading = "lazy" src="../../images/web_app/atcoder_rating_comparison.png" alt="atcoder rating comparison">
     </div>
 
+### 仮想的なレーティングを計算
+
+- [まよコン🌽 レーティング](https://mayocon.shinnshinn.dev/) - [mayocorn](https://atcoder.jp/users/mayocorn)さん主催のバーチャルコンテストの結果に基づいて、レーティングのランキング(月別)が集計されている。
+    - 確認した日: 2025/07/14
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/mayocon_rating.png" alt="mayocon rating">
+    </div>
+
 ### コンテスト・問題に関する統計情報
 
 - [AC heatmap](https://rika0384.github.io/ac-heatmap/?handle_atcoder=&handle_codeforces=&handle_aoj=&handle_yukicoder=) - 任意のユーザが[AtCoder](https://atcoder.jp/)、[Codeforces](https://codeforces.com/)、[AOJ (AIZU ONLINE JUDGE)](https://onlinejudge.u-aizu.ac.jp/home)、[yukicoder](https://yukicoder.me/)で解いた問題のうち、unique ACをヒートマップで表示する。
