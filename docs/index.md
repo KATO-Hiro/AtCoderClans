@@ -121,6 +121,11 @@
 
 === "記事"
 
+    2025-07-14
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年7月14日時点)](https://x.com/atcoder/status/1944613912512704984)
+
     2025-07-10
 
     - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
@@ -216,10 +221,13 @@
     - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
         - [Iroha_3856](https://atcoder.jp/users/Iroha_3856)さん - [入黄するまでに考えたこと - Iroha_3856の日記](https://iroha-3856.hatenablog.com/entry/2025/07/06/171457)
 
-    2025-06-30
+=== "アーカイブス"
 
-    - 「[レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
-        - [Kiri8128](https://atcoder.jp/users/kiri8128?contestType=heuristic)さん - [焼きなまし法が書けなくても AHC 赤になれたよ - Kiri8128の日記](https://kiri8128.hatenablog.com/entry/2025/06/29/163454)
+    諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2025-07-14
+
+    - まよコン🌽 レーティング
 
 ## AtCoder公式グッズを購入する
 
