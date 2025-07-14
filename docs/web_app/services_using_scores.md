@@ -65,12 +65,6 @@ title: コンテストの成績に関連するサービス
       <img loading = "lazy" src="../../images/web_app/rating_converter.png" alt="rating converter">
     </div>
 
-- [まよコン🌽 レーティング](https://mayocon.shinnshinn.dev/) - [mayocorn](https://atcoder.jp/users/mayocorn)さん主催のバーチャルコンテストの結果に基づいて、レーティングのランキング(月別)が集計されている。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/mayocon_rating.png" alt="mayocon rating">
-    </div>
-
 - [もすーんバチャ Rating Page](https://mosoon.net/mov_rating/top.html) - [MoSooN](https://atcoder.jp/users/MoSooN)さん主催のバーチャルコンテストの結果に基づいて、レーティングのランキングが集計されている。
 
     <div align="center">
