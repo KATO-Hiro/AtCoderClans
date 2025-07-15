@@ -150,11 +150,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年6月30日時点)](https://x.com/atcoder/status/1939551635514208283)
 
-    2025-07-01
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [ヒューリスティックコンテストのテクニック集](https://harsh-den-aaf.notion.site/9352f361c46a4514875e9c99f0a0718f)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -164,6 +159,11 @@
         - [milkcoffee](https://atcoder.jp/users/milkcoffee)さん - [はてなブログ](https://milkcoffee.hatenablog.jp/)
 
 === "動画"
+
+    2025-07-15
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [グーゴル+1は素数か？【ゆっくり解説】](https://www.youtube.com/watch?v=Gy72jItAM7A)
 
     2025-07-13
 
@@ -195,11 +195,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [TLE解消法 その2 set](https://www.youtube.com/watch?v=YHvG_qAzLEQ)
-
-    2025-07-01
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [3つの2でどんな整数も表せるか？【ゆっくり解説】](https://www.youtube.com/watch?v=QW1wHdg3ji0)
 
 === "コマンドラインツール"
 

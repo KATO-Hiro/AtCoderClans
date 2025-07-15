@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-07-15
+
+- [#10572](https://github.com/KATO-Hiro/AtCoderClans/pull/10572) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [グーゴル+1は素数か？【ゆっくり解説】](https://www.youtube.com/watch?v=Gy72jItAM7A)
+
 ### 2025-07-14
 
 - [#10570](https://github.com/KATO-Hiro/AtCoderClans/pull/10570) - (破壊的な変更) リンク切れと思われるWebサービスを「[Archives](../../archived)」ページに移動。
