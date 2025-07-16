@@ -90,6 +90,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2025-07-16
+
+    - 「[クイズ・ゲーム・ネタアプリ](web_app/quiz_and_game)」ページ
+        - [AtCoder AIルールクイズ](https://quiz-maker.site/quiz/play/tKKCCl20250430221107)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/atcoder_ai_rule_quiz.png" alt="atcoder ai rule quiz">
+    </div>
+
     2025-07-09
 
     - 「[コンテストの成績に関連するサービス](web_app/services_using_scores)」ページ
@@ -97,15 +106,6 @@
 
     <div align="center">
       <img loading="lazy" src="images/web_app/atcoder_rating_simulator2.png" alt="atcoder rating simulator">
-    </div>
-
-    2025-07-02
-
-    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
-        - [Sequence Recurrence Finder](https://maruoka842.github.io/functionFinder/)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/sequence_recurrence_finder.png" alt="sequence recurrence finder">
     </div>
 
 === "ユーザスクリプト"
@@ -140,15 +140,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [差分更新ビームサーチライブラリをテンプレートメタプログラミングでつくってみた](https://qiita.com/thun-c/items/a29c80f7ba54b271a6c7)
-
-    2025-07-02
-
-    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
-        - [競技プログラミングと生成AIの今 2025/07/02版](https://chokudai.hatenablog.com/entry/2025/07/02/151841)
-        - [AtCoder World Tour Finals 2025 に OpenAI がスポンサーとして参画](https://prtimes.jp/main/html/rd/p/000000059.000028415.html)
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年6月30日時点)](https://x.com/atcoder/status/1939551635514208283)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。

@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-07-16
+
+- [#10576](https://github.com/KATO-Hiro/AtCoderClans/pull/10576) - 「[Web apps and sites](../../web_app)」の「[クイズ・ゲーム・ネタアプリ](../../web_app/quiz_and_game)」ページに、以下のWebアプリを追加。
+    - [AtCoder AIルールクイズ](https://quiz-maker.site/quiz/play/tKKCCl20250430221107)
+
 ### 2025-07-15
 
 - [#10572](https://github.com/KATO-Hiro/AtCoderClans/pull/10572) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
