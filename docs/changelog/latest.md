@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-07-17
+
+- [#10581](https://github.com/KATO-Hiro/AtCoderClans/pull/10581) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ニコニコ動画](../../videos/niconico)」ぺージに、以下の動画を追加。
+    - [ICPC 2025 国内予選の暫定上位75チームと暫定予選通過ボーダーを振り返る動画【高画質&全画面推奨】](https://www.nicovideo.jp/watch/sm45189599)
+
 ### 2025-07-16
 
 - [#10576](https://github.com/KATO-Hiro/AtCoderClans/pull/10576) - 「[Web apps and sites](../../web_app)」の「[クイズ・ゲーム・ネタアプリ](../../web_app/quiz_and_game)」ページに、以下のWebアプリを追加。
