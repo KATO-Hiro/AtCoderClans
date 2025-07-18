@@ -121,6 +121,11 @@
 
 === "記事"
 
+    2025-07-18
+
+    - 「[実装テクニックを学ぶ - 複数の言語](articles/implementation/multiple_languages)」ページ
+        - [modint に夢を見ている輩が多すぎる](https://rsk0315.hatenablog.com/entry/2025/07/12/131257)
+
     2025-07-14
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -135,11 +140,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年7月7日時点)](https://x.com/atcoder/status/1942054829217681758)
-
-    2025-07-04
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [差分更新ビームサーチライブラリをテンプレートメタプログラミングでつくってみた](https://qiita.com/thun-c/items/a29c80f7ba54b271a6c7)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
