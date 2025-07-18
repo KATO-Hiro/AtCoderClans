@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-07-18
+
+- [#10584](https://github.com/KATO-Hiro/AtCoderClans/pull/10584) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - 複数の言語](../../articles/implementation/multiple_languages)」ページに、以下の記事を追加。
+    - [modint に夢を見ている輩が多すぎる](https://rsk0315.hatenablog.com/entry/2025/07/12/131257)
+
 ### 2025-07-17
 
 - [#10581](https://github.com/KATO-Hiro/AtCoderClans/pull/10581) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ニコニコ動画](../../videos/niconico)」ぺージに、以下の動画を追加。
