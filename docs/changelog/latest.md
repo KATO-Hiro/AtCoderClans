@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-07-19
+
+- [#10590](https://github.com/KATO-Hiro/AtCoderClans/pull/10590) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [【保護者向け】【非公式】プログラミングを始めたら、情報オリンピックに挑戦しよう！](https://www.youtube.com/watch?v=FIOvhlc8VPc)
+- [#10589](https://github.com/KATO-Hiro/AtCoderClans/pull/10589) -「[Home](../..)」ページと「[For Beginners](../../for_beginners)」の「[Q3: コンテストは、いつ開催されていますか?](../../for_beginners/question3)」ページと「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加および説明文を一部修正。
+    - [AtCoder生成AI対策ルール - 20250718版](https://info.atcoder.jp/entry/llm-rules-ja)
+    - [ARC Div.1 に関する生成AIルール変更について](https://atcoder.jp/posts/1513)
+
 ### 2025-07-18
 
 - [#10584](https://github.com/KATO-Hiro/AtCoderClans/pull/10584) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - 複数の言語](../../articles/implementation/multiple_languages)」ページに、以下の記事を追加。
