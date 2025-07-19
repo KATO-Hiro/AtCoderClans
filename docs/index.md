@@ -87,6 +87,21 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "ホーム"
+
+    2025-07-19
+
+    - [AtCoder生成AI対策ルール - 20250718版](https://info.atcoder.jp/entry/llm-rules-ja)
+    - [ARC Div.1 に関する生成AIルール変更について](https://atcoder.jp/posts/1513)
+
+=== "入門者・初心者向けの内容"
+
+    2025-07-19
+
+    - 「[Q3: コンテストは、いつ開催されていますか?](for_beginners/question3)」ページ
+        - [AtCoder生成AI対策ルール - 20250718版](https://info.atcoder.jp/entry/llm-rules-ja)
+        - [ARC Div.1 に関する生成AIルール変更について](https://atcoder.jp/posts/1513)
+
 === "Webアプリ・Webサイト"
 
     2025-07-16
@@ -120,6 +135,12 @@
 
 === "記事"
 
+    2025-07-19
+
+    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
+        - [AtCoder生成AI対策ルール - 20250718版](https://info.atcoder.jp/entry/llm-rules-ja)
+        - [ARC Div.1 に関する生成AIルール変更について](https://atcoder.jp/posts/1513)
+
     2025-07-18
 
     - 「[実装テクニックを学ぶ - 複数の言語](articles/implementation/multiple_languages)」ページ
@@ -149,6 +170,11 @@
         - [milkcoffee](https://atcoder.jp/users/milkcoffee)さん - [はてなブログ](https://milkcoffee.hatenablog.jp/)
 
 === "動画"
+
+    2025-07-19
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [【保護者向け】【非公式】プログラミングを始めたら、情報オリンピックに挑戦しよう！](https://www.youtube.com/watch?v=FIOvhlc8VPc)
 
     2025-07-17
 
@@ -185,17 +211,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [「相加平均≧相乗平均」を4分で3回証明してみた【ゆっくり解説】](https://www.youtube.com/watch?v=V1X2_OdG36Q)
-
-=== "コマンドラインツール"
-
-    2025-07-05
-
-    - 「[ソースコードにバグがないか確認](cli/test_tools)」ページ
-        - [pahcer-studio](https://github.com/yunix-kyopro/pahcer-studio) ![GitHub Repo stars](https://img.shields.io/github/stars/yunix-kyopro/pahcer-studio?style=plastic)
-
-    <div align="center">
-      <img loading="lazy" src="images/cli/pahcer_studio.png" alt="pahcer studio">
-    </div>
 
 === "色変記事"
 
