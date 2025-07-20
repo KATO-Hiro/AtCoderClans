@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-07-20
+
+- [#10595](https://github.com/KATO-Hiro/AtCoderClans/pull/10595) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
+    - [1からNまでのnについて、nの約数の個数の総和を求める](https://prd-xxx.hateblo.jp/entry/2025/07/18/232540)
+
 ### 2025-07-19
 
 - [#10590](https://github.com/KATO-Hiro/AtCoderClans/pull/10590) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。

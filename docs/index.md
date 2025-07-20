@@ -135,6 +135,11 @@
 
 === "記事"
 
+    2025-07-20
+
+    - 「[数学を学ぶ](articles/math)」ページ
+        - [1からNまでのnについて、nの約数の個数の総和を求める](https://prd-xxx.hateblo.jp/entry/2025/07/18/232540)
+
     2025-07-19
 
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
@@ -206,11 +211,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [2つの卵と100階建てのビル【ゆっくり解説】](https://www.youtube.com/watch?v=kE3E2oUOYeQ)
-
-    2025-07-06
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [「相加平均≧相乗平均」を4分で3回証明してみた【ゆっくり解説】](https://www.youtube.com/watch?v=V1X2_OdG36Q)
 
 === "色変記事"
 
