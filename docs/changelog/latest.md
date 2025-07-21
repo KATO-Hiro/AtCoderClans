@@ -6,6 +6,10 @@ title: Change Log
 
 ### 2025-07-21
 
+- [#10599](https://github.com/KATO-Hiro/AtCoderClans/pull/10599) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [AtCoder World Tour Finals 2025 Algorithm English stream](https://www.youtube.com/watch?v=GSXLhawvkYE)
+    - [AtCoder World Tour Finals 2025 Heuristic](https://www.youtube.com/watch?v=TG3ChQH61vE)
+
 - [#10597](https://github.com/KATO-Hiro/AtCoderClans/pull/10597) - GitHub Sponsorsを通じてスポンサー登録していただきました。ご支援いただき、ありがとうございます。
     - [goropikari](https://github.com/goropikari)
 
