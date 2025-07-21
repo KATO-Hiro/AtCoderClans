@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-07-21
+
+- [#10597](https://github.com/KATO-Hiro/AtCoderClans/pull/10597) - GitHub Sponsorsを通じてスポンサー登録していただきました。ご支援いただき、ありがとうございます。
+    - [goropikari](https://github.com/goropikari)
+
 ### 2025-07-20
 
 - [#10595](https://github.com/KATO-Hiro/AtCoderClans/pull/10595) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
