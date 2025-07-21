@@ -87,6 +87,14 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "スポンサー"
+
+    2025-07-21
+
+    GitHub Sponsorsを通じてスポンサー登録していただきました。ご支援いただき、ありがとうございます。
+
+    - [goropikari](https://github.com/goropikari)
+
 === "ホーム"
 
     2025-07-19
@@ -166,15 +174,13 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年7月7日時点)](https://x.com/atcoder/status/1942054829217681758)
 
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2025-07-07
-
-     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [milkcoffee](https://atcoder.jp/users/milkcoffee)さん - [はてなブログ](https://milkcoffee.hatenablog.jp/)
-
 === "動画"
+
+    2025-07-21
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [AtCoder World Tour Finals 2025 Algorithm English stream](https://www.youtube.com/watch?v=GSXLhawvkYE)
+        - [AtCoder World Tour Finals 2025 Heuristic](https://www.youtube.com/watch?v=TG3ChQH61vE)
 
     2025-07-19
 
@@ -206,20 +212,6 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [ICPC 2025 国内予選 Standing Race](https://www.youtube.com/watch?v=9GQFmE-7WoY)
         - [王将をかわりばんこに動かすゲーム【ゆっくり解説】](https://www.youtube.com/watch?v=3qtjG50cVzg)
-
-    2025-07-07
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [2つの卵と100階建てのビル【ゆっくり解説】](https://www.youtube.com/watch?v=kE3E2oUOYeQ)
-
-=== "色変記事"
-
-    色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
-
-    2025-07-07
-
-    - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
-        - [Iroha_3856](https://atcoder.jp/users/Iroha_3856)さん - [入黄するまでに考えたこと - Iroha_3856の日記](https://iroha-3856.hatenablog.com/entry/2025/07/06/171457)
 
 === "アーカイブス"
 
