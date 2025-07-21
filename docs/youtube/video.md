@@ -80,6 +80,13 @@ title: 個別の動画
         - [関連記事](../../articles/for_writers) - 役割分担・作業工程などを把握
         - [補助ツール](../../cli/tools_for_writers) - 定型作業を自動化
 
+## 世界大会のライブ配信
+
+### AtCoder World Tour Finals 2025
+
+- [AtCoder World Tour Finals 2025 Algorithm English stream](https://www.youtube.com/watch?v=GSXLhawvkYE) - [World Tour Finals 2025 Algorithm](https://atcoder.jp/contests/awtf2025algo)のライブ配信（英語）が公開されている。
+- [AtCoder World Tour Finals 2025 Heuristic](https://www.youtube.com/watch?v=TG3ChQH61vE) - [World Tour Finals 2025 Heuristic](https://atcoder.jp/contests/awtf2025heuristic)のライブ配信が公開されている。
+
 ## ランキングの推移
 
 ### AtCoderのレーティング
