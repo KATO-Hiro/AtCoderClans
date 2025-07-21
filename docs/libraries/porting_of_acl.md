@@ -71,7 +71,8 @@ title: 各言語への移植
 
 ## ACL Python
 
-- [not522/ac-library-python](https://github.com/not522/ac-library-python) ![GitHub stars](https://img.shields.io/github/stars/not522/ac-library-python?style=plastic) - Python版。オンラインジャッジで実行できるように、コードを一つのファイルにまとめる機能も含まれている。
+- [not522/ac-library-python](https://github.com/not522/ac-library-python) ![GitHub stars](https://img.shields.io/github/stars/not522/ac-library-python?style=plastic) - Python版。オンラインジャッジで実行できるように、コードを一つのファイルにまとめる機能も含まれている。AtCoderのジャッジ環境にインストールされている(2025年7月時点)。
+  - [kairi003/ac-library-python-stubs](https://github.com/kairi003/ac-library-python-stubs) ![GitHub stars](https://img.shields.io/github/stars/kairi003/ac-library-python-stubs?style=plastic) - not522/ac-library-pythonにGeneric型等を追加する型定義ライブラリ。
 - [shakayami/ACL-for-python](https://github.com/shakayami/ACL-for-python) ![GitHub Repo stars](https://img.shields.io/github/stars/shakayami/ACL-for-python?style=plastic) - Python版。[Wiki](https://github.com/shakayami/ACL-for-python/wiki)ページに、使い方(日本語)とサンプルコードが記載されている。
 - [tatyam-prime/acl-cpp-python](https://github.com/tatyam-prime/acl-cpp-python) - ![GitHub stars](https://img.shields.io/github/stars/tatyam-prime/acl-cpp-python?style=plastic) - [AtCoder Library (ACL)](https://github.com/atcoder/ac-library)がPythonの実行環境で利用できる。
 
