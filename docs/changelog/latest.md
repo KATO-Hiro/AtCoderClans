@@ -4,12 +4,18 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-07-22
+
+- [#10610](https://github.com/KATO-Hiro/AtCoderClans/pull/10610) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
+    - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年7月22日時点)](https://x.com/atcoder/status/1947472502818804043)
+- [#10606](https://github.com/KATO-Hiro/AtCoderClans/pull/10606) - [kairi003](https://github.com/kairi003)さんのプルリクエストにより「[Libraries and Snippets](../../libraries)」の「[AtCoder Library (ACL)の各言語への移植](../../libraries/porting_of_acl)」ページに、以下の型定義ライブラリを追加。
+    - [kairi003/ac-library-python-stubs](https://github.com/kairi003/ac-library-python-stubs) ![GitHub stars](https://img.shields.io/github/stars/kairi003/ac-library-python-stubs?style=plastic)
+
 ### 2025-07-21
 
 - [#10599](https://github.com/KATO-Hiro/AtCoderClans/pull/10599) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
     - [AtCoder World Tour Finals 2025 Algorithm English stream](https://www.youtube.com/watch?v=GSXLhawvkYE)
     - [AtCoder World Tour Finals 2025 Heuristic](https://www.youtube.com/watch?v=TG3ChQH61vE)
-
 - [#10597](https://github.com/KATO-Hiro/AtCoderClans/pull/10597) - GitHub Sponsorsを通じてスポンサー登録していただきました。ご支援いただき、ありがとうございます。
     - [goropikari](https://github.com/goropikari)
 

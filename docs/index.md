@@ -143,6 +143,11 @@
 
 === "記事"
 
+    2025-07-22
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年7月22日時点)](https://x.com/atcoder/status/1947472502818804043)
+
     2025-07-20
 
     - 「[数学を学ぶ](articles/math)」ページ
@@ -168,11 +173,6 @@
 
     - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
         - [int の列が等比数列かの判定を long double で行うのは正当か？](https://rsk0315.hatenablog.com/entry/2025/07/06/175632)
-
-    2025-07-08
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年7月7日時点)](https://x.com/atcoder/status/1942054829217681758)
 
 === "動画"
 
@@ -212,6 +212,13 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [ICPC 2025 国内予選 Standing Race](https://www.youtube.com/watch?v=9GQFmE-7WoY)
         - [王将をかわりばんこに動かすゲーム【ゆっくり解説】](https://www.youtube.com/watch?v=3qtjG50cVzg)
+
+=== "ライブラリ・スニペット"
+
+    2025-07-22
+
+    - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
+        - [kairi003/ac-library-python-stubs](https://github.com/kairi003/ac-library-python-stubs) ![GitHub stars](https://img.shields.io/github/stars/kairi003/ac-library-python-stubs?style=plastic)
 
 === "アーカイブス"
 
