@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-07-23
+
+- [#10615](https://github.com/KATO-Hiro/AtCoderClans/pull/10615) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
+    - [AI vs 人間まとめ【AtCoder World Tour Finals 2025 Heuristic エキシビジョン】](https://chokudai.hatenablog.com/entry/2025/07/21/190935)
+- [#10614](https://github.com/KATO-Hiro/AtCoderClans/pull/10614) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [AtCoder World Tour Finals 2025 Heuristic 参加記](https://www.terry-u16.net/entry/awtf2025heuristic)
+
 ### 2025-07-22
 
 - [#10610](https://github.com/KATO-Hiro/AtCoderClans/pull/10610) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。

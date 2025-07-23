@@ -121,15 +121,6 @@
       <img loading="lazy" src="images/web_app/atcoder_ai_rule_quiz.png" alt="atcoder ai rule quiz">
     </div>
 
-    2025-07-09
-
-    - 「[コンテストの成績に関連するサービス](web_app/services_using_scores)」ページ
-        - [AtCoder Rating Simulator(仮)](https://beta.kyo-pro.club/apps/rating-simulator)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/atcoder_rating_simulator2.png" alt="atcoder rating simulator">
-    </div>
-
 === "ユーザスクリプト"
 
     2025-07-12
@@ -142,6 +133,14 @@
     </div>
 
 === "記事"
+
+    2025-07-23
+
+    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
+        - [AI vs 人間まとめ【AtCoder World Tour Finals 2025 Heuristic エキシビジョン】](https://chokudai.hatenablog.com/entry/2025/07/21/190935)
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AtCoder World Tour Finals 2025 Heuristic 参加記](https://www.terry-u16.net/entry/awtf2025heuristic)
 
     2025-07-22
 
@@ -206,12 +205,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [TLE解消法 その3 連想配列](https://www.youtube.com/watch?v=NL8rXIGpRCE)
-
-    2025-07-09
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [ICPC 2025 国内予選 Standing Race](https://www.youtube.com/watch?v=9GQFmE-7WoY)
-        - [王将をかわりばんこに動かすゲーム【ゆっくり解説】](https://www.youtube.com/watch?v=3qtjG50cVzg)
 
 === "ライブラリ・スニペット"
 
