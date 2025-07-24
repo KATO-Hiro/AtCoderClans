@@ -417,6 +417,9 @@ title: リンク切れ
 
 ### レーティング1600〜1999(青色)
 
+- [【AtCoder】 入青しました。](https://note.com/another_akizuki/n/nd243d9828ee6) - [tenp1729](https://atcoder.jp/users/tenp1729)さんが、2025年2月1日に達成。
+    - 確認した日: 2025/07/24
+
 - [AtCoder青になったりならなかったりしました - でぶ脱却日記](https://shojin-debu.hatenablog.com/entry/2022/06/19/155624) - [shojin_debu](https://atcoder.jp/users/shojin_debu)さんが、2022年6月18日に達成。
     - 確認した日: 2025/06/17
 
