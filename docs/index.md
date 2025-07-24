@@ -168,11 +168,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年7月14日時点)](https://x.com/atcoder/status/1944613912512704984)
 
-    2025-07-10
-
-    - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
-        - [int の列が等比数列かの判定を long double で行うのは正当か？](https://rsk0315.hatenablog.com/entry/2025/07/06/175632)
-
 === "動画"
 
     2025-07-21
