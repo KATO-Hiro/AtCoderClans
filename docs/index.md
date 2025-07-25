@@ -170,6 +170,11 @@
 
 === "動画"
 
+    2025-07-25
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [Ang](https://www.youtube.com/@ang-1630/streams)
+
     2025-07-21
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ

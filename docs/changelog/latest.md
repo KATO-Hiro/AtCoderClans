@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-07-25
+
+- [#10622](https://github.com/KATO-Hiro/AtCoderClans/pull/10622) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [Ang](https://www.youtube.com/@ang-1630/streams)
+
 ### 2025-07-24
 
 - [#10619](https://github.com/KATO-Hiro/AtCoderClans/pull/10619) - (破壊的な変更) リンク切れと思われる色変記事を「[Archives](../../archived)」ページに移動。
