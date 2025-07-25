@@ -28,6 +28,7 @@ title: チャンネル
 
 ## YouTuber
 
+- [Ang](https://www.youtube.com/@ang-1630/streams) - [Ang107](https://atcoder.jp/users/Ang107)さんのチャンネル。コンテストの実況動画が公開されている。
 - [Gennady Korotkevich](https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw) - 世界最強の競技プログラマーである[tourist](https://atcoder.jp/users/tourist)さんのチャンネル。
 - [heno 239](https://www.youtube.com/channel/UCmYTD76ZGm8hcrzaI7xJLAg) - レッドコーダー（競技プログラマーとして世界最高峰の実力の持ち主であることを示す）の[heno239](https://atcoder.jp/users/heno239)さんのチャンネル。過去問の早解き、2人で1行ずつ交互にコーディングしてACを目指す動画などが公開されている。
 - [simasima | 数学実況](https://www.youtube.com/@simasima2479) - レッドコーダーの[simasima](https://atcoder.jp/users/simasima)さんのチャンネル。コンテスト当日の実況動画が公開されている。
