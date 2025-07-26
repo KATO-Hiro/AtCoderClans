@@ -121,17 +121,6 @@
       <img loading="lazy" src="images/web_app/atcoder_ai_rule_quiz.png" alt="atcoder ai rule quiz">
     </div>
 
-=== "ユーザスクリプト"
-
-    2025-07-12
-
-    - 「[ネタスクリプト](user_scripts/jokes)」ページ
-        - [Toyota Mayuko AtCoder](https://greasyfork.org/ja/scripts/541725-toyota-mayuko-atcoder)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/toyota_mayuko_atcoder.png" alt="toyota mayuko atcoder">
-    </div>
-
 === "記事"
 
     2025-07-23
@@ -170,6 +159,11 @@
 
 === "動画"
 
+    2025-07-26
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [[高校情報I] アルゴリズムとプログラミングを競技プログラミングで学ぼう！](https://www.youtube.com/watch?v=UiT0fFY7P2s)
+
     2025-07-25
 
     - 「[YouTube - チャンネル](youtube/channel)」ページ
@@ -201,12 +195,12 @@
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [simasima | 数学実況](https://www.youtube.com/@simasima2479)
 
-    2025-07-12
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [TLE解消法 その3 連想配列](https://www.youtube.com/watch?v=NL8rXIGpRCE)
-
 === "ライブラリ・スニペット"
+
+    2025-07-26
+
+    - 「[Python](libraries/python)」ページ
+        - [lavox/procon-python-notebook](https://github.com/lavox/procon-python-notebook/) ![GitHub Repo stars](https://img.shields.io/github/stars/lavox/procon-python-notebook?style=plastic)
 
     2025-07-22
 
