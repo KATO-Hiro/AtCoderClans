@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-07-26
+
+- [#10628](https://github.com/KATO-Hiro/AtCoderClans/pull/10628) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [[高校情報I] アルゴリズムとプログラミングを競技プログラミングで学ぼう！](https://www.youtube.com/watch?v=UiT0fFY7P2s)
+- [#10625](https://github.com/KATO-Hiro/AtCoderClans/pull/10625) - 「[Libraries and Snippets](../../libraries)」の「[Python](../../libraries/python)」ページに、Pythonで実装されたスニペットを追加。
+    - [lavox/procon-python-notebook](https://github.com/lavox/procon-python-notebook/) ![GitHub Repo stars](https://img.shields.io/github/stars/lavox/procon-python-notebook?style=plastic)
+
 ### 2025-07-25
 
 - [#10622](https://github.com/KATO-Hiro/AtCoderClans/pull/10622) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
