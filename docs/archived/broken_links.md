@@ -465,6 +465,13 @@ title: リンク切れ
 
 ### Codeforces
 
+- [CF-Predictor](https://cf-predictor.wasylf.xyz/contestSelector.html) - コンテストの結果に基づいて、レーティングの変化を推定するWebサイト。また、複数のブラウザに対応した[拡張機能](https://cf-predictor.wasylf.xyz/)も利用できる。
+    - 確認した日: 2025/07/27
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/codeforces/cf-predictor_2nd.png" alt="cf predictor">
+    </div>
+
 - [CF-Predictor](https://cf-predictor-frontend.herokuapp.com/) - コンテストの結果に基づいて、レーティングの変化を推定するWebアプリ。また、複数のブラウザに対応した拡張機能をダウンロードして利用することもできる。
 
     <div align="center">
