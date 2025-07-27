@@ -96,12 +96,6 @@ title: Codeforces
       <img loading = "lazy" src="../../images/related_contest_sites/codeforces/codeforces_bold_emphasizer.png" alt="codeforces bold emphasizer">
     </div>
 
-## Google Chromeの拡張機能
-
-### コンテストの成績を見る
-
-- [CF-Predictor](https://cf-predictor.wasylf.xyz/) - コンテストの結果に基づいて、レーティングの予測値を表示する。MozillaやOperaにも対応している。
-
 ## コマンドラインツール・GUIツール
 
 ### ソースコードにバグがないか確認
