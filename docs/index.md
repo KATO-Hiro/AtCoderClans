@@ -190,11 +190,6 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [グーゴル+1は素数か？【ゆっくり解説】](https://www.youtube.com/watch?v=Gy72jItAM7A)
 
-    2025-07-13
-
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [simasima | 数学実況](https://www.youtube.com/@simasima2479)
-
 === "ライブラリ・スニペット"
 
     2025-07-26
@@ -207,9 +202,24 @@
     - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
         - [kairi003/ac-library-python-stubs](https://github.com/kairi003/ac-library-python-stubs) ![GitHub stars](https://img.shields.io/github/stars/kairi003/ac-library-python-stubs?style=plastic)
 
+=== "国内外のコンテストサイト"
+
+    2025-07-27
+
+    - 「[Codeforces](related_contest_sites/codeforces)」ページ
+        - [Carrot](https://chromewebstore.google.com/detail/carrot/gakohpplicjdhhfllilcjpfildodfnnn)
+
+    <div align="center">
+      <img loading="lazy" src="images/related_contest_sites/codeforces/carrot.png" alt="carrot">
+    </div>
+
 === "アーカイブス"
 
     諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2025-07-27
+
+    - CF-Predictor
 
     2025-07-14
 

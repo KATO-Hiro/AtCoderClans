@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-07-27
+
+- [#10639](https://github.com/KATO-Hiro/AtCoderClans/pull/10639) - 「[Related Contest Sites](../../related_contest_sites)」の「[Codeforces](../../related_contest_sites/codeforces)」ページに、以下のChrome拡張機能を追加。
+    - [Carrot](https://chromewebstore.google.com/detail/carrot/gakohpplicjdhhfllilcjpfildodfnnn)
+- [#10637](https://github.com/KATO-Hiro/AtCoderClans/pull/10637) - (破壊的な変更) リンク切れと思われるWebサイトおよびChrome拡張機能を「[Archives](../../archived)」ページに移動。
+    - CF-Predictor
+
 ### 2025-07-26
 
 - [#10628](https://github.com/KATO-Hiro/AtCoderClans/pull/10628) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
