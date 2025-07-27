@@ -96,6 +96,16 @@ title: Codeforces
       <img loading = "lazy" src="../../images/related_contest_sites/codeforces/codeforces_bold_emphasizer.png" alt="codeforces bold emphasizer">
     </div>
 
+## Google Chromeの拡張機能
+
+### コンテストの成績を見る
+
+- [Carrot](https://chromewebstore.google.com/detail/carrot/gakohpplicjdhhfllilcjpfildodfnnn) - コンテストの順位表に基づいて、レーティングの予測値（コンテスト中のみ）や前回からの増減を表示する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/related_contest_sites/codeforces/carrot.png" alt="Carrot extension showing rating predictions on Codeforces standings">
+    </div>
+
 ## コマンドラインツール・GUIツール
 
 ### ソースコードにバグがないか確認
