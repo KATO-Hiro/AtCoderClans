@@ -42,14 +42,6 @@ title: Codeforces
 
 ### コンテストの成績を見る
 
-#### レーティングを見る・比較する
-
-- [CF-Predictor](https://cf-predictor.wasylf.xyz/contestSelector.html) - コンテストの結果に基づいて、レーティングの変化を推定するWebサイト。また、複数のブラウザに対応した[拡張機能](https://cf-predictor.wasylf.xyz/)も利用できる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/related_contest_sites/codeforces/cf-predictor_2nd.png" alt="cf predictor">
-    </div>
-
 #### 仮想的なレーティングを計算
 
 - [Codeforces Anytime](https://codeforces-anytime.firebaseapp.com/) - バーチャルコンテストの結果を利用して、レーティングの変動を表示するWebアプリ。同一の作者により[AtCoder版](https://atcoder-anytime.sonoapp.page/)も公開されている。
