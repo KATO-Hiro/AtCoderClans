@@ -123,6 +123,11 @@
 
 === "記事"
 
+    2025-07-28
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年7月28日時点)](https://x.com/atcoder/status/1949687935366037530)
+
     2025-07-23
 
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
@@ -151,11 +156,6 @@
 
     - 「[実装テクニックを学ぶ - 複数の言語](articles/implementation/multiple_languages)」ページ
         - [modint に夢を見ている輩が多すぎる](https://rsk0315.hatenablog.com/entry/2025/07/12/131257)
-
-    2025-07-14
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年7月14日時点)](https://x.com/atcoder/status/1944613912512704984)
 
 === "動画"
 
@@ -220,10 +220,6 @@
     2025-07-27
 
     - CF-Predictor
-
-    2025-07-14
-
-    - まよコン🌽 レーティング
 
 ## AtCoder公式グッズを購入する
 
