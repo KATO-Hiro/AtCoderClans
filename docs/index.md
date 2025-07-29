@@ -185,11 +185,6 @@
     - 「[ニコニコ動画](videos/niconico)」ぺージ
         - [ICPC 2025 国内予選の暫定上位75チームと暫定予選通過ボーダーを振り返る動画【高画質&全画面推奨】](https://www.nicovideo.jp/watch/sm45189599)
 
-    2025-07-15
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [グーゴル+1は素数か？【ゆっくり解説】](https://www.youtube.com/watch?v=Gy72jItAM7A)
-
 === "ライブラリ・スニペット"
 
     2025-07-26
@@ -201,6 +196,15 @@
 
     - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
         - [kairi003/ac-library-python-stubs](https://github.com/kairi003/ac-library-python-stubs) ![GitHub stars](https://img.shields.io/github/stars/kairi003/ac-library-python-stubs?style=plastic)
+
+=== "色変記事"
+
+    色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-07-29
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [kiwama](https://atcoder.jp/users/kiwama)さん - [約5年かけて やっとAtCoder水色になった話](https://zenn.dev/kiwamachan/articles/ee89884b27d378)
 
 === "国内外のコンテストサイト"
 

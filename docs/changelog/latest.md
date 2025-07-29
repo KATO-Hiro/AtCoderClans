@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-07-29
+
+- [#10650](https://github.com/KATO-Hiro/AtCoderClans/pull/10650) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[kiwama](https://atcoder.jp/users/kiwama)さんの[記事](https://zenn.dev/kiwamachan/articles/ee89884b27d378)を追加。
+
 ### 2025-07-28
 
 - [#10644](https://github.com/KATO-Hiro/AtCoderClans/pull/10644) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
