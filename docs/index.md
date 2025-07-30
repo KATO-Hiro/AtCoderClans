@@ -110,17 +110,6 @@
         - [AtCoder生成AI対策ルール - 20250718版](https://info.atcoder.jp/entry/llm-rules-ja)
         - [ARC Div.1 に関する生成AIルール変更について](https://atcoder.jp/posts/1513)
 
-=== "Webアプリ・Webサイト"
-
-    2025-07-16
-
-    - 「[クイズ・ゲーム・ネタアプリ](web_app/quiz_and_game)」ページ
-        - [AtCoder AIルールクイズ](https://quiz-maker.site/quiz/play/tKKCCl20250430221107)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/atcoder_ai_rule_quiz.png" alt="atcoder ai rule quiz">
-    </div>
-
 === "記事"
 
     2025-07-28
@@ -158,6 +147,12 @@
         - [modint に夢を見ている輩が多すぎる](https://rsk0315.hatenablog.com/entry/2025/07/12/131257)
 
 === "動画"
+
+    2025-07-30
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [白い部分にすっぽり入る最大の円は？](https://www.youtube.com/watch?v=cZ6aWnfZ_ag)
+        - [無限ホテルともっと無限の客【ゆっくり解説】](https://www.youtube.com/watch?v=DMYijrdeN5Y)
 
     2025-07-26
 

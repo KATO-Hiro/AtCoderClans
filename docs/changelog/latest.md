@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-07-30
+
+- [#10654](https://github.com/KATO-Hiro/AtCoderClans/pull/10654)、[#10655](https://github.com/KATO-Hiro/AtCoderClans/pull/10655) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [白い部分にすっぽり入る最大の円は？](https://www.youtube.com/watch?v=cZ6aWnfZ_ag)
+    - [無限ホテルともっと無限の客【ゆっくり解説】](https://www.youtube.com/watch?v=DMYijrdeN5Y)
+
 ### 2025-07-29
 
 - [#10650](https://github.com/KATO-Hiro/AtCoderClans/pull/10650) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
