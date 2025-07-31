@@ -175,11 +175,6 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [【保護者向け】【非公式】プログラミングを始めたら、情報オリンピックに挑戦しよう！](https://www.youtube.com/watch?v=FIOvhlc8VPc)
 
-    2025-07-17
-
-    - 「[ニコニコ動画](videos/niconico)」ぺージ
-        - [ICPC 2025 国内予選の暫定上位75チームと暫定予選通過ボーダーを振り返る動画【高画質&全画面推奨】](https://www.nicovideo.jp/watch/sm45189599)
-
 === "ライブラリ・スニペット"
 
     2025-07-26
@@ -195,6 +190,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-07-31
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [atcoder6](https://atcoder.jp/users/atcoder6)さん - [【入青】入青できたので色々振り返る](https://qiita.com/atcoder6/items/47b022b0924bad61bd10)
 
     2025-07-29
 
