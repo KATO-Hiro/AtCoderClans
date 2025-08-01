@@ -46,6 +46,7 @@ title: ソースコードにバグがないか確認
 ### ヒューリスティック部門
 
 - [pahcer](https://github.com/terry-u16/pahcer) ![GitHub Repo stars](https://img.shields.io/github/stars/terry-u16/pahcer?style=plastic) - ローカル環境でのテストの並列実行・実行結果の出力・相対スコアの表示・Optunaとの連携などができる。
+    - [AHCテストケース実行ツールpahcerの使い方](https://www.terry-u16.net/entry/how-to-use-pahcer) - 作者により、インストール方法や使い方（基本・応用・マニアック）が紹介されている。
     - [pahcer-studio](https://github.com/yunix-kyopro/pahcer-studio) ![GitHub Repo stars](https://img.shields.io/github/stars/yunix-kyopro/pahcer-studio?style=plastic) - テスト実行と履歴管理に特化したデスクトップアプリ。過去のテスト結果との比較や分析機能もある。
 
       <div align="center">
