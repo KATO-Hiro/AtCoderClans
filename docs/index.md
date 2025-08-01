@@ -141,11 +141,6 @@
         - [AtCoder生成AI対策ルール - 20250718版](https://info.atcoder.jp/entry/llm-rules-ja)
         - [ARC Div.1 に関する生成AIルール変更について](https://atcoder.jp/posts/1513)
 
-    2025-07-18
-
-    - 「[実装テクニックを学ぶ - 複数の言語](articles/implementation/multiple_languages)」ページ
-        - [modint に夢を見ている輩が多すぎる](https://rsk0315.hatenablog.com/entry/2025/07/12/131257)
-
 === "動画"
 
     2025-07-30
@@ -186,6 +181,13 @@
 
     - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
         - [kairi003/ac-library-python-stubs](https://github.com/kairi003/ac-library-python-stubs) ![GitHub stars](https://img.shields.io/github/stars/kairi003/ac-library-python-stubs?style=plastic)
+
+=== "コマンドラインツール"
+
+    2025-08-01
+
+    - 「[ソースコードにバグがないか確認](cli/test_tools)」ページ
+        - [AHCテストケース実行ツールpahcerの使い方](https://www.terry-u16.net/entry/how-to-use-pahcer)
 
 === "色変記事"
 
