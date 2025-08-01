@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-08-01
+
+- [#10666](https://github.com/KATO-Hiro/AtCoderClans/pull/10666) - 「[Command Line Tools](../../cli)」の「[ソースコードにバグがないか確認](../../cli/test_tools)」ページに、以下の記事を追加。
+    - [AHCテストケース実行ツールpahcerの使い方](https://www.terry-u16.net/entry/how-to-use-pahcer)
+
 ### 2025-07-31
 
 - [#10661](https://github.com/KATO-Hiro/AtCoderClans/pull/10661) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
