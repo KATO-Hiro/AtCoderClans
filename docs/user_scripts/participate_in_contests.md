@@ -58,6 +58,12 @@ title: コンテストに参加する
       <img loading="lazy" src="../../images/userscript/atcoder_navbar_restrictor.png" alt="atcoder navbar restrictor">
     </div>
 
+- [AtCoder Title Changer](https://greasyfork.org/ja/scripts/544199-atcoder-title-changer/code) - 「問題」ページのブラウザタブに、コンテストの略称と問題名を「略称 - 問題名」の形式で表示する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_title_changer.png" alt="atcoder title changer">
+    </div>
+
 - [AtCoder Scroll Page Top Hider](https://greasyfork.org/ja/scripts/535017-atcoder-scroll-page-top-hider) - 「問題」ページにある「↑ページトップ」を非表示にする。
 
 - [AtCoder Customize Panel Fix](https://greasyfork.org/ja/scripts/511359-atcoder-customize-panel-fix) - 「順位表」ページをリロードしたときに、カスタマイズパネルを開いたままにする。
