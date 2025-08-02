@@ -27,6 +27,7 @@ title: 個別の動画
     - [0.999…は1か？【ゆっくり解説】](https://www.youtube.com/watch?v=Zp4I_fDtdi8) - 「0.999…」を定義し、1に等しいことを証明している。
     - [結婚定理：N人の女は好みの男と結婚できるか？【ゆっくり解説】](https://www.youtube.com/watch?v=zlawYWmuP4c) - ホールの結婚定理を証明している。
 - [DPの思いつき方](https://www.youtube.com/watch?v=2QDQUj69OiE) - AtCoder Beginner ContestのC問題・D問題で出題される動的計画法（DP）の見分け方・考え方が解説されている。前提知識として、[Educational DP Contest](https://atcoder.jp/contests/dp)のA〜D問題を解けることが求められる。
+    - [[情報I][プログラミング入門] アルゴリズムの思いつき方](https://www.youtube.com/watch?v=Ow3MFqVVYQA) - 初心者向けに、例題を通してフローチャートやアルゴリズムの考え方が分かりやすく解説されている。
     - [[高校情報I] アルゴリズムとプログラミングを競技プログラミングで学ぼう！](https://www.youtube.com/watch?v=UiT0fFY7P2s) - 高校情報Iのテスト対策として、競技プログラミングの活用と具体的な方法が紹介されている。
     - [【保護者向け】【非公式】プログラミングを始めたら、情報オリンピックに挑戦しよう！](https://www.youtube.com/watch?v=FIOvhlc8VPc) - 情報オリンピックの概要・例題、費用、練習方法、参加のメリット（大学入試・表彰・交流）などが紹介されている。
 
