@@ -52,16 +52,16 @@ title: コンテストに参加する
 
 - [Style Fixes for AtCoder](https://greasyfork.org/ja/scripts/489300-style-fixes-for-atcoder) - [AtCoder](https://atcoder.jp/)の一部のページを、PCで閲覧したときに発生する表示上の不具合を改善・修正する。
 
-- [AtCoder Title Changer](https://greasyfork.org/ja/scripts/544199-atcoder-title-changer/code) - 「問題」ページのブラウザタブに、コンテストの略称と問題名を「略称 - 問題名」の形式で表示する。
-
-    <div align="center">
-      <img loading="lazy" src="../../images/userscript/atcoder_title_changer.png" alt="atcoder title changer">
-    </div>
-
 - [AtCoder Navbar Restrictor](https://greasyfork.org/ja/scripts/501929-atcoder-navbar-restrictor) - コンテストページで、名称が長い場合に改行せず、末尾に三点リーダー（...）をつけて省略表示する。
 
     <div align="center">
       <img loading="lazy" src="../../images/userscript/atcoder_navbar_restrictor.png" alt="atcoder navbar restrictor">
+    </div>
+
+- [AtCoder Title Changer](https://greasyfork.org/ja/scripts/544199-atcoder-title-changer/code) - 「問題」ページのブラウザタブに、コンテストの略称と問題名を「略称 - 問題名」の形式で表示する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_title_changer.png" alt="atcoder title changer">
     </div>
 
 - [AtCoder Scroll Page Top Hider](https://greasyfork.org/ja/scripts/535017-atcoder-scroll-page-top-hider) - 「問題」ページにある「↑ページトップ」を非表示にする。
