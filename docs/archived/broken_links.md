@@ -243,6 +243,8 @@ title: リンク切れ
 
 ## ブログ
 
+- [はてなブログ - cunitac](https://cunitac.hatenablog.com/)
+    - 確認した日: 2025/08/02
 - [はてなブログ - sky58](https://topcoder-g-hatena-ne-jp.jag-icpc.org/skyaozora/)
     - 確認した日: 2025/05/03
 - [はてなグループ - not](https://topcoder-g-hatena-ne-jp.jag-icpc.org/not522/)
