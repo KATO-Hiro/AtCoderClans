@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-08-02
+
+- [#10672](https://github.com/KATO-Hiro/AtCoderClans/pull/10672) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [[情報I][プログラミング入門] アルゴリズムの思いつき方](https://www.youtube.com/watch?v=Ow3MFqVVYQA)
+- [#10671](https://github.com/KATO-Hiro/AtCoderClans/pull/10671) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Title Changer](https://greasyfork.org/ja/scripts/544199-atcoder-title-changer)
+- [#10670](https://github.com/KATO-Hiro/AtCoderClans/pull/10670) - (破壊的な変更) 非公開になったと思われるブログを「[Archives](../../archived)」ページに移動。
+
 ### 2025-08-01
 
 - [#10666](https://github.com/KATO-Hiro/AtCoderClans/pull/10666) - 「[Command Line Tools](../../cli)」の「[ソースコードにバグがないか確認](../../cli/test_tools)」ページに、以下の記事を追加。
