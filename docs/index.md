@@ -95,20 +95,16 @@
 
     - [goropikari](https://github.com/goropikari)
 
-=== "ホーム"
+=== "ユーザスクリプト"
 
-    2025-07-19
+    2025-08-02
 
-    - [AtCoder生成AI対策ルール - 20250718版](https://info.atcoder.jp/entry/llm-rules-ja)
-    - [ARC Div.1 に関する生成AIルール変更について](https://atcoder.jp/posts/1513)
+    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
+        - [AtCoder Title Changer](https://greasyfork.org/ja/scripts/544199-atcoder-title-changer)
 
-=== "入門者・初心者向けの内容"
-
-    2025-07-19
-
-    - 「[Q3: コンテストは、いつ開催されていますか?](for_beginners/question3)」ページ
-        - [AtCoder生成AI対策ルール - 20250718版](https://info.atcoder.jp/entry/llm-rules-ja)
-        - [ARC Div.1 に関する生成AIルール変更について](https://atcoder.jp/posts/1513)
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_title_changer.png" alt="atcoder title changer">
+    </div>
 
 === "記事"
 
@@ -135,13 +131,12 @@
     - 「[数学を学ぶ](articles/math)」ページ
         - [1からNまでのnについて、nの約数の個数の総和を求める](https://prd-xxx.hateblo.jp/entry/2025/07/18/232540)
 
-    2025-07-19
-
-    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
-        - [AtCoder生成AI対策ルール - 20250718版](https://info.atcoder.jp/entry/llm-rules-ja)
-        - [ARC Div.1 に関する生成AIルール変更について](https://atcoder.jp/posts/1513)
-
 === "動画"
+
+    2025-08-02
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [[情報I][プログラミング入門] アルゴリズムの思いつき方](https://www.youtube.com/watch?v=Ow3MFqVVYQA)
 
     2025-07-30
 
@@ -164,11 +159,6 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [AtCoder World Tour Finals 2025 Algorithm English stream](https://www.youtube.com/watch?v=GSXLhawvkYE)
         - [AtCoder World Tour Finals 2025 Heuristic](https://www.youtube.com/watch?v=TG3ChQH61vE)
-
-    2025-07-19
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [【保護者向け】【非公式】プログラミングを始めたら、情報オリンピックに挑戦しよう！](https://www.youtube.com/watch?v=FIOvhlc8VPc)
 
 === "ライブラリ・スニペット"
 

@@ -58,7 +58,7 @@ title: コンテストに参加する
       <img loading="lazy" src="../../images/userscript/atcoder_navbar_restrictor.png" alt="atcoder navbar restrictor">
     </div>
 
-- [AtCoder Title Changer](https://greasyfork.org/ja/scripts/544199-atcoder-title-changer/code) - 「問題」ページのブラウザタブに、コンテストの略称と問題名を「略称 - 問題名」の形式で表示する。
+- [AtCoder Title Changer](https://greasyfork.org/ja/scripts/544199-atcoder-title-changer) - 「問題」ページのブラウザタブに、コンテストの略称と問題名を「略称 - 問題名」の形式で表示する。
 
     <div align="center">
       <img loading="lazy" src="../../images/userscript/atcoder_title_changer.png" alt="atcoder title changer">
