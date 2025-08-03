@@ -108,6 +108,11 @@
 
 === "記事"
 
+    2025-08-03
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [CodeQUEEN 2025 参加記](https://momoharahara.hatenadiary.com/entry/2025/08/03/003143)
+
     2025-07-28
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -126,10 +131,13 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年7月22日時点)](https://x.com/atcoder/status/1947472502818804043)
 
-    2025-07-20
+=== "ブログ"
+    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
-    - 「[数学を学ぶ](articles/math)」ページ
-        - [1からNまでのnについて、nの約数の個数の総和を求める](https://prd-xxx.hateblo.jp/entry/2025/07/18/232540)
+    2025-08-03
+
+     - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
+        - [AwashAmityOak](https://atcoder.jp/users/AwashAmityOak)さん - [Qiita](https://qiita.com/AwashAmityOak)
 
 === "動画"
 
