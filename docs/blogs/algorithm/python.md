@@ -24,6 +24,7 @@ title: Python
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
 |ansain|[はてなブログ](https://ansain.hatenablog.com/)||
+|AwashAmityOak|[Qiita](https://qiita.com/AwashAmityOak)|高難易度の問題を中心にC++で実装されている回答も多い。|
 |dn6049949|[Qiita](https://qiita.com/dn6049949)||
 |eijirou|[はてなブログ](https://eijirou-kyopro.hatenablog.com/)|主にヒューリスティック型のコンテストに関する解説記事が掲載されている。|
 |hahho|[Qiita](https://qiita.com/hahho)|2019年1月以降、新規の記事を確認できず。|
