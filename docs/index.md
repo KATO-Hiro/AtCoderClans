@@ -136,7 +136,7 @@
 
     2025-08-03
 
-     - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
+    - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
         - [AwashAmityOak](https://atcoder.jp/users/AwashAmityOak)さん - [Qiita](https://qiita.com/AwashAmityOak)
 
 === "動画"
