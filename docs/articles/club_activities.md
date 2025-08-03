@@ -39,12 +39,13 @@ title: 部活・サークル・同好会・オンサイトイベントに参加�
 
 - [発案から10日で107名の大宴会を開催した話(メール一括作成GASつき)](https://d-burioden.hateblo.jp/entry/2023/04/03/043035) - 100人規模の宴会を開催する際に、店の予約・参加者の把握・懸念事項への対策などの知見がまとめられている記事。
 
-### TOUPC001
+### CodeQUEEN
 
-- [競プロオンサイトは、数名の素晴らしい仲間と覚悟があれば開けるという話。（TOUPC001 開催記）](https://note.com/uruzunyaa/n/n0e83e9a59242) - [TOUPC001](https://onlinejudge.u-aizu.ac.jp/beta/room.html#TOUPC001)の主催者による開催記。コンテストのコンセプト・開催までの経緯と熱意を持って行動することの重要性・当日の会場運営・問題の振り返り・問題作成のTipsなどがまとめられている。
-- [TOUPC001に参加してきた](https://inthebloom.github.io/post/toupc001/) - コンテストの参加記。コンテスト参加の経緯・振り返り・懇親会の様子などがつづられている。
+#### 2025
 
-### CodeQUEEN 2024
+- [CodeQUEEN 2025 参加記](https://momoharahara.hatenadiary.com/entry/2025/08/03/003143) - [CodeQUEEN 2025 決勝](https://atcoder.jp/contests/codequeen2025-final-Public)の優勝者による参加記。予選突破から決勝参加までの練習方針と内容、当日のコンテストや懇親会・オフ会などを振り返っている。
+
+#### 2024
 
 <!-- markdown-link-check-disable -->
 
@@ -55,6 +56,22 @@ title: 部活・サークル・同好会・オンサイトイベントに参加�
 - [総勢217名の女性競技プログラマーが参加　女性競技プログラミングコンテスト「CodeQUEEN」結果発表](https://prtimes.jp/main/html/rd/p/000000048.000028415.html) - 同コンテストの開催経緯と優勝者・上位入賞者のコメントがまとめられている。
 - [CodeQUEEN2024で優勝しました](https://www.forcia.com/blog/002983.html) - 同コンテストの優勝者が当日を振り返った参加記。配点に基づいた戦略・各問題の図解に加え、スポンサー活動にも言及されている。
 - [CodeQUEEN 2024参加記](https://momoharahara.hatenadiary.com/entry/2024/08/07/122348) - [CodeQUEEN 2024 決勝](https://atcoder.jp/contests/codequeen2024-final-N9tn8QqD)の参加記。本番までの練習内容・コンテスト当日の振り返り・各種イベント・オフ会などについてまとめられている。
+
+#### 2023
+
+<!-- markdown-link-check-disable -->
+
+- [「CodeQUEEN 2023」にスポンサーとしておじゃましてきました！](https://note.e-seikatsu.info/n/n423fde3ccf32) - [CodeQUEEN 2023 決勝](https://atcoder.jp/contests/codequeen2023-final-open)の協賛者が当日を振り返った記事。スポンサー参加の経緯、会場のスナップショット、スポンサーセッション、座談会、コンテストおよび結果発表・表彰式、懇親会の様子がまとめられている。
+
+<!-- markdown-link-check-enable -->
+
+- [CodeQUEEN2023でスポンサーをしたり優勝したりした話](https://www.forcia.com/blog/002760.html) - [CodeQUEEN 2023 決勝](https://atcoder.jp/contests/codequeen2023-final-open)に、個人と会社の両方の立場からイベントの参加内容を報告している記事。スポンサー参加までの経緯やコンテストの振り返りだけでなく、同イベントから高校生のインターンの受け入れと実務的な成果につながったことも言及されている。
+    - [CodeQUEEN2023決勝に出場しました！](https://ayuna-stpyko.github.io/my_blog/archive/20231023.html)、[女性オンリーオンサイトイベント【CodeQUEEN 2023】に参加した話](https://d-burioden.hateblo.jp/entry/2023/10/23/220439)、[CodeQUEEN 2023 決勝 参加記](https://abvi.hatenablog.com/entry/2024012600) - 同イベントの参加記。オンサイトイベントへの参加決定までの経緯・コンテストの振り返り・各種イベント・オフ会などについてまとめられている。
+
+### TOUPC001
+
+- [競プロオンサイトは、数名の素晴らしい仲間と覚悟があれば開けるという話。（TOUPC001 開催記）](https://note.com/uruzunyaa/n/n0e83e9a59242) - [TOUPC001](https://onlinejudge.u-aizu.ac.jp/beta/room.html#TOUPC001)の主催者による開催記。コンテストのコンセプト・開催までの経緯と熱意を持って行動することの重要性・当日の会場運営・問題の振り返り・問題作成のTipsなどがまとめられている。
+- [TOUPC001に参加してきた](https://inthebloom.github.io/post/toupc001/) - コンテストの参加記。コンテスト参加の経緯・振り返り・懇親会の様子などがつづられている。
 
 ### UTPC 2023
 
@@ -86,17 +103,6 @@ title: 部活・サークル・同好会・オンサイトイベントに参加�
     !!! info "参考"
 
         問題の解法には一切言及しないことが明記されている。
-
-### CodeQUEEN 2023
-
-<!-- markdown-link-check-disable -->
-
-- [「CodeQUEEN 2023」にスポンサーとしておじゃましてきました！](https://note.e-seikatsu.info/n/n423fde3ccf32) - [CodeQUEEN 2023 決勝](https://atcoder.jp/contests/codequeen2023-final-open)の協賛者が当日を振り返った記事。スポンサー参加の経緯、会場のスナップショット、スポンサーセッション、座談会、コンテストおよび結果発表・表彰式、懇親会の様子がまとめられている。
-
-<!-- markdown-link-check-enable -->
-
-- [CodeQUEEN2023でスポンサーをしたり優勝したりした話](https://www.forcia.com/blog/002760.html) - [CodeQUEEN 2023 決勝](https://atcoder.jp/contests/codequeen2023-final-open)に、個人と会社の両方の立場からイベントの参加内容を報告している記事。スポンサー参加までの経緯やコンテストの振り返りだけでなく、同イベントから高校生のインターンの受け入れと実務的な成果につながったことも言及されている。
-    - [CodeQUEEN2023決勝に出場しました！](https://ayuna-stpyko.github.io/my_blog/archive/20231023.html)、[女性オンリーオンサイトイベント【CodeQUEEN 2023】に参加した話](https://d-burioden.hateblo.jp/entry/2023/10/23/220439)、[CodeQUEEN 2023 決勝 参加記](https://abvi.hatenablog.com/entry/2024012600) - 同イベントの参加記。オンサイトイベントへの参加決定までの経緯・コンテストの振り返り・各種イベント・オフ会などについてまとめられている。
 
 ## コーチングに興味がある人向け
 
