@@ -87,14 +87,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "スポンサー"
-
-    2025-07-21
-
-    GitHub Sponsorsを通じてスポンサー登録していただきました。ご支援いただき、ありがとうございます。
-
-    - [goropikari](https://github.com/goropikari)
-
 === "ユーザスクリプト"
 
     2025-08-02
@@ -162,12 +154,6 @@
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [Ang](https://www.youtube.com/@ang-1630/streams)
 
-    2025-07-21
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [AtCoder World Tour Finals 2025 Algorithm English stream](https://www.youtube.com/watch?v=GSXLhawvkYE)
-        - [AtCoder World Tour Finals 2025 Heuristic](https://www.youtube.com/watch?v=TG3ChQH61vE)
-
 === "ライブラリ・スニペット"
 
     2025-07-26
@@ -190,6 +176,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-08-04
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [satomshr](https://atcoder.jp/users/satomshr)さん - [【色変記事】AtCoder で緑になりました](https://qiita.com/satomshr/items/35b5024c7aab2ce9f820)
 
     2025-07-31
 
