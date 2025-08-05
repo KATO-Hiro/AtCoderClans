@@ -100,6 +100,11 @@
 
 === "記事"
 
+    2025-08-05
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年8月5日時点)](https://x.com/atcoder/status/1952544472220487798)
+
     2025-08-03
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
@@ -117,11 +122,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AtCoder World Tour Finals 2025 Heuristic 参加記](https://www.terry-u16.net/entry/awtf2025heuristic)
-
-    2025-07-22
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年7月22日時点)](https://x.com/atcoder/status/1947472502818804043)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -160,11 +160,6 @@
 
     - 「[Python](libraries/python)」ページ
         - [lavox/procon-python-notebook](https://github.com/lavox/procon-python-notebook/) ![GitHub Repo stars](https://img.shields.io/github/stars/lavox/procon-python-notebook?style=plastic)
-
-    2025-07-22
-
-    - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
-        - [kairi003/ac-library-python-stubs](https://github.com/kairi003/ac-library-python-stubs) ![GitHub stars](https://img.shields.io/github/stars/kairi003/ac-library-python-stubs?style=plastic)
 
 === "コマンドラインツール"
 
