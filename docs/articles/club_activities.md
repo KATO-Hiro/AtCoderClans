@@ -43,7 +43,13 @@ title: 部活・サークル・同好会・オンサイトイベントに参加�
 
 #### 2025
 
-- [CodeQUEEN 2025 参加記](https://momoharahara.hatenadiary.com/entry/2025/08/03/003143) - [CodeQUEEN 2025 決勝](https://atcoder.jp/contests/codequeen2025-final-Public)の優勝者による参加記。予選突破から決勝参加までの練習方針と内容、当日のコンテストや懇親会・オフ会などを振り返っている。
+<!-- markdown-link-check-disable -->
+
+- [CodeQUEEN 2025 に協賛しました！弊社メンバーが入賞しました！](https://www.estie.jp/blog/entry/2025/08/06/101041) - [CodeQUEEN 2025 決勝](https://atcoder.jp/contests/codequeen2025-final-Public)の協賛者による当日レポート。入賞者のコメントやスポンサーとしての活動内容がまとめられている。
+
+<!-- markdown-link-check-enable -->
+
+- [CodeQUEEN 2025 参加記](https://momoharahara.hatenadiary.com/entry/2025/08/03/003143) - 同大会の優勝者による参加記。予選突破から決勝参加までの練習方針と内容、当日のコンテストや懇親会・オフ会などを振り返っている。
 - [CodeQUEEN2025の決勝に行った話](https://note.com/rieul/n/nc12ca268c87c) - 同大会決勝進出者による参加記。予選通過前後の状況・大会直前の練習内容・当日のコンテストの考察と振り返り・懇親会・オフ会などに言及されている。
 
 #### 2024
