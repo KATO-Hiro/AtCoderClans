@@ -69,6 +69,12 @@ title: 問題を解くときの補助ツール
 
 ## グリッド状の図を作成・出力
 
+- [グリッドエディタ](https://paruma.github.io/grid-editor/) - グリッド形式のテストケースを手動で簡単に作成・編集できる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/grid_editor.png" alt="grid editor">
+    </div>
+
 - [Generic Grid Editor](https://snuke.main.jp/gge/) - グリッド状の図を作成・出力できる。
 
     <div align="center">
