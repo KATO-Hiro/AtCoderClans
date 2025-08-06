@@ -4,6 +4,19 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-08-06
+
+- [#10698](https://github.com/KATO-Hiro/AtCoderClans/pull/10698) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページに、以下のWebアプリを追加。
+    - [グリッドエディタ](https://paruma.github.io/grid-editor/)
+- [#10695](https://github.com/KATO-Hiro/AtCoderClans/pull/10695)、[#10697](https://github.com/KATO-Hiro/AtCoderClans/pull/10697) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
+    - [CodeQUEEN2025の決勝に行った話](https://note.com/rieul/n/nc12ca268c87c)
+
+    <!-- markdown-link-check-disable -->
+
+    - [CodeQUEEN 2025 に協賛しました！弊社メンバーが入賞しました！](https://www.estie.jp/blog/entry/2025/08/06/101041)
+
+    <!-- markdown-link-check-enable -->
+
 ### 2025-08-05
 
 - [#10692](https://github.com/KATO-Hiro/AtCoderClans/pull/10692) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。

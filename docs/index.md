@@ -87,6 +87,17 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "Webアプリ・Webサイト"
+
+    2025-08-06
+
+    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
+        - [グリッドエディタ](https://paruma.github.io/grid-editor/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/grid_editor.png" alt="grid editor">
+    </div>
+
 === "ユーザスクリプト"
 
     2025-08-02
@@ -99,6 +110,18 @@
     </div>
 
 === "記事"
+
+    2025-08-06
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+
+        - [CodeQUEEN2025の決勝に行った話](https://note.com/rieul/n/nc12ca268c87c)
+
+        <!-- markdown-link-check-disable -->
+
+        - [CodeQUEEN 2025 に協賛しました！弊社メンバーが入賞しました！](https://www.estie.jp/blog/entry/2025/08/06/101041)
+
+        <!-- markdown-link-check-enable -->
 
     2025-08-05
 
