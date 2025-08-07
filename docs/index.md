@@ -111,6 +111,11 @@
 
 === "記事"
 
+    2025-08-07
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [CodeQUEEN2025決勝に出場しました！【4位！】](https://ayuna-stpyko.github.io/my_blog/archive/20250806.html)
+
     2025-08-06
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
@@ -137,14 +142,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年7月28日時点)](https://x.com/atcoder/status/1949687935366037530)
-
-    2025-07-23
-
-    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
-        - [AI vs 人間まとめ【AtCoder World Tour Finals 2025 Heuristic エキシビジョン】](https://chokudai.hatenablog.com/entry/2025/07/21/190935)
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AtCoder World Tour Finals 2025 Heuristic 参加記](https://www.terry-u16.net/entry/awtf2025heuristic)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
