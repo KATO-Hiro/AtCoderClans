@@ -50,7 +50,7 @@ title: 部活・サークル・同好会・オンサイトイベントに参加�
 <!-- markdown-link-check-enable -->
 
 - [CodeQUEEN 2025 参加記](https://momoharahara.hatenadiary.com/entry/2025/08/03/003143) - 同大会の優勝者による参加記。予選突破から決勝参加までの練習方針と内容、当日のコンテストや懇親会・オフ会などを振り返っている。
-- [CodeQUEEN2025の決勝に行った話](https://note.com/rieul/n/nc12ca268c87c) - 同大会決勝進出者による参加記。予選通過前後の状況・大会直前の練習内容・当日のコンテストの考察と振り返り・懇親会・オフ会などに言及されている。
+- [CodeQUEEN2025決勝に出場しました！【4位！】](https://ayuna-stpyko.github.io/my_blog/archive/20250806.html)、[CodeQUEEN2025の決勝に行った話](https://note.com/rieul/n/nc12ca268c87c) - 同大会決勝の入賞者・参加者による参加記。予選通過前後の状況・大会直前の練習内容・当日のコンテストの考察と振り返り・懇親会・オフ会などに言及されている。
 
 #### 2024
 
