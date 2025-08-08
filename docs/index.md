@@ -153,6 +153,11 @@
 
 === "動画"
 
+    2025-08-08
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [累積和（基本編）競技プログラミングのテクニック](https://www.youtube.com/live/Rtn64a2eitk)
+
     2025-08-02
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
