@@ -27,9 +27,7 @@ title: 個別の動画
     - [0.999…は1か？【ゆっくり解説】](https://www.youtube.com/watch?v=Zp4I_fDtdi8) - 「0.999…」を定義し、1に等しいことを証明している。
     - [結婚定理：N人の女は好みの男と結婚できるか？【ゆっくり解説】](https://www.youtube.com/watch?v=zlawYWmuP4c) - ホールの結婚定理を証明している。
 - [DPの思いつき方](https://www.youtube.com/watch?v=2QDQUj69OiE) - AtCoder Beginner ContestのC問題・D問題で出題される動的計画法（DP）の見分け方・考え方が解説されている。前提知識として、[Educational DP Contest](https://atcoder.jp/contests/dp)のA〜D問題を解けることが求められる。
-    - [[情報I][プログラミング入門] アルゴリズムの思いつき方](https://www.youtube.com/watch?v=Ow3MFqVVYQA) - 初心者向けに、例題を通してフローチャートやアルゴリズムの考え方が分かりやすく解説されている。
-    - [[高校情報I] アルゴリズムとプログラミングを競技プログラミングで学ぼう！](https://www.youtube.com/watch?v=UiT0fFY7P2s) - 高校情報Iのテスト対策として、競技プログラミングの活用と具体的な方法が紹介されている。
-    - [【保護者向け】【非公式】プログラミングを始めたら、情報オリンピックに挑戦しよう！](https://www.youtube.com/watch?v=FIOvhlc8VPc) - 情報オリンピックの概要・例題、費用、練習方法、参加のメリット（大学入試・表彰・交流）などが紹介されている。
+    - [累積和（基本編）競技プログラミングのテクニック](https://www.youtube.com/live/Rtn64a2eitk) - 数列の指定された区間の和を高速に求める方法が紹介されている。
 
     ??? info "関連動画の一覧"
 
@@ -37,6 +35,9 @@ title: 個別の動画
         - [TLE解消法 その1 バケット](https://www.youtube.com/watch?v=66B0oJ51mtE) - プログラムの実行時間制限超過 (TLE) が発生する理由と、その解決方法の一つである「バケット」が紹介されている。
         - [TLE解消法 その2 set](https://www.youtube.com/watch?v=YHvG_qAzLEQ) - 集合を管理するデータ構造 set の使い方が解説されている。
         - [TLE解消法 その3 連想配列](https://www.youtube.com/watch?v=NL8rXIGpRCE) - [TLEに悩み始めた人のための計算量](https://www.youtube.com/watch?v=IOsK87oW438) の続編。ある値に別の値を紐づけて管理できるデータ構造「連想配列」の使い方が解説されている。
+        - [【保護者向け】【非公式】プログラミングを始めたら、情報オリンピックに挑戦しよう！](https://www.youtube.com/watch?v=FIOvhlc8VPc) - 情報オリンピックの概要・例題、費用、練習方法、参加のメリット（大学入試・表彰・交流）などが紹介されている。
+        - [[高校情報I] アルゴリズムとプログラミングを競技プログラミングで学ぼう！](https://www.youtube.com/watch?v=UiT0fFY7P2s) - 高校情報Iのテスト対策として、競技プログラミングの活用と具体的な方法が紹介されている。
+        - [[情報I][プログラミング入門] アルゴリズムの思いつき方](https://www.youtube.com/watch?v=Ow3MFqVVYQA) - 初心者向けに、例題を通してフローチャートやアルゴリズムの考え方が分かりやすく解説されている。
 
 - [【ゆっくり解説】尺取り法と二分探索の「本当の」違い](https://www.youtube.com/watch?v=omD-yyb730k) - シンプルな例題を通して、尺取り法と二分探索で活用されている性質の違いが分かりやすく解説されている。
     - [半分全列挙を「高速化」する【ゆっくり解説】](https://www.youtube.com/watch?v=EUZX4tBqo0M) - 半分全列挙の基本と高速化テクニックが解説されている。
