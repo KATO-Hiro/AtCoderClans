@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-08-09
+
+- [#10710](https://github.com/KATO-Hiro/AtCoderClans/pull/10710) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [AHC050勉強会レポート](https://zenn.dev/algoartis/articles/report_ahc050)
+
 ### 2025-08-08
 
 - [#10706](https://github.com/KATO-Hiro/AtCoderClans/pull/10706) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
