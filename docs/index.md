@@ -111,6 +111,11 @@
 
 === "記事"
 
+    2025-08-09
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AHC050勉強会レポート](https://zenn.dev/algoartis/articles/report_ahc050)
+
     2025-08-07
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
@@ -173,11 +178,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [[高校情報I] アルゴリズムとプログラミングを競技プログラミングで学ぼう！](https://www.youtube.com/watch?v=UiT0fFY7P2s)
-
-    2025-07-25
-
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [Ang](https://www.youtube.com/@ang-1630/streams)
 
 === "ライブラリ・スニペット"
 
