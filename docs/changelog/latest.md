@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-08-10
+
+- [#10714](https://github.com/KATO-Hiro/AtCoderClans/pull/10714) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[miso253oudon](https://atcoder.jp/users/miso253oudon)さんの[記事](https://zenn.dev/miso253udon/articles/00aa0baa78aa40)を追加。
+
 ### 2025-08-09
 
 - [#10710](https://github.com/KATO-Hiro/AtCoderClans/pull/10710) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。

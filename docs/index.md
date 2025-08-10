@@ -174,18 +174,6 @@
         - [白い部分にすっぽり入る最大の円は？](https://www.youtube.com/watch?v=cZ6aWnfZ_ag)
         - [無限ホテルともっと無限の客【ゆっくり解説】](https://www.youtube.com/watch?v=DMYijrdeN5Y)
 
-    2025-07-26
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [[高校情報I] アルゴリズムとプログラミングを競技プログラミングで学ぼう！](https://www.youtube.com/watch?v=UiT0fFY7P2s)
-
-=== "ライブラリ・スニペット"
-
-    2025-07-26
-
-    - 「[Python](libraries/python)」ページ
-        - [lavox/procon-python-notebook](https://github.com/lavox/procon-python-notebook/) ![GitHub Repo stars](https://img.shields.io/github/stars/lavox/procon-python-notebook?style=plastic)
-
 === "コマンドラインツール"
 
     2025-08-01
@@ -196,6 +184,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-08-10
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [miso253oudon](https://atcoder.jp/users/miso253oudon)さん - [[AtCoder] 入茶しました記事](https://zenn.dev/miso253udon/articles/00aa0baa78aa40)
 
     2025-08-04
 
