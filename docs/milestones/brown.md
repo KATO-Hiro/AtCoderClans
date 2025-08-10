@@ -4,6 +4,7 @@ title: レーティング400〜799(茶色)
 
 ## 2025年
 
+- [[AtCoder] 入茶しました記事](https://zenn.dev/miso253udon/articles/00aa0baa78aa40) - [miso253oudon](https://atcoder.jp/users/miso253oudon)さんが、2025年7月6日に公開。
 - [【AtCoder】無事茶色になれたので、入茶までにやったことをまとめてみる！！](https://qiita.com/Litms/items/90276b42673bc890660f) - [Litms](https://atcoder.jp/users/Litms)さんが、2025年6月17日に公開。
 - [入茶記事といふものを、書いてみんとするなり](https://qiita.com/Un_titled/items/28182697bf060cbcfbe3) - [Un_titled](https://atcoder.jp/users/Un_titled)さんが、2025年4月12日に達成。
 - [【色変記事】某国支社長61歳文系、入茶しました(初心者）](https://qiita.com/ytz/items/07898c9afbf451071113) - [ytz](https://atcoder.jp/users/ytz)さんが、2025年3月24日に公開。
