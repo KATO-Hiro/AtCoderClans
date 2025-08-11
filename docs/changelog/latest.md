@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-08-11
+
+- [#10719](https://github.com/KATO-Hiro/AtCoderClans/pull/10719) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[watacco](https://atcoder.jp/users/watacco)さんの[記事](https://sizu.me/natsukawa723/posts/0b65vvsm1h22)を追加。
+
 ### 2025-08-10
 
 - [#10714](https://github.com/KATO-Hiro/AtCoderClans/pull/10714) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
