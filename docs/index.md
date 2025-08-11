@@ -185,6 +185,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2025-08-11
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [watacco](https://atcoder.jp/users/watacco)さん - [AtCoder 入茶 / 2025.08.09](https://sizu.me/natsukawa723/posts/0b65vvsm1h22)
+
     2025-08-10
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
@@ -204,25 +209,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [kiwama](https://atcoder.jp/users/kiwama)さん - [約5年かけて やっとAtCoder水色になった話](https://zenn.dev/kiwamachan/articles/ee89884b27d378)
-
-=== "国内外のコンテストサイト"
-
-    2025-07-27
-
-    - 「[Codeforces](related_contest_sites/codeforces)」ページ
-        - [Carrot](https://chromewebstore.google.com/detail/carrot/gakohpplicjdhhfllilcjpfildodfnnn)
-
-    <div align="center">
-      <img loading="lazy" src="images/related_contest_sites/codeforces/carrot.png" alt="carrot">
-    </div>
-
-=== "アーカイブス"
-
-    諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
-
-    2025-07-27
-
-    - CF-Predictor
 
 ## AtCoder公式グッズを購入する
 
