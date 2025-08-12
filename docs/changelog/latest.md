@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-08-12
+
+- [#10729](https://github.com/KATO-Hiro/AtCoderClans/pull/10729) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [THIRD プログラミングコンテスト 2025 夏（AtCoder Heuristic Contest 051）参加記](https://kaede2020.hatenablog.com/entry/2025/08/11/190035)
+- [#10728](https://github.com/KATO-Hiro/AtCoderClans/pull/10728) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [「8」を重ねずに平面に非可算無限個描けるか？](https://www.youtube.com/watch?v=zWvufLP7_Ao)
+- [#10727](https://github.com/KATO-Hiro/AtCoderClans/pull/10727) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[kanikama0926](https://atcoder.jp/users/kanikama0926)さんの[記事](https://qiita.com/hekiboko/items/a859d84c11fdd6e87d4d)を追加。
+
 ### 2025-08-11
 
 - [#10719](https://github.com/KATO-Hiro/AtCoderClans/pull/10719) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

@@ -111,6 +111,11 @@
 
 === "記事"
 
+    2025-08-12
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [THIRD プログラミングコンテスト 2025 夏（AtCoder Heuristic Contest 051）参加記](https://kaede2020.hatenablog.com/entry/2025/08/11/190035)
+
     2025-08-09
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -143,11 +148,6 @@
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
         - [CodeQUEEN 2025 参加記](https://momoharahara.hatenadiary.com/entry/2025/08/03/003143)
 
-    2025-07-28
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年7月28日時点)](https://x.com/atcoder/status/1949687935366037530)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -157,6 +157,11 @@
         - [AwashAmityOak](https://atcoder.jp/users/AwashAmityOak)さん - [Qiita](https://qiita.com/AwashAmityOak)
 
 === "動画"
+
+    2025-08-12
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [「8」を重ねずに平面に非可算無限個描けるか？](https://www.youtube.com/watch?v=zWvufLP7_Ao)
 
     2025-08-08
 
@@ -184,6 +189,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-08-12
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [kanikama0926](https://atcoder.jp/users/kanikama0926)さん - [入茶したよ！！！](https://qiita.com/hekiboko/items/a859d84c11fdd6e87d4d)
 
     2025-08-11
 
