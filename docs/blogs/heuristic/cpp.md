@@ -91,6 +91,7 @@ title: C&#43;&#43;
 |riantkb|[はてなブログ](https://rian.hatenablog.jp/)||
 |RinSakamichi|[GitHub Pages](https://rinsakamichi.github.io/)||
 |satanic0258|[はてなブログ](https://satanic0258.hatenablog.com/)|2018年9月以降、新規の記事を確認できず。|
+|satoyuki|[はてなブログ](https://tomatokiraida52.hatenablog.com)||
 |Shibuyap|[Qiita](https://qiita.com/Shibuyap)||
 |shindannin|[はてなブログ](https://shindannin.hatenadiary.com/)||
 |shotoyoo|[Qiita](https://qiita.com/shotoyoo)||
