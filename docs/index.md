@@ -151,12 +151,25 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2025-08-13
+
+    - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
+        - [Koi51](https://atcoder.jp/users/Koi51)さん - [Qiita](https://qiita.com/koi51)
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [satoyuki](https://atcoder.jp/users/satoyuki)さん - [はてなブログ](https://tomatokiraida52.hatenablog.com)
+
     2025-08-03
 
     - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
         - [AwashAmityOak](https://atcoder.jp/users/AwashAmityOak)さん - [Qiita](https://qiita.com/AwashAmityOak)
 
 === "動画"
+
+    2025-08-13
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [電たくT](https://www.youtube.com/playlist?list=PLRBtCO0gM_wnUp-bYxogXEF611rgCB6Ev)
 
     2025-08-12
 
@@ -214,11 +227,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [atcoder6](https://atcoder.jp/users/atcoder6)さん - [【入青】入青できたので色々振り返る](https://qiita.com/atcoder6/items/47b022b0924bad61bd10)
-
-    2025-07-29
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [kiwama](https://atcoder.jp/users/kiwama)さん - [約5年かけて やっとAtCoder水色になった話](https://zenn.dev/kiwamachan/articles/ee89884b27d378)
 
 ## AtCoder公式グッズを購入する
 

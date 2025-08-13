@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-08-13
+
+- [#10734](https://github.com/KATO-Hiro/AtCoderClans/pull/10734) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [電たくT](https://www.youtube.com/playlist?list=PLRBtCO0gM_wnUp-bYxogXEF611rgCB6Ev)
+- [#10733](https://github.com/KATO-Hiro/AtCoderClans/pull/10733) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+
 ### 2025-08-12
 
 - [#10729](https://github.com/KATO-Hiro/AtCoderClans/pull/10729) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
