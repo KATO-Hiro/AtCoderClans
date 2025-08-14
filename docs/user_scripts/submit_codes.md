@@ -35,6 +35,14 @@ title: ソースコードの提出・確認を簡単に
       <img loading = "lazy" src="../../images/userscript/atcoder_easy_test.png" alt="atcoder easy test">
     </div>
 
+### ビジュアライザをより使いやすく
+
+- [AHC Visualizer → AtCoder CustomTest Runner](https://greasyfork.org/ja/scripts/545397-ahc-visualizer-atcoder-customtest-runner-fixed-responsetext-guards) - [AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=AtCoder+Heuristic+Contest)のビジュアライザに専用フォームを追加し、ソースコードの実行から出力の結果まで画面を切り替えることなく確認できる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/ahc_visualizer_to_atcoder_customtest_runner.png" alt="">
+    </div>
+
 ## ソースコードを提出する
 
 ### 問題を選択
