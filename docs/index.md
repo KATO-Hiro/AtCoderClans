@@ -100,6 +100,15 @@
 
 === "ユーザスクリプト"
 
+    2025-08-14
+
+    - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
+        - [AHC Visualizer → AtCoder CustomTest Runner](https://greasyfork.org/ja/scripts/545397-ahc-visualizer-atcoder-customtest-runner-fixed-responsetext-guards)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/ahc_visualizer_to_atcoder_customtest_runner.png" alt="ahc visualizer to atcoder customtest runner">
+    </div>
+
     2025-08-02
 
     - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
@@ -185,12 +194,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [[情報I][プログラミング入門] アルゴリズムの思いつき方](https://www.youtube.com/watch?v=Ow3MFqVVYQA)
-
-    2025-07-30
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [白い部分にすっぽり入る最大の円は？](https://www.youtube.com/watch?v=cZ6aWnfZ_ag)
-        - [無限ホテルともっと無限の客【ゆっくり解説】](https://www.youtube.com/watch?v=DMYijrdeN5Y)
 
 === "コマンドラインツール"
 
