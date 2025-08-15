@@ -4,9 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-08-15
+
+- [#10745](https://github.com/KATO-Hiro/AtCoderClans/pull/10745) - 「[Web apps and sites](../../web_app)」の「[クイズ・ゲーム・ネタアプリ](../../web_app/quiz_and_game)」ページに、以下のWebアプリを追加。
+    - [競プロ向けC++](https://typing.twi1.me/game/368871)
+
 ### 2025-08-14
 
-- [#10240](https://github.com/KATO-Hiro/AtCoderClans/pull/10240) - 「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../user_scripts/submit_codes)」ページに、以下のユーザスクリプトを追加。
+- [#10739](https://github.com/KATO-Hiro/AtCoderClans/pull/10739) - 「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../user_scripts/submit_codes)」ページに、以下のユーザスクリプトを追加。
     - [AHC Visualizer → AtCoder CustomTest Runner](https://greasyfork.org/ja/scripts/545397-ahc-visualizer-atcoder-customtest-runner-fixed-responsetext-guards)
 
 ### 2025-08-13

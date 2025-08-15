@@ -59,7 +59,6 @@ title: クイズ・ゲーム・ネタアプリ
       <img loading = "lazy" src="../../images/web_app/cpluspuls_for_competitive_programmer.png" alt="typing game for cpluspuls competitive programmer">
     </div>
 
-
 ## ネタアプリ
 
 ### 問題を解く / ダイエットをサポート

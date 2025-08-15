@@ -89,6 +89,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2025-08-15
+
+    - 「[クイズ・ゲーム・ネタアプリ](web_app/quiz_and_game)」ページ
+        - [競プロ向けC++](https://typing.twi1.me/game/368871)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/cpluspuls_for_competitive_programmer.png" alt="typing game for cpluspuls competitive programmer">
+    </div>
+
     2025-08-06
 
     - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
@@ -225,11 +234,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [satomshr](https://atcoder.jp/users/satomshr)さん - [【色変記事】AtCoder で緑になりました](https://qiita.com/satomshr/items/35b5024c7aab2ce9f820)
-
-    2025-07-31
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [atcoder6](https://atcoder.jp/users/atcoder6)さん - [【入青】入青できたので色々振り返る](https://qiita.com/atcoder6/items/47b022b0924bad61bd10)
 
 ## AtCoder公式グッズを購入する
 
