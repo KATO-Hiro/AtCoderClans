@@ -56,7 +56,7 @@ title: クイズ・ゲーム・ネタアプリ
 - [競プロ向けC++](https://typing.twi1.me/game/368871) - 競技プログラミングでよく使われるC++コードを題材にしたタイピング練習ができる。
 
     <div align="center">
-      <img loading = "lazy" src="../images/web_app/cpluspuls_for_competitive_programmer.png" alt="typing game for cpluspuls competitive programmer">
+      <img loading = "lazy" src="../../images/web_app/cpluspuls_for_competitive_programmer.png" alt="typing game for cpluspuls competitive programmer">
     </div>
 
 
