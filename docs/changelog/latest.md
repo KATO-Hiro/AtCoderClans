@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-08-16
+
+- [#10750](https://github.com/KATO-Hiro/AtCoderClans/pull/10750) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [THIRD プログラミングコンテスト 2025 夏 (AHC051): 7位解法の解説](https://note.com/ymatsux/n/ne82d83292354)
+
 ### 2025-08-15
 
 - [#10745](https://github.com/KATO-Hiro/AtCoderClans/pull/10745) - 「[Web apps and sites](../../web_app)」の「[クイズ・ゲーム・ネタアプリ](../../web_app/quiz_and_game)」ページに、以下のWebアプリを追加。
