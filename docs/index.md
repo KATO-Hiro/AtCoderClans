@@ -129,6 +129,11 @@
 
 === "記事"
 
+    2025-08-16
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [THIRD プログラミングコンテスト 2025 夏 (AHC051): 7位解法の解説](https://note.com/ymatsux/n/ne82d83292354)
+
     2025-08-12
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -203,13 +208,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [[情報I][プログラミング入門] アルゴリズムの思いつき方](https://www.youtube.com/watch?v=Ow3MFqVVYQA)
-
-=== "コマンドラインツール"
-
-    2025-08-01
-
-    - 「[ソースコードにバグがないか確認](cli/test_tools)」ページ
-        - [AHCテストケース実行ツールpahcerの使い方](https://www.terry-u16.net/entry/how-to-use-pahcer)
 
 === "色変記事"
 
