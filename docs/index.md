@@ -89,6 +89,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2025-08-17
+
+    - 「[問題を解く](web_app/solve_problems)」ページ
+        - [Typical90 Ume](https://typical90.win/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/typical90_ume.png" alt="typical90 ume">
+    </div>
+
     2025-08-15
 
     - 「[クイズ・ゲーム・ネタアプリ](web_app/quiz_and_game)」ページ
@@ -232,6 +241,17 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [satomshr](https://atcoder.jp/users/satomshr)さん - [【色変記事】AtCoder で緑になりました](https://qiita.com/satomshr/items/35b5024c7aab2ce9f820)
+
+=== "国内外のコンテストサイト"
+
+    2025-08-17
+
+    - 「[Codeforces](related_contest_sites/codeforces)」ページ
+        - [CFTracker](https://cftracker.netlify.app/contests)
+
+    <div align="center">
+      <img loading="lazy" src="images/related_contest_sites/codeforces/cftracker.png" alt="cftracker">
+    </div>
 
 ## AtCoder公式グッズを購入する
 

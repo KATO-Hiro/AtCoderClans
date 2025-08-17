@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-08-17
+
+- [#10755](https://github.com/KATO-Hiro/AtCoderClans/pull/10755) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のWebサービスを追加。
+    - [Typical90 Ume](https://typical90.win/)
+- [#10753](https://github.com/KATO-Hiro/AtCoderClans/pull/10753) - 「[Related Contest Sites](../../related_contest_sites)」の「[Codeforces](../../related_contest_sites/codeforces)」ページに、以下のWebサービスを追加。また、関連サービスの説明文を更新。
+    - [CFTracker](https://cftracker.netlify.app/contests)
+
 ### 2025-08-16
 
 - [#10750](https://github.com/KATO-Hiro/AtCoderClans/pull/10750) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
