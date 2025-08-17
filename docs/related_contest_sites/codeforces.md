@@ -16,19 +16,28 @@ title: Codeforces
 
 ### 問題を解く
 
-- [CF-Problems](https://tom0727.github.io/cf-problems/) - 開催されたコンテストの問題、ユーザの正誤状況を一覧できるWebアプリ。また、類似したサービスとして、[Codeforces Problems](https://cf.kira924age.com/#/table/)や[CONTEST MANIA](https://contestmania.web.app/)がある。
+開催されたコンテストの問題が表形式で整理されており、ユーザ名を入力すると正誤状況が確認できます。
+
+- [CF-Problems](https://tom0727.github.io/cf-problems/)
 
     <div align="center">
       <img loading = "lazy" src="../../images/related_contest_sites/codeforces/cf_problems_3rd.png" alt="cf problems 3rd">
     </div>
 
-- [Codeforces Problems](https://cf.kira924age.com/#/table/) - 開催されたコンテストの問題、ユーザの正誤状況などを一覧できるWebアプリ。作者による使用技術の[解説記事](https://kira000.hatenadiary.jp/entry/2021/03/06/123556)もある。
+- [CFTracker](https://cftracker.netlify.app/contests) - 問題の検索や各種統計情報（回答の提出状況、問題の難易度別・コンテスト区分別の正解率など）も確認できる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/related_contest_sites/codeforces/cftracker.png" alt="cftracker">
+    </div>
+
+- [Codeforces Problems](https://cf.kira924age.com/#/table/) - [AtCoder Problems](https://kenkoooo.com/atcoder/)のUIを参考にしており、ユーザの統計情報も確認できる。
+    - [作者による技術解説](https://kira000.hatenadiary.jp/entry/2021/03/06/123556)
 
     <div align="center">
       <img loading = "lazy" src="../../images/related_contest_sites/codeforces/cf_problems_2nd.png" alt="cf problems 2nd">
     </div>
 
-- [CONTEST MANIA](https://contestmania.web.app/) - 開催されたコンテストの問題を一覧できるWebアプリ。ユーザ名を入力することで、正誤状況を把握できる。
+- [CONTEST MANIA](https://contestmania.web.app/) - コンテストの名称・区分、問題番号やカテゴリで検索できる。
 
     <div align="center">
       <img loading = "lazy" src="../../images/related_contest_sites/codeforces/contest_mania.png" alt="contest mania">
