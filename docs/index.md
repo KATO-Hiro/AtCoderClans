@@ -138,6 +138,11 @@
 
 === "記事"
 
+    2025-08-17
+
+    - 「[資料集](materials)」ページ
+        - [[Acompany]競プロ勉強会](https://acompany-ac.notion.site/Acompany-2a223ce97b84469aa677d0c868ed9f4f)
+
     2025-08-16
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ

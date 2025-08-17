@@ -6,6 +6,8 @@ title: Change Log
 
 ### 2025-08-17
 
+- [#10760](https://github.com/KATO-Hiro/AtCoderClans/pull/10760) - [drogskol](https://x.com/cureskol)さんのご紹介で、「[Articles, Blogs, Books and Videos](../../media)」の「[資料集](../../materials)」ページに、以下の資料集を追加。
+    - [[Acompany]競プロ勉強会](https://acompany-ac.notion.site/Acompany-2a223ce97b84469aa677d0c868ed9f4f)
 - [#10755](https://github.com/KATO-Hiro/AtCoderClans/pull/10755) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のWebサービスを追加。
     - [Typical90 Ume](https://typical90.win/)
 - [#10753](https://github.com/KATO-Hiro/AtCoderClans/pull/10753) - 「[Related Contest Sites](../../related_contest_sites)」の「[Codeforces](../../related_contest_sites/codeforces)」ページに、以下のWebサービスを追加。また、関連サービスの説明文を更新。
