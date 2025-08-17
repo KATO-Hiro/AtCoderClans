@@ -27,6 +27,14 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/web_app/virtual_judge.png" alt="virtual judge">
     </div>
 
+## 典型的なアルゴリズム・考え方を学ぶ
+
+- [Typical90 Ume](https://typical90.win/) - [競プロ典型90問](https://atcoder.jp/contests/typical90)の正誤状況が確認できる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/typical90_ume.png" alt="typical90 ume">
+    </div>
+
 ## 特定の分野・難易度を重点的に学ぶ
 
 - [AtCoder Gacha](https://atcoder-gacha.onrender.com/) - 難易度や正誤状況を指定して、問題を絞り込むことができる。

@@ -46,6 +46,7 @@ title: "Q8: 脱初心者に向けて、次は何をすればいいですか?"
     - [Qiita](https://qiita.com/e869120/items/1b2a5f0f07fd927e44e9) - コンテンツの活用方法
     - [GitHub](https://github.com/E869120/kyopro_educational_90) - 解説やサンプルコード
     - [Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1GG4Higis4n4GJBViVltjcbuNfyr31PzUY_ZY1zh2GuI/edit#gid=0) - 問題の難易度表(非公式)
+    - [Typical90 Ume](https://typical90.win/) - 有志による正誤状況が確認できるWebサービス
 
 ## 解答の提出前に入出力例の確認をしましょう
 
