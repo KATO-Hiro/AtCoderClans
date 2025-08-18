@@ -127,16 +127,12 @@
       <img loading="lazy" src="images/userscript/ahc_visualizer_to_atcoder_customtest_runner.png" alt="ahc visualizer to atcoder customtest runner">
     </div>
 
-    2025-08-02
-
-    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
-        - [AtCoder Title Changer](https://greasyfork.org/ja/scripts/544199-atcoder-title-changer)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_title_changer.png" alt="atcoder title changer">
-    </div>
-
 === "記事"
+
+    2025-08-18
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年8月18日時点)](https://x.com/atcoder/status/1957258206788587980)
 
     2025-08-17
 
@@ -217,11 +213,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [累積和（基本編）競技プログラミングのテクニック](https://www.youtube.com/live/Rtn64a2eitk)
-
-    2025-08-02
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [[情報I][プログラミング入門] アルゴリズムの思いつき方](https://www.youtube.com/watch?v=Ow3MFqVVYQA)
 
 === "色変記事"
 
