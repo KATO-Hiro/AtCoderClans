@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-08-19
+
+- [#10769](https://github.com/KATO-Hiro/AtCoderClans/pull/10769) - (破壊的な変更) 「[Change Log](../latest)」ページの2025年6月分を月別のアーカイブに移動。
+    - [June, 2025](../2025_06)
+
 ### 2025-08-18
 
 - [#10766](https://github.com/KATO-Hiro/AtCoderClans/pull/10766) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。

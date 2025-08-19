@@ -176,11 +176,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年8月5日時点)](https://x.com/atcoder/status/1952544472220487798)
 
-    2025-08-03
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-        - [CodeQUEEN 2025 参加記](https://momoharahara.hatenadiary.com/entry/2025/08/03/003143)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -191,11 +186,6 @@
 
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
         - [satoyuki](https://atcoder.jp/users/satoyuki)さん - [はてなブログ](https://tomatokiraida52.hatenablog.com)
-
-    2025-08-03
-
-    - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
-        - [AwashAmityOak](https://atcoder.jp/users/AwashAmityOak)さん - [Qiita](https://qiita.com/AwashAmityOak)
 
 === "動画"
 
