@@ -286,6 +286,7 @@ nav:
   - Change Log:
       - changelog/latest.md
       - 2025:
+          - June, 2025: changelog/2025_06.md
           - May, 2025: changelog/2025_05.md
           - April, 2025: changelog/2025_04.md
           - March, 2025: changelog/2025_03.md
