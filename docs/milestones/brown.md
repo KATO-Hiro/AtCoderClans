@@ -4,6 +4,7 @@ title: レーティング400〜799(茶色)
 
 ## 2025年
 
+- [【AtCoder】入茶できたので､記録を残す｡](https://qiita.com/japaneseotaku/items/0036a539c68c735cbc74) - [japaneseotaku](https://atcoder.jp/users/japaneseotaku)さんが、2025年8月16日に達成。
 - [入茶したよ！！！](https://qiita.com/hekiboko/items/a859d84c11fdd6e87d4d) - [kanikama0926](https://atcoder.jp/users/kanikama0926)さんが、2025年8月9日に達成。
 - [AtCoder 入茶 / 2025.08.09](https://sizu.me/natsukawa723/posts/0b65vvsm1h22) - [watacco](https://atcoder.jp/users/watacco)さんが、2025年8月9日に達成。
 - [[AtCoder] 入茶しました記事](https://zenn.dev/miso253udon/articles/00aa0baa78aa40) - [miso253oudon](https://atcoder.jp/users/miso253oudon)さんが、2025年7月6日に公開。
