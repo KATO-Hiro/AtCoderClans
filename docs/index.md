@@ -228,11 +228,6 @@
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [miso253oudon](https://atcoder.jp/users/miso253oudon)さん - [[AtCoder] 入茶しました記事](https://zenn.dev/miso253udon/articles/00aa0baa78aa40)
 
-    2025-08-04
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [satomshr](https://atcoder.jp/users/satomshr)さん - [【色変記事】AtCoder で緑になりました](https://qiita.com/satomshr/items/35b5024c7aab2ce9f820)
-
 === "国内外のコンテストサイト"
 
     2025-08-17
