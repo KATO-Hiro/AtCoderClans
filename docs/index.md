@@ -208,6 +208,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2025-08-20
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [japaneseotaku](https://atcoder.jp/users/japaneseotaku)さん - [【AtCoder】入茶できたので､記録を残す｡](https://qiita.com/japaneseotaku/items/0036a539c68c735cbc74)
+
     2025-08-12
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
@@ -222,11 +227,6 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [miso253oudon](https://atcoder.jp/users/miso253oudon)さん - [[AtCoder] 入茶しました記事](https://zenn.dev/miso253udon/articles/00aa0baa78aa40)
-
-    2025-08-04
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [satomshr](https://atcoder.jp/users/satomshr)さん - [【色変記事】AtCoder で緑になりました](https://qiita.com/satomshr/items/35b5024c7aab2ce9f820)
 
 === "国内外のコンテストサイト"
 

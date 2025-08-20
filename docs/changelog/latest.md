@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-08-20
+
+- [#10774](https://github.com/KATO-Hiro/AtCoderClans/pull/10774) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[japaneseotaku](https://atcoder.jp/users/japaneseotaku)さんの[記事](https://qiita.com/japaneseotaku/items/0036a539c68c735cbc74)を追加。
+
 ### 2025-08-19
 
 - [#10769](https://github.com/KATO-Hiro/AtCoderClans/pull/10769) - (破壊的な変更) 「[Change Log](../latest)」ページの2025年6月分を月別のアーカイブに移動。
