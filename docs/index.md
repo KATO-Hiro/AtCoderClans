@@ -107,15 +107,6 @@
       <img loading="lazy" src="images/web_app/cpluspuls_for_competitive_programmer.png" alt="typing game for cpluspuls competitive programmer">
     </div>
 
-    2025-08-06
-
-    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
-        - [グリッドエディタ](https://paruma.github.io/grid-editor/)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/grid_editor.png" alt="grid editor">
-    </div>
-
 === "ユーザスクリプト"
 
     2025-08-14
@@ -158,23 +149,6 @@
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
         - [CodeQUEEN2025決勝に出場しました！【4位！】](https://ayuna-stpyko.github.io/my_blog/archive/20250806.html)
-
-    2025-08-06
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-
-        - [CodeQUEEN2025の決勝に行った話](https://note.com/rieul/n/nc12ca268c87c)
-
-        <!-- markdown-link-check-disable -->
-
-        - [CodeQUEEN 2025 に協賛しました！弊社メンバーが入賞しました！](https://www.estie.jp/blog/entry/2025/08/06/101041)
-
-        <!-- markdown-link-check-enable -->
-
-    2025-08-05
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年8月5日時点)](https://x.com/atcoder/status/1952544472220487798)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
