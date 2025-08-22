@@ -89,6 +89,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2025-08-22
+
+    - 「[問題を解く](web_app/solve_problems)」ページ
+        - [AtCoder Random Picker](https://atcoder-random-picker.pages.dev/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/atcoder_random_picker.png" alt="atcoder random picker">
+    </div>
+
     2025-08-17
 
     - 「[問題を解く](web_app/solve_problems)」ページ
@@ -144,11 +153,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AHC050勉強会レポート](https://zenn.dev/algoartis/articles/report_ahc050)
-
-    2025-08-07
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-        - [CodeQUEEN2025決勝に出場しました！【4位！】](https://ayuna-stpyko.github.io/my_blog/archive/20250806.html)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。

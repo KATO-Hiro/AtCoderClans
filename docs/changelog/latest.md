@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-08-22
+
+- [#10779](https://github.com/KATO-Hiro/AtCoderClans/pull/10779) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のWebサービスを追加。
+    - [AtCoder Random Picker](https://atcoder-random-picker.pages.dev/)
+
 ### 2025-08-21
 
 - [#10777](https://github.com/KATO-Hiro/AtCoderClans/pull/10777) - (破壊的な変更) 「[Change Log](../latest)」ページの2025年7月分を月別のアーカイブに移動。
