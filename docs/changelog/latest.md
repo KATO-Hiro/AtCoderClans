@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-08-23
+
+- [#10787](https://github.com/KATO-Hiro/AtCoderClans/pull/10787) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Graph Visualizer](https://greasyfork.org/ja/scripts/546107-atcoder-graph-visualizer)
+- [#10786](https://github.com/KATO-Hiro/AtCoderClans/pull/10786) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [THIRD プログラミングコンテスト 2025 夏 (AHC051) 解説](https://www.terry-u16.net/entry/ahc051)
+
 ### 2025-08-22
 
 - [#10779](https://github.com/KATO-Hiro/AtCoderClans/pull/10779) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のWebサービスを追加。
