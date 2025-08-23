@@ -118,6 +118,15 @@
 
 === "ユーザスクリプト"
 
+    2025-08-23
+
+    - 「[問題を解く](user_scripts/solve_problems)」ページ
+        - [AtCoder Graph Visualizer](https://greasyfork.org/ja/scripts/546107-atcoder-graph-visualizer)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_graph_visualizer.png" alt="atcoder graph visualizer">
+    </div>
+
     2025-08-14
 
     - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
@@ -128,6 +137,11 @@
     </div>
 
 === "記事"
+
+    2025-08-23
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [THIRD プログラミングコンテスト 2025 夏 (AHC051) 解説](https://www.terry-u16.net/entry/ahc051)
 
     2025-08-18
 
@@ -176,11 +190,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [「8」を重ねずに平面に非可算無限個描けるか？](https://www.youtube.com/watch?v=zWvufLP7_Ao)
-
-    2025-08-08
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [累積和（基本編）競技プログラミングのテクニック](https://www.youtube.com/live/Rtn64a2eitk)
 
 === "色変記事"
 
