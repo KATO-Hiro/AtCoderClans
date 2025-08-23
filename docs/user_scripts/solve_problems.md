@@ -199,6 +199,14 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/atcoder_collect_all_examples.png" alt="atcoder collect all examples">
     </div>
 
+### 入力例からグラフを描画
+
+- [AtCoder Graph Visualizer](https://greasyfork.org/ja/scripts/546107-atcoder-graph-visualizer) - 「問題」ページの入力例でグラフが与えられたときに、形状を推定・表示する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_graph_visualizer.png" alt="atcoder graph visualizer">
+    </div>
+
 ### ヒントを見る
 
 - [AtCoderTags_Hint](https://greasyfork.org/ja/scripts/393337-atcodertags-hint) - 「問題」ページにカテゴリーを表すヒントボタンを設置する。
