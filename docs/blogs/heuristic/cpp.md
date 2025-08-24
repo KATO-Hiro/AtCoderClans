@@ -72,6 +72,7 @@ title: C&#43;&#43;
 |hirayuu_At|[はてなブログ](https://halc-kyopro.hatenablog.com/)||
 |hirokazu1020|[はてなブログ](https://hirokazu1020.hatenablog.com/)||
 |hogloid|[はてなブログ](https://hogloid.hatenablog.com/)||
+|hotpepsi|[Qiita](https://qiita.com/hotpepsi)||
 |itigo|[はてなブログ](https://ichigokunn.hatenablog.com/)||
 |KKT89|[はてなブログ](https://kkt89.hatenablog.com/)||
 |kotatsugame|[はてなブログ](https://kotatsugame.hatenablog.com/)||
