@@ -171,6 +171,11 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2025-08-24
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [hotpepsi](https://atcoder.jp/users/hotpepsi)さん - [Qiita](https://qiita.com/hotpepsi)
+
     2025-08-13
 
     - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
@@ -180,6 +185,11 @@
         - [satoyuki](https://atcoder.jp/users/satoyuki)さん - [はてなブログ](https://tomatokiraida52.hatenablog.com)
 
 === "動画"
+
+    2025-08-24
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [当たり前だが証明が難しい素数の定理](https://www.youtube.com/watch?v=9u6aFrUFHak)
 
     2025-08-13
 
