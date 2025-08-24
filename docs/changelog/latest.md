@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-08-24
+
+- [#10791](https://github.com/KATO-Hiro/AtCoderClans/pull/10791) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [当たり前だが証明が難しい素数の定理](https://www.youtube.com/watch?v=9u6aFrUFHak)
+- [#10789](https://github.com/KATO-Hiro/AtCoderClans/pull/10789) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
+
 ### 2025-08-23
 
 - [#10787](https://github.com/KATO-Hiro/AtCoderClans/pull/10787) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。

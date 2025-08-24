@@ -163,13 +163,13 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [THIRD プログラミングコンテスト 2025 夏（AtCoder Heuristic Contest 051）参加記](https://kaede2020.hatenablog.com/entry/2025/08/11/190035)
 
-    2025-08-09
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AHC050勉強会レポート](https://zenn.dev/algoartis/articles/report_ahc050)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2025-08-24
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [hotpepsi](https://atcoder.jp/users/hotpepsi)さん - [Qiita](https://qiita.com/hotpepsi)
 
     2025-08-13
 
@@ -180,6 +180,11 @@
         - [satoyuki](https://atcoder.jp/users/satoyuki)さん - [はてなブログ](https://tomatokiraida52.hatenablog.com)
 
 === "動画"
+
+    2025-08-24
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [当たり前だが証明が難しい素数の定理](https://www.youtube.com/watch?v=9u6aFrUFHak)
 
     2025-08-13
 
