@@ -163,11 +163,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [THIRD プログラミングコンテスト 2025 夏（AtCoder Heuristic Contest 051）参加記](https://kaede2020.hatenablog.com/entry/2025/08/11/190035)
 
-    2025-08-09
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AHC050勉強会レポート](https://zenn.dev/algoartis/articles/report_ahc050)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
