@@ -92,3 +92,17 @@ title: ネタスクリプト
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/toyota_mayuko_atcoder.png" alt="toyota mayuko atcoder">
     </div>
+
+## 順位表にアイコンを追加
+
+- [AtCoder's greatest moment](https://greasyfork.org/ja/scripts/546264-atcoder-s-greatest-moment) - 「順位表」ページで、コンテスト中に1問も正解できなかったユーザ名の右側に☀️マークを表示する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoders_greatest_moment.png" alt="atcoders greatest moment">
+    </div>
+
+    !!! warning "注意"
+
+        高難度のコンテスト後にSNSに投稿されるミーム「0完太陽」（[出典](https://qnighy.github.io/informatics-olympiad/joi-glossary.html)）を元にしたジョーク的な演出。
+
+        特定のユーザを揶揄する意図はないと思われるが、閲覧者によっては不快に感じる場合があるため、表示・利用には配慮が必要。
