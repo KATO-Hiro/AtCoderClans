@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-08-25
+
+- [#10796](https://github.com/KATO-Hiro/AtCoderClans/pull/10796) - 「[Scripts](../../scripts)」の「[ネタスクリプト](../../user_scripts/jokes)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder's greatest moment](https://greasyfork.org/ja/scripts/546264-atcoder-s-greatest-moment)
+
 ### 2025-08-24
 
 - [#10791](https://github.com/KATO-Hiro/AtCoderClans/pull/10791) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。

@@ -118,6 +118,21 @@
 
 === "ユーザスクリプト"
 
+    2025-08-25
+
+    - 「[ネタスクリプト](user_scripts/jokes)」ページ
+        - [AtCoder's greatest moment](https://greasyfork.org/ja/scripts/546264-atcoder-s-greatest-moment)
+
+            !!! warning "注意"
+
+                高難度のコンテスト後にSNSに投稿されるミーム「0完太陽」（[出典](https://qnighy.github.io/informatics-olympiad/joi-glossary.html)）を元にしたジョーク的な演出。
+
+                特定のユーザを揶揄する意図はないと思われるが、閲覧者によっては不快に感じる場合があるため、表示・利用には配慮が必要。
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoders_greatest_moment.png" alt="atcoders greatest moment">
+    </div>
+
     2025-08-23
 
     - 「[問題を解く](user_scripts/solve_problems)」ページ
@@ -214,11 +229,6 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [watacco](https://atcoder.jp/users/watacco)さん - [AtCoder 入茶 / 2025.08.09](https://sizu.me/natsukawa723/posts/0b65vvsm1h22)
-
-    2025-08-10
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [miso253oudon](https://atcoder.jp/users/miso253oudon)さん - [[AtCoder] 入茶しました記事](https://zenn.dev/miso253udon/articles/00aa0baa78aa40)
 
 === "国内外のコンテストサイト"
 
