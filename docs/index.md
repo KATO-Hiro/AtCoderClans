@@ -225,11 +225,6 @@
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [kanikama0926](https://atcoder.jp/users/kanikama0926)さん - [入茶したよ！！！](https://qiita.com/hekiboko/items/a859d84c11fdd6e87d4d)
 
-    2025-08-11
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [watacco](https://atcoder.jp/users/watacco)さん - [AtCoder 入茶 / 2025.08.09](https://sizu.me/natsukawa723/posts/0b65vvsm1h22)
-
 === "国内外のコンテストサイト"
 
     2025-08-17
