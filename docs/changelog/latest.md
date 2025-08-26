@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-08-26
+
+- [#10802](https://github.com/KATO-Hiro/AtCoderClans/pull/10802) - (破壊的な変更) ブログのユーザ名の更新に追従。
+
 ### 2025-08-25
 
 - [#10796](https://github.com/KATO-Hiro/AtCoderClans/pull/10796) - 「[Scripts](../../scripts)」の「[ネタスクリプト](../../user_scripts/jokes)」ページに、以下のユーザスクリプトを追加。
