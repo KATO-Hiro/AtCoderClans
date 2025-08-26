@@ -65,7 +65,7 @@ title: レーティング800〜1199(緑色)
 - [JKです。atcoder緑です。](https://qiita.com/Kujira_Box/items/4f0df07b2ad536a67e07) - [KujiraBox](https://atcoder.jp/users/KujiraBox)さんが、2023年2月20日に公開。
 - [【色変記事】Web系一般高校生が緑コーダーになるまで](https://qiita.com/ZOI_dayo/items/3548d3081ac7c44f8669) - [ZOIZOI](https://atcoder.jp/users/ZOIZOI)さんが、2023年2月19日に達成。
 - [【色変記事】AtCoder入緑したので振り返ってみた](https://zenn.dev/taniigo/articles/b5fbfd87030e80) - [TaniiGo](https://atcoder.jp/users/TaniiGo)さんが、2023年2月19日に達成。
-- [【色変記事】入緑しました！読んで！](https://note.com/likaf/n/n01bbc375d1ed) - [LiKaf](https://atcoder.jp/users/LiKaf)さんが、2023年2月14日に公開。
+- [【色変記事】入緑しました！読んで！](https://note.com/likafu/n/n01bbc375d1ed) - [LiKafu](https://atcoder.jp/users/LiKafu)さんが、2023年2月14日に公開。
 - [【AtCoder】入緑しました](https://qiita.com/seeton_kyoupro/items/783cb08e5d2668109d09) - [seeton](https://atcoder.jp/users/seeton)さんが、2023年1月21日に達成。
 
 ## 2022年
