@@ -36,7 +36,7 @@ title: レーティング1200〜1599(水色)
 
 - [競プロ未経験から1年でAtCoder水色になった話。](https://note.com/jikky1618/n/n3298c09633dc) - [Jikky1618](https://atcoder.jp/users/Jikky1618)さんが、2023年12月25日に公開。
 - [入水しました！！！！！！！！ - Shin_pppのブログ](https://shin-ppp.hatenablog.com/entry/2023/12/21/204232) - [shin3110](https://atcoder.jp/users/shin3110)さんが、2023年12月9日に達成。
-- [入水しました！](https://note.com/likaf/n/n1957fa5cb178) - [LiKaf](https://atcoder.jp/users/LiKaf)さんが、2023年11月4日に達成。
+- [入水しました！](https://note.com/likafu/n/n1957fa5cb178) - [LiKafu](https://atcoder.jp/users/LiKafu)さんが、2023年11月4日に達成。
 - [50代半ばでAtCoder入水しました](https://qiita.com/tosh55/items/4153942b4bac39e0e5a8) - [tosh55](https://atcoder.jp/users/tosh55)さんが、2023年10月25日に公開。
 - [Fortran vs AtCoder 〜みずいろになれたよ〜](https://qiita.com/osada-yum/items/fdc6ec8ff1436258ed01) - [MrTired](https://atcoder.jp/users/MrTired)さんが、2023年10月22日に公開。
 - [AtCoder入水記事！！](https://qiita.com/Toncochan/items/a131519f7431f9da0882) - [Toncochan](https://atcoder.jp/users/Toncochan)さんが、2023年10月7日に公開。
