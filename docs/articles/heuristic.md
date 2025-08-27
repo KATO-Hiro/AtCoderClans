@@ -166,6 +166,7 @@ title: ヒューリスティック問題を解く
 - [あえて考えなかった4時間：AIにすべてを任せたAHC047参戦記](https://note.com/tak_nakamori/n/n847bf483d44c) - [TakahiroNakamori](https://atcoder.jp/users/TakahiroNakamori)さんによる参加記。[トヨタ自動車プログラミングコンテスト2025#2（AtCoder Heuristic Contest 047）](https://atcoder.jp/contests/ahc047)で、意図的に生成AIに「すべてを任せる」ことで見えた壁・本業の成果物との違い・実験から得られた仮説がつづられている。
 - [AHC050勉強会レポート](https://zenn.dev/algoartis/articles/report_ahc050) - [AtCoder Heuristic Contest 050](https://atcoder.jp/contests/ahc050)を題材にした社内勉強会で、コンテスト当日の考察や振り返りがまとめられている。
 - [THIRD プログラミングコンテスト 2025 夏 (AHC051): 7位解法の解説](https://note.com/ymatsux/n/ne82d83292354) - [ymatsux](https://atcoder.jp/users/ymatsux)さんによる[THIRD プログラミングコンテスト 2025 夏（AtCoder Heuristic Contest 051）](https://atcoder.jp/contests/ahc051)の解説。基本方針、解を得るための3ステップ、さらに高速化の工夫が紹介されている。
+- [AHC052参加記](https://keroru10.hatenablog.com/entry/2025/08/26/223054) - [keroru](https://atcoder.jp/users/keroru)さんによる[AtCoder Heuristic Contest 052](https://atcoder.jp/contests/ahc052)の参加記。コンテスト中の考察や立ち回り、生成AIにソースコードを実装させるための具体的な指示が紹介されている。
 - [FakePsyho/cpcontests](https://github.com/FakePsyho/cpcontests) ![GitHub Repo stars](https://img.shields.io/github/stars/FakePsyho/cpcontests?style=plastic) - [Psyho](https://atcoder.jp/users/Psyho)さんが参加したコンテストの解答の方針とソースコードがまとめられている。
 
     ---
