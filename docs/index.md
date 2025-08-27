@@ -153,6 +153,14 @@
 
 === "記事"
 
+    2025-08-27
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AHC052参加記](https://keroru10.hatenablog.com/entry/2025/08/26/223054)
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年8月26日時点)](https://x.com/atcoder/status/1960171185205043448)
+
     2025-08-23
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -173,11 +181,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [THIRD プログラミングコンテスト 2025 夏 (AHC051): 7位解法の解説](https://note.com/ymatsux/n/ne82d83292354)
 
-    2025-08-12
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [THIRD プログラミングコンテスト 2025 夏（AtCoder Heuristic Contest 051）参加記](https://kaede2020.hatenablog.com/entry/2025/08/11/190035)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -196,6 +199,11 @@
 
 === "動画"
 
+    2025-08-27
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [99％数学の問題がプログラミングコンテストに出た件](https://www.youtube.com/watch?v=5KHjGZysb68)
+
     2025-08-24
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
@@ -206,11 +214,6 @@
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [電たくT](https://www.youtube.com/playlist?list=PLRBtCO0gM_wnUp-bYxogXEF611rgCB6Ev)
 
-    2025-08-12
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [「8」を重ねずに平面に非可算無限個描けるか？](https://www.youtube.com/watch?v=zWvufLP7_Ao)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
@@ -219,11 +222,6 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [japaneseotaku](https://atcoder.jp/users/japaneseotaku)さん - [【AtCoder】入茶できたので､記録を残す｡](https://qiita.com/japaneseotaku/items/0036a539c68c735cbc74)
-
-    2025-08-12
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [kanikama0926](https://atcoder.jp/users/kanikama0926)さん - [入茶したよ！！！](https://qiita.com/hekiboko/items/a859d84c11fdd6e87d4d)
 
 === "国内外のコンテストサイト"
 

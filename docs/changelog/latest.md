@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-08-27
+
+- [#10808](https://github.com/KATO-Hiro/AtCoderClans/pull/10808) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [AHC052参加記](https://keroru10.hatenablog.com/entry/2025/08/26/223054)
+- [#10805](https://github.com/KATO-Hiro/AtCoderClans/pull/10805) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [99％数学の問題がプログラミングコンテストに出た件](https://www.youtube.com/watch?v=5KHjGZysb68)
+- [#10804](https://github.com/KATO-Hiro/AtCoderClans/pull/10804) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
+    - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年8月26日時点)](https://x.com/atcoder/status/1960171185205043448)
+
 ### 2025-08-26
 
 - [#10802](https://github.com/KATO-Hiro/AtCoderClans/pull/10802) - (破壊的な変更) ブログのユーザ名の更新に追従。
