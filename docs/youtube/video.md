@@ -47,10 +47,11 @@ title: 個別の動画
 ### 数学・パズルに関する問題
 
 - [100サイズの箱は80サイズの箱に入るか？【ゆっくり解説】](https://www.youtube.com/watch?v=8wT7V-Pw6_w) - 直方体の縦・横・高さの合計でサイズを計る場合に、大きい箱が小さい箱に入るかどうかを示している。
-    - [99％数学の問題がプログラミングコンテストに出た件](https://www.youtube.com/watch?v=5KHjGZysb68) - (注: ネタバレあり) [AtCoder Beginner Contest 420](https://atcoder.jp/contests/abc420)のG問題の解説。
+    - [「次のカードが赤なら勝ち」ゲームに戦略はあるか？](https://www.youtube.com/watch?v=rloUgDoidyk) - トランプ52枚をシャッフルし、上からカードを選んで、その次が赤色なら勝利するゲームで、勝率50%を超える戦略の有無が解説されている。
 
     ??? info "関連動画の一覧"
 
+        - [99％数学の問題がプログラミングコンテストに出た件](https://www.youtube.com/watch?v=5KHjGZysb68) - (注: ネタバレあり) [AtCoder Beginner Contest 420](https://atcoder.jp/contests/abc420)のG問題の解説。
         - [当たり前だが証明が難しい素数の定理](https://www.youtube.com/watch?v=9u6aFrUFHak) - 「ベルトランの仮説」について、エルデシュによる証明が紹介されている。
         - [「8」を重ねずに平面に非可算無限個描けるか？](https://www.youtube.com/watch?v=zWvufLP7_Ao) - 以下の動画の続編。題意を満たすかどうか示されている。
         - [無限ホテルともっと無限の客【ゆっくり解説】](https://www.youtube.com/watch?v=DMYijrdeN5Y) - 宿泊施設に客を割り当てる問題を通して、実数全体の集合が非可算であることが説明されている。
