@@ -189,15 +189,12 @@
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
         - [hotpepsi](https://atcoder.jp/users/hotpepsi)さん - [Qiita](https://qiita.com/hotpepsi)
 
-    2025-08-13
-
-    - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
-        - [Koi51](https://atcoder.jp/users/Koi51)さん - [Qiita](https://qiita.com/koi51)
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [satoyuki](https://atcoder.jp/users/satoyuki)さん - [はてなブログ](https://tomatokiraida52.hatenablog.com)
-
 === "動画"
+
+    2025-08-28
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [「次のカードが赤なら勝ち」ゲームに戦略はあるか？](https://www.youtube.com/watch?v=rloUgDoidyk)
 
     2025-08-27
 
@@ -208,11 +205,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [当たり前だが証明が難しい素数の定理](https://www.youtube.com/watch?v=9u6aFrUFHak)
-
-    2025-08-13
-
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [電たくT](https://www.youtube.com/playlist?list=PLRBtCO0gM_wnUp-bYxogXEF611rgCB6Ev)
 
 === "色変記事"
 
