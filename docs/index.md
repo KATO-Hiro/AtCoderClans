@@ -142,16 +142,12 @@
       <img loading="lazy" src="images/userscript/atcoder_graph_visualizer.png" alt="atcoder graph visualizer">
     </div>
 
-    2025-08-14
-
-    - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
-        - [AHC Visualizer → AtCoder CustomTest Runner](https://greasyfork.org/ja/scripts/545397-ahc-visualizer-atcoder-customtest-runner-fixed-responsetext-guards)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/ahc_visualizer_to_atcoder_customtest_runner.png" alt="ahc visualizer to atcoder customtest runner">
-    </div>
-
 === "記事"
+
+    2025-08-29
+
+    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
+        - [日本最大のプログラミングコンテストサイト AtCoder全世界での登録者数が80万人を突破！](https://prtimes.jp/main/html/rd/p/000000061.000028415.html)
 
     2025-08-27
 
