@@ -29,7 +29,6 @@ title: ソースコードの提出・確認を簡単に
 
 - [AtCoder Easy Test v2](https://greasyfork.org/ja/scripts/433152-atcoder-easy-test-v2) - 「問題」ページで、入出力例を使って素早くテスト(自作を含む)を実行できる。また、[Codeforces](https://codeforces.com/)や[yukicoder](https://yukicoder.me/)にも対応している。
     - [作者による解説記事](https://qiita.com/magurofly/items/4b60dc02283e70230f71) - スクリプトの基本的な使用方法や使用技術が解説されている。
-    - [AtCoder Easy Test v2 のPythonでデフォルトをWandboxにする方法！](https://achapi.hatenablog.jp/entry/2023/10/18/182455) - コードテストを高速に実行するため、Wandboxをデフォルトに設定する方法が紹介されている。
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_easy_test.png" alt="atcoder easy test">
