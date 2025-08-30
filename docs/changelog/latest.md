@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-08-30
+
+- [#10822](https://github.com/KATO-Hiro/AtCoderClans/pull/10822) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [AHC052参加記](https://qiita.com/hotpepsi/items/689942f364a4ee6c56c2)
+
 ### 2025-08-29
 
 - [#10815](https://github.com/KATO-Hiro/AtCoderClans/pull/10815) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の記事を追加。

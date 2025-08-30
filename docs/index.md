@@ -107,15 +107,6 @@
       <img loading="lazy" src="images/web_app/typical90_ume.png" alt="typical90 ume">
     </div>
 
-    2025-08-15
-
-    - 「[クイズ・ゲーム・ネタアプリ](web_app/quiz_and_game)」ページ
-        - [競プロ向けC++](https://typing.twi1.me/game/368871)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/cpluspuls_for_competitive_programmer.png" alt="typing game for cpluspuls competitive programmer">
-    </div>
-
 === "ユーザスクリプト"
 
     2025-08-25
@@ -143,6 +134,11 @@
     </div>
 
 === "記事"
+
+    2025-08-30
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AHC052参加記](https://qiita.com/hotpepsi/items/689942f364a4ee6c56c2)
 
     2025-08-29
 
