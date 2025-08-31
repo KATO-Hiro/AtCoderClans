@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-08-31
+
+- [#10826](https://github.com/KATO-Hiro/AtCoderClans/pull/10826) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [大学入試史上最も難しい伝説の問題のまさかの別解を発見したので解説](https://www.youtube.com/watch?v=Po8C2i6_ua4)
+
 ### 2025-08-30
 
 - [#10822](https://github.com/KATO-Hiro/AtCoderClans/pull/10822) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。

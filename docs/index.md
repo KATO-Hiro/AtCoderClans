@@ -168,11 +168,6 @@
     - 「[資料集](materials)」ページ
         - [[Acompany]競プロ勉強会](https://acompany-ac.notion.site/Acompany-2a223ce97b84469aa677d0c868ed9f4f)
 
-    2025-08-16
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [THIRD プログラミングコンテスト 2025 夏 (AHC051): 7位解法の解説](https://note.com/ymatsux/n/ne82d83292354)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -182,6 +177,11 @@
         - [hotpepsi](https://atcoder.jp/users/hotpepsi)さん - [Qiita](https://qiita.com/hotpepsi)
 
 === "動画"
+
+    2025-08-31
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [大学入試史上最も難しい伝説の問題のまさかの別解を発見したので解説](https://www.youtube.com/watch?v=Po8C2i6_ua4)
 
     2025-08-28
 
