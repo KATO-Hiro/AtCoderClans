@@ -98,15 +98,6 @@
       <img loading="lazy" src="images/web_app/atcoder_random_picker.png" alt="atcoder random picker">
     </div>
 
-    2025-08-17
-
-    - 「[問題を解く](web_app/solve_problems)」ページ
-        - [Typical90 Ume](https://typical90.win/)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/typical90_ume.png" alt="typical90 ume">
-    </div>
-
 === "ユーザスクリプト"
 
     2025-08-25
@@ -163,11 +154,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年8月18日時点)](https://x.com/atcoder/status/1957258206788587980)
 
-    2025-08-17
-
-    - 「[資料集](materials)」ページ
-        - [[Acompany]競プロ勉強会](https://acompany-ac.notion.site/Acompany-2a223ce97b84469aa677d0c868ed9f4f)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -202,21 +188,15 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2025-09-01
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [ryoend](https://atcoder.jp/users/ryoend)さん - [入茶しました！！！](https://qiita.com/ryoend/items/2f7ef02691a7bd24011c)
+
     2025-08-20
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [japaneseotaku](https://atcoder.jp/users/japaneseotaku)さん - [【AtCoder】入茶できたので､記録を残す｡](https://qiita.com/japaneseotaku/items/0036a539c68c735cbc74)
-
-=== "国内外のコンテストサイト"
-
-    2025-08-17
-
-    - 「[Codeforces](related_contest_sites/codeforces)」ページ
-        - [CFTracker](https://cftracker.netlify.app/contests)
-
-    <div align="center">
-      <img loading="lazy" src="images/related_contest_sites/codeforces/cftracker.png" alt="cftracker">
-    </div>
 
 ## AtCoder公式グッズを購入する
 
