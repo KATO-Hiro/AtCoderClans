@@ -71,6 +71,9 @@
     },
     {
       "pattern": "^https://solved.ac/"
+    },
+    {
+      "pattern": "^https://atcoder-companions.kakira.dev/"
     }
   ],
   "httpHeaders": [
