@@ -126,6 +126,11 @@
 
 === "記事"
 
+    2025-09-02
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年9月1日時点)](https://x.com/atcoder/status/1962372838977085766)
+
     2025-08-30
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -148,11 +153,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [THIRD プログラミングコンテスト 2025 夏 (AHC051) 解説](https://www.terry-u16.net/entry/ahc051)
-
-    2025-08-18
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年8月18日時点)](https://x.com/atcoder/status/1957258206788587980)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
