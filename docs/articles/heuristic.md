@@ -89,6 +89,10 @@ title: ヒューリスティック問題を解く
 - [BFSを繰り返すときに訪問済みかを記録する配列を毎回初期化しなくて良くするアレ](https://topcoder-tomerun.hatenablog.jp/entry/2022/11/06/145156) - グリッド上でBFSを複数回行うときに、訪問の有無を保持する配列を毎回初期化せずに済む方法が紹介されている。
 - [8近傍だけで連結性を良い感じに確保し続ける典型](https://twitter.com/chokudai/status/1706124817915908481) - グリッドの特定のマスを中心とした8近傍を利用し、連結性を確保し続けられる典型テクニックが図解されている。
 
+### AtCoder Heuristic Contest の問題設定
+
+- [AHC ざっくり問題設定一覧表](https://fplusfplusf.hatenablog.com/entry/2025/09/02/212949) - [AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=AtCoder+Heuristic+Contest)における各問題の概略がまとめられている。
+
 ### 参加記・解法の解説
 
 - [競プロ解法紹介～大局観で高得点を取る！～](https://qiita.com/tsukammo/items/85ffbe907e89b051d715) - マラソン形式の問題である[Chokudai Contest 001](https://atcoder.jp/contests/chokudai001/)の解法を紹介した記事。愚直な解法から高得点を狙うための着眼点や方法が解説されている。
