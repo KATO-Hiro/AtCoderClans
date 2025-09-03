@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-09-03
+
+- [#10846](https://github.com/KATO-Hiro/AtCoderClans/pull/10846) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [AHC ざっくり問題設定一覧表](https://fplusfplusf.hatenablog.com/entry/2025/09/02/212949)
+
 ### 2025-09-02
 
 - [#10843](https://github.com/KATO-Hiro/AtCoderClans/pull/10843) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
