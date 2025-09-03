@@ -126,6 +126,11 @@
 
 === "記事"
 
+    2025-09-03
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AHC ざっくり問題設定一覧表](https://fplusfplusf.hatenablog.com/entry/2025/09/02/212949)
+
     2025-09-02
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
