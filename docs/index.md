@@ -169,6 +169,11 @@
 
 === "動画"
 
+    2025-09-04
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [平方数の末尾に4は何個まで続くか？](https://www.youtube.com/watch?v=SNgKyaAvb4E)
+
     2025-08-31
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
@@ -197,11 +202,6 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [ryoend](https://atcoder.jp/users/ryoend)さん - [入茶しました！！！](https://qiita.com/ryoend/items/2f7ef02691a7bd24011c)
-
-    2025-08-20
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [japaneseotaku](https://atcoder.jp/users/japaneseotaku)さん - [【AtCoder】入茶できたので､記録を残す｡](https://qiita.com/japaneseotaku/items/0036a539c68c735cbc74)
 
 ## AtCoder公式グッズを購入する
 
