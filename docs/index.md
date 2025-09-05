@@ -169,6 +169,11 @@
 
 === "動画"
 
+    2025-09-05
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [ハンターVS透明うさぎ：数学オリンピック史上最難問](https://www.youtube.com/watch?v=fjRl5avyumI)
+
     2025-09-04
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
