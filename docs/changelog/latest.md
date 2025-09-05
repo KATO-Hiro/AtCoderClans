@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-09-05
+
+- [#10853](https://github.com/KATO-Hiro/AtCoderClans/pull/10853) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [ハンターVS透明うさぎ：数学オリンピック史上最難問](https://www.youtube.com/watch?v=fjRl5avyumI)
+
 ### 2025-09-04
 
 - [#10850](https://github.com/KATO-Hiro/AtCoderClans/pull/10850) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
