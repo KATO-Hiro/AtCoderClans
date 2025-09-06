@@ -87,17 +87,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "Webアプリ・Webサイト"
-
-    2025-08-22
-
-    - 「[問題を解く](web_app/solve_problems)」ページ
-        - [AtCoder Random Picker](https://atcoder-random-picker.pages.dev/)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/atcoder_random_picker.png" alt="atcoder random picker">
-    </div>
-
 === "ユーザスクリプト"
 
     2025-08-25
@@ -125,6 +114,11 @@
     </div>
 
 === "記事"
+
+    2025-09-06
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AtCoder Heuristic Contest 052 の参加時と復習の記録](https://kaede2020.hatenablog.com/entry/2025/08/31/165246)
 
     2025-09-03
 

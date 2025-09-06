@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-09-06
+
+- [#10857](https://github.com/KATO-Hiro/AtCoderClans/pull/10857) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [AtCoder Heuristic Contest 052 の参加時と復習の記録](https://kaede2020.hatenablog.com/entry/2025/08/31/165246)
+
 ### 2025-09-05
 
 - [#10853](https://github.com/KATO-Hiro/AtCoderClans/pull/10853) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
