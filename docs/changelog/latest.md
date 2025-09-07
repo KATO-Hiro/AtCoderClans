@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-09-07
+
+- [#10862](https://github.com/KATO-Hiro/AtCoderClans/pull/10862) - 「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../user_scripts/submit_codes)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Submission Notes](https://greasyfork.org/ja/scripts/527638-atcoder-submission-notes)
+
 ### 2025-09-06
 
 - [#10857](https://github.com/KATO-Hiro/AtCoderClans/pull/10857) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
