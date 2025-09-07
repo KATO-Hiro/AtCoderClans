@@ -249,3 +249,11 @@ title: ソースコードの提出・確認を簡単に
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_companions_quick_jump.png" alt="atcoder companions quick jump">
     </div>
+
+## 提出コードにメモを追加
+
+- [AtCoder Submission Notes](https://greasyfork.org/ja/scripts/527638-atcoder-submission-notes) - 「提出結果 - 自分の提出」ページで、それぞれの提出にメモ欄を追加する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_submission_notes.png" alt="atcoder submission notes">
+    </div>
