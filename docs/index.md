@@ -89,6 +89,15 @@
 
 === "ユーザスクリプト"
 
+    2025-09-07
+
+    - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
+        - [AtCoder Submission Notes](https://greasyfork.org/ja/scripts/527638-atcoder-submission-notes)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_submission_notes.png" alt="atcoder submission notes">
+    </div>
+
     2025-08-25
 
     - 「[ネタスクリプト](user_scripts/jokes)」ページ
@@ -102,15 +111,6 @@
 
     <div align="center">
       <img loading="lazy" src="images/userscript/atcoders_greatest_moment.png" alt="atcoders greatest moment">
-    </div>
-
-    2025-08-23
-
-    - 「[問題を解く](user_scripts/solve_problems)」ページ
-        - [AtCoder Graph Visualizer](https://greasyfork.org/ja/scripts/546107-atcoder-graph-visualizer)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_graph_visualizer.png" alt="atcoder graph visualizer">
     </div>
 
 === "記事"
@@ -147,11 +147,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年8月26日時点)](https://x.com/atcoder/status/1960171185205043448)
-
-    2025-08-23
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [THIRD プログラミングコンテスト 2025 夏 (AHC051) 解説](https://www.terry-u16.net/entry/ahc051)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
