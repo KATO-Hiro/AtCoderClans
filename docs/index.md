@@ -115,6 +115,11 @@
 
 === "記事"
 
+    2025-09-08
+
+    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
+        - [【><>】AtCoderに登録したら解くべき精選過去問 10 問を難解言語 Fish ><> で解いてみた① ><>とは何か編](https://qiita.com/smile652836/items/13c94770c8e3645c5853)
+
     2025-09-06
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -148,14 +153,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年8月26日時点)](https://x.com/atcoder/status/1960171185205043448)
 
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2025-08-24
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [hotpepsi](https://atcoder.jp/users/hotpepsi)さん - [Qiita](https://qiita.com/hotpepsi)
-
 === "動画"
 
     2025-09-05
@@ -182,11 +179,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [99％数学の問題がプログラミングコンテストに出た件](https://www.youtube.com/watch?v=5KHjGZysb68)
-
-    2025-08-24
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [当たり前だが証明が難しい素数の定理](https://www.youtube.com/watch?v=9u6aFrUFHak)
 
 === "色変記事"
 
