@@ -45,6 +45,7 @@ A1: 入門者、初心者向けの教材や記事を読んでみましょう。[
         <li><a href="https://qiita.com/NotFounds/items/7b166af69a6f52a332de">C#</a></li>
         <li><a href="http://takeo1116.sakura.ne.jp/ABS_D.html">D</a></li>
         <li><a href="https://qiita.com/koyo-miyamura/items/9f224a3e56ea75939dca">Elixir</a></li>
+        <li><a href="https://qiita.com/smile652836/items/13c94770c8e3645c5853">><> (Fish)</a></li>
         <li><a href="https://yukiutaai.wordpress.com/2018/03/21/atcoder%e3%81%ab%e7%99%bb%e9%8c%b2%e3%81%97%e3%81%9f%e3%82%89%e8%a7%a3%e3%81%8f%e3%81%b9%e3%81%8d%e7%b2%be%e9%81%b8%e9%81%8e%e5%8e%bb%e5%95%8f10%e3%82%92fortran%e3%81%a7%e8%a7%a3%e3%81%84%e3%81%a6/">Fortran</a></li>
         <li><a href="https://qiita.com/kuuso1/items/606b75c172cafa1d07f6">F#</a></li>
         <li><a href="https://qiita.com/ktateish/items/afdda77497c8e2ee0742">Go</a></li>
