@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-09-09
+
+- [#10871](https://github.com/KATO-Hiro/AtCoderClans/pull/10871) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
+    - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年9月9日時点)](https://x.com/atcoder/status/1965268177350427013)
+
 ### 2025-09-08
 
 - [#10866](https://github.com/KATO-Hiro/AtCoderClans/pull/10866) - 「[For Beginners](../../for_beginners)」の「[Q1: アルゴリズムや競技プログラミングに興味はありますが、何から始めたらいいですか?](../../for_beginners/question1)」ページと「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の記事を追加。
