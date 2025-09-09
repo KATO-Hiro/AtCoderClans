@@ -98,22 +98,12 @@
       <img loading="lazy" src="images/userscript/atcoder_submission_notes.png" alt="atcoder submission notes">
     </div>
 
-    2025-08-25
-
-    - 「[ネタスクリプト](user_scripts/jokes)」ページ
-        - [AtCoder's greatest moment](https://greasyfork.org/ja/scripts/546264-atcoder-s-greatest-moment)
-
-            !!! warning "注意"
-
-                高難度のコンテスト後にSNSに投稿されるミーム「0完太陽」（[出典](https://qnighy.github.io/informatics-olympiad/joi-glossary.html)）を元にしたジョーク的な演出。
-
-                特定のユーザを揶揄する意図はないと思われるが、閲覧者によっては不快に感じる場合があるため、表示・利用には配慮が必要。
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoders_greatest_moment.png" alt="atcoders greatest moment">
-    </div>
-
 === "記事"
+
+    2025-09-09
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年9月9日時点)](https://x.com/atcoder/status/1965268177350427013)
 
     2025-09-08
 
