@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-09-10
+
+- [#10875](https://github.com/KATO-Hiro/AtCoderClans/pull/10875) - (破壊的な変更) 非公開になったと思われる色変記事を「[Archives](../../archived)」ページに移動。
+
 ### 2025-09-09
 
 - [#10871](https://github.com/KATO-Hiro/AtCoderClans/pull/10871) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
