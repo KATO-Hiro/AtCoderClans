@@ -357,6 +357,9 @@ title: リンク切れ
 
 ### レーティング800〜1199(緑色)
 
+- [JKです。atcoder緑です。](https://qiita.com/Kujira_Box/items/4f0df07b2ad536a67e07) - [KujiraBox](https://atcoder.jp/users/KujiraBox)さんが、2023年2月20日に公開。
+    - 確認した日: 2025/09/10
+
 - [AtCoder入緑までにやったことなどです！！](https://www.shibehasu-inugoya-programming.com/green-coder/) - [Hasu123](https://atcoder.jp/users/Hasu123)さんが、2024年10月26日に達成。
     - 確認した日: 2025/05/03
 
