@@ -62,7 +62,6 @@ title: レーティング800〜1199(緑色)
 - [私まっちゃラテは、"抹茶ラテ"に、なりました (入緑・後編) - matcharate_12’s 競プロ日記](https://matcharate-12.hatenablog.com/entry/2023/03/14/132239) - [matcharate12](https://atcoder.jp/users/matcharate12)さんが、2023年3月11日に達成。
 - [【色変記事】プログラミング初心者が入緑しました！](https://qiita.com/enjyu_it/items/46d5e7bc2a34c8f03ba7) - [enjyu](https://atcoder.jp/users/enjyu)さんが、2023年3月11日に達成。
 - [競プロ未経験から6ヶ月でAtCoder緑色になった話。](https://note.com/jikky1618/n/n0814c5803391) - [Jikky1618](https://atcoder.jp/users/Jikky1618)さんが、2023年3月4日に達成。
-- [JKです。atcoder緑です。](https://qiita.com/Kujira_Box/items/4f0df07b2ad536a67e07) - [KujiraBox](https://atcoder.jp/users/KujiraBox)さんが、2023年2月20日に公開。
 - [【色変記事】Web系一般高校生が緑コーダーになるまで](https://qiita.com/ZOI_dayo/items/3548d3081ac7c44f8669) - [ZOIZOI](https://atcoder.jp/users/ZOIZOI)さんが、2023年2月19日に達成。
 - [【色変記事】AtCoder入緑したので振り返ってみた](https://zenn.dev/taniigo/articles/b5fbfd87030e80) - [TaniiGo](https://atcoder.jp/users/TaniiGo)さんが、2023年2月19日に達成。
 - [【色変記事】入緑しました！読んで！](https://note.com/likafu/n/n01bbc375d1ed) - [LiKafu](https://atcoder.jp/users/LiKafu)さんが、2023年2月14日に公開。
