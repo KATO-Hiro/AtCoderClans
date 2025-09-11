@@ -47,11 +47,12 @@ title: 個別の動画
 ### 数学・パズルに関する問題
 
 - [100サイズの箱は80サイズの箱に入るか？【ゆっくり解説】](https://www.youtube.com/watch?v=8wT7V-Pw6_w) - 直方体の縦・横・高さの合計でサイズを計る場合に、大きい箱が小さい箱に入るかどうかを示している。
-    - [平方数の末尾に4は何個まで続くか？](https://www.youtube.com/watch?v=SNgKyaAvb4E) - 平方数の末尾に4が4つ以上続くかどうかが示されている。
-    - [ハンターVS透明うさぎ：数学オリンピック史上最難問](https://www.youtube.com/watch?v=fjRl5avyumI) - 国際数学オリンピック史上最難問を題材に、ハンターの必勝法の有無が示されている。
+    - [平面上の10点は半径1の円盤を敷き詰めて必ず覆えるか？](https://www.youtube.com/watch?v=hGa8_P8X3yY) - 題意を満たすかどうかを証明している。
 
     ??? info "関連動画の一覧"
 
+        - [平方数の末尾に4は何個まで続くか？](https://www.youtube.com/watch?v=SNgKyaAvb4E) - 平方数の末尾に4が4つ以上続くかどうかが示されている。
+        - [ハンターVS透明うさぎ：数学オリンピック史上最難問](https://www.youtube.com/watch?v=fjRl5avyumI) - 国際数学オリンピック史上最難問を題材に、ハンターの必勝法の有無が示されている。
         - [「次のカードが赤なら勝ち」ゲームに戦略はあるか？](https://www.youtube.com/watch?v=rloUgDoidyk) - トランプ52枚をシャッフルし、上からカードを選んで、その次が赤色なら勝利するゲームで、勝率50%を超える戦略の有無が解説されている。
         - [99％数学の問題がプログラミングコンテストに出た件](https://www.youtube.com/watch?v=5KHjGZysb68) - (注: ネタバレあり) [AtCoder Beginner Contest 420](https://atcoder.jp/contests/abc420)のG問題の解説。
         - [当たり前だが証明が難しい素数の定理](https://www.youtube.com/watch?v=9u6aFrUFHak) - 「ベルトランの仮説」について、エルデシュによる証明が紹介されている。
