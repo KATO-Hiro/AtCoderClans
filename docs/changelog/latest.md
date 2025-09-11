@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-09-11
+
+- [#10879](https://github.com/KATO-Hiro/AtCoderClans/pull/10879) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [平面上の10点は半径1の円盤を敷き詰めて必ず覆えるか？](https://www.youtube.com/watch?v=hGa8_P8X3yY)
+
 ### 2025-09-10
 
 - [#10875](https://github.com/KATO-Hiro/AtCoderClans/pull/10875) - (破壊的な変更) 非公開になったと思われる色変記事を「[Archives](../../archived)」ページに移動。
