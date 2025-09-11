@@ -135,15 +135,12 @@
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
         - [日本最大のプログラミングコンテストサイト AtCoder全世界での登録者数が80万人を突破！](https://prtimes.jp/main/html/rd/p/000000061.000028415.html)
 
-    2025-08-27
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AHC052参加記](https://keroru10.hatenablog.com/entry/2025/08/26/223054)
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年8月26日時点)](https://x.com/atcoder/status/1960171185205043448)
-
 === "動画"
+
+    2025-09-11
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [平面上の10点は半径1の円盤を敷き詰めて必ず覆えるか？](https://www.youtube.com/watch?v=hGa8_P8X3yY)
 
     2025-09-05
 
@@ -164,11 +161,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [「次のカードが赤なら勝ち」ゲームに戦略はあるか？](https://www.youtube.com/watch?v=rloUgDoidyk)
-
-    2025-08-27
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [99％数学の問題がプログラミングコンテストに出た件](https://www.youtube.com/watch?v=5KHjGZysb68)
 
 === "色変記事"
 
