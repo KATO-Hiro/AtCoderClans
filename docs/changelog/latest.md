@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-09-12
+
+- [#10883](https://github.com/KATO-Hiro/AtCoderClans/pull/10883) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
+    - [平方数の末尾に同じ数字はいくつ続く？](https://kiri8128.hatenablog.com/entry/2025/09/09/225217)
+
 ### 2025-09-11
 
 - [#10879](https://github.com/KATO-Hiro/AtCoderClans/pull/10879) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。

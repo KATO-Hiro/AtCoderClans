@@ -100,6 +100,11 @@
 
 === "記事"
 
+    2025-09-12
+
+    - 「[数学を学ぶ](../../articles/math)」ページ
+        - [平方数の末尾に同じ数字はいくつ続く？](https://kiri8128.hatenablog.com/entry/2025/09/09/225217)
+
     2025-09-09
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -156,11 +161,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [大学入試史上最も難しい伝説の問題のまさかの別解を発見したので解説](https://www.youtube.com/watch?v=Po8C2i6_ua4)
-
-    2025-08-28
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [「次のカードが赤なら勝ち」ゲームに戦略はあるか？](https://www.youtube.com/watch?v=rloUgDoidyk)
 
 === "色変記事"
 
