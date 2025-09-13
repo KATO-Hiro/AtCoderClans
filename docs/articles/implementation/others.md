@@ -62,6 +62,12 @@ title: Others
 
 - [Go言語でmod計算をするライブラリ for AtCoder](https://tech.aru-zakki.com/modulo-calcuration-lib-for-golang/) - 剰余を含む演算(ModInt)の実装例が紹介されている記事。
 
+## Haskell
+
+### 言語アップデートによる影響
+
+- [Haskeller のための AtCoder 言語アップデート 2025](https://zenn.dev/toyboot4e/articles/haskell-on-atcoder-2025) - 言語アップデート(2025年)で利用可能なコンパイラ、ライブラリの追加・更新状況についてまとめられている。
+
 ## JavaScript
 
 ### 文法・言語仕様
