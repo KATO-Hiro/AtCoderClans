@@ -100,9 +100,14 @@
 
 === "記事"
 
+    2025-09-13
+
+    - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
+        - [Haskeller のための AtCoder 言語アップデート 2025](https://zenn.dev/toyboot4e/articles/haskell-on-atcoder-2025)
+
     2025-09-12
 
-    - 「[数学を学ぶ](../../articles/math)」ページ
+    - 「[数学を学ぶ](articles/math)」ページ
         - [平方数の末尾に同じ数字はいくつ続く？](https://kiri8128.hatenablog.com/entry/2025/09/09/225217)
 
     2025-09-09
@@ -134,11 +139,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AHC052参加記](https://qiita.com/hotpepsi/items/689942f364a4ee6c56c2)
-
-    2025-08-29
-
-    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
-        - [日本最大のプログラミングコンテストサイト AtCoder全世界での登録者数が80万人を突破！](https://prtimes.jp/main/html/rd/p/000000061.000028415.html)
 
 === "動画"
 
