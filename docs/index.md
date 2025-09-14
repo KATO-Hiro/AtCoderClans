@@ -135,12 +135,22 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年9月1日時点)](https://x.com/atcoder/status/1962372838977085766)
 
-    2025-08-30
+=== "ブログ"
+    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AHC052参加記](https://qiita.com/hotpepsi/items/689942f364a4ee6c56c2)
+    2025-09-14
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [olphe](https://atcoder.jp/users/olphe)さん - [はてなブログ](https://olphe.hatenablog.com/)
+        - [binap](https://atcoder.jp/users/binap)さん - [Qiita](https://qiita.com/binap/)
+        - [snuke](https://atcoder.jp/users/snuke)さん - [はてなブログ](https://snuke.hatenablog.com/)
 
 === "動画"
+
+    2025-09-14
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [2でも5でも割り切れない数は何倍かすると全桁1になる？](https://www.youtube.com/watch?v=Md7io_K1Pz0)
 
     2025-09-11
 
