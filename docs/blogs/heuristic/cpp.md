@@ -47,6 +47,7 @@ title: C&#43;&#43;
 |niuez|[GitHub Pages](https://niuez.github.io/)||
 |noimi|[はてなブログ](https://noimi.hatenablog.com/)||
 |Nyaan|[はてなブログ](https://nyaan.hatenablog.com/)||
+|olphe|[はてなブログ](https://olphe.hatenablog.com/)||
 |peroon|[はてなブログ](https://perogram.hateblo.jp/)||
 |physics0523|[はてなブログ](https://physics0523.hatenablog.com/)||
 |risujiroh|[はてなブログ](https://risujiroh.hatenablog.com/)||
@@ -61,6 +62,7 @@ title: C&#43;&#43;
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
+|binap|[Qiita](https://qiita.com/binap/)||
 |BinomialSheep|[Qiita](https://qiita.com/BinomialSheep/items/e7a717f34e6991affa1c)||
 |birdwatcher|[Qiita](https://qiita.com/birdwatcher)||
 |bo9chan|[Qiita](https://qiita.com/bo9chan)||
@@ -82,7 +84,6 @@ title: C&#43;&#43;
 |m_buyoh|[はてなブログ](https://buyoh.hateblo.jp/)||
 |Nachia|[Qiita](https://qiita.com/Nachia)||
 |nok0|[はてなブログ](https://tsuchi.hateblo.jp/)||
-|olphe|[はてなブログ](https://olphe.hatenablog.com/)||
 |Omotchi|[はてなブログ](https://omotchi.hateblo.jp/)||
 |phyllo|[GitHub Pages](https://jetbead.github.io/AtCoderHeuristicContestMemo/)||
 |platinum|[はてなブログ](https://platinum-prog.hatenablog.com/)||
@@ -96,6 +97,7 @@ title: C&#43;&#43;
 |Shibuyap|[Qiita](https://qiita.com/Shibuyap)||
 |shindannin|[はてなブログ](https://shindannin.hatenadiary.com/)||
 |shotoyoo|[Qiita](https://qiita.com/shotoyoo)||
+|snuke|[はてなブログ](https://snuke.hatenablog.com/)||
 |starpentagon|[自作ブログ](https://starpentagon.net/analytics/category/%e7%ab%b6%e6%8a%80%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0/)||
 |tardigrade|[はてなブログ](https://tardigrade.hatenablog.com/)、[Qiita](https://qiita.com/TARDIGRADE)||
 |tatyam|[はてなブログ](https://tatyam.hatenablog.com/)、[Qiita](https://qiita.com/tatyam)||
