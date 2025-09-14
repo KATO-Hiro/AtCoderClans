@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-09-14
+
+- [#10892](https://github.com/KATO-Hiro/AtCoderClans/pull/10892) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+- [#10890](https://github.com/KATO-Hiro/AtCoderClans/pull/10890) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [2でも5でも割り切れない数は何倍かすると全桁1になる？](https://www.youtube.com/watch?v=Md7io_K1Pz0)
+
 ### 2025-09-13
 
 - [#10887](https://github.com/KATO-Hiro/AtCoderClans/pull/10887) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Others](../../articles/implementation/others)」ページに、以下の記事を追加。
