@@ -15,3 +15,11 @@ title: 機械学習系コンテスト
         [Docker](https://www.docker.com/)の導入が必要。
 
 <!-- markdown-link-check-enable -->
+
+### 最新情報を確認する
+
+<!-- markdown-link-check-disable -->
+
+- [Weekly Kaggle News](https://weeklykagglenews.substack.com) - データ分析コンペティションの話題を日本語で毎週金曜に配信してくれる。
+
+<!-- markdown-link-check-enable -->
