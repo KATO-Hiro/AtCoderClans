@@ -21,5 +21,6 @@ title: 機械学習系コンテスト
 <!-- markdown-link-check-disable -->
 
 - [Weekly Kaggle News](https://weeklykagglenews.substack.com) - データ分析コンペティションの話題を日本語で毎週金曜に配信してくれる。
+    - [Everyday Kaggle News](https://upura.github.io/everyday-kaggle-news/) - [Kaggle](https://www.kaggle.com/)の非公式リンク集。
 
 <!-- markdown-link-check-enable -->
