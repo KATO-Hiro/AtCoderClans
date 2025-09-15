@@ -167,19 +167,18 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [平方数の末尾に4は何個まで続くか？](https://www.youtube.com/watch?v=SNgKyaAvb4E)
 
-    2025-08-31
+=== "国内外のコンテストサイト"
 
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [大学入試史上最も難しい伝説の問題のまさかの別解を発見したので解説](https://www.youtube.com/watch?v=Po8C2i6_ua4)
+    2025-09-15
 
-=== "色変記事"
+    - 「[機械学習系コンテスト](related_contest_sites/machine_learning)」ページ
 
-    色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+        <!-- markdown-link-check-disable -->
 
-    2025-09-01
+        - [Weekly Kaggle News](https://weeklykagglenews.substack.com)
+        - [Everyday Kaggle News](https://upura.github.io/everyday-kaggle-news/)
 
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [ryoend](https://atcoder.jp/users/ryoend)さん - [入茶しました！！！](https://qiita.com/ryoend/items/2f7ef02691a7bd24011c)
+        <!-- markdown-link-check-enable -->
 
 ## AtCoder公式グッズを購入する
 
