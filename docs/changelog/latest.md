@@ -4,6 +4,17 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-09-15
+
+- [#10899](https://github.com/KATO-Hiro/AtCoderClans/pull/10899)、[#10900](https://github.com/KATO-Hiro/AtCoderClans/pull/10900) - 「[Related Contest Sites](../../related_contest_sites)」の「[機械学習系コンテスト](../../related_contest_sites/machine_learning)」ページに、以下のニューズレターと非公式リンク集を追加。
+
+    <!-- markdown-link-check-disable -->
+
+    - [Weekly Kaggle News](https://weeklykagglenews.substack.com)
+    - [Everyday Kaggle News](https://upura.github.io/everyday-kaggle-news/)
+
+    <!-- markdown-link-check-enable -->
+
 ### 2025-09-14
 
 - [#10892](https://github.com/KATO-Hiro/AtCoderClans/pull/10892) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
