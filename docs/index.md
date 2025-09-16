@@ -100,6 +100,11 @@
 
 === "記事"
 
+    2025-09-16
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年9月16日時点)](https://x.com/atcoder/status/1967776252573757465)
+
     2025-09-13
 
     - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
@@ -129,11 +134,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AHC ざっくり問題設定一覧表](https://fplusfplusf.hatenablog.com/entry/2025/09/02/212949)
-
-    2025-09-02
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年9月1日時点)](https://x.com/atcoder/status/1962372838977085766)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
