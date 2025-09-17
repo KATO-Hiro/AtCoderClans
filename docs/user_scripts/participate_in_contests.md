@@ -46,6 +46,10 @@ title: コンテストに参加する
 
 - [AtCoder Registration Autofill](https://greasyfork.org/ja/scripts/467393-atcoder-registration-autofill) - 参加登録フォームに氏名・所属・連絡先などを入力すると、2回目以降は自動入力される。また、インストールした時点で、「あなたは日本国内に在住していますか」が「はい」に変更される。
 
+## コンテスト開催中の生成AIの誤使用を防ぐ
+
+- [Disable Google AI Search & Hide Button (for AtCoder)](https://greasyfork.org/ja/scripts/549396-disable-google-ai-search-hide-button-for-atcoder) - コンテスト開催中に、Googleの「AI検索」を誤って使用しないよう制限する。
+
 ## Webサイトを見やすく表示
 
 ### レイアウトの微調整
