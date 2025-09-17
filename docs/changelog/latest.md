@@ -4,6 +4,16 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-09-17
+
+- [#10914](https://github.com/KATO-Hiro/AtCoderClans/pull/10914) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
+    - [Disable Google AI Search & Hide Button (for AtCoder)](https://greasyfork.org/ja/scripts/549396-disable-google-ai-search-hide-button-for-atcoder)
+- [#10913](https://github.com/KATO-Hiro/AtCoderClans/pull/10913) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [足して15になる3つの数を取るゲームの必勝法](https://www.youtube.com/watch?v=A-c-IvT8FNY)
+- [#10910](https://github.com/KATO-Hiro/AtCoderClans/pull/10910)、[#10912](https://github.com/KATO-Hiro/AtCoderClans/pull/10912) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [第12回 Asprova プログラミングコンテスト（AHC053）参加時と復習の記録](https://kaede2020.hatenablog.com/entry/2025/09/17/072423)
+    - [AHC 053 満点解法](https://yosupo.hatenablog.com/entry/2025/09/15/213945)
+
 ### 2025-09-16
 
 - [#10907](https://github.com/KATO-Hiro/AtCoderClans/pull/10907) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
