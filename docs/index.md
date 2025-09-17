@@ -89,6 +89,11 @@
 
 === "ユーザスクリプト"
 
+    2025-09-17
+
+    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
+        - [Disable Google AI Search & Hide Button (for AtCoder)](https://greasyfork.org/ja/scripts/549396-disable-google-ai-search-hide-button-for-atcoder)
+
     2025-09-07
 
     - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
@@ -99,6 +104,12 @@
     </div>
 
 === "記事"
+
+    2025-09-17
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [第12回 Asprova プログラミングコンテスト（AHC053）参加時と復習の記録](https://kaede2020.hatenablog.com/entry/2025/09/17/072423)
+        - [AHC 053 満点解法](https://yosupo.hatenablog.com/entry/2025/09/15/213945)
 
     2025-09-16
 
@@ -146,6 +157,11 @@
         - [snuke](https://atcoder.jp/users/snuke)さん - [はてなブログ](https://snuke.hatenablog.com/)
 
 === "動画"
+
+    2025-09-17
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [足して15になる3つの数を取るゲームの必勝法](https://www.youtube.com/watch?v=A-c-IvT8FNY)
 
     2025-09-14
 
