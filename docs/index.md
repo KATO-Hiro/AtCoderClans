@@ -141,11 +141,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AtCoder Heuristic Contest 052 の参加時と復習の記録](https://kaede2020.hatenablog.com/entry/2025/08/31/165246)
 
-    2025-09-03
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AHC ざっくり問題設定一覧表](https://fplusfplusf.hatenablog.com/entry/2025/09/02/212949)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -178,10 +173,14 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [ハンターVS透明うさぎ：数学オリンピック史上最難問](https://www.youtube.com/watch?v=fjRl5avyumI)
 
-    2025-09-04
+=== "色変記事"
 
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [平方数の末尾に4は何個まで続くか？](https://www.youtube.com/watch?v=SNgKyaAvb4E)
+    色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-09-18
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [alllllllllly](https://atcoder.jp/users/alllllllllly)さん - [【AtCoder】人類史上最も役に立たない入茶記事](https://qiita.com/alllllllllly/items/3394749e250423d2b2f3)
 
 === "国内外のコンテストサイト"
 
