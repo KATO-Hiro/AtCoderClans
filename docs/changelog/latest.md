@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-09-19
+
+- [#10923](https://github.com/KATO-Hiro/AtCoderClans/pull/10923) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [この長さは？](https://www.youtube.com/watch?v=tpdZ3fMA6x0)
+
 ### 2025-09-18
 
 - [#10919](https://github.com/KATO-Hiro/AtCoderClans/pull/10919) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
