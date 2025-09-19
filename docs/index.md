@@ -153,6 +153,11 @@
 
 === "動画"
 
+    2025-09-19
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [この長さは？](https://www.youtube.com/watch?v=tpdZ3fMA6x0)
+
     2025-09-17
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
@@ -167,11 +172,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [平面上の10点は半径1の円盤を敷き詰めて必ず覆えるか？](https://www.youtube.com/watch?v=hGa8_P8X3yY)
-
-    2025-09-05
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [ハンターVS透明うさぎ：数学オリンピック史上最難問](https://www.youtube.com/watch?v=fjRl5avyumI)
 
 === "色変記事"
 
