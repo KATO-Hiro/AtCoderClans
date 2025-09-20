@@ -136,11 +136,6 @@
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
         - [【><>】AtCoderに登録したら解くべき精選過去問 10 問を難解言語 Fish ><> で解いてみた① ><>とは何か編](https://qiita.com/smile652836/items/13c94770c8e3645c5853)
 
-    2025-09-06
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AtCoder Heuristic Contest 052 の参加時と復習の記録](https://kaede2020.hatenablog.com/entry/2025/08/31/165246)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -152,6 +147,11 @@
         - [snuke](https://atcoder.jp/users/snuke)さん - [はてなブログ](https://snuke.hatenablog.com/)
 
 === "動画"
+
+    2025-09-20
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [漸近記法（O記法）クイズ](https://www.youtube.com/watch?v=m6UX7Ga7SDM)
 
     2025-09-19
 
