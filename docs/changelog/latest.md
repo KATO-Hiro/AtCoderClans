@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-09-20
+
+- [#10927](https://github.com/KATO-Hiro/AtCoderClans/pull/10927) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [漸近記法（O記法）クイズ](https://www.youtube.com/watch?v=m6UX7Ga7SDM)
+
 ### 2025-09-19
 
 - [#10923](https://github.com/KATO-Hiro/AtCoderClans/pull/10923) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
