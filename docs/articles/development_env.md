@@ -19,6 +19,7 @@ title: コードを書くための環境構築を行う
 
 - [【AtCoder】acc、ojでログインできなくなった時の対処法](https://kaiyou9.com/acc_and_oj_login_failed/) - [Online Judge Tools](https://github.com/online-judge-tools/oj) ![GitHub stars](https://img.shields.io/github/stars/online-judge-tools/oj?style=plastic)と[Tatamo/atcoder-cli](https://github.com/Tatamo/atcoder-cli) ![GitHub stars](https://img.shields.io/github/stars/Tatamo/atcoder-cli?style=plastic)で自動ログインする方法が紹介されている。
     - [[AtCoder] 死んだ自動ログインを復活させよう](https://trap.jp/post/2591/) - 上記の内容に加えて、ソースコードを自動提出するプログラムの実装例が紹介されている。
+    - [AtCoder CLIにおいてログインできないときの対処法](https://qiita.com/namonaki/items/16cda635dd7c34496aaa) - [aclogin](https://github.com/key-moon/aclogin) ![GitHub stars](https://img.shields.io/github/stars/key-moon/aclogin?style=plastic)を利用した方法が紹介されている。
 
 ## 任意のOS
 
