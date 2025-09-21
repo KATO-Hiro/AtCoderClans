@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-09-21
+
+- [#10932](https://github.com/KATO-Hiro/AtCoderClans/pull/10932) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。
+    - [AtCoder CLIにおいてログインできないときの対処法](https://qiita.com/namonaki/items/16cda635dd7c34496aaa)
+
 ### 2025-09-20
 
 - [#10927](https://github.com/KATO-Hiro/AtCoderClans/pull/10927) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
