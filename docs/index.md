@@ -94,16 +94,12 @@
     - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
         - [Disable Google AI Search & Hide Button (for AtCoder)](https://greasyfork.org/ja/scripts/549396-disable-google-ai-search-hide-button-for-atcoder)
 
-    2025-09-07
-
-    - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
-        - [AtCoder Submission Notes](https://greasyfork.org/ja/scripts/527638-atcoder-submission-notes)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_submission_notes.png" alt="atcoder submission notes">
-    </div>
-
 === "記事"
+
+    2025-09-21
+
+    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
+        - [AtCoder CLIにおいてログインできないときの対処法](https://qiita.com/namonaki/items/16cda635dd7c34496aaa)
 
     2025-09-17
 
