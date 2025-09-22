@@ -127,11 +127,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年9月9日時点)](https://x.com/atcoder/status/1965268177350427013)
 
-    2025-09-08
-
-    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
-        - [【><>】AtCoderに登録したら解くべき精選過去問 10 問を難解言語 Fish ><> で解いてみた① ><>とは何か編](https://qiita.com/smile652836/items/13c94770c8e3645c5853)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
