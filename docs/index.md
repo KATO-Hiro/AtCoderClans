@@ -89,6 +89,15 @@
 
 === "ユーザスクリプト"
 
+    2025-09-23
+
+    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
+        - [AHC_decayed-performance](https://github.com/potato167/AHC_decayed-performance/)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/ahc_decayed_performance.png" alt="ahc decayed performance">
+    </div>
+
     2025-09-17
 
     - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
@@ -121,11 +130,6 @@
 
     - 「[数学を学ぶ](articles/math)」ページ
         - [平方数の末尾に同じ数字はいくつ続く？](https://kiri8128.hatenablog.com/entry/2025/09/09/225217)
-
-    2025-09-09
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年9月9日時点)](https://x.com/atcoder/status/1965268177350427013)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
