@@ -132,6 +132,16 @@ title: コンテストの成績や関連する統計情報を見る
       <img loading="lazy" src="../../images/userscript/ac_history_perf_estimator.png" alt="ac history perf estimator">
     </div>
 
+- [AHC_decayed-performance](https://github.com/potato167/AHC_decayed-performance/) - ユーザの「コンテスト成績表」ページに、ヒューリスティック部門の減衰パフォーマンス値（最後に参加したratedコンテストからの経過日数を反映したパフォーマンス値）を表示する。
+
+    !!! info "参考"
+
+        GitHubで公開されているソースコード(decayed.user.js)を[スクリプトマネージャでインポート](https://www.tampermonkey.net/faq.php?locale=ja#Q106)する必要がある。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/ahc_decayed_performance.png" alt="ahc decayed performance">
+    </div>
+
 ### レーティングの推移・分布
 
 - [AtCoderAnotherGraph](https://greasyfork.org/ja/scripts/455542-atcoderanothergraph) - 「ユーザ」ページにあるレーティンググラフ︎を、ヒューリスティック/アルゴリズムの計算式で表示する。
