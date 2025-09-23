@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-09-23
+
+- [#10940](https://github.com/KATO-Hiro/AtCoderClans/pull/10940) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
+    - [AHC_decayed-performance](https://github.com/potato167/AHC_decayed-performance/)
+
 ### 2025-09-22
 
 - [#10936](https://github.com/KATO-Hiro/AtCoderClans/pull/10936) - (破壊的な変更) 「[Change Log](../latest)」ページの2025年8月分を月別のアーカイブに移動。
