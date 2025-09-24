@@ -105,7 +105,7 @@
 
 === "記事"
 
-    2025-09-23
+    2025-09-24
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年9月24日時点)](https://x.com/atcoder/status/1970676278195020098)
