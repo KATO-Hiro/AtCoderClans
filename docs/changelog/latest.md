@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-09-25
+
+- [#10950](https://github.com/KATO-Hiro/AtCoderClans/pull/10950) - 「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
+    - [potato167/po167_library](https://github.com/potato167/po167_library) - ![GitHub stars](https://img.shields.io/github/stars/potato167/po167_library?style=plastic)
+
 ### 2025-09-24
 
 - [#10945](https://github.com/KATO-Hiro/AtCoderClans/pull/10945) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。

@@ -168,10 +168,12 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [2でも5でも割り切れない数は何倍かすると全桁1になる？](https://www.youtube.com/watch?v=Md7io_K1Pz0)
 
-    2025-09-11
+=== "ライブラリ・スニペット"
 
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [平面上の10点は半径1の円盤を敷き詰めて必ず覆えるか？](https://www.youtube.com/watch?v=hGa8_P8X3yY)
+    2025-09-25
+
+    - 「[C++](libraries/cpp)」ページ
+        - [potato167/po167_library](https://github.com/potato167/po167_library) - ![GitHub stars](https://img.shields.io/github/stars/potato167/po167_library?style=plastic)
 
 === "色変記事"
 
