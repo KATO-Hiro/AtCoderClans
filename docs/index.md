@@ -170,10 +170,15 @@
 
 === "ライブラリ・スニペット"
 
+    2025-09-26
+
+    - 「[C++](libraries/cpp)」ページ
+        - [m1une/library](https://github.com/m1une/library) ![GitHub stars](https://img.shields.io/github/stars/m1une/library?style=plastic)
+
     2025-09-25
 
     - 「[C++](libraries/cpp)」ページ
-        - [potato167/po167_library](https://github.com/potato167/po167_library) - ![GitHub stars](https://img.shields.io/github/stars/potato167/po167_library?style=plastic)
+        - [potato167/po167_library](https://github.com/potato167/po167_library) ![GitHub stars](https://img.shields.io/github/stars/potato167/po167_library?style=plastic)
 
 === "色変記事"
 
