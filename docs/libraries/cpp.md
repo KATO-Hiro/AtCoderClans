@@ -28,6 +28,7 @@ title: C&#43;&#43;
 - [kumaraditya1999/Algorithms](https://github.com/kumaraditya1999/Algorithms) ![GitHub stars](https://img.shields.io/github/stars/kumaraditya1999/Algorithms?style=plastic) - [kumaraditya1999](https://atcoder.jp/users/kumaraditya1999)さんのライブラリ。
 - [mackerel38/competitive](https://github.com/mackerel38/competitive/tree/main/library) ![GitHub stars](https://img.shields.io/github/stars/mackerel38/competitive?style=plastic) - [mackerel38](https://atcoder.jp/users/mackerel38)さんのライブラリ。
 - [maspypy/library](https://github.com/maspypy/library) ![GitHub Repo stars](https://img.shields.io/github/stars/maspypy/library?style=plastic) - [maspy](https://atcoder.jp/users/maspy)さんのライブラリ。
+- [m1une/library](https://github.com/m1une/library) ![GitHub stars](https://img.shields.io/github/stars/m1une/library?style=plastic) - [m1une](https://atcoder.jp/users/m1une)さんのライブラリ。
 - [morioprog/cpplib](https://morioprog.github.io/cpplib/) ![GitHub stars](https://img.shields.io/github/stars/morioprog/cpplib?style=plastic) - [morio__](https://atcoder.jp/users/morio__)さんのライブラリ。
 - [ngtkana/ngtlibcpp](https://github.com/ngtkana/ngtlibcpp) ![GitHub stars](https://img.shields.io/github/stars/ngtkana/ngtlibcpp?style=plastic) - [ngtkana](https://atcoder.jp/users/ngtkana)さんのライブラリ。[Rust版](https://github.com/ngtkana/ac-adapter-rs)もある。
 - [ningenMe/compro-library](https://github.com/ningenMe/compro-library) ![GitHub stars](https://img.shields.io/github/stars/ningenMe/compro-library?style=plastic) - [ningenMe](https://atcoder.jp/users/ningenMe)さんのライブラリ。
