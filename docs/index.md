@@ -131,11 +131,6 @@
     - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
         - [Haskeller のための AtCoder 言語アップデート 2025](https://zenn.dev/toyboot4e/articles/haskell-on-atcoder-2025)
 
-    2025-09-12
-
-    - 「[数学を学ぶ](articles/math)」ページ
-        - [平方数の末尾に同じ数字はいくつ続く？](https://kiri8128.hatenablog.com/entry/2025/09/09/225217)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
