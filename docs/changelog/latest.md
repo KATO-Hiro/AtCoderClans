@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-09-26
+
+- [#10953](https://github.com/KATO-Hiro/AtCoderClans/pull/10953) - 「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
+    - [m1une/library](https://github.com/m1une/library) ![GitHub stars](https://img.shields.io/github/stars/m1une/library?style=plastic)
+
 ### 2025-09-25
 
 - [#10950](https://github.com/KATO-Hiro/AtCoderClans/pull/10950) - 「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
