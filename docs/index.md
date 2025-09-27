@@ -126,11 +126,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年9月16日時点)](https://x.com/atcoder/status/1967776252573757465)
 
-    2025-09-13
-
-    - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
-        - [Haskeller のための AtCoder 言語アップデート 2025](https://zenn.dev/toyboot4e/articles/haskell-on-atcoder-2025)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -178,6 +173,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-09-27
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [ysknsid25](https://atcoder.jp/users/ysknsid25)さん - [AtCoderで入緑しました](https://blog.inorinrinrin.com/entry/2025/09/26/215922)
 
     2025-09-18
 
