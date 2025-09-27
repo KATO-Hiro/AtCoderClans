@@ -7,6 +7,7 @@ title: レーティング800〜1199(緑色)
 
 ## 2025年
 
+- [AtCoderで入緑しました](https://blog.inorinrinrin.com/entry/2025/09/26/215922) - [ysknsid25](https://atcoder.jp/users/ysknsid25)さんが、2025年9月20日に達成。
 - [【色変記事】AtCoder で緑になりました](https://qiita.com/satomshr/items/35b5024c7aab2ce9f820) - [satomshr](https://atcoder.jp/users/satomshr)さんが、2025年8月2日に達成。
 - [入緑しました！！](https://qiita.com/tyokousagi/items/a7c1c84062e270de0e27) - [tyokousagi](https://atcoder.jp/users/tyokousagi)さんが、2025年5月24日に達成。
 - [【色変記事】AtCoderで入緑しました！](https://qiita.com/pond-e/items/863e8f49447f1d10bda0) - [pond6814](https://atcoder.jp/users/pond6814)さんが、2025年5月19日に公開。
