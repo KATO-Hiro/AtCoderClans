@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-09-27
+
+- [#10956](https://github.com/KATO-Hiro/AtCoderClans/pull/10956) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[ysknsid25](https://atcoder.jp/users/ysknsid25)さんの[記事](https://blog.inorinrinrin.com/entry/2025/09/26/215922)を追加。
+
 ### 2025-09-26
 
 - [#10953](https://github.com/KATO-Hiro/AtCoderClans/pull/10953) - 「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
