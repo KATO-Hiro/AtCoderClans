@@ -103,6 +103,17 @@
     - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
         - [Disable Google AI Search & Hide Button (for AtCoder)](https://greasyfork.org/ja/scripts/549396-disable-google-ai-search-hide-button-for-atcoder)
 
+=== "Chrome拡張機能"
+
+    2025-09-28
+
+    - 「[Webページをより見やすく](chrome_extensions/improve_ui)」ページ
+        - [AtCoder Problems ADT Sync](https://chromewebstore.google.com/detail/atcoder-problems-adt-sync/aopoiafmefgiiafgpllljonomelhobbd)
+
+    <div align="center">
+      <img loading="lazy" src="images/chrome_extension/atcoder_problems_adt_sync.png" alt="atcoder problems adt sync">
+    </div>
+
 === "記事"
 
     2025-09-24
@@ -126,16 +137,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年9月16日時点)](https://x.com/atcoder/status/1967776252573757465)
 
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2025-09-14
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [olphe](https://atcoder.jp/users/olphe)さん - [はてなブログ](https://olphe.hatenablog.com/)
-        - [binap](https://atcoder.jp/users/binap)さん - [Qiita](https://qiita.com/binap/)
-        - [snuke](https://atcoder.jp/users/snuke)さん - [はてなブログ](https://snuke.hatenablog.com/)
-
 === "動画"
 
     2025-09-20
@@ -152,11 +153,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [足して15になる3つの数を取るゲームの必勝法](https://www.youtube.com/watch?v=A-c-IvT8FNY)
-
-    2025-09-14
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [2でも5でも割り切れない数は何倍かすると全桁1になる？](https://www.youtube.com/watch?v=Md7io_K1Pz0)
 
 === "ライブラリ・スニペット"
 
