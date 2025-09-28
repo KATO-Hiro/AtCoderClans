@@ -18,3 +18,13 @@ title: Webページをより見やすく
     <div align="center">
       <img loading="lazy" src="../../images/chrome_extension/atcoder_universal_color.png" alt="atcoder universal color">
     </div>
+
+## 外部サービスの機能を拡張
+
+### AtCoder Problems
+
+- [AtCoder Problems ADT Sync](https://chromewebstore.google.com/detail/atcoder-problems-adt-sync/aopoiafmefgiiafgpllljonomelhobbd) - AtCoder Daily Training (ADT) で正解した問題を AtCoder Problems の「Table」に反映できる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/chrome_extension/atcoder_problems_adt_sync.png" alt="atcoder problems adt sync">
+    </div>
