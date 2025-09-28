@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-09-28
+
+- [#10959](https://github.com/KATO-Hiro/AtCoderClans/pull/10959) - 「[Scripts](../../scripts)」の「[Webページをより見やすく](../../chrome_extensions/improve_ui)」ページに、以下のChrome拡張機能を追加。
+    - [AtCoder Problems ADT Sync](https://chromewebstore.google.com/detail/atcoder-problems-adt-sync/aopoiafmefgiiafgpllljonomelhobbd)
+
 ### 2025-09-27
 
 - [#10956](https://github.com/KATO-Hiro/AtCoderClans/pull/10956) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
