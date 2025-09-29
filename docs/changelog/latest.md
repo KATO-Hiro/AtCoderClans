@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-09-29
+
+- [#10970](https://github.com/KATO-Hiro/AtCoderClans/pull/10970) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [ALGO ARTIS プログラミングコンテスト2025 夏（AtCoder Heuristic Contest 054）参加記](https://kaede2020.hatenablog.com/entry/2025/09/29/190250)
+
 ### 2025-09-28
 
 - [#10959](https://github.com/KATO-Hiro/AtCoderClans/pull/10959) - 「[Scripts](../../scripts)」の「[Webページをより見やすく](../../chrome_extensions/improve_ui)」ページに、以下のChrome拡張機能を追加。
