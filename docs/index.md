@@ -116,6 +116,11 @@
 
 === "記事"
 
+    2025-09-29
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [ALGO ARTIS プログラミングコンテスト2025 夏（AtCoder Heuristic Contest 054）参加記](https://kaede2020.hatenablog.com/entry/2025/09/29/190250)
+
     2025-09-24
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -179,19 +184,6 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [alllllllllly](https://atcoder.jp/users/alllllllllly)さん - [【AtCoder】人類史上最も役に立たない入茶記事](https://qiita.com/alllllllllly/items/3394749e250423d2b2f3)
-
-=== "国内外のコンテストサイト"
-
-    2025-09-15
-
-    - 「[機械学習系コンテスト](related_contest_sites/machine_learning)」ページ
-
-        <!-- markdown-link-check-disable -->
-
-        - [Weekly Kaggle News](https://weeklykagglenews.substack.com)
-        - [Everyday Kaggle News](https://upura.github.io/everyday-kaggle-news/)
-
-        <!-- markdown-link-check-enable -->
 
 ## AtCoder公式グッズを購入する
 
