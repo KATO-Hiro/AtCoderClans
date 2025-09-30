@@ -116,6 +116,11 @@
 
 === "記事"
 
+    2025-09-30
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年9月30日時点、確定)](https://x.com/atcoder/status/1972922959158550721)
+
     2025-09-29
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -136,11 +141,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [第12回 Asprova プログラミングコンテスト（AHC053）参加時と復習の記録](https://kaede2020.hatenablog.com/entry/2025/09/17/072423)
         - [AHC 053 満点解法](https://yosupo.hatenablog.com/entry/2025/09/15/213945)
-
-    2025-09-16
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年9月16日時点)](https://x.com/atcoder/status/1967776252573757465)
 
 === "動画"
 
