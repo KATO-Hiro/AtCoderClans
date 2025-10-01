@@ -29,6 +29,7 @@ title: 問題を作成・出題する
 - [競プロ作問チェックリスト (初心者向け)](https://drive.google.com/file/d/1kTfrNKGXMhJOgUdyDhYo2dswbwPAhZ7a/view) - 新規writerを対象として、各フェーズの注意事項がチェックリストの形式でまとめられている。
 - [問題文の添削例](https://twitter.com/rng_58/status/1341339233043111940) - [えびま](https://twitter.com/evima0)さんが、問題文の不明瞭な点に対して添削を行っている。問題文を書く機会がある場合に、とても参考になると思われる。
 - [作問の失敗 判例集](https://tozangezan.hatenablog.com/entry/2015/12/02/000030) - コンテストの問題を作成するときに陥りがちな失敗について、実例と対処方法がまとめられている。
+- [ABC 事故全集](https://hackmd.io/@halc-kyopro/abc_accident) - AtCoder Beginner Contest (ABC) 042以降で発生した問題の不備と、それらの教訓などがまとめられている。
 
 ## 作問に関する環境構築
 
