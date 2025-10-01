@@ -88,6 +88,12 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "ホーム"
+
+    2025-10-01
+
+    - [AGC073でのAI使用について](https://atcoder.jp/posts/1563)
+
 === "ユーザスクリプト"
 
     2025-09-23
@@ -98,11 +104,6 @@
     <div align="center">
       <img loading="lazy" src="images/userscript/ahc_decayed_performance.png" alt="ahc decayed performance">
     </div>
-
-    2025-09-17
-
-    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
-        - [Disable Google AI Search & Hide Button (for AtCoder)](https://greasyfork.org/ja/scripts/549396-disable-google-ai-search-hide-button-for-atcoder)
 
 === "Chrome拡張機能"
 
@@ -116,6 +117,14 @@
     </div>
 
 === "記事"
+
+    2025-10-01
+
+    - 「[問題を作成・出題する](articles/for_writers)」ページ
+        - [ABC 事故全集](https://hackmd.io/@halc-kyopro/abc_accident)
+
+    - 「[競技プログラミングと就転職](articles/jobs)」ページ
+        - [「AtCoder 競技プログラマー就職企業人気ランキング2025」を発表](https://prtimes.jp/main/html/rd/p/000000062.000028415.html)
 
     2025-09-30
 
@@ -137,13 +146,12 @@
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
         - [AtCoder CLIにおいてログインできないときの対処法](https://qiita.com/namonaki/items/16cda635dd7c34496aaa)
 
-    2025-09-17
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [第12回 Asprova プログラミングコンテスト（AHC053）参加時と復習の記録](https://kaede2020.hatenablog.com/entry/2025/09/17/072423)
-        - [AHC 053 満点解法](https://yosupo.hatenablog.com/entry/2025/09/15/213945)
-
 === "動画"
+
+    2025-10-01
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [二次元累積和　競技プログラミングのテクニック](https://www.youtube.com/watch?v=-EetEMdk4Vc)
 
     2025-09-20
 
@@ -154,11 +162,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [この長さは？](https://www.youtube.com/watch?v=tpdZ3fMA6x0)
-
-    2025-09-17
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [足して15になる3つの数を取るゲームの必勝法](https://www.youtube.com/watch?v=A-c-IvT8FNY)
 
 === "ライブラリ・スニペット"
 

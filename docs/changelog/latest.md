@@ -4,6 +4,17 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-10-01
+
+- [#10982](https://github.com/KATO-Hiro/AtCoderClans/pull/10982) -「[Home](../..)」ページと「[For Beginners](../../for_beginners)」の「[Q3: コンテストは、いつ開催されていますか?](../../for_beginners/question3)」ページと「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
+    - [AGC073でのAI使用について](https://atcoder.jp/posts/1563)
+- [#10981](https://github.com/KATO-Hiro/AtCoderClans/pull/10981) - 「[Articles, Blogs, Books and Videos](../../media)」の「[問題を作成・出題する](../../articles/for_writers)」ページに、以下の記事を追加。
+    - [ABC 事故全集](https://hackmd.io/@halc-kyopro/abc_accident)
+- [#10980](https://github.com/KATO-Hiro/AtCoderClans/pull/10980) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [二次元累積和　競技プログラミングのテクニック](https://www.youtube.com/watch?v=-EetEMdk4Vc)
+- [#10979](https://github.com/KATO-Hiro/AtCoderClans/pull/10979) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
+    - [「AtCoder 競技プログラマー就職企業人気ランキング2025」を発表](https://prtimes.jp/main/html/rd/p/000000062.000028415.html)
+
 ### 2025-09-30
 
 - [#10974](https://github.com/KATO-Hiro/AtCoderClans/pull/10974) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
