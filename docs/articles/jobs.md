@@ -28,6 +28,7 @@ title: 競技プログラミングと就転職
     全文を読むには、会員登録が必要な場合がある。
 
 - [「AtCoder 競技プログラマー就職企業人気ランキング2021」を発表](https://prtimes.jp/main/html/rd/p/000000035.000028415.html) - [AtCoder](https://atcoder.jp/)がユーザに対して実施した人気企業ランキング(2021年版)をまとめた記事。
+    - [「AtCoder 競技プログラマー就職企業人気ランキング2025」を発表](https://prtimes.jp/main/html/rd/p/000000062.000028415.html) - 2025年版。
     - [「AtCoder 競技プログラマー就職企業人気ランキング2024」を発表](https://prtimes.jp/main/html/rd/p/000000049.000028415.html) - 2024年版。
     - [「AtCoder 競技プログラマー就職企業人気ランキング2023」を発表](https://prtimes.jp/main/html/rd/p/000000039.000028415.html) - 2023年版。
 - [競技プログラミング、日本の大会参加者急増　採用の指標に](https://www.chunichi.co.jp/article/180774) - 競技プログラミングの経験・実績が採用に活用されていることを紹介した記事。
