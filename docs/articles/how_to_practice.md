@@ -49,6 +49,7 @@ title: コンテストに向けた練習方法を知る
 
 - [AtCoder生成AI対策ルール - 20250718版](https://info.atcoder.jp/entry/llm-rules-ja) - AtCoder Beginner Contest (通称 ABC) および AtCoder Regular Contest (同 ARC)のコンテスト開催中を対象として、生成AIの利用における禁止事項が説明されている ([英語版](https://info.atcoder.jp/entry/llm-rules-en))。
     - [ARC Div.1 に関する生成AIルール変更について](https://atcoder.jp/posts/1513) - ARC Div.1 も上記ルールの対象となったことが告知されている。
+    - [AGC073でのAI使用について](https://atcoder.jp/posts/1563) - AtCoder Grand Contest (通称 AGC) 073 で生成AI単独で解答可能な問題が出題されたことや今後の対応について言及されている。
     - [AHCにおける生成AIルールの策定について](https://atcoder.jp/posts/1494) - AtCoder Heuristic Contest (通称 AHC) 049以降で適用される生成AI利用ルールのお知らせ ([詳細](https://info.atcoder.jp/entry/ahc-llm-rules-ja))。
 - [ARCのDivision制についての告知](https://atcoder.jp/posts/1364) - ARC189以降、AtCoder Regular Contest (通称 ARC) は難易度の異なる2種類のコンテストに分けられることが告知されている。
 - [競技プログラミングと生成AIの今 2025/07/02版](https://chokudai.hatenablog.com/entry/2025/07/02/151841) - [AtCoder](https://atcoder.jp/)社長の[chokudai](https://x.com/chokudai)さんが、競技プログラミングにおける生成AIの影響について、客観的な視点で現状を解説している。2025年7月上旬時点でのAIの実力・世界最高峰の大会での人間 vs AI戦の企画・AIによる最適化問題の自動的な解決の可能性・今後の事業戦略などについて述べられている。
