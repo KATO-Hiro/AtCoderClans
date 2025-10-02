@@ -184,10 +184,12 @@
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [ysknsid25](https://atcoder.jp/users/ysknsid25)さん - [AtCoderで入緑しました](https://blog.inorinrinrin.com/entry/2025/09/26/215922)
 
-    2025-09-18
+=== "国内外のコンテストサイト"
 
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [alllllllllly](https://atcoder.jp/users/alllllllllly)さん - [【AtCoder】人類史上最も役に立たない入茶記事](https://qiita.com/alllllllllly/items/3394749e250423d2b2f3)
+    2025-10-02
+
+    - 「[ICPC (国際大学対抗プログラミングコンテスト)](related_contest_sites/icpc)」ページ
+        - [ICPC 世界大会で準優勝しました](https://e869120.hatenablog.com/entry/2025/09/29/164622)
 
 ## AtCoder公式グッズを購入する
 
