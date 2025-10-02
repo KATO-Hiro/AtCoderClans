@@ -29,4 +29,5 @@ title: ICPC (国際大学対抗プログラミングコンテスト)
 ### 参加記を読む
 
 - [ICPC 2023 世界大会参加記](https://e869120.hatenablog.com/entry/2024/05/01/165143) - [E869120](https://atcoder.jp/users/E869120)さんによる The 46th & 47th Annual World Finals の参加記。世界大会出場までの練習方法とコンテスト当日の戦略が詳細に書かれている。
+    - [ICPC 世界大会で準優勝しました](https://e869120.hatenablog.com/entry/2025/09/29/164622)
     - [ICPC 2024 横浜大会参加記](https://e869120.hatenablog.com/entry/2024/12/25/124746)
