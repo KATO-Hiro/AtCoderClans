@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-10-03
+
+- [#10990](https://github.com/KATO-Hiro/AtCoderClans/pull/10990) -「[Home](../..)」ページに、以下の記事を追加。
+    - [言語更新ADT先行運用のお知らせ](https://atcoder.jp/posts/1566)
+
 ### 2025-10-02
 
 - [#10985](https://github.com/KATO-Hiro/AtCoderClans/pull/10985) - 「[Related Contest Sites](../../related_contest_sites)」の「[ICPC (国際大学対抗プログラミングコンテスト)](../../related_contest_sites/icpc)」ページに、以下の記事を追加。

@@ -91,6 +91,10 @@
 
 === "ホーム"
 
+    2025-10-03
+
+    - [言語更新ADT先行運用のお知らせ](https://atcoder.jp/posts/1566)
+
     2025-10-01
 
     - [AGC073でのAI使用について](https://atcoder.jp/posts/1563)
@@ -158,11 +162,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [漸近記法（O記法）クイズ](https://www.youtube.com/watch?v=m6UX7Ga7SDM)
-
-    2025-09-19
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [この長さは？](https://www.youtube.com/watch?v=tpdZ3fMA6x0)
 
 === "ライブラリ・スニペット"
 
