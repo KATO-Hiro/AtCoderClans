@@ -157,6 +157,14 @@
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
         - [AtCoder CLIにおいてログインできないときの対処法](https://qiita.com/namonaki/items/16cda635dd7c34496aaa)
 
+=== "ブログ"
+    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2025-10-04
+
+    - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
+        - [semiexp](https://atcoder.jp/users/semiexp)さん - [自作ブログ](https://semiexp.net/blog/index.html)
+
 === "動画"
 
     2025-10-01
