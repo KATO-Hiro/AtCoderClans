@@ -74,6 +74,9 @@
     },
     {
       "pattern": "^https://atcoder-companions.kakira.dev/"
+    },
+    {
+      "pattern": "^https://taksas.net/"
     }
   ],
   "httpHeaders": [
