@@ -92,6 +92,11 @@
 
 === "ホーム"
 
+    2025-10-04
+
+    - [生成AIの技術向上に伴うABC,ARC,AGCにおけるルール変更について](https://atcoder.jp/posts/1567)
+    - [AtCoder生成AI対策ルール - 20251003版](https://info.atcoder.jp/entry/llm-rules-ja)
+
     2025-10-03
 
     - [言語更新ADT先行運用のお知らせ](https://atcoder.jp/posts/1566)
@@ -158,11 +163,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [二次元累積和　競技プログラミングのテクニック](https://www.youtube.com/watch?v=-EetEMdk4Vc)
-
-    2025-09-20
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [漸近記法（O記法）クイズ](https://www.youtube.com/watch?v=m6UX7Ga7SDM)
 
 === "ライブラリ・スニペット"
 
