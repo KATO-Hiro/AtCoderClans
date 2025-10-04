@@ -3,11 +3,17 @@
 services:
   web:
     build: .
-    command: mkdocs serve
+    command: sleep infinity
     ports:
       - "8000:8000"
     tty: true
     volumes:
       - .:/usr/src/app:cached
+      - uv-cache:/workspace/.cache/uv
     environment:
       PYTHONPATH: .
+      UV_CACHE_DIR: /workspace/.cache/uv
+
+volumes:
+  uv-cache:
+    driver: local

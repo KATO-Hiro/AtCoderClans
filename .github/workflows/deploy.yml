@@ -1,16 +1,27 @@
 name: deploy
+
 on:
   push:
     branches:
       - main
       - master
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
-      - uses: actions/setup-python@v6
+      - name: Check out Git repository
+        uses: actions/checkout@v5
+
+      - name: Install uv with Python 3.13
+        uses: astral-sh/setup-uv@v6
         with:
-          python-version: "3.x"
-      - run: pip install mkdocs-material
-      - run: mkdocs gh-deploy --force
+          python-version: "3.13"
+          enable-cache: true
+          cache-dependency-glob: "uv.lock"
+
+      - name: Install dependencies
+        run: uv sync --frozen
+
+      - name: Deploy
+        run: uv run mkdocs gh-deploy --force
