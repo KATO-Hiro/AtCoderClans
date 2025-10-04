@@ -1,0 +1,22 @@
+[project]
+name = "atcoderclans"
+version = "0.1.0"
+description = "AtCoderClans - Resources for AtCoder and Competitive Programming"
+readme = "README.md"
+requires-python = ">=3.13,<4.0"
+license = { text = "MIT" }
+
+dependencies = [
+    "mkdocs>=1.6.0,<2.0",
+    "mkdocs-material==9.6.21",
+]
+
+[project.optional-dependencies]
+dev = []
+
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.uv]
+package = false

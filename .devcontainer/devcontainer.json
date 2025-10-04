@@ -1,15 +1,18 @@
 {
 	"name": "AtCoder Clans",
 	// The 'service' property is the name of the service for the container that VS Code should
-	// use. Update this value and .devcontainer/docker-compose.yml to the real service name.
+	// use. Update this value and .devcontainer/compose.yaml to the real service name.
 	"service": "web",
 	// The optional 'workspaceFolder' property is the path VS Code should open by default when
-	// connected. This is typically a file mount in .devcontainer/docker-compose.yml
+	// connected. This is typically a file mount in .devcontainer/compose.yaml
 	"workspaceFolder": "/usr/src/app",
 	// Update the 'dockerComposeFile' list if you have more compose files or use different names.
-	// The .devcontainer/docker-compose.yml file contains any overrides you need/want to make.
+	// The .devcontainer/compose.yaml file contains any overrides you need/want to make.
 	"dockerComposeFile": [
 		"../compose.yaml"
+	],
+	"mounts": [
+		"source=${localEnv:HOME}/.ssh,target=/home/vscode/.ssh,type=bind"
 	],
 	"customizations": {
 		"vscode": {
@@ -20,31 +23,34 @@
 				"files.insertFinalNewline": true,
 				"files.trimFinalNewlines": true,
 				"files.trimTrailingWhitespace": true,
+				"makefile.configureOnOpen": false,
 				"python.analysis.typeCheckingMode": "basic",
-				"python.defaultInterpreterPath": "/usr/local/bin/python",
+				"python.defaultInterpreterPath": "/tmp/atcoderclans-venv/bin/python",
 				"python.linting.enabled": true,
-				"python.formatting.autopep8Path": "/usr/local/py-utils/bin/autopep8",
-				"python.formatting.blackPath": "/usr/local/py-utils/bin/black",
-				"python.formatting.yapfPath": "/usr/local/py-utils/bin/yapf",
 				"python.linting.banditPath": "/usr/local/py-utils/bin/bandit",
-				"python.linting.flake8Path": "/usr/local/py-utils/bin/flake8",
 				"python.linting.mypyPath": "/usr/local/py-utils/bin/mypy",
 				"python.linting.pycodestylePath": "/usr/local/py-utils/bin/pycodestyle",
 				"python.linting.pydocstylePath": "/usr/local/py-utils/bin/pydocstyle",
-				"python.linting.pylintPath": "/usr/local/py-utils/bin/pylint",
+				"terminal.integrated.defaultProfile.linux": "fish",
 				"yaml.schemas": {
 					"https://squidfunk.github.io/mkdocs-material/schema.json": "mkdocs.yml"
+				},
+				"[markdown]": {
+					"editor.formatOnSave": false
 				}
 			},
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
 				"christian-kohler.path-intellisense",
+				"github.vscode-github-actions",
+				"medo64.render-crlf",
+				"ms-python.mypy-type-checker",
 				"ms-python.python",
 				"ms-python.vscode-pylance",
+				"ms-vscode.makefile-tools",
 				"redhat.vscode-yaml",
-				"vscode-icons-team.vscode-icons",
-				"ms-python.pylint",
-				"ms-python.mypy-type-checker"
+				"tamasfe.even-better-toml",
+				"vscode-icons-team.vscode-icons"
 			]
 		}
 	},
@@ -53,7 +59,7 @@
 		8000
 	],
 	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "pip3 install --user -r requirements.txt",
+	// "postCreateCommand": "",
 	// Comment out to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
 	"remoteUser": "vscode"
 }

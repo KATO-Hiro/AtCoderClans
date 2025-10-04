@@ -105,3 +105,17 @@ dist
 
 # VS Code
 .history
+
+# Python / uv
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# uv cache
+.cache/uv/
+
+# MkDocs
+site/

@@ -1,6 +1,9 @@
+.cache/
 .git
-.gitignore
+.venv/
+site/
 .devcontainer.json
+.gitignore
 mlc_config.json
 LICENSE
 README.md
