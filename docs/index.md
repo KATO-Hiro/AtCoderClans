@@ -152,11 +152,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年9月24日時点)](https://x.com/atcoder/status/1970676278195020098)
 
-    2025-09-21
-
-    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
-        - [AtCoder CLIにおいてログインできないときの対処法](https://qiita.com/namonaki/items/16cda635dd7c34496aaa)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -199,6 +194,14 @@
 
     - 「[ICPC (国際大学対抗プログラミングコンテスト)](related_contest_sites/icpc)」ページ
         - [ICPC 世界大会で準優勝しました](https://e869120.hatenablog.com/entry/2025/09/29/164622)
+
+=== "アーカイブス"
+
+    諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2025-10-05
+
+    - AtCoder AIルールクイズ
 
 ## AtCoder公式グッズを購入する
 

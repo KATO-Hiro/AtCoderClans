@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-10-05
+
+- [#11009](https://github.com/KATO-Hiro/AtCoderClans/pull/11009) - (破壊的な変更) 非公開になったと思われるWebサービスを「[Archives](../../archived)」ページに移動。
+    - AtCoder AIルールクイズ
+
 ### 2025-10-04
 
 - [#10999](https://github.com/KATO-Hiro/AtCoderClans/pull/10999) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
