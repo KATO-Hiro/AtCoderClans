@@ -15,12 +15,6 @@ title: クイズ・ゲーム・ネタアプリ
       <img loading="lazy" src="../../images/web_app/atcoder_rule_quiz.png" alt="atcoder rule quiz">
     </div>
 
-- [AtCoder AIルールクイズ](https://quiz-maker.site/quiz/play/tKKCCl20250430221107) - AtCoder Beginner Contest、 AtCoder Regular Contest Div.2 開催中の生成AIに関するルールをクイズ形式で確認できる。
-
-    <div align="center">
-      <img loading="lazy" src="../../images/web_app/atcoder_ai_rule_quiz.png" alt="atcoder ai rule quiz">
-    </div>
-
 - [AtCoder SNS Contest](https://quiz-maker.site/quiz/play/8i0Ogy20200315154852) - コンテストの開催中・終了後に、SNSに投稿可能な内容の理解度を確認できる。
 
     <div align="center">
