@@ -277,6 +277,15 @@ title: 開発・提供終了
 
 ### クイズ・ゲームなど
 
+- [AtCoder AIルールクイズ](https://quiz-maker.site/quiz/play/tKKCCl20250430221107) - AtCoder Beginner Contest、 AtCoder Regular Contest Div.2 開催中の生成AIに関するルールをクイズ形式で確認できる。
+    - 確認した日: 2025/10/05
+    - 理由: 記載なし。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/atcoder_ai_rule_quiz.png" alt="atcoder ai rule quiz">
+    </div>
+
+
 - [AtCoder Games](https://atcoder-games.herokuapp.com/games/) - 過去問に登場したゲームで遊ぶことができる。
     - 理由: 作者からサービスの提供終了の連絡を受けたため。
 
