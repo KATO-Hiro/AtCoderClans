@@ -105,17 +105,6 @@
 
     - [AGC073でのAI使用について](https://atcoder.jp/posts/1563)
 
-=== "ユーザスクリプト"
-
-    2025-09-23
-
-    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
-        - [AHC_decayed-performance](https://github.com/potato167/AHC_decayed-performance/)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/ahc_decayed_performance.png" alt="ahc decayed performance">
-    </div>
-
 === "Chrome拡張機能"
 
     2025-09-28
