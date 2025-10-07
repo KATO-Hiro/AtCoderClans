@@ -105,6 +105,13 @@ title: リンク切れ
 
 ### コンテスト・問題に関する統計情報
 
+- [deviation](https://atcoder-notify.com/deviation/) - 任意のユーザもしくは特定のレーティングに基づいた偏差値（アルゴリズム部門・ヒューリスティック部門）を表示する。
+    - 確認した日: 2025/10/07
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/deviation.png" alt="deviation">
+    </div>
+
 - [AC heatmap](https://rika0384.github.io/ac-heatmap/?handle_atcoder=&handle_codeforces=&handle_aoj=&handle_yukicoder=) - 任意のユーザが[AtCoder](https://atcoder.jp/)、[Codeforces](https://codeforces.com/)、[AOJ (AIZU ONLINE JUDGE)](https://onlinejudge.u-aizu.ac.jp/home)、[yukicoder](https://yukicoder.me/)で解いた問題のうち、unique ACをヒートマップで表示する。
     - 確認した日: 2024/07/12
 
@@ -192,6 +199,9 @@ title: リンク切れ
         前提条件として、焼きなまし法に関する一定程度の知識が求められる。
 
 ### 数学を学ぶ
+
+- [Cognicull](https://cognicull.com/ja) - さまざまな数学用語が分かりやすく解説されているWebサイト。また、自然科学や工学に関する内容も含まれている。
+    - 確認した日: 2025/10/07
 
 - [異常modまとめ](https://hyado.hatenablog.jp/entry/2020/12/07/000000) - 場合の数を大きな素数で割った余りを求める問題において、珍しい素数や有名な素数に近い値が出題された事例を紹介した記事。
     - 確認した日: 2022/02/24
