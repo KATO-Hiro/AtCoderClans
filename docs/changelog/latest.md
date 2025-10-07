@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-10-07
+
+- [#11018](https://github.com/KATO-Hiro/AtCoderClans/pull/11018) - (破壊的な変更) リンク切れと思われるWebサイト・サービスを「[Archives](../../archived)」ページに移動。
+    - deviation
+    - Cognicull
+
 ### 2025-10-06
 
 - [#11014](https://github.com/KATO-Hiro/AtCoderClans/pull/11014) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
