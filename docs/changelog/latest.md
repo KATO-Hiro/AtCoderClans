@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-10-08
+
+- [#11022](https://github.com/KATO-Hiro/AtCoderClans/pull/11022)、[#11024](https://github.com/KATO-Hiro/AtCoderClans/pull/11024) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [この物体の重心はどこ？](https://www.youtube.com/watch?v=kBVgmn4DQ-Q)
+    - [tan1は有理数か](https://www.youtube.com/watch?v=BOtP2l0_FQ4)
+
 ### 2025-10-07
 
 - [#11018](https://github.com/KATO-Hiro/AtCoderClans/pull/11018) - (破壊的な変更) リンク切れと思われるWebサイト・サービスを「[Archives](../../archived)」ページに移動。

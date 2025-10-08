@@ -141,11 +141,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [ALGO ARTIS プログラミングコンテスト2025 夏（AtCoder Heuristic Contest 054）参加記](https://kaede2020.hatenablog.com/entry/2025/09/29/190250)
 
-    2025-09-24
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年9月24日時点)](https://x.com/atcoder/status/1970676278195020098)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -155,6 +150,12 @@
         - [semiexp](https://atcoder.jp/users/semiexp)さん - [自作ブログ](https://semiexp.net/blog/index.html)
 
 === "動画"
+
+    2025-10-08
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [この物体の重心はどこ？](https://www.youtube.com/watch?v=kBVgmn4DQ-Q)
+        - [tan1は有理数か](https://www.youtube.com/watch?v=BOtP2l0_FQ4)
 
     2025-10-01
 
