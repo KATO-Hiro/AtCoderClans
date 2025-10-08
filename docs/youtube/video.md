@@ -50,6 +50,7 @@ title: 個別の動画
 
 - [100サイズの箱は80サイズの箱に入るか？【ゆっくり解説】](https://www.youtube.com/watch?v=8wT7V-Pw6_w) - 直方体の縦・横・高さの合計でサイズを計る場合に、大きい箱が小さい箱に入るかどうかを示している。
     - [この物体の重心はどこ？](https://www.youtube.com/watch?v=kBVgmn4DQ-Q) - 与えられた図形の重心を視覚的に求める方法が示されている。
+    - [tan1は有理数か](https://www.youtube.com/watch?v=BOtP2l0_FQ4) - 標題の内容を複数の方法で証明している。
 
     ??? info "関連動画の一覧"
 
