@@ -49,10 +49,11 @@ title: 個別の動画
 ### 数学・パズルに関する問題
 
 - [100サイズの箱は80サイズの箱に入るか？【ゆっくり解説】](https://www.youtube.com/watch?v=8wT7V-Pw6_w) - 直方体の縦・横・高さの合計でサイズを計る場合に、大きい箱が小さい箱に入るかどうかを示している。
-    - [この長さは？](https://www.youtube.com/watch?v=tpdZ3fMA6x0) - イギリス国旗の定理が紹介されている。
+    - [この物体の重心はどこ？](https://www.youtube.com/watch?v=kBVgmn4DQ-Q) - 与えられた図形の重心を視覚的に求める方法が示されている。
 
     ??? info "関連動画の一覧"
 
+        - [この長さは？](https://www.youtube.com/watch?v=tpdZ3fMA6x0) - イギリス国旗の定理が紹介されている。
         - [足して15になる3つの数を取るゲームの必勝法](https://www.youtube.com/watch?v=A-c-IvT8FNY) - ゲームの必勝法の有無を証明している。
         - [2でも5でも割り切れない数は何倍かすると全桁1になる？](https://www.youtube.com/watch?v=Md7io_K1Pz0) - 題意を満たす整数が存在するかどうかを証明している。
         - [平面上の10点は半径1の円盤を敷き詰めて必ず覆えるか？](https://www.youtube.com/watch?v=hGa8_P8X3yY) - 題意を満たすかどうかを証明している。
