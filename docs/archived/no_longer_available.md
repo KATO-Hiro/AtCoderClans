@@ -305,6 +305,12 @@ title: 開発・提供終了
 
 ## スクリプト
 
+### コードゴルフ用に改行コードを最適化
+
+- [AtCoder dos2unix UserScript](https://greasyfork.org/ja/scripts/372122-atcoder-dos2unix-userscript) - 改行コードをCRLFからLFに変換して、ソースコードを提出する。
+    - 確認した日: 2025/10/07
+    - 代替手段: [atcoder-lf-submit](https://greasyfork.org/ja/scripts/551938-atcoder-lf-submit)を利用する。
+
 ### 提出コードの正誤判定
 
 - [ac-standings-notifier](https://greasyfork.org/ja/scripts/372988-ac-standings-notifier) - コンテスト中に「順位表」ページを開いておくと、順位を通知する。

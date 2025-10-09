@@ -109,7 +109,14 @@ title: ソースコードの提出・確認を簡単に
 
 - [Atcoder Submission Shortcut](https://greasyfork.org/ja/scripts/509606-atcoder-submission-shortcut) - 「問題」「提出」「コードテスト」の各ページで、Ctrl + Shift + Enterを押すとソースコードを提出・実行できる。
 
-- [AtCoder dos2unix UserScript](https://greasyfork.org/ja/scripts/372122-atcoder-dos2unix-userscript) - 改行コードをCRLFからLFに変換して、ソースコードを提出する。
+### コードゴルフ用に改行コードを最適化
+
+- [atcoder-lf-submit](https://greasyfork.org/ja/scripts/551938-atcoder-lf-submit) - 改行コードをCRLFからLFに変換して、ソースコードを提出・実行できるボタンを追加する。また、コード長も確認できる。
+    - [作者による解説記事](https://dnek.net/ja/atcoder-lf-submit)
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_lf_submit.png" alt="atcoder lf submit">
+    </div>
 
 ### 時間を指定して提出
 
