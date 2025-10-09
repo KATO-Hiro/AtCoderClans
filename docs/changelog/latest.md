@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-10-09
+
+- [#11028](https://github.com/KATO-Hiro/AtCoderClans/pull/11028) - [@DNEK(でぃーねっく)](https://x.com/dnek_)さんのご紹介で、「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../user_scripts/submit_codes)」ページに、以下のユーザスクリプトを追加。
+    - [atcoder-lf-submit](https://greasyfork.org/ja/scripts/551938-atcoder-lf-submit)
+
 ### 2025-10-08
 
 - [#11022](https://github.com/KATO-Hiro/AtCoderClans/pull/11022)、[#11024](https://github.com/KATO-Hiro/AtCoderClans/pull/11024) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。

@@ -105,6 +105,17 @@
 
     - [AGC073でのAI使用について](https://atcoder.jp/posts/1563)
 
+=== "ユーザスクリプト"
+
+    2025-10-09
+
+    - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
+        - [atcoder-lf-submit](https://greasyfork.org/ja/scripts/551938-atcoder-lf-submit)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_lf_submit.png" alt="atcoder lf submit">
+    </div>
+
 === "Chrome拡張機能"
 
     2025-09-28
@@ -193,6 +204,10 @@
 === "アーカイブス"
 
     諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2025-10-09
+
+    - AtCoder dos2unix UserScript
 
     2025-10-07
 
