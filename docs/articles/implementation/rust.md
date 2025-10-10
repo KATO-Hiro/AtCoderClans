@@ -29,3 +29,4 @@ title: Rust
 - [Rustで競技プログラミングよくばりセット](https://qiita.com/SakiKuroe/items/152a3c117a68d95faa0b) - 競技プログラミングで使用頻度が高い関数/メソッド、データ構造、アルゴリズムの実装と例題・解答例が紹介されている。
 - [RustでMultiSetを実装する](https://zenn.dev/silva/articles/3af7df176849c2) - Rustで、C++の`Multiset`に相当する機能の実装と使い方を紹介している記事。
 - [【Rust】ACL の遅延セグ木をベースに双対セグ木を作ってみた](https://paruma184.hatenablog.com/entry/2024/05/06/010239) - 双対セグメント木の利点および実装例が紹介されている。
+- [3 種類の強連結成分分解アルゴリズムや、そのバリエーションの速度比較](https://ngtkana.hatenablog.com/entry/2024/12/10/011904) - 複数の強連結成分分解アルゴリズムの実装例の紹介と実行速度が比較されている。
