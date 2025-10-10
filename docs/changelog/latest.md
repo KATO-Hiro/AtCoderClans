@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-10-10
+
+- [#11033](https://github.com/KATO-Hiro/AtCoderClans/pull/11033) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Rust](../../articles/implementation/rust)」ページに、以下の記事を追加。
+    - [3 種類の強連結成分分解アルゴリズムや、そのバリエーションの速度比較](https://ngtkana.hatenablog.com/entry/2024/12/10/011904)
+
 ### 2025-10-09
 
 - [#11028](https://github.com/KATO-Hiro/AtCoderClans/pull/11028) - [@DNEK(でぃーねっく)](https://x.com/dnek_)さんのご紹介で、「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../user_scripts/submit_codes)」ページに、以下のユーザスクリプトを追加。

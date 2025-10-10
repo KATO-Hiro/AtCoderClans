@@ -129,6 +129,11 @@
 
 === "記事"
 
+    2025-10-10
+
+    - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
+        - [3 種類の強連結成分分解アルゴリズムや、そのバリエーションの速度比較](https://ngtkana.hatenablog.com/entry/2024/12/10/011904)
+
     2025-10-06
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -179,11 +184,6 @@
 
     - 「[C++](libraries/cpp)」ページ
         - [m1une/library](https://github.com/m1une/library) ![GitHub stars](https://img.shields.io/github/stars/m1une/library?style=plastic)
-
-    2025-09-25
-
-    - 「[C++](libraries/cpp)」ページ
-        - [potato167/po167_library](https://github.com/potato167/po167_library) ![GitHub stars](https://img.shields.io/github/stars/potato167/po167_library?style=plastic)
 
 === "色変記事"
 
