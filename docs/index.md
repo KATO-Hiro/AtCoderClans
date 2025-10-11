@@ -107,6 +107,15 @@
 
 === "ユーザスクリプト"
 
+    2025-10-11
+
+    - 「[ライバルを探す・競う](user_scripts/rivals)」ページ
+        - [AtCoder Standings Filtering by Group](https://greasyfork.org/ja/scripts/544794-atcoder-standings-filtering-by-group)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_standings_filtering_by_group.png" alt="atcoder standings filtering by group">
+    </div>
+
     2025-10-09
 
     - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
@@ -177,13 +186,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [二次元累積和　競技プログラミングのテクニック](https://www.youtube.com/watch?v=-EetEMdk4Vc)
-
-=== "ライブラリ・スニペット"
-
-    2025-09-26
-
-    - 「[C++](libraries/cpp)」ページ
-        - [m1une/library](https://github.com/m1une/library) ![GitHub stars](https://img.shields.io/github/stars/m1une/library?style=plastic)
 
 === "色変記事"
 
