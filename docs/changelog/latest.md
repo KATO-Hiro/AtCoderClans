@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-10-11
+
+- [#11036](https://github.com/KATO-Hiro/AtCoderClans/pull/11036) - 「[Scripts](../../scripts)」の「[ライバルを探す・競う](../../user_scripts/rivals)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Standings Filtering by Group](https://greasyfork.org/ja/scripts/544794-atcoder-standings-filtering-by-group)
+
 ### 2025-10-10
 
 - [#11033](https://github.com/KATO-Hiro/AtCoderClans/pull/11033) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Rust](../../articles/implementation/rust)」ページに、以下の記事を追加。
