@@ -176,6 +176,12 @@
 
 === "動画"
 
+    2025-10-12
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [2人の死刑囚と64枚のコイン](https://www.youtube.com/watch?v=v3Gqw4ta6Dc)
+        - [バグ／21時、AtCoderで。× 岩井星人](https://www.youtube.com/watch?v=pftcC-i9PiM)
+
     2025-10-08
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
@@ -186,15 +192,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [二次元累積和　競技プログラミングのテクニック](https://www.youtube.com/watch?v=-EetEMdk4Vc)
-
-=== "色変記事"
-
-    色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
-
-    2025-09-27
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [ysknsid25](https://atcoder.jp/users/ysknsid25)さん - [AtCoderで入緑しました](https://blog.inorinrinrin.com/entry/2025/09/26/215922)
 
 === "国内外のコンテストサイト"
 

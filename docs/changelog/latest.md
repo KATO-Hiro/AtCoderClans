@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-10-12
+
+- [#11041](https://github.com/KATO-Hiro/AtCoderClans/pull/11041)、[#11042](https://github.com/KATO-Hiro/AtCoderClans/pull/11042) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [2人の死刑囚と64枚のコイン](https://www.youtube.com/watch?v=v3Gqw4ta6Dc)
+    - [バグ／21時、AtCoderで。× 岩井星人](https://www.youtube.com/watch?v=pftcC-i9PiM)
+
 ### 2025-10-11
 
 - [#11036](https://github.com/KATO-Hiro/AtCoderClans/pull/11036) - 「[Scripts](../../scripts)」の「[ライバルを探す・競う](../../user_scripts/rivals)」ページに、以下のユーザスクリプトを追加。
