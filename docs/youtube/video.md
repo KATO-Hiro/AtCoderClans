@@ -137,6 +137,7 @@ title: 個別の動画
 ### 音MAD
 
 - [【音MAD】イワイイ（岩井星人×フォニイ）【競技プログラミング】](https://www.youtube.com/watch?v=zEbVkrb7FuM) - [yiwiy9](https://atcoder.jp/users/yiwiy9)さんの名言を集めた音MAD。
+    - [バグ／21時、AtCoderで。× 岩井星人](https://www.youtube.com/watch?v=pftcC-i9PiM) - 別の作者による音MAD。
 
 ### YouTuberの企画
 
