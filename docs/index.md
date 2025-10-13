@@ -125,17 +125,6 @@
       <img loading="lazy" src="images/userscript/atcoder_lf_submit.png" alt="atcoder lf submit">
     </div>
 
-=== "Chrome拡張機能"
-
-    2025-09-28
-
-    - 「[Webページをより見やすく](chrome_extensions/improve_ui)」ページ
-        - [AtCoder Problems ADT Sync](https://chromewebstore.google.com/detail/atcoder-problems-adt-sync/aopoiafmefgiiafgpllljonomelhobbd)
-
-    <div align="center">
-      <img loading="lazy" src="images/chrome_extension/atcoder_problems_adt_sync.png" alt="atcoder problems adt sync">
-    </div>
-
 === "記事"
 
     2025-10-10
@@ -192,6 +181,19 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [二次元累積和　競技プログラミングのテクニック](https://www.youtube.com/watch?v=-EetEMdk4Vc)
+
+=== "色変記事"
+
+    色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-10-13
+
+     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [tombo_](https://atcoder.jp/users/tombo_)さん - [【色変記事】13歳で入緑するまでにしたこと](https://zenn.dev/natsuakane/articles/c7c67f535208de)
+
+     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [KomeijiArmia](https://atcoder.jp/users/KomeijiArmia)さん - [1年かけてようやくAtCoder茶色になった話(入茶記事)](https://qiita.com/Komeiji-Armia/items/a59260db89872cb89974)
+        - [TrueRyoB](https://atcoder.jp/users/TrueRyoB)さん - [入茶記録！[競プロ]](https://qiita.com/TrueRyoB/items/a92100be99981a1e789a)
 
 === "国内外のコンテストサイト"
 
