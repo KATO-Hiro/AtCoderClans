@@ -4,6 +4,7 @@ title: レーティング400〜799(茶色)
 
 ## 2025年
 
+- [競プロ初心者が少ないrated参加で入茶した話](https://qiita.com/Youteru/items/ae3de71ce6d9d544e49a) - [Youteru](https://atcoder.jp/users/Youteru)さんが、2025年10月11日に達成。
 - [1年かけてようやくAtCoder茶色になった話(入茶記事)](https://qiita.com/Komeiji-Armia/items/a59260db89872cb89974) - [KomeijiArmia](https://atcoder.jp/users/KomeijiArmia)さんが、2025年9月29日に公開。
 - [【AtCoder】人類史上最も役に立たない入茶記事](https://qiita.com/alllllllllly/items/3394749e250423d2b2f3) - [alllllllllly](https://atcoder.jp/users/alllllllllly)さんが、2025年9月14日に達成。
 - [入茶記録！[競プロ]](https://qiita.com/TrueRyoB/items/a92100be99981a1e789a) - [TrueRyoB](https://atcoder.jp/users/TrueRyoB)さんが、2025年8月31日に公開。
