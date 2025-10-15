@@ -150,11 +150,6 @@
     - 「[競技プログラミングと就転職](articles/jobs)」ページ
         - [「AtCoder 競技プログラマー就職企業人気ランキング2025」を発表](https://prtimes.jp/main/html/rd/p/000000062.000028415.html)
 
-    2025-09-30
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Summer - 学校ランキング (2025年9月30日時点、確定)](https://x.com/atcoder/status/1972922959158550721)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -185,6 +180,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-10-15
+
+     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [Youteru](https://atcoder.jp/users/Youteru)さん - [競プロ初心者が少ないrated参加で入茶した話](https://qiita.com/Youteru/items/ae3de71ce6d9d544e49a)
 
     2025-10-13
 
