@@ -101,10 +101,6 @@
 
     - [言語更新ADT先行運用のお知らせ](https://atcoder.jp/posts/1566)
 
-    2025-10-01
-
-    - [AGC073でのAI使用について](https://atcoder.jp/posts/1563)
-
 === "ユーザスクリプト"
 
     2025-10-11
@@ -142,14 +138,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年10月6日時点)](https://x.com/atcoder/status/1975053144431468705)
 
-    2025-10-01
-
-    - 「[問題を作成・出題する](articles/for_writers)」ページ
-        - [ABC 事故全集](https://hackmd.io/@halc-kyopro/abc_accident)
-
-    - 「[競技プログラミングと就転職](articles/jobs)」ページ
-        - [「AtCoder 競技プログラマー就職企業人気ランキング2025」を発表](https://prtimes.jp/main/html/rd/p/000000062.000028415.html)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -159,6 +147,11 @@
         - [semiexp](https://atcoder.jp/users/semiexp)さん - [自作ブログ](https://semiexp.net/blog/index.html)
 
 === "動画"
+
+    2025-10-16
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [ケーキを5等分する公平な方法](https://www.youtube.com/watch?v=QuayL25RZj8)
 
     2025-10-12
 
@@ -171,11 +164,6 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [この物体の重心はどこ？](https://www.youtube.com/watch?v=kBVgmn4DQ-Q)
         - [tan1は有理数か](https://www.youtube.com/watch?v=BOtP2l0_FQ4)
-
-    2025-10-01
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [二次元累積和　競技プログラミングのテクニック](https://www.youtube.com/watch?v=-EetEMdk4Vc)
 
 === "色変記事"
 
