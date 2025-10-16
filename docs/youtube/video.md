@@ -49,10 +49,11 @@ title: 個別の動画
 ### 数学・パズルに関する問題
 
 - [100サイズの箱は80サイズの箱に入るか？【ゆっくり解説】](https://www.youtube.com/watch?v=8wT7V-Pw6_w) - 直方体の縦・横・高さの合計でサイズを計る場合に、大きい箱が小さい箱に入るかどうかを示している。
-    - [2人の死刑囚と64枚のコイン](https://www.youtube.com/watch?v=v3Gqw4ta6Dc) - 死刑囚が現在の盤面の情報から、看守が選んだコインを当てるゲームの必勝法が示されている。
+    - [ケーキを5等分する公平な方法](https://www.youtube.com/watch?v=QuayL25RZj8) - n 人でケーキを「公平」に分ける方法が紹介されている。
 
     ??? info "関連動画の一覧"
 
+        - [2人の死刑囚と64枚のコイン](https://www.youtube.com/watch?v=v3Gqw4ta6Dc) - 死刑囚が現在の盤面の情報から、看守が選んだコインを当てるゲームの必勝法が示されている。
         - [この物体の重心はどこ？](https://www.youtube.com/watch?v=kBVgmn4DQ-Q) - 与えられた図形の重心を視覚的に求める方法が示されている。
         - [tan1は有理数か](https://www.youtube.com/watch?v=BOtP2l0_FQ4) - 標題の内容を複数の方法で証明している。
         - [この長さは？](https://www.youtube.com/watch?v=tpdZ3fMA6x0) - イギリス国旗の定理が紹介されている。
