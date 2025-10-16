@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-10-16
+
+- [#11061](https://github.com/KATO-Hiro/AtCoderClans/pull/11061) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [ケーキを5等分する公平な方法](https://www.youtube.com/watch?v=QuayL25RZj8)
+
 ### 2025-10-15
 
 - [#11056](https://github.com/KATO-Hiro/AtCoderClans/pull/11056) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
