@@ -148,6 +148,11 @@
 
 === "動画"
 
+    2025-10-17
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [赤のN点と青のN点を交差なく結べるか？](https://www.youtube.com/watch?v=Uvbcn6up-rA)
+
     2025-10-16
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
@@ -182,13 +187,6 @@
      - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [KomeijiArmia](https://atcoder.jp/users/KomeijiArmia)さん - [1年かけてようやくAtCoder茶色になった話(入茶記事)](https://qiita.com/Komeiji-Armia/items/a59260db89872cb89974)
         - [TrueRyoB](https://atcoder.jp/users/TrueRyoB)さん - [入茶記録！[競プロ]](https://qiita.com/TrueRyoB/items/a92100be99981a1e789a)
-
-=== "国内外のコンテストサイト"
-
-    2025-10-02
-
-    - 「[ICPC (国際大学対抗プログラミングコンテスト)](related_contest_sites/icpc)」ページ
-        - [ICPC 世界大会で準優勝しました](https://e869120.hatenablog.com/entry/2025/09/29/164622)
 
 === "アーカイブス"
 

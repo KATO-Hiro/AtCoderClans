@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-10-17
+
+- [#11067](https://github.com/KATO-Hiro/AtCoderClans/pull/11067) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [赤のN点と青のN点を交差なく結べるか？](https://www.youtube.com/watch?v=Uvbcn6up-rA)
+
 ### 2025-10-16
 
 - [#11061](https://github.com/KATO-Hiro/AtCoderClans/pull/11061) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
