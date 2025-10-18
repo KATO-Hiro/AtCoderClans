@@ -4,11 +4,15 @@ title: 複数の言語
 
 ## ジャッジシステムで利用可能な言語とライブラリ一覧
 
-- [使用できる言語とライブラリの一覧](https://img.atcoder.jp/file/language-update/language-list.html) - ジャッジシステムのアップデート(2023年8月)に伴い、利用可能な言語とライブラリの一覧がまとめられている。
+- [使用できる言語とライブラリの一覧](https://img.atcoder.jp/file/language-update/2025-10/language-list.html) - ジャッジシステムのアップデート(2025年10月)に伴い、利用可能な言語とライブラリの一覧がまとめられている。
+
+### 言語アップデートによる変更点
+
+- [【非公式】AtCoder 言語アップデート 2024-2025 での変更点](https://qiita.com/punirunrun/items/9bbdb33ef03e9a3a5138) - 上記の内容について、言語処理系の更新状況と各言語の主な変更点がまとめられている。
 
 ## 文法・言語仕様
 
-- [Python と C++ の文法の比較](https://qiita.com/toriidao/items/6ffee7f40cc2e47c3e22) - PythonとC++における入出力・基本的な文法が比較できるようにまとめられている記事。
+- [Python と C++ の文法の比較](https://qiita.com/toriidao/items/6ffee7f40cc2e47c3e22) - PythonとC++における入出力・基本的な文法が比較できるようにまとめられている。
 
 ### 浮動小数点の誤差評価
 
