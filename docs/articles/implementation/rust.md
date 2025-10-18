@@ -15,10 +15,17 @@ title: Rust
 ### 言語アップデートによる新機能のまとめ
 
 - [AtCoder言語アップデートでRustの入出力が楽になっていた](https://qiita.com/koji-cw/items/0cce3b075faffe5e50ed) - [AtCoder](https://atcoder.jp/)の言語アップデートに伴って追加された入出力関連の便利なライブラリが紹介されている。また、[追加されたライブラリ一覧](https://github.com/rust-lang-ja/atcoder-rust-base/blob/ja-all-enabled/Cargo.toml)も掲載されている。
+
+#### 2025年10月以降
+
+- [個人的に嬉しい、AtCoder の Rust 言語アップデートで変わるもの一覧（Rust 1.70 → Rust 1.86)](https://ngtkana.hatenablog.com/entry/2025/05/24/115236) - 言語アップデート(2025年)で利用可能になる機能と、それらの用途・従来からの改善点がまとめられている。
+- [【Rust】AtCoder 2025/10 の言語アップデート対応の Cargo.toml](https://paruma184.hatenablog.com/entry/2025/10/17/234812) - [使用できる言語とライブラリの一覧](https://img.atcoder.jp/file/language-update/2025-10/language-list.html)に基づいて、利用できるライブラリがTOML形式で紹介されている。
+
+#### 2023年8月以降
+
 - [Rust 1.43～1.67 の競プロ的に気になる変更点](https://qiita.com/hossie/items/6dc0c736d8868ea6905d) - [AtCoder](https://atcoder.jp/)の言語アップデート(2023年)を見越して、競技プログラミングでの利用が想定される新機能がまとめられている。また、ローカル環境で最新バージョンを利用しているユーザが参照すると、ジャッジ環境でのビルドエラーを回避しやすくなると思われる。
 - [AtCoder 言語アップデート クレート個人的感想](https://zeronosu77108.hatenablog.com/entry/2023/08/20/125325) - [AtCoder](https://atcoder.jp/)の言語アップデート(2023年)で利用可能なクレートのうち、筆者が便利だと感じたものについて言及している。
     - [AtCoderで使えるRustのクレートについて調べてみた](https://horologe.hatenablog.jp/entry/2024/03/28/220044)
-- [個人的に嬉しい、AtCoder の Rust 言語アップデートで変わるもの一覧（Rust 1.70 → Rust 1.86)](https://ngtkana.hatenablog.com/entry/2025/05/24/115236) - 言語アップデート(2025年)で利用可能になる機能と、それらの用途・従来からの改善点がまとめられている。
 
 ### 別の言語と同等の機能を探す
 
