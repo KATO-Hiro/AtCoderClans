@@ -92,14 +92,14 @@
 
 === "ホーム"
 
+    2025-10-18
+
+    - [新ジャッジ運用開始のお知らせ](https://atcoder.jp/posts/1579)
+
     2025-10-04
 
     - [生成AIの技術向上に伴うABC,ARC,AGCにおけるルール変更について](https://atcoder.jp/posts/1567)
     - [AtCoder生成AI対策ルール - 20251003版](https://info.atcoder.jp/entry/llm-rules-ja)
-
-    2025-10-03
-
-    - [言語更新ADT先行運用のお知らせ](https://atcoder.jp/posts/1566)
 
 === "ユーザスクリプト"
 
@@ -122,6 +122,13 @@
     </div>
 
 === "記事"
+
+    2025-10-18
+
+    - 「[実装テクニックを学ぶ - 複数の言語](articles/implementation/multiple_languages)」ページ
+        - [【非公式】AtCoder 言語アップデート 2024-2025 での変更点](https://qiita.com/punirunrun/items/9bbdb33ef03e9a3a5138)
+    - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
+        - [【Rust】AtCoder 2025/10 の言語アップデート対応の Cargo.toml](https://paruma184.hatenablog.com/entry/2025/10/17/234812)
 
     2025-10-14
 

@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-10-18
+
+- [#11075](https://github.com/KATO-Hiro/AtCoderClans/pull/11075) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - 複数の言語](../../articles/implementation/multiple_languages)」ページに、以下の記事を追加。
+    - [【非公式】AtCoder 言語アップデート 2024-2025 での変更点](https://qiita.com/punirunrun/items/9bbdb33ef03e9a3a5138)
+- [#11074](https://github.com/KATO-Hiro/AtCoderClans/pull/11074) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Rust](../../articles/implementation/rust)」ページに、以下の記事を追加。
+    - [【Rust】AtCoder 2025/10 の言語アップデート対応の Cargo.toml](https://paruma184.hatenablog.com/entry/2025/10/17/234812)
+- [#11072](https://github.com/KATO-Hiro/AtCoderClans/pull/11072) -「[Home](../..)」ページに、以下の記事を追加。
+    - [新ジャッジ運用開始のお知らせ](https://atcoder.jp/posts/1579)
+
 ### 2025-10-17
 
 - [#11067](https://github.com/KATO-Hiro/AtCoderClans/pull/11067) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
