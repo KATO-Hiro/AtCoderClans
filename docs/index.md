@@ -96,11 +96,6 @@
 
     - [新ジャッジ運用開始のお知らせ](https://atcoder.jp/posts/1579)
 
-    2025-10-04
-
-    - [生成AIの技術向上に伴うABC,ARC,AGCにおけるルール変更について](https://atcoder.jp/posts/1567)
-    - [AtCoder生成AI対策ルール - 20251003版](https://info.atcoder.jp/entry/llm-rules-ja)
-
 === "ユーザスクリプト"
 
     2025-10-11
@@ -123,6 +118,19 @@
 
 === "記事"
 
+    2025-10-19
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+
+        <!-- markdown-link-check-disable -->
+
+        - [AtCoder のコンテストスポンサーを通して、「とにかく強い仲間を集めたい」「もっと良い仕組みを作り、世の中の豊かさを増やしたい」「本気で物事に取り組んできた人に門戸を広げたい」と、叶えたいことを全てやろうとする話](https://www.estie.jp/blog/entry/2025/10/16/122042)
+
+        <!-- markdown-link-check-enable -->
+
+    - 「[競技プログラミングと就転職](articles/jobs)」ページ
+        - [入社3年目に思うこと](https://kaede2020.hatenablog.com/entry/2025/10/17/150443)
+
     2025-10-18
 
     - 「[実装テクニックを学ぶ - 複数の言語](articles/implementation/multiple_languages)」ページ
@@ -144,14 +152,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年10月6日時点)](https://x.com/atcoder/status/1975053144431468705)
-
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2025-10-04
-
-    - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
-        - [semiexp](https://atcoder.jp/users/semiexp)さん - [自作ブログ](https://semiexp.net/blog/index.html)
 
 === "動画"
 
