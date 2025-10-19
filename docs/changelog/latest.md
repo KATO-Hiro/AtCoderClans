@@ -6,7 +6,7 @@ title: Change Log
 
 ### 2025-10-19
 
-- [#11081](https://github.com/KATO-Hiro/AtCoderClans/pull/11081) -「[Home](../..)」ページに、以下の記事を追加。
+- [#11083](https://github.com/KATO-Hiro/AtCoderClans/pull/11083) -「[Home](../..)」ページに、以下の記事を追加。
     - [新ジャッジ運用開始の延期について](https://atcoder.jp/posts/1585)
 - [#11080](https://github.com/KATO-Hiro/AtCoderClans/pull/11080) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
 
