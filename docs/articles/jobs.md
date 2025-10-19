@@ -64,6 +64,7 @@ title: 競技プログラミングと就転職
 
 - [フューチャーでjobsバイト、競プロ入社を経験して](https://future-architect.github.io/articles/20201102/) - 競技プログラミングの経験が就業やITコンサルティング業務に役立った事例を紹介した記事。
 - [AtCoder株式会社に入社しました](https://kaede2020.hatenablog.com/entry/2023/02/01/190234) - [kaede2020](https://atcoder.jp/users/kaede2020)さんが、[AtCoder](https://atcoder.jp/)に応募したきっかけ・面談から採用に至るまでの体験談をまとめた記事。
+    - [入社3年目に思うこと](https://kaede2020.hatenablog.com/entry/2025/10/17/150443) - 担当している業務、これまでの振り返り、現在の心境が率直に語られている。
 - [【入社エントリ】新卒でモノグサに入社しました / 就活の振り返り](https://kona0001.hatenablog.com/entry/2023/04/11/202805) - [konayuki](https://atcoder.jp/users/konayuki)さんが、[モノグサ株式会社](https://corp.monoxer.com/)に応募・入社するまでの過程がまとめられている記事。
 
 <!-- markdown-link-check-disable -->
