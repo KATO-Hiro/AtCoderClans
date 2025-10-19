@@ -4,6 +4,19 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-10-19
+
+- [#11080](https://github.com/KATO-Hiro/AtCoderClans/pull/11080) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
+
+    <!-- markdown-link-check-disable -->
+
+    - [AtCoder のコンテストスポンサーを通して、「とにかく強い仲間を集めたい」「もっと良い仕組みを作り、世の中の豊かさを増やしたい」「本気で物事に取り組んできた人に門戸を広げたい」と、叶えたいことを全てやろうとする話](https://www.estie.jp/blog/entry/2025/10/16/122042)
+
+    <!-- markdown-link-check-enable -->
+
+- [#11079](https://github.com/KATO-Hiro/AtCoderClans/pull/11079) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
+    - [入社3年目に思うこと](https://kaede2020.hatenablog.com/entry/2025/10/17/150443)
+
 ### 2025-10-18
 
 - [#11075](https://github.com/KATO-Hiro/AtCoderClans/pull/11075) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - 複数の言語](../../articles/implementation/multiple_languages)」ページに、以下の記事を追加。
