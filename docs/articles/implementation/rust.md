@@ -16,7 +16,7 @@ title: Rust
 
 - [AtCoder言語アップデートでRustの入出力が楽になっていた](https://qiita.com/koji-cw/items/0cce3b075faffe5e50ed) - [AtCoder](https://atcoder.jp/)の言語アップデートに伴って追加された入出力関連の便利なライブラリが紹介されている。また、[追加されたライブラリ一覧](https://github.com/rust-lang-ja/atcoder-rust-base/blob/ja-all-enabled/Cargo.toml)も掲載されている。
 
-#### 2025年10月以降
+#### 時期未定
 
 - [個人的に嬉しい、AtCoder の Rust 言語アップデートで変わるもの一覧（Rust 1.70 → Rust 1.86)](https://ngtkana.hatenablog.com/entry/2025/05/24/115236) - 言語アップデート(2025年)で利用可能になる機能と、それらの用途・従来からの改善点がまとめられている。
 - [【Rust】AtCoder 2025/10 の言語アップデート対応の Cargo.toml](https://paruma184.hatenablog.com/entry/2025/10/17/234812) - [使用できる言語とライブラリの一覧](https://img.atcoder.jp/file/language-update/2025-10/language-list.html)に基づいて、利用できるライブラリがTOML形式で紹介されている。
