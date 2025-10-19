@@ -6,6 +6,8 @@ title: Change Log
 
 ### 2025-10-19
 
+- [#11081](https://github.com/KATO-Hiro/AtCoderClans/pull/11081) -「[Home](../..)」ページに、以下の記事を追加。
+    - [新ジャッジ運用開始の延期について](https://atcoder.jp/posts/1585)
 - [#11080](https://github.com/KATO-Hiro/AtCoderClans/pull/11080) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
 
     <!-- markdown-link-check-disable -->
@@ -24,7 +26,7 @@ title: Change Log
 - [#11074](https://github.com/KATO-Hiro/AtCoderClans/pull/11074) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Rust](../../articles/implementation/rust)」ページに、以下の記事を追加。
     - [【Rust】AtCoder 2025/10 の言語アップデート対応の Cargo.toml](https://paruma184.hatenablog.com/entry/2025/10/17/234812)
 - [#11072](https://github.com/KATO-Hiro/AtCoderClans/pull/11072) -「[Home](../..)」ページに、以下の記事を追加。
-    - [新ジャッジ運用開始のお知らせ](https://atcoder.jp/posts/1579)
+    - 新ジャッジ運用開始のお知らせ
 
 ### 2025-10-17
 
