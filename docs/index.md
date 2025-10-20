@@ -119,6 +119,11 @@
 
 === "記事"
 
+    2025-10-20
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年10月20日時点)](https://x.com/atcoder/status/1980089371555758132)
+
     2025-10-19
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
@@ -208,10 +213,6 @@
 
     - deviation
     - Cognicull
-
-    2025-10-05
-
-    - AtCoder AIルールクイズ
 
 ## AtCoder公式グッズを購入する
 
