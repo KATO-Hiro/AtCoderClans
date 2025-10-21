@@ -154,11 +154,6 @@
     - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
         - [3 種類の強連結成分分解アルゴリズムや、そのバリエーションの速度比較](https://ngtkana.hatenablog.com/entry/2024/12/10/011904)
 
-    2025-10-06
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年10月6日時点)](https://x.com/atcoder/status/1975053144431468705)
-
 === "動画"
 
     2025-10-17
