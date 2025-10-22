@@ -118,6 +118,15 @@ title: ソースコードの提出・確認を簡単に
       <img loading="lazy" src="../../images/userscript/atcoder_lf_submit.png" alt="atcoder lf submit">
     </div>
 
+### Piet言語用にコード長を短くする
+
+- [atcoder-piet-image-converter](https://greasyfork.org/ja/scripts/553186-atcoder-piet-image-converter) - 「問題」「提出」「コードテスト」の各ページで、画像ファイルをPietのソースコードとして提出できるようにする。また、「提出結果」ページで、ソースコードを画像として確認できる。
+    - [作者による解説記事](https://dnek.net/ja/atcoder-piet-image-converter)
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_piet_image_converter.png" alt="atcoder piet image converter">
+    </div>
+
 ### 時間を指定して提出
 
 - [AtCoder Submission Timer](https://greasyfork.org/ja/scripts/451696-atcoder-submission-timer) - 「問題」ページで、時間を指定してソースコードを提出できる。
