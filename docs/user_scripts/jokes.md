@@ -87,6 +87,12 @@ title: ネタスクリプト
       <img loading = "lazy" src="../../images/userscript/atcoder_lets_dance_when_we_get_it_wrong_answer.png" alt="atcoder_lets_dance_when_we_get_it_wrong_answer">
     </div>
 
+- [Halloween-AtCoder](https://greasyfork.org/ja/scripts/553267-halloween-atcoder) - 「提出結果」ページの正誤判定に対して、各アイコンをハローウイン風に装飾できる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/halloween_atcoder.png" alt="halloween atcoder">
+    </div>
+
 - [Toyota Mayuko AtCoder](https://greasyfork.org/ja/scripts/541725-toyota-mayuko-atcoder) - 「提出結果」ページの正誤判定のうち、「WA」を元代議士の言葉に置き換える。
 
     <div align="center">
