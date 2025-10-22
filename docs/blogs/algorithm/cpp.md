@@ -37,7 +37,6 @@ title: C&#43;&#43;
 |noimi|[はてなブログ](https://noimi.hatenablog.com/)||
 |noshi91|[はてなブログ](https://noshi91.hatenablog.com/)||
 |nuip|[はてなブログ](https://nuip.hateblo.jp/)|2018年1月以降、新規の記事を確認できず。|
-|Nyaan|[はてなブログ](https://nyaan.hatenablog.com/)||
 |QCFium|[はてなブログ](https://qcfium.hatenadiary.com/)||
 |rickytheta|[はてなブログ](https://r-th.hatenablog.com/)|2017年2月以降、新規の記事を確認できず。|
 |risujiroh|[はてなブログ](https://risujiroh.hatenablog.com/)||

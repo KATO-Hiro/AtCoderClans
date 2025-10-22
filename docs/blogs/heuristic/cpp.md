@@ -46,7 +46,6 @@ title: C&#43;&#43;
 |milkcoffee|[はてなブログ](https://milkcoffee.hatenablog.jp/)||
 |niuez|[GitHub Pages](https://niuez.github.io/)||
 |noimi|[はてなブログ](https://noimi.hatenablog.com/)||
-|Nyaan|[はてなブログ](https://nyaan.hatenablog.com/)||
 |olphe|[はてなブログ](https://olphe.hatenablog.com/)||
 |peroon|[はてなブログ](https://perogram.hateblo.jp/)||
 |physics0523|[はてなブログ](https://physics0523.hatenablog.com/)||
