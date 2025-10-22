@@ -99,6 +99,20 @@
 
 === "ユーザスクリプト"
 
+    2025-10-22
+
+    - 「[ネタスクリプト](user_scripts/jokes)」ページ
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/halloween_atcoder.png" alt="halloween atcoder">
+    </div>
+
+    - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_piet_image_converter.png" alt="atcoder piet image converter">
+    </div>
+
     2025-10-11
 
     - 「[ライバルを探す・競う](user_scripts/rivals)」ページ
@@ -203,11 +217,6 @@
     2025-10-09
 
     - AtCoder dos2unix UserScript
-
-    2025-10-07
-
-    - deviation
-    - Cognicull
 
 ## AtCoder公式グッズを購入する
 

@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-10-22
+
+- [#11099](https://github.com/KATO-Hiro/AtCoderClans/pull/11099) - 「[Scripts](../../scripts)」の「[ネタスクリプト](../../user_scripts/jokes)」ページに、以下のユーザスクリプトを追加。
+    - [Halloween-AtCoder](https://greasyfork.org/ja/scripts/553267-halloween-atcoder)
+- [#11098](https://github.com/KATO-Hiro/AtCoderClans/pull/11098) - [@DNEK(でぃーねっく)](https://x.com/dnek_)さんのご紹介で、「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../user_scripts/submit_codes)」ページに、以下のユーザスクリプトを追加。
+    - [atcoder-piet-image-converter](https://greasyfork.org/ja/scripts/553186-atcoder-piet-image-converter)
+- [#11097](https://github.com/KATO-Hiro/AtCoderClans/pull/11097) - (破壊的な変更) 非公開になったと思われるブログを「[Archives](../../archived)」ページに移動。
+
 ### 2025-10-21
 
 - [#11094](https://github.com/KATO-Hiro/AtCoderClans/pull/11094) - (破壊的な変更) 「[Change Log](../latest)」ページの2025年9月分を月別のアーカイブに移動。
