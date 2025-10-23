@@ -8,6 +8,18 @@ title: 開発・提供終了
 
 ## おすすめのサービス・ツール
 
+### 問題を解く
+
+- [AtCoder Tags](https://atcoder-tags.herokuapp.com/) - カテゴリーごとに問題を見ることができるWebアプリです。ユーザ登録を行えば、問題にふさわしいと思うカテゴリーを投票できます。[⭐ AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper)を導入すると、[AtCoder](https://atcoder.jp/)の「問題」ページからも投票できます。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_tags.png" alt="atcoder tags">
+    </div>
+
+    !!! info "参考"
+
+        ユーザスクリプト(⭐️印が付いたサービス)を初めて利用される場合は、最初に[スクリプトマネージャ](https://greasyfork.org/ja)を導入する必要があります。
+
 ### コンテスト後の情報収集・発信
 
 - [AtCoder TL](https://github.com/shirakia/atcoder_tl) - レーティング帯ごとのTwitterタイムラインを生成することができます。また、全てのタイムラインをまとめた[Web版](https://atcoder-tl.com/)も公開されています。
@@ -25,6 +37,13 @@ title: 開発・提供終了
 ## Webアプリ・Webサイト
 
 ### 問題を解く
+
+- [AtCoder Tags](https://atcoder-tags.herokuapp.com/) - 問題のカテゴリーを分類する。ユーザ登録を行えば、問題にふさわしいと思うカテゴリーを投票できる。[AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper)を導入すると、[AtCoder](https://atcoder.jp/)の「問題」ページからも投票できる。
+    - 理由: 記載なし。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_tags.png" alt="atcoder tags">
+    </div>
 
 - [mm-tester](https://github.com/kosakkun/mm-tester) ![GitHub Repo stars](https://img.shields.io/github/stars/kosakkun/mm-tester?style=plastic) - ヒューリスティック型コンテストの問題とサンプルコードがまとめられている。
 
@@ -304,6 +323,22 @@ title: 開発・提供終了
     </div>
 
 ## スクリプト
+
+### ヒントを見る
+
+- [AtCoderTags_Hint](https://greasyfork.org/ja/scripts/393337-atcodertags-hint) - 「問題」ページにカテゴリーを表すヒントボタンを設置する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcodertags_hint.png" alt="atcodertags hint">
+    </div>
+
+### カテゴリーを投票
+
+- [AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper) - 「問題」ページから[AtCoderTags](https://atcoder-tags.herokuapp.com/)に投票できる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcodertags_helper.png" alt="atcodertags helper">
+    </div>
 
 ### コードゴルフ用に改行コードを最適化
 

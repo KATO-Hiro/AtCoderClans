@@ -4,30 +4,9 @@ title: 更新停止の可能性が高い
 
 各種情報の更新が停止されたと思われるサービス・ツール、記載内容が古くなったと思われるサービス・記事・ツイートなどを掲載しています。
 
-## おすすめのサービス・ツール
-
-### 問題を解く
-
-- [AtCoder Tags](https://atcoder-tags.herokuapp.com/) - カテゴリーごとに問題を見ることができるWebアプリです。ユーザ登録を行えば、問題にふさわしいと思うカテゴリーを投票できます。[⭐ AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper)を導入すると、[AtCoder](https://atcoder.jp/)の「問題」ページからも投票できます。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_tags.png" alt="atcoder tags">
-    </div>
-
-    !!! info "参考"
-
-        ユーザスクリプト(⭐️印が付いたサービス)を初めて利用される場合は、最初に[スクリプトマネージャ](https://greasyfork.org/ja)を導入する必要があります。
-
 ## Webアプリ・Webサイト
 
 ### 問題を解く
-
-- [AtCoder Tags](https://atcoder-tags.herokuapp.com/) - 問題のカテゴリーを分類する。ユーザ登録を行えば、問題にふさわしいと思うカテゴリーを投票できる。[AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper)を導入すると、[AtCoder](https://atcoder.jp/)の「問題」ページからも投票できる。
-    - 理由: 記載なし。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_tags.png" alt="atcoder tags">
-    </div>
 
 - [Atcoder Daily Contests](https://github.com/ika9810/Atcoder-Daily-Contests) ![GitHub Repo stars](https://img.shields.io/github/stars/ika9810/Atcoder-Daily-Contests?style=plastic) - 日替わりで問題を解くことができる。[AtCoder](https://atcoder.jp/)の過去問から、仮想的なAtCoder Xxx Contest (Xxx: Beginner, Regular, Grand)クラスの問題セットが出題される。
     - 理由: 記載なし。
@@ -274,14 +253,6 @@ title: 更新停止の可能性が高い
 - [AtCoder After Contest Bot](https://twitter.com/AfterContestBot) - コンテスト後に追加のテストケース（例えば、after contest）がある場合に告知してくれる。
 
 ## ユーザスクリプト
-
-### カテゴリーを投票
-
-- [AtCoderTags_Helper](https://greasyfork.org/ja/scripts/393121-atcodertags-helper) - 「問題」ページから[AtCoderTags](https://atcoder-tags.herokuapp.com/)に投票できる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcodertags_helper.png" alt="atcodertags helper">
-    </div>
 
 ### Webページに色付けする
 
