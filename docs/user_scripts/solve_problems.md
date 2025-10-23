@@ -24,7 +24,7 @@ title: 問題を解く
 
     !!! warning "注意"
         AtCoder PerformancesとAtCoder Scores: いずれも2022年11月26日にサービス終了。
-        AtCoder Tags: 主要な機能の動作が確認できず（2025年6月時点）。
+        AtCoder Tags: 2025年10月22日にサービス終了。
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_users.png" alt="atcoder users">
@@ -205,14 +205,6 @@ title: 問題を解く
 
     <div align="center">
       <img loading="lazy" src="../../images/userscript/atcoder_graph_visualizer.png" alt="atcoder graph visualizer">
-    </div>
-
-### ヒントを見る
-
-- [AtCoderTags_Hint](https://greasyfork.org/ja/scripts/393337-atcodertags-hint) - 「問題」ページにカテゴリーを表すヒントボタンを設置する。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcodertags_hint.png" alt="atcodertags hint">
     </div>
 
 ### 配点を確認しやすいように配置
