@@ -186,12 +186,6 @@
         - [2人の死刑囚と64枚のコイン](https://www.youtube.com/watch?v=v3Gqw4ta6Dc)
         - [バグ／21時、AtCoderで。× 岩井星人](https://www.youtube.com/watch?v=pftcC-i9PiM)
 
-    2025-10-08
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [この物体の重心はどこ？](https://www.youtube.com/watch?v=kBVgmn4DQ-Q)
-        - [tan1は有理数か](https://www.youtube.com/watch?v=BOtP2l0_FQ4)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
@@ -213,6 +207,12 @@
 === "アーカイブス"
 
     諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2025-10-23
+
+    - AtCoderTags
+    - AtCoderTags_Helper
+    - AtCoderTags_Hint
 
     2025-10-09
 

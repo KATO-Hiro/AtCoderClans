@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-10-23
+
+- [#11104](https://github.com/KATO-Hiro/AtCoderClans/pull/11104) - (破壊的な変更) サービスが終了したと思われるWebサービスと関連スクリプトを「[Archives](../../archived)」ページに移動。
+    - AtCoderTags
+    - AtCoderTags_Helper
+    - AtCoderTags_Hint
+
 ### 2025-10-22
 
 - [#11099](https://github.com/KATO-Hiro/AtCoderClans/pull/11099) - 「[Scripts](../../scripts)」の「[ネタスクリプト](../../user_scripts/jokes)」ページに、以下のユーザスクリプトを追加。
