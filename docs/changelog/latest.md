@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-10-24
+
+- [#11109](https://github.com/KATO-Hiro/AtCoderClans/pull/11109) - 「[For Beginners](../../for_beginners)」の「[Q0: アルゴリズム、競技プログラミングとは?](../../for_beginners/question0)」ページと「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [元世界４位が語る「競技プログラミング」の魅力｜好き語り](https://www.youtube.com/watch?v=0EiziminwMM)
+
 ### 2025-10-23
 
 - [#11104](https://github.com/KATO-Hiro/AtCoderClans/pull/11104) - (破壊的な変更) サービスが終了したと思われるWebサービスと関連スクリプトを「[Archives](../../archived)」ページに移動。
