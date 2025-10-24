@@ -97,6 +97,13 @@
 
     - [新ジャッジ運用開始の延期について](https://atcoder.jp/posts/1585)
 
+=== "入門者・初心者向けの内容"
+
+    2025-10-24
+
+    - 「[Q0: アルゴリズム、競技プログラミングとは?](for_beginners/question0)」ページ
+        - [元世界４位が語る「競技プログラミング」の魅力｜好き語り](https://www.youtube.com/watch?v=0EiziminwMM)
+
 === "ユーザスクリプト"
 
     2025-10-22
@@ -120,15 +127,6 @@
 
     <div align="center">
       <img loading="lazy" src="images/userscript/atcoder_standings_filtering_by_group.png" alt="atcoder standings filtering by group">
-    </div>
-
-    2025-10-09
-
-    - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
-        - [atcoder-lf-submit](https://greasyfork.org/ja/scripts/551938-atcoder-lf-submit)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_lf_submit.png" alt="atcoder lf submit">
     </div>
 
 === "記事"
@@ -169,6 +167,11 @@
         - [3 種類の強連結成分分解アルゴリズムや、そのバリエーションの速度比較](https://ngtkana.hatenablog.com/entry/2024/12/10/011904)
 
 === "動画"
+
+    2025-10-24
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [元世界４位が語る「競技プログラミング」の魅力｜好き語り](https://www.youtube.com/watch?v=0EiziminwMM)
 
     2025-10-17
 
@@ -213,10 +216,6 @@
     - AtCoderTags
     - AtCoderTags_Helper
     - AtCoderTags_Hint
-
-    2025-10-09
-
-    - AtCoder dos2unix UserScript
 
 ## AtCoder公式グッズを購入する
 
