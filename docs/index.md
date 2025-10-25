@@ -131,6 +131,11 @@
 
 === "記事"
 
+    2025-10-25
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Summer 結果発表会](https://www.youtube.com/watch?v=9iXi2VgF1sg)
+
     2025-10-20
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
