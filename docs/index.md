@@ -131,6 +131,11 @@
 
 === "記事"
 
+    2025-10-25
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Summer 結果発表会](https://www.youtube.com/watch?v=9iXi2VgF1sg)
+
     2025-10-20
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -160,11 +165,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年10月14日時点)](https://x.com/atcoder/status/1977927725743775920)
-
-    2025-10-10
-
-    - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
-        - [3 種類の強連結成分分解アルゴリズムや、そのバリエーションの速度比較](https://ngtkana.hatenablog.com/entry/2024/12/10/011904)
 
 === "動画"
 
