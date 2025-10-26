@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-10-26
+
+- [#11116](https://github.com/KATO-Hiro/AtCoderClans/pull/11116) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
+    - [誘導部分グラフの数え上げ問題](https://ssrs.hatenablog.com/entry/2024/11/23/061141)
+
 ### 2025-10-25
 
 - [#11111](https://github.com/KATO-Hiro/AtCoderClans/pull/11111) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下の動画を追加。

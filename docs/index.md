@@ -120,16 +120,12 @@
       <img loading="lazy" src="images/userscript/atcoder_piet_image_converter.png" alt="atcoder piet image converter">
     </div>
 
-    2025-10-11
-
-    - 「[ライバルを探す・競う](user_scripts/rivals)」ページ
-        - [AtCoder Standings Filtering by Group](https://greasyfork.org/ja/scripts/544794-atcoder-standings-filtering-by-group)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_standings_filtering_by_group.png" alt="atcoder standings filtering by group">
-    </div>
-
 === "記事"
+
+    2025-10-26
+
+    - 「[数学を学ぶ](articles/math)」ページ
+        - [誘導部分グラフの数え上げ問題](https://ssrs.hatenablog.com/entry/2024/11/23/061141)
 
     2025-10-25
 
