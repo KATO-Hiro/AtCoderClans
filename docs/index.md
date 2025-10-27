@@ -164,6 +164,11 @@
 
 === "動画"
 
+    2025-10-27
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [GPT-5 Proが爆死した数学オリンピック2025の超難問](https://www.youtube.com/watch?v=SjXa3iPph3o)
+
     2025-10-24
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
@@ -178,12 +183,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [ケーキを5等分する公平な方法](https://www.youtube.com/watch?v=QuayL25RZj8)
-
-    2025-10-12
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [2人の死刑囚と64枚のコイン](https://www.youtube.com/watch?v=v3Gqw4ta6Dc)
-        - [バグ／21時、AtCoderで。× 岩井星人](https://www.youtube.com/watch?v=pftcC-i9PiM)
 
 === "色変記事"
 
