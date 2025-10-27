@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-10-27
+
+- [#11122](https://github.com/KATO-Hiro/AtCoderClans/pull/11122) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [GPT-5 Proが爆死した数学オリンピック2025の超難問](https://www.youtube.com/watch?v=SjXa3iPph3o)
+
 ### 2025-10-26
 
 - [#11116](https://github.com/KATO-Hiro/AtCoderClans/pull/11116) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
