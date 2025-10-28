@@ -122,6 +122,11 @@
 
 === "記事"
 
+    2025-10-28
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [RECRUIT 日本橋ハーフマラソン 2025秋（AtCoder Heuristic Contest 055）の参加記と復習記録](https://kaede2020.hatenablog.com/entry/2025/10/27/222106)
+
     2025-10-26
 
     - 「[数学を学ぶ](articles/math)」ページ
@@ -192,15 +197,6 @@
 
      - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [Youteru](https://atcoder.jp/users/Youteru)さん - [競プロ初心者が少ないrated参加で入茶した話](https://qiita.com/Youteru/items/ae3de71ce6d9d544e49a)
-
-    2025-10-13
-
-     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [tombo_](https://atcoder.jp/users/tombo_)さん - [【色変記事】13歳で入緑するまでにしたこと](https://zenn.dev/natsuakane/articles/c7c67f535208de)
-
-     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [KomeijiArmia](https://atcoder.jp/users/KomeijiArmia)さん - [1年かけてようやくAtCoder茶色になった話(入茶記事)](https://qiita.com/Komeiji-Armia/items/a59260db89872cb89974)
-        - [TrueRyoB](https://atcoder.jp/users/TrueRyoB)さん - [入茶記録！[競プロ]](https://qiita.com/TrueRyoB/items/a92100be99981a1e789a)
 
 === "アーカイブス"
 
