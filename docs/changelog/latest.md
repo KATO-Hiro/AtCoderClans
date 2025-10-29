@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-10-29
+
+- [#11130](https://github.com/KATO-Hiro/AtCoderClans/pull/11130) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
+    - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年10月28日時点)](https://x.com/atcoder/status/1983007334625620229)
+
 ### 2025-10-28
 
 - [#11127](https://github.com/KATO-Hiro/AtCoderClans/pull/11127) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
