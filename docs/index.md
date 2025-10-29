@@ -122,6 +122,11 @@
 
 === "記事"
 
+    2025-10-29
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年10月28日時点)](https://x.com/atcoder/status/1983007334625620229)
+
     2025-10-28
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -161,11 +166,6 @@
         - [【非公式】AtCoder 言語アップデート 2024-2025 での変更点](https://qiita.com/punirunrun/items/9bbdb33ef03e9a3a5138)
     - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
         - [【Rust】AtCoder 2025/10 の言語アップデート対応の Cargo.toml](https://paruma184.hatenablog.com/entry/2025/10/17/234812)
-
-    2025-10-14
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年10月14日時点)](https://x.com/atcoder/status/1977927725743775920)
 
 === "動画"
 
