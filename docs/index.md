@@ -122,6 +122,11 @@
 
 === "記事"
 
+    2025-10-30
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [中高生向け 学校対抗競技プログラミング「AtCoder Junior League 2025Summer」入賞校・入賞者を発表](https://prtimes.jp/main/html/rd/p/000000063.000028415.html)
+
     2025-10-29
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -188,15 +193,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [ケーキを5等分する公平な方法](https://www.youtube.com/watch?v=QuayL25RZj8)
-
-=== "色変記事"
-
-    色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
-
-    2025-10-15
-
-     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [Youteru](https://atcoder.jp/users/Youteru)さん - [競プロ初心者が少ないrated参加で入茶した話](https://qiita.com/Youteru/items/ae3de71ce6d9d544e49a)
 
 === "アーカイブス"
 
