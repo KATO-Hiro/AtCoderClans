@@ -52,6 +52,7 @@ title: コンテストに向けた練習方法を知る
     - [ARC Div.1 に関する生成AIルール変更について](https://atcoder.jp/posts/1513) - ARC Div.1 も上記ルールの対象となったことが告知されている。
     - [AGC073でのAI使用について](https://atcoder.jp/posts/1563) - AGC073 で生成AI単独で解答可能な問題が出題されたことや今後の対応について言及されている。
     - [AHCにおける生成AIルールの策定について](https://atcoder.jp/posts/1494) - AtCoder Heuristic Contest (通称 AHC) 049以降で適用される生成AI利用ルールのお知らせ ([詳細](https://info.atcoder.jp/entry/ahc-llm-rules-ja))。
+- [初参加者の内部レートを変更いたします](https://atcoder.jp/posts/1591) - ABC430 以降、初めてコンテストに参加したユーザに対して、初期レーティングの計算方法が変更されることが告知されている。
 - [ARCのDivision制についての告知](https://atcoder.jp/posts/1364) - ARC189以降、AtCoder Regular Contest (通称 ARC) は難易度の異なる2種類のコンテストに分けられることが告知されている。
 - [競技プログラミングと生成AIの今 2025/07/02版](https://chokudai.hatenablog.com/entry/2025/07/02/151841) - [AtCoder](https://atcoder.jp/)社長の[chokudai](https://x.com/chokudai)さんが、競技プログラミングにおける生成AIの影響について、客観的な視点で現状を解説している。2025年7月上旬時点でのAIの実力・世界最高峰の大会での人間 vs AI戦の企画・AIによる最適化問題の自動的な解決の可能性・今後の事業戦略などについて述べられている。
 - [AtCoder World Tour Finals 2025 に OpenAI がスポンサーとして参画](https://prtimes.jp/main/html/rd/p/000000059.000028415.html) - 同大会において OpenAI がスポンサー参画に至った背景に加えて、「人間 vs AI」のエキシビジョンマッチの開催とその目的にも言及されている。
