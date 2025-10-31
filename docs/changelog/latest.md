@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-10-31
+
+- [#11138](https://github.com/KATO-Hiro/AtCoderClans/pull/11138) -「[Home](../..)」ページと「[For Beginners](../../for_beginners)」の「[Q3: コンテストは、いつ開催されていますか?](../../for_beginners/question3)」ページと「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
+    - [初参加者の内部レートを変更いたします](https://atcoder.jp/posts/1591)
+
 ### 2025-10-30
 
 - [#11135](https://github.com/KATO-Hiro/AtCoderClans/pull/11135) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下の記事を追加。
