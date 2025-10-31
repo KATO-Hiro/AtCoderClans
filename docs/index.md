@@ -95,11 +95,20 @@
 
 === "ホーム"
 
+    2025-10-31
+
+    - [初参加者の内部レートを変更いたします](https://atcoder.jp/posts/1591)
+
     2025-10-19
 
     - [新ジャッジ運用開始の延期について](https://atcoder.jp/posts/1585)
 
 === "入門者・初心者向けの内容"
+
+    2025-10-31
+
+    - 「[Q3: コンテストは、いつ開催されていますか?](for_beginners/question3)」ページ
+        - [初参加者の内部レートを変更いたします](https://atcoder.jp/posts/1591)
 
     2025-10-24
 
@@ -123,6 +132,11 @@
     </div>
 
 === "記事"
+
+    2025-10-31
+
+    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
+        - [初参加者の内部レートを変更いたします](https://atcoder.jp/posts/1591)
 
     2025-10-30
 
@@ -190,11 +204,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [赤のN点と青のN点を交差なく結べるか？](https://www.youtube.com/watch?v=Uvbcn6up-rA)
-
-    2025-10-16
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [ケーキを5等分する公平な方法](https://www.youtube.com/watch?v=QuayL25RZj8)
 
 === "アーカイブス"
 
