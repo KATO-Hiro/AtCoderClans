@@ -80,6 +80,9 @@
     },
     {
       "pattern": "^https://paiza.jp/"
+    },
+    {
+      "pattern": "^https://kakuyomu.jp/"
     }
   ],
   "httpHeaders": [
