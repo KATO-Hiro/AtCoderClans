@@ -6,6 +6,10 @@ title: 1年をふりかえる
 
 ## Advent Calendar
 
+### 2025年
+
+- [HaskellでAtCoderに参加してみた Advent Calendar 2025](https://qiita.com/advent-calendar/2025/haskell-atcoder) - (近日公開予定) Haskellで競技プログラミングに挑戦しながら学んだことが整理されている。
+
 ### 2023年
 
 - [競プロ Advent Calendar 2023](https://adventar.org/calendars/8745) - 競技プログラミングに関する話題を扱ったアドベントカレンダー。
