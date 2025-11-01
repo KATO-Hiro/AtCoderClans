@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-11-01
+
+- [#11146](https://github.com/KATO-Hiro/AtCoderClans/pull/11146) - 「[Articles, Blogs, Books and Videos](../../media)」の「[1年をふりかえる](../../articles/look_back_on_past)」ページに、以下のAdvent Calendarを追加。
+    - [HaskellでAtCoderに参加してみた Advent Calendar 2025](https://qiita.com/advent-calendar/2025/haskell-atcoder)
+- [#11142](https://github.com/KATO-Hiro/AtCoderClans/pull/11142) - (破壊的な変更) 非公開になったと思われるスライドを「[Archives](../../archived)」ページに移動。
+
 ### 2025-10-31
 
 - [#11138](https://github.com/KATO-Hiro/AtCoderClans/pull/11138) -「[Home](../..)」ページと「[For Beginners](../../for_beginners)」の「[Q3: コンテストは、いつ開催されていますか?](../../for_beginners/question3)」ページと「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
