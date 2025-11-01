@@ -133,6 +133,11 @@
 
 === "記事"
 
+    2025-11-01
+
+    - 「[1年をふりかえる](articles/look_back_on_past)」ページ
+        - [HaskellでAtCoderに参加してみた Advent Calendar 2025](https://qiita.com/advent-calendar/2025/haskell-atcoder)
+
     2025-10-31
 
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
@@ -199,11 +204,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [元世界４位が語る「競技プログラミング」の魅力｜好き語り](https://www.youtube.com/watch?v=0EiziminwMM)
-
-    2025-10-17
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [赤のN点と青のN点を交差なく結べるか？](https://www.youtube.com/watch?v=Uvbcn6up-rA)
 
 === "アーカイブス"
 
