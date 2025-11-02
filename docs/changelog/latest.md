@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-11-02
+
+- [#11150](https://github.com/KATO-Hiro/AtCoderClans/pull/11150) -「[Home](../..)」ページに、以下の記事を追加。
+    - [新ジャッジ運用開始のお知らせ](https://atcoder.jp/posts/1593)
+
 ### 2025-11-01
 
 - [#11146](https://github.com/KATO-Hiro/AtCoderClans/pull/11146) - 「[Articles, Blogs, Books and Videos](../../media)」の「[1年をふりかえる](../../articles/look_back_on_past)」ページに、以下のAdvent Calendarを追加。
