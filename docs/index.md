@@ -76,7 +76,7 @@
 #### ジャッジシステム
 
 - [AtCoderの言語アップデートに関して (2024-25年度)](https://atcoder.jp/posts/1342) - ジャッジシステムの言語アップデートの準備状況に関するお知らせです。
-    - [新ジャッジ運用開始のお知らせ](https://atcoder.jp/posts/1593) - ABC430 以降、新しいジャッジシステムが利用できるようになります。また、一部の回答の表示形式や動作が変更されます。
+    - [新ジャッジ運用開始のお知らせ](https://atcoder.jp/posts/1593) - ABC430 以降、新しいジャッジシステムが利用できます。また、一部の回答の表示形式や動作が変更されます。
     - [言語更新ADT先行運用のお知らせ](https://atcoder.jp/posts/1566) - 2025年10月7日以降の[AtCoder Daily Training](https://atcoder.jp/contests/adt_top)で、言語アップデート後の実行環境が利用できます。
     - [Language Test 202505](https://atcoder.jp/contests/language-test-202505) - ジャッジシステムに追加・更新された言語を試すためのコンテストが開催されています。
     - [Discord サーバの招待URL](https://discord.gg/NQ3PZQkq7M) - 言語アップデートの議論・ジャッジシステムの仕様に関する質問などを行うことができます。
@@ -95,13 +95,13 @@
 
 === "ホーム"
 
+    2025-11-02
+
+    - [新ジャッジ運用開始のお知らせ](https://atcoder.jp/posts/1593)
+
     2025-10-31
 
     - [初参加者の内部レートを変更いたします](https://atcoder.jp/posts/1591)
-
-    2025-10-19
-
-    - [新ジャッジ運用開始の延期について](https://atcoder.jp/posts/1585)
 
 === "入門者・初心者向けの内容"
 
@@ -185,13 +185,6 @@
 
     - 「[競技プログラミングと就転職](articles/jobs)」ページ
         - [入社3年目に思うこと](https://kaede2020.hatenablog.com/entry/2025/10/17/150443)
-
-    2025-10-18
-
-    - 「[実装テクニックを学ぶ - 複数の言語](articles/implementation/multiple_languages)」ページ
-        - [【非公式】AtCoder 言語アップデート 2024-2025 での変更点](https://qiita.com/punirunrun/items/9bbdb33ef03e9a3a5138)
-    - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
-        - [【Rust】AtCoder 2025/10 の言語アップデート対応の Cargo.toml](https://paruma184.hatenablog.com/entry/2025/10/17/234812)
 
 === "動画"
 
