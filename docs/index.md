@@ -198,19 +198,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年10月20日時点)](https://x.com/atcoder/status/1980089371555758132)
 
-    2025-10-19
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-
-        <!-- markdown-link-check-disable -->
-
-        - [AtCoder のコンテストスポンサーを通して、「とにかく強い仲間を集めたい」「もっと良い仕組みを作り、世の中の豊かさを増やしたい」「本気で物事に取り組んできた人に門戸を広げたい」と、叶えたいことを全てやろうとする話](https://www.estie.jp/blog/entry/2025/10/16/122042)
-
-        <!-- markdown-link-check-enable -->
-
-    - 「[競技プログラミングと就転職](articles/jobs)」ページ
-        - [入社3年目に思うこと](https://kaede2020.hatenablog.com/entry/2025/10/17/150443)
-
 === "動画"
 
     2025-10-27
