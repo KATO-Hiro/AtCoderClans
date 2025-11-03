@@ -65,7 +65,7 @@ title: 問題を解く
 
 <!-- markdown-link-check-enable -->
 
-- [searchapp](https://andoryoto.github.io/WebApplication/searchapp/) - 指定した語句が問題文や公式解説に含まれる問題を検索できる。
+- [searchapp](https://doo-an.github.io/WebApplication/searchapp/) - 指定した語句が問題文や公式解説に含まれる問題を検索できる。
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/searchapp.png" alt="searchapp">
