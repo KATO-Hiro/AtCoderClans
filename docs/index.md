@@ -115,6 +115,20 @@
     - 「[Q0: アルゴリズム、競技プログラミングとは?](for_beginners/question0)」ページ
         - [元世界４位が語る「競技プログラミング」の魅力｜好き語り](https://www.youtube.com/watch?v=0EiziminwMM)
 
+=== "Webアプリ・Webサイト"
+
+    2025-11-03
+
+    !!! info "参考"
+        【再掲載】リンクの一部更新を反映
+
+    - 「[問題を解く](web_app/solve_problems)」ページ
+        - [searchapp](https://doo-an.github.io/WebApplication/searchapp/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/searchapp.png" alt="searchapp">
+    </div>
+
 === "ユーザスクリプト"
 
     2025-10-22
@@ -132,6 +146,17 @@
     </div>
 
 === "記事"
+
+    2025-11-03
+
+    !!! info "参考"
+        【再掲載】AtCoderの言語アップデート (2024-25年度) に伴い、説明文の一部を更新
+
+    - 「[実装テクニックを学ぶ - 複数の言語](articles/implementation/multiple_languages)」ページ
+        - [使用できる言語とライブラリの一覧](https://img.atcoder.jp/file/language-update/2025-10/language-list.html)
+
+    - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
+        - [個人的に嬉しい、AtCoder の Rust 言語アップデートで変わるもの一覧（Rust 1.70 → Rust 1.86)](https://ngtkana.hatenablog.com/entry/2025/05/24/115236)
 
     2025-11-01
 
@@ -172,19 +197,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年10月20日時点)](https://x.com/atcoder/status/1980089371555758132)
-
-    2025-10-19
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-
-        <!-- markdown-link-check-disable -->
-
-        - [AtCoder のコンテストスポンサーを通して、「とにかく強い仲間を集めたい」「もっと良い仕組みを作り、世の中の豊かさを増やしたい」「本気で物事に取り組んできた人に門戸を広げたい」と、叶えたいことを全てやろうとする話](https://www.estie.jp/blog/entry/2025/10/16/122042)
-
-        <!-- markdown-link-check-enable -->
-
-    - 「[競技プログラミングと就転職](articles/jobs)」ページ
-        - [入社3年目に思うこと](https://kaede2020.hatenablog.com/entry/2025/10/17/150443)
 
 === "動画"
 
