@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-11-03
+
+- [#11156](https://github.com/KATO-Hiro/AtCoderClans/pull/11156) - AtCoderの言語アップデート (2024-25年度) に伴い、説明文の一部を更新。
+    - [使用できる言語とライブラリの一覧](https://img.atcoder.jp/file/language-update/2025-10/language-list.html)
+    - [個人的に嬉しい、AtCoder の Rust 言語アップデートで変わるもの一覧（Rust 1.70 → Rust 1.86)](https://ngtkana.hatenablog.com/entry/2025/05/24/115236)
+- [#11155](https://github.com/KATO-Hiro/AtCoderClans/pull/11155) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページで掲載している以下のWebサービスのドメイン更新に追従。
+    - [searchapp](https://doo-an.github.io/WebApplication/searchapp/)
+
 ### 2025-11-02
 
 - [#11150](https://github.com/KATO-Hiro/AtCoderClans/pull/11150) -「[Home](../..)」ページに、以下の記事を追加。
