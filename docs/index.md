@@ -147,6 +147,11 @@
 
 === "記事"
 
+    2025-11-04
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年11月4日時点)](https://x.com/atcoder/status/1985515643421306956)
+
     2025-11-03
 
     !!! info "参考"
@@ -192,11 +197,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Summer 結果発表会](https://www.youtube.com/watch?v=9iXi2VgF1sg)
-
-    2025-10-20
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年10月20日時点)](https://x.com/atcoder/status/1980089371555758132)
 
 === "動画"
 
