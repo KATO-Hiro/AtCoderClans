@@ -29,7 +29,7 @@ title: Rust
 
 ### 別の言語と同等の機能を探す
 
-- [【競プロ】Python使いがRustを「完全に理解する」までのTips](https://qiita.com/toast-uz/items/0c2a1a30cf2c79d76a3f) - PythonユーザがRustでコードを書くときのTipsがまとめられている記事。
+- [【競プロ】Python使いがRustを「完全に理解する」までのTips](https://qiita.com/ToastUz/items/0c2a1a30cf2c79d76a3f) - PythonユーザがRustでコードを書くときのTipsがまとめられている記事。
 
 ## アルゴリズム・データ構造の活用による高速化
 

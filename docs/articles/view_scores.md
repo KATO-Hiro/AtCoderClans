@@ -185,4 +185,4 @@ title: コンテストに関する統計情報を見る
 
 ## Webデータの分析・公開に関するノウハウ
 
-- [【AtCoderを分析】Webデータを分析して公開するための基本を網羅してみた](https://qiita.com/toast-uz/items/a0d9bfb64b9d85d3aa4f) - AtCoderに関連するWebデータの分析・公開までのノウハウが実例とともに紹介されている記事。
+- [【AtCoderを分析】Webデータを分析して公開するための基本を網羅してみた](https://qiita.com/ToastUz/items/a0d9bfb64b9d85d3aa4f) - AtCoderに関連するWebデータの分析・公開までのノウハウが実例とともに紹介されている記事。

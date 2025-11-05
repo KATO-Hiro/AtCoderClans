@@ -29,4 +29,4 @@ title: Rust
 |semiexp|[自作ブログ](https://semiexp.net/blog/index.html)||
 |tanakh|[Qiita](https://qiita.com/tanakh)||
 |tipstar0125|[Zenn](https://zenn.dev/tipstar0125)||
-|ToastUz|[Qiita](https://qiita.com/toast-uz)||
+|ToastUz|[Qiita](https://qiita.com/ToastUz)||
