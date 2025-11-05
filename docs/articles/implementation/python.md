@@ -57,7 +57,7 @@ title: Python
 - [atcoderでよく使う手法python版](https://qiita.com/chun1182/items/ddf2b6cba932b2bb0d4e) - Python利用者に向けたスッキリしたコードを書くための記事。基本的な文法、典型的なアルゴリズム・データ構造だけでなく、ライブラリnumpy・scipyの使い方も掲載されている。
 - [AtCoder緑になるまでに勉強した基本的なアルゴリズムやデータ構造まとめ](https://qiita.com/Takayoshi_Makabe/items/65f20edbd970070419f4) - 筆者が緑コーダー（[AtCoder](https://atcoder.jp/)の分類で、レーティング800〜1199）に到達するまでに学習したアルゴリズムが掲載されている。各種アルゴリズム(bit全探索・二分探索、幅優先探索、深さ優先探索、尺取り法、いもす法、ダイクストラ法、貪欲法、動的計画法、優先度付きキュー、UnionFind木)に対して、Pythonによる実装例もある。
 - [あのアルゴリズムはどこ？　Pythonを使用してAtCoderの緑色や水色を目指す方に、30以上のアルゴリズムスニペットと100問以上の問題（ACコード付き）を紹介！](https://qiita.com/H20/items/1a066e242815961cd043) - 特定のアルゴリズムについてPythonで実装された記事の紹介と、そのアルゴリズムを利用して解くことができる例題と解答例がまとめられている。対象読者は、緑色・水色コーダーを目指しているユーザ。
-- [コードテストで速度測定済！PythonによるAtCoderスニペット集(1)基本編](https://qiita.com/toast-uz/items/f7a9f586853300732a2b) - [ToastUz](https://atcoder.jp/users/ToastUz)さんのスニペット集。AtCoderのコードテストで、Python(3.8)とPyPy3のベンチマークが取られているのが特徴。[応用編](https://qiita.com/toast-uz/items/bf6f142bace86c525532)もある。
+- [コードテストで速度測定済！PythonによるAtCoderスニペット集(1)基本編](https://qiita.com/ToastUz/items/f7a9f586853300732a2b) - [ToastUz](https://atcoder.jp/users/ToastUz)さんのスニペット集。AtCoderのコードテストで、Python(3.8)とPyPy3のベンチマークが取られているのが特徴。[応用編](https://qiita.com/ToastUz/items/bf6f142bace86c525532)もある。
 - [Pythonで理解する蟻本（プログラミングコンテストチャレンジブック）](https://kuruton.hatenablog.com/entry/2020/10/05/001533) - Pythonユーザが、「[プログラミングコンテストチャレンジブック [第2版] ～問題解決のアルゴリズム活用力とコーディングテクニックを鍛える～](https://www.amazon.co.jp/dp/B00CY9256C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)」(通称、蟻本)を理解するために書かれた記事。原著のコード(C++)が忠実にPythonで書き直されている。
 
 ### しゃくとり法
@@ -99,10 +99,10 @@ title: Python
     - [大きい方/小さい方からtopKを管理しながらなんかやるモジュールを書いた](https://prd-xxx.hateblo.jp/entry/2024/05/01/235922) - 上記のソースコードを活用して、要素の追加・削除・任意の時点での上位 / 下位k個の和などを高速に計算するモジュールが紹介されている。
 - [平衡二分木を実装する](https://qiita.com/Kiri8128/items/6256f8559f0026485d90) - データ構造の一種である「平衡二分木」をPythonで実装する方法を紹介した記事。平衡を保つために、 ピボット値を設定しているのが特徴。
 
-- [【競プロ専用】PythonでMultiSetを今度こそ](https://qiita.com/toast-uz/items/a63f2d57ec7321186f12) - 簡単かつ汎用性の高い`Multiset`の実装方法が解説されている記事。
+- [【競プロ専用】PythonでMultiSetを今度こそ](https://qiita.com/ToastUz/items/a63f2d57ec7321186f12) - 簡単かつ汎用性の高い`Multiset`の実装方法が解説されている記事。
 
     !!! warning "注意"
-        紹介されているコードを利用するときは、[二分探索をサポートしているBinary Indexed Tree (BIT)](https://qiita.com/toast-uz/items/bf6f142bace86c525532#13-bit)が必要。
+        紹介されているコードを利用するときは、[二分探索をサポートしているBinary Indexed Tree (BIT)](https://qiita.com/ToastUz/items/bf6f142bace86c525532#13-bit)が必要。
 
 ### ランレングス圧縮
 
