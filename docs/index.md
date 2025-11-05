@@ -217,7 +217,7 @@
     2025-11-05
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - レーティング1200から1599まで(水色)に[yesantikiss](https://atcoder.jp/users/yesantikiss)さんの[記事](https://qiita.com/yesantikiss/items/be7544fb531e333de596)を追加。
+        - [yesantikiss](https://atcoder.jp/users/yesantikiss)さん - [【AtCoder】入水しました！！！！！！！！！！！！！！](https://qiita.com/yesantikiss/items/be7544fb531e333de596)
 
 === "アーカイブス"
 
