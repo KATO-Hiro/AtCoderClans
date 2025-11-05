@@ -210,6 +210,15 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [元世界４位が語る「競技プログラミング」の魅力｜好き語り](https://www.youtube.com/watch?v=0EiziminwMM)
 
+=== "色変記事"
+
+    色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-11-05
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [yesantikiss](https://atcoder.jp/users/yesantikiss)さん - [【AtCoder】入水しました！！！！！！！！！！！！！！](https://qiita.com/yesantikiss/items/be7544fb531e333de596)
+
 === "アーカイブス"
 
     諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
