@@ -129,22 +129,6 @@
       <img loading="lazy" src="images/web_app/searchapp.png" alt="searchapp">
     </div>
 
-=== "ユーザスクリプト"
-
-    2025-10-22
-
-    - 「[ネタスクリプト](user_scripts/jokes)」ページ
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/halloween_atcoder.png" alt="halloween atcoder">
-    </div>
-
-    - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_piet_image_converter.png" alt="atcoder piet image converter">
-    </div>
-
 === "記事"
 
     2025-11-04
