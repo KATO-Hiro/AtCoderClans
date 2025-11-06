@@ -716,4 +716,9 @@ title: 開発・提供終了
     !!! warning "注意"
         使用できるのはSQLiteのみ。
 
+## Contributing
+
+- [projecthikky @ ウィキ AtCoder](https://w.atwiki.jp/projecthikky/pages/124.html#id_bedf61e4)
+    - 確認した日: 2025/11/06
+
 <!-- markdown-link-check-enable -->

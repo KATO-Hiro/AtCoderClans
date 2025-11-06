@@ -16,8 +16,6 @@ title: 関連プロジェクト・参考資料
 
 - [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) ![GitHub Repo stars](https://img.shields.io/github/stars/lnishan/awesome-competitive-programming?style=plastic)
 
-- [projecthikky @ ウィキ AtCoder](https://w.atwiki.jp/projecthikky/pages/124.html#id_bedf61e4)
-
 ## 参考資料
 
 ### Software development method
