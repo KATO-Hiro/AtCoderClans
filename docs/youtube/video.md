@@ -47,6 +47,10 @@ title: 個別の動画
     - [要注意！ベルマンフォード法を使う際に陥りやすい「罠」【ゆっくり解説】](https://www.youtube.com/watch?v=KLwNUbIyHrI) - ベルマンフォード法で負閉路検知を行うときの注意事項と対処法が紹介されている。
 - [100÷9899=?（母関数・形式的べき級数入門）【ゆっくり解説】](https://www.youtube.com/watch?v=I02Obi-yXJU) - 母関数と形式的べき級数が、平易かつ簡潔に解説されている。
 
+### ヒューリスティック
+
+- [【6位】プログラミングの力を使って、なるべく少ない攻撃回数ですべての宝箱を開けよう！【AHC055】](https://www.youtube.com/watch?v=dj3Yrl-KcOo) - [AtCoder Heuristic Contest 055](https://atcoder.jp/contests/ahc055)を題材に、ヒューリスティック型コンテストの布教と当日の思考過程を振り返っている。
+
 ### 数学・パズルに関する問題
 
 - [100サイズの箱は80サイズの箱に入るか？【ゆっくり解説】](https://www.youtube.com/watch?v=8wT7V-Pw6_w) - 直方体の縦・横・高さの合計でサイズを計る場合に、大きい箱が小さい箱に入るかどうかを示している。
