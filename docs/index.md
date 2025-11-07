@@ -184,6 +184,11 @@
 
 === "動画"
 
+    2025-11-07
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [【6位】プログラミングの力を使って、なるべく少ない攻撃回数ですべての宝箱を開けよう！【AHC055】](https://www.youtube.com/watch?v=dj3Yrl-KcOo)
+
     2025-10-27
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
@@ -202,16 +207,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [yesantikiss](https://atcoder.jp/users/yesantikiss)さん - [【AtCoder】入水しました！！！！！！！！！！！！！！](https://qiita.com/yesantikiss/items/be7544fb531e333de596)
-
-=== "アーカイブス"
-
-    諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
-
-    2025-10-23
-
-    - AtCoderTags
-    - AtCoderTags_Helper
-    - AtCoderTags_Hint
 
 ## AtCoder公式グッズを購入する
 
