@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-11-07
+
+- [#11176](https://github.com/KATO-Hiro/AtCoderClans/pull/11176) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [【6位】プログラミングの力を使って、なるべく少ない攻撃回数ですべての宝箱を開けよう！【AHC055】](https://www.youtube.com/watch?v=dj3Yrl-KcOo)
+
 ### 2025-11-06
 
 - [#11172](https://github.com/KATO-Hiro/AtCoderClans/pull/11172) - (破壊的な変更) リンク切れと思われるWebサイトを「[Archives](../../archived)」ページに移動。
