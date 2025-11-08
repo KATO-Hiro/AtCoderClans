@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-11-08
+
+- [#11179](https://github.com/KATO-Hiro/AtCoderClans/pull/11179) - 「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../user_scripts/submit_codes)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder JavaScript Tester](https://greasyfork.org/ja/scripts/554278-atcoder-javascript-tester)
+
 ### 2025-11-07
 
 - [#11176](https://github.com/KATO-Hiro/AtCoderClans/pull/11176) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
