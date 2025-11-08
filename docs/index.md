@@ -110,11 +110,6 @@
     - 「[Q3: コンテストは、いつ開催されていますか?](for_beginners/question3)」ページ
         - [初参加者の内部レートを変更いたします](https://atcoder.jp/posts/1591)
 
-    2025-10-24
-
-    - 「[Q0: アルゴリズム、競技プログラミングとは?](for_beginners/question0)」ページ
-        - [元世界４位が語る「競技プログラミング」の魅力｜好き語り](https://www.youtube.com/watch?v=0EiziminwMM)
-
 === "Webアプリ・Webサイト"
 
     2025-11-03
@@ -127,6 +122,17 @@
 
     <div align="center">
       <img loading="lazy" src="images/web_app/searchapp.png" alt="searchapp">
+    </div>
+
+=== "ユーザスクリプト"
+
+    2025-11-08
+
+    - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
+        - [AtCoder JavaScript Tester](https://greasyfork.org/ja/scripts/554278-atcoder-javascript-tester)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_javascript_tester.png" alt="atcoder javascript tester">
     </div>
 
 === "記事"
@@ -193,11 +199,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [GPT-5 Proが爆死した数学オリンピック2025の超難問](https://www.youtube.com/watch?v=SjXa3iPph3o)
-
-    2025-10-24
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [元世界４位が語る「競技プログラミング」の魅力｜好き語り](https://www.youtube.com/watch?v=0EiziminwMM)
 
 === "色変記事"
 
