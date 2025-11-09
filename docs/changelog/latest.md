@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-11-09
+
+- [#11183](https://github.com/KATO-Hiro/AtCoderClans/pull/11183) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Rust](../../articles/implementation/rust)」ページに、以下の記事を追加。
+    - [速いRustコードを書きたい](https://tayu0110.hatenablog.com/entry/2024/11/02/033057)
+
 ### 2025-11-08
 
 - [#11179](https://github.com/KATO-Hiro/AtCoderClans/pull/11179) - 「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../user_scripts/submit_codes)」ページに、以下のユーザスクリプトを追加。
