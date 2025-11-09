@@ -137,6 +137,11 @@
 
 === "記事"
 
+    2025-11-09
+
+    - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
+        - [速いRustコードを書きたい](https://tayu0110.hatenablog.com/entry/2024/11/02/033057)
+
     2025-11-04
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -182,11 +187,6 @@
 
     - 「[数学を学ぶ](articles/math)」ページ
         - [誘導部分グラフの数え上げ問題](https://ssrs.hatenablog.com/entry/2024/11/23/061141)
-
-    2025-10-25
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Summer 結果発表会](https://www.youtube.com/watch?v=9iXi2VgF1sg)
 
 === "動画"
 
