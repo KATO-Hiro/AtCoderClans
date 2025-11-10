@@ -137,6 +137,11 @@
 
 === "記事"
 
+    2025-11-10
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年11月10日時点)](https://x.com/atcoder/status/1987705292289933800)
+
     2025-11-09
 
     - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
@@ -182,11 +187,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [RECRUIT 日本橋ハーフマラソン 2025秋（AtCoder Heuristic Contest 055）の参加記と復習記録](https://kaede2020.hatenablog.com/entry/2025/10/27/222106)
-
-    2025-10-26
-
-    - 「[数学を学ぶ](articles/math)」ページ
-        - [誘導部分グラフの数え上げ問題](https://ssrs.hatenablog.com/entry/2024/11/23/061141)
 
 === "動画"
 
