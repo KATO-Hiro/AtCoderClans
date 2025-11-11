@@ -4,6 +4,7 @@ title: レーティング400〜799(茶色)
 
 ## 2025年
 
+- [ねこずきって人が入茶したらしい(初投稿)](https://qiita.com/hovenia-azedarach/items/872ccf9da332c67b28a8) - [Nekozuki0509](https://atcoder.jp/users/Nekozuki0509)さんが、2025年10月20日に公開。
 - [競プロ初心者が少ないrated参加で入茶した話](https://qiita.com/Youteru/items/ae3de71ce6d9d544e49a) - [Youteru](https://atcoder.jp/users/Youteru)さんが、2025年10月11日に達成。
 - [1年かけてようやくAtCoder茶色になった話(入茶記事)](https://qiita.com/Komeiji-Armia/items/a59260db89872cb89974) - [KomeijiArmia](https://atcoder.jp/users/KomeijiArmia)さんが、2025年9月29日に公開。
 - [【AtCoder】人類史上最も役に立たない入茶記事](https://qiita.com/alllllllllly/items/3394749e250423d2b2f3) - [alllllllllly](https://atcoder.jp/users/alllllllllly)さんが、2025年9月14日に達成。
