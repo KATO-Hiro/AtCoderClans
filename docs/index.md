@@ -195,14 +195,14 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [【6位】プログラミングの力を使って、なるべく少ない攻撃回数ですべての宝箱を開けよう！【AHC055】](https://www.youtube.com/watch?v=dj3Yrl-KcOo)
 
-    2025-10-27
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [GPT-5 Proが爆死した数学オリンピック2025の超難問](https://www.youtube.com/watch?v=SjXa3iPph3o)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-11-11
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [Nekozuki0509](https://atcoder.jp/users/Nekozuki0509)さん - [ねこずきって人が入茶したらしい(初投稿)](https://qiita.com/hovenia-azedarach/items/872ccf9da332c67b28a8)
 
     2025-11-05
 
