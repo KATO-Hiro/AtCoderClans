@@ -183,11 +183,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年10月28日時点)](https://x.com/atcoder/status/1983007334625620229)
 
-    2025-10-28
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [RECRUIT 日本橋ハーフマラソン 2025秋（AtCoder Heuristic Contest 055）の参加記と復習記録](https://kaede2020.hatenablog.com/entry/2025/10/27/222106)
-
 === "動画"
 
     2025-11-07
@@ -198,6 +193,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-11-12
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [simidai](https://atcoder.jp/users/simidai)さん - [【色変記事】入茶しました！](https://qiita.com/shimidai/items/b5896b54e5facc3f3b17)
 
     2025-11-11
 
