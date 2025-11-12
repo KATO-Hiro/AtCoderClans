@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-11-12
+
+- [#11201](https://github.com/KATO-Hiro/AtCoderClans/pull/11201) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[simidai](https://atcoder.jp/users/simidai)さんの[記事](https://qiita.com/shimidai/items/b5896b54e5facc3f3b17)を追加。
+
 ### 2025-11-11
 
 - [#11195](https://github.com/KATO-Hiro/AtCoderClans/pull/11195) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
