@@ -137,6 +137,11 @@
 
 === "記事"
 
+    2025-11-13
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [【図解】線形時間の文字列アルゴリズム「Z algorithm」をイラストとアニメーションでかみ砕く](https://qiita.com/Pro_ktmr/items/16904c9570aa0953bf05)
+
     2025-11-10
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -177,11 +182,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [中高生向け 学校対抗競技プログラミング「AtCoder Junior League 2025Summer」入賞校・入賞者を発表](https://prtimes.jp/main/html/rd/p/000000063.000028415.html)
-
-    2025-10-29
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年10月28日時点)](https://x.com/atcoder/status/1983007334625620229)
 
 === "動画"
 

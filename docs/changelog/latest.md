@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-11-13
+
+- [#11204](https://github.com/KATO-Hiro/AtCoderClans/pull/11204) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [【図解】線形時間の文字列アルゴリズム「Z algorithm」をイラストとアニメーションでかみ砕く](https://qiita.com/Pro_ktmr/items/16904c9570aa0953bf05)
+
 ### 2025-11-12
 
 - [#11201](https://github.com/KATO-Hiro/AtCoderClans/pull/11201) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
