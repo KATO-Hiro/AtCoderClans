@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-11-14
+
+- [#11207](https://github.com/KATO-Hiro/AtCoderClans/pull/11207) - (破壊的な変更) 「[Change Log](../latest)」ページの2025年10月分を月別のアーカイブに移動。
+    - [October, 2025](../2025_10)
+
 ### 2025-11-13
 
 - [#11204](https://github.com/KATO-Hiro/AtCoderClans/pull/11204) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。

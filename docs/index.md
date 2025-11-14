@@ -178,11 +178,6 @@
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
         - [初参加者の内部レートを変更いたします](https://atcoder.jp/posts/1591)
 
-    2025-10-30
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [中高生向け 学校対抗競技プログラミング「AtCoder Junior League 2025Summer」入賞校・入賞者を発表](https://prtimes.jp/main/html/rd/p/000000063.000028415.html)
-
 === "動画"
 
     2025-11-07
