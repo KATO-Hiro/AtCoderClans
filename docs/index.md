@@ -99,17 +99,6 @@
 
     - [新ジャッジ運用開始のお知らせ](https://atcoder.jp/posts/1593)
 
-    2025-10-31
-
-    - [初参加者の内部レートを変更いたします](https://atcoder.jp/posts/1591)
-
-=== "入門者・初心者向けの内容"
-
-    2025-10-31
-
-    - 「[Q3: コンテストは、いつ開催されていますか?](for_beginners/question3)」ページ
-        - [初参加者の内部レートを変更いたします](https://atcoder.jp/posts/1591)
-
 === "Webアプリ・Webサイト"
 
     2025-11-03
@@ -136,6 +125,11 @@
     </div>
 
 === "記事"
+
+    2025-11-15
+
+    - 「[数学を学ぶ](articles/math)」ページ
+        - [1..=N の階乗逆数・ただの逆数を O(N) 時間で前計算する方法（mod p）](https://ngtkana.hatenablog.com/entry/2025/05/11/105210)
 
     2025-11-13
 
@@ -172,11 +166,6 @@
 
     - 「[1年をふりかえる](articles/look_back_on_past)」ページ
         - [HaskellでAtCoderに参加してみた Advent Calendar 2025](https://qiita.com/advent-calendar/2025/haskell-atcoder)
-
-    2025-10-31
-
-    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
-        - [初参加者の内部レートを変更いたします](https://atcoder.jp/posts/1591)
 
 === "動画"
 

@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-11-15
+
+- [#11211](https://github.com/KATO-Hiro/AtCoderClans/pull/11211) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
+    - [1..=N の階乗逆数・ただの逆数を O(N) 時間で前計算する方法（mod p）](https://ngtkana.hatenablog.com/entry/2025/05/11/105210)
+
 ### 2025-11-14
 
 - [#11207](https://github.com/KATO-Hiro/AtCoderClans/pull/11207) - (破壊的な変更) 「[Change Log](../latest)」ページの2025年10月分を月別のアーカイブに移動。
