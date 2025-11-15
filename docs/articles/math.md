@@ -83,6 +83,10 @@ title: 数学を学ぶ
 - [有理数 mod 998244353 の徹底解説！](https://drken1215.hatenablog.com/entry/2023/12/06/020241) - 有理数p / q (mod 998244353)について、丁寧な解説と[AtCoder Library (ACL)](https://atcoder.jp/posts/517)による実装方法が紹介されている。
 - [中国剰余定理 (CRT) の解説と、それを用いる問題のまとめ](https://qiita.com/drken/items/ae02240cd1f8edfc86fd) - 中国剰余定理を特集した記事。概念の説明および証明、アルゴリズム、応用例などが解説されている。
 
+### その他
+
+- [1..=N の階乗逆数・ただの逆数を O(N) 時間で前計算する方法（mod p）](https://ngtkana.hatenablog.com/entry/2025/05/11/105210) - 1〜Nまでの階乗逆数や逆数を線形時間で前計算する方法の概略が解説されている。
+
 ## 組合せ
 
 ### 順列
