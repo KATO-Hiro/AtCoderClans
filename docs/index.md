@@ -162,10 +162,13 @@
     - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
         - [個人的に嬉しい、AtCoder の Rust 言語アップデートで変わるもの一覧（Rust 1.70 → Rust 1.86)](https://ngtkana.hatenablog.com/entry/2025/05/24/115236)
 
-    2025-11-01
+=== "ブログ"
+    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
-    - 「[1年をふりかえる](articles/look_back_on_past)」ページ
-        - [HaskellでAtCoderに参加してみた Advent Calendar 2025](https://qiita.com/advent-calendar/2025/haskell-atcoder)
+    2025-11-16
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [kazuppa](https://atcoder.jp/users/kazuppa)さん - [Qiita](https://qiita.com/kazuppa)
 
 === "動画"
 
