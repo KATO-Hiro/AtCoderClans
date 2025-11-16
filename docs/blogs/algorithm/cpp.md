@@ -151,6 +151,7 @@ title: C&#43;&#43;
 |kaage|[はてなブログ](https://kaage.hatenablog.com/)||
 |kaichou243|[はてなブログ](https://kaichou243.hatenablog.com/)||
 |kanpurin|[はてなブログ](https://kanpurin.hatenablog.com/)||
+|kazuppa|[Qiita](https://qiita.com/kazuppa)||
 |KKT89|[はてなブログ](https://kkt89.hatenablog.com/)||
 |knshnb|[自作ブログ](https://blog.knshnb.com/)||
 |kouty|[はてなブログ](https://koutykkk.hatenablog.com/)||
