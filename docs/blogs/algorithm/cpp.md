@@ -218,5 +218,6 @@ title: C&#43;&#43;
 |yamake|[はてなブログ](https://yamakeeee.hatenadiary.com/)||
 |yfuka86|[note](https://note.com/yfuka86)||
 |you070707|[GitHub Pages](https://haar-you.github.io/)|Rated対象外のコンテストを中心に複数の言語で実装されている回答もある。|
+|Yoyoyo8128|[Qiita](https://qiita.com/Yoyoyo8128)||
 |zaki_|[はてなブログ](https://zaki-joho.hatenablog.com/)||
 |zawatin|[はてなブログ](https://zawatin.hatenablog.com/)||
