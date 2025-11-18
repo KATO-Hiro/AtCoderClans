@@ -93,20 +93,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "Webアプリ・Webサイト"
-
-    2025-11-03
-
-    !!! info "参考"
-        【再掲載】リンクの一部更新を反映
-
-    - 「[問題を解く](web_app/solve_problems)」ページ
-        - [searchapp](https://doo-an.github.io/WebApplication/searchapp/)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/searchapp.png" alt="searchapp">
-    </div>
-
 === "ユーザスクリプト"
 
     2025-11-08
@@ -119,6 +105,11 @@
     </div>
 
 === "記事"
+
+    2025-11-18
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年11月18日時点)](https://x.com/atcoder/status/1990590883130216878)
 
     2025-11-15
 
@@ -144,17 +135,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年11月4日時点)](https://x.com/atcoder/status/1985515643421306956)
-
-    2025-11-03
-
-    !!! info "参考"
-        【再掲載】AtCoderの言語アップデート (2024-25年度) に伴い、説明文の一部を更新
-
-    - 「[実装テクニックを学ぶ - 複数の言語](articles/implementation/multiple_languages)」ページ
-        - [使用できる言語とライブラリの一覧](https://img.atcoder.jp/file/language-update/2025-10/language-list.html)
-
-    - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
-        - [個人的に嬉しい、AtCoder の Rust 言語アップデートで変わるもの一覧（Rust 1.70 → Rust 1.86)](https://ngtkana.hatenablog.com/entry/2025/05/24/115236)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
