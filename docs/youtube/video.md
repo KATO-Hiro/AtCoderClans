@@ -28,10 +28,11 @@ title: 個別の動画
     - [0.999…は1か？【ゆっくり解説】](https://www.youtube.com/watch?v=Zp4I_fDtdi8) - 「0.999…」を定義し、1に等しいことを証明している。
     - [結婚定理：N人の女は好みの男と結婚できるか？【ゆっくり解説】](https://www.youtube.com/watch?v=zlawYWmuP4c) - ホールの結婚定理を証明している。
 - [DPの思いつき方](https://www.youtube.com/watch?v=2QDQUj69OiE) - AtCoder Beginner ContestのC問題・D問題で出題される動的計画法（DP）の見分け方・考え方が解説されている。前提知識として、[Educational DP Contest](https://atcoder.jp/contests/dp)のA〜D問題を解けることが求められる。
-    - [二次元累積和　競技プログラミングのテクニック](https://www.youtube.com/watch?v=-EetEMdk4Vc) - 二次元配列における長方形領域の和を「二次元累積和」で高速に求める方法と例題の解説が行われている。
+    - [競プロの役に立つターミナルテクニック5選](https://www.youtube.com/live/lDN1dkwSTsY) - 競技プログラミングやソフトウェア開発で便利なターミナルエミュレーターのテクニックが紹介されている。
 
     ??? info "関連動画の一覧"
 
+        - [二次元累積和　競技プログラミングのテクニック](https://www.youtube.com/watch?v=-EetEMdk4Vc) - 二次元配列における長方形領域の和を「二次元累積和」で高速に求める方法と例題の解説が行われている。
         - [漸近記法（O記法）クイズ](https://www.youtube.com/watch?v=m6UX7Ga7SDM) - アルゴリズムと漸近記法の理解度をクイズ形式で確認できる。
         - [累積和（基本編）競技プログラミングのテクニック](https://www.youtube.com/live/Rtn64a2eitk) - 数列の指定された区間の和を高速に求める方法が紹介されている。
         - [TLEに悩み始めた人のための計算量](https://www.youtube.com/watch?v=IOsK87oW438) - プログラムの実行時間と計算量との関係が解説されている。
