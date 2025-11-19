@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-11-19
+
+- [#11230](https://github.com/KATO-Hiro/AtCoderClans/pull/11230) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [競プロの役に立つターミナルテクニック5選](https://www.youtube.com/live/lDN1dkwSTsY)
+
 ### 2025-11-18
 
 - [#11224](https://github.com/KATO-Hiro/AtCoderClans/pull/11224) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。

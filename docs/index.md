@@ -151,6 +151,11 @@
 
 === "動画"
 
+    2025-11-19
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [競プロの役に立つターミナルテクニック5選](https://www.youtube.com/live/lDN1dkwSTsY)
+
     2025-11-07
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
