@@ -106,6 +106,11 @@
 
 === "記事"
 
+    2025-11-20
+
+    - 「[1年をふりかえる](articles/look_back_on_past)」ページ
+        - [競技プログラミングに関する知見をシェアしよう｜2025 Advent Calendar 2025](https://qiita.com/advent-calendar/2025/competitive-programming-2025)
+
     2025-11-18
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -130,11 +135,6 @@
 
     - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
         - [速いRustコードを書きたい](https://tayu0110.hatenablog.com/entry/2024/11/02/033057)
-
-    2025-11-04
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年11月4日時点)](https://x.com/atcoder/status/1985515643421306956)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。

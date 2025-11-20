@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-11-20
+
+- [#11233](https://github.com/KATO-Hiro/AtCoderClans/pull/11233) - 「[Articles, Blogs, Books and Videos](../../media)」の「[1年をふりかえる](../../articles/look_back_on_past)」ページに、以下のAdvent Calendarを追加。
+    - [競技プログラミングに関する知見をシェアしよう｜2025 Advent Calendar 2025](https://qiita.com/advent-calendar/2025/competitive-programming-2025)
+
 ### 2025-11-19
 
 - [#11230](https://github.com/KATO-Hiro/AtCoderClans/pull/11230) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
