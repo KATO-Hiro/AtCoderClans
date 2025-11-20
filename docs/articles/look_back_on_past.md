@@ -8,6 +8,7 @@ title: 1年をふりかえる
 
 ### 2025年
 
+- [競技プログラミングに関する知見をシェアしよう｜2025 Advent Calendar 2025](https://qiita.com/advent-calendar/2025/competitive-programming-2025) - (近日公開予定) 競技プログラミングに関する解説記事・便利な拡張機能などを投稿できる。
 - [HaskellでAtCoderに参加してみた Advent Calendar 2025](https://qiita.com/advent-calendar/2025/haskell-atcoder) - (近日公開予定) Haskellで競技プログラミングに挑戦しながら学んだことが整理されている。
 
 ### 2023年
