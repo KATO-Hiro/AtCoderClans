@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-11-21
+
+- [#11240](https://github.com/KATO-Hiro/AtCoderClans/pull/11240) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[Yoyoyo8128](https://atcoder.jp/users/Yoyoyo8128)さんの[記事](https://qiita.com/Yoyoyo8128/items/57e089cb66f9fdaa864a)を追加。
+
 ### 2025-11-20
 
 - [#11233](https://github.com/KATO-Hiro/AtCoderClans/pull/11233) - 「[Articles, Blogs, Books and Videos](../../media)」の「[1年をふりかえる](../../articles/look_back_on_past)」ページに、以下のAdvent Calendarを追加。
