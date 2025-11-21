@@ -6,6 +6,7 @@ title: Change Log
 
 ### 2025-11-21
 
+- [#11244](https://github.com/KATO-Hiro/AtCoderClans/pull/11244) - (破壊的な変更) リンク切れと思われる色変記事を「[Archives](../../archived)」ページに移動。
 - [#11240](https://github.com/KATO-Hiro/AtCoderClans/pull/11240) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
     - レーティング2000から2399まで(黄色)に[Yoyoyo8128](https://atcoder.jp/users/Yoyoyo8128)さんの[記事](https://qiita.com/Yoyoyo8128/items/57e089cb66f9fdaa864a)を追加。
 
