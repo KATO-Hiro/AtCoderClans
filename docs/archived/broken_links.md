@@ -369,6 +369,9 @@ title: リンク切れ
 
 ### レーティング800〜1199(緑色)
 
+- [AtCoder緑色になりました - カレーちゃんブログ](https://www.currypurin.com/entry/2022/12/03/160204) - [currypurin](https://atcoder.jp/users/currypurin)さんが、2022年11月26日に達成。
+    - 確認した日: 2025/11/21
+
 - [JKです。atcoder緑です。](https://qiita.com/Kujira_Box/items/4f0df07b2ad536a67e07) - [KujiraBox](https://atcoder.jp/users/KujiraBox)さんが、2023年2月20日に公開。
     - 確認した日: 2025/09/10
 
@@ -435,6 +438,9 @@ title: リンク切れ
     - 確認した日: 2022/02/03
 
 ### レーティング1600〜1999(青色)
+
+- [入青した！！ - mono_0812のブログ](https://mono-0812.hatenablog.com/entry/20230924/1695517992) - [mono_0812](https://atcoder.jp/users/mono_0812)さんが、2023年9月24日に公開。
+    - 確認した日: 2025/11/21
 
 - [【AtCoder】 入青しました。](https://note.com/another_akizuki/n/nd243d9828ee6) - [tenp1729](https://atcoder.jp/users/tenp1729)さんが、2025年2月1日に達成。
     - 確認した日: 2025/07/24
