@@ -165,6 +165,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2025-11-21
+
+    - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
+        - [Yoyoyo8128](https://atcoder.jp/users/Yoyoyo8128)さん - [AtCoderで入黄しました！](https://qiita.com/Yoyoyo8128/items/57e089cb66f9fdaa864a)
+
     2025-11-12
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
@@ -174,11 +179,6 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [Nekozuki0509](https://atcoder.jp/users/Nekozuki0509)さん - [ねこずきって人が入茶したらしい(初投稿)](https://qiita.com/hovenia-azedarach/items/872ccf9da332c67b28a8)
-
-    2025-11-05
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [yesantikiss](https://atcoder.jp/users/yesantikiss)さん - [【AtCoder】入水しました！！！！！！！！！！！！！！](https://qiita.com/yesantikiss/items/be7544fb531e333de596)
 
 ## AtCoder公式グッズを購入する
 
