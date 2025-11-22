@@ -83,6 +83,9 @@
     },
     {
       "pattern": "^https://kakuyomu.jp/"
+    },
+    {
+      "pattern": "^https://medium.com/"
     }
   ],
   "httpHeaders": [
