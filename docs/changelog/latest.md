@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-11-22
+
+- [#11250](https://github.com/KATO-Hiro/AtCoderClans/pull/11250) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[uronjun](https://atcoder.jp/users/uronjun)さんの[記事](https://qiita.com/ijunseo/items/f93ef76fdc05dc18e3e4)を追加。
+
 ### 2025-11-21
 
 - [#11244](https://github.com/KATO-Hiro/AtCoderClans/pull/11244) - (破壊的な変更) リンク切れと思われる色変記事を「[Archives](../../archived)」ページに移動。

@@ -165,6 +165,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2025-11-22
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [uronjun](https://atcoder.jp/users/uronjun)さん - [【体験談】helloworld すら何回も落とした初学者から1年で AtCoder 緑になるまでの振り返り（と今後の予定）](https://qiita.com/ijunseo/items/f93ef76fdc05dc18e3e4)
+
     2025-11-21
 
     - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
