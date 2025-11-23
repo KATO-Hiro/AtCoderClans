@@ -156,14 +156,14 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [競プロの役に立つターミナルテクニック5選](https://www.youtube.com/live/lDN1dkwSTsY)
 
-    2025-11-07
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [【6位】プログラミングの力を使って、なるべく少ない攻撃回数ですべての宝箱を開けよう！【AHC055】](https://www.youtube.com/watch?v=dj3Yrl-KcOo)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-11-23
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [garudakai](https://atcoder.jp/users/garudakai)さん - [【AtCoder 入緑】緑色になるまでにしたこと](https://qiita.com/garudakai/items/e2698e11d655e73abdcc)
 
     2025-11-22
 
