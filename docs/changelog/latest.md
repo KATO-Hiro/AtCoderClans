@@ -6,6 +6,7 @@ title: Change Log
 
 ### 2025-11-23
 
+- [#11259](https://github.com/KATO-Hiro/AtCoderClans/pull/11259) - (破壊的な変更) リンク切れと思われる色変記事を「[Archives](../../archived)」ページに移動。
 - [#11255](https://github.com/KATO-Hiro/AtCoderClans/pull/11255) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
     - レーティング800から1199まで(緑色)に[garudakai](https://atcoder.jp/users/garudakai)さんの[記事](https://qiita.com/garudakai/items/e2698e11d655e73abdcc)を追加。
 
