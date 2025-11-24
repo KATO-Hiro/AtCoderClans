@@ -93,18 +93,12 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "ユーザスクリプト"
-
-    2025-11-08
-
-    - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
-        - [AtCoder JavaScript Tester](https://greasyfork.org/ja/scripts/554278-atcoder-javascript-tester)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_javascript_tester.png" alt="atcoder javascript tester">
-    </div>
-
 === "記事"
+
+    2025-11-24
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [RECRUIT 日本橋ハーフマラソン 2025秋（AtCoder Heuristic Contest 055）の参加記と復習記録](https://kaede2020.hatenablog.com/entry/2025/10/27/222106)
 
     2025-11-20
 
