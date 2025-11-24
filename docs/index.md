@@ -98,7 +98,7 @@
     2025-11-24
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [RECRUIT 日本橋ハーフマラソン 2025秋（AtCoder Heuristic Contest 055）の参加記と復習記録](https://kaede2020.hatenablog.com/entry/2025/10/27/222106)
+        - [HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）参加記](https://kaede2020.hatenablog.com/entry/2025/11/24/193724)
 
     2025-11-20
 
