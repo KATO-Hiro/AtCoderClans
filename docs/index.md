@@ -95,6 +95,11 @@
 
 === "記事"
 
+    2025-11-25
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年11月25日時点)](https://x.com/atcoder/status/1993125258426282443)
+
     2025-11-24
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
