@@ -95,6 +95,11 @@
 
 === "記事"
 
+    2025-11-25
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年11月25日時点)](https://x.com/atcoder/status/1993125258426282443)
+
     2025-11-24
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -119,16 +124,6 @@
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [【図解】線形時間の文字列アルゴリズム「Z algorithm」をイラストとアニメーションでかみ砕く](https://qiita.com/Pro_ktmr/items/16904c9570aa0953bf05)
-
-    2025-11-10
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年11月10日時点)](https://x.com/atcoder/status/1987705292289933800)
-
-    2025-11-09
-
-    - 「[実装テクニックを学ぶ - Rust](articles/implementation/rust)」ページ
-        - [速いRustコードを書きたい](https://tayu0110.hatenablog.com/entry/2024/11/02/033057)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
