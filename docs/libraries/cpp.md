@@ -9,7 +9,7 @@ title: C&#43;&#43;
 - [beet-aizu/library](https://beet-aizu.github.io/library/) ![GitHub stars](https://img.shields.io/github/stars/beet-aizu/library?style=plastic) - [beet](https://atcoder.jp/users/beet)さんのライブラリ。
 - [CP-Algorithms](https://cp-algorithms.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/e-maxx-eng/e-maxx-eng?style=plastic) - E-Maxx Algorithmsの英訳版。
 - [drafear/competitive-library](https://github.com/drafear/competitive-library) ![GitHub stars](https://img.shields.io/github/stars/drafear/competitive-library?style=plastic) - [drafear](https://atcoder.jp/users/drafear)さんのライブラリ。
-- [drken1215/algorithm](https://github.com/drken1215/algorithm) ![GitHub stars](https://img.shields.io/github/stars/drken1215/algorithm?style=plastic) - [drken](https://atcoder.jp/users/drken)さんの実装例・ライブラリ。C++17で実装されている。
+- [drken1215/algorithm](https://github.com/drken1215/algorithm) ![GitHub stars](https://img.shields.io/github/stars/drken1215/algorithm?style=plastic) - [drken](https://atcoder.jp/users/drken)さんの実装例・ライブラリ。C++23で実装されている。
 - [ei1333/library](https://ei1333.github.io/library/) ![GitHub stars](https://img.shields.io/github/stars/ei1333/library?style=plastic) - [ei13333](https://atcoder.jp/users/ei13333)さんのライブラリ。
 - [fumiphys/programming_contest](https://github.com/fumiphys/programming_contest) ![GitHub stars](https://img.shields.io/github/stars/fumiphys/programming_contest?style=plastic) - [fumiphys](https://atcoder.jp/users/fumiphys)さんのライブラリ。
 - [halc-git/Halc-Library](https://github.com/halc-git/Halc-Library) ![GitHub Repo stars](https://img.shields.io/github/stars/halc-git/Halc-Library?style=plastic) - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さんのライブラリ。
