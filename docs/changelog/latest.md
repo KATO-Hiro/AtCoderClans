@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-11-26
+
+- [#11277](https://github.com/KATO-Hiro/AtCoderClans/pull/11277) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[morgen_code](https://atcoder.jp/users/morgen_code)さんの[記事](https://qiita.com/morgen-code/items/c08e753f60a5d1667bf5)を追加。
+
 ### 2025-11-25
 
 - [#11270](https://github.com/KATO-Hiro/AtCoderClans/pull/11270) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
