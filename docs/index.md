@@ -174,11 +174,6 @@
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [simidai](https://atcoder.jp/users/simidai)さん - [【色変記事】入茶しました！](https://qiita.com/shimidai/items/b5896b54e5facc3f3b17)
 
-    2025-11-11
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [Nekozuki0509](https://atcoder.jp/users/Nekozuki0509)さん - [ねこずきって人が入茶したらしい(初投稿)](https://qiita.com/hovenia-azedarach/items/872ccf9da332c67b28a8)
-
 ## AtCoder公式グッズを購入する
 
 - [SUZURI](https://suzuri.jp/AtCoder) - [AtCoder](https://atcoder.jp/)のロゴ入りグッズが購入できる。
