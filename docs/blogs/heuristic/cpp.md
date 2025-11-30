@@ -75,6 +75,7 @@ title: C&#43;&#43;
 |hogloid|[はてなブログ](https://hogloid.hatenablog.com/)||
 |hotpepsi|[Qiita](https://qiita.com/hotpepsi)||
 |itigo|[はてなブログ](https://ichigokunn.hatenablog.com/)||
+|kaede2020|[はてなブログ](https://kaede2020.hatenablog.com/)||
 |KKT89|[はてなブログ](https://kkt89.hatenablog.com/)||
 |kotatsugame|[はてなブログ](https://kotatsugame.hatenablog.com/)||
 |kusano|[はてなブログ](https://kusano-k.hatenablog.com/)、[Qiita](https://qiita.com/kusano_k)||
@@ -83,6 +84,7 @@ title: C&#43;&#43;
 |m_buyoh|[はてなブログ](https://buyoh.hateblo.jp/)||
 |Nachia|[Qiita](https://qiita.com/Nachia)||
 |nok0|[はてなブログ](https://tsuchi.hateblo.jp/)||
+|nurupo0723|[note](https://note.com/nurupo0723/)||
 |Omotchi|[はてなブログ](https://omotchi.hateblo.jp/)||
 |phyllo|[GitHub Pages](https://jetbead.github.io/AtCoderHeuristicContestMemo/)||
 |platinum|[はてなブログ](https://platinum-prog.hatenablog.com/)||
