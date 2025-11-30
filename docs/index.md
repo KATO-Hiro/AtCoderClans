@@ -115,13 +115,14 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年11月18日時点)](https://x.com/atcoder/status/1990590883130216878)
 
-    2025-11-15
-
-    - 「[数学を学ぶ](articles/math)」ページ
-        - [1..=N の階乗逆数・ただの逆数を O(N) 時間で前計算する方法（mod p）](https://ngtkana.hatenablog.com/entry/2025/05/11/105210)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2025-11-30
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [kaede2020](https://atcoder.jp/users/kaede2020)さん - [はてなブログ](https://kaede2020.hatenablog.com/)
+        - [nurupo0723](https://atcoder.jp/users/nurupo0723)さん - [note](https://note.com/nurupo0723/)
 
     2025-11-17
 
