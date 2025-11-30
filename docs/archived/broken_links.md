@@ -468,6 +468,9 @@ title: リンク切れ
 
 ### レーティング2000〜2399(黄色)
 
+- [AtCoder黄色になりました](https://www.jackapp.jp/blog/d7384dc1-260e-4748-9bb8-bdb648f6f5fa) - [hirakuuuu](https://atcoder.jp/users/hirakuuuu)さんが、2024年12月24日に公開。
+    - 確認した日: 2025/11/30
+
 - [AtCoder黄色になったよ](https://onsen-manjuuu.net/blog/posts/yellow.html) - [onsen_manjuuu](https://atcoder.jp/users/onsen_manjuuu)さんが、2024年4月27日に達成。
     - 確認した日: 2025/04/24
 
