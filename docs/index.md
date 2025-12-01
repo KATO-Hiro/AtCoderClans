@@ -95,6 +95,11 @@
 
 === "記事"
 
+    2025-12-01
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AtCoder Heuristic Contest 057 参加記](https://kaede2020.hatenablog.com/entry/2025/11/30/203146)
+
     2025-11-25
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -128,11 +133,6 @@
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [Yoyoyo8128](https://atcoder.jp/users/Yoyoyo8128)さん - [Qiita](https://qiita.com/Yoyoyo8128)
-
-    2025-11-16
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [kazuppa](https://atcoder.jp/users/kazuppa)さん - [Qiita](https://qiita.com/kazuppa)
 
 === "動画"
 
