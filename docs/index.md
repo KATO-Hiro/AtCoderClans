@@ -95,6 +95,11 @@
 
 === "記事"
 
+    2025-12-02
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年12月1日時点)](https://x.com/atcoder/status/1995305107576295856)
+
     2025-12-01
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -128,11 +133,6 @@
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
         - [kaede2020](https://atcoder.jp/users/kaede2020)さん - [はてなブログ](https://kaede2020.hatenablog.com/)
         - [nurupo0723](https://atcoder.jp/users/nurupo0723)さん - [note](https://note.com/nurupo0723/)
-
-    2025-11-17
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [Yoyoyo8128](https://atcoder.jp/users/Yoyoyo8128)さん - [Qiita](https://qiita.com/Yoyoyo8128)
 
 === "動画"
 
