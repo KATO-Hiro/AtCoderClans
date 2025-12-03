@@ -16,6 +16,7 @@ title: 個別の動画
     - [kazoeage-oneesan](https://github.com/primenumber/kazoeage-oneesan) - [primenumber](https://atcoder.jp/users/primenumber)さんによる愚直解の実装例(Rust)。
     - [kazoeage-oneesan-cuda](https://github.com/primenumber/kazoeage-oneesan-cuda) - GPGPUによって高速化が図られている例。[解説記事](https://primenumber.hatenadiary.jp/entry/2021/12/04/230653)もある。
 - [【競技プログラミング】AtCoder緑色あるある【愚痴多め】](https://www.youtube.com/watch?v=oLaD-gJ5bhs) - AtCoderのレーティング800〜1199（通称、緑コーダー）のユーザが共感できる話題がまとめられている。
+    - [【競技プログラミング】赤コーダーあるあるを言いたい！](https://www.youtube.com/watch?v=9hXegkBbjS8) - 同2800〜（通称、赤コーダー）版。
 
 ## 解説動画
 
