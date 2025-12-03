@@ -93,6 +93,17 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "ユーザスクリプト"
+
+    2025-12-03
+
+    - 「[Webページに色付けする](user_scripts/colors)」ページ
+        - [AtCoder Heuristic Duration Labels](https://greasyfork.org/ja/scripts/556901-atcoder-heuristic-duration-labels)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_heuristic_duration_labels.png" alt="atcoder heuristic duration labels">
+    </div>
+
 === "記事"
 
     2025-12-02
@@ -120,11 +131,6 @@
     - 「[1年をふりかえる](articles/look_back_on_past)」ページ
         - [競技プログラミングに関する知見をシェアしよう｜2025 Advent Calendar 2025](https://qiita.com/advent-calendar/2025/competitive-programming-2025)
 
-    2025-11-18
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年11月18日時点)](https://x.com/atcoder/status/1990590883130216878)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -135,6 +141,11 @@
         - [nurupo0723](https://atcoder.jp/users/nurupo0723)さん - [note](https://note.com/nurupo0723/)
 
 === "動画"
+
+    2025-12-03
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [【競技プログラミング】赤コーダーあるあるを言いたい！](https://www.youtube.com/watch?v=9hXegkBbjS8)
 
     2025-11-19
 
