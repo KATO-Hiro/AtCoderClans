@@ -157,6 +157,12 @@ Webページの背景色の変更や文字・提出コード・問題の正誤�
       <img loading = "lazy" src="../../images/userscript/atcoder_kaomoji.png" alt="atcoder kaomoji">
     </div>
 
+- [AtCoder Heuristic Duration Labels](https://greasyfork.org/ja/scripts/556901-atcoder-heuristic-duration-labels) - ヒューリスティック部門で、短期・長期コンテストを識別するためのアイコン・背景色を追加する。また、カスタマイズも可能。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_heuristic_duration_labels.png" alt="atcoder heuristic duration labels">
+    </div>
+
 ### 提出結果
 
 - [AtCoder Submission User Colorizer](https://greasyfork.org/ja/scripts/397710-atcoder-submission-user-colorizer) - [AtCoder](https://atcoder.jp/)の「提出結果」ページのユーザ名を色付けする。
