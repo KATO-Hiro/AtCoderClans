@@ -108,6 +108,7 @@ title: 入門者・初心者向けの内容
     - [上級編](https://qiita.com/e869120/items/acba3dd8649d913102b5)
     - [精選100+50問チャレンジシート](https://terumiyake.hatenablog.com/entry/2020/08/01/131528) - [TeruMiyake](https://atcoder.jp/users/TeruMiyake)さんが作成・公開。
 - [現役高校生が、AtCoderでレッドコーダーになるまでにやってきたこと。プログラミング上達の秘訣を全て教えます](https://engineer-lab.findy-code.io/redcoder) - [E869120](https://atcoder.jp/users/E869120)さんが、競技プログラミングを通して得た経験を共有するために書かれた記事。競技プログラミングやアルゴリズムの面白さ、上達するための練習方法、参考資料などが紹介されている。
+- [高校生向け情報オリンピック教育の地域格差に挑んだ話 〜 AtCoder 水色になれる方法も公開！ 〜](https://qiita.com/drken/items/c853184ad95b9e9fd45d) - [drken](https://atcoder.jp/users/drken)さんが情報オリンピックの普及活動を振り返るとともに、水色コーダー（AtCoder のレーティング1200〜1599）になるための練習方法が紹介されている。
 
 ---
 
