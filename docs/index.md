@@ -93,6 +93,13 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "入門者・初心者向けの内容"
+
+    2025-12-04
+
+    - 「[Q1: アルゴリズムや競技プログラミングに興味はありますが、何から始めたらいいですか?](for_beginners/question1)」ページ
+        - [高校生向け情報オリンピック教育の地域格差に挑んだ話 〜 AtCoder 水色になれる方法も公開！ 〜](https://qiita.com/drken/items/c853184ad95b9e9fd45d)
+
 === "ユーザスクリプト"
 
     2025-12-03
@@ -105,6 +112,11 @@
     </div>
 
 === "記事"
+
+    2025-12-04
+
+    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
+        - [高校生向け情報オリンピック教育の地域格差に挑んだ話 〜 AtCoder 水色になれる方法も公開！ 〜](https://qiita.com/drken/items/c853184ad95b9e9fd45d)
 
     2025-12-02
 
@@ -146,11 +158,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [【競技プログラミング】赤コーダーあるあるを言いたい！](https://www.youtube.com/watch?v=9hXegkBbjS8)
-
-    2025-11-19
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [競プロの役に立つターミナルテクニック5選](https://www.youtube.com/live/lDN1dkwSTsY)
 
 === "色変記事"
 
