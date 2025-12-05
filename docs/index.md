@@ -138,11 +138,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）参加記](https://kaede2020.hatenablog.com/entry/2025/11/24/193724)
 
-    2025-11-20
-
-    - 「[1年をふりかえる](articles/look_back_on_past)」ページ
-        - [競技プログラミングに関する知見をシェアしよう｜2025 Advent Calendar 2025](https://qiita.com/advent-calendar/2025/competitive-programming-2025)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -162,6 +157,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-12-06
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [takumi_m_a_03](https://atcoder.jp/users/takumi_m_a_03)さん - [茶色コーダーになるまでの道のり ~Atcoderの駆け出しだった私へ~](https://qiita.com/t_maki/items/fcfd36a8a5736ae0185c)
 
     2025-11-29
 
