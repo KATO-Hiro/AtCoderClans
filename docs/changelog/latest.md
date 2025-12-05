@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-12-05
+
+- [#11327](https://github.com/KATO-Hiro/AtCoderClans/pull/11327) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[takumi_m_a_03](https://atcoder.jp/users/takumi_m_a_03)さんの[記事](https://qiita.com/t_maki/items/fcfd36a8a5736ae0185c)を追加。
+
 ### 2025-12-04
 
 - [#11322](https://github.com/KATO-Hiro/AtCoderClans/pull/11322) - 「[For Beginners](../../for_beginners)」の「[Q1: アルゴリズムや競技プログラミングに興味はありますが、何から始めたらいいですか?](../../for_beginners/question1)」ページと「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の記事を追加。
