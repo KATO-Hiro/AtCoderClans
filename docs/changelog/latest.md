@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-12-06
+
+- [#11330](https://github.com/kato-hiro/atcoderclans/pull/11330)、[#11331](https://github.com/kato-hiro/atcoderclans/pull/11331) - 「[articles, blogs, books and videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
+    - [rng_58がおすすめする練習の仕方 - 赤色になるために](https://info.atcoder.jp/entry/2025/12/05/170000)
+    - [rng_58がおすすめする練習の仕方 - 黄色になるために](https://info.atcoder.jp/entry/2025/12/03/170000)
+
 ### 2025-12-05
 
 - [#11327](https://github.com/KATO-Hiro/AtCoderClans/pull/11327) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

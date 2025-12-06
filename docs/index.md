@@ -113,6 +113,12 @@
 
 === "記事"
 
+    2025-12-06
+
+    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
+        - [rng_58がおすすめする練習の仕方 - 赤色になるために](https://info.atcoder.jp/entry/2025/12/05/170000)
+        - [rng_58がおすすめする練習の仕方 - 黄色になるために](https://info.atcoder.jp/entry/2025/12/03/170000)
+
     2025-12-04
 
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
@@ -192,11 +198,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [uronjun](https://atcoder.jp/users/uronjun)さん - [【体験談】helloworld すら何回も落とした初学者から1年で AtCoder 緑になるまでの振り返り（と今後の予定）](https://qiita.com/ijunseo/items/f93ef76fdc05dc18e3e4)
-
-    2025-11-21
-
-    - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
-        - [Yoyoyo8128](https://atcoder.jp/users/Yoyoyo8128)さん - [AtCoderで入黄しました！](https://qiita.com/Yoyoyo8128/items/57e089cb66f9fdaa864a)
 
 ## AtCoder公式グッズを購入する
 
