@@ -19,6 +19,7 @@ title: コンテストに向けた練習方法を知る
     - [茶色コーダーを目指すために必要なこと](https://info.atcoder.jp/entry/2024/03/18/160342)
     - [AtCoder Beginner Contest (ABC)を中心とした練習方法](https://twitter.com/kyopro_dekomor2/status/1412385847974895620)
     - [rng_58がおすすめする練習の仕方 - 黄色になるために](https://info.atcoder.jp/entry/2025/12/03/170000)
+    - [rng_58がおすすめする練習の仕方 - 赤色になるために](https://info.atcoder.jp/entry/2025/12/05/170000)
 - [競技プログラミングの問題の解き方、そのマニュアル](https://kmyk.github.io/blog/blog/2016/06/21/how-to-solve-problems-in-competitive-programming/) - 問題を解くときに、それぞれの段階(コンテスト前の準備、問題文を読む、前処理、方針の探索、実装、解けない問題への対処方法など)で考慮すべき項目が言語化されている記事。
 - [競技プログラミングの練習法](https://hitoare.hatenablog.com/entry/2024/07/14/195940) - [hitoare](https://atcoder.jp/users/hitoare)さんが考える効率の良い練習方法が紹介されている。
 - [精進について](https://kyopro-friends.hatenablog.com/entry/2020/02/03/202835) - [kyopro_friends](https://atcoder.jp/users/kyopro_friends)さんの練習に対する考え方や方法について書かれた記事。
