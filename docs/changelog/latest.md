@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-12-07
+
+- [#11335](https://github.com/KATO-Hiro/AtCoderClans/pull/11335) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[alpha0314sub](https://atcoder.jp/users/alpha0314sub)さんの[記事](https://note.com/alpha0314alpha/n/n009687717562)を追加。
+
 ### 2025-12-06
 
 - [#11330](https://github.com/kato-hiro/atcoderclans/pull/11330)、[#11331](https://github.com/kato-hiro/atcoderclans/pull/11331) - 「[articles, blogs, books and videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。

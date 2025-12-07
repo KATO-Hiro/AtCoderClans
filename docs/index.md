@@ -164,7 +164,12 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
-    2025-12-06
+    2025-12-07
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [alpha0314sub](https://atcoder.jp/users/alpha0314sub)さん - [AtCoderを3ヶ月やってわかったこと-茶色になるためにはどうすればいいか?](https://note.com/alpha0314alpha/n/n009687717562)
+
+    2025-12-05
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [takumi_m_a_03](https://atcoder.jp/users/takumi_m_a_03)さん - [茶色コーダーになるまでの道のり ~Atcoderの駆け出しだった私へ~](https://qiita.com/t_maki/items/fcfd36a8a5736ae0185c)
@@ -193,11 +198,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [garudakai](https://atcoder.jp/users/garudakai)さん - [【AtCoder 入緑】緑色になるまでにしたこと](https://qiita.com/garudakai/items/e2698e11d655e73abdcc)
-
-    2025-11-22
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [uronjun](https://atcoder.jp/users/uronjun)さん - [【体験談】helloworld すら何回も落とした初学者から1年で AtCoder 緑になるまでの振り返り（と今後の予定）](https://qiita.com/ijunseo/items/f93ef76fdc05dc18e3e4)
 
 ## AtCoder公式グッズを購入する
 
