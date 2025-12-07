@@ -7,6 +7,7 @@ title: レーティング400〜799(茶色)
 - [茶色コーダーになるまでの道のり ~Atcoderの駆け出しだった私へ~](https://qiita.com/t_maki/items/fcfd36a8a5736ae0185c) - [takumi_m_a_03](https://atcoder.jp/users/takumi_m_a_03)さんが、2025年12月1日に公開。
 - [【色変記事】入茶しました！](https://qiita.com/shimidai/items/b5896b54e5facc3f3b17) - [simidai](https://atcoder.jp/users/simidai)さんが、2025年11月8日に達成。
 - [ねこずきって人が入茶したらしい(初投稿)](https://qiita.com/hovenia-azedarach/items/872ccf9da332c67b28a8) - [Nekozuki0509](https://atcoder.jp/users/Nekozuki0509)さんが、2025年10月20日に公開。
+- [AtCoderを3ヶ月やってわかったこと-茶色になるためにはどうすればいいか?](https://note.com/alpha0314alpha/n/n009687717562) - [alpha0314sub](https://atcoder.jp/users/alpha0314sub)さんが、2025年10月13日に公開。
 - [競プロ初心者が少ないrated参加で入茶した話](https://qiita.com/Youteru/items/ae3de71ce6d9d544e49a) - [Youteru](https://atcoder.jp/users/Youteru)さんが、2025年10月11日に達成。
 - [AtCoderで茶コーダーになるためにやったこと](https://qiita.com/morgen-code/items/c08e753f60a5d1667bf5) - [morgen_code](https://atcoder.jp/users/morgen_code)さんが、2025年10月4日に公開。
 - [1年かけてようやくAtCoder茶色になった話(入茶記事)](https://qiita.com/Komeiji-Armia/items/a59260db89872cb89974) - [KomeijiArmia](https://atcoder.jp/users/KomeijiArmia)さんが、2025年9月29日に公開。
