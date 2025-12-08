@@ -113,6 +113,11 @@
 
 === "記事"
 
+    2025-12-08
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）の復習](https://kaede2020.hatenablog.com/entry/2025/12/08/141650)
+
     2025-12-06
 
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
@@ -193,11 +198,6 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [morgen_code](https://atcoder.jp/users/morgen_code)さん - [AtCoderで茶コーダーになるためにやったこと](https://qiita.com/morgen-code/items/c08e753f60a5d1667bf5)
-
-    2025-11-23
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [garudakai](https://atcoder.jp/users/garudakai)さん - [【AtCoder 入緑】緑色になるまでにしたこと](https://qiita.com/garudakai/items/e2698e11d655e73abdcc)
 
 ## AtCoder公式グッズを購入する
 
