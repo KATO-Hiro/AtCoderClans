@@ -100,6 +100,17 @@
     - 「[Q1: アルゴリズムや競技プログラミングに興味はありますが、何から始めたらいいですか?](for_beginners/question1)」ページ
         - [高校生向け情報オリンピック教育の地域格差に挑んだ話 〜 AtCoder 水色になれる方法も公開！ 〜](https://qiita.com/drken/items/c853184ad95b9e9fd45d)
 
+=== "Webアプリ・Webサイト"
+
+    2025-12-10
+
+    - 「[コンテストの成績を見る](web_app/view_and_compare_scores)」ページ
+        - [AHC 延長戦 Viewer](https://ahc-viewer.vercel.app/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/ahc_viewer.png" alt="ahc viewer">
+    </div>
+
 === "ユーザスクリプト"
 
     2025-12-03
@@ -143,11 +154,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AtCoder Heuristic Contest 057 参加記](https://kaede2020.hatenablog.com/entry/2025/11/30/203146)
-
-    2025-11-25
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年11月25日時点)](https://x.com/atcoder/status/1993125258426282443)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
