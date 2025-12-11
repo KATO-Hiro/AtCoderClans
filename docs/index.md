@@ -166,6 +166,11 @@
 
 === "動画"
 
+    2025-12-11
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [AITuberちえり](https://www.youtube.com/@AITuber-qe8vw/videos)
+
     2025-12-03
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
@@ -199,11 +204,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [Litms](https://atcoder.jp/users/Litms)さん - [【競技プログラミング】ついに緑になったぞーーーー！！！！！！！！！ 水色になりたい琴葉姉妹 ABC433](https://www.youtube.com/watch?v=-DGoLmTBylo)
-
-    2025-11-26
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [morgen_code](https://atcoder.jp/users/morgen_code)さん - [AtCoderで茶コーダーになるためにやったこと](https://qiita.com/morgen-code/items/c08e753f60a5d1667bf5)
 
 ## AtCoder公式グッズを購入する
 
