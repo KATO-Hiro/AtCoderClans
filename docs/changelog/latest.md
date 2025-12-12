@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-12-12
+
+- [#11357](https://github.com/KATO-Hiro/AtCoderClans/pull/11357) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[CleverElsie](https://atcoder.jp/users/CleverElsie)さんの[記事](https://qiita.com/clever-elsie/items/3d0c1082248922d3d7b8)を追加。
+
 ### 2025-12-11
 
 - [#11353](https://github.com/KATO-Hiro/AtCoderClans/pull/11353) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
