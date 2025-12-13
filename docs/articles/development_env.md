@@ -4,7 +4,7 @@ title: コードを書くための環境構築を行う
 
 !!! info "参考"
 
-    以下の記事は、2025年6月までに公開・更新されたものです。随時、最新の内容を追加する予定です。
+    以下の記事は、2025年11月までに公開・更新されたものです。随時、最新の内容を追加する予定です。
 
 !!! warning "注意"
 
@@ -34,6 +34,8 @@ title: コードを書くための環境構築を行う
 
 ### C&#43;&#43;
 
+- [初心者でも安心！AtCoder C++環境構築が5分で終わる最強テンプレート](https://qiita.com/tomyou666/items/8fa432a2ea73761f53a8) - C++23の実行環境を用意するためのテンプレートが紹介されている。
+    - [テンプレート](https://github.com/tomyou666/atcoder-template) ![GitHub Repo stars](https://img.shields.io/github/stars/tomyou666/atcoder-template?style=plastic)
 - [AtCoderの環境を Docker で作りたい](https://qiita.com/tf63/items/c93c6f24d73599e637d8) - C++の実行環境を構築する方法が紹介されている。また、[AtCoder Library(ACL)](https://atcoder.jp/posts/517)やテストツール(atcoder-cli)の導入、各種コマンドの自動化もできる。
     - [Dockerを利用したローカルのAtCoder環境（C++）](https://zenn.dev/kinakomochi5250/articles/atcoder-cpp-docker) - テストツールにatcoder-toolsを利用している点が、上記の記事とは異なる。
     - [AtCoder環境を持ち運ぶ](https://trap.jp/post/2417/) - テストツールがonline-judge-tools、エディタがNeovimである実行環境を構築できる。
