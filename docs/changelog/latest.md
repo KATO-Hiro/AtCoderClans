@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-12-13
+
+- [#11360](https://github.com/KATO-Hiro/AtCoderClans/pull/11360) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。
+    - [初心者でも安心！AtCoder C++環境構築が5分で終わる最強テンプレート](https://qiita.com/tomyou666/items/8fa432a2ea73761f53a8)
+        - [テンプレート](https://github.com/tomyou666/atcoder-template) ![GitHub Repo stars](https://img.shields.io/github/stars/tomyou666/atcoder-template?style=plastic)
+
 ### 2025-12-12
 
 - [#11357](https://github.com/KATO-Hiro/AtCoderClans/pull/11357) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
