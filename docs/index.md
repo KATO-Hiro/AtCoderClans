@@ -124,6 +124,12 @@
 
 === "記事"
 
+    2025-12-13
+
+    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
+        - [初心者でも安心！AtCoder C++環境構築が5分で終わる最強テンプレート](https://qiita.com/tomyou666/items/8fa432a2ea73761f53a8)
+            - [テンプレート](https://github.com/tomyou666/atcoder-template) ![GitHub Repo stars](https://img.shields.io/github/stars/tomyou666/atcoder-template?style=plastic)
+
     2025-12-09
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -199,11 +205,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [【色変記事】13歳で入緑するまでにしたこと](https://qiita.com/natsuakane/items/e13e95c99fe6f9690a43)
-
-    2025-11-28
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [friedrice0](https://atcoder.jp/users/friedrice0)さん - [プログラミング初心者が入茶した話](https://qiita.com/friedrice/items/f574b77604cf0f438090)
 
 ## AtCoder公式グッズを購入する
 
