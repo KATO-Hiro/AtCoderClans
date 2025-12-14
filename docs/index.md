@@ -113,6 +113,15 @@
 
 === "ユーザスクリプト"
 
+    2025-12-14
+
+    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
+        - [ACAC Counter](https://greasyfork.org/ja/scripts/557151-acac-counter)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/acac_counter.png" alt="acac counter">
+    </div>
+
     2025-12-03
 
     - 「[Webページに色付けする](user_scripts/colors)」ページ
@@ -164,6 +173,11 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2025-12-14
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [igeee](https://atcoder.jp/users/igeee)さん - [はてなブログ](https://igeee.hatenablog.com/)
+
     2025-11-30
 
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
@@ -201,10 +215,13 @@
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [takumi_m_a_03](https://atcoder.jp/users/takumi_m_a_03)さん - [茶色コーダーになるまでの道のり ~Atcoderの駆け出しだった私へ~](https://qiita.com/t_maki/items/fcfd36a8a5736ae0185c)
 
-    2025-11-29
+=== "アーカイブス"
 
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [【色変記事】13歳で入緑するまでにしたこと](https://qiita.com/natsuakane/items/e13e95c99fe6f9690a43)
+    諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2025-12-14
+
+    - Sed Puzzle
 
 ## AtCoder公式グッズを購入する
 

@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-12-14
+
+- [#11366](https://github.com/KATO-Hiro/AtCoderClans/pull/11366) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
+    - [ACAC Counter](https://greasyfork.org/ja/scripts/557151-acac-counter)
+- [#11365](https://github.com/KATO-Hiro/AtCoderClans/pull/11365) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
+- [#11363](https://github.com/KATO-Hiro/AtCoderClans/pull/11363) - (破壊的な変更) リンク切れと思われる色変記事やパズルサイトを「[Archives](../../archived)」ページに移動。
+
 ### 2025-12-13
 
 - [#11360](https://github.com/KATO-Hiro/AtCoderClans/pull/11360) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。
