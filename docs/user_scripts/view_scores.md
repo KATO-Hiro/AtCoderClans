@@ -62,6 +62,14 @@ title: コンテストの成績や関連する統計情報を見る
 
 ## 問題に関する統計
 
+### 正解者数
+
+- [ACAC Counter](https://greasyfork.org/ja/scripts/557151-acac-counter) - 「問題」ページで、各問題のコンテスト中の正解者数を表示する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/acac_counter.png" alt="acac counter">
+    </div>
+
 ### 難易度(推定)
 
 - [AtCoder Difficulty Display](https://greasyfork.org/ja/scripts/397185-atcoder-difficulty-display) - AtCoderの「問題」のページに[AtCoder Problems](https://kenkoooo.com/atcoder/)の難易度を表示する。
