@@ -404,6 +404,9 @@ title: リンク切れ
 
 ### レーティング1200〜1599(水色)
 
+- [【AtCoder】一年と半年、水色になりました。](https://zenn.dev/yu7400ki/articles/bea3e57ac34de1) - [yu7400ki](https://atcoder.jp/users/yu7400ki)さんが、2023年9月30日に達成。
+    - 確認した日: 2025/12/14
+
 - [半年ぶりの色変なので色変記事](https://note.com/asian202388/n/nabc6648788af) - [juten](https://atcoder.jp/users/juten)さんが、2025年2月8日に達成。
     - 確認した日: 2025/06/30
 
@@ -522,6 +525,14 @@ title: リンク切れ
 
     <div align="center">
       <img loading = "lazy" src="../../images/related_contest_sites/leetcode/leetcode_rating_predictor.png" alt="leetcode rating predictor">
+    </div>
+
+### Sed Puzzle
+
+- [Sed Puzzle](https://sed-puzzle.com/) - ボタンを押して文字列を書き換えていくパズルゲーム。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/sed_puzzle/sed_puzzle.png" alt="sed puzzle">
     </div>
 
 ### 情報オリンピック

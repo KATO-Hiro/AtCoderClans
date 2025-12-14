@@ -42,7 +42,6 @@ title: レーティング1200〜1599(水色)
 - [50代半ばでAtCoder入水しました](https://qiita.com/tosh55/items/4153942b4bac39e0e5a8) - [tosh55](https://atcoder.jp/users/tosh55)さんが、2023年10月25日に公開。
 - [Fortran vs AtCoder 〜みずいろになれたよ〜](https://qiita.com/osada-yum/items/fdc6ec8ff1436258ed01) - [MrTired](https://atcoder.jp/users/MrTired)さんが、2023年10月22日に公開。
 - [AtCoder入水記事！！](https://qiita.com/Toncochan/items/a131519f7431f9da0882) - [Toncochan](https://atcoder.jp/users/Toncochan)さんが、2023年10月7日に公開。
-- [【AtCoder】一年と半年、水色になりました。](https://zenn.dev/yu7400ki/articles/bea3e57ac34de1) - [yu7400ki](https://atcoder.jp/users/yu7400ki)さんが、2023年9月30日に達成。
 - [ABC321で中2が入水したよ！！！！](https://qiita.com/hiroyuk1/items/363fce5a43f1cda1d49d) - [hiroyuk1](https://atcoder.jp/users/hiroyuk1)さんが、2023年9月23日に達成。
 - [Houdinist が競プロerになってみた話  (本サイト運営者による注:水色コーダー達成に関する内容を含む)](https://qiita.com/Satsuki-Sensei/items/2e5ed965f4a6b8794f9e) - [Satsuki_8198](https://atcoder.jp/users/Satsuki_8198)さんが、2023年9月16日に達成。
 - [【色編記事】AtCoder水色になりました 〜4年間の挑戦を振り返る〜](https://qiita.com/_ken_/items/c32d4b2e680058abd77a) - [hassy_](https://atcoder.jp/users/hassy_)さんが、2023年8月30日に公開。
