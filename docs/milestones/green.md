@@ -7,6 +7,7 @@ title: レーティング800〜1199(緑色)
 
 ## 2025年
 
+- [茶色になるまで1年かかったうさぎさんの入緑記事](https://qiita.com/Un_titled/items/1b11a2649fe5e32ff3a4) - [Un_titled](https://atcoder.jp/users/Un_titled)さんが、2025年12月13日に達成。
 - [【競技プログラミング】ついに緑になったぞーーーー！！！！！！！！！ 水色になりたい琴葉姉妹 ABC433](https://www.youtube.com/watch?v=-DGoLmTBylo) - [Litms](https://atcoder.jp/users/Litms)さんが、2025年11月22日に達成。
 - [【体験談】helloworld すら何回も落とした初学者から1年で AtCoder 緑になるまでの振り返り（と今後の予定）](https://qiita.com/ijunseo/items/f93ef76fdc05dc18e3e4) - [uronjun](https://atcoder.jp/users/uronjun)さんが、2025年10月17日に公開。
 - [AtCoderで入緑しました](https://blog.inorinrinrin.com/entry/2025/09/26/215922) - [ysknsid25](https://atcoder.jp/users/ysknsid25)さんが、2025年9月20日に達成。
