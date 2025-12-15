@@ -178,12 +178,6 @@
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [igeee](https://atcoder.jp/users/igeee)さん - [はてなブログ](https://igeee.hatenablog.com/)
 
-    2025-11-30
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [kaede2020](https://atcoder.jp/users/kaede2020)さん - [はてなブログ](https://kaede2020.hatenablog.com/)
-        - [nurupo0723](https://atcoder.jp/users/nurupo0723)さん - [note](https://note.com/nurupo0723/)
-
 === "動画"
 
     2025-12-11
@@ -199,6 +193,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-12-15
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [Un_titled](https://atcoder.jp/users/Un_titled)さん - [茶色になるまで1年かかったうさぎさんの入緑記事](https://qiita.com/Un_titled/items/1b11a2649fe5e32ff3a4)
 
     2025-12-12
 
