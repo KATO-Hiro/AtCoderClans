@@ -4,6 +4,7 @@ title: レーティング1200〜1599(水色)
 
 ## 2025年
 
+- [才能ゼロの私が半年で水コーダーへなるためにやったこと](https://qiita.com/river0525/items/d9e53215a3bc5a84e0ab) - [river0525](https://atcoder.jp/users/river0525)さんが、2025年12月6日に達成。
 - [【AtCoder】入水しました！！！！！！！！！！！！！！](https://qiita.com/yesantikiss/items/be7544fb531e333de596) - [yesantikiss](https://atcoder.jp/users/yesantikiss)さんが、2025年11月1日に達成。
 - [約5年かけて やっとAtCoder水色になった話](https://zenn.dev/kiwamachan/articles/ee89884b27d378) - [kiwama](https://atcoder.jp/users/kiwama)さんが、2025年7月26日に達成。
 - [生成AI時代にAtCoderをやる理由: 水色データサイエンティストが得た4つの学び](https://zenn.dev/green_tea/articles/1963db5bc27a1d) - [ryuiso](https://atcoder.jp/users/ryuiso)さんが、2025年5月24日に達成。
