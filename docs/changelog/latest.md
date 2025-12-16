@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-12-16
+
+- [#11377](https://github.com/KATO-Hiro/AtCoderClans/pull/11377) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[river0525](https://atcoder.jp/users/river0525)さんの[記事](https://qiita.com/river0525/items/d9e53215a3bc5a84e0ab)を追加。
+
 ### 2025-12-15
 
 - [#11372](https://github.com/KATO-Hiro/AtCoderClans/pull/11372) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

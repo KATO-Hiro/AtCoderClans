@@ -165,11 +165,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年12月1日時点)](https://x.com/atcoder/status/1995305107576295856)
 
-    2025-12-01
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AtCoder Heuristic Contest 057 参加記](https://kaede2020.hatenablog.com/entry/2025/11/30/203146)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -193,6 +188,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-12-16
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [river0525](https://atcoder.jp/users/river0525)さん - [才能ゼロの私が半年で水コーダーへなるためにやったこと](https://qiita.com/river0525/items/d9e53215a3bc5a84e0ab)
 
     2025-12-15
 
