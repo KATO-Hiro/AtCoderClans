@@ -15,6 +15,7 @@ title: Rust
 |:--:|:--:|:--|
 |ichyo|[はてなブログ](https://blog.ichyo.jp/)||
 |primenumber|[はてなブログ](https://primenumber.hatenadiary.jp/)||
+|semiexp|[自作ブログ](https://semiexp.net/blog/index.html)||
 |sugim48|[はてなブログ](https://sugim48.hatenadiary.org/)|2014年11月以降、新規の記事を確認できず。C++で実装されている回答もある。|
 |xyz600|[はてなブログ](https://xyz600.hatenablog.com/)||
 
@@ -26,7 +27,7 @@ title: Rust
 |koyumeishi|[はてなブログ](https://koyumeishi.hatenablog.com/)||
 |Kyo_s_s|[自作ブログ](https://kyo-homepage.vercel.app/blog)||
 |penguin46|[はてなブログ](https://penguin46.hatenablog.com/)||
-|semiexp|[自作ブログ](https://semiexp.net/blog/index.html)||
+|sakikuroe|[Qiita](https://qiita.com/SakiKuroe)||
 |tanakh|[Qiita](https://qiita.com/tanakh)||
 |tipstar0125|[Zenn](https://zenn.dev/tipstar0125)||
 |ToastUz|[Qiita](https://qiita.com/ToastUz)||

@@ -49,6 +49,7 @@ title: C&#43;&#43;
 |olphe|[はてなブログ](https://olphe.hatenablog.com/)||
 |peroon|[はてなブログ](https://perogram.hateblo.jp/)||
 |physics0523|[はてなブログ](https://physics0523.hatenablog.com/)||
+|RinSakamichi|[GitHub Pages](https://rinsakamichi.github.io/)||
 |risujiroh|[はてなブログ](https://risujiroh.hatenablog.com/)||
 |shibh308|[はてなブログ](https://shibh308.hatenablog.com/)||
 |ssaattoo|[はてなブログ](https://ssaattoo.hatenablog.com/)||
@@ -92,7 +93,6 @@ title: C&#43;&#43;
 |qLethon|[はてなブログ](https://qlethon.hatenablog.com/)||
 |riano_|[はてなブログ](https://seashellpink-frostywhite.hatenablog.com/)||
 |riantkb|[はてなブログ](https://rian.hatenablog.jp/)||
-|RinSakamichi|[GitHub Pages](https://rinsakamichi.github.io/)||
 |satanic0258|[はてなブログ](https://satanic0258.hatenablog.com/)|2018年9月以降、新規の記事を確認できず。|
 |satoyuki|[はてなブログ](https://tomatokiraida52.hatenablog.com)||
 |Shibuyap|[Qiita](https://qiita.com/Shibuyap)||
@@ -110,3 +110,4 @@ title: C&#43;&#43;
 |tsutaj|[はてなブログ](https://tsutaj.hatenablog.com/)||
 |YamagenSakam|[はてなブログ](https://yamagensakam.hatenablog.com/)||
 |yamunaku|[はてなブログ](https://yamunaku.hatenablog.com/)||
+|YuuuT|[はてなブログ](https://yukun-py.hatenablog.com/)||
