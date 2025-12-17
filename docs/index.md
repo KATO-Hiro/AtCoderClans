@@ -133,6 +133,11 @@
 
 === "記事"
 
+    2025-12-17
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年12月16日時点)](https://x.com/atcoder/status/2000762830023532987)
+
     2025-12-13
 
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
@@ -160,13 +165,18 @@
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
         - [高校生向け情報オリンピック教育の地域格差に挑んだ話 〜 AtCoder 水色になれる方法も公開！ 〜](https://qiita.com/drken/items/c853184ad95b9e9fd45d)
 
-    2025-12-02
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年12月1日時点)](https://x.com/atcoder/status/1995305107576295856)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2025-12-17
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [RinSakamichi](https://atcoder.jp/users/RinSakamichi)さん - [GitHub Pages](https://rinsakamichi.github.io/)
+        - [YuuuT](https://atcoder.jp/users/YuuuT)さん - [はてなブログ](https://yukun-py.hatenablog.com/)
+
+    - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
+        - [semiexp](https://atcoder.jp/users/semiexp)さん - [自作ブログ](https://semiexp.net/blog/index.html)
+        - [sakikuroe](https://atcoder.jp/users/sakikuroe)さん - [Qiita](https://qiita.com/SakiKuroe)
 
     2025-12-14
 
@@ -188,6 +198,12 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-12-17
+
+    - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
+        - [igeee](https://atcoder.jp/users/igeee)さん - [AtCoder黄色到達までにやったこと（復習と環境づくり）](https://qiita.com/igeeeeee/items/9ef3a96ae19d9c0fe7ba)
+        - [nurupo0723](https://atcoder.jp/users/nurupo0723)さん - [AHC入黄までにやったこと](https://note.com/nurupo0723/n/n280fd26c74c9)
 
     2025-12-16
 
