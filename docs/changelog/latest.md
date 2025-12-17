@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-12-17
+
+- [#11383](https://github.com/KATO-Hiro/AtCoderClans/pull/11383) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+- [#11381](https://github.com/KATO-Hiro/AtCoderClans/pull/11381) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
+    - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年12月16日時点)](https://x.com/atcoder/status/2000762830023532987)
+- [#11380](https://github.com/KATO-Hiro/AtCoderClans/pull/11380)、[#11382](https://github.com/KATO-Hiro/AtCoderClans/pull/11382) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[igeee](https://atcoder.jp/users/igeee)さんの[記事](https://qiita.com/igeeeeee/items/9ef3a96ae19d9c0fe7ba)、[nurupo0723](https://atcoder.jp/users/nurupo0723)さんの[記事](https://note.com/nurupo0723/n/n280fd26c74c9)を追加。
+
 ### 2025-12-16
 
 - [#11377](https://github.com/KATO-Hiro/AtCoderClans/pull/11377) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
