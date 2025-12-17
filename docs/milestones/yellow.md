@@ -16,6 +16,7 @@ title: レーティング2000〜2399(黄色)
 
 ### ヒューリスティック部門
 
+- [AHC入黄までにやったこと](https://note.com/nurupo0723/n/n280fd26c74c9) - [nurupo0723](https://atcoder.jp/users/nurupo0723)さんが、2025年12月7日に公開。
 - [【色変記事】AtCoderヒューリスティックレートで黄色になりました！](https://miiitomi.github.io/p/heuristic_yellow/) - [miiitomi](https://atcoder.jp/users/miiitomi)さんが、2025年5月25日に公開。
 
 ## 2024年
