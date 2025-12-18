@@ -199,6 +199,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2025-12-18
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [manuo](https://atcoder.jp/users/manuo)さん - [大学数学未履修が青色になった方法](https://qiita.com/manuo/items/239fe9528fbb9f86c14f)
+
     2025-12-17
 
     - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
