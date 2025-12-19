@@ -49,6 +49,7 @@ title: チャンネル
 - [電たくT](https://www.youtube.com/playlist?list=PLRBtCO0gM_wnUp-bYxogXEF611rgCB6Ev) - [DentakuT](https://atcoder.jp/users/DentakuT)さんのチャンネル。過去問を解く動画が公開されている。
 - [ぶるけんプログラミング道場](https://www.youtube.com/@%E3%81%B6%E3%82%8B%E3%81%91%E3%82%93%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E9%81%93%E5%A0%B4) - [blue_jam](https://x.com/blue_jam)さんと[けんちょん](https://x.com/drken1215)さんのチャンネル。解説動画が公開されている。
 - [ポテロング](https://www.youtube.com/@potato167/videos) - レッドコーダーの[potato167](https://atcoder.jp/users/potato167)さんのチャンネル。コンテストで問題を解くときの思考過程が言語化されている。
+- [まぬお](https://www.youtube.com/@manuoooooo/videos) - [manuo](https://atcoder.jp/users/manuo)さんのチャンネル。コンテストの振り返りや実況動画が公開されている。
 
 ## ゆっくり動画
 
