@@ -93,13 +93,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "入門者・初心者向けの内容"
-
-    2025-12-04
-
-    - 「[Q1: アルゴリズムや競技プログラミングに興味はありますが、何から始めたらいいですか?](for_beginners/question1)」ページ
-        - [高校生向け情報オリンピック教育の地域格差に挑んだ話 〜 AtCoder 水色になれる方法も公開！ 〜](https://qiita.com/drken/items/c853184ad95b9e9fd45d)
-
 === "Webアプリ・Webサイト"
 
     2025-12-10
@@ -120,15 +113,6 @@
 
     <div align="center">
       <img loading="lazy" src="images/userscript/acac_counter.png" alt="acac counter">
-    </div>
-
-    2025-12-03
-
-    - 「[Webページに色付けする](user_scripts/colors)」ページ
-        - [AtCoder Heuristic Duration Labels](https://greasyfork.org/ja/scripts/556901-atcoder-heuristic-duration-labels)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_heuristic_duration_labels.png" alt="atcoder heuristic duration labels">
     </div>
 
 === "記事"
@@ -160,11 +144,6 @@
         - [rng_58がおすすめする練習の仕方 - 赤色になるために](https://info.atcoder.jp/entry/2025/12/05/170000)
         - [rng_58がおすすめする練習の仕方 - 黄色になるために](https://info.atcoder.jp/entry/2025/12/03/170000)
 
-    2025-12-04
-
-    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
-        - [高校生向け情報オリンピック教育の地域格差に挑んだ話 〜 AtCoder 水色になれる方法も公開！ 〜](https://qiita.com/drken/items/c853184ad95b9e9fd45d)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -185,15 +164,15 @@
 
 === "動画"
 
+    2025-12-19
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [まぬお](https://www.youtube.com/@manuoooooo/videos)
+
     2025-12-11
 
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [AITuberちえり](https://www.youtube.com/@AITuber-qe8vw/videos)
-
-    2025-12-03
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [【競技プログラミング】赤コーダーあるあるを言いたい！](https://www.youtube.com/watch?v=9hXegkBbjS8)
 
 === "色変記事"
 

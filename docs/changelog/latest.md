@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-12-19
+
+- [#11396](https://github.com/KATO-Hiro/AtCoderClans/pull/11396) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [まぬお](https://www.youtube.com/@manuoooooo/videos)
+
 ### 2025-12-18
 
 - [#11389](https://github.com/KATO-Hiro/AtCoderClans/pull/11389) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
