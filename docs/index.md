@@ -117,6 +117,11 @@
 
 === "記事"
 
+    2025-12-20
+
+    - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
+        - [【c++】二分探索より速いisqrtを実装する](https://trap.jp/post/2728/)
+
     2025-12-17
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -208,11 +213,6 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [alpha0314sub](https://atcoder.jp/users/alpha0314sub)さん - [AtCoderを3ヶ月やってわかったこと-茶色になるためにはどうすればいいか?](https://note.com/alpha0314alpha/n/n009687717562)
-
-    2025-12-05
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [takumi_m_a_03](https://atcoder.jp/users/takumi_m_a_03)さん - [茶色コーダーになるまでの道のり ~Atcoderの駆け出しだった私へ~](https://qiita.com/t_maki/items/fcfd36a8a5736ae0185c)
 
 === "アーカイブス"
 
