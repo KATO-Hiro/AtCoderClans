@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-12-20
+
+- [#11399](https://github.com/KATO-Hiro/AtCoderClans/pull/11399) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - C++](../../articles/implementation/cpp)」ページに、以下の記事を追加。
+    - [【c++】二分探索より速いisqrtを実装する](https://trap.jp/post/2728/)
+
 ### 2025-12-19
 
 - [#11396](https://github.com/KATO-Hiro/AtCoderClans/pull/11396) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
