@@ -214,6 +214,17 @@
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [alpha0314sub](https://atcoder.jp/users/alpha0314sub)さん - [AtCoderを3ヶ月やってわかったこと-茶色になるためにはどうすればいいか?](https://note.com/alpha0314alpha/n/n009687717562)
 
+=== "国内外のコンテストサイト"
+
+    2025-12-21
+
+    - 「[Codeforces](related_contest_sites/codeforces)」ページ
+        - [Codeforces Better!](https://greasyfork.org/ja/scripts/465777-codeforces-better)
+
+    <div align="center">
+      <img loading="lazy" src="images/related_contest_sites/codeforces/codeforces_better.png" alt="codeforces better">
+    </div>
+
 === "アーカイブス"
 
     諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
