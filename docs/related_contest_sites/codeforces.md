@@ -81,6 +81,14 @@ title: Codeforces
 
 ## ユーザスクリプト
 
+### 問題を解く
+
+- [Codeforces Better!](https://greasyfork.org/ja/scripts/465777-codeforces-better) - 「問題」ページにコードエディタを統合して自動保存やワンクリック送信に対応するとともに、多言語翻訳やダークモード機能などを追加する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/codeforces/codeforces_better.png" alt="codeforces better">
+    </div>
+
 ### ソースコードを提出する
 
 - [cf-fast-submit](https://greasyfork.org/ja/scripts/371117-cf-fast-submit) - コンテストの問題ページに提出用のフォームを設置し、直接submitすることができる。
