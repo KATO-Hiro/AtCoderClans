@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-12-21
+
+- [#11403](https://github.com/KATO-Hiro/AtCoderClans/pull/11403) - 「[Related Contest Sites](../../related_contest_sites)」の「[Codeforces](../../related_contest_sites/codeforces)」ページに、以下のスクリプトを追加。
+    - [Codeforces Better!](https://greasyfork.org/ja/scripts/465777-codeforces-better)
+
 ### 2025-12-20
 
 - [#11399](https://github.com/KATO-Hiro/AtCoderClans/pull/11399) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - C++](../../articles/implementation/cpp)」ページに、以下の記事を追加。
