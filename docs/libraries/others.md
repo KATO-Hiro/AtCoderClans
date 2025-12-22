@@ -23,6 +23,7 @@ title: Others
 - [cojna/iota](https://cojna.github.io/iota/) ![GitHub stars](https://img.shields.io/github/stars/cojna/iota?style=plastic) - [cojna](https://atcoder.jp/users/cojna)さんのライブラリ。
 - [jasy/alglib](https://github.com/jasy/alglib) ![GitHub stars](https://img.shields.io/github/stars/jasy/alglib?style=plastic) - [jasy](https://atcoder.jp/users/jasy)さんのライブラリ。
 - [tjnt/atcoder-haskell](https://github.com/tjnt/atcoder-haskell/tree/master/src) ![GitHub stars](https://img.shields.io/github/stars/tjnt/atcoder-haskell?style=plastic) - [tjnt](https://atcoder.jp/users/tjnt)さんのライブラリ。
+- [toyboot4e/toy-lib](https://github.com/toyboot4e/toy-lib) ![GitHub stars](https://img.shields.io/github/stars/toyboot4e/toy-lib?style=plastic) - [toyboot4e](https://atcoder.jp/users/toyboot4e)さんのテンプレート。[紹介記事](https://toyboot4e.github.io/2025-12-02-atcoder-template.html)も公開されている。
 
 ## Kotlin
 
