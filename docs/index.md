@@ -143,12 +143,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）の復習](https://kaede2020.hatenablog.com/entry/2025/12/08/141650)
 
-    2025-12-06
-
-    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
-        - [rng_58がおすすめする練習の仕方 - 赤色になるために](https://info.atcoder.jp/entry/2025/12/05/170000)
-        - [rng_58がおすすめする練習の仕方 - 黄色になるために](https://info.atcoder.jp/entry/2025/12/03/170000)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -167,6 +161,13 @@
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [igeee](https://atcoder.jp/users/igeee)さん - [はてなブログ](https://igeee.hatenablog.com/)
 
+=== "書籍"
+
+    2025-12-22
+
+    - 「[書籍](books)」ページ
+        - [Haskellで戦う競技プログラミング 第2版](https://booth.pm/ja/items/1577541)
+
 === "動画"
 
     2025-12-19
@@ -178,6 +179,13 @@
 
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [AITuberちえり](https://www.youtube.com/@AITuber-qe8vw/videos)
+
+=== "ライブラリ・スニペット"
+
+    2025-12-22
+
+    - 「[Others](libraries/others)」ページ
+        - [toyboot4e/toy-lib](https://github.com/toyboot4e/toy-lib) ![GitHub stars](https://img.shields.io/github/stars/toyboot4e/toy-lib?style=plastic)
 
 === "色変記事"
 
