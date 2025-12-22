@@ -51,6 +51,7 @@ title: 書籍
 
 - [Pythonで学ぶアルゴリズムとデータ構造](https://www.amazon.co.jp/dp/B084G23P7N) - アルゴリズム・データ構造をPythonで学ぶための入門書。ソート・データの探索・グラフ理論・動的計画法・計算量に加えて、乱択アルゴリズム・数論や社会への応用例など幅広い話題が解説されている。
     - [ソースコード](https://github.com/tsjshg/pyalgdata) ![GitHub Repo stars](https://img.shields.io/github/stars/tsjshg/pyalgdata?style=plastic)
+- [Haskellで戦う競技プログラミング 第2版](https://booth.pm/ja/items/1577541) - Haskellで問題を解く方法や、高速なコードを書くテクニックがまとめられている。
 
 ### 特定の分野を重点的に学ぶ
 
