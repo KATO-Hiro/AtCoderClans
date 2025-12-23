@@ -117,6 +117,11 @@
 
 === "記事"
 
+    2025-12-23
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年12月22日時点)](https://x.com/atcoder/status/2002913872026710118)
+
     2025-12-20
 
     - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
@@ -216,11 +221,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [CleverElsie](https://atcoder.jp/users/CleverElsie)さん - [AtCoderで入水しました](https://qiita.com/clever-elsie/items/3d0c1082248922d3d7b8)
-
-    2025-12-07
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [alpha0314sub](https://atcoder.jp/users/alpha0314sub)さん - [AtCoderを3ヶ月やってわかったこと-茶色になるためにはどうすればいいか?](https://note.com/alpha0314alpha/n/n009687717562)
 
 === "国内外のコンテストサイト"
 
