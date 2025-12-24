@@ -4,6 +4,7 @@ title: レーティング1600〜1999(青色)
 
 ## 2025年
 
+- [AtCoder 入青！！！！！までの振り返り](https://qiita.com/K__2/items/933d9d9dc458588e6b8c) - [katsumata68](https://atcoder.jp/users/katsumata68)さんが、2025年12月20日に達成。
 - [大学数学未履修が青色になった方法](https://qiita.com/manuo/items/239fe9528fbb9f86c14f) - [manuo](https://atcoder.jp/users/manuo)さんが、2025年12月13日に達成。
 - [【入青】入青できたので色々振り返る](https://qiita.com/atcoder6/items/47b022b0924bad61bd10) - [atcoder6](https://atcoder.jp/users/atcoder6)さんが、2025年7月26日に達成。
 - [AtCoder 入青しました【色変記事】](https://qiita.com/poe4294967296/items/0fdb4547eee65d9e751a) - [mackerel38](https://atcoder.jp/users/mackerel38)さんが、2025年5月24日に達成。
