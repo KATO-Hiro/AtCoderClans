@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-12-24
+
+- [#11419](https://github.com/KATO-Hiro/AtCoderClans/pull/11419) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[katsumata68](https://atcoder.jp/users/katsumata68)さんの[記事](https://qiita.com/K__2/items/933d9d9dc458588e6b8c)を追加。
+
 ### 2025-12-23
 
 - [#11412](https://github.com/KATO-Hiro/AtCoderClans/pull/11412) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
