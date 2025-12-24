@@ -138,16 +138,6 @@
         - [初心者でも安心！AtCoder C++環境構築が5分で終わる最強テンプレート](https://qiita.com/tomyou666/items/8fa432a2ea73761f53a8)
             - [テンプレート](https://github.com/tomyou666/atcoder-template) ![GitHub Repo stars](https://img.shields.io/github/stars/tomyou666/atcoder-template?style=plastic)
 
-    2025-12-09
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年12月9日時点)](https://x.com/atcoder/status/1998206620971794451)
-
-    2025-12-08
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）の復習](https://kaede2020.hatenablog.com/entry/2025/12/08/141650)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -195,6 +185,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2025-12-24
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [katsumata68](https://atcoder.jp/users/katsumata68)さん - [AtCoder 入青！！！！！までの振り返り](https://qiita.com/K__2/items/933d9d9dc458588e6b8c)
 
     2025-12-18
 
