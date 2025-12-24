@@ -445,6 +445,9 @@ title: リンク切れ
 
 ### レーティング1600〜1999(青色)
 
+- [ABC400振り返り兼入青記事](https://note.com/yyyfff48/n/n0240fea1a143) - [YFYF](https://atcoder.jp/users/YFYF)さんが、2025年4月5日に達成。
+    - 確認した日: 2025/12/24
+
 - [入青した！！ - mono_0812のブログ](https://mono-0812.hatenablog.com/entry/20230924/1695517992) - [mono_0812](https://atcoder.jp/users/mono_0812)さんが、2023年9月24日に公開。
     - 確認した日: 2025/11/21
 

@@ -9,7 +9,6 @@ title: レーティング1600〜1999(青色)
 - [【入青】入青できたので色々振り返る](https://qiita.com/atcoder6/items/47b022b0924bad61bd10) - [atcoder6](https://atcoder.jp/users/atcoder6)さんが、2025年7月26日に達成。
 - [AtCoder 入青しました【色変記事】](https://qiita.com/poe4294967296/items/0fdb4547eee65d9e751a) - [mackerel38](https://atcoder.jp/users/mackerel38)さんが、2025年5月24日に達成。
 - [【競技プログラミング】社会人が青色コーダーになったので競プロを始めるきっかけになった恋愛を振り返る](https://tomatokiraida52.hatenablog.com/entry/2025/05/25/035247) - [satoyuki](https://atcoder.jp/users/satoyuki)さんが、2025年5月24日に達成。
-- [ABC400振り返り兼入青記事](https://note.com/yyyfff48/n/n0240fea1a143) - [YFYF](https://atcoder.jp/users/YFYF)さんが、2025年4月5日に達成。
 - [【競技プログラミング】AtCoder Beginner Contest 396 入青実況(地声)](https://www.youtube.com/watch?v=q5Xa2RG3y7Q) - [sinzyousan](https://atcoder.jp/users/sinzyousan)さんが、2025年3月8日に達成。
 
 ## 2024年
