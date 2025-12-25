@@ -44,6 +44,7 @@ title: チャンネル
 - [かつっぱ競プロ](https://www.youtube.com/channel/UCqqeYOh1gk_TJ16sxazWhUg) - [AtCoder](https://atcoder.jp/)でレッドコーダーの[catupper](https://atcoder.jp/users/catupper)さんのチャンネル。コンテストの実況動画が公開されている。
 - [こたつがめ](https://www.youtube.com/channel/UCL8EOznhSyreT9O0-KFxgZQ/videos) - [kotatsugame](https://atcoder.jp/users/kotatsugame)さんのチャンネル。コードゴルフに関する動画が多く公開されている。
 - [じょえチャンネル](https://www.youtube.com/channel/UCRXsI3FL_kvaVL9zoolBfbQ/videos) - [xuzijian629](https://atcoder.jp/users/xuzijian629)さんのチャンネル。斬新な企画が数多く公開されている。
+- [図解で学ぶ競技プログラミング](https://www.youtube.com/@zukapro_algorithms/videos) - コンテストで頻出のアルゴリズムを図解した動画が公開されている。
 - [そまのすけ](https://www.youtube.com/playlist?list=PLTP2rhthd6G1qPKsKVTienMhos3X6Hvqh) - [somanosuke](https://atcoder.jp/users/somanosuke)さんのチャンネル。コンテストの振り返りや過去問を解く動画が公開されている。
 - [てぃーい企画](https://www.youtube.com/channel/UCfqYE4LdRYqAJSV_TKlsy9Q/videos) - [Yazaten](https://twitter.com/Yazaten)さんのチャンネル。競技プログラミングの話題を含む大喜利が行われており、投稿者の回答が紹介されている。
 - [電たくT](https://www.youtube.com/playlist?list=PLRBtCO0gM_wnUp-bYxogXEF611rgCB6Ev) - [DentakuT](https://atcoder.jp/users/DentakuT)さんのチャンネル。過去問を解く動画が公開されている。
