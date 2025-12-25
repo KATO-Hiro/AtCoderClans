@@ -93,17 +93,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "Webアプリ・Webサイト"
-
-    2025-12-10
-
-    - 「[コンテストの成績を見る](web_app/view_and_compare_scores)」ページ
-        - [AHC 延長戦 Viewer](https://ahc-viewer.vercel.app/)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/ahc_viewer.png" alt="ahc viewer">
-    </div>
-
 === "ユーザスクリプト"
 
     2025-12-14
@@ -164,6 +153,14 @@
         - [Haskellで戦う競技プログラミング 第2版](https://booth.pm/ja/items/1577541)
 
 === "動画"
+
+    2025-12-25
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [【競プロ】青色コーダーあるある【競技プログラミング】](https://www.youtube.com/watch?v=J82t0YMVD38)
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [図解で学ぶ競技プログラミング](https://www.youtube.com/@zukapro_algorithms/videos)
 
     2025-12-19
 

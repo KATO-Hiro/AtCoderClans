@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-12-25
+
+- [#11428](https://github.com/KATO-Hiro/AtCoderClans/pull/11428) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [【競プロ】青色コーダーあるある【競技プログラミング】](https://www.youtube.com/watch?v=J82t0YMVD38)
+- [#11426](https://github.com/KATO-Hiro/AtCoderClans/pull/11426) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [図解で学ぶ競技プログラミング](https://www.youtube.com/@zukapro_algorithms/videos)
+
 ### 2025-12-24
 
 - [#11422](https://github.com/KATO-Hiro/AtCoderClans/pull/11422) - (破壊的な変更) リンク切れと思われる色変記事を「[Archives](../../archived)」ページに移動。
