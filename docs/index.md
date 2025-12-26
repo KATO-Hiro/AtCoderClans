@@ -106,6 +106,11 @@
 
 === "記事"
 
+    2025-12-26
+
+    - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
+        - [AtCoderで役立つJavaScriptテンプレ集](https://qiita.com/nolanlover0527/items/6f87f315cc15b3f8ed74)
+
     2025-12-23
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -166,11 +171,6 @@
 
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [まぬお](https://www.youtube.com/@manuoooooo/videos)
-
-    2025-12-11
-
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [AITuberちえり](https://www.youtube.com/@AITuber-qe8vw/videos)
 
 === "ライブラリ・スニペット"
 
