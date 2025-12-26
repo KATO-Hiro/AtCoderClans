@@ -74,6 +74,7 @@ title: Others
 
 - [AtCoderをVS CodeとJavaScriptで挑戦する方法](https://iwb.jp/howto-challenge-atcoder-with-vscode-and-javascript/) - JavaScriptで問題を解くときに、入力データの受け取り方やテストツールの利用方法などが紹介されている。
 - [AtCoderでのJavaScriptの入力](https://qiita.com/mizu7e/items/89db39527c7b920bbea1) - 入力データを受け取るときに、クロージャを活用する方法が紹介されている。
+- [AtCoderで役立つJavaScriptテンプレ集](https://qiita.com/nolanlover0527/items/6f87f315cc15b3f8ed74) - コンテストで頻出の構文や関数がまとめられている。
 
 ### 別の言語を利用して高速化
 
