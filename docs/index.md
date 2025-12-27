@@ -106,6 +106,11 @@
 
 === "記事"
 
+    2025-12-27
+
+    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
+        - [【Python】BFS、DFS、ダイクストラ法、01BFSを最小変更で書き分ける方法【競プロ】](https://qiita.com/manuo/items/e5ed45aae401ccc41afd)
+
     2025-12-26
 
     - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
@@ -208,11 +213,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [Un_titled](https://atcoder.jp/users/Un_titled)さん - [茶色になるまで1年かかったうさぎさんの入緑記事](https://qiita.com/Un_titled/items/1b11a2649fe5e32ff3a4)
-
-    2025-12-12
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [CleverElsie](https://atcoder.jp/users/CleverElsie)さん - [AtCoderで入水しました](https://qiita.com/clever-elsie/items/3d0c1082248922d3d7b8)
 
 === "国内外のコンテストサイト"
 
