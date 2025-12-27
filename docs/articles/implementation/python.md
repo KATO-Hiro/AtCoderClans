@@ -66,6 +66,7 @@ title: Python
 
 ### グラフ理論
 
+- [【Python】BFS、DFS、ダイクストラ法、01BFSを最小変更で書き分ける方法【競プロ】](https://qiita.com/manuo/items/e5ed45aae401ccc41afd) - 4種類のアルゴリズムについて、幅優先探索 (BFS) を基本として最小の変更で実装する方法が紹介されている。
 - [非再帰Euler TourをPythonでやる](https://qiita.com/Kiri8128/items/2b0023bed9af642c751c) - Euler Tourを再帰関数を使わずに実装する方法が紹介されている。
 
 ### 行列の回転
