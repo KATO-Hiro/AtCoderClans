@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-12-27
+
+- [#11434](https://github.com/KATO-Hiro/AtCoderClans/pull/11434) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Python](../../articles/implementation/python)」ページに、以下の記事を追加。
+    - [【Python】BFS、DFS、ダイクストラ法、01BFSを最小変更で書き分ける方法【競プロ】](https://qiita.com/manuo/items/e5ed45aae401ccc41afd)
+
 ### 2025-12-26
 
 - [#11431](https://github.com/KATO-Hiro/AtCoderClans/pull/11431) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Others](../../articles/implementation/others)」ページに、以下の記事を追加。
