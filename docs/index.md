@@ -188,6 +188,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2025-12-28
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [simidai](https://atcoder.jp/users/simidai)さん - [【色変記事】入緑しました！](https://qiita.com/shimidai/items/1f68e577f4ffec53b3e7)
+
     2025-12-24
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
