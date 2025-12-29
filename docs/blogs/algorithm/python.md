@@ -14,6 +14,7 @@ title: Python
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
 |googol_S0|[Qiita](https://qiita.com/googol_S0)|高難易度の問題を中心にC++で実装されている回答もある。|
+|harurun4635|[はてなブログ](https://harurun4635.hatenablog.com/)||
 |Kiri8128|[はてなブログ](https://kiri8128.hatenablog.com/)||
 |sotanishy|[はてなブログ](https://sotanishy.hatenablog.com/)|高難易度の問題を中心にC++で実装されている回答もある。|
 |SPD_9X2|[はてなブログ](https://spd-9x2.hatenablog.com/)||

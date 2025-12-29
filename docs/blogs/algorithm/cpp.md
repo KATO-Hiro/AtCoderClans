@@ -76,6 +76,7 @@ title: C&#43;&#43;
 |Hoi_koro|[はてなブログ](https://hoikoro.hatenablog.com/)|2019年3月以降、新規の記事を確認できず。|
 |hotman78|[はてなブログ](https://hotman78.hatenablog.com/)||
 |Jirotech|[はてなブログ](https://shuu0914.hatenablog.com/)||
+|kaichou243|[はてなブログ](https://kaichou243.hatenablog.com/)||
 |karinohito|[はてなブログ](https://karinohito.hatenablog.com)||
 |keisuke6|[note](https://note.com/keisuke6)||
 |Kite_kuma|[はてなブログ](https://kumakumatime.hateblo.jp/)||
@@ -150,7 +151,6 @@ title: C&#43;&#43;
 |jp3bgy|[GitHub Pages](https://jp3bgy.github.io/blog/)||
 |k1suxu|[はてなブログ](https://k1suxu.hatenablog.com/)||
 |kaage|[はてなブログ](https://kaage.hatenablog.com/)||
-|kaichou243|[はてなブログ](https://kaichou243.hatenablog.com/)||
 |kanpurin|[はてなブログ](https://kanpurin.hatenablog.com/)||
 |kazuppa|[Qiita](https://qiita.com/kazuppa)||
 |KKT89|[はてなブログ](https://kkt89.hatenablog.com/)||
