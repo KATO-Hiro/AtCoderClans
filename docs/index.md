@@ -93,17 +93,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "ユーザスクリプト"
-
-    2025-12-14
-
-    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
-        - [ACAC Counter](https://greasyfork.org/ja/scripts/557151-acac-counter)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/acac_counter.png" alt="acac counter">
-    </div>
-
 === "記事"
 
     2025-12-27
@@ -131,14 +120,19 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年12月16日時点)](https://x.com/atcoder/status/2000762830023532987)
 
-    2025-12-13
-
-    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
-        - [初心者でも安心！AtCoder C++環境構築が5分で終わる最強テンプレート](https://qiita.com/tomyou666/items/8fa432a2ea73761f53a8)
-            - [テンプレート](https://github.com/tomyou666/atcoder-template) ![GitHub Repo stars](https://img.shields.io/github/stars/tomyou666/atcoder-template?style=plastic)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2025-12-29
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [kaichou243](https://atcoder.jp/users/kaichou243)さん - [はてなブログ](https://kaichou243.hatenablog.com/)
+
+    - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
+        - [harurun4635](https://atcoder.jp/users/harurun4635)さん - [はてなブログ](https://harurun4635.hatenablog.com/)
+
+    - 「[アルゴリズム部門 - Rust](blogs/algorithm/rust)」ページ
+        - [zeronosu77108](https://atcoder.jp/users/zeronosu77108)さん - [はてなブログ](https://zeronosu77108.hatenablog.com/)
 
     2025-12-17
 
@@ -149,11 +143,6 @@
     - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
         - [semiexp](https://atcoder.jp/users/semiexp)さん - [自作ブログ](https://semiexp.net/blog/index.html)
         - [sakikuroe](https://atcoder.jp/users/sakikuroe)さん - [Qiita](https://qiita.com/SakiKuroe)
-
-    2025-12-14
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [igeee](https://atcoder.jp/users/igeee)さん - [はてなブログ](https://igeee.hatenablog.com/)
 
 === "書籍"
 
@@ -229,14 +218,6 @@
     <div align="center">
       <img loading="lazy" src="images/related_contest_sites/codeforces/codeforces_better.png" alt="codeforces better">
     </div>
-
-=== "アーカイブス"
-
-    諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
-
-    2025-12-14
-
-    - Sed Puzzle
 
 ## AtCoder公式グッズを購入する
 
