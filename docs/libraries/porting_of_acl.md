@@ -73,6 +73,7 @@ title: 各言語への移植
 
 - [not522/ac-library-python](https://github.com/not522/ac-library-python) ![GitHub stars](https://img.shields.io/github/stars/not522/ac-library-python?style=plastic) - Python版。オンラインジャッジで実行できるように、コードを一つのファイルにまとめる機能も含まれている。AtCoderのジャッジ環境にインストールされている(2025年7月時点)。
     - [kairi003/ac-library-python-stubs](https://github.com/kairi003/ac-library-python-stubs) ![GitHub stars](https://img.shields.io/github/stars/kairi003/ac-library-python-stubs?style=plastic) - not522/ac-library-pythonにGeneric型等を追加する型定義ライブラリ。
+    - [遅延セグ木のチートシート（Python）](https://qiita.com/manuo/items/791468676326dd99aa2c) - 遅延評価セグメント木による典型的な区間更新・クエリ処理の実装例（区間加算・区間最小値、区間更新・区間和など）がチートシート形式で紹介されている。
 - [shakayami/ACL-for-python](https://github.com/shakayami/ACL-for-python) ![GitHub Repo stars](https://img.shields.io/github/stars/shakayami/ACL-for-python?style=plastic) - Python版。[Wiki](https://github.com/shakayami/ACL-for-python/wiki)ページに、使い方(日本語)とサンプルコードが記載されている。
 - [tatyam-prime/acl-cpp-python](https://github.com/tatyam-prime/acl-cpp-python) - ![GitHub stars](https://img.shields.io/github/stars/tatyam-prime/acl-cpp-python?style=plastic) - [AtCoder Library (ACL)](https://github.com/atcoder/ac-library)がPythonの実行環境で利用できる。
 
