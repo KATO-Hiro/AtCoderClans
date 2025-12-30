@@ -168,6 +168,11 @@
 
 === "ライブラリ・スニペット"
 
+    2025-12-30
+
+    - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
+        - [遅延セグ木のチートシート（Python）](https://qiita.com/manuo/items/791468676326dd99aa2c)
+
     2025-12-22
 
     - 「[Others](libraries/others)」ページ
@@ -202,11 +207,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [river0525](https://atcoder.jp/users/river0525)さん - [才能ゼロの私が半年で水コーダーへなるためにやったこと](https://qiita.com/river0525/items/d9e53215a3bc5a84e0ab)
-
-    2025-12-15
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [Un_titled](https://atcoder.jp/users/Un_titled)さん - [茶色になるまで1年かかったうさぎさんの入緑記事](https://qiita.com/Un_titled/items/1b11a2649fe5e32ff3a4)
 
 === "国内外のコンテストサイト"
 

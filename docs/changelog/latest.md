@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-12-30
+
+- [#11449](https://github.com/KATO-Hiro/AtCoderClans/pull/11449) - 「[Libraries and Snippets](../../libraries)」の「[AtCoder Library (ACL)の各言語への移植](../../libraries/porting_of_acl)」ページに、以下の記事を追加。
+    - [遅延セグ木のチートシート（Python）](https://qiita.com/manuo/items/791468676326dd99aa2c)
+
 ### 2025-12-29
 
 - [#11441](https://github.com/KATO-Hiro/AtCoderClans/pull/11441)、[#11443](https://github.com/KATO-Hiro/AtCoderClans/pull/11443)  - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
