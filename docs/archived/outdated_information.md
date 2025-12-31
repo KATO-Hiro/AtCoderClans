@@ -438,11 +438,31 @@ title: 更新停止の可能性が高い
 
 ### コードを書くための環境構築を行う
 
+#### 任意のOS
+
+- [競技プログラミングの環境を VSCode devcontainer で作成する](https://zenn.dev/ganariya/articles/competitive-devcontainer) - 複数の言語の実行環境を構築する方法と設定例(C++、Go、Python)が紹介されている記事。
+    - [ganyariya/competitive](https://github.com/ganyariya/competitive) ![GitHub Repo stars](https://img.shields.io/github/stars/ganyariya/competitive?style=plastic) - C++、C#、Go、Python、Luaの設定例がGitHubで公開されている。
+
+#### Macintosh
+
+- [Visual studio codeで競プロ環境構築[mac OS]](https://qiita.com/EngTks/items/ffa2a7b4d264e7a052c6) - 動作環境は、macOS Mojave。C++(GCC)のコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と、拡張機能を使って構築する方法が紹介されている。便利な標準ライブラリ(bits/std++.h)を使用することができる。
+
+- [AtCoder用にVSCodeを用いたRustの開発環境の構築をした話](https://paruma184.hatenablog.com/entry/2021/09/22/210945) - 動作環境は、macOS Big Sur。Rustのコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と拡張機能を利用して構築する方法が詳しく紹介されている記事。
+
+#### Windows
+
 - [WSL2とVSCodeでC++環境構築した（AtCoder Libraryを使えるようになるまで）](https://ntk-ta01.hatenablog.com/entry/2020/09/09/181155) - C++やRustのコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)で構築するための記事。設定ファイルや[AtCoder Library](https://atcoder.jp/posts/517)に関する説明もある。
+
+- [Dockerを使って競技プログラミング用環境を構築](https://seiyu0225.hatenablog.com/entry/2022/07/10/212840) - C++とPythonの実行環境の構築方法を説明した記事。各種設定や[AtCoder Library](https://atcoder.jp/posts/517)の導入方法なども記載されている。
+
+- [Visual Studio Codeで競プロ環境構築(導入編)](https://qiita.com/AokabiC/items/e9312856f588dd9303ed) - C++(GCC)のコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)で構築する方法が丁寧に解説されている。
+    - [Visual Studio Codeで競プロ環境構築(実践編)](https://qiita.com/AokabiC/items/af685bfd205dda44ec45) - 便利なショートカット、コードスニペット、拡張機能、サンプルケースの自動検証、デバッグツールについて紹介されている。
 
 - [【VScode＋WSLで始める】競プロ用C++デバッグ環境構築](https://qiita.com/2019Shun/items/5ab290a4117a00e373b6) - C++のコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)で構築したあとの拡張機能の導入・設定ファイルについて紹介されている。
 
 - [Windowsで競プロに必要なNeovim環境を整える](https://qiita.com/KowerKoint/items/89d1952b54dec57a1a07) - カスタマイズ性の高いエディタの一つである[NeoVim](https://neovim.io/)を利用して、C++(clang)のコンパイル・実行環境を構築するための記事。関連ツールの導入方法や設定ファイル・プラグインのおすすめ情報も紹介されている。
+
+#### 実行環境のテンプレート・サンプル
 
 - [at-coder-with-php](https://github.com/KushibikiMashu/at-coder-with-php) ![GitHub Repo stars](https://img.shields.io/github/stars/KushibikiMashu/at-coder-with-php?style=plastic) - PHPの実行環境を構築することができる。
 
