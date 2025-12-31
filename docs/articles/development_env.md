@@ -4,11 +4,11 @@ title: コードを書くための環境構築を行う
 
 !!! info "参考"
 
-    以下の記事は、2025年11月までに公開・更新されたものです。随時、最新の内容を追加する予定です。
+    以下の記事は、2025年12月までに公開・更新されたものです。随時、最新の内容を追加する予定です。
 
 !!! warning "注意"
 
-    [言語アップデート(2023年版)](https://atcoder.jp/posts/966)に対応した実行環境を用意するには、OS・言語・ライブラリなどのバージョン更新が必要な場合もあります。
+    [言語アップデート(2025年版)](https://atcoder.jp/posts/1593)に対応した実行環境を用意するには、OS・言語・ライブラリなどのバージョン更新が必要な場合もあります。
 
 ## コマンドラインツールからAtCoderにログインできない場合の対処方法
 
@@ -27,8 +27,6 @@ title: コードを書くための環境構築を行う
 
 ### 複数の言語
 
-- [競技プログラミングの環境を VSCode devcontainer で作成する](https://zenn.dev/ganariya/articles/competitive-devcontainer) - 複数の言語の実行環境を構築する方法と設定例(C++、Go、Python)が紹介されている記事。
-    - [ganyariya/competitive](https://github.com/ganyariya/competitive) ![GitHub Repo stars](https://img.shields.io/github/stars/ganyariya/competitive?style=plastic) - C++、C#、Go、Python、Luaの設定例がGitHubで公開されている。
 - [AtCoder環境をDockerで作ってみた](https://qiita.com/kurimochi/items/62330d4e7f53ec3704d5) - C++、Pythonの実行環境の公開と、基本的な利用方法が紹介されている。
     - [kurimochi/atcoder_on_docker](https://github.com/kurimochi/atcoder_on_docker) ![GitHub Repo stars](https://img.shields.io/github/stars/kurimochi/atcoder_on_docker?style=plastic)
 
@@ -70,28 +68,23 @@ title: コードを書くための環境構築を行う
 - [競技プログラミングC++環境構築 (macOS) 2023年版](https://qiita.com/EvtHorizonCoder/items/145724e16c1b57ab64eb) - C++(GCC)のコンパイル・実行環境の構築方法が紹介されている記事。[AtCoder Library](https://atcoder.jp/posts/517)・サンプルケースの自動テスト・デバッグツールなどの導入方法も記載されている。
 - [bits/stdc++.hのインクルードを高速化しよう！（MacOS版）](https://qiita.com/DaikiSuyama/items/e502e09a1090f4a2cee3) - GCCのヘッダファイルであるbits/stdc++.hを正しく使うことで、コンパイルを高速化する方法を紹介した記事。
 - [MacでGCCを"正しく"環境構築しよう！](https://qiita.com/DaikiSuyama/items/09f5aa399aad37783146) - MacでのGCCの環境構築を丁寧に解説した記事。パッケージ管理システムであるHomebrewを用いたGCCのインストールからパスの設定・コンパイルの実行まで紹介されている。
-- [Visual studio codeで競プロ環境構築[mac OS]](https://qiita.com/EngTks/items/ffa2a7b4d264e7a052c6) - 動作環境は、macOS Mojave。C++(GCC)のコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と、拡張機能を使って構築する方法が紹介されている。便利な標準ライブラリ(bits/std++.h)を使用することができる。
 
 ### Java
 
 - [JavaでのAtCoder環境構築](https://qiita.com/HERUESTA/items/bed73a2906115c68ce11) - Javaをローカル環境で実行する方法だけでなく、[Visual Studio Code](https://code.visualstudio.com/)の拡張機能やテストツールの導入方法も紹介されている。
-
-### Rust
-
-- [AtCoder用にVSCodeを用いたRustの開発環境の構築をした話](https://paruma184.hatenablog.com/entry/2021/09/22/210945) - 動作環境は、macOS Big Sur。Rustのコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と拡張機能を利用して構築する方法が詳しく紹介されている記事。
 
 ## Windows
 
 ### 複数の言語
 
 - [競技プログラミングの環境構築 [VSCode+WSL+AtCoder Library]【ゆっくり解説】](https://www.youtube.com/watch?v=uhnASau7fB4) - (初心者向け) C++とPythonの実行環境を構築するための解説・デモ。[Visual Studio Code](https://code.visualstudio.com/)と[Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install)のインストール・設定・コードの実行などに加えて、[AtCoder Library](https://atcoder.jp/posts/517)の導入方法も紹介されている。
-- [Dockerを使って競技プログラミング用環境を構築](https://seiyu0225.hatenablog.com/entry/2022/07/10/212840) - C++とPythonの実行環境の構築方法を説明した記事。各種設定や[AtCoder Library](https://atcoder.jp/posts/517)の導入方法なども記載されている。
 
 ### C&#43;&#43;
 
-- [Visual Studio Codeで競プロ環境構築(導入編)](https://qiita.com/AokabiC/items/e9312856f588dd9303ed) - C++(GCC)のコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)で構築する方法が丁寧に解説されている。
-    - [Visual Studio Codeで競プロ環境構築(実践編)](https://qiita.com/AokabiC/items/af685bfd205dda44ec45) - 便利なショートカット、コードスニペット、拡張機能、サンプルケースの自動検証、デバッグツールについて紹介されている。
-- [【VScode + WSL / Windows】C++ 用の AtCoder 向け環境構築をしてみた。(WSL導入からGitによるソースコード管理まで)](https://yuulis.hatenablog.com/entry/atcoder-cpp-env-build) - [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)を利用して、C++(GCC、g++)のコンパイル・実行環境を構築する方法が紹介されている。エディタの拡張機能・[AtCoder Library(ACL)](https://atcoder.jp/posts/517)やテストツール・ソースコードの管理ツールの導入方法、各種設定などもまとめられている。
+[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install)を利用して、C++(GCC、g++)のコンパイル・実行環境を構築できます。また、[AtCoder Library(ACL)](https://atcoder.jp/posts/517)やテストツールの導入方法などもまとめられています。
+
+- [AtCoder の環境構築をしよう 2025冬](https://qiita.com/Joe75792433/items/d79c96741bb6a229b884) -
+- [【VScode + WSL / Windows】C++ 用の AtCoder 向け環境構築をしてみた。(WSL導入からGitによるソースコード管理まで)](https://yuulis.hatenablog.com/entry/atcoder-cpp-env-build)
 
 ### C&#35;
 
