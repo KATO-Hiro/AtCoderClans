@@ -2,14 +2,14 @@
 title: 1年をふりかえる
 ---
 
-競技プログラミングに関する話題について、1年を振り返った記事・ツイートを掲載しています。
+競技プログラミングに関する話題について、1年を振り返った記事・ポストを掲載しています。
 
 ## Advent Calendar
 
 ### 2025年
 
-- [競技プログラミングに関する知見をシェアしよう｜2025 Advent Calendar 2025](https://qiita.com/advent-calendar/2025/competitive-programming-2025) - (近日公開予定) 競技プログラミングの解説や便利な拡張機能などの記事が読める。
-- [HaskellでAtCoderに参加してみた Advent Calendar 2025](https://qiita.com/advent-calendar/2025/haskell-atcoder) - (近日公開予定) Haskellで競技プログラミングに挑戦しながら学んだことが整理されている。
+- [競技プログラミングに関する知見をシェアしよう｜2025 Advent Calendar 2025](https://qiita.com/advent-calendar/2025/competitive-programming-2025) - 競技プログラミングの解説や便利な拡張機能などの記事が読める。
+- [HaskellでAtCoderに参加してみた Advent Calendar 2025](https://qiita.com/advent-calendar/2025/haskell-atcoder) - Haskellで競技プログラミングに挑戦しながら学んだことが整理されている。
 
 ### 2023年
 
@@ -31,17 +31,17 @@ title: 1年をふりかえる
 
 ## 競プロ流行語大賞
 
-競技プログラミング界隈で流行った言い回し・語句に関する投票結果の一覧です。
+競技プログラミング界隈で流行った言い回し・語句の一覧です。
 
-### 2021年
+### 2025年
 
-- [競プロ流行語大賞2021](https://twitter.com/jupijupi111/status/1476845392075853825)
+- [競プロ界隈の新語・流行語2025](https://x.com/tomerun/status/2005476534078079167)
 
 ### 2020年
 
-- [競プロ流行語大賞2020](https://twitter.com/dem08656775/status/1344569069857488896)
-- [2019年と2020年の上位10位までの比較](https://twitter.com/0214sh7/status/1344604079943651331)
+- [競プロ流行語大賞2020](https://x.com/dem08656775/status/1344569069857488896)
+- [2019年と2020年の上位10位までの比較](https://x.com/0214sh7/status/1344604079943651331)
 
 ### 2019年
 
-- [競プロ流行語大賞2019](https://twitter.com/dem08656775/status/1211856180147941378)
+- [競プロ流行語大賞2019](https://x.com/dem08656775/status/1211856180147941378)
