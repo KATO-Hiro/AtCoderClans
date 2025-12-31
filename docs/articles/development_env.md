@@ -83,7 +83,7 @@ title: コードを書くための環境構築を行う
 
 [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install)を利用して、C++(GCC、g++)のコンパイル・実行環境を構築できます。また、[AtCoder Library(ACL)](https://atcoder.jp/posts/517)やテストツールの導入方法などもまとめられています。
 
-- [AtCoder の環境構築をしよう 2025冬](https://qiita.com/Joe75792433/items/d79c96741bb6a229b884) -
+- [AtCoder の環境構築をしよう 2025冬](https://qiita.com/Joe75792433/items/d79c96741bb6a229b884)
 - [【VScode + WSL / Windows】C++ 用の AtCoder 向け環境構築をしてみた。(WSL導入からGitによるソースコード管理まで)](https://yuulis.hatenablog.com/entry/atcoder-cpp-env-build)
 
 ### C&#35;

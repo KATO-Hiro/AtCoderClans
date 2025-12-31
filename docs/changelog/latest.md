@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2025-12-31
+
+- [#11457](https://github.com/KATO-Hiro/AtCoderClans/pull/11457) - (破壊的な変更) 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。また、掲載内容がやや古くなったと思われる記事を「[Archives](../../archived)」ページに移動。
+    - [AtCoder の環境構築をしよう 2025冬](https://qiita.com/Joe75792433/items/d79c96741bb6a229b884)
+- [#11456](https://github.com/KATO-Hiro/AtCoderClans/pull/11456) - 「[Articles, Blogs, Books and Videos](../../media)」の「[1年をふりかえる](../../articles/look_back_on_past)」ページに、以下のポストを追加。
+    - [競プロ界隈の新語・流行語2025](https://x.com/tomerun/status/2005476534078079167)
+
 ### 2025-12-30
 
 - [#11449](https://github.com/KATO-Hiro/AtCoderClans/pull/11449) - 「[Libraries and Snippets](../../libraries)」の「[AtCoder Library (ACL)の各言語への移植](../../libraries/porting_of_acl)」ページに、以下の記事を追加。
