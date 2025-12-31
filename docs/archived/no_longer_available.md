@@ -517,6 +517,12 @@ title: 開発・提供終了
 
         AtCoder Beginner Contest 266以降は、別の著者の解説ブログを参照されたい。
 
+
+### 1年をふりかえる
+
+- [競プロ流行語大賞2021](https://twitter.com/jupijupi111/status/1476845392075853825)
+    - 確認した日: 2025/12/31
+
 ### 部活・サークル・同好会に参加する
 
 - [ゼロから始める競プロ部 - 部長 次郎花](https://note.com/jirohhana2/n/n0c1233f14824) - 会社のプロジェクトメンバーと競プロ部を立ち上げた[jirohhana2](https://atcoder.jp/users/jirohhana2)さんが、コンテストの参加記を不定期に連載している。
