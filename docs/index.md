@@ -95,6 +95,14 @@
 
 === "記事"
 
+    2025-12-31
+
+    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
+        - [AtCoder の環境構築をしよう 2025冬](https://qiita.com/Joe75792433/items/d79c96741bb6a229b884)
+
+    - 「[1年をふりかえる](articles/look_back_on_past)」ページ
+        - [競プロ界隈の新語・流行語2025](https://x.com/tomerun/status/2005476534078079167)
+
     2025-12-27
 
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
@@ -202,11 +210,6 @@
     - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
         - [igeee](https://atcoder.jp/users/igeee)さん - [AtCoder黄色到達までにやったこと（復習と環境づくり）](https://qiita.com/igeeeeee/items/9ef3a96ae19d9c0fe7ba)
         - [nurupo0723](https://atcoder.jp/users/nurupo0723)さん - [AHC入黄までにやったこと](https://note.com/nurupo0723/n/n280fd26c74c9)
-
-    2025-12-16
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [river0525](https://atcoder.jp/users/river0525)さん - [才能ゼロの私が半年で水コーダーへなるためにやったこと](https://qiita.com/river0525/items/d9e53215a3bc5a84e0ab)
 
 === "国内外のコンテストサイト"
 
