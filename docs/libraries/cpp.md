@@ -6,6 +6,7 @@ title: C&#43;&#43;
 - [AokabiC/compro-lib](https://github.com/AokabiC/compro-lib) ![GitHub stars](https://img.shields.io/github/stars/AokabiC/compro-lib?style=plastic) - [AokabiC](https://atcoder.jp/users/AokabiC)さんのライブラリ。
 - [asi1024/competitive-library](https://github.com/asi1024/competitive-library) ![GitHub stars](https://img.shields.io/github/stars/asi1024/competitive-library?style=plastic) - [asi1024](https://atcoder.jp/users/asi1024)さんのライブラリ。C++14以降に対応。
 - [atcoder/live_library](https://github.com/atcoder/live_library) ![GitHub Repo stars](https://img.shields.io/github/stars/atcoder/live_library?style=plastic) - コンテスト後の解説放送で作成されたライブラリ集。
+- [ayuna-stpyko/Ayuna-Competitive-Programming-Library](https://github.com/ayuna-stpyko/Ayuna-Competitive-Programming-Library) ![GitHub stars](https://img.shields.io/github/stars/ayuna-stpyko/Ayuna-Competitive-Programming-Library?style=plastic) - [Ayuna](https://atcoder.jp/users/Ayuna)さんのライブラリ。
 - [beet-aizu/library](https://beet-aizu.github.io/library/) ![GitHub stars](https://img.shields.io/github/stars/beet-aizu/library?style=plastic) - [beet](https://atcoder.jp/users/beet)さんのライブラリ。
 - [CP-Algorithms](https://cp-algorithms.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/e-maxx-eng/e-maxx-eng?style=plastic) - E-Maxx Algorithmsの英訳版。
 - [drafear/competitive-library](https://github.com/drafear/competitive-library) ![GitHub stars](https://img.shields.io/github/stars/drafear/competitive-library?style=plastic) - [drafear](https://atcoder.jp/users/drafear)さんのライブラリ。
