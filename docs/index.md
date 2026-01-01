@@ -123,11 +123,6 @@
     - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
         - [【c++】二分探索より速いisqrtを実装する](https://trap.jp/post/2728/)
 
-    2025-12-17
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年12月16日時点)](https://x.com/atcoder/status/2000762830023532987)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -141,16 +136,6 @@
 
     - 「[アルゴリズム部門 - Rust](blogs/algorithm/rust)」ページ
         - [zeronosu77108](https://atcoder.jp/users/zeronosu77108)さん - [はてなブログ](https://zeronosu77108.hatenablog.com/)
-
-    2025-12-17
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [RinSakamichi](https://atcoder.jp/users/RinSakamichi)さん - [GitHub Pages](https://rinsakamichi.github.io/)
-        - [YuuuT](https://atcoder.jp/users/YuuuT)さん - [はてなブログ](https://yukun-py.hatenablog.com/)
-
-    - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
-        - [semiexp](https://atcoder.jp/users/semiexp)さん - [自作ブログ](https://semiexp.net/blog/index.html)
-        - [sakikuroe](https://atcoder.jp/users/sakikuroe)さん - [Qiita](https://qiita.com/SakiKuroe)
 
 === "書籍"
 
@@ -175,6 +160,11 @@
         - [まぬお](https://www.youtube.com/@manuoooooo/videos)
 
 === "ライブラリ・スニペット"
+
+    2026-01-01
+
+    - 「[C++](libraries/cpp)」ページ
+        - [ayuna-stpyko/Ayuna-Competitive-Programming-Library](https://github.com/ayuna-stpyko/Ayuna-Competitive-Programming-Library) ![GitHub stars](https://img.shields.io/github/stars/ayuna-stpyko/Ayuna-Competitive-Programming-Library?style=plastic)
 
     2025-12-30
 
@@ -204,12 +194,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [manuo](https://atcoder.jp/users/manuo)さん - [大学数学未履修が青色になった方法](https://qiita.com/manuo/items/239fe9528fbb9f86c14f)
-
-    2025-12-17
-
-    - 「[レーティング2000〜2399(黄色)](milestones/yellow)」ページ
-        - [igeee](https://atcoder.jp/users/igeee)さん - [AtCoder黄色到達までにやったこと（復習と環境づくり）](https://qiita.com/igeeeeee/items/9ef3a96ae19d9c0fe7ba)
-        - [nurupo0723](https://atcoder.jp/users/nurupo0723)さん - [AHC入黄までにやったこと](https://note.com/nurupo0723/n/n280fd26c74c9)
 
 === "国内外のコンテストサイト"
 

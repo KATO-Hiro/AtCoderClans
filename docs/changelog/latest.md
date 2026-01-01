@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-01-01
+
+- [#11463](https://github.com/KATO-Hiro/AtCoderClans/pull/11462) - (破壊的な変更) 「「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。また、更新が停止している可能性が高いと思われるライブラリを「[Archives](../../archived)」ページに移動。
+    - [ayuna-stpyko/Ayuna-Competitive-Programming-Library](https://github.com/ayuna-stpyko/Ayuna-Competitive-Programming-Library) ![GitHub stars](https://img.shields.io/github/stars/ayuna-stpyko/Ayuna-Competitive-Programming-Library?style=plastic)
+
 ### 2025-12-31
 
 - [#11457](https://github.com/KATO-Hiro/AtCoderClans/pull/11457) - (破壊的な変更) 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。また、掲載内容がやや古くなったと思われる記事を「[Archives](../../archived)」ページに移動。
