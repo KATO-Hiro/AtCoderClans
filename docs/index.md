@@ -176,6 +176,11 @@
 
 === "ライブラリ・スニペット"
 
+    2026-01-01
+
+    - 「[C++](libraries/cpp)」ページ
+        - [ayuna-stpyko/Ayuna-Competitive-Programming-Library](https://github.com/ayuna-stpyko/Ayuna-Competitive-Programming-Library) ![GitHub stars](https://img.shields.io/github/stars/ayuna-stpyko/Ayuna-Competitive-Programming-Library?style=plastic)
+
     2025-12-30
 
     - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
