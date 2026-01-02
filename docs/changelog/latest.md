@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-01-02
+
+- [#11465](https://github.com/KATO-Hiro/AtCoderClans/pull/11465) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [朝湯ゆげ / Asayu Yuge](https://www.youtube.com/playlist?list=PL097otJToEr_ZFMDmj3GdrEAJSUB1JGyR)
+
 ### 2026-01-01
 
 - [#11463](https://github.com/KATO-Hiro/AtCoderClans/pull/11462) - (破壊的な変更) 「「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。また、更新が停止している可能性が高いと思われるライブラリを「[Archives](../../archived)」ページに移動。
