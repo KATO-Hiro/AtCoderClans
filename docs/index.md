@@ -146,6 +146,11 @@
 
 === "動画"
 
+    2026-01-02
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [朝湯ゆげ / Asayu Yuge](https://www.youtube.com/playlist?list=PL097otJToEr_ZFMDmj3GdrEAJSUB1JGyR)
+
     2025-12-25
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
@@ -189,11 +194,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [katsumata68](https://atcoder.jp/users/katsumata68)さん - [AtCoder 入青！！！！！までの振り返り](https://qiita.com/K__2/items/933d9d9dc458588e6b8c)
-
-    2025-12-18
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [manuo](https://atcoder.jp/users/manuo)さん - [大学数学未履修が青色になった方法](https://qiita.com/manuo/items/239fe9528fbb9f86c14f)
 
 === "国内外のコンテストサイト"
 
