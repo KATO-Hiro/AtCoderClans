@@ -40,6 +40,7 @@ title: チャンネル
 - [tatyam](https://www.youtube.com/channel/UC3MXq-nGMDQENm5ihfQeIkg/featured) - レッドコーダーの[tatyam](https://atcoder.jp/users/tatyam)さんのチャンネル。コンテストの過去問を解く動画が公開されている。
 - [Tozan Southerpacks Redcoder レッドコーダー](https://www.youtube.com/channel/UCwsapfci2p1oDVO4Q2sJOQw) - レッドコーダーの[tozangezan](https://atcoder.jp/users/tozangezan)さんのチャンネル。アルゴリズムやコンテスト後の解説が英語で行われている。
 - [Yoshitaka Tomiyama](https://www.youtube.com/channel/UC10LLTlikPURslw2Wqj8vJA/featured) - [Johann](https://atcoder.jp/users/Johann)さんのチャンネル。アルゴリズムやコンテストの過去問を題材とした勉強会の動画が公開されている。
+- [朝湯ゆげ / Asayu Yuge](https://www.youtube.com/playlist?list=PL097otJToEr_ZFMDmj3GdrEAJSUB1JGyR) - [yuge42](https://atcoder.jp/users/yuge42)さんのチャンネル。コンテストの過去問を解く動画が公開されている。
 - [岩井星人](https://www.youtube.com/channel/UCqlJwj9fWlVi26KeSb_e-og/videos) - [yiwiy9](https://atcoder.jp/users/yiwiy9)さんのチャンネル。コンテストの実況動画が公開されている。
 - [かつっぱ競プロ](https://www.youtube.com/channel/UCqqeYOh1gk_TJ16sxazWhUg) - [AtCoder](https://atcoder.jp/)でレッドコーダーの[catupper](https://atcoder.jp/users/catupper)さんのチャンネル。コンテストの実況動画が公開されている。
 - [こたつがめ](https://www.youtube.com/channel/UCL8EOznhSyreT9O0-KFxgZQ/videos) - [kotatsugame](https://atcoder.jp/users/kotatsugame)さんのチャンネル。コードゴルフに関する動画が多く公開されている。
