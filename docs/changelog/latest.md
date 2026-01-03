@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-01-03
+
+- [#11473](https://github.com/KATO-Hiro/AtCoderClans/pull/11473) - 「[Scripts](../../scripts)」の「[ライバルを探す・競う](../../chrome_extensions/rivals)」ページに、以下のChrome拡張機能を追加。
+    - [精進ポスト](https://github.com/hamao0820/shojin-post)
+- [#11470](https://github.com/KATO-Hiro/AtCoderClans/pull/11470) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下の動画を追加。
+    - [競技プログラミングYouTuberまとめ。岩井星人・赤色コーダーあり。](https://www.youtube.com/watch?v=PrD-JlxhgGg)
+
 ### 2026-01-02
 
 - [#11465](https://github.com/KATO-Hiro/AtCoderClans/pull/11465) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。

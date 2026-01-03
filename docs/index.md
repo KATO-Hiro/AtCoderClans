@@ -93,6 +93,17 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "Chrome拡張機能"
+
+    2026-01-03
+
+    - 「[ライバルを探す・競う](chrome_extensions/rivals)」ページ
+        - [精進ポスト](https://github.com/hamao0820/shojin-post)
+
+    <div align="center">
+      <img loading="lazy" src="images/chrome_extension/shojin_post.png" alt="shojin post">
+    </div>
+
 === "記事"
 
     2025-12-31
@@ -145,6 +156,11 @@
         - [Haskellで戦う競技プログラミング 第2版](https://booth.pm/ja/items/1577541)
 
 === "動画"
+
+    2026-01-03
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [競技プログラミングYouTuberまとめ。岩井星人・赤色コーダーあり。](https://www.youtube.com/watch?v=PrD-JlxhgGg)
 
     2026-01-02
 
