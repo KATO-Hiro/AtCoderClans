@@ -149,6 +149,7 @@ nav:
           - chrome_extensions/review.md
           - chrome_extensions/view_scores.md
           - chrome_extensions/improve_ui.md
+          - chrome_extensions/rivals.md
       - Firefoxの拡張機能:
           - firefox_extensions/review.md
   - Articles, Blogs, Books and Videos:
