@@ -10,6 +10,10 @@ title: チャンネル
     - あーだこーだー: 運営チームによる最新情報の生放送
     - [AtCoderPV](https://www.youtube.com/watch?v=TbZhKTMPJeI) - 同チャンネルの公式プロモーションビデオ。特に、競技プログラミングを始めようと思っている人や周囲に布教したい人におすすめ。
 
+## 配信者まとめ
+
+- [競技プログラミングYouTuberまとめ。岩井星人・赤色コーダーあり。](https://www.youtube.com/watch?v=PrD-JlxhgGg) - 競技プログラミングの代表的な配信者をレーティング帯ごとに紹介している。
+
 ## AITuber
 
 - [AITuberちえり](https://www.youtube.com/@AITuber-qe8vw/videos) - [chierin2](https://atcoder.jp/users/chierin2)さんのチャンネル。ヒューリスティック型のコンテストを振り返った動画が公開されている。
