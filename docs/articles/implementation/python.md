@@ -125,6 +125,10 @@ title: Python
 
 - [ダイクストラの枝刈り高速化まとめ【python実装】](https://qiita.com/ansain/items/8a2762446cdf2eb47759) - ダイクストラ法の実装において、枝刈りによる定数倍高速化の方法がまとめられている記事。
 
+## 小ネタ集
+
+- [【競プロ】Python宴会芸](https://qiita.com/navel_tos/items/58b734111f121bbd29f0) - 言語固有の機能を活用して、定数倍高速化や簡潔なコードを書くための方法が紹介されている。
+
 ## 別の言語を利用して高速化
 
 - [Python 高速化選手権](https://qiita.com/n4mlz/items/fbadc02b7864f62b9622) - Ackermann 関数をベンチマークとして、複数の処理系・コンパイラの速度を比較している。
