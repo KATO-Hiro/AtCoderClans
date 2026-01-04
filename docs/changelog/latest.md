@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-01-04
+
+- [#11478](https://github.com/KATO-Hiro/AtCoderClans/pull/11478) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Python](../../articles/implementation/python)」ページに、以下の記事を追加。
+    - [【競プロ】Python宴会芸](https://qiita.com/navel_tos/items/58b734111f121bbd29f0)
+
 ### 2026-01-03
 
 - [#11473](https://github.com/KATO-Hiro/AtCoderClans/pull/11473) - 「[Scripts](../../scripts)」の「[ライバルを探す・競う](../../chrome_extensions/rivals)」ページに、以下のChrome拡張機能を追加。
