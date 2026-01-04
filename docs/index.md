@@ -106,6 +106,11 @@
 
 === "記事"
 
+    2026-01-04
+
+    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
+        - [【競プロ】Python宴会芸](https://qiita.com/navel_tos/items/58b734111f121bbd29f0)
+
     2025-12-31
 
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
@@ -128,11 +133,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年12月22日時点)](https://x.com/atcoder/status/2002913872026710118)
-
-    2025-12-20
-
-    - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
-        - [【c++】二分探索より速いisqrtを実装する](https://trap.jp/post/2728/)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -174,11 +174,6 @@
 
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [図解で学ぶ競技プログラミング](https://www.youtube.com/@zukapro_algorithms/videos)
-
-    2025-12-19
-
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [まぬお](https://www.youtube.com/@manuoooooo/videos)
 
 === "ライブラリ・スニペット"
 
