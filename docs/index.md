@@ -106,6 +106,11 @@
 
 === "記事"
 
+    2026-01-05
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年1月5日時点)](https://x.com/atcoder/status/2008001489781039490)
+
     2026-01-04
 
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
@@ -205,17 +210,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [katsumata68](https://atcoder.jp/users/katsumata68)さん - [AtCoder 入青！！！！！までの振り返り](https://qiita.com/K__2/items/933d9d9dc458588e6b8c)
-
-=== "国内外のコンテストサイト"
-
-    2025-12-21
-
-    - 「[Codeforces](related_contest_sites/codeforces)」ページ
-        - [Codeforces Better!](https://greasyfork.org/ja/scripts/465777-codeforces-better)
-
-    <div align="center">
-      <img loading="lazy" src="images/related_contest_sites/codeforces/codeforces_better.png" alt="codeforces better">
-    </div>
 
 ## AtCoder公式グッズを購入する
 
