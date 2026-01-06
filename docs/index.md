@@ -153,13 +153,6 @@
     - 「[アルゴリズム部門 - Rust](blogs/algorithm/rust)」ページ
         - [zeronosu77108](https://atcoder.jp/users/zeronosu77108)さん - [はてなブログ](https://zeronosu77108.hatenablog.com/)
 
-=== "書籍"
-
-    2025-12-22
-
-    - 「[書籍](books)」ページ
-        - [Haskellで戦う競技プログラミング 第2版](https://booth.pm/ja/items/1577541)
-
 === "動画"
 
     2026-01-03
@@ -192,14 +185,14 @@
     - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
         - [遅延セグ木のチートシート（Python）](https://qiita.com/manuo/items/791468676326dd99aa2c)
 
-    2025-12-22
-
-    - 「[Others](libraries/others)」ページ
-        - [toyboot4e/toy-lib](https://github.com/toyboot4e/toy-lib) ![GitHub stars](https://img.shields.io/github/stars/toyboot4e/toy-lib?style=plastic)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-01-06
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [otomo6sm](https://atcoder.jp/users/otomo6sm)さん - [【色変】入緑までにやったこと](https://qiita.com/otomo6sm/items/b47953938e0fa74b48bf)
 
     2025-12-28
 
