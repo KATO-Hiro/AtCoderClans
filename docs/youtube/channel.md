@@ -36,7 +36,9 @@ title: チャンネル
 - [Ang](https://www.youtube.com/@ang-1630/streams) - [Ang107](https://atcoder.jp/users/Ang107)さんのチャンネル。コンテストの実況動画が公開されている。
 - [Gennady Korotkevich](https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw) - 世界最強の競技プログラマーである[tourist](https://atcoder.jp/users/tourist)さんのチャンネル。
 - [heno 239](https://www.youtube.com/channel/UCmYTD76ZGm8hcrzaI7xJLAg) - レッドコーダー（競技プログラマーとして世界最高峰の実力の持ち主であることを示す）の[heno239](https://atcoder.jp/users/heno239)さんのチャンネル。過去問の早解き、2人で1行ずつ交互にコーディングしてACを目指す動画などが公開されている。
+- [PCT](https://www.youtube.com/@PCTprobability/videos) - レッドコーダーの[PCTprobability](https://atcoder.jp/users/PCTprobability)さんのチャンネル。コンテスト当日の実況動画が公開されている。
 - [simasima | 数学実況](https://www.youtube.com/@simasima2479) - レッドコーダーの[simasima](https://atcoder.jp/users/simasima)さんのチャンネル。コンテスト当日の実況動画が公開されている。
+- [TKTYI](https://www.youtube.com/@TKT_YI/videos) - レッドコーダーの[TKTYI](https://atcoder.jp/users/TKTYI)さんのチャンネル。各種コンテスト当日の実況動画が公開されている。
 - [tatyam](https://www.youtube.com/channel/UC3MXq-nGMDQENm5ihfQeIkg/featured) - レッドコーダーの[tatyam](https://atcoder.jp/users/tatyam)さんのチャンネル。コンテストの過去問を解く動画が公開されている。
 - [岩井星人](https://www.youtube.com/channel/UCqlJwj9fWlVi26KeSb_e-og/videos) - [yiwiy9](https://atcoder.jp/users/yiwiy9)さんのチャンネル。コンテストの実況動画が公開されている。
 - [かつっぱ競プロ](https://www.youtube.com/channel/UCqqeYOh1gk_TJ16sxazWhUg) - [AtCoder](https://atcoder.jp/)でレッドコーダーの[catupper](https://atcoder.jp/users/catupper)さんのチャンネル。コンテストの実況動画が公開されている。
