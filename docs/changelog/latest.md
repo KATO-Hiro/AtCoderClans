@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-01-07
+
+- [#11490](https://github.com/KATO-Hiro/AtCoderClans/pull/11490) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [PCT](https://www.youtube.com/@PCTprobability/videos)
+    - [TKTYI](https://www.youtube.com/@TKT_YI/videos)
+
 ### 2026-01-06
 
 - [#11486](https://github.com/KATO-Hiro/AtCoderClans/pull/11486) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
