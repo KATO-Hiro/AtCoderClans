@@ -134,11 +134,6 @@
     - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
         - [AtCoderで役立つJavaScriptテンプレ集](https://qiita.com/nolanlover0527/items/6f87f315cc15b3f8ed74)
 
-    2025-12-23
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Winter - 学校ランキング (2025年12月22日時点)](https://x.com/atcoder/status/2002913872026710118)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -154,6 +149,12 @@
         - [zeronosu77108](https://atcoder.jp/users/zeronosu77108)さん - [はてなブログ](https://zeronosu77108.hatenablog.com/)
 
 === "動画"
+
+    2026-01-07
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [PCT](https://www.youtube.com/@PCTprobability/videos)
+        - [TKTYI](https://www.youtube.com/@TKT_YI/videos)
 
     2026-01-03
 
