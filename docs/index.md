@@ -200,11 +200,6 @@
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [simidai](https://atcoder.jp/users/simidai)さん - [【色変記事】入緑しました！](https://qiita.com/shimidai/items/1f68e577f4ffec53b3e7)
 
-    2025-12-24
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [katsumata68](https://atcoder.jp/users/katsumata68)さん - [AtCoder 入青！！！！！までの振り返り](https://qiita.com/K__2/items/933d9d9dc458588e6b8c)
-
 ## AtCoder公式グッズを購入する
 
 - [SUZURI](https://suzuri.jp/AtCoder) - [AtCoder](https://atcoder.jp/)のロゴ入りグッズが購入できる。
