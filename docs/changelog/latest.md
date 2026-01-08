@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-01-08
+
+- [#11493](https://github.com/KATO-Hiro/AtCoderClans/pull/11493) - (破壊的な変更) 「[Change Log](../latest)」ページの2025年11月分を月別のアーカイブに移動。
+    - [November, 2025](../2025_11)
+
 ### 2026-01-07
 
 - [#11490](https://github.com/KATO-Hiro/AtCoderClans/pull/11490) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
