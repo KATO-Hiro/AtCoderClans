@@ -166,14 +166,6 @@
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [朝湯ゆげ / Asayu Yuge](https://www.youtube.com/playlist?list=PL097otJToEr_ZFMDmj3GdrEAJSUB1JGyR)
 
-    2025-12-25
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [【競プロ】青色コーダーあるある【競技プログラミング】](https://www.youtube.com/watch?v=J82t0YMVD38)
-
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [図解で学ぶ競技プログラミング](https://www.youtube.com/@zukapro_algorithms/videos)
-
 === "ライブラリ・スニペット"
 
     2026-01-01
@@ -199,6 +191,13 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [simidai](https://atcoder.jp/users/simidai)さん - [【色変記事】入緑しました！](https://qiita.com/shimidai/items/1f68e577f4ffec53b3e7)
+
+=== "国内外のコンテストサイト"
+
+    2026-01-09
+
+    - 「[情報オリンピック](related_contest_sites/joi_ioi)」ページ
+        - [JOIの2次予選に通ろう](https://qiita.com/Yoyoyo8128/items/14eedc62eef38a14c273)
 
 ## AtCoder公式グッズを購入する
 

@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-01-09
+
+- [#11496](https://github.com/KATO-Hiro/AtCoderClans/pull/11496) - 「[Related Contest Sites](../../related_contest_sites)」の「[情報オリンピック](../../related_contest_sites/joi_ioi)」ページに、以下の記事を追加。
+    - [JOIの2次予選に通ろう](https://qiita.com/Yoyoyo8128/items/14eedc62eef38a14c273)
+
 ### 2026-01-08
 
 - [#11493](https://github.com/KATO-Hiro/AtCoderClans/pull/11493) - (破壊的な変更) 「[Change Log](../latest)」ページの2025年11月分を月別のアーカイブに移動。
