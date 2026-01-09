@@ -52,6 +52,7 @@ title: 情報オリンピック
 #### 参加記を読む
 
 - [JOI春合宿2020 参加記](https://drive.google.com/file/d/1iW2sTAz9VyhzWbO0ByVHiha0jG0aIJ7H/view) - [E869120](https://atcoder.jp/users/E869120)さんによる2020年日本情報オリンピック春季トレーニング合宿の参加記。情報オリンピック日本代表の選考までの練習過程と選考会での立ち回りについて詳細に書かれている。
+- [JOIの2次予選に通ろう](https://qiita.com/Yoyoyo8128/items/14eedc62eef38a14c273) - 日本情報オリンピック2025/2026の変更点と、二次予選を通過するための練習方法・立ち回り方が紹介されている。
 
 #### 勉強会の案内
 
