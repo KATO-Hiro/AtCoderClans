@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-01-10
+
+- [#11499](https://github.com/KATO-Hiro/AtCoderClans/pull/11499) - 「[Scripts](../../scripts)」の「[ライバルを探す・競う](../../user_scripts/rivals)」ページに、以下のユーザスクリプトを追加。
+    - [All Anonymizer](https://greasyfork.org/ja/scripts/518064-all-anonymizer)
+
 ### 2026-01-09
 
 - [#11496](https://github.com/KATO-Hiro/AtCoderClans/pull/11496) - 「[Related Contest Sites](../../related_contest_sites)」の「[情報オリンピック](../../related_contest_sites/joi_ioi)」ページに、以下の記事を追加。
