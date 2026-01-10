@@ -112,6 +112,8 @@ title: ライバルを探す・競う
 
 ### AtCoder IDを非表示に
 
+- [All Anonymizer](https://greasyfork.org/ja/scripts/518064-all-anonymizer) - ユーザIDやアイコンを非表示にする。
+
 - [AtCoder Anonymizer](https://greasyfork.org/ja/scripts/413425-atcoder-anonymizer) - 自分のIDを「Anonymous」で置き換える。
 
     !!! warning "注意"
