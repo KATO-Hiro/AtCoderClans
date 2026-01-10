@@ -93,6 +93,13 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "ユーザスクリプト"
+
+    2026-01-10
+
+    - 「[ライバルを探す・競う](user_scripts/rivals)」ページ
+        - [All Anonymizer](https://greasyfork.org/ja/scripts/518064-all-anonymizer)
+
 === "Chrome拡張機能"
 
     2026-01-03
@@ -128,11 +135,6 @@
 
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
         - [【Python】BFS、DFS、ダイクストラ法、01BFSを最小変更で書き分ける方法【競プロ】](https://qiita.com/manuo/items/e5ed45aae401ccc41afd)
-
-    2025-12-26
-
-    - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
-        - [AtCoderで役立つJavaScriptテンプレ集](https://qiita.com/nolanlover0527/items/6f87f315cc15b3f8ed74)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
