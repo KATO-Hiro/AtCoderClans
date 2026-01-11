@@ -131,13 +131,13 @@
     - 「[1年をふりかえる](articles/look_back_on_past)」ページ
         - [競プロ界隈の新語・流行語2025](https://x.com/tomerun/status/2005476534078079167)
 
-    2025-12-27
-
-    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
-        - [【Python】BFS、DFS、ダイクストラ法、01BFSを最小変更で書き分ける方法【競プロ】](https://qiita.com/manuo/items/e5ed45aae401ccc41afd)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2026-01-11
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [ponjuice](https://atcoder.jp/users/ponjuice)さん - [note](https://note.com/ponjuice0)
 
     2025-12-29
 
