@@ -49,6 +49,7 @@ title: C&#43;&#43;
 |olphe|[はてなブログ](https://olphe.hatenablog.com/)||
 |peroon|[はてなブログ](https://perogram.hateblo.jp/)||
 |physics0523|[はてなブログ](https://physics0523.hatenablog.com/)||
+|ponjuice|[note](https://note.com/ponjuice0)||
 |RinSakamichi|[GitHub Pages](https://rinsakamichi.github.io/)||
 |risujiroh|[はてなブログ](https://risujiroh.hatenablog.com/)||
 |shibh308|[はてなブログ](https://shibh308.hatenablog.com/)||
@@ -89,7 +90,6 @@ title: C&#43;&#43;
 |Omotchi|[はてなブログ](https://omotchi.hateblo.jp/)||
 |phyllo|[GitHub Pages](https://jetbead.github.io/AtCoderHeuristicContestMemo/)||
 |platinum|[はてなブログ](https://platinum-prog.hatenablog.com/)||
-|ponjuice|[note](https://note.com/ponjuice0)||
 |qLethon|[はてなブログ](https://qlethon.hatenablog.com/)||
 |riano_|[はてなブログ](https://seashellpink-frostywhite.hatenablog.com/)||
 |riantkb|[はてなブログ](https://rian.hatenablog.jp/)||
