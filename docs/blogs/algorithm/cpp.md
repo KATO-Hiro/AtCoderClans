@@ -62,6 +62,7 @@ title: C&#43;&#43;
 |abc050|[はてなブログ](https://htnglsh.hatenablog.com/)||
 |amentorimaru|[はてなブログ](https://amentorimaru.hatenablog.com)||
 |amylase|[はてなブログ](https://pepsin-amylase.hatenablog.com/)||
+|a1048576|[Qiita](https://qiita.com/a1048576/)||
 |dohatsutsu|[はてなブログ](https://dohatsutsu.hatenablog.com/)|2017年11月以降、新規の記事を確認できず。|
 |dokin|[はてなブログ](https://dokinac.hatenablog.com/)||
 |drken|[はてなブログ](https://drken1215.hatenablog.com/)、 [Qiita](https://qiita.com/drken)|[問題解決力を鍛える!アルゴリズムとデータ構造](https://www.amazon.co.jp/dp/4065128447/)の著者。[アルゴ式](https://algo-method.com/)の元運営者。|
@@ -122,7 +123,6 @@ title: C&#43;&#43;
 |aajisaka|[はてなブログ](https://aajisaka.hatenablog.com/)||
 |AngrySadEight|[はてなブログ](https://angrysadeight.hatenablog.com/)||
 |askr_58|[はてなブログ](https://askr-58.hatenablog.com/)||
-|a1048576|[Qiita](https://qiita.com/a1048576/)||
 |binap|[Qiita](https://qiita.com/binap/)||
 |blueberry1001|[Qiita](https://qiita.com/bluebery1001)||
 |Chanyuh|[はてなブログ](https://p-chanyuh.hatenablog.com/)||
