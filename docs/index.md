@@ -134,6 +134,11 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2026-01-12
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [a1048576](https://atcoder.jp/users/a1048576)さん - [Qiita](https://qiita.com/a1048576/)
+
     2026-01-11
 
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
@@ -188,11 +193,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [otomo6sm](https://atcoder.jp/users/otomo6sm)さん - [【色変】入緑までにやったこと](https://qiita.com/otomo6sm/items/b47953938e0fa74b48bf)
-
-    2025-12-28
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [simidai](https://atcoder.jp/users/simidai)さん - [【色変記事】入緑しました！](https://qiita.com/shimidai/items/1f68e577f4ffec53b3e7)
 
 === "国内外のコンテストサイト"
 
