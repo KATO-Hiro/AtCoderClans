@@ -113,6 +113,11 @@
 
 === "記事"
 
+    2026-01-13
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年1月13日時点)](https://x.com/atcoder/status/2010935052008607921)
+
     2026-01-05
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -143,17 +148,6 @@
 
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
         - [ponjuice](https://atcoder.jp/users/ponjuice)さん - [note](https://note.com/ponjuice0)
-
-    2025-12-29
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [kaichou243](https://atcoder.jp/users/kaichou243)さん - [はてなブログ](https://kaichou243.hatenablog.com/)
-
-    - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
-        - [harurun4635](https://atcoder.jp/users/harurun4635)さん - [はてなブログ](https://harurun4635.hatenablog.com/)
-
-    - 「[アルゴリズム部門 - Rust](blogs/algorithm/rust)」ページ
-        - [zeronosu77108](https://atcoder.jp/users/zeronosu77108)さん - [はてなブログ](https://zeronosu77108.hatenablog.com/)
 
 === "動画"
 
