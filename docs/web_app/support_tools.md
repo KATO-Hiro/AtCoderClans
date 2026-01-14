@@ -81,6 +81,14 @@ title: 問題を解くときの補助ツール
       <img loading="lazy" src="../../images/web_app/generic_grid_editor.png" alt="generic grid editor">
     </div>
 
+## 二次元平面上の点を図示
+
+- [2DPlot Visualizer](https://hibit-at.github.io/2D_plot_visualizer/) - 二次元平面上の点群を図示できる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/2d_plot_visualizer.png" alt="2d plot visualizer">
+    </div>
+
 ## 有理数 mod から復元
 
 - [Reverse Mod](https://e6nlaq.vercel.app/mod) - 剰余演算で変換された有理数を元の分数形式に戻せる。
