@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-01-14
+
+[@hibit_at](https://x.com/hibit_at/)さんのご紹介で、書籍とWebサービスを追加。
+
+- [#11517](https://github.com/KATO-Hiro/AtCoderClans/pull/11517) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに、以下の書籍を追加。
+    - [Revenger～受験で失敗した天才は、競プロで見返すことができるのか？～](https://kakuyomu.jp/works/822139841242329884)
+- [#11516](https://github.com/KATO-Hiro/AtCoderClans/pull/11516) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページに、以下のWebサービスを追加。
+    - [2DPlot Visualizer](https://hibit-at.github.io/2D_plot_visualizer/)
+
 ### 2026-01-13
 
 - [#11514](https://github.com/KATO-Hiro/AtCoderClans/pull/11514) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
