@@ -93,6 +93,17 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "Webアプリ・Webサイト"
+
+    2026-01-14
+
+    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
+        - [2DPlot Visualizer](https://hibit-at.github.io/2D_plot_visualizer/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/2d_plot_visualizer.png" alt="2d plot visualizer">
+    </div>
+
 === "ユーザスクリプト"
 
     2026-01-10
@@ -149,6 +160,13 @@
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
         - [ponjuice](https://atcoder.jp/users/ponjuice)さん - [note](https://note.com/ponjuice0)
 
+=== "書籍"
+
+    2026-01-14
+
+    - 「[書籍](books)」ページ
+        - [Revenger～受験で失敗した天才は、競プロで見返すことができるのか？～](https://kakuyomu.jp/works/822139841242329884)
+
 === "動画"
 
     2026-01-07
@@ -173,11 +191,6 @@
 
     - 「[C++](libraries/cpp)」ページ
         - [ayuna-stpyko/Ayuna-Competitive-Programming-Library](https://github.com/ayuna-stpyko/Ayuna-Competitive-Programming-Library) ![GitHub stars](https://img.shields.io/github/stars/ayuna-stpyko/Ayuna-Competitive-Programming-Library?style=plastic)
-
-    2025-12-30
-
-    - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
-        - [遅延セグ木のチートシート（Python）](https://qiita.com/manuo/items/791468676326dd99aa2c)
 
 === "色変記事"
 
