@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-01-15
+
+- [#11523](https://github.com/KATO-Hiro/AtCoderClans/pull/11523) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[TrueRyoB](https://atcoder.jp/users/TrueRyoB)さんの[記事](https://qiita.com/TrueRyoB/items/7f521509210b8342a7dd)を追加。
+
 ### 2026-01-14
 
 [@hibit_at](https://x.com/hibit_at/)さんのご紹介で、書籍とWebサービスを追加。

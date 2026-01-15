@@ -139,14 +139,6 @@
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
         - [【競プロ】Python宴会芸](https://qiita.com/navel_tos/items/58b734111f121bbd29f0)
 
-    2025-12-31
-
-    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
-        - [AtCoder の環境構築をしよう 2025冬](https://qiita.com/Joe75792433/items/d79c96741bb6a229b884)
-
-    - 「[1年をふりかえる](articles/look_back_on_past)」ページ
-        - [競プロ界隈の新語・流行語2025](https://x.com/tomerun/status/2005476534078079167)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -195,6 +187,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-01-15
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [TrueRyoB](https://atcoder.jp/users/TrueRyoB)さん - [入緑しました！](https://qiita.com/TrueRyoB/items/7f521509210b8342a7dd)
 
     2026-01-06
 
