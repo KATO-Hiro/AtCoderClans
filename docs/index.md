@@ -177,16 +177,14 @@
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [朝湯ゆげ / Asayu Yuge](https://www.youtube.com/playlist?list=PL097otJToEr_ZFMDmj3GdrEAJSUB1JGyR)
 
-=== "ライブラリ・スニペット"
-
-    2026-01-01
-
-    - 「[C++](libraries/cpp)」ページ
-        - [ayuna-stpyko/Ayuna-Competitive-Programming-Library](https://github.com/ayuna-stpyko/Ayuna-Competitive-Programming-Library) ![GitHub stars](https://img.shields.io/github/stars/ayuna-stpyko/Ayuna-Competitive-Programming-Library?style=plastic)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-01-16
+
+    - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
+        - [highlighter](https://atcoder.jp/users/highlighter)さん - [AtCoderで入黄しました](https://qiita.com/highlighter_math/items/21d6acc05db46bf5cf60)
 
     2026-01-15
 
@@ -204,6 +202,14 @@
 
     - 「[情報オリンピック](related_contest_sites/joi_ioi)」ページ
         - [JOIの2次予選に通ろう](https://qiita.com/Yoyoyo8128/items/14eedc62eef38a14c273)
+
+=== "アーカイブス"
+
+    諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2026-01-16
+
+    - OI Checklist
 
 ## AtCoder公式グッズを購入する
 
