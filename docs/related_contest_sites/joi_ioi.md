@@ -78,16 +78,6 @@ title: 情報オリンピック
       <img loading = "lazy" src="../../images/related_contest_sites/joi/oj_uz.png" alt="oj uz">
     </div>
 
-- [OI Checklist](https://oichecklist.pythonanywhere.com/) - [oj.uz](https://oj.uz/)の回答状況を把握するためのWebサイト。
-
-    !!! warning "注意"
-
-        回答状況の更新は自動で行われず、利用者が手動で行う必要がある。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/related_contest_sites/joi/oi_checklist.png" alt="oj uz">
-    </div>
-
 #### アルゴリズムに関する資料を読む
 
 - [OI Public Library](https://github.com/enkerewpo/OI-Public-Library) - アルゴリズムに関する資料集。中国語と英語で提供されている。

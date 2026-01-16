@@ -540,6 +540,16 @@ title: リンク切れ
 
 ### 情報オリンピック
 
+- [OI Checklist](https://oichecklist.pythonanywhere.com/) - [oj.uz](https://oj.uz/)の回答状況を把握するためのWebサイト。
+
+    !!! warning "注意"
+
+        回答状況の更新は自動で行われず、利用者が手動で行う必要がある。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/joi/oi_checklist.png" alt="oj uz">
+    </div>
+
 - [夏季セミナーで効率の良いアルゴリズムを一緒に学ぼう！（中高生対象：8/17～8/20の4日間, 設定：初級, 中級, 上級コース）](https://jcioi-summer-seminar-2023.peatix.com/) - 情報科学に興味のある中高生・高専生を対象として、オンラインの勉強会の参加者を募集している記事。
 
     !!! warning "注意"
