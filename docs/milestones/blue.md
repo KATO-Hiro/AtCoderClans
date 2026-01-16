@@ -27,7 +27,7 @@ title: レーティング1600〜1999(青色)
 - [青色になった！](https://warp-asteroid-8f6.notion.site/97f48f73432e4bb0b453178264c219f7) - [n0ma_ru](https://atcoder.jp/users/n0ma_ru)さんが、2024年8月10日に達成。
 - [AtCoderで入青しました！ - yukimyの日記](https://negiyukino.hatenablog.com/entry/2024/06/03/195516) - [yukimy](https://atcoder.jp/users/yukimy)さんが、2024年6月2日に達成。
 - [AtCoderで青色になって落ち着いたから書いた記事](https://qiita.com/viral_8/items/6ce0fbc58dbe55f8e7ae) - [viral](https://atcoder.jp/users/viral)さんが、2024年4月11日に公開。
-- [AtCoderで入青しました！！](https://qiita.com/highlighter_math/items/4e28ac3aa3d7b592d514) - [highlighter_math](https://atcoder.jp/users/highlighter_math)さんが、2024年2月10日に達成。
+- [AtCoderで入青しました！！](https://qiita.com/highlighter_math/items/4e28ac3aa3d7b592d514) - [highlighter](https://atcoder.jp/users/highlighter)さんが、2024年2月10日に達成。
 - [AtCoderで入青したので記事を書く](https://qiita.com/hiroyuk1/items/5a75448e826bb08a17e4) - [hiroyuk1](https://atcoder.jp/users/hiroyuk1)さんが、2024年2月10日に達成。
 - [AtCoder 入青しました！(+ユリ漫画のおすすめ)](https://riyuna.hatenablog.com/entry/2024/02/07/003642) - [Eunha](https://atcoder.jp/users/Eunha)さんが、2024年2月4日に達成。
 - [凡人が約5年かけて青コーダーになった話 - 西懸のメモ帳](https://blog.nishigake.net/posts/irohen_blue/) - [nishigake](https://atcoder.jp/users/nishigake)さんが、2024年1月6日に達成。

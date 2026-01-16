@@ -142,6 +142,7 @@ title: C&#43;&#43;
 |hari64|[Qiita](https://qiita.com/hari64)||
 |hasi|[GitHub Pages](https://hasipon.github.io/pages/)||
 |HayatoY|[はてなブログ](https://hayatoy.hatenablog.com/)||
+|highlighter|[Qiita](https://qiita.com/highlighter_math/)||
 |Hec|[はてなブログ](https://osrehun.hatenadiary.jp/)||
 |houren|[はてなブログ](https://houren.hatenablog.com/)||
 |igeee|[はてなブログ](https://igeee.hatenablog.com/)||
