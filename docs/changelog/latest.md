@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-01-16
+
+- [#11530](https://github.com/KATO-Hiro/AtCoderClans/pull/11530) - (破壊的な変更) リンク切れと思われるWebサイトを「[Archives](../../archived)」ページに移動。
+- [#11529](https://github.com/KATO-Hiro/AtCoderClans/pull/11529) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[highlighter](https://atcoder.jp/users/highlighter)さんの[記事](https://qiita.com/highlighter_math/items/21d6acc05db46bf5cf60)を追加。
+
 ### 2026-01-15
 
 - [#11523](https://github.com/KATO-Hiro/AtCoderClans/pull/11523) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
