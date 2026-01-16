@@ -177,13 +177,6 @@
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [朝湯ゆげ / Asayu Yuge](https://www.youtube.com/playlist?list=PL097otJToEr_ZFMDmj3GdrEAJSUB1JGyR)
 
-=== "ライブラリ・スニペット"
-
-    2026-01-01
-
-    - 「[C++](libraries/cpp)」ページ
-        - [ayuna-stpyko/Ayuna-Competitive-Programming-Library](https://github.com/ayuna-stpyko/Ayuna-Competitive-Programming-Library) ![GitHub stars](https://img.shields.io/github/stars/ayuna-stpyko/Ayuna-Competitive-Programming-Library?style=plastic)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
