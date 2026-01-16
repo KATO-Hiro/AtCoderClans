@@ -9,6 +9,7 @@ title: レーティング2000〜2399(黄色)
 
 ### アルゴリズム部門
 
+- [AtCoderで入黄しました](https://qiita.com/highlighter_math/items/21d6acc05db46bf5cf60) - [highlighter](https://atcoder.jp/users/highlighter)さんが、2025年12月24日に公開。
 - [AtCoder黄色到達までにやったこと（復習と環境づくり）](https://qiita.com/igeeeeee/items/9ef3a96ae19d9c0fe7ba) - [igeee](https://atcoder.jp/users/igeee)さんが、2025年12月13日に達成。
 - [AtCoderで入黄しました！](https://qiita.com/Yoyoyo8128/items/57e089cb66f9fdaa864a) - [Yoyoyo8128](https://atcoder.jp/users/Yoyoyo8128)さんが、2025年11月16日に達成。
 - [入黄するまでに考えたこと - Iroha_3856の日記](https://iroha-3856.hatenablog.com/entry/2025/07/06/171457) - [Iroha_3856](https://atcoder.jp/users/Iroha_3856)さんが、2025年7月6日に公開。

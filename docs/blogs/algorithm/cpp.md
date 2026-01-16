@@ -143,6 +143,7 @@ title: C&#43;&#43;
 |hasi|[GitHub Pages](https://hasipon.github.io/pages/)||
 |HayatoY|[はてなブログ](https://hayatoy.hatenablog.com/)||
 |Hec|[はてなブログ](https://osrehun.hatenadiary.jp/)||
+|highlighter|[Qiita](https://qiita.com/highlighter_math/)||
 |houren|[はてなブログ](https://houren.hatenablog.com/)||
 |igeee|[はてなブログ](https://igeee.hatenablog.com/)||
 |imulan|[はてなブログ](https://imulan.hatenablog.jp/)|2019年10月以降、新規の記事を確認できず。|
