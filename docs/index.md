@@ -124,6 +124,16 @@
 
 === "記事"
 
+    2026-01-17
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoderインフレの主因は中国人か (中国人er vs 日本人er) レートデフレ対策は妥当か (ロールバック vs 初参加者内部レート上げ)](https://qiita.com/sirsoldano/items/c59480f35725ef1e6323)
+
+    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
+        - [【競プロ】Python codonの使い方(仮) 変更点編](https://qiita.com/navel_tos/items/2c6b061b3bdf83f63238)
+            - [テンプレ・ライブラリ編](https://qiita.com/navel_tos/items/9195de7041cf2c8b535b)
+            - [GitHub](https://github.com/navel-tos/cp-library-for-codon) ![GitHub Repo stars](https://img.shields.io/github/stars/navel-tos/cp-library-for-codon?style=plastic)
+
     2026-01-13
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -171,11 +181,6 @@
 
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [競技プログラミングYouTuberまとめ。岩井星人・赤色コーダーあり。](https://www.youtube.com/watch?v=PrD-JlxhgGg)
-
-    2026-01-02
-
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [朝湯ゆげ / Asayu Yuge](https://www.youtube.com/playlist?list=PL097otJToEr_ZFMDmj3GdrEAJSUB1JGyR)
 
 === "色変記事"
 

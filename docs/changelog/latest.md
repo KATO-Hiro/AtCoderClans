@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-01-17
+
+- [#11537](https://github.com/KATO-Hiro/AtCoderClans/pull/11537) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Python](../../articles/implementation/python)」ページに、以下の記事とライブラリを追加。
+    - [【競プロ】Python codonの使い方(仮) 変更点編](https://qiita.com/navel_tos/items/2c6b061b3bdf83f63238)
+        - [テンプレ・ライブラリ編](https://qiita.com/navel_tos/items/9195de7041cf2c8b535b)
+        - [GitHub](https://github.com/navel-tos/cp-library-for-codon) ![GitHub Repo stars](https://img.shields.io/github/stars/navel-tos/cp-library-for-codon?style=plastic)
+- [#11536](https://github.com/KATO-Hiro/AtCoderClans/pull/11536) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下の記事を追加。
+    - [AtCoderインフレの主因は中国人か (中国人er vs 日本人er) レートデフレ対策は妥当か (ロールバック vs 初参加者内部レート上げ)](https://qiita.com/sirsoldano/items/c59480f35725ef1e6323)
+
 ### 2026-01-16
 
 - [#11530](https://github.com/KATO-Hiro/AtCoderClans/pull/11530) - (破壊的な変更) リンク切れと思われるWebサイトを「[Archives](../../archived)」ページに移動。
