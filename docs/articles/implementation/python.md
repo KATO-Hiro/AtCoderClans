@@ -22,7 +22,13 @@ title: Python
 - [TimeComplexity](https://wiki.python.org/moin/TimeComplexity) - CPythonにおけるlist、collections.deque、set、dictの各種操作に対する時間計算量がまとめられている記事。
     - [SortedContainersの計算量まとめ](https://qiita.com/kemuniku/items/1dd49b4cad22c54d3754) - `sortedcontainer` の SortedList と SortedSet の計算量がまとめられている。
 
-### 言語アップデートによる新機能のまとめ
+### 言語アップデートによる新機能・変更点のまとめ
+
+#### 2025年11月以降
+
+- [【競プロ】Python codonの使い方(仮) 変更点編](https://qiita.com/navel_tos/items/2c6b061b3bdf83f63238) - 高速な Python のコンパイラ「Coden」の新機能や Python との主な違い（型厳格化、int・tuple の仕様変更、ライブラリの対応状況など）がまとめられている。
+    - [テンプレ・ライブラリ編](https://qiita.com/navel_tos/items/9195de7041cf2c8b535b)
+    - [GitHub](https://github.com/navel-tos/cp-library-for-codon) ![GitHub Repo stars](https://img.shields.io/github/stars/navel-tos/cp-library-for-codon?style=plastic)
 
 #### 2023年8月以降
 
