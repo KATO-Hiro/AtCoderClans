@@ -86,6 +86,9 @@
     },
     {
       "pattern": "^https://medium.com/"
+    },
+    {
+      "pattern": "^https://qiita.com/"
     }
   ],
   "httpHeaders": [
