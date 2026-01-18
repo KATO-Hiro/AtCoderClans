@@ -111,17 +111,6 @@
     - 「[ライバルを探す・競う](user_scripts/rivals)」ページ
         - [All Anonymizer](https://greasyfork.org/ja/scripts/518064-all-anonymizer)
 
-=== "Chrome拡張機能"
-
-    2026-01-03
-
-    - 「[ライバルを探す・競う](chrome_extensions/rivals)」ページ
-        - [精進ポスト](https://github.com/hamao0820/shojin-post)
-
-    <div align="center">
-      <img loading="lazy" src="images/chrome_extension/shojin_post.png" alt="shojin post">
-    </div>
-
 === "記事"
 
     2026-01-17
@@ -152,6 +141,11 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2026-01-18
+
+    - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
+        - [navel_tos](https://atcoder.jp/users/navel_tos)さん - [Qiita](https://qiita.com/navel_tos)
+
     2026-01-12
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
@@ -176,11 +170,6 @@
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [PCT](https://www.youtube.com/@PCTprobability/videos)
         - [TKTYI](https://www.youtube.com/@TKT_YI/videos)
-
-    2026-01-03
-
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [競技プログラミングYouTuberまとめ。岩井星人・赤色コーダーあり。](https://www.youtube.com/watch?v=PrD-JlxhgGg)
 
 === "色変記事"
 

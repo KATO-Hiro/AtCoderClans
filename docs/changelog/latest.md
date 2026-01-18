@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-01-18
+
+- [#11541](https://github.com/KATO-Hiro/AtCoderClans/pull/11541) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。
+
 ### 2026-01-17
 
 - [#11537](https://github.com/KATO-Hiro/AtCoderClans/pull/11537) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Python](../../articles/implementation/python)」ページに、以下の記事とライブラリを追加。
