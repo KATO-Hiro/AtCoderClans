@@ -40,6 +40,7 @@ title: Python
 |mutualns|[はてなブログ](https://mutualns.hatenablog.com/)||
 |nagiss|[はてなブログ](https://nagiss.hateblo.jp/)||
 |nahco314|[Qiita](https://qiita.com/NaHCO3)|高難易度の問題を中心にC++で実装されている回答もある。|
+|navel_tos|[Qiita](https://qiita.com/navel_tos)||
 |nouka28|[Qiita](https://qiita.com/nouka28)|高難易度の問題を中心にC++で実装されている回答もある。|
 |penpenpen|[Qiita](https://qiita.com/penpenpen)|高難易度の問題を中心にC++で実装されている回答もある。|
 |qumazaki|[はてなブログ](https://qumazaki.hatenablog.com/)||
