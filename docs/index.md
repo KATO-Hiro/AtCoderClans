@@ -152,6 +152,11 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2026-01-18
+
+    - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
+        - [navel_tos](https://atcoder.jp/users/navel_tos)さん - [Qiita](https://qiita.com/navel_tos)
+
     2026-01-12
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
