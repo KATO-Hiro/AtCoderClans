@@ -113,6 +113,11 @@
 
 === "記事"
 
+    2026-01-19
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年1月19日時点)](https://x.com/atcoder/status/2013069125804073073)
+
     2026-01-17
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -132,11 +137,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年1月5日時点)](https://x.com/atcoder/status/2008001489781039490)
-
-    2026-01-04
-
-    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
-        - [【競プロ】Python宴会芸](https://qiita.com/navel_tos/items/58b734111f121bbd29f0)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
