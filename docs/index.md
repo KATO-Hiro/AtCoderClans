@@ -133,11 +133,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年1月13日時点)](https://x.com/atcoder/status/2010935052008607921)
 
-    2026-01-05
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年1月5日時点)](https://x.com/atcoder/status/2008001489781039490)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -174,6 +169,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-01-20
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [npnp](https://atcoder.jp/users/npnp)さん - [【AtCoder】入茶したンゴ](https://qiita.com/npnp/items/7804e2fb2c3854feedc0)
 
     2026-01-16
 
