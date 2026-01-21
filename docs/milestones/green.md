@@ -5,6 +5,10 @@ title: レーティング800〜1199(緑色)
 !!! warning "注意"
     サブカテゴリに部門名(アルゴリズム・ヒューリスティック)が明記されていない場合は、すべてアルゴリズム部門の記事です。
 
+## 2026年
+
+- [入緑しました!](https://qiita.com/alpha0314alpha/items/eb3d9f5e3e0406a0a8e5) - [alpha0314sub](https://atcoder.jp/users/alpha0314sub)さんが、2026年1月10日に達成。
+
 ## 2025年
 
 - [【色変】入緑までにやったこと](https://qiita.com/otomo6sm/items/b47953938e0fa74b48bf) - [otomo6sm](https://atcoder.jp/users/otomo6sm)さんが、2025年12月27日に達成。
