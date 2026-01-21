@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-01-21
+
+- [#11555](https://github.com/KATO-Hiro/AtCoderClans/pull/11555) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[alpha0314sub](https://atcoder.jp/users/alpha0314sub)さんの[記事](https://qiita.com/alpha0314alpha/items/eb3d9f5e3e0406a0a8e5)を追加。
+
 ### 2026-01-20
 
 - [#11551](https://github.com/KATO-Hiro/AtCoderClans/pull/11551) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
