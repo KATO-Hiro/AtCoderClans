@@ -27,6 +27,13 @@ title: リンク切れ
 
 ### 特定の分野・難易度を重点的に学ぶ
 
+- [searchapp](https://doo-an.github.io/WebApplication/searchapp/) - 指定した語句が問題文や公式解説に含まれる問題を検索できる。
+    - 確認した日: 2026/01/22
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/searchapp.png" alt="searchapp">
+    </div>
+
 - [AtCoder Search](https://atcoder-search.fjnkt98.com/) - 条件(コンテストのカテゴリや難易度など)を指定して問題、ソースコードの提出結果(過去1か月以内)を検索できる。
     - 確認した日: 2025/04/19
 

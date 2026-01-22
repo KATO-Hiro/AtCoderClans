@@ -66,12 +66,6 @@ title: 問題を解く
 
 <!-- markdown-link-check-enable -->
 
-- [searchapp](https://doo-an.github.io/WebApplication/searchapp/) - 指定した語句が問題文や公式解説に含まれる問題を検索できる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/searchapp.png" alt="searchapp">
-    </div>
-
 - [AtCoder Editorial Problems](https://ajinoko33.github.io/AtCoderEditorialProblems/) - 解説を書いたユーザを指定して問題を検索できる。
 
     <div align="center">
