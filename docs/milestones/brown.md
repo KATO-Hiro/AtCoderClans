@@ -5,6 +5,7 @@ title: レーティング400〜799(茶色)
 ## 2025年
 
 - [【AtCoder】入茶したンゴ](https://qiita.com/npnp/items/7804e2fb2c3854feedc0) - [npnp](https://atcoder.jp/users/npnp)さんが、2025年12月27日に公開。
+- [HaskellでAtCoderやってたけどやっと茶色コーダーになれたので振り返り](https://zenn.dev/hanao/articles/ad1d71765bd304) - [flowert](https://atcoder.jp/users/flowert)さんが、2025年12月21日に公開。
 - [茶色コーダーになるまでの道のり ~Atcoderの駆け出しだった私へ~](https://qiita.com/t_maki/items/fcfd36a8a5736ae0185c) - [takumi_m_a_03](https://atcoder.jp/users/takumi_m_a_03)さんが、2025年12月1日に公開。
 - [【色変記事】入茶しました！](https://qiita.com/shimidai/items/b5896b54e5facc3f3b17) - [simidai](https://atcoder.jp/users/simidai)さんが、2025年11月8日に達成。
 - [ねこずきって人が入茶したらしい(初投稿)](https://qiita.com/hovenia-azedarach/items/872ccf9da332c67b28a8) - [Nekozuki0509](https://atcoder.jp/users/Nekozuki0509)さんが、2025年10月20日に公開。
