@@ -158,17 +158,14 @@
     - 「[書籍](books)」ページ
         - [Revenger～受験で失敗した天才は、競プロで見返すことができるのか？～](https://kakuyomu.jp/works/822139841242329884)
 
-=== "動画"
-
-    2026-01-07
-
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [PCT](https://www.youtube.com/@PCTprobability/videos)
-        - [TKTYI](https://www.youtube.com/@TKT_YI/videos)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-01-22
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [flowert](https://atcoder.jp/users/flowert)さん - [HaskellでAtCoderやってたけどやっと茶色コーダーになれたので振り返り](https://zenn.dev/hanao/articles/ad1d71765bd304)
 
     2026-01-21
 
@@ -200,6 +197,10 @@
 === "アーカイブス"
 
     諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2026-01-22
+
+    - searchapp
 
     2026-01-16
 

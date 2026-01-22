@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-01-22
+
+- [#11563](https://github.com/KATO-Hiro/AtCoderClans/pull/11563) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[flowert](https://atcoder.jp/users/flowert)さんの[記事](https://zenn.dev/hanao/articles/ad1d71765bd304)を追加。
+- [#11561](https://github.com/KATO-Hiro/AtCoderClans/pull/11561) - (破壊的な変更) リンク切れと思われるWebサービスを「[Archives](../../archived)」ページに移動。
+    - searchapp
+- [#11560](https://github.com/KATO-Hiro/AtCoderClans/pull/11560) - 誤字を修正。
+
 ### 2026-01-21
 
 - [#11555](https://github.com/KATO-Hiro/AtCoderClans/pull/11555) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
