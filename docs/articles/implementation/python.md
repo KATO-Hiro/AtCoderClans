@@ -26,7 +26,7 @@ title: Python
 
 #### 2025年11月以降
 
-- [【競プロ】Python codonの使い方(仮) 変更点編](https://qiita.com/navel_tos/items/2c6b061b3bdf83f63238) - 高速な Python のコンパイラ「Coden」の新機能や Python との主な違い（型厳格化、int・tuple の仕様変更、ライブラリの対応状況など）がまとめられている。
+- [【競プロ】Python codonの使い方(仮) 変更点編](https://qiita.com/navel_tos/items/2c6b061b3bdf83f63238) - 高速な Python のコンパイラ「Codon」の新機能や Python との主な違い（型厳格化、int・tuple の仕様変更、ライブラリの対応状況など）がまとめられている。
     - [テンプレ・ライブラリ編](https://qiita.com/navel_tos/items/9195de7041cf2c8b535b)
     - [GitHub](https://github.com/navel-tos/cp-library-for-codon) ![GitHub Repo stars](https://img.shields.io/github/stars/navel-tos/cp-library-for-codon?style=plastic)
 
