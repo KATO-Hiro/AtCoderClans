@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-01-23
+
+- [#11569](https://github.com/KATO-Hiro/AtCoderClans/pull/11569) - 「[Libraries and Snippets](../../libraries)」の「[Rust](../../libraries/rust)」ページに、Rustで実装されたライブラリを追加。
+    - [InverseAki/arcaki_library](https://github.com/InverseAki/arcaki_library) ![GitHub Repo stars](https://img.shields.io/github/stars/InverseAki/arcaki_library?style=plastic)
+
 ### 2026-01-22
 
 - [#11563](https://github.com/KATO-Hiro/AtCoderClans/pull/11563) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
