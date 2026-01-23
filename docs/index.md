@@ -158,6 +158,13 @@
     - 「[書籍](books)」ページ
         - [Revenger～受験で失敗した天才は、競プロで見返すことができるのか？～](https://kakuyomu.jp/works/822139841242329884)
 
+=== "ライブラリ・スニペット"
+
+    2026-01-23
+
+    - 「[Rust](libraries/rust)」ページ
+        - [InverseAki/arcaki_library](https://github.com/InverseAki/arcaki_library) ![GitHub Repo stars](https://img.shields.io/github/stars/InverseAki/arcaki_library?style=plastic)
+
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
