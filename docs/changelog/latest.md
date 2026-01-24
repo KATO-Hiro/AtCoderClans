@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-01-24
+
+- [#11573](https://github.com/KATO-Hiro/AtCoderClans/pull/11573) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[gomaazarasi](https://atcoder.jp/users/gomaazarasi)さんの[記事](https://note.com/gomaazarasi/n/n951576c44b3c)を追加。
+- [#11572](https://github.com/KATO-Hiro/AtCoderClans/pull/11572) - [#11530](https://github.com/KATO-Hiro/AtCoderClans/pull/11530)に関連して、「[Archives](../../archived)」ページに掲載しているWebサービスが利用できるようになったため、該当ページに戻した。
+    - [OI Checklist](https://oichecklist.pythonanywhere.com/)
+
 ### 2026-01-23
 
 - [#11569](https://github.com/KATO-Hiro/AtCoderClans/pull/11569) - 「[Libraries and Snippets](../../libraries)」の「[Rust](../../libraries/rust)」ページに、Rustで実装されたライブラリを追加。
