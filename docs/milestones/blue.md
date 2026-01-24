@@ -2,6 +2,10 @@
 title: レーティング1600〜1999(青色)
 ---
 
+## 2026年
+
+- [入青までの軌跡　by gomaazarasi](https://note.com/gomaazarasi/n/n951576c44b3c) - [gomaazarasi](https://atcoder.jp/users/gomaazarasi)さんが、2026年1月17日に達成。
+
 ## 2025年
 
 - [AtCoder 入青！！！！！までの振り返り](https://qiita.com/K__2/items/933d9d9dc458588e6b8c) - [katsumata68](https://atcoder.jp/users/katsumata68)さんが、2025年12月20日に達成。
