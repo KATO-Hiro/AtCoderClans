@@ -169,6 +169,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2026-01-24
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [gomaazarasi](https://atcoder.jp/users/gomaazarasi)さん - [入青までの軌跡　by gomaazarasi](https://note.com/gomaazarasi/n/n951576c44b3c)
+
     2026-01-22
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
@@ -196,10 +201,14 @@
 
 === "国内外のコンテストサイト"
 
-    2026-01-09
+    2026-01-24
 
     - 「[情報オリンピック](related_contest_sites/joi_ioi)」ページ
-        - [JOIの2次予選に通ろう](https://qiita.com/Yoyoyo8128/items/14eedc62eef38a14c273)
+        - [OI Checklist](https://oichecklist.pythonanywhere.com/)
+
+    <div align="center">
+      <img loading = "lazy" src="images/related_contest_sites/joi/oi_checklist.png" alt="oj uz">
+    </div>
 
 === "アーカイブス"
 
@@ -208,10 +217,6 @@
     2026-01-22
 
     - searchapp
-
-    2026-01-16
-
-    - OI Checklist
 
 ## AtCoder公式グッズを購入する
 
