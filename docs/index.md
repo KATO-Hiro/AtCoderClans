@@ -104,14 +104,12 @@
       <img loading="lazy" src="images/web_app/2d_plot_visualizer.png" alt="2d plot visualizer">
     </div>
 
-=== "ユーザスクリプト"
-
-    2026-01-10
-
-    - 「[ライバルを探す・競う](user_scripts/rivals)」ページ
-        - [All Anonymizer](https://greasyfork.org/ja/scripts/518064-all-anonymizer)
-
 === "記事"
+
+    2026-01-25
+
+    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
+        - [flowerhill/atcoder-haskell](https://github.com/flowerhill/atcoder-haskell) - ![GitHub Repo stars](https://img.shields.io/github/stars/flowerhill/atcoder-haskell?style=plastic)
 
     2026-01-19
 
