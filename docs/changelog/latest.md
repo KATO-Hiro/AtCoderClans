@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-01-25
+
+- [#11578](https://github.com/KATO-Hiro/AtCoderClans/pull/11578) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下のテンプレートを追加。
+    - [flowerhill/atcoder-haskell](https://github.com/flowerhill/atcoder-haskell) - ![GitHub Repo stars](https://img.shields.io/github/stars/flowerhill/atcoder-haskell?style=plastic)
+
 ### 2026-01-24
 
 - [#11573](https://github.com/KATO-Hiro/AtCoderClans/pull/11573) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
