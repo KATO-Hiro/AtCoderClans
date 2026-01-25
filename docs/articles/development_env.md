@@ -116,6 +116,10 @@ title: コードを書くための環境構築を行う
 
 - [thirdlf03/setup-atcoder](https://github.com/thirdlf03/setup-atcoder) ![GitHub Repo stars](https://img.shields.io/github/stars/thirdlf03/setup-atcoder?style=plastic) - C++・Java・Python (PyPy) の実行環境を作成できるテンプレート。Go、Rustにも対応予定。
 
+### Haskell
+
+- [flowerhill/atcoder-haskell](https://github.com/flowerhill/atcoder-haskell) - ![GitHub Repo stars](https://img.shields.io/github/stars/flowerhill/atcoder-haskell?style=plastic) - Haskell の実行環境を作成できるテンプレート。
+
 ### Rust
 
 - [rust-lang-ja/atcoder-rust-base](https://github.com/rust-lang-ja/atcoder-rust-base) ![GitHub Repo stars](https://img.shields.io/github/stars/rust-lang-ja/atcoder-rust-base?style=plastic) - Rustの日本語ドキュメント作成チームによるCargoパッケージテンプレート。
