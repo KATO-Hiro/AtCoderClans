@@ -81,7 +81,14 @@ title: 問題を解くときの補助ツール
       <img loading="lazy" src="../../images/web_app/generic_grid_editor.png" alt="generic grid editor">
     </div>
 
-## 二次元平面上の点を図示
+## 二次元平面上の図形を可視化
+
+- [Geometry Visualizer](https://tatesoto.github.io/cp-geo-visualizer/) - 競技プログラミングにおける計算幾何の入力例の図示やデバッグができる。
+    - [競プロの入力をそのまま描画できる幾何ビジュアライザを作った](https://zenn.dev/tatesoto/articles/a656925e126353) - 作者によるサービスの紹介および技術解説。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/geometry_visualizer.png" alt="Geometry Visualizer">
+    </div>
 
 - [2DPlot Visualizer](https://hibit-at.github.io/2D_plot_visualizer/) - 二次元平面上の点群を図示できる。
 
