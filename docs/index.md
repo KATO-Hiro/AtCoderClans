@@ -95,6 +95,16 @@
 
 === "Webアプリ・Webサイト"
 
+    2026-01-26
+
+    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
+        - [Geometry Visualizer](https://tatesoto.github.io/cp-geo-visualizer/)
+            - [競プロの入力をそのまま描画できる幾何ビジュアライザを作った](https://zenn.dev/tatesoto/articles/a656925e126353)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/geometry_visualizer.png" alt="Geometry Visualizer">
+    </div>
+
     2026-01-14
 
     - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
@@ -134,6 +144,11 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2026-01-26
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [Magentor](https://atcoder.jp/users/Magentor)さん - [はてなブログ](https://magentor.hatenablog.com/)
+
     2026-01-18
 
     - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
@@ -143,11 +158,6 @@
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [a1048576](https://atcoder.jp/users/a1048576)さん - [Qiita](https://qiita.com/a1048576/)
-
-    2026-01-11
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [ponjuice](https://atcoder.jp/users/ponjuice)さん - [note](https://note.com/ponjuice0)
 
 === "書籍"
 
