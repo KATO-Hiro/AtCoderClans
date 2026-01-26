@@ -85,6 +85,7 @@ title: C&#43;&#43;
 |kyuridenamida|[はてなブログ](https://kyuridenamida.hatenablog.com/)|2019年10月以降、新規の記事を確認できず。|
 |Lepton|[はてなブログ](https://lepton.hatenablog.jp/)|2018年3月以降、新規の記事を確認できず。|
 |logicmachine|[Qiita](https://qiita.com/logicmachine)|2015年1月以降、新規の記事を確認できず。|
+|Magentor|[はてなブログ](https://magentor.hatenablog.com/)||
 |maple116|[はてなブログ](https://fuma-maple.hatenablog.com/)|2020年2月以降、新規の記事を確認できず。|
 |MMNMM|[はてなブログ](https://259-momone.hatenablog.com/)||
 |Motsu_xe|[はてなブログ](https://motsu-xe.hatenablog.com/)||
@@ -166,7 +167,6 @@ title: C&#43;&#43;
 |Luzhiled|[はてなブログ](https://luzhiled.hatenablog.com/)||
 |lX57|[はてなブログ](https://logk.hateblo.jp/)||
 |lynmisakura|[はてなブログ](https://andoreiji11.hatenadiary.jp/)||
-|Magentor|[はてなブログ](https://magentor.hatenablog.com/)||
 |mayoko|[はてなブログ](https://mayokoex.hatenablog.com/)|2019年12月以降、新規の記事を確認できず。|
 |maze1230|[はてなブログ](https://pazzle1230.hatenablog.com/)||
 |merom686|[はてなブログ](https://merom686.hatenablog.com/)||
