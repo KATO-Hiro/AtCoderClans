@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-01-26
+
+- [#11585](https://github.com/KATO-Hiro/AtCoderClans/pull/11585) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページに、以下のWebサービスを追加。
+    - [Geometry Visualizer](https://tatesoto.github.io/cp-geo-visualizer/)
+        - [競プロの入力をそのまま描画できる幾何ビジュアライザを作った](https://zenn.dev/tatesoto/articles/a656925e126353)
+- [#11583](https://github.com/KATO-Hiro/AtCoderClans/pull/11583) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+
 ### 2026-01-25
 
 - [#11578](https://github.com/KATO-Hiro/AtCoderClans/pull/11578) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下のテンプレートを追加。
