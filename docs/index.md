@@ -116,6 +116,11 @@
 
 === "記事"
 
+    2026-01-27
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年1月26日時点)](https://x.com/atcoder/status/2015607581029605774)
+
     2026-01-25
 
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
@@ -153,11 +158,6 @@
 
     - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
         - [navel_tos](https://atcoder.jp/users/navel_tos)さん - [Qiita](https://qiita.com/navel_tos)
-
-    2026-01-12
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [a1048576](https://atcoder.jp/users/a1048576)さん - [Qiita](https://qiita.com/a1048576/)
 
 === "書籍"
 
