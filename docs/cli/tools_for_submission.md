@@ -43,6 +43,13 @@ title: 提出に関する補助ツール
 
 - [procon-grassmaker](https://github.com/bayashi-cl/procon-grassmaker) ![GitHub Repo stars](https://img.shields.io/github/stars/bayashi-cl/procon-grassmaker?style=plastic) - 提出したACコードを保存する(複数回提出した場合も取得できる)。また、[Codeforces](https://codeforces.com/)や[AOJ (AIZU ONLINE JUDGE)](https://onlinejudge.u-aizu.ac.jp/home)にも対応している。ツールを利用するときは、Pythonのパッケージ管理システムであるpipが必要。
 
+- [atcoder-commiter](https://github.com/ultsaza/atcoder-commiter) ![GitHub Repo stars](https://img.shields.io/github/stars/ultsaza/atcoder-commiter?style=plastic) - AtCoderで提出したコードをボタン一つで取得してGitHubにコミットするvscode拡張機能。ソースコードを提出した時刻でコミットされ、GitHubの草を生やすことができる。
+
+    !!! warning "注意"
+
+        一度にpushできる提出の数には制限があるので復数実行する必要がある。
+        また、大量の提出をpushするのには十分な時間を要する。
+
 ## AtCoder ProblemsのStreakをつなぐ
 
 - [AtCoderStreak](https://github.com/kzrnm/AtCoderStreak) ![GitHub Repo stars](https://img.shields.io/github/stars/kzrnm/AtCoderStreak?style=plastic) - 遅延提出で[AtCoder Problems](https://kenkoooo.com/atcoder/)のStreakをつなぐ。
