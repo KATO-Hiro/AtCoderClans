@@ -141,11 +141,6 @@
             - [テンプレ・ライブラリ編](https://qiita.com/navel_tos/items/9195de7041cf2c8b535b)
             - [GitHub](https://github.com/navel-tos/cp-library-for-codon) ![GitHub Repo stars](https://img.shields.io/github/stars/navel-tos/cp-library-for-codon?style=plastic)
 
-    2026-01-13
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年1月13日時点)](https://x.com/atcoder/status/2010935052008607921)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -172,6 +167,13 @@
 
     - 「[Rust](libraries/rust)」ページ
         - [InverseAki/arcaki_library](https://github.com/InverseAki/arcaki_library) ![GitHub Repo stars](https://img.shields.io/github/stars/InverseAki/arcaki_library?style=plastic)
+
+=== "コマンドラインツール"
+
+    2026-01-28
+
+    - 「[提出に関する補助ツール](cli/tools_for_submission)」ページ
+        - [atcoder-commiter](https://github.com/ultsaza/atcoder-commiter) ![GitHub Repo stars](https://img.shields.io/github/stars/ultsaza/atcoder-commiter?style=plastic)
 
 === "色変記事"
 

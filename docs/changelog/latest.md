@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-01-28
+
+- [#11591](https://github.com/KATO-Hiro/AtCoderClans/pull/11591) - [ultsaza](https://github.com/ultsaza)さんのプルリクエストにより「[Command line tools](../../cli)」の「[提出に関する補助ツール](../../cli/tools_for_submission)」ページに以下の VSCode 拡張機能を追加。
+    - [atcoder-commiter](https://github.com/ultsaza/atcoder-commiter) ![GitHub Repo stars](https://img.shields.io/github/stars/ultsaza/atcoder-commiter?style=plastic)
+
 ### 2026-01-27
 
 - [#11588](https://github.com/KATO-Hiro/AtCoderClans/pull/11588) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
