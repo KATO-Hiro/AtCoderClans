@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-01-29
+
+- [#11596](https://github.com/KATO-Hiro/AtCoderClans/pull/11596) - 「[Libraries and Snippets](../../libraries)」の「[Rust](../../libraries/rust)」ページに、Rustで実装されたライブラリを追加。
+    - [hayatroid/hayatlib](https://github.com/hayatroid/hayatlib) ![GitHub Repo stars](https://img.shields.io/github/stars/hayatroid/hayatlib?style=plastic)
+
 ### 2026-01-28
 
 - [#11591](https://github.com/KATO-Hiro/AtCoderClans/pull/11591) - [ultsaza](https://github.com/ultsaza)さんのプルリクエストにより「[Command line tools](../../cli)」の「[提出に関する補助ツール](../../cli/tools_for_submission)」ページに以下の VSCode 拡張機能を追加。
