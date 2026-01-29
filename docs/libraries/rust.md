@@ -6,6 +6,7 @@ title: Rust
 - [cympfh/procon-rs](https://github.com/cympfh/procon-rs) ![GitHub Repo stars](https://img.shields.io/github/stars/cympfh/procon-rs?style=plastic) - [cympfh](https://atcoder.jp/users/cympfh)さんのライブラリ。
 - [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms)![GitHub Repo stars](https://img.shields.io/github/stars/EbTech/rust-algorithms?style=plastic) - [EbTech](https://github.com/EbTech)さんのクックブック。
 - [hatoo/competitive-rust-snippets](https://github.com/hatoo/competitive-rust-snippets) ![GitHub stars](https://img.shields.io/github/stars/hatoo/competitive-rust-snippets?style=plastic) - [hatoo](https://atcoder.jp/users/hatoo)さんのスニペット集。
+- [hayatroid/hayatlib](https://github.com/hayatroid/hayatlib) ![GitHub Repo stars](https://img.shields.io/github/stars/hayatroid/hayatlib?style=plastic) - [hayatroid](https://atcoder.jp/users/hayatroid)さんのライブラリ。
 - [ichyo/algorithms](https://github.com/ichyo/algorithms) ![GitHub stars](https://img.shields.io/github/stars/ichyo/algorithms?style=plastic) - [ichyo](https://atcoder.jp/users/ichyo)さんのライブラリ。
 - [InverseAki/arcaki_library](https://github.com/InverseAki/arcaki_library) ![GitHub Repo stars](https://img.shields.io/github/stars/InverseAki/arcaki_library?style=plastic) - [InverseAki](https://github.com/InverseAki)さんのライブラリ。
 - [kenkoooo/competitive-programming-rs](https://github.com/kenkoooo/competitive-programming-rs) ![GitHub stars](https://img.shields.io/github/stars/kenkoooo/competitive-programming-rs?style=plastic) - [kenkoooo](https://atcoder.jp/users/kenkoooo)さんのスニペット集。
