@@ -105,15 +105,6 @@
       <img loading="lazy" src="images/web_app/geometry_visualizer.png" alt="Geometry Visualizer">
     </div>
 
-    2026-01-14
-
-    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
-        - [2DPlot Visualizer](https://hibit-at.github.io/2D_plot_visualizer/)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/2d_plot_visualizer.png" alt="2d plot visualizer">
-    </div>
-
 === "記事"
 
     2026-01-27
@@ -154,14 +145,12 @@
     - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
         - [navel_tos](https://atcoder.jp/users/navel_tos)さん - [Qiita](https://qiita.com/navel_tos)
 
-=== "書籍"
-
-    2026-01-14
-
-    - 「[書籍](books)」ページ
-        - [Revenger～受験で失敗した天才は、競プロで見返すことができるのか？～](https://kakuyomu.jp/works/822139841242329884)
-
 === "ライブラリ・スニペット"
+
+    2026-01-29
+
+    - 「[Rust](libraries/rust)」ページ
+        - [hayatroid/hayatlib](https://github.com/hayatroid/hayatlib) ![GitHub Repo stars](https://img.shields.io/github/stars/hayatroid/hayatlib?style=plastic)
 
     2026-01-23
 
