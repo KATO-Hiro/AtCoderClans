@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-01-30
+
+- [#11599](https://github.com/KATO-Hiro/AtCoderClans/pull/11599) - (破壊的な変更) 「[Change Log](../latest)」ページの2025年12月分を月別のアーカイブに移動。
+    - [December, 2025](../2025_12)
+
 ### 2026-01-29
 
 - [#11596](https://github.com/KATO-Hiro/AtCoderClans/pull/11596) - 「[Libraries and Snippets](../../libraries)」の「[Rust](../../libraries/rust)」ページに、Rustで実装されたライブラリを追加。
