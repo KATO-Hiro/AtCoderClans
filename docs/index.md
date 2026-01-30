@@ -193,11 +193,6 @@
     - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
         - [highlighter](https://atcoder.jp/users/highlighter)さん - [AtCoderで入黄しました](https://qiita.com/highlighter_math/items/21d6acc05db46bf5cf60)
 
-    2026-01-15
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [TrueRyoB](https://atcoder.jp/users/TrueRyoB)さん - [入緑しました！](https://qiita.com/TrueRyoB/items/7f521509210b8342a7dd)
-
 === "国内外のコンテストサイト"
 
     2026-01-24
