@@ -168,6 +168,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2026-01-31
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [fken_prime_57](https://atcoder.jp/users/fken_prime_57)さん - [[AtCoder]プログラミング未経験だった大学生が8か月半で入水した方法](https://qiita.com/Gifken/items/12194b9ab5cf765cfd0d)
+
     2026-01-24
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
@@ -187,11 +192,6 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [npnp](https://atcoder.jp/users/npnp)さん - [【AtCoder】入茶したンゴ](https://qiita.com/npnp/items/7804e2fb2c3854feedc0)
-
-    2026-01-16
-
-    - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
-        - [highlighter](https://atcoder.jp/users/highlighter)さん - [AtCoderで入黄しました](https://qiita.com/highlighter_math/items/21d6acc05db46bf5cf60)
 
 === "国内外のコンテストサイト"
 
