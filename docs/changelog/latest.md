@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-01-31
+
+- [#11603](https://github.com/KATO-Hiro/AtCoderClans/pull/11603) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[fken_prime_57](https://atcoder.jp/users/fken_prime_57)さんの[記事](https://qiita.com/Gifken/items/12194b9ab5cf765cfd0d)を追加。
+
 ### 2026-01-30
 
 - [#11599](https://github.com/KATO-Hiro/AtCoderClans/pull/11599) - (破壊的な変更) 「[Change Log](../latest)」ページの2025年12月分を月別のアーカイブに移動。
