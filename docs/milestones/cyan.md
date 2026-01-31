@@ -2,6 +2,10 @@
 title: レーティング1200〜1599(水色)
 ---
 
+## 2026年
+
+- [[AtCoder]プログラミング未経験だった大学生が8か月半で入水した方法](https://qiita.com/Gifken/items/12194b9ab5cf765cfd0d) - [fken_prime_57](https://atcoder.jp/users/fken_prime_57)さんが、2026年1月14日に公開。
+
 ## 2025年
 
 - [才能ゼロの私が半年で水コーダーへなるためにやったこと](https://qiita.com/river0525/items/d9e53215a3bc5a84e0ab) - [river0525](https://atcoder.jp/users/river0525)さんが、2025年12月6日に達成。
