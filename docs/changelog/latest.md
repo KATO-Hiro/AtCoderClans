@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-02-01
+
+- [#11606](https://github.com/KATO-Hiro/AtCoderClans/pull/11606) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事と実装例を追加。
+    - [「区間をsetで管理するやつ」を「IntervalSet」と呼びませんか](https://qiita.com/hibit/items/7e27a41212f849179a79)
+        - [C++の実装例](https://github.com/drken1215/algorithm/blob/master/DataStructureSegment/intervals_set.cpp)
+        - [Rustの実装例](https://qiita.com/haw_ohnuma/items/c16a0847ca896bd626d3)
+
 ### 2026-01-31
 
 - [#11603](https://github.com/KATO-Hiro/AtCoderClans/pull/11603) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
