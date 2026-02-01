@@ -218,6 +218,12 @@ title: アルゴリズムを学ぶ
 - [Mo's algorithm とその上位互換の話](https://snuke.hatenablog.com/entry/2016/07/01/000000) - より汎用性の高いアルゴリズム(`Rollback`機能の追加)が紹介されている記事。
 - [定数倍が最適な Mo's Algorithm](https://noshi91.hatenablog.com/entry/2023/04/13/224811) - 計算量が最悪となるケース(端部の移動)に着目して、アルゴリズムを改善している記事。
 
+### IntervalSet
+
+- [「区間をsetで管理するやつ」を「IntervalSet」と呼びませんか](https://qiita.com/hibit/items/7e27a41212f849179a79) - 通称「区間をsetで管理するテクニック」と呼ばれるデータ構造に対して、一般名称の提唱と活用例が紹介されている。
+    - [C++の実装例](https://github.com/drken1215/algorithm/blob/master/DataStructureSegment/intervals_set.cpp)
+    - [Rustの実装例](https://qiita.com/haw_ohnuma/items/c16a0847ca896bd626d3)
+
 ### Cartesian木
 
 - [Cartesian Tree の実装 〜 stack を用いた O(N) 時間構築](https://drken1215.hatenablog.com/entry/2023/10/19/025800) - Cartesian木の概説と、スタックを利用してO(N)で構築する方法が紹介されている。
