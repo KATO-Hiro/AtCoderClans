@@ -107,6 +107,13 @@
 
 === "記事"
 
+    2026-02-01
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [「区間をsetで管理するやつ」を「IntervalSet」と呼びませんか](https://qiita.com/hibit/items/7e27a41212f849179a79)
+            - [C++の実装例](https://github.com/drken1215/algorithm/blob/master/DataStructureSegment/intervals_set.cpp)
+            - [Rustの実装例](https://qiita.com/haw_ohnuma/items/c16a0847ca896bd626d3)
+
     2026-01-27
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -121,16 +128,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年1月19日時点)](https://x.com/atcoder/status/2013069125804073073)
-
-    2026-01-17
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoderインフレの主因は中国人か (中国人er vs 日本人er) レートデフレ対策は妥当か (ロールバック vs 初参加者内部レート上げ)](https://qiita.com/sirsoldano/items/c59480f35725ef1e6323)
-
-    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
-        - [【競プロ】Python codonの使い方(仮) 変更点編](https://qiita.com/navel_tos/items/2c6b061b3bdf83f63238)
-            - [テンプレ・ライブラリ編](https://qiita.com/navel_tos/items/9195de7041cf2c8b535b)
-            - [GitHub](https://github.com/navel-tos/cp-library-for-codon) ![GitHub Repo stars](https://img.shields.io/github/stars/navel-tos/cp-library-for-codon?style=plastic)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
