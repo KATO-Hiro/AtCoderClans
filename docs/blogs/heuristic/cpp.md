@@ -50,6 +50,7 @@ title: C&#43;&#43;
 |peroon|[はてなブログ](https://perogram.hateblo.jp/)||
 |physics0523|[はてなブログ](https://physics0523.hatenablog.com/)||
 |ponjuice|[note](https://note.com/ponjuice0)||
+|riantkb|[はてなブログ](https://rian.hatenablog.jp/)||
 |RinSakamichi|[GitHub Pages](https://rinsakamichi.github.io/)||
 |risujiroh|[はてなブログ](https://risujiroh.hatenablog.com/)||
 |shibh308|[はてなブログ](https://shibh308.hatenablog.com/)||
@@ -66,6 +67,7 @@ title: C&#43;&#43;
 |binap|[Qiita](https://qiita.com/binap/)||
 |BinomialSheep|[Qiita](https://qiita.com/BinomialSheep/items/e7a717f34e6991affa1c)||
 |birdwatcher|[Qiita](https://qiita.com/birdwatcher)||
+|Bondo416|[はてなブログ](https://bondo.hateblo.jp/)||
 |bo9chan|[Qiita](https://qiita.com/bo9chan)||
 |dsytk7|[はてなブログ](https://dsytk7.hateblo.jp)||
 |ganmodokix|[はてなブログ](https://aprilganmo.hatenablog.com/)||
@@ -92,7 +94,6 @@ title: C&#43;&#43;
 |platinum|[はてなブログ](https://platinum-prog.hatenablog.com/)||
 |qLethon|[はてなブログ](https://qlethon.hatenablog.com/)||
 |riano_|[はてなブログ](https://seashellpink-frostywhite.hatenablog.com/)||
-|riantkb|[はてなブログ](https://rian.hatenablog.jp/)||
 |satanic0258|[はてなブログ](https://satanic0258.hatenablog.com/)|2018年9月以降、新規の記事を確認できず。|
 |satoyuki|[はてなブログ](https://tomatokiraida52.hatenablog.com)||
 |Shibuyap|[Qiita](https://qiita.com/Shibuyap)||
