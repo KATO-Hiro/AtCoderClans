@@ -132,15 +132,16 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2026-02-02
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [riantkb](https://atcoder.jp/users/riantkb)さん - [はてなブログ](https://rian.hatenablog.jp/)
+        - [Bondo416](https://atcoder.jp/users/Bondo416)さん - [はてなブログ](https://bondo.hateblo.jp/)
+
     2026-01-26
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [Magentor](https://atcoder.jp/users/Magentor)さん - [はてなブログ](https://magentor.hatenablog.com/)
-
-    2026-01-18
-
-    - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
-        - [navel_tos](https://atcoder.jp/users/navel_tos)さん - [Qiita](https://qiita.com/navel_tos)
 
 === "ライブラリ・スニペット"
 
