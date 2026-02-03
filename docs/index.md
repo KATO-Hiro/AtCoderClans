@@ -124,13 +124,13 @@
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
         - [flowerhill/atcoder-haskell](https://github.com/flowerhill/atcoder-haskell) - ![GitHub Repo stars](https://img.shields.io/github/stars/flowerhill/atcoder-haskell?style=plastic)
 
-    2026-01-19
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年1月19日時点)](https://x.com/atcoder/status/2013069125804073073)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2026-02-03
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [kencho](https://atcoder.jp/users/kencho)さん - [はてなブログ](https://kencho.hatenablog.com/)
 
     2026-02-02
 
@@ -165,6 +165,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-02-03
+
+    - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
+        - [kencho](https://atcoder.jp/users/kencho)さん - [【AtCoder】Heuristic橙になりました feat. 松屋](https://kencho.hatenablog.com/entry/2026/02/03/145457)
 
     2026-01-31
 
