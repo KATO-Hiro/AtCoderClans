@@ -5,6 +5,12 @@ title: レーティング2400〜2799(橙色)
 !!! warning "注意"
     サブカテゴリに部門名(アルゴリズム・ヒューリスティック)が明記されていない場合は、すべてアルゴリズム部門の記事です。
 
+## 2026年
+
+### ヒューリスティック部門
+
+- [【AtCoder】Heuristic橙になりました feat. 松屋](https://kencho.hatenablog.com/entry/2026/02/03/145457) - [kencho](https://atcoder.jp/users/kencho)さんが、2026年2月1日に達成。
+
 ## 2025年
 
 ### アルゴリズム部門
