@@ -80,6 +80,7 @@ title: C&#43;&#43;
 |hotpepsi|[Qiita](https://qiita.com/hotpepsi)||
 |itigo|[はてなブログ](https://ichigokunn.hatenablog.com/)||
 |kaede2020|[はてなブログ](https://kaede2020.hatenablog.com/)||
+|kencho|[はてなブログ](https://kencho.hatenablog.com/)||
 |KKT89|[はてなブログ](https://kkt89.hatenablog.com/)||
 |kotatsugame|[はてなブログ](https://kotatsugame.hatenablog.com/)||
 |kusano|[はてなブログ](https://kusano-k.hatenablog.com/)、[Qiita](https://qiita.com/kusano_k)||
