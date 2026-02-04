@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-02-04
+
+- [#11622](https://github.com/KATO-Hiro/AtCoderClans/pull/11622) - [Home](../..)ページに、以下の記事を掲載。
+    - [競技プログラミング教室 (2026 年度)](https://atcoder.jp/contests/atcoder_programming_class2026)
+
 ### 2026-02-03
 
 - [#11619](https://github.com/KATO-Hiro/AtCoderClans/pull/11619) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。

@@ -196,11 +196,6 @@
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [alpha0314sub](https://atcoder.jp/users/alpha0314sub)さん - [入緑しました!](https://qiita.com/alpha0314alpha/items/eb3d9f5e3e0406a0a8e5)
 
-    2026-01-20
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [npnp](https://atcoder.jp/users/npnp)さん - [【AtCoder】入茶したンゴ](https://qiita.com/npnp/items/7804e2fb2c3854feedc0)
-
 === "国内外のコンテストサイト"
 
     2026-01-24
