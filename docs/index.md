@@ -87,6 +87,11 @@
 - [AtCoderアカウントのパスワード管理について](https://atcoder.jp/posts/1366) - 不正アクセス防止のため、[AtCoder](https://atcoder.jp/)アカウントのパスワード確認・必要に応じて変更を促しています。
 - [【重要なお知らせ】AtCoderを騙る偽サイトにご注意ください](https://atcoder.jp/posts/1268) - [AtCoder](https://atcoder.jp/)の偽サイトへのアクセス・ログインなどをしないように注意喚起している記事です。
 
+#### 中学生・高校生向け
+
+- [競技プログラミング教室 (2026 年度)](https://atcoder.jp/contests/atcoder_programming_class2026) -  [AtCoder](https://atcoder.jp/)が開催を予定している中学生・高校生向けの教室（「基礎コース」「上級コース」の二クラス制）。競技プログラミングに興味があり、国内トップクラスの実力を身につけたいユーザが対象です。
+    - [入会希望者の応募フォーム](https://atcoder.jp/contests/atcoder_programming_class2026/register) - 締切は2026年2月12日(木)です。
+
 <!-- markdown-link-check-enable -->
 
 ### 非公式サービス・ツール・ライブラリ・記事など
