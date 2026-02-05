@@ -196,11 +196,6 @@
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [flowert](https://atcoder.jp/users/flowert)さん - [HaskellでAtCoderやってたけどやっと茶色コーダーになれたので振り返り](https://zenn.dev/hanao/articles/ad1d71765bd304)
 
-    2026-01-21
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [alpha0314sub](https://atcoder.jp/users/alpha0314sub)さん - [入緑しました!](https://qiita.com/alpha0314alpha/items/eb3d9f5e3e0406a0a8e5)
-
 === "国内外のコンテストサイト"
 
     2026-01-24
