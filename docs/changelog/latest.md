@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-02-05
+
+- [#11626](https://github.com/KATO-Hiro/AtCoderClans/pull/11626) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[hekiboko0926](https://atcoder.jp/users/hekiboko0926)さんの[記事](https://qiita.com/hekiboko/items/06677d5ba8eb2821bfb7)を追加。
+
 ### 2026-02-04
 
 - [#11622](https://github.com/KATO-Hiro/AtCoderClans/pull/11622) - [Home](../..)ページに、以下の記事を掲載。
