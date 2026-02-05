@@ -4,6 +4,7 @@ title: レーティング1200〜1599(水色)
 
 ## 2026年
 
+- [入水しました！！](https://qiita.com/hekiboko/items/06677d5ba8eb2821bfb7) - [hekiboko0926](https://atcoder.jp/users/hekiboko0926)さんが、2026年1月31日に達成。
 - [[AtCoder]プログラミング未経験だった大学生が8か月半で入水した方法](https://qiita.com/Gifken/items/12194b9ab5cf765cfd0d) - [fken_prime_57](https://atcoder.jp/users/fken_prime_57)さんが、2026年1月14日に公開。
 
 ## 2025年
