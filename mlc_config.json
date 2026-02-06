@@ -89,6 +89,9 @@
     },
     {
       "pattern": "^https://qiita.com/"
+    },
+    {
+      "pattern": "^https://clist.by/"
     }
   ],
   "httpHeaders": [
