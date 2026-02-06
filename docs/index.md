@@ -110,6 +110,17 @@
       <img loading="lazy" src="images/web_app/geometry_visualizer.png" alt="Geometry Visualizer">
     </div>
 
+=== "Chrome拡張機能"
+
+    2026-02-06
+
+    - 「[復習の効果をより高める](chrome_extensions/review)」ページ
+        - [AtCoder Senpai](https://chromewebstore.google.com/detail/atcoder-senpai/fpjjeablidbinklnmidpjdiaepgkjkpj)
+
+    <div align="center">
+      <img loading = "lazy" src="images/chrome_extension/atcoder_senpai.png" alt="atcoder senpai">
+    </div>
+
 === "記事"
 
     2026-02-01
@@ -191,11 +202,6 @@
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [gomaazarasi](https://atcoder.jp/users/gomaazarasi)さん - [入青までの軌跡　by gomaazarasi](https://note.com/gomaazarasi/n/n951576c44b3c)
 
-    2026-01-22
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [flowert](https://atcoder.jp/users/flowert)さん - [HaskellでAtCoderやってたけどやっと茶色コーダーになれたので振り返り](https://zenn.dev/hanao/articles/ad1d71765bd304)
-
 === "国内外のコンテストサイト"
 
     2026-01-24
@@ -206,14 +212,6 @@
     <div align="center">
       <img loading = "lazy" src="images/related_contest_sites/joi/oi_checklist.png" alt="oj uz">
     </div>
-
-=== "アーカイブス"
-
-    諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
-
-    2026-01-22
-
-    - searchapp
 
 ## AtCoder公式グッズを購入する
 

@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-02-06
+
+- [#11631](https://github.com/KATO-Hiro/AtCoderClans/pull/11631) - 「[Scripts](../../scripts)」の「[復習の効果をより高める](../../chrome_extensions/review)」ページに、以下のChrome拡張機能を追加。
+    - [AtCoder Senpai](https://chromewebstore.google.com/detail/atcoder-senpai/fpjjeablidbinklnmidpjdiaepgkjkpj)
+
 ### 2026-02-05
 
 - [#11626](https://github.com/KATO-Hiro/AtCoderClans/pull/11626) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
