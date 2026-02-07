@@ -112,6 +112,15 @@
 
 === "Chrome拡張機能"
 
+    2026-02-07
+
+    - 「[問題を解くときの補助ツール](chrome_extensions/support_tools)」ページ
+        - [PlayPage](https://chromewebstore.google.com/detail/playpage/akinlngodbmalcinkmpkogfgfgkgdebm)
+
+    <div align="center">
+      <img loading="lazy" src="images/chrome_extension/playpage.png" alt="playpage">
+    </div>
+
     2026-02-06
 
     - 「[復習の効果をより高める](chrome_extensions/review)」ページ
@@ -166,11 +175,6 @@
     - 「[Rust](libraries/rust)」ページ
         - [hayatroid/hayatlib](https://github.com/hayatroid/hayatlib) ![GitHub Repo stars](https://img.shields.io/github/stars/hayatroid/hayatlib?style=plastic)
 
-    2026-01-23
-
-    - 「[Rust](libraries/rust)」ページ
-        - [InverseAki/arcaki_library](https://github.com/InverseAki/arcaki_library) ![GitHub Repo stars](https://img.shields.io/github/stars/InverseAki/arcaki_library?style=plastic)
-
 === "コマンドラインツール"
 
     2026-01-28
@@ -196,22 +200,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [fken_prime_57](https://atcoder.jp/users/fken_prime_57)さん - [[AtCoder]プログラミング未経験だった大学生が8か月半で入水した方法](https://qiita.com/Gifken/items/12194b9ab5cf765cfd0d)
-
-    2026-01-24
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [gomaazarasi](https://atcoder.jp/users/gomaazarasi)さん - [入青までの軌跡　by gomaazarasi](https://note.com/gomaazarasi/n/n951576c44b3c)
-
-=== "国内外のコンテストサイト"
-
-    2026-01-24
-
-    - 「[情報オリンピック](related_contest_sites/joi_ioi)」ページ
-        - [OI Checklist](https://oichecklist.pythonanywhere.com/)
-
-    <div align="center">
-      <img loading = "lazy" src="images/related_contest_sites/joi/oi_checklist.png" alt="oj uz">
-    </div>
 
 ## AtCoder公式グッズを購入する
 

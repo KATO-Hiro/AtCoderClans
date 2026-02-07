@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-02-07
+
+- [#11635](https://github.com/KATO-Hiro/AtCoderClans/pull/11635) - 「[Scripts](../../scripts)」の「[問題を解くときの補助ツール](../../chrome_extensions/support_tools)」ページに、以下のChrome拡張機能を追加。
+    - [PlayPage](https://chromewebstore.google.com/detail/playpage/akinlngodbmalcinkmpkogfgfgkgdebm)
+
 ### 2026-02-06
 
 - [#11631](https://github.com/KATO-Hiro/AtCoderClans/pull/11631) - 「[Scripts](../../scripts)」の「[復習の効果をより高める](../../chrome_extensions/review)」ページに、以下のChrome拡張機能を追加。
