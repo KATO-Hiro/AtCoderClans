@@ -144,13 +144,13 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年1月26日時点)](https://x.com/atcoder/status/2015607581029605774)
 
-    2026-01-25
-
-    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
-        - [flowerhill/atcoder-haskell](https://github.com/flowerhill/atcoder-haskell) - ![GitHub Repo stars](https://img.shields.io/github/stars/flowerhill/atcoder-haskell?style=plastic)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2026-02-08
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [tau1235](https://atcoder.jp/users/tau1235)さん - [Qiita](https://qiita.com/tau1235)
 
     2026-02-03
 
