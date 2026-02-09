@@ -98,18 +98,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "Webアプリ・Webサイト"
-
-    2026-01-26
-
-    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
-        - [Geometry Visualizer](https://tatesoto.github.io/cp-geo-visualizer/)
-            - [競プロの入力をそのまま描画できる幾何ビジュアライザを作った](https://zenn.dev/tatesoto/articles/a656925e126353)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/geometry_visualizer.png" alt="Geometry Visualizer">
-    </div>
-
 === "Chrome拡張機能"
 
     2026-02-07
@@ -131,6 +119,11 @@
     </div>
 
 === "記事"
+
+    2026-02-09
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年2月9日時点)](https://x.com/atcoder/status/2020712487042371732)
 
     2026-02-01
 
@@ -162,11 +155,6 @@
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
         - [riantkb](https://atcoder.jp/users/riantkb)さん - [はてなブログ](https://rian.hatenablog.jp/)
         - [Bondo416](https://atcoder.jp/users/Bondo416)さん - [はてなブログ](https://bondo.hateblo.jp/)
-
-    2026-01-26
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [Magentor](https://atcoder.jp/users/Magentor)さん - [はてなブログ](https://magentor.hatenablog.com/)
 
 === "ライブラリ・スニペット"
 
