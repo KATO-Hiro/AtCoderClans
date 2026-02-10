@@ -7,6 +7,7 @@ title: レーティング800〜1199(緑色)
 
 ## 2026年
 
+- [【色変記事】AtCoderで入緑したので振り返り](https://qiita.com/menboy/items/8518cd88fe21588fb1ae) - [menboy](https://atcoder.jp/users/menboy)さんが、2026年2月7日に達成。
 - [入緑しました!](https://qiita.com/alpha0314alpha/items/eb3d9f5e3e0406a0a8e5) - [alpha0314sub](https://atcoder.jp/users/alpha0314sub)さんが、2026年1月10日に達成。
 
 ## 2025年
