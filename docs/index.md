@@ -132,11 +132,6 @@
             - [C++の実装例](https://github.com/drken1215/algorithm/blob/master/DataStructureSegment/intervals_set.cpp)
             - [Rustの実装例](https://qiita.com/haw_ohnuma/items/c16a0847ca896bd626d3)
 
-    2026-01-27
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年1月26日時点)](https://x.com/atcoder/status/2015607581029605774)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -173,6 +168,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-02-10
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [menboy](https://atcoder.jp/users/menboy)さん - [【色変記事】AtCoderで入緑したので振り返り](https://qiita.com/menboy/items/8518cd88fe21588fb1ae)
 
     2026-02-05
 
