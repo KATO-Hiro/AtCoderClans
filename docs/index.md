@@ -158,13 +158,6 @@
     - 「[Rust](libraries/rust)」ページ
         - [hayatroid/hayatlib](https://github.com/hayatroid/hayatlib) ![GitHub Repo stars](https://img.shields.io/github/stars/hayatroid/hayatlib?style=plastic)
 
-=== "コマンドラインツール"
-
-    2026-01-28
-
-    - 「[提出に関する補助ツール](cli/tools_for_submission)」ページ
-        - [atcoder-commiter](https://github.com/ultsaza/atcoder-commiter) ![GitHub Repo stars](https://img.shields.io/github/stars/ultsaza/atcoder-commiter?style=plastic)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
