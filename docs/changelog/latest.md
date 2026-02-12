@@ -6,6 +6,11 @@ title: Change Log
 
 ### 2026-02-11
 
+- [#11660](https://github.com/KATO-Hiro/AtCoderClans/pull/11660) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [競プロerにしか伝わらないフリップネタ／AtCoder Conference 2025 発表ネタ](https://www.youtube.com/watch?v=qZt3BbQV3nQ)
+
+### 2026-02-11
+
 - [#11656](https://github.com/KATO-Hiro/AtCoderClans/pull/11656) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
     - レーティング800から1199まで(緑色)に[nagisa14567](https://atcoder.jp/users/nagisa14567)さんの[記事](https://qiita.com/nagisa14567/items/b1c87d2ffc993a0a3fda)を追加。
 
