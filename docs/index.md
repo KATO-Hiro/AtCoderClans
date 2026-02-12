@@ -151,12 +151,12 @@
         - [riantkb](https://atcoder.jp/users/riantkb)さん - [はてなブログ](https://rian.hatenablog.jp/)
         - [Bondo416](https://atcoder.jp/users/Bondo416)さん - [はてなブログ](https://bondo.hateblo.jp/)
 
-=== "ライブラリ・スニペット"
+=== "動画"
 
-    2026-01-29
+    2026-02-12
 
-    - 「[Rust](libraries/rust)」ページ
-        - [hayatroid/hayatlib](https://github.com/hayatroid/hayatlib) ![GitHub Repo stars](https://img.shields.io/github/stars/hayatroid/hayatlib?style=plastic)
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [競プロerにしか伝わらないフリップネタ／AtCoder Conference 2025 発表ネタ](https://www.youtube.com/watch?v=qZt3BbQV3nQ)
 
 === "色変記事"
 
