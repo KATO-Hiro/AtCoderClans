@@ -150,6 +150,10 @@ title: 個別の動画
 - [【音MAD】イワイイ（岩井星人×フォニイ）【競技プログラミング】](https://www.youtube.com/watch?v=zEbVkrb7FuM) - [yiwiy9](https://atcoder.jp/users/yiwiy9)さんの名言を集めた音MAD。
     - [バグ／21時、AtCoderで。× 岩井星人](https://www.youtube.com/watch?v=pftcC-i9PiM) - 別の作者による音MAD。
 
+### フリップネタ
+
+- [競プロerにしか伝わらないフリップネタ／AtCoder Conference 2025 発表ネタ](https://www.youtube.com/watch?v=qZt3BbQV3nQ) - [yiwiy9](https://atcoder.jp/users/yiwiy9)さんが、AtCoder Conference 2025 で発表したフリップネタを公開している。
+
 ### YouTuberの企画
 
 - [【！？】東大生、ストレス発散しろって言われて勉強し始める](https://www.youtube.com/watch?v=W1fxwbkV1Zg) - 東大生のストレス発散方法の一つとして、競技プログラミングが取り上げられている動画。
