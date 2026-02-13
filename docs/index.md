@@ -162,6 +162,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2026-02-13
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [bashibasshy](https://atcoder.jp/users/bashibasshy)さん - [AtCoderで茶色コーダーになれたのでコンテスト結果や取り組みを整理](https://qiita.com/meel_tech/items/5409c7299c41658ba056)
+
     2026-02-11
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
