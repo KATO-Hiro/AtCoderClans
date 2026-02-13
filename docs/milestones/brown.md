@@ -15,6 +15,7 @@ title: レーティング400〜799(茶色)
 - [1年かけてようやくAtCoder茶色になった話(入茶記事)](https://qiita.com/Komeiji-Armia/items/a59260db89872cb89974) - [KomeijiArmia](https://atcoder.jp/users/KomeijiArmia)さんが、2025年9月29日に公開。
 - [【AtCoder】人類史上最も役に立たない入茶記事](https://qiita.com/alllllllllly/items/3394749e250423d2b2f3) - [alllllllllly](https://atcoder.jp/users/alllllllllly)さんが、2025年9月14日に達成。
 - [入茶記録！[競プロ]](https://qiita.com/TrueRyoB/items/a92100be99981a1e789a) - [TrueRyoB](https://atcoder.jp/users/TrueRyoB)さんが、2025年8月31日に公開。
+- [AtCoderで茶色コーダーになれたのでコンテスト結果や取り組みを整理](https://qiita.com/meel_tech/items/5409c7299c41658ba056) - [bashibasshy](https://atcoder.jp/users/bashibasshy)さんが、2025年8月30日に達成。
 - [入茶しました！！！](https://qiita.com/ryoend/items/2f7ef02691a7bd24011c) - [ryoend](https://atcoder.jp/users/ryoend)さんが、2025年8月30日に達成。
 - [【AtCoder】入茶できたので､記録を残す｡](https://qiita.com/japaneseotaku/items/0036a539c68c735cbc74) - [japaneseotaku](https://atcoder.jp/users/japaneseotaku)さんが、2025年8月16日に達成。
 - [入茶したよ！！！](https://qiita.com/hekiboko/items/a859d84c11fdd6e87d4d) - [kanikama0926](https://atcoder.jp/users/kanikama0926)さんが、2025年8月9日に達成。
