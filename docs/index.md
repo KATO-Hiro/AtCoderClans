@@ -98,6 +98,17 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "Webアプリ・Webサイト"
+
+    2026-02-14
+
+    - 「[コンテストに関する統計情報](web_app/statistics)」ページ
+        - [Shojin Viewer](https://shojin.woody1227.com/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/shojin_viewer.png" alt="shojin viewer">
+    </div>
+
 === "Chrome拡張機能"
 
     2026-02-07
@@ -186,11 +197,6 @@
 
     - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
         - [kencho](https://atcoder.jp/users/kencho)さん - [【AtCoder】Heuristic橙になりました feat. 松屋](https://kencho.hatenablog.com/entry/2026/02/03/145457)
-
-    2026-01-31
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [fken_prime_57](https://atcoder.jp/users/fken_prime_57)さん - [[AtCoder]プログラミング未経験だった大学生が8か月半で入水した方法](https://qiita.com/Gifken/items/12194b9ab5cf765cfd0d)
 
 ## AtCoder公式グッズを購入する
 
