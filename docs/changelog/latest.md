@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-02-14
+
+- [#10669](https://github.com/KATO-Hiro/AtCoderClans/pull/10669) - 「[Web apps and sites](../../web_app)」の「[コンテストに関する統計情報](../../web_app/statistics)」ページに、以下のWebサービスを追加。
+    - [Shojin Viewer](https://shojin.woody1227.com/)
+
 ### 2026-02-13
 
 - [#11666](https://github.com/KATO-Hiro/AtCoderClans/pull/11666) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
