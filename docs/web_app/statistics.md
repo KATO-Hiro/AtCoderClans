@@ -20,6 +20,12 @@ title: コンテストに関する統計情報
 
 ### 複数の指標
 
+- [Shojin Viewer](https://shojin.woody1227.com/) - 指定したユーザの今日・月間の練習状況（正解数・難易度など）をカレンダーで可視化し、振り返りとモチベーションの維持・向上を支援する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/shojin_viewer.png" alt="shojin viewer">
+    </div>
+
 - [AtCoder Users Viewer](https://beta.kyo-pro.club/apps/users) - アルゴリズム部門・ヒューリスティック部門のレーティングに基づいた順位表、各ユーザのソースコードの提出履歴・成績などを検索・閲覧できる。
 
     <div align="center">
