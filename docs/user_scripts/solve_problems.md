@@ -144,6 +144,14 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/atcoder_devotion_script.png" alt="atcoder devotion script">
     </div>
 
+### 問題文をコピー
+
+- [AtCoderProblemCopier](https://greasyfork.org/ja/scripts/565854-atcoderproblemcopier) - 「問題」ページで、問題文を Markdown 形式でコピーできるボタンを追加する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_problem_copier.png" alt="atcoder problem copier">
+    </div>
+
 ### 問題文の文字列を扱いやすくする
 
 - [AtCoder-quotation-adder](https://github.com/burioden/AtCoder-quotation-adder) - 「問題」ページの問題文に含まれる文字列に""を追加する。
