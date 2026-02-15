@@ -109,6 +109,17 @@
       <img loading="lazy" src="images/web_app/shojin_viewer.png" alt="shojin viewer">
     </div>
 
+=== "ユーザスクリプト"
+
+    2026-02-15
+
+    - 「[問題を解く](user_scripts/solve_problems)」ページ
+        - [AtCoderProblemCopier](https://greasyfork.org/ja/scripts/565854-atcoderproblemcopier)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_problem_copier.png" alt="atcoder problem copier">
+    </div>
+
 === "Chrome拡張機能"
 
     2026-02-07
@@ -135,13 +146,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年2月9日時点)](https://x.com/atcoder/status/2020712487042371732)
-
-    2026-02-01
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [「区間をsetで管理するやつ」を「IntervalSet」と呼びませんか](https://qiita.com/hibit/items/7e27a41212f849179a79)
-            - [C++の実装例](https://github.com/drken1215/algorithm/blob/master/DataStructureSegment/intervals_set.cpp)
-            - [Rustの実装例](https://qiita.com/haw_ohnuma/items/c16a0847ca896bd626d3)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
