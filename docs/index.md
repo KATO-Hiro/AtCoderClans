@@ -160,12 +160,6 @@
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
         - [kencho](https://atcoder.jp/users/kencho)さん - [はてなブログ](https://kencho.hatenablog.com/)
 
-    2026-02-02
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [riantkb](https://atcoder.jp/users/riantkb)さん - [はてなブログ](https://rian.hatenablog.jp/)
-        - [Bondo416](https://atcoder.jp/users/Bondo416)さん - [はてなブログ](https://bondo.hateblo.jp/)
-
 === "動画"
 
     2026-02-12
@@ -176,6 +170,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-02-16
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [mizu7e](https://atcoder.jp/users/mizu7e)さん - [【色変記事】入水までにあったこと](https://qiita.com/mizu7e/items/a1e7335daa6f12eb11d8)
 
     2026-02-13
 
