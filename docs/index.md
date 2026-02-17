@@ -142,6 +142,11 @@
 
 === "記事"
 
+    2026-02-17
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年2月16日時点)](https://x.com/atcoder/status/2023274897653600414)
+
     2026-02-09
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -154,11 +159,6 @@
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [tau1235](https://atcoder.jp/users/tau1235)さん - [Qiita](https://qiita.com/tau1235)
-
-    2026-02-03
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [kencho](https://atcoder.jp/users/kencho)さん - [はてなブログ](https://kencho.hatenablog.com/)
 
 === "動画"
 
@@ -195,11 +195,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [hekiboko0926](https://atcoder.jp/users/hekiboko0926)さん - [入水しました！！](https://qiita.com/hekiboko/items/06677d5ba8eb2821bfb7)
-
-    2026-02-03
-
-    - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
-        - [kencho](https://atcoder.jp/users/kencho)さん - [【AtCoder】Heuristic橙になりました feat. 松屋](https://kencho.hatenablog.com/entry/2026/02/03/145457)
 
 ## AtCoder公式グッズを購入する
 
