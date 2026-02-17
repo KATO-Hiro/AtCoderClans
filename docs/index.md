@@ -142,7 +142,7 @@
 
 === "記事"
 
-    2026-02-16
+    2026-02-17
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年2月16日時点)](https://x.com/atcoder/status/2023274897653600414)
