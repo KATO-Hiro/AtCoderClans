@@ -90,7 +90,6 @@
 #### 中学生・高校生向け
 
 - [競技プログラミング教室 (2026 年度)](https://atcoder.jp/contests/atcoder_programming_class2026) -  [AtCoder](https://atcoder.jp/)が開催を予定している中学生・高校生向けの教室（「基礎コース」「上級コース」の二クラス制）。競技プログラミングに興味があり、国内トップクラスの実力を身につけたいユーザが対象です。
-    - [入会希望者の応募フォーム](https://atcoder.jp/contests/atcoder_programming_class2026/register) - 締切は2026年2月12日(木)です。
 
 <!-- markdown-link-check-enable -->
 
