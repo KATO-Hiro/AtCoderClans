@@ -110,6 +110,15 @@
 
 === "ユーザスクリプト"
 
+    2026-02-19
+
+    - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
+        - [AtCoder この問題の提出一覧に移動](https://greasyfork.org/ja/scripts/564014-atcoder-%E3%81%93%E3%81%AE%E5%95%8F%E9%A1%8C%E3%81%AE%E6%8F%90%E5%87%BA%E4%B8%80%E8%A6%A7%E3%81%AB%E7%A7%BB%E5%8B%95)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/go_to_list_of_submitted_tasks.png" alt="go to list of submitted tasks">
+    </div>
+
     2026-02-15
 
     - 「[問題を解く](user_scripts/solve_problems)」ページ
@@ -189,11 +198,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [menboy](https://atcoder.jp/users/menboy)さん - [【色変記事】AtCoderで入緑したので振り返り](https://qiita.com/menboy/items/8518cd88fe21588fb1ae)
-
-    2026-02-05
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [hekiboko0926](https://atcoder.jp/users/hekiboko0926)さん - [入水しました！！](https://qiita.com/hekiboko/items/06677d5ba8eb2821bfb7)
 
 ## AtCoder公式グッズを購入する
 
