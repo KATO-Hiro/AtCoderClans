@@ -199,11 +199,6 @@
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [menboy](https://atcoder.jp/users/menboy)さん - [【色変記事】AtCoderで入緑したので振り返り](https://qiita.com/menboy/items/8518cd88fe21588fb1ae)
 
-    2026-02-05
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [hekiboko0926](https://atcoder.jp/users/hekiboko0926)さん - [入水しました！！](https://qiita.com/hekiboko/items/06677d5ba8eb2821bfb7)
-
 ## AtCoder公式グッズを購入する
 
 - [SUZURI](https://suzuri.jp/AtCoder) - [AtCoder](https://atcoder.jp/)のロゴ入りグッズが購入できる。
