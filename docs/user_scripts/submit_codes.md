@@ -225,6 +225,12 @@ title: ソースコードの提出・確認を簡単に
       <img loading = "lazy" src="../../images/userscript/auto_submissions_settings_js.png" alt="auto submissions settings js">
     </div>
 
+- [AtCoder この問題の提出一覧に移動](https://greasyfork.org/ja/scripts/564014-atcoder-%E3%81%93%E3%81%AE%E5%95%8F%E9%A1%8C%E3%81%AE%E6%8F%90%E5%87%BA%E4%B8%80%E8%A6%A7%E3%81%AB%E7%A7%BB%E5%8B%95) - 「問題」や「解説」の詳細ページを開いているとき、「提出結果」タブに閲覧中の問題の提出一覧へのリンクを追加する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/go_to_list_of_submitted_tasks.png" alt="go to list of submitted tasks">
+    </div>
+
 - [ac-search-old-languages](https://greasyfork.org/ja/scripts/405745-ac-search-old-languages) - 「提出結果」ページで、judge-update-202004以前の言語による提出コードを検索できるようにする。
 
     <div align="center">
