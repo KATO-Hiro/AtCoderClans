@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-02-20
+
+- [#11703](https://github.com/KATO-Hiro/AtCoderClans/pull/11703) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[tau1235](https://atcoder.jp/users/tau1235)さんの[記事](https://qiita.com/tau1235/items/b6175745b3593a5df336)を追加。
+
 ### 2026-02-19
 
 - [#11696](https://github.com/KATO-Hiro/AtCoderClans/pull/11676) - 「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../user_scripts/submit_codes)」ページに、以下のユーザスクリプトを追加。
