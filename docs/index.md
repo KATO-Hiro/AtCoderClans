@@ -139,15 +139,6 @@
       <img loading="lazy" src="images/chrome_extension/playpage.png" alt="playpage">
     </div>
 
-    2026-02-06
-
-    - 「[復習の効果をより高める](chrome_extensions/review)」ページ
-        - [AtCoder Senpai](https://chromewebstore.google.com/detail/atcoder-senpai/fpjjeablidbinklnmidpjdiaepgkjkpj)
-
-    <div align="center">
-      <img loading = "lazy" src="images/chrome_extension/atcoder_senpai.png" alt="atcoder senpai">
-    </div>
-
 === "記事"
 
     2026-02-17
@@ -178,6 +169,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-02-20
+
+    - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
+        - [tau1235](https://atcoder.jp/users/tau1235)さん - [AtCoderで黄色になりました](https://qiita.com/tau1235/items/b6175745b3593a5df336)
 
     2026-02-16
 
