@@ -29,7 +29,7 @@ A3: 基本的には、土曜日もしくは日曜日の21時から1時間40分�
 
 - [初参加者の内部レートを変更いたします](https://atcoder.jp/posts/1591) - ABC430 以降、初めてコンテストに参加したユーザは、初期レーティングの計算方法が変更されます。
 
-- [ARCのDivision制についての告知](https://atcoder.jp/posts/1364) - ARC189以降、AtCoder Regular Contest (通称 ARC) は難易度の異なる2種類のコンテストに分けられることが告知されています。
+- [2026年のARCについての変更点](https://atcoder.jp/posts/2026ARC_ja) - ARC215以降、AtCoder Regular Contest (通称 ARC) は難易度の異なる3種類のコンテストに分けられることが告知されています。
 - [AtCoder - コンテストモードについて](https://atcoder.jp/posts/1021) - コンテスト開催中の高負荷対策の一環として、一部のページへのアクセス制限をお知らせした記事です。
 
 <!-- markdown-link-check-enable -->
