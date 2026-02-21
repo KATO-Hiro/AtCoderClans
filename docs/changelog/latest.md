@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-02-21
+
+- [#11708](https://github.com/KATO-Hiro/AtCoderClans/pull/11708) -「[Home](../..)」ページと「[For Beginners](../../for_beginners)」の「[Q3: コンテストは、いつ開催されていますか?](../../for_beginners/question3)」ページと「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
+    - [2026年のARCについての変更点](https://atcoder.jp/posts/2026ARC_ja)
+- [#11706](https://github.com/KATO-Hiro/AtCoderClans/pull/11706) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
+    - [AHC Standings Customizer](https://greasyfork.org/ja/scripts/564554-ahc-standings-customizer)
+
 ### 2026-02-20
 
 - [#11703](https://github.com/KATO-Hiro/AtCoderClans/pull/11703) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

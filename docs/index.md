@@ -96,6 +96,13 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "入門者・初心者向けの内容"
+
+    2026-02-21
+
+    - 「[Q3: コンテストは、いつ開催されていますか?](for_beginners/question3)」ページ
+        - [2026年のARCについての変更点](https://atcoder.jp/posts/2026ARC_ja)
+
 === "Webアプリ・Webサイト"
 
     2026-02-14
@@ -108,6 +115,15 @@
     </div>
 
 === "ユーザスクリプト"
+
+    2026-02-21
+
+    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
+        - [AHC Standings Customizer](https://greasyfork.org/ja/scripts/564554-ahc-standings-customizer)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/ahc_standings_customizer.png" alt="ahc standings customizer">
+    </div>
 
     2026-02-19
 
@@ -127,18 +143,12 @@
       <img loading="lazy" src="images/userscript/atcoder_problem_copier.png" alt="atcoder problem copier">
     </div>
 
-=== "Chrome拡張機能"
-
-    2026-02-07
-
-    - 「[問題を解くときの補助ツール](chrome_extensions/support_tools)」ページ
-        - [PlayPage](https://chromewebstore.google.com/detail/playpage/akinlngodbmalcinkmpkogfgfgkgdebm)
-
-    <div align="center">
-      <img loading="lazy" src="images/chrome_extension/playpage.png" alt="playpage">
-    </div>
-
 === "記事"
+
+    2026-02-21
+
+    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
+        - [2026年のARCについての変更点](https://atcoder.jp/posts/2026ARC_ja)
 
     2026-02-17
 
