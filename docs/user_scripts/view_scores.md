@@ -104,6 +104,14 @@ title: コンテストの成績や関連する統計情報を見る
       <img loading = "lazy" src="../../images/userscript/atcoder_ac_submission_duration.png" alt="atcoder ac submission duration">
     </div>
 
+### 得点に関連する統計量
+
+- [AHC Standings Customizer](https://greasyfork.org/ja/scripts/564554-ahc-standings-customizer) - 「順位表」ページに、総得点からを計算可能な数値（デフォルトは、テストケース1つあたりの平均点）やグラフを表示できる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/ahc_standings_customizer.png" alt="ahc standings customizer">
+    </div>
+
 ### パフォーマンス値の推移
 
 - [Atcoder Perf Graph](https://greasyfork.org/ja/scripts/476103-atcoder-perf-graph) - ユーザの「プロフィール」ページにあるレーティンググラフに、各コンテストのパフォーマンス値を折れ線グラフで重ねて表示する。
