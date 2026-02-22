@@ -25,6 +25,7 @@ title: チャンネル
 - [あかしあ みどり](https://www.youtube.com/channel/UCkIaUs9Z43s1cSLS8mh9ppg) - [akasia_midori](https://atcoder.jp/users/akasia_midori)さんのチャンネル。コンテストの過去問を解く動画が公開されている。
 - [朝湯ゆげ / Asayu Yuge](https://www.youtube.com/playlist?list=PL097otJToEr_ZFMDmj3GdrEAJSUB1JGyR) - [yuge42](https://atcoder.jp/users/yuge42)さんのチャンネル。コンテストの過去問を解く動画が公開されている。
 - [坂道輪の競プロ](https://www.youtube.com/playlist?list=PLFi46EaoQjc-c4BoLQl7Gibo0ncGLX5A2) - [RinSakamichi](https://atcoder.jp/users/RinSakamichi)さんのチャンネル。コンテスト終了後に、問題の解答や感想を配信している。
+- [だいくすとら](https://www.youtube.com/@daikusutora-dayo) - [daikusutora3](https://atcoder.jp/users/daikusutora3)さんのチャンネル。コンテストの実況や過去問を解く動画が公開されている。
 - [楽しんで学ぶ](https://www.youtube.com/@WillowLog) - [WillowLog](https://atcoder.jp/users/WillowLog)さんのチャンネル。コンテストの実況動画などが公開されている。
 - [ながたかな 競プロ部屋](https://www.youtube.com/@ngtkana_kyopro) - [ngtkana](https://atcoder.jp/users/ngtkana)さんのチャンネル。コンテストの実況動画が公開されている。「[歌い手V](https://www.youtube.com/channel/UC9amFw1nimUfDGAf746HYXQ)」のチャンネルもある。
 - [ナス太郎](https://www.youtube.com/channel/UCs7sxmQBTBqtuGzsEWCUupQ) - [DFNasutarou](https://atcoder.jp/users/DFNasutarou)さんのチャンネル。1問あたり15分以内で解き続ける動画などが公開されている。
