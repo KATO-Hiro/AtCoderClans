@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-02-22
+
+- [#11713](https://github.com/KATO-Hiro/AtCoderClans/pull/11713) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [だいくすとら](https://www.youtube.com/@daikusutora-dayo)
+
 ### 2026-02-21
 
 - [#11708](https://github.com/KATO-Hiro/AtCoderClans/pull/11708) -「[Home](../..)」ページと「[For Beginners](../../for_beginners)」の「[Q3: コンテストは、いつ開催されていますか?](../../for_beginners/question3)」ページと「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。

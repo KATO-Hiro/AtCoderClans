@@ -160,15 +160,12 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年2月9日時点)](https://x.com/atcoder/status/2020712487042371732)
 
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2026-02-08
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [tau1235](https://atcoder.jp/users/tau1235)さん - [Qiita](https://qiita.com/tau1235)
-
 === "動画"
+
+    2026-02-22
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [だいくすとら](https://www.youtube.com/@daikusutora-dayo)
 
     2026-02-12
 
