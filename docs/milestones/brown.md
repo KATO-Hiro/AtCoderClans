@@ -2,6 +2,10 @@
 title: レーティング400〜799(茶色)
 ---
 
+## 2026年
+
+- [目が見えない僕が茶色コーダーになるまでのお話](https://note.com/okawari_0915/n/n662bf0e78b35) - [okawari0915](https://atcoder.jp/users/okawari0915)さんが、2026年2月22日に公開。
+
 ## 2025年
 
 - [【AtCoder】入茶したンゴ](https://qiita.com/npnp/items/7804e2fb2c3854feedc0) - [npnp](https://atcoder.jp/users/npnp)さんが、2025年12月27日に公開。
