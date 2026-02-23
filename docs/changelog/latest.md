@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-02-23
+
+- [#11717](https://github.com/KATO-Hiro/AtCoderClans/pull/11717) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[okawari0915](https://atcoder.jp/users/okawari0915)さんの[記事](https://note.com/okawari_0915/n/n662bf0e78b35)を追加。
+
 ### 2026-02-22
 
 - [#11713](https://github.com/KATO-Hiro/AtCoderClans/pull/11713) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
