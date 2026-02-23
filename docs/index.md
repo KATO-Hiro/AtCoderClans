@@ -155,11 +155,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年2月16日時点)](https://x.com/atcoder/status/2023274897653600414)
 
-    2026-02-09
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年2月9日時点)](https://x.com/atcoder/status/2020712487042371732)
-
 === "動画"
 
     2026-02-22
@@ -175,6 +170,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-02-23
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [okawari0915](https://atcoder.jp/users/okawari0915)さん - [目が見えない僕が茶色コーダーになるまでのお話](https://note.com/okawari_0915/n/n662bf0e78b35)
 
     2026-02-20
 
