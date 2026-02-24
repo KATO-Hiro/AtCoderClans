@@ -145,6 +145,11 @@
 
 === "記事"
 
+    2026-02-24
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年2月24日時点)](https://x.com/atcoder/status/2026200626594758856)
+
     2026-02-21
 
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
@@ -195,11 +200,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [nagisa14567](https://atcoder.jp/users/nagisa14567)さん - [なぎさの入緑記事](https://qiita.com/nagisa14567/items/b1c87d2ffc993a0a3fda)
-
-    2026-02-10
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [menboy](https://atcoder.jp/users/menboy)さん - [【色変記事】AtCoderで入緑したので振り返り](https://qiita.com/menboy/items/8518cd88fe21588fb1ae)
 
 ## AtCoder公式グッズを購入する
 
