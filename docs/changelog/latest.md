@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-02-25
+
+- [#11731](https://github.com/KATO-Hiro/AtCoderClans/pull/11731) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+- [#11728](https://github.com/KATO-Hiro/AtCoderClans/pull/11728) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [THIRD プログラミングコンテスト 2026 （AtCoder Heuristic Contest 061）参加記](https://kaede2020.hatenablog.com/entry/2026/02/23/190431)
+- [#11727](https://github.com/KATO-Hiro/AtCoderClans/pull/11727) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder AWC Tab](https://greasyfork.org/ja/scripts/566748-atcoder-awc-tab)
+
 ### 2026-02-24
 
 - [#11722](https://github.com/KATO-Hiro/AtCoderClans/pull/11722) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。

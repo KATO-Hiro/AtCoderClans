@@ -116,6 +116,15 @@
 
 === "ユーザスクリプト"
 
+    2026-02-25
+
+    - 「[問題を解く](user_scripts/solve_problems)」ページ
+        - [AtCoder AWC Tab](https://greasyfork.org/ja/scripts/566748-atcoder-awc-tab)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_awc_tab.png" alt="atcoder awc tab">
+    </div>
+
     2026-02-21
 
     - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
@@ -145,6 +154,11 @@
 
 === "記事"
 
+    2026-02-25
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [THIRD プログラミングコンテスト 2026 （AtCoder Heuristic Contest 061）参加記](https://kaede2020.hatenablog.com/entry/2026/02/23/190431)
+
     2026-02-24
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -159,6 +173,20 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年2月16日時点)](https://x.com/atcoder/status/2023274897653600414)
+
+=== "ブログ"
+    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2026-02-25
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [kencho](https://atcoder.jp/users/kencho)さん - [はてなブログ](https://kencho.hatenablog.com/)
+        - [not](https://atcoder.jp/users/not)さん - [はてなブログ](https://not522.hatenablog.com/)
+        - [sirsoldano](https://atcoder.jp/users/sirsoldano)さん - [Qiita](https://qiita.com/sirsoldano)
+        - [zuba](https://atcoder.jp/users/zuba)さん - [はてなブログ](https://zubassyaaaaaaaaaaaaan.hatenablog.com/)
+
+    - 「[ヒューリスティック部門 - C#](blogs/heuristic/csharp)」ページ
+        - [G4NP0N](https://atcoder.jp/users/G4NP0N)さん - [はてなブログ](https://g4np0n-kyopro.hatenablog.com)
 
 === "動画"
 
@@ -195,11 +223,6 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [bashibasshy](https://atcoder.jp/users/bashibasshy)さん - [AtCoderで茶色コーダーになれたのでコンテスト結果や取り組みを整理](https://qiita.com/meel_tech/items/5409c7299c41658ba056)
-
-    2026-02-11
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [nagisa14567](https://atcoder.jp/users/nagisa14567)さん - [なぎさの入緑記事](https://qiita.com/nagisa14567/items/b1c87d2ffc993a0a3fda)
 
 ## AtCoder公式グッズを購入する
 
