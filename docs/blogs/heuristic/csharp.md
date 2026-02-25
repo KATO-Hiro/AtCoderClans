@@ -13,12 +13,12 @@ title: C&#35;
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
 |EmK|[はてなブログ](https://emkcsharp.hatenablog.com/)||
+|G4NP0N|[はてなブログ](https://g4np0n-kyopro.hatenablog.com)|Rustで実装されている回答もある。|
 
 ## レーティング2000〜2399(黄色)
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
-|G4NP0N|[はてなブログ](https://g4np0n-kyopro.hatenablog.com)||
 |okudeottu|[Blogger](https://blog.tobisatis.com/)||
 |threecourse|[はてなブログ](https://threecourse.hatenablog.com/)||
 |yupiteru|[Qiita](https://qiita.com/yupiteru)||
