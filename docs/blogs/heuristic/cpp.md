@@ -41,6 +41,7 @@ title: C&#43;&#43;
 |hamamu|[Qiita](https://qiita.com/hamamu)||
 |hitoare|[はてなブログ](https://hitoare.hatenablog.com/)||
 |iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
+|kencho|[はてなブログ](https://kencho.hatenablog.com/)||
 |kotamanegi|[はてなブログ](https://kotamanegi.hatenablog.com/)||
 |kozima|[はてなブログ](https://lkozima.hatenablog.com/)||
 |milkcoffee|[はてなブログ](https://milkcoffee.hatenablog.jp/)||
@@ -80,7 +81,6 @@ title: C&#43;&#43;
 |hotpepsi|[Qiita](https://qiita.com/hotpepsi)||
 |itigo|[はてなブログ](https://ichigokunn.hatenablog.com/)||
 |kaede2020|[はてなブログ](https://kaede2020.hatenablog.com/)||
-|kencho|[はてなブログ](https://kencho.hatenablog.com/)||
 |KKT89|[はてなブログ](https://kkt89.hatenablog.com/)||
 |kotatsugame|[はてなブログ](https://kotatsugame.hatenablog.com/)||
 |kusano|[はてなブログ](https://kusano-k.hatenablog.com/)、[Qiita](https://qiita.com/kusano_k)||
@@ -89,6 +89,7 @@ title: C&#43;&#43;
 |m_buyoh|[はてなブログ](https://buyoh.hateblo.jp/)||
 |Nachia|[Qiita](https://qiita.com/Nachia)||
 |nok0|[はてなブログ](https://tsuchi.hateblo.jp/)||
+|not|[はてなブログ](https://not522.hatenablog.com/)||
 |nurupo0723|[note](https://note.com/nurupo0723/)||
 |Omotchi|[はてなブログ](https://omotchi.hateblo.jp/)||
 |phyllo|[GitHub Pages](https://jetbead.github.io/AtCoderHeuristicContestMemo/)||
@@ -100,6 +101,7 @@ title: C&#43;&#43;
 |Shibuyap|[Qiita](https://qiita.com/Shibuyap)||
 |shindannin|[はてなブログ](https://shindannin.hatenadiary.com/)||
 |shotoyoo|[Qiita](https://qiita.com/shotoyoo)||
+|sirsoldano|[Qiita](https://qiita.com/sirsoldano)||
 |snuke|[はてなブログ](https://snuke.hatenablog.com/)||
 |starpentagon|[自作ブログ](https://starpentagon.net/analytics/category/%e7%ab%b6%e6%8a%80%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0/)||
 |tardigrade|[はてなブログ](https://tardigrade.hatenablog.com/)、[Qiita](https://qiita.com/TARDIGRADE)||
@@ -113,3 +115,4 @@ title: C&#43;&#43;
 |YamagenSakam|[はてなブログ](https://yamagensakam.hatenablog.com/)||
 |yamunaku|[はてなブログ](https://yamunaku.hatenablog.com/)||
 |YuuuT|[はてなブログ](https://yukun-py.hatenablog.com/)||
+|zuba|[はてなブログ](https://zubassyaaaaaaaaaaaaan.hatenablog.com/)||
