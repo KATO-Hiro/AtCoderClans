@@ -95,6 +95,14 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/adt_abc_converter_button.png" alt="adt abc converter button">
     </div>
 
+### AtCoder Weekday Contest
+
+- [AtCoder AWC Tab](https://greasyfork.org/ja/scripts/566748-atcoder-awc-tab) - ナビゲーションバーに、最新の[AtCoder Weekday Contest](https://atcoder.jp/contests/archive?ratedType=0&category=20)へ移動できるボタンを追加する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_awc_tab.png" alt="atcoder awc tab">
+    </div>
+
 ### 関連コンテストサイト
 
 - [AtCoderLinkCompletionForJOI](https://greasyfork.org/ja/scripts/382313-atcoderlinkcompletionforjoi) - JOIの問題ページにPDFへのリンクを追加する。
