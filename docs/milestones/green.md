@@ -7,6 +7,7 @@ title: レーティング800〜1199(緑色)
 
 ## 2026年
 
+- [【色変記事】Atcoderで0から(約)1年かけて緑色になった話](https://qiita.com/shirogane1234/items/9cfaeb73586ea43d7fb5) - [shirogane1234](https://atcoder.jp/users/shirogane1234)さんが、2026年2月22日に公開。
 - [【色変記事】AtCoderで入緑したので振り返り](https://qiita.com/menboy/items/8518cd88fe21588fb1ae) - [menboy](https://atcoder.jp/users/menboy)さんが、2026年2月7日に達成。
 - [なぎさの入緑記事](https://qiita.com/nagisa14567/items/b1c87d2ffc993a0a3fda) - [nagisa14567](https://atcoder.jp/users/nagisa14567)さんが、2026年2月6日に公開。
 - [入緑しました!](https://qiita.com/alpha0314alpha/items/eb3d9f5e3e0406a0a8e5) - [alpha0314sub](https://atcoder.jp/users/alpha0314sub)さんが、2026年1月10日に達成。
