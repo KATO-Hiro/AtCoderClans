@@ -53,6 +53,7 @@ A1: 入門者、初心者向けの教材や記事を読んでみましょう。[
         <li><a href="https://qiita.com/0x841/items/0ce887c86cf081312a08#">Java</a></li>
         <li><a href="https://qiita.com/ytanto/items/caf7bf0ba287da81b20f">JavaScript</a></li>
         <li><a href="https://sites.google.com/view/ymatsux/atcoder-abs-kotlin">Kotlin</a></li>
+        <li><a href="https://zenn.dev/tekihei2317/articles/e4b52ecd631974">MoonBit</a></li>
         <li><a href="https://qiita.com/Kutimoti_T/items/635bacddfa1304de40db">Nim</a></li>
         <li><a href="https://qiita.com/kotatsugame/items/dd73cf6441b17f27bb01">Perl6 (Raku)</a></li>
         <li><a href="https://qiita.com/rock619/items/3c4cc60416c94d081c54">PHP</a></li>
