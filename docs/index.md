@@ -98,6 +98,11 @@
 
 === "入門者・初心者向けの内容"
 
+    2026-02-26
+
+    - 「[Q1: アルゴリズムや競技プログラミングに興味はありますが、何から始めたらいいですか?](for_beginners/question1)」ページ
+        - [MoonBitでAtCoder Beginners Selectionを解く](https://zenn.dev/tekihei2317/articles/e4b52ecd631974)
+
     2026-02-21
 
     - 「[Q3: コンテストは、いつ開催されていますか?](for_beginners/question3)」ページ
@@ -154,6 +159,11 @@
 
 === "記事"
 
+    2026-02-26
+
+    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
+        - [MoonBitでAtCoder Beginners Selectionを解く](https://zenn.dev/tekihei2317/articles/e4b52ecd631974)
+
     2026-02-25
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -195,14 +205,14 @@
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [だいくすとら](https://www.youtube.com/@daikusutora-dayo)
 
-    2026-02-12
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [競プロerにしか伝わらないフリップネタ／AtCoder Conference 2025 発表ネタ](https://www.youtube.com/watch?v=qZt3BbQV3nQ)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-02-26
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [shirogane1234](https://atcoder.jp/users/shirogane1234)さん - [【色変記事】Atcoderで0から(約)1年かけて緑色になった話](https://qiita.com/shirogane1234/items/9cfaeb73586ea43d7fb5)
 
     2026-02-23
 
