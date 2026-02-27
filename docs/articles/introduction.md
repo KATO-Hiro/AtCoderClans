@@ -15,7 +15,7 @@ title: 入門者・初心者向けの内容
 ### 競技プログラミングとは?
 
 - [初心者こそ、競技プログラミングに挑戦してほしい。髙橋直大の「世界にAtCoderを広める」という夢](https://persol-tech-s.co.jp/i-engineer/human/atcoder) - [AtCoder](https://atcoder.jp/)社長の[chokudai](https://twitter.com/chokudai)さんが、プログラミング初心者に競技プログラミングを勧めている記事。また、同氏がプログラミングと出会ったきっかけ・競技プログラミングの魅力・会社設立に至った経緯なども語られている。
-    - [日本最大のプログラミングコンテストサイト AtCoder全世界での登録者数が80万人を突破！](https://prtimes.jp/main/html/rd/p/000000061.000028415.html) - AtCoderの登録者数が80万人（2025年7月現在）を突破したことを報告している。競技プログラミングとAIに関する動向が紹介されている。
+    - [日本最大のプログラミングコンテストサイトAtCoder　全世界での登録者数が90万人を突破！](https://prtimes.jp/main/html/rd/p/000000064.000028415.html) - AtCoderの登録者数が90万人（2026年2月現在）を突破したことを報告している。初開催となった AtCoder Conference の内容が紹介されている。
 - [競技プログラミングことはじめ](https://speakerdeck.com/e869120/20221122-jing-ji-puroguramingukotohazime) - 競技プログラミングに関連する教育コンテンツを多数作成されている[E869120](https://atcoder.jp/users/E869120)さんのスライド。基本的な説明から、コンテストサイト[AtCoder](https://atcoder.jp/)の登録方法・問題の解き方・求められるスキルなどが紹介されている。
     - [楽しい競技プログラミングの世界](https://drive.google.com/file/d/1Vu1_9VzPhMjiVKfJvCPUhmXBbkywG6co) - 生成AI時代に競技プログラミングに取り組む意義、上達方法などがまとめられているスライド。
     - [Let’s 競技プログラミング! E8さんが教える アルゴリズム発想のキホン](https://news.mynavi.jp/techplus/series/algorithm/) - 同名の著者によるアルゴリズムの紹介・解説記事(全24回)。
