@@ -432,9 +432,10 @@ title: 更新停止の可能性が高い
     - [AtCoder Junior League 2023 ランキング上位校の強さの秘密に迫る（第1回：筑波大学附属駒場中・高等学校）](https://prtimes.jp/story/detail/7bZGPLcXjeB) - [chokudai](https://twitter.com/chokudai)さんと[kaede2020](https://atcoder.jp/users/kaede2020)さんがAJL上位校の中高生を訪問し、AJLや競技プログラミングへの取り組み方を紹介している記事。
     - [中高生向け 学校対抗競技プログラミング「AtCoder Junior League2023」入賞校・入賞者を発表](https://prtimes.jp/main/html/rd/p/000000044.000028415.html) - AJL2023の学校・個人ランキングなどが集計・公表されている。
 - [日本最大のプログラミングコンテストサイト AtCoder 全世界での登録者数が30万人を突破！](https://prtimes.jp/main/html/rd/p/000000034.000028415.html) - AtCoderの登録者数が2021年6月に30万人を突破したことを報告した記事。競技プログラミングの関連書籍や無料のオンライン学習コンテンツも紹介されている。
-    - [同50万人突破 (2023年4月時点)](https://prtimes.jp/main/html/rd/p/000000038.000028415.html)
+    - [同80万人突破 (2025年7月現在)](https://prtimes.jp/main/html/rd/p/000000061.000028415.html)
+    - [同70万人突破 (2024年10月現在)](https://prtimes.jp/main/html/rd/p/000000052.000028415.html)
     - [同60万人突破 (2024年2月時点)](https://prtimes.jp/main/html/rd/p/000000046.000028415.html)
-    - [同70万人突破（2024年10月現在）](https://prtimes.jp/main/html/rd/p/000000052.000028415.html)
+    - [同50万人突破 (2023年4月時点)](https://prtimes.jp/main/html/rd/p/000000038.000028415.html)
 
 ### コードを書くための環境構築を行う
 
