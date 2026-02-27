@@ -159,6 +159,11 @@
 
 === "記事"
 
+    2026-02-27
+
+    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
+        - [日本最大のプログラミングコンテストサイトAtCoder　全世界での登録者数が90万人を突破！](https://prtimes.jp/main/html/rd/p/000000064.000028415.html)
+
     2026-02-26
 
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
@@ -228,11 +233,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [mizu7e](https://atcoder.jp/users/mizu7e)さん - [【色変記事】入水までにあったこと](https://qiita.com/mizu7e/items/a1e7335daa6f12eb11d8)
-
-    2026-02-13
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [bashibasshy](https://atcoder.jp/users/bashibasshy)さん - [AtCoderで茶色コーダーになれたのでコンテスト結果や取り組みを整理](https://qiita.com/meel_tech/items/5409c7299c41658ba056)
 
 ## AtCoder公式グッズを購入する
 
