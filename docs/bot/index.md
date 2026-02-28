@@ -36,17 +36,17 @@ title: Bot
 
 ### X (旧Twitter)
 
-- [もすーんバチャ通知](https://twitter.com/Mosoon_V)
+- [もすーんバチャ通知](https://x.com/Mosoon_V)
     - 出題範囲: [AtCoder Problems](https://kenkoooo.com/atcoder/)で推定された難易度のうち、灰色〜黄色相当の7問
     - 開催日時: 不定期(30分)
-    - 主催者: [Mo_SoooN](https://twitter.com/Mo_SoooN)さん
+    - 主催者: [Mo_SoooN2](https://x.com/Mo_SoooN2)さん
 
 ### Bluesky
 
 - [Bluesky競プロ部](https://bsky.app/profile/kyopro.bsky.social)
     - 出題範囲: [AtCoder Problems](https://kenkoooo.com/atcoder/)で推定された難易度のうち、灰色〜青色相当から2~5問
     - 開催日時: 毎週1回で8:00~8:40
-    - 主催者: [Hiroshi Kurokawa](https://twitter.com/hydrakecat)さん
+    - 主催者: [Hiroshi Kurokawa](https://x.com/hydrakecat)さん
 
 ## 問題の解答状況・記録を確認する
 
@@ -79,7 +79,7 @@ title: Bot
 
 ### X (旧Twitter)
 
-- [AtCoderお知らせ更新情報 (非公式)](https://twitter.com/AtCoderInfoBot) - [AtCoder](https://atcoder.jp/)公式のお知らせが更新されたときに通知する。
+- [AtCoderお知らせ更新情報 (非公式)](https://x.com/AtCoderInfoBot) - [AtCoder](https://atcoder.jp/)公式のお知らせが更新されたときに通知する。
 
     <div align="center">
       <img loading = "lazy" src="../images/web_app/atcoder_info_bot.png" alt="atcoder info bot">
@@ -95,7 +95,7 @@ title: Bot
 
 ### X (旧Twitter)
 
-- [ABC bot](https://twitter.com/abc_notifier) - AtCoder Beginner Contest (ABC)の結果が確定したときにツイートしてくれる。
+- [ABC bot](https://x.com/abc_notifier) - AtCoder Beginner Contest (ABC)の結果が確定したときにツイートしてくれる。
 
 ## コンテストの成績に関連するサービス
 
