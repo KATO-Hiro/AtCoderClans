@@ -110,14 +110,21 @@
 
 === "Webアプリ・Webサイト"
 
-    2026-02-14
+    2026-02-28
 
-    - 「[コンテストに関する統計情報](web_app/statistics)」ページ
-        - [Shojin Viewer](https://shojin.woody1227.com/)
+    - 「[コンテストに参加する](web_app/participate_in_contests)」ページ
+        - [Procon Notification](https://procon-notification.vercel.app/)
 
     <div align="center">
-      <img loading="lazy" src="images/web_app/shojin_viewer.png" alt="shojin viewer">
+      <img loading="lazy" src="images/web_app/procon_notification.png" alt="procon notification">
     </div>
+
+=== "ボット"
+
+    2026-02-28
+
+    - 「[Bot](bot)」ページ
+        - [Procon Notification](https://x.com/procon_notify)
 
 === "ユーザスクリプト"
 
