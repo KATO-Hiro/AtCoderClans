@@ -20,6 +20,7 @@ title: コンテストに参加する
     </div>
 
 - [Procon Notification](https://procon-notification.vercel.app/) - [15以上のコンテストサイト](https://procon-notification.vercel.app/about)を対象として、コンテストの開催状況を確認できる。
+    - [X アカウント](https://x.com/procon_notify) - コンテスト開始30分前に通知してくれる。
 
     <div align="center">
       <img loading="lazy" src="../../images/web_app/procon_notification.png" alt="procon notification">
