@@ -19,6 +19,12 @@ title: コンテストに参加する
       <img loading = "lazy" src="../../images/web_app/competitive_programming_contests_calendar.png" alt="competitive programming contests calendar">
     </div>
 
+- [Procon Notification](https://procon-notification.vercel.app/) - [15以上のコンテストサイト](https://procon-notification.vercel.app/about)を対象として、コンテストの開催状況を確認できる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/procon_notification.png" alt="procon notification">
+    </div>
+
 ### AtCoder
 
 - [atcoder_calender](https://github.com/oirom/atcoder_calendar) ![GitHub Repo stars](https://img.shields.io/github/stars/oirom/atcoder_calendar?style=plastic) - コンテストの日程を自分のGoogleカレンダーに追加できる。
