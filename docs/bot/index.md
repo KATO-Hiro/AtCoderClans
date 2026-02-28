@@ -85,6 +85,8 @@ title: Bot
       <img loading = "lazy" src="../images/web_app/atcoder_info_bot.png" alt="atcoder info bot">
     </div>
 
+- [Procon Notification](https://x.com/procon_notify) - [15以上のコンテストサイト](https://procon-notification.vercel.app/about)を対象として、コンテスト開始30分前に通知してくれる。
+
 ## コンテストの成績を見る
 
 ### Slack
