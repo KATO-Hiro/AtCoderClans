@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-02-28
+
+- [#11745](https://github.com/KATO-Hiro/AtCoderClans/pull/11745)、[#11747](https://github.com/KATO-Hiro/AtCoderClans/pull/11747) - 「[Web apps and sites](../../web_app)」の「[コンテストに参加する](../../web_app/participate_in_contests)」ページと「[Bot](../../bot)」ページに、以下のWebサービスを追加。
+    - [Procon Notification](https://procon-notification.vercel.app/)
+        - [X アカウント](https://x.com/procon_notify)
+
 ### 2026-02-27
 
 - [#11741](https://github.com/KATO-Hiro/AtCoderClans/pull/11741) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の記事を追加。
