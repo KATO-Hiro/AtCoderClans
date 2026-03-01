@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-03-01
+
+- [#11752](https://github.com/KATO-Hiro/AtCoderClans/pull/11752) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Quote & Click Copy](https://greasyfork.org/ja/scripts/564928-atcoder-quote-click-copy)
+
 ### 2026-02-28
 
 - [#11745](https://github.com/KATO-Hiro/AtCoderClans/pull/11745)、[#11747](https://github.com/KATO-Hiro/AtCoderClans/pull/11747) - 「[Web apps and sites](../../web_app)」の「[コンテストに参加する](../../web_app/participate_in_contests)」ページと「[Bot](../../bot)」ページに、以下のWebサービスを追加。
