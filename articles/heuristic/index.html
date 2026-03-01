@@ -1,0 +1,9279 @@
+
+<!doctype html>
+<html lang="ja" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="【非公式】AtCoderがもっと楽しくなるリンク集です。有志による非公式サービス・ツール・ライブラリ・記事などをまとめています。">
+      
+      
+        <meta name="author" content="hiro_hiro">
+      
+      
+        <link rel="canonical" href="https://KATO-Hiro.github.io/AtCoderClans/articles/heuristic/">
+      
+      
+        <link rel="prev" href="../algorithm/">
+      
+      
+        <link rel="next" href="../math/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../images/favicon/android-chrome-512x512.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.3">
+    
+    
+      
+        <title>ヒューリスティック問題を解く - AtCoder Clans</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-JZZK4RM2YD"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-JZZK4RM2YD",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-JZZK4RM2YD",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="atcoderclans" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#_1" class="md-skip">
+          コンテンツにスキップ
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="ヘッダー">
+    <a href="../.." title="AtCoder Clans" class="md-header__button md-logo" aria-label="AtCoder Clans" data-md-component="logo">
+      
+  <img src="../../images/favicon/android-chrome-512x512.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            AtCoder Clans
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              ヒューリスティック問題を解く
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="atcoderclans" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="検索" placeholder="検索" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="検索">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="共有" aria-label="共有" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="クリア" aria-label="クリア" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            検索を初期化
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/KATO-Hiro/AtCoderClans" title="リポジトリへ" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    KATO-Hiro/AtCoderClans
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="ナビゲーション" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="AtCoder Clans" class="md-nav__button md-logo" aria-label="AtCoder Clans" data-md-component="logo">
+      
+  <img src="../../images/favicon/android-chrome-512x512.png" alt="logo">
+
+    </a>
+    AtCoder Clans
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/KATO-Hiro/AtCoderClans" title="リポジトリへ" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    KATO-Hiro/AtCoderClans
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../quick_start/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Quick Start
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    For Beginners
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    For Beginners
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../for_beginners/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    For Beginners - はじめに
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../for_beginners/question0/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Q0: アルゴリズム、競技プログラミングとは?
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../for_beginners/question1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Q1: アルゴリズムや競技プログラミングに興味はありますが、何から始めたらいいですか?
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../for_beginners/question2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Q2: プログラムの実行環境を用意するには?
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../for_beginners/question3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Q3: コンテストは、いつ開催されていますか?
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../for_beginners/question4/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Q4: コンテストで出題された問題が解けません
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../for_beginners/question5/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Q5: 提出したコードが不正解となる理由が分かりません
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../for_beginners/question6/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Q6: 解説で登場するアルゴリズムが分かりません
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../for_beginners/question7/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Q7: レーティングがなかなか伸びなくて、心が折れそうです
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../for_beginners/question8/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Q8: 脱初心者に向けて、次は何をすればいいですか?
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Recommendation
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Recommendation
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../recommendation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Recommendation - はじめに
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../recommendation/solve_problems/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    問題を解く
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../recommendation/submit_codes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ソースコードの提出・確認を簡単に
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../recommendation/improve_ui/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Webページをより見やすく
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Web Apps and Sites
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Web Apps and Sites
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../web_app/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Web Apps and Sites - はじめに
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_2" id="__nav_5_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Webアプリ・Webサイト
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Webアプリ・Webサイト
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../web_app/solve_problems/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    問題を解く
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../web_app/support_tools/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    問題を解くときの補助ツール
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../web_app/participate_in_contests/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    コンテストに参加する
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../web_app/view_and_compare_scores/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    コンテストの成績を見る
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../web_app/services_using_scores/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    コンテストの成績に関連するサービス
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../web_app/statistics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    コンテストに関する統計情報
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../web_app/rivals/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ライバルを探す・競う
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../web_app/quiz_and_game/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    クイズ・ゲーム・ネタアプリ
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../web_app/for_writers/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    問題作成者向けの情報
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../web_app/for_developers/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    開発者向けの情報
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../bot/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Bot
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../web_api/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Web API
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Scripts
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Scripts
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../scripts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Scripts - はじめに
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_2" id="__nav_6_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ユーザスクリプト
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    ユーザスクリプト
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../user_scripts/solve_problems/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    問題を解く
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../user_scripts/submit_codes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ソースコードの提出・確認を簡単に
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../user_scripts/read_editorials/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    解説を読む・テストケースを見る
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../user_scripts/participate_in_contests/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    コンテストに参加する
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../user_scripts/view_scores/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    コンテストの成績や関連する統計情報を見る
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../user_scripts/colors/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Webページに色付けする
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../user_scripts/rivals/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ライバルを探す・競う
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../user_scripts/jokes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ネタスクリプト
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../user_scripts/for_developers/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    開発者向けの情報
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_3" id="__nav_6_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Google Chromeの拡張機能
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Google Chromeの拡張機能
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../chrome_extensions/solve_problems/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    問題を解く
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../chrome_extensions/support_tools/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    問題を解くときの補助ツール
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../chrome_extensions/submit_codes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ソースコードの提出・確認を簡単に
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../chrome_extensions/review/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    復習の効果をより高める
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../chrome_extensions/view_scores/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    コンテストの成績を見る
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../chrome_extensions/improve_ui/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Webページをより見やすく
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../chrome_extensions/rivals/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ライバルを探す・競う
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_4" id="__nav_6_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Firefoxの拡張機能
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Firefoxの拡張機能
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../firefox_extensions/review/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    復習の効果をより高める
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Articles, Blogs, Books and Videos
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Articles, Blogs, Books and Videos
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../media/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Articles, Blogs, Books and Videos - はじめに
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_7_2" id="__nav_7_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    記事
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_7_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    記事
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../introduction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    入門者・初心者向けの内容
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../development_env/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    コードを書くための環境構築を行う
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../programming_languages/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    プログラミング言語を学ぶ
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../how_to_practice/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    コンテストに向けた練習方法を知る
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../algorithm/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    アルゴリズムを学ぶ
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ヒューリスティック問題を解く
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ヒューリスティック問題を解く
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="目次">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目次
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        入門者・初心者向け
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="入門者・初心者向け">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        典型的な問題と実生活
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        コンテストの面白さ・楽しみ方
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        問題を解く
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        最初の解法を思いつくには?
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        入出力データの管理
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        コンテストに参加する
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="コンテストに参加する">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_8" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        取り組み方(心構え)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_9" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        取り組み方(技術)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_10" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        取り組み方(実装)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#atcoder-heuristic-contest" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        AtCoder Heuristic Contest の問題設定
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_11" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        参加記・解法の解説
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="参加記・解法の解説">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_12" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        コンテスト企画者の振り返り
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_13" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        問題や参加者に関する調査・分析
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_14" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        便利ツールの作成・活用
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="便利ツールの作成・活用">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_15" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ビジュアライザを自作する
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_16" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        インタラクティブ問題をデバッグする
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#optuna" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Optuna
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aws" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        AWS
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ai" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        生成AIの活用
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_17" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        資料集
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="資料集">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_18" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        数理最適化
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ai_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ゲームAI
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_19" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        探索手法の解説と応用
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="探索手法の解説と応用">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#chokudai" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        chokudaiサーチ
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_20" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ビームサーチ
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_21" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        焼きなまし法
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_22" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ベイズ推定
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_23" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        カルマンフィルタ
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_24" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        シュタイナー木
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_25" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ゲーム探索木
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../math/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    数学を学ぶ
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_2_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_2_8" id="__nav_7_2_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    実装テクニックを学ぶ
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_7_2_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_2_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    実装テクニックを学ぶ
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../implementation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    実装テクニックを学ぶ - はじめに
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../implementation/general/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    特定の言語に依存しない内容
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../implementation/multiple_languages/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    複数の言語
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../implementation/cpp/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    C&#43;&#43;
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../implementation/python/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Python
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../implementation/ruby/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ruby
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../implementation/rust/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rust
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../implementation/others/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Others
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../user_editorials/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    解説ブログ・サイトを見る
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../how_to_approach_difficult_problems/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    難問を解く
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../for_writers/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    問題を作成・出題する
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../view_scores/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    コンテストに関する統計情報を見る
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../look_back_on_past/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    1年をふりかえる
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../club_activities/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    部活・サークル・同好会・オンサイトイベントに参加する
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../past/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    プログラミング検定を受ける
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../jobs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    競技プログラミングと就転職
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_3" id="__nav_7_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ブログ
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    ブログ
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ブログ - はじめに
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_3_2" id="__nav_7_3_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    アルゴリズム部門
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_7_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    アルゴリズム部門
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/algorithm/c/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    C
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/algorithm/cpp/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    C&#43;&#43;
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/algorithm/crystal/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Crystal
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/algorithm/csharp/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    C&#35;
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/algorithm/java/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Java
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/algorithm/nim/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Nim
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/algorithm/python/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Python
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/algorithm/ruby/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ruby
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/algorithm/rust/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rust
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_3_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_3_3" id="__nav_7_3_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ヒューリスティック部門
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_7_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    ヒューリスティック部門
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/heuristic/c/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    C
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/heuristic/cpp/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    C&#43;&#43;
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/heuristic/crystal/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Crystal
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/heuristic/csharp/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    C&#35;
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/heuristic/d/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    D
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/heuristic/go/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Go
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/heuristic/java/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Java
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/heuristic/nim/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Nim
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/heuristic/python/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Python
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/heuristic/rust/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rust
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../materials/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    資料集
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../books/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    書籍
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_6" id="__nav_7_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    動画
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    動画
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../videos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    動画 - はじめに
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_6_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_6_2" id="__nav_7_6_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    YouTube
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_7_6_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_6_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    YouTube
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../youtube/channel/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    チャンネル
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../youtube/video/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    個別の動画
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../videos/niconico/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ニコニコ動画
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../videos/archived_video/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    番組アーカイブ
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sns/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    SNS
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Libraries and Snippets
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Libraries and Snippets
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../libraries/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Libraries and Snippets - はじめに
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_8_2" id="__nav_8_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AtCoder Library (ACL)
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_8_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    AtCoder Library (ACL)
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../libraries/atcoder_library/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AtCoder Library (ACL)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../libraries/articles/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    補助資料・解説記事
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../libraries/porting_of_acl/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    各言語への移植
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../libraries/library_checker/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ライブラリチェッカー
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_8_4" id="__nav_8_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    有志による公開ライブラリ
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_8_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    有志による公開ライブラリ
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../libraries/libraries/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    複数の言語
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../libraries/cpp/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    C&#43;&#43;
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../libraries/csharp/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    C&#35;
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../libraries/d/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    D
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../libraries/java/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Java
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../libraries/python/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Python
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../libraries/rust/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rust
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../libraries/others/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Others
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Command Line Tools
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Command Line Tools
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cli/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Command Line Tools - はじめに
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cli/test_tools/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ソースコードにバグがないか確認
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cli/template_testcase_generator/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    テンプレート・テストケースを用意
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cli/tools_for_submission/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    提出に関する補助ツール
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cli/programming_languages/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    競技プログラミング専用言語
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cli/solver/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    問題を自動的に解く
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cli/tools_for_writers/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    問題作成に関する便利ツール
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10" >
+        
+          
+          <label class="md-nav__link" for="__nav_10" id="__nav_10_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Milestones
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_10_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Milestones
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../milestones/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Milestones - はじめに
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_2" id="__nav_10_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    色変記事
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_10_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    色変記事
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../milestones/brown/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    レーティング400〜799(茶色)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../milestones/green/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    レーティング800〜1199(緑色)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../milestones/cyan/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    レーティング1200〜1599(水色)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../milestones/blue/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    レーティング1600〜1999(青色)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../milestones/yellow/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    レーティング2000〜2399(黄色)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../milestones/orange/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    レーティング2400〜2799(橙色)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../milestones/red/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    レーティング2800〜(赤色、銅・銀・金王冠)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../milestones/retirement/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    休止・引退
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_11" >
+        
+          
+          <label class="md-nav__link" for="__nav_11" id="__nav_11_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Related Contest Sites
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_11_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Related Contest Sites
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../related_contest_sites/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Related Contest Sites - はじめに
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_11_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_11_2" id="__nav_11_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    アルゴリズム系コンテスト
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_11_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    アルゴリズム系コンテスト
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../related_contest_sites/algo_method/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    アルゴ式
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../related_contest_sites/aoj/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AOJ (Aizu Online Judge)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../related_contest_sites/boj/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    BOJ (Baekjoon Online Judge)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../related_contest_sites/codeforces/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Codeforces
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../related_contest_sites/icpc/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ICPC (国際大学対抗プログラミングコンテスト)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../related_contest_sites/joi_ioi/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    情報オリンピック
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../related_contest_sites/leetcode/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    LeetCode
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../related_contest_sites/topcoder/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Topcoder
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../related_contest_sites/yukicoder/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    yukicoder
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../related_contest_sites/algorithm/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    不定期開催
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../related_contest_sites/math/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    数学系コンテスト
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../related_contest_sites/puzzle_quiz/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    パズル・クイズ系コンテスト
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../related_contest_sites/machine_learning/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    機械学習系コンテスト
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../related_contest_sites/ai_accelerator/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    プロセッサー（アクセラレータ）系コンテスト
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../related_contest_sites/db/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    データベース系コンテスト
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../related_contest_sites/web_services/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Webサービス系コンテスト
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../related_contest_sites/security/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    セキュリティ系コンテスト
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../related_contest_sites/quantum/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    量子コンピュータ系コンテスト
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_12" >
+        
+          
+          <label class="md-nav__link" for="__nav_12" id="__nav_12_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Archives
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_12_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_12">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Archives
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../archived/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Archives - はじめに
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../archived/need_to_confirm_operation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    追加の動作確認が必要
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../archived/outdated_information/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    更新停止の可能性が高い
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../archived/migrate_servers/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    サーバの移行中
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../archived/broken_links/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    リンク切れ
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../archived/no_longer_available/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    開発・提供終了
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../privacy_policy/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Privacy Policy
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../contact/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Contact
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../special_thanks/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Special Thanks
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_16" >
+        
+          
+          <label class="md-nav__link" for="__nav_16" id="__nav_16_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Contributing
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_16_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_16">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Contributing
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../contributing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Contributing - はじめに
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../contributing/guideline/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ガイドライン
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../contributing/design/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    プロジェクトの方針・方向性
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../contributing/references/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    関連プロジェクト・参考資料
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../license/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    License
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_18" >
+        
+          
+          <label class="md-nav__link" for="__nav_18" id="__nav_18_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Change Log
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_18_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_18">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Change Log
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/latest/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Change Log
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_18_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_18_2" id="__nav_18_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2026
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_18_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_18_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    2026
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2026_01/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    January, 2026
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_18_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_18_3" id="__nav_18_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2025
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_18_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_18_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    2025
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2025_12/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    December, 2025
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2025_11/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    November, 2025
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2025_10/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    October, 2025
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2025_09/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    September, 2025
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2025_08/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    August, 2025
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2025_07/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    July, 2025
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2025_06/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    June, 2025
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2025_05/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    May, 2025
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2025_04/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    April, 2025
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2025_03/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    March, 2025
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2025_02/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    February, 2025
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2025_01/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    January, 2025
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_18_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_18_4" id="__nav_18_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2024
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_18_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_18_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    2024
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2024_12/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    December, 2024
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2024_11/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    November, 2024
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2024_10/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    October, 2024
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2024_09/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    September, 2024
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2024_08/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    August, 2024
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2024_07/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    July, 2024
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2024_06/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    June, 2024
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2024_05/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    May, 2024
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2024_04/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    April, 2024
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2024_03/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    March, 2024
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2024_02/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    February, 2024
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2024_01/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    January, 2024
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_18_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_18_5" id="__nav_18_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2023
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_18_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_18_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    2023
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2023_12/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    December, 2023
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2023_11/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    November, 2023
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2023_10/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    October, 2023
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2023_09/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    September, 2023
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2023_08/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    August, 2023
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2023_07/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    July, 2023
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2023_06/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    June, 2023
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2023_05/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    May, 2023
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2023_04/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    April, 2023
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2023_03/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    March, 2023
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2023_02/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    February, 2023
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2023_01/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    January, 2023
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_18_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_18_6" id="__nav_18_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2022
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_18_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_18_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    2022
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2022_12/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    December, 2022
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2022_11/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    November, 2022
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2022_10/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    October, 2022
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2022_09/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    September, 2022
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2022_08/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    August, 2022
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2022_07/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    July, 2022
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2022_06/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    June, 2022
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2022_05/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    May, 2022
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2022_04/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    April, 2022
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/2022_03/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    March, 2022
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="目次">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目次
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        入門者・初心者向け
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="入門者・初心者向け">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        典型的な問題と実生活
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        コンテストの面白さ・楽しみ方
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        問題を解く
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        最初の解法を思いつくには?
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        入出力データの管理
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        コンテストに参加する
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="コンテストに参加する">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_8" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        取り組み方(心構え)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_9" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        取り組み方(技術)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_10" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        取り組み方(実装)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#atcoder-heuristic-contest" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        AtCoder Heuristic Contest の問題設定
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_11" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        参加記・解法の解説
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="参加記・解法の解説">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_12" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        コンテスト企画者の振り返り
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_13" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        問題や参加者に関する調査・分析
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_14" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        便利ツールの作成・活用
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="便利ツールの作成・活用">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_15" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ビジュアライザを自作する
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_16" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        インタラクティブ問題をデバッグする
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#optuna" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Optuna
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aws" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        AWS
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ai" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        生成AIの活用
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_17" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        資料集
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="資料集">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_18" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        数理最適化
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ai_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ゲームAI
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_19" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        探索手法の解説と応用
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="探索手法の解説と応用">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#chokudai" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        chokudaiサーチ
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_20" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ビームサーチ
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_21" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        焼きなまし法
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_22" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ベイズ推定
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_23" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        カルマンフィルタ
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_24" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        シュタイナー木
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_25" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ゲーム探索木
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+    <a href="https://github.com/KATO-Hiro/AtCoderClans/edit/master/docs/articles/heuristic.md" title="編集" class="md-content__button md-icon" rel="edit">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4zm10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1z"/></svg>
+    </a>
+  
+  
+    
+      
+    
+    <a href="https://github.com/KATO-Hiro/AtCoderClans/raw/master/docs/articles/heuristic.md" title="このページの原文を表示" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 18c.56 0 1 .44 1 1s-.44 1-1 1-1-.44-1-1 .44-1 1-1m0-3c-2.73 0-5.06 1.66-6 4 .94 2.34 3.27 4 6 4s5.06-1.66 6-4c-.94-2.34-3.27-4-6-4m0 6.5a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5M9.27 20H6V4h7v5h5v4.07c.7.08 1.36.25 2 .49V8l-6-6H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h4.5a8.2 8.2 0 0 1-1.23-2"/></svg>
+    </a>
+  
+
+
+  <h1>ヒューリスティック問題を解く</h1>
+
+<p>ヒューリスティック型の問題に関する記事を以下の観点でカテゴリ分けしています。</p>
+<ul>
+<li>入門者・初心者向け</li>
+<li>コンテストに参加する</li>
+<li>資料集</li>
+<li>典型的な手法の解説と応用</li>
+</ul>
+<div class="admonition info">
+<p class="admonition-title">参考</p>
+<p>カテゴリやサブカテゴリによっては、中・上級者向けの内容も含まれています。
+難しすぎる内容だと思ったときは、少し時間を置いて読み直してみましょう。</p>
+</div>
+<h2 id="_1">入門者・初心者向け</h2>
+<h3 id="_2">典型的な問題と実生活</h3>
+<ul>
+<li><a href="https://speakerdeck.com/e869120/introduction-to-mathematical-optimization-5cdef842-50f6-4e46-ab2d-549cf85c1b81">数理最適化ことはじめ</a> - 数理最適化を概観し、基本的な問題とその解き方を分かりやすく解説したスライド。豊富な図解や社会での活用例が掲載されているのが特徴。</li>
+<li><a href="https://qiita.com/hari64/items/b651e9e83ff86992e590">AHC001の知識とpythonの力で、奇想の浮世絵師「歌川国芳」の絵を再現する</a> - 浮世絵師・歌川国芳風の寄せ絵の制作過程、使用技術の概略、寄せ絵・だまし絵を得意とする画家を紹介した記事。猫の絵を敷き詰める際に、<a href="https://atcoder.jp/contests/ahc001">AtCoder Heuristic Contest 001</a>の知識が活用されている。</li>
+<li><a href="https://speakerdeck.com/terryu16/metahiyurisuteikusudeguang-garu-jie-keta-noshi-jie">メタヒューリスティクスで広がる「解けた！」の世界</a> - メタヒューリスティクスの概説、解けるようになる問題例と代表的な手法、実社会への応用例などが紹介されている。<ul>
+<li><a href="https://speakerdeck.com/chettub/di-3hui-guan-dong-kagglerhui-atcoderhakagglenoyi-nili-tu">AtCoder は Kaggle の役に立つ</a> - AtCoder Heuristic Contest と Kaggle の共通点・相違点が紹介されている。</li>
+</ul>
+</li>
+<li><a href="https://qiita.com/tsukammo/items/de70b49dcd8912e78505">アルゴリズムで実社会を捉える～評価関数の作り方～</a> - 競技プログラミングにおけるゲームAI系のコンテストを題材に、筆者が評価関数を作成するときに意識していることを紹介した記事。評価関数の説明から、実社会の問題をアルゴリズムで解くときに人間の感覚を評価関数に反映させるための考え方やその意義について解説されている。</li>
+</ul>
+<h3 id="_3">コンテストの面白さ・楽しみ方</h3>
+<ul>
+<li><a href="https://qiita.com/erukku/items/b3418afbedb263174d05">AHC(AtCoder Heuristic Contest)はいいぞ</a> - <a href="https://atcoder.jp/contests/archive?ratedType=4&amp;category=0&amp;keyword=AtCoder+Heuristic+Contest">AtCoder Heuristic Contest</a>への参加を布教している記事。筆者のおすすめポイントが紹介されている。</li>
+<li><a href="https://qiita.com/tsukammo/items/878f87243d6df17d6c69">競技プログラミングにおけるマラソン系コンテストの楽しみ方</a> - ヒューリスティック型コンテストの楽しみ方を、点数・visualizer・感想戦の観点から紹介した記事。</li>
+<li><a href="https://qiita.com/tsukammo/items/02e8ad2469c5441d2956">競技プログラミングにおけるゲーム木探索の面白さ</a> - 実例をもとにゲームAI系コンテストの魅力・面白さを紹介した記事。</li>
+</ul>
+<h3 id="_4">問題を解く</h3>
+<ul>
+<li><a href="https://qiita.com/square1001/items/84604f79f55ff10d99b0">直感でわかる、ヒューリスティック問題の羅針盤 ～貪欲法から山登り法まで～</a> - ヒューリスティック型コンテストの代表的な手法である貪欲法と山登り法を解説した記事。手計算で問題を解きながら、自分の直感で考え、プログラムとして実装できることの重要性が示されている。</li>
+<li><a href="https://img.atcoder.jp/intro-heuristics/editorial.pdf">Introduction to Heuristics Contest 解説</a> - <a href="https://atcoder.jp/contests/intro-heuristics">Introduction to Heuristics Contest</a>で出題されたスケジューリング問題を題材に、問題に対する取り組み方と典型的な手法が紹介されている。サンプルコードは、Rustで実装されている。</li>
+</ul>
+<h3 id="_5">最初の解法を思いつくには?</h3>
+<ul>
+<li><a href="https://shindannin.hatenadiary.com/entry/2017/12/19/092140">マラソンマッチの簡単な解法</a> - ヒューリスティック型コンテストの初心者に向けて、最初の解法を思いつくまでの着眼点(パラメータの扱い方、計算結果の再利用、部分的な最適化)を紹介した記事。</li>
+<li><a href="https://qiita.com/tsukammo/items/7041a00e429f9f5ac4ae">競プロ解法紹介～レベル別マラソンの戦い方～</a> - マラソン形式の問題である<a href="https://atcoder.jp/contests/future-contest-2018-qual/">Hack To The Future 予選問題</a>を題材に、初心者から上級者までを対象として、それぞれのレベルに応じた戦い方を紹介した記事。</li>
+</ul>
+<h3 id="_6">入出力データの管理</h3>
+<ul>
+<li><a href="https://shu8cream.hatenablog.com/entry/2021/12/18/221429">ヒューリスティック初心者の取り組み方</a> - ヒューリスティック型コンテストの参加希望者・初心者に向けて、大量の入出力を扱う方法を解説した記事。C++で実装されたサンプルもある。</li>
+<li><a href="https://qiita.com/thun-c/items/bb090c1d8d4c38d5e4d2">AHC初心者向け、ローカルテスタの使い方</a> - ヒューリスティック型コンテスト初心者に向けて、ローカルテスタの実行環境を用意する方法と、各種コマンドが丁寧に解説されている。</li>
+<li><a href="https://zenn.dev/ikoma_3/articles/5c04ab03935f71">AHCのローカルテスト環境構築</a> - ローカル環境で複数のテストを実行するための方法が紹介されている。</li>
+<li><a href="https://qiita.com/gengar-094/items/e4918c3cab5c1d096751">AHC(AtCoder Heuristic Contest)で、手元で100テストケースを自動で試す(Linux)</a> - ローカル環境で多数のテストケースを実行する必要性とその方法を解説した記事。</li>
+<li><a href="https://tayu0110.hatenablog.com/entry/2022/08/14/031726">AHC(AtCoder Heuristic Contest)のテスト用スクリプト</a> - 複数のテストを手軽、かつ、高速に実行するためのシェルスクリプトが紹介されている。</li>
+<li><a href="https://gist.github.com/matsu7874/4be1913ed1b831a1efbfa75b666498c9">AHCで手元で複数ケース実行するためのスクリプト</a> - 複数のテストケースを一度に実行して、スコアを集計できるPythonスクリプト。</li>
+</ul>
+<h2 id="_7">コンテストに参加する</h2>
+<h3 id="_8">取り組み方(心構え)</h3>
+<ul>
+<li><a href="https://chokudai.hatenablog.com/entry/2014/12/04/000132">マラソンマッチにおける精神論</a> - ヒューリスティック型コンテストでスコアを上げるために、地道な改善を根気よく続けることの重要性が指摘されている。</li>
+<li><a href="https://koyumeishi.hatenablog.com/entry/2018/12/28/055220">マラソンマッチで誤解してたこと、してなかったこと</a> - 筆者がヒューリスティック型コンテストに参加するまで誤解していたことがつづられている。</li>
+</ul>
+<h3 id="_9">取り組み方(技術)</h3>
+<ul>
+<li><a href="https://qiita.com/tomerun/items/8d2b67476c25ecef35f5">AHCに初めて参加する人が読む記事2025</a> - <a href="https://atcoder.jp/contests/archive?ratedType=4&amp;category=0&amp;keyword=AtCoder+Heuristic+Contest">AtCoder Heuristic Contest</a>への参加登録から回答提出までの大まかな手順・留意事項、練習方法などがまとめられている。</li>
+<li><a href="https://speakerdeck.com/terryu16/atcoder-heuristic-first-step-vol-dot-1-jiang-yi-suraido">AtCoder Heuristic First-step Vol.1 講義スライド 〜問題理解と貪欲法〜</a> - コンテストの過去問を題材に、問題文の理解と基本的な貪欲法の書き方・改善に向けた考え方が紹介されている（<a href="https://www.youtube.com/watch?v=MVrDouD35gU">解説動画</a>）。<ul>
+<li><a href="https://speakerdeck.com/takumi152/atcoder-heuristic-first-step-vol-dot-1-jiang-yi-suraido-shan-deng-rifa-shao-kinamasifa-bian">AtCoder Heuristic First-step Vol.1  講義スライド 〜山登り法・焼きなまし法編〜</a> - 上記の解法を改善するため、山登り法・焼きなまし法の概略や解法の判断基準が解説されている（<a href="https://www.youtube.com/watch?v=RxbTHAu9Ct8">解説動画</a>）。</li>
+</ul>
+</li>
+<li><a href="https://hitoare.hatenablog.com/entry/2024/04/30/223646">AHCに取り組む上で心がけていること</a> - ヒューリスティック型コンテストにおいて、<a href="https://atcoder.jp/users/hitoare">hitoare</a>さんが心掛けていることをまとめた記事。</li>
+<li><a href="https://montplusa.hatenablog.com/entry/2024/06/10/214100">AHCでの解法選択</a> - 問題の性質と主要な解法との関連性について、筆者の考えがまとめられている。</li>
+<li><a href="https://kiri8128.hatenablog.com/entry/2024/05/06/032420">相対スコア AHC の立ち回り</a> - ヒューリスティック型コンテストで相対スコアが採用されているときのメタ戦略について、パラメータ群の重要度の把握・テストケースごとの行動最適化・解法の優劣比較の観点から考察されている。</li>
+<li><a href="https://speakerdeck.com/shun_pi/duan-qi-ahcdesheng-tutamenotekunituku">短期AHCで勝つためのテクニック</a> - 短期間コンテストにおける汎用的な戦略・テクニックが言語化されている。</li>
+<li><a href="https://coonevo.hatenablog.com/entry/2021/03/15/091546">マラソンマッチで気をつけるべきこと</a> - 2週間程度のヒューリスティック型コンテストを対象として、筆者の戦略を紹介した記事。</li>
+<li><a href="https://ozy4dm.hateblo.jp/entry/2022/12/22/162046">Psyhoさんによるヒューリスティック・ボットコンテストのための無料Tips</a> - <a href="https://twitter.com/FakePsyho">Psyho</a>さんがTwitterに投稿したヒューリスティック/ボット プログラミングコンテストに関する知見を、日本語に翻訳してまとめている記事。</li>
+<li><a href="http://web.archive.org/web/20170809211026/http://topcoder.g.hatena.ne.jp/tomerun/20120502">Marathon Matchでいつもやってること</a> - <a href="https://atcoder.jp/users/tomerun">tomerun</a>さんが、ヒューリスティック型コンテストに関するノウハウをまとめた記事。</li>
+<li><a href="https://github.com/rhoo19937/p/blob/main/tech/.md">rhooさんによるヒューリスティックコンテストの汎用テクニック集</a> - ヒューリスティックコンテストにおける汎用的なテクニック（焼きなまし法・ビームサーチ・評価関数・高速化など）が簡潔にまとめられている。</li>
+<li><a href="https://harsh-den-aaf.notion.site/9352f361c46a4514875e9c99f0a0718f">ヒューリスティックコンテストのテクニック集</a> - <a href="https://x.com/ethylene_66">エチレン</a>さんによる高速化テクニックの備忘録。</li>
+<li><a href="http://web.archive.org/web/20200105011004/https://topcoder.g.hatena.ne.jp/tomerun/20171216/">北大日立新概念マラソンでやった高速化色々</a> - ヒューリスティック型のコンテストにおいて、アルゴリズムの側面から高速化に関する知見の一般化を図った記事。</li>
+<li><a href="http://web.archive.org/web/20150308101507/https://topcoder.g.hatena.ne.jp/CKomaki/20141202/1418158488">マラソンマッチにおける頻出Q＆Aと小技</a> - ヒューリスティック型コンテストのうち、最適化問題における疑問点やコツがQ&amp;A形式で簡潔にまとめられている記事。</li>
+</ul>
+<h3 id="_10">取り組み方(実装)</h3>
+<ul>
+<li><a href="https://iwashi31.hatenablog.com/entry/2023/11/05/234449">AHC 典型: 解をたくさん作る</a> - ヒューリスティックコンテストで、貪欲法の次に試すアプローチ方法が紹介されている。</li>
+<li><a href="https://qiita.com/thun-c/items/8e7ae0249f1907854763">AHC典型解法シリーズ第1弾「モンテカルロ法」</a> - <a href="https://atcoder.jp/contests/archive?ratedType=4&amp;category=0&amp;keyword=AtCoder+Heuristic+Contest">AtCoder Heuristic Contest</a>の解法の分類により、典型的な手法の抽出とその重要性が指摘されている。また、モンテカルロ法と過去問への適用例が紹介されている。<ul>
+<li><a href="https://qiita.com/thun-c/items/ecd438fde4d237b1f7bc">AHC典型解法シリーズ第2弾「焼きなまし法」</a> - 典型的な解法をまとめたシリーズの第2弾。コンテストの過去問を例題に、焼きなまし法の適用するときの工夫が解説されている。</li>
+<li><a href="https://qiita.com/thun-c/items/688442aad6a0410545cc">AHC典型解法シリーズ第3弾「ベイズ推定」</a> - 同第3弾。ベイズ推定の具体的な使い方が紹介されている。</li>
+<li><a href="https://qiita.com/thun-c/items/98f22c8fcdb1fd827b00">AHC典型解法シリーズ第4弾「ビームサーチ」</a> - 同4弾。ビームサーチを単に利用するだけでなく、問題の解き方を考えることの重要性も示されている。</li>
+</ul>
+</li>
+<li><a href="https://www.terry-u16.net/entry/ahc-practice-problem">【ネタバレ注意】AHCの焼きなまし・ビームサーチ練習にオススメの問題まとめ</a> - ヒューリスティック部門における典型アルゴリズムを学習するための問題がまとめられている。</li>
+<li><a href="https://topcoder-tomerun.hatenablog.jp/entry/2025/05/06/170319">【ネタバレ注意】AHCの天才貪欲練習にオススメの問題まとめ</a> - 深い考察や発想力によって問題の本質を見抜くことが求められる問題がまとめられている。</li>
+<li><a href="https://yunix-kyopro.hatenablog.com/entry/2023/03/14/220453">マラソン系コンテストでソースコードを分割して書く方法のメモ(C++)</a> - コンテストで快適にコーディングできるように、開発時にはソースコード(C++)を複数のファイルに分割して記述し、提出時に1つにまとめて提出する方法が紹介されている記事。<ul>
+<li><a href="https://github.com/yunix-kyopro/AHC-cpp-template-public">サンプルコード</a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/yunix-kyopro/AHC-cpp-template-public?style=plastic" /></li>
+</ul>
+</li>
+<li><a href="https://speakerdeck.com/nagiss/hiyurisuteitukukontesutodeji-jie-xue-xi-siyou">ヒューリスティックコンテストで機械学習しよう</a> - コンテストで統計的な手法を検討したい場合に、典型的な問題とその実装例が紹介されているスライド。</li>
+<li><a href="https://zenn.dev/tipstar0125/articles/245bceec86e40a">Rust 競プロ AHC参加の準備してみた（チートシート集）</a> - Rustでヒューリスティック問題を解くときに、つまづきがちな点をまとめたチートシート。実行制限時間の設定方法、乱数の生成・利用、演算子のオーバーロード(ビームサーチの実装で構造体同士の比較に必要)が紹介されている。</li>
+<li><a href="https://qiita.com/hatoo@github/items/652b81e8e83b0680bc0a">Rustでマラソンをするときに使えそうなスニペット達</a> - Rustでヒューリスティック問題を解くときに便利なスニペット集。乱数生成、ハッシュ関数、個数制限付きヒープ、値の複製・追加が高速にできるリストが紹介されている。</li>
+<li><a href="https://topcoder-tomerun.hatenablog.jp/entry/2022/11/06/145156">BFSを繰り返すときに訪問済みかを記録する配列を毎回初期化しなくて良くするアレ</a> - グリッド上でBFSを複数回行うときに、訪問の有無を保持する配列を毎回初期化せずに済む方法が紹介されている。</li>
+<li><a href="https://twitter.com/chokudai/status/1706124817915908481">8近傍だけで連結性を良い感じに確保し続ける典型</a> - グリッドの特定のマスを中心とした8近傍を利用し、連結性を確保し続けられる典型テクニックが図解されている。</li>
+</ul>
+<h3 id="atcoder-heuristic-contest">AtCoder Heuristic Contest の問題設定</h3>
+<ul>
+<li><a href="https://fplusfplusf.hatenablog.com/entry/2025/09/02/212949">AHC ざっくり問題設定一覧表</a> - <a href="https://atcoder.jp/contests/archive?ratedType=4&amp;category=0&amp;keyword=AtCoder+Heuristic+Contest">AtCoder Heuristic Contest</a>における各問題の概略がまとめられている。</li>
+</ul>
+<h3 id="_11">参加記・解法の解説</h3>
+<ul>
+<li><a href="https://qiita.com/tsukammo/items/85ffbe907e89b051d715">競プロ解法紹介～大局観で高得点を取る！～</a> - マラソン形式の問題である<a href="https://atcoder.jp/contests/chokudai001/">Chokudai Contest 001</a>の解法を紹介した記事。愚直な解法から高得点を狙うための着眼点や方法が解説されている。</li>
+<li><a href="https://shuu0914.hatenablog.com/entry/2021/03/14/200154">AtCoder Heuristic Contest 001 - じろうのブログ</a> - <a href="https://atcoder.jp/users/Jirotech">Jirotech</a>さんによる<a href="https://atcoder.jp/contests/ahc001">AtCoder Heuristic Contest 001</a>の解答方針と、得点の増加につながった考え方・指標・調整方法などを紹介した記事。</li>
+<li>
+<p><a href="https://www.terry-u16.net/entry/ahc001-how-to">AtCoder Heuristic Contest 001 (AHC001) 初心者向け解説</a> - <a href="https://atcoder.jp/users/terry_u16">terry_u16</a>さんが、ヒューリスティック型のコンテスト初心者に向けた解説・Tipsを紹介している記事。</p>
+<ul>
+<li><a href="https://www.terry-u16.net/entry/ahc051">THIRD プログラミングコンテスト 2025 夏 (AHC051) 解説</a></li>
+</ul>
+<details class="info">
+<summary>参加記の一覧</summary>
+<ul>
+<li><a href="https://www.terry-u16.net/entry/awtf2025heuristic">AtCoder World Tour Finals 2025 Heuristic 参加記</a></li>
+<li><a href="https://www.terry-u16.net/entry/ahc047">AHC047 解説</a></li>
+<li><a href="https://www.terry-u16.net/entry/ahc044">AHC044 解説</a></li>
+<li><a href="https://www.terry-u16.net/entry/ahc042">AHC042 解説</a></li>
+<li><a href="https://speakerdeck.com/terryu16/ahc041jie-shuo">AHC041 解説</a></li>
+<li><a href="https://www.terry-u16.net/entry/ahc040">HACK TO THE FUTURE 2025 (AHC040) 解説</a></li>
+<li><a href="https://www.terry-u16.net/entry/ahc039">THIRD プログラミングコンテスト2024 (AHC039) 解説</a></li>
+<li><a href="https://speakerdeck.com/terryu16/ahc035jie-shuo">AHC035解説</a></li>
+<li><a href="https://www.terry-u16.net/entry/ahc030">THIRD プログラミングコンテスト2023 (AHC030) 解説</a></li>
+<li><a href="https://www.terry-u16.net/entry/httf2022-final">HACK TO THE FUTURE 2022 本選オープン 解説＋参加記</a></li>
+</ul>
+</details>
+</li>
+<li>
+<p><a href="http://hakomof.hatenablog.com/entry/2021/03/14/202411">AtCoder Heuristic Contest 001 AtCoder Ad - びったんびったん</a> - <a href="https://atcoder.jp/users/hakomo">hakomo</a>さんによる<a href="https://atcoder.jp/contests/ahc001">AtCoder Heuristic Contest 001</a>の解答方針と頻出テクニックを紹介した記事。</p>
+</li>
+<li><a href="https://qiita.com/contramundum/items/b945400b81536df42d1a">AHC003の2.926T解法+経緯</a> - <a href="https://atcoder.jp/users/eivour">eivour</a>さんが、<a href="https://atcoder.jp/contests/ahc003">AtCoder Heuristic Contest 003</a>での最終解法と、その経緯などを紹介した記事。また、<a href="https://atcoder.jp/contests/future-contest-2022-qual">HACK TO THE FUTURE 2022予選</a>に関する<a href="https://qiita.com/contramundum/items/52609b5a4c943bc6a275">記事</a>も公開されている。</li>
+<li>
+<p><a href="https://kaede2020.hatenablog.com/entry/2022/06/05/190049">実録！AtCoder Heuristic Contest 011参加記</a> - <a href="https://atcoder.jp/users/kaede2020">kaede2020</a>さんの参加記。良い得点を得るために試行錯誤する過程がリアルタイムで記録されている。</p>
+<ul>
+<li><a href="https://kaede2020.hatenablog.com/entry/2026/02/23/190431">THIRD プログラミングコンテスト 2026 （AtCoder Heuristic Contest 061）参加記</a></li>
+</ul>
+<details class="info">
+<summary>参加記の一覧</summary>
+<ul>
+<li><a href="https://kaede2020.hatenablog.com/entry/2025/12/08/141650">HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）の復習</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2025/11/30/203146">AtCoder Heuristic Contest 057 参加記</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2025/11/24/193724">HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）参加記</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2025/10/27/222106">RECRUIT 日本橋ハーフマラソン 2025秋（AtCoder Heuristic Contest 055）の参加記と復習記録</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2025/09/29/190250">ALGO ARTIS プログラミングコンテスト2025 夏（AtCoder Heuristic Contest 054）参加記</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2025/09/17/072423">第12回 Asprova プログラミングコンテスト（AHC053）参加時と復習の記録</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2025/08/31/165246">AtCoder Heuristic Contest 052 の参加時と復習の記録</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2025/08/11/190035">THIRD プログラミングコンテスト 2025 夏（AtCoder Heuristic Contest 051）参加記</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2025/06/09/202655">MC Digital プログラミングコンテスト2025（AtCoder Heuristic Contest 048）参加記</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2025/05/29/205228">トヨタ自動車プログラミングコンテスト2025#2（AtCoder Heuristic Contest 047）の復習</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2025/04/22/215515">THIRD プログラミングコンテスト2025（AtCoder Heuristic Contest 045）の復習</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2025/04/07/190047">THIRD プログラミングコンテスト2025（AtCoder Heuristic Contest 045）参加記</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2025/02/24/190210">RECRUIT 日本橋ハーフマラソン 2025冬（AtCoder Heuristic Contest 043）参加記</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2025/02/03/091637">AtCoder Heuristic Contest 042参加メモ</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2025/01/20/194438">ALGO ARTIS プログラミングコンテスト2025 冬（AtCoder Heuristic Contest 041）参加メモ</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2024/12/09/191102">HACK TO THE FUTURE 2025 （AtCoder Heuristic Contest 040）参加記</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2024/11/11/222634">THIRD プログラミングコンテスト2024（AtCoder Heuristic Contest 039）参加記</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2024/10/14/190050">トヨタ自動車プログラミングコンテスト2024#10（AtCoder Heuristic Contest 038）参加記</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2024/09/29/165627">第11回 Asprova プログラミングコンテスト（AtCoder Heuristic Contest 037）の復習</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2024/09/02/190404">RECRUIT 日本橋ハーフマラソン 2024夏（AtCoder Heuristic Contest 036）参加記</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2024/05/27/190036">トヨタ自動車プログラミングコンテスト2024#5（AtCoder Heuristic Contest 033）参加記</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2024/04/01/190115">MC Digital プログラミングコンテスト2024（AtCoder Heuristic Contest 031）参加記</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2024/02/19/190210">THIRD プログラミングコンテスト2023（AtCoder Heuristic Contest 030）参加記</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2024/01/14/141500">ALGO ARTIS プログラミングコンテスト2023 冬（AtCoder Heuristic Contest 028）参加メモ</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2023/12/26/210009">RECRUIT 日本橋ハーフマラソン 2024冬（AtCoder Heuristic Contest 029）参加記</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2023/12/10/204502">HACK TO THE FUTURE 2024 （AtCoder Heuristic Contest 027）参加記</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2023/10/22/195315">AtCoder Heuristic Contest 025参加記</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2023/09/10/200121">第10回 Asprova プログラミングコンテスト（AtCoder Heuristic Contest 023）参加メモ</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2023/08/20/190031">RECRUIT 日本橋ハーフマラソン 2023夏（AtCoder Heuristic Contest 022）参加記</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2023/06/30/231314">ALGO ARTIS プログラミングコンテスト2023（AtCoder Heuristic Contest 020）の復習</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2023/04/02/190056">MC Digital プログラミングコンテスト2023（AtCoder Heuristic Contest 019）参加記</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2023/02/26/190051">RECRUIT 日本橋ハーフマラソン 2023冬（AtCoder Heuristic Contest 018）参加記</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2023/02/05/200031">THIRD プログラミングコンテスト 2022（AtCoder Heuristic Contest 017）参加記</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2022/11/20/190100">HACK TO THE FUTURE 2023 予選（AtCoder Heuristic Contest 016）参加記</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2022/10/01/190044">estie プログラミングコンテスト2022（AtCoder Heuristic Contest 014）参加記</a></li>
+<li><a href="https://kaede2020.hatenablog.com/entry/2022/08/16/210130">実録！RECRUIT 日本橋ハーフマラソン 2022夏（AtCoder Heuristic Contest 013）参加記</a></li>
+</ul>
+</details>
+</li>
+<li>
+<p><a href="https://fujikawa.hatenablog.com/entry/2022/08/18/051533">AHCガチ素人のアルゴ茶コーダー VS AHC013 〜初歩的アルゴ知識だけで戦ってみました〜</a> - <a href="https://atcoder.jp/users/fujikawahiroaki">fujikawahiroaki</a>さんの参加記。アルゴリズム部門で身につけた知識を活用して、コンテストに挑戦する過程がまとめられている。</p>
+<ul>
+<li><a href="https://fujikawa.hatenablog.com/entry/2022/11/22/220829">AHC016（HTTF2023予選）敗戦記　〜傷まみれの青春〜</a></li>
+</ul>
+</li>
+<li><a href="https://qiita.com/thun-c/items/11af0980cc938dc28d3b">AHC018の1位解法(Psyho氏の解法)解説</a> - <a href="https://atcoder.jp/users/Psyho">Psyho</a>さんによる<a href="https://atcoder.jp/contests/ahc018">AtCoder Heuristic Contest 018</a>の解答方針を、<a href="https://atcoder.jp/users/thunder">thunder</a>さんが詳しく解説した記事。<ul>
+<li><a href="https://speakerdeck.com/thunderc/toyota-ahc-zhi-gao-noarugorizumujie-shuo-hui-ahc015">TOYOTA AHC 至高のアルゴリズム解説会 AHC015</a> - <a href="https://atcoder.jp/contests/ahc015">AtCoder Heuristic Contest 015</a>の延長戦1位(2024年1月末時点)の解法を紹介・解説した記事。</li>
+</ul>
+</li>
+<li><a href="https://docs.google.com/presentation/d/1JEcyHLw8XrDqL4FHUGYIVQC63KSZ2eaHRjO0E2y1WeU/edit#slide=id.p">AHC018 ガウス過程回帰を用いた解法</a> - 観測された情報から未知の情報を推定するガウス過程回帰の説明を中心に、<a href="https://atcoder.jp/contests/ahc018">AtCoder Heuristic Contest 018</a>への適用例も紹介されているスライド。</li>
+<li><a href="https://note.com/likafu/n/n81fc35c58550">【AHC022】 AHC初参加記 〜入茶しました</a> - <a href="https://atcoder.jp/users/Likafu">Likafu</a>さんの参加記。<a href="https://atcoder.jp/contests/ahc022">AtCoder Heuristic Contest 022</a>に参加した経緯、考察内容やスコアの推移、感想などがまとめられている。</li>
+<li><a href="https://www.wantedly.com/companies/learningbox/post_articles/538136">第10回 Asprova プログラミングコンテスト 参加記 (39.1M; 130位)</a> - <a href="https://atcoder.jp/users/nishigake">nishigake</a>さんの参加記。<a href="https://atcoder.jp/contests/ahc023">AtCoder Heuristic Contest 023</a>で、最初の解法から「改善案を考え、実装する」サイクルを繰り返して高得点を目指している記事。</li>
+<li><a href="https://speakerdeck.com/bowwowforeach/toyotazi-dong-che-puroguramingukontesuto2023-number-6-atcoder-heuristic-contest-026-zhi-gao-noarugorizumujie-shuo">トヨタ自動車プログラミングコンテスト2023#6（AtCoder Heuristic Contest 026）至高のアルゴリズム解説</a> - <a href="https://atcoder.jp/contests/ahc026">AtCoder Heuristic Contest 026</a>を対象として、延長戦の解法が2種類解説されている。<ul>
+<li><a href="https://www.docswell.com/s/hitonanode/K22QM4-2024-11-29">TOYOTA AHC 至高のアルゴリズム解説会#2 AHC026 解説</a> - 同コンテストにおいて、扱いやすい評価関数の導入と組合せ最適化問題の解を列挙するアルゴリズムに帰着する方法が紹介されている。</li>
+</ul>
+</li>
+<li><a href="https://qiita.com/aplysia/items/c3f2111110ac5043710a">AHC030のseed0のバババッて決まるやつは結構簡単に作れるよという話</a> - <a href="https://atcoder.jp/contests/ahc030">AtCoder Heuristic Contest 030</a>を題材に、ベイズ推定の概略とC++の実装例が紹介されている。<ul>
+<li><a href="https://qiita.com/aplysia/items/29a4fb4573fc1b8dec79">相互情報量を学んでもっとうまくAHC030を解こう！</a> - 上記の記事の続編。相互情報量を最大化するような点集合を選択することの具体的な意味とC++実装例が紹介されている。</li>
+</ul>
+</li>
+<li><a href="https://medium.com/karakuri/%E7%AC%AC%E4%B8%80%E5%9B%9E%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA%E4%BA%88%E9%81%B8-%E5%8F%82%E5%8A%A0%E8%A8%98-8f605012aa4a">第一回マスターズ選手権予選・参加記</a> - <a href="https://atcoder.jp/contests/masters-qual">第一回マスターズ選手権-予選-</a>の参加記。問題の解法、高得点を取るための工夫が時系列でまとめられている。</li>
+<li><a href="https://d-burioden.hateblo.jp/entry/2024/04/13/154639">世界一やさしいAHC体験記</a> - <a href="https://atcoder.jp/users/burioden">burioden</a>さんの体験記。ヒューリスティック型コンテストに興味がある人に向けて、筆者が初参加のコンテストで回答を提出するまでの流れや感想などがまとめられている。</li>
+<li><a href="https://tsukammo.hatenablog.com/entry/2024/04/21/161831">いま、ここにしかない、出会い。(AtCoder 第一回マスターズ選手権 -決勝- で五位入賞しました。)</a> - <a href="https://atcoder.jp/users/tsukammo">tsukammo</a>さんの備忘録。<a href="https://atcoder.jp/contests/masters2024-final">第一回マスターズ選手権 -決勝-</a>におけるメンバーの立ち回り(チーム決めや予選の内容も含む)を時系列で振り返っている。</li>
+<li><a href="https://amentorimaru.hatenablog.com/entry/2024/04/21/034648">第一回マスターズ参加記</a> - <a href="https://atcoder.jp/users/amentorimaru?contestType=heuristic">amentorimaru</a>さんの参加記。<a href="https://atcoder.jp/contests/masters2024-final">第一回マスターズ選手権 -決勝-</a>の振り返り(決勝進出までの内容を含む)・次回に向けた課題などがつづられている。</li>
+<li><a href="https://math-gorilla.hatenablog.com/entry/2024/07/28/161631">ALGO ARTIS プログラミングコンテスト2024 夏(AHC035)解説</a> - <a href="https://atcoder.jp/users/MathGorilla">MathGorilla</a>さんによる<a href="https://atcoder.jp/contests/ahc035">ALGO ARTIS プログラミングコンテスト2024 夏（AtCoder Heuristic Contest 035）</a>の考察と実装方針が紹介されている。</li>
+<li><a href="https://soumat.hatenablog.com/entry/2024/09/07/152734">AHC036 参加記</a> - <a href="https://atcoder.jp/users/soumat">soumat</a>さんによる<a href="https://atcoder.jp/contests/ahc036">RECRUIT 日本橋ハーフマラソン 2024夏（AtCoder Heuristic Contest 036）</a>の参加記。解法および高速化のテクニックが紹介されている。</li>
+<li><a href="https://rsm9.hatenablog.com/entry/2025/01/22/213923">AHC041 参加記・本番 1 位解法の説明</a> - <a href="https://atcoder.jp/users/hitonanode">hitonanode</a>さんによる<a href="https://atcoder.jp/contests/ahc041">ALGO ARTIS プログラミングコンテスト2025 冬（AtCoder Heuristic Contest 041）</a>の参加記。ビームサーチによる解法に加えて、汎用ソルバーの活用の仕方・解法に至るまでの過程が紹介されている。</li>
+<li><a href="https://note.com/tak_nakamori/n/n847bf483d44c">あえて考えなかった4時間：AIにすべてを任せたAHC047参戦記</a> - <a href="https://atcoder.jp/users/TakahiroNakamori">TakahiroNakamori</a>さんによる参加記。<a href="https://atcoder.jp/contests/ahc047">トヨタ自動車プログラミングコンテスト2025#2（AtCoder Heuristic Contest 047）</a>で、意図的に生成AIに「すべてを任せる」ことで見えた壁・本業の成果物との違い・実験から得られた仮説がつづられている。</li>
+<li><a href="https://zenn.dev/algoartis/articles/report_ahc050">AHC050勉強会レポート</a> - <a href="https://atcoder.jp/contests/ahc050">AtCoder Heuristic Contest 050</a>を題材にした社内勉強会で、コンテスト当日の考察や振り返りがまとめられている。</li>
+<li><a href="https://note.com/ymatsux/n/ne82d83292354">THIRD プログラミングコンテスト 2025 夏 (AHC051): 7位解法の解説</a> - <a href="https://atcoder.jp/users/ymatsux">ymatsux</a>さんによる<a href="https://atcoder.jp/contests/ahc051">THIRD プログラミングコンテスト 2025 夏（AtCoder Heuristic Contest 051）</a>の解説。基本方針、解を得るための3ステップ、さらに高速化の工夫が紹介されている。</li>
+<li><a href="https://keroru10.hatenablog.com/entry/2025/08/26/223054">AHC052参加記</a> - <a href="https://atcoder.jp/users/keroru">keroru</a>さんによる<a href="https://atcoder.jp/contests/ahc052">AtCoder Heuristic Contest 052</a>の参加記。コンテスト中の考察や立ち回り、生成AIにソースコードを実装させるための具体的な指示が紹介されている。</li>
+<li><a href="https://qiita.com/hotpepsi/items/689942f364a4ee6c56c2">AHC052参加記</a> - <a href="https://atcoder.jp/users/hotpepsi">hotpepsi</a>さんによる<a href="https://atcoder.jp/contests/ahc052">AtCoder Heuristic Contest 052</a>の参加記。コンテスト中の考察と実装方針が紹介されている。</li>
+<li><a href="https://yosupo.hatenablog.com/entry/2025/09/15/213945">AHC 053 満点解法</a> - <a href="https://atcoder.jp/users/yosupo">yosupo</a>さんが<a href="https://atcoder.jp/contests/ahc053">第12回 Asprova プログラミングコンテスト（AtCoder Heuristic Contest 053）</a>で全ケース満点を取った解法が紹介されている。</li>
+<li>
+<p><a href="https://github.com/FakePsyho/cpcontests">FakePsyho/cpcontests</a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/FakePsyho/cpcontests?style=plastic" /> - <a href="https://atcoder.jp/users/Psyho">Psyho</a>さんが参加したコンテストの解答の方針とソースコードがまとめられている。</p>
+<hr />
+<p><div align="center">
+  <a href="../../blogs/">もっと読む</a>
+</div></p>
+</li>
+</ul>
+<h4 id="_12">コンテスト企画者の振り返り</h4>
+<!-- markdown-link-check-disable -->
+
+<ul>
+<li><a href="https://www.estie.jp/blog/entry/2022/12/14/110000">企画者目線で振り返るestie プログラミングコンテスト2022</a> - <a href="https://atcoder.jp/users/matsu7874">matsu7874</a>さんが、企画・運営の立場から<a href="https://atcoder.jp/contests/ahc014">estie プログラミングコンテスト2022（AtCoder Heuristic Contest 014）</a>を振り返った記事。</li>
+</ul>
+<!-- markdown-link-check-enable -->
+
+<ul>
+<li><a href="https://media.algo-artis.com/posts/8A4hMugo">ALGO ARTISプログラミングコンテスト writerインタビュー  アルゴリズムエンジニア松尾が語るコンテストの舞台裏</a> - <a href="https://atcoder.jp/contests/ahc020">ALGO ARTIS プログラミングコンテスト2023（AtCoder Heuristic Contest 020）</a>のwriterである<a href="https://atcoder.jp/users/terry_u16">terry_u16</a>さんへのインタビュー記事。コンテスト開催までの経緯、問題の作成・調整の過程とコンテスト当日の状況などがまとめられている。<ul>
+<li><a href="https://note.com/algoartis/n/na09ebec91106">1000人を熱狂させる問題はこうして作る – AHC Writer の奮闘記</a> - <a href="https://atcoder.jp/contests/ahc041">ALGO ARTIS プログラミングコンテスト2025 冬（AtCoder Heuristic Contest 041）</a>における問題の準備からコンテスト当日までの流れが時系列順に紹介されている。</li>
+</ul>
+</li>
+</ul>
+<h3 id="_13">問題や参加者に関する調査・分析</h3>
+<ul>
+<li><a href="https://qiita.com/tanaka-a/items/3c2a1bca63759ec71e7f">競プロ〜ヒューリスティック/マラソン事始め〜</a> - ヒューリスティック型コンテストの問題を「改善重視型」「初期解重視型」「パラメータ推定型」に分類し、それぞれのアプローチ方法や高スコアを目指すためのテクニックが紹介されている。<ul>
+<li><a href="https://qiita.com/tanaka-a/items/ab1c1f539a826606dc65">【競プロ】ヒューリスティックコンテストで戦うヒント</a> - 著者の経験を踏まえ、問題に取り組むときの考え方（粗視化、小問題への分割、自主的な制約の追加、既存アルゴリズムおよび実行時間の活用）・心構えがまとめられている。</li>
+</ul>
+</li>
+<li><a href="https://wakabame.hatenablog.com/entry/2021/03/20/004612">AHC001（マラソンマッチ）の参加者の使用言語の分布を調べてみた</a> - <a href="https://atcoder.jp/contests/ahc001">AtCoder Heuristic Contest 001</a>で一定の得点以上の提出コードを対象として、利用者の多い言語、使用言語と得点・順位との関係を調査した記事。ヒューリスティック型のコンテストにおいて、使用言語を選択する際に参考になると思われる。</li>
+<li><a href="https://rmizutaa.hatenablog.com/entry/2021/12/16/215055">Atcoder Heuristic Contestの順位とアルゴリズムのレートの関係性を眺める</a> - Ratedのヒューリスティックコンテスト(短期・長期)とアルゴリズムのレーティングとの関係性を調査・分析した記事。</li>
+<li>
+<p><a href="https://docs.google.com/spreadsheets/d/1KS3UXpcU5lyQTpPbFw10HsX4xas99ZWMTpQtswWsG84/edit#gid=0">AHC（の問題設定を現実に実行する場合の）難易度表</a> - ヒューリスティック型コンテストの問題設定を人類が実現しようする場合の難易度表。</p>
+<div class="admonition warning">
+<p class="admonition-title">注意</p>
+<p>問題そのものの難易度ではない。</p>
+</div>
+</li>
+</ul>
+<h3 id="_14">便利ツールの作成・活用</h3>
+<h4 id="_15">ビジュアライザを自作する</h4>
+<ul>
+<li><a href="https://yunix-kyopro.hatenablog.com/entry/2023/12/17/150534">ヒューリスティックコンテストでビジュアライザを開発する方法に関するメモ</a> - ヒューリスティックコンテストで使用するビジュアライザの開発方法が紹介されている。<ul>
+<li><a href="https://github.com/yunix-kyopro/visualizer-template-public">ReactとRustで実装されているテンプレート</a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/yunix-kyopro/visualizer-template-public?style=plastic" /></li>
+<li><a href="https://yunix-kyopro.hatenablog.com/entry/2025/01/16/204053">ビジュアライザ筋トレ2025年 chatGPT活用編</a> - 上記のテンプレートのうち、問題固有の部分を生成AIで出力させ、その実用性を検証している。</li>
+<li><a href="https://zenn.dev/tipstar0125/articles/d2cf0ef63bceb7">ヒューリスティックコンテスト用Visualizer(Rust, SVG) チートシート集</a></li>
+</ul>
+</li>
+<li><a href="https://tsukammo.hatenablog.com/entry/2025/03/03/011646">AHC のジャッジコードを流用して作る visualzer作成 (AtCoder 第二回マスターズ選手権 -予選- )</a> - AtCoder Heuristic Contest (AHC) で提供されているジャッジコードを活用して、ビジュアライザを作成する方法が説明されている。</li>
+<li><a href="https://terumiyake.hatenablog.com/entry/2022/06/25/151919">簡単＆便利！ C# × .NET Blazor で AHC ビジュアライザ作り</a> - ヒューリスティックコンテストで使用するビジュアライザを自作する方法が解説されている。サーバサイドとクライアントサイドのロジックが、同じ言語(C#)で記述できるのが特徴。<ul>
+<li><a href="https://github.com/TeruMiyake/AHC011Visualiser-With-Blazor">サンプルプロジェクト - AHC011</a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/TeruMiyake/AHC011Visualiser-With-Blazor?style=plastic" /></li>
+</ul>
+</li>
+</ul>
+<h4 id="_16">インタラクティブ問題をデバッグする</h4>
+<ul>
+<li><a href="https://qiita.com/tanaka-a/items/6856d7fcf78f2516f691">AtCoder AHCのインタラクティブ問題でデバッグ実行を実現する</a> - インタラクティブ問題をデバッグする方法が紹介されている。<ul>
+<li><a href="https://github.com/lavox/ahc_interactive_debug_tool">AHC interactive debug tool</a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/lavox/ahc_interactive_debug_tool?style=plastic" /> - 筆者が作成したツールが公開されている。</li>
+</ul>
+</li>
+</ul>
+<h4 id="optuna">Optuna</h4>
+<ul>
+<li><a href="https://kuruton.hatenablog.com/entry/2021/12/14/011150">Optunaでヒューリスティックコンテストを解く</a> - ヒューリスティックコンテストでハイパーパラメータの調整を行う際に、Pythonライブラリ「Optuna」を利用する方法を紹介した記事。また、Python以外の言語(C++)で書かれたコードに対するパラメータの調整方法が丁寧に解説されている。</li>
+<li><a href="https://blog.knshnb.com/posts/ahc007-optuna/">Optunaを使ってAtCoder Heuristic Contest 007を優勝する</a> - <a href="https://atcoder.jp/contests/ahc007">AtCoder Heuristic Contest 007</a>を題材に、ハイパーパラメータをPythonライブラリ「Optuna」で探索して高スコアが得られたことを紹介した記事。提出コードと各ツールの連携方法やパラメータの探索結果の可視化について解説されている。</li>
+<li><a href="https://tech.preferred.jp/ja/blog/optuna-autosampler/">AutoSampler：Optunaの最適化アルゴリズムを自動選択する機能を公開</a> - Optunaの最適アルゴリズムを自動的に選択する<a href="https://hub.optuna.org/samplers/auto_sampler/">AutoSampler</a>の必要性、利用方法などが紹介されている。</li>
+</ul>
+<h4 id="aws">AWS</h4>
+<div class="admonition warning">
+<p class="admonition-title">注意</p>
+<p>AWSに関する基礎知識が必要であり、各サービスの利用状況に応じて料金の支払いが発生する。</p>
+</div>
+<ul>
+<li>
+<p><a href="https://yunix-kyopro.hatenablog.com/entry/2022/07/02/134251">AWS上にマラソンマッチ用のジャッジ環境を作った</a> - ヒューリスティック型コンテストにおいて、大量のテストケースをAWS環境で処理する方法が紹介されている記事。</p>
+<!-- markdown-link-check-disable -->
+<ul>
+<li><a href="https://shindannin.hatenadiary.com/entry/2023/06/19/100655">「AWS上にマラソンマッチ用のジャッジ環境を作った」をChatGPTに投げて、Lambdaを使ったAHC用のジャッジ環境を作る。</a> - <a href="https://openai.com/blog/chatgpt/">ChatGPT</a>による質問・回答を繰り返しながら、AWS環境の構築過程とエラーへの対処方法が紹介されている。</li>
+</ul>
+<!-- markdown-link-check-enable -->
+</li>
+<li>
+<p><a href="https://topcoder-tomerun.hatenablog.jp/entry/2024/04/06/201915">私のスコア問題評価環境</a> - <a href="https://atcoder.jp/users/tomerun">tomerun</a>さんが、大量のテストケースを低価格で評価する方法(AWS Batch)を紹介している。</p>
+</li>
+</ul>
+<h4 id="ai">生成AIの活用</h4>
+<ul>
+<li><a href="https://qiita.com/keroru/items/66fcd6fed26bf2f6f0ae">ChatGPT×Codexの競技プログラミング（ヒューリスティック）での活用</a> - ChatGPT版Codex を活用して、ヒューリスティックな問題を解く方法、その利点や課題などが紹介されている。</li>
+</ul>
+<h2 id="_17">資料集</h2>
+<h3 id="_18">数理最適化</h3>
+<ul>
+<li><a href="https://heuristic-ja.growi.cloud/">ヒューリスティック最適化資料集</a> - ヒューリスティックコンテストに関するリンク集と過去問がまとめられている資料集。</li>
+<li><a href="https://scmopt.github.io/opt100/index.html">Python言語による実務で使える100+の最適化問題</a> - 典型的な最適化問題とそれらの定式化・解法が網羅されている。サンプルコードはPythonで実装されている。</li>
+<li><a href="https://speakerdeck.com/umepon/local-search-and-metaheuristics-for-combinatorial-optimization-problems">局所探索法とメタヒューリスティクス</a> - 組合せ最適化問題のうち計算困難な場合に対して、局所探索法やメタヒューリスティックスによるアプローチ方法を紹介しているスライド。</li>
+<li><a href="https://qiita.com/hari64/items/e66fd2a281ab76a58af3">しっかり学ぶ数理最適化 ヒューリスティック編</a> - 「<a href="https://www.amazon.co.jp/%E3%81%97%E3%81%A3%E3%81%8B%E3%82%8A%E5%AD%A6%E3%81%B6%E6%95%B0%E7%90%86%E6%9C%80%E9%81%A9%E5%8C%96-%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%BE%E3%81%A7-KS%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E5%B0%82%E9%96%80%E6%9B%B8-%E6%A2%85%E8%B0%B7-%E4%BF%8A%E6%B2%BB/dp/4065212707">しっかり学ぶ数理最適化モデルからアルゴリズムまで</a>」の内容をベースに、視覚化に焦点が当てられている記事。</li>
+</ul>
+<h3 id="ai_1">ゲームAI</h3>
+<ul>
+<li><a href="https://qiita.com/thun-c/items/058743a25c37c87b8aa4">世界四連覇AIエンジニアがゼロから教えるゲーム木探索入門</a> - ゲーム木探索に関する入門記事。ゲームの種類(一人ゲーム・交互着手二人ゲーム・同時着手二人ゲーム)と対応する探索アルゴリズムがとても丁寧に解説されている。また、汎用アルゴリズムの実装例と動作可能なサンプルコードが両方とも掲載されているのが特徴。</li>
+<li><a href="https://note.com/nyanyan_cubetech/m/m54104c8d2f12">オセロAIの教科書</a> - オセロAIの初歩から高度な内容まで解説されている記事集。C++とPythonで実装された<a href="https://github.com/Nyanyan/OthelloAI_Textbook">サンプル</a>もある。</li>
+</ul>
+<h2 id="_19">探索手法の解説と応用</h2>
+<h3 id="chokudai">chokudaiサーチ</h3>
+<ul>
+<li><a href="https://chokudai.hatenablog.com/entry/2017/04/12/055515">chokudaiサーチ(ビームサーチ亜種)の利点の話</a> - 探索アルゴリズムの一種であるchokudaiサーチについて解説されている記事。Beam Stack Searchと比べて、時間管理が楽になることや探索の多様性を考慮できることに特徴がある。<ul>
+<li><a href="https://www.slideshare.net/chokudai/chokudai-search-23234124">Chokudai search</a> -  上記の記事の内容が簡潔にまとめられているスライド。</li>
+</ul>
+</li>
+</ul>
+<h3 id="_20">ビームサーチ</h3>
+<ul>
+<li>
+<p><a href="https://www.dropbox.com/s/19bd80157krpg44/20230301_%E3%83%93%E3%83%BC%E3%83%A0%E3%82%B5%E3%83%BC%E3%83%81%E8%AC%9B%E5%BA%A7.pptx">ビームサーチ講座</a> - 選択した順番によって結果が大きく変わる問題を解くときに、全探索と貪欲法の中間的なアプローチである「ビームーチ」を図解したスライド。</p>
+<div class="admonition warning">
+<p class="admonition-title">注意</p>
+<p>実装に関しては、別の記事や書籍を読む必要がある。</p>
+</div>
+</li>
+<li>
+<p><a href="https://montplusa.hatenablog.com/entry/2024/10/17/174500">AHC038でビームサーチをしてみよう！</a> - ビームサーチの入門記事。コンテストで出題された問題の実装例も紹介されている。</p>
+</li>
+<li><a href="https://zenn.dev/siman/articles/e94f63246f6cb3">ビームサーチの上位N件を高速に取る手法について考えてみる</a> - ビームサーチで、表題の内容について高速化を図った記事。C++で実装された実験コードに基づいて、実行速度の計測・比較が行われている。</li>
+<li><a href="https://qiita.com/rhoo/items/f2be256cde5ad2e62dde">高速なビームサーチが欲しい!!!</a> - ビームサーチの高速化について解説した記事。前提として、ビームサーチの基礎とC++のポインタなどの知識が必要。<ul>
+<li><a href="https://platinum-prog.hatenablog.com/entry/2023/07/28/222536">ビームサーチをライブラリ化する【基礎編】</a> - ライブラリ作成の方針・一般的な実装方法(C++)を紹介した記事。<a href="https://platinum-prog.hatenablog.com/entry/2023/08/09/203217">応用編</a>もある。</li>
+<li><a href="https://eijirou-kyopro.hatenablog.com/entry/2024/02/01/115639">差分更新ビームサーチライブラリの実装 (C++)</a> - 差分更新型のビームサーチの実装例(C++)が紹介されている。</li>
+<li><a href="https://qiita.com/thun-c/items/a29c80f7ba54b271a6c7">差分更新ビームサーチライブラリをテンプレートメタプログラミングでつくってみた</a> - 上記をベースに、利用者が実装すべき部分を明確化するとともに、HashMapを後から追加できるよう修正されている。<ul>
+<li><a href="https://github.com/thun-c/thunder_library">C++で実装されたライブラリ</a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/thun-c/thunder_library?style=plastic" /></li>
+</ul>
+</li>
+<li><a href="https://qiita.com/rhoo/items/2f647e32f6ff2c6ee056">爆速ビームサーチライブラリを作る</a> - 典型的なケースに対応した高速なビームサーチの実装とライブラリ化の方法を紹介した記事。<ul>
+<li><a href="https://github.com/rhoo19937/beam-search-library">Rustで実装されたライブラリ</a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rhoo19937/beam-search-library?style=plastic" /></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://qiita.com/tsukasa__diary/items/f050291b6adad80b7998">ビームスタックサーチ（Beam-Stack Search）の解説</a> - ビームスタックサーチについて、原著論文をもとに解説した記事。上述のchokudaiサーチとは異なるアリゴリズムであると指摘されている。</li>
+</ul>
+<h3 id="_21">焼きなまし法</h3>
+<ul>
+<li><a href="http://gasin.hatenadiary.jp/entry/2019/09/03/162613">誰でもできる焼きなまし法</a> - <a href="https://atcoder.jp/users/gasin">gasin</a>さんが「焼きなまし法」の汎用性の高い実装方法を紹介した記事。<ul>
+<li><a href="https://yunix-kyopro.hatenablog.com/entry/2022/10/30/141616">焼きなましをするときの設計に関するメモ</a> - 焼きなまし法を利用するときのクラス設計とC++の実装例が紹介されている記事。</li>
+</ul>
+</li>
+<li><a href="https://qiita.com/tsukammo/items/b410f3202372fe87c919">競技プログラミングにおいて焼きなまし法に堕ちずに落とすコツ</a> - <a href="https://atcoder.jp/users/tsukammo">tsukammo</a>さんが「焼きなまし法」を適切に利用するための知見をまとめた記事。相性の良い/悪い問題の特徴、同手法の適用範囲、問題の特性を活用したアプローチ方法が紹介されている。</li>
+<li><a href="https://shindannin.hatenadiary.com/entry/2021/03/06/115415">焼きなまし法のコツ Ver. 1.3</a> - <a href="https://atcoder.jp/users/shindannin">shindannin</a>さんが「焼きなまし法」の使い方について、高速化・次の状態の決め方・評価関数などの観点から網羅的にまとめている記事。また、各項目について重要度が併記されているのが特徴。</li>
+<li><a href="https://qiita.com/not522/items/cd20b87157d15850d31c">焼きなまし法での評価関数の打ち切り</a> - 焼きなまし法の判定条件を式変形することで、評価値が閾値を超過した時点で評価関数を打ち切る方法が紹介されている。</li>
+<li><a href="https://jetbead.hatenablog.com/entry/20180120/1516387673">焼きなまし法の適用メモ</a> - 焼きなまし法を問題に適用するときに、留意すべき事項(重要なパラメータ・適用の妥当性を判断・概念や用語)がまとめられている記事。</li>
+<li>
+<p><a href="https://github.com/hakomo/Simulated-Annealing-Techniques">詳解 焼きなまし法</a> - <a href="https://atcoder.jp/users/hakomo">hakomo</a>さんが、コンテストで高いスコア・順位を取るために、最上位陣による実践的な工夫と適用例の網羅を目指しているレポジトリ。</p>
+<div class="admonition warning">
+<p class="admonition-title">注意</p>
+<p>最終更新が2018年11月末であり、一部の項目については準備中であると思われる。</p>
+</div>
+</li>
+</ul>
+<h3 id="_22">ベイズ推定</h3>
+<ul>
+<li><a href="https://platinum-prog.hatenablog.com/entry/2023/05/20/231200">ヒューリスティックコンテストでベイズ推定に入門しよう</a> - ベイズ推定を活用して、限られた情報からパラメータを予測する方法を解説した記事。<a href="https://atcoder.jp/contests/ahc003">AtCoder Heuristic Contest 003</a>を題材として、C++での実装例も紹介されている。</li>
+</ul>
+<h3 id="_23">カルマンフィルタ</h3>
+<ul>
+<li><a href="https://zenn.dev/algoartis/articles/kalmanfilter_masters_2024">カルマンフィルタを使ってマスターズ選手権2024決勝のA問題を解いてみた</a> - カルマンフィルタの概説と解決できる問題、および、<a href="https://atcoder.jp/contests/masters2024-final">第一回マスターズ選手権 -決勝-</a>のA問題における適用例が紹介されている。</li>
+</ul>
+<h3 id="_24">シュタイナー木</h3>
+<ul>
+<li><a href="https://bowwowforeach.hatenablog.com/entry/2023/06/18/213212">プリム法ベースのシュタイナー木</a> - プリム法をベースとしたシュタイナー木に関するアルゴリズムが図解されている記事。Dreyfus-Wagner法と比べて計算量は少ないもののコストが最小になるとは限らないため、厳密さよりも速度が優先される場面での利用が想定されている。</li>
+</ul>
+<h3 id="_25">ゲーム探索木</h3>
+<ul>
+<li><a href="https://valgrowth.hatenablog.com/entry/2023/02/11/103944">この木なんの木？　モンテカルロ木と最良優先MiniMax木の"間"に存在する名もなき木々</a> - モンテカルロ木探索を最良優先MiniMax探索に変える過程で存在する有用な木の概念を紹介した記事。</li>
+</ul>
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+
+
+
+  <form class="md-feedback" name="feedback" hidden>
+    <fieldset>
+      <legend class="md-feedback__title">
+        このページは役に立ちましたか?
+      </legend>
+      <div class="md-feedback__inner">
+        <div class="md-feedback__list">
+          
+            <button class="md-feedback__icon md-icon" type="submit" title="This page was helpful" data-md-value="1">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 9v12H1V9zm4 12a2 2 0 0 1-2-2V9c0-.55.22-1.05.59-1.41L14.17 1l1.06 1.06c.27.27.44.64.44 1.05l-.03.32L14.69 8H21a2 2 0 0 1 2 2v2c0 .26-.05.5-.14.73l-3.02 7.05C19.54 20.5 18.83 21 18 21zm0-2h9.03L21 12v-2h-8.79l1.13-5.32L9 9.03z"/></svg>
+            </button>
+          
+            <button class="md-feedback__icon md-icon" type="submit" title="This page could be improved" data-md-value="0">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 15V3h4v12zM15 3a2 2 0 0 1 2 2v10c0 .55-.22 1.05-.59 1.41L9.83 23l-1.06-1.06c-.27-.27-.44-.64-.44-1.06l.03-.31.95-4.57H3a2 2 0 0 1-2-2v-2c0-.26.05-.5.14-.73l3.02-7.05C4.46 3.5 5.17 3 6 3zm0 2H5.97L3 12v2h8.78l-1.13 5.32L15 14.97z"/></svg>
+            </button>
+          
+        </div>
+        <div class="md-feedback__note">
+          
+            <div data-md-value="1" hidden>
+              
+              
+                
+              
+              
+              
+                
+                
+              
+              ありがとうございます！
+            </div>
+          
+            <div data-md-value="0" hidden>
+              
+              
+                
+              
+              
+              
+                
+                
+              
+              ありがとうございます！ このページの改善にご協力ください （<a href="https://github.com/KATO-Hiro/AtCoderClans/issues/new?title=[Feedback]+%E3%83%92%E3%83%A5%E3%83%BC%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E5%95%8F%E9%A1%8C%E3%82%92%E8%A7%A3%E3%81%8F+-+/articles/heuristic/" target="_blank" rel="noopener">GitHub</a>）。
+            </div>
+          
+        </div>
+      </div>
+    </fieldset>
+  </form>
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  ページトップへ戻る
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="フッター" >
+        
+          
+          <a href="../algorithm/" class="md-footer__link md-footer__link--prev" aria-label="前: アルゴリズムを学ぶ">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                前
+              </span>
+              <div class="md-ellipsis">
+                アルゴリズムを学ぶ
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../math/" class="md-footer__link md-footer__link--next" aria-label="次: 数学を学ぶ">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                次
+              </span>
+              <div class="md-ellipsis">
+                数学を学ぶ
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2020-2026 hiro_hiro
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["content.action.edit", "content.action.view", "content.code.copy", "navigation.instant", "navigation.top", "navigation.footer", "search.highlight", "search.share", "search.suggest"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "\u30b3\u30d4\u30fc\u3057\u307e\u3057\u305f", "clipboard.copy": "\u30af\u30ea\u30c3\u30d7\u30dc\u30fc\u30c9\u3078\u30b3\u30d4\u30fc", "search.result.more.one": "\u3053\u306e\u30da\u30fc\u30b8\u5185\u306b\u3082\u30461\u4ef6\u898b\u3064\u304b\u308a\u307e\u3057\u305f", "search.result.more.other": "\u3053\u306e\u30da\u30fc\u30b8\u5185\u306b\u3042\u3068#\u4ef6\u898b\u3064\u304b\u308a\u307e\u3057\u305f", "search.result.none": "\u4f55\u3082\u898b\u3064\u304b\u308a\u307e\u305b\u3093\u3067\u3057\u305f", "search.result.one": "1\u4ef6\u898b\u3064\u304b\u308a\u307e\u3057\u305f", "search.result.other": "#\u4ef6\u898b\u3064\u304b\u308a\u307e\u3057\u305f", "search.result.placeholder": "\u691c\u7d22\u30ad\u30fc\u30ef\u30fc\u30c9\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044", "search.result.term.missing": "\u691c\u7d22\u306b\u542b\u307e\u308c\u306a\u3044", "select.version": "\u30d0\u30fc\u30b8\u30e7\u30f3\u5207\u308a\u66ff\u3048"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+      
+        <script src="../../javascripts/link_as_new_tab.js"></script>
+      
+        <script src="../../javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+    
+  </body>
+</html>
