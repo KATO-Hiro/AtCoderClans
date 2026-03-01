@@ -174,6 +174,12 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/atcoder_copy_button_adder.png" alt="atcoder copy button adder">
     </div>
 
+- [AtCoder Quote & Click Copy](https://greasyfork.org/ja/scripts/564928-atcoder-quote-click-copy) - 「問題」ページの問題文に含まれる文字列をクォーテーションで囲み、クリックでコピーできるようにする。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_quote_and_click_copy.png" alt="atcoder quote and click copy">
+    </div>
+
 - [AtCoder NoCopy](https://greasyfork.org/ja/scripts/497349-atcoder-nocopy) - AtCoder Beginner Contestの問題文をコピーできないようにする(右クリックとCtrl + C)。
 
 ### 制約条件を確認・非表示に
