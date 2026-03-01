@@ -174,7 +174,7 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/atcoder_copy_button_adder.png" alt="atcoder copy button adder">
     </div>
 
-- [AtCoder Quote & Click Copy](https://greasyfork.org/ja/scripts/564928-atcoder-quote-click-copy) - 「問題」ページの問題文に含まれる文字列をクォーテーションで囲み、クリックでコピーできるようにする。
+- [AtCoder Quote & Click Copy](https://greasyfork.org/ja/scripts/564928-atcoder-quote-click-copy) - 「問題」ページにおいて、問題文の `Yes`・`No`・`.`・`#` などをクリックでコピーできるようにする。数値・文字列をコピーする際のクォーテーション形式（なし・シングル・ダブル）をそれぞれ設定でき、設定は保存される。
 
     <div align="center">
       <img loading="lazy" src="../../images/userscript/atcoder_quote_and_click_copy.png" alt="atcoder quote and click copy">
