@@ -128,6 +128,15 @@
 
 === "ユーザスクリプト"
 
+    2026-03-01
+
+    - 「[問題を解く](user_scripts/solve_problems)」ページ
+        - [AtCoder Quote & Click Copy](https://greasyfork.org/ja/scripts/564928-atcoder-quote-click-copy)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_quote_and_click_copy.png" alt="atcoder quote and click copy">
+    </div>
+
     2026-02-25
 
     - 「[問題を解く](user_scripts/solve_problems)」ページ
@@ -153,15 +162,6 @@
 
     <div align="center">
       <img loading="lazy" src="images/userscript/go_to_list_of_submitted_tasks.png" alt="go to list of submitted tasks">
-    </div>
-
-    2026-02-15
-
-    - 「[問題を解く](user_scripts/solve_problems)」ページ
-        - [AtCoderProblemCopier](https://greasyfork.org/ja/scripts/565854-atcoderproblemcopier)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_problem_copier.png" alt="atcoder problem copier">
     </div>
 
 === "記事"
