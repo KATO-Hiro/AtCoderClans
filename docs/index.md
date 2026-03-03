@@ -196,11 +196,6 @@
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
         - [2026年のARCについての変更点](https://atcoder.jp/posts/2026ARC_ja)
 
-    2026-02-17
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年2月16日時点)](https://x.com/atcoder/status/2023274897653600414)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -225,6 +220,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-03-03
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [Un_titled](https://atcoder.jp/users/Un_titled)さん - [【色変記事】緑になってから約2か月で入水しました！](https://qiita.com/Un_titled/items/a7ed6f6da64d6b0d19f1)
 
     2026-02-26
 
