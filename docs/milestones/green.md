@@ -7,6 +7,7 @@ title: レーティング800〜1199(緑色)
 
 ## 2026年
 
+- [【AtCoder色変記事】入緑したので、やってきたことを振り返る](https://qiita.com/KK_Poker/items/33a566141af5c29765e6) - [KK_Poker](https://atcoder.jp/users/KK_Poker)さんが、2026年2月28日に達成。
 - [【色変記事】Atcoderで0から(約)1年かけて緑色になった話](https://qiita.com/shirogane1234/items/9cfaeb73586ea43d7fb5) - [shirogane1234](https://atcoder.jp/users/shirogane1234)さんが、2026年2月22日に公開。
 - [【色変記事】AtCoderで入緑したので振り返り](https://qiita.com/menboy/items/8518cd88fe21588fb1ae) - [menboy](https://atcoder.jp/users/menboy)さんが、2026年2月7日に達成。
 - [なぎさの入緑記事](https://qiita.com/nagisa14567/items/b1c87d2ffc993a0a3fda) - [nagisa14567](https://atcoder.jp/users/nagisa14567)さんが、2026年2月6日に公開。
