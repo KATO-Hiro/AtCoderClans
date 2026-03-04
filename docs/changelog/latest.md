@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-03-04
+
+- [#11765](https://github.com/KATO-Hiro/AtCoderClans/pull/11765) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[KK_Poker](https://atcoder.jp/users/KK_Poker)さんの[記事](https://qiita.com/KK_Poker/items/33a566141af5c29765e6)を追加。
+
 ### 2026-03-03
 
 - [#11760](https://github.com/KATO-Hiro/AtCoderClans/pull/11760) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

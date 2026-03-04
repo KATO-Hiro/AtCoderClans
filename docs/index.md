@@ -221,6 +221,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2026-03-04
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [KK_Poker](https://atcoder.jp/users/KK_Poker)さん - [【AtCoder色変記事】入緑したので、やってきたことを振り返る](https://qiita.com/KK_Poker/items/33a566141af5c29765e6)
+
     2026-03-03
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
