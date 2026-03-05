@@ -4,6 +4,7 @@ title: レーティング1600〜1999(青色)
 
 ## 2026年
 
+- [[報告]競プロ|青色コーダーになりました！！](https://note.com/irinote/n/n656a5a2d9688) - [TOMATO10](https://atcoder.jp/users/TOMATO10)さんが、2026年2月2日に公開。
 - [入青までの軌跡　by gomaazarasi](https://note.com/gomaazarasi/n/n951576c44b3c) - [gomaazarasi](https://atcoder.jp/users/gomaazarasi)さんが、2026年1月17日に達成。
 
 ## 2025年
