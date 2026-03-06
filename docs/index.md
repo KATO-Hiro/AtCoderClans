@@ -157,6 +157,11 @@
 
 === "記事"
 
+    2026-03-06
+
+    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
+        - [人間の強みは“論理の飛躍”!? 世界2位の競プロerに問う「AIとの戦い方」](https://codezine.jp/article/detail/23366)
+
     2026-03-02
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -236,11 +241,6 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [okawari0915](https://atcoder.jp/users/okawari0915)さん - [目が見えない僕が茶色コーダーになるまでのお話](https://note.com/okawari_0915/n/n662bf0e78b35)
-
-    2026-02-20
-
-    - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
-        - [tau1235](https://atcoder.jp/users/tau1235)さん - [AtCoderで黄色になりました](https://qiita.com/tau1235/items/b6175745b3593a5df336)
 
 ## AtCoder公式グッズを購入する
 

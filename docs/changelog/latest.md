@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-03-06
+
+- [#11773](https://github.com/KATO-Hiro/AtCoderClans/pull/11773) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
+    - [人間の強みは“論理の飛躍”!? 世界2位の競プロerに問う「AIとの戦い方」](https://codezine.jp/article/detail/23366)
+
 ### 2026-03-05
 
 - [#11769](https://github.com/KATO-Hiro/AtCoderClans/pull/11769) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
