@@ -56,10 +56,10 @@ title: コンテストに向けた練習方法を知る
     - [AHCにおける生成AIルールの策定について](https://atcoder.jp/posts/1494) - AtCoder Heuristic Contest (通称 AHC) 049以降で適用される生成AI利用ルールのお知らせ ([詳細](https://info.atcoder.jp/entry/ahc-llm-rules-ja))。
 - [初参加者の内部レートを変更いたします](https://atcoder.jp/posts/1591) - ABC430 以降、初めてコンテストに参加したユーザは、初期レーティングの計算方法が変更される。
 - [2026年のARCについての変更点](https://atcoder.jp/posts/2026ARC_ja) - ARC215以降、AtCoder Regular Contest (通称 ARC) は難易度の異なる3種類のコンテストに分けられることが告知されている。
+- [人間の強みは“論理の飛躍”!? 世界2位の競プロerに問う「AIとの戦い方」](https://codezine.jp/article/detail/23366) - [terry_u16](https://atcoder.jp/users/terry_u16)さんへのインタビュー記事。世界大会でAIが人間と遜色ない実力を見せる一方、人間には「方針を立てる力」や「論理の飛躍」に強みがあり、アルゴリズムの基礎理解がAIを業務で活用する上で重要だと語られている。
 - [競技プログラミングと生成AIの今 2025/07/02版](https://chokudai.hatenablog.com/entry/2025/07/02/151841) - [AtCoder](https://atcoder.jp/)社長の[chokudai](https://x.com/chokudai)さんが、競技プログラミングにおける生成AIの影響について、客観的な視点で現状を解説している。2025年7月上旬時点でのAIの実力・世界最高峰の大会での人間 vs AI戦の企画・AIによる最適化問題の自動的な解決の可能性・今後の事業戦略などについて述べられている。
 - [AtCoder World Tour Finals 2025 に OpenAI がスポンサーとして参画](https://prtimes.jp/main/html/rd/p/000000059.000028415.html) - 同大会において OpenAI がスポンサー参画に至った背景に加えて、「人間 vs AI」のエキシビジョンマッチの開催とその目的にも言及されている。
     - [AI vs 人間まとめ【AtCoder World Tour Finals 2025 Heuristic エキシビジョン】](https://chokudai.hatenablog.com/entry/2025/07/21/190935) - [chokudai](https://x.com/chokudai)さんによるエキシビジョンマッチの感想と、今後の予想がまとめられている。
-- [AtCoderで生成AIをフル活用！2025年の競技プログラミング術](https://qiita.com/ToastUz/items/98a4ff7fd63a061ef18d) - [AtCoder](https://atcoder.jp/)のルールを遵守しながら、生成AIを活用する方法（プログラミング言語の変換・難しい問題の解説・ライブラリ整備など）が紹介されている。
 - [生成AIはAtCoderBeginnerContestを実際に破壊しているのか](https://qiita.com/sirsoldano/items/cccb48c7201ed1de099f) - 生成AIの発展が、ABCにおける中級ユーザのレーティングの変化量に与える影響について、統計的な分析が行われている。
     - [生成AIはAtCoderBeginnerContestのインフレを加速させたか](https://qiita.com/sirsoldano/items/ad3d05e4a37759850445) - 上記の続編。AIがレーティングのインフレ幅に与えた影響が分析されている。
 
