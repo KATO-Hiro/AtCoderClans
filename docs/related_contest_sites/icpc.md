@@ -4,14 +4,6 @@ title: ICPC (国際大学対抗プログラミングコンテスト)
 
 ## Webアプリ・Webサイト
 
-### 問題を解く
-
-- [ICPC Japan Problems](https://icpc-japan-problems.irrrrr.cc/) - [ICPC 日本地区](https://icpc.iisf.or.jp/)の本選および[ICPC OB/OG の会](https://jag-icpc.org/)の練習コンテストで出題された問題の一覧(難易度付き)を見ることができる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/related_contest_sites/icpc/icpc_japan_problems.png" alt="icpc japan problems">
-    </div>
-
 ### コンテストの成績を見る
 
 - [ICPC Replay](https://icpc-replay.vercel.app/) - [AtCoder Replay](https://atcoder-replay.kakira.dev/)のICPC版。2022年以降の国内予選・アジア地区予選を対象として、参加チームのコンテスト開始〜終了までの順位変化を表示する。
