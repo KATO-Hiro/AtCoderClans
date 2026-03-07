@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-03-07
+
+- [#11777](https://github.com/KATO-Hiro/AtCoderClans/pull/11777) - (破壊的な変更) リンク切れと思われるWebサービスを「[Archives](../../archived)」ページに移動。
+    - AtCoder Dashboard (beta)
+    - ICPC Japan Problems
+
 ### 2026-03-06
 
 - [#11773](https://github.com/KATO-Hiro/AtCoderClans/pull/11773) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
