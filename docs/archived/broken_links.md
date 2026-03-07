@@ -101,6 +101,19 @@ title: リンク切れ
       <img loading = "lazy" src="../../images/web_app/atcoder_rating_comparison.png" alt="atcoder rating comparison">
     </div>
 
+## 分析・可視化プラットフォーム
+
+- [AtCoder Dashboard (beta)](https://atcoder-db.sirogami.com/) - AtCoder の関連データの分析・可視化が誰でも実行できる環境が提供されている。言語の利用状況・ユーザの提出状況・ランキングを閲覧できる。
+    - 確認した日: 2026/03/07
+
+    !!! info "参考"
+
+        - Google アカウントでログイン、もしくは、任意のメールアドレスでサインインが必要。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_dashboard.png" alt="atcoder dashboard">
+    </div>
+
 ### 仮想的なレーティングを計算
 
 - [まよコン🌽 レーティング](https://mayocon.shinnshinn.dev/) - [mayocorn](https://atcoder.jp/users/mayocorn)さん主催のバーチャルコンテストの結果に基づいて、レーティングのランキング(月別)が集計されている。
@@ -527,6 +540,15 @@ title: リンク切れ
 
     <div align="center">
       <img loading = "lazy" src="../../images/related_contest_sites/codeforces/codeforces_rating_comparison.png" alt="codeforces rating comparison">
+    </div>
+
+### ICPC
+
+- [ICPC Japan Problems](https://icpc-japan-problems.irrrrr.cc/) - [ICPC 日本地区](https://icpc.iisf.or.jp/)の本選および[ICPC OB/OG の会](https://jag-icpc.org/)の練習コンテストで出題された問題の一覧(難易度付き)を見ることができる。
+    - 確認した日: 2026/03/07
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/icpc/icpc_japan_problems.png" alt="icpc japan problems">
     </div>
 
 ### Leetcode
