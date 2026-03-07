@@ -103,11 +103,6 @@
     - 「[Q1: アルゴリズムや競技プログラミングに興味はありますが、何から始めたらいいですか?](for_beginners/question1)」ページ
         - [MoonBitでAtCoder Beginners Selectionを解く](https://zenn.dev/tekihei2317/articles/e4b52ecd631974)
 
-    2026-02-21
-
-    - 「[Q3: コンテストは、いつ開催されていますか?](for_beginners/question3)」ページ
-        - [2026年のARCについての変更点](https://atcoder.jp/posts/2026ARC_ja)
-
 === "Webアプリ・Webサイト"
 
     2026-02-28
@@ -146,15 +141,6 @@
       <img loading="lazy" src="images/userscript/atcoder_awc_tab.png" alt="atcoder awc tab">
     </div>
 
-    2026-02-21
-
-    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
-        - [AHC Standings Customizer](https://greasyfork.org/ja/scripts/564554-ahc-standings-customizer)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/ahc_standings_customizer.png" alt="ahc standings customizer">
-    </div>
-
 === "記事"
 
     2026-03-06
@@ -186,11 +172,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年2月24日時点)](https://x.com/atcoder/status/2026200626594758856)
-
-    2026-02-21
-
-    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
-        - [2026年のARCについての変更点](https://atcoder.jp/posts/2026ARC_ja)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -241,6 +222,15 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [okawari0915](https://atcoder.jp/users/okawari0915)さん - [目が見えない僕が茶色コーダーになるまでのお話](https://note.com/okawari_0915/n/n662bf0e78b35)
+
+=== "アーカイブス"
+
+    諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2026-03-07
+
+    - AtCoder Dashboard (beta)
+    - ICPC Japan Problems
 
 ## AtCoder公式グッズを購入する
 
