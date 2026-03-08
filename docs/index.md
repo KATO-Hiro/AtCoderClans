@@ -123,6 +123,15 @@
 
 === "ユーザスクリプト"
 
+    2026-03-08
+
+    - 「[Webページに色付けする](user_scripts/colors)」ページ
+        - [AtCoder Highlighter](https://greasyfork.org/ja/scripts/566471-atcoder-highlighter)
+
+    <div align="center">
+      <img loading = "lazy" src="images/userscript/atcoder_highlighter.png" alt="atcoder highlighter">
+    </div>
+
     2026-03-01
 
     - 「[問題を解く](user_scripts/solve_problems)」ページ
@@ -186,13 +195,6 @@
 
     - 「[ヒューリスティック部門 - C#](blogs/heuristic/csharp)」ページ
         - [G4NP0N](https://atcoder.jp/users/G4NP0N)さん - [はてなブログ](https://g4np0n-kyopro.hatenablog.com)
-
-=== "動画"
-
-    2026-02-22
-
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [だいくすとら](https://www.youtube.com/@daikusutora-dayo)
 
 === "色変記事"
 
