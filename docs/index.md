@@ -152,6 +152,11 @@
 
 === "記事"
 
+    2026-03-09
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年3月9日時点)](https://x.com/atcoder/status/2030829111963422732)
+
     2026-03-06
 
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
@@ -219,11 +224,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [shirogane1234](https://atcoder.jp/users/shirogane1234)さん - [【色変記事】Atcoderで0から(約)1年かけて緑色になった話](https://qiita.com/shirogane1234/items/9cfaeb73586ea43d7fb5)
-
-    2026-02-23
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [okawari0915](https://atcoder.jp/users/okawari0915)さん - [目が見えない僕が茶色コーダーになるまでのお話](https://note.com/okawari_0915/n/n662bf0e78b35)
 
 === "アーカイブス"
 
