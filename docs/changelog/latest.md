@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-03-10
+
+- [#11789](https://github.com/KATO-Hiro/AtCoderClans/pull/11789) - 「[Articles, Blogs, Books and Videos](../../media)」の「[問題を作成・出題する](../../articles/for_writers)」ページに、以下の記事を追加。
+    - [競プロで作問するときに考えていること](https://ir5.hatenablog.com/entry/20260309/1773067391)
+
 ### 2026-03-09
 
 - [#11785](https://github.com/KATO-Hiro/AtCoderClans/pull/11785) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
