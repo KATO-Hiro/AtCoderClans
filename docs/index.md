@@ -86,10 +86,6 @@
 - [AtCoderアカウントのパスワード管理について](https://atcoder.jp/posts/1366) - 不正アクセス防止のため、[AtCoder](https://atcoder.jp/)アカウントのパスワード確認・必要に応じて変更を促しています。
 - [【重要なお知らせ】AtCoderを騙る偽サイトにご注意ください](https://atcoder.jp/posts/1268) - [AtCoder](https://atcoder.jp/)の偽サイトへのアクセス・ログインなどをしないように注意喚起している記事です。
 
-#### 中学生・高校生向け
-
-- [競技プログラミング教室 (2026 年度)](https://atcoder.jp/contests/atcoder_programming_class2026) -  [AtCoder](https://atcoder.jp/)が開催を予定している中学生・高校生向けの教室（「基礎コース」「上級コース」の二クラス制）。競技プログラミングに興味があり、国内トップクラスの実力を身につけたいユーザが対象です。
-
 <!-- markdown-link-check-enable -->
 
 ### 非公式サービス・ツール・ライブラリ・記事など
@@ -141,16 +137,12 @@
       <img loading="lazy" src="images/userscript/atcoder_quote_and_click_copy.png" alt="atcoder quote and click copy">
     </div>
 
-    2026-02-25
-
-    - 「[問題を解く](user_scripts/solve_problems)」ページ
-        - [AtCoder AWC Tab](https://greasyfork.org/ja/scripts/566748-atcoder-awc-tab)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_awc_tab.png" alt="atcoder awc tab">
-    </div>
-
 === "記事"
+
+    2026-03-11
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [【AtCoder】「実はグラフ」系の問題を何とかしたい](https://qiita.com/yesantikiss/items/3911827526038fbc2188)
 
     2026-03-10
 
@@ -181,25 +173,6 @@
 
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
         - [MoonBitでAtCoder Beginners Selectionを解く](https://zenn.dev/tekihei2317/articles/e4b52ecd631974)
-
-    2026-02-25
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [THIRD プログラミングコンテスト 2026 （AtCoder Heuristic Contest 061）参加記](https://kaede2020.hatenablog.com/entry/2026/02/23/190431)
-
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2026-02-25
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [kencho](https://atcoder.jp/users/kencho)さん - [はてなブログ](https://kencho.hatenablog.com/)
-        - [not](https://atcoder.jp/users/not)さん - [はてなブログ](https://not522.hatenablog.com/)
-        - [sirsoldano](https://atcoder.jp/users/sirsoldano)さん - [Qiita](https://qiita.com/sirsoldano)
-        - [zuba](https://atcoder.jp/users/zuba)さん - [はてなブログ](https://zubassyaaaaaaaaaaaaan.hatenablog.com/)
-
-    - 「[ヒューリスティック部門 - C#](blogs/heuristic/csharp)」ページ
-        - [G4NP0N](https://atcoder.jp/users/G4NP0N)さん - [はてなブログ](https://g4np0n-kyopro.hatenablog.com)
 
 === "色変記事"
 
