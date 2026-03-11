@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-03-11
+
+- [#11793](https://github.com/KATO-Hiro/AtCoderClans/pull/11793) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [【AtCoder】「実はグラフ」系の問題を何とかしたい](https://qiita.com/yesantikiss/items/3911827526038fbc2188)
+
 ### 2026-03-10
 
 - [#11789](https://github.com/KATO-Hiro/AtCoderClans/pull/11789) - 「[Articles, Blogs, Books and Videos](../../media)」の「[問題を作成・出題する](../../articles/for_writers)」ページに、以下の記事を追加。
