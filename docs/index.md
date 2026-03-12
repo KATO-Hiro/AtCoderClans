@@ -92,13 +92,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "入門者・初心者向けの内容"
-
-    2026-02-26
-
-    - 「[Q1: アルゴリズムや競技プログラミングに興味はありますが、何から始めたらいいですか?](for_beginners/question1)」ページ
-        - [MoonBitでAtCoder Beginners Selectionを解く](https://zenn.dev/tekihei2317/articles/e4b52ecd631974)
-
 === "Webアプリ・Webサイト"
 
     2026-02-28
@@ -169,14 +162,14 @@
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
         - [日本最大のプログラミングコンテストサイトAtCoder　全世界での登録者数が90万人を突破！](https://prtimes.jp/main/html/rd/p/000000064.000028415.html)
 
-    2026-02-26
-
-    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
-        - [MoonBitでAtCoder Beginners Selectionを解く](https://zenn.dev/tekihei2317/articles/e4b52ecd631974)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-03-12
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [UT0911](https://atcoder.jp/users/UT0911)さん - [入緑記事](https://note.com/ut0911/n/n920cb03b36d8)
 
     2026-03-05
 
@@ -192,11 +185,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [Un_titled](https://atcoder.jp/users/Un_titled)さん - [【色変記事】緑になってから約2か月で入水しました！](https://qiita.com/Un_titled/items/a7ed6f6da64d6b0d19f1)
-
-    2026-02-26
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [shirogane1234](https://atcoder.jp/users/shirogane1234)さん - [【色変記事】Atcoderで0から(約)1年かけて緑色になった話](https://qiita.com/shirogane1234/items/9cfaeb73586ea43d7fb5)
 
 === "アーカイブス"
 
