@@ -132,6 +132,11 @@
 
 === "記事"
 
+    2026-03-13
+
+    - 「[競技プログラミングと就転職](articles/jobs)」ページ
+        - [趣味の競技プログラミングで培ったヒューリスティック最適化が仕事になるまで](https://note.com/algoartis/n/naf59da07ba2c)
+
     2026-03-11
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
@@ -156,11 +161,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年3月2日時点)](https://x.com/atcoder/status/2028302167233433660)
-
-    2026-02-27
-
-    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
-        - [日本最大のプログラミングコンテストサイトAtCoder　全世界での登録者数が90万人を突破！](https://prtimes.jp/main/html/rd/p/000000064.000028415.html)
 
 === "色変記事"
 
