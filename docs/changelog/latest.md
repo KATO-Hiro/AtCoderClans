@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-03-13
+
+- [#11803](https://github.com/KATO-Hiro/AtCoderClans/pull/11803) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
+    - [趣味の競技プログラミングで培ったヒューリスティック最適化が仕事になるまで](https://note.com/algoartis/n/naf59da07ba2c)
+
 ### 2026-03-12
 
 - [#11799](https://github.com/KATO-Hiro/AtCoderClans/pull/11799) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
