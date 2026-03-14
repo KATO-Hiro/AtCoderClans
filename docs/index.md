@@ -94,21 +94,15 @@
 
 === "Webアプリ・Webサイト"
 
-    2026-02-28
+    2026-03-14
 
-    - 「[コンテストに参加する](web_app/participate_in_contests)」ページ
-        - [Procon Notification](https://procon-notification.vercel.app/)
+    - 「[問題を解く](web_app/solve_problems)」ページ
+        - [Next-AC](https://next-ac-peach.vercel.app/)
+            - [AtCoderに集中するため、6時間で専用ダッシュボードを作った話 ☕️ CDD開発](https://note.com/akashi_shogo/n/n3806a329f176)
 
     <div align="center">
-      <img loading="lazy" src="images/web_app/procon_notification.png" alt="procon notification">
+      <img loading="lazy" src="images/web_app/next-ac.png" alt="next ac">
     </div>
-
-=== "ボット"
-
-    2026-02-28
-
-    - 「[Bot](bot)」ページ
-        - [Procon Notification](https://x.com/procon_notify)
 
 === "ユーザスクリプト"
 
