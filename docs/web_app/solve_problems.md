@@ -72,6 +72,13 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/web_app/atcoder_editorial_problems.png" alt="atcoder editorial problems">
     </div>
 
+- [Next-AC](https://next-ac-peach.vercel.app/) - AtCoder Beginner Contest (通称、ABC) の A 〜 C 問題に絞った進捗管理ダッシュボード。回答状況が自動的に更新され、次に解くべき問題をすぐに見つけられる。AtCoder ID を入力するだけで利用可能。
+    - [作者による紹介記事](https://note.com/akashi_shogo/n/n3806a329f176)
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/next-ac.png" alt="next ac">
+    </div>
+
 - [Rosetta Problems](https://rosetta-problems-dev.vercel.app/) - 国内外30以上のオンラインジャッジシステムから有名な問題を一括検索できる。
 
 ## 復習の効果をより高める
