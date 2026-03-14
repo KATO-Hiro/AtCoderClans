@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-03-14
+
+- [#11805](https://github.com/KATO-Hiro/AtCoderClans/pull/11805) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のWebサービスと紹介記事を追加。
+    - [Next-AC](https://next-ac-peach.vercel.app/)
+        - [AtCoderに集中するため、6時間で専用ダッシュボードを作った話 ☕️ CDD開発](https://note.com/akashi_shogo/n/n3806a329f176)
+
 ### 2026-03-13
 
 - [#11803](https://github.com/KATO-Hiro/AtCoderClans/pull/11803) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
