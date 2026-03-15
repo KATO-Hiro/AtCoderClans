@@ -28,3 +28,13 @@ title: 問題を解く
     </div>
 
 <!-- markdown-link-check-enable -->
+
+## 外部サービスの機能を拡張
+
+### AtCoder NoviSteps
+
+- [AtCoder NoviSteps Auto Sync](https://github.com/kuruton3910/atcoder-novisteps-sync) ![GitHub Repo stars](https://img.shields.io/github/stars/kuruton3910/atcoder-novisteps-sync?style=plastic) - 正解した問題を自動的に同期できる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/chrome_extension/atcoder_novisteps_sync.png" alt="atcoder novisteps sync">
+    </div>
