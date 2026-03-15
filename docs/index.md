@@ -94,6 +94,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2026-03-15
+
+    - 「[問題を解く](web_app/solve_problems)」ページ
+        - [AtCoder NoviSteps Auto Sync](https://github.com/kuruton3910/atcoder-novisteps-sync) ![GitHub Repo stars](https://img.shields.io/github/stars/kuruton3910/atcoder-novisteps-sync?style=plastic)
+
+    <div align="center">
+      <img loading="lazy" src="images/chrome_extension/atcoder_novisteps_sync.png" alt="atcoder novisteps sync">
+    </div>
+
     2026-03-14
 
     - 「[問題を解く](web_app/solve_problems)」ページ
@@ -115,13 +124,15 @@
       <img loading = "lazy" src="images/userscript/atcoder_highlighter.png" alt="atcoder highlighter">
     </div>
 
-    2026-03-01
+=== "Chrome拡張機能"
 
-    - 「[問題を解く](user_scripts/solve_problems)」ページ
-        - [AtCoder Quote & Click Copy](https://greasyfork.org/ja/scripts/564928-atcoder-quote-click-copy)
+    2026-03-15
+
+    - 「[問題を解く](chrome_extensions/solve_problems)」ページ
+        - [AtCoder NoviSteps Auto Sync](https://github.com/kuruton3910/atcoder-novisteps-sync) ![GitHub Repo stars](https://img.shields.io/github/stars/kuruton3910/atcoder-novisteps-sync?style=plastic)
 
     <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_quote_and_click_copy.png" alt="atcoder quote and click copy">
+      <img loading="lazy" src="images/chrome_extension/atcoder_novisteps_sync.png" alt="atcoder novisteps sync">
     </div>
 
 === "記事"

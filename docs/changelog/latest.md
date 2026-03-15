@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-03-15
+
+- [#11811](https://github.com/KATO-Hiro/AtCoderClans/pull/11811) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページと「[Scripts](../../scripts)」の「[問題を解く](../../chrome_extensions/solve_problems)」ページに、以下のChrome拡張機能を追加。
+    - [AtCoder NoviSteps Auto Sync](https://github.com/kuruton3910/atcoder-novisteps-sync) ![GitHub Repo stars](https://img.shields.io/github/stars/kuruton3910/atcoder-novisteps-sync?style=plastic)
+
 ### 2026-03-14
 
 - [#11805](https://github.com/KATO-Hiro/AtCoderClans/pull/11805) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のWebサービスと紹介記事を追加。
