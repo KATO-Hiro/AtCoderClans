@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-03-16
+
+- [#11820](https://github.com/KATO-Hiro/AtCoderClans/pull/11820) - 「[Scripts](../../scripts)」の「[問題を解く](../../chrome_extensions/solve_problems)」ページに、以下の記事を追加。
+    - [作者による紹介記事](https://zenn.dev/krtn/articles/6ee245ac1122c8)
+- [#11819](https://github.com/KATO-Hiro/AtCoderClans/pull/11819) - 「[Milestones](../../milestones/yellow)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2000から2399まで(黄色)に[edon8618](https://atcoder.jp/users/edon8618)さんの[記事](https://qiita.com/edon8618/items/16d23d247c9cad158c2c)を追加。
+
 ### 2026-03-15
 
 - [#11811](https://github.com/KATO-Hiro/AtCoderClans/pull/11811) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページと「[Scripts](../../scripts)」の「[問題を解く](../../chrome_extensions/solve_problems)」ページに、以下のChrome拡張機能を追加。

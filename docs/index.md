@@ -130,6 +130,7 @@
 
     - 「[問題を解く](chrome_extensions/solve_problems)」ページ
         - [AtCoder NoviSteps Auto Sync](https://github.com/kuruton3910/atcoder-novisteps-sync) ![GitHub Repo stars](https://img.shields.io/github/stars/kuruton3910/atcoder-novisteps-sync?style=plastic)
+            - [作者による紹介記事](https://zenn.dev/krtn/articles/6ee245ac1122c8)
 
     <div align="center">
       <img loading="lazy" src="images/chrome_extension/atcoder_novisteps_sync.png" alt="atcoder novisteps sync">
@@ -167,9 +168,22 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年3月2日時点)](https://x.com/atcoder/status/2028302167233433660)
 
+=== "ブログ"
+    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2026-03-17
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [edon8618](https://atcoder.jp/users/edon8618)さん - [Qiita](https://qiita.com/edon8618)
+
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-03-16
+
+    - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
+        - [edon8618](https://atcoder.jp/users/edon8618)さん - [競技プログラミング　atcoderで黄色になった話](https://qiita.com/edon8618/items/16d23d247c9cad158c2c)
 
     2026-03-12
 
