@@ -34,6 +34,7 @@ title: 問題を解く
 ### AtCoder NoviSteps
 
 - [AtCoder NoviSteps Auto Sync](https://github.com/kuruton3910/atcoder-novisteps-sync) ![GitHub Repo stars](https://img.shields.io/github/stars/kuruton3910/atcoder-novisteps-sync?style=plastic) - 正解した問題を自動的に同期できる。
+    - [作者による解説記事](https://zenn.dev/krtn/articles/6ee245ac1122c8)
 
     <div align="center">
       <img loading="lazy" src="../../images/chrome_extension/atcoder_novisteps_sync.png" alt="atcoder novisteps sync">
