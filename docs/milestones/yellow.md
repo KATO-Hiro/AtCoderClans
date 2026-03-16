@@ -7,6 +7,7 @@ title: レーティング2000〜2399(黄色)
 
 ## 2026年
 
+- [競技プログラミング　atcoderで黄色になった話](https://qiita.com/edon8618/items/16d23d247c9cad158c2c) - [edon8618](https://atcoder.jp/users/edon8618)さんが、2026年3月14日に達成。
 - [AtCoderで黄色になりました](https://qiita.com/tau1235/items/b6175745b3593a5df336) - [tau1235](https://atcoder.jp/users/tau1235)さんが、2026年2月19日に公開。
 
 ## 2025年
