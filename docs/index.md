@@ -138,6 +138,14 @@
 
 === "記事"
 
+    2026-03-17
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [ユニークビジョンプログラミングコンテスト2026 春（AtCoder Heuristic Contest 062）参加記](https://kaede2020.hatenablog.com/entry/2026/03/15/221001)
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年3月16日時点)](https://x.com/atcoder/status/2033397003015860666)
+
     2026-03-13
 
     - 「[競技プログラミングと就転職](articles/jobs)」ページ
@@ -162,11 +170,6 @@
 
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
         - [人間の強みは“論理の飛躍”!? 世界2位の競プロerに問う「AIとの戦い方」](https://codezine.jp/article/detail/23366)
-
-    2026-03-02
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年3月2日時点)](https://x.com/atcoder/status/2028302167233433660)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
