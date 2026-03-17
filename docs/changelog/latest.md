@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-03-17
+
+- [#11826](https://github.com/KATO-Hiro/AtCoderClans/pull/11826) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [ユニークビジョンプログラミングコンテスト2026 春（AtCoder Heuristic Contest 062）参加記](https://kaede2020.hatenablog.com/entry/2026/03/15/221001)
+- [#11825](https://github.com/KATO-Hiro/AtCoderClans/pull/11825) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
+    - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年3月16日時点)](https://x.com/atcoder/status/2033397003015860666)
+
 ### 2026-03-16
 
 - [#11820](https://github.com/KATO-Hiro/AtCoderClans/pull/11820) - 「[Scripts](../../scripts)」の「[問題を解く](../../chrome_extensions/solve_problems)」ページに、以下の記事を追加。
