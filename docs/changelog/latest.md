@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-03-18
+
+- [#11829](https://github.com/KATO-Hiro/AtCoderClans/pull/11829) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[ssuga](https://atcoder.jp/users/ssuga)さんの[記事](https://qiita.com/SyogoSuganoya/items/9556271379c839bde805)を追加。
+
 ### 2026-03-17
 
 - [#11826](https://github.com/KATO-Hiro/AtCoderClans/pull/11826) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
