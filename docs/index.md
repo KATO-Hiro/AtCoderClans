@@ -72,6 +72,8 @@
 
 - [2026年のARCについての変更点](https://atcoder.jp/posts/2026ARC_ja) - ARC215以降、AtCoder Regular Contest (通称 ARC) は難易度の異なる3種類のコンテストに分けられることが告知されています。
 
+- [AGC録画ルールについて](https://atcoder.jp/posts/agc_proctoring_jp) - AGC077以降、GP30スコアを獲得したい場合には参加者とモニター画面の録画が必須となったことと、そのルール・運用方法が告知されています。
+
 #### ジャッジシステム
 
 - [AtCoderの言語アップデートに関して (2024-25年度)](https://atcoder.jp/posts/1342) - ジャッジシステムの言語アップデートの準備状況に関するお知らせです。
