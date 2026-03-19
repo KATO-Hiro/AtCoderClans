@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-03-19
+
+- [#11835](https://github.com/KATO-Hiro/AtCoderClans/pull/11835) - [Home](../..)ページに、以下の記事を掲載。
+    - [AGC録画ルールについて](https://atcoder.jp/posts/agc_proctoring_jp)
+
 ### 2026-03-18
 
 - [#11829](https://github.com/KATO-Hiro/AtCoderClans/pull/11829) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

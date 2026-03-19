@@ -94,6 +94,12 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "ホーム"
+
+    2026-03-19
+
+    - [AGC録画ルールについて](https://atcoder.jp/posts/agc_proctoring_jp)
+
 === "Webアプリ・Webサイト"
 
     2026-03-15
@@ -204,11 +210,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [TOMATO10](https://atcoder.jp/users/TOMATO10)さん - [[報告]競プロ|青色コーダーになりました！！](https://note.com/irinote/n/n656a5a2d9688)
-
-    2026-03-04
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [KK_Poker](https://atcoder.jp/users/KK_Poker)さん - [【AtCoder色変記事】入緑したので、やってきたことを振り返る](https://qiita.com/KK_Poker/items/33a566141af5c29765e6)
 
 === "アーカイブス"
 
