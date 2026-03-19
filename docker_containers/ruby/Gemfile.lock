@@ -22,7 +22,7 @@ GEM
       thor
     http-cookie (1.0.4)
       domain_name (~> 0.5)
-    json (2.18.1)
+    json (2.19.2)
     logger (1.7.0)
     mini_portile2 (2.8.9)
     net-http (0.9.1)
