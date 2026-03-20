@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-03-20
+
+- [#11839](https://github.com/KATO-Hiro/AtCoderClans/pull/11839) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [ずんだもんの競プロ日和](https://www.youtube.com/@%E3%81%9A%E3%82%93%E3%81%A0%E3%82%82%E3%82%93%E3%81%AE%E7%AB%B6%E3%83%97%E3%83%AD%E6%97%A5%E5%92%8C/videos)
+
 ### 2026-03-19
 
 - [#11835](https://github.com/KATO-Hiro/AtCoderClans/pull/11835) - [Home](../..)ページに、以下の記事を掲載。

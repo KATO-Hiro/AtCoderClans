@@ -187,6 +187,13 @@
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [edon8618](https://atcoder.jp/users/edon8618)さん - [Qiita](https://qiita.com/edon8618)
 
+=== "動画"
+
+    2026-03-20
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [ずんだもんの競プロ日和](https://www.youtube.com/@%E3%81%9A%E3%82%93%E3%81%A0%E3%82%82%E3%82%93%E3%81%AE%E7%AB%B6%E3%83%97%E3%83%AD%E6%97%A5%E5%92%8C/videos)
+
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
@@ -205,11 +212,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [UT0911](https://atcoder.jp/users/UT0911)さん - [入緑記事](https://note.com/ut0911/n/n920cb03b36d8)
-
-    2026-03-05
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [TOMATO10](https://atcoder.jp/users/TOMATO10)さん - [[報告]競プロ|青色コーダーになりました！！](https://note.com/irinote/n/n656a5a2d9688)
 
 === "アーカイブス"
 
