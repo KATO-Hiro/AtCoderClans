@@ -7,6 +7,7 @@ title: レーティング800〜1199(緑色)
 
 ## 2026年
 
+- [【AtCoder】入緑したンゴ](https://qiita.com/npnp/items/800a04443dd6db09ac0a) - [npnp](https://atcoder.jp/users/npnp)さんが、2026年3月14日に達成。
 - [AtCoder 入緑しました](https://qiita.com/SyogoSuganoya/items/9556271379c839bde805) - [ssuga](https://atcoder.jp/users/ssuga)さんが、2026年3月14日に達成。
 - [入緑記事](https://note.com/ut0911/n/n920cb03b36d8) - [UT0911](https://atcoder.jp/users/UT0911)さんが、2026年2月28日に達成。
 - [【AtCoder色変記事】入緑したので、やってきたことを振り返る](https://qiita.com/KK_Poker/items/33a566141af5c29765e6) - [KK_Poker](https://atcoder.jp/users/KK_Poker)さんが、2026年2月28日に達成。
