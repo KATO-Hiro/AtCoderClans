@@ -174,11 +174,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年3月9日時点)](https://x.com/atcoder/status/2030829111963422732)
 
-    2026-03-06
-
-    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
-        - [人間の強みは“論理の飛躍”!? 世界2位の競プロerに問う「AIとの戦い方」](https://codezine.jp/article/detail/23366)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -197,6 +192,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-03-21
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [npnp](https://atcoder.jp/users/npnp)さん - [【AtCoder】入緑したンゴ](https://qiita.com/npnp/items/800a04443dd6db09ac0a)
 
     2026-03-18
 
