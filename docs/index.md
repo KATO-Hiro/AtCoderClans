@@ -102,6 +102,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2026-03-22
+
+    - 「[問題を解く](web_app/solve_problems)」ページ
+        - [Novisteps-ClimbMode](https://github.com/blueberry1001/Novisteps-Climbmode) - ![GitHub Repo stars](https://img.shields.io/github/stars/blueberry1001/Novisteps-Climbmode?style=plastic)
+
+    <div align="center">
+      <img loading="lazy" src="images/chrome_extension/novisteps_climbmode.png" alt="novisteps climbmode">
+    </div>
+
     2026-03-15
 
     - 「[問題を解く](web_app/solve_problems)」ページ
@@ -133,6 +142,15 @@
     </div>
 
 === "Chrome拡張機能"
+
+    2026-03-22
+
+    - 「[問題を解く](web_app/solve_problems)」ページ
+        - [Novisteps-ClimbMode](https://github.com/blueberry1001/Novisteps-Climbmode) - ![GitHub Repo stars](https://img.shields.io/github/stars/blueberry1001/Novisteps-Climbmode?style=plastic)
+
+    <div align="center">
+      <img loading="lazy" src="images/chrome_extension/novisteps_climbmode.png" alt="novisteps climbmode">
+    </div>
 
     2026-03-15
 
@@ -212,15 +230,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [UT0911](https://atcoder.jp/users/UT0911)さん - [入緑記事](https://note.com/ut0911/n/n920cb03b36d8)
-
-=== "アーカイブス"
-
-    諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
-
-    2026-03-07
-
-    - AtCoder Dashboard (beta)
-    - ICPC Japan Problems
 
 ## AtCoder公式グッズを購入する
 

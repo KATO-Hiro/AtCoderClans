@@ -52,6 +52,7 @@ title: 問題を解く
 - [AtCoder NoviSteps](https://atcoder-novisteps.vercel.app/) - 問題の取組み状況(AC、解説AC、挑戦中、未挑戦)を自分で記録していくことができる。また、細かく難易度付けされており、必要な知識を段階的に習得可能。
     - [同サービスを活用した練習方法](https://qiita.com/drken/items/c853184ad95b9e9fd45d#%EF%BC%92-atcoder-%E6%B0%B4%E8%89%B2%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E7%B7%B4%E7%BF%92%E6%96%B9%E6%B3%95)
     - [AtCoder NoviSteps Auto Sync](https://github.com/kuruton3910/atcoder-novisteps-sync) ![GitHub Repo stars](https://img.shields.io/github/stars/kuruton3910/atcoder-novisteps-sync?style=plastic) - 正解した問題を自動的に同期できるChrome拡張機能。
+    - [Novisteps-ClimbMode](https://github.com/blueberry1001/Novisteps-Climbmode) - ![GitHub Repo stars](https://img.shields.io/github/stars/blueberry1001/Novisteps-Climbmode?style=plastic) - 直近の正解・不正解に応じて難易度を自動調整し、その中から次の1問に絞って提示してくれるChrome拡張機能。
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_novisteps.png" alt="atcoder novisteps">

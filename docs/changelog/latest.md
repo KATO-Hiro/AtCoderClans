@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-03-22
+
+- [#11850](https://github.com/KATO-Hiro/AtCoderClans/pull/11850) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページと「[Scripts](../../scripts)」の「[問題を解く](../../chrome_extensions/solve_problems)」ページに、以下のChrome拡張機能を追加。
+    - [Novisteps-ClimbMode](https://github.com/blueberry1001/Novisteps-Climbmode) - ![GitHub Repo stars](https://img.shields.io/github/stars/blueberry1001/Novisteps-Climbmode?style=plastic)
+
 ### 2026-03-21
 
 - [#11844](https://github.com/KATO-Hiro/AtCoderClans/pull/11844) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
