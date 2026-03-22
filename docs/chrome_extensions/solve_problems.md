@@ -39,3 +39,9 @@ title: 問題を解く
     <div align="center">
       <img loading="lazy" src="../../images/chrome_extension/atcoder_novisteps_sync.png" alt="atcoder novisteps sync">
     </div>
+
+- [Novisteps-ClimbMode](https://github.com/blueberry1001/Novisteps-Climbmode) - ![GitHub Repo stars](https://img.shields.io/github/stars/blueberry1001/Novisteps-Climbmode?style=plastic) - 直近の正解・不正解に応じて難易度を自動調整し、その中から次の1問に絞って提示してくれる。終了時には練習履歴をまとめた画像が生成され、SNSへの共有にも対応している。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/chrome_extension/novisteps_climbmode.png" alt="novisteps climbmode">
+    </div>
