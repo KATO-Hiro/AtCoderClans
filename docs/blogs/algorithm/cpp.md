@@ -35,6 +35,7 @@ title: C&#43;&#43;
 |Nachia|[Qiita](https://qiita.com/Nachia)||
 |natsugiri|[はてなブログ](https://natsugiri.hatenablog.com/)||
 |noimi|[はてなブログ](https://noimi.hatenablog.com/)||
+|nok0|[はてなブログ](https://tsuchi.hateblo.jp/)||
 |noshi91|[はてなブログ](https://noshi91.hatenablog.com/)||
 |nuip|[はてなブログ](https://nuip.hateblo.jp/)|2018年1月以降、新規の記事を確認できず。|
 |QCFium|[はてなブログ](https://qcfium.hatenadiary.com/)||
@@ -90,7 +91,6 @@ title: C&#43;&#43;
 |MMNMM|[はてなブログ](https://259-momone.hatenablog.com/)||
 |Motsu_xe|[はてなブログ](https://motsu-xe.hatenablog.com/)||
 |MtSaka|[はてなブログ](https://mt-saka.hatenablog.com)||
-|nok0|[はてなブログ](https://tsuchi.hateblo.jp/)||
 |olphe|[はてなブログ](https://olphe.hatenablog.com/)||
 |omochana2|[はてなブログ](https://omochan.hatenablog.com/)||
 |pekempey|[はてなブログ](https://pekempey.hatenablog.com/)||
