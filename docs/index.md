@@ -130,17 +130,6 @@
       <img loading="lazy" src="images/web_app/next-ac.png" alt="next ac">
     </div>
 
-=== "ユーザスクリプト"
-
-    2026-03-08
-
-    - 「[Webページに色付けする](user_scripts/colors)」ページ
-        - [AtCoder Highlighter](https://greasyfork.org/ja/scripts/566471-atcoder-highlighter)
-
-    <div align="center">
-      <img loading = "lazy" src="images/userscript/atcoder_highlighter.png" alt="atcoder highlighter">
-    </div>
-
 === "Chrome拡張機能"
 
     2026-03-22
@@ -194,6 +183,11 @@
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2026-03-23
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [nok0](https://atcoder.jp/users/nok0)さん - [はてなブログ](https://tsuchi.hateblo.jp/)
 
     2026-03-17
 

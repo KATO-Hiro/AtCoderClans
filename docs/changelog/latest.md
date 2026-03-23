@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-03-23
+
+- [#11853](https://github.com/KATO-Hiro/AtCoderClans/pull/11853) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+
 ### 2026-03-22
 
 - [#11850](https://github.com/KATO-Hiro/AtCoderClans/pull/11850) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページと「[Scripts](../../scripts)」の「[問題を解く](../../chrome_extensions/solve_problems)」ページに、以下のChrome拡張機能を追加。
