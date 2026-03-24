@@ -153,6 +153,11 @@
 
 === "記事"
 
+    2026-03-24
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年3月23日時点)](https://x.com/atcoder/status/2035996509175754908)
+
     2026-03-17
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -175,11 +180,6 @@
 
     - 「[問題を作成・出題する](articles/for_writers)」ページ
         - [競プロで作問するときに考えていること](https://ir5.hatenablog.com/entry/20260309/1773067391)
-
-    2026-03-09
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年3月9日時点)](https://x.com/atcoder/status/2030829111963422732)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
