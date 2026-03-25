@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-03-25
+
+- [#11862](https://github.com/KATO-Hiro/AtCoderClans/pull/11862) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
+    - [「AIで競プロはオワコン」論は誤り？　AtCoder代表が語る、“揺るがない競プロの価値”【ちょくだい】](https://levtech.jp/media/detail_831/)
+
 ### 2026-03-24
 
 - [#11859](https://github.com/KATO-Hiro/AtCoderClans/pull/11859) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
