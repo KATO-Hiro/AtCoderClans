@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-03-26
+
+- [#11865](https://github.com/KATO-Hiro/AtCoderClans/pull/11865) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
+    - [気づいたら、参加回数は200回超え──競技プログラミングと歩んだエンジニアの道](https://note.com/algoartis/n/na0690e02474c)
+
 ### 2026-03-25
 
 - [#11862](https://github.com/KATO-Hiro/AtCoderClans/pull/11862) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
