@@ -7,6 +7,7 @@ title: レーティング800〜1199(緑色)
 
 ## 2026年
 
+- [【入緑記事】飽き性が競プロほぼ未経験から実質4ヶ月で緑になった話](https://qiita.com/Rapca/items/50573da1b2eb4ca3a0ec) - [rapca](https://atcoder.jp/users/rapca)さんが、2026年3月27日に公開。
 - [【AtCoder】入緑したンゴ](https://qiita.com/npnp/items/800a04443dd6db09ac0a) - [npnp](https://atcoder.jp/users/npnp)さんが、2026年3月14日に達成。
 - [AtCoder 入緑しました](https://qiita.com/SyogoSuganoya/items/9556271379c839bde805) - [ssuga](https://atcoder.jp/users/ssuga)さんが、2026年3月14日に達成。
 - [入緑記事](https://note.com/ut0911/n/n920cb03b36d8) - [UT0911](https://atcoder.jp/users/UT0911)さんが、2026年2月28日に達成。
