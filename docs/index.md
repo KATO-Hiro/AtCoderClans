@@ -205,6 +205,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2026-03-27
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [rapca](https://atcoder.jp/users/rapca)さん - [【入緑記事】飽き性が競プロほぼ未経験から実質4ヶ月で緑になった話](https://qiita.com/Rapca/items/50573da1b2eb4ca3a0ec)
+
     2026-03-21
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
@@ -219,11 +224,6 @@
 
     - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
         - [edon8618](https://atcoder.jp/users/edon8618)さん - [競技プログラミング　atcoderで黄色になった話](https://qiita.com/edon8618/items/16d23d247c9cad158c2c)
-
-    2026-03-12
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [UT0911](https://atcoder.jp/users/UT0911)さん - [入緑記事](https://note.com/ut0911/n/n920cb03b36d8)
 
 ## AtCoder公式グッズを購入する
 
