@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-03-27
+
+- [#11870](https://github.com/KATO-Hiro/AtCoderClans/pull/11870) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[rapca](https://atcoder.jp/users/rapca)さんの[記事](https://qiita.com/Rapca/items/50573da1b2eb4ca3a0ec)を追加。
+
 ### 2026-03-26
 
 - [#11865](https://github.com/KATO-Hiro/AtCoderClans/pull/11865) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
