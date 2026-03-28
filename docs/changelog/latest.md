@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-03-28
+
+- [#11875](https://github.com/KATO-Hiro/AtCoderClans/pull/11875) - (破壊的な変更) 更新が停止もしくはリンク切れと思われるWebサービス、スクリプトを「[Archives](../../archived)」ページに移動。
+    - 一度も冷えなかった◯◯
+    - AtCoder Junior League (AJL）のスコア予測ツール
+    - AtCoder Standings AC Time Formatter
+- [#11873](https://github.com/KATO-Hiro/AtCoderClans/pull/11873) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績に関連するサービス](../../web_app/services_using_scores)」ページに、以下のWebサービスを追加。
+    - [AJL Simulator](https://e6nlaq.vercel.app/tools/ajl-simulator)
+
 ### 2026-03-27
 
 - [#11870](https://github.com/KATO-Hiro/AtCoderClans/pull/11870) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
