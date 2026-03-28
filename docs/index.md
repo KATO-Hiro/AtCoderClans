@@ -102,6 +102,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2026-03-28
+
+    - 「[コンテストの成績に関連するサービス](web_app/services_using_scores)」ページ
+        - [AJL Simulator](https://e6nlaq.vercel.app/tools/ajl-simulator)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/ajl_simulator.png" alt="ajl_simulator">
+    </div>
+
     2026-03-22
 
     - 「[問題を解く](web_app/solve_problems)」ページ
@@ -176,11 +185,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年3月16日時点)](https://x.com/atcoder/status/2033397003015860666)
 
-    2026-03-13
-
-    - 「[競技プログラミングと就転職](articles/jobs)」ページ
-        - [趣味の競技プログラミングで培ったヒューリスティック最適化が仕事になるまで](https://note.com/algoartis/n/naf59da07ba2c)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -224,6 +228,16 @@
 
     - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
         - [edon8618](https://atcoder.jp/users/edon8618)さん - [競技プログラミング　atcoderで黄色になった話](https://qiita.com/edon8618/items/16d23d247c9cad158c2c)
+
+=== "アーカイブス"
+
+    諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2026-03-28
+
+    - 一度も冷えなかった◯◯
+    - AtCoder Junior League (AJL）のスコア予測ツール
+    - AtCoder Standings AC Time Formatter
 
 ## AtCoder公式グッズを購入する
 
