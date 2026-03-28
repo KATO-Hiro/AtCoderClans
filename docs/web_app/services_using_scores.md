@@ -41,14 +41,6 @@ title: コンテストの成績に関連するサービス
       <img loading="lazy" src="../../images/web_app/ajl_simulator.png" alt="ajl_simulator">
     </div>
 
-- [AtCoder Junior League (AJL）のスコア予測ツール](https://kfrom40.github.io/) - コンテストの成績に基づいて、AtCoder Junior League のスコアと順位の予測値を知ることができる。スコアやレーティングによる並び替え、未参加のユーザを順位表に追加する機能もある。
-    - [作者によるツールおよび技術解説](https://kfrom40.hatenablog.com/entry/2024/07/03/234300)
-    - [同ツールへの機能追加](https://kfrom40.hatenablog.com/entry/2024/07/10/191443)
-
-    <div align="center">
-      <img loading="lazy" src="../../images/web_app/kfrom40_github_io.png" alt="kfrom40 github io">
-    </div>
-
 ### 仮想的なレーティングを計算
 
 #### アルゴリズム部門
@@ -57,12 +49,6 @@ title: コンテストの成績に関連するサービス
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_anytime.png" alt="atcoder anytime">
-    </div>
-
-- [一度も冷えなかった◯◯](https://tarareba.onrender.com/) - 参加したコンテストのうち、レーティングが単調増加となる結果だけを用いて、その推移を表示する。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/tarareba.png" alt="tarareba">
     </div>
 
 - [Rating converter](https://silverfoxxxy.github.io/rating-converter) - [AtCoder](https://atcoder.jp/)のレーティングから、[Codeforces](https://codeforces.com/)のレーティング相当値を知ることができる。

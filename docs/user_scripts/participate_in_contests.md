@@ -72,12 +72,6 @@ title: コンテストに参加する
 
 - [AtCoder Customize Panel Fix](https://greasyfork.org/ja/scripts/511359-atcoder-customize-panel-fix) - 「順位表」ページをリロードしたときに、カスタマイズパネルを開いたままにする。
 
-- [AtCoder Standings AC Time Formatter](https://greasyfork.org/ja/scripts/523392-atcoder-standings-ac-time-formatter) - 「順位表」ページで、問題に正解するまでの所要時間を見やすくする。アルゴリズム部門だけでなく、ヒューリスティック部門にも対応している。
-
-    <div align="center">
-      <img loading="lazy" src="../../images/userscript/atcoder_standings_ac_time_formatter.png" alt="atcoder standings ac time formatter">
-    </div>
-
 - [AtCoder の順位表を広げるやつ](https://greasyfork.org/ja/scripts/532077-atcoder-%E3%81%AE%E9%A0%86%E4%BD%8D%E8%A1%A8%E3%82%92%E5%BA%83%E3%81%92%E3%82%8B%E3%82%84%E3%81%A4) - 「順位表」ページで、表の幅を100%に広げるとともに、高さをやや狭くする。
 
     <div align="center">

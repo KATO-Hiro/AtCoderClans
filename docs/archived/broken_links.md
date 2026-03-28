@@ -116,6 +116,13 @@ title: リンク切れ
 
 ### 仮想的なレーティングを計算
 
+- [一度も冷えなかった◯◯](https://tarareba.onrender.com/) - 参加したコンテストのうち、レーティングが単調増加となる結果だけを用いて、その推移を表示する。
+    - 確認した日: 2026/03/28
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/tarareba.png" alt="tarareba">
+    </div>
+
 - [まよコン🌽 レーティング](https://mayocon.shinnshinn.dev/) - [mayocorn](https://atcoder.jp/users/mayocorn)さん主催のバーチャルコンテストの結果に基づいて、レーティングのランキング(月別)が集計されている。
     - 確認した日: 2025/07/14
 

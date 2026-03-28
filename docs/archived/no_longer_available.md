@@ -389,6 +389,13 @@ title: 開発・提供終了
 
 ### Webページに色付けする
 
+- [AtCoder Standings AC Time Formatter](https://greasyfork.org/ja/scripts/523392-atcoder-standings-ac-time-formatter) - 「順位表」ページで、問題に正解するまでの所要時間を見やすくする。アルゴリズム部門だけでなく、ヒューリスティック部門にも対応している。
+    - 確認した日: 2026/03/28
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_standings_ac_time_formatter.png" alt="atcoder standings ac time formatter">
+    </div>
+
 - [Colorful TL](https://greasyfork.org/ja/scripts/441551-colorful-tl) - TwitterのTimelineにおいて、ユーザ名をAtCoderのレーティングに対応した色に変更する。
     - 理由: データ取得先の[AtCoder TL](https://github.com/shirakia/atcoder_tl)のサービス終了に伴い、更新が停止した可能性が高いと思われるため。
     - 確認した日: 2023/08/20
