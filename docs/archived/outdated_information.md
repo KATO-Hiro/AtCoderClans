@@ -109,6 +109,15 @@ title: 更新停止の可能性が高い
 
 ### コンテストの成績に関連するサービス
 
+- [AtCoder Junior League (AJL）のスコア予測ツール](https://kfrom40.github.io/) - コンテストの成績に基づいて、AtCoder Junior League のスコアと順位の予測値を知ることができる。スコアやレーティングによる並び替え、未参加のユーザを順位表に追加する機能もある。
+    - [作者によるツールおよび技術解説](https://kfrom40.hatenablog.com/entry/2024/07/03/234300)
+    - [同ツールへの機能追加](https://kfrom40.hatenablog.com/entry/2024/07/10/191443)
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/kfrom40_github_io.png" alt="kfrom40 github io">
+    </div>
+
+
 - [AtCoder Prophet](https://sotanishy.github.io/atcoder-prophet) - 機械学習モデルを使って、将来のレーティングを予測する。
 
     <div align="center">
