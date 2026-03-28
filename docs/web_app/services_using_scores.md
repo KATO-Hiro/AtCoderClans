@@ -35,6 +35,12 @@ title: コンテストの成績に関連するサービス
 
 ### AtCoder Junior League (AJL） のスコアを予測
 
+- [AJL Simulator](https://e6nlaq.vercel.app/tools/ajl-simulator) - 次回のコンテストで目標とするパフォーマンス値を入力すると、AtCoder Junior League のスコアの予測値が確認できる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/ajl_simulator.png" alt="ajl_simulator">
+    </div>
+
 - [AtCoder Junior League (AJL）のスコア予測ツール](https://kfrom40.github.io/) - コンテストの成績に基づいて、AtCoder Junior League のスコアと順位の予測値を知ることができる。スコアやレーティングによる並び替え、未参加のユーザを順位表に追加する機能もある。
     - [作者によるツールおよび技術解説](https://kfrom40.hatenablog.com/entry/2024/07/03/234300)
     - [同ツールへの機能追加](https://kfrom40.hatenablog.com/entry/2024/07/10/191443)
