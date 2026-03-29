@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-03-29
+
+- [#11881](https://github.com/KATO-Hiro/AtCoderClans/pull/11881) - 「[Scripts](../../scripts)」の「[Webページに色付けする](../../user_scripts/colors)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Problems Bookmark Highlighter](https://greasyfork.org/ja/scripts/570024-atcoder-problems-bookmark-highlighter)
+
 ### 2026-03-28
 
 - [#11875](https://github.com/KATO-Hiro/AtCoderClans/pull/11875) - (破壊的な変更) 更新が停止もしくはリンク切れと思われるWebサービス、スクリプトを「[Archives](../../archived)」ページに移動。
