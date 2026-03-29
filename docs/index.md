@@ -129,14 +129,15 @@
       <img loading="lazy" src="images/chrome_extension/atcoder_novisteps_sync.png" alt="atcoder novisteps sync">
     </div>
 
-    2026-03-14
+=== "ユーザスクリプト"
 
-    - 「[問題を解く](web_app/solve_problems)」ページ
-        - [Next-AC](https://next-ac-peach.vercel.app/)
-            - [AtCoderに集中するため、6時間で専用ダッシュボードを作った話 ☕️ CDD開発](https://note.com/akashi_shogo/n/n3806a329f176)
+    2026-03-29
+
+    - 「[Webページに色付けする](user_scripts/colors)」ページ
+        - [AtCoder Problems Bookmark Highlighter](https://greasyfork.org/ja/scripts/570024-atcoder-problems-bookmark-highlighter)
 
     <div align="center">
-      <img loading="lazy" src="images/web_app/next-ac.png" alt="next ac">
+      <img loading="lazy" src="images/userscript/atcoder_problems_bookmark_highlighter.png" alt="atcoder problems bookmark highlighter">
     </div>
 
 === "Chrome拡張機能"
