@@ -120,15 +120,6 @@
       <img loading="lazy" src="images/chrome_extension/novisteps_climbmode.png" alt="novisteps climbmode">
     </div>
 
-    2026-03-15
-
-    - 「[問題を解く](web_app/solve_problems)」ページ
-        - [AtCoder NoviSteps Auto Sync](https://github.com/kuruton3910/atcoder-novisteps-sync) ![GitHub Repo stars](https://img.shields.io/github/stars/kuruton3910/atcoder-novisteps-sync?style=plastic)
-
-    <div align="center">
-      <img loading="lazy" src="images/chrome_extension/atcoder_novisteps_sync.png" alt="atcoder novisteps sync">
-    </div>
-
 === "ユーザスクリプト"
 
     2026-03-29
@@ -149,16 +140,6 @@
 
     <div align="center">
       <img loading="lazy" src="images/chrome_extension/novisteps_climbmode.png" alt="novisteps climbmode">
-    </div>
-
-    2026-03-15
-
-    - 「[問題を解く](chrome_extensions/solve_problems)」ページ
-        - [AtCoder NoviSteps Auto Sync](https://github.com/kuruton3910/atcoder-novisteps-sync) ![GitHub Repo stars](https://img.shields.io/github/stars/kuruton3910/atcoder-novisteps-sync?style=plastic)
-            - [作者による紹介記事](https://zenn.dev/krtn/articles/6ee245ac1122c8)
-
-    <div align="center">
-      <img loading="lazy" src="images/chrome_extension/atcoder_novisteps_sync.png" alt="atcoder novisteps sync">
     </div>
 
 === "記事"
@@ -209,6 +190,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-03-30
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [siooisi](https://atcoder.jp/users/siooisi)さん - [入緑したのでいろいろ書いた](https://qiita.com/siooisi/items/9fe844e4be3559a8944f)
 
     2026-03-27
 
