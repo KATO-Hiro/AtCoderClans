@@ -92,6 +92,9 @@
     },
     {
       "pattern": "^https://clist.by/"
+    },
+    {
+      "pattern": "^https://dreamhack.io/"
     }
   ],
   "httpHeaders": [
