@@ -144,6 +144,11 @@
 
 === "記事"
 
+    2026-03-31
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年3月31日時点。アルゴリズム部門最終結果)](https://x.com/atcoder/status/2038868691539120576)
+
     2026-03-26
 
     - 「[競技プログラミングと就転職](articles/jobs)」ページ
@@ -210,11 +215,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [ssuga](https://atcoder.jp/users/ssuga)さん - [AtCoder 入緑しました](https://qiita.com/SyogoSuganoya/items/9556271379c839bde805)
-
-    2026-03-16
-
-    - 「[アルゴリズム部門 - レーティング2000〜2399(黄色)](milestones/yellow)」ページ
-        - [edon8618](https://atcoder.jp/users/edon8618)さん - [競技プログラミング　atcoderで黄色になった話](https://qiita.com/edon8618/items/16d23d247c9cad158c2c)
 
 === "アーカイブス"
 
