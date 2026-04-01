@@ -45,6 +45,14 @@ title: クイズ・ゲーム・ネタアプリ
       <img loading = "lazy" src="../../images/web_app/atcoder_difficulty_quiz.png" alt="atcoder difficulty quiz">
     </div>
 
+### 問題文からコンテストサイトを予想
+
+- [OnlineMathContestかAtCoderか#2](https://quiz-maker.site/quiz/play/k2tpQV20250413161003) - 問題文の一部から OnlineMathContest か AtCoder を当てるクイズ。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/is_omc_or_atcoder2.png" alt="is omc or atcoder2">
+    </div>
+
 ##　 ゲーム
 
 - [競プロ向けC++](https://typing.twi1.me/game/368871) - 競技プログラミングでよく使われるC++コードを題材にしたタイピング練習ができる。
