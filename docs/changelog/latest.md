@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-04-01
+
+- [#11897](https://github.com/KATO-Hiro/AtCoderClans/pull/11897) - 「[Web apps and sites](../../web_app)」の「[クイズ・ゲーム・ネタアプリ](../../web_app/quiz_and_game)」ページに、以下のWebアプリを追加。
+    - [OnlineMathContestかAtCoderか#2](https://quiz-maker.site/quiz/play/k2tpQV20250413161003)
+
 ### 2026-03-31
 
 - [#11889](https://github.com/KATO-Hiro/AtCoderClans/pull/11889) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。

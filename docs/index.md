@@ -102,6 +102,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2026-04-01
+
+    - 「[クイズ・ゲーム・ネタアプリ](web_app/quiz_and_game)」ページ
+        - [OnlineMathContestかAtCoderか#2](https://quiz-maker.site/quiz/play/k2tpQV20250413161003)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/is_omc_or_atcoder2.png" alt="is omc or atcoder2">
+    </div>
+
     2026-03-28
 
     - 「[コンテストの成績に関連するサービス](web_app/services_using_scores)」ページ
@@ -164,14 +173,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年3月23日時点)](https://x.com/atcoder/status/2035996509175754908)
 
-    2026-03-17
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [ユニークビジョンプログラミングコンテスト2026 春（AtCoder Heuristic Contest 062）参加記](https://kaede2020.hatenablog.com/entry/2026/03/15/221001)
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年3月16日時点)](https://x.com/atcoder/status/2033397003015860666)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -179,11 +180,6 @@
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [nok0](https://atcoder.jp/users/nok0)さん - [はてなブログ](https://tsuchi.hateblo.jp/)
-
-    2026-03-17
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [edon8618](https://atcoder.jp/users/edon8618)さん - [Qiita](https://qiita.com/edon8618)
 
 === "動画"
 
