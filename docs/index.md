@@ -207,11 +207,6 @@
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [npnp](https://atcoder.jp/users/npnp)さん - [【AtCoder】入緑したンゴ](https://qiita.com/npnp/items/800a04443dd6db09ac0a)
 
-    2026-03-18
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [ssuga](https://atcoder.jp/users/ssuga)さん - [AtCoder 入緑しました](https://qiita.com/SyogoSuganoya/items/9556271379c839bde805)
-
 === "アーカイブス"
 
     諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
