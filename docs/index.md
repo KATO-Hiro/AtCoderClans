@@ -94,12 +94,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "ホーム"
-
-    2026-03-19
-
-    - [AGC録画ルールについて](https://atcoder.jp/posts/agc_proctoring_jp)
-
 === "Webアプリ・Webサイト"
 
     2026-04-01
@@ -191,6 +185,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-04-03
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [Uzawa_Reisa](https://atcoder.jp/users/Uzawa_Reisa)さん - [灰色コーダーを入茶させたい（入茶記事）.atcoder](https://qiita.com/tanekei/items/bc32242e0794c43d4fbc)
 
     2026-03-30
 

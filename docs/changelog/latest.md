@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-04-03
+
+- [#11904](https://github.com/KATO-Hiro/AtCoderClans/pull/11904) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[Uzawa_Reisa](https://atcoder.jp/users/Uzawa_Reisa)さんの[記事](https://qiita.com/tanekei/items/bc32242e0794c43d4fbc)を追加。
+
 ### 2026-04-02
 
 - [#11900](https://github.com/KATO-Hiro/AtCoderClans/pull/11900) - (破壊的な変更) 「[Change Log](../latest)」ページの2026年2月分を月別のアーカイブに移動。
