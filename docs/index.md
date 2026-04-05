@@ -177,10 +177,10 @@
 
 === "動画"
 
-    2026-03-20
+    2026-04-05
 
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [ずんだもんの競プロ日和](https://www.youtube.com/@%E3%81%9A%E3%82%93%E3%81%A0%E3%82%82%E3%82%93%E3%81%AE%E7%AB%B6%E3%83%97%E3%83%AD%E6%97%A5%E5%92%8C/videos)
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [AtCoderのための快適なC++環境構築 [MacOS用]](https://www.youtube.com/watch?v=z-5jmHY9Pyg)
 
 === "色変記事"
 

@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-04-05
+
+- [#11909](https://github.com/KATO-Hiro/AtCoderClans/pull/11909) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [AtCoderのための快適なC++環境構築 [MacOS用]](https://www.youtube.com/watch?v=z-5jmHY9Pyg)
+
 ### 2026-04-03
 
 - [#11904](https://github.com/KATO-Hiro/AtCoderClans/pull/11904) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
