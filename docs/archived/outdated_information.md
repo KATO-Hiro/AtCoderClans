@@ -626,6 +626,14 @@ title: 更新停止の可能性が高い
 - [あずぱん動画](https://www.youtube.com/playlist?list=PLwlP26Z1O_DesFumSto6rfa9T2jmk9iD4) - [azm](https://atcoder.jp/users/azm)さんのチャンネル。AtCoderの始め方や過去問に関する「ゆっくり動画」が公開されている。
 - [みちらから](https://www.youtube.com/channel/UCqBF4sFbNDMLwIUYbS1wkhg/featured) - [michirakara](https://atcoder.jp/users/michirakara)さんのチャンネル。コンテストで出題された問題の解説とPythonでの実装方法が紹介されている。
 
+### 生成AIの利活用例
+
+- [GPT-5 Proが爆死した数学オリンピック2025の超難問](https://www.youtube.com/watch?v=SjXa3iPph3o) - 2025×2025マスの盤面で各行・各列を必ず1マスずつ空け、それ以外をタイルで覆うときに必要な最小枚数を求める方法と、その証明が示されている。
+
+- [【速報】ChatGPT-4oに競技プログラミングをやらせてみた【ゆっくり解説】](https://www.youtube.com/watch?v=nhVfggY58IQ) - ChatGPT の最新モデル(2024年5月中旬時点)を利用して、コンテストの過去問がどこまで解けるか検証している。
+    - [【検証】最新モデル AI、ChatGPT-4o は「ひっかけ問題」をどれくらい解けるのか？【ゆっくり実況・ゆっくり解説】](https://www.youtube.com/watch?v=ZQf_JcAFah0) - 同モデルで、「ひっかけ問題」をどこまで解けるか検証している。
+    - [Claudeにパソコンを乗っ取らせて猫の絵を描かせてみた【ゆっくり解説】](https://www.youtube.com/watch?v=jjUDDexo_hM) - Claude の新機能 computer use (2024年10月下旬時点)を利用して、猫の絵を描かせている。
+
 ## ライブラリ・スニペット
 
 ### C&#43;&#43;
