@@ -147,6 +147,11 @@
 
 === "記事"
 
+    2026-04-06
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年4月6日時点)](https://x.com/atcoder/status/2041002518285832232)
+
     2026-03-31
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -200,11 +205,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [rapca](https://atcoder.jp/users/rapca)さん - [【入緑記事】飽き性が競プロほぼ未経験から実質4ヶ月で緑になった話](https://qiita.com/Rapca/items/50573da1b2eb4ca3a0ec)
-
-    2026-03-21
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [npnp](https://atcoder.jp/users/npnp)さん - [【AtCoder】入緑したンゴ](https://qiita.com/npnp/items/800a04443dd6db09ac0a)
 
 === "アーカイブス"
 
