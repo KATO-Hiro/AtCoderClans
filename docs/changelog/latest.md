@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-04-07
+
+- [#11919](https://github.com/KATO-Hiro/AtCoderClans/pull/11919) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の開催案内を追加。
+    - [2026年度 第1回ORセミナー『競技プログラミングとOR: 研究と実務に活かす競プロスキル』](https://smms.kktcs.co.jp/smms2/event/orsj/92)
+
 ### 2026-04-06
 
 - [#11913](https://github.com/KATO-Hiro/AtCoderClans/pull/11913) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。

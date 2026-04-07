@@ -114,15 +114,6 @@
       <img loading="lazy" src="images/web_app/ajl_simulator.png" alt="ajl_simulator">
     </div>
 
-    2026-03-22
-
-    - 「[問題を解く](web_app/solve_problems)」ページ
-        - [Novisteps-ClimbMode](https://github.com/blueberry1001/Novisteps-Climbmode) - ![GitHub Repo stars](https://img.shields.io/github/stars/blueberry1001/Novisteps-Climbmode?style=plastic)
-
-    <div align="center">
-      <img loading="lazy" src="images/chrome_extension/novisteps_climbmode.png" alt="novisteps climbmode">
-    </div>
-
 === "ユーザスクリプト"
 
     2026-03-29
@@ -134,18 +125,12 @@
       <img loading="lazy" src="images/userscript/atcoder_problems_bookmark_highlighter.png" alt="atcoder problems bookmark highlighter">
     </div>
 
-=== "Chrome拡張機能"
-
-    2026-03-22
-
-    - 「[問題を解く](web_app/solve_problems)」ページ
-        - [Novisteps-ClimbMode](https://github.com/blueberry1001/Novisteps-Climbmode) - ![GitHub Repo stars](https://img.shields.io/github/stars/blueberry1001/Novisteps-Climbmode?style=plastic)
-
-    <div align="center">
-      <img loading="lazy" src="images/chrome_extension/novisteps_climbmode.png" alt="novisteps climbmode">
-    </div>
-
 === "記事"
+
+    2026-04-07
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [2026年度 第1回ORセミナー『競技プログラミングとOR: 研究と実務に活かす競プロスキル』](https://smms.kktcs.co.jp/smms2/event/orsj/92)
 
     2026-04-06
 
