@@ -116,6 +116,11 @@
 
 === "ユーザスクリプト"
 
+    2026-04-08
+
+    - 「[問題を解く](user_scripts/solve_problems)」ページ
+        - [AtCoder UI Cleaner](https://greasyfork.org/ja/scripts/572015-atcoder-ui-cleaner)
+
     2026-03-29
 
     - 「[Webページに色付けする](user_scripts/colors)」ページ
@@ -156,14 +161,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年3月23日時点)](https://x.com/atcoder/status/2035996509175754908)
-
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2026-03-23
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [nok0](https://atcoder.jp/users/nok0)さん - [はてなブログ](https://tsuchi.hateblo.jp/)
 
 === "動画"
 
