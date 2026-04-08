@@ -237,13 +237,15 @@ title: 問題を解く
       <img loading="lazy" src="../../images/userscript/atcoder_scoreboard_pinner.png" alt="atcoder scoreboard pinner">
     </div>
 
-### 配点を隠す
+### 特定の情報を非表示にして問題に集中する
 
 - [AtCoderScoreHider](https://greasyfork.org/ja/scripts/371898-atcoderscorehider) - 「提出」ページなどの配点を隠す。日本語版のみ対応。
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_score_hider.png" alt="atcoder score hider">
     </div>
+
+- [AtCoder UI Cleaner](https://greasyfork.org/ja/scripts/572015-atcoder-ui-cleaner) - 「問題」ページの配点・実行時間制限 / メモリ制限、「提出結果」ページのジャッジ結果の詳細などを非表示にする。
 
 ### タイトルをコピー
 
