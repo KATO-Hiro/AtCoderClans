@@ -240,6 +240,7 @@ nav:
   - Milestones:
       - milestones/index.md
       - 色変記事:
+          - milestones/gray.md
           - milestones/brown.md
           - milestones/green.md
           - milestones/cyan.md
