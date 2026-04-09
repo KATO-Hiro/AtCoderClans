@@ -157,11 +157,6 @@
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
         - [「AIで競プロはオワコン」論は誤り？　AtCoder代表が語る、“揺るがない競プロの価値”【ちょくだい】](https://levtech.jp/media/detail_831/)
 
-    2026-03-24
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年3月23日時点)](https://x.com/atcoder/status/2035996509175754908)
-
 === "動画"
 
     2026-04-05
@@ -172,6 +167,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-04-09
+
+    - 「[レーティング1から399まで(灰色)](milestones/gray)」ページ
+        - [kirameku](https://atcoder.jp/users/kirameku)さん - [【色変記事】入灰しました！](https://qiita.com/kirameku/items/07ac3d67d8b57d98c44d)
 
     2026-04-03
 

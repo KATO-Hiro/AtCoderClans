@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-04-09
+
+- [#11927](https://github.com/KATO-Hiro/AtCoderClans/pull/11927) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1から399まで(灰色)に[kirameku](https://atcoder.jp/users/kirameku)さんの[記事](https://qiita.com/kirameku/items/07ac3d67d8b57d98c44d)を追加。
+
 ### 2026-04-08
 
 - [#11923](https://github.com/KATO-Hiro/AtCoderClans/pull/11923) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
