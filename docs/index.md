@@ -88,6 +88,10 @@
 - [AtCoderアカウントのパスワード管理について](https://atcoder.jp/posts/1366) - 不正アクセス防止のため、[AtCoder](https://atcoder.jp/)アカウントのパスワード確認・必要に応じて変更を促しています。
 - [【重要なお知らせ】AtCoderを騙る偽サイトにご注意ください](https://atcoder.jp/posts/1268) - [AtCoder](https://atcoder.jp/)の偽サイトへのアクセス・ログインなどをしないように注意喚起している記事です。
 
+#### 教材
+
+- [AtCoder Algorithm Lectures](https://info.atcoder.jp/entry/algorithm_lectures/index) - データ構造・グラフ・数学など幅広いアルゴリズムやテクニックを解説する講義シリーズです。主に中・上級者向けの内容が中心です。
+
 <!-- markdown-link-check-enable -->
 
 ### 非公式サービス・ツール・ライブラリ・記事など
