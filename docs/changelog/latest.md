@@ -6,7 +6,7 @@ title: Change Log
 
 ### 2026-04-10
 
-- [#11932](https://github.com/KATO-Hiro/AtCoderClans/pull/11932) - [Home](../..)ページに、以下のリンクを掲載。
+- [#11932](https://github.com/KATO-Hiro/AtCoderClans/pull/11932) - 「[Home](../..)」ページに、以下のリンクを掲載。
     - [AtCoder Algorithm Lectures](https://info.atcoder.jp/entry/algorithm_lectures/index)
 
 ### 2026-04-09
