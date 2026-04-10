@@ -98,6 +98,12 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "ホーム"
+
+    2026-04-10
+
+    - [AtCoder Algorithm Lectures](https://info.atcoder.jp/entry/algorithm_lectures/index)
+
 === "Webアプリ・Webサイト"
 
     2026-04-01
@@ -155,11 +161,6 @@
 
     - 「[競技プログラミングと就転職](articles/jobs)」ページ
         - [気づいたら、参加回数は200回超え──競技プログラミングと歩んだエンジニアの道](https://note.com/algoartis/n/na0690e02474c)
-
-    2026-03-25
-
-    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
-        - [「AIで競プロはオワコン」論は誤り？　AtCoder代表が語る、“揺るがない競プロの価値”【ちょくだい】](https://levtech.jp/media/detail_831/)
 
 === "動画"
 

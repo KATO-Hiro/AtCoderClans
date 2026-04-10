@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-04-10
+
+- [#11932](https://github.com/KATO-Hiro/AtCoderClans/pull/11932) - 「[Home](../..)」ページに、以下のリンクを掲載。
+    - [AtCoder Algorithm Lectures](https://info.atcoder.jp/entry/algorithm_lectures/index)
+
 ### 2026-04-09
 
 - [#11927](https://github.com/KATO-Hiro/AtCoderClans/pull/11927) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
