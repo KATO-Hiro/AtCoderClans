@@ -157,11 +157,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年3月31日時点。アルゴリズム部門最終結果)](https://x.com/atcoder/status/2038868691539120576)
 
-    2026-03-26
-
-    - 「[競技プログラミングと就転職](articles/jobs)」ページ
-        - [気づいたら、参加回数は200回超え──競技プログラミングと歩んだエンジニアの道](https://note.com/algoartis/n/na0690e02474c)
-
 === "動画"
 
     2026-04-05
@@ -172,6 +167,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-04-11
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [Youteru](https://atcoder.jp/users/Youteru)さん - [数狂、遂に入水達成(入水の心得3つ)](https://qiita.com/Youteru/items/074eafe7fc7b693aca39)
 
     2026-04-09
 
