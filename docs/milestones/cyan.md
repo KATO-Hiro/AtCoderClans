@@ -4,6 +4,7 @@ title: レーティング1200〜1599(水色)
 
 ## 2026年
 
+- [数狂、遂に入水達成(入水の心得3つ)](https://qiita.com/Youteru/items/074eafe7fc7b693aca39) - [Youteru](https://atcoder.jp/users/Youteru)さんが、2026年4月4日に達成。
 - [【色変記事】緑になってから約2か月で入水しました！](https://qiita.com/Un_titled/items/a7ed6f6da64d6b0d19f1) - [Un_titled](https://atcoder.jp/users/Un_titled)さんが、2026年2月28日に達成。
 - [【色変記事】入水までにあったこと](https://qiita.com/mizu7e/items/a1e7335daa6f12eb11d8) - [mizu7e](https://atcoder.jp/users/mizu7e)さんが、2026年2月7日に達成。
 - [入水しました！！](https://qiita.com/hekiboko/items/06677d5ba8eb2821bfb7) - [hekiboko0926](https://atcoder.jp/users/hekiboko0926)さんが、2026年1月31日に達成。
