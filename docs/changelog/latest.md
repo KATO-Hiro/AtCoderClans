@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-04-11
+
+- [#11937](https://github.com/KATO-Hiro/AtCoderClans/pull/11937) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[Youteru](https://atcoder.jp/users/Youteru)さんの[記事](https://qiita.com/Youteru/items/074eafe7fc7b693aca39)を追加。
+
 ### 2026-04-10
 
 - [#11932](https://github.com/KATO-Hiro/AtCoderClans/pull/11932) - 「[Home](../..)」ページに、以下のリンクを掲載。
