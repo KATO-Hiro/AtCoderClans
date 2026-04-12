@@ -95,6 +95,9 @@
     },
     {
       "pattern": "^https://dreamhack.io/"
+    },
+    {
+      "pattern": "^https://www.topcoder.com/"
     }
   ],
   "httpHeaders": [
@@ -112,5 +115,5 @@
   "timeout": "3m",
   "retryOn429": true,
   "fallbackRetryDelay": "75s",
-  "retryCount": 8
+  "retryCount": 2
 }
