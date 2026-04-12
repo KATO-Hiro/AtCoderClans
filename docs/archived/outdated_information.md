@@ -795,6 +795,12 @@ title: 更新停止の可能性が高い
 
 ### Codeforces
 
+- [Codeforces Daily Problems](https://github.com/ika9810/Codeforces-Daily-Problems) - ![GitHub stars](https://img.shields.io/github/stars/ika9810/Codeforces-Daily-Problems?style=plastic) - 日替わりで問題を解くことができる。[Codeforces](https://codeforces.com/)の過去問から、入門者〜超上級者向けの問題セットが出題される。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/related_contest_sites/codeforces/codeforces_daily_problems.png" alt="codeforces daily problems">
+    </div>
+
 - [Codeforces Tool](https://github.com/xalanq/cf-tool) ![GitHub stars](https://img.shields.io/github/stars/xalanq/cf-tool?style=plastic) - サンプルの入出力の取得、テスト、解答コードの提出などができるCLIツール。
 
     <div align="center">
@@ -808,10 +814,6 @@ title: 更新停止の可能性が高い
     </div>
 
 ### 情報オリンピック
-
-- [AtCoderにJOIの過去問の移植作業を行う有志を募集するツイート](https://twitter.com/Pro_ktmr/status/1485612598842519552) - AtCoderでJOIの過去問を解くことができるように、2022年度以降の移植作業を引き継ぐ方を募集しているツイート。
-
-    - 理由: 記載なし。
 
 - [JOI夏季セミナーに代わる輪読会の開催について](https://kaage.hatenablog.com/entry/2022/03/25/210000) - JOI夏季セミナー(ハイレベルコース)の開催見送りに伴い、代替イベントとなる輪読会の参加者を募集している記事。
 

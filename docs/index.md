@@ -188,10 +188,16 @@
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [siooisi](https://atcoder.jp/users/siooisi)さん - [入緑したのでいろいろ書いた](https://qiita.com/siooisi/items/9fe844e4be3559a8944f)
 
-    2026-03-27
+=== "国内外のコンテストサイト"
 
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [rapca](https://atcoder.jp/users/rapca)さん - [【入緑記事】飽き性が競プロほぼ未経験から実質4ヶ月で緑になった話](https://qiita.com/Rapca/items/50573da1b2eb4ca3a0ec)
+    2026-04-12
+
+    - 「[Codeforces](related_contest_sites/codeforces)」ページ
+        - [Codeforces Result Share on X](https://greasyfork.org/ja/scripts/570600-codeforces-result-share-on-x)
+
+    <div align="center">
+      <img loading="lazy" src="images/related_contest_sites/codeforces/codeforces_result_share_on_x.png" alt="codeforces result share on x">
+    </div>
 
 === "アーカイブス"
 

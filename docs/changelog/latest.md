@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-04-12
+
+- [#11942](https://github.com/KATO-Hiro/AtCoderClans/pull/11942) - 「[Related Contest Sites](../../related_contest_sites)」の「[Codeforces](../../related_contest_sites/codeforces)」ページに、以下のスクリプトを追加。
+    - [Codeforces Result Share on X](https://greasyfork.org/ja/scripts/570600-codeforces-result-share-on-x)
+
 ### 2026-04-11
 
 - [#11937](https://github.com/KATO-Hiro/AtCoderClans/pull/11937) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
