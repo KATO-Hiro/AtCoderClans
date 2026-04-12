@@ -113,6 +113,14 @@ title: Codeforces
       <img loading = "lazy" src="../../images/related_contest_sites/codeforces/codeforces_bold_emphasizer.png" alt="codeforces bold emphasizer">
     </div>
 
+### 成績をSNSで共有
+
+- [Codeforces Result Share on X](https://greasyfork.org/ja/scripts/570600-codeforces-result-share-on-x) - 「コンテスト」ページや「プロフィール」ページに、コンテストの成績を共有するボタンを追加する。ボタンを押すと、AtCoderのXシェア機能と同等の形式で投稿される。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/related_contest_sites/codeforces/codeforces_result_share_on_x.png" alt="codeforces result share on x">
+    </div>
+
 ## Google Chromeの拡張機能
 
 ### コンテストの成績を見る
