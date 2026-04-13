@@ -115,15 +115,6 @@
       <img loading="lazy" src="images/web_app/is_omc_or_atcoder2.png" alt="is omc or atcoder2">
     </div>
 
-    2026-03-28
-
-    - 「[コンテストの成績に関連するサービス](web_app/services_using_scores)」ページ
-        - [AJL Simulator](https://e6nlaq.vercel.app/tools/ajl-simulator)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/ajl_simulator.png" alt="ajl_simulator">
-    </div>
-
 === "ユーザスクリプト"
 
     2026-04-08
@@ -141,6 +132,11 @@
     </div>
 
 === "記事"
+
+    2026-04-13
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年4月13日時点)](https://x.com/atcoder/status/2043520501516206244)
 
     2026-04-07
 
@@ -198,16 +194,6 @@
     <div align="center">
       <img loading="lazy" src="images/related_contest_sites/codeforces/codeforces_result_share_on_x.png" alt="codeforces result share on x">
     </div>
-
-=== "アーカイブス"
-
-    諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
-
-    2026-03-28
-
-    - 一度も冷えなかった◯◯
-    - AtCoder Junior League (AJL）のスコア予測ツール
-    - AtCoder Standings AC Time Formatter
 
 ## AtCoder公式グッズを購入する
 
