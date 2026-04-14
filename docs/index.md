@@ -122,15 +122,6 @@
     - 「[問題を解く](user_scripts/solve_problems)」ページ
         - [AtCoder UI Cleaner](https://greasyfork.org/ja/scripts/572015-atcoder-ui-cleaner)
 
-    2026-03-29
-
-    - 「[Webページに色付けする](user_scripts/colors)」ページ
-        - [AtCoder Problems Bookmark Highlighter](https://greasyfork.org/ja/scripts/570024-atcoder-problems-bookmark-highlighter)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_problems_bookmark_highlighter.png" alt="atcoder problems bookmark highlighter">
-    </div>
-
 === "記事"
 
     2026-04-14
