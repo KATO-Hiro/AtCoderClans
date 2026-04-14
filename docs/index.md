@@ -133,6 +133,11 @@
 
 === "記事"
 
+    2026-04-14
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AtCoder Heuristic Contest 063 参加記](https://kaede2020.hatenablog.com/entry/2026/04/13/190657)
+
     2026-04-13
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
