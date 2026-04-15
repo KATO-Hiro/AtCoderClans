@@ -33,3 +33,10 @@ title: コンテストに参加する
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_calender.png" alt="atcoder calendar">
     </div>
+
+- [AtCoder Weekday Contest Calendar](https://hibit-at.github.io/AWC_Calendar/) - カレンダーの日付をクリックすると、[AtCoder Weekday Contest (通称、AWC)](https://atcoder.jp/contests/archive?ratedType=0&category=20)の該当するコンテストベージに移動できる。また、正解数や「難問」度合いを指標化したランキングも集計されている。
+    - [AWCの出題傾向とサービスの紹介記事](https://qiita.com/hibit/items/c8b5533282e648c971c9)
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/awc_calendar.png" alt="awc calendar">
+    </div>
