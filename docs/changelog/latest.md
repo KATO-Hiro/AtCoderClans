@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-04-15
+
+- [#11960](https://github.com/KATO-Hiro/AtCoderClans/pull/11960) - 「[Web apps and sites](../../web_app)」の「[コンテストに参加する](../../web_app/participate_in_contests)」ページに、以下のWebサービスを追加。
+    - [AtCoder Weekday Contest Calendar](https://hibit-at.github.io/AWC_Calendar/)
+        - [AWCの出題傾向とサービスの紹介記事](https://qiita.com/hibit/items/c8b5533282e648c971c9)
+
 ### 2026-04-14
 
 - [#11954](https://github.com/KATO-Hiro/AtCoderClans/pull/11954) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
