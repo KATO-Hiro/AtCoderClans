@@ -106,13 +106,14 @@
 
 === "Webアプリ・Webサイト"
 
-    2026-04-01
+    2026-04-15
 
-    - 「[クイズ・ゲーム・ネタアプリ](web_app/quiz_and_game)」ページ
-        - [OnlineMathContestかAtCoderか#2](https://quiz-maker.site/quiz/play/k2tpQV20250413161003)
+    - 「[コンテストに参加する](web_app/participate_in_contests)」ページ
+        - [AtCoder Weekday Contest Calendar](https://hibit-at.github.io/AWC_Calendar/)
+            - [AWCの出題傾向とサービスの紹介記事](https://qiita.com/hibit/items/c8b5533282e648c971c9)
 
     <div align="center">
-      <img loading="lazy" src="images/web_app/is_omc_or_atcoder2.png" alt="is omc or atcoder2">
+      <img loading="lazy" src="images/web_app/awc_calendar.png" alt="awc calendar">
     </div>
 
 === "ユーザスクリプト"
@@ -144,11 +145,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年4月6日時点)](https://x.com/atcoder/status/2041002518285832232)
 
-    2026-03-31
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2025 Winter - 学校ランキング (2026年3月31日時点。アルゴリズム部門最終結果)](https://x.com/atcoder/status/2038868691539120576)
-
 === "動画"
 
     2026-04-05
@@ -174,11 +170,6 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [Uzawa_Reisa](https://atcoder.jp/users/Uzawa_Reisa)さん - [灰色コーダーを入茶させたい（入茶記事）.atcoder](https://qiita.com/tanekei/items/bc32242e0794c43d4fbc)
-
-    2026-03-30
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [siooisi](https://atcoder.jp/users/siooisi)さん - [入緑したのでいろいろ書いた](https://qiita.com/siooisi/items/9fe844e4be3559a8944f)
 
 === "国内外のコンテストサイト"
 
