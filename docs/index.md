@@ -156,6 +156,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2026-04-16
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [WebP](https://atcoder.jp/users/WebP)さん - [AtCoderで入茶しました！](https://qiita.com/WebP/items/fdd39cdb7a66a7ee1260)
+
     2026-04-11
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
@@ -181,6 +186,14 @@
     <div align="center">
       <img loading="lazy" src="images/related_contest_sites/codeforces/codeforces_result_share_on_x.png" alt="codeforces result share on x">
     </div>
+
+=== "アーカイブス"
+
+    諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2026-04-16
+
+    - AtCoder Editorial Problems
 
 ## AtCoder公式グッズを購入する
 
