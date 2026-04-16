@@ -27,6 +27,13 @@ title: リンク切れ
 
 ### 特定の分野・難易度を重点的に学ぶ
 
+- [AtCoder Editorial Problems](https://ajinoko33.github.io/AtCoderEditorialProblems/) - 解説を書いたユーザを指定して問題を検索できる。
+    - 確認した日: 2026/04/16
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_editorial_problems.png" alt="atcoder editorial problems">
+    </div>
+
 - [searchapp](https://doo-an.github.io/WebApplication/searchapp/) - 指定した語句が問題文や公式解説に含まれる問題を検索できる。
     - 確認した日: 2026/01/22
 
