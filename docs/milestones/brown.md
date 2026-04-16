@@ -4,6 +4,7 @@ title: レーティング400〜799(茶色)
 
 ## 2026年
 
+- [AtCoderで入茶しました！](https://qiita.com/WebP/items/fdd39cdb7a66a7ee1260) - [WebP](https://atcoder.jp/users/WebP)さんが、2026年4月11日に達成。
 - [灰色コーダーを入茶させたい（入茶記事）.atcoder](https://qiita.com/tanekei/items/bc32242e0794c43d4fbc) - [Uzawa_Reisa](https://atcoder.jp/users/Uzawa_Reisa)さんが、2026年3月28日に達成。
 - [目が見えない僕が茶色コーダーになるまでのお話](https://note.com/okawari_0915/n/n662bf0e78b35) - [okawari0915](https://atcoder.jp/users/okawari0915)さんが、2026年2月22日に公開。
 
