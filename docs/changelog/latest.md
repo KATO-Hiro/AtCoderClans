@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-04-16
+
+- [#11966](https://github.com/KATO-Hiro/AtCoderClans/pull/11966) - (破壊的な変更) リンク切れと思われるWebサービスを「[Archives](../../archived)」ページに移動。
+    - AtCoder Editorial Problems
+- [#11965](https://github.com/KATO-Hiro/AtCoderClans/pull/11965) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[WebP](https://atcoder.jp/users/WebP)さんの[記事](https://qiita.com/WebP/items/fdd39cdb7a66a7ee1260)を追加。
+
 ### 2026-04-15
 
 - [#11960](https://github.com/KATO-Hiro/AtCoderClans/pull/11960) - 「[Web apps and sites](../../web_app)」の「[コンテストに参加する](../../web_app/participate_in_contests)」ページに、以下のWebサービスを追加。
