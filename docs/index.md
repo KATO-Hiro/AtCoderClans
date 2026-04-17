@@ -171,12 +171,12 @@
     - 「[レーティング1から399まで(灰色)](milestones/gray)」ページ
         - [kirameku](https://atcoder.jp/users/kirameku)さん - [【色変記事】入灰しました！](https://qiita.com/kirameku/items/07ac3d67d8b57d98c44d)
 
-    2026-04-03
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [Uzawa_Reisa](https://atcoder.jp/users/Uzawa_Reisa)さん - [灰色コーダーを入茶させたい（入茶記事）.atcoder](https://qiita.com/tanekei/items/bc32242e0794c43d4fbc)
-
 === "国内外のコンテストサイト"
+
+    2026-04-17
+
+    - 「[BOJ (Baekjoon Online Judge)](related_contest_sites/boj)」ページ
+        - [公式によるサービス終了予告](https://www.acmicpc.net/board/view/165799)
 
     2026-04-12
 
