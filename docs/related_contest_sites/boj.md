@@ -2,6 +2,10 @@
 title: BOJ (Baekjoon Online Judge)
 ---
 
+!!! info "参考"
+
+    2026年4月28日にサービス終了予定（[出典](https://www.acmicpc.net/board/view/165799)）。
+
 ## 記事
 
 - [韓国最大のオンラインジャッジサイトBOJとは？あと、solved.acとは？](https://riyuna.hatenablog.com/entry/2023/12/20/084520) - オンラインジャッジ、および、問題を難易度・ジャンルで分類したサイト（投票可）について紹介されている。
