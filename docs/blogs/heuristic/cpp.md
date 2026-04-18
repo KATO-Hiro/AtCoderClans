@@ -57,6 +57,7 @@ title: C&#43;&#43;
 |shibh308|[はてなブログ](https://shibh308.hatenablog.com/)||
 |ssaattoo|[はてなブログ](https://ssaattoo.hatenablog.com/)||
 |tempura0224|[はてなブログ](https://tempura0224.hatenablog.com/)||
+|through|[Zenn](https://zenn.dev/through)||
 |tokoharu|[はてなブログ](https://tokoharuland.hateblo.jp/)|2020年1月以降、新規の記事を確認できず。|
 |ValGrowth|[はてなブログ](https://valgrowth.hatenablog.com/archive)||
 |wanui|[Zenn](https://zenn.dev/gmeriaog)||
@@ -107,7 +108,6 @@ title: C&#43;&#43;
 |tardigrade|[はてなブログ](https://tardigrade.hatenablog.com/)、[Qiita](https://qiita.com/TARDIGRADE)||
 |tatyam|[はてなブログ](https://tatyam.hatenablog.com/)、[Qiita](https://qiita.com/tatyam)||
 |theory_and_me|[はてなブログ](https://theory-and-me.hatenablog.com/)||
-|through|[Zenn](https://zenn.dev/through)||
 |Trineutron|[Qiita](https://qiita.com/trineutron)||
 |tokumini|[はてなブログ](https://tokumini.hatenablog.com/)||
 |tsukasa_diary|[Qiita](https://qiita.com/tsukasa__diary)||
