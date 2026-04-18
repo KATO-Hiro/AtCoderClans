@@ -125,6 +125,11 @@
 
 === "記事"
 
+    2026-04-18
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AHC063参加記 (最終4位)](https://zenn.dev/through/articles/d95a7007ea77ce)
+
     2026-04-14
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ

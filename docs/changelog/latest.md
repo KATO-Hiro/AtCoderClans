@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-04-18
+
+- [#11975](https://github.com/KATO-Hiro/AtCoderClans/pull/11975) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [AHC063参加記 (最終4位)](https://zenn.dev/through/articles/d95a7007ea77ce)
+
 ### 2026-04-17
 
 - [#11969](https://github.com/KATO-Hiro/AtCoderClans/pull/11969) - 「[Related Contest Sites](../../related_contest_sites)」の「[BOJ (Baekjoon Online Judge)](../../related_contest_sites/boj)」ページに、以下の記事を追加。
