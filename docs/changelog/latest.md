@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-04-19
+
+- [#11983](https://github.com/KATO-Hiro/AtCoderClans/pull/11983) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページで掲載しているWebサービスの説明文とイメージを更新。
+    - [GRAPH × GRAPH](https://hello-world-494ec.firebaseapp.com/)
+- [#11982](https://github.com/KATO-Hiro/AtCoderClans/pull/11982) - [AXT_AyaKoto](https://x.com/AXT_AyaKoto)さんのご紹介で、「[Scripts](../../scripts)」の「[問題を解く - Google Chromeの拡張機能](../../chrome_extensions/solve_problems)」ページと「[問題を解く - FireFoxの拡張機能](../../firefox_extensions/solve_problems)」ページに、以下の拡張機能を追加。
+    - [AtCoder In-Browser Playground](https://aibp.axtech.dev/)
+
 ### 2026-04-18
 
 - [#11975](https://github.com/KATO-Hiro/AtCoderClans/pull/11975) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
