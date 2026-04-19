@@ -37,7 +37,9 @@ title: 問題を解くときの補助ツール
       <img loading="lazy" src="../../images/web_app/graph_editor.png" alt="graph editor">
     </div>
 
-- [GRAPH × GRAPH](https://hello-world-494ec.firebaseapp.com/) - グラフ理論に関する問題の入力例を可視化する。ターミナル上で同サイトを起動するためのCLIツール[ggg(go GRAPH × GRAPH)](https://github.com/monkukui/ggg)と[作者による紹介記事](https://monkukui.hatenablog.com/entry/2020/10/01/173918)もある。
+- [GRAPH × GRAPH](https://hello-world-494ec.firebaseapp.com/) - グラフ理論に関する問題の入力例をリアルタイムで可視化できる。
+    - [ggg(go GRAPH × GRAPH)](https://github.com/monkukui/ggg) - ターミナル上で同サイトを起動するためのCLIツール
+    - [作者による紹介記事](https://monkukui.hatenablog.com/entry/2020/10/01/173918)
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/graph_graph.png" alt="graph graph">
