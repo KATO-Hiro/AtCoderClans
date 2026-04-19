@@ -54,4 +54,5 @@ title: Scripts - はじめに
 
 ### FireFoxの拡張機能
 
+- [問題を解く](../firefox_extensions/solve_problems)
 - [復習の効果をより高める](../firefox_extensions/review)
