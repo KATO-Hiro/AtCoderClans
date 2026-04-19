@@ -106,6 +106,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2026-04-19
+
+    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
+        - [GRAPH × GRAPH](https://hello-world-494ec.firebaseapp.com/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/graph_graph.png" alt="graph graph">
+    </div>
+
     2026-04-15
 
     - 「[コンテストに参加する](web_app/participate_in_contests)」ページ
@@ -122,6 +131,28 @@
 
     - 「[問題を解く](user_scripts/solve_problems)」ページ
         - [AtCoder UI Cleaner](https://greasyfork.org/ja/scripts/572015-atcoder-ui-cleaner)
+
+=== "Chrome拡張機能"
+
+    2026-04-19
+
+    - 「[問題を解く - Google Chromeの拡張機能](chrome_extensions/solve_problems)」ページ
+        - [AtCoder In-Browser Playground](https://aibp.axtech.dev/)
+
+    <div align="center">
+      <img loading="lazy" src="images/chrome_extension/atcoder_in_browser_playground.png" alt="atcoder in browser playground">
+    </div>
+
+=== "FireFox拡張機能"
+
+    2026-04-19
+
+    - 「[問題を解く - FireFoxの拡張機能](firefox_extensions/solve_problems)」ページ
+        - [AtCoder In-Browser Playground](https://aibp.axtech.dev/)
+
+    <div align="center">
+      <img loading="lazy" src="images/firefox_extension/atcoder_in_browser_playground.png" alt="atcoder in browser playground">
+    </div>
 
 === "記事"
 
@@ -149,13 +180,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年4月6日時点)](https://x.com/atcoder/status/2041002518285832232)
-
-=== "動画"
-
-    2026-04-05
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [AtCoderのための快適なC++環境構築 [MacOS用]](https://www.youtube.com/watch?v=z-5jmHY9Pyg)
 
 === "色変記事"
 
