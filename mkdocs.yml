@@ -69,8 +69,9 @@ extra:
           name: This page could be improved
           data: 0
           note: >-
-            ありがとうございます！ このページの改善にご協力ください
-            （<a href="https://github.com/KATO-Hiro/AtCoderClans/issues/new?title=[Feedback]+{title}+-+{url}" target="_blank" rel="noopener">GitHub</a>）。
+            ありがとうございます！ このページの改善にご協力ください （<a
+            href="https://github.com/KATO-Hiro/AtCoderClans/issues/new?title=[Feedback]+{title}+-+{url}"
+            target="_blank" rel="noopener">GitHub</a>）。
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
@@ -89,8 +90,8 @@ markdown_extensions:
       generic: true
   - pymdownx.details
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji ""
+      emoji_generator: !!python/name:materialx.emoji.to_svg ""
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
@@ -152,6 +153,7 @@ nav:
           - chrome_extensions/improve_ui.md
           - chrome_extensions/rivals.md
       - Firefoxの拡張機能:
+          - firefox_extensions/solve_problems.md
           - firefox_extensions/review.md
   - Articles, Blogs, Books and Videos:
       - media/index.md
