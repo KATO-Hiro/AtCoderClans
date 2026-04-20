@@ -156,6 +156,11 @@
 
 === "記事"
 
+    2026-04-20
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年4月20日時点)](https://x.com/atcoder/status/2046049887507320930)
+
     2026-04-18
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -175,11 +180,6 @@
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
         - [2026年度 第1回ORセミナー『競技プログラミングとOR: 研究と実務に活かす競プロスキル』](https://smms.kktcs.co.jp/smms2/event/orsj/92)
-
-    2026-04-06
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年4月6日時点)](https://x.com/atcoder/status/2041002518285832232)
 
 === "色変記事"
 
