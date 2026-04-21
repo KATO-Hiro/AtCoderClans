@@ -176,10 +176,12 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年4月13日時点)](https://x.com/atcoder/status/2043520501516206244)
 
-    2026-04-07
+=== "ライブラリ・スニペット"
 
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-        - [2026年度 第1回ORセミナー『競技プログラミングとOR: 研究と実務に活かす競プロスキル』](https://smms.kktcs.co.jp/smms2/event/orsj/92)
+    2026-04-21
+
+    - 「[C++](libraries/cpp)」ページ
+        - [alpha0314alpha/kyopuro](https://github.com/alpha0314alpha/kyopuro) ![GitHub stars](https://img.shields.io/github/stars/alpha0314alpha/kyopuro?style=plastic)
 
 === "色変記事"
 
