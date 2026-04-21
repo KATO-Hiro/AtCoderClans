@@ -3,6 +3,7 @@ title: C&#43;&#43;
 ---
 
 - [achapi/CppLibrary](https://github.com/achapi/CppLibrary) ![GitHub Repo stars](https://img.shields.io/github/stars/achapi/CppLibrary?style=plastic) - [achapi](https://atcoder.jp/users/achapi)さんのライブラリ。
+- [alpha0314alpha/kyopuro](https://github.com/alpha0314alpha/kyopuro) ![GitHub stars](https://img.shields.io/github/stars/alpha0314alpha/kyopuro?style=plastic) - [alpha0314sub](https://atcoder.jp/users/alpha0314sub)さんのコードテンプレート。
 - [asi1024/competitive-library](https://github.com/asi1024/competitive-library) ![GitHub stars](https://img.shields.io/github/stars/asi1024/competitive-library?style=plastic) - [asi1024](https://atcoder.jp/users/asi1024)さんのライブラリ。C++14以降に対応。
 - [atcoder/live_library](https://github.com/atcoder/live_library) ![GitHub Repo stars](https://img.shields.io/github/stars/atcoder/live_library?style=plastic) - コンテスト後の解説放送で作成されたライブラリ集。
 - [ayuna-stpyko/Ayuna-Competitive-Programming-Library](https://github.com/ayuna-stpyko/Ayuna-Competitive-Programming-Library) ![GitHub stars](https://img.shields.io/github/stars/ayuna-stpyko/Ayuna-Competitive-Programming-Library?style=plastic) - [Ayuna](https://atcoder.jp/users/Ayuna)さんのライブラリ。
@@ -31,15 +32,12 @@ title: C&#43;&#43;
 - [seekworser/competitive_library](https://github.com/seekworser/competitive_library) ![GitHub Repo stars](https://img.shields.io/github/stars/seekworser/competitive_library?style=plastic) - [seekworser](https://atcoder.jp/users/seekworser)さんのライブラリ。
 - [sgtlaugh/algovault](https://github.com/sgtlaugh/algovault) ![GitHub Repo stars](https://img.shields.io/github/stars/sgtlaugh/algovault?style=plastic) - sgtlaughさんのライブラリ。一部のアルゴリズムはPythonで実装されている。
 - [sigma425/library](https://github.com/sigma425/library) ![GitHub stars](https://img.shields.io/github/stars/sigma425/library?style=plastic) - [sigma425](https://atcoder.jp/users/sigma425)さんのライブラリ。
-- [smiken/kyopuro-library](https://github.com/smiken/kyopuro-library) ![GitHub stars](https://img.shields.io/github/stars/smiken/kyopuro-library?style=plastic) - [smiken](https://atcoder.jp/users/smiken)さんのライブラリ。
 - [snuke/LibraryPaste](https://github.com/snuke/LibraryPaste) ![GitHub stars](https://img.shields.io/github/stars/snuke/LibraryPaste?style=plastic) - [snuke](https://atcoder.jp/users/snuke)さんの[Sublime Text](https://www.sublimetext.com/3)プラグイン。
 - [SSRS-cp/Competitive_Programming](https://github.com/SSRS-cp/Competitive_Programming) ![GitHub Repo stars](https://img.shields.io/github/stars/SSRS-cp/Competitive_Programming?style=plastic) - [SSRS](https://atcoder.jp/users/SSRS)さんのライブラリ。
 - [suisen-cp/cp-library-cpp](https://github.com/suisen-cp/cp-library-cpp) ![GitHub Repo stars](https://img.shields.io/github/stars/suisen-cp/cp-library-cpp?style=plastic) - [suisen](https://atcoder.jp/users/suisen)さんのライブラリ。[Java版](https://github.com/suisen-cp/java_competitive_programming_library)もある。
 - [tatyam-prime/ICPC_notebook](https://github.com/tatyam-prime/ICPC_notebook) ![GitHub Repo stars](https://img.shields.io/github/stars/tatyam-prime/ICPC_notebook?style=plastic) - 国際大学対抗プログラミングコンテスト（ICPC）用ライブラリのテンプレート。
 - [tatyam-prime/kyopro_library](https://github.com/tatyam-prime/kyopro_library) ![GitHub stars](https://img.shields.io/github/stars/tatyam-prime/kyopro_library?style=plastic) - [tatyam](https://atcoder.jp/users/tatyam)さんのライブラリ。
-- [Tiramister/CppLibrary](https://github.com/Tiramister/CppLibrary) ![GitHub stars](https://img.shields.io/github/stars/Tiramister/CppLibrary?style=plastic) - [Tiramister](https://atcoder.jp/users/Tiramister)さんのライブラリ。
 - [UScuber/Algorithm-Library](https://github.com/UScuber/Algorithm-Library) ![GitHub stars](https://img.shields.io/github/stars/UScuber/Algorithm-Library?style=plastic) - [US_cube](https://atcoder.jp/users/US_cube)さんのライブラリ。
 - [windows-server-2003/quick_floyd_warshall](https://github.com/windows-server-2003/quick_floyd_warshall) ![GitHub Repo stars](https://img.shields.io/github/stars/windows-server-2003/quick_floyd_warshall?style=plastic) - [QCFium](https://atcoder.jp/users/QCFium)さんのライブラリ。Floyd-Warshallアルゴリズムの大幅な高速化が図られている。
 - [xirc/cp-algorithm](https://github.com/xirc/cp-algorithm) ![GitHub Repo stars](https://img.shields.io/github/stars/xirc/cp-algorithm?style=plastic) - [xirc](https://atcoder.jp/users/xirc)さんのライブラリ。
 - [yosupo06/Algorithm](https://github.com/yosupo06/Algorithm) ![GitHub stars](https://img.shields.io/github/stars/yosupo06/Algorithm?style=plastic) - [yosupo](https://atcoder.jp/users/yosupo)さんのライブラリ。C++11で実装されている。[D版](https://github.com/yosupo06/dunkelheit)もある。
-- [zerokpr/Kpr_Library](https://github.com/zerokpr/Kpr_Library) ![GitHub stars](https://img.shields.io/github/stars/zerokpr/Kpr_Library?style=plastic) - [zero_kpr](https://atcoder.jp/users/zero_kpr)さんのライブラリ。
