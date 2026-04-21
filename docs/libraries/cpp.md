@@ -3,6 +3,7 @@ title: C&#43;&#43;
 ---
 
 - [achapi/CppLibrary](https://github.com/achapi/CppLibrary) ![GitHub Repo stars](https://img.shields.io/github/stars/achapi/CppLibrary?style=plastic) - [achapi](https://atcoder.jp/users/achapi)さんのライブラリ。
+- [alpha0314alpha/kyopuro](https://github.com/alpha0314alpha/kyopuro) ![GitHub stars](https://img.shields.io/github/stars/alpha0314alpha/kyopuro?style=plastic) - [alpha0314sub](https://atcoder.jp/users/alpha0314sub)さんのコードテンプレート。
 - [asi1024/competitive-library](https://github.com/asi1024/competitive-library) ![GitHub stars](https://img.shields.io/github/stars/asi1024/competitive-library?style=plastic) - [asi1024](https://atcoder.jp/users/asi1024)さんのライブラリ。C++14以降に対応。
 - [atcoder/live_library](https://github.com/atcoder/live_library) ![GitHub Repo stars](https://img.shields.io/github/stars/atcoder/live_library?style=plastic) - コンテスト後の解説放送で作成されたライブラリ集。
 - [ayuna-stpyko/Ayuna-Competitive-Programming-Library](https://github.com/ayuna-stpyko/Ayuna-Competitive-Programming-Library) ![GitHub stars](https://img.shields.io/github/stars/ayuna-stpyko/Ayuna-Competitive-Programming-Library?style=plastic) - [Ayuna](https://atcoder.jp/users/Ayuna)さんのライブラリ。
