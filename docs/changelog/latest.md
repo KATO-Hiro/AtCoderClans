@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-04-21
+
+- [#11990](https://github.com/KATO-Hiro/AtCoderClans/pull/11990) - (破壊的な変更) 「「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。また、更新が停止している可能性が高いと思われるライブラリを「[Archives](../../archived)」ページに移動。
+    - [alpha0314alpha/kyopuro](https://github.com/alpha0314alpha/kyopuro) ![GitHub stars](https://img.shields.io/github/stars/alpha0314alpha/kyopuro?style=plastic)
+
 ### 2026-04-20
 
 - [#11948](https://github.com/KATO-Hiro/AtCoderClans/pull/11948) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。

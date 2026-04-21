@@ -181,6 +181,13 @@
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
         - [2026年度 第1回ORセミナー『競技プログラミングとOR: 研究と実務に活かす競プロスキル』](https://smms.kktcs.co.jp/smms2/event/orsj/92)
 
+=== "ライブラリ・スニペット"
+
+    2026-04-21
+
+    - 「[C++](libraries/cpp)」ページ
+        - [alpha0314alpha/kyopuro](https://github.com/alpha0314alpha/kyopuro) ![GitHub stars](https://img.shields.io/github/stars/alpha0314alpha/kyopuro?style=plastic)
+
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
