@@ -125,13 +125,6 @@
       <img loading="lazy" src="images/web_app/awc_calendar.png" alt="awc calendar">
     </div>
 
-=== "ユーザスクリプト"
-
-    2026-04-08
-
-    - 「[問題を解く](user_scripts/solve_problems)」ページ
-        - [AtCoder UI Cleaner](https://greasyfork.org/ja/scripts/572015-atcoder-ui-cleaner)
-
 === "Chrome拡張機能"
 
     2026-04-19
@@ -155,6 +148,11 @@
     </div>
 
 === "記事"
+
+    2026-04-22
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [中高生向け 学校対抗競技プログラミング「AtCoder Junior League 2025 Winter」入賞校・入賞者を発表](https://prtimes.jp/main/html/rd/p/000000065.000028415.html)
 
     2026-04-20
 

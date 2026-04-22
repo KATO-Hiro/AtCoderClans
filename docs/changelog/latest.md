@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-04-22
+
+- [#11996](https://github.com/KATO-Hiro/AtCoderClans/pull/11996) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下の記事を追加。
+    - [中高生向け 学校対抗競技プログラミング「AtCoder Junior League 2025 Winter」入賞校・入賞者を発表](https://prtimes.jp/main/html/rd/p/000000065.000028415.html)
+
 ### 2026-04-21
 
 - [#11990](https://github.com/KATO-Hiro/AtCoderClans/pull/11990) - (破壊的な変更) 「「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。また、更新が停止している可能性が高いと思われるライブラリを「[Archives](../../archived)」ページに移動。
