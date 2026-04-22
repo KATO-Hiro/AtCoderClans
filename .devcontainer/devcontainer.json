@@ -12,7 +12,8 @@
 		"../compose.yaml"
 	],
 	"mounts": [
-		"source=${localEnv:HOME}/.ssh,target=/home/vscode/.ssh,type=bind"
+		"source=${localEnv:HOME}/.ssh,target=/home/vscode/.ssh,type=bind",
+		"source=${localEnv:HOME}/.claude,target=/home/vscode/.claude,type=bind,consistency=cached"
 	],
 	"customizations": {
 		"vscode": {
@@ -25,7 +26,7 @@
 				"files.trimTrailingWhitespace": true,
 				"makefile.configureOnOpen": false,
 				"python.analysis.typeCheckingMode": "basic",
-				"python.defaultInterpreterPath": "/tmp/atcoderclans-venv/bin/python",
+				"python.defaultInterpreterPath": "/usr/src/app/.venv/bin/python",
 				"python.linting.enabled": true,
 				"python.linting.banditPath": "/usr/local/py-utils/bin/bandit",
 				"python.linting.mypyPath": "/usr/local/py-utils/bin/mypy",
@@ -41,6 +42,7 @@
 			},
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
+				"anthropic.claude-code",
 				"christian-kohler.path-intellisense",
 				"github.vscode-github-actions",
 				"medo64.render-crlf",
@@ -50,7 +52,7 @@
 				"ms-vscode.makefile-tools",
 				"redhat.vscode-yaml",
 				"tamasfe.even-better-toml",
-				"vscode-icons-team.vscode-icons"
+				"vscode-icons-team.vscode-icons",
 			]
 		}
 	},
@@ -58,8 +60,13 @@
 	"forwardPorts": [
 		8000
 	],
+	// Use 'initializeCommand' to run commands before the container is created.
+	"initializeCommand": "mkdir -p ~/.claude",
 	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "",
+	"postCreateCommand": "bash .devcontainer/setup-devcontainer.sh",
+	"containerEnv": {
+		"CLAUDE_CONFIG_DIR": "/home/vscode/.claude"
+	},
 	// Comment out to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
 	"remoteUser": "vscode"
 }

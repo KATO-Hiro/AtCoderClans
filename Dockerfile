@@ -11,9 +11,6 @@ ENV UV_INSTALL_DIR=/usr/local/uv
 RUN curl -LsSf https://astral.sh/uv/install.sh | sh && \
     ln -sf "$UV_INSTALL_DIR/uv" /usr/local/bin/uv
 
-# Set uv cache directory to /tmp to avoid permission issues
-ENV UV_CACHE_DIR=/tmp/uv-cache
-
 # Copy project files (dependencies will be installed as vscode user)
 COPY pyproject.toml uv.lock ./
 
@@ -21,9 +18,9 @@ COPY pyproject.toml uv.lock ./
 RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
     && apt-get -y install --no-install-recommends fish
 
-RUN mkdir -p /home/vscode/.config/fish
+RUN mkdir -p /home/vscode/.cache/uv /home/vscode/.config/fish 
 COPY .devcontainer/config.fish /home/vscode/.config/fish/config.fish
-RUN chown -R vscode:vscode /home/vscode/.config/fish
+RUN chown -R vscode:vscode /home/vscode/.cache/uv /home/vscode/.config/fish
 
 # See:
 # https://docs.docker.com/engine/reference/builder/
