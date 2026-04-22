@@ -9,10 +9,9 @@ services:
     tty: true
     volumes:
       - .:/usr/src/app:cached
-      - uv-cache:/workspace/.cache/uv
+      - uv-cache:/home/vscode/.cache/uv
     environment:
       PYTHONPATH: .
-      UV_CACHE_DIR: /workspace/.cache/uv
 
 volumes:
   uv-cache:
