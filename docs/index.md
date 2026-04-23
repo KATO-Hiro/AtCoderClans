@@ -195,11 +195,6 @@
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [Youteru](https://atcoder.jp/users/Youteru)さん - [数狂、遂に入水達成(入水の心得3つ)](https://qiita.com/Youteru/items/074eafe7fc7b693aca39)
 
-    2026-04-09
-
-    - 「[レーティング1から399まで(灰色)](milestones/gray)」ページ
-        - [kirameku](https://atcoder.jp/users/kirameku)さん - [【色変記事】入灰しました！](https://qiita.com/kirameku/items/07ac3d67d8b57d98c44d)
-
 === "国内外のコンテストサイト"
 
     2026-04-17
