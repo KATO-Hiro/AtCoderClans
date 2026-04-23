@@ -291,6 +291,7 @@ nav:
   - Change Log:
       - changelog/latest.md
       - 2026:
+          - March, 2026: changelog/2026_03.md
           - February, 2026: changelog/2026_02.md
           - January, 2026: changelog/2026_01.md
       - 2025:
