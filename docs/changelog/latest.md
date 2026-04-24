@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-04-24
+
+- [#12004](https://github.com/KATO-Hiro/AtCoderClans/pull/12004) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[hotate29](https://atcoder.jp/users/hotate29)さんの[記事](https://hotate29.hatenablog.com/entry/20260325/1774430710)を追加。
+
 ### 2026-04-23
 
 - [#12000](https://github.com/KATO-Hiro/AtCoderClans/pull/12000) - (破壊的な変更) 「[Change Log](../latest)」ページの2026年3月分を月別のアーカイブに移動。
