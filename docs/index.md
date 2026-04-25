@@ -189,12 +189,16 @@
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [WebP](https://atcoder.jp/users/WebP)さん - [AtCoderで入茶しました！](https://qiita.com/WebP/items/fdd39cdb7a66a7ee1260)
 
-    2026-04-11
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [Youteru](https://atcoder.jp/users/Youteru)さん - [数狂、遂に入水達成(入水の心得3つ)](https://qiita.com/Youteru/items/074eafe7fc7b693aca39)
-
 === "国内外のコンテストサイト"
+
+    2026-04-25
+
+    - 「[Codeforces](related_contest_sites/codeforces)」ページ
+        - [Competetive Programming Helper](https://agrawal-d.com/cph/)
+
+    <div align="center">
+      <img loading="lazy" src="images/related_contest_sites/codeforces/cph.png" alt="Competetive Programming Helper">
+    </div>
 
     2026-04-17
 

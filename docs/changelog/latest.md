@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-04-25
+
+- [#12009](https://github.com/KATO-Hiro/AtCoderClans/pull/12009) - 「[Related Contest Sites](../../related_contest_sites)」の「[Codeforces](../../related_contest_sites/codeforces)」ページに、以下のVisual Studio Code拡張機能を追加。
+    - [Competetive Programming Helper](https://agrawal-d.com/cph/)
+
 ### 2026-04-24
 
 - [#12004](https://github.com/KATO-Hiro/AtCoderClans/pull/12004) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
