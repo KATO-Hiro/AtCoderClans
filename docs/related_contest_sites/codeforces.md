@@ -125,6 +125,16 @@ title: Codeforces
       <img loading="lazy" src="../../images/related_contest_sites/codeforces/carrot.png" alt="Carrot extension showing rating predictions on Codeforces standings">
     </div>
 
+## Visual Studio Codeの拡張機能
+
+### ソースコードにバグがないか確認
+
+- [Competetive Programming Helper](https://agrawal-d.com/cph/) - サンプルの入出力の取得、テスト、解答コードの提出ができる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/related_contest_sites/codeforces/cph.png" alt="Competetive Programming Helper">
+    </div>
+
 ## コマンドラインツール・GUIツール
 
 ### ソースコードにバグがないか確認
