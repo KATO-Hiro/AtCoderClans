@@ -45,6 +45,8 @@ exclude = [
   "^https://x\\.com/",
   # Self-hosted site
   "^https://kato-hiro\\.github\\.io/AtCoderClans/",
+  # Relative paths (MkDocs internal links - not resolvable as file system paths)
+  "^(\\.\\./|\\./).*",
 ]
 
 # Exclude archived pages that intentionally contain broken/dead links
