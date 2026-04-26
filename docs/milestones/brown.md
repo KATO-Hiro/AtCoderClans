@@ -78,9 +78,7 @@ title: レーティング400〜799(茶色)
 - [【色変記事】出場3回目にして2回目の茶色になったので初めて色変記事を書いてみた~AtCoderのすゝめ~](https://note.com/likafu/n/nba8f592509e6) - [LiKafu](https://atcoder.jp/users/LiKafu)さんが、2022年11月5日に達成。
 - [競プロ未経験から3ヶ月でAtCoder茶色になった話。](https://note.com/jikky1618/n/nbf891072355e) - [Jikky1618](https://atcoder.jp/users/Jikky1618)さんが、2022年11月5日に達成。
 - [【色変記事】AtCoder始めて入茶まで](https://qiita.com/ys_dirard/items/7e2c6f595ef3fb323575) - [dirard](https://atcoder.jp/users/dirard)さんが、2022年11月5日に達成。
-<!-- markdown-link-check-disable -->
 - [【色変記事】数学超苦手なエンジニアがAtCoderで茶色コーダー（脱初心者）になるまで](https://dev.classmethod.jp/articles/atcoder_change_color_brown/) - [bun913](https://atcoder.jp/users/bun913)さんが、2022年9月24日に達成。
-<!-- markdown-link-check-enable -->
 - [【色変記事】AtCoder茶色になるまで3年かかりました](https://qiita.com/dhirabayashi/items/0279cab717cf6b39c764) - [dhirabayashi](https://atcoder.jp/users/dhirabayashi)さんが、2022年9月10日に達成。
 - [AtCoderで入茶した感想【色変記事】](https://qiita.com/Michirakara/items/89ba033e9343a1ee02ef) - [michirakara](https://atcoder.jp/users/michirakara)さんが、2022年6月19日に達成。
 - [AtCoderで茶色になったから書いた記事](https://qiita.com/viral_8/items/303c3d5e59084070bc70) - [viral](https://atcoder.jp/users/viral)さんが、2022年5月13日に公開。

@@ -194,11 +194,7 @@ title: ヒューリスティック問題を解く
 
 #### コンテスト企画者の振り返り
 
-<!-- markdown-link-check-disable -->
-
 - [企画者目線で振り返るestie プログラミングコンテスト2022](https://www.estie.jp/blog/entry/2022/12/14/110000) - [matsu7874](https://atcoder.jp/users/matsu7874)さんが、企画・運営の立場から[estie プログラミングコンテスト2022（AtCoder Heuristic Contest 014）](https://atcoder.jp/contests/ahc014)を振り返った記事。
-
-<!-- markdown-link-check-enable -->
 
 - [ALGO ARTISプログラミングコンテスト writerインタビュー  アルゴリズムエンジニア松尾が語るコンテストの舞台裏](https://media.algo-artis.com/posts/8A4hMugo) - [ALGO ARTIS プログラミングコンテスト2023（AtCoder Heuristic Contest 020）](https://atcoder.jp/contests/ahc020)のwriterである[terry_u16](https://atcoder.jp/users/terry_u16)さんへのインタビュー記事。コンテスト開催までの経緯、問題の作成・調整の過程とコンテスト当日の状況などがまとめられている。
     - [1000人を熱狂させる問題はこうして作る – AHC Writer の奮闘記](https://note.com/algoartis/n/na09ebec91106) - [ALGO ARTIS プログラミングコンテスト2025 冬（AtCoder Heuristic Contest 041）](https://atcoder.jp/contests/ahc041)における問題の準備からコンテスト当日までの流れが時系列順に紹介されている。
@@ -245,11 +241,7 @@ title: ヒューリスティック問題を解く
 
 - [AWS上にマラソンマッチ用のジャッジ環境を作った](https://yunix-kyopro.hatenablog.com/entry/2022/07/02/134251) - ヒューリスティック型コンテストにおいて、大量のテストケースをAWS環境で処理する方法が紹介されている記事。
 
-    <!-- markdown-link-check-disable -->
-
-    - [「AWS上にマラソンマッチ用のジャッジ環境を作った」をChatGPTに投げて、Lambdaを使ったAHC用のジャッジ環境を作る。](https://shindannin.hatenadiary.com/entry/2023/06/19/100655) - [ChatGPT](https://openai.com/blog/chatgpt/)による質問・回答を繰り返しながら、AWS環境の構築過程とエラーへの対処方法が紹介されている。
-
-    <!-- markdown-link-check-enable -->
+        - [「AWS上にマラソンマッチ用のジャッジ環境を作った」をChatGPTに投げて、Lambdaを使ったAHC用のジャッジ環境を作る。](https://shindannin.hatenadiary.com/entry/2023/06/19/100655) - [ChatGPT](https://openai.com/blog/chatgpt/)による質問・回答を繰り返しながら、AWS環境の構築過程とエラーへの対処方法が紹介されている。
 
 - [私のスコア問題評価環境](https://topcoder-tomerun.hatenablog.jp/entry/2024/04/06/201915) - [tomerun](https://atcoder.jp/users/tomerun)さんが、大量のテストケースを低価格で評価する方法(AWS Batch)を紹介している。
 

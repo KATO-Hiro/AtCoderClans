@@ -7,20 +7,29 @@ exclude = [
   "^https://atcoder\\.jp/",
   "^https://beet-aizu\\.hatenablog\\.com/",
   "^https://cards-dev\\.twitter\\.com/",
+  "^https://chokudai\\.hatenablog\\.com/",
+  "^https://chrome\\.google\\.com/",
   "^https://clist\\.by/",
   "^https://codeforces\\.com/",
   "^https://ctftime\\.org/",
+  "^https://drken1215\\.hatenablog\\.com/",
   "^https://dreamhack\\.io/",
   "^https://github\\.com/",
+  "^https://hackerrank\\.com/",
   "^https://img\\.shields\\.io/github/stars/",
+  "^https://info\\.atcoder\\.jp/",
   "^https://kakuyomu\\.jp/",
   "^https://kenkoooo\\.com/atcoder/",
+  "^https://kotlinlang\\.org/",
   "^https://leetcode\\.com/",
   "^https://medium\\.com/",
+  "^https://note\\.e-seikatsu\\.info/",
   "^https://oeis\\.org/",
+  "^https://openai\\.com/",
   "^https://paiza\\.jp/",
   "^https://play\\.picoctf\\.org/",
   "^https://qiita\\.com/",
+  "^https://shindannin\\.hatenadiary\\.com/",
   "^https://shindanmaker\\.com/",
   "^https://solved\\.ac/",
   "^https://speakerdeck\\.com/",
@@ -30,10 +39,24 @@ exclude = [
   "^https://www\\.acmicpc\\.net/",
   "^https://www\\.codechef\\.com/",
   "^https://www\\.creativ\\.xyz/",
+  "^https://www\\.estie\\.jp/",
+  "^https://www\\.kaggle\\.com/",
   "^https://www\\.topcoder\\.com/",
   "^https://x\\.com/",
   # Self-hosted site
   "^https://kato-hiro\\.github\\.io/AtCoderClans/",
+  # Local file references: paths are written for MkDocs build output,
+  # not source tree — CI root and MkDocs root differ
+  "^file:",
+]
+
+# Exclude archived pages that intentionally contain broken/dead links
+exclude_path = [
+  "docs/archived/broken_links\\.md",
+  "docs/archived/migrate_servers\\.md",
+  "docs/archived/no_longer_available\\.md",
+  "docs/archived/outdated_information\\.md",
+  "monthly_changelog/**/*.md",
 ]
 
 # Accept 429 (Rate Limited) in addition to default success codes (100–103, 200–299)

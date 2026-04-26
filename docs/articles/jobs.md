@@ -69,21 +69,13 @@ title: 競技プログラミングと就転職
     - [入社3年目に思うこと](https://kaede2020.hatenablog.com/entry/2025/10/17/150443) - 担当している業務、これまでの振り返り、現在の心境が率直に語られている。
 - [【入社エントリ】新卒でモノグサに入社しました / 就活の振り返り](https://kona0001.hatenablog.com/entry/2023/04/11/202805) - [konayuki](https://atcoder.jp/users/konayuki)さんが、[モノグサ株式会社](https://corp.monoxer.com/)に応募・入社するまでの過程がまとめられている記事。
 
-<!-- markdown-link-check-disable -->
-
 - [【INTERVIEW / SWE】競技プログラミングから始まった、開発の力で追求し続けるよりよい学習体験](https://note.com/monoxer/n/n4ed05521d8d2) - 競技プログラミングをきっかけにエンジニアを志望し、[モノグサ株式会社](https://corp.monoxer.com/)で活躍されている[tsutaj](https://atcoder.jp/users/tsutaj)さんへのインタビュー記事。これまでのキャリア、同社の入社経緯・担当業務・働きがい・今後の目標について語られている。
-
-<!-- markdown-link-check-enable -->
 
 - [競技プログラマがIT企業に就職した、その後](https://kitanomx.hatenablog.com/entry/2023/12/17/004435) - 学生時代に熱中した競技プログラミングの経験が、新卒採用・未経験のWeb開発の知識習得・[AtCoderJobs](https://jobs.atcoder.jp/)経由の転職に役立ったことが紹介されている。
 
 ### 感想・体験記
 
-<!-- markdown-link-check-disable -->
-
 - [Web開発、まじで何もわからない](https://www.estie.jp/blog/entry/2023/12/08/152723) - [AtCoder](https://atcoder.jp/)やオンサイトコンテストなどをきっかけに、未経験のWeb開発への挑戦を振り返った記事。経歴、勤務先との出会い、働いた感想、採用フロー、これから実現したいことなどに言及されている。
-
-<!-- markdown-link-check-enable -->
 
 - [おいしいキャベツの育て方](https://ngtkana.hatenablog.com/entry/2021/03/17/210830) - [ngtkana](https://atcoder.jp/users/ngtkana)さんが、プログラミングを始めたきっかけ・[AtCoder](https://atcoder.jp/)との出会い・アルバイトを経て現職に至るまでの過程を紹介した記事。
 - [競プロは業務の役に立っているか？～ふるやんの場合～](https://www.creativ.xyz/shakaijin-first-anniversary/) - [furuya1223](https://atcoder.jp/users/furuya1223)さんが、音声認識に関する研究開発に1年間従事して、競技プログラミングが直接的・間接的に役に立った経験を紹介した記事。
@@ -91,11 +83,7 @@ title: 競技プログラミングと就転職
 - [就活における競技プログラミング](https://magicode.io/Naoki08/articles/af358537e0d94143be6b07473da4fecb) - 競技プログラミングが就職活動(新卒)の選考フローの各段階において、どの程度有用か筆者の見解を述べた記事。
 - [純粋培養競技プログラマが社会に出てみた感想](https://tsutaj.hatenablog.com/entry/2020/12/13/000000) - 学生時代の多くを競技プログラミングに捧げた[tsutaj](https://atcoder.jp/users/tsutaj)さんが、就職1年目で身につけたことやできるようになったことを紹介した記事。
 
-<!-- markdown-link-check-disable -->
-
 - [とある競技プログラマーの1年](https://www.estie.jp/blog/entry/2023/11/06/174536) - Web開発未経験の筆者が1年間の実務経験や感想を綴った記事。競技プログラマーとして期待されることや夢中で取り組む経験の重要性などが述べられている。
-
-<!-- markdown-link-check-enable -->
 
 - [「まずは一つ勝つ。それ以外は負けてもいい」。競技プログラミングやKaggleを極めたPFN秋葉拓哉の勝ち方](https://liiga.me/columns/761) - [iwiwi](https://twitter.com/iwiwi)さんが、競技プログラミングを極めた経験をきっかけに、キャリア形成における考え方や業務で意識していることが紹介されている記事。
 

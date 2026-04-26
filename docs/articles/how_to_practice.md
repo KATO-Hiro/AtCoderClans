@@ -47,8 +47,6 @@ title: コンテストに向けた練習方法を知る
 
 ### 競技プログラミングと生成AIとの関係
 
-<!-- markdown-link-check-disable -->
-
 - [AtCoder生成AI対策ルール - 20251003版](https://info.atcoder.jp/entry/llm-rules-ja) - AtCoder Beginner Contest (通称 ABC)、AtCoder Regular Contest (同 ARC) および AtCoder Grand Contest (同 AGC) のコンテスト開催中を対象として、生成AIの利用における禁止事項が説明されている ([英語版](https://info.atcoder.jp/entry/llm-rules-en))。
     - [生成AIの技術向上に伴うABC,ARC,AGCにおけるルール変更について](https://atcoder.jp/posts/1567) - 2025年10月上旬時点での生成AI対策ルールの概要と、主な変更点がまとめられている。
     - [ARC Div.1 に関する生成AIルール変更について](https://atcoder.jp/posts/1513) - ARC Div.1 も上記ルールの対象となったことが告知されている。
@@ -63,8 +61,6 @@ title: コンテストに向けた練習方法を知る
     - [AI vs 人間まとめ【AtCoder World Tour Finals 2025 Heuristic エキシビジョン】](https://chokudai.hatenablog.com/entry/2025/07/21/190935) - [chokudai](https://x.com/chokudai)さんによるエキシビジョンマッチの感想と、今後の予想がまとめられている。
 - [生成AIはAtCoderBeginnerContestを実際に破壊しているのか](https://qiita.com/sirsoldano/items/cccb48c7201ed1de099f) - 生成AIの発展が、ABCにおける中級ユーザのレーティングの変化量に与える影響について、統計的な分析が行われている。
     - [生成AIはAtCoderBeginnerContestのインフレを加速させたか](https://qiita.com/sirsoldano/items/ad3d05e4a37759850445) - 上記の続編。AIがレーティングのインフレ幅に与えた影響が分析されている。
-
-<!-- markdown-link-check-enable -->
 
 ## コンテストに関するTips集
 
