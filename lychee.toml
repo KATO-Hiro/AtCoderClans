@@ -53,8 +53,9 @@ exclude = [
 # Exclude archived pages that intentionally contain broken/dead links
 exclude_path = [
   "docs/archived/broken_links\\.md",
-  "docs/archived/no_longer_available\\.md",
   "docs/archived/migrate_servers\\.md",
+  "docs/archived/no_longer_available\\.md",
+  "docs/archived/outdated_information\\.md",
 ]
 
 # Accept 429 (Rate Limited) in addition to default success codes (100–103, 200–299)
