@@ -1,0 +1,46 @@
+# Lychee link checker configuration
+
+exclude = [
+  # Domains that return 403 / explicitly reject automated access
+  "^https://archive\\.topcoder\\.com/",
+  "^https://atcoder-companions\\.kakira\\.dev/",
+  "^https://atcoder\\.jp/",
+  "^https://beet-aizu\\.hatenablog\\.com/",
+  "^https://cards-dev\\.twitter\\.com/",
+  "^https://clist\\.by/",
+  "^https://codeforces\\.com/",
+  "^https://ctftime\\.org/",
+  "^https://dreamhack\\.io/",
+  "^https://github\\.com/",
+  "^https://img\\.shields\\.io/github/stars/",
+  "^https://kakuyomu\\.jp/",
+  "^https://kenkoooo\\.com/atcoder/",
+  "^https://leetcode\\.com/",
+  "^https://medium\\.com/",
+  "^https://oeis\\.org/",
+  "^https://paiza\\.jp/",
+  "^https://play\\.picoctf\\.org/",
+  "^https://qiita\\.com/",
+  "^https://shindanmaker\\.com/",
+  "^https://solved\\.ac/",
+  "^https://speakerdeck\\.com/",
+  "^https://taksas\\.net/",
+  "^https://twitter\\.com/",
+  "^https://vjudge\\.net/",
+  "^https://www\\.acmicpc\\.net/",
+  "^https://www\\.codechef\\.com/",
+  "^https://www\\.creativ\\.xyz/",
+  "^https://www\\.topcoder\\.com/",
+  "^https://x\\.com/",
+  # Self-hosted site
+  "^https://kato-hiro\\.github\\.io/AtCoderClans/",
+]
+
+# Accept 429 (Rate Limited) — server is alive but throttling
+accept = ["429"]
+
+max_concurrency = 8
+max_retries = 0
+retry_wait_time = 3
+cache = true
+cache_dir = ".github/.lychee.cache"

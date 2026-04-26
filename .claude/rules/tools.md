@@ -26,4 +26,5 @@
 
 | Tool | Version | Role | Constraints |
 |---|---|---|---|
-| GitHub Actions | — | Automated link validation | Do not run link checks locally with `curl` or `wget` |
+| lychee | 0.x (via lychee-action) | Automated link validation (GitHub Actions) | Configuration in `lychee.toml`. Do not run link checks locally with `curl` or `wget`. Weekly scheduled scan + PR checks. |
+| lychee-action | v2.8.0 | GitHub Actions integration for lychee | Used in `.github/workflows/` for link checking |

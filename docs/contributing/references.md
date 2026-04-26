@@ -8,11 +8,7 @@ title: 関連プロジェクト・参考資料
 
 - [AtCoderでの競技プログラミングがもっと楽しくなるサイトまとめ](https://noimin.hatenablog.com/entry/2017/12/16/230900)
 
-<!-- markdown-link-check-disable -->
-
 - [AtCoder Wiki](https://wikiwiki.jp/procon/Atcoder)
-
-<!-- markdown-link-check-enable -->
 
 - [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) ![GitHub Repo stars](https://img.shields.io/github/stars/lnishan/awesome-competitive-programming?style=plastic)
 
@@ -32,17 +28,13 @@ title: 関連プロジェクト・参考資料
 
 ### GitHub Actions
 
-- [GitHub Action - Markdown link check](https://github.com/gaurav-nelson/github-action-markdown-link-check)
+- [lychee](https://github.com/lycheeverse/lychee) — Fast link checker (Rust)
 
-- [markdown-link-check](https://github.com/tcort/markdown-link-check)
-
-- [TOC Generator](https://github.com/technote-space/toc-generator)
+- [lychee-action](https://github.com/lycheeverse/lychee-action) — GitHub Actions integration
 
 ### UI
 
 - [Favicon Generator - Text to Favicon - favicon.io](https://favicon.io/favicon-generator/)
-
-- [How to add Emoji Prefix to commit message](https://qiita.com/Jung0/items/0a9a7a97a2c17f92d3c5)
 
 - [Summary Card for Twitter](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/summary)
 

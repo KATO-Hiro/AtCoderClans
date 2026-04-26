@@ -119,3 +119,6 @@ __pycache__/
 
 # MkDocs
 site/
+
+# Lychee cache
+.github/.lychee.cache
