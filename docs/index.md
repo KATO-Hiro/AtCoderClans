@@ -191,6 +191,11 @@
 
 === "国内外のコンテストサイト"
 
+    2026-04-26
+
+    - 「[Codeforces](related_contest_sites/codeforces)」ページ
+        - [cph-submit](https://github.com/agrawal-d/cph-submit) ![GitHub Repo stars](https://img.shields.io/github/stars/agrawal-d/cph-submit?style=plastic)
+
     2026-04-25
 
     - 「[Codeforces](related_contest_sites/codeforces)」ページ
@@ -204,15 +209,6 @@
 
     - 「[BOJ (Baekjoon Online Judge)](related_contest_sites/boj)」ページ
         - [公式によるサービス終了予告](https://www.acmicpc.net/board/view/165799)
-
-    2026-04-12
-
-    - 「[Codeforces](related_contest_sites/codeforces)」ページ
-        - [Codeforces Result Share on X](https://greasyfork.org/ja/scripts/570600-codeforces-result-share-on-x)
-
-    <div align="center">
-      <img loading="lazy" src="images/related_contest_sites/codeforces/codeforces_result_share_on_x.png" alt="codeforces result share on x">
-    </div>
 
 === "アーカイブス"
 
