@@ -26,3 +26,8 @@ Documentation that describes structure is part of the code, not an afterthought.
 Always confirm the purpose of a file with the user before deleting it,
 even if a plan explicitly lists it for deletion.
 The actual role may differ from what the plan assumes.
+
+## Milestone check after contests
+
+After an AtCoder contest, use `/milestone-check <contest_id>` to detect newly eligible
+blog candidates. See `.claude/skills/milestone-check/` for details.
