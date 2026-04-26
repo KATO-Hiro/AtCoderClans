@@ -56,6 +56,7 @@ exclude_path = [
   "docs/archived/migrate_servers\\.md",
   "docs/archived/no_longer_available\\.md",
   "docs/archived/outdated_information\\.md",
+  "monthly_changelog/**/*.md",
 ]
 
 # Accept 429 (Rate Limited) in addition to default success codes (100–103, 200–299)
