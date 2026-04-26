@@ -85,8 +85,6 @@ title: 更新停止の可能性が高い
 
 ### コンテストの成績を見る
 
-<!-- markdown-link-check-disable -->
-
  - [AtCoder Heuristic Statistics](https://heuristic-statistics.herokuapp.com/) - [AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=0&category=1200&keyword=AtCoder+Heuristic+Contest)のレーティング分布を表示する。
 
     - 理由: 記載なし。
@@ -95,8 +93,6 @@ title: 更新停止の可能性が高い
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_heuristic_statistics.png" alt="atcoder heuristic statistics">
     </div>
-
-<!-- markdown-link-check-enable -->
 
 - [AtCoderマラソンランキング](https://tomerun.github.io/atcoder_marathon_ranking/index.html) - マラソン系コンテストの順位を[AtCoder レースランキング](https://atcoder.jp/posts/170)と同じ形式でポイント化し、ランキングをつける。
 
@@ -170,8 +166,6 @@ title: 更新停止の可能性が高い
 
 ### コンテスト後の情報収集・発信
 
-<!-- markdown-link-check-disable -->
-
 - [AtCoder Friend Finder](http://atcoder-friend-finder.herokuapp.com/) - [Twitter](https://twitter.com/)でフォローしている[AtCoder](https://atcoder.jp/)ユーザを表示する。
 
     - 理由: 記載なし。
@@ -183,8 +177,6 @@ title: 更新停止の可能性が高い
 
     !!! warning "注意"
         2021年6月以降、更新が行われていない可能性がある。
-
-<!-- markdown-link-check-enable -->
 
 ## Bot
 
@@ -365,8 +357,6 @@ title: 更新停止の可能性が高い
 
 ### コンテストに参加する
 
-<!-- markdown-link-check-disable -->
-
 - [Coder's Calendar](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll?hl=ja&gl=UA) - 開催予定のコンテスト情報を表示する。[Codechef](https://www.codechef.com/)、 [HackerEarth](https://www.hackerearth.com/)、[Hackerrank](https://www.hackerrank.com/)、[Topcoder](https://www.topcoder.com/)、[Codeforces](https://codeforces.com/)、[CSAcademy](https://csacademy.com/)、 [LeetCode](https://leetcode.com/)、[Kaggle](https://www.kaggle.com/)などにも対応している。
     - 確認した日: 2025/03/08
 
@@ -380,8 +370,6 @@ title: 更新停止の可能性が高い
     <div align="center">
       <img loading = "lazy" src="../../images/chrome_extension/coding_schedule.jpg" alt="coding schedule">
     </div>
-
-<!-- markdown-link-check-enable -->
 
 - [KONTESTS](https://chrome.google.com/webstore/detail/kontests/agpdemlkalmmeenclchlajdcmbcacoea?hl=ja&gl=UA) - コンテスト情報を表示する。[Codeforces](https://codeforces.com/)、Codeforces::Gym、[TopCoder](https://www.topcoder.com/)、[CSAcademy](https://csacademy.com/)にも対応している。
     - 確認した日: 2025/03/08
@@ -502,13 +490,9 @@ title: 更新停止の可能性が高い
 - [大実験！ChatGPTは競プロの問題を解けるのか (2024年5月版)](https://e869120.hatenablog.com/entry/2024/05/15/100804) - 筆者がオリジナルの問題を作成し、GPT-4oの回答性能を実験・調査している。
 - [競技プログラミングとChatGPTを含むAIについて](https://chokudai.hatenablog.com/entry/2022/12/07/161959) - [ChatGPT](https://openai.com/blog/chatgpt/)の公開に伴い、[AtCoder](https://atcoder.jp/)社長の[chokudai](https://twitter.com/chokudai)さんが個人的な見解を述べた記事。AIの実力、競技性や教育への影響、コンテストでの使用の是非などについて言及されている。
 
-<!-- markdown-link-check-disable -->
-
 - [ChatGPTに競技プログラミングさせてみた【AtCoder】](https://qiita.com/relu/items/6cc9467748d580f50cfd) - [ChatGPT](https://openai.com/blog/chatgpt/)を利用して、[AtCoder](https://atcoder.jp/)で出題された問題を解いている記事。
 - [GPT-4は青色コーダーの夢を見るか](https://qiita.com/autotaker1984/items/2929937cd1fea6137d1f) - [GPT-4](https://openai.com/research/gpt-4)を利用して、[AtCoder](https://atcoder.jp/)の過去問をどこまで解けるか調査した記事。AIで解くのが難しい問題の種類や競技プログラミングにおける活用の方向性についても言及されている。
 - [ChatGPT3.5&4.0で競技プログラミングAtCoderの問題のスキル推定を検証しました](https://note.com/chatgpt_nobdata/n/n2d5769ebb622) - AtCoder Beginners Contest (通称ABC)のA〜C問題を対象として、解くために必要なスキルを推定・検証している記事。
-
-<!-- markdown-link-check-enable -->
 
 ### 実装テクニックを学ぶ
 

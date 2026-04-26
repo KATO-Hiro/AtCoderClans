@@ -4,8 +4,6 @@ title: サーバの移行中
 
 [Heroku](https://www.heroku.com)の無料プラン終了に伴い、サーバの移行が検討されているサービス・ツールなどを掲載しています。新しいサーバでの稼働を確認した段階で、元のページに戻す予定です。
 
-<!-- markdown-link-check-disable -->
-
 ## Webアプリ、Webサイト
 
 ### 問題を解く
@@ -68,5 +66,3 @@ title: サーバの移行中
     <div align="center">
       <img loading = "lazy" src="../../images/related_contest_sites/leetcode/leetcode_stats.png" alt="leetcode stats">
     </div>
-
-<!-- markdown-link-check-enable -->

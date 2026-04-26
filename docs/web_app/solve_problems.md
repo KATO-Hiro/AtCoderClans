@@ -58,15 +58,11 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/web_app/atcoder_novisteps.png" alt="atcoder novisteps">
     </div>
 
-<!-- markdown-link-check-disable -->
-
 - [AtCoder Redirect](https://codepen.io/uchi8977/full/gbpGOzY) - 各コンテスト（ABC、ARC、AGC、AHC）の問題に直接移動できる。
 
     <div align="center">
       <img loading="lazy" src="../../images/web_app/atcoder_redirect.png" alt="atcoder editorial problems">
     </div>
-
-<!-- markdown-link-check-enable -->
 
 - [Next-AC](https://next-ac-peach.vercel.app/) - AtCoder Beginner Contest (通称、ABC) の A 〜 C 問題に絞った進捗管理ダッシュボード。回答状況が自動的に更新され、次に解くべき問題をすぐに見つけられる。AtCoder ID を入力するだけで利用可能。
     - [作者による紹介記事](https://note.com/akashi_shogo/n/n3806a329f176)

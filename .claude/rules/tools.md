@@ -26,5 +26,5 @@
 
 | Tool | Version | Role | Constraints |
 |---|---|---|---|
-| lychee | 0.x (via lychee-action) | Automated link validation (GitHub Actions) | Configuration in `lychee.toml`. Do not run link checks locally with `curl` or `wget`. Weekly scheduled scan + PR checks. |
+| lychee | 0.x (via lychee-action) | Automated link validation (GitHub Actions) | Configuration in `lychee.toml` (domain patterns) and `.lycheeignore` (individual URLs). Does NOT support inline HTML comments (`<!-- markdown-link-check-disable -->`). See `.claude/rules/link-checking.md` for strategy. Weekly scheduled scan + PR checks. |
 | lychee-action | v2.8.0 | GitHub Actions integration for lychee | Used in `.github/workflows/` for link checking |
