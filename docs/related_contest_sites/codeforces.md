@@ -130,6 +130,7 @@ title: Codeforces
 ### ソースコードにバグがないか確認
 
 - [Competetive Programming Helper](https://agrawal-d.com/cph/) - サンプルの入出力の取得、テスト、解答コードの提出ができる。
+    - [cph-submit](https://github.com/agrawal-d/cph-submit) ![GitHub Repo stars](https://img.shields.io/github/stars/agrawal-d/cph-submit?style=plastic) - 解答コードをVisual Studio Codeから提出するための拡張機能。
 
     <div align="center">
       <img loading="lazy" src="../../images/related_contest_sites/codeforces/cph.png" alt="Competetive Programming Helper">
