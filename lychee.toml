@@ -45,6 +45,9 @@ exclude = [
   "^https://x\\.com/",
   # Self-hosted site
   "^https://kato-hiro\\.github\\.io/AtCoderClans/",
+  # Local file references: paths are written for MkDocs build output,
+  # not source tree — CI root and MkDocs root differ
+  "^file:",
 ]
 
 # Exclude archived pages that intentionally contain broken/dead links
