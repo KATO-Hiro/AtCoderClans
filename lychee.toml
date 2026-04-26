@@ -43,4 +43,3 @@ max_concurrency = 8
 max_retries = 0
 retry_wait_time = 3
 cache = true
-cache_dir = ".github/.lychee.cache"
