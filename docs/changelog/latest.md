@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-04-26
+
+- [#12015](https://github.com/KATO-Hiro/AtCoderClans/pull/12015) - 「[Related Contest Sites](../../related_contest_sites)」の「[Codeforces](../../related_contest_sites/codeforces)」ページに、以下のFirefox・Chrome拡張機能を追加。
+    - [cph-submit](https://github.com/agrawal-d/cph-submit) ![GitHub Repo stars](https://img.shields.io/github/stars/agrawal-d/cph-submit?style=plastic)
+
 ### 2026-04-25
 
 - [#12009](https://github.com/KATO-Hiro/AtCoderClans/pull/12009) - 「[Related Contest Sites](../../related_contest_sites)」の「[Codeforces](../../related_contest_sites/codeforces)」ページに、以下のVisual Studio Code拡張機能を追加。
