@@ -121,4 +121,4 @@ __pycache__/
 site/
 
 # Lychee cache
-.github/.lychee.cache
+.lycheecache
