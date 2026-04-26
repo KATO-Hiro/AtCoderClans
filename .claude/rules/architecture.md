@@ -31,3 +31,9 @@ and further grouped by language or purpose when counts are large.
 
 Links are validated automatically via GitHub Actions (`.github/` workflows).
 Do not run link checks locally with `curl` or `wget`.
+
+## AI support structure
+
+- `.claude/rules/` — persistent behavioral rules loaded in every session
+- `.claude/skills/` — invocable skills (use `/skill-name` to trigger)
+  - `milestone-check` — detect users who newly crossed a rating threshold after a contest
