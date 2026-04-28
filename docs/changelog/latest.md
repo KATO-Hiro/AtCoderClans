@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-04-28
+
+- [#12032](https://github.com/KATO-Hiro/AtCoderClans/pull/12032) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。
+    - [VSCode+WSLでAtCoderの環境構築](https://qiita.com/hotpepsi/items/4cf9e6d3f7e8911a9771)
+
 ### 2026-04-27
 
 - [#12024](https://github.com/KATO-Hiro/AtCoderClans/pull/12024) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
