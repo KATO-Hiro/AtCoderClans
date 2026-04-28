@@ -4,7 +4,7 @@ title: コードを書くための環境構築を行う
 
 !!! info "参考"
 
-    以下の記事は、2025年12月までに公開・更新されたものです。随時、最新の内容を追加する予定です。
+    以下の記事は、2026年4月までに公開・更新されたものです。随時、最新の内容を追加する予定です。
 
 !!! warning "注意"
 
@@ -77,7 +77,10 @@ title: コードを書くための環境構築を行う
 
 ### 複数の言語
 
-- [競技プログラミングの環境構築 [VSCode+WSL+AtCoder Library]【ゆっくり解説】](https://www.youtube.com/watch?v=uhnASau7fB4) - (初心者向け) C++とPythonの実行環境を構築するための解説・デモ。[Visual Studio Code](https://code.visualstudio.com/)と[Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install)のインストール・設定・コードの実行などに加えて、[AtCoder Library](https://atcoder.jp/posts/517)の導入方法も紹介されている。
+[Visual Studio Code](https://code.visualstudio.com/)と[Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install)のインストール・設定・コードの実行方法などが紹介されています。
+
+- [競技プログラミングの環境構築 [VSCode+WSL+AtCoder Library]【ゆっくり解説】](https://www.youtube.com/watch?v=uhnASau7fB4) - (初心者向け) C++とPythonの実行環境を構築するための解説・デモ。[AtCoder Library](https://atcoder.jp/posts/517)を導入することもできる。
+- [VSCode+WSLでAtCoderの環境構築](https://qiita.com/hotpepsi/items/4cf9e6d3f7e8911a9771) - C++とPythonの実行環境を用意できる。入出力例によるテストやソースコードの提出なども可能。
 
 ### C&#43;&#43;
 
