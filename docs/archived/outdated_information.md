@@ -522,144 +522,32 @@ title: 更新停止の可能性が高い
 
 ### コンテストに関する統計情報を見る
 
+#### 2025年
+
 - [AtCoder Junior League 2025 Summer - 学校ランキング](https://x.com/atcoder/status/1909173426184675597) - 中学および高校のアルゴリズム部門・ヒューリスティック部門の学校別ランキング。2025年4月7日時点。
     - [2025年9月30日時点 (確定)](https://x.com/atcoder/status/1972922959158550721)
     - [入賞校・入賞者](https://prtimes.jp/main/html/rd/p/000000063.000028415.html)
     - [結果発表会](https://www.youtube.com/watch?v=9iXi2VgF1sg)
 
-    ??? info "これまでのランキング"
-
-        - [2025年9月24日時点](https://x.com/atcoder/status/1970676278195020098)
-        - [2025年9月16日時点](https://x.com/atcoder/status/1967776252573757465)
-        - [2025年9月9日時点](https://x.com/atcoder/status/1965268177350427013)
-        - [2025年9月1日時点](https://x.com/atcoder/status/1962372838977085766)
-        - [2025年8月26日時点](https://x.com/atcoder/status/1960171185205043448)
-        - [2025年8月18日時点](https://x.com/atcoder/status/1957258206788587980)
-        - [2025年8月5日時点](https://x.com/atcoder/status/1952544472220487798)
-        - [2025年7月28日時点](https://x.com/atcoder/status/1949687935366037530)
-        - [2025年7月22日時点](https://x.com/atcoder/status/1947472502818804043)
-        - [2025年7月14日時点](https://x.com/atcoder/status/1944613912512704984)
-        - [2025年7月7日時点](https://x.com/atcoder/status/1942054829217681758)
-        - [2025年6月30日時点](https://x.com/atcoder/status/1939551635514208283)
-        - [2025年6月23日時点](https://x.com/atcoder/status/1936979941201195264)
-        - [2025年6月16日時点](https://x.com/atcoder/status/1934475776763871289)
-        - [2025年6月9日時点](https://x.com/atcoder/status/1931906690863271960)
-        - [2025年6月2日時点](https://x.com/atcoder/status/1929411005198520806)
-        - [2025年5月26日時点](https://x.com/atcoder/status/1926854143085252791)
-        - [2025年5月19日時点](https://x.com/atcoder/status/1924291835029336527)
-        - [2025年5月12日時点](https://x.com/atcoder/status/1921742776863162817)
-        - [2025年5月07日時点](https://x.com/atcoder/status/1919935522698625437)
-        - [2025年4月30日時点](https://x.com/atcoder/status/1917476205235954110)
-        - [2025年4月21日時点](https://x.com/atcoder/status/1914167916003725624)
-        - [2025年4月14日時点](https://x.com/atcoder/status/1911607012141777336)
-
-### 2024年
+#### 2024年
 
 - [AtCoder Junior League 2024 Winter - 学校ランキング](https://x.com/atcoder/status/1843137096841875936) - 中学および高校のアルゴリズム部門・ヒューリスティック部門の学校別ランキング。2024年10月7日時点。
     - [2025年4月1日時点 (最終結果)](https://x.com/atcoder/status/1906966348435235212)
     - [入賞校・入賞者](https://prtimes.jp/main/html/rd/p/000000057.000028415.html)
 
-    ??? info "これまでのランキング"
-
-        - [2025年3月24日時点](https://x.com/atcoder/status/1903989351903821897)
-        - [2025年3月17日時点](https://x.com/atcoder/status/1901458780032045328)
-        - [2025年3月10日時点](https://x.com/atcoder/status/1898919337853173979)
-        - [2025年3月3日時点](https://x.com/atcoder/status/1896378668232139251)
-        - [2025年2月25日時点](https://x.com/atcoder/status/1894213612027207815)
-        - [2025年2月17日時点](https://x.com/atcoder/status/1891340977459134690)
-        - [2025年2月10日時点](https://x.com/atcoder/status/1888772408687149422)
-        - [2025年2月3日時点](https://x.com/atcoder/status/1886251197230936368)
-        - [2025年1月27日時点](https://x.com/atcoder/status/1883695093561061486)
-        - [2025年1月20日時点](https://x.com/atcoder/status/1881161748369317928)
-        - [2025年1月14日時点](https://x.com/atcoder/status/1878991127224967451)
-        - [2025年1月6日時点](https://x.com/atcoder/status/1876085047893389331)
-        - [2024年12月24日時点](https://x.com/atcoder/status/1871385196383375665)
-        - [同12月16日時点](https://x.com/atcoder/status/1868475958212387298)
-        - [同12月9日時点](https://x.com/atcoder/status/1865943124809601378)
-        - [同12月2日時点](https://x.com/atcoder/status/1863398659259601225)
-        - [同11月25日時点](https://x.com/atcoder/status/1860906179104510443)
-        - [同11月18日時点](https://x.com/atcoder/status/1858360891198361785)
-        - [同11月11日時点](https://x.com/atcoder/status/1855799989181751468)
-        - [同11月5日時点](https://x.com/atcoder/status/1853611788476293584)
-        - [同10月28日時点](https://x.com/atcoder/status/1850734216864297016)
-        - [同10月21日時点](https://x.com/atcoder/status/1848216655513735519)
-        - [同10月16日時点](https://x.com/atcoder/status/1846352329563410495)
-        - [同10月15日時点](https://x.com/atcoder/status/1846023207230616014)
-
 - [AtCoder Junior League 2024 Summer - 学校ランキング](https://twitter.com/atcoder/status/1782249854766546993) - 中学および高校のアルゴリズム部門の学校別ランキング。2024年4月22日時点。
     - [同9月30日時点](https://x.com/atcoder/status/1840602893814276144)
-
-    ??? info "これまでのランキング"
-
-        - [同9月17日時点](https://x.com/atcoder/status/1835861099616645324)
-        - [同9月9日時点](https://x.com/atcoder/status/1833043546976448590)
-        - [同9月2日時点](https://x.com/atcoder/status/1830437147792613885)
-        - [同8月26日時点](https://x.com/atcoder/status/1827887897418387898)
-        - [同8月19日時点](https://x.com/atcoder/status/1825362031178137972)
-        - [同8月5日時点](https://x.com/atcoder/status/1820281059982057982)
-        - [同7月29日時点](https://x.com/atcoder/status/1817799820645671410)
-        - [同7月22日時点](https://x.com/atcoder/status/1815218587344531576)
-        - [同7月16日時点](https://x.com/atcoder/status/1813035584010539051)
-        - [同7月8日時点](https://x.com/atcoder/status/1810142588697301171)
-        - [同7月1日時点](https://x.com/atcoder/status/1807644173765656817)
-        - [同6月24日時点](https://x.com/atcoder/status/1805057388875305367)
-        - [同6月17日時点](https://x.com/atcoder/status/1802534399533252647)
-        - [同6月10日時点](https://x.com/atcoder/status/1800015044690026966)
-        - [同6月3日時点](https://x.com/atcoder/status/1797454145278128235)
-        - [同5月27日時点](https://x.com/atcoder/status/1794907108120649900)
-        - [同5月20日時点](https://x.com/atcoder/status/1792415615967531418)
-        - [同5月13日時点](https://twitter.com/atcoder/status/1789854331937734678)
-        - [同5月7日時点](https://twitter.com/atcoder/status/1787659040098767241)
 
 #### 2023年
 
 - [AtCoder Junior League 2023 - 学校ランキング](https://twitter.com/atcoder/status/1658033672879235075) - 中学・高校部門のそれぞれ上位20校のランキング。2023年5月15日時点(修正版)。
     - [同12月25日時点](https://twitter.com/atcoder/status/1739135398625100112)
 
-    ??? info "これまでのランキング"
-
-        - [同12月18日時点](https://twitter.com/atcoder/status/1736592889067774166)
-        - [同12月11日時点](https://twitter.com/atcoder/status/1734059295308931239)
-        - [同12月4日時点](https://twitter.com/atcoder/status/1731514391756243121)
-        - [同11月27日時点](https://twitter.com/atcoder/status/1728981309178159379)
-        - [同11月20日時点](https://twitter.com/atcoder/status/1726455552606372167)
-        - [同11月15日時点](https://twitter.com/atcoder/status/1724615306881204451)
-        - [同11月6日時点](https://twitter.com/atcoder/status/1721379697609855201)
-        - [同10月30日時点](https://twitter.com/atcoder/status/1718845595371319578)
-        - [同10月23日時点](https://twitter.com/atcoder/status/1716318742169477574)
-        - [同10月16日時点](https://twitter.com/atcoder/status/1713793122206175428)
-        - [同10月10日時点](https://twitter.com/atcoder/status/1711587000539853082)
-        - [同10月2日時点](https://twitter.com/atcoder/status/1708694473100886405)
-        - [同9月25日時点](https://twitter.com/atcoder/status/1706169824861397059)
-        - [同9月19日時点](https://twitter.com/atcoder/status/1703981215890788411)
-        - [同9月11日時点](https://twitter.com/atcoder/status/1701090985978310979)
-        - [同9月4日時点](https://twitter.com/atcoder/status/1698538878603239785)
-        - [同8月28日時点](https://twitter.com/atcoder/status/1696009837765919013)
-        - [同8月21日時点](https://twitter.com/atcoder/status/1693462573507571886)
-        - [同8月16日時点](https://twitter.com/atcoder/status/1691665901823963201)
-        - [同8月7日時点](https://twitter.com/atcoder/status/1688404891516243968)
-        - [同7月31日時点](https://twitter.com/atcoder/status/1685856209742753792)
-        - [同5月22日時点](https://twitter.com/atcoder/status/1660527968102539264)
-
 - [AJL 学校スコア(上位5校)、個人スコア(上位5人)の推移(2023年6月19日時点)](https://twitter.com/gojira_kyopro/status/1670634706545836032)
     - [同10月16日時点](https://twitter.com/gojira_kyopro/status/1713809087987667255)
 
-    ??? info "これまでの学校・個人スコアの推移"
-
-        - [同8月28日時点](https://twitter.com/gojira_kyopro/status/1696083230800433478)
-        - [同8月21日時点](https://twitter.com/gojira_kyopro/status/1693470716627423446)
-        - [同8月16日時点](https://twitter.com/gojira_kyopro/status/1691675667631579605)
-        - [同8月7日時点](https://twitter.com/gojira_kyopro/status/1688408587213979648)
-        - [同7月31日時点](https://twitter.com/gojira_kyopro/status/1685862331069452288)
-        - [同7月24日時点](https://twitter.com/gojira_kyopro/status/1683336164907036672)
-        - [同7月18日時点](https://twitter.com/gojira_kyopro/status/1681177713212821510)
-        - [同7月10日時点](https://twitter.com/gojira_kyopro/status/1678260520615546881)
-        - [同7月3日時点](https://twitter.com/gojira_kyopro/status/1675735792629714944)
-
 - [AJL 高校部門上位40校 (2023年9月11日時点)](https://twitter.com/kiri8128/status/1701251352075075616) - 高校部門の上位40校を対象として、各ユーザのコンテスト別獲得スコアが集計されている。[中学部門の上位40校](https://twitter.com/kiri8128/status/1701251566312022247)や[個人部門](https://twitter.com/kiri8128/status/1701252177392762975)もある。
     - [同10月23日時点](https://twitter.com/kiri8128/status/1716453617291690065)
-    - [同10月10日時点](https://twitter.com/kiri8128/status/1711744359920812511)
-    - [同9月19日時点](https://twitter.com/kiri8128/status/1704120665950056450)
 
 ## 動画
 

@@ -143,6 +143,11 @@
 
 === "記事"
 
+    2026-04-28
+
+    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
+        - [VSCode+WSLでAtCoderの環境構築](https://qiita.com/hotpepsi/items/4cf9e6d3f7e8911a9771)
+
     2026-04-27
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -162,11 +167,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AHC063参加記 (最終4位)](https://zenn.dev/through/articles/d95a7007ea77ce)
-
-    2026-04-14
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AtCoder Heuristic Contest 063 参加記](https://kaede2020.hatenablog.com/entry/2026/04/13/190657)
 
 === "ライブラリ・スニペット"
 
