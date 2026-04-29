@@ -1,10 +1,14 @@
 # milestone-check: Detailed Instructions
 
-## Step 1: Identify threshold crossers
+## Step 1: Fetch results
 
-Fetch: `https://atcoder.jp/contests/{contest_id}/results`
+Use the JSON endpoint — the HTML page is dynamically rendered and returns no data:
 
-Extract users who satisfy any of the following. Fetch all result pages if paginated.
+```
+GET https://atcoder.jp/contests/{contest_id}/results/json
+```
+
+Extract **Japanese users only** (`Country: "JP"`) who cross a threshold:
 
 | Threshold | Color  | Condition                                    |
 |-----------|--------|----------------------------------------------|
@@ -13,50 +17,47 @@ Extract users who satisfy any of the following. Fetch all result pages if pagina
 | 2800      | Red    | `new_rating >= 2800` and `old_rating < 2800` |
 | 3200      | Crown  | `new_rating >= 3200` and `old_rating < 3200` |
 
-- Skip rows where rating is hidden (`----`).
-- A user who crosses multiple thresholds in one contest (e.g. 1999→2402) counts only for
-  the highest threshold crossed (Orange in this example).
+- Skip rows where rating is `----`.
+- Multi-threshold crossers (e.g. 1999→2402) count only for the highest threshold reached.
 
 ---
 
-## Step 2: Check existing blog listings
+## Step 2: Skip unnecessary work
 
-Search all of the following files for each username from Step 1:
+Check the following in order — stop processing a user as soon as a reason to skip is found:
 
-- `docs/blogs/algorithm/*.md` (C, C++, C#, Crystal, Java, Nim, Python, Ruby, Rust)
-- `docs/blogs/heuristic/*.md` (C, C++, C#, Crystal, D, Go, Java, Nim, Python, Rust)
+1. Search `docs/blogs/algorithm/*.md`, `docs/blogs/heuristic/*.md`,
+   `docs/archived/broken_links.md`
+   - Already listed, section correct → skip
+   - Section upgrade needed → note; no blog search required
+   - Not found → continue
 
-Classify each user as one of:
-
-| Status                             | Description                                                    |
-|------------------------------------|----------------------------------------------------------------|
-| **Unlisted**                       | Not found in any file → proceed to Step 4                      |
-| **Listed, section correct**        | Listed section matches current highest rating → no change needed |
-| **Listed, section upgrade needed** | Newly crossed a higher threshold → section move required       |
+2. Check [issue #1185](https://github.com/KATO-Hiro/AtCoderClans/issues/1185)
+   — users tracked there likely have no blog → skip Steps 3–4
 
 ---
 
-## Step 3: Detect primary language
-
-Fetch: `https://atcoder.jp/contests/{contest_id}/submissions?f.User={username}`
-
-- Use the most frequently submitted language in this contest as the primary language.
-- Tie-break: prefer the language used for the hardest problem solved
-  (latest letter in the alphabet, e.g. F > D).
-- If zero submissions (e.g. virtual participation): fetch `https://atcoder.jp/users/{username}`
-  and check the last 10 contest entries to determine language.
-
----
-
-## Step 4: Blog search (unlisted users only)
+## Step 3: Blog search (unlisted users not in #1185 only)
 
 Check in order; record all found URLs — do not stop at the first match.
 
-1. Profile page `https://atcoder.jp/users/{username}` — look for any listed blog URL
-2. `https://qiita.com/{username}` — HTTP 404 means not present
-3. `https://zenn.dev/{username}` — HTTP 404 means not present
-4. `https://note.com/{username}` — HTTP 404 means not present
+1. `https://atcoder.jp/users/{username}` — profile page blog link
+2. `https://qiita.com/{username}` — 404 = not present
+3. `https://zenn.dev/{username}` — 404 = not present
+4. `https://note.com/{username}` — 404 = not present
 5. Web search: `"{username}" AtCoder はてなブログ`
+
+---
+
+## Step 4: Detect primary language (blog found only)
+
+Skip this step entirely if no blog was found in Step 3.
+
+Fetch: `https://atcoder.jp/contests/{contest_id}/submissions?f.User={username}`
+
+- Use the most frequently submitted language in this contest.
+- Tie-break: prefer the language for the hardest problem solved (latest letter, e.g. F > D).
+- If zero submissions: check `https://atcoder.jp/users/{username}` (last 10 contests).
 
 ---
 
@@ -72,13 +73,12 @@ Output in the following structure:
 | Username | Threshold     | Primary Language | Blog URL    |
 |----------|---------------|------------------|-------------|
 | foo      | Yellow (2000) | C++              | https://... |
-| baz      | Yellow (2000) | Rust             | Not found   |
+| baz      | Yellow (2000) | —                | Not found   |
 
 ### Listed (section upgrade needed)
 
-- bar
-- qux
+- bar (Yellow → Orange, heuristic/cpp.md)
 ```
 
-Include all detected users. For Unlisted, include every candidate even if no blog was found.
-For Listed, names only — details are already in the site.
+Include all detected users. Use `—` for language when no blog was found.
+For Listed: include name, color transition, and file path.
