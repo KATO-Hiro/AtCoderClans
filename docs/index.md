@@ -48,8 +48,6 @@
 
 ### AtCoder公式
 
-<!-- markdown-link-check-disable -->
-
 - [AtCoderInfo](https://info.atcoder.jp/) - [AtCoder](https://atcoder.jp/)の公式ポータルサイトです。コンテストの参加方法や取り組み方、採用担当者向け情報などが公開されています。
 
 #### 公式コンテストの日時を確認
@@ -91,8 +89,6 @@
 #### 教材
 
 - [AtCoder Algorithm Lectures](https://info.atcoder.jp/entry/algorithm_lectures/index) - データ構造・グラフ・数学など幅広いアルゴリズムやテクニックを解説する講義シリーズです。主に中・上級者向けの内容が中心です。
-
-<!-- markdown-link-check-enable -->
 
 ### 非公式サービス・ツール・ライブラリ・記事など
 

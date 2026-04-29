@@ -43,6 +43,8 @@ exclude = [
   "^https://www\\.kaggle\\.com/",
   "^https://www\\.topcoder\\.com/",
   "^https://x\\.com/",
+  # Local development server
+  "^http://localhost",
   # Self-hosted site
   "^https://kato-hiro\\.github\\.io/AtCoderClans/",
   # Local file references: paths are written for MkDocs build output,

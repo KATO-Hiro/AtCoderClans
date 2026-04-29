@@ -4,8 +4,6 @@ title: 開発・提供終了
 
 諸事情により提供・開発が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
 
-<!-- markdown-link-check-disable -->
-
 ## おすすめのサービス・ツール
 
 ### 問題を解く
@@ -112,10 +110,18 @@ title: 開発・提供終了
 
 - [AtCoder Calendar](https://atcoder-calendar.tkt989.info/) - 指定したURLをGoogleカレンダーに登録する。
     - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
-    - 代替手段: [CLIST](https://clist.by/)や[Competitive Programming Contests Calendar](https://competitiveprogramming.info/calendar)などを利用する。
+    - 代替手段: [CLIST](https://clist.by/) を利用する。
 
 - [AtCoderカレンダー通知](https://twitter.com/AtcoderCalendar) - イベント開始15分前に通知する。
     - 理由: 記載はないが、[AtCoder](https://atcoder.jp/)の仕様変更に伴うものと思われる。
+
+- [Competitive Programming Contests Calendar](https://competitiveprogramming.info/calendar) - 開催予定のコンテスト情報をカレンダー形式で表示する。[Codeforces](https://codeforces.com/)、[CSAcademy](https://csacademy.com/)、[HackerRank](https://www.hackerrank.com/)、[LeetCode](https://leetcode.com/)、[Topcoder](https://www.topcoder.com/)、[yukicoder](https://yukicoder.me/)にも対応している。
+    - 理由: SSL証明書の有効期限が切れており、安全なアクセスができないと判断されたため。
+    - 代替手段: [CLIST](https://clist.by/) などを利用する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/competitive_programming_contests_calendar.png" alt="competitive programming contests calendar">
+    </div>
 
 - [Future Contest](https://future-contest.appspot.com/) - 開催予定のコンテスト情報を表示するWebアプリ。[yukicoder](https://yukicoder.me/)、[CS Academy](https://csacademy.com/)、[Codeforces](https://codeforces.com/)にも対応している。
     - 理由: Google Cloud Platform(GCP)で、Go1.9の提供が終了したため。
@@ -738,5 +744,3 @@ title: 開発・提供終了
 
 - [projecthikky @ ウィキ AtCoder](https://w.atwiki.jp/projecthikky/pages/124.html#id_bedf61e4)
     - 確認した日: 2025/11/06
-
-<!-- markdown-link-check-enable -->
