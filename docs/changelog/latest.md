@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-04-29
+
+- [#12037](https://github.com/KATO-Hiro/AtCoderClans/pull/12037) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+- [#12035](https://github.com/KATO-Hiro/AtCoderClans/pull/12035) - (破壊的な変更) リンク切れの記事・動画、安全なアクセスができないと判断したWebサービスなどを「[Archives](../../archived)」ページに移動。
+    - Competitive Programming Contests Calendar
+
 ### 2026-04-28
 
 - [#12032](https://github.com/KATO-Hiro/AtCoderClans/pull/12032) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。

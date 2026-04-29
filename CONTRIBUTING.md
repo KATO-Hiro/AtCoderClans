@@ -151,7 +151,7 @@ Makefile を使用して、以下の便利なコマンドを利用できます:
     例:
 
     ```bash
-    git commit -m ":sparkles: Add web app."
+    git commit -m "feat: Add web app."
     ```
 
 4. プルリクエストを作成する前に、加筆・修正した内容を確認します。
