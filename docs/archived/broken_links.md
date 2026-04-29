@@ -6,8 +6,6 @@ title: リンク切れ
 
 一定の期間(3〜6か月程度)更新されない場合は、「[開発・提供終了](../no_longer_available)」ページへ移動させたいと思います。
 
-<!-- markdown-link-check-disable -->
-
 ## 入門者・初心者向け
 
 - [間違っているテストケースが見つけられないときの手法](https://sumatome.com/su/1294961358119739392) - [chokudai](https://twitter.com/chokudai)さんによる一連のツイートをまとめた記事です。[ABC175-C問題](https://atcoder.jp/contests/abc175/tasks/abc175_c)を例に、間違っているテストケースを見つける方法が解説されています。
@@ -322,6 +320,10 @@ title: リンク切れ
 - [ちょこちょこっ](https://www.youtube.com/c/chocochocoxtu/featured) - [chocochocoxtu](https://atcoder.jp/users/chocochocoxtu)さんのYouTubeチャンネル。コンテストの過去問を解く動画などが公開されている。
     - 確認した日: 2021/11/17
 
+### 講座の動画
+
+- [ワンランク上に行くプロコン講座](https://www.youtube.com/watch?v=_Je4rukUcqE) - [chokudai](https://twitter.com/chokudai)さんによるトークライブ。競技プログラミングの典型的な問題に対して、上位陣が一瞬で解ける理由と考え方のコツを解説している。
+
 ## ライブラリ・スニペット
 
 ### ACLの使用方法の解説
@@ -437,6 +439,12 @@ title: リンク切れ
     - 確認した日: 2022/01/19
 
 ### レーティング1200〜1599(水色)
+
+- [AtCoderで水色になりました！ここまでの戦略・練習量・知識を紹介](https://www.youtube.com/watch?v=8YW5g2f8GKA&feature=youtu.be) - [hondo](https://atcoder.jp/users/hondo)さんが、2020年10月17日に達成。
+    - 確認した日: 2026/04/29
+
+- [水コーダーになりました - Manuel1024の引きこもルーム](https://blog.manuel1024.com/archives/119) - [Manuel1024](https://atcoder.jp/users/Manuel1024)さんが、2020年11月8日に達成。
+    - 確認した日: 2026/04/29
 
 - [【AtCoder】一年と半年、水色になりました。](https://zenn.dev/yu7400ki/articles/bea3e57ac34de1) - [yu7400ki](https://atcoder.jp/users/yu7400ki)さんが、2023年9月30日に達成。
     - 確認した日: 2025/12/14
@@ -626,5 +634,3 @@ title: リンク切れ
 
 - [OnlineMathContest 黄色になりました](https://note.com/treewhitetree/n/nb7d577fc24a4) - [Treewhitetree](https://onlinemathcontest.com/users/Treewhitetree)さんが、2021年11月2日に黄Solverに昇格。
     - 確認した日: 2023/12/15
-
-<!-- markdown-link-check-enable -->

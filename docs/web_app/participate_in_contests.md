@@ -13,12 +13,6 @@ title: コンテストに参加する
       <img loading = "lazy" src="../../images/web_app/clist.png" alt="clist">
     </div>
 
-- [Competitive Programming Contests Calendar](https://competitiveprogramming.info/calendar) - 開催予定のコンテスト情報をカレンダー形式で表示する。[Codeforces](https://codeforces.com/)、[CSAcademy](https://csacademy.com/)、[HackerRank](https://www.hackerrank.com/)、[LeetCode](https://leetcode.com/)、[Topcoder](https://www.topcoder.com/)、[yukicoder](https://yukicoder.me/)にも対応している。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/competitive_programming_contests_calendar.png" alt="competitive programming contests calendar">
-    </div>
-
 - [Procon Notification](https://procon-notification.vercel.app/) - [15以上のコンテストサイト](https://procon-notification.vercel.app/about)を対象として、コンテストの開催状況を確認できる。
     - [X アカウント](https://x.com/procon_notify) - コンテスト開始30分前に通知してくれる。
 

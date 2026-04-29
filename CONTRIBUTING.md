@@ -71,11 +71,7 @@ Docker と VS Code の Dev Containers 拡張機能がインストールされて
     uv run mkdocs serve -a 0.0.0.0:8000 --livereload
     ```
 
-    <!-- markdown-link-check-disable -->
-
     ブラウザで http://localhost:8000 を開くと、ドキュメントをプレビューできます。
-
-    <!-- markdown-link-check-enable -->
 
 #### 方法2: ローカル環境で uv を使用する
 
@@ -116,11 +112,7 @@ Docker と VS Code の Dev Containers 拡張機能がインストールされて
     uv run mkdocs serve -a 0.0.0.0:8000 --livereload
     ```
 
-    <!-- markdown-link-check-disable -->
-
     ブラウザで http://localhost:8000 を開くと、ドキュメントをプレビューできます。
-
-    <!-- markdown-link-check-enable -->
 
 #### よく使うコマンド
 

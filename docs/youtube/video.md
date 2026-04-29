@@ -172,7 +172,6 @@ title: 個別の動画
 ### 講座
 
 - [特別講義「定数倍高速化の技術」by tatyam](https://www.youtube.com/live/j1KGQHlHJ5E) - 定数倍高速化の重要性とC++における様々なテクニックが紹介されている。
-- [ワンランク上に行くプロコン講座](https://www.youtube.com/watch?v=_Je4rukUcqE) - [chokudai](https://twitter.com/chokudai)さんによるトークライブ。競技プログラミングの典型的な問題に対して、上位陣が一瞬で解ける理由と考え方のコツを解説している。
 
 ### 講演
 
