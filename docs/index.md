@@ -105,16 +105,6 @@
       <img loading="lazy" src="images/web_app/graph_graph.png" alt="graph graph">
     </div>
 
-    2026-04-15
-
-    - 「[コンテストに参加する](web_app/participate_in_contests)」ページ
-        - [AtCoder Weekday Contest Calendar](https://hibit-at.github.io/AWC_Calendar/)
-            - [AWCの出題傾向とサービスの紹介記事](https://qiita.com/hibit/items/c8b5533282e648c971c9)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/awc_calendar.png" alt="awc calendar">
-    </div>
-
 === "Chrome拡張機能"
 
     2026-04-19
@@ -164,6 +154,14 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AHC063参加記 (最終4位)](https://zenn.dev/through/articles/d95a7007ea77ce)
 
+=== "ブログ"
+    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2026-04-29
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [satoyuki](https://atcoder.jp/users/satoyuki)さん - [はてなブログ](https://tomatokiraida52.hatenablog.com)
+
 === "ライブラリ・スニペット"
 
     2026-04-21
@@ -209,6 +207,10 @@
 === "アーカイブス"
 
     諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2026-04-29
+
+    - Competitive Programming Contests Calendar
 
     2026-04-16
 
