@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-04-30
+
+- [#12043](https://github.com/KATO-Hiro/AtCoderClans/pull/12043) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[ToyoK](https://atcoder.jp/users/ToyoK)さんの[記事](https://note.com/toyotoyo_toyoyo/n/n91f7269dbfbf)を追加。
+
 ### 2026-04-29
 
 - [#12037](https://github.com/KATO-Hiro/AtCoderClans/pull/12037) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。

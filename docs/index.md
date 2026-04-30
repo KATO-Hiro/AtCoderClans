@@ -173,15 +173,15 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2026-04-30
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [ToyoK](https://atcoder.jp/users/ToyoK)さん - [【AtCoder進捗】入茶しました！](https://note.com/toyotoyo_toyoyo/n/n91f7269dbfbf)
+
     2026-04-24
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [hotate29](https://atcoder.jp/users/hotate29)さん - [水色！（入水記事）](https://hotate29.hatenablog.com/entry/20260325/1774430710)
-
-    2026-04-16
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [WebP](https://atcoder.jp/users/WebP)さん - [AtCoderで入茶しました！](https://qiita.com/WebP/items/fdd39cdb7a66a7ee1260)
 
 === "国内外のコンテストサイト"
 
@@ -211,10 +211,6 @@
     2026-04-29
 
     - Competitive Programming Contests Calendar
-
-    2026-04-16
-
-    - AtCoder Editorial Problems
 
 ## AtCoder公式グッズを購入する
 
