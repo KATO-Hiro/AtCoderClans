@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-05-01
+
+- [#12050](https://github.com/KATO-Hiro/AtCoderClans/pull/12050) - (破壊的な変更) 以下のサービスを「[Archives](../../archived)」ページに移動。
+    - Baekjoon Online Judge
+- [#12047](https://github.com/KATO-Hiro/AtCoderClans/pull/12047) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[neodyim](https://atcoder.jp/users/neodyim)さんの[記事](https://note.com/vivid_rat304/n/n8486b9df97d9)を追加。
+
 ### 2026-04-30
 
 - [#12043](https://github.com/KATO-Hiro/AtCoderClans/pull/12043) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
