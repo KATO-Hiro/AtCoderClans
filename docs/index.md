@@ -199,14 +199,13 @@
       <img loading="lazy" src="images/related_contest_sites/codeforces/cph.png" alt="Competetive Programming Helper">
     </div>
 
-    2026-04-17
-
-    - 「BOJ (Baekjoon Online Judge)」ページ
-        - 公式によるサービス終了予告
-
 === "アーカイブス"
 
     諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2026-05-01
+
+        - Baekjoon Online Judge
 
     2026-04-29
 
