@@ -205,7 +205,7 @@
 
     2026-05-01
 
-        - Baekjoon Online Judge
+    - Baekjoon Online Judge
 
     2026-04-29
 
