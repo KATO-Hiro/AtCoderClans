@@ -201,8 +201,8 @@
 
     2026-04-17
 
-    - 「[BOJ (Baekjoon Online Judge)](related_contest_sites/boj)」ページ
-        - [公式によるサービス終了予告](https://www.acmicpc.net/board/view/165799)
+    - 「BOJ (Baekjoon Online Judge)」ページ
+        - 公式によるサービス終了予告
 
 === "アーカイブス"
 

@@ -74,8 +74,8 @@ title: Change Log
 
 ### 2026-04-17
 
-- [#11969](https://github.com/KATO-Hiro/AtCoderClans/pull/11969) - 「[Related Contest Sites](../../related_contest_sites)」の「[BOJ (Baekjoon Online Judge)](../../related_contest_sites/boj)」ページに、以下の記事を追加。
-    - [公式によるサービス終了予告](https://www.acmicpc.net/board/view/165799)
+- [#11969](https://github.com/KATO-Hiro/AtCoderClans/pull/11969) - 「[Related Contest Sites](../../related_contest_sites)」の「BOJ (Baekjoon Online Judge)」ページに、以下の記事を追加。
+    - 公式によるサービス終了予告
 
 ### 2026-04-16
 
