@@ -653,6 +653,8 @@ title: 開発・提供終了
 
 ### アルゴリズム系コンテスト
 
+#### AOJ
+
 - [AOJ-ICPC](http://aoj-icpc.ichyo.jp/) - [ICPC 日本リージョン](https://icpc.iisf.or.jp/)の国内予選・アジア地区予選および[ICPC OB/OG の会](https://jag-icpc.org/)で出題された問題の難易度を、有志が評価したWebサイト。
     - 確認した日: 2025/06/10
     - 理由: 作者によりサービスの更新停止が明言されているため。
@@ -661,6 +663,27 @@ title: 開発・提供終了
     <div align="center">
       <img loading = "lazy" src="../../images/related_contest_sites/aoj/aoj_icpc.png" alt="aoj icpc">
     </div>
+
+#### BOJ
+
+- [Baekjoon Online Judge](https://www.acmicpc.net/) - 各種コンテストサイトの問題が多数収録されている。
+    - [韓国最大のオンラインジャッジサイトBOJとは？あと、solved.acとは？](https://riyuna.hatenablog.com/entry/2023/12/20/084520) - オンラインジャッジ、および、問題を難易度・ジャンルで分類したサイト（投票可）について紹介されている。
+    - [Baekjoon Online Judge について](https://kkt89.hatenablog.com/entry/2022/12/04/Baekjoon_Online_Judge_%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
+
+    - 確認した日: 2026/04/28
+    - 理由: 作者によりサービス終了が明言されたため。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/boj/boj.png" alt="boj">
+    </div>
+
+- [solved.ac](https://solved.ac/en) - タグや難易度から問題を選ぶことができる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/boj/solved_ac.png" alt="solved ac">
+    </div>
+
+#### Codeforces
 
 - [CF Problems](https://cf-problems.glitch.me/) - 開催されたコンテストの問題を一覧できるwebアプリ。
     - 理由: 記載なし。
@@ -681,12 +704,16 @@ title: 開発・提供終了
       <img loading = "lazy" src="../../images/related_contest_sites/topcoder/practice_problems_list.png" alt="practice problems list">
     </div>
 
+#### Topcoder
+
 - [Topcoder (Problem Search)](https://community.topcoder.com/tc?module=ProblemArchive) - 過去問を検索・閲覧できるWebサイト。
     - 理由: Topcoder Arena（applet版・Web版）の提供終了とともに、コンテストの開催が一時的に休止されるため([出典](https://archive.topcoder.com/))。
 
     <div align="center">
       <img loading = "lazy" src="../../images/related_contest_sites/topcoder/problem_search.png" alt="practice problem search">
     </div>
+
+#### yukicoder
 
 - [yukicoder最短コード更新お知らせ](https://twitter.com/yukigolfer) - 最短コードの更新を通知してくれるTwitter bot。別の作者による[AtCoder版](https://twitter.com/atgolfer1) もある。
     - 確認した日: 2023/07/10

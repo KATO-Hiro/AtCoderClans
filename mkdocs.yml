@@ -256,7 +256,6 @@ nav:
       - アルゴリズム系コンテスト:
           - related_contest_sites/algo_method.md
           - related_contest_sites/aoj.md
-          - related_contest_sites/boj.md
           - related_contest_sites/codeforces.md
           - related_contest_sites/icpc.md
           - related_contest_sites/joi_ioi.md
