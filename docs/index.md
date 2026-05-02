@@ -129,6 +129,11 @@
 
 === "記事"
 
+    2026-05-02
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [JR西日本・ALGO ARTIS プログラミングコンテスト（AtCoder Heuristic Contest 064）参加記](https://kaede2020.hatenablog.com/entry/2026/05/01/220309)
+
     2026-04-28
 
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
@@ -148,11 +153,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年4月20日時点)](https://x.com/atcoder/status/2046049887507320930)
-
-    2026-04-18
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AHC063参加記 (最終4位)](https://zenn.dev/through/articles/d95a7007ea77ce)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
