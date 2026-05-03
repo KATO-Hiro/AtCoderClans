@@ -34,7 +34,7 @@ title: Scripts - はじめに
 
 - [問題を解く](../user_scripts/solve_problems)
 - [ソースコードの提出・確認を簡単に](../user_scripts/submit_codes)
-- [解説を読む・テストケースを見る](../user_scripts/read_editorials)
+- [解説を読む](../user_scripts/read_editorials)
 - [コンテストに参加する](../user_scripts/participate_in_contests)
 - [コンテストの成績や関連する統計情報を見る](../user_scripts/view_scores)
 - [Webページに色付けする](../user_scripts/colors)
@@ -47,7 +47,7 @@ title: Scripts - はじめに
 - [問題を解く](../chrome_extensions/solve_problems)
 - [問題を解くときの補助ツール](../chrome_extensions/support_tools)
 - [ソースコードの提出・確認を簡単に](../chrome_extensions/submit_codes)
-- [テストケースを見る・復習の効果をより高める](../chrome_extensions/review)
+- [復習の効果をより高める](../chrome_extensions/review)
 - [コンテストの成績を見る](../chrome_extensions/view_scores)
 - [Webページをより見やすく](../chrome_extensions/improve_ui)
 - [ライバルを探す・競う](../chrome_extensions/rivals)

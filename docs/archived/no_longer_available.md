@@ -379,6 +379,15 @@ title: 開発・提供終了
     - 理由: [AtCoder Problems](https://kenkoooo.com/atcoder/)での進捗状況が短時間で更新されるようになり、追加で導入する必要性は薄いと思われるため。
     - 2021年2月23日追記: スクリプトのリンクが削除されているのを確認。
 
+### テストケースを見る
+
+- [AtCoder TestCase Extension](https://greasyfork.org/ja/scripts/371832-atcoder-testcase-extension) - 公開されているテストケースのリンクを追加する。
+    - 理由: テストケース自体が非公開となったため。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_testcase_extension.png" alt="atcoder testcase extension">
+    </div>
+
 ### 問題に関する統計情報を見る
 
 - [AtCoderACPercentage](https://greasyfork.org/ja/scripts/388000-atcoderacpercentage) - ある問題について、同じレーティング帯の参加者が正解している割合を順位表に表示するユーザスクリプト。
