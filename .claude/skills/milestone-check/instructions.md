@@ -33,7 +33,9 @@ Check the following in order — stop processing a user as soon as a reason to s
    - Not found → continue
 
 2. Check [issue #1185](https://github.com/KATO-Hiro/AtCoderClans/issues/1185)
-   — users tracked there likely have no blog → skip Steps 3–4
+   - `- [ ] username` (unchecked) → blog confirmed absent; skip Steps 3–4
+   - `- [x] username` (checked) → already listed in Clans; skip entirely
+   - Not found → continue to Step 3
 
 ---
 
