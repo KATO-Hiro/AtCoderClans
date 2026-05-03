@@ -71,7 +71,7 @@ title: 解説を読む
       <img loading = "lazy" src="../../images/userscript/atcoder_editorial_for_typical90.png" alt="atcoder editorial for typical90">
     </div>
 
-- [typical90-direct-editorial-link](https://greasyfork.org/ja/scripts/455946-typical90-direct-editorial-link) - 「[競プロ典型90問](https://atcoder.jp/contests/typical90)」に、「解説リンク(Twitter)」ボタンを追加する。
+- [typical90-direct-editorial-link](https://greasyfork.org/ja/scripts/455946-typical90-direct-editorial-link) - 「[競プロ典型90問](https://atcoder.jp/contests/typical90)」に、「問題文」「解説」「ソースコード」へのリンクを追加する。
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/typical90_direct_editorial_link.png" alt="typical90 direct editorial link">
