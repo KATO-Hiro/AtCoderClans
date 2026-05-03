@@ -111,6 +111,12 @@ title: 解説を読む・テストケースを見る
 
 ## 復習の効果をより高める
 
+- [ac-revisit](https://greasyfork.org/ja/scripts/576017-ac-revisit) - 「問題」ページや「提出結果」の詳細ページで復習したい問題を登録すると、「今日の1問」を提案してくれる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/ac_revisit.png" alt="ac revisit">
+    </div>
+
 ### 外部サービス
 
 - [AtCoder Problems Marker](https://greasyfork.org/ja/scripts/395711-atcoder-problems-marker) - [AtCoder Problems](https://kenkoooo.com/atcoder/) で表示される問題に、ユーザが独自のマーカー(解説ACなど)を付けられるようにする。
