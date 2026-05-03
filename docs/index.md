@@ -94,37 +94,15 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "Webアプリ・Webサイト"
+=== "ユーザスクリプト"
 
-    2026-04-19
+    2026-05-03
 
-    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
-        - [GRAPH × GRAPH](https://hello-world-494ec.firebaseapp.com/)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/graph_graph.png" alt="graph graph">
-    </div>
-
-=== "Chrome拡張機能"
-
-    2026-04-19
-
-    - 「[問題を解く - Google Chromeの拡張機能](chrome_extensions/solve_problems)」ページ
-        - [AtCoder In-Browser Playground](https://aibp.axtech.dev/)
+    - 「[解説を読む](user_scripts/read_editorials)」ページ
+        - [ac-revisit](https://greasyfork.org/ja/scripts/576017-ac-revisit)
 
     <div align="center">
-      <img loading="lazy" src="images/chrome_extension/atcoder_in_browser_playground.png" alt="atcoder in browser playground">
-    </div>
-
-=== "FireFox拡張機能"
-
-    2026-04-19
-
-    - 「[問題を解く - FireFoxの拡張機能](firefox_extensions/solve_problems)」ページ
-        - [AtCoder In-Browser Playground](https://aibp.axtech.dev/)
-
-    <div align="center">
-      <img loading="lazy" src="images/firefox_extension/atcoder_in_browser_playground.png" alt="atcoder in browser playground">
+      <img loading="lazy" src="images/userscript/ac_revisit.png" alt="ac revisit">
     </div>
 
 === "記事"
