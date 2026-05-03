@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-05-03
+
+- [#12058](https://github.com/KATO-Hiro/AtCoderClans/pull/12058) - 「[Scripts](../../scripts)」の「[解説を読む](../../user_scripts/read_editorials)」ページに、以下のユーザスクリプトを追加。
+    - [ac-revisit](https://greasyfork.org/ja/scripts/576017-ac-revisit)
+
 ### 2026-05-02
 
 - [#12054](https://github.com/KATO-Hiro/AtCoderClans/pull/12054) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
