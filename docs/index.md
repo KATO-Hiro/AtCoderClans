@@ -107,6 +107,11 @@
 
 === "記事"
 
+    2026-05-04
+
+    - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
+        - [Leanで競技プログラミングの入力をスッキリ記述するマクロ+α](https://qiita.com/spinylobster/items/00e0f0f9c186ae860ec5)
+
     2026-05-02
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -126,11 +131,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [中高生向け 学校対抗競技プログラミング「AtCoder Junior League 2025 Winter」入賞校・入賞者を発表](https://prtimes.jp/main/html/rd/p/000000065.000028415.html)
-
-    2026-04-20
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年4月20日時点)](https://x.com/atcoder/status/2046049887507320930)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
