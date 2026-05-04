@@ -80,6 +80,12 @@ title: Others
 
 - [【Atcoder】JavaScriptでもC++のSTLが使いたい！](https://qiita.com/sdk40010/items/a93eebcb5e55c154e577) - JavaScript(TypeScript)環境で、C++の標準ライブラリStandard Template Library (STL)を利用する方法について紹介した記事。
 
+## Lean
+
+### 文法・言語仕様
+
+- [Leanで競技プログラミングの入力をスッキリ記述するマクロ+α](https://qiita.com/spinylobster/items/00e0f0f9c186ae860ec5) - 入力データの受け取りをマクロで簡潔に書く方法が紹介されている。
+
 ## Nim
 
 ### 文法・言語仕様
