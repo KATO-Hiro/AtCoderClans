@@ -287,6 +287,8 @@ title: リンク切れ
 
 ## ブログ
 
+- [Qiita - bo9chan](https://qiita.com/bo9chan)
+    - 確認した日: 2026/05/04
 - [はてなブログ - Nyaan](https://nyaan.hatenablog.com/)
     - 確認した日: 2025/10/22
 - [はてなブログ - cunitac](https://cunitac.hatenablog.com/)
@@ -486,6 +488,9 @@ title: リンク切れ
     - 確認した日: 2022/02/03
 
 ### レーティング1600〜1999(青色)
+
+- [AtCoder青になるまでやったこと・やらなかったこと](https://qiita.com/bo9chan/items/f04a92b48a7d7e5c327a) - [bo9chan](https://atcoder.jp/users/bo9chan)さんが、2023年5月22日に公開。
+    - 確認した日: 2026/05/04
 
 - [ABC400振り返り兼入青記事](https://note.com/yyyfff48/n/n0240fea1a143) - [YFYF](https://atcoder.jp/users/YFYF)さんが、2025年4月5日に達成。
     - 確認した日: 2025/12/24

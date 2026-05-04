@@ -71,7 +71,6 @@ title: C&#43;&#43;
 |BinomialSheep|[Qiita](https://qiita.com/BinomialSheep/items/e7a717f34e6991affa1c)||
 |birdwatcher|[Qiita](https://qiita.com/birdwatcher)||
 |Bondo416|[はてなブログ](https://bondo.hateblo.jp/)||
-|bo9chan|[Qiita](https://qiita.com/bo9chan)||
 |dsytk7|[はてなブログ](https://dsytk7.hateblo.jp)||
 |ganmodokix|[はてなブログ](https://aprilganmo.hatenablog.com/)||
 |hakomo|[はてなブログ](https://hakomof.hatenablog.com/)||

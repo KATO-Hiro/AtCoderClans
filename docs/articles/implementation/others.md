@@ -2,17 +2,6 @@
 title: Others
 ---
 
-## C
-
-### 言語アップデートによる影響
-
-!!! warning "注意"
-
-    ジャッジシステムの修正(2023年8月25日)に伴い、標準ライブラリの数学関数が利用できるようになった([出典](https://atcoder.jp/contests/editor-update-test))。このため、以下の対応は不要になったが、しばらく掲載予定。
-
-- [AtCoderのC言語で標準数学関数が使えなくなるようなので、x87を使えるようにしておく](https://qiita.com/mikecat_mixc/items/f458fe46542087c06a97) - ジャッジシステムの言語アップデート(2023年8月)に伴い、標準ライブラリの数学関数が利用できなくなったことと対策方法が紹介されている記事。
-    - [AtCoder新ジャッジにC言語で数学関数（libm）を使うためのおまじない](https://hotman78.hatenablog.com/entry/2023/08/15/201456) - 上記の記事を受け、数学関数を利用するためのスニペット(3行)が紹介されている記事。
-
 ## Crystal
 
 ### 文法・言語仕様
@@ -80,6 +69,12 @@ title: Others
 
 - [【Atcoder】JavaScriptでもC++のSTLが使いたい！](https://qiita.com/sdk40010/items/a93eebcb5e55c154e577) - JavaScript(TypeScript)環境で、C++の標準ライブラリStandard Template Library (STL)を利用する方法について紹介した記事。
 
+## Lean
+
+### 文法・言語仕様
+
+- [Leanで競技プログラミングの入力をスッキリ記述するマクロ+α](https://qiita.com/spinylobster/items/00e0f0f9c186ae860ec5) - 入力データの受け取りをマクロで簡潔に書く方法が紹介されている。
+
 ## Nim
 
 ### 文法・言語仕様
@@ -91,12 +86,6 @@ title: Others
 ### 文法・言語仕様
 
 - [【PHP】標準入力・標準出力チートシート【AtCoder】](https://qiita.com/noko206/items/421ae69d91f3c442d9cf) - 標準入力・標準出力を楽に実行できる自作関数の使い方と、それらの具体例がまとめられている。
-
-## R
-
-### 文法・言語仕様
-
-- [R言語でAtCoderの問題を解いてみた](https://qiita.com/bo9chan/items/4b2fecefa8c076235c5a) - 入出力の方法およびパッケージの一覧、それらの注意事項がまとめられている記事。
 
 ## SageMath
 
