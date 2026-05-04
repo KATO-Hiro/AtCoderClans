@@ -525,6 +525,9 @@ title: 開発・提供終了
 
 ### 実装テクニックを学ぶ
 
+- [R言語でAtCoderの問題を解いてみた](https://qiita.com/bo9chan/items/4b2fecefa8c076235c5a) - 入出力の方法およびパッケージの一覧、それらの注意事項がまとめられている記事。
+    - 確認した日: 2026/05/04
+
 - [【プログラミング言語速度比較】Collatz数列ベンチマークを言語別比較しよー！](https://rheotommy.hatenablog.com/entry/2020/07/18/205343) - [RheoTommy](https://atcoder.jp/users/RheoTommy)さんによる記事。[Collatz数列](https://en.wikipedia.org/wiki/Collatz_conjecture#:~:text=Unsolved%20problem%20in%20mathematics%3A&text=The%20Collatz%20conjecture%20is%20a,half%20of%20the%20previous%20term.)を題材に、各言語の実行速度を比較・分類している。
     - 確認した日: 2024/09/02
 
