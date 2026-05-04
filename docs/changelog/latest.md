@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-05-04
+
+- [#12072](https://github.com/KATO-Hiro/AtCoderClans/pull/12072) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Others](../../articles/implementation/others)」ページに、以下の記事を追加。
+    - [Leanで競技プログラミングの入力をスッキリ記述するマクロ+α](https://qiita.com/spinylobster/items/00e0f0f9c186ae860ec5)
+
 ### 2026-05-03
 
 - [#12058](https://github.com/KATO-Hiro/AtCoderClans/pull/12058) - 「[Scripts](../../scripts)」の「[解説を読む](../../user_scripts/read_editorials)」ページに、以下のユーザスクリプトを追加。
