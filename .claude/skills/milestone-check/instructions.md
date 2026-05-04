@@ -5,7 +5,7 @@
 **Before starting, review these definitions. Reference them during each step.**
 
 - **Unlisted**: Users whose blog **was found** AND who are **not listed** in Clans. These are candidates for addition.
-- **Not reportable**: Users whose blog **was not found**. Do not include in output.
+- **Not found**: Users whose blog **was not found**. Include in output.
 - **Already Listed**: Users already in Clans (section upgrade only).
 
 **Search locations for Step 2:**
@@ -14,11 +14,11 @@
 
 **Execution flow:**
 - If found in Clans (Step 2.1) → check section upgrade; stop.
-- If found in issue #1185 unchecked (Step 2.2) → blog confirmed absent; skip Steps 3–4.
+- If found in issue #1185 unchecked (Step 2.2) → blog confirmed absent; skip Steps 3–4, record as Not found.
 - If found in issue #1185 checked (Step 2.2) → already listed; skip entirely.
 - If not found anywhere (Step 2) → proceed to Step 3 (blog search).
 - If blog found in Step 3 → proceed to Step 4 (detect language).
-- If blog NOT found in Step 3 → **do not report**; user is not reportable.
+- If blog NOT found in Step 3 → record as Not found.
 
 ---
 
@@ -65,7 +65,7 @@ Check the following in order — stop processing a user as soon as a reason to s
 
 ## Step 3: Blog search (unlisted users not in #1185 only)
 
-**Only for users not found in Step 2. (See Step 0: if blog not found, user is not reportable.)**
+**Only for users not found in Step 2.**
 
 Check in order; record all found URLs — do not stop at the first match.
 
@@ -75,7 +75,7 @@ Check in order; record all found URLs — do not stop at the first match.
 4. `https://note.com/{username}` — 404 = not present
 5. Web search: `"{username}" AtCoder はてなブログ`
 
-**If no blog found, stop here. User is not reportable (see Step 0).**
+**If no blog found, record as "Not found" for reporting.**
 
 ---
 
@@ -106,7 +106,15 @@ Output in the following structure:
 |----------|---------------|------------------|-------------|
 | foo      | Yellow (2000) | C++              | https://... |
 
+### Not found
+
+| Username | Threshold     |
+|----------|---------------|
+| baz      | Yellow (2000) |
+
 ### Listed (section upgrade needed)
 
 - bar (Yellow → Orange, heuristic/cpp.md)
 ```
+
+Include all detected users. Use `—` for language when no blog was found.
