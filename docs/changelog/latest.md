@@ -6,6 +6,9 @@ title: Change Log
 
 ### 2026-05-04
 
+- [#12075](https://github.com/KATO-Hiro/AtCoderClans/pull/12075) - (破壊的な変更) 開発が停止していると思われるコマンドラインツールや拡張機能を「[Archives](../../archived)」ページに移動。
+    - OnlineJudgeHelper
+    - ICIE
 - [#12072](https://github.com/KATO-Hiro/AtCoderClans/pull/12072) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Others](../../articles/implementation/others)」ページに、以下の記事を追加。
     - [Leanで競技プログラミングの入力をスッキリ記述するマクロ+α](https://qiita.com/spinylobster/items/00e0f0f9c186ae860ec5)
 
