@@ -7,17 +7,28 @@ title: ソースコードにバグがないか確認
 !!! warning "注意"
     サブカテゴリで部門名(アルゴリズム・ヒューリスティック)が明記されていない場合は、アルゴリズム部門を対象としたサービスを表しています。
 
-## コマンドラインツールからAtCoderにログインできない場合の対処方法
+## コマンドラインツールの利用制限
 
-- [aclogin](https://github.com/key-moon/aclogin) ![GitHub stars](https://img.shields.io/github/stars/key-moon/aclogin?style=plastic) - コマンドラインツールからAtCoderに自動ログインできるようにする。
+2025年3月にAtCoderの認証方法が変更されました（Cloudflare CAPCHAの導入）。これにより、以下の操作が制限されます。自動テストは、これまで通り実行可能です
 
-    !!! info "参考"
+- **ログイン**：ブラウザから手動で実施が必須
+- **提出**：コンテスト開催期間中はコマンドから実行可能。終了後はブラウザから手動で実行
+
+### 引き続き利用したい場合
+
+- [aclogin](https://github.com/key-moon/aclogin) ![GitHub stars](https://img.shields.io/github/stars/key-moon/aclogin?style=plastic) - ブラウザで認証後、ログイン状態を保存してコマンドラインツールで利用するための暫定的な対処方法。
+
+    !!! info "対応ツール"
 
         2025年6月時点では、[Online Judge Tools](https://github.com/online-judge-tools/oj) ![GitHub stars](https://img.shields.io/github/stars/online-judge-tools/oj?style=plastic)と[Tatamo/atcoder-cli](https://github.com/Tatamo/atcoder-cli) ![GitHub stars](https://img.shields.io/github/stars/Tatamo/atcoder-cli?style=plastic)に対応。
 
-    !!! warning "注意"
+### ブラウザから実行したい場合
 
-        2025年3月にAtCoderの認証方法（Cloudflare CAPTCHAの導入）が変更されたことに伴う暫定的な対処方法。
+以下のページをご参照ください。
+
+- [ユーザスクリプト](../../user_scripts/submit_codes/#_3)
+- [Google Chromeの拡張機能](../../chrome_extensions/submit_codes/#_2)
+- [Firefoxの拡張機能](../../firefox_extensions/solve_problems)
 
 ## 任意の言語
 
