@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-05-05
+
+- [#12082](https://github.com/KATO-Hiro/AtCoderClans/pull/12082) - (破壊的な変更) 開発・提供が終了していると思われる Web API を「[Archives](../../archived)」ページに移動。
+    - AtCoderUsersAPI
+
 ### 2026-05-04
 
 - [#12075](https://github.com/KATO-Hiro/AtCoderClans/pull/12075) - (破壊的な変更) 開発が停止していると思われるコマンドラインツールや拡張機能を「[Archives](../../archived)」ページに移動。
