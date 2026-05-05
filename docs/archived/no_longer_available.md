@@ -318,6 +318,14 @@ title: 開発・提供終了
       <img loading = "lazy" src="../../images/web_app/atcoder_games.png" alt="atcoder games">
     </div>
 
+### API
+
+- [AtCoderUsersAPI](https://github.com/miozune/AtCoderUsersAPI) ![GitHub Repo stars](https://img.shields.io/github/stars/miozune/AtCoderUsersAPI?style=plastic) - 登録されているユーザー情報を取得できる。
+
+    ??? warning "注意"
+
+        [AtCoder](https://atcoder.jp/)公式のサーバへの負荷を下げるため、スクレイピングの間隔を一定時間空けており、全ユーザの情報取得には長時間かかる。
+
 ### Bot
 
 - [毎日C D問題通知Bot](https://twitter.com/mainitiCDmondai) - AtCoder Beginner Contest (ABC)のC問題・D問題のリンクを毎日ツイートしてくれる。
