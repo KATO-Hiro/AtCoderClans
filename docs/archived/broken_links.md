@@ -46,6 +46,15 @@ title: リンク切れ
       <img loading = "lazy" src="../../images/web_app/atcoder_search.png" alt="atcoder search">
     </div>
 
+### ライブラリ・スニペットを共有
+
+- [CompSnips](https://compsnips.zeronosu77108.com/) - 競技プログラミングのライブラリ・スニペットを登録・閲覧できる。検索やVisual Studio Codeのスニペット用のJSONを出力する機能もある。
+    - 確認した日: 2026/05/06
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/compsnips.png" alt="compsnips">
+    </div>
+
 ### チーム分けを行う
 
 - [TeamMaker](https://compro.tsutajiro.com/cp-teammaker/index.php) - 競技プログラミングにおけるチーム分けを補助する。beta版。
