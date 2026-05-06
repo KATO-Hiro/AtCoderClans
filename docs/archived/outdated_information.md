@@ -257,6 +257,14 @@ title: 更新停止の可能性が高い
 
 ### Webページに色付けする
 
+- [AtCoderDarkTheme](https://greasyfork.org/ja/scripts/388076-atcoderdarktheme) - ダークテーマに変更する。類似したスクリプトに、[AtCoder-Style-Changer](https://greasyfork.org/ja/scripts/429929-atcoder-style-changer)がある。
+    - 確認した日: 2026/05/06
+    - 理由: [AtCoder Pure Dark](https://greasyfork.org/ja/scripts/576556-atcoder-pure-dark)が適用範囲が広く、視認性が高いため。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_dark_theme.png" alt="atcoder dark theme">
+    </div>
+
 - [AtCoder Difficulty Colorizer for Typical 90](https://greasyfork.org/ja/scripts/425463-atcoder-difficulty-colorizer-for-typical-90) - 「[競プロ典型90問](https://atcoder.jp/contests/typical90)」の問題名を、難易度に応じた色に変更する。
     - 確認した日: 2023/07/17
     - 理由: [atcoder-difficulty-display](https://greasyfork.org/ja/scripts/397185-atcoder-difficulty-display)に同じ機能が実装されたことを確認したため。
