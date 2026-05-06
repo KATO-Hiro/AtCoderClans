@@ -8,7 +8,7 @@ title: Change Log
 
 - [#12091](https://github.com/KATO-Hiro/AtCoderClans/pull/12091) - 「[Scripts](../../scripts)」の「[Webページに色付けする](../../user_scripts/colors)」ページに、以下のユーザスクリプトを追加。
     - [AtCoder Pure Dark](https://greasyfork.org/ja/scripts/576556-atcoder-pure-dark)
-- [#12086](https://github.com/KATO-Hiro/AtCoderClans/pull/12086) - (破壊的な変更) 開発・提供が終了していると思われる Web API を「[Archives](../../archived)」ページに移動。
+- [#12086](https://github.com/KATO-Hiro/AtCoderClans/pull/12086) - (破壊的な変更) 開発・提供が終了していると思われる Web サービス を「[Archives](../../archived)」ページに移動。
     - CompSnips
 
 ### 2026-05-05
