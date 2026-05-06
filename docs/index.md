@@ -96,6 +96,15 @@
 
 === "ユーザスクリプト"
 
+    2026-05-06
+
+    - 「[Webページに色付けする](user_scripts/colors)」ページ
+        - [AtCoder Pure Dark](https://greasyfork.org/ja/scripts/576556-atcoder-pure-dark)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_pure_dark.png" alt="atcoder pure dark">
+    </div>
+
     2026-05-03
 
     - 「[解説を読む](user_scripts/read_editorials)」ページ
@@ -126,11 +135,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年4月27日時点)](https://x.com/atcoder/status/2048585082877943991)
-
-    2026-04-22
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [中高生向け 学校対抗競技プログラミング「AtCoder Junior League 2025 Winter」入賞校・入賞者を発表](https://prtimes.jp/main/html/rd/p/000000065.000028415.html)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -173,6 +177,10 @@
 === "アーカイブス"
 
     諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2026-05-06
+
+    - CompSnips
 
     2026-05-05
 
