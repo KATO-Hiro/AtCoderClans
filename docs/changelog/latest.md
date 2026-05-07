@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-05-07
+
+- [#12096](https://github.com/KATO-Hiro/AtCoderClans/pull/12096) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
+    - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年5月7日時点)](https://x.com/atcoder/status/2052197200781008979)
+
 ### 2026-05-06
 
 - [#12091](https://github.com/KATO-Hiro/AtCoderClans/pull/12091) - 「[Scripts](../../scripts)」の「[Webページに色付けする](../../user_scripts/colors)」ページに、以下のユーザスクリプトを追加。
