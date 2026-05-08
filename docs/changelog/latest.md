@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-05-08
+
+- [#12099](https://github.com/KATO-Hiro/AtCoderClans/pull/12099) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下のXアカウントを追加。
+    - [日本大学文理学部情報研究会LoGeek](https://x.com/nu_chs_logeek)
+
 ### 2026-05-07
 
 - [#12096](https://github.com/KATO-Hiro/AtCoderClans/pull/12096) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
