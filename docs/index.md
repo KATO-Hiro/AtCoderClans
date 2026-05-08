@@ -116,6 +116,11 @@
 
 === "記事"
 
+    2026-05-08
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [日本大学文理学部情報研究会LoGeek](https://x.com/nu_chs_logeek)
+
     2026-05-07
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
