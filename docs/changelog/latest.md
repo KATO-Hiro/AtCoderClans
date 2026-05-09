@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-05-09
+
+- [#12106](https://github.com/KATO-Hiro/AtCoderClans/pull/12106) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のWebサービスを追加。
+    - [AtCoder Categories](https://atcoder-categories.github.io/)
+
 ### 2026-05-08
 
 - [#12099](https://github.com/KATO-Hiro/AtCoderClans/pull/12099) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下のXアカウントを追加。

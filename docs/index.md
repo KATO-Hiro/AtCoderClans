@@ -94,6 +94,17 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "Webアプリ・Webサイト"
+
+    2026-05-09
+
+    - 「[問題を解く](web_app/solve_problems)」ページ
+        - [AtCoder Categories](https://atcoder-categories.github.io/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/atcoder_categories.png" alt="atcoder_categories">
+    </div>
+
 === "ユーザスクリプト"
 
     2026-05-06
