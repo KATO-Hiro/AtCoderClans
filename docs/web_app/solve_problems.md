@@ -37,6 +37,12 @@ title: 問題を解く
 
 ## 特定の分野・難易度を重点的に学ぶ
 
+- [AtCoder Categories](https://atcoder-categories.github.io/) - 特定のカテゴリの問題を集中的に解くことができる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/atcoder_categories.png" alt="atcoder_categories">
+    </div>
+
 - [AtCoder Gacha](https://atcoder-gacha.onrender.com/) - 難易度や正誤状況を指定して、問題を絞り込むことができる。
 
     <div align="center">
