@@ -165,6 +165,13 @@
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
         - [satoyuki](https://atcoder.jp/users/satoyuki)さん - [はてなブログ](https://tomatokiraida52.hatenablog.com)
 
+=== "動画"
+
+    2026-05-10
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [りふぉげん研究所](https://www.youtube.com/@revogen_lab)
+
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
@@ -173,13 +180,6 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [ToyoK](https://atcoder.jp/users/ToyoK)さん - [【AtCoder進捗】入茶しました！](https://note.com/toyotoyo_toyoyo/n/n91f7269dbfbf)
-
-=== "国内外のコンテストサイト"
-
-    2026-04-26
-
-    - 「[Codeforces](related_contest_sites/codeforces)」ページ
-        - [cph-submit](https://github.com/agrawal-d/cph-submit) ![GitHub Repo stars](https://img.shields.io/github/stars/agrawal-d/cph-submit?style=plastic)
 
 === "アーカイブス"
 

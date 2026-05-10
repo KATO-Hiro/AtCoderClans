@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-05-10
+
+- [#12110](https://github.com/KATO-Hiro/AtCoderClans/pull/12110) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [りふぉげん研究所](https://www.youtube.com/@revogen_lab)
+
 ### 2026-05-09
 
 - [#12106](https://github.com/KATO-Hiro/AtCoderClans/pull/12106) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のWebサービスを追加。
