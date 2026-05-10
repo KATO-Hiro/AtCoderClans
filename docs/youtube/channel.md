@@ -31,6 +31,7 @@ title: チャンネル
 - [ナス太郎](https://www.youtube.com/channel/UCs7sxmQBTBqtuGzsEWCUupQ) - [DFNasutarou](https://atcoder.jp/users/DFNasutarou)さんのチャンネル。1問あたり15分以内で解き続ける動画などが公開されている。
 - [ぱるま](https://www.youtube.com/playlist?list=PL2M7xTSHX0HqdXvk74PKSZ2De_EyVUq0d) - [paruma184](https://atcoder.jp/users/paruma184)さんのチャンネル。コンテストの過去問を解いたり、コンテスト後の振り返ったりする動画が公開されている。
 - [鵺宮ミヤ(やみやみや)](https://www.youtube.com/playlist?list=PLfDk7e-j_wHFSc2F_EZ_7CyGXIrMx0gup) - [ymymy83838](https://atcoder.jp/users/ymymy83838)さんのチャンネル。コンテストの過去問を解く動画などが公開されている。
+- [りふぉげん研究所](https://www.youtube.com/@revogen_lab) - [amentorimaru](https://atcoder.jp/users/amentorimaru)さんのチャンネル。コンテストの過去問を解く動画などが公開されている。
 
 ## YouTuber
 
