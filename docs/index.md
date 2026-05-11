@@ -127,6 +127,11 @@
 
 === "記事"
 
+    2026-05-11
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年5月11日時点)](https://x.com/atcoder/status/2053659828313260273)
+
     2026-05-08
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
@@ -151,11 +156,6 @@
 
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
         - [VSCode+WSLでAtCoderの環境構築](https://qiita.com/hotpepsi/items/4cf9e6d3f7e8911a9771)
-
-    2026-04-27
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年4月27日時点)](https://x.com/atcoder/status/2048585082877943991)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
