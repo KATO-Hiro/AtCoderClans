@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-05-12
+
+- [#12120](https://github.com/KATO-Hiro/AtCoderClans/pull/12120) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[ringo_neko](https://atcoder.jp/users/ringo_neko)さんの[記事](https://note.com/sheep_program/n/n224f053819c0)を追加。
+
 ### 2026-05-11
 
 - [#12114](https://github.com/KATO-Hiro/AtCoderClans/pull/12114) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。

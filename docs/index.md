@@ -152,11 +152,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [JR西日本・ALGO ARTIS プログラミングコンテスト（AtCoder Heuristic Contest 064）参加記](https://kaede2020.hatenablog.com/entry/2026/05/01/220309)
 
-    2026-04-28
-
-    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
-        - [VSCode+WSLでAtCoderの環境構築](https://qiita.com/hotpepsi/items/4cf9e6d3f7e8911a9771)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -175,6 +170,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-05-12
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [ringo_neko](https://atcoder.jp/users/ringo_neko)さん - [入緑した！！](https://note.com/sheep_program/n/n224f053819c0)
 
     2026-04-30
 
