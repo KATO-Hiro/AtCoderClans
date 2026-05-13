@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-05-13
+
+- [#12124](https://github.com/KATO-Hiro/AtCoderClans/pull/12124) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[gonaka](https://atcoder.jp/users/gonaka)さんの[記事](https://note.com/gounaka/n/ne35ce1e08231)を追加。
+
 ### 2026-05-12
 
 - [#12120](https://github.com/KATO-Hiro/AtCoderClans/pull/12120) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
