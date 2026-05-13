@@ -7,6 +7,7 @@ title: レーティング800〜1199(緑色)
 
 ## 2026年
 
+- [45歳からの競技プログラミング　～一周年＆入緑](https://note.com/gounaka/n/ne35ce1e08231) - [gonaka](https://atcoder.jp/users/gonaka)さんが、2026年4月24日に公開。
 - [入緑した！！](https://note.com/sheep_program/n/n224f053819c0) - [ringo_neko](https://atcoder.jp/users/ringo_neko)さんが、2026年4月18日に達成。
 - [入緑したのでいろいろ書いた](https://qiita.com/siooisi/items/9fe844e4be3559a8944f) - [siooisi](https://atcoder.jp/users/siooisi)さんが、2026年3月28日に達成。
 - [【入緑記事】飽き性が競プロほぼ未経験から実質4ヶ月で緑になった話](https://qiita.com/Rapca/items/50573da1b2eb4ca3a0ec) - [rapca](https://atcoder.jp/users/rapca)さんが、2026年3月27日に公開。
