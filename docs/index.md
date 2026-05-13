@@ -152,14 +152,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [JR西日本・ALGO ARTIS プログラミングコンテスト（AtCoder Heuristic Contest 064）参加記](https://kaede2020.hatenablog.com/entry/2026/05/01/220309)
 
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2026-04-29
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [satoyuki](https://atcoder.jp/users/satoyuki)さん - [はてなブログ](https://tomatokiraida52.hatenablog.com)
-
 === "動画"
 
     2026-05-10
@@ -170,6 +162,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-05-13
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [gonaka](https://atcoder.jp/users/gonaka)さん - [45歳からの競技プログラミング　～一周年＆入緑](https://note.com/gounaka/n/ne35ce1e08231)
 
     2026-05-12
 
@@ -201,10 +198,6 @@
     2026-05-01
 
     - Baekjoon Online Judge
-
-    2026-04-29
-
-    - Competitive Programming Contests Calendar
 
 ## AtCoder公式グッズを購入する
 
