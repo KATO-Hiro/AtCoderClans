@@ -163,6 +163,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2026-05-14
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [suri1326](https://atcoder.jp/users/suri1326)さん - [コル・カロリ　入緑入力](https://note.com/seiram343/n/ncc89e487095a)
+
     2026-05-13
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
@@ -172,11 +177,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [ringo_neko](https://atcoder.jp/users/ringo_neko)さん - [入緑した！！](https://note.com/sheep_program/n/n224f053819c0)
-
-    2026-04-30
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [ToyoK](https://atcoder.jp/users/ToyoK)さん - [【AtCoder進捗】入茶しました！](https://note.com/toyotoyo_toyoyo/n/n91f7269dbfbf)
 
 === "アーカイブス"
 
