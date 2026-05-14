@@ -7,6 +7,7 @@ title: レーティング800〜1199(緑色)
 
 ## 2026年
 
+- [コル・カロリ　入緑入力](https://note.com/seiram343/n/ncc89e487095a) - [suri1326](https://atcoder.jp/users/suri1326)さんが、2026年4月26日に公開。
 - [45歳からの競技プログラミング　～一周年＆入緑](https://note.com/gounaka/n/ne35ce1e08231) - [gonaka](https://atcoder.jp/users/gonaka)さんが、2026年4月24日に公開。
 - [入緑した！！](https://note.com/sheep_program/n/n224f053819c0) - [ringo_neko](https://atcoder.jp/users/ringo_neko)さんが、2026年4月18日に達成。
 - [入緑したのでいろいろ書いた](https://qiita.com/siooisi/items/9fe844e4be3559a8944f) - [siooisi](https://atcoder.jp/users/siooisi)さんが、2026年3月28日に達成。
