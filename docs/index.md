@@ -195,10 +195,6 @@
     - OnlineJudgeHelper
     - ICIE
 
-    2026-05-01
-
-    - Baekjoon Online Judge
-
 ## AtCoder公式グッズを購入する
 
 - [SUZURI](https://suzuri.jp/AtCoder) - [AtCoder](https://atcoder.jp/)のロゴ入りグッズが購入できる。
