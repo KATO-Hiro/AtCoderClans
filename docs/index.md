@@ -107,6 +107,11 @@
 
 === "ユーザスクリプト"
 
+    2026-05-16
+
+    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
+        - [Atcoder Shorter Affiliation](https://greasyfork.org/ja/scripts/575455-atcoder-shorter-affiliation)
+
     2026-05-06
 
     - 「[Webページに色付けする](user_scripts/colors)」ページ
