@@ -121,15 +121,6 @@
       <img loading="lazy" src="images/userscript/atcoder_pure_dark.png" alt="atcoder pure dark">
     </div>
 
-    2026-05-03
-
-    - 「[解説を読む](user_scripts/read_editorials)」ページ
-        - [ac-revisit](https://greasyfork.org/ja/scripts/576017-ac-revisit)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/ac_revisit.png" alt="ac revisit">
-    </div>
-
 === "記事"
 
     2026-05-11
@@ -152,10 +143,13 @@
     - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
         - [Leanで競技プログラミングの入力をスッキリ記述するマクロ+α](https://qiita.com/spinylobster/items/00e0f0f9c186ae860ec5)
 
-    2026-05-02
+=== "ブログ"
+    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [JR西日本・ALGO ARTIS プログラミングコンテスト（AtCoder Heuristic Contest 064）参加記](https://kaede2020.hatenablog.com/entry/2026/05/01/220309)
+    2026-05-17
+
+    - 「[ヒューリスティック部門 - Java](blogs/heuristic/java)」ページ
+        - [rabot](https://atcoder.jp/users/rabot)さん - [Qiita](https://qiita.com/tanaka-a)
 
 === "動画"
 
