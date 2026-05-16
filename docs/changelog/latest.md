@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-05-16
+
+- [#12314](https://github.com/KATO-Hiro/AtCoderClans/pull/12314) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
+    - [Atcoder Shorter Affiliation](https://greasyfork.org/ja/scripts/575455-atcoder-shorter-affiliation)
+
 ### 2026-05-15
 
 - [#12131](https://github.com/KATO-Hiro/AtCoderClans/pull/12131) - (破壊的な変更) 「[Change Log](../latest)」ページの2026年4月分を月別のアーカイブに移動。
