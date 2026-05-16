@@ -78,6 +78,8 @@ title: コンテストに参加する
       <img loading="lazy" src="../../images/userscript/atcoder_full_page_standings.png" alt="atcoder full page standings">
     </div>
 
+- [Atcoder Shorter Affiliation](https://greasyfork.org/ja/scripts/575455-atcoder-shorter-affiliation) - 「順位表」ページの所属欄が長い場合に、末尾に三点リーダー（...）をつけて省略する。
+
 ### 操作性の改善
 
 - [Atcoder Easy Accordion](https://greasyfork.org/ja/scripts/532617-atcoder-easy-accordion) - ドロップダウンリスト（プロフィールページや「提出結果」ページなど）にマウスのカーソルを合わせると、開くことができる。
