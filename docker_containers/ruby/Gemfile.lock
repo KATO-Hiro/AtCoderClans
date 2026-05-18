@@ -5,7 +5,7 @@ GEM
     diff-lcs (1.5.0)
     domain_name (0.5.20190701)
       unf (>= 0.0.5, < 1.0.0)
-    faraday (2.14.1)
+    faraday (2.14.2)
       faraday-net_http (>= 2.0, < 3.5)
       json
       logger
@@ -22,7 +22,7 @@ GEM
       thor
     http-cookie (1.0.4)
       domain_name (~> 0.5)
-    json (2.19.2)
+    json (2.19.5)
     logger (1.7.0)
     mini_portile2 (2.8.9)
     net-http (0.9.1)
