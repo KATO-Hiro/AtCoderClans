@@ -138,13 +138,13 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年5月7日時点)](https://x.com/atcoder/status/2052197200781008979)
 
-    2026-05-04
-
-    - 「[実装テクニックを学ぶ - Others](articles/implementation/others)」ページ
-        - [Leanで競技プログラミングの入力をスッキリ記述するマクロ+α](https://qiita.com/spinylobster/items/00e0f0f9c186ae860ec5)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2026-05-18
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [fact493](https://atcoder.jp/users/fact493)さん - [note](https://note.com/fact493)
 
     2026-05-17
 
@@ -188,11 +188,6 @@
     2026-05-05
 
     - AtCoderUsersAPI
-
-    2026-05-04
-
-    - OnlineJudgeHelper
-    - ICIE
 
 ## AtCoder公式グッズを購入する
 
