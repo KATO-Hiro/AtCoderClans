@@ -14,6 +14,7 @@ title: C&#43;&#43;
 |chocorusk|[はてなブログ](https://lovechocorusk.hatenablog.com/)|2016年5月以降、新規の記事を確認できず。|
 |DEGwer|[はてなブログ](https://degwer.hatenablog.com/)|2019年7月以降、新規の記事を確認できず。|
 |E869120|[はてなブログ](https://e869120.hatenablog.com/)、[Qiita](https://qiita.com/e869120)||
+|fact493|[note](https://note.com/fact493)||
 |heno239|[はてなブログ](https://heno239.hatenablog.com/)||
 |hitoare|[はてなブログ](https://hitoare.hatenablog.com/)||
 |hitonanode|[はてなブログ](https://rsm9.hatenablog.com/)||
