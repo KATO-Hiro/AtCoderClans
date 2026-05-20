@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-05-20
+
+- [#12154](https://github.com/KATO-Hiro/AtCoderClans/pull/12154) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[Prrapp](https://atcoder.jp/users/Prrapp)さんの[記事](https://qiita.com/Prrapp/items/09c7c9fdba05354b88f3)を追加。
+
 ### 2026-05-19
 
 - [#12148](https://github.com/KATO-Hiro/AtCoderClans/pull/12148) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
