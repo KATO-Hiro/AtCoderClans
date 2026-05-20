@@ -4,6 +4,7 @@ title: レーティング400〜799(茶色)
 
 ## 2026年
 
+- [【色変記事】AtCoderで入茶しました](https://qiita.com/Prrapp/items/09c7c9fdba05354b88f3) - [Prrapp](https://atcoder.jp/users/Prrapp)さんが、2026年5月17日に公開。
 - [【AtCoder進捗】入茶しました！](https://note.com/toyotoyo_toyoyo/n/n91f7269dbfbf) - [ToyoK](https://atcoder.jp/users/ToyoK)さんが、2026年4月18日に達成。
 - [入茶した話](https://note.com/vivid_rat304/n/n8486b9df97d9) -  [neodyim](https://atcoder.jp/users/neodyim)さんが、2026年4月11日に達成。
 - [AtCoderで入茶しました！](https://qiita.com/WebP/items/fdd39cdb7a66a7ee1260) - [WebP](https://atcoder.jp/users/WebP)さんが、2026年4月11日に達成。
