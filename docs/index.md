@@ -112,15 +112,6 @@
     - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
         - [Atcoder Shorter Affiliation](https://greasyfork.org/ja/scripts/575455-atcoder-shorter-affiliation)
 
-    2026-05-06
-
-    - 「[Webページに色付けする](user_scripts/colors)」ページ
-        - [AtCoder Pure Dark](https://greasyfork.org/ja/scripts/576556-atcoder-pure-dark)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_pure_dark.png" alt="atcoder pure dark">
-    </div>
-
 === "記事"
 
     2026-05-19
@@ -167,6 +158,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2026-05-20
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [Prrapp](https://atcoder.jp/users/Prrapp)さん - [【色変記事】AtCoderで入茶しました](https://qiita.com/Prrapp/items/09c7c9fdba05354b88f3)
+
     2026-05-14
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
@@ -181,14 +177,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [ringo_neko](https://atcoder.jp/users/ringo_neko)さん - [入緑した！！](https://note.com/sheep_program/n/n224f053819c0)
-
-=== "アーカイブス"
-
-    諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
-
-    2026-05-06
-
-    - CompSnips
 
 ## AtCoder公式グッズを購入する
 
