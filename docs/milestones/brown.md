@@ -97,7 +97,6 @@ title: レーティング400〜799(茶色)
 - [【AtCoder】40過ぎのおっさんが茶色まで２年かかった話](https://note.com/t_aoyama/n/nf216afa9241e) - [chinsan](https://atcoder.jp/users/chinsan)さんが、2021年12月11日に達成。
 - [AtCoderで茶色になりました](https://qiita.com/Aosanori620/items/3803c3ef188d9952c0e7) - [Aosanori](https://atcoder.jp/users/Aosanori)さんが、2021年12月3日に達成。
 - [プログラミング初学者がAtCoder茶色に到達するまでの学習ステップ](https://qiita.com/sanchoBVB/items/ba4c4526280297bc4aed) - [takuto_miura](https://atcoder.jp/users/takuto_miura)さんが、2021年11月25日に公開。
-- [Atcoder茶色になったので備忘録](https://note.com/mmotoi42/n/n63ebe30d01cc) - [mmotoi](https://atcoder.jp/users/mmotoi)さんが、2021年7月18日に達成。
 - [AtCoderのRatedコンテストに200回参加しても茶色だけど、もう少し続けるよという話](https://1783.hatenablog.com/entry/2021/06/01/194504) - [inaba3](https://atcoder.jp/users/inaba3)さんが、2021年6月1日に公開。
 - [社会人がAtCoder始めて入茶した話٩( ᐛ )و - ひたすらに雑記](https://malleroid.hatenablog.com/entry/2021/04/03/204651) - [malleus](https://atcoder.jp/users/malleus)さんが、2021年3月27日に達成。
 - [[初投稿] AtCoder入茶してみたw [至って真面目です]](https://qiita.com/Shiroha_MK3/items/aacc2727b511682e1cf2) - [Shiroha_F14](https://atcoder.jp/users/shiroha_f14)さんが、2021年3月20日に達成。
