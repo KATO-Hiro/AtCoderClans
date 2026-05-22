@@ -8,6 +8,8 @@ title: SNS
 
 - [AtCoderDailyTraining](https://twitter.com/atcoder_adt) - AtCoder Daily Training (AtCoder Beginner Contestの練習用バーチャルコンテスト) の開催を通知してくれる公式アカウント。
 
+- [あとこ@AtCoderまとめブログ](https://x.com/atoco_matome) - AtCoderに関するまとめブログを実験的に運用しているアカウント。
+
 - [競プロオンサイト情報！](https://twitter.com/kyopro_onsite) - 競技プログラミングに関連するオンサイト情報を知ることができる。[prd_xxx](https://atcoder.jp/users/prd_xxx)さんが独自に情報収集・不定期で発信されている。
 
 ## Discord
