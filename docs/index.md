@@ -124,11 +124,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年5月11日時点)](https://x.com/atcoder/status/2053659828313260273)
 
-    2026-05-08
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-        - [日本大学文理学部情報研究会LoGeek](https://x.com/nu_chs_logeek)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -148,6 +143,13 @@
 
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [りふぉげん研究所](https://www.youtube.com/@revogen_lab)
+
+=== "SNS"
+
+    2026-05-22
+
+    - 「[SNS](sns)」ページ
+        - [あとこ@AtCoderまとめブログ](https://x.com/atoco_matome)
 
 === "色変記事"
 
