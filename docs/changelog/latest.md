@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-05-22
+
+- [#12162](https://github.com/KATO-Hiro/AtCoderClans/pull/12162) - 「[Articles, Blogs, Books and Videos](../../media)」の「[SNS](../../sns)」ページに、以下のXアカウントを追加。
+    - [あとこ@AtCoderまとめブログ](https://x.com/atoco_matome)
+
 ### 2026-05-21
 
 - [#12157](https://github.com/KATO-Hiro/AtCoderClans/pull/12157) - 「[Milestones](../../milestones/red)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
