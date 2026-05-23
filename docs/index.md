@@ -94,18 +94,16 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "Webアプリ・Webサイト"
+=== "ユーザスクリプト"
 
-    2026-05-09
+    2026-05-23
 
-    - 「[問題を解く](web_app/solve_problems)」ページ
-        - [AtCoder Categories](https://atcoder-categories.github.io/)
+    - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
+        - [AtCoder: すべての入出力を一度でコピー](https://greasyfork.org/ja/scripts/577855-atcoder-all-samples-at-once)
 
     <div align="center">
-      <img loading="lazy" src="images/web_app/atcoder_categories.png" alt="atcoder_categories">
+      <img loading = "lazy" src="images/userscript/atcoder_all_samples_at_once.png" alt="atcoder all samples at once">
     </div>
-
-=== "ユーザスクリプト"
 
     2026-05-16
 
