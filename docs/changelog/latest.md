@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-05-24
+
+- [#12170](https://github.com/KATO-Hiro/AtCoderClans/pull/12170) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Title Copy](https://greasyfork.org/ja/scripts/577016-atcoder-title-copy)
+
 ### 2026-05-23
 
 - [#12166](https://github.com/KATO-Hiro/AtCoderClans/pull/12166) - 「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../user_scripts/submit_codes)」ページに、以下のユーザスクリプトを追加。

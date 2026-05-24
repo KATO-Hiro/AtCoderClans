@@ -96,6 +96,15 @@
 
 === "ユーザスクリプト"
 
+    2026-05-24
+
+    - 「[問題を解く](user_scripts/solve_problems)」ページ
+        - [AtCoder Title Copy](https://greasyfork.org/ja/scripts/577016-atcoder-title-copy)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_title_copy2.png" alt="atcoder title copy">
+    </div>
+
     2026-05-23
 
     - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
