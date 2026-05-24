@@ -249,10 +249,10 @@ title: 問題を解く
 
 ### タイトルをコピー
 
-- [Atcoder Title Copy](https://greasyfork.org/ja/scripts/434033-atcoder-title-copy) - 「問題」ページのタイトルをクリップボードにコピーできるボタンを追加する。
+- [AtCoder Title Copy](https://greasyfork.org/ja/scripts/577016-atcoder-title-copy) - 「問題」ページのタイトルをクリップボードにコピーできるボタンを追加する。
 
     <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcoder_title_copy.png" alt="atcoder title copy">
+      <img loading="lazy" src="../../images/userscript/atcoder_title_copy2.png" alt="atcoder title copy">
     </div>
 
 ### タイトルを一部書き換え
