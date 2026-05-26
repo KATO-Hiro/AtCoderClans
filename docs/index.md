@@ -121,15 +121,15 @@
 
 === "記事"
 
+    2026-05-26
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年5月25日時点)](https://x.com/atcoder/status/2058728688733278698)
+
     2026-05-19
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年5月18日時点)](https://x.com/atcoder/status/2056222576431800320)
-
-    2026-05-11
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年5月11日時点)](https://x.com/atcoder/status/2053659828313260273)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -143,13 +143,6 @@
 
     - 「[ヒューリスティック部門 - Java](blogs/heuristic/java)」ページ
         - [rabot](https://atcoder.jp/users/rabot)さん - [Qiita](https://qiita.com/tanaka-a)
-
-=== "動画"
-
-    2026-05-10
-
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [りふぉげん研究所](https://www.youtube.com/@revogen_lab)
 
 === "SNS"
 
