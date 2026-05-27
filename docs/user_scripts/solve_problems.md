@@ -30,6 +30,10 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/atcoder_users.png" alt="atcoder users">
     </div>
 
+### 外部サービスから問題ページへ移動
+
+- [AtCoder Linkifier](https://greasyfork.org/ja/scripts/579410-atcoder-linkifier) - ブログやSNSなどの外部サービスで、テキストの問題番号にAtCoderの「問題」ページへのリンクを追加する。
+
 ## 問題を見る
 
 ### 一度に開く(特定のコンテスト)
