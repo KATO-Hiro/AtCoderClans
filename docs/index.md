@@ -96,6 +96,11 @@
 
 === "ユーザスクリプト"
 
+    2026-05-27
+
+    - 「[問題を解く](user_scripts/solve_problems)」ページ
+        - [AtCoder Linkifier](https://greasyfork.org/ja/scripts/579410-atcoder-linkifier)
+
     2026-05-24
 
     - 「[問題を解く](user_scripts/solve_problems)」ページ
@@ -174,11 +179,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [gonaka](https://atcoder.jp/users/gonaka)さん - [45歳からの競技プログラミング　～一周年＆入緑](https://note.com/gounaka/n/ne35ce1e08231)
-
-    2026-05-12
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [ringo_neko](https://atcoder.jp/users/ringo_neko)さん - [入緑した！！](https://note.com/sheep_program/n/n224f053819c0)
 
 ## AtCoder公式グッズを購入する
 
