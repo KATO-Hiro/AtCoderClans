@@ -175,10 +175,13 @@
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [suri1326](https://atcoder.jp/users/suri1326)さん - [コル・カロリ　入緑入力](https://note.com/seiram343/n/ncc89e487095a)
 
-    2026-05-13
+=== "アーカイブス"
 
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [gonaka](https://atcoder.jp/users/gonaka)さん - [45歳からの競技プログラミング　～一周年＆入緑](https://note.com/gounaka/n/ne35ce1e08231)
+    諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2026-05-28
+
+    - bug_finder
 
 ## AtCoder公式グッズを購入する
 
