@@ -697,6 +697,14 @@ title: 更新停止の可能性が高い
 
 - [kmyk/marathon-kit](https://github.com/kmyk/marathon-kit) ![GitHub Repo stars](https://img.shields.io/github/stars/kmyk/marathon-kit?style=plastic) - AtCoder Heuristic Contestのためのテンプレートレポジトリ。テストの並列実行、途中経過のビジュアライズ、GitHubでの自動テストが実行できる。
 
+### テストケースの生成・追加
+
+- [bug_finder](https://github.com/Eug1ena/bug_finder) ![GitHub Repo stars](https://img.shields.io/github/stars/Eug1ena/bug_finder?style=plastic) - テストケースをランダムに生成し、愚直な解法で実装したコードとバグを含むコードを比較できるツール。
+
+    !!! warning "注意"
+
+        対応言語は、C++17のみ。
+
 ## 関連コンテストサイト
 
 ### Codeforces

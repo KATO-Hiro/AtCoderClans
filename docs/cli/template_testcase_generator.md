@@ -22,12 +22,6 @@ title: テンプレート・テストケースを用意
 
 ## テストケースの生成・追加
 
-- [bug_finder](https://github.com/Eug1ena/bug_finder) ![GitHub Repo stars](https://img.shields.io/github/stars/Eug1ena/bug_finder?style=plastic) - テストケースをランダムに生成し、愚直な解法で実装したコードとバグを含むコードを比較できるツール。
-
-    !!! warning "注意"
-
-        対応言語は、C++17のみ。
-
 - [testcase-generator](https://github.com/naskya/testcase-generator) ![GitHub Repo stars](https://img.shields.io/github/stars/naskya/testcase-generator?style=plastic) - 多数のテストケース生成とテストの実行により、デバッグを支援するツール。
 
     <div align="center">
