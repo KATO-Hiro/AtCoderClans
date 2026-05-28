@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-05-28
+
+- [#12184](https://github.com/KATO-Hiro/AtCoderClans/pull/12184) - (破壊的な変更) 開発が停止していると思われるコマンドラインツールを「[Archives](../../archived)」ページに移動。
+    - bug_finder
+
 ### 2026-05-27
 
 - [#12180](https://github.com/KATO-Hiro/AtCoderClans/pull/12180) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
