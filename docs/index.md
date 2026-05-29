@@ -160,6 +160,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2026-05-29
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [tau0529](https://atcoder.jp/users/tau0529)さん - [【色変記事】青色コーダーになりました！！！](https://qiita.com/tau0529/items/69141c0ccae8d9c3737f)
+
     2026-05-21
 
     - 「[レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
@@ -169,11 +174,6 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [Prrapp](https://atcoder.jp/users/Prrapp)さん - [【色変記事】AtCoderで入茶しました](https://qiita.com/Prrapp/items/09c7c9fdba05354b88f3)
-
-    2026-05-14
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [suri1326](https://atcoder.jp/users/suri1326)さん - [コル・カロリ　入緑入力](https://note.com/seiram343/n/ncc89e487095a)
 
 === "アーカイブス"
 
