@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-05-29
+
+- [#12188](https://github.com/KATO-Hiro/AtCoderClans/pull/12188) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[tau0529](https://atcoder.jp/users/tau0529)さんの[記事](https://qiita.com/tau0529/items/69141c0ccae8d9c3737f)を追加。
+
 ### 2026-05-28
 
 - [#12184](https://github.com/KATO-Hiro/AtCoderClans/pull/12184) - (破壊的な変更) 開発が停止していると思われるコマンドラインツールを「[Archives](../../archived)」ページに移動。
