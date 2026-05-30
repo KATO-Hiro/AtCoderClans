@@ -109,6 +109,8 @@ title: 解説を読む
       <img loading="lazy" src="../../images/userscript/ac_revisit.png" alt="ac revisit">
     </div>
 
+- [AtCoder Markdown Copier](https://greasyfork.org/ja/scripts/580283-atcoder-markdown-copier) - 「問題」ページの問題文をクリップボードにコピーできる。数式やコードブロックは Markdown 記法で保持される。
+
 ### 外部サービス
 
 - [AtCoder Problems Marker](https://greasyfork.org/ja/scripts/395711-atcoder-problems-marker) - [AtCoder Problems](https://kenkoooo.com/atcoder/) で表示される問題に、ユーザが独自のマーカー(解説ACなど)を付けられるようにする。
