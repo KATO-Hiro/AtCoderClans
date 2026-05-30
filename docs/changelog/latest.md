@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-05-30
+
+- [#12192](https://github.com/KATO-Hiro/AtCoderClans/pull/12192) - 「[Scripts](../../scripts)」の「[解説を読む](../../user_scripts/read_editorials)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Markdown Copier](https://greasyfork.org/ja/scripts/580283-atcoder-markdown-copier)
+
 ### 2026-05-29
 
 - [#12188](https://github.com/KATO-Hiro/AtCoderClans/pull/12188) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
