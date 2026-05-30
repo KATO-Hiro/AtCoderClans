@@ -96,6 +96,11 @@
 
 === "ユーザスクリプト"
 
+    2026-05-30
+
+    - 「[解説を読む](user_scripts/read_editorials)」ページ
+        - [AtCoder Markdown Copier](https://greasyfork.org/ja/scripts/580283-atcoder-markdown-copier)
+
     2026-05-27
 
     - 「[問題を解く](user_scripts/solve_problems)」ページ
