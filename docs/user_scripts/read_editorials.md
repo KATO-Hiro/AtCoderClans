@@ -109,6 +109,12 @@ title: 解説を読む
       <img loading="lazy" src="../../images/userscript/ac_revisit.png" alt="ac revisit">
     </div>
 
+- [AtCoder Bookmark Manager](https://greasyfork.org/ja/scripts/575735-atcoder-bookmark-manager) - 復習したい問題を登録・検索できる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_bookmark_manager.png" alt="atcoder bookmark manager">
+    </div>
+
 - [AtCoder Markdown Copier](https://greasyfork.org/ja/scripts/580283-atcoder-markdown-copier) - 「問題」ページの問題文をクリップボードにコピーできる。数式やコードブロックは Markdown 記法で保持される。
 
 ### 外部サービス
