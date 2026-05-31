@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-05-31
+
+- [#12196](https://github.com/KATO-Hiro/AtCoderClans/pull/12196) - 「[Scripts](../../scripts)」の「[解説を読む](../../user_scripts/read_editorials)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Bookmark Manager](https://greasyfork.org/ja/scripts/575735-atcoder-bookmark-manager)
+
 ### 2026-05-30
 
 - [#12192](https://github.com/KATO-Hiro/AtCoderClans/pull/12192) - 「[Scripts](../../scripts)」の「[解説を読む](../../user_scripts/read_editorials)」ページに、以下のユーザスクリプトを追加。

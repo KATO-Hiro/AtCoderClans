@@ -96,6 +96,15 @@
 
 === "ユーザスクリプト"
 
+    2026-05-31
+
+    - 「[解説を読む](user_scripts/read_editorials)」ページ
+        - [AtCoder Bookmark Manager](https://greasyfork.org/ja/scripts/575735-atcoder-bookmark-manager)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_bookmark_manager.png" alt="atcoder bookmark manager">
+    </div>
+
     2026-05-30
 
     - 「[解説を読む](user_scripts/read_editorials)」ページ
@@ -123,11 +132,6 @@
     <div align="center">
       <img loading = "lazy" src="images/userscript/atcoder_all_samples_at_once.png" alt="atcoder all samples at once">
     </div>
-
-    2026-05-16
-
-    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
-        - [Atcoder Shorter Affiliation](https://greasyfork.org/ja/scripts/575455-atcoder-shorter-affiliation)
 
 === "記事"
 
