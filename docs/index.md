@@ -135,6 +135,11 @@
 
 === "記事"
 
+    2026-06-01
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年6月1日時点)](https://x.com/atcoder/status/2061270362953044221)
+
     2026-05-26
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -152,11 +157,6 @@
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [fact493](https://atcoder.jp/users/fact493)さん - [note](https://note.com/fact493)
-
-    2026-05-17
-
-    - 「[ヒューリスティック部門 - Java](blogs/heuristic/java)」ページ
-        - [rabot](https://atcoder.jp/users/rabot)さん - [Qiita](https://qiita.com/tanaka-a)
 
 === "SNS"
 
