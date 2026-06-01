@@ -7,10 +7,11 @@ title: コンテストに関する統計情報を見る
 ### 2026年
 
 - [AtCoder Junior League 2026 Summer - 学校ランキング](https://x.com/atcoder/status/2041002518285832232) - 中学および高校のアルゴリズム部門・ヒューリスティック部門の学校別ランキング。2026年4月6日時点。
-    - [2026年5月25日時点](https://x.com/atcoder/status/2058728688733278698)
+    - [2026年6月1日時点](https://x.com/atcoder/status/2061270362953044221)
 
     ??? info "これまでのランキング"
 
+        - [2026年5月25日時点](https://x.com/atcoder/status/2058728688733278698)
         - [2026年5月18日時点](https://x.com/atcoder/status/2056222576431800320)
         - [2026年5月11日時点](https://x.com/atcoder/status/2053659828313260273)
         - [2026年5月7日時点](https://x.com/atcoder/status/2052197200781008979)
