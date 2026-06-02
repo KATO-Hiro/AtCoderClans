@@ -150,14 +150,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年5月18日時点)](https://x.com/atcoder/status/2056222576431800320)
 
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2026-05-18
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [fact493](https://atcoder.jp/users/fact493)さん - [note](https://note.com/fact493)
-
 === "SNS"
 
     2026-05-22
@@ -168,6 +160,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-06-02
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [rapca](https://atcoder.jp/users/rapca)さん - [【色変記事】入水までにやったこと](https://qiita.com/Rapca/items/5aed01877d081cab26d7)
 
     2026-05-29
 

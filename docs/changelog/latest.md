@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-06-02
+
+- [#12210](https://github.com/KATO-Hiro/AtCoderClans/pull/12210) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[rapca](https://atcoder.jp/users/rapca)さんの[記事](https://qiita.com/Rapca/items/5aed01877d081cab26d7)を追加。
+
 ### 2026-06-01
 
 - [#12205](https://github.com/KATO-Hiro/AtCoderClans/pull/12205) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
