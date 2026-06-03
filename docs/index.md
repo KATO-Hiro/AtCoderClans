@@ -94,6 +94,17 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "Webアプリ・Webサイト"
+
+    2026-06-03
+
+    - 「[コンテストの成績を見る](web_app/view_and_compare_scores)」ページ
+        - [AtCoder Rating Visualizer](https://blueberry1001.github.io/#/atcoder-rating-visualizer)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/atcoder_rating_visualizer.png" alt="atcoder rating visualizer">
+    </div>
+
 === "ユーザスクリプト"
 
     2026-05-31
