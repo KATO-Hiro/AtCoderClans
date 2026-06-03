@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-06-03
+
+- [#12216](https://github.com/KATO-Hiro/AtCoderClans/pull/12216) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績を見る](../../web_app/view_and_compare_scores)」ページに、以下のWebサービスを追加。
+    - [AtCoder Rating Visualizer](https://blueberry1001.github.io/#/atcoder-rating-visualizer)
+
 ### 2026-06-02
 
 - [#12210](https://github.com/KATO-Hiro/AtCoderClans/pull/12210) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

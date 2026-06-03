@@ -94,6 +94,17 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "Webアプリ・Webサイト"
+
+    2026-06-03
+
+    - 「[コンテストの成績を見る](web_app/view_and_compare_scores)」ページ
+        - [AtCoder Rating Visualizer](https://blueberry1001.github.io/#/atcoder-rating-visualizer)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/atcoder_rating_visualizer.png" alt="atcoder rating visualizer">
+    </div>
+
 === "ユーザスクリプト"
 
     2026-05-31
@@ -144,11 +155,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年5月25日時点)](https://x.com/atcoder/status/2058728688733278698)
-
-    2026-05-19
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年5月18日時点)](https://x.com/atcoder/status/2056222576431800320)
 
 === "SNS"
 
