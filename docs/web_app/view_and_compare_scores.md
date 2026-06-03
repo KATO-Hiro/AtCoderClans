@@ -43,13 +43,10 @@ title: コンテストの成績を見る
       <img loading="lazy" src="../../images/web_app/atcoder_rating_comparer.png" alt="atcoder rating comparer">
     </div>
 
-- [AtCoder Rating Graph](https://github.com/hiramekun/AtCoderRatingGraph) - 任意のユーザのレーティングの推移を比較できる。
-
-    !!! warning "注意"
-        [Jupyter Notebook](https://jupyter.org/)の実行環境を用意する必要がある。
+- [AtCoder Rating Visualizer](https://blueberry1001.github.io/#/atcoder-rating-visualizer) - 任意のユーザ2人のレーティングの推移や差分を比較できる。
 
     <div align="center">
-      <img loading = "lazy" src="../../images/web_app/atcoder_rating_graph.png" alt="atcoder rating graph">
+      <img loading="lazy" src="../../images/web_app/atcoder_rating_visualizer.png" alt="atcoder rating visualizer">
     </div>
 
 ## パフォーマンス値を見る・比較する
