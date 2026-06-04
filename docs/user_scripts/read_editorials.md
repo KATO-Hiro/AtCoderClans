@@ -77,6 +77,14 @@ title: 解説を読む
       <img loading = "lazy" src="../../images/userscript/typical90_direct_editorial_link.png" alt="typical90 direct editorial link">
     </div>
 
+### AtCoder Algorithm Lectures
+
+- [AtCoder Algorithm Lectures Tab](https://greasyfork.org/ja/scripts/581144-atcoder-algorithm-lectures-tab) - ナビゲーションバーに「[AtCoder Algorithm Lectures](https://info.atcoder.jp/entry/algorithm_lectures/index)」へのリンクを追加する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_algorithm_lectures_tab.png" alt="atcoder algorithm lectures tab">
+    </div>
+
 ### 解説に投票
 
 - [AtCoder Editorial Voting](https://greasyfork.org/ja/scripts/492964-atcoder-editorial-voting) - 解説に投票できる。また、投票数にマウスのカーソルを合わせると、投票者のレーティング分布が表示される。
