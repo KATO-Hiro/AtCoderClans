@@ -107,6 +107,15 @@
 
 === "ユーザスクリプト"
 
+    2026-06-04
+
+    - 「[解説を読む](user_scripts/read_editorials)」ページ
+        - [AtCoder Algorithm Lectures Tab](https://greasyfork.org/ja/scripts/581144-atcoder-algorithm-lectures-tab)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_algorithm_lectures_tab.png" alt="atcoder algorithm lectures tab">
+    </div>
+
     2026-05-31
 
     - 「[解説を読む](user_scripts/read_editorials)」ページ
