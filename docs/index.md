@@ -155,6 +155,11 @@
 
 === "記事"
 
+    2026-06-05
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AtCoder Heuristic First-step Vol.2 「ビームサーチの特性と活用方法を知る」](https://www.youtube.com/watch?v=v3_XCHc0qYA)
+
     2026-06-01
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -185,16 +190,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [tau0529](https://atcoder.jp/users/tau0529)さん - [【色変記事】青色コーダーになりました！！！](https://qiita.com/tau0529/items/69141c0ccae8d9c3737f)
-
-    2026-05-21
-
-    - 「[レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
-        - [fact493](https://atcoder.jp/users/fact493)さん - [AtCoder 赤になりました - fact449933のブログ](https://fact493.hatenablog.com/entry/2026/05/20/005211)
-
-    2026-05-20
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [Prrapp](https://atcoder.jp/users/Prrapp)さん - [【色変記事】AtCoderで入茶しました](https://qiita.com/Prrapp/items/09c7c9fdba05354b88f3)
 
 === "アーカイブス"
 

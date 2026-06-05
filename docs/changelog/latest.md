@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-06-05
+
+- [#12224](https://github.com/KATO-Hiro/AtCoderClans/pull/12224) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の解説動画を追加。
+    - [AtCoder Heuristic First-step Vol.2 「ビームサーチの特性と活用方法を知る」](https://www.youtube.com/watch?v=v3_XCHc0qYA)
+
 ### 2026-06-04
 
 - [#12220](https://github.com/KATO-Hiro/AtCoderClans/pull/12220) - 「[Scripts](../../scripts)」の「[解説を読む](../../user_scripts/read_editorials)」ページに、以下のユーザスクリプトを追加。
