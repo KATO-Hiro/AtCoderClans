@@ -177,6 +177,7 @@ title: コンテストの成績や関連する統計情報を見る
     </div>
 
 - [AtCoder Recent Rating Graph](https://greasyfork.org/ja/scripts/580857-atcoder-recent-rating-graph) - 「ユーザ」ページにあるレーティンググラフのうち、直近 N か月（指定可能）の推移を表示する。
+
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_recent_rating_graph.png" alt="atcoder recent rating graph">
     </div>

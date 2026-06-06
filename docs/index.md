@@ -107,6 +107,15 @@
 
 === "ユーザスクリプト"
 
+    2026-06-06
+
+    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
+        - [AtCoder Recent Rating Graph](https://greasyfork.org/ja/scripts/580857-atcoder-recent-rating-graph)
+
+    <div align="center">
+      <img loading = "lazy" src="images/userscript/atcoder_recent_rating_graph.png" alt="atcoder recent rating graph">
+    </div>
+
     2026-06-04
 
     - 「[解説を読む](user_scripts/read_editorials)」ページ
@@ -169,13 +178,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年5月25日時点)](https://x.com/atcoder/status/2058728688733278698)
-
-=== "SNS"
-
-    2026-05-22
-
-    - 「[SNS](sns)」ページ
-        - [あとこ@AtCoderまとめブログ](https://x.com/atoco_matome)
 
 === "色変記事"
 
