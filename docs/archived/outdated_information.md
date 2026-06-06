@@ -272,6 +272,14 @@ title: 更新停止の可能性が高い
       <img loading = "lazy" src="../../images/userscript/atcoder_title_copy.png" alt="atcoder title copy">
     </div>
 
+### コンテストの成績や関連する統計情報を見る
+
+- [AtCoderRecentGraph](https://greasyfork.org/ja/scripts/418562-atcoderrecentgraph) - 「ユーザ」ページにあるレーティンググラフのうち、最近（注: 詳細は不明）の推移を表示する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_recent_graph.png" alt="atcoder recent graph">
+    </div>
+
 ### Webページに色付けする
 
 - [AtCoderDarkTheme](https://greasyfork.org/ja/scripts/388076-atcoderdarktheme) - ダークテーマに変更する。類似したスクリプトに、[AtCoder-Style-Changer](https://greasyfork.org/ja/scripts/429929-atcoder-style-changer)がある。
