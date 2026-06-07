@@ -48,6 +48,12 @@ title: コンテストの成績や関連する統計情報を見る
       <img loading = "lazy" src="../../images/userscript/atcoder_score_histogram.png" alt="atcoder score histogram">
     </div>
 
+- [AHC Score Graph](https://greasyfork.org/ja/scripts/580823-ahc-score-graph) - 「提出結果 - 自分の提出」ページに、得点の推移を折れ線グラフで表示する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/ahc_score_graph.png" alt="ahc score graph">
+    </div>
+
 - [AtCoderHeuristicContestBarChart](https://greasyfork.org/ja/scripts/477377-atcoderheuristiccontestbarchart) - 「順位表」ページに、各順位の総得点を棒グラフで表示する。[AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=AtCoder+Heuristic+Contest)のみ有効。
 
     !!! info "参考"
