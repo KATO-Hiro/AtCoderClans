@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-06-07
+
+- [#12232](https://github.com/KATO-Hiro/AtCoderClans/pull/12232) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
+    - [AHC Score Graph](https://greasyfork.org/ja/scripts/580823-ahc-score-graph)
+
 ### 2026-06-06
 
 - [#12229](https://github.com/KATO-Hiro/AtCoderClans/pull/12229) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。

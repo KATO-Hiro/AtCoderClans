@@ -107,6 +107,15 @@
 
 === "ユーザスクリプト"
 
+    2026-06-07
+
+    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
+        - [AHC Score Graph](https://greasyfork.org/ja/scripts/580823-ahc-score-graph)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/ahc_score_graph.png" alt="ahc score graph">
+    </div>
+
     2026-06-06
 
     - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
@@ -151,15 +160,6 @@
 
     <div align="center">
       <img loading="lazy" src="images/userscript/atcoder_title_copy2.png" alt="atcoder title copy">
-    </div>
-
-    2026-05-23
-
-    - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
-        - [AtCoder: すべての入出力を一度でコピー](https://greasyfork.org/ja/scripts/577855-atcoder-all-samples-at-once)
-
-    <div align="center">
-      <img loading = "lazy" src="images/userscript/atcoder_all_samples_at_once.png" alt="atcoder all samples at once">
     </div>
 
 === "記事"
