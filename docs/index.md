@@ -153,16 +153,12 @@
     - 「[問題を解く](user_scripts/solve_problems)」ページ
         - [AtCoder Linkifier](https://greasyfork.org/ja/scripts/579410-atcoder-linkifier)
 
-    2026-05-24
-
-    - 「[問題を解く](user_scripts/solve_problems)」ページ
-        - [AtCoder Title Copy](https://greasyfork.org/ja/scripts/577016-atcoder-title-copy)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_title_copy2.png" alt="atcoder title copy">
-    </div>
-
 === "記事"
+
+    2026-06-08
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AtCoder Heuristic Contest 066参加記](https://kaede2020.hatenablog.com/entry/2026/06/08/190204)
 
     2026-06-05
 
