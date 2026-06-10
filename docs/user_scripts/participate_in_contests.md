@@ -30,6 +30,8 @@ title: コンテストに参加する
       <img loading = "lazy" src="../../images/userscript/atcoder_unrated_button_disabler.png" alt="atcoder unrated button disabler">
     </div>
 
+- [Disable the Unrated button on AtCoder](https://greasyfork.org/ja/scripts/580554-disable-the-unrated-button-on-atcoder) - 各コンテストの「トップ」ページで、「Unrated参加登録」のボタンを押しても Rated で参加登録する。
+
 ## 企業コンテストの参加登録補助・記入ミスを防ぐ
 
 - [ac-register-checker](https://greasyfork.org/ja/scripts/467401-ac-register-checker) - 企業コンテストの参加登録フォームで、「あなたは日本国内に在住していますか」が「いいえ」の場合に警告を表示する。
