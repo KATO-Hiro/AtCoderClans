@@ -76,7 +76,6 @@ title: C&#43;&#43;
 |hakomo|[はてなブログ](https://hakomof.hatenablog.com/)||
 |hari64|[Qiita](https://qiita.com/hari64)||
 |Hec|[はてなブログ](https://osrehun.hatenadiary.jp/)||
-|hirayuu_At|[はてなブログ](https://halc-kyopro.hatenablog.com/)||
 |hirokazu1020|[はてなブログ](https://hirokazu1020.hatenablog.com/)||
 |hogloid|[はてなブログ](https://hogloid.hatenablog.com/)||
 |hotpepsi|[Qiita](https://qiita.com/hotpepsi)||
