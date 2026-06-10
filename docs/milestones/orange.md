@@ -29,7 +29,6 @@ title: レーティング2400〜2799(橙色)
 - [【AtCoder】橙に一瞬なりました - あめんばーどのバーチャル日記](https://amentorimaru.hatenablog.com/entry/2024/11/11/221155) - [amentorimaru](https://atcoder.jp/users/amentorimaru)さんが、2024年11月11日に公開。
 - [AtCoder 橙になりました！](https://note.com/keisuke6/n/n20f37585d93b) - [keisuke6](https://atcoder.jp/users/keisuke6)さんが、2024年9月30日に達成。
 - [AtCoder 橙色になりました - hiikunZのブログ](https://hiikunz.hatenablog.com/entry/achieve-orange) - [hiikunZ](https://atcoder.jp/users/hiikunZ)さんが、2024年8月11日に達成。
-- [【色変記事】橙になりました - halcの競プロ精進ブログ](https://halc-kyopro.hatenablog.com/entry/2024/06/11/203504) - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さんが、2024年6月11日に公開。
 - [AtCoder橙色になりました](https://qiita.com/sounansya/items/ff20b4e25f2f2316bffe) - [sounansya](https://atcoder.jp/users/sounansya)さんが、2024年5月19日に達成。
 - [AtCoder 黄色になりました！（橙→黄になっただけなので中身は入橙記事） - しょぼんブログ](https://shobon2019.hatenablog.com/entry/2024/04/01/103336) - [shobonvip](https://atcoder.jp/users/shobonvip)さんが、2024年4月1日に公開。
 - [橙コーダーになりました. - 仮のブログ](https://karinohito.hatenablog.com/entry/2024/02/19/080635) - [karinohito](https://atcoder.jp/users/karinohito)さんが、2024年2月18日に達成。

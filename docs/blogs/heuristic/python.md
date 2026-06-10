@@ -23,7 +23,6 @@ title: Python
 |:--:|:--:|:--|
 |ansain|[はてなブログ](https://ansain.hatenablog.com/)||
 |cozy_sauna|[Qiita](https://qiita.com/cozy_sauna/)||
-|hirayuu_At|[はてなブログ](https://halc-kyopro.hatenablog.com/)|C++で実装されている回答もある。|
 |isee|[Qiita](https://qiita.com/isee)|C++で実装されている回答もある。|
 |nishigake|[はてなブログ](https://blog.nishigake.net/posts)|C++で実装されている回答もある。|
 |titia|[Blogger](https://titianote.blogspot.com/)||

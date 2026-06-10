@@ -296,6 +296,8 @@ title: リンク切れ
 
 ## ブログ
 
+- |[はてなブログ - hirayuu_At](https://halc-kyopro.hatenablog.com/)
+    - 確認した日: 2026/06/10
 - [Qiita - bo9chan](https://qiita.com/bo9chan)
     - 確認した日: 2026/05/04
 - [はてなブログ - Nyaan](https://nyaan.hatenablog.com/)
@@ -533,11 +535,19 @@ title: リンク切れ
 
 ### レーティング2000〜2399(黄色)
 
+- [【色変記事】黄色くなったからいろいろ書く - halcの競プロ精進ブログ](https://halc-kyopro.hatenablog.com/entry/2023/10/19/140719) - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さんが、2023年10月7日に達成。
+    - 確認した日: 2026/06/10
+
 - [AtCoder黄色になりました](https://www.jackapp.jp/blog/d7384dc1-260e-4748-9bb8-bdb648f6f5fa) - [hirakuuuu](https://atcoder.jp/users/hirakuuuu)さんが、2024年12月24日に公開。
     - 確認した日: 2025/11/30
 
 - [AtCoder黄色になったよ](https://onsen-manjuuu.net/blog/posts/yellow.html) - [onsen_manjuuu](https://atcoder.jp/users/onsen_manjuuu)さんが、2024年4月27日に達成。
     - 確認した日: 2025/04/24
+
+### レーティング2400〜2799(橙色)
+
+- [【色変記事】橙になりました - halcの競プロ精進ブログ](https://halc-kyopro.hatenablog.com/entry/2024/06/11/203504) - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さんが、2024年6月11日に公開。
+    - 確認した日: 2026/06/10
 
 ### 休止
 
