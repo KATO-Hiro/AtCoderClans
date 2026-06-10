@@ -107,6 +107,11 @@
 
 === "ユーザスクリプト"
 
+    2026-06-10
+
+    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
+        - [Disable the Unrated button on AtCoder](https://greasyfork.org/ja/scripts/580554-disable-the-unrated-button-on-atcoder)
+
     2026-06-07
 
     - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
@@ -174,11 +179,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年6月1日時点)](https://x.com/atcoder/status/2061270362953044221)
-
-    2026-05-26
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年5月25日時点)](https://x.com/atcoder/status/2058728688733278698)
 
 === "色変記事"
 

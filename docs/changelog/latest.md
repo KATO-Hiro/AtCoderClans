@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-06-10
+
+- [#12247](https://github.com/KATO-Hiro/AtCoderClans/pull/12247) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
+    - [Disable the Unrated button on AtCoder](https://greasyfork.org/ja/scripts/580554-disable-the-unrated-button-on-atcoder)
+- [#12245](https://github.com/KATO-Hiro/AtCoderClans/pull/12245) - (破壊的な変更) リンク切れと思われるブログや記事を「[Archives](../../archived)」ページに移動。
+
 ### 2026-06-09
 
 - [#12205](https://github.com/KATO-Hiro/AtCoderClans/pull/12205) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
