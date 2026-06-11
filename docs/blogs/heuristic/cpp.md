@@ -110,6 +110,7 @@ title: C&#43;&#43;
 |tokumini|[はてなブログ](https://tokumini.hatenablog.com/)||
 |tsukasa_diary|[Qiita](https://qiita.com/tsukasa__diary)||
 |tsutaj|[はてなブログ](https://tsutaj.hatenablog.com/)||
+|winter_2521|[Qiita](https://qiita.com/winter_2521)||
 |YamagenSakam|[はてなブログ](https://yamagensakam.hatenablog.com/)||
 |yamunaku|[はてなブログ](https://yamunaku.hatenablog.com/)||
 |YuuuT|[はてなブログ](https://yukun-py.hatenablog.com/)||
