@@ -153,11 +153,6 @@
     - 「[解説を読む](user_scripts/read_editorials)」ページ
         - [AtCoder Markdown Copier](https://greasyfork.org/ja/scripts/580283-atcoder-markdown-copier)
 
-    2026-05-27
-
-    - 「[問題を解く](user_scripts/solve_problems)」ページ
-        - [AtCoder Linkifier](https://greasyfork.org/ja/scripts/579410-atcoder-linkifier)
-
 === "記事"
 
     2026-06-09
@@ -179,6 +174,20 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年6月1日時点)](https://x.com/atcoder/status/2061270362953044221)
+
+=== "ブログ"
+    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2026-06-11
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [winter_2521](https://atcoder.jp/users/winter_2521)さん - [Qiita](https://qiita.com/winter_2521)
+
+    - 「[ヒューリスティック部門 - Nim](blogs/heuristic/nim)」ページ
+        - [Ang107](https://atcoder.jp/users/Ang107)さん - [はてなブログ](https://ang107.hatenablog.jp/)
+
+    - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
+        - [cozy_sauna](https://atcoder.jp/users/cozy_sauna)さん - [Qiita](https://qiita.com/cozy_sauna/)
 
 === "色変記事"
 
