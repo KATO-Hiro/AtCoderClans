@@ -13,6 +13,7 @@ title: Rust
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
+|cozy_sauna|[Qiita](https://qiita.com/cozy_sauna/)||
 |ichyo|[はてなブログ](https://blog.ichyo.jp/)||
 |primenumber|[はてなブログ](https://primenumber.hatenadiary.jp/)||
 |semiexp|[自作ブログ](https://semiexp.net/blog/index.html)||

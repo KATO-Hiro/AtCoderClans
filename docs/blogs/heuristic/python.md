@@ -22,7 +22,6 @@ title: Python
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
 |ansain|[はてなブログ](https://ansain.hatenablog.com/)||
-|cozy_sauna|[Qiita](https://qiita.com/cozy_sauna/)||
 |isee|[Qiita](https://qiita.com/isee)|C++で実装されている回答もある。|
 |nishigake|[はてなブログ](https://blog.nishigake.net/posts)|C++で実装されている回答もある。|
 |titia|[Blogger](https://titianote.blogspot.com/)||
