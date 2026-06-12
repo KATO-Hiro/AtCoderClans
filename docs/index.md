@@ -196,7 +196,7 @@
     2026-06-12
 
     - 「[レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
-        - [Ang107](https://atcoder.jp/users/Ang107)さんが - [AtCoderヒューリスティックで赤色になった話【色変記事】 - Ang107kの日記](https://ang107.hatenablog.jp/entry/2026/06/11/222216)
+        - [Ang107](https://atcoder.jp/users/Ang107)さん - [AtCoderヒューリスティックで赤色になった話【色変記事】 - Ang107kの日記](https://ang107.hatenablog.jp/entry/2026/06/11/222216)
 
     2026-06-02
 
