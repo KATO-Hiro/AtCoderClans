@@ -7,7 +7,13 @@ title: レーティング2800〜(赤色、銅・銀・金王冠)
 
 ## 2026年
 
+### アルゴリズム部門
+
 - [AtCoder 赤になりました - fact449933のブログ](https://fact493.hatenablog.com/entry/2026/05/20/005211) - [fact493](https://atcoder.jp/users/fact493)さんが、2026年5月17日に達成。
+
+### ヒューリスティック部門
+
+- [AtCoderヒューリスティックで赤色になった話【色変記事】 - Ang107kの日記](https://ang107.hatenablog.jp/entry/2026/06/11/222216) - [Ang107](https://atcoder.jp/users/Ang107)さんが、2026年6月8日に達成。
 
 ## 2025年
 
