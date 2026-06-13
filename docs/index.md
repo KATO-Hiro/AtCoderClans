@@ -193,6 +193,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2026-06-13
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [alllllllllly](https://atcoder.jp/users/alllllllllly)さん - [【色変記事】緑うれしいね【AtCoder/競技プログラミング】](https://note.com/alllllllllly/n/n1e7673df2f27)
+
     2026-06-12
 
     - 「[レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
