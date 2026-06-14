@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-06-14
+
+- [#12262](https://github.com/KATO-Hiro/AtCoderClans/pull/12262) - 「[Scripts](../../scripts)」の「[Webページをより見やすく](../../chrome_extensions/improve_ui)」ページに、以下のChrome拡張機能を追加。
+    - [AtCoder Statement Lens](https://chromewebstore.google.com/detail/atcoder-statement-lens/ekoolnikabaabeeofcfmpmdpnmiejcmn)
+
 ### 2026-06-13
 
 - [#12259](https://github.com/KATO-Hiro/AtCoderClans/pull/12259) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

@@ -148,10 +148,16 @@
       <img loading="lazy" src="images/userscript/atcoder_bookmark_manager.png" alt="atcoder bookmark manager">
     </div>
 
-    2026-05-30
+=== "Chrome拡張機能"
 
-    - 「[解説を読む](user_scripts/read_editorials)」ページ
-        - [AtCoder Markdown Copier](https://greasyfork.org/ja/scripts/580283-atcoder-markdown-copier)
+    2026-06-14
+
+    - 「[Webページをより見やすく](chrome_extensions/improve_ui)」ページ
+        - [AtCoder Statement Lens](https://chromewebstore.google.com/detail/atcoder-statement-lens/ekoolnikabaabeeofcfmpmdpnmiejcmn)
+
+    <div align="center">
+      <img loading="lazy" src="images/chrome_extension/atcoder_statement_lens.png" alt="atcoder statement lens">
+    </div>
 
 === "記事"
 
