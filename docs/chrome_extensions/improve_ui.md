@@ -2,6 +2,14 @@
 title: Webページをより見やすく
 ---
 
+## 変数を識別しやすくする
+
+- [AtCoder Statement Lens](https://chromewebstore.google.com/detail/atcoder-statement-lens/ekoolnikabaabeeofcfmpmdpnmiejcmn) - 問題文の変数にマウスのカーソルを合わせると、ハイライトされて識別しやすくなる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/chrome_extension/atcoder_statement_lens.png" alt="atcoder statement lens">
+    </div>
+
 ## 回答のラベルをカスタマイズ
 
 - [AtCoder Label Customizer](https://chromewebstore.google.com/detail/atcoder-label-customizer/jfgmfcnlmgolnfadehfomajomolbadhl) - 「提出結果」ページで、回答状況を表すラベルの文字と背景色を変更できる。
