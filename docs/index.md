@@ -139,15 +139,6 @@
       <img loading="lazy" src="images/userscript/atcoder_algorithm_lectures_tab.png" alt="atcoder algorithm lectures tab">
     </div>
 
-    2026-05-31
-
-    - 「[解説を読む](user_scripts/read_editorials)」ページ
-        - [AtCoder Bookmark Manager](https://greasyfork.org/ja/scripts/575735-atcoder-bookmark-manager)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_bookmark_manager.png" alt="atcoder bookmark manager">
-    </div>
-
 === "Chrome拡張機能"
 
     2026-06-14
@@ -160,6 +151,11 @@
     </div>
 
 === "記事"
+
+    2026-06-15
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年6月15日時点)](https://x.com/atcoder/status/2066343999154335852)
 
     2026-06-09
 
