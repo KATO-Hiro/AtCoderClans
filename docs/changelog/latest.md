@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-06-16
+
+- [#12269](https://github.com/KATO-Hiro/AtCoderClans/pull/12269) - 「[Home](../..)」ページに、以下の記事を掲載。
+    - [言語更新 C++23 (GCC 15.2.0) 更新のお知らせ](https://atcoder.jp/posts/language_update20260616_jp)
+
 ### 2026-06-15
 
 - [#12266](https://github.com/KATO-Hiro/AtCoderClans/pull/12266) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。

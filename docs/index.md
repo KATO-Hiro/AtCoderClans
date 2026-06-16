@@ -93,6 +93,12 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "ホーム"
+
+    2026-06-16
+
+    - [言語更新 C++23 (GCC 15.2.0) 更新のお知らせ](https://atcoder.jp/posts/language_update20260616_jp)
+
 === "Webアプリ・Webサイト"
 
     2026-06-03
@@ -170,11 +176,6 @@
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AtCoder Heuristic First-step Vol.2 「ビームサーチの特性と活用方法を知る」](https://www.youtube.com/watch?v=v3_XCHc0qYA)
-
-    2026-06-01
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年6月1日時点)](https://x.com/atcoder/status/2061270362953044221)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
