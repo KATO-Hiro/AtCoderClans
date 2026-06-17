@@ -90,7 +90,6 @@ title: C&#43;&#43;
 |maple116|[はてなブログ](https://fuma-maple.hatenablog.com/)|2020年2月以降、新規の記事を確認できず。|
 |MMNMM|[はてなブログ](https://259-momone.hatenablog.com/)||
 |Motsu_xe|[はてなブログ](https://motsu-xe.hatenablog.com/)||
-|MtSaka|[はてなブログ](https://mt-saka.hatenablog.com)||
 |olphe|[はてなブログ](https://olphe.hatenablog.com/)||
 |omochana2|[はてなブログ](https://omochan.hatenablog.com/)||
 |pekempey|[はてなブログ](https://pekempey.hatenablog.com/)||

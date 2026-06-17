@@ -27,6 +27,14 @@ Always confirm the purpose of a file with the user before deleting it,
 even if a plan explicitly lists it for deletion.
 The actual role may differ from what the plan assumes.
 
+## Keep personal names out of commit messages
+
+Do not put user names or handles (AtCoder IDs, blog authors) in commit messages or PR titles.
+
+Pages list names on purpose, and `content.md` lets authors ask to be removed.
+Git history cannot be changed, so a name there can never be removed.
+Describe the change instead — e.g. "archive a dead blog link", not the author's name.
+
 ## Milestone check after contests
 
 After an AtCoder contest, use `/milestone-check <contest_id>` to detect newly eligible
