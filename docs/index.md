@@ -205,11 +205,6 @@
     - 「[レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
         - [Ang107](https://atcoder.jp/users/Ang107)さん - [AtCoderヒューリスティックで赤色になった話【色変記事】 - Ang107kの日記](https://ang107.hatenablog.jp/entry/2026/06/11/222216)
 
-    2026-06-02
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [rapca](https://atcoder.jp/users/rapca)さん - [【色変記事】入水までにやったこと](https://qiita.com/Rapca/items/5aed01877d081cab26d7)
-
 ## AtCoder公式グッズを購入する
 
 - [SUZURI](https://suzuri.jp/AtCoder) - [AtCoder](https://atcoder.jp/)のロゴ入りグッズが購入できる。
