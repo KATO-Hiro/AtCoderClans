@@ -296,6 +296,8 @@ title: リンク切れ
 
 ## ブログ
 
+- [はてなブログ - MtSaka](https://mt-saka.hatenablog.com)
+    - 確認した日: 2026/06/17
 - |[はてなブログ - hirayuu_At](https://halc-kyopro.hatenablog.com/)
     - 確認した日: 2026/06/10
 - [Qiita - bo9chan](https://qiita.com/bo9chan)
@@ -535,6 +537,9 @@ title: リンク切れ
 
 ### レーティング2000〜2399(黄色)
 
+- [【色変記事】AtCoder黄色になりました - MtSakaのブログ](https://mt-saka.hatenablog.com/entry/2022/02/14/204036) - [MtSaka](https://atcoder.jp/users/MtSaka)さんが、2022年2月13日に達成。
+    - 確認した日: 2026/06/17
+
 - [【色変記事】黄色くなったからいろいろ書く - halcの競プロ精進ブログ](https://halc-kyopro.hatenablog.com/entry/2023/10/19/140719) - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さんが、2023年10月7日に達成。
     - 確認した日: 2026/06/10
 
@@ -546,6 +551,8 @@ title: リンク切れ
 
 ### レーティング2400〜2799(橙色)
 
+- [【色変記事】AtCoder橙になりました - MtSakaのブログ](https://mt-saka.hatenablog.com/entry/2024/02/19/161655) - [MtSaka](https://atcoder.jp/users/MtSaka)さんが、2024年2月18日に達成。
+    - 確認した日: 2026/06/17
 - [【色変記事】橙になりました - halcの競プロ精進ブログ](https://halc-kyopro.hatenablog.com/entry/2024/06/11/203504) - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さんが、2024年6月11日に公開。
     - 確認した日: 2026/06/10
 
