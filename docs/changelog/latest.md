@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-06-18
+
+- [#12277](https://github.com/KATO-Hiro/AtCoderClans/pull/12277) - (破壊的な変更) 「[Change Log](../latest)」ページの2026年5月分を月別のアーカイブに移動。
+    - [May, 2026](../2026_05)
+
 ### 2026-06-17
 
 - [#12274](https://github.com/KATO-Hiro/AtCoderClans/pull/12274) - (破壊的な変更) リンク切れと思われるブログや記事を「[Archives](../../archived)」ページに移動。
