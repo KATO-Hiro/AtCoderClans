@@ -99,17 +99,6 @@
 
     - [言語更新 C++23 (GCC 15.2.0) 更新のお知らせ](https://atcoder.jp/posts/language_update20260616_jp)
 
-=== "Webアプリ・Webサイト"
-
-    2026-06-03
-
-    - 「[コンテストの成績を見る](web_app/view_and_compare_scores)」ページ
-        - [AtCoder Rating Visualizer](https://blueberry1001.github.io/#/atcoder-rating-visualizer)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/atcoder_rating_visualizer.png" alt="atcoder rating visualizer">
-    </div>
-
 === "ユーザスクリプト"
 
     2026-06-10
