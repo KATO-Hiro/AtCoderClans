@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-06-19
+
+- [#12281](https://github.com/KATO-Hiro/AtCoderClans/pull/12281) - 「[Related Contest Sites](../../related_contest_sites)」の「[数学系コンテスト](../../related_contest_sites/math)」ページに、以下のスクリプトを追加。
+    - [Disable the Unrated button on OMC](https://greasyfork.org/ja/scripts/580675-disable-the-unrated-button-on-omc)
+
 ### 2026-06-18
 
 - [#12277](https://github.com/KATO-Hiro/AtCoderClans/pull/12277) - (破壊的な変更) 「[Change Log](../latest)」ページの2026年5月分を月別のアーカイブに移動。
