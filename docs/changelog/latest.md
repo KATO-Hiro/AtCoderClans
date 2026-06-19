@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-06-20
+
+- [#12287](https://github.com/KATO-Hiro/AtCoderClans/pull/12287) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング400から799まで(茶色)に[kanta38](https://atcoder.jp/users/kanta38)さんの[記事](https://note.com/kan_38/n/n9af9671211d9)を追加。
+- [#12286](https://github.com/KATO-Hiro/AtCoderClans/pull/12286) - (破壊的な変更) 掲載内容が古くなったと思われる記事などを「[Archives](../../archived)」ページに移動。
+
 ### 2026-06-19
 
 - [#12281](https://github.com/KATO-Hiro/AtCoderClans/pull/12281) - 「[Related Contest Sites](../../related_contest_sites)」の「[数学系コンテスト](../../related_contest_sites/math)」ページに、以下のスクリプトを追加。

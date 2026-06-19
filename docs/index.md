@@ -124,15 +124,6 @@
       <img loading = "lazy" src="images/userscript/atcoder_recent_rating_graph.png" alt="atcoder recent rating graph">
     </div>
 
-    2026-06-04
-
-    - 「[解説を読む](user_scripts/read_editorials)」ページ
-        - [AtCoder Algorithm Lectures Tab](https://greasyfork.org/ja/scripts/581144-atcoder-algorithm-lectures-tab)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_algorithm_lectures_tab.png" alt="atcoder algorithm lectures tab">
-    </div>
-
 === "Chrome拡張機能"
 
     2026-06-14
@@ -161,11 +152,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AtCoder Heuristic Contest 066参加記](https://kaede2020.hatenablog.com/entry/2026/06/08/190204)
 
-    2026-06-05
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AtCoder Heuristic First-step Vol.2 「ビームサーチの特性と活用方法を知る」](https://www.youtube.com/watch?v=v3_XCHc0qYA)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -183,6 +169,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-06-20
+
+    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
+        - [kanta38](https://atcoder.jp/users/kanta38)さん - [入茶しました！！！嬉しい！！！](https://note.com/kan_38/n/n9af9671211d9)
 
     2026-06-13
 
