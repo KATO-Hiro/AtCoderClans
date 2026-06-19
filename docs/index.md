@@ -194,6 +194,13 @@
     - 「[レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
         - [Ang107](https://atcoder.jp/users/Ang107)さん - [AtCoderヒューリスティックで赤色になった話【色変記事】 - Ang107kの日記](https://ang107.hatenablog.jp/entry/2026/06/11/222216)
 
+=== "国内外のコンテストサイト"
+
+    2026-06-19
+
+    - 「[数学系コンテスト](related_contest_sites/math)」ページ
+        - [Disable the Unrated button on OMC](https://greasyfork.org/ja/scripts/580675-disable-the-unrated-button-on-omc)
+
 ## AtCoder公式グッズを購入する
 
 - [SUZURI](https://suzuri.jp/AtCoder) - [AtCoder](https://atcoder.jp/)のロゴ入りグッズが購入できる。
