@@ -10,6 +10,8 @@ title: 数学系コンテスト
 
 ### ユーザスクリプト
 
+- [Disable the Unrated button on OMC](https://greasyfork.org/ja/scripts/580675-disable-the-unrated-button-on-omc) - 「Unrated参加登録」のボタンを押しても Rated で参加登録する。
+
 - [OMC Difficult Pies](https://greasyfork.org/ja/scripts/537420-omc-difficult-pies) - 問題の回答状況を難易度別に円グラフで表示する。
 
     <div align="center">
