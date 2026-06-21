@@ -101,6 +101,13 @@
 
 === "ユーザスクリプト"
 
+    - 「[ネタスクリプト](user_scripts/jokes)」ページ
+        - [AtCoderChristmasTree](https://greasyfork.org/ja/scripts/583325-atcoderchristmastree)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_christmastree.png" alt="atcoder christmastree">
+    </div>
+
     2026-06-10
 
     - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
@@ -113,15 +120,6 @@
 
     <div align="center">
       <img loading="lazy" src="images/userscript/ahc_score_graph.png" alt="ahc score graph">
-    </div>
-
-    2026-06-06
-
-    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
-        - [AtCoder Recent Rating Graph](https://greasyfork.org/ja/scripts/580857-atcoder-recent-rating-graph)
-
-    <div align="center">
-      <img loading = "lazy" src="images/userscript/atcoder_recent_rating_graph.png" alt="atcoder recent rating graph">
     </div>
 
 === "Chrome拡張機能"

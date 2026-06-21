@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-06-21
+
+- [#12294](https://github.com/KATO-Hiro/AtCoderClans/pull/12294) - 「[Scripts](../../scripts)」の「[ネタスクリプト](../../user_scripts/jokes)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoderChristmasTree](https://greasyfork.org/ja/scripts/583325-atcoderchristmastree)
+
 ### 2026-06-20
 
 - [#12287](https://github.com/KATO-Hiro/AtCoderClans/pull/12287) - 「[Milestones](../../milestones/brown)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
