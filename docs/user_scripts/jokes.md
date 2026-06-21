@@ -99,6 +99,14 @@ title: ネタスクリプト
       <img loading = "lazy" src="../../images/userscript/toyota_mayuko_atcoder.png" alt="toyota mayuko atcoder">
     </div>
 
+## レーティングアイコンを装飾
+
+- [AtCoderChristmasTree](https://greasyfork.org/ja/scripts/583325-atcoderchristmastree) - 「プロフィール」ページのレーティングアイコン（通称、瓦）をクリスマスツリーにする。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_christmastree.png" alt="atcoder christmastree">
+    </div>
+
 ## 順位表にアイコンを追加
 
 - [AtCoder's greatest moment](https://greasyfork.org/ja/scripts/546264-atcoder-s-greatest-moment) - 「順位表」ページで、コンテスト中に1問も正解できなかったユーザ名の右側に☀️マークを表示する。
