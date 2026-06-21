@@ -101,6 +101,8 @@
 
 === "ユーザスクリプト"
 
+    2026-06-21
+
     - 「[ネタスクリプト](user_scripts/jokes)」ページ
         - [AtCoderChristmasTree](https://greasyfork.org/ja/scripts/583325-atcoderchristmastree)
 
