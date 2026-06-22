@@ -41,7 +41,6 @@ title: C&#43;&#43;
 |hamamu|[Qiita](https://qiita.com/hamamu)||
 |hitoare|[はてなブログ](https://hitoare.hatenablog.com/)||
 |iwashi31|[はてなブログ](https://iwashi31.hatenablog.com/)||
-|k1suxu|[はてなブログ](https://k1suxu.hatenablog.com/)||
 |kencho|[はてなブログ](https://kencho.hatenablog.com/)||
 |KKT89|[はてなブログ](https://kkt89.hatenablog.com/)||
 |kotamanegi|[はてなブログ](https://kotamanegi.hatenablog.com/)||
@@ -82,6 +81,7 @@ title: C&#43;&#43;
 |hogloid|[はてなブログ](https://hogloid.hatenablog.com/)||
 |hotpepsi|[Qiita](https://qiita.com/hotpepsi)||
 |itigo|[はてなブログ](https://ichigokunn.hatenablog.com/)||
+|k1suxu|[はてなブログ](https://k1suxu.hatenablog.com/)||
 |kaede2020|[はてなブログ](https://kaede2020.hatenablog.com/)||
 |kotatsugame|[はてなブログ](https://kotatsugame.hatenablog.com/)||
 |kusano|[はてなブログ](https://kusano-k.hatenablog.com/)、[Qiita](https://qiita.com/kusano_k)||

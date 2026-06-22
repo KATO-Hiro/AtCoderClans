@@ -115,15 +115,6 @@
     - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
         - [Disable the Unrated button on AtCoder](https://greasyfork.org/ja/scripts/580554-disable-the-unrated-button-on-atcoder)
 
-    2026-06-07
-
-    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
-        - [AHC Score Graph](https://greasyfork.org/ja/scripts/580823-ahc-score-graph)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/ahc_score_graph.png" alt="ahc score graph">
-    </div>
-
 === "Chrome拡張機能"
 
     2026-06-14
@@ -136,6 +127,11 @@
     </div>
 
 === "記事"
+
+    2026-06-22
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年6月22日時点)](https://x.com/atcoder/status/2068906956354691210)
 
     2026-06-15
 
@@ -154,6 +150,14 @@
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2026-06-22
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [KKT89](https://atcoder.jp/users/KKT89)さん - [はてなブログ](https://kkt89.hatenablog.com/)
+        - [k1suxu](https://atcoder.jp/users/k1suxu)さん - [はてなブログ](https://k1suxu.hatenablog.com/)
+        - [Not_Leonian](https://atcoder.jp/users/Not_Leonian)さん - [はてなブログ](https://not-leonian.hatenablog.com/)
+        - [sounansya](https://atcoder.jp/users/sounansya)さん - [Qiita](https://qiita.com/sounansya)
 
     2026-06-11
 
