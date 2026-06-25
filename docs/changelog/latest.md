@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-06-25
+
+- [#12318](https://github.com/KATO-Hiro/AtCoderClans/pull/12318) - 「[Home](../..)」ページに、以下の記事を掲載。
+    - [AHCにおける生成AIルールの変更予定について](https://atcoder.jp/posts/ahc_new_ai_rule_ja)
+
 ### 2026-06-24
 
 - [#12313](https://github.com/KATO-Hiro/AtCoderClans/pull/12313) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。

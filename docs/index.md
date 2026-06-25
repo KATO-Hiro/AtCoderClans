@@ -96,6 +96,10 @@
 
 === "ホーム"
 
+    2026-06-25
+
+    - [AHCにおける生成AIルールの変更予定について](https://atcoder.jp/posts/ahc_new_ai_rule_ja)
+
     2026-06-16
 
     - [言語更新 C++23 (GCC 15.2.0) 更新のお知らせ](https://atcoder.jp/posts/language_update20260616_jp)
@@ -110,11 +114,6 @@
     <div align="center">
       <img loading="lazy" src="images/userscript/atcoder_christmastree.png" alt="atcoder christmastree">
     </div>
-
-    2026-06-10
-
-    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
-        - [Disable the Unrated button on AtCoder](https://greasyfork.org/ja/scripts/580554-disable-the-unrated-button-on-atcoder)
 
 === "Chrome拡張機能"
 
