@@ -266,6 +266,8 @@ title: 更新停止の可能性が高い
 
 ### 問題を解く
 
+- [paste template](https://greasyfork.org/ja/scripts/441552-paste-template)
+
 - [Atcoder Title Copy](https://greasyfork.org/ja/scripts/434033-atcoder-title-copy) - 「問題」ページのタイトルをクリップボードにコピーできるボタンを追加する。
 
     <div align="center">
