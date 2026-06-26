@@ -133,11 +133,13 @@ title: 問題を解く
 
 ### テンプレートを利用
 
-- [AtCoder Template](https://greasyfork.org/ja/scripts/438105-atcoder-template) - 「問題」ページや「提出」ページで、言語別のテンプレートの登録・読み込み(自動・手動)をすることで、貼り付けの手間を減らせる。類似したスクリプトに「[paste template](https://greasyfork.org/ja/scripts/441552-paste-template)」がある。
+- [AtCoder Template](https://greasyfork.org/ja/scripts/438105-atcoder-template) - 「問題」ページや「提出」ページで、言語別のテンプレートの登録・読み込み(自動・手動)をすることで、貼り付けの手間を減らせる。
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_template.png" alt="atcoder template">
     </div>
+
+- [AtCoder Code Template](https://greasyfork.org/ja/scripts/584183-atcoder-code-template)
 
 ### コンテストIDをコピー
 
