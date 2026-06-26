@@ -106,6 +106,15 @@
 
 === "ユーザスクリプト"
 
+    2026-06-26
+
+    - 「[問題を解く](user_scripts/solve_problems)」ページ
+        - [AtCoder Code Template](https://greasyfork.org/ja/scripts/584183-atcoder-code-template)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_code_template.png" alt="atcoder code template">
+    </div>
+
     2026-06-21
 
     - 「[ネタスクリプト](user_scripts/jokes)」ページ
@@ -153,17 +162,6 @@
         - [k1suxu](https://atcoder.jp/users/k1suxu)さん - [はてなブログ](https://k1suxu.hatenablog.com/)
         - [Not_Leonian](https://atcoder.jp/users/Not_Leonian)さん - [はてなブログ](https://not-leonian.hatenablog.com/)
         - [sounansya](https://atcoder.jp/users/sounansya)さん - [Qiita](https://qiita.com/sounansya)
-
-    2026-06-11
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [winter_2521](https://atcoder.jp/users/winter_2521)さん - [Qiita](https://qiita.com/winter_2521)
-
-    - 「[ヒューリスティック部門 - Nim](blogs/heuristic/nim)」ページ
-        - [Ang107](https://atcoder.jp/users/Ang107)さん - [はてなブログ](https://ang107.hatenablog.jp/)
-
-    - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
-        - [cozy_sauna](https://atcoder.jp/users/cozy_sauna)さん - [Qiita](https://qiita.com/cozy_sauna/)
 
 === "色変記事"
 
