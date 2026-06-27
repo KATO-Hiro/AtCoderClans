@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-06-27
+
+- [#12328](https://github.com/KATO-Hiro/AtCoderClans/pull/12328) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[TrueRyoB](https://atcoder.jp/users/TrueRyoB)さんの[記事](https://qiita.com/TrueRyoB/items/124d3d9d494b17a7c263)を追加。
+
 ### 2026-06-26
 
 - [#12324](https://github.com/KATO-Hiro/AtCoderClans/pull/12324) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
