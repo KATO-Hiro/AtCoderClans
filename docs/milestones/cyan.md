@@ -4,6 +4,7 @@ title: レーティング1200〜1599(水色)
 
 ## 2026年
 
+- [10ヶ月停滞した大学生が、ある日突然黄色perfを出して入水しました](https://qiita.com/TrueRyoB/items/124d3d9d494b17a7c263) - [TrueRyoB](https://atcoder.jp/users/TrueRyoB)さんが、2026年6月20日に達成。
 - [AtCoderで入水しました](https://qiita.com/taka743/items/e0be10494a1bb4c5af6c) - [taka743](https://atcoder.jp/users/taka743)さんが、2026年6月21日に公開。
 - [【色変記事】入水までにやったこと](https://qiita.com/Rapca/items/5aed01877d081cab26d7) - [rapca](https://atcoder.jp/users/rapca)さんが、2026年5月30日に達成。
 - [数狂、遂に入水達成(入水の心得3つ)](https://qiita.com/Youteru/items/074eafe7fc7b693aca39) - [Youteru](https://atcoder.jp/users/Youteru)さんが、2026年4月4日に達成。
