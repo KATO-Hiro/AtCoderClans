@@ -22,25 +22,35 @@
 
 ---
 
-## Step 1: Fetch results
+## Step 1: Fetch & filter crossers (deterministic)
 
-Use the JSON endpoint — the HTML page is dynamically rendered and returns no data:
+Run the helper script. It fetches the full results JSON and prints only the JP threshold-crossers:
 
 ```
-GET https://atcoder.jp/contests/{contest_id}/results/json
+python3 .claude/skills/milestone-check/crossers.py {contest_id}
 ```
 
-Extract **Japanese users only** (`Country: "JP"`) who cross a threshold:
+It applies, per row: `Country == "JP"`, `IsRated == true`, integer ratings, and
+`old < threshold <= new` — keeping only the **highest** threshold crossed
+(thresholds 2000 / 2400 / 2800 / 3200).
 
-| Threshold | Condition                                    |
-|-----------|----------------------------------------------|
-| 2000      | `new_rating >= 2000` and `old_rating < 2000` |
-| 2400      | `new_rating >= 2400` and `old_rating < 2400` |
-| 2800      | `new_rating >= 2800` and `old_rating < 2800` |
-| 3200      | `new_rating >= 3200` and `old_rating < 3200` |
+Do **not** use WebFetch on the results JSON: it truncates to ~200 of 10000+ rows and its
+summarizer mis-counts. Do **not** use `curl` (denied by project settings); the script uses
+`python3`, which is allowed.
 
-- Skip rows where rating is `----`.
-- Multi-threshold crossers count only for the highest threshold.
+## Step 1.5: Verify each candidate
+
+Confirm each crossing via the user's small history JSON (`old -> new` for the contest entry):
+
+```
+https://atcoder.jp/users/{username}/history/json
+```
+
+Fetch with WebFetch (small page, not truncated) or python3. A non-existent handle returns `[]` —
+use this to catch typos / wrong case before concluding a user is missing.
+
+Etiquette: the Step 1 results fetch is a single request (no sleep needed). When iterating per-user
+requests here or in Step 3, keep `sleep 1` between them and avoid firing many in parallel.
 
 ---
 
@@ -67,15 +77,17 @@ Check the following in order — stop processing a user as soon as a reason to s
 
 **Only for users not found in Step 2.**
 
-Check in order; record all found URLs — do not stop at the first match.
+Check all of these; record every found URL — do not stop at the first match.
 
 1. `https://atcoder.jp/users/{username}` — profile page blog link
-2. `https://qiita.com/{username}` — 404 = not present
-3. `https://zenn.dev/{username}` — 404 = not present
-4. `https://note.com/{username}` — 404 = not present
-5. Web search: `"{username}" AtCoder はてなブログ`
+2. `https://qiita.com/{username}` — also try the lowercase handle
+3. `https://zenn.dev/{username}` — also try the lowercase handle (Zenn handles are often lowercase)
+4. `https://note.com/{username}` — also try the lowercase handle
+5. **Always** web search `"{username}" AtCoder はてなブログ` (do this even if a platform matched —
+   Hatena / custom-domain blogs are not reachable by handle pattern).
 
-**If no blog found, record as "Not found" for reporting.**
+A 404 on a pattern URL means only that *that* platform/handle is absent — **not** that the user
+has no blog. Conclude "Not found" only after the web search also turns up nothing.
 
 ---
 
@@ -87,6 +99,8 @@ Fetch: `https://atcoder.jp/contests/{contest_id}/submissions?f.User={username}`
 
 - Use the most frequently submitted language in this contest.
 - Tie-break: prefer the language for the hardest problem solved (latest letter, e.g. F > D).
+- WebFetch may return a sign-in page for this URL. If so, fall back to: the language stated in the
+  found blog, then `https://atcoder.jp/users/{username}` (last 10 contests).
 - If zero submissions: check `https://atcoder.jp/users/{username}` (last 10 contests).
 
 ---
