@@ -163,6 +163,13 @@
         - [Not_Leonian](https://atcoder.jp/users/Not_Leonian)さん - [はてなブログ](https://not-leonian.hatenablog.com/)
         - [sounansya](https://atcoder.jp/users/sounansya)さん - [Qiita](https://qiita.com/sounansya)
 
+=== "コマンドラインツール"
+
+    2026-06-28
+
+    - 「[提出に関する補助ツール](cli/tools_for_submission)」ページ
+        - [acac-cli](https://github.com/RyosukeDTomita/acac-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/RyosukeDTomita/acac-cli?style=plastic)
+
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
@@ -182,22 +189,20 @@
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [kanta38](https://atcoder.jp/users/kanta38)さん - [入茶しました！！！嬉しい！！！](https://note.com/kan_38/n/n9af9671211d9)
 
-    2026-06-13
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [alllllllllly](https://atcoder.jp/users/alllllllllly)さん - [【色変記事】緑うれしいね【AtCoder/競技プログラミング】](https://note.com/alllllllllly/n/n1e7673df2f27)
-
-    2026-06-12
-
-    - 「[レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
-        - [Ang107](https://atcoder.jp/users/Ang107)さん - [AtCoderヒューリスティックで赤色になった話【色変記事】 - Ang107kの日記](https://ang107.hatenablog.jp/entry/2026/06/11/222216)
-
 === "国内外のコンテストサイト"
 
     2026-06-19
 
     - 「[数学系コンテスト](related_contest_sites/math)」ページ
         - [Disable the Unrated button on OMC](https://greasyfork.org/ja/scripts/580675-disable-the-unrated-button-on-omc)
+
+=== "アーカイブス"
+
+    諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2026-06-28
+
+    - atcoder-numba
 
 ## AtCoder公式グッズを購入する
 

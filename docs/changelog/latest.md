@@ -6,6 +6,11 @@ title: Change Log
 
 ### 2026-06-27
 
+- [#12332](https://github.com/KATO-Hiro/AtCoderClans/pull/12332) - 「[Command line tools](../../cli)」の「[提出に関する補助ツール](../../cli/tools_for_submission)」ページに以下のコマンドラインツールを追加。
+    - [acac-cli](https://github.com/RyosukeDTomita/acac-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/RyosukeDTomita/acac-cli?style=plastic)
+
+### 2026-06-27
+
 - [#12328](https://github.com/KATO-Hiro/AtCoderClans/pull/12328) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
     - レーティング1200から1599まで(水色)に[TrueRyoB](https://atcoder.jp/users/TrueRyoB)さんの[記事](https://qiita.com/TrueRyoB/items/124d3d9d494b17a7c263)を追加。
 

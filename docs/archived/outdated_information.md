@@ -742,6 +742,10 @@ title: 更新停止の可能性が高い
 
         対応言語は、C++17のみ。
 
+### ソースコードの高速化
+
+- [atcoder-numba](https://github.com/pyatcoder/atcoder-numba) ![GitHub Repo stars](https://img.shields.io/github/stars/pyatcoder/atcoder-numba?style=plastic) - NumbaのJITを使用したコードをAOT(事前)コンパイルして、提出することができる。Pythonのパッケージ管理システムであるpipが必要。
+
 ## 関連コンテストサイト
 
 ### Codeforces
