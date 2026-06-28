@@ -4,12 +4,6 @@ title: 提出に関する補助ツール
 
 ソースコードの提出前後において、便利な補助ツールを掲載しています。
 
-## ソースコードの高速化
-
-### Python
-
-- [atcoder-numba](https://github.com/pyatcoder/atcoder-numba) ![GitHub Repo stars](https://img.shields.io/github/stars/pyatcoder/atcoder-numba?style=plastic) - NumbaのJITを使用したコードをAOT(事前)コンパイルして、提出することができる。Pythonのパッケージ管理システムであるpipが必要。
-
 ## 提出コードを暗号化
 
 - [rain](https://github.com/nahco314/rain) ![GitHub Repo stars](https://img.shields.io/github/stars/nahco314/rain?style=plastic) - C++、Pythonで書かれた提出用コードを暗号化して、第三者が閲覧やコピーアンドペーストできないようにする。利用にあたっては、Pythonのパッケージマネージャの一つである[rye](https://github.com/mitsuhiko/rye)をインストールする必要がある。
