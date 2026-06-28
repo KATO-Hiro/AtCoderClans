@@ -18,6 +18,14 @@ title: 提出に関する補助ツール
       <img loading = "lazy" src="../../images/cli/rain.png" alt="rain">
     </div>
 
+## 問題の正解状況を確認する
+
+- [acac-cli](https://github.com/RyosukeDTomita/acac-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/RyosukeDTomita/acac-cli?style=plastic) - 正解した問題数や問題の一覧を確認できる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/cli/acac-cli.png" alt="acac-cli">
+    </div>
+
 ## 提出コードを確認する
 
 - [atcoder-submit-status](https://github.com/ngng628/atcoder-submit-status) ![GitHub Repo stars](https://img.shields.io/github/stars/ngng628/atcoder-submit-status?style=plastic) - ソースコードの提出状況を確認できる。
