@@ -4,7 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
-### 2026-06-27
+### 2026-06-29
+
+- [#12340](https://github.com/KATO-Hiro/AtCoderClans/pull/12340) - 「[Milestones](../../milestones/red)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2800以上(赤色、銅王冠、銀王冠、金王冠)に[yuma220284](https://atcoder.jp/users/yuma220284)さんの[記事](https://yuma220284.hatenablog.com/entry/2026/06/29/014020)を追加。
+- [#12339](https://github.com/KATO-Hiro/AtCoderClans/pull/12339) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+
+### 2026-06-28
 
 - [#12332](https://github.com/KATO-Hiro/AtCoderClans/pull/12332) - 「[Command line tools](../../cli)」の「[提出に関する補助ツール](../../cli/tools_for_submission)」ページに以下のコマンドラインツールを追加。
     - [acac-cli](https://github.com/RyosukeDTomita/acac-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/RyosukeDTomita/acac-cli?style=plastic)

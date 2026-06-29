@@ -124,17 +124,6 @@
       <img loading="lazy" src="images/userscript/atcoder_christmastree.png" alt="atcoder christmastree">
     </div>
 
-=== "Chrome拡張機能"
-
-    2026-06-14
-
-    - 「[Webページをより見やすく](chrome_extensions/improve_ui)」ページ
-        - [AtCoder Statement Lens](https://chromewebstore.google.com/detail/atcoder-statement-lens/ekoolnikabaabeeofcfmpmdpnmiejcmn)
-
-    <div align="center">
-      <img loading="lazy" src="images/chrome_extension/atcoder_statement_lens.png" alt="atcoder statement lens">
-    </div>
-
 === "記事"
 
     2026-06-23
@@ -155,6 +144,11 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2026-06-29
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [yuma220284](https://atcoder.jp/users/yuma220284)さん - [はてなブログ](https://yuma220284.hatenablog.com/)
+
     2026-06-22
 
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
@@ -173,6 +167,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-06-29
+
+    - 「[レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
+        - [yuma220284](https://atcoder.jp/users/yuma220284)さん - [AtCoder赤になりました - yuma220284's diary](https://yuma220284.hatenablog.com/entry/2026/06/29/014020)
 
     2026-06-27
 
