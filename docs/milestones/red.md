@@ -9,6 +9,7 @@ title: レーティング2800〜(赤色、銅・銀・金王冠)
 
 ### アルゴリズム部門
 
+- [AtCoder赤になりました - yuma220284's diary](https://yuma220284.hatenablog.com/entry/2026/06/29/014020) - [yuma220284](https://atcoder.jp/users/yuma220284)さんが、2026年6月28日に達成。
 - [AtCoder 赤になりました - fact449933のブログ](https://fact493.hatenablog.com/entry/2026/05/20/005211) - [fact493](https://atcoder.jp/users/fact493)さんが、2026年5月17日に達成。
 
 ### ヒューリスティック部門
