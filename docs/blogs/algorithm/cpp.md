@@ -56,6 +56,7 @@ title: C&#43;&#43;
 |tozangezan|[はてなブログ](https://tozangezan.hatenablog.com/)||
 |WA_TLE|[はてなブログ](https://watle.hatenablog.com/)|2019年1月以降、新規の記事を確認できず。|
 |yosupo|[はてなブログ](https://yosupo.hatenablog.com/)||
+|yuma220284|[はてなブログ](https://yuma220284.hatenablog.com/)||
 
 ## レーティング2400〜2799(橙色)
 
@@ -114,7 +115,6 @@ title: C&#43;&#43;
 |wafrelka|[はてなブログ](https://wafrelka.hatenablog.jp/)|2018年10月以降、新規の記事を確認できず。|
 |yamunaku|[はてなブログ](https://yamunaku.hatenablog.com/)||
 |ynymxiaolongbao|[はてなブログ](https://segtree.hatenablog.com/)||
-|yuma220284|[はてなブログ](https://yuma220284.hatenablog.com/)||
 
 ## レーティング2000〜2399(黄色)
 
