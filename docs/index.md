@@ -126,6 +126,11 @@
 
 === "記事"
 
+    2026-06-30
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年6月29日時点)](https://x.com/atcoder/status/2071416075502469475)
+
     2026-06-23
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -135,11 +140,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年6月22日時点)](https://x.com/atcoder/status/2068906956354691210)
-
-    2026-06-15
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年6月15日時点)](https://x.com/atcoder/status/2066343999154335852)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
