@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-07-01
+
+- [#12350](https://github.com/KATO-Hiro/AtCoderClans/pull/12350) - 「[Home](../..)」ページに、以下の記事を掲載。
+    - [AtCoderにおける提出ソースコードのAI事業者向け販売と、それに伴う利用規約・プライバシーポリシー変更についてのお知らせ](https://atcoder.jp/posts/opt-out-notify-jp)
+
 ### 2026-06-30
 
 - [#12346](https://github.com/KATO-Hiro/AtCoderClans/pull/12346) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
