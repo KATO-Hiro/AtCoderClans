@@ -100,13 +100,13 @@
 
 === "ホーム"
 
+    2026-07-01
+
+    - [AtCoderにおける提出ソースコードのAI事業者向け販売と、それに伴う利用規約・プライバシーポリシー変更についてのお知らせ](https://atcoder.jp/posts/opt-out-notify-jp)
+
     2026-06-25
 
     - [AHCにおける生成AIルールの変更予定について](https://atcoder.jp/posts/ahc_new_ai_rule_ja)
-
-    2026-06-16
-
-    - [言語更新 C++23 (GCC 15.2.0) 更新のお知らせ](https://atcoder.jp/posts/language_update20260616_jp)
 
 === "ユーザスクリプト"
 
