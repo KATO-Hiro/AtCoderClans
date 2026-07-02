@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-07-02
+
+- [#12355](https://github.com/KATO-Hiro/AtCoderClans/pull/12355) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[Tehom](https://atcoder.jp/users/Tehom)さんの[記事](https://qiita.com/tehom_math/items/2c2d0b919376d8c10650)を追加。
+    - レーティング1600から1999まで(青色)に[mkreem](https://atcoder.jp/users/mkreem)さんの[記事](https://qiita.com/mkreem/items/f6941f6bbf932871a3f2)を追加。
+
 ### 2026-07-01
 
 - [#12350](https://github.com/KATO-Hiro/AtCoderClans/pull/12350) - 「[Home](../..)」ページに、以下の記事を掲載。
