@@ -172,6 +172,12 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2026-07-02
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [Tehom](https://atcoder.jp/users/Tehom)さん - [AtCoder入青しました](https://qiita.com/tehom_math/items/2c2d0b919376d8c10650)
+        - [mkreem](https://atcoder.jp/users/mkreem)さん - [【入青】凡人が青コーダーになるために](https://qiita.com/mkreem/items/f6941f6bbf932871a3f2)
+
     2026-06-29
 
     - 「[レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
