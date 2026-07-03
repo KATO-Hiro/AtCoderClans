@@ -4,7 +4,7 @@ title: コードを書くための環境構築を行う
 
 !!! info "参考"
 
-    以下の記事は、2026年4月までに公開・更新されたものです。随時、最新の内容を追加する予定です。
+    以下の記事は、2026年6月までに公開・更新されたものです。随時、最新の内容を追加する予定です。
 
 !!! warning "注意"
 
@@ -50,7 +50,10 @@ title: コードを書くための環境構築を行う
 
 ### Python
 
-- [Docker+VSCodeでAtCoder用の開発環境を簡単に作る(Python編)](https://qiita.com/malleroid/items/ab83b5ffb8ddfd58a4d3) - Pythonの実行環境を構築できる。また、コマンドでコンテスト用のファイル生成、テストの実行、コードの提出も可能。
+Pythonの実行環境を構築できる。また、コマンドでコンテスト用のファイル生成、テストの実行、コードの提出なども可能。
+
+- [VS Code Dev ContainerでAtCoderのCLI環境を一発構築する](https://qiita.com/jala/items/a10dbb6ed8aaed6b2d23) - [aclogin](https://github.com/key-moon/aclogin) ![GitHub stars](https://img.shields.io/github/stars/key-moon/aclogin?style=plastic)を利用したログイン方法も紹介されている。
+- [Docker+VSCodeでAtCoder用の開発環境を簡単に作る(Python編)](https://qiita.com/malleroid/items/ab83b5ffb8ddfd58a4d3)
 
 ### Rust
 
