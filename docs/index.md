@@ -130,6 +130,11 @@
 
 === "記事"
 
+    2026-07-03
+
+    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
+        - [VS Code Dev ContainerでAtCoderのCLI環境を一発構築する](https://qiita.com/jala/items/a10dbb6ed8aaed6b2d23)
+
     2026-06-30
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ

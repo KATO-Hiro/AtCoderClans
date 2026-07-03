@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-07-03
+
+- [#12361](https://github.com/KATO-Hiro/AtCoderClans/pull/12361) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。
+    - [VS Code Dev ContainerでAtCoderのCLI環境を一発構築する](https://qiita.com/jala/items/a10dbb6ed8aaed6b2d23)
+
 ### 2026-07-02
 
 - [#12355](https://github.com/KATO-Hiro/AtCoderClans/pull/12355) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
