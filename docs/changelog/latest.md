@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-07-04
+
+- [#12364](https://github.com/KATO-Hiro/AtCoderClans/pull/12364) - 「[Related Contest Sites](../../related_contest_sites)」の「[ICPC (国際大学対抗プログラミングコンテスト)](../../related_contest_sites/icpc)」ページに、以下の記事を追加。
+    - [ICPC2026 国内予選参加記 (Aobayama_BlueMountain, nonon 視点)](https://nononmath.hatenablog.com/entry/2026/07/04/072550)
+
 ### 2026-07-03
 
 - [#12361](https://github.com/KATO-Hiro/AtCoderClans/pull/12361) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コードを書くための環境構築を行う](../../articles/development_env)」ページに、以下の記事を追加。
