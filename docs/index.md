@@ -205,10 +205,10 @@
 
 === "国内外のコンテストサイト"
 
-    2026-06-19
+    2026-07-04
 
-    - 「[数学系コンテスト](related_contest_sites/math)」ページ
-        - [Disable the Unrated button on OMC](https://greasyfork.org/ja/scripts/580675-disable-the-unrated-button-on-omc)
+    - 「[ICPC (国際大学対抗プログラミングコンテスト)](related_contest_sites/icpc)」ページ
+        - [ICPC2026 国内予選参加記 (Aobayama_BlueMountain, nonon 視点)](https://nononmath.hatenablog.com/entry/2026/07/04/072550)
 
 === "アーカイブス"
 
