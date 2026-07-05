@@ -100,6 +100,14 @@ title: 更新停止の可能性が高い
       <img loading = "lazy" src="../../images/web_app/atcoder_strategies.png" alt="atcoder strategies">
     </div>
 
+### ビジュアライザフレームワーク
+
+- [Marathon General Visualizer](https://github.com/kyuridenamida/marathon-general-visualizer) ![GitHub Repo stars](https://img.shields.io/github/stars/kyuridenamida/marathon-general-visualizer?style=plastic) - ヒューリスティック型コンテストにおける入出力の結果をリアルタイムで表示させるためのビジュアライザフレームワーク。問題に応じて、表示する内容をカスタマイズできる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/marathon_general_visualizer.png" alt="marathon general visualizer">
+    </div>
+
 ### ヒューリスティック問題の入出力を可視化
 
 - [ahc001-gen-vis-wasm](https://kenkoooo.github.io/ahc001-gen-vis-wasm/) - [AtCoder Heuristic Contest 001](https://atcoder.jp/contests/ahc001)で提供されている入力ジェネレータとビジュアライザをWebブラウザから利用することできる。ソースコードは、[GitHub](https://github.com/kenkoooo/ahc001-gen-vis-wasm) ![GitHub Repo stars](https://img.shields.io/github/stars/kenkoooo/ahc001-gen-vis-wasm?style=plastic)で公開されている。

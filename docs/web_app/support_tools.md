@@ -110,14 +110,6 @@ title: 問題を解くときの補助ツール
 !!! warning "注意"
     コンテスト期間中に関連ツールなどを公開する場合は、事前に運営チームへの問い合わせと了承を得ておくことを強く推奨いたします([参考](https://twitter.com/maspy_stars/status/1368224269671395331))。
 
-### ビジュアライザフレームワーク
-
-- [Marathon General Visualizer](https://github.com/kyuridenamida/marathon-general-visualizer) ![GitHub Repo stars](https://img.shields.io/github/stars/kyuridenamida/marathon-general-visualizer?style=plastic) - ヒューリスティック型コンテストにおける入出力の結果をリアルタイムで表示させるためのビジュアライザフレームワーク。問題に応じて、表示する内容をカスタマイズできる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/marathon_general_visualizer.png" alt="marathon general visualizer">
-    </div>
-
 ### ビジュアライザ
 
 - [AHC Vis Archiver](https://github.com/koyumeishi/ahc_vis_archiver) ![GitHub Repo stars](https://img.shields.io/github/stars/koyumeishi/ahc_vis_archiver?style=plastic) - [AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=AtCoder+Heuristic+Contest)のビジュアライザに関連するファイルをローカル環境に保存して実行できる。Pythonの実行環境と関連ライブラリのインストールが必要。
