@@ -49,6 +49,20 @@ title: 更新停止の可能性が高い
 
 ### 問題を解くときの補助ツール
 
+- [Sheep Visualize Graph Beta](https://binomialsheep.github.io/sheep-visualize-graph-beta/) - (ベータ版) グラフ理論に関する問題の入力例を可視化する。頂点を左クリック、もしくは、右クリックすると色を変えられる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images//web_app/sheep_visualize_graph_beta.png" alt="sheep visualize graph beta">
+    </div>
+
+- [グラフ可視化ツール](https://zeronosu77108.github.io/show-graph/) - 有向グラフ・無向グラフの入力例を可視化する。頂点だけでなく、辺の色も変えられる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/show_graph.png" alt="show graph">
+    </div>
+
+### 競技プログラミング専用のエディタ
+
 - [Rujaion](https://github.com/fukatani/rujaion) ![GitHub Repo stars](https://img.shields.io/github/stars/fukatani/rujaion?style=plastic) - 競技プログラミングのためのRust IDE。C++とPythonも試験的にサポートされている。サンプルのテスト、解答コードの提出、コードの補完・移動・自動整形、テンプレートの生成、グラフの構造の可視化などの機能がある。
 
     <div align="center">
