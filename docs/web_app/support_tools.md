@@ -10,17 +10,6 @@ title: 問題を解くときの補助ツール
       <img loading = "lazy" src="../../images/web_app/simple_cpp_editor.png" alt="simple cpp editor">
     </div>
 
-## 問題文から提出用コードのテンプレートを作成
-
-- [online-judge-tools/template-generator-webapp](https://online-judge-tools.github.io/template-generator-webapp/) - コンテストの問題を解析して、提出用コードのテンプレートを出力する[Online Judge Template Generator](https://github.com/online-judge-tools/template-generator)のWebアプリ版。C++とPython3に対応している。
-
-    !!! warning "注意"
-        コンテスト中はコマンドライン版のみ利用できる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/template_generator-webapp.png" alt="graph graph">
-    </div>
-
 ## 配列の消費メモリ量を知る
 
 - [配列のサイズと型を入力すると何MBか教えてくれるうし](https://ei1333.github.io/beet/memory.html) - 配列のサイズと型を入力すると消費メモリ量が表示される。

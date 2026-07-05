@@ -10,11 +10,6 @@ title: テンプレート・テストケースを用意
 ### アルゴリズム部門
 
 - [Online Judge Template Generator](https://github.com/online-judge-tools/template-generator) ![GitHub stars](https://img.shields.io/github/stars/online-judge-tools/template-generator?style=plastic) - [Online Judge Tools](https://github.com/online-judge-tools/oj)と連携したツール。コンテストの問題を解析して、提出用のコードやランダムケース生成に関するテンプレートを出力できる。C++とPythonに対応。
-    - [Webアプリ版](https://online-judge-tools.github.io/template-generator-webapp/) - コマンドラインツールに不慣れなユーザ向け。
-
-    !!! warning "注意"
-
-        コンテスト中はコマンドライン版のみ利用できる。
 
 ### ヒューリスティック部門
 

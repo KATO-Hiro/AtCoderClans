@@ -78,6 +78,17 @@ title: 更新停止の可能性が高い
       <img loading = "lazy" src="../../images/web_app/hisui.png" alt="hisui">
     </div>
 
+### 問題文から提出用コードのテンプレートを作成
+
+- [online-judge-tools/template-generator-webapp](https://online-judge-tools.github.io/template-generator-webapp/) - コンテストの問題を解析して、提出用コードのテンプレートを出力する[Online Judge Template Generator](https://github.com/online-judge-tools/template-generator)のWebアプリ版。C++とPython3に対応している。
+
+    !!! warning "注意"
+        コンテスト中はコマンドライン版のみ利用できる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/template_generator-webapp.png" alt="graph graph">
+    </div>
+
 ### 得点状況と配点から次に解く問題を決める
 
 - [AtCoder Strategies](https://atcoder-strategies.web.app/) - ある時点の得点状況と正解の可能性がある問題の配点に基づいて、得られる点数の組み合わせ(見込み)を昇順に表示する。
