@@ -108,6 +108,17 @@
 
     - [AHCにおける生成AIルールの変更予定について](https://atcoder.jp/posts/ahc_new_ai_rule_ja)
 
+=== "Webアプリ・Webサイト"
+
+    2026-07-05
+
+    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
+        - [Graph Editor](https://graph-editor.daikusutora3.workers.dev/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/graph_editor2.png" alt="graph editor2">
+    </div>
+
 === "ユーザスクリプト"
 
     2026-06-26
@@ -198,11 +209,6 @@
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [taka743](https://atcoder.jp/users/taka743)さん - [AtCoderで入水しました](https://qiita.com/taka743/items/e0be10494a1bb4c5af6c)
 
-    2026-06-20
-
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [kanta38](https://atcoder.jp/users/kanta38)さん - [入茶しました！！！嬉しい！！！](https://note.com/kan_38/n/n9af9671211d9)
-
 === "国内外のコンテストサイト"
 
     2026-07-04
@@ -213,6 +219,13 @@
 === "アーカイブス"
 
     諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2026-07-05
+
+    - online-judge-tools/template-generator-webapp
+    - Sheep Visualize Graph Beta
+    - グラフ可視化ツール
+    - Marathon General Visualizer
 
     2026-06-28
 

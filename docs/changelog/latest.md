@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-07-05
+
+- [#12368](https://github.com/KATO-Hiro/AtCoderClans/pull/12368) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページに、以下のWebサービスを追加。また、開発が停止していると思われるWebサービスを「[Archives](../../archived)」ページに移動。
+    - [Graph Editor](https://graph-editor.daikusutora3.workers.dev/)
+
 ### 2026-07-04
 
 - [#12364](https://github.com/KATO-Hiro/AtCoderClans/pull/12364) - 「[Related Contest Sites](../../related_contest_sites)」の「[ICPC (国際大学対抗プログラミングコンテスト)](../../related_contest_sites/icpc)」ページに、以下の記事を追加。
