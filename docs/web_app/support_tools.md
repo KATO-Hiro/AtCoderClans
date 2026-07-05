@@ -10,17 +10,6 @@ title: 問題を解くときの補助ツール
       <img loading = "lazy" src="../../images/web_app/simple_cpp_editor.png" alt="simple cpp editor">
     </div>
 
-## 問題文から提出用コードのテンプレートを作成
-
-- [online-judge-tools/template-generator-webapp](https://online-judge-tools.github.io/template-generator-webapp/) - コンテストの問題を解析して、提出用コードのテンプレートを出力する[Online Judge Template Generator](https://github.com/online-judge-tools/template-generator)のWebアプリ版。C++とPython3に対応している。
-
-    !!! warning "注意"
-        コンテスト中はコマンドライン版のみ利用できる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/template_generator-webapp.png" alt="graph graph">
-    </div>
-
 ## 配列の消費メモリ量を知る
 
 - [配列のサイズと型を入力すると何MBか教えてくれるうし](https://ei1333.github.io/beet/memory.html) - 配列のサイズと型を入力すると消費メモリ量が表示される。
@@ -35,6 +24,12 @@ title: 問題を解くときの補助ツール
 
     <div align="center">
       <img loading="lazy" src="../../images/web_app/graph_editor.png" alt="graph editor">
+    </div>
+
+- [Graph Editor](https://graph-editor.daikusutora3.workers.dev/) - 問題の入力例やサンプルから、さまざまなグラフを作成・図示できる。配置のオプションが豊富に用意されている。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/graph_editor2.png" alt="graph editor2">
     </div>
 
 - [GRAPH × GRAPH](https://hello-world-494ec.firebaseapp.com/) - グラフ理論に関する問題の入力例をリアルタイムで可視化できる。
@@ -55,18 +50,6 @@ title: 問題を解くときの補助ツール
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/mini_generator.png" alt="mini generator">
-    </div>
-
-- [Sheep Visualize Graph Beta](https://binomialsheep.github.io/sheep-visualize-graph-beta/) - (ベータ版) グラフ理論に関する問題の入力例を可視化する。頂点を左クリック、もしくは、右クリックすると色を変えられる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images//web_app/sheep_visualize_graph_beta.png" alt="sheep visualize graph beta">
-    </div>
-
-- [グラフ可視化ツール](https://zeronosu77108.github.io/show-graph/) - 有向グラフ・無向グラフの入力例を可視化する。頂点だけでなく、辺の色も変えられる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/show_graph.png" alt="show graph">
     </div>
 
 ## グリッド状の図を作成・出力
@@ -126,14 +109,6 @@ title: 問題を解くときの補助ツール
 
 !!! warning "注意"
     コンテスト期間中に関連ツールなどを公開する場合は、事前に運営チームへの問い合わせと了承を得ておくことを強く推奨いたします([参考](https://twitter.com/maspy_stars/status/1368224269671395331))。
-
-### ビジュアライザフレームワーク
-
-- [Marathon General Visualizer](https://github.com/kyuridenamida/marathon-general-visualizer) ![GitHub Repo stars](https://img.shields.io/github/stars/kyuridenamida/marathon-general-visualizer?style=plastic) - ヒューリスティック型コンテストにおける入出力の結果をリアルタイムで表示させるためのビジュアライザフレームワーク。問題に応じて、表示する内容をカスタマイズできる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/marathon_general_visualizer.png" alt="marathon general visualizer">
-    </div>
 
 ### ビジュアライザ
 

@@ -49,6 +49,20 @@ title: 更新停止の可能性が高い
 
 ### 問題を解くときの補助ツール
 
+- [Sheep Visualize Graph Beta](https://binomialsheep.github.io/sheep-visualize-graph-beta/) - (ベータ版) グラフ理論に関する問題の入力例を可視化する。頂点を左クリック、もしくは、右クリックすると色を変えられる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images//web_app/sheep_visualize_graph_beta.png" alt="sheep visualize graph beta">
+    </div>
+
+- [グラフ可視化ツール](https://zeronosu77108.github.io/show-graph/) - 有向グラフ・無向グラフの入力例を可視化する。頂点だけでなく、辺の色も変えられる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/show_graph.png" alt="show graph">
+    </div>
+
+### 競技プログラミング専用のエディタ
+
 - [Rujaion](https://github.com/fukatani/rujaion) ![GitHub Repo stars](https://img.shields.io/github/stars/fukatani/rujaion?style=plastic) - 競技プログラミングのためのRust IDE。C++とPythonも試験的にサポートされている。サンプルのテスト、解答コードの提出、コードの補完・移動・自動整形、テンプレートの生成、グラフの構造の可視化などの機能がある。
 
     <div align="center">
@@ -64,6 +78,17 @@ title: 更新停止の可能性が高い
       <img loading = "lazy" src="../../images/web_app/hisui.png" alt="hisui">
     </div>
 
+### 問題文から提出用コードのテンプレートを作成
+
+- [online-judge-tools/template-generator-webapp](https://online-judge-tools.github.io/template-generator-webapp/) - コンテストの問題を解析して、提出用コードのテンプレートを出力する[Online Judge Template Generator](https://github.com/online-judge-tools/template-generator)のWebアプリ版。C++とPython3に対応している。
+
+    !!! warning "注意"
+        コンテスト中はコマンドライン版のみ利用できる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/template_generator-webapp.png" alt="graph graph">
+    </div>
+
 ### 得点状況と配点から次に解く問題を決める
 
 - [AtCoder Strategies](https://atcoder-strategies.web.app/) - ある時点の得点状況と正解の可能性がある問題の配点に基づいて、得られる点数の組み合わせ(見込み)を昇順に表示する。
@@ -73,6 +98,14 @@ title: 更新停止の可能性が高い
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_strategies.png" alt="atcoder strategies">
+    </div>
+
+### ビジュアライザフレームワーク
+
+- [Marathon General Visualizer](https://github.com/kyuridenamida/marathon-general-visualizer) ![GitHub Repo stars](https://img.shields.io/github/stars/kyuridenamida/marathon-general-visualizer?style=plastic) - ヒューリスティック型コンテストにおける入出力の結果をリアルタイムで表示させるためのビジュアライザフレームワーク。問題に応じて、表示する内容をカスタマイズできる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/marathon_general_visualizer.png" alt="marathon general visualizer">
     </div>
 
 ### ヒューリスティック問題の入出力を可視化
