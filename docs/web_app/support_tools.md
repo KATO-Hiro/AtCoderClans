@@ -37,6 +37,12 @@ title: 問題を解くときの補助ツール
       <img loading="lazy" src="../../images/web_app/graph_editor.png" alt="graph editor">
     </div>
 
+- [Graph Editor](https://graph-editor.daikusutora3.workers.dev/) - 問題の入力例やサンプルから、さまざまなグラフを作成・図示できる。配置のオプションが豊富に用意されている。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/graph_editor2.png" alt="graph editor2">
+    </div>
+
 - [GRAPH × GRAPH](https://hello-world-494ec.firebaseapp.com/) - グラフ理論に関する問題の入力例をリアルタイムで可視化できる。
     - [ggg(go GRAPH × GRAPH)](https://github.com/monkukui/ggg) - ターミナル上で同サイトを起動するためのCLIツール
     - [作者による紹介記事](https://monkukui.hatenablog.com/entry/2020/10/01/173918)
