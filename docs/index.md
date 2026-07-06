@@ -130,15 +130,6 @@
       <img loading="lazy" src="images/userscript/atcoder_code_template.png" alt="atcoder code template">
     </div>
 
-    2026-06-21
-
-    - 「[ネタスクリプト](user_scripts/jokes)」ページ
-        - [AtCoderChristmasTree](https://greasyfork.org/ja/scripts/583325-atcoderchristmastree)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_christmastree.png" alt="atcoder christmastree">
-    </div>
-
 === "記事"
 
     2026-07-03
@@ -176,6 +167,13 @@
         - [k1suxu](https://atcoder.jp/users/k1suxu)さん - [はてなブログ](https://k1suxu.hatenablog.com/)
         - [Not_Leonian](https://atcoder.jp/users/Not_Leonian)さん - [はてなブログ](https://not-leonian.hatenablog.com/)
         - [sounansya](https://atcoder.jp/users/sounansya)さん - [Qiita](https://qiita.com/sounansya)
+
+=== "ライブラリ・スニペット"
+
+    2026-07-06
+
+    - 「[Rust](libraries/rust)」ページ
+        - [Fe2O3-Tpa/ac-lib-bundle](https://github.com/Fe2O3-Tpa/ac-lib-bundle) ![GitHub Repo stars](https://img.shields.io/github/stars/Fe2O3-Tpa/ac-lib-bundle?style=plastic)
 
 === "コマンドラインツール"
 
