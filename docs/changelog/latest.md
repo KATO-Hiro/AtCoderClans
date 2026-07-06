@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-07-06
+
+- [#12372](https://github.com/KATO-Hiro/AtCoderClans/pull/12372) - [Prrapp](https://atcoder.jp/users/Prrapp)さんのご紹介で、「[Libraries and Snippets](../../libraries)」の「[Rust](../../libraries/rust)」ページに、Rustで実装されたバンドル用ツールを追加。
+    - [Fe2O3-Tpa/ac-lib-bundle](https://github.com/Fe2O3-Tpa/ac-lib-bundle) ![GitHub Repo stars](https://img.shields.io/github/stars/Fe2O3-Tpa/ac-lib-bundle?style=plastic)
+
 ### 2026-07-05
 
 - [#12368](https://github.com/KATO-Hiro/AtCoderClans/pull/12368) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページに、以下のWebサービスを追加。また、開発が停止していると思われるWebサービスを「[Archives](../../archived)」ページに移動。
