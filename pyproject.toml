@@ -12,7 +12,7 @@ dependencies = ["mkdocs>=1.6.0,<2.0", "mkdocs-material==9.7.6"]
 dev = []
 
 [build-system]
-requires = ["setuptools>=82.0.1", "wheel"]
+requires = ["setuptools>=83.0.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [tool.uv]
