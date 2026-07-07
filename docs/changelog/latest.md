@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-07-07
+
+- [#12378](https://github.com/KATO-Hiro/AtCoderClans/pull/12378) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
+    - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年7月6日時点)](https://x.com/atcoder/status/2073932057076723783)
+
 ### 2026-07-06
 
 - [#12372](https://github.com/KATO-Hiro/AtCoderClans/pull/12372) - [Prrapp](https://atcoder.jp/users/Prrapp)さんのご紹介で、「[Libraries and Snippets](../../libraries)」の「[Rust](../../libraries/rust)」ページに、Rustで実装されたバンドル用ツールを追加。
