@@ -132,6 +132,11 @@
 
 === "記事"
 
+    2026-07-07
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年7月6日時点)](https://x.com/atcoder/status/2073932057076723783)
+
     2026-07-03
 
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
@@ -147,11 +152,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AtCoder Heuristic Contest 067参加記](https://kaede2020.hatenablog.com/entry/2026/06/23/002026)
 
-    2026-06-22
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年6月22日時点)](https://x.com/atcoder/status/2068906956354691210)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -159,14 +159,6 @@
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [yuma220284](https://atcoder.jp/users/yuma220284)さん - [はてなブログ](https://yuma220284.hatenablog.com/)
-
-    2026-06-22
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [KKT89](https://atcoder.jp/users/KKT89)さん - [はてなブログ](https://kkt89.hatenablog.com/)
-        - [k1suxu](https://atcoder.jp/users/k1suxu)さん - [はてなブログ](https://k1suxu.hatenablog.com/)
-        - [Not_Leonian](https://atcoder.jp/users/Not_Leonian)さん - [はてなブログ](https://not-leonian.hatenablog.com/)
-        - [sounansya](https://atcoder.jp/users/sounansya)さん - [Qiita](https://qiita.com/sounansya)
 
 === "ライブラリ・スニペット"
 
