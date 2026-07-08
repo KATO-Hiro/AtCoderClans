@@ -508,6 +508,11 @@ title: 更新停止の可能性が高い
     - [同60万人突破 (2024年2月時点)](https://prtimes.jp/main/html/rd/p/000000046.000028415.html)
     - [同50万人突破 (2023年4月時点)](https://prtimes.jp/main/html/rd/p/000000038.000028415.html)
 
+- [競プロのすすめ](https://speakerdeck.com/uya116/jing-purofalsesusume) - 競技プログラミングの概要と例題、コンテストの参加手順などが紹介されている。
+- [やってみよう競技プログラミング](https://docs.google.com/presentation/d/1N5MTwRdZPCtUwTwQTajOwkyEvHWSSiRl8xIx-BPfOl0/view#slide=id.p) - 競技プログラミングそのものの説明から、コンテストの参加にまつわるアンチパターンとオススメの練習方法が解説されている。
+- [122人に聞いた！「競技プログラミングを始めたばかりの人に伝えたいこと」](https://qiita.com/sakofsuken/items/6194f8ee83b40749c0e4) - 「競技プログラミングを始めたばかりの人に伝えたいこと」について、筆者を含む122人のアンケート結果(回答者属性・競技プログラミング(競プロ)を始めたきっかけ・競プロをおすすめしたい人・アドバイスなど)がまとめられている記事。
+- [【初心者向け】AtCoder Beginner Contestの取り組み方](https://qiita.com/rute_not_route/items/d1ae32a80d1c3a50d017) - [AtCoder](https://atcoder.jp/)アカウントの作成方法からコンテストの参加登録・問題の取り組み方と注意事項、コンテスト後の復習までの流れを丁寧に解説した記事。
+
 ### コードを書くための環境構築を行う
 
 #### 任意のOS
