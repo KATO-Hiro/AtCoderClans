@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-07-08
+
+- [#12380](https://github.com/KATO-Hiro/AtCoderClans/pull/12380) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の記事を追加。
+    - [プログラミング完全未経験から始める！競技プログラミング入門ガイド](https://qiita.com/Un_titled/items/03b9b817bf2015321159)
+
 ### 2026-07-07
 
 - [#12378](https://github.com/KATO-Hiro/AtCoderClans/pull/12378) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
