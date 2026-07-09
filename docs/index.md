@@ -194,11 +194,6 @@
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [TrueRyoB](https://atcoder.jp/users/TrueRyoB)さん - [10ヶ月停滞した大学生が、ある日突然黄色perfを出して入水しました](https://qiita.com/TrueRyoB/items/124d3d9d494b17a7c263)
 
-    2026-06-24
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [taka743](https://atcoder.jp/users/taka743)さん - [AtCoderで入水しました](https://qiita.com/taka743/items/e0be10494a1bb4c5af6c)
-
 === "国内外のコンテストサイト"
 
     2026-07-04
