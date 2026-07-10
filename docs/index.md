@@ -104,10 +104,6 @@
 
     - [AtCoderにおける提出ソースコードのAI事業者向け販売と、それに伴う利用規約・プライバシーポリシー変更についてのお知らせ](https://atcoder.jp/posts/opt-out-notify-jp)
 
-    2026-06-25
-
-    - [AHCにおける生成AIルールの変更予定について](https://atcoder.jp/posts/ahc_new_ai_rule_ja)
-
 === "Webアプリ・Webサイト"
 
     2026-07-05
@@ -159,6 +155,14 @@
 
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [yuma220284](https://atcoder.jp/users/yuma220284)さん - [はてなブログ](https://yuma220284.hatenablog.com/)
+
+=== "動画"
+
+    2026-07-10
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [AtCoder World Tour Finals 2026 Algorithm English stream](https://www.youtube.com/live/6kyPalDSI4c)
+        - [AtCoder World Tour Finals 2026 Algorithm Japanese stream](https://www.youtube.com/watch?v=Xe5q5mOuIf0)
 
 === "ライブラリ・スニペット"
 

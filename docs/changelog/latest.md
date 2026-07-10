@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-07-10
+
+- [#12389](https://github.com/KATO-Hiro/AtCoderClans/pull/12389) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [AtCoder World Tour Finals 2026 Algorithm English stream](https://www.youtube.com/live/6kyPalDSI4c)
+    - [AtCoder World Tour Finals 2026 Algorithm Japanese stream](https://www.youtube.com/watch?v=Xe5q5mOuIf0)
+
 ### 2026-07-09
 
 - [#12384](https://github.com/KATO-Hiro/AtCoderClans/pull/12384) - (破壊的な変更) 「[Change Log](../latest)」ページの2026年6月分を月別のアーカイブに移動。
