@@ -115,6 +115,11 @@ title: 個別の動画
 
 ## 世界大会のライブ配信
 
+### AtCoder World Tour Finals 2026
+
+- [AtCoder World Tour Finals 2026 Algorithm English stream](https://www.youtube.com/live/6kyPalDSI4c) - [World Tour Finals 2026 Algorithm](https://atcoder.jp/contests/awtf2026algo)のライブ配信（英語）が公開されている。
+    - [AtCoder World Tour Finals 2026 Algorithm Japanese stream](https://www.youtube.com/watch?v=Xe5q5mOuIf0) - 日本語版。
+
 ### AtCoder World Tour Finals 2025
 
 - [AtCoder World Tour Finals 2025 Algorithm English stream](https://www.youtube.com/watch?v=GSXLhawvkYE) - [World Tour Finals 2025 Algorithm](https://atcoder.jp/contests/awtf2025algo)のライブ配信（英語）が公開されている。
