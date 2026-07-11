@@ -699,6 +699,23 @@ title: 更新停止の可能性が高い
     - [【検証】最新モデル AI、ChatGPT-4o は「ひっかけ問題」をどれくらい解けるのか？【ゆっくり実況・ゆっくり解説】](https://www.youtube.com/watch?v=ZQf_JcAFah0) - 同モデルで、「ひっかけ問題」をどこまで解けるか検証している。
     - [Claudeにパソコンを乗っ取らせて猫の絵を描かせてみた【ゆっくり解説】](https://www.youtube.com/watch?v=jjUDDexo_hM) - Claude の新機能 computer use (2024年10月下旬時点)を利用して、猫の絵を描かせている。
 
+### プロモーションビデオ
+
+- [AtCoderの始め方。競プロに興味はあるけどやっていないという方へ。](https://www.youtube.com/watch?v=vxBOC08XZ44&feature=youtu.be) - 教育系エンジニアによる[AtCoder](https://atcoder.jp/)の紹介動画。競技プログラミングの解説に加えて、便利なサイト・ツールが紹介されている。
+- [2分で始める競技プログラミング【高井茅乃 #31】](https://www.youtube.com/watch?v=F4_1yWI5Z-Y&feature=youtu.be) - 競技プログラミングの概説、[AtCoder](https://atcoder.jp/)のアカウント登録、練習問題を解く方法が2分で紹介されている。
+
+### ランキングの推移 - AtCoderのレーティング
+
+- [AtCoder 日本人 レーティング TOP10 2016-2019](https://www.youtube.com/watch?v=1oct64q2V5g) - アクティブユーザを対象とした日本人上位10人のレーティングの変遷を紹介している。[全世界版](https://www.youtube.com/watch?v=CsBASF9skxE)もある。
+
+### 講演
+
+- [プログラミングコンテストのすゝめ 〜競プロはキャリアであり、趣味でもあり、学びである〜](https://www.youtube.com/watch?v=Jb0-8ZuRpNM&feature=youtu.be) - 2020年7月に開催された日本最大の学生向けテックカンファレンス「技育祭」（ぎいくさい）の講演動画。[chokudai](https://twitter.com/chokudai)さんが、競技プログラミングの面白さ・楽しさを解説している。
+
+### 対談
+
+- [これから身につけるべきITスキルとは?](https://www.youtube.com/watch?v=oSIRyxJNBrI&feature=youtu.be) - [chokudai](https://twitter.com/chokudai)さんと就活系YouTuberが、今後必要なITスキルについて対談している。ITスキルが求められる理由、意識的にプログラミングを学ぶ意義・必要性、今後減る・増える仕事について語られている。
+
 ## ライブラリ・スニペット
 
 ### C&#43;&#43;
