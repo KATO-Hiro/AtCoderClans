@@ -691,6 +691,14 @@ title: 更新停止の可能性が高い
 - [あずぱん動画](https://www.youtube.com/playlist?list=PLwlP26Z1O_DesFumSto6rfa9T2jmk9iD4) - [azm](https://atcoder.jp/users/azm)さんのチャンネル。AtCoderの始め方や過去問に関する「ゆっくり動画」が公開されている。
 - [みちらから](https://www.youtube.com/channel/UCqBF4sFbNDMLwIUYbS1wkhg/featured) - [michirakara](https://atcoder.jp/users/michirakara)さんのチャンネル。コンテストで出題された問題の解説とPythonでの実装方法が紹介されている。
 
+### ニコニコ動画
+
+- [AtCoder 参加してみた！【ゆっくり実況】](https://www.nicovideo.jp/series/140853) - [checheche](https://atcoder.jp/users/checheche)さんのコンテスト参加日記。
+- [崖っぷち黄色コーダーゆかりの精進記録](https://www.nicovideo.jp/series/163715?ref=pc_watch_description_series) - [koikotya](https://atcoder.jp/users/koikotya)さんが、コンテスト当日の様子と各問題の考察を紹介している動画。
+- [競プロ初心者日記](https://www.nicovideo.jp/series/11320?ref=pc_watch_description_series) - [otamay](https://atcoder.jp/users/otamay)さんの成長日記。
+- [競プロ ゆっくり実況](https://www.nicovideo.jp/series/138667?ref=user_series) - [amylase](https://atcoder.jp/users/amylase)さんが、コンテスト当日の思考過程を解説した「ゆっくり」動画。
+- [マラソン形式プログラミングコンテストに参加する葵ちゃん](https://www.nicovideo.jp/series/220312?ref=pc_watch_description_series) - [いなにわ](https://www.nicovideo.jp/user/29507228)さんによるヒューリスティック型のコンテストの参加記録。不定期に更新されている。
+
 ### 生成AIの利活用例
 
 - [GPT-5 Proが爆死した数学オリンピック2025の超難問](https://www.youtube.com/watch?v=SjXa3iPph3o) - 2025×2025マスの盤面で各行・各列を必ず1マスずつ空け、それ以外をタイルで覆うときに必要な最小枚数を求める方法と、その証明が示されている。
