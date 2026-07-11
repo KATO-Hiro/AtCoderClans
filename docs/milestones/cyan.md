@@ -4,6 +4,7 @@ title: レーティング1200〜1599(水色)
 
 ## 2026年
 
+- [AtCoderを3年ぶりに復帰して入水したVTuberの話](https://zenn.dev/daikusutora3/articles/76dae047234bd7) - [daikusutora3](https://atcoder.jp/users/daikusutora3)さんが、2026年7月8日に公開。
 - [AtCoderで入水しました](https://qiita.com/taka743/items/e0be10494a1bb4c5af6c) - [taka743](https://atcoder.jp/users/taka743)さんが、2026年6月21日に公開。
 - [10ヶ月停滞した大学生が、ある日突然黄色perfを出して入水しました](https://qiita.com/TrueRyoB/items/124d3d9d494b17a7c263) - [TrueRyoB](https://atcoder.jp/users/TrueRyoB)さんが、2026年6月20日に達成。
 - [【色変記事】入水までにやったこと](https://qiita.com/Rapca/items/5aed01877d081cab26d7) - [rapca](https://atcoder.jp/users/rapca)さんが、2026年5月30日に達成。
