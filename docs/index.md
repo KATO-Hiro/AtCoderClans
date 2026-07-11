@@ -115,17 +115,6 @@
       <img loading="lazy" src="images/web_app/graph_editor2.png" alt="graph editor2">
     </div>
 
-=== "ユーザスクリプト"
-
-    2026-06-26
-
-    - 「[問題を解く](user_scripts/solve_problems)」ページ
-        - [AtCoder Code Template](https://greasyfork.org/ja/scripts/584183-atcoder-code-template)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_code_template.png" alt="atcoder code template">
-    </div>
-
 === "記事"
 
     2026-07-08
@@ -181,6 +170,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-07-10
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [daikusutora3](https://atcoder.jp/users/daikusutora3)さん - [AtCoderを3年ぶりに復帰して入水したVTuberの話](https://zenn.dev/daikusutora3/articles/76dae047234bd7)
 
     2026-07-02
 

@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-07-11
+
+- [#12394](https://github.com/KATO-Hiro/AtCoderClans/pull/12394) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[daikusutora3](https://atcoder.jp/users/daikusutora3)さんの[記事](https://zenn.dev/daikusutora3/articles/76dae047234bd7)を追加。
+
 ### 2026-07-10
 
 - [#12389](https://github.com/KATO-Hiro/AtCoderClans/pull/12389) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
