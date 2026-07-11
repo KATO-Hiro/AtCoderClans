@@ -8,9 +8,7 @@ title: 個別の動画
 - [AtCoder 布教 PV](https://www.youtube.com/watch?v=-z3bTeA_SEY&feature=youtu.be) - 有志による[AtCoder](https://atcoder.jp/)のプロモーションビデオ。特に、競技プログラミングを始めようと思っている人や周囲に布教したい人におすすめ。
 - [元世界４位が語る「競技プログラミング」の魅力｜好き語り](https://www.youtube.com/watch?v=0EiziminwMM) - 競技プログラミングの概要・アルゴリズムや発想力を問う問題の紹介・学習方法などが語られている。
 - [競技プログラミングAtCoderに参加してみよう！初心者向け！AtCoderのはじめ方](https://www.youtube.com/watch?v=_pd3ndlaveU) - [AtCoder](https://atcoder.jp/)のアカウント登録、練習問題の解き方、コンテストの参加方法などが紹介されている。
-- [AtCoderの始め方。競プロに興味はあるけどやっていないという方へ。](https://www.youtube.com/watch?v=vxBOC08XZ44&feature=youtu.be) - 教育系エンジニアによる[AtCoder](https://atcoder.jp/)の紹介動画。競技プログラミングの解説に加えて、便利なサイト・ツールが紹介されている。
 - [アルゴリズムの素晴らしさが2分でわかる動画](https://twitter.com/e869120/status/1512391454936936448) - 迷路を題材に、アルゴリズム(計算手順)の素晴らしさや学ぶ意義を紹介した動画。
-- [2分で始める競技プログラミング【高井茅乃 #31】](https://www.youtube.com/watch?v=F4_1yWI5Z-Y&feature=youtu.be) - 競技プログラミングの概説、[AtCoder](https://atcoder.jp/)のアカウント登録、練習問題を解く方法が2分で紹介されている。
 - [【競技プログラミング】貪欲法×乱択で戦う！AHC入門動画【ゆっくり解説】](https://www.youtube.com/watch?v=-ns6ZuVmrsQ) - ヒューリスティック型コンテストの特徴・ビジュアライザの使い方・最もシンプルな正解コードの提出とスコアを改善するための方法などが紹介されている。
 - [『フカシギの数え方』 おねえさんといっしょ！ みんなで数えてみよう！](https://www.youtube.com/watch?v=Q4gTV4r0zRs) - 「組み合わせの数え方」に関する問題を通して、計算量を見積もることやアルゴリズムの大事さを教えてくれる動画。
     - [kazoeage-oneesan](https://github.com/primenumber/kazoeage-oneesan) - [primenumber](https://atcoder.jp/users/primenumber)さんによる愚直解の実装例(Rust)。
@@ -127,10 +125,6 @@ title: 個別の動画
 
 ## ランキングの推移
 
-### AtCoderのレーティング
-
-- [AtCoder 日本人 レーティング TOP10 2016-2019](https://www.youtube.com/watch?v=1oct64q2V5g) - アクティブユーザを対象とした日本人上位10人のレーティングの変遷を紹介している。[全世界版](https://www.youtube.com/watch?v=CsBASF9skxE)もある。
-
 ### 国際大学対抗プログラミングコンテスト
 
 - [ICPC 2025 国内予選 Standing Race](https://www.youtube.com/watch?v=9GQFmE-7WoY) - 国際大学対抗プログラミングコンテスト ICPC 2025 国内予選において、上位約100チームの順位の推移を3分で振り返ることができる。
@@ -183,9 +177,4 @@ title: 個別の動画
 - [今だからこそ学ぶプログラミングとアルゴリズム](https://www.youtube.com/watch?v=PZOITpAccjo) - [chokudai](https://twitter.com/chokudai)さんが、プログラミングとアルゴリズムを学ぶ意義、AIとの関係性について講演している。
 - [AtCoder Heuristic First-step Vol.1 前半](https://www.youtube.com/watch?v=MVrDouD35gU) - ヒューリスティック型コンテストの過去問を題材に、問題文の理解と基本的な貪欲法の書き方・改善に向けた考え方が紹介されている。
     - [AtCoder Heuristic First-step Vol.1 後半](https://www.youtube.com/watch?v=RxbTHAu9Ct8) - 上記の解法を改善するため、山登り法・焼きなまし法の概略や解法の判断基準が解説されている。
-- [プログラミングコンテストのすゝめ 〜競プロはキャリアであり、趣味でもあり、学びである〜](https://www.youtube.com/watch?v=Jb0-8ZuRpNM&feature=youtu.be) - 2020年7月に開催された日本最大の学生向けテックカンファレンス「技育祭」（ぎいくさい）の講演動画。[chokudai](https://twitter.com/chokudai)さんが、競技プログラミングの面白さ・楽しさを解説している。
 - [「レッドコーダーの作り方」競プロに活かす㊙私生活](https://www.youtube.com/watch?v=bQ9vSFDIxLo) - [iwiwi](https://twitter.com/iwiwi)さんが、オンサイトイベントの参加者からプログラミングコンテスト、私生活、研究に関する質問に対して回答している動画。
-
-### 対談
-
-- [これから身につけるべきITスキルとは?](https://www.youtube.com/watch?v=oSIRyxJNBrI&feature=youtu.be) - [chokudai](https://twitter.com/chokudai)さんと就活系YouTuberが、今後必要なITスキルについて対談している。ITスキルが求められる理由、意識的にプログラミングを学ぶ意義・必要性、今後減る・増える仕事について語られている。
