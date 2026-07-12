@@ -4,6 +4,7 @@ title: レーティング1600〜1999(青色)
 
 ## 2026年
 
+- [Atcoder入青したので振り返る](https://qiita.com/54b4ch4/items/c62cf9cca6b5a05519c4) - [sabacha](https://atcoder.jp/users/sabacha)さんが、2026年7月9日に公開。
 - [AtCoder入青しました](https://qiita.com/tehom_math/items/2c2d0b919376d8c10650) - [Tehom](https://atcoder.jp/users/Tehom)さんが、2026年6月27日に公開。
 - [【色変記事】青色コーダーになりました！！！](https://qiita.com/tau0529/items/69141c0ccae8d9c3737f) - [tau0529](https://atcoder.jp/users/tau0529)さんが、2026年5月29日に公開。
 - [【入青】凡人が青コーダーになるために](https://qiita.com/mkreem/items/f6941f6bbf932871a3f2) - [mkreem](https://atcoder.jp/users/mkreem)さんが、2026年5月25日に公開。
