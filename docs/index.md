@@ -171,6 +171,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2026-07-12
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [sabacha](https://atcoder.jp/users/sabacha)さん - [Atcoder入青したので振り返る](https://qiita.com/54b4ch4/items/c62cf9cca6b5a05519c4)
+
     2026-07-10
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
@@ -186,11 +191,6 @@
 
     - 「[レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
         - [yuma220284](https://atcoder.jp/users/yuma220284)さん - [AtCoder赤になりました - yuma220284's diary](https://yuma220284.hatenablog.com/entry/2026/06/29/014020)
-
-    2026-06-27
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [TrueRyoB](https://atcoder.jp/users/TrueRyoB)さん - [10ヶ月停滞した大学生が、ある日突然黄色perfを出して入水しました](https://qiita.com/TrueRyoB/items/124d3d9d494b17a7c263)
 
 === "国内外のコンテストサイト"
 
