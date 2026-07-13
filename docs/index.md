@@ -117,6 +117,11 @@
 
 === "記事"
 
+    2026-07-13
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年7月13日時点)](https://x.com/atcoder/status/2076500627761582483)
+
     2026-07-08
 
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
@@ -160,13 +165,6 @@
     - 「[Rust](libraries/rust)」ページ
         - [Fe2O3-Tpa/ac-lib-bundle](https://github.com/Fe2O3-Tpa/ac-lib-bundle) ![GitHub Repo stars](https://img.shields.io/github/stars/Fe2O3-Tpa/ac-lib-bundle?style=plastic)
 
-=== "コマンドラインツール"
-
-    2026-06-28
-
-    - 「[提出に関する補助ツール](cli/tools_for_submission)」ページ
-        - [acac-cli](https://github.com/RyosukeDTomita/acac-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/RyosukeDTomita/acac-cli?style=plastic)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
@@ -209,10 +207,6 @@
     - Sheep Visualize Graph Beta
     - グラフ可視化ツール
     - Marathon General Visualizer
-
-    2026-06-28
-
-    - atcoder-numba
 
 ## AtCoder公式グッズを購入する
 
