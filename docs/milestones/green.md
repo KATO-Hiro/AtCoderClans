@@ -7,6 +7,7 @@ title: レーティング800〜1199(緑色)
 
 ## 2026年
 
+- [AtCoderで入緑しました！](https://qiita.com/WebP/items/e57e661b4131a074a8e2) - [WebP](https://atcoder.jp/users/WebP)さんが、2026年7月11日に達成。
 - [【色変記事】緑うれしいね【AtCoder/競技プログラミング】](https://note.com/alllllllllly/n/n1e7673df2f27) - [alllllllllly](https://atcoder.jp/users/alllllllllly)さんが、2026年6月6日に達成。
 - [コル・カロリ　入緑入力](https://note.com/seiram343/n/ncc89e487095a) - [suri1326](https://atcoder.jp/users/suri1326)さんが、2026年4月26日に公開。
 - [45歳からの競技プログラミング　～一周年＆入緑](https://note.com/gounaka/n/ne35ce1e08231) - [gonaka](https://atcoder.jp/users/gonaka)さんが、2026年4月24日に公開。
