@@ -117,6 +117,11 @@
 
 === "記事"
 
+    2026-07-14
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AtCoder World Tour Finals 2026 Heuristic 参加記](https://blog.terry-u16.net/entry/awtf2026heuristic)
+
     2026-07-13
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -141,14 +146,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年6月29日時点)](https://x.com/atcoder/status/2071416075502469475)
-
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2026-06-29
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [yuma220284](https://atcoder.jp/users/yuma220284)さん - [はてなブログ](https://yuma220284.hatenablog.com/)
 
 === "動画"
 
@@ -184,11 +181,6 @@
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [Tehom](https://atcoder.jp/users/Tehom)さん - [AtCoder入青しました](https://qiita.com/tehom_math/items/2c2d0b919376d8c10650)
         - [mkreem](https://atcoder.jp/users/mkreem)さん - [【入青】凡人が青コーダーになるために](https://qiita.com/mkreem/items/f6941f6bbf932871a3f2)
-
-    2026-06-29
-
-    - 「[レーティング2800〜(赤色、銅・銀・金王冠)](milestones/red)」ページ
-        - [yuma220284](https://atcoder.jp/users/yuma220284)さん - [AtCoder赤になりました - yuma220284's diary](https://yuma220284.hatenablog.com/entry/2026/06/29/014020)
 
 === "国内外のコンテストサイト"
 
