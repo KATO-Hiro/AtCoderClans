@@ -323,6 +323,18 @@ title: 更新停止の可能性が高い
       <img loading = "lazy" src="../../images/userscript/atcoder_recent_graph.png" alt="atcoder recent graph">
     </div>
 
+- [AtCoder - You're top X%](https://greasyfork.org/ja/scripts/511580-atcoder-you-re-top-x-only-for-algorithm-ranking) - 「プロフィール」ページに、アクティブユーザの上位何%に相当するかを表示する。
+    - 確認した日: 2026/07/15
+    - 理由: 公式で「アルゴリズム部門」「ヒューリスティック部門」ともに表示されるようになったため。
+
+    !!! info "参考"
+
+        2024年10月上旬時点では、「アルゴリズム部門」に対応している。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_youre_top_xpercent.png" alt="atcoder you're top x percent">
+    </div>
+
 ### Webページに色付けする
 
 - [AtCoderDarkTheme](https://greasyfork.org/ja/scripts/388076-atcoderdarktheme) - ダークテーマに変更する。類似したスクリプトに、[AtCoder-Style-Changer](https://greasyfork.org/ja/scripts/429929-atcoder-style-changer)がある。
