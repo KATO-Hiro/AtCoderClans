@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-07-14
+
+- [#12409](https://github.com/KATO-Hiro/AtCoderClans/pull/12409) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [AtCoder World Tour Finals 2026 Heuristic 参加記](https://blog.terry-u16.net/entry/awtf2026heuristic)
+
 ### 2026-07-13
 
 - [#12404](https://github.com/KATO-Hiro/AtCoderClans/pull/12404) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
