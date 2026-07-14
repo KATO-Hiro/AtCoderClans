@@ -115,6 +115,17 @@
       <img loading="lazy" src="images/web_app/graph_editor2.png" alt="graph editor2">
     </div>
 
+=== "ユーザスクリプト"
+
+    2026-07-15
+
+    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
+        - [AtCoder Perf Graph (forked)](https://greasyfork.org/ja/scripts/586685-atcoder-perf-graph-forked)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_perf_graph_forked.png" alt="atcoder perf graph forked">
+    </div>
+
 === "記事"
 
     2026-07-14
@@ -166,6 +177,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2026-07-15
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [WebP](https://atcoder.jp/users/WebP)さん - [AtCoderで入緑しました！](https://qiita.com/WebP/items/e57e661b4131a074a8e2)
+
     2026-07-12
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
@@ -192,6 +208,11 @@
 === "アーカイブス"
 
     諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2026-07-15
+
+    - Atcoder Perf Graph
+    - AtCoder - You're top X%
 
     2026-07-05
 
