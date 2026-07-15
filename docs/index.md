@@ -106,6 +106,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2026-07-15
+
+    - 「[コンテストの成績に関連するサービス](web_app/services_using_scores)」ページ
+        - [AtCoder Rating Estimator](https://atcoder-rating-estimator.pages.dev)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/atcoder_rating_estimator2.png" alt="atcoder rating estimator">
+    </div>
+
     2026-07-05
 
     - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
@@ -213,6 +222,7 @@
 
     - Atcoder Perf Graph
     - AtCoder - You're top X%
+    - AtCoder Heuristic Rating Estimator
 
     2026-07-05
 
