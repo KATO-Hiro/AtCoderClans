@@ -12,12 +12,6 @@ title: コンテストの成績に関連するサービス
 
 ### 目標レーティングに必要なパフォーマンス値を計算
 
-- [AtCoder Rating Simulator(仮)](https://beta.kyo-pro.club/apps/rating-simulator) - 目標とするレーティングに到達するまでに必要なパフォーマンスを表示する。任意の回数だけ同じパフォーマンスを取ったと仮定した場合についても計算できる。[本家](../archived/no_longer_available.md)のリンク切れに伴い、有志が新たに作成・公開した。
-
-    <div align="center">
-      <img loading="lazy" src="../../images/web_app/atcoder_rating_simulator2.png" alt="atcoder rating simulator">
-    </div>
-
 #### アルゴリズム部門
 
 - [AtCoder Rating Estimator](https://koba-e964.github.io/atcoder-rating-estimator/test-last.html) - 所定のレーティングに到達するために、次のコンテストで必要なパフォーマンス値を計算する。
@@ -26,11 +20,18 @@ title: コンテストの成績に関連するサービス
       <img loading = "lazy" src="../../images/web_app/atcoder_rating_estimator.png" alt="atcoder rating estimator">
     </div>
 
-#### ヒューリスティック部門
+#### アルゴリズム部門・ヒューリスティック部門
 
-- [AtCoder Heuristic Rating Estimator](https://3w36zj6.github.io/atcoder-heuristic-rating-estimator/) - AtCoder Heuristic Contest(AHC)で目標とするレーティングに到達するために、次のコンテストで必要となるパフォーマンス値を計算する。利用にあたっては、過去に参加したコンテストのパフォーマンス値の入力が必要。また、作者による[技術解説記事](https://zenn.dev/3w36zj6/articles/5797217ce0f9ee)も公開されている。
+- [AtCoder Rating Simulator(仮)](https://beta.kyo-pro.club/apps/rating-simulator) - 目標とするレーティングに到達するまでに必要なパフォーマンスを表示する。任意の回数だけ同じパフォーマンスを取ったと仮定した場合についても計算できる。[本家](../archived/no_longer_available.md)のリンク切れに伴い、有志が新たに作成・公開した。
 
-    <div align="center"> <img loading = "lazy" src="../../images/web_app/atcoder_heuristic_rating_estimator.png" alt="atcoder heuristic rating estimator">
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/atcoder_rating_simulator2.png" alt="atcoder rating simulator">
+    </div>
+
+- [AtCoder Rating Estimator](https://atcoder-rating-estimator.pages.dev) - 目標とするレーティングに到達するために、次のコンテストで必要となるパフォーマンス値を計算する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/atcoder_rating_estimator2.png" alt="atcoder rating estimator">
     </div>
 
 ### AtCoder Junior League (AJL） のスコアを予測
