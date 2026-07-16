@@ -126,6 +126,15 @@
 
 === "ユーザスクリプト"
 
+    2026-07-16
+
+    - 「[Webページに色付けする](user_scripts/colors)」ページ
+        - [AtCoder Problems Problem List Sort Marker](https://greasyfork.org/ja/scripts/585967-atcoder-problems-problem-list-sort-marker)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_problems_problem_list_sort_marker.png" alt="atcoder problems problem list sort marker">
+    </div>
+
     2026-07-15
 
     - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
@@ -161,11 +170,6 @@
 
     - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
         - [VS Code Dev ContainerでAtCoderのCLI環境を一発構築する](https://qiita.com/jala/items/a10dbb6ed8aaed6b2d23)
-
-    2026-06-30
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年6月29日時点)](https://x.com/atcoder/status/2071416075502469475)
 
 === "動画"
 
