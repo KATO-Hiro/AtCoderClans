@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-07-17
+
+- [#12435](https://github.com/KATO-Hiro/AtCoderClans/pull/12435) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[siooisi](https://atcoder.jp/users/siooisi)さんの[記事](https://qiita.com/siooisi/items/e50013e4ee7d615cba37)を追加。
+
 ### 2026-07-16
 
 - [#12431](https://github.com/KATO-Hiro/AtCoderClans/pull/12431) - 「[Scripts](../../scripts)」の「[Webページに色付けする](../../user_scripts/colors)」ページに、以下のユーザスクリプトを追加。
