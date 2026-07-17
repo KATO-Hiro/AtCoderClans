@@ -98,12 +98,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "ホーム"
-
-    2026-07-01
-
-    - [AtCoderにおける提出ソースコードのAI事業者向け販売と、それに伴う利用規約・プライバシーポリシー変更についてのお知らせ](https://atcoder.jp/posts/opt-out-notify-jp)
-
 === "Webアプリ・Webサイト"
 
     2026-07-15
@@ -166,11 +160,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年7月6日時点)](https://x.com/atcoder/status/2073932057076723783)
 
-    2026-07-03
-
-    - 「[コードを書くための環境構築を行う](articles/development_env)」ページ
-        - [VS Code Dev ContainerでAtCoderのCLI環境を一発構築する](https://qiita.com/jala/items/a10dbb6ed8aaed6b2d23)
-
 === "動画"
 
     2026-07-10
@@ -190,6 +179,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2026-07-17
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [siooisi](https://atcoder.jp/users/siooisi)さん - [入水したのでいろいろ書いた](https://qiita.com/siooisi/items/e50013e4ee7d615cba37)
+
     2026-07-15
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
@@ -204,12 +198,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [daikusutora3](https://atcoder.jp/users/daikusutora3)さん - [AtCoderを3年ぶりに復帰して入水したVTuberの話](https://zenn.dev/daikusutora3/articles/76dae047234bd7)
-
-    2026-07-02
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [Tehom](https://atcoder.jp/users/Tehom)さん - [AtCoder入青しました](https://qiita.com/tehom_math/items/2c2d0b919376d8c10650)
-        - [mkreem](https://atcoder.jp/users/mkreem)さん - [【入青】凡人が青コーダーになるために](https://qiita.com/mkreem/items/f6941f6bbf932871a3f2)
 
 === "国内外のコンテストサイト"
 
