@@ -13,6 +13,7 @@ title: Rust
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
+|bio4eta|[はてなブログ](https://hudeha.hatenablog.com/)||
 |cozy_sauna|[Qiita](https://qiita.com/cozy_sauna/)||
 |ichyo|[はてなブログ](https://blog.ichyo.jp/)||
 |primenumber|[はてなブログ](https://primenumber.hatenadiary.jp/)||
@@ -24,7 +25,6 @@ title: Rust
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
-|bio4eta|[はてなブログ](https://hudeha.hatenablog.com/)||
 |koyumeishi|[はてなブログ](https://koyumeishi.hatenablog.com/)||
 |Kyo_s_s|[自作ブログ](https://kyo-homepage.vercel.app/blog)||
 |penguin46|[はてなブログ](https://penguin46.hatenablog.com/)||
