@@ -160,6 +160,14 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年7月6日時点)](https://x.com/atcoder/status/2073932057076723783)
 
+=== "ブログ"
+    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2026-07-18
+
+    - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
+        - [bio4eta](https://atcoder.jp/users/bio4eta)さん - [はてなブログ](https://hudeha.hatenablog.com/)
+
 === "動画"
 
     2026-07-10
@@ -198,13 +206,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [daikusutora3](https://atcoder.jp/users/daikusutora3)さん - [AtCoderを3年ぶりに復帰して入水したVTuberの話](https://zenn.dev/daikusutora3/articles/76dae047234bd7)
-
-=== "国内外のコンテストサイト"
-
-    2026-07-04
-
-    - 「[ICPC (国際大学対抗プログラミングコンテスト)](related_contest_sites/icpc)」ページ
-        - [ICPC2026 国内予選参加記 (Aobayama_BlueMountain, nonon 視点)](https://nononmath.hatenablog.com/entry/2026/07/04/072550)
 
 === "アーカイブス"
 
