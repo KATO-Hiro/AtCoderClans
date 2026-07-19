@@ -307,6 +307,61 @@ title: 更新停止の可能性が高い
       <img loading = "lazy" src="../../images/userscript/atcoder_title_copy.png" alt="atcoder title copy">
     </div>
 
+- [AtCoder Sample Downloader](https://greasyfork.org/ja/scripts/425977-atcoder-sample-downloader) - 「問題」ページに、入出力例をダウンロードできるボタンを設置する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_sample_downloader.png" alt="atcoder sample downloader">
+    </div>
+
+- [AtCoder-Submission-RadioButton](https://greasyfork.org/ja/scripts/390828-atcoder-submission-radiobutton) - 「提出」ページに、各問題を選択するラジオボタンを設置する。[Chrome拡張版](https://chrome.google.com/webstore/detail/atcoder-submission-radiob/hkehpabdllmdfmflgjofmgcdbmjafcdd?hl=ja&gl=UA)もある。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_submission_radiobutton.png" alt="atcoder submission radiobutton">
+    </div>
+
+- [AtCoder Language Filter](https://greasyfork.org/ja/scripts/398148-atcoder-language-filter) - 「提出」ページで、提出する言語のフィルタリングと並び替えを行う。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_language_filter.png" alt="atcoder language filter">
+    </div>
+
+- [AtCoder Submission Language Detector](https://greasyfork.org/ja/scripts/448492-atcoder-submission-language-detector) - 「問題」「提出」「コードテスト」の各ページで、ソースコードのメタ情報に基づいて使用言語を検出・選択する。
+
+- [atcoder-bell](https://greasyfork.org/ja/scripts/377923-atcoder-bell) - ジャッジシステムでの正誤判定が終了すると、ベルが鳴る。
+
+- [atcoder-submission-wo-ikki-ni-miiru](https://greasyfork.org/ja/scripts/403062-atcoder-submission-wo-ikki-ni-miiru) - 「提出結果」ページにソースコードを表示する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_submission_wo_ikki_ni_miiru.png" alt="atcoder submission wo ikki ni miiru">
+    </div>
+
+- [AutoSubmissionsSettings.js](https://greasyfork.org/ja/scripts/390514-autosubmissionssettings-js) - 「すべての提出」ページで、指定した言語と結果で検索するボタンを追加する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/auto_submissions_settings_js.png" alt="auto submissions settings js">
+    </div>
+
+- [ac-search-old-languages](https://greasyfork.org/ja/scripts/405745-ac-search-old-languages) - 「提出結果」ページで、judge-update-202004以前の言語による提出コードを検索できるようにする。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/ac_search_old_languages.png" alt="ac search old languages">
+    </div>
+
+- [AtCoderSubmitSearchSettings](https://greasyfork.org/ja/scripts/390424-atcodersubmitsearchsettings) - 「すべての提出」ページで、古いバージョンで提出されたコードを検索できる。検索のデフォルト設定も指定できる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_submit_search_settings.png" alt="atcoder submit search settings">
+    </div>
+
+- [Add Shortest Tab](https://greasyfork.org/ja/scripts/391692-add-shortest-tab) - 開いている問題について、コード長に並べた提出ページのタブを追加する。
+
+    !!! warning "注意"
+        コンテスト中の利用は非推奨。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/add_shortest_tab.jpeg" alt="add shortest tab">
+    </div>
+
 ### コンテストの成績や関連する統計情報を見る
 
 - [Atcoder Perf Graph](https://greasyfork.org/ja/scripts/476103-atcoder-perf-graph) - ユーザの「プロフィール」ページにあるレーティンググラフに、各コンテストのパフォーマンス値を折れ線グラフで重ねて表示する。
@@ -796,6 +851,12 @@ title: 更新停止の可能性が高い
 - [AtCoderSupporter](https://github.com/shun0923/AtCoderSupporter) ![GitHub stars](https://img.shields.io/github/stars/shun0923/AtCoderSupporter?style=plastic) - サンプルケースのテストと提出ができる。
 
 #### 複数の言語
+
+- [AC Deck](https://github.com/sachaos/ac-deck) ![GitHub stars](https://img.shields.io/github/stars/sachaos/ac-deck?style=plastic) - サンプルのテスト([Docker](https://www.docker.com/)にも対応)、提出ができる。対応言語は、C++ (GCC 9.2.1)、Python3 (3.8.2)、Go (1.14.1、[Gonum](https://www.gonum.org/)には未対応)、Rust (1.42.0)。組み込みのテンプレートが用意されており、主要な言語に対応している。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/cli/ac_deck.gif" alt="ac deck">
+    </div>
 
 - [atsubmit](https://github.com/flow6852/atsubmit) ![GitHub stars](https://img.shields.io/github/stars/flow6852/atsubmit?style=plastic) - サンプルの取得・テスト、提出、結果の閲覧を自動で行うことができる。テストケースの正誤判定は、HaskellとRustが可能。
 - [getac](https://github.com/fukamachi/getac) ![GitHub stars](https://img.shields.io/github/stars/fukamachi/getac?style=plastic) - サンプルのテストを実行できる。対応言語は、C、C++、Clojure、Common Lisp、Go、Haskell、Java、Node.js、Python、Ruby、Scheme。
