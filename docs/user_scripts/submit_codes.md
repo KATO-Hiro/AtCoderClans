@@ -26,6 +26,14 @@ title: ソースコードの提出・確認を簡単に
       <img loading = "lazy" src="../../images/userscript/atcoder_sample_downloader.png" alt="atcoder sample downloader">
     </div>
 
+### ZIP ファイルの取得を簡単に
+
+- [AtCoder Zip Copy](https://greasyfork.org/ja/scripts/575504-atcoder-zip-copy) - 「問題」ページにある ZIP ファイルのURLをコピーできるボタンを追加する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_zip_copy.png" alt="atcoder zip copy">
+    </div>
+
 ### バグがないか事前に確認
 
 - [AtCoder_CustomTest_Run_Shortcut](https://greasyfork.org/ja/scripts/418633-atcoder-customtest-run-shortcut) - 「コードテスト」ページで、Ctrl+Enterを押すと、標準入力の値を使用してソースコードを実行する。
