@@ -109,16 +109,12 @@
       <img loading="lazy" src="images/web_app/atcoder_rating_estimator2.png" alt="atcoder rating estimator">
     </div>
 
-    2026-07-05
-
-    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
-        - [Graph Editor](https://graph-editor.daikusutora3.workers.dev/)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/graph_editor2.png" alt="graph editor2">
-    </div>
-
 === "ユーザスクリプト"
+
+    2026-07-19
+
+    - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
+        - [AtCoder Zip Copy](https://greasyfork.org/ja/scripts/575504-atcoder-zip-copy)
 
     2026-07-16
 
@@ -209,20 +205,27 @@
 
 === "アーカイブス"
 
-    諸事情により開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+    諸事情により事実上開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2026-07-19
+
+    - AC Deck
+    - AtCoder Sample Downloader
+    - AtCoder-Submission-RadioButton
+    - AtCoder Language Filter
+    - AtCoder Submission Language Detector
+    - atcoder-bell
+    - atcoder-submission-wo-ikki-ni-miiru
+    - AutoSubmissionsSettings.js
+    - ac-search-old-languages
+    - AtCoderSubmitSearchSettings
+    - Add Shortest Tab
 
     2026-07-15
 
     - Atcoder Perf Graph
     - AtCoder - You're top X%
     - AtCoder Heuristic Rating Estimator
-
-    2026-07-05
-
-    - online-judge-tools/template-generator-webapp
-    - Sheep Visualize Graph Beta
-    - グラフ可視化ツール
-    - Marathon General Visualizer
 
 ## AtCoder公式グッズを購入する
 

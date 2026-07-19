@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-07-19
+
+- [#12444](https://github.com/KATO-Hiro/AtCoderClans/pull/12444) - 「[Scripts](../../scripts)」の「[ソースコードの提出・確認を簡単に](../../user_scripts/submit_codes)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Zip Copy](https://greasyfork.org/ja/scripts/575504-atcoder-zip-copy)
+
 ### 2026-07-18
 
 - [#12441](https://github.com/KATO-Hiro/AtCoderClans/pull/12441) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。

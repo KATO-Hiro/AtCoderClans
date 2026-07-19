@@ -20,12 +20,6 @@ title: ソースコードの提出・確認を簡単に
       <img loading = "lazy" src="../../images/userscript/atcoder_print_task_copy.png" alt="atcoder print task copy">
     </div>
 
-- [AtCoder Sample Downloader](https://greasyfork.org/ja/scripts/425977-atcoder-sample-downloader) - 「問題」ページに、入出力例をダウンロードできるボタンを設置する。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcoder_sample_downloader.png" alt="atcoder sample downloader">
-    </div>
-
 ### ZIP ファイルの取得を簡単に
 
 - [AtCoder Zip Copy](https://greasyfork.org/ja/scripts/575504-atcoder-zip-copy) - 「問題」ページにある ZIP ファイルのURLをコピーできるボタンを追加する。
@@ -72,12 +66,6 @@ title: ソースコードの提出・確認を簡単に
     <img loading = "lazy" src="../../images/userscript/atcoder_problem_buttons.png" alt="atcoder problem buttons">
   </div>
 
-- [AtCoder-Submission-RadioButton](https://greasyfork.org/ja/scripts/390828-atcoder-submission-radiobutton) - 「提出」ページに、各問題を選択するラジオボタンを設置する。[Chrome拡張版](https://chrome.google.com/webstore/detail/atcoder-submission-radiob/hkehpabdllmdfmflgjofmgcdbmjafcdd?hl=ja&gl=UA)もある。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcoder_submission_radiobutton.png" alt="atcoder submission radiobutton">
-    </div>
-
 ### 言語のフィルタリング・選択
 
 - [AtCoderLanguageButtons](https://greasyfork.org/ja/scripts/421663-atcoderlanguagebuttons) - 「問題」「提出」「コードテスト」の各ページに、提出する言語を簡単に切り替えられるボタンを設置する。
@@ -85,14 +73,6 @@ title: ソースコードの提出・確認を簡単に
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_language_buttons.png" alt="atcoder language buttons">
     </div>
-
-- [AtCoder Language Filter](https://greasyfork.org/ja/scripts/398148-atcoder-language-filter) - 「提出」ページで、提出する言語のフィルタリングと並び替えを行う。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcoder_language_filter.png" alt="atcoder language filter">
-    </div>
-
-- [AtCoder Submission Language Detector](https://greasyfork.org/ja/scripts/448492-atcoder-submission-language-detector) - 「問題」「提出」「コードテスト」の各ページで、ソースコードのメタ情報に基づいて使用言語を検出・選択する。
 
 ### ケアレスミス対策
 
@@ -173,8 +153,6 @@ title: ソースコードの提出・確認を簡単に
       <img loading = "lazy" src="../../images/userscript/atcoder_judge_progress_colorizer.png" alt="atcoder judge progress colorizer">
     </div>
 
-- [atcoder-bell](https://greasyfork.org/ja/scripts/377923-atcoder-bell) - ジャッジシステムでの正誤判定が終了すると、ベルが鳴る。
-
 - [AtCoderResultNotifier](https://greasyfork.org/ja/scripts/371225-atcoderresultnotifier) - 提出結果を通知する。
 
     <div align="center">
@@ -203,14 +181,6 @@ title: ソースコードの提出・確認を簡単に
       <img loading = "lazy" src="../../images/userscript/atcoder_average_result.png" alt="atcoder average result">
     </div>
 
-### ソースコードをまとめて表示
-
-- [atcoder-submission-wo-ikki-ni-miiru](https://greasyfork.org/ja/scripts/403062-atcoder-submission-wo-ikki-ni-miiru) - 「提出結果」ページにソースコードを表示する。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcoder_submission_wo_ikki_ni_miiru.png" alt="atcoder submission wo ikki ni miiru">
-    </div>
-
 ## 提出コードを検索する
 
 ### 検索条件を指定
@@ -233,28 +203,10 @@ title: ソースコードの提出・確認を簡単に
 
 - [AtCoder Search Query Holder](https://greasyfork.org/ja/scripts/460696-atcoder-search-query-holder) - 検索条件を保持したまま「自分の提出」ページから「すべての提出」ページへ移動できる。
 
-- [AutoSubmissionsSettings.js](https://greasyfork.org/ja/scripts/390514-autosubmissionssettings-js) - 「すべての提出」ページで、指定した言語と結果で検索するボタンを追加する。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/auto_submissions_settings_js.png" alt="auto submissions settings js">
-    </div>
-
 - [AtCoder この問題の提出一覧に移動](https://greasyfork.org/ja/scripts/564014-atcoder-%E3%81%93%E3%81%AE%E5%95%8F%E9%A1%8C%E3%81%AE%E6%8F%90%E5%87%BA%E4%B8%80%E8%A6%A7%E3%81%AB%E7%A7%BB%E5%8B%95) - 「問題」や「解説」の詳細ページを開いているとき、「提出結果」タブに閲覧中の問題の提出一覧へのリンクを追加する。
 
     <div align="center">
       <img loading="lazy" src="../../images/userscript/go_to_list_of_submitted_tasks.png" alt="go to list of submitted tasks">
-    </div>
-
-- [ac-search-old-languages](https://greasyfork.org/ja/scripts/405745-ac-search-old-languages) - 「提出結果」ページで、judge-update-202004以前の言語による提出コードを検索できるようにする。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/ac_search_old_languages.png" alt="ac search old languages">
-    </div>
-
-- [AtCoderSubmitSearchSettings](https://greasyfork.org/ja/scripts/390424-atcodersubmitsearchsettings) - 「すべての提出」ページで、古いバージョンで提出されたコードを検索できる。検索のデフォルト設定も指定できる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcoder_submit_search_settings.png" alt="atcoder submit search settings">
     </div>
 
 ### 順位表から探す
@@ -271,17 +223,6 @@ title: ソースコードの提出・確認を簡単に
 
     <div align="center">
       <img loading="lazy" src="../../images/userscript/atcoder_quickly_check_fastest_codes.png" alt="atcoder quickly check fastest codes">
-    </div>
-
-### 最短コード
-
-- [Add Shortest Tab](https://greasyfork.org/ja/scripts/391692-add-shortest-tab) - 開いている問題について、コード長に並べた提出ページのタブを追加する。
-
-    !!! warning "注意"
-        コンテスト中の利用は非推奨。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/add_shortest_tab.jpeg" alt="add shortest tab">
     </div>
 
 ### 外部サービスの利用
