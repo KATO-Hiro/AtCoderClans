@@ -26,9 +26,9 @@ title: ソースコードの提出・確認を簡単に
       <img loading = "lazy" src="../../images/userscript/atcoder_sample_downloader.png" alt="atcoder sample downloader">
     </div>
 
-### Zip ファイルの取得を簡単に
+### ZIP ファイルの取得を簡単に
 
-- [AtCoder Zip Copy](https://greasyfork.org/ja/scripts/575504-atcoder-zip-copy) - 「問題」ページにある Zip ファイルのURLをコピーできるボタンを追加する。
+- [AtCoder Zip Copy](https://greasyfork.org/ja/scripts/575504-atcoder-zip-copy) - 「問題」ページにある ZIP ファイルのURLをコピーできるボタンを追加する。
 
     <div align="center">
       <img loading="lazy" src="../../images/userscript/atcoder_zip_copy.png" alt="atcoder zip copy">
