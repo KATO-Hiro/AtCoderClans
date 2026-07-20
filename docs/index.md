@@ -159,6 +159,11 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
+    2026-07-20
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [tatesoto](https://atcoder.jp/users/tatesoto)さん - [Zenn](https://zenn.dev/tatesoto)
+
     2026-07-18
 
     - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
@@ -171,13 +176,6 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [AtCoder World Tour Finals 2026 Algorithm English stream](https://www.youtube.com/live/6kyPalDSI4c)
         - [AtCoder World Tour Finals 2026 Algorithm Japanese stream](https://www.youtube.com/watch?v=Xe5q5mOuIf0)
-
-=== "ライブラリ・スニペット"
-
-    2026-07-06
-
-    - 「[Rust](libraries/rust)」ページ
-        - [Fe2O3-Tpa/ac-lib-bundle](https://github.com/Fe2O3-Tpa/ac-lib-bundle) ![GitHub Repo stars](https://img.shields.io/github/stars/Fe2O3-Tpa/ac-lib-bundle?style=plastic)
 
 === "色変記事"
 
