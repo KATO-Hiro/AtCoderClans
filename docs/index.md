@@ -136,6 +136,11 @@
 
 === "記事"
 
+    2026-07-21
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年7月21日時点)](https://x.com/atcoder/status/2079375194909810901)
+
     2026-07-14
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -150,11 +155,6 @@
 
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
         - [プログラミング完全未経験から始める！競技プログラミング入門ガイド](https://qiita.com/Un_titled/items/03b9b817bf2015321159)
-
-    2026-07-07
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年7月6日時点)](https://x.com/atcoder/status/2073932057076723783)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
