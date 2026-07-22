@@ -151,11 +151,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年7月13日時点)](https://x.com/atcoder/status/2076500627761582483)
 
-    2026-07-08
-
-    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
-        - [プログラミング完全未経験から始める！競技プログラミング入門ガイド](https://qiita.com/Un_titled/items/03b9b817bf2015321159)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -170,6 +165,11 @@
         - [bio4eta](https://atcoder.jp/users/bio4eta)さん - [はてなブログ](https://hudeha.hatenablog.com/)
 
 === "動画"
+
+    2026-07-22
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [まるーん【競プロ】](https://www.youtube.com/@maroonrk)
 
     2026-07-10
 
