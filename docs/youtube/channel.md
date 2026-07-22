@@ -16,7 +16,7 @@ title: チャンネル
 
 ## AITuber
 
-- [AITuberちえり](https://www.youtube.com/@AITuber-qe8vw/videos) - [chierin2](https://atcoder.jp/users/chierin2)さんのチャンネル。ヒューリスティック型のコンテストを振り返った動画が公開されている。
+- [AITuberちえり](https://www.youtube.com/@AITuber-qe8vw/videos) - [chierin3](https://atcoder.jp/users/chierin3)さんのチャンネル。ヒューリスティック型のコンテストを振り返った動画が公開されている。
 
 ## VTuber (バーチャルYouTuber)
 

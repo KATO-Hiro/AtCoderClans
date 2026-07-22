@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-07-22
+
+- [#12456](https://github.com/KATO-Hiro/AtCoderClans/pull/12456) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [まるーん【競プロ】](https://www.youtube.com/@maroonrk)
+
 ### 2026-07-21
 
 - [#12454](https://github.com/KATO-Hiro/AtCoderClans/pull/12454) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
