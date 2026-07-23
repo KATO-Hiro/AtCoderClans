@@ -69,6 +69,10 @@ title: C&#43;&#43;
 
 - [任意modでの畳み込み演算をO(nlog(n))で](https://math314.hateblo.jp/entry/2015/05/07/014908) - 畳み込み演算を行うときに、任意のmodを使って高速に計算する方法・実装について解説した記事。
 
+### Line Container
+
+- [Line Container (単調性のない CHT) をソラ書きしよう！](https://hackmd.io/@tatyam-prime/B1g4jtjNfe) - [kth-competitive-programming/kactl](https://github.com/kth-competitive-programming/kactl/blob/main/content/data-structures/LineContainer.h)に収録されているライブラリの解説と、より簡潔に書く方法が紹介されている。
+
 ### 抽象化Segment Tree
 
 - [遅延Segtree3](https://yosupo.hatenablog.com/entry/2023/12/09/010658) - C++20から導入された「concepts」を利用した抽象化Segment Treeの実装例が紹介されている。
