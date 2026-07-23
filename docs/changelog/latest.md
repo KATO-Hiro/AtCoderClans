@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-07-23
+
+- [#12463](https://github.com/KATO-Hiro/AtCoderClans/pull/12463) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - C++](../../articles/implementation/cpp)」ページに、以下の記事を追加。
+    - [Line Container (単調性のない CHT) をソラ書きしよう！](https://hackmd.io/@tatyam-prime/B1g4jtjNfe)
+
 ### 2026-07-22
 
 - [#12456](https://github.com/KATO-Hiro/AtCoderClans/pull/12456) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
