@@ -47,7 +47,7 @@ title: Change Log
 - [#12426](https://github.com/KATO-Hiro/AtCoderClans/pull/12426) - 「[Web apps and sites](../../web_app)」の「[コンテストの成績に関連するサービス](../../web_app/services_using_scores)」ページで掲載しているWebサービスのURL・名称などを更新。
     - [AtCoder Rating Estimator](https://atcoder-rating-estimator.pages.dev)
 - [#12423](https://github.com/KATO-Hiro/AtCoderClans/pull/12423) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
-    - [AtCoder Perf Graph (forked)](https://greasyfork.org/ja/scripts/586685-atcoder-perf-graph-forked)
+    - [New AtCoder Perf Graph](https://greasyfork.org/ja/scripts/586685-new-atcoder-perf-graph)
 - [#12415](https://github.com/KATO-Hiro/AtCoderClans/pull/12415) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
     - レーティング800から1199まで(緑色)に[WebP](https://atcoder.jp/users/WebP)さんの[記事](https://qiita.com/WebP/items/e57e661b4131a074a8e2)を追加。
 

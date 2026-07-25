@@ -120,7 +120,7 @@ title: コンテストの成績や関連する統計情報を見る
 
 ### パフォーマンス値の推移
 
-- [AtCoder Perf Graph (forked)](https://greasyfork.org/ja/scripts/586685-atcoder-perf-graph-forked) - ユーザの「プロフィール」ページにあるレーティンググラフに、各コンテストのパフォーマンス値を折れ線グラフで重ねて表示する。[AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=AtCoder+Heuristic+Contest)にも対応している。
+- [New AtCoder Perf Graph](https://greasyfork.org/ja/scripts/586685-new-atcoder-perf-graph) - ユーザの「プロフィール」ページにあるレーティンググラフに、各コンテストのパフォーマンス値を折れ線グラフで重ねて表示する。[AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=AtCoder+Heuristic+Contest)にも対応している。
 
     <div align="center">
       <img loading="lazy" src="../../images/userscript/atcoder_perf_graph_forked.png" alt="atcoder perf graph forked">
