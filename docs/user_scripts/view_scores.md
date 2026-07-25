@@ -182,6 +182,12 @@ title: コンテストの成績や関連する統計情報を見る
       <img loading = "lazy" src="../../images/userscript/atcoder_graph_time.png" alt="atcoder graph time">
     </div>
 
+- [AtCoder Log Rating Graph](https://greasyfork.org/ja/scripts/587694-atcoder-log-rating-graph) - 「ユーザ」ページにあるレーティンググラフの横軸を対数軸で表示する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_log_rating_graph.png" alt="atcoder log rating graph">
+    </div>
+
 - [AtCoder Recent Rating Graph](https://greasyfork.org/ja/scripts/580857-atcoder-recent-rating-graph) - 「ユーザ」ページにあるレーティンググラフのうち、直近 N か月（指定可能）の推移を表示する。
 
     <div align="center">
