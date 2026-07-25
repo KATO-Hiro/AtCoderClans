@@ -111,6 +111,15 @@
 
 === "ユーザスクリプト"
 
+    2026-07-25
+
+    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
+        - [AtCoder Log Rating Graph](https://greasyfork.org/ja/scripts/587694-atcoder-log-rating-graph)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_log_rating_graph.png" alt="atcoder log rating graph">
+    </div>
+
     2026-07-19
 
     - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
@@ -176,12 +185,6 @@
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [まるーん【競プロ】](https://www.youtube.com/@maroonrk)
 
-    2026-07-10
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [AtCoder World Tour Finals 2026 Algorithm English stream](https://www.youtube.com/live/6kyPalDSI4c)
-        - [AtCoder World Tour Finals 2026 Algorithm Japanese stream](https://www.youtube.com/watch?v=Xe5q5mOuIf0)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
@@ -200,11 +203,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [sabacha](https://atcoder.jp/users/sabacha)さん - [Atcoder入青したので振り返る](https://qiita.com/54b4ch4/items/c62cf9cca6b5a05519c4)
-
-    2026-07-10
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [daikusutora3](https://atcoder.jp/users/daikusutora3)さん - [AtCoderを3年ぶりに復帰して入水したVTuberの話](https://zenn.dev/daikusutora3/articles/76dae047234bd7)
 
 === "アーカイブス"
 

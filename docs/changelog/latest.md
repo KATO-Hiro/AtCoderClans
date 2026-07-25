@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-07-25
+
+- [#12468](https://github.com/KATO-Hiro/AtCoderClans/pull/12468) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Log Rating Graph](https://greasyfork.org/ja/scripts/587694-atcoder-log-rating-graph)
+
 ### 2026-07-23
 
 - [#12463](https://github.com/KATO-Hiro/AtCoderClans/pull/12463) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - C++](../../articles/implementation/cpp)」ページに、以下の記事を追加。
