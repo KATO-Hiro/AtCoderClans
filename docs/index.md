@@ -128,7 +128,7 @@
     2026-07-15
 
     - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
-        - [AtCoder Perf Graph (forked)](https://greasyfork.org/ja/scripts/586685-atcoder-perf-graph-forked)
+        - [New AtCoder Perf Graph](https://greasyfork.org/ja/scripts/586685-new-atcoder-perf-graph)
 
     <div align="center">
       <img loading="lazy" src="images/userscript/atcoder_perf_graph_forked.png" alt="atcoder perf graph forked">
