@@ -189,6 +189,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2026-07-26
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [Nihonielse](https://atcoder.jp/users/Nihonielse)さん - [AtCoderで入緑した話](https://qiita.com/Nihonielse/items/4083917a4f73be0c134a)
+
     2026-07-17
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
@@ -198,11 +203,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [WebP](https://atcoder.jp/users/WebP)さん - [AtCoderで入緑しました！](https://qiita.com/WebP/items/e57e661b4131a074a8e2)
-
-    2026-07-12
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [sabacha](https://atcoder.jp/users/sabacha)さん - [Atcoder入青したので振り返る](https://qiita.com/54b4ch4/items/c62cf9cca6b5a05519c4)
 
 === "アーカイブス"
 
