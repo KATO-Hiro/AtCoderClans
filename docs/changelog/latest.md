@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-07-27
+
+- [#12477](https://github.com/KATO-Hiro/AtCoderClans/pull/12477) - 「[Related Contest Sites](../../related_contest_sites)」の「[ICPC (国際大学対抗プログラミングコンテスト)](../../related_contest_sites/icpc)」ページに、以下の記事を追加。
+    - [視覚障害者だけでチームを組んでICPCに出場したお話](https://note.com/okawari_0915/n/n7b011e0ec2d5)
+
 ### 2026-07-26
 
 - [#12473](https://github.com/KATO-Hiro/AtCoderClans/pull/12473) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
