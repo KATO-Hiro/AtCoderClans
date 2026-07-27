@@ -160,11 +160,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AtCoder World Tour Finals 2026 Heuristic 参加記](https://blog.terry-u16.net/entry/awtf2026heuristic)
 
-    2026-07-13
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年7月13日時点)](https://x.com/atcoder/status/2076500627761582483)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -203,6 +198,13 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [WebP](https://atcoder.jp/users/WebP)さん - [AtCoderで入緑しました！](https://qiita.com/WebP/items/e57e661b4131a074a8e2)
+
+=== "国内外のコンテストサイト"
+
+    2026-07-27
+
+    - 「[ICPC (国際大学対抗プログラミングコンテスト)](related_contest_sites/icpc)」ページ
+        - [視覚障害者だけでチームを組んでICPCに出場したお話](https://note.com/okawari_0915/n/n7b011e0ec2d5)
 
 === "アーカイブス"
 
