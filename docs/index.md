@@ -145,6 +145,11 @@
 
 === "記事"
 
+    2026-07-28
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年7月28日時点)](https://x.com/atcoder/status/2081936658426114269)
+
     2026-07-23
 
     - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
@@ -154,11 +159,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年7月21日時点)](https://x.com/atcoder/status/2079375194909810901)
-
-    2026-07-14
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AtCoder World Tour Finals 2026 Heuristic 参加記](https://blog.terry-u16.net/entry/awtf2026heuristic)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
