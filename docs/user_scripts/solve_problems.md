@@ -79,10 +79,10 @@ title: 問題を解く
 
 ### 難易度順
 
-- [atcoder-typical90-sort](https://greasyfork.org/ja/scripts/428698-atcoder-typical90-sort) - 「[競プロ典型90問](https://atcoder.jp/contests/typical90)」の問題を、難易度が低い順に並び替える。
+- [競プロ典型90問 ★順ソート・提出状況色付け](https://greasyfork.org/ja/scripts/588601-%E7%AB%B6%E3%83%97%E3%83%AD%E5%85%B8%E5%9E%8B90%E5%95%8F-%E9%A0%86%E3%82%BD%E3%83%BC%E3%83%88-%E6%8F%90%E5%87%BA%E7%8A%B6%E6%B3%81%E8%89%B2%E4%BB%98%E3%81%91) - 「[競プロ典型90問](https://atcoder.jp/contests/typical90)」の問題を難易度が低い順に並び替える。回答状況（AC・解説AC・未提出・それ以外）に応じた色付けも可能。
 
     <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcoder_typical90_sort.png" alt="atcoder typical90 sort">
+      <img loading="lazy" src="../../images/userscript/typical90_sort_and_status_colorizer.png" alt="typical90 sort and status colorizer">
     </div>
 
 - [tessoku_display_difficulty](https://greasyfork.org/ja/scripts/453352-tessoku-display-difficulty) - 「[競技プログラミングの鉄則](https://atcoder.jp/contests/tessoku-book)」の問題一覧に、難易度を表す星マークを追加する。また、難易度が低い順に並び替えることもできる。
