@@ -98,18 +98,16 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "Webアプリ・Webサイト"
+=== "ユーザスクリプト"
 
-    2026-07-15
+    2026-07-29
 
-    - 「[コンテストの成績に関連するサービス](web_app/services_using_scores)」ページ
-        - [AtCoder Rating Estimator](https://atcoder-rating-estimator.pages.dev)
+    - 「[問題を解く](user_scripts/solve_problems)」ページ
+        - [競プロ典型90問 ★順ソート・提出状況色付け](https://greasyfork.org/ja/scripts/588601-%E7%AB%B6%E3%83%97%E3%83%AD%E5%85%B8%E5%9E%8B90%E5%95%8F-%E9%A0%86%E3%82%BD%E3%83%BC%E3%83%88-%E6%8F%90%E5%87%BA%E7%8A%B6%E6%B3%81%E8%89%B2%E4%BB%98%E3%81%91)
 
     <div align="center">
-      <img loading="lazy" src="images/web_app/atcoder_rating_estimator2.png" alt="atcoder rating estimator">
+      <img loading="lazy" src="images/userscript/typical90_sort_and_status_colorizer.png" alt="typical90 sort and status colorizer">
     </div>
-
-=== "ユーザスクリプト"
 
     2026-07-25
 
@@ -132,15 +130,6 @@
 
     <div align="center">
       <img loading="lazy" src="images/userscript/atcoder_problems_problem_list_sort_marker.png" alt="atcoder problems problem list sort marker">
-    </div>
-
-    2026-07-15
-
-    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
-        - [New AtCoder Perf Graph](https://greasyfork.org/ja/scripts/586685-new-atcoder-perf-graph)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_perf_graph_forked.png" alt="atcoder perf graph forked">
     </div>
 
 === "記事"
@@ -194,11 +183,6 @@
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [siooisi](https://atcoder.jp/users/siooisi)さん - [入水したのでいろいろ書いた](https://qiita.com/siooisi/items/e50013e4ee7d615cba37)
 
-    2026-07-15
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [WebP](https://atcoder.jp/users/WebP)さん - [AtCoderで入緑しました！](https://qiita.com/WebP/items/e57e661b4131a074a8e2)
-
 === "国内外のコンテストサイト"
 
     2026-07-27
@@ -209,6 +193,10 @@
 === "アーカイブス"
 
     諸事情により事実上開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2026-07-29
+
+    - atcoder-typical90-sort
 
     2026-07-19
 
@@ -223,12 +211,6 @@
     - ac-search-old-languages
     - AtCoderSubmitSearchSettings
     - Add Shortest Tab
-
-    2026-07-15
-
-    - Atcoder Perf Graph
-    - AtCoder - You're top X%
-    - AtCoder Heuristic Rating Estimator
 
 ## AtCoder公式グッズを購入する
 

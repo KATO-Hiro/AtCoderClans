@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-07-29
+
+- [#12489](https://github.com/KATO-Hiro/AtCoderClans/pull/12489) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
+    - [競プロ典型90問 ★順ソート・提出状況色付け](https://greasyfork.org/ja/scripts/588601-%E7%AB%B6%E3%83%97%E3%83%AD%E5%85%B8%E5%9E%8B90%E5%95%8F-%E9%A0%86%E3%82%BD%E3%83%BC%E3%83%88-%E6%8F%90%E5%87%BA%E7%8A%B6%E6%B3%81%E8%89%B2%E4%BB%98%E3%81%91)
+
 ### 2026-07-28
 
 - [#12484](https://github.com/KATO-Hiro/AtCoderClans/pull/12484) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
