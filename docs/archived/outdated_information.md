@@ -299,6 +299,12 @@ title: 更新停止の可能性が高い
 
 ### 問題を解く
 
+- [atcoder-typical90-sort](https://greasyfork.org/ja/scripts/428698-atcoder-typical90-sort) - 「[競プロ典型90問](https://atcoder.jp/contests/typical90)」の問題を、難易度が低い順に並び替える。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_typical90_sort.png" alt="atcoder typical90 sort">
+    </div>
+
 - [paste template](https://greasyfork.org/ja/scripts/441552-paste-template)
 
 - [Atcoder Title Copy](https://greasyfork.org/ja/scripts/434033-atcoder-title-copy) - 「問題」ページのタイトルをクリップボードにコピーできるボタンを追加する。
