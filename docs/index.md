@@ -123,16 +123,12 @@
     - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
         - [AtCoder Zip Copy](https://greasyfork.org/ja/scripts/575504-atcoder-zip-copy)
 
-    2026-07-16
-
-    - 「[Webページに色付けする](user_scripts/colors)」ページ
-        - [AtCoder Problems Problem List Sort Marker](https://greasyfork.org/ja/scripts/585967-atcoder-problems-problem-list-sort-marker)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_problems_problem_list_sort_marker.png" alt="atcoder problems problem list sort marker">
-    </div>
-
 === "記事"
+
+    2026-07-30
+
+    - 「[問題を作成・出題する](articles/for_writers)」ページ
+        - [【コンテスト開催記】AtCoder Regular Contest 225](https://milkcoffee.hatenablog.jp/entry/2026/07/20/113046)
 
     2026-07-28
 

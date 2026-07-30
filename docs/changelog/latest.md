@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-07-30
+
+- [#12493](https://github.com/KATO-Hiro/AtCoderClans/pull/12493) - 「[Articles, Blogs, Books and Videos](../../media)」の「[問題を作成・出題する](../../articles/for_writers)」ページに、以下の記事を追加。
+    - [【コンテスト開催記】AtCoder Regular Contest 225](https://milkcoffee.hatenablog.jp/entry/2026/07/20/113046)
+
 ### 2026-07-29
 
 - [#12489](https://github.com/KATO-Hiro/AtCoderClans/pull/12489) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
