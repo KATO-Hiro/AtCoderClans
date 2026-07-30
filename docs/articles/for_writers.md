@@ -42,3 +42,7 @@ title: 問題を作成・出題する
 
     !!! warning "注意"
         2022年7月時点で、第4回以降は未確認。
+
+## コンテスト開催記
+
+- [【コンテスト開催記】AtCoder Regular Contest 225](https://milkcoffee.hatenablog.jp/entry/2026/07/20/113046) - [milkcoffee](https://atcoder.jp/users/milkcoffee)さんによるコンテストの開催記。Writerの視点から、問題の着想や本質的な要素などを振り返っている。
