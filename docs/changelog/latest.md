@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-07-31
+
+- [#12498](https://github.com/KATO-Hiro/AtCoderClans/pull/12498) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[tb158](https://atcoder.jp/users/tb158)さんの[記事](https://note.com/tb158/n/nb451af8b7c03)を追加。
+
 ### 2026-07-30
 
 - [#12493](https://github.com/KATO-Hiro/AtCoderClans/pull/12493) - 「[Articles, Blogs, Books and Videos](../../media)」の「[問題を作成・出題する](../../articles/for_writers)」ページに、以下の記事を追加。

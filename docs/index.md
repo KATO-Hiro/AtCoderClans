@@ -169,15 +169,15 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2026-07-30
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [tb158](https://atcoder.jp/users/tb158)さん - [【Rust初心者】AtCoderで入緑しました](https://note.com/tb158/n/nb451af8b7c03)
+
     2026-07-26
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [Nihonielse](https://atcoder.jp/users/Nihonielse)さん - [AtCoderで入緑した話](https://qiita.com/Nihonielse/items/4083917a4f73be0c134a)
-
-    2026-07-17
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [siooisi](https://atcoder.jp/users/siooisi)さん - [入水したのでいろいろ書いた](https://qiita.com/siooisi/items/e50013e4ee7d615cba37)
 
 === "国内外のコンテストサイト"
 
