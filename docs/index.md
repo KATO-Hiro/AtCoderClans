@@ -118,11 +118,6 @@
       <img loading="lazy" src="images/userscript/atcoder_log_rating_graph.png" alt="atcoder log rating graph">
     </div>
 
-    2026-07-19
-
-    - 「[ソースコードの提出・確認を簡単に](user_scripts/submit_codes)」ページ
-        - [AtCoder Zip Copy](https://greasyfork.org/ja/scripts/575504-atcoder-zip-copy)
-
 === "記事"
 
     2026-07-30
@@ -164,6 +159,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2026-08-02
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [orangekid](https://atcoder.jp/users/orangekid)さん - [【入水記事】ABC467で入水しました！](https://note.com/orangekid1210/n/na83e07931c63)
+
     2026-08-01
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
@@ -193,20 +193,6 @@
     2026-07-29
 
     - atcoder-typical90-sort
-
-    2026-07-19
-
-    - AC Deck
-    - AtCoder Sample Downloader
-    - AtCoder-Submission-RadioButton
-    - AtCoder Language Filter
-    - AtCoder Submission Language Detector
-    - atcoder-bell
-    - atcoder-submission-wo-ikki-ni-miiru
-    - AutoSubmissionsSettings.js
-    - ac-search-old-languages
-    - AtCoderSubmitSearchSettings
-    - Add Shortest Tab
 
 ## AtCoder公式グッズを購入する
 
