@@ -153,11 +153,6 @@
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [tatesoto](https://atcoder.jp/users/tatesoto)さん - [Zenn](https://zenn.dev/tatesoto)
 
-    2026-07-18
-
-    - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
-        - [bio4eta](https://atcoder.jp/users/bio4eta)さん - [はてなブログ](https://hudeha.hatenablog.com/)
-
 === "動画"
 
     2026-07-22
@@ -169,7 +164,12 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
-    2026-07-30
+    2026-08-01
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [kanta38](https://atcoder.jp/users/kanta38)さん - [入緑しました！！！嬉しい！！！](https://note.com/kan_38/n/na28872602a9b)
+
+    2026-07-31
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [tb158](https://atcoder.jp/users/tb158)さん - [【Rust初心者】AtCoderで入緑しました](https://note.com/tb158/n/nb451af8b7c03)
