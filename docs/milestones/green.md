@@ -8,6 +8,7 @@ title: レーティング800〜1199(緑色)
 ## 2026年
 
 - [AtCoderで入緑した話](https://qiita.com/Nihonielse/items/4083917a4f73be0c134a) - [Nihonielse](https://atcoder.jp/users/Nihonielse)さんが、2026年7月25日に達成。
+- [入緑しました！！！嬉しい！！！](https://note.com/kan_38/n/na28872602a9b) - [kanta38](https://atcoder.jp/users/kanta38)さんが、2026年7月18日に達成。
 - [【Rust初心者】AtCoderで入緑しました](https://note.com/tb158/n/nb451af8b7c03) - [tb158](https://atcoder.jp/users/tb158)さんが、2026年7月18日に達成。
 - [AtCoderで入緑しました！](https://qiita.com/WebP/items/e57e661b4131a074a8e2) - [WebP](https://atcoder.jp/users/WebP)さんが、2026年7月11日に達成。
 - [【色変記事】緑うれしいね【AtCoder/競技プログラミング】](https://note.com/alllllllllly/n/n1e7673df2f27) - [alllllllllly](https://atcoder.jp/users/alllllllllly)さんが、2026年6月6日に達成。
