@@ -120,6 +120,11 @@
 
 === "記事"
 
+    2026-08-03
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年8月3日時点)](https://x.com/atcoder/status/2084097462114144618)
+
     2026-07-30
 
     - 「[問題を作成・出題する](articles/for_writers)」ページ
@@ -139,14 +144,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年7月21日時点)](https://x.com/atcoder/status/2079375194909810901)
-
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2026-07-20
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [tatesoto](https://atcoder.jp/users/tatesoto)さん - [Zenn](https://zenn.dev/tatesoto)
 
 === "動画"
 
