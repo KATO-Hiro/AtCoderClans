@@ -140,12 +140,12 @@
     - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
         - [Line Container (単調性のない CHT) をソラ書きしよう！](https://hackmd.io/@tatyam-prime/B1g4jtjNfe)
 
-    2026-07-21
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年7月21日時点)](https://x.com/atcoder/status/2079375194909810901)
-
 === "動画"
+
+    2026-08-04
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [深緑コーダーあるあると入水につながった精進方法【AtCoder】](https://www.youtube.com/watch?v=eRVmzqq8Wuk)
 
     2026-07-22
 
