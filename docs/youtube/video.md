@@ -16,6 +16,7 @@ title: 個別の動画
 - [【競技プログラミング】AtCoder緑色あるある【愚痴多め】](https://www.youtube.com/watch?v=oLaD-gJ5bhs) - AtCoderのレーティング800〜1199（通称、緑コーダー）のユーザが共感できる話題がまとめられている。
     - [【競技プログラミング】赤コーダーあるあるを言いたい！](https://www.youtube.com/watch?v=9hXegkBbjS8) - 同2800〜（通称、赤コーダー）版。
     - [【競プロ】青色コーダーあるある【競技プログラミング】](https://www.youtube.com/watch?v=J82t0YMVD38) - 同1600〜1999（通称、青コーダー）版。
+    - [深緑コーダーあるあると入水につながった精進方法【AtCoder】](https://www.youtube.com/watch?v=eRVmzqq8Wuk) - 緑コーダー版の続編。
 
 ## 解説動画
 
