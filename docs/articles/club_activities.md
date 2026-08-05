@@ -31,27 +31,33 @@ title: 部活・サークル・同好会・オンサイトイベントに参加�
 
 ### CodeQUEEN
 
+スポンサーによる活動報告や入賞者・参加者による参加記です。予選前後の状況・大会直前の練習内容・当日のコンテストの考察と振り返り・懇親会・オフ会などに言及されています。
+
+#### 2026
+
+- [CodeQUEEN2026決勝](https://note.com/rieul/n/n56d123acd5ed)、[CodeQUEEN 2026 参加記](https://momoharahara.hatenadiary.com/entry/2026/08/02/184540) - [CodeQUEEN 2026 決勝](https://atcoder.jp/contests/codequeen2026-final-Public)の入賞者・参加者による参加記。
+
 #### 2025
 
-- [CodeQUEEN 2025 に協賛しました！弊社メンバーが入賞しました！](https://www.estie.jp/blog/entry/2025/08/06/101041) - [CodeQUEEN 2025 決勝](https://atcoder.jp/contests/codequeen2025-final-Public)の協賛者による当日レポート。入賞者のコメントやスポンサーとしての活動内容がまとめられている。
+- [CodeQUEEN 2025 に協賛しました！弊社メンバーが入賞しました！](https://www.estie.jp/blog/entry/2025/08/06/101041) - [CodeQUEEN 2025 決勝](https://atcoder.jp/contests/codequeen2025-final-Public)の協賛者による当日レポート。
 
-- [CodeQUEEN 2025 参加記](https://momoharahara.hatenadiary.com/entry/2025/08/03/003143) - 同大会の優勝者による参加記。予選突破から決勝参加までの練習方針と内容、当日のコンテストや懇親会・オフ会などを振り返っている。
-- [CodeQUEEN2025決勝に出場しました！【4位！】](https://ayuna-stpyko.github.io/my_blog/archive/20250806.html)、[CodeQUEEN2025の決勝に行った話](https://note.com/rieul/n/nc12ca268c87c) - 同大会決勝の入賞者・参加者による参加記。予選通過前後の状況・大会直前の練習内容・当日のコンテストの考察と振り返り・懇親会・オフ会などに言及されている。
+- [CodeQUEEN 2025 参加記](https://momoharahara.hatenadiary.com/entry/2025/08/03/003143) - 同大会の優勝者による参加記。
+- [CodeQUEEN2025決勝に出場しました！【4位！】](https://ayuna-stpyko.github.io/my_blog/archive/20250806.html)、[CodeQUEEN2025の決勝に行った話](https://note.com/rieul/n/nc12ca268c87c) - 同大会決勝の入賞者・参加者による参加記。
 
 #### 2024
 
-- [「CodeQUEEN 2024」決勝にスポンサーとして参加してきました！](https://note.e-seikatsu.info/n/n58a992f584f4) - 昨年に続き、[CodeQUEEN 2024 決勝](https://atcoder.jp/contests/codequeen2024-final-N9tn8QqD)の協賛者が当日を振り返った記事。主にコンテストの表彰式・懇親会について言及している。
+- [「CodeQUEEN 2024」決勝にスポンサーとして参加してきました！](https://note.e-seikatsu.info/n/n58a992f584f4) - 昨年に続き、[CodeQUEEN 2024 決勝](https://atcoder.jp/contests/codequeen2024-final-N9tn8QqD)の協賛者が当日を振り返った記事。
 
 - [総勢217名の女性競技プログラマーが参加　女性競技プログラミングコンテスト「CodeQUEEN」結果発表](https://prtimes.jp/main/html/rd/p/000000048.000028415.html) - 同コンテストの開催経緯と優勝者・上位入賞者のコメントがまとめられている。
-- [CodeQUEEN2024で優勝しました](https://www.forcia.com/blog/002983.html) - 同コンテストの優勝者が当日を振り返った参加記。配点に基づいた戦略・各問題の図解に加え、スポンサー活動にも言及されている。
-- [CodeQUEEN 2024参加記](https://momoharahara.hatenadiary.com/entry/2024/08/07/122348) - [CodeQUEEN 2024 決勝](https://atcoder.jp/contests/codequeen2024-final-N9tn8QqD)の参加記。本番までの練習内容・コンテスト当日の振り返り・各種イベント・オフ会などについてまとめられている。
+- [CodeQUEEN2024で優勝しました](https://www.forcia.com/blog/002983.html) - 同コンテストの優勝者が当日を振り返った参加記。
+- [CodeQUEEN 2024参加記](https://momoharahara.hatenadiary.com/entry/2024/08/07/122348) - [CodeQUEEN 2024 決勝](https://atcoder.jp/contests/codequeen2024-final-N9tn8QqD)の参加記。
 
 #### 2023
 
-- [「CodeQUEEN 2023」にスポンサーとしておじゃましてきました！](https://note.e-seikatsu.info/n/n423fde3ccf32) - [CodeQUEEN 2023 決勝](https://atcoder.jp/contests/codequeen2023-final-open)の協賛者が当日を振り返った記事。スポンサー参加の経緯、会場のスナップショット、スポンサーセッション、座談会、コンテストおよび結果発表・表彰式、懇親会の様子がまとめられている。
+- [「CodeQUEEN 2023」にスポンサーとしておじゃましてきました！](https://note.e-seikatsu.info/n/n423fde3ccf32) - [CodeQUEEN 2023 決勝](https://atcoder.jp/contests/codequeen2023-final-open)の協賛者が当日を振り返った記事。
 
-- [CodeQUEEN2023でスポンサーをしたり優勝したりした話](https://www.forcia.com/blog/002760.html) - [CodeQUEEN 2023 決勝](https://atcoder.jp/contests/codequeen2023-final-open)に、個人と会社の両方の立場からイベントの参加内容を報告している記事。スポンサー参加までの経緯やコンテストの振り返りだけでなく、同イベントから高校生のインターンの受け入れと実務的な成果につながったことも言及されている。
-    - [CodeQUEEN2023決勝に出場しました！](https://ayuna-stpyko.github.io/my_blog/archive/20231023.html)、[女性オンリーオンサイトイベント【CodeQUEEN 2023】に参加した話](https://d-burioden.hateblo.jp/entry/2023/10/23/220439)、[CodeQUEEN 2023 決勝 参加記](https://abvi.hatenablog.com/entry/2024012600) - 同イベントの参加記。オンサイトイベントへの参加決定までの経緯・コンテストの振り返り・各種イベント・オフ会などについてまとめられている。
+- [CodeQUEEN2023でスポンサーをしたり優勝したりした話](https://www.forcia.com/blog/002760.html) - [CodeQUEEN 2023 決勝](https://atcoder.jp/contests/codequeen2023-final-open)に、個人と会社の両方の立場からイベントの参加内容を報告している記事。
+    - [CodeQUEEN2023決勝に出場しました！](https://ayuna-stpyko.github.io/my_blog/archive/20231023.html)、[女性オンリーオンサイトイベント【CodeQUEEN 2023】に参加した話](https://d-burioden.hateblo.jp/entry/2023/10/23/220439)、[CodeQUEEN 2023 決勝 参加記](https://abvi.hatenablog.com/entry/2024012600) - 同イベントの参加記。
 
 ### TOUPC001
 
