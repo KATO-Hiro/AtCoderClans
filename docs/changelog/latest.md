@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-08-05
+
+- [#12521](https://github.com/KATO-Hiro/AtCoderClans/pull/12521)、[#12522](https://github.com/KATO-Hiro/AtCoderClans/pull/12522) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
+    - [CodeQUEEN2026決勝](https://note.com/rieul/n/n56d123acd5ed)
+    - [CodeQUEEN 2026 参加記](https://momoharahara.hatenadiary.com/entry/2026/08/02/184540)
+    - [【灰色・その他目線で】CodeQUEEN2026予選＆決勝【参加記事】](https://note.com/viiny/n/n1d2d8f98d2f9)
+
 ### 2026-08-04
 
 - [#12516](https://github.com/KATO-Hiro/AtCoderClans/pull/12516) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。

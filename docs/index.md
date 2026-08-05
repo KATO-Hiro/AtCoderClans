@@ -120,6 +120,13 @@
 
 === "記事"
 
+    2026-08-06
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [CodeQUEEN2026決勝](https://note.com/rieul/n/n56d123acd5ed)
+        - [CodeQUEEN 2026 参加記](https://momoharahara.hatenadiary.com/entry/2026/08/02/184540)
+        - [【灰色・その他目線で】CodeQUEEN2026予選＆決勝【参加記事】](https://note.com/viiny/n/n1d2d8f98d2f9)
+
     2026-08-03
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -146,11 +153,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [深緑コーダーあるあると入水につながった精進方法【AtCoder】](https://www.youtube.com/watch?v=eRVmzqq8Wuk)
-
-    2026-07-22
-
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [まるーん【競プロ】](https://www.youtube.com/@maroonrk)
 
 === "色変記事"
 
