@@ -120,7 +120,7 @@
 
 === "記事"
 
-    2026-08-06
+    2026-08-05
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
         - [CodeQUEEN2026決勝](https://note.com/rieul/n/n56d123acd5ed)
@@ -142,11 +142,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年7月28日時点)](https://x.com/atcoder/status/2081936658426114269)
 
-    2026-07-23
-
-    - 「[実装テクニックを学ぶ - C++](articles/implementation/cpp)」ページ
-        - [Line Container (単調性のない CHT) をソラ書きしよう！](https://hackmd.io/@tatyam-prime/B1g4jtjNfe)
-
 === "動画"
 
     2026-08-04
@@ -157,6 +152,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-08-06
+
+    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
+        - [AXT_AyaKoto](https://atcoder.jp/users/AXT_AyaKoto)さん - [TypeScriptでAtCoderに挑戦する、ということ【入水記念】](https://zenn.dev/aya_koto/articles/95c9303d6d8573)
 
     2026-08-02
 

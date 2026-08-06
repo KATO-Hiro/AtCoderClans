@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-08-06
+
+- [#12527](https://github.com/KATO-Hiro/AtCoderClans/pull/12527) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[AXT_AyaKoto](https://atcoder.jp/users/AXT_AyaKoto)さんの[記事](https://zenn.dev/aya_koto/articles/95c9303d6d8573)を追加。
+
 ### 2026-08-05
 
 - [#12521](https://github.com/KATO-Hiro/AtCoderClans/pull/12521)、[#12522](https://github.com/KATO-Hiro/AtCoderClans/pull/12522) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
