@@ -4,6 +4,7 @@ title: レーティング1200〜1599(水色)
 
 ## 2026年
 
+- [TypeScriptでAtCoderに挑戦する、ということ【入水記念】](https://zenn.dev/aya_koto/articles/95c9303d6d8573) - [AXT_AyaKoto](https://atcoder.jp/users/AXT_AyaKoto)さんが、2026年8月1日に達成。
 - [【入水記事】ABC467で入水しました！](https://note.com/orangekid1210/n/na83e07931c63) - [orangekid](https://atcoder.jp/users/orangekid)さんが、2026年7月19日に公開。
 - [入水したのでいろいろ書いた](https://qiita.com/siooisi/items/e50013e4ee7d615cba37) - [siooisi](https://atcoder.jp/users/siooisi)さんが、2026年7月17日に公開。
 - [AtCoderを3年ぶりに復帰して入水したVTuberの話](https://zenn.dev/daikusutora3/articles/76dae047234bd7) - [daikusutora3](https://atcoder.jp/users/daikusutora3)さんが、2026年7月8日に公開。
