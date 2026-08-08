@@ -179,6 +179,8 @@ Webページの背景色の変更や文字・提出コード・問題の正誤�
       <img loading = "lazy" src="../../images/userscript/atcoder_submission_user_colorizer.png" alt="atcoder submission user colorizer">
     </div>
 
+- [AtCoder Submissions Sort Marker](https://greasyfork.org/ja/scripts/585956-atcoder-submissions-sort-marker/post-install) - 「提出結果」で、選択した列に ▲ もしくは ▼ を表示する。
+
 ### 順位表
 
 - [perf on standings](https://greasyfork.org/ja/scripts/422106-perf-on-standings) - 「順位表」ページで、Rated対象者の順位をパフォーマンス値に対応した色で塗る。
