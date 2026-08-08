@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-08-08
+
+- [#12534](https://github.com/KATO-Hiro/AtCoderClans/pull/12534) - 「[Scripts](../../scripts)」の「[Webページに色付けする](../../user_scripts/colors)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Submissions Sort Marker](https://greasyfork.org/ja/scripts/585956-atcoder-submissions-sort-marker/post-install)
+
 ### 2026-08-07
 
 - [#12530](https://github.com/KATO-Hiro/AtCoderClans/pull/12530) - (破壊的な変更) 「[Change Log](../latest)」ページの2026年7月分を月別のアーカイブに移動。

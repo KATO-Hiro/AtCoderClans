@@ -100,6 +100,11 @@
 
 === "ユーザスクリプト"
 
+    2026-08-08
+
+    - 「[Webページに色付けする](user_scripts/colors)」ページ
+        - [AtCoder Submissions Sort Marker](https://greasyfork.org/ja/scripts/585956-atcoder-submissions-sort-marker/post-install)
+
     2026-07-29
 
     - 「[問題を解く](user_scripts/solve_problems)」ページ
