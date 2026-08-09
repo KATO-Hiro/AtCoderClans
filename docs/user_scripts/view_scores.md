@@ -208,6 +208,10 @@ title: コンテストの成績や関連する統計情報を見る
       <img loading = "lazy" src="../../images/userscript/atcoder_devotion_graph.png" alt="atcoder devotion graph">
     </div>
 
+### 順位表の並び替え
+
+- [AtCoder Standings: Sort Same Rank by Rating](https://greasyfork.org/ja/scripts/586325-atcoder-standings-sort-same-rank-by-rating) - 「順位表」ページで、順位が同じ場合にコンテスト開始前のレーティング（降順）で表示する。
+
 ### ユーザの成績で検索
 
 - [AtCoder Auto Pager](https://greasyfork.org/ja/scripts/421991-atcoder-auto-pager) - 「順位表」ページに、順位・得点・解答時間・パフォーマンスによる検索機能を追加する。
