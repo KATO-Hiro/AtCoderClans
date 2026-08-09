@@ -100,6 +100,11 @@
 
 === "ユーザスクリプト"
 
+    2026-08-09
+
+    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
+        - [AtCoder Standings: Sort Same Rank by Rating](https://greasyfork.org/ja/scripts/586325-atcoder-standings-sort-same-rank-by-rating)
+
     2026-08-08
 
     - 「[Webページに色付けする](user_scripts/colors)」ページ
