@@ -38,6 +38,7 @@ title: 部活・サークル・同好会・オンサイトイベントに参加�
 - [CodeQUEEN 2026 決勝](https://atcoder.jp/contests/codequeen2026-final-Public)の入賞者・参加者による参加記
     - [CodeQUEEN2026決勝](https://note.com/rieul/n/n56d123acd5ed)
     - [CodeQUEEN 2026 参加記](https://momoharahara.hatenadiary.com/entry/2026/08/02/184540)
+    - [CodeQueen2026 参加記録](https://zenn.dev/esusaki/articles/83acb6e5cbef2d)
     - [【灰色・その他目線で】CodeQUEEN2026予選＆決勝【参加記事】](https://note.com/viiny/n/n1d2d8f98d2f9)
 
 #### 2025
