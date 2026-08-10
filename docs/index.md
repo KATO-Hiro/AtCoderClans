@@ -130,6 +130,11 @@
 
 === "記事"
 
+    2026-08-10
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [CodeQueen2026 参加記録](https://zenn.dev/esusaki/articles/83acb6e5cbef2d)
+
     2026-08-05
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ

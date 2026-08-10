@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-08-10
+
+- [#12542](https://github.com/KATO-Hiro/AtCoderClans/pull/12542) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
+    - [CodeQueen2026 参加記録](https://zenn.dev/esusaki/articles/83acb6e5cbef2d)
+
 ### 2026-08-09
 
 - [#12538](https://github.com/KATO-Hiro/AtCoderClans/pull/12538) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
