@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-08-12
+
+- [#12552](https://github.com/KATO-Hiro/AtCoderClans/pull/12552) - 「[Scripts](../../scripts)」の「[問題を解く - Google Chromeの拡張機能](../../chrome_extensions/solve_problems)」ページに、以下の拡張機能と作者による紹介記事を追加。
+    - [AtCoder Workspace](https://chromewebstore.google.com/detail/atcoder-workspace/apoklhnhpoljcmnhcglejgjopfolhaeh)
+        - [AtCoderの環境構築？？初心者をなめるなあああ！！ ➡ なので1画面で完結するChrome拡張を作りました](https://qiita.com/rikutoyamada01/items/36efa284f5fdfb022a41)
+
 ### 2026-08-11
 
 - [#12546](https://github.com/KATO-Hiro/AtCoderClans/pull/12546) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門に、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
