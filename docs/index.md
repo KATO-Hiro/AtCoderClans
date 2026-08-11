@@ -119,13 +119,16 @@
       <img loading="lazy" src="images/userscript/typical90_sort_and_status_colorizer.png" alt="typical90 sort and status colorizer">
     </div>
 
-    2026-07-25
+=== "Chrome拡張機能"
 
-    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
-        - [AtCoder Log Rating Graph](https://greasyfork.org/ja/scripts/587694-atcoder-log-rating-graph)
+    2026-08-12
+
+    - 「[問題を解く - Google Chromeの拡張機能](chrome_extensions/solve_problems)」ページ
+        - [AtCoder Workspace](https://chromewebstore.google.com/detail/atcoder-workspace/apoklhnhpoljcmnhcglejgjopfolhaeh)
+            - [AtCoderの環境構築？？初心者をなめるなあああ！！ ➡ なので1画面で完結するChrome拡張を作りました](https://qiita.com/rikutoyamada01/items/36efa284f5fdfb022a41)
 
     <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_log_rating_graph.png" alt="atcoder log rating graph">
+      <img loading="lazy" src="images/chrome_extension/atcoder_workspace.png" alt="atcoder workspace">
     </div>
 
 === "記事"
@@ -151,11 +154,6 @@
 
     - 「[問題を作成・出題する](articles/for_writers)」ページ
         - [【コンテスト開催記】AtCoder Regular Contest 225](https://milkcoffee.hatenablog.jp/entry/2026/07/20/113046)
-
-    2026-07-28
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年7月28日時点)](https://x.com/atcoder/status/2081936658426114269)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -195,18 +193,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [tb158](https://atcoder.jp/users/tb158)さん - [【Rust初心者】AtCoderで入緑しました](https://note.com/tb158/n/nb451af8b7c03)
-
-    2026-07-26
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [Nihonielse](https://atcoder.jp/users/Nihonielse)さん - [AtCoderで入緑した話](https://qiita.com/Nihonielse/items/4083917a4f73be0c134a)
-
-=== "国内外のコンテストサイト"
-
-    2026-07-27
-
-    - 「[ICPC (国際大学対抗プログラミングコンテスト)](related_contest_sites/icpc)」ページ
-        - [視覚障害者だけでチームを組んでICPCに出場したお話](https://note.com/okawari_0915/n/n7b011e0ec2d5)
 
 === "アーカイブス"
 
