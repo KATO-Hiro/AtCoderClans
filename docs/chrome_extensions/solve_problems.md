@@ -10,7 +10,7 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/chrome_extension/atcoder_in_browser_playground.png" alt="atcoder in browser playground">
     </div>
 
-- [AtCoder Workspace](https://chromewebstore.google.com/detail/atcoder-workspace/apoklhnhpoljcmnhcglejgjopfolhaeh) - 1画面で、問題文の閲覧と実装、入出力を利用したテストや提出もできる。対応言語は、C++・Python・Rust・Java・Go。
+- [AtCoder Workspace](https://chromewebstore.google.com/detail/atcoder-workspace/apoklhnhpoljcmnhcglejgjopfolhaeh) - 1画面で、問題文の閲覧と実装、入出力を利用したテストやソースコードの提出もできる。対応言語は、C++・Python・Rust・Java・Go。
     - [AtCoderの環境構築？？初心者をなめるなあああ！！ ➡ なので1画面で完結するChrome拡張を作りました](https://qiita.com/rikutoyamada01/items/36efa284f5fdfb022a41) - 作者による紹介記事。
 
     <div align="center">
