@@ -24,6 +24,14 @@ title: 解説を読む
 
 - [AtCoder Editorial New Tab](https://greasyfork.org/ja/scripts/424207-atcoder-editorial-new-tab) - 「問題」ページにある「解説」ボタンを押すと、該当する解説を新しいタブで開くことができる。
 
+### 一覧を表示
+
+- [atcoder_editorial_all_open_via_dropdown](https://greasyfork.org/ja/scripts/591099-atcoder-editorial-all-open-via-dropdown) - 「解説」タブにドロップダウンリストを表示する。
+
+  <div align="center">
+    <img loading="lazy" src="../../images/userscript/atcoder_editorial_all_open_via_dropdown.png" alt="atcoder editorial all open via dropdown">
+  </div>
+
 ### 該当ページに移動
 
 - [Atcoder Easy Jump](https://greasyfork.org/ja/scripts/491701-atcoder-easy-jump) - 外部リンクへ移動するときに表示される警告画面を省略する。
@@ -99,12 +107,6 @@ title: 解説を読む
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_editorial_cover.png" alt="atcoder editorial cover">
-    </div>
-
-- [AtCoder Hide Editorial](https://greasyfork.org/ja/scripts/425127-atcoder-hide-editorial) - 問題の「解説」に関するURLを取り除く。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcoder_hide_editorial.png" alt="atcoder hide editorial">
     </div>
 
 - [Hide Solutions](https://greasyfork.org/ja/scripts/485421-hide-solutions) - (英語表記のみ対応) 問題の「解説」ボタンやタブを非表示にする。
