@@ -29,7 +29,8 @@ title: コンテストの成績や関連する統計情報を見る
 
 ### コンテストの成績
 
-- [ac-predictor](https://greasyfork.org/ja/scripts/369954-ac-predictor) - コンテスト開催中に推定パフォーマンスとレーティングの推移を表示する。使用されている技術に興味がある方は、作者による[解説記事(2020年12月時点)](https://qiita.com/keymoon/items/e83259f882f26c8f10a1)を参照されたい。
+- [ac-predictor](https://greasyfork.org/ja/scripts/369954-ac-predictor) - コンテスト開催中に推定パフォーマンスとレーティングの推移を表示する。
+    - [作者による技術解説(2020年12月時点)](https://qiita.com/keymoon/items/e83259f882f26c8f10a1)
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_predictor.png" alt="ac predictor">
