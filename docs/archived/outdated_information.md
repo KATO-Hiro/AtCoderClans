@@ -368,6 +368,14 @@ title: 更新停止の可能性が高い
       <img loading = "lazy" src="../../images/userscript/add_shortest_tab.jpeg" alt="add shortest tab">
     </div>
 
+### 解説を読む
+
+- [AtCoder Hide Editorial](https://greasyfork.org/ja/scripts/425127-atcoder-hide-editorial) - 問題の「解説」に関するURLを取り除く。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_hide_editorial.png" alt="atcoder hide editorial">
+    </div>
+
 ### コンテストの成績や関連する統計情報を見る
 
 - [Atcoder Perf Graph](https://greasyfork.org/ja/scripts/476103-atcoder-perf-graph) - ユーザの「プロフィール」ページにあるレーティンググラフに、各コンテストのパフォーマンス値を折れ線グラフで重ねて表示する。
