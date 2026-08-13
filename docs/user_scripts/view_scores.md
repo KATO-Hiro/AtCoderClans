@@ -36,6 +36,12 @@ title: コンテストの成績や関連する統計情報を見る
       <img loading = "lazy" src="../../images/userscript/atcoder_predictor.png" alt="ac predictor">
     </div>
 
+    - [ac-predictor-delta(次に解く問題を決める用)](https://greasyfork.org/ja/scripts/590861-ac-predictor-delta-%E6%AC%A1%E3%81%AB%E8%A7%A3%E3%81%8F%E5%95%8F%E9%A1%8C%E3%82%92%E6%B1%BA%E3%82%81%E3%82%8B%E7%94%A8) - 「順位表」ページで、自分が未正解の問題を解いた場合の推定パフォーマンス値を表示する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/ac_predictor_delta.png" alt="ac predictor delta">
+    </div>
+
 - [AtCoder Center Your Standing](https://greasyfork.org/ja/scripts/496241-atcoder-center-your-standing) - 「順位表」ページで、ログインユーザを中心とした結果が最初に表示されるようにする。
 
     <div align="center">
