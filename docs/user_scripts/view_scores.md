@@ -29,11 +29,17 @@ title: コンテストの成績や関連する統計情報を見る
 
 ### コンテストの成績
 
-- [ac-predictor](https://greasyfork.org/ja/scripts/369954-ac-predictor) - コンテスト開催中に推定パフォーマンスとレーティングの推移を表示する。使用されている技術に興味がある方は、作者による[解説記事(2020年12月時点)](https://qiita.com/keymoon/items/e83259f882f26c8f10a1)を参照されたい。
-    - [ac-predictor-minimal](https://greasyfork.org/ja/scripts/386999-ac-predictor-minimal) - [ac-predictor](https://greasyfork.org/ja/scripts/369954-ac-predictor)の機能限定版。スクリプトの透明性を確保する観点から、パフォーマンスを表示するのは「順位表」ページに限定される。
+- [ac-predictor](https://greasyfork.org/ja/scripts/369954-ac-predictor) - コンテスト開催中に推定パフォーマンスとレーティングの推移を表示する。
+    - [作者による技術解説(2020年12月時点)](https://qiita.com/keymoon/items/e83259f882f26c8f10a1)
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_predictor.png" alt="ac predictor">
+    </div>
+
+    - [ac-predictor-delta(次に解く問題を決める用)](https://greasyfork.org/ja/scripts/590861-ac-predictor-delta-%E6%AC%A1%E3%81%AB%E8%A7%A3%E3%81%8F%E5%95%8F%E9%A1%8C%E3%82%92%E6%B1%BA%E3%82%81%E3%82%8B%E7%94%A8) - 「順位表」ページで、自分が未正解の問題を解いた場合の推定パフォーマンス値を表示する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/ac_predictor_delta.png" alt="ac predictor delta">
     </div>
 
 - [AtCoder Center Your Standing](https://greasyfork.org/ja/scripts/496241-atcoder-center-your-standing) - 「順位表」ページで、ログインユーザを中心とした結果が最初に表示されるようにする。
