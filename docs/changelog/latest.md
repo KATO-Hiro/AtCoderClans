@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-08-13
+
+- [#12557](https://github.com/KATO-Hiro/AtCoderClans/pull/12557) - 「[Scripts](../../scripts)」の「[解説を読む](../../user_scripts/read_editorials)」ページに、以下のユーザスクリプトを追加。
+    - [atcoder_editorial_all_open_via_dropdown](https://greasyfork.org/ja/scripts/591099-atcoder-editorial-all-open-via-dropdown)
+
 ### 2026-08-12
 
 - [#12552](https://github.com/KATO-Hiro/AtCoderClans/pull/12552) - 「[Scripts](../../scripts)」の「[問題を解く - Google Chromeの拡張機能](../../chrome_extensions/solve_problems)」ページに、以下の拡張機能と作者による紹介記事を追加。

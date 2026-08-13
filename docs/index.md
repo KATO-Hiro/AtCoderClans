@@ -100,6 +100,15 @@
 
 === "ユーザスクリプト"
 
+    2026-08-13
+
+    - 「[解説を読む](user_scripts/read_editorials)」ページ
+        - [atcoder_editorial_all_open_via_dropdown](https://greasyfork.org/ja/scripts/591099-atcoder-editorial-all-open-via-dropdown)
+
+    <div align="center">
+        <img loading="lazy" src="images/userscript/atcoder_editorial_all_open_via_dropdown.png" alt="atcoder editorial all open via dropdown">
+    </div>
+
     2026-08-09
 
     - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
@@ -109,15 +118,6 @@
 
     - 「[Webページに色付けする](user_scripts/colors)」ページ
         - [AtCoder Submissions Sort Marker](https://greasyfork.org/ja/scripts/585956-atcoder-submissions-sort-marker/post-install)
-
-    2026-07-29
-
-    - 「[問題を解く](user_scripts/solve_problems)」ページ
-        - [競プロ典型90問 ★順ソート・提出状況色付け](https://greasyfork.org/ja/scripts/588601-%E7%AB%B6%E3%83%97%E3%83%AD%E5%85%B8%E5%9E%8B90%E5%95%8F-%E9%A0%86%E3%82%BD%E3%83%BC%E3%83%88-%E6%8F%90%E5%87%BA%E7%8A%B6%E6%B3%81%E8%89%B2%E4%BB%98%E3%81%91)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/typical90_sort_and_status_colorizer.png" alt="typical90 sort and status colorizer">
-    </div>
 
 === "Chrome拡張機能"
 
@@ -198,9 +198,9 @@
 
     諸事情により事実上開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
 
-    2026-07-29
+    2026-08-13
 
-    - atcoder-typical90-sort
+    - AtCoder Hide Editorial
 
 ## AtCoder公式グッズを購入する
 
