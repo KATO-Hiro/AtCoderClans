@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-08-15
+
+- [#12564](https://github.com/KATO-Hiro/AtCoderClans/pull/12564) - 「[Home](../..)」ページに、以下のWebサイトを掲載。
+    - [AtCoder Datasets](https://datasets.atcoder.jp/)
+
 ### 2026-08-14
 
 - [#12560](https://github.com/KATO-Hiro/AtCoderClans/pull/12560) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
