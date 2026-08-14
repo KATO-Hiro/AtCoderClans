@@ -159,11 +159,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年8月3日時点)](https://x.com/atcoder/status/2084097462114144618)
 
-    2026-07-30
-
-    - 「[問題を作成・出題する](articles/for_writers)」ページ
-        - [【コンテスト開催記】AtCoder Regular Contest 225](https://milkcoffee.hatenablog.jp/entry/2026/07/20/113046)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
