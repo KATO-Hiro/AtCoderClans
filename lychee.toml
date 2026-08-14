@@ -12,6 +12,7 @@ exclude = [
   "^https://clist\\.by/",
   "^https://codeforces\\.com/",
   "^https://ctftime\\.org/",
+  "^https://datasets\\.atcoder\\.jp/",
   "^https://drken1215\\.hatenablog\\.com/",
   "^https://dreamhack\\.io/",
   "^https://github\\.com/",
