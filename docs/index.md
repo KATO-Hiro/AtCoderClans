@@ -99,6 +99,12 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "ホーム"
+
+    2026-08-15
+
+    - [AtCoder Datasets](https://datasets.atcoder.jp/)
+
 === "ユーザスクリプト"
 
     2026-08-14
@@ -188,16 +194,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [orangekid](https://atcoder.jp/users/orangekid)さん - [【入水記事】ABC467で入水しました！](https://note.com/orangekid1210/n/na83e07931c63)
-
-    2026-08-01
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [kanta38](https://atcoder.jp/users/kanta38)さん - [入緑しました！！！嬉しい！！！](https://note.com/kan_38/n/na28872602a9b)
-
-    2026-07-31
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [tb158](https://atcoder.jp/users/tb158)さん - [【Rust初心者】AtCoderで入緑しました](https://note.com/tb158/n/nb451af8b7c03)
 
 === "アーカイブス"
 
