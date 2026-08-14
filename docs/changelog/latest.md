@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-08-14
+
+- [#12560](https://github.com/KATO-Hiro/AtCoderClans/pull/12560) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
+    - [ac-predictor-delta(次に解く問題を決める用)](https://greasyfork.org/ja/scripts/590861-ac-predictor-delta-%E6%AC%A1%E3%81%AB%E8%A7%A3%E3%81%8F%E5%95%8F%E9%A1%8C%E3%82%92%E6%B1%BA%E3%82%81%E3%82%8B%E7%94%A8)
+
 ### 2026-08-13
 
 - [#12557](https://github.com/KATO-Hiro/AtCoderClans/pull/12557) - 「[Scripts](../../scripts)」の「[解説を読む](../../user_scripts/read_editorials)」ページに、以下のユーザスクリプトを追加。

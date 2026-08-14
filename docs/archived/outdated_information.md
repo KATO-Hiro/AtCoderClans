@@ -378,6 +378,8 @@ title: 更新停止の可能性が高い
 
 ### コンテストの成績や関連する統計情報を見る
 
+- [ac-predictor-minimal](https://greasyfork.org/ja/scripts/386999-ac-predictor-minimal) - [ac-predictor](https://greasyfork.org/ja/scripts/369954-ac-predictor)の機能限定版。スクリプトの透明性を確保する観点から、パフォーマンスを表示するのは「順位表」ページに限定される。
+
 - [Atcoder Perf Graph](https://greasyfork.org/ja/scripts/476103-atcoder-perf-graph) - ユーザの「プロフィール」ページにあるレーティンググラフに、各コンテストのパフォーマンス値を折れ線グラフで重ねて表示する。
     - 確認した日: 2026/07/15
     - 理由: [New AtCoder Perf Graph](https://greasyfork.org/ja/scripts/586685-new-atcoder-perf-graph)では、[AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=AtCoder+Heuristic+Contest)への対応やグラフの高画質化などの改善が図られているため。

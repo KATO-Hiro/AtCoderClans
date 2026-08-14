@@ -100,6 +100,15 @@
 
 === "ユーザスクリプト"
 
+    2026-08-14
+
+    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
+        - [ac-predictor-delta(次に解く問題を決める用)](https://greasyfork.org/ja/scripts/590861-ac-predictor-delta-%E6%AC%A1%E3%81%AB%E8%A7%A3%E3%81%8F%E5%95%8F%E9%A1%8C%E3%82%92%E6%B1%BA%E3%82%81%E3%82%8B%E7%94%A8)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/ac_predictor_delta.png" alt="ac predictor delta">
+    </div>
+
     2026-08-13
 
     - 「[解説を読む](user_scripts/read_editorials)」ページ
@@ -197,6 +206,10 @@
 === "アーカイブス"
 
     諸事情により事実上開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2026-08-14
+
+    - ac-predictor-minimal
 
     2026-08-13
 
