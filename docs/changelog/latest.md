@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-08-16
+
+- [#12568](https://github.com/KATO-Hiro/AtCoderClans/pull/12568) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [RECRUIT 日本橋ハーフマラソン 2026夏（AtCoder Heuristic Contest 069）参加記](https://kaede2020.hatenablog.com/entry/2026/08/10/190444)
+
 ### 2026-08-15
 
 - [#12564](https://github.com/KATO-Hiro/AtCoderClans/pull/12564) - 「[Home](../..)」ページに、以下のWebサイトを掲載。
