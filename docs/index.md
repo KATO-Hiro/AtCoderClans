@@ -149,6 +149,11 @@
 
 === "記事"
 
+    2026-08-16
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [RECRUIT 日本橋ハーフマラソン 2026夏（AtCoder Heuristic Contest 069）参加記](https://kaede2020.hatenablog.com/entry/2026/08/10/190444)
+
     2026-08-10
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
@@ -189,11 +194,6 @@
 
     - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
         - [AXT_AyaKoto](https://atcoder.jp/users/AXT_AyaKoto)さん - [TypeScriptでAtCoderに挑戦する、ということ【入水記念】](https://zenn.dev/aya_koto/articles/95c9303d6d8573)
-
-    2026-08-02
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [orangekid](https://atcoder.jp/users/orangekid)さん - [【入水記事】ABC467で入水しました！](https://note.com/orangekid1210/n/na83e07931c63)
 
 === "アーカイブス"
 

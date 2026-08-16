@@ -65,13 +65,10 @@ title: ヒューリスティック問題を解く
 - [AHCでの解法選択](https://montplusa.hatenablog.com/entry/2024/06/10/214100) - 問題の性質と主要な解法との関連性について、筆者の考えがまとめられている。
 - [相対スコア AHC の立ち回り](https://kiri8128.hatenablog.com/entry/2024/05/06/032420) - ヒューリスティック型コンテストで相対スコアが採用されているときのメタ戦略について、パラメータ群の重要度の把握・テストケースごとの行動最適化・解法の優劣比較の観点から考察されている。
 - [短期AHCで勝つためのテクニック](https://speakerdeck.com/shun_pi/duan-qi-ahcdesheng-tutamenotekunituku) - 短期間コンテストにおける汎用的な戦略・テクニックが言語化されている。
-- [マラソンマッチで気をつけるべきこと](https://coonevo.hatenablog.com/entry/2021/03/15/091546) - 2週間程度のヒューリスティック型コンテストを対象として、筆者の戦略を紹介した記事。
 - [Psyhoさんによるヒューリスティック・ボットコンテストのための無料Tips](https://ozy4dm.hateblo.jp/entry/2022/12/22/162046) - [Psyho](https://twitter.com/FakePsyho)さんがTwitterに投稿したヒューリスティック/ボット プログラミングコンテストに関する知見を、日本語に翻訳してまとめている記事。
-- [Marathon Matchでいつもやってること](http://web.archive.org/web/20170809211026/http://topcoder.g.hatena.ne.jp/tomerun/20120502) - [tomerun](https://atcoder.jp/users/tomerun)さんが、ヒューリスティック型コンテストに関するノウハウをまとめた記事。
 - [rhooさんによるヒューリスティックコンテストの汎用テクニック集](https://github.com/rhoo19937/p/blob/main/tech/.md) - ヒューリスティックコンテストにおける汎用的なテクニック（焼きなまし法・ビームサーチ・評価関数・高速化など）が簡潔にまとめられている。
 - [ヒューリスティックコンテストのテクニック集](https://harsh-den-aaf.notion.site/9352f361c46a4514875e9c99f0a0718f) - [エチレン](https://x.com/ethylene_66)さんによる高速化テクニックの備忘録。
 - [北大日立新概念マラソンでやった高速化色々](http://web.archive.org/web/20200105011004/https://topcoder.g.hatena.ne.jp/tomerun/20171216/) - ヒューリスティック型のコンテストにおいて、アルゴリズムの側面から高速化に関する知見の一般化を図った記事。
-- [マラソンマッチにおける頻出Q＆Aと小技](http://web.archive.org/web/20150308101507/https://topcoder.g.hatena.ne.jp/CKomaki/20141202/1418158488) - ヒューリスティック型コンテストのうち、最適化問題における疑問点やコツがQ&A形式で簡潔にまとめられている記事。
 
 ### 取り組み方(実装)
 
@@ -246,14 +243,7 @@ title: ヒューリスティック問題を解く
     AWSに関する基礎知識が必要であり、各サービスの利用状況に応じて料金の支払いが発生する。
 
 - [AWS上にマラソンマッチ用のジャッジ環境を作った](https://yunix-kyopro.hatenablog.com/entry/2022/07/02/134251) - ヒューリスティック型コンテストにおいて、大量のテストケースをAWS環境で処理する方法が紹介されている記事。
-
-        - [「AWS上にマラソンマッチ用のジャッジ環境を作った」をChatGPTに投げて、Lambdaを使ったAHC用のジャッジ環境を作る。](https://shindannin.hatenadiary.com/entry/2023/06/19/100655) - [ChatGPT](https://openai.com/blog/chatgpt/)による質問・回答を繰り返しながら、AWS環境の構築過程とエラーへの対処方法が紹介されている。
-
 - [私のスコア問題評価環境](https://topcoder-tomerun.hatenablog.jp/entry/2024/04/06/201915) - [tomerun](https://atcoder.jp/users/tomerun)さんが、大量のテストケースを低価格で評価する方法(AWS Batch)を紹介している。
-
-#### 生成AIの活用
-
-- [ChatGPT×Codexの競技プログラミング（ヒューリスティック）での活用](https://qiita.com/keroru/items/66fcd6fed26bf2f6f0ae) - ChatGPT版Codex を活用して、ヒューリスティックな問題を解く方法、その利点や課題などが紹介されている。
 
 ## 資料集
 
