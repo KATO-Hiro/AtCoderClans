@@ -149,6 +149,11 @@
 
 === "記事"
 
+    2026-08-17
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年8月17日時点)](https://x.com/atcoder/status/2089167154377818421)
+
     2026-08-16
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -165,11 +170,6 @@
         - [CodeQUEEN2026決勝](https://note.com/rieul/n/n56d123acd5ed)
         - [CodeQUEEN 2026 参加記](https://momoharahara.hatenadiary.com/entry/2026/08/02/184540)
         - [【灰色・その他目線で】CodeQUEEN2026予選＆決勝【参加記事】](https://note.com/viiny/n/n1d2d8f98d2f9)
-
-    2026-08-03
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年8月3日時点)](https://x.com/atcoder/status/2084097462114144618)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
