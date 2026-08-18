@@ -102,6 +102,10 @@
 
 === "ホーム"
 
+    2026-08-18
+
+    - [短期AHCにおける生成AI利用ルール変更のお知らせ](https://atcoder.jp/posts/short-ahc-llm-rules-ja)
+
     2026-08-15
 
     - [AtCoder Datasets](https://datasets.atcoder.jp/)

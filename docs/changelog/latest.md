@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-08-18
+
+- [#12578](https://github.com/KATO-Hiro/AtCoderClans/pull/12578) - 「[Home](../..)」ページに、以下の記事を追加。
+    - [短期AHCにおける生成AI利用ルール変更のお知らせ](https://atcoder.jp/posts/short-ahc-llm-rules-ja)
+
 ### 2026-08-17
 
 - [#12572](https://github.com/KATO-Hiro/AtCoderClans/pull/12572) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
