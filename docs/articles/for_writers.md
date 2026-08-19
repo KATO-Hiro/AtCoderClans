@@ -45,4 +45,5 @@ title: 問題を作成・出題する
 
 ## コンテスト開催記
 
+- [ARC227の秘密](https://yosupo.hatenablog.com/entry/2026/08/17/124506) - [yosupo](https://atcoder.jp/users/yosupo)さんによるコンテストの開催記。生成AIによる原案作成と面白い問題にするための工夫が紹介されている。
 - [【コンテスト開催記】AtCoder Regular Contest 225](https://milkcoffee.hatenablog.jp/entry/2026/07/20/113046) - [milkcoffee](https://atcoder.jp/users/milkcoffee)さんによるコンテストの開催記。Writerの視点から、問題の着想や本質的な要素などを振り返っている。
