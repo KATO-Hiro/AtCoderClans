@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-08-19
+
+- [#12582](https://github.com/KATO-Hiro/AtCoderClans/pull/12582) - 「[Articles, Blogs, Books and Videos](../../media)」の「[問題を作成・出題する](../../articles/for_writers)」ページに、以下の記事を追加。
+    - [ARC227の秘密](https://yosupo.hatenablog.com/entry/2026/08/17/124506)
+
 ### 2026-08-18
 
 - [#12578](https://github.com/KATO-Hiro/AtCoderClans/pull/12578) - 「[Home](../..)」ページに、以下の記事を追加。
