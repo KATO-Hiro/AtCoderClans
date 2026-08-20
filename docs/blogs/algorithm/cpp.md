@@ -123,6 +123,7 @@ title: C&#43;&#43;
 |aajisaka|[はてなブログ](https://aajisaka.hatenablog.com/)||
 |AngrySadEight|[はてなブログ](https://angrysadeight.hatenablog.com/)||
 |askr_58|[はてなブログ](https://askr-58.hatenablog.com/)||
+|besukohu|[はてなブログ](https://besukohu.hatenablog.com/)||
 |binap|[Qiita](https://qiita.com/binap/)||
 |blueberry1001|[Qiita](https://qiita.com/bluebery1001)||
 |Chanyuh|[はてなブログ](https://p-chanyuh.hatenablog.com/)||
