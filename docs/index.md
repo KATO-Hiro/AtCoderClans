@@ -174,36 +174,21 @@
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
         - [CodeQueen2026 参加記録](https://zenn.dev/esusaki/articles/83acb6e5cbef2d)
 
-    2026-08-05
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-        - [CodeQUEEN2026決勝](https://note.com/rieul/n/n56d123acd5ed)
-        - [CodeQUEEN 2026 参加記](https://momoharahara.hatenadiary.com/entry/2026/08/02/184540)
-        - [【灰色・その他目線で】CodeQUEEN2026予選＆決勝【参加記事】](https://note.com/viiny/n/n1d2d8f98d2f9)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2026-08-20
+
+    - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
+        - [harurun4635](https://atcoder.jp/users/harurun4635)さん - [はてなブログ](https://harurun4635.hatenablog.com/)
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [besukohu](https://atcoder.jp/users/besukohu)さん - [はてなブログ](https://besukohu.hatenablog.com/)
 
     2026-08-11
 
     - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
         - [tanakh](https://atcoder.jp/users/tanakh)さん - [Qiita](https://qiita.com/tanakh)
-
-=== "動画"
-
-    2026-08-04
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [深緑コーダーあるあると入水につながった精進方法【AtCoder】](https://www.youtube.com/watch?v=eRVmzqq8Wuk)
-
-=== "色変記事"
-
-    色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
-
-    2026-08-06
-
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [AXT_AyaKoto](https://atcoder.jp/users/AXT_AyaKoto)さん - [TypeScriptでAtCoderに挑戦する、ということ【入水記念】](https://zenn.dev/aya_koto/articles/95c9303d6d8573)
 
 === "アーカイブス"
 
