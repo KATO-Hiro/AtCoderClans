@@ -7,6 +7,7 @@ title: レーティング800〜1199(緑色)
 
 ## 2026年
 
+- [入緑紀事：入緑までにやったこと・やらなかったことまとめ](https://zenn.dev/harupiyo99/articles/nyuryoku_nortrav) - [nortrav](https://atcoder.jp/users/nortrav)さんが、2026年8月15日に公開。
 - [AtCoderで入緑した話](https://qiita.com/Nihonielse/items/4083917a4f73be0c134a) - [Nihonielse](https://atcoder.jp/users/Nihonielse)さんが、2026年7月25日に達成。
 - [入緑しました！！！嬉しい！！！](https://note.com/kan_38/n/na28872602a9b) - [kanta38](https://atcoder.jp/users/kanta38)さんが、2026年7月18日に達成。
 - [【Rust初心者】AtCoderで入緑しました](https://note.com/tb158/n/nb451af8b7c03) - [tb158](https://atcoder.jp/users/tb158)さんが、2026年7月18日に達成。
