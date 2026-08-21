@@ -190,6 +190,15 @@
     - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
         - [tanakh](https://atcoder.jp/users/tanakh)さん - [Qiita](https://qiita.com/tanakh)
 
+=== "色変記事"
+
+    色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-08-22
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [nortrav](https://atcoder.jp/users/nortrav)さん - [入緑紀事：入緑までにやったこと・やらなかったことまとめ](https://zenn.dev/harupiyo99/articles/nyuryoku_nortrav)
+
 === "アーカイブス"
 
     諸事情により事実上開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
