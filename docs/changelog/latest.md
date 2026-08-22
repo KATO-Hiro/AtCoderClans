@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-08-22
+
+- [#12594](https://github.com/KATO-Hiro/AtCoderClans/pull/12594) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下の記事を追加。
+    - [競プロYouTuberのなり方 — マイク1本とOBSで始めるハンズオン](https://zenn.dev/daikusutora3/articles/98d21638ecf2dd)
+
 ### 2026-08-21
 
 - [#12591](https://github.com/KATO-Hiro/AtCoderClans/pull/12591) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
