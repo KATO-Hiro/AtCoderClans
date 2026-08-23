@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-08-23
+
+- [#12598](https://github.com/KATO-Hiro/AtCoderClans/pull/12598) - 「「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
+    - [tatyam-prime/bitset_avx512.cpp](https://gist.github.com/tatyam-prime/00267996616494dc14feb9136c7570d7)
+
 ### 2026-08-22
 
 - [#12594](https://github.com/KATO-Hiro/AtCoderClans/pull/12594) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下の記事を追加。
