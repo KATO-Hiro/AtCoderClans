@@ -130,16 +130,6 @@
         <img loading="lazy" src="images/userscript/atcoder_editorial_all_open_via_dropdown.png" alt="atcoder editorial all open via dropdown">
     </div>
 
-    2026-08-09
-
-    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
-        - [AtCoder Standings: Sort Same Rank by Rating](https://greasyfork.org/ja/scripts/586325-atcoder-standings-sort-same-rank-by-rating)
-
-    2026-08-08
-
-    - 「[Webページに色付けする](user_scripts/colors)」ページ
-        - [AtCoder Submissions Sort Marker](https://greasyfork.org/ja/scripts/585956-atcoder-submissions-sort-marker/post-install)
-
 === "Chrome拡張機能"
 
     2026-08-12
@@ -196,6 +186,13 @@
 
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [競プロYouTuberのなり方 — マイク1本とOBSで始めるハンズオン](https://zenn.dev/daikusutora3/articles/98d21638ecf2dd)
+
+=== "ライブラリ・スニペット"
+
+    2026-08-23
+
+    - 「[C++](libraries/cpp)」ページ
+        - [tatyam-prime/bitset_avx512.cpp](https://gist.github.com/tatyam-prime/00267996616494dc14feb9136c7570d7)
 
 === "色変記事"
 
