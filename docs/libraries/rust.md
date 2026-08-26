@@ -2,7 +2,6 @@
 title: Rust
 ---
 
-- [akiradeveloper/rust-comp-snippets](https://github.com/akiradeveloper/rust-comp-snippets) ![GitHub Repo stars](https://img.shields.io/github/stars/akiradeveloper/rust-comp-snippets?style=plastic) - [akiradeveloper](https://atcoder.jp/users/akiradeveloper)さんのスニペット集。
 - [cympfh/procon-rs](https://github.com/cympfh/procon-rs) ![GitHub Repo stars](https://img.shields.io/github/stars/cympfh/procon-rs?style=plastic) - [cympfh](https://atcoder.jp/users/cympfh)さんのライブラリ。
 - [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms)![GitHub Repo stars](https://img.shields.io/github/stars/EbTech/rust-algorithms?style=plastic) - [EbTech](https://github.com/EbTech)さんのクックブック。
 - [Fe2O3-Tpa/ac-lib-bundle](https://github.com/Fe2O3-Tpa/ac-lib-bundle) ![GitHub Repo stars](https://img.shields.io/github/stars/Fe2O3-Tpa/ac-lib-bundle?style=plastic) - [Prrapp](https://atcoder.jp/users/Prrapp)さんによるバンドル用ツール。ローカル環境にあるクレートの依存関係を解決し、一つのファイルにまとめることができる。
@@ -13,9 +12,7 @@ title: Rust
 - [kenkoooo/competitive-programming-rs](https://github.com/kenkoooo/competitive-programming-rs) ![GitHub stars](https://img.shields.io/github/stars/kenkoooo/competitive-programming-rs?style=plastic) - [kenkoooo](https://atcoder.jp/users/kenkoooo)さんのスニペット集。
 - [kentakom1213/cp-library](https://github.com/kentakom1213/cp-library) ![GitHub Repo stars](https://img.shields.io/github/stars/kentakom1213/cp-library?style=plastic) - [powell](https://atcoder.jp/users/powell)さんのライブラリ。Pythonの実装も含まれている。
 - [koba-e964/contest](https://github.com/koba-e964/contest/tree/master/comm) ![GitHub stars](https://img.shields.io/github/stars/koba-e964/contest?style=plastic) - [kobae964](https://atcoder.jp/users/kobae964)さんのライブラリ。C++の実装も含まれている。
-- [kuretchi/k7lib](https://github.com/kuretchi/k7lib) ![GitHub Repo stars](https://img.shields.io/github/stars/kuretchi/k7lib?style=plastic) - [kuretchi](https://atcoder.jp/users/kuretchi)さんのライブラリ。
 - [magurofly/shed](https://github.com/magurofly/shed) ![GitHub Repo stars](https://img.shields.io/github/stars/magurofly/shed?style=plastic) - [magurofly](https://atcoder.jp/users/magurofly)さんのライブラリ。Rubyの実装も含まれている。
-- [manta1130/Competitive_Programming_Template_Rust](https://github.com/manta1130/Competitive_Programming_Template_Rust) ![GitHub stars](https://img.shields.io/github/stars/manta1130/Competitive_Programming_Template_Rust?style=plastic) - [manta1130](https://atcoder.jp/users/manta1130)さんのライブラリ。
 - [MiSawa/ralgo](https://github.com/MiSawa/ralgo) ![GitHub Repo stars](https://img.shields.io/github/stars/MiSawa/ralgo?style=plastic) - [MiSawa](https://atcoder.jp/users/MiSawa)さんのライブラリ。
 - [ngtkana/ac-adapter-rs](https://github.com/ngtkana/ac-adapter-rs) ![GitHub stars](https://img.shields.io/github/stars/ngtkana/ac-adapter-rs?style=plastic) - [ngtkana](https://atcoder.jp/users/ngtkana)さんのライブラリ。
 - [ngtkana/procon-bundler](https://github.com/ngtkana/procon-bundler) ![GitHub Repo stars](https://img.shields.io/github/stars/ngtkana/procon-bundler?style=plastic) - Rustで実装されたコードの依存関係を解決し、一つのファイルにまとめるためのツール。他のツールと連携することも可能。
@@ -28,4 +25,3 @@ title: Rust
 - [tayu0110/tayu-procon](https://github.com/tayu0110/tayu-procon) ![GitHub Repo stars](https://img.shields.io/github/stars/tayu0110/tayu-procon?style=plastic) - [tayu0110](https://atcoder.jp/users/tayu0110)さんのライブラリ。
 - [uesugi6111/competitive-library](https://github.com/uesugi6111/competitive-library) ![GitHub Repo stars](https://img.shields.io/github/stars/uesugi6111/competitive-library?style=plastic) - [uesugi](https://atcoder.jp/users/uesugi)さんのライブラリ。
 - [wata-orz/steiner_tree](https://github.com/wata-orz/steiner_tree) ![GitHub Repo stars](https://img.shields.io/github/stars/wata-orz/steiner_tree?style=plastic) - [wata](https://atcoder.jp/users/wata)さんによる最小シュタイナー木の厳密最適解を高速に求められるソルバー。
-- [yoshrc/rust-atcoder-snippets](https://github.com/yoshrc/rust-atcoder-snippets) ![GitHub stars](https://img.shields.io/github/stars/yoshrc/rust-atcoder-snippets?style=plastic) - [yoshrc](https://atcoder.jp/users/yoshrc)さんのスニペット集。
