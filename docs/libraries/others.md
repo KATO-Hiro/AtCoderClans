@@ -55,3 +55,7 @@ title: Others
 ## Swift
 
 - [koher/AtCoderSupport](https://github.com/koher/swift-atcoder-support) ![GitHub Repo stars](https://img.shields.io/github/stars/koher/swift-atcoder-support?style=plastic) - [koher](https://atcoder.jp/users/koher)さんのライブラリ。
+
+## TypeScript
+
+- [occhanCode/atcoder-templates](https://github.com/occhanCode/atcoder-templates) ![GitHub Repo stars](https://img.shields.io/github/stars/occhanCode/atcoder-templates?style=plastic) - [occhan](https://atcoder.jp/users/occhan)さんのテンプレート。TypeScript から C++17 への変換ツールも含まれている。
