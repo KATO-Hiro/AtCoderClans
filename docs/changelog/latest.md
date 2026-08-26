@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-08-26
+
+- [#12607](https://github.com/KATO-Hiro/AtCoderClans/pull/12607) - 「[Libraries and Snippets](../../libraries)」の「[Others](../../libraries/others)」ページに、TypeScript、C++で実装されたテンプレートを追加。
+    - [occhanCode/atcoder-templates](https://github.com/occhanCode/atcoder-templates) ![GitHub Repo stars](https://img.shields.io/github/stars/occhanCode/atcoder-templates?style=plastic)
+
 ### 2026-08-24
 
 - [#12602](https://github.com/KATO-Hiro/AtCoderClans/pull/12602) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。

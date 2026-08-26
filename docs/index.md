@@ -130,18 +130,6 @@
         <img loading="lazy" src="images/userscript/atcoder_editorial_all_open_via_dropdown.png" alt="atcoder editorial all open via dropdown">
     </div>
 
-=== "Chrome拡張機能"
-
-    2026-08-12
-
-    - 「[問題を解く - Google Chromeの拡張機能](chrome_extensions/solve_problems)」ページ
-        - [AtCoder Workspace](https://chromewebstore.google.com/detail/atcoder-workspace/apoklhnhpoljcmnhcglejgjopfolhaeh)
-            - [AtCoderの環境構築？？初心者をなめるなあああ！！ ➡ なので1画面で完結するChrome拡張を作りました](https://qiita.com/rikutoyamada01/items/36efa284f5fdfb022a41)
-
-    <div align="center">
-      <img loading="lazy" src="images/chrome_extension/atcoder_workspace.png" alt="atcoder workspace">
-    </div>
-
 === "記事"
 
     2026-08-24
@@ -164,11 +152,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [RECRUIT 日本橋ハーフマラソン 2026夏（AtCoder Heuristic Contest 069）参加記](https://kaede2020.hatenablog.com/entry/2026/08/10/190444)
 
-    2026-08-10
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-        - [CodeQueen2026 参加記録](https://zenn.dev/esusaki/articles/83acb6e5cbef2d)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -180,11 +163,6 @@
     - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
         - [besukohu](https://atcoder.jp/users/besukohu)さん - [はてなブログ](https://besukohu.hatenablog.com/)
 
-    2026-08-11
-
-    - 「[ヒューリスティック部門 - Rust](blogs/heuristic/rust)」ページ
-        - [tanakh](https://atcoder.jp/users/tanakh)さん - [Qiita](https://qiita.com/tanakh)
-
 === "動画"
 
     2026-08-22
@@ -193,6 +171,11 @@
         - [競プロYouTuberのなり方 — マイク1本とOBSで始めるハンズオン](https://zenn.dev/daikusutora3/articles/98d21638ecf2dd)
 
 === "ライブラリ・スニペット"
+
+    2026-08-26
+
+    - 「[Others](libraries/others)」ページ
+        - [occhanCode/atcoder-templates](https://github.com/occhanCode/atcoder-templates) ![GitHub Repo stars](https://img.shields.io/github/stars/occhanCode/atcoder-templates?style=plastic)
 
     2026-08-23
 
