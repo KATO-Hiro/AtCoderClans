@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-08-27
+
+- [#12610](https://github.com/KATO-Hiro/AtCoderClans/pull/12610) - 「[Articles, Blogs, Books and Videos](../../media)」の「[SNS](../../sns)」ページに、以下の記事を追加。
+    - [1年間Discord鯖を運営したので、お気持ち表明をする](https://note.com/rieul/n/ncca5afda71c3)
+
 ### 2026-08-26
 
 - [#12607](https://github.com/KATO-Hiro/AtCoderClans/pull/12607) - 「[Libraries and Snippets](../../libraries)」の「[Others](../../libraries/others)」ページに、TypeScript、C++で実装されたテンプレートを追加。
