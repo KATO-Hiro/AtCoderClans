@@ -14,6 +14,8 @@ title: SNS
 
 ## Discord
 
+- [1年間Discord鯖を運営したので、お気持ち表明をする](https://note.com/rieul/n/ncca5afda71c3) - サーバーを作成した経緯や思想、管理者の負担を減らす工夫などが紹介されている。
+
 ### 競技プログラミング全般
 
 - [競プロer集会所](http://discord.gg/2xCjYvK) - [mencotton](https://atcoder.jp/users/mencotton)さんによって管理・運営されている、競技プログラミングの話題に特化した会話ができるグループ。2024年11月時点で約1000人が参加している。有志による「質問への回答」や「記事の紹介」など多数のチャンネルが用意されている。
