@@ -121,15 +121,6 @@
       <img loading="lazy" src="images/userscript/ac_predictor_delta.png" alt="ac predictor delta">
     </div>
 
-    2026-08-13
-
-    - 「[解説を読む](user_scripts/read_editorials)」ページ
-        - [atcoder_editorial_all_open_via_dropdown](https://greasyfork.org/ja/scripts/591099-atcoder-editorial-all-open-via-dropdown)
-
-    <div align="center">
-        <img loading="lazy" src="images/userscript/atcoder_editorial_all_open_via_dropdown.png" alt="atcoder editorial all open via dropdown">
-    </div>
-
 === "記事"
 
     2026-08-24
@@ -170,6 +161,13 @@
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [競プロYouTuberのなり方 — マイク1本とOBSで始めるハンズオン](https://zenn.dev/daikusutora3/articles/98d21638ecf2dd)
 
+=== "SNS"
+
+    2026-08-27
+
+    - 「[SNS](sns)」ページ
+        - [1年間Discord鯖を運営したので、お気持ち表明をする](https://note.com/rieul/n/ncca5afda71c3)
+
 === "ライブラリ・スニペット"
 
     2026-08-26
@@ -198,10 +196,6 @@
     2026-08-14
 
     - ac-predictor-minimal
-
-    2026-08-13
-
-    - AtCoder Hide Editorial
 
 ## AtCoder公式グッズを購入する
 
