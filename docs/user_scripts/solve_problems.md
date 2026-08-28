@@ -30,6 +30,12 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/atcoder_users.png" alt="atcoder users">
     </div>
 
+- [Novisteps Unsolved Problem Picker](https://greasyfork.org/ja/scripts/592732-novisteps-unsolved-problem-picker) - 「一覧表」で指定した難易度のうち、正解していない1問をランダムに選んでくれる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/novisteps_unsolved_problem_picker.png" alt="novisteps unsolved problem picker">
+    </div>
+
 ### 外部サービスから問題ページへ移動
 
 - [AtCoder Linkifier](https://greasyfork.org/ja/scripts/579410-atcoder-linkifier) - ブログやSNSなどの外部サービスで、テキストの問題番号にAtCoderの「問題」ページへのリンクを追加する。
