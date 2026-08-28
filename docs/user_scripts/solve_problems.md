@@ -20,16 +20,6 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/atcoder_add_link_to_problems.png" alt="atcoder add link to problems">
     </div>
 
-- [AtCoderUsers](https://greasyfork.org/ja/scripts/420811-atcoderusers) - 「プロフィール」ページに、[AtCoder Problems](https://kenkoooo.com/atcoder/)のリンクを追加する。
-
-    !!! warning "注意"
-        AtCoder PerformancesとAtCoder Scores: いずれも2022年11月26日にサービス終了。
-        AtCoder Tags: 2025年10月22日にサービス終了。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcoder_users.png" alt="atcoder users">
-    </div>
-
 - [Novisteps Unsolved Problem Picker](https://greasyfork.org/ja/scripts/592732-novisteps-unsolved-problem-picker) - [AtCoder NoviSteps](https://atcoder-novisteps.vercel.app/)の「一覧表」で指定した難易度のうち、正解していない1問をランダムに選んでくれる。
 
     <div align="center">
@@ -159,15 +149,6 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/atcoder_copy_contest_id.png" alt="atcoder copy contest id">
     </div>
 
-- [AtCoderDevotionScript](https://greasyfork.org/en/scripts/415819-atcoderdevotionscript) - 「問題」ページで、Ctrl + Qを押すと、[atcoder-cli](https://github.com/Tatamo/atcoder-cli)の利用に必要なコンテストIDをクリップボードに書き込むことができる。使い方の詳細は、作者の[紹介記事](https://iiiimmmmo.hatenablog.com/entry/2020/11/15/170008)を参照されたい。
-
-    !!! warning "注意"
-        macOSユーザは、ショートカットの干渉があるため、設定の変更が必要。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcoder_devotion_script.png" alt="atcoder devotion script">
-    </div>
-
 ### 問題文をコピー
 
 - [AtCoderProblemCopier](https://greasyfork.org/ja/scripts/565854-atcoderproblemcopier) - 「問題」ページで、問題文を Markdown 形式でコピーできるボタンを追加する。
@@ -198,15 +179,13 @@ title: 問題を解く
 
 - [AtCoder NoCopy](https://greasyfork.org/ja/scripts/497349-atcoder-nocopy) - AtCoder Beginner Contestの問題文をコピーできないようにする(右クリックとCtrl + C)。
 
-### 制約条件を確認・非表示に
+### 制約条件を確認
 
 - [制約をチェックする](https://greasyfork.org/ja/scripts/434715-check-constraints) - 「問題」ページの制約に、確認用のチェックボックスを追加する。
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/check_constraints.png" alt="check constraints">
     </div>
-
-- [atcoder_constraints_eraser](https://greasyfork.org/ja/scripts/461798-atcoder-constraints-eraser) - 「問題」ページの制約を非表示にする。
 
 - [AtCoderNotesForBeginners](https://greasyfork.org/ja/scripts/529251-atcodernotesforbeginners) - 「問題」ページの制約に、型の有効範囲や入力データ量に応じた時間計算量の一覧を表示する。
 
@@ -231,12 +210,6 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/atcoder_for_large_display.png" alt="atcoder for large display">
     </div>
 
-- [atcoder_collect_all_examples](https://greasyfork.org/ja/scripts/387240-atcoder-collect-all-examples) - 「問題」ページに入力例・出力例をそれぞれまとめる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcoder_collect_all_examples.png" alt="atcoder collect all examples">
-    </div>
-
 ### 入力例からグラフを描画
 
 - [AtCoder Graph Visualizer](https://greasyfork.org/ja/scripts/546107-atcoder-graph-visualizer) - 「問題」ページの入力例でグラフが与えられたときに、形状を推定・表示する。
@@ -255,12 +228,6 @@ title: 問題を解く
 
 ### 特定の情報を非表示にして問題に集中する
 
-- [AtCoderScoreHider](https://greasyfork.org/ja/scripts/371898-atcoderscorehider) - 「提出」ページなどの配点を隠す。日本語版のみ対応。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcoder_score_hider.png" alt="atcoder score hider">
-    </div>
-
 - [AtCoder UI Cleaner](https://greasyfork.org/ja/scripts/572015-atcoder-ui-cleaner) - 「問題」ページの配点・実行時間制限 / メモリ制限、「提出結果」ページのジャッジ結果の詳細などを非表示にする。
 
 ### タイトルをコピー
@@ -269,12 +236,4 @@ title: 問題を解く
 
     <div align="center">
       <img loading="lazy" src="../../images/userscript/atcoder_title_copy2.png" alt="atcoder title copy">
-    </div>
-
-### タイトルを一部書き換え
-
-- [AtCoder D is for DP](https://greasyfork.org/ja/scripts/450727-atcoder-d-is-for-dp) - 「問題」ページのD問題のタイトルを「DP」に書き換える。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcoder_d_is_for_dp.png" alt="atcoder d is for dp">
     </div>

@@ -299,6 +299,16 @@ title: 更新停止の可能性が高い
 
 ### 問題を解く
 
+- [AtCoderUsers](https://greasyfork.org/ja/scripts/420811-atcoderusers) - 「プロフィール」ページに、[AtCoder Problems](https://kenkoooo.com/atcoder/)のリンクを追加する。
+
+    !!! warning "注意"
+        AtCoder PerformancesとAtCoder Scores: いずれも2022年11月26日にサービス終了。
+        AtCoder Tags: 2025年10月22日にサービス終了。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_users.png" alt="atcoder users">
+    </div>
+
 - [atcoder-typical90-sort](https://greasyfork.org/ja/scripts/428698-atcoder-typical90-sort) - 「[競プロ典型90問](https://atcoder.jp/contests/typical90)」の問題を、難易度が低い順に並び替える。
 
     <div align="center">
@@ -307,16 +317,45 @@ title: 更新停止の可能性が高い
 
 - [paste template](https://greasyfork.org/ja/scripts/441552-paste-template)
 
+- [AtCoderDevotionScript](https://greasyfork.org/en/scripts/415819-atcoderdevotionscript) - 「問題」ページで、Ctrl + Qを押すと、[atcoder-cli](https://github.com/Tatamo/atcoder-cli)の利用に必要なコンテストIDをクリップボードに書き込むことができる。使い方の詳細は、作者の[紹介記事](https://iiiimmmmo.hatenablog.com/entry/2020/11/15/170008)を参照されたい。
+
+    !!! warning "注意"
+        macOSユーザは、ショートカットの干渉があるため、設定の変更が必要。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_devotion_script.png" alt="atcoder devotion script">
+    </div>
+
+- [atcoder_constraints_eraser](https://greasyfork.org/ja/scripts/461798-atcoder-constraints-eraser) - 「問題」ページの制約を非表示にする。
+
 - [Atcoder Title Copy](https://greasyfork.org/ja/scripts/434033-atcoder-title-copy) - 「問題」ページのタイトルをクリップボードにコピーできるボタンを追加する。
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_title_copy.png" alt="atcoder title copy">
     </div>
 
+- [AtCoder D is for DP](https://greasyfork.org/ja/scripts/450727-atcoder-d-is-for-dp) - 「問題」ページのD問題のタイトルを「DP」に書き換える。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_d_is_for_dp.png" alt="atcoder d is for dp">
+    </div>
+
+- [AtCoderScoreHider](https://greasyfork.org/ja/scripts/371898-atcoderscorehider) - 「提出」ページなどの配点を隠す。日本語版のみ対応。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_score_hider.png" alt="atcoder score hider">
+    </div>
+
 - [AtCoder Sample Downloader](https://greasyfork.org/ja/scripts/425977-atcoder-sample-downloader) - 「問題」ページに、入出力例をダウンロードできるボタンを設置する。
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/atcoder_sample_downloader.png" alt="atcoder sample downloader">
+    </div>
+
+- [atcoder_collect_all_examples](https://greasyfork.org/ja/scripts/387240-atcoder-collect-all-examples) - 「問題」ページに入力例・出力例をそれぞれまとめる。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_collect_all_examples.png" alt="atcoder collect all examples">
     </div>
 
 - [AtCoder-Submission-RadioButton](https://greasyfork.org/ja/scripts/390828-atcoder-submission-radiobutton) - 「提出」ページに、各問題を選択するラジオボタンを設置する。[Chrome拡張版](https://chrome.google.com/webstore/detail/atcoder-submission-radiob/hkehpabdllmdfmflgjofmgcdbmjafcdd?hl=ja&gl=UA)もある。
