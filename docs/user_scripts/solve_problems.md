@@ -30,7 +30,7 @@ title: 問題を解く
       <img loading = "lazy" src="../../images/userscript/atcoder_users.png" alt="atcoder users">
     </div>
 
-- [Novisteps Unsolved Problem Picker](https://greasyfork.org/ja/scripts/592732-novisteps-unsolved-problem-picker) - 「一覧表」で指定した難易度のうち、正解していない1問をランダムに選んでくれる。
+- [Novisteps Unsolved Problem Picker](https://greasyfork.org/ja/scripts/592732-novisteps-unsolved-problem-picker) - [AtCoder NoviSteps](https://atcoder-novisteps.vercel.app/)の「一覧表」で指定した難易度のうち、正解していない1問をランダムに選んでくれる。
 
     <div align="center">
       <img loading = "lazy" src="../../images/userscript/novisteps_unsolved_problem_picker.png" alt="novisteps unsolved problem picker">
