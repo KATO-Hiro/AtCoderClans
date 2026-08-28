@@ -110,15 +110,26 @@
 
     - [AtCoder Datasets](https://datasets.atcoder.jp/)
 
-=== "ユーザスクリプト"
+=== "Webアプリ・Webサイト"
 
-    2026-08-14
+    2026-08-28
 
-    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
-        - [ac-predictor-delta(次に解く問題を決める用)](https://greasyfork.org/ja/scripts/590861-ac-predictor-delta-%E6%AC%A1%E3%81%AB%E8%A7%A3%E3%81%8F%E5%95%8F%E9%A1%8C%E3%82%92%E6%B1%BA%E3%82%81%E3%82%8B%E7%94%A8)
+    - 「[問題を解く](web_app/solve_problems)」ページ
+        - [Novisteps Unsolved Problem Picker](https://greasyfork.org/ja/scripts/592732-novisteps-unsolved-problem-picker)
 
     <div align="center">
-      <img loading="lazy" src="images/userscript/ac_predictor_delta.png" alt="ac predictor delta">
+      <img loading="lazy" src="images/userscript/novisteps_unsolved_problem_picker.png" alt="novisteps unsolved problem picker">
+    </div>
+
+=== "ユーザスクリプト"
+
+    2026-08-28
+
+    - 「[問題を解く](user_scripts/solve_problems)」ページ
+        - [Novisteps Unsolved Problem Picker](https://greasyfork.org/ja/scripts/592732-novisteps-unsolved-problem-picker)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/novisteps_unsolved_problem_picker.png" alt="novisteps unsolved problem picker">
     </div>
 
 === "記事"
@@ -193,9 +204,14 @@
 
     諸事情により事実上開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
 
-    2026-08-14
+    2026-08-28
 
-    - ac-predictor-minimal
+    - AtCoderUsers
+    - AtCoderDevotionScript
+    - AtCoderScoreHider
+    - atcoder_constraints_eraser
+    - atcoder_collect_all_examples
+    - AtCoder D is for DP
 
 ## AtCoder公式グッズを購入する
 

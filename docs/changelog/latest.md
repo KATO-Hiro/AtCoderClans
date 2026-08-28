@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-08-28
+
+- [#12617](https://github.com/KATO-Hiro/AtCoderClans/pull/12617) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページと「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。
+    - [Novisteps Unsolved Problem Picker](https://greasyfork.org/ja/scripts/592732-novisteps-unsolved-problem-picker)
+
 ### 2026-08-27
 
 - [#12610](https://github.com/KATO-Hiro/AtCoderClans/pull/12610) - 「[Articles, Blogs, Books and Videos](../../media)」の「[SNS](../../sns)」ページに、以下の記事を追加。
