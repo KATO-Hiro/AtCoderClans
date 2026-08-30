@@ -52,6 +52,8 @@ title: ソースコードにバグがないか確認
       <img loading = "lazy" src="../../images/cli/oj.gif" alt="oj">
     </div>
 
+- [yoniha428/atcommand](https://github.com/yoniha428/atcommand) ![GitHub stars](https://img.shields.io/github/stars/yoniha428/atcommand?style=plastic) - 入出力例のダウンロード、テスト、提出（コンテスト開催中のみ）ができる。
+
 ### ヒューリスティック部門
 
 - [pahcer](https://github.com/terry-u16/pahcer) ![GitHub Repo stars](https://img.shields.io/github/stars/terry-u16/pahcer?style=plastic) - ローカル環境でのテストの並列実行・実行結果の出力・相対スコアの表示・Optunaとの連携などができる。
