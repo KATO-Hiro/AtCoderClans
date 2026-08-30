@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-08-30
+
+- [#12625](https://github.com/KATO-Hiro/AtCoderClans/pull/12625) - 「[Command Line Tools](../../cli)」の「[ソースコードにバグがないか確認](../../cli/test_tools)」ページに、テストツールを追加。
+    - [yoniha428/atcommand](https://github.com/yoniha428/atcommand) ![GitHub stars](https://img.shields.io/github/stars/yoniha428/atcommand?style=plastic)
+
 ### 2026-08-28
 
 - [#12617](https://github.com/KATO-Hiro/AtCoderClans/pull/12617) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページと「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。

@@ -106,10 +106,6 @@
 
     - [短期AHCにおける生成AI利用ルール変更のお知らせ](https://atcoder.jp/posts/short-ahc-llm-rules-ja)
 
-    2026-08-15
-
-    - [AtCoder Datasets](https://datasets.atcoder.jp/)
-
 === "Webアプリ・Webサイト"
 
     2026-08-28
@@ -149,11 +145,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年8月17日時点)](https://x.com/atcoder/status/2089167154377818421)
 
-    2026-08-16
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [RECRUIT 日本橋ハーフマラソン 2026夏（AtCoder Heuristic Contest 069）参加記](https://kaede2020.hatenablog.com/entry/2026/08/10/190444)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -190,6 +181,13 @@
 
     - 「[C++](libraries/cpp)」ページ
         - [tatyam-prime/bitset_avx512.cpp](https://gist.github.com/tatyam-prime/00267996616494dc14feb9136c7570d7)
+
+=== "コマンドラインツール"
+
+    2026-08-30
+
+    - 「[ソースコードにバグがないか確認](cli/test_tools)」ページ
+        - [yoniha428/atcommand](https://github.com/yoniha428/atcommand) ![GitHub stars](https://img.shields.io/github/stars/yoniha428/atcommand?style=plastic)
 
 === "色変記事"
 
