@@ -130,6 +130,11 @@
 
 === "記事"
 
+    2026-08-31
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年8月31日時点)](https://x.com/atcoder/status/2094248354473799799)
+
     2026-08-24
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -139,11 +144,6 @@
 
     - 「[問題を作成・出題する](articles/for_writers)」ページ
         - [ARC227の秘密](https://yosupo.hatenablog.com/entry/2026/08/17/124506)
-
-    2026-08-17
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年8月17日時点)](https://x.com/atcoder/status/2089167154377818421)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -192,6 +192,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-08-31
+
+    - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
+        - [Tamiji](https://atcoder.jp/users/Tamiji)さん - [AtCoder入橙記事](https://qiita.com/Tamiji153/items/a00a8ed280a05b8be61e)
 
     2026-08-21
 
