@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-08-31
+
+- [#12629](https://github.com/KATO-Hiro/AtCoderClans/pull/12629) - 「[Milestones](../../milestones/orange)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング2400から2799まで(橙色)に[Tamiji](https://atcoder.jp/users/Tamiji)さんの[記事](https://qiita.com/Tamiji153/items/a00a8ed280a05b8be61e)を追加。
+- [#12628](https://github.com/KATO-Hiro/AtCoderClans/pull/12628) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
+    - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年8月31日時点)](https://x.com/atcoder/status/2094248354473799799)
+
 ### 2026-08-30
 
 - [#12625](https://github.com/KATO-Hiro/AtCoderClans/pull/12625) - 「[Command Line Tools](../../cli)」の「[ソースコードにバグがないか確認](../../cli/test_tools)」ページに、テストツールを追加。
