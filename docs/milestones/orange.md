@@ -7,6 +7,10 @@ title: レーティング2400〜2799(橙色)
 
 ## 2026年
 
+### アルゴリズム部門
+
+- [AtCoder入橙記事](https://qiita.com/Tamiji153/items/a00a8ed280a05b8be61e) - [Tamiji](https://atcoder.jp/users/Tamiji)さんが、2026年8月24日に公開。
+
 ### ヒューリスティック部門
 
 - [【AtCoder】Heuristic橙になりました feat. 松屋](https://kencho.hatenablog.com/entry/2026/02/03/145457) - [kencho](https://atcoder.jp/users/kencho)さんが、2026年2月1日に達成。
