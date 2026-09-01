@@ -100,12 +100,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "ホーム"
-
-    2026-08-18
-
-    - [短期AHCにおける生成AI利用ルール変更のお知らせ](https://atcoder.jp/posts/short-ahc-llm-rules-ja)
-
 === "Webアプリ・Webサイト"
 
     2026-08-28
@@ -171,6 +165,11 @@
         - [1年間Discord鯖を運営したので、お気持ち表明をする](https://note.com/rieul/n/ncca5afda71c3)
 
 === "ライブラリ・スニペット"
+
+    2026-09-01
+
+    - 「[C++](libraries/cpp)」ページ
+        - [Tamiji153/libraries](https://github.com/Tamiji153/libraries) ![GitHub Repo stars](https://img.shields.io/github/stars/Tamiji153/libraries?style=plastic)
 
     2026-08-26
 
