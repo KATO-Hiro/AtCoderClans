@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-09-01
+
+- [#12635](https://github.com/KATO-Hiro/AtCoderClans/pull/12635) - 「「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
+    - [Tamiji153/libraries](https://github.com/Tamiji153/libraries) ![GitHub Repo stars](https://img.shields.io/github/stars/Tamiji153/libraries?style=plastic)
+
 ### 2026-08-31
 
 - [#12629](https://github.com/KATO-Hiro/AtCoderClans/pull/12629) - 「[Milestones](../../milestones/orange)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
