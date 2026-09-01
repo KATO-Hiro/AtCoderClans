@@ -622,6 +622,8 @@ title: 開発・提供終了
 
 ### C&#43;&#43;
 
+- [achapi/CppLibrary](https://github.com/achapi/CppLibrary) ![GitHub Repo stars](https://img.shields.io/github/stars/achapi/CppLibrary?style=plastic) - [achapi](https://atcoder.jp/users/achapi)さんのライブラリ。
+    - 確認した日: 2026/09/01
 - [comp-prog-jp-library-standard/competitive-programming-library](https://github.com/comp-prog-jp-library-standard/competitive-programming-library) - 競技プログラミングのための共通ライブラリをまとめようとしたプロジェクト。
     - 理由: 記載なし。
     - 代替手段: [AtCoder Library (ACL)](https://atcoder.jp/posts/517)や[Libraries and Snippets](https://kato-hiro.github.io/AtCoderClans/libraries)などで公開されているライブラリを利用するか、自分で作成する。
