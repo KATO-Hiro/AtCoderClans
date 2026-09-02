@@ -124,6 +124,11 @@
 
 === "記事"
 
+    2026-09-02
+
+    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
+        - [Codonで競プロするときのPythonとの違い・注意点](https://zenn.dev/yuubinnkyoku/articles/codon-atcoder-notes)
+
     2026-08-31
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -133,11 +138,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年8月24日時点)](https://x.com/atcoder/status/2091703480159506491)
-
-    2026-08-19
-
-    - 「[問題を作成・出題する](articles/for_writers)」ページ
-        - [ARC227の秘密](https://yosupo.hatenablog.com/entry/2026/08/17/124506)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
