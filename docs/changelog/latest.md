@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-09-02
+
+- [#12640](https://github.com/KATO-Hiro/AtCoderClans/pull/12640) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Python](../../articles/implementation/python)」ページに、以下の記事を追加。
+    - [Codonで競プロするときのPythonとの違い・注意点](https://zenn.dev/yuubinnkyoku/articles/codon-atcoder-notes)
+
 ### 2026-09-01
 
 - [#12635](https://github.com/KATO-Hiro/AtCoderClans/pull/12635) - 「「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
