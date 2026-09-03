@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-09-03
+
+- [#12644](https://github.com/KATO-Hiro/AtCoderClans/pull/12644) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [ネットワークフロー理論における「最小カット問題」の考え方を総整理！ 〜 カットの理論から現実への応用例まで 〜](https://qiita.com/drken/items/52aafd8c073b37749539)
+
 ### 2026-09-02
 
 - [#12640](https://github.com/KATO-Hiro/AtCoderClans/pull/12640) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - Python](../../articles/implementation/python)」ページに、以下の記事を追加。

@@ -124,6 +124,11 @@
 
 === "記事"
 
+    2026-09-03
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [ネットワークフロー理論における「最小カット問題」の考え方を総整理！ 〜 カットの理論から現実への応用例まで 〜](https://qiita.com/drken/items/52aafd8c073b37749539)
+
     2026-09-02
 
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
@@ -138,17 +143,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年8月24日時点)](https://x.com/atcoder/status/2091703480159506491)
-
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2026-08-20
-
-    - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
-        - [harurun4635](https://atcoder.jp/users/harurun4635)さん - [はてなブログ](https://harurun4635.hatenablog.com/)
-
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [besukohu](https://atcoder.jp/users/besukohu)さん - [はてなブログ](https://besukohu.hatenablog.com/)
 
 === "動画"
 
