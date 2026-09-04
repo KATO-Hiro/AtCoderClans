@@ -95,6 +95,7 @@
 #### 教材
 
 - [AtCoder Algorithm Lectures](https://info.atcoder.jp/entry/algorithm_lectures/index) - データ構造・グラフ・数学など幅広いアルゴリズムやテクニックを解説する講義シリーズです。主に中・上級者向けの内容が中心です。
+    - [公式 X アカウント](https://x.com/atcoder_aal)
 
 ### 非公式サービス・ツール・ライブラリ・記事など
 
@@ -152,6 +153,11 @@
         - [競プロYouTuberのなり方 — マイク1本とOBSで始めるハンズオン](https://zenn.dev/daikusutora3/articles/98d21638ecf2dd)
 
 === "SNS"
+
+    2026-09-04
+
+    - 「[SNS](sns)」ページ
+        - [AtCoder Algorithm Lectures](https://x.com/atcoder_aal)
 
     2026-08-27
 

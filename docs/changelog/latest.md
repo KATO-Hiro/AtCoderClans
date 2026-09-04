@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-09-04
+
+- [#12649](https://github.com/KATO-Hiro/AtCoderClans/pull/12649) - 「[Articles, Blogs, Books and Videos](../../media)」の「[SNS](../../sns)」ページに、以下のアカウントを追加。
+    - [AtCoder Algorithm Lectures](https://x.com/atcoder_aal)
+
 ### 2026-09-03
 
 - [#12644](https://github.com/KATO-Hiro/AtCoderClans/pull/12644) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
