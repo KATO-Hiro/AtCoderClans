@@ -95,6 +95,7 @@
 #### 教材
 
 - [AtCoder Algorithm Lectures](https://info.atcoder.jp/entry/algorithm_lectures/index) - データ構造・グラフ・数学など幅広いアルゴリズムやテクニックを解説する講義シリーズです。主に中・上級者向けの内容が中心です。
+    - [公式 X アカウント](https://x.com/atcoder_aal)
 
 ### 非公式サービス・ツール・ライブラリ・記事など
 
@@ -153,6 +154,11 @@
 
 === "SNS"
 
+    2026-09-04
+
+    - 「[SNS](sns)」ページ
+        - [AtCoder Algorithm Lectures](https://x.com/atcoder_aal)
+
     2026-08-27
 
     - 「[SNS](sns)」ページ
@@ -190,11 +196,6 @@
 
     - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
         - [Tamiji](https://atcoder.jp/users/Tamiji)さん - [AtCoder入橙記事](https://qiita.com/Tamiji153/items/a00a8ed280a05b8be61e)
-
-    2026-08-21
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [nortrav](https://atcoder.jp/users/nortrav)さん - [入緑紀事：入緑までにやったこと・やらなかったことまとめ](https://zenn.dev/harupiyo99/articles/nyuryoku_nortrav)
 
 === "アーカイブス"
 
