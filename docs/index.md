@@ -197,11 +197,6 @@
     - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
         - [Tamiji](https://atcoder.jp/users/Tamiji)さん - [AtCoder入橙記事](https://qiita.com/Tamiji153/items/a00a8ed280a05b8be61e)
 
-    2026-08-21
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [nortrav](https://atcoder.jp/users/nortrav)さん - [入緑紀事：入緑までにやったこと・やらなかったことまとめ](https://zenn.dev/harupiyo99/articles/nyuryoku_nortrav)
-
 === "アーカイブス"
 
     諸事情により事実上開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
