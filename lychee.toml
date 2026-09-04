@@ -24,6 +24,7 @@ exclude = [
   "^https://kotlinlang\\.org/",
   "^https://leetcode\\.com/",
   "^https://medium\\.com/",
+  "^https://mojacoder\\.app/ ",
   "^https://note\\.e-seikatsu\\.info/",
   "^https://oeis\\.org/",
   "^https://openai\\.com/",
