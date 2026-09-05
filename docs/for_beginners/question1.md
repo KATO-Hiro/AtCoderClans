@@ -16,17 +16,6 @@ A1: 入門者、初心者向けの教材や記事を読んでみましょう。[
       <img loading = "lazy" src="../../images/official/home_apg4b.png" alt="atcoder problems">
     </div>
 
-
-- [アルゴ式](https://algo-method.com/) - プログラミングを道具として利用しながら、論理的思考力やコーディング力を身につけることができるWebサービスです。[公式アカウント](https://twitter.com/algo_method)も用意されています。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/related_contest_sites/algo_method/algo_method.png" alt="algo method">
-    </div>
-
-    !!! info "参考"
-
-        サービスを利用する前に、作者によるサービス開始の理由とアルゴリズムを学ぶ意義について書かれた[記事](https://note.com/sak_algo/n/nfb0058237ed5)を一読されることをお勧めします。
-
 ## AtCoderアカウントの登録〜コンテスト参加
 
 - [競技プログラミングことはじめ](https://speakerdeck.com/e869120/20221122-jing-ji-puroguramingukotohazime) - 競技プログラミングに関連する教育コンテンツを多数作成されている[E869120](https://atcoder.jp/users/E869120)さんのスライドです。基本的な説明から、コンテストサイト[AtCoder](https://atcoder.jp/)の登録方法・問題の解き方・求められるスキルなどが紹介されています。

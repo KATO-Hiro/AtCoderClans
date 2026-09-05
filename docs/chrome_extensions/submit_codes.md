@@ -30,7 +30,7 @@ title: ソースコードの提出・確認を簡単に
 
 ## 提出コードをSNSで共有
 
-- [AtCoder Submission Share](https://chrome.google.com/webstore/detail/atcoder-submission-share/iinlphkfpahlfohgkphcchhejkhclgap) - 「提出結果」ページに、ツイートボタンを設置する。[アルゴ式](https://algo-method.com/)と類似した形式で投稿できる。
+- [AtCoder Submission Share](https://chrome.google.com/webstore/detail/atcoder-submission-share/iinlphkfpahlfohgkphcchhejkhclgap) - 「提出結果」ページに、ツイートボタンを設置する。
 
     <div align="center">
       <img loading = "lazy" src="../../images/chrome_extension/atcoder_submission_share.png" alt="atcoder submission share">

@@ -12,7 +12,6 @@ title: Related Contest Sites - はじめに
 ## 目次
 
 - アルゴリズム系コンテスト
-    - [アルゴ式](./algo_method)
     - [AOJ (Aizu Online Judge)](./aoj)
     - [Codeforces](./codeforces)
     - [情報オリンピック](./joi_ioi)
