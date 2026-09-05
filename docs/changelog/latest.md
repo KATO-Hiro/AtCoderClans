@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-09-05
+
+- [#12655](https://github.com/KATO-Hiro/AtCoderClans/pull/12655) - (破壊的な変更) 公式サイトで開発・提供終了を確認したサービス「[Archives](../../archived)」ページに移動。
+    - アルゴ式
+- [#12653](https://github.com/KATO-Hiro/AtCoderClans/pull/12653) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [「夜の橋を4人で渡る問題」で100万人いたら](https://www.youtube.com/watch?v=awRsntHpAZM)
+
 ### 2026-09-04
 
 - [#12649](https://github.com/KATO-Hiro/AtCoderClans/pull/12649) - 「[Articles, Blogs, Books and Videos](../../media)」の「[SNS](../../sns)」ページに、以下のアカウントを追加。
