@@ -147,10 +147,10 @@
 
 === "動画"
 
-    2026-08-22
+    2026-09-05
 
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [競プロYouTuberのなり方 — マイク1本とOBSで始めるハンズオン](https://zenn.dev/daikusutora3/articles/98d21638ecf2dd)
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [「夜の橋を4人で渡る問題」で100万人いたら](https://www.youtube.com/watch?v=awRsntHpAZM)
 
 === "SNS"
 
@@ -200,6 +200,10 @@
 === "アーカイブス"
 
     諸事情により事実上開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2026-09-05
+
+    - アルゴ式
 
     2026-08-28
 

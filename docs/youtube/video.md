@@ -58,47 +58,7 @@ title: 個別の動画
 
 - [100サイズの箱は80サイズの箱に入るか？【ゆっくり解説】](https://www.youtube.com/watch?v=8wT7V-Pw6_w) - 直方体の縦・横・高さの合計でサイズを計る場合に、大きい箱が小さい箱に入るかどうかを示している。
     - [「夜の橋を4人で渡る問題」で100万人いたら](https://www.youtube.com/watch?v=awRsntHpAZM) - 橋の定員が2人のとき、N人全員が対岸まで渡る時間を最適化問題として解く方法が紹介されている。
-
-    ??? info "関連動画の一覧"
-
-        - [赤のN点と青のN点を交差なく結べるか？](https://www.youtube.com/watch?v=Uvbcn6up-rA) - 題意を満たす方法の有無と、その証明が示されている。
-        - [ケーキを5等分する公平な方法](https://www.youtube.com/watch?v=QuayL25RZj8) - n 人でケーキを「公平」に分ける方法が紹介されている。
-        - [2人の死刑囚と64枚のコイン](https://www.youtube.com/watch?v=v3Gqw4ta6Dc) - 死刑囚が現在の盤面の情報から、看守が選んだコインを当てるゲームの必勝法が示されている。
-        - [この物体の重心はどこ？](https://www.youtube.com/watch?v=kBVgmn4DQ-Q) - 与えられた図形の重心を視覚的に求める方法が示されている。
-        - [tan1は有理数か](https://www.youtube.com/watch?v=BOtP2l0_FQ4) - 標題の内容を複数の方法で証明している。
-        - [この長さは？](https://www.youtube.com/watch?v=tpdZ3fMA6x0) - イギリス国旗の定理が紹介されている。
-        - [足して15になる3つの数を取るゲームの必勝法](https://www.youtube.com/watch?v=A-c-IvT8FNY) - ゲームの必勝法の有無を証明している。
-        - [2でも5でも割り切れない数は何倍かすると全桁1になる？](https://www.youtube.com/watch?v=Md7io_K1Pz0) - 題意を満たす整数が存在するかどうかを証明している。
-        - [平面上の10点は半径1の円盤を敷き詰めて必ず覆えるか？](https://www.youtube.com/watch?v=hGa8_P8X3yY) - 題意を満たすかどうかを証明している。
-        - [平方数の末尾に4は何個まで続くか？](https://www.youtube.com/watch?v=SNgKyaAvb4E) - 平方数の末尾に4が4つ以上続くかどうかが示されている。
-        - [ハンターVS透明うさぎ：数学オリンピック史上最難問](https://www.youtube.com/watch?v=fjRl5avyumI) - 国際数学オリンピック史上最難問を題材に、ハンターの必勝法の有無が示されている。
-        - [「次のカードが赤なら勝ち」ゲームに戦略はあるか？](https://www.youtube.com/watch?v=rloUgDoidyk) - トランプ52枚をシャッフルし、上からカードを選んで、その次が赤色なら勝利するゲームで、勝率50%を超える戦略の有無が解説されている。
-        - [99％数学の問題がプログラミングコンテストに出た件](https://www.youtube.com/watch?v=5KHjGZysb68) - (注: ネタバレあり) [AtCoder Beginner Contest 420](https://atcoder.jp/contests/abc420)のG問題の解説。
-        - [当たり前だが証明が難しい素数の定理](https://www.youtube.com/watch?v=9u6aFrUFHak) - 「ベルトランの仮説」について、エルデシュによる証明が紹介されている。
-        - [「8」を重ねずに平面に非可算無限個描けるか？](https://www.youtube.com/watch?v=zWvufLP7_Ao) - 以下の動画の続編。題意を満たすかどうか示されている。
-        - [無限ホテルともっと無限の客【ゆっくり解説】](https://www.youtube.com/watch?v=DMYijrdeN5Y) - 宿泊施設に客を割り当てる問題を通して、実数全体の集合が非可算であることが説明されている。
-        - [白い部分にすっぽり入る最大の円は？](https://www.youtube.com/watch?v=cZ6aWnfZ_ag) - 市松模様の白い部分に完全に含まれる円の直径の最大値と、その証明が示されている。
-        - [グーゴル+1は素数か？【ゆっくり解説】](https://www.youtube.com/watch?v=Gy72jItAM7A) - グーゴル(10の100乗) + 1が素数か判定するとともに、一般化している。
-        - [王将をかわりばんこに動かすゲーム【ゆっくり解説】](https://www.youtube.com/watch?v=3qtjG50cVzg) - 将棋盤で2人が王将を交互に動かし、同じマスを通らないように移動するゲームで、確実に勝つ方法が存在するかを示している。
-        - [2つの卵と100階建てのビル【ゆっくり解説】](https://www.youtube.com/watch?v=kE3E2oUOYeQ) - 卵を2個使い、ビルから落としても割れない最大の階数を効率的に見つける方法が解説されている。
-        - [「相加平均≧相乗平均」を4分で3回証明してみた【ゆっくり解説】](https://www.youtube.com/watch?v=V1X2_OdG36Q) - 相加相乗平均の不等式に関する証明が3種類紹介されている。
-        - [3つの2でどんな整数も表せるか？【ゆっくり解説】](https://www.youtube.com/watch?v=QW1wHdg3ji0) - 2を3回使って任意の自然数を表現できるかどうかが示されている。
-        - [赤の面積は青の面積の何倍くらい？【ゆっくり解説】](https://www.youtube.com/watch?v=z2LL4vNZKic) - 題意を満たす比率、および、青色の面積の期待値を求める方法が解説されている。
-        - [毒チョコゲームの必勝法【ゆっくり解説】](https://www.youtube.com/watch?v=agRtx_XREtA) - Chompと呼ばれるゲームの必勝法の有無と、その方法が証明されている。
-        - [1分で国際数学オリンピックの1問目【ゆっくり解説】](https://www.youtube.com/watch?v=p_ETbKjVcyY) - 国際数学オリンピックで出題された問題の解法を1分で説明している。
-        - [a!b! = a! + b! + c!【ゆっくり解説】](https://www.youtube.com/watch?v=9Yw0ekDSBgE) - 題意を満たす正整数a, b, cの組をすべて求めるとともに、その正当性を証明している。
-        - [1/√xを計算する変態コード【ゆっくり解説】](https://www.youtube.com/watch?v=n2Q1Sp7iew4) - ゲームを題材に、光の入射角・反射角の計算が手動で最適化されたコードを解説している。
-        - [x^x^4=64【ゆっくり解説】](https://www.youtube.com/watch?v=QeAr5NXGfi0) - 題意を満たす実数xを求めている。
-        - [3乗根を一瞬で暗算する方法【ゆっくり解説】](https://www.youtube.com/watch?v=mybn4a6FM10) - 答えが2桁の整数となるときの3乗根を暗算する方法が紹介されている。
-        - [【速報】2^136279841-1は素数　6年ぶり新記録](https://www.youtube.com/watch?v=f89QYS-Pqfw) - 2024年10月に史上最大の素数が発見されたことの報告と、判定方法の概略が紹介されている。
-        - [7分で入試数学史上最難問【ゆっくり解説】](https://www.youtube.com/watch?v=paYeCZuBhhA) - 2種類の操作によって、白丸を一直線に並べることができる個数とその証明がされている。
-        - [どんな数も「114514」で表すツール【ゆっくり解説】](https://www.youtube.com/watch?v=Sl64oiwG0yE) - あらゆる整数を「114514」と四則演算で表現するツールのソースコードの概略が解説されている。
-        - [もし時計の時針と分針が区別できなかったら【ゆっくり解説】](https://www.youtube.com/watch?v=G5qF3c_ac9M) - 時計の針の長さが同じと仮定し、1日に時刻が分からなくなる回数を導出している。
-        - [9個の正方形をもう1個にくっつけられるか？【ゆっくり解説】](https://www.youtube.com/watch?v=O_2uOiOeyF8) - 正方形に接するように、同じサイズの正方形を9枚置けるかどうかを示している。
-        - [五色定理・改【ゆっくり解説】](https://www.youtube.com/watch?v=uBy2Vghh--8) - 任意の地図を5色で塗り分けることと、より制約が厳しい条件で可能かどうかを証明している。
-        - [20人の囚人と12個の箱【ゆっくり解説】](https://www.youtube.com/watch?v=gLHWaYhssXY) - 一人あたりの勝率が60%のとき、20人全員が連続して勝つ確率が50%以上となる戦略が存在するかを示している。
-        - [π^π^π^πは整数か？【ゆっくり解説】](https://www.youtube.com/watch?v=TooFbrU-Wb4) - π^π^π^πが整数ではないことの証明が試みられている。
-        - [2本の交わらない線で点を結べるか？【ゆっくり解説】](https://www.youtube.com/watch?v=FnMgl2z86qo) - 正方形の内側にしか線が引けない場合に、表題の内容を満たせるかどうかを示している。
+    - [再生リスト](https://www.youtube.com/@evimalab/playlists)
 
 - [大学入試史上最も難しい伝説の問題のまさかの別解を発見したので解説](https://www.youtube.com/watch?v=Po8C2i6_ua4) - 東京大学（1998年後期）で出題された問題の別解として、グラフ理論（二分木）を用いた方法が紹介されている。
 
