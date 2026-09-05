@@ -68,7 +68,7 @@ title: C&#43;&#43;
 |a1048576|[Qiita](https://qiita.com/a1048576/)||
 |dohatsutsu|[はてなブログ](https://dohatsutsu.hatenablog.com/)|2017年11月以降、新規の記事を確認できず。|
 |dokin|[はてなブログ](https://dokinac.hatenablog.com/)||
-|drken|[はてなブログ](https://drken1215.hatenablog.com/)、 [Qiita](https://qiita.com/drken)|[問題解決力を鍛える!アルゴリズムとデータ構造](https://www.amazon.co.jp/dp/4065128447/)の著者。[アルゴ式](https://algo-method.com/)の元運営者。|
+|drken|[はてなブログ](https://drken1215.hatenablog.com/)、 [Qiita](https://qiita.com/drken)|[問題解決力を鍛える!アルゴリズムとデータ構造](https://www.amazon.co.jp/dp/4065128447/)の著者。アルゴ式の元運営者。|
 |drogskol|[はてなブログ](https://drogskol.hatenablog.com/)||
 |ei13333|[はてなブログ](https://ei1333.hateblo.jp/)||
 |enjapma|[はてなブログ](https://enjapma.hatenablog.com/)||
@@ -102,7 +102,7 @@ title: C&#43;&#43;
 |potetisensei|[はてなブログ](https://potetisensei.hatenablog.com/)||
 |primenumber|[はてなブログ](https://primenumber.hatenadiary.jp/)||
 |riano_|[はてなブログ](https://seashellpink-frostywhite.hatenablog.com/)||
-|sak|[Qiita](https://qiita.com/sakofsuken)、[note](https://note.com/sak_algo)|[アルゴ式](https://algo-method.com/)の運営・開発者。|
+|sak|[Qiita](https://qiita.com/sakofsuken)、[note](https://note.com/sak_algo)|アルゴ式の運営・開発者。|
 |sapphire15|[はてなブログ](https://sapphire15.hatenablog.com/)||
 |satanic0258|[はてなブログ](https://satanic0258.hatenablog.com/)|2018年9月以降、新規の記事を確認できず。|
 |Series_205|[Qiita](https://qiita.com/Series_205)||
