@@ -89,6 +89,7 @@ title: C&#43;&#43;
 |logicmachine|[Qiita](https://qiita.com/logicmachine)|2015年1月以降、新規の記事を確認できず。|
 |Magentor|[はてなブログ](https://magentor.hatenablog.com/)||
 |maple116|[はてなブログ](https://fuma-maple.hatenablog.com/)|2020年2月以降、新規の記事を確認できず。|
+|Mitsubachi|[はてなブログ](https://mitsubachi88.hatenablog.com/)||
 |MMNMM|[はてなブログ](https://259-momone.hatenablog.com/)||
 |Motsu_xe|[はてなブログ](https://motsu-xe.hatenablog.com/)||
 |olphe|[はてなブログ](https://olphe.hatenablog.com/)||
