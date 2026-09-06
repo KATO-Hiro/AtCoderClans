@@ -145,6 +145,14 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年8月24日時点)](https://x.com/atcoder/status/2091703480159506491)
 
+=== "ブログ"
+    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2026-09-06
+
+    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
+        - [Mitsubachi](https://atcoder.jp/users/Mitsubachi)さん - [はてなブログ](https://mitsubachi88.hatenablog.com/)
+
 === "動画"
 
     2026-09-05
@@ -175,11 +183,6 @@
 
     - 「[Others](libraries/others)」ページ
         - [occhanCode/atcoder-templates](https://github.com/occhanCode/atcoder-templates) ![GitHub Repo stars](https://img.shields.io/github/stars/occhanCode/atcoder-templates?style=plastic)
-
-    2026-08-23
-
-    - 「[C++](libraries/cpp)」ページ
-        - [tatyam-prime/bitset_avx512.cpp](https://gist.github.com/tatyam-prime/00267996616494dc14feb9136c7570d7)
 
 === "コマンドラインツール"
 
