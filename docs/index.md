@@ -125,6 +125,11 @@
 
 === "記事"
 
+    2026-09-07
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年9月7日時点)](https://x.com/atcoder/status/2096780039820132829)
+
     2026-09-03
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
