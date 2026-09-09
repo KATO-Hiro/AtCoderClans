@@ -30,7 +30,7 @@ title: 追加の動作確認が必要
 
 ### コンテストの成績を見る
 
-- [AtCoder Twitter Profile Updater](https://atcoder-twitter-profile-updater.vercel.app/) - レーティングの推移と最新の値をTwitterのプロフィール欄に自動で追加・更新できる。また、アプリおよびその構成技術に関する[解説記事](https://qiita.com/makutamoto/items/f9761dcf8dbe4d43d2b1)も公開されている。
+- AtCoder Twitter Profile Updater - レーティングの推移と最新の値をTwitterのプロフィール欄に自動で追加・更新できる。また、アプリおよびその構成技術に関する[解説記事](https://qiita.com/makutamoto/items/f9761dcf8dbe4d43d2b1)も公開されている。
 
     - 理由: 記載なし。
     - 代替手段: 調査中。
