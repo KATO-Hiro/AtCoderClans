@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-09-09
+
+- [#12675](https://github.com/KATO-Hiro/AtCoderClans/pull/12675) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
+    - [maspy](https://www.youtube.com/@maspy-cp)
+- [#12673](https://github.com/KATO-Hiro/AtCoderClans/pull/12673) - (破壊的な変更) リンク切れのサービスや記事を「[Archives](../../archived)」ページに移動。
+
 ### 2026-09-08
 
 - [#12670](https://github.com/KATO-Hiro/AtCoderClans/pull/12670) - (破壊的な変更) 「[Change Log](../latest)」ページの2026年8月分を月別のアーカイブに移動。
