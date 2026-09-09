@@ -215,6 +215,9 @@ title: リンク切れ
 
 ### 入門者・初心者向けの内容
 
+- [現役高校生が、AtCoderでレッドコーダーになるまでにやってきたこと。プログラミング上達の秘訣を全て教えます](https://engineer-lab.findy-code.io/redcoder) - [E869120](https://atcoder.jp/users/E869120)さんが、競技プログラミングを通して得た経験を共有するために書かれた記事。競技プログラミングやアルゴリズムの面白さ、上達するための練習方法、参考資料などが紹介されている。
+    - 確認した日: 2026/09/09
+
 - [私と競プロと教育活動（Qiita Night LT 資料）](https://www.slideshare.net/MasatakaYoneda/qiita-night-lt) - 記事「[現役高校生が、AtCoderでレッドコーダーになるまでにやってきたこと。プログラミング上達の秘訣を全て教えます](https://engineer-lab.findy-code.io/redcoder)」の続編とも言えるスライド。
     - 確認した日: 2021/12/01
 

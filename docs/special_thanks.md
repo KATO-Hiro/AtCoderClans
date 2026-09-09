@@ -28,5 +28,4 @@ GitHubを通してプルリクエストを送っていただいた皆さまの�
 ### ユーザ
 
 - [競プロのエコシステムについて](https://blog.hamayanhamayan.com/entry/2021/12/10/223827) - [hamayanhamayan](https://atcoder.jp/users/hamayanhamayan)さん。
-- [現役高校生が、AtCoderでレッドコーダーになるまでにやってきたこと。プログラミング上達の秘訣を全て教えます](https://engineer-lab.findy-code.io/redcoder) - [E869120](https://atcoder.jp/users/E869120)さん。
 - [ヒューリスティック最適化資料集](https://heuristic-ja.growi.cloud/) - [threecourse](https://atcoder.jp/users/threecourse)さん。
