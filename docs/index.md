@@ -145,11 +145,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年8月31日時点)](https://x.com/atcoder/status/2094248354473799799)
 
-    2026-08-24
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年8月24日時点)](https://x.com/atcoder/status/2091703480159506491)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -159,6 +154,11 @@
         - [Mitsubachi](https://atcoder.jp/users/Mitsubachi)さん - [はてなブログ](https://mitsubachi88.hatenablog.com/)
 
 === "動画"
+
+    2026-09-09
+
+    - 「[YouTube - チャンネル](youtube/channel)」ページ
+        - [maspy](https://www.youtube.com/@maspy-cp)
 
     2026-09-05
 
@@ -184,11 +184,6 @@
     - 「[C++](libraries/cpp)」ページ
         - [Tamiji153/libraries](https://github.com/Tamiji153/libraries) ![GitHub Repo stars](https://img.shields.io/github/stars/Tamiji153/libraries?style=plastic)
 
-    2026-08-26
-
-    - 「[Others](libraries/others)」ページ
-        - [occhanCode/atcoder-templates](https://github.com/occhanCode/atcoder-templates) ![GitHub Repo stars](https://img.shields.io/github/stars/occhanCode/atcoder-templates?style=plastic)
-
 === "コマンドラインツール"
 
     2026-08-30
@@ -208,6 +203,10 @@
 === "アーカイブス"
 
     諸事情により事実上開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2026-09-09
+
+    - AtCoder Twitter Profile Updater
 
     2026-09-05
 
