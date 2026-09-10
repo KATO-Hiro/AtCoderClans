@@ -125,6 +125,11 @@
 
 === "記事"
 
+    2026-09-10
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [CODE QUEEN 2026 決勝参加記](https://sayama3re.hatenablog.com/entry/2026/09/09/002729)
+
     2026-09-07
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -171,11 +176,6 @@
 
     - 「[SNS](sns)」ページ
         - [AtCoder Algorithm Lectures](https://x.com/atcoder_aal)
-
-    2026-08-27
-
-    - 「[SNS](sns)」ページ
-        - [1年間Discord鯖を運営したので、お気持ち表明をする](https://note.com/rieul/n/ncca5afda71c3)
 
 === "ライブラリ・スニペット"
 

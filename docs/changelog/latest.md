@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-09-10
+
+- [#12681](https://github.com/KATO-Hiro/AtCoderClans/pull/12681) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
+    - [CODE QUEEN 2026 決勝参加記](https://sayama3re.hatenablog.com/entry/2026/09/09/002729)
+
 ### 2026-09-09
 
 - [#12675](https://github.com/KATO-Hiro/AtCoderClans/pull/12675) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - チャンネル](../../youtube/channel)」ページに、以下のチャンネルを追加。
