@@ -101,28 +101,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "Webアプリ・Webサイト"
-
-    2026-08-28
-
-    - 「[問題を解く](web_app/solve_problems)」ページ
-        - [Novisteps Unsolved Problem Picker](https://greasyfork.org/ja/scripts/592732-novisteps-unsolved-problem-picker)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/novisteps_unsolved_problem_picker.png" alt="novisteps unsolved problem picker">
-    </div>
-
-=== "ユーザスクリプト"
-
-    2026-08-28
-
-    - 「[問題を解く](user_scripts/solve_problems)」ページ
-        - [Novisteps Unsolved Problem Picker](https://greasyfork.org/ja/scripts/592732-novisteps-unsolved-problem-picker)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/novisteps_unsolved_problem_picker.png" alt="novisteps unsolved problem picker">
-    </div>
-
 === "記事"
 
     2026-09-10
@@ -179,6 +157,11 @@
 
 === "ライブラリ・スニペット"
 
+    2026-09-11
+
+    - 「[Others](libraries/others)」ページ
+        - [kemuniku/cplib](https://github.com/kemuniku/cplib) ![GitHub stars](https://img.shields.io/github/stars/kemuniku/cplib?style=plastic)
+
     2026-09-01
 
     - 「[C++](libraries/cpp)」ページ
@@ -211,15 +194,6 @@
     2026-09-05
 
     - アルゴ式
-
-    2026-08-28
-
-    - AtCoderUsers
-    - AtCoderDevotionScript
-    - AtCoderScoreHider
-    - atcoder_constraints_eraser
-    - atcoder_collect_all_examples
-    - AtCoder D is for DP
 
 ## AtCoder公式グッズを購入する
 
