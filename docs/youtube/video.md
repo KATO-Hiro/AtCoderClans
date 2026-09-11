@@ -57,6 +57,7 @@ title: 個別の動画
 ### 数学・パズルに関する問題
 
 - [100サイズの箱は80サイズの箱に入るか？【ゆっくり解説】](https://www.youtube.com/watch?v=8wT7V-Pw6_w) - 直方体の縦・横・高さの合計でサイズを計る場合に、大きい箱が小さい箱に入るかどうかを示している。
+    - [ポーカーを手札全公開でやったらどうなる？](https://www.youtube.com/watch?v=ro96ueRIip0) - 表題の条件で、必勝法の有無を考察している。
     - [「夜の橋を4人で渡る問題」で100万人いたら](https://www.youtube.com/watch?v=awRsntHpAZM) - 橋の定員が2人のとき、N人全員が対岸まで渡る時間を最適化問題として解く方法が紹介されている。
     - [再生リスト](https://www.youtube.com/@evimalab/playlists)
 
