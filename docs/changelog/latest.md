@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-09-11
+
+- [#12684](https://github.com/KATO-Hiro/AtCoderClans/pull/12684) - 「「[Libraries and Snippets](../../libraries)」の「[Others](../../libraries/others)」ページに、Nimで実装されたライブラリを追加。
+    - [kemuniku/cplib](https://github.com/kemuniku/cplib) ![GitHub stars](https://img.shields.io/github/stars/kemuniku/cplib?style=plastic)
+
 ### 2026-09-10
 
 - [#12681](https://github.com/KATO-Hiro/AtCoderClans/pull/12681) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
