@@ -103,6 +103,11 @@
 
 === "記事"
 
+    2026-09-12
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [CodeQUEEN 2026に協賛しました](https://www.forcia.com/blog/003354.html)
+
     2026-09-10
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
@@ -137,6 +142,11 @@
         - [Mitsubachi](https://atcoder.jp/users/Mitsubachi)さん - [はてなブログ](https://mitsubachi88.hatenablog.com/)
 
 === "動画"
+
+    2026-09-12
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [ポーカーを手札全公開でやったらどうなる？](https://www.youtube.com/watch?v=ro96ueRIip0)
 
     2026-09-09
 
@@ -183,9 +193,25 @@
     - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
         - [Tamiji](https://atcoder.jp/users/Tamiji)さん - [AtCoder入橙記事](https://qiita.com/Tamiji153/items/a00a8ed280a05b8be61e)
 
+=== "国内外のコンテストサイト"
+
+    2026-09-12
+
+    - 「[不定期開催](related_contest_sites/algorithm)」ページ
+        - [DOJ](https://doj.kr/ja)
+        - [【競プロ】DOJっていうサイトがあるよ、という話](https://note.com/halc_flipper/n/n3aff5f6ba2ee)
+
+    <div align="center">
+      <img loading="lazy" src="images/related_contest_sites/doj/doj.png" alt="doj">
+    </div>
+
 === "アーカイブス"
 
     諸事情により事実上開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2026-09-12
+
+    - MN-Core Challenge
 
     2026-09-09
 
