@@ -4,6 +4,18 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-09-12
+
+- [#12694](https://github.com/KATO-Hiro/AtCoderClans/pull/12694) - 「[Related Contest Sites](../../related_contest_sites)」の「[不定期開催](../../related_contest_sites/algorithm)」ページに、以下のコンテストサイトと紹介記事を追加。
+    - [DOJ](https://doj.kr/ja)
+    - [【競プロ】DOJっていうサイトがあるよ、という話](https://note.com/halc_flipper/n/n3aff5f6ba2ee)
+- [#12693](https://github.com/KATO-Hiro/AtCoderClans/pull/12693) - (破壊的な変更) 掲載情報が更新されていないと思われるサービス「[Archives](../../archived)」ページに移動。
+    - MN-Core Challenge
+- [#12691](https://github.com/KATO-Hiro/AtCoderClans/pull/12691) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [ポーカーを手札全公開でやったらどうなる？](https://www.youtube.com/watch?v=ro96ueRIip0)
+- [#12690](https://github.com/KATO-Hiro/AtCoderClans/pull/12690) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
+    - [CodeQUEEN 2026に協賛しました](https://www.forcia.com/blog/003354.html)
+
 ### 2026-09-11
 
 - [#12684](https://github.com/KATO-Hiro/AtCoderClans/pull/12684) - 「「[Libraries and Snippets](../../libraries)」の「[Others](../../libraries/others)」ページに、Nimで実装されたライブラリを追加。
