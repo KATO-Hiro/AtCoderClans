@@ -2,6 +2,15 @@
 title: 不定期開催
 ---
 
+## DOJ
+
+- [DOJ](https://doj.kr/ja) - 韓国のコンテストサイト。
+    - [【競プロ】DOJっていうサイトがあるよ、という話](https://note.com/halc_flipper/n/n3aff5f6ba2ee) - [hirayuu_At](https://atcoder.jp/users/hirayuu_At)さんが、同サイトの特徴やアカウントの登録・活用方法などを紹介している記事。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/related_contest_sites/doj/doj.png" alt="doj">
+    </div>
+
 ## HOJ (Hamako Online Judge)
 
 - [Hamako Online Judge](https://hoj.hamako-ths.ed.jp/onlinejudge/) - 不定期にコンテストが開催されている。
