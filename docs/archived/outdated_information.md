@@ -1054,3 +1054,13 @@ Topcoder Arena（applet版・Web版）の提供終了とともに、コンテス
     <div align="center">
       <img loading = "lazy" src="../../images/related_contest_sites/ctf/ctf_ratings.png" alt="ctf ratings">
     </div>
+
+## プロセッサー（アクセラレータ）系コンテスト
+
+- [MN-Core Challenge](https://mncore-challenge.preferred.jp/) - AIプロセッサー（アクセラレータ）を題材としたプログラミングコンテストサイト。
+    - 確認した日: 2026/09/12
+    - 理由: 第2回の開催なし。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/mn_core_challenge/mn_core_challenge.png" alt="mn core challenge">
+    </div>
