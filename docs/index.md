@@ -101,6 +101,13 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "ユーザスクリプト"
+
+    2026-09-13
+
+    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
+        - [AtCoder AHC Extended Standings](https://greasyfork.org/ja/scripts/593984-atcoder-ahc-extended-standings)
+
 === "記事"
 
     2026-09-12
@@ -177,13 +184,6 @@
     - 「[C++](libraries/cpp)」ページ
         - [Tamiji153/libraries](https://github.com/Tamiji153/libraries) ![GitHub Repo stars](https://img.shields.io/github/stars/Tamiji153/libraries?style=plastic)
 
-=== "コマンドラインツール"
-
-    2026-08-30
-
-    - 「[ソースコードにバグがないか確認](cli/test_tools)」ページ
-        - [yoniha428/atcommand](https://github.com/yoniha428/atcommand) ![GitHub stars](https://img.shields.io/github/stars/yoniha428/atcommand?style=plastic)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
@@ -208,6 +208,10 @@
 === "アーカイブス"
 
     諸事情により事実上開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2026-09-13
+
+    - AtCoder-HiderRatingAndPerformance
 
     2026-09-12
 

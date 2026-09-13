@@ -231,14 +231,6 @@ title: コンテストの成績や関連する統計情報を見る
       <img loading = "lazy" src="../../images/userscript/atcoder_auto_pager.png" alt="atcoder auto pager">
     </div>
 
-### ユーザの成績を一部非表示に
-
-- [AtCoder-HiderRatingAndPerformance](https://greasyfork.org/ja/scripts/492653-atcoder-hiderratingandperformance) - 「ユーザ」ページで、レーティングやパフォーマンスに関する内容を一部非表示にする。
-
-    <div align="center">
-      <img loading="lazy" src="../../images/userscript/atcoder_hider_rating_and_performance.png" alt="atcoder hider rating and performance">
-    </div>
-
 ### ユーザの使用言語を見る
 
 - [atcoder-standings-lang](https://greasyfork.org/ja/scripts/415894-atcoder-standings-lang) - 「順位表」ページおよび「バーチャル順位表」ページで、ユーザ名の横にAC数の多い言語を表示する。

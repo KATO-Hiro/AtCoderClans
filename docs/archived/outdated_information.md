@@ -445,6 +445,13 @@ title: 更新停止の可能性が高い
       <img loading="lazy" src="../../images/userscript/atcoder_youre_top_xpercent.png" alt="atcoder you're top x percent">
     </div>
 
+- [AtCoder-HiderRatingAndPerformance](https://greasyfork.org/ja/scripts/492653-atcoder-hiderratingandperformance) - 「ユーザ」ページで、レーティングやパフォーマンスに関する内容を一部非表示にする。
+    - 確認した日: 2026/09/13
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_hider_rating_and_performance.png" alt="atcoder hider rating and performance">
+    </div>
+
 ### Webページに色付けする
 
 - [AtCoderDarkTheme](https://greasyfork.org/ja/scripts/388076-atcoderdarktheme) - ダークテーマに変更する。類似したスクリプトに、[AtCoder-Style-Changer](https://greasyfork.org/ja/scripts/429929-atcoder-style-changer)がある。
