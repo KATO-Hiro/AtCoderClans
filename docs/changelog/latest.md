@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-09-13
+
+- [#12702](https://github.com/KATO-Hiro/AtCoderClans/pull/12702) - 「[Milestones](../../milestones/cyan)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1200から1599まで(水色)に[shunta](https://atcoder.jp/users/shunta)さんの[記事](https://qiita.com/NAVYSHUNTA/items/cbd7a9fe4c57a1327737)を追加。
+    - レーティング800から1199まで(緑色)に[haaaaaaa](https://atcoder.jp/users/haaaaaaa)さんの[記事](https://qiita.com/haaaaaaa/items/0be607e77e7f20a5c69c)を追加。
+    - レーティング400から799まで(茶色)に[aksk](https://atcoder.jp/users/aksk)さんの[記事](https://qiita.com/akasako/items/e06e768b2f8dbaf9a02e)を追加。
+- [#12697](https://github.com/KATO-Hiro/AtCoderClans/pull/12697) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder AHC Extended Standings](https://greasyfork.org/ja/scripts/593984-atcoder-ahc-extended-standings)
+
 ### 2026-09-12
 
 - [#12694](https://github.com/KATO-Hiro/AtCoderClans/pull/12694) - 「[Related Contest Sites](../../related_contest_sites)」の「[不定期開催](../../related_contest_sites/algorithm)」ページに、以下のコンテストサイトと紹介記事を追加。
