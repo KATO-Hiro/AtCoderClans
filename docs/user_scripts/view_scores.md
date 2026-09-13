@@ -214,9 +214,11 @@ title: コンテストの成績や関連する統計情報を見る
       <img loading = "lazy" src="../../images/userscript/atcoder_devotion_graph.png" alt="atcoder devotion graph">
     </div>
 
-### 順位表の並び替え
+### 順位表を見やすくする
 
 - [AtCoder Standings: Sort Same Rank by Rating](https://greasyfork.org/ja/scripts/586325-atcoder-standings-sort-same-rank-by-rating) - 「順位表」ページで、順位が同じ場合にコンテスト開始前のレーティング（降順）で表示する。
+
+- [AtCoder AHC Extended Standings](https://greasyfork.org/ja/scripts/593984-atcoder-ahc-extended-standings) - [AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=AtCoder+Heuristic+Contest)の「延長戦順位表」ページで、各ユーザの最高スコアに基づいて順位や推定パフォーマンス値を表示する。
 
 ### ユーザの成績で検索
 
