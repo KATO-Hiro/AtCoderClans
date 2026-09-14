@@ -110,6 +110,11 @@
 
 === "記事"
 
+    2026-09-14
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年9月14日時点)](https://x.com/atcoder/status/2099363407552217526)
+
     2026-09-12
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
@@ -134,11 +139,6 @@
 
     - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
         - [Codonで競プロするときのPythonとの違い・注意点](https://zenn.dev/yuubinnkyoku/articles/codon-atcoder-notes)
-
-    2026-08-31
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年8月31日時点)](https://x.com/atcoder/status/2094248354473799799)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -198,11 +198,6 @@
 
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [aksk](https://atcoder.jp/users/aksk)さん - [入茶記事](https://qiita.com/akasako/items/e06e768b2f8dbaf9a02e)
-
-    2026-08-31
-
-    - 「[レーティング2400〜2799(橙色)](milestones/orange)」ページ
-        - [Tamiji](https://atcoder.jp/users/Tamiji)さん - [AtCoder入橙記事](https://qiita.com/Tamiji153/items/a00a8ed280a05b8be61e)
 
 === "国内外のコンテストサイト"
 
