@@ -93,12 +93,15 @@ title: 問題を解く
 - [MojaCoder](https://mojacoder.app/) - 競技プログラミングに関する問題を投稿・解答できるオンラインジャッジシステム。解答で利用できる言語は、Brainfuck、C、C++、C#、Go、Java、Python3、Ruby、Rust、Textなど。
     - [初めてのコンテストの開き方(MojaCoder)](https://ajinoko33.hatenablog.com/entry/2023/02/18/141240) - 有志によりコンテストの開催方法がまとめられている記事。「[問題を作成・出題する](../../articles/for_writers)」ページや「[問題作成に関する便利ツール](../../cli/tools_for_writers)」ページも併せて参照されたい。
 
-    !!! danger "警告"
-        - [告知専用のTwitterアカウント](https://twitter.com/MojaCoder)もあるが、2021年8月以降は更新を確認できず。
-
     !!! warning "注意"
-        - 同サービスを引き続き利用するには、[MOFE](https://mofecoder.com/)への移行作業が必要([出典](https://twitter.com/CafeCoder_/status/1689280921835335680))。
+        2026年12月31日サービス終了予定。
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/mojacoder.png" alt="mojacoder">
+    </div>
+
+- [ShareOJ](https://www.share-oj.net/) - (ベータ版) プログラミングに関する問題を投稿・回答できるオンラインジャッジシステム。また、解説記事の投稿・閲覧も可能。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/share_oj.png" alt="share oj">
     </div>
