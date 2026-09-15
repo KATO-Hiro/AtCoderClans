@@ -41,5 +41,4 @@ title: C&#43;&#43;
     - [tatyam-prime/bitset_avx512.cpp](https://gist.github.com/tatyam-prime/00267996616494dc14feb9136c7570d7) - AtCoder、QOJなどで利用できる高速なBitSet。
 - [UScuber/Algorithm-Library](https://github.com/UScuber/Algorithm-Library) ![GitHub stars](https://img.shields.io/github/stars/UScuber/Algorithm-Library?style=plastic) - [US_cube](https://atcoder.jp/users/US_cube)さんのライブラリ。
 - [windows-server-2003/quick_floyd_warshall](https://github.com/windows-server-2003/quick_floyd_warshall) ![GitHub Repo stars](https://img.shields.io/github/stars/windows-server-2003/quick_floyd_warshall?style=plastic) - [QCFium](https://atcoder.jp/users/QCFium)さんのライブラリ。Floyd-Warshallアルゴリズムの大幅な高速化が図られている。
-- [xirc/cp-algorithm](https://github.com/xirc/cp-algorithm) ![GitHub Repo stars](https://img.shields.io/github/stars/xirc/cp-algorithm?style=plastic) - [xirc](https://atcoder.jp/users/xirc)さんのライブラリ。
 - [yosupo06/Algorithm](https://github.com/yosupo06/Algorithm) ![GitHub stars](https://img.shields.io/github/stars/yosupo06/Algorithm?style=plastic) - [yosupo](https://atcoder.jp/users/yosupo)さんのライブラリ。C++11で実装されている。[D版](https://github.com/yosupo06/dunkelheit)もある。
