@@ -174,15 +174,15 @@
 
 === "ライブラリ・スニペット"
 
+    2026-09-15
+
+    - 「[C++](libraries/cpp)」ページ
+        - [NachiaVivias/cp-library](https://github.com/NachiaVivias/cp-library) ![GitHub stars](https://img.shields.io/github/stars/NachiaVivias/cp-library?style=plastic)
+
     2026-09-11
 
     - 「[Others](libraries/others)」ページ
         - [kemuniku/cplib](https://github.com/kemuniku/cplib) ![GitHub stars](https://img.shields.io/github/stars/kemuniku/cplib?style=plastic)
-
-    2026-09-01
-
-    - 「[C++](libraries/cpp)」ページ
-        - [Tamiji153/libraries](https://github.com/Tamiji153/libraries) ![GitHub Repo stars](https://img.shields.io/github/stars/Tamiji153/libraries?style=plastic)
 
 === "色変記事"
 

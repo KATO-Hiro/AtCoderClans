@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-09-15
+
+- [#12712](https://github.com/KATO-Hiro/AtCoderClans/pull/12712) - 「「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
+    - [NachiaVivias/cp-library](https://github.com/NachiaVivias/cp-library) ![GitHub stars](https://img.shields.io/github/stars/NachiaVivias/cp-library?style=plastic)
+
 ### 2026-09-14
 
 - [#12707](https://github.com/KATO-Hiro/AtCoderClans/pull/12707) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
