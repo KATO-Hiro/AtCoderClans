@@ -467,6 +467,9 @@ title: リンク切れ
 
 ### レーティング1200〜1599(水色)
 
+- [AtCoderで水色になったよっていう報告](https://note.com/lyu_lu/n/n5812f3988dd6) - lyuluさんが、2020年5月31日に達成。
+    - 確認した日: 2026/09/16
+
 - [AtCoderで水色になりました！ここまでの戦略・練習量・知識を紹介](https://www.youtube.com/watch?v=8YW5g2f8GKA&feature=youtu.be) - [hondo](https://atcoder.jp/users/hondo)さんが、2020年10月17日に達成。
     - 確認した日: 2026/04/29
 
