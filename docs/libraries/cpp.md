@@ -22,6 +22,7 @@ title: C&#43;&#43;
 - [mackerel38/competitive](https://github.com/mackerel38/competitive/tree/main/library) ![GitHub stars](https://img.shields.io/github/stars/mackerel38/competitive?style=plastic) - [mackerel38](https://atcoder.jp/users/mackerel38)さんのライブラリ。
 - [maspypy/library](https://github.com/maspypy/library) ![GitHub Repo stars](https://img.shields.io/github/stars/maspypy/library?style=plastic) - [maspy](https://atcoder.jp/users/maspy)さんのライブラリ。
 - [m1une/library](https://github.com/m1une/library) ![GitHub stars](https://img.shields.io/github/stars/m1une/library?style=plastic) - [m1une](https://atcoder.jp/users/m1une)さんのライブラリ。
+- [NachiaVivias/cp-library](https://github.com/NachiaVivias/cp-library) ![GitHub stars](https://img.shields.io/github/stars/NachiaVivias/cp-library?style=plastic) - [Nachia](https://atcoder.jp/users/Nachia)さんのライブラリ。
 - [ningenMe/compro-library](https://github.com/ningenMe/compro-library) ![GitHub stars](https://img.shields.io/github/stars/ningenMe/compro-library?style=plastic) - [ningenMe](https://atcoder.jp/users/ningenMe)さんのライブラリ。
 - [niuez/cp-cpp-library](https://github.com/niuez/cp-cpp-library) ![GitHub Repo stars](https://img.shields.io/github/stars/niuez/cp-cpp-library?style=plastic) - [niuez](https://atcoder.jp/users/niuez)さんのライブラリ。[Rust版](https://github.com/niuez/cp-rust-library)もある。
 - [noshi91/Library](https://noshi91.github.io/Library/) ![GitHub stars](https://img.shields.io/github/stars/noshi91/Library?style=plastic) - [noshi91](https://atcoder.jp/users/noshi91)さんのライブラリ。[Rust版](https://github.com/noshi91/n91lib_rs)もある。
@@ -40,5 +41,4 @@ title: C&#43;&#43;
     - [tatyam-prime/bitset_avx512.cpp](https://gist.github.com/tatyam-prime/00267996616494dc14feb9136c7570d7) - AtCoder、QOJなどで利用できる高速なBitSet。
 - [UScuber/Algorithm-Library](https://github.com/UScuber/Algorithm-Library) ![GitHub stars](https://img.shields.io/github/stars/UScuber/Algorithm-Library?style=plastic) - [US_cube](https://atcoder.jp/users/US_cube)さんのライブラリ。
 - [windows-server-2003/quick_floyd_warshall](https://github.com/windows-server-2003/quick_floyd_warshall) ![GitHub Repo stars](https://img.shields.io/github/stars/windows-server-2003/quick_floyd_warshall?style=plastic) - [QCFium](https://atcoder.jp/users/QCFium)さんのライブラリ。Floyd-Warshallアルゴリズムの大幅な高速化が図られている。
-- [xirc/cp-algorithm](https://github.com/xirc/cp-algorithm) ![GitHub Repo stars](https://img.shields.io/github/stars/xirc/cp-algorithm?style=plastic) - [xirc](https://atcoder.jp/users/xirc)さんのライブラリ。
 - [yosupo06/Algorithm](https://github.com/yosupo06/Algorithm) ![GitHub stars](https://img.shields.io/github/stars/yosupo06/Algorithm?style=plastic) - [yosupo](https://atcoder.jp/users/yosupo)さんのライブラリ。C++11で実装されている。[D版](https://github.com/yosupo06/dunkelheit)もある。
