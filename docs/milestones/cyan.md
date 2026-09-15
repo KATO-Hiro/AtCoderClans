@@ -126,5 +126,4 @@ title: レーティング1200〜1599(水色)
 - [AtCoder水色になりました！ - ntk log ntk](https://ntk-ta01.hatenablog.com/entry/2020/10/15/221729) - [ntk_ta01](https://atcoder.jp/users/ntk_ta01)さんが、2020年10月12日に達成。
 - [私文競プロerがAtCoderで水色になるまで - yosenのブログ](https://yosen.hatenablog.com/entry/2020/08/23/032208) - [sakuya_1639](https://atcoder.jp/users/sakuya_1639)さんが、2020年7月25日に達成。
 - [Atcoderで入水しました - unosss’s diary](https://unosss.hatenablog.com/entry/2020/07/06/194805) - [unos](https://atcoder.jp/users/unos)さんが、2020年7月5日に達成。
-- [AtCoderで水色になったよっていう報告](https://note.com/lyu_lu/n/n5812f3988dd6) - lyuluさんが、2020年5月31日に達成。
 - [AtCoderで水色になりました！【やってきたことやコンテスト中に意識していること】](https://ysk-pro.hatenablog.com/entry/atcoder-light-blue) - [ysk1180](https://atcoder.jp/users/ysk1180)さんが、2020年5月30日に達成。
