@@ -905,6 +905,7 @@ title: 更新停止の可能性が高い
 - [square1001/algorithm-contest-library](https://github.com/square1001/algorithm-contest-library) ![GitHub stars](https://img.shields.io/github/stars/square1001/algorithm-contest-library?style=plastic) - [square1001](https://atcoder.jp/users/square1001)さんのライブラリ。
 - [Tiramister/CppLibrary](https://github.com/Tiramister/CppLibrary) ![GitHub stars](https://img.shields.io/github/stars/Tiramister/CppLibrary?style=plastic) - [Tiramister](https://atcoder.jp/users/Tiramister)さんのC++ライブラリ。
 - [tubuann/library](https://github.com/tubuann/library) ![GitHub stars](https://img.shields.io/github/stars/tubuann/library?style=plastic) - [tubuann](https://atcoder.jp/users/tubuann)さんのライブラリ。
+- [xirc/cp-algorithm](https://github.com/xirc/cp-algorithm) ![GitHub Repo stars](https://img.shields.io/github/stars/xirc/cp-algorithm?style=plastic) - [xirc](https://atcoder.jp/users/xirc)さんのライブラリ。
 - [xuzijian629/library2](https://github.com/xuzijian629/library2) ![GitHub Repo stars](https://img.shields.io/github/stars/xuzijian629/library2?style=plastic) - [xuzijian629](https://atcoder.jp/users/xuzijian629)さんのライブラリ
 - [zerokpr/Kpr_Library](https://github.com/zerokpr/Kpr_Library) ![GitHub stars](https://img.shields.io/github/stars/zerokpr/Kpr_Library?style=plastic) - [zero_kpr](https://atcoder.jp/users/zero_kpr)さんのC++ライブラリ。
 
