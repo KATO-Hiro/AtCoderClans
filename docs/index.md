@@ -101,6 +101,17 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "Webアプリ・Webサイト"
+
+    2026-09-16
+
+    - 「[問題を解く](web_app/solve_problems)」ページ
+        - [ShareOJ](https://www.share-oj.net/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/share_oj.png" alt="share oj">
+    </div>
+
 === "ユーザスクリプト"
 
     2026-09-13
@@ -134,11 +145,6 @@
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [ネットワークフロー理論における「最小カット問題」の考え方を総整理！ 〜 カットの理論から現実への応用例まで 〜](https://qiita.com/drken/items/52aafd8c073b37749539)
-
-    2026-09-02
-
-    - 「[実装テクニックを学ぶ - Python](articles/implementation/python)」ページ
-        - [Codonで競プロするときのPythonとの違い・注意点](https://zenn.dev/yuubinnkyoku/articles/codon-atcoder-notes)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。

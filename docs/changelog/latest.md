@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-09-16
+
+- [#12716](https://github.com/KATO-Hiro/AtCoderClans/pull/12716) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のWebサービスを追加。
+    - [ShareOJ](https://www.share-oj.net/)
+- [#12715](https://github.com/KATO-Hiro/AtCoderClans/pull/12715) - (破壊的な変更) リンク切れの色変記事を「[Archives](../../archived)」ページに移動。
+
 ### 2026-09-15
 
 - [#12712](https://github.com/KATO-Hiro/AtCoderClans/pull/12712) - 「「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
