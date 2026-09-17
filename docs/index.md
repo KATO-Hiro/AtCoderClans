@@ -121,6 +121,11 @@
 
 === "記事"
 
+    2026-09-17
+
+    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
+        - [AtCoderをこれから始める人が知っておくべきこと一覧](https://qiita.com/Prrapp/items/179ea601e7c6d7c31d4c)
+
     2026-09-14
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
