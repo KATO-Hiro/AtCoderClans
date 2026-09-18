@@ -101,6 +101,7 @@ title: 問題を解く
     </div>
 
 - [ShareOJ](https://www.share-oj.net/) - (ベータ版) プログラミングに関する問題を投稿・回答できるオンラインジャッジシステム。また、解説記事の投稿・閲覧も可能。
+    - [ShareOJ@競プロ作問サービス](https://x.com/share_oj) - 同サービスの X 公式アカウント。
 
     <div align="center">
       <img loading="lazy" src="../../images/web_app/share_oj.png" alt="share oj">
