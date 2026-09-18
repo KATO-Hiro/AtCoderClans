@@ -103,6 +103,11 @@
 
 === "Webアプリ・Webサイト"
 
+    2026-09-18
+
+    - 「[問題を解く](web_app/solve_problems)」ページ
+        - [ShareOJ@競プロ作問サービス](https://x.com/share_oj)
+
     2026-09-16
 
     - 「[問題を解く](web_app/solve_problems)」ページ
@@ -146,11 +151,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年9月7日時点)](https://x.com/atcoder/status/2096780039820132829)
 
-    2026-09-03
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [ネットワークフロー理論における「最小カット問題」の考え方を総整理！ 〜 カットの理論から現実への応用例まで 〜](https://qiita.com/drken/items/52aafd8c073b37749539)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -175,13 +175,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [「夜の橋を4人で渡る問題」で100万人いたら](https://www.youtube.com/watch?v=awRsntHpAZM)
-
-=== "SNS"
-
-    2026-09-04
-
-    - 「[SNS](sns)」ページ
-        - [AtCoder Algorithm Lectures](https://x.com/atcoder_aal)
 
 === "ライブラリ・スニペット"
 
