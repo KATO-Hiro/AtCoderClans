@@ -73,6 +73,7 @@ title: C&#43;&#43;
 |birdwatcher|[Qiita](https://qiita.com/birdwatcher)||
 |Bondo416|[はてなブログ](https://bondo.hateblo.jp/)||
 |dsytk7|[はてなブログ](https://dsytk7.hateblo.jp)||
+|ei13333|[はてなブログ](https://ei1333.hateblo.jp/)||
 |ganmodokix|[はてなブログ](https://aprilganmo.hatenablog.com/)||
 |hakomo|[はてなブログ](https://hakomof.hatenablog.com/)||
 |hari64|[Qiita](https://qiita.com/hari64)||
@@ -110,6 +111,7 @@ title: C&#43;&#43;
 |tatyam|[はてなブログ](https://tatyam.hatenablog.com/)、[Qiita](https://qiita.com/tatyam)||
 |theory_and_me|[はてなブログ](https://theory-and-me.hatenablog.com/)||
 |Trineutron|[Qiita](https://qiita.com/trineutron)||
+|toku4388|[はてなブログ](https://toku4388.hatenablog.com/)||
 |tokumini|[はてなブログ](https://tokumini.hatenablog.com/)||
 |tsukasa_diary|[Qiita](https://qiita.com/tsukasa__diary)||
 |tsutaj|[はてなブログ](https://tsutaj.hatenablog.com/)||
