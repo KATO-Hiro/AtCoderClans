@@ -161,6 +161,11 @@
 
 === "動画"
 
+    2026-09-19
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [本当にどんな多角形も三角形分割できるか？](https://www.youtube.com/watch?v=nyk-U-HGLto)
+
     2026-09-12
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ

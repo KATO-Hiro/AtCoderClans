@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-09-19
+
+- [#12728](https://github.com/KATO-Hiro/AtCoderClans/pull/12728) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [本当にどんな多角形も三角形分割できるか？](https://www.youtube.com/watch?v=nyk-U-HGLto)
+
 ### 2026-09-18
 
 - [#12716](https://github.com/KATO-Hiro/AtCoderClans/pull/12716) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のXアカウントを追加。
