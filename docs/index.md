@@ -154,10 +154,11 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
-    2026-09-06
+    2026-09-20
 
-    - 「[アルゴリズム部門 - C++](blogs/algorithm/cpp)」ページ
-        - [Mitsubachi](https://atcoder.jp/users/Mitsubachi)さん - [はてなブログ](https://mitsubachi88.hatenablog.com/)
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [ei13333](https://atcoder.jp/users/ei13333)さん - [はてなブログ](https://ei1333.hateblo.jp/)
+        - [toku4388](https://atcoder.jp/users/toku4388)さん - [はてなブログ](https://toku4388.hatenablog.com/)
 
 === "動画"
 
@@ -175,11 +176,6 @@
 
     - 「[YouTube - チャンネル](youtube/channel)」ページ
         - [maspy](https://www.youtube.com/@maspy-cp)
-
-    2026-09-05
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [「夜の橋を4人で渡る問題」で100万人いたら](https://www.youtube.com/watch?v=awRsntHpAZM)
 
 === "ライブラリ・スニペット"
 
@@ -235,10 +231,6 @@
     2026-09-09
 
     - AtCoder Twitter Profile Updater
-
-    2026-09-05
-
-    - アルゴ式
 
 ## AtCoder公式グッズを購入する
 
