@@ -154,10 +154,12 @@
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
-    2026-09-20
+    2026-09-21
 
     - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
         - [toam](https://atcoder.jp/users/toam)さん - [はてなブログ](https://toriidao.hateblo.jp/)
+
+    2026-09-20
 
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
         - [ei13333](https://atcoder.jp/users/ei13333)さん - [はてなブログ](https://ei1333.hateblo.jp/)
