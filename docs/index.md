@@ -156,6 +156,9 @@
 
     2026-09-20
 
+    - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
+        - [toam](https://atcoder.jp/users/toam)さん - [はてなブログ](https://toriidao.hateblo.jp/)
+
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
         - [ei13333](https://atcoder.jp/users/ei13333)さん - [はてなブログ](https://ei1333.hateblo.jp/)
         - [toku4388](https://atcoder.jp/users/toku4388)さん - [はてなブログ](https://toku4388.hatenablog.com/)
