@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-09-22
+
+- [#12740](https://github.com/KATO-Hiro/AtCoderClans/pull/12740) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [AHC071 解法](https://topcoder-tomerun.hatenablog.jp/entry/2026/09/20/160029)
+
 ### 2026-09-21
 
 - [#12737](https://github.com/KATO-Hiro/AtCoderClans/pull/12737) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるアルゴリズム部門において、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
