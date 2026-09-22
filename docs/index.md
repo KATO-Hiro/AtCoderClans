@@ -177,11 +177,6 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [ポーカーを手札全公開でやったらどうなる？](https://www.youtube.com/watch?v=ro96ueRIip0)
 
-    2026-09-09
-
-    - 「[YouTube - チャンネル](youtube/channel)」ページ
-        - [maspy](https://www.youtube.com/@maspy-cp)
-
 === "ライブラリ・スニペット"
 
     2026-09-15
@@ -197,6 +192,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-09-23
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [rinrion](https://atcoder.jp/users/rinrion)さん - [50代プログラミング未経験者が7年かけてAtCoderで入緑した話](https://qiita.com/rinrion/items/b381ccf563d6d8e96ce9)
 
     2026-09-13
 
@@ -232,10 +232,6 @@
     2026-09-12
 
     - MN-Core Challenge
-
-    2026-09-09
-
-    - AtCoder Twitter Profile Updater
 
 ## AtCoder公式グッズを購入する
 
