@@ -126,6 +126,11 @@
 
 === "記事"
 
+    2026-09-24
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年9月24日時点)](https://x.com/atcoder/status/2102927600394059956)
+
     2026-09-22
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -145,11 +150,6 @@
 
     - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
         - [CodeQUEEN 2026に協賛しました](https://www.forcia.com/blog/003354.html)
-
-    2026-09-10
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-        - [CODE QUEEN 2026 決勝参加記](https://sayama3re.hatenablog.com/entry/2026/09/09/002729)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
