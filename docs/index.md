@@ -167,6 +167,11 @@
 
 === "動画"
 
+    2026-09-25
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [素数が無限にあることの1行証明](https://www.youtube.com/watch?v=9WDGq3uMlGk)
+
     2026-09-19
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
@@ -183,11 +188,6 @@
 
     - 「[C++](libraries/cpp)」ページ
         - [NachiaVivias/cp-library](https://github.com/NachiaVivias/cp-library) ![GitHub stars](https://img.shields.io/github/stars/NachiaVivias/cp-library?style=plastic)
-
-    2026-09-11
-
-    - 「[Others](libraries/others)」ページ
-        - [kemuniku/cplib](https://github.com/kemuniku/cplib) ![GitHub stars](https://img.shields.io/github/stars/kemuniku/cplib?style=plastic)
 
 === "色変記事"
 
