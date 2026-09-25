@@ -917,6 +917,16 @@ title: 更新停止の可能性が高い
 
 - [amotoma3/competitive-programming-java](https://github.com/amotoma3/competitive-programming-java) ![GitHub stars](https://img.shields.io/github/stars/amotoma3/competitive-programming-java?style=plastic) - [amotoma3](https://atcoder.jp/users/amotoma3)さんのライブラリ。
 
+### Python
+
+- [horiso0921/Mylib](https://github.com/horiso0921/Mylib) ![GitHub stars](https://img.shields.io/github/stars/horiso0921/Mylib?style=plastic) - [horiso0921](https://atcoder.jp/users/horiso0921)さんのライブラリ。
+- [iehn/lib](https://github.com/iehn/lib) ![GitHub stars](https://img.shields.io/github/stars/iehn/lib?style=plastic) - [iehn](https://atcoder.jp/users/iehn)さんのライブラリ。
+- [kuuso/comp_pro_python](https://github.com/kuuso/comp_pro_python) ![GitHub stars](https://img.shields.io/github/stars/kuuso/comp_pro_python?style=plastic) - [kuuso](https://atcoder.jp/users/kuuso)さんのライブラリ。[C#版](https://github.com/kuuso/comp_pro_csharp)もある。
+- [matsu7874/competitive-programming-snippets](https://github.com/matsu7874/competitive-programming-snippets) ![GitHub stars](https://img.shields.io/github/stars/matsu7874/competitive-programming-snippets?style=plastic) - [matsu7874](https://atcoder.jp/users/matsu7874)さんのスニペット集。
+- [nrkt/Algorithms](https://github.com/nrkt/Algorithms) ![GitHub stars](https://img.shields.io/github/stars/nrkt/Algorithms?style=plastic) - [nrkt](https://atcoder.jp/users/nrkt)さんのライブラリ。
+- [tachyon777/AtCoder](https://github.com/tachyon777/AtCoder) ![GitHub stars](https://img.shields.io/github/stars/tachyon777/AtCoder?style=plastic) - [tachyon777](https://atcoder.jp/users/tachyon777)さんのライブラリ。
+- [yaumu3/cpl-python3](https://github.com/yaumu3/cpl-python3) ![GitHub Repo stars](https://img.shields.io/github/stars/yaumu3/cpl-python3?style=plastic) - [yaumu3](https://atcoder.jp/users/yaumu3)さんのライブラリ。
+
 ### Rust
 
 - [akiradeveloper/rust-comp-snippets](https://github.com/akiradeveloper/rust-comp-snippets) ![GitHub Repo stars](https://img.shields.io/github/stars/akiradeveloper/rust-comp-snippets?style=plastic) - [akiradeveloper](https://atcoder.jp/users/akiradeveloper)さんのスニペット集。
