@@ -71,6 +71,12 @@ title: 問題を解く
       <img loading="lazy" src="../../images/web_app/atcoder_redirect.png" alt="atcoder editorial problems">
     </div>
 
+- [Custom Problems](https://custom-problems.vercel.app/) - 問題集の検索・作成・進捗管理ができる。2026年9月時点では、AtCoder・Codeforces・yukicoderの問題に対応している。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/custom_problems.png" alt="custom problems">
+    </div>
+
 - [Next-AC](https://next-ac-peach.vercel.app/) - AtCoder Beginner Contest (通称、ABC) の A 〜 C 問題に絞った進捗管理ダッシュボード。回答状況が自動的に更新され、次に解くべき問題をすぐに見つけられる。AtCoder ID を入力するだけで利用可能。
 
     <div align="center">
