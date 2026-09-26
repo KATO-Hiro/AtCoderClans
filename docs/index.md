@@ -103,6 +103,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2026-09-26
+
+    - 「[問題を解く](web_app/solve_problems)」ページ
+        - [Custom Problems](https://custom-problems.vercel.app/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/custom_problems.png" alt="custom problems">
+    </div>
+
     2026-09-18
 
     - 「[問題を解く](web_app/solve_problems)」ページ
@@ -146,11 +155,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年9月14日時点)](https://x.com/atcoder/status/2099363407552217526)
 
-    2026-09-12
-
-    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
-        - [CodeQUEEN 2026に協賛しました](https://www.forcia.com/blog/003354.html)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -177,12 +181,12 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [本当にどんな多角形も三角形分割できるか？](https://www.youtube.com/watch?v=nyk-U-HGLto)
 
-    2026-09-12
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [ポーカーを手札全公開でやったらどうなる？](https://www.youtube.com/watch?v=ro96ueRIip0)
-
 === "ライブラリ・スニペット"
+
+    2026-09-26
+
+    - 「[Python](libraries/python)」ページ
+        - [lif4635/harurun-s-library](https://github.com/lif4635/harurun-s-library) ![GitHub Repo stars](https://img.shields.io/github/stars/lif4635/harurun-s-library?style=plastic)
 
     2026-09-15
 
@@ -209,29 +213,23 @@
     - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
         - [aksk](https://atcoder.jp/users/aksk)さん - [入茶記事](https://qiita.com/akasako/items/e06e768b2f8dbaf9a02e)
 
-=== "国内外のコンテストサイト"
-
-    2026-09-12
-
-    - 「[不定期開催](related_contest_sites/algorithm)」ページ
-        - [DOJ](https://doj.kr/ja)
-        - [【競プロ】DOJっていうサイトがあるよ、という話](https://note.com/halc_flipper/n/n3aff5f6ba2ee)
-
-    <div align="center">
-      <img loading="lazy" src="images/related_contest_sites/doj/doj.png" alt="doj">
-    </div>
-
 === "アーカイブス"
 
     諸事情により事実上開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
 
+    2026-09-26
+
+    - horiso0921/Mylib
+    - iehn/lib
+    - kuuso/comp_pro_python
+    - matsu7874/competitive-programming-snippets
+    - nrkt/Algorithms
+    - tachyon777/AtCoder
+    - yaumu3/cpl-python3
+
     2026-09-13
 
     - AtCoder-HiderRatingAndPerformance
-
-    2026-09-12
-
-    - MN-Core Challenge
 
 ## AtCoder公式グッズを購入する
 
