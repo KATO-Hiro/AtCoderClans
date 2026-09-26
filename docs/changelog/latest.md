@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-09-26
+
+- [#12761](https://github.com/KATO-Hiro/AtCoderClans/pull/12761) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のWebサービスを追加。
+    - [Custom Problems](https://custom-problems.vercel.app/)
+- [#12760](https://github.com/KATO-Hiro/AtCoderClans/pull/12760) - 「[Libraries and Snippets](../../libraries)」の「[Python](../../libraries/python)」ページに、Pythonで実装されたライブラリを追加。
+    - [lif4635/harurun-s-library](https://github.com/lif4635/harurun-s-library) ![GitHub Repo stars](https://img.shields.io/github/stars/lif4635/harurun-s-library?style=plastic)
+
 ### 2026-09-25
 
 - [#12756](https://github.com/KATO-Hiro/AtCoderClans/pull/12756) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
