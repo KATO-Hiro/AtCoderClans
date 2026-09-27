@@ -126,13 +126,6 @@
       <img loading="lazy" src="images/web_app/share_oj.png" alt="share oj">
     </div>
 
-=== "ユーザスクリプト"
-
-    2026-09-13
-
-    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
-        - [AtCoder AHC Extended Standings](https://greasyfork.org/ja/scripts/593984-atcoder-ahc-extended-standings)
-
 === "記事"
 
     2026-09-24
@@ -202,16 +195,16 @@
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [rinrion](https://atcoder.jp/users/rinrion)さん - [50代プログラミング未経験者が7年かけてAtCoderで入緑した話](https://qiita.com/rinrion/items/b381ccf563d6d8e96ce9)
 
-    2026-09-13
+=== "国内外のコンテストサイト"
 
-    - 「[レーティング1200〜1599(水色)](milestones/cyan)」ページ
-        - [shunta](https://atcoder.jp/users/shunta)さん - [AtCoder を始めて 7 年で水色コーダーになりました！](https://qiita.com/NAVYSHUNTA/items/cbd7a9fe4c57a1327737)
+    2026-09-27
 
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [haaaaaaa](https://atcoder.jp/users/haaaaaaa)さん - [【初投稿】自己紹介と、入緑までの振り返り。](https://qiita.com/haaaaaaa/items/0be607e77e7f20a5c69c)
+    - 「[ICPC (国際大学対抗プログラミングコンテスト)](related_contest_sites/icpc)」ページ
+        - [DOMjudge Scoreboard Replay](https://riantkb.github.io/domjudge-scoreboard-replay/)
 
-    - 「[レーティング400から799まで(茶色)](milestones/brown)」ページ
-        - [aksk](https://atcoder.jp/users/aksk)さん - [入茶記事](https://qiita.com/akasako/items/e06e768b2f8dbaf9a02e)
+    <div align="center">
+      <img loading="lazy" src="images/related_contest_sites/icpc/domjudge_scoreboard_replay.png" alt="domjudge scoreboard replay">
+    </div>
 
 === "アーカイブス"
 
@@ -226,10 +219,6 @@
     - nrkt/Algorithms
     - tachyon777/AtCoder
     - yaumu3/cpl-python3
-
-    2026-09-13
-
-    - AtCoder-HiderRatingAndPerformance
 
 ## AtCoder公式グッズを購入する
 
