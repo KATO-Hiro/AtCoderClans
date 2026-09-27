@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-09-27
+
+- [#12768](https://github.com/KATO-Hiro/AtCoderClans/pull/12768) - 「[Related Contest Sites](../../related_contest_sites)」の「[ICPC (国際大学対抗プログラミングコンテスト)](../../related_contest_sites/icpc)」ページに、以下のWebサイトを追加。
+    - [DOMjudge Scoreboard Replay](https://riantkb.github.io/domjudge-scoreboard-replay/)
+
 ### 2026-09-26
 
 - [#12761](https://github.com/KATO-Hiro/AtCoderClans/pull/12761) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のWebサービスを追加。
