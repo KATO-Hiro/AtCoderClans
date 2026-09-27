@@ -6,6 +6,12 @@ title: ICPC (国際大学対抗プログラミングコンテスト)
 
 ### コンテストの成績を見る
 
+- [DOMjudge Scoreboard Replay](https://riantkb.github.io/domjudge-scoreboard-replay/) - 各チームにおける順位の推移を再生できる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/related_contest_sites/icpc/domjudge_scoreboard_replay.png" alt="domjudge scoreboard replay">
+    </div>
+
 - [ICPC Replay](https://icpc-replay.vercel.app/) - [AtCoder Replay](https://atcoder-replay.kakira.dev/)のICPC版。2022年以降の国内予選・アジア地区予選を対象として、参加チームのコンテスト開始〜終了までの順位変化を表示する。
 
     <div align="center">
