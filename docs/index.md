@@ -143,11 +143,6 @@
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
         - [AtCoderをこれから始める人が知っておくべきこと一覧](https://qiita.com/Prrapp/items/179ea601e7c6d7c31d4c)
 
-    2026-09-14
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年9月14日時点)](https://x.com/atcoder/status/2099363407552217526)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -189,6 +184,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-09-28
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [hayaaaaa](https://atcoder.jp/users/hayaaaaa)さん - [[AtCoder入茶&入緑記事]ふりかえり的な](https://qiita.com/hayaaaaa/items/44b854040f7adf6f1a81)
 
     2026-09-23
 

@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-09-28
+
+- [#12771](https://github.com/KATO-Hiro/AtCoderClans/pull/12771) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[hayaaaaa](https://atcoder.jp/users/hayaaaaa)さんの[記事](https://qiita.com/hayaaaaa/items/44b854040f7adf6f1a81)を追加。
+
 ### 2026-09-27
 
 - [#12768](https://github.com/KATO-Hiro/AtCoderClans/pull/12768) - 「[Related Contest Sites](../../related_contest_sites)」の「[ICPC (国際大学対抗プログラミングコンテスト)](../../related_contest_sites/icpc)」ページに、以下のWebサイトを追加。
