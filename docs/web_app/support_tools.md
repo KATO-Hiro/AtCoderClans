@@ -66,6 +66,12 @@ title: 問題を解くときの補助ツール
       <img loading="lazy" src="../../images/web_app/generic_grid_editor.png" alt="generic grid editor">
     </div>
 
+- [imos2d-lab](https://paruma.github.io/imos2d-lab/) - 作りたい二次元配列から、いもす法で値を書き込むマスを逆算できる実験ツール。縦・横・斜めの差分を1回ずつ重ねて取り、書き込むマスが少なくなる手順を探せる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/imos2d_lab.png" alt="imos2d lab">
+    </div>
+
 ## 二次元平面上の図形を可視化
 
 - [Geometry Visualizer](https://tatesoto.github.io/cp-geo-visualizer/) - 競技プログラミングにおける計算幾何の入力例の図示やデバッグができる。
