@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-09-29
+
+- [#12777](https://github.com/KATO-Hiro/AtCoderClans/pull/12777) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
+    - [ヴァンデルモンドの畳み込み](https://ei1333.hateblo.jp/entry/2026/09/23/223705)
+
 ### 2026-09-28
 
 - [#12771](https://github.com/KATO-Hiro/AtCoderClans/pull/12771) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
