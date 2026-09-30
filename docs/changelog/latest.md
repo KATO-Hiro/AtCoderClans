@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-09-30
+
+- [#12780](https://github.com/KATO-Hiro/AtCoderClans/pull/12780) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページに、以下のWebサービスを追加。
+    - [imos2d-lab](https://paruma.github.io/imos2d-lab/)
+
 ### 2026-09-29
 
 - [#12777](https://github.com/KATO-Hiro/AtCoderClans/pull/12777) - 「[Articles, Blogs, Books and Videos](../../media)」の「[数学を学ぶ](../../articles/math)」ページに、以下の記事を追加。
