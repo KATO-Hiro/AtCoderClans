@@ -103,6 +103,15 @@
 
 === "Webアプリ・Webサイト"
 
+    2026-09-30
+
+    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
+        - [imos2d-lab](https://paruma.github.io/imos2d-lab/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/imos2d_lab.png" alt="imos2d lab">
+    </div>
+
     2026-09-26
 
     - 「[問題を解く](web_app/solve_problems)」ページ
@@ -116,15 +125,6 @@
 
     - 「[問題を解く](web_app/solve_problems)」ページ
         - [ShareOJ@競プロ作問サービス](https://x.com/share_oj)
-
-    2026-09-16
-
-    - 「[問題を解く](web_app/solve_problems)」ページ
-        - [ShareOJ](https://www.share-oj.net/)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/share_oj.png" alt="share oj">
-    </div>
 
 === "記事"
 
@@ -180,11 +180,6 @@
 
     - 「[Python](libraries/python)」ページ
         - [lif4635/harurun-s-library](https://github.com/lif4635/harurun-s-library) ![GitHub Repo stars](https://img.shields.io/github/stars/lif4635/harurun-s-library?style=plastic)
-
-    2026-09-15
-
-    - 「[C++](libraries/cpp)」ページ
-        - [NachiaVivias/cp-library](https://github.com/NachiaVivias/cp-library) ![GitHub stars](https://img.shields.io/github/stars/NachiaVivias/cp-library?style=plastic)
 
 === "色変記事"
 
