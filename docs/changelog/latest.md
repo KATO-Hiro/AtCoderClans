@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-10-01
+
+- [#12784](https://github.com/KATO-Hiro/AtCoderClans/pull/12784) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
+    - [「AtCoder 競技プログラマー就職企業人気ランキング2026」を発表](https://prtimes.jp/main/html/rd/p/000000066.000028415.html)
+
 ### 2026-09-30
 
 - [#12780](https://github.com/KATO-Hiro/AtCoderClans/pull/12780) - 「[Web apps and sites](../../web_app)」の「[問題を解くときの補助ツール](../../web_app/support_tools)」ページに、以下のWebサービスを追加。
