@@ -7,6 +7,7 @@ title: レーティング800〜1199(緑色)
 
 ## 2026年
 
+- [入緑記事【atcoder】](https://zenn.dev/bule/articles/7af25b3045b201) - [bulebrainbrand](https://atcoder.jp/users/bulebrainbrand)さんが、2026年9月26日に達成。
 - [[AtCoder入茶&入緑記事]ふりかえり的な](https://qiita.com/hayaaaaa/items/44b854040f7adf6f1a81) - [hayaaaaa](https://atcoder.jp/users/hayaaaaa)さんが、2026年9月26日に達成。
 - [50代プログラミング未経験者が7年かけてAtCoderで入緑した話](https://qiita.com/rinrion/items/b381ccf563d6d8e96ce9) - [rinrion](https://atcoder.jp/users/rinrion)さんが、2026年9月19日に達成。
 - [【初投稿】自己紹介と、入緑までの振り返り。](https://qiita.com/haaaaaaa/items/0be607e77e7f20a5c69c) - [haaaaaaa](https://atcoder.jp/users/haaaaaaa)さんが、2026年9月6日に達成。
