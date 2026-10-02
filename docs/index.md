@@ -190,6 +190,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2026-10-02
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [bulebrainbrand](https://atcoder.jp/users/bulebrainbrand)さん - [入緑記事【atcoder】](https://zenn.dev/bule/articles/7af25b3045b201)
+
     2026-09-28
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ

@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-10-02
+
+- [#12789](https://github.com/KATO-Hiro/AtCoderClans/pull/12789) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング800から1199まで(緑色)に[bulebrainbrand](https://atcoder.jp/users/bulebrainbrand)さんの[記事](https://zenn.dev/bule/articles/7af25b3045b201)を追加。
+
 ### 2026-10-01
 
 - [#12784](https://github.com/KATO-Hiro/AtCoderClans/pull/12784) - 「[Articles, Blogs, Books and Videos](../../media)」の「[競技プログラミングと就転職](../../articles/jobs)」ページに、以下の記事を追加。
