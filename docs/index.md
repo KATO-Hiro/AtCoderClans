@@ -121,10 +121,16 @@
       <img loading="lazy" src="images/web_app/custom_problems.png" alt="custom problems">
     </div>
 
-    2026-09-18
+=== "ユーザスクリプト"
 
-    - 「[問題を解く](web_app/solve_problems)」ページ
-        - [ShareOJ@競プロ作問サービス](https://x.com/share_oj)
+    2026-10-03
+
+    - 「[問題を解く](user_scripts/solve_problems)」ページ
+        - [AtCoder Question Copier](https://greasyfork.org/ja/scripts/597743-atcoder-question-copier)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_question_copier.png" alt="atcoder question copier">
+    </div>
 
 === "記事"
 
@@ -148,11 +154,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AHC071 解法](https://topcoder-tomerun.hatenablog.jp/entry/2026/09/20/160029)
 
-    2026-09-17
-
-    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
-        - [AtCoderをこれから始める人が知っておくべきこと一覧](https://qiita.com/Prrapp/items/179ea601e7c6d7c31d4c)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -173,11 +174,6 @@
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [素数が無限にあることの1行証明](https://www.youtube.com/watch?v=9WDGq3uMlGk)
-
-    2026-09-19
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [本当にどんな多角形も三角形分割できるか？](https://www.youtube.com/watch?v=nyk-U-HGLto)
 
 === "ライブラリ・スニペット"
 
