@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-10-04
+
+- [#12799](https://github.com/KATO-Hiro/AtCoderClans/pull/12799) - 「[Articles, Blogs, Books and Videos](../../media)」の「[アルゴリズムを学ぶ](../../articles/algorithm)」ページに、以下の記事を追加。
+    - [アルゴリズムの最先端に挑戦：「四色定理」はどこまでバランスよく塗れるのか？](https://qiita.com/square1001/items/4714dd9e2ddb97c32057)
+
 ### 2026-10-03
 
 - [#12795](https://github.com/KATO-Hiro/AtCoderClans/pull/12795) - 「[Scripts](../../scripts)」の「[問題を解く](../../user_scripts/solve_problems)」ページに、以下のユーザスクリプトを追加。

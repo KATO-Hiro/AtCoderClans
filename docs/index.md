@@ -134,6 +134,11 @@
 
 === "記事"
 
+    2026-10-04
+
+    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
+        - [アルゴリズムの最先端に挑戦：「四色定理」はどこまでバランスよく塗れるのか？](https://qiita.com/square1001/items/4714dd9e2ddb97c32057)
+
     2026-10-01
 
     - 「[競技プログラミングと就転職](articles/jobs)」ページ
@@ -161,12 +166,6 @@
 
     - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
         - [toam](https://atcoder.jp/users/toam)さん - [はてなブログ](https://toriidao.hateblo.jp/)
-
-    2026-09-20
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [ei13333](https://atcoder.jp/users/ei13333)さん - [はてなブログ](https://ei1333.hateblo.jp/)
-        - [toku4388](https://atcoder.jp/users/toku4388)さん - [はてなブログ](https://toku4388.hatenablog.com/)
 
 === "動画"
 
