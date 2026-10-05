@@ -159,14 +159,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AHC071 解法](https://topcoder-tomerun.hatenablog.jp/entry/2026/09/20/160029)
 
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2026-09-21
-
-    - 「[アルゴリズム部門 - Python](blogs/algorithm/python)」ページ
-        - [toam](https://atcoder.jp/users/toam)さん - [はてなブログ](https://toriidao.hateblo.jp/)
-
 === "動画"
 
     2026-09-25
@@ -184,6 +176,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-10-05
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [Uzawa_Reisa](https://atcoder.jp/users/Uzawa_Reisa)さん - [某星人が3年間戦った戦場へ、いざ参らん。](https://qiita.com/tanekei/items/d3d322e2136a4d9659fc)
 
     2026-10-02
 
