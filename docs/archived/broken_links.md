@@ -391,6 +391,9 @@ title: リンク切れ
 
 ### レーティング400〜799(茶色)
 
+- [AtCoderを3ヶ月やってわかったこと-茶色になるためにはどうすればいいか?](https://note.com/alpha0314alpha/n/n009687717562) - [alpha0314sub](https://atcoder.jp/users/alpha0314sub)さんが、2025年10月13日に公開。
+    - 確認した日: 2026/10/07
+
 - [Atcoder茶色になったので備忘録](https://note.com/mmotoi42/n/n63ebe30d01cc) - [mmotoi](https://atcoder.jp/users/mmotoi)さんが、2021年7月18日に達成。
     - 確認した日: 2026/05/20
 
