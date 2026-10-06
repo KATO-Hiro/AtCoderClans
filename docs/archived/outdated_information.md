@@ -877,6 +877,10 @@ title: 更新停止の可能性が高い
 
 - [AtCoder 日本人 レーティング TOP10 2016-2019](https://www.youtube.com/watch?v=1oct64q2V5g) - アクティブユーザを対象とした日本人上位10人のレーティングの変遷を紹介している。[全世界版](https://www.youtube.com/watch?v=CsBASF9skxE)もある。
 
+### 歌ってみた
+
+- [「だから慶応は学歴自慢じゃないっつーの」 - 夏色花梨Ver](https://twitter.com/gochaism/status/1572607173678735364)
+
 ### 講演
 
 - [プログラミングコンテストのすゝめ 〜競プロはキャリアであり、趣味でもあり、学びである〜](https://www.youtube.com/watch?v=Jb0-8ZuRpNM&feature=youtu.be) - 2020年7月に開催された日本最大の学生向けテックカンファレンス「技育祭」（ぎいくさい）の講演動画。[chokudai](https://twitter.com/chokudai)さんが、競技プログラミングの面白さ・楽しさを解説している。
