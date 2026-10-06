@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-10-06
+
+- [#12809](https://github.com/KATO-Hiro/AtCoderClans/pull/12809) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [正直族と噓つき族とランダム族に道を聞く方法](https://www.youtube.com/watch?v=3sutYh31UD8)
+
 ### 2026-10-05
 
 - [#12804](https://github.com/KATO-Hiro/AtCoderClans/pull/12804) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
