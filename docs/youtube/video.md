@@ -105,7 +105,6 @@ title: 個別の動画
     - [9つの変奏曲Ver](https://www.youtube.com/watch?v=7tTufTl2Ch4)
     - [シンセロック調Ver](https://www.youtube.com/watch?v=8eBmV6R-kaw)
     - [東北きりたんVer](https://twitter.com/gochaism/status/1476226270480711680)
-    - [夏色花梨Ver](https://twitter.com/gochaism/status/1572607173678735364)
 - [【オリジナル曲 / 初音ミク】AC【競プロやろうぜ】](https://www.youtube.com/watch?v=loKekcFqQw0) - [burioden](https://twitter.com/burioden)さんによるオリジナル曲。[オフボーカル版](https://www.youtube.com/watch?v=jTaTFImLzKI)もある。
 
 ## ネタ動画

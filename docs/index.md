@@ -154,12 +154,12 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年9月24日時点)](https://x.com/atcoder/status/2102927600394059956)
 
-    2026-09-22
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AHC071 解法](https://topcoder-tomerun.hatenablog.jp/entry/2026/09/20/160029)
-
 === "動画"
+
+    2026-10-06
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [正直族と噓つき族とランダム族に道を聞く方法](https://www.youtube.com/watch?v=3sutYh31UD8)
 
     2026-09-25
 
