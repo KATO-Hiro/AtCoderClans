@@ -134,6 +134,11 @@
 
 === "記事"
 
+    2026-10-07
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2026 Winter - 学校ランキング (2026年10月5日時点)](https://x.com/atcoder/status/2107041324038082862)
+
     2026-10-04
 
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
@@ -154,6 +159,14 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年9月24日時点)](https://x.com/atcoder/status/2102927600394059956)
 
+=== "ブログ"
+    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2026-10-07
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [k1suxu](https://atcoder.jp/users/k1suxu)さん - [はてなブログ](https://k1suxu.hatenablog.com/)
+
 === "動画"
 
     2026-10-06
@@ -167,6 +180,11 @@
         - [素数が無限にあることの1行証明](https://www.youtube.com/watch?v=9WDGq3uMlGk)
 
 === "ライブラリ・スニペット"
+
+    2026-10-07
+
+    - 「[ライブラリチェッカー](libraries/library_checker)」ページ
+        - [competitive-verifier](https://github.com/competitive-verifier/competitive-verifier) - ![GitHub stars](https://img.shields.io/github/stars/competitive-verifier/competitive-verifier?style=plastic)
 
     2026-09-26
 
@@ -192,11 +210,6 @@
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [hayaaaaa](https://atcoder.jp/users/hayaaaaa)さん - [[AtCoder入茶&入緑記事]ふりかえり的な](https://qiita.com/hayaaaaa/items/44b854040f7adf6f1a81)
 
-    2026-09-23
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [rinrion](https://atcoder.jp/users/rinrion)さん - [50代プログラミング未経験者が7年かけてAtCoderで入緑した話](https://qiita.com/rinrion/items/b381ccf563d6d8e96ce9)
-
 === "国内外のコンテストサイト"
 
     2026-09-27
@@ -211,6 +224,10 @@
 === "アーカイブス"
 
     諸事情により事実上開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2026-10-07
+
+    - Online Judge Verification Helper
 
     2026-09-26
 

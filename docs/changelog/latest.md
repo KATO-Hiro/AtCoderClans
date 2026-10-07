@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-10-07
+
+- [#12821](https://github.com/KATO-Hiro/AtCoderClans/pull/12821) - 「[Libraries and Snippets](../../libraries)」の「[ライブラリチェッカー](../../libraries/library_checker)」ページに、以下のツールを追加。(破壊的な変更) 開発が事実上停止していると思われるツールを「[Archives](../../archived)」ページに移動。
+    - [competitive-verifier](https://github.com/competitive-verifier/competitive-verifier) - ![GitHub stars](https://img.shields.io/github/stars/competitive-verifier/competitive-verifier?style=plastic)
+- [#12819](https://github.com/KATO-Hiro/AtCoderClans/pull/12819) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門において、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
+- [#12816](https://github.com/KATO-Hiro/AtCoderClans/pull/12816) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
+    - [AtCoder Junior League 2026 Winter - 学校ランキング (2026年10月5日時点)](https://x.com/atcoder/status/2107041324038082862)
+- [#12814](https://github.com/KATO-Hiro/AtCoderClans/pull/12814) - (破壊的な変更) リンク切れの色変記事を「[Archives](../../archived)」ページに移動。
+
 ### 2026-10-06
 
 - [#12809](https://github.com/KATO-Hiro/AtCoderClans/pull/12809) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
