@@ -9,7 +9,5 @@ title: ライブラリチェッカー
     <img loading = "lazy" src="../../images/library/library_checker.png" alt="library checker">
   </div>
 
-- [Online Judge Verification Helper](https://github.com/online-judge-tools/verification-helper) ![GitHub stars](https://img.shields.io/github/stars/online-judge-tools/verification-helper?style=plastic) - ライブラリのテストを自動化するツールで、上述の[Library Checker Problems](https://judge.yosupo.jp/)などの問題を利用して実行する。また、ライブラリのドキュメント生成機能やC++のファイルをまとめて提出できるようにする機能もある。
-    - [GitHubを用いた自作ライブラリ管理](https://ei1333.hateblo.jp/entry/advent2022) - GitHub Actionsを利用して、自作ライブラリのテスト・関連ドキュメントの生成・コーディングスタイルの確認などを自動で行う方法が紹介されている記事。
-    - [【競プロ】ライブラリの verify を GitHub Actions で並列に走らせたい (oj-verify)](https://qiita.com/KakurenboUni/items/b47d9e6e3582e2149d63) - 自作ライブラリのテストをGitHub Actionsで並列実行することで、時短を目指している記事。
+- [competitive-verifier](https://github.com/competitive-verifier/competitive-verifier) - ![GitHub stars](https://img.shields.io/github/stars/competitive-verifier/competitive-verifier?style=plastic) - 既出の典型的な問題を活用して、ライブラリのテストを自動化するツール。また、ライブラリのドキュメント生成や[Online Judge Verification Helper](https://github.com/online-judge-tools/verification-helper)からの移行コマンドなどもサポートされている。
 - [libtest](https://github.com/pachicobue/libtest) ![GitHub Repo stars](https://img.shields.io/github/stars/pachicobue/libtest?style=plastic) - C++ライブラリのテストのために使う問題集。CIでの利用を想定しており、入出力の自動生成と自動テストを行うことができる。
