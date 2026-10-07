@@ -891,6 +891,12 @@ title: 更新停止の可能性が高い
 
 ## ライブラリ・スニペット
 
+### ライブラリチェッカー
+
+- [Online Judge Verification Helper](https://github.com/online-judge-tools/verification-helper) ![GitHub stars](https://img.shields.io/github/stars/online-judge-tools/verification-helper?style=plastic) - ライブラリのテストを自動化するツールで、上述の[Library Checker Problems](https://judge.yosupo.jp/)などの問題を利用して実行する。また、ライブラリのドキュメント生成機能やC++のファイルをまとめて提出できるようにする機能もある。
+    - [GitHubを用いた自作ライブラリ管理](https://ei1333.hateblo.jp/entry/advent2022) - GitHub Actionsを利用して、自作ライブラリのテスト・関連ドキュメントの生成・コーディングスタイルの確認などを自動で行う方法が紹介されている記事。
+    - [【競プロ】ライブラリの verify を GitHub Actions で並列に走らせたい (oj-verify)](https://qiita.com/KakurenboUni/items/b47d9e6e3582e2149d63) - 自作ライブラリのテストをGitHub Actionsで並列実行することで、時短を目指している記事。
+
 ### C&#35;
 
 - [hibatibati/My-Competitive-Programming-Library](https://github.com/hibatibati/My-Competitive-Programming-Library) ![GitHub stars](https://img.shields.io/github/stars/hibatibati/My-Competitive-Programming-Library?style=plastic) - [hibatibati](https://atcoder.jp/users/hibatibati)さんのライブラリ。
