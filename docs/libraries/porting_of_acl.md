@@ -20,7 +20,7 @@ title: 各言語への移植
 
 ## ACL C&#35;
 - [kzrnm/ac-library-csharp](https://github.com/kzrnm/ac-library-csharp) ![GitHub Repo stars](https://img.shields.io/github/stars/kzrnm/ac-library-csharp?style=plastic) - C#版。
-- [kzrnm/Competitive.IO](https://github.com/kzrnm/Competitive.IO) ![GitHub Repo stars](https://img.shields.io/github/stars/kzrnm/Competitive.IO?style=plastic) - 競技プログラミングの入出力用ライブラリ。
+- [kzrnm/Competitive.IO](https://github.com/kzrnm/Competitive.IO) ![GitHub Repo stars](https://img.shields.io/github/stars/kzrnm/Competitive.IO?style=plastic) - 競技プログラミング専用の入出力ライブラリ。
 - [kzrnm/SourceExpander](https://github.com/kzrnm/SourceExpander) ![GitHub Repo stars](https://img.shields.io/github/stars/kzrnm/SourceExpander?style=plastic) - [kzrnm/ac-library-csharp](https://github.com/kzrnm/ac-library-csharp)を利用したコードをジャッジシステムに提出できる形式に変換するライブラリ。
 
 ## ACL D
