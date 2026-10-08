@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-10-08
+
+- [#12827](https://github.com/KATO-Hiro/AtCoderClans/pull/12827) - 「[Libraries and Snippets](../../libraries)」の「[AtCoder Library (ACL)の各言語への移植](../../libraries/porting_of_acl)」ページに、以下のC&#35;ライブラリ追加。
+    - [kzrnm/Competitive.IO](https://github.com/kzrnm/Competitive.IO) - ![GitHub Repo stars](https://img.shields.io/github/stars/kzrnm/Competitive.IO?style=plastic)
+
 ### 2026-10-07
 
 - [#12821](https://github.com/KATO-Hiro/AtCoderClans/pull/12821) - 「[Libraries and Snippets](../../libraries)」の「[ライブラリチェッカー](../../libraries/library_checker)」ページに、以下のツールを追加。(破壊的な変更) 開発が事実上停止していると思われるツールを「[Archives](../../archived)」ページに移動。

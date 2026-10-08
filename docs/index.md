@@ -154,11 +154,6 @@
     - 「[数学を学ぶ](articles/math)」ページ
         - [ヴァンデルモンドの畳み込み](https://ei1333.hateblo.jp/entry/2026/09/23/223705)
 
-    2026-09-24
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2026 Summer - 学校ランキング (2026年9月24日時点)](https://x.com/atcoder/status/2102927600394059956)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -180,6 +175,11 @@
         - [素数が無限にあることの1行証明](https://www.youtube.com/watch?v=9WDGq3uMlGk)
 
 === "ライブラリ・スニペット"
+
+    2026-10-08
+
+    - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
+        - [kzrnm/Competitive.IO](https://github.com/kzrnm/Competitive.IO) - ![GitHub Repo stars](https://img.shields.io/github/stars/kzrnm/Competitive.IO?style=plastic)
 
     2026-10-07
 
