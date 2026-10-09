@@ -4,9 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-10-09
+
+- [#12830](https://github.com/KATO-Hiro/AtCoderClans/pull/12830) - 「[Related Contest Sites](../../related_contest_sites)」の「[LeetCode](../../related_contest_sites/leetcode)」ページに、以下のCLIツールを追加。
+    - [Leetgo](https://github.com/j178/leetgo) ![GitHub Repo stars](https://img.shields.io/github/stars/j178/leetgo?style=plastic)
+
 ### 2026-10-08
 
-- [#12827](https://github.com/KATO-Hiro/AtCoderClans/pull/12827) - 「[Libraries and Snippets](../../libraries)」の「[AtCoder Library (ACL)の各言語への移植](../../libraries/porting_of_acl)」ページに、以下のC&#35;ライブラリ追加。
+- [#12827](https://github.com/KATO-Hiro/AtCoderClans/pull/12827) - 「[Libraries and Snippets](../../libraries)」の「[AtCoder Library (ACL)の各言語への移植](../../libraries/porting_of_acl)」ページに、以下のC&#35;ライブラリを追加。
     - [kzrnm/Competitive.IO](https://github.com/kzrnm/Competitive.IO) - ![GitHub Repo stars](https://img.shields.io/github/stars/kzrnm/Competitive.IO?style=plastic)
 
 ### 2026-10-07
