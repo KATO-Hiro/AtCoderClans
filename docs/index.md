@@ -169,11 +169,6 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [正直族と噓つき族とランダム族に道を聞く方法](https://www.youtube.com/watch?v=3sutYh31UD8)
 
-    2026-09-25
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [素数が無限にあることの1行証明](https://www.youtube.com/watch?v=9WDGq3uMlGk)
-
 === "ライブラリ・スニペット"
 
     2026-10-08
@@ -211,6 +206,15 @@
         - [hayaaaaa](https://atcoder.jp/users/hayaaaaa)さん - [[AtCoder入茶&入緑記事]ふりかえり的な](https://qiita.com/hayaaaaa/items/44b854040f7adf6f1a81)
 
 === "国内外のコンテストサイト"
+
+    2026-10-09
+
+    - 「[LeetCode](related_contest_sites/leetcode)」ページ
+        - [Leetgo](https://github.com/j178/leetgo) ![GitHub Repo stars](https://img.shields.io/github/stars/j178/leetgo?style=plastic)
+
+    <div align="center">
+      <img loading="lazy" src="images/related_contest_sites/leetcode/leetgo.gif" alt="leetgo">
+    </div>
 
     2026-09-27
 
