@@ -112,16 +112,16 @@
       <img loading="lazy" src="images/web_app/imos2d_lab.png" alt="imos2d lab">
     </div>
 
-    2026-09-26
+=== "ユーザスクリプト"
 
-    - 「[問題を解く](web_app/solve_problems)」ページ
-        - [Custom Problems](https://custom-problems.vercel.app/)
+    2026-10-10
+
+    - 「[ライバルを探す・競う](user_scripts/rivals)」ページ
+        - [AtCoder Favorite Group Manager](https://greasyfork.org/ja/scripts/583889-atcoder-favorite-group-manager)
 
     <div align="center">
-      <img loading="lazy" src="images/web_app/custom_problems.png" alt="custom problems">
+      <img loading="lazy" src="images/userscript/atcoder_favorite_group_manager.png" alt="atcoder favorite group manager">
     </div>
-
-=== "ユーザスクリプト"
 
     2026-10-03
 
@@ -130,6 +130,18 @@
 
     <div align="center">
       <img loading="lazy" src="images/userscript/atcoder_question_copier.png" alt="atcoder question copier">
+    </div>
+
+=== "Chrome拡張機能"
+
+    2026-10-10
+
+    - 「[Webページをより見やすく](chrome_extensions/improve_ui)」ページ
+        - [AtCoder Contest Kit](https://chromewebstore.google.com/detail/atcoder-contest-kit/eabggolgldjmbeafgjbiokdanmjnlbml)
+            - [作者による紹介記事](https://note.com/tunnel_developer/n/n8d4dde067c65)
+
+    <div align="center">
+      <img loading="lazy" src="images/chrome_extension/atcoder_contest_kit.png" alt="atcoder contest kit">
     </div>
 
 === "記事"
@@ -181,11 +193,6 @@
     - 「[ライブラリチェッカー](libraries/library_checker)」ページ
         - [competitive-verifier](https://github.com/competitive-verifier/competitive-verifier) - ![GitHub stars](https://img.shields.io/github/stars/competitive-verifier/competitive-verifier?style=plastic)
 
-    2026-09-26
-
-    - 「[Python](libraries/python)」ページ
-        - [lif4635/harurun-s-library](https://github.com/lif4635/harurun-s-library) ![GitHub Repo stars](https://img.shields.io/github/stars/lif4635/harurun-s-library?style=plastic)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
@@ -229,19 +236,13 @@
 
     諸事情により事実上開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
 
+    2026-10-10
+
+    - AtCoder HashTag Setter
+
     2026-10-07
 
     - Online Judge Verification Helper
-
-    2026-09-26
-
-    - horiso0921/Mylib
-    - iehn/lib
-    - kuuso/comp_pro_python
-    - matsu7874/competitive-programming-snippets
-    - nrkt/Algorithms
-    - tachyon777/AtCoder
-    - yaumu3/cpl-python3
 
 ## AtCoder公式グッズを購入する
 

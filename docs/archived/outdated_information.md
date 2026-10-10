@@ -519,6 +519,12 @@ title: 更新停止の可能性が高い
 
 ### ライバルを探す・競う
 
+- [AtCoder HashTag Setter](https://greasyfork.org/ja/scripts/422324-atcoder-hashtag-setter) - 「コンテスト」「問題」「提出」の各ページにあるTwitter Shareボタンを利用するときに、ツイートに関連したハッシュタグを追加する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_hashtag_setter.png" alt="atcoder hashtag setter">
+    </div>
+
 - [AtCoder Fav Rating](https://greasyfork.org/ja/scripts/406745-atcoder-fav-rating) - 「アカウント」ページにお気に入りの順位・レーティング(現在・最高)・参加回数を一覧で表示するボタンを設置する。
     - 確認した日: 2025/06/26
     - 理由: AtCoder の仕様変更により動作が保証できず、作者が利用を非推奨としたため。

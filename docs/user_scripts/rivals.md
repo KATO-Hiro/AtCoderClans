@@ -106,14 +106,6 @@ title: ライバルを探す・競う
       <img loading = "lazy" src="../../images/userscript/atcoder_solve_declaration.png" alt="atcoder solve declaration">
     </div>
 
-### ツイートにハッシュタグを追加
-
-- [AtCoder HashTag Setter](https://greasyfork.org/ja/scripts/422324-atcoder-hashtag-setter) - 「コンテスト」「問題」「提出」の各ページにあるTwitter Shareボタンを利用するときに、ツイートに関連したハッシュタグを追加する。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/userscript/atcoder_hashtag_setter.png" alt="atcoder hashtag setter">
-    </div>
-
 ## 個人情報を保護する
 
 ### AtCoder IDを非表示に

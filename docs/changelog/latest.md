@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-10-10
+
+- [#12834](https://github.com/KATO-Hiro/AtCoderClans/pull/12834) - 「[Scripts](../../scripts)」の「[ライバルを探す・競う](../../user_scripts/rivals)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Favorite Group Manager](https://greasyfork.org/ja/scripts/583889-atcoder-favorite-group-manager)
+- [#12833](https://github.com/KATO-Hiro/AtCoderClans/pull/12833) - 「[Scripts](../../scripts)」の「[Webページをより見やすく](../../chrome_extensions/improve_ui)」ページに、以下のChrome拡張機能と紹介記事を追加。
+    - [AtCoder Contest Kit](https://chromewebstore.google.com/detail/atcoder-contest-kit/eabggolgldjmbeafgjbiokdanmjnlbml)
+        - [作者による紹介記事](https://note.com/tunnel_developer/n/n8d4dde067c65)
+
 ### 2026-10-09
 
 - [#12830](https://github.com/KATO-Hiro/AtCoderClans/pull/12830) - 「[Related Contest Sites](../../related_contest_sites)」の「[LeetCode](../../related_contest_sites/leetcode)」ページに、以下のCLIツールを追加。
