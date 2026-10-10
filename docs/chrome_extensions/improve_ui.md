@@ -5,7 +5,7 @@ title: Webページをより見やすく
 ## 複数の機能をまとめて導入
 
 - [AtCoder Contest Kit](https://chromewebstore.google.com/detail/atcoder-contest-kit/eabggolgldjmbeafgjbiokdanmjnlbml) - ページ移動・見落とし防止・提出に関する便利な機能がまとめられている。ユーザスクリプトや CLI ツールを使わずに導入でき、機能ごとにオン・オフの切り替えが可能。
-    - [作者による解説記事](https://note.com/tunnel_developer/n/n8d4dde067c65)
+    - [作者による紹介記事](https://note.com/tunnel_developer/n/n8d4dde067c65)
 
     <div align="center">
       <img loading="lazy" src="../../images/chrome_extension/atcoder_contest_kit.png" alt="atcoder contest kit">
