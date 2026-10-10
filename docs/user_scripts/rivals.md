@@ -44,6 +44,12 @@ title: ライバルを探す・競う
       <img loading="lazy" src="../../images/userscript/atcoder_favorite_person_colors.png" alt="atcoder favorite person colors">
     </div>
 
+- [AtCoder Favorite Group Manager](https://greasyfork.org/ja/scripts/583889-atcoder-favorite-group-manager) - 「順位表」ページで、順位表とレーティング変動を指定したグループで表示できる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_favorite_group_manager.png" alt="atcoder favorite group manager">
+    </div>
+
 - [AtCoder Standings Filtering by Group](https://greasyfork.org/ja/scripts/544794-atcoder-standings-filtering-by-group) - 「順位表」ページに、ユーザが設定したグループ単位でフィルタリングできるボタンを追加する。プロフィールの「お気に入り管理」で、グループの作成・編集ができる。
 
     <div align="center">
