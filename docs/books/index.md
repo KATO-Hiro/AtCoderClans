@@ -89,6 +89,7 @@ title: 書籍
 
 ## ヒューリスティック部門
 
+- [AHC入門～見て、考えて、改善するAtCoder Heuristic Contest](https://www.amazon.co.jp/dp/4297160854) - (予約受付中) [AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=AtCoder+Heuristic+Contest)に挑戦したい人やもっとスコアを上げたい人向けの解説書。
 - [ゲームで学ぶ探索アルゴリズム実践入門～木探索とメタヒューリスティクス](https://www.amazon.co.jp/dp/4297133601/) - 探索アルゴリズムを体系的に学ぶことができる入門書。想定読者は、自作ゲームでCPU(対戦AI)を作成したい人やコンテスト(ゲームAI・ヒューリスティック型)に参加したい人。
     - [thunder本をRustで書いてみた(Greedyまで)](https://zenn.dev/tipstar0125/articles/59f845d3670470) - 有志が本文のソースコード(C++)をRustで実装している記事。
     - [「ゲームで学ぶ探索アルゴリズム実践入門」のサンプルコードでAtCoderの問題を解いてみた](https://qiita.com/thun-c/items/c5c2c7295f884cd0355c) - 筆者が同書のサンプルコードを利用して、コンテストの過去問を解く過程を解説している。
