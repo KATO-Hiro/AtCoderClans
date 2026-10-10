@@ -6,7 +6,7 @@ title: Change Log
 
 ### 2026-10-10
 
-- [#12834](https://github.com/KATO-Hiro/AtCoderClans/pull/12834) - 「[Scripts](../../scripts)」の「[ライバルを探す・競う](../../user_scripts/rivals)」ページに、以下のユーザスクリプトを追加。
+- [#12834](https://github.com/KATO-Hiro/AtCoderClans/pull/12834) - [kirameku26](https://x.com/kirameku26)さんのご紹介で、「[Scripts](../../scripts)」の「[ライバルを探す・競う](../../user_scripts/rivals)」ページに、以下のユーザスクリプトを追加。
     - [AtCoder Favorite Group Manager](https://greasyfork.org/ja/scripts/583889-atcoder-favorite-group-manager)
 - [#12833](https://github.com/KATO-Hiro/AtCoderClans/pull/12833) - 「[Scripts](../../scripts)」の「[Webページをより見やすく](../../chrome_extensions/improve_ui)」ページに、以下のChrome拡張機能と紹介記事を追加。
     - [AtCoder Contest Kit](https://chromewebstore.google.com/detail/atcoder-contest-kit/eabggolgldjmbeafgjbiokdanmjnlbml)
