@@ -174,6 +174,13 @@
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
         - [k1suxu](https://atcoder.jp/users/k1suxu)さん - [はてなブログ](https://k1suxu.hatenablog.com/)
 
+=== "書籍"
+
+    2026-10-11
+
+    - 「[書籍](books)」ページ
+        - [AHC入門～見て、考えて、改善するAtCoder Heuristic Contest](https://www.amazon.co.jp/dp/4297160854)
+
 === "動画"
 
     2026-10-06
@@ -221,15 +228,6 @@
 
     <div align="center">
       <img loading="lazy" src="images/related_contest_sites/leetcode/leetgo.gif" alt="leetgo">
-    </div>
-
-    2026-09-27
-
-    - 「[ICPC (国際大学対抗プログラミングコンテスト)](related_contest_sites/icpc)」ページ
-        - [DOMjudge Scoreboard Replay](https://riantkb.github.io/domjudge-scoreboard-replay/)
-
-    <div align="center">
-      <img loading="lazy" src="images/related_contest_sites/icpc/domjudge_scoreboard_replay.png" alt="domjudge scoreboard replay">
     </div>
 
 === "アーカイブス"
