@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-10-11
+
+- [#12836](https://github.com/KATO-Hiro/AtCoderClans/pull/12836) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに、以下の書籍を追加。
+    - [AHC入門～見て、考えて、改善するAtCoder Heuristic Contest](https://www.amazon.co.jp/dp/4297160854)
+
+
 ### 2026-10-10
 
 - [#12834](https://github.com/KATO-Hiro/AtCoderClans/pull/12834) - [kirameku26](https://x.com/kirameku26)さんのご紹介で、「[Scripts](../../scripts)」の「[ライバルを探す・競う](../../user_scripts/rivals)」ページに、以下のユーザスクリプトを追加。
