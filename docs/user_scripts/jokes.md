@@ -30,12 +30,18 @@ title: ネタスクリプト
       <img loading="lazy" src="../../images/userscript/atcoder_with_ai_assistance.png" alt="atcoder with ai assistance">
     </div>
 
-## 問題に正解したときの演出を追加
+## 提出結果に演出を追加
 
 - [AC Super Ultra Many Very Happy Notification](https://greasyfork.org/ja/scripts/540026-ac-super-ultra-many-very-happy-notification) - 問題に正解したときに、[chokudai](https://x.com/chokudai)さんが祝福してくれる。
 
     <div align="center">
       <img loading="lazy" src="../../images/userscript/ac_super_ultra_many_very_happy_notification.png" alt="ac super ultra many very happy notification">
+    </div>
+
+- [AtCoder IPPON Judge Frames](https://greasyfork.org/ja/scripts/599494-atcoder-ippon-judge-frames) - 「提出結果」ページで、ジャッジ中から正誤判定が出るまでを、某番組風のアニメーションで演出する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_ippon_judge_frames.png" alt="atcoder ippon judge frames">
     </div>
 
 ## 問題の正誤判定の表記を書き換え
