@@ -950,6 +950,9 @@ title: 更新停止の可能性が高い
 
 ### Rust
 
+- [kenkoooo/cargo-concat](https://github.com/kenkoooo/cargo-concat) ![GitHub Repo stars](https://img.shields.io/github/stars/kenkoooo/cargo-concat?style=plastic) - コマンド一つで、Rustの依存モジュールを一つのファイルにまとめるツール。
+- [shino16/cargo-auto-bundle](https://github.com/shino16/cargo-auto-bundle) ![GitHub stars](https://img.shields.io/github/stars/shino16/cargo-auto-bundle?style=plastic) - Rustのライブラリを一つのファイルにまとめて提出するときに、コピー&ペーストの作業を補助するツール。
+
 - [akiradeveloper/rust-comp-snippets](https://github.com/akiradeveloper/rust-comp-snippets) ![GitHub Repo stars](https://img.shields.io/github/stars/akiradeveloper/rust-comp-snippets?style=plastic) - [akiradeveloper](https://atcoder.jp/users/akiradeveloper)さんのスニペット集。
 - [kuretchi/k7lib](https://github.com/kuretchi/k7lib) ![GitHub Repo stars](https://img.shields.io/github/stars/kuretchi/k7lib?style=plastic) - [kuretchi](https://atcoder.jp/users/kuretchi)さんのライブラリ。
 - [manta1130/Competitive_Programming_Template_Rust](https://github.com/manta1130/Competitive_Programming_Template_Rust) ![GitHub stars](https://img.shields.io/github/stars/manta1130/Competitive_Programming_Template_Rust?style=plastic) - [manta1130](https://atcoder.jp/users/manta1130)さんのライブラリ。

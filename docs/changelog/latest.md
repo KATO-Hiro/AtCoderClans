@@ -4,11 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-10-12
+
+- [#12845](https://github.com/KATO-Hiro/AtCoderClans/pull/12845) - 「[Scripts](../../scripts)」の「[ネタスクリプト](../../user_scripts/jokes)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder IPPON Judge Frames](https://greasyfork.org/ja/scripts/599494-atcoder-ippon-judge-frames)
+
 ### 2026-10-11
 
 - [#12836](https://github.com/KATO-Hiro/AtCoderClans/pull/12836) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに、以下の書籍を追加。
     - [AHC入門～見て、考えて、改善するAtCoder Heuristic Contest](https://www.amazon.co.jp/dp/4297160854)
-
 
 ### 2026-10-10
 
