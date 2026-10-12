@@ -90,9 +90,7 @@ title: 各言語への移植
 ## ACL Rust
 
 - [rust-lang-ja/ac-library-rs](https://github.com/rust-lang-ja/ac-library-rs) ![GitHub stars](https://img.shields.io/github/stars/rust-lang-ja/ac-library-rs?style=plastic) - Rust版。詳しい情報は、[Slack](https://rust-jp.rs/)で得られる。
-- [kenkoooo/cargo-concat](https://github.com/kenkoooo/cargo-concat) ![GitHub Repo stars](https://img.shields.io/github/stars/kenkoooo/cargo-concat?style=plastic) - コマンド一つで、Rustの依存モジュールを一つのファイルにまとめるツール。
 - [qryxip/cargo-equip](https://github.com/qryxip/cargo-equip) ![GitHub Repo stars](https://img.shields.io/github/stars/qryxip/cargo-equip?style=plastic) - Rustのファイルを一つのファイルにバンドルするCargoサブコマンド。
-- [shino16/cargo-auto-bundle](https://github.com/shino16/cargo-auto-bundle) ![GitHub stars](https://img.shields.io/github/stars/shino16/cargo-auto-bundle?style=plastic) - Rustのライブラリを一つのファイルにまとめて提出するときに、コピー&ペーストの作業を補助するツール。
 
 ## ACL Scala
 

@@ -114,6 +114,15 @@
 
 === "ユーザスクリプト"
 
+    2026-10-12
+
+    - 「[ネタスクリプト](user_scripts/jokes)」ページ
+        - [AtCoder IPPON Judge Frames](https://greasyfork.org/ja/scripts/599494-atcoder-ippon-judge-frames)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_ippon_judge_frames.png" alt="atcoder ippon judge frames">
+    </div>
+
     2026-10-10
 
     - 「[ライバルを探す・競う](user_scripts/rivals)」ページ
@@ -214,11 +223,6 @@
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [bulebrainbrand](https://atcoder.jp/users/bulebrainbrand)さん - [入緑記事【atcoder】](https://zenn.dev/bule/articles/7af25b3045b201)
 
-    2026-09-28
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [hayaaaaa](https://atcoder.jp/users/hayaaaaa)さん - [[AtCoder入茶&入緑記事]ふりかえり的な](https://qiita.com/hayaaaaa/items/44b854040f7adf6f1a81)
-
 === "国内外のコンテストサイト"
 
     2026-10-09
@@ -233,6 +237,11 @@
 === "アーカイブス"
 
     諸事情により事実上開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2026-10-12
+
+    - kenkoooo/cargo-concat
+    - shino16/cargo-auto-bundle
 
     2026-10-10
 
