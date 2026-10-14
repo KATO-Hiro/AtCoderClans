@@ -101,17 +101,6 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "Webアプリ・Webサイト"
-
-    2026-09-30
-
-    - 「[問題を解くときの補助ツール](web_app/support_tools)」ページ
-        - [imos2d-lab](https://paruma.github.io/imos2d-lab/)
-
-    <div align="center">
-      <img loading="lazy" src="images/web_app/imos2d_lab.png" alt="imos2d lab">
-    </div>
-
 === "ユーザスクリプト"
 
     2026-10-12
@@ -212,6 +201,12 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-10-14
+
+    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
+        - [Hysella](https://atcoder.jp/users/Hysella)さん - [可読性に乏しい入緑記事](https://qiita.com/Hysella/items/30e991df269677f2982c)
+        - [satomshr](https://atcoder.jp/users/satomshr?contestType=heuristic)さん - [【色変記事】AtCoder (Heuristic) で緑になりました](https://qiita.com/satomshr/items/18046a6431bc49c8f224)
 
     2026-10-05
 
