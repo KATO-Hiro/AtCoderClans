@@ -7,6 +7,9 @@ title: レーティング800〜1199(緑色)
 
 ## 2026年
 
+### アルゴリズム部門
+
+- [可読性に乏しい入緑記事](https://qiita.com/Hysella/items/30e991df269677f2982c) - [Hysella](https://atcoder.jp/users/Hysella)さんが、2026年10月11日に達成。
 - [某星人が3年間戦った戦場へ、いざ参らん。](https://qiita.com/tanekei/items/d3d322e2136a4d9659fc) - [Uzawa_Reisa](https://atcoder.jp/users/Uzawa_Reisa)さんが、2026年10月3日に達成。
 - [入緑記事【atcoder】](https://zenn.dev/bule/articles/7af25b3045b201) - [bulebrainbrand](https://atcoder.jp/users/bulebrainbrand)さんが、2026年9月26日に達成。
 - [[AtCoder入茶&入緑記事]ふりかえり的な](https://qiita.com/hayaaaaa/items/44b854040f7adf6f1a81) - [hayaaaaa](https://atcoder.jp/users/hayaaaaa)さんが、2026年9月26日に達成。
@@ -31,6 +34,10 @@ title: レーティング800〜1199(緑色)
 - [【色変記事】AtCoderで入緑したので振り返り](https://qiita.com/menboy/items/8518cd88fe21588fb1ae) - [menboy](https://atcoder.jp/users/menboy)さんが、2026年2月7日に達成。
 - [なぎさの入緑記事](https://qiita.com/nagisa14567/items/b1c87d2ffc993a0a3fda) - [nagisa14567](https://atcoder.jp/users/nagisa14567)さんが、2026年2月6日に公開。
 - [入緑しました!](https://qiita.com/alpha0314alpha/items/eb3d9f5e3e0406a0a8e5) - alpha0314subさんが、2026年1月10日に達成。
+
+### ヒューリスティック部門
+
+- [【色変記事】AtCoder (Heuristic) で緑になりました](https://qiita.com/satomshr/items/18046a6431bc49c8f224) - [satomshr](https://atcoder.jp/users/satomshr?contestType=heuristic)さんが、2026年10月5日に達成。
 
 ## 2025年
 
