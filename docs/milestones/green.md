@@ -37,7 +37,7 @@ title: レーティング800〜1199(緑色)
 
 ### ヒューリスティック部門
 
-- [【色変記事】AtCoder (Heuristic) で緑になりました](https://qiita.com/satomshr/items/18046a6431bc49c8f224) - [satomshr](https://atcoder.jp/users/satomshr?contestType=heuristic)さんが、2026年10月3日に達成。
+- [【色変記事】AtCoder (Heuristic) で緑になりました](https://qiita.com/satomshr/items/18046a6431bc49c8f224) - [satomshr](https://atcoder.jp/users/satomshr?contestType=heuristic)さんが、2026年10月5日に達成。
 
 ## 2025年
 
