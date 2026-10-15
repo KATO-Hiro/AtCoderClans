@@ -159,11 +159,6 @@
     - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
         - [アルゴリズムの最先端に挑戦：「四色定理」はどこまでバランスよく塗れるのか？](https://qiita.com/square1001/items/4714dd9e2ddb97c32057)
 
-    2026-10-01
-
-    - 「[競技プログラミングと就転職](articles/jobs)」ページ
-        - [「AtCoder 競技プログラマー就職企業人気ランキング2026」を発表](https://prtimes.jp/main/html/rd/p/000000066.000028415.html)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -187,6 +182,14 @@
         - [正直族と噓つき族とランダム族に道を聞く方法](https://www.youtube.com/watch?v=3sutYh31UD8)
 
 === "ライブラリ・スニペット"
+
+    2026-10-15
+
+    - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
+        - [aruaru0/ac-library-go](https://github.com/aruaru0/ac-library-go) ![GitHub stars](https://img.shields.io/github/stars/aruaru0/ac-library-go?style=plastic)
+
+    - 「[Java](libraries/java)」ページ
+        - [nsubaru11/competitive-programming-java-library](https://github.com/nsubaru11/competitive-programming-java-library) ![GitHub Repo stars](https://img.shields.io/github/stars/nsubaru11/competitive-programming-java-library?style=plastic)
 
     2026-10-08
 
