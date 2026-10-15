@@ -33,6 +33,7 @@ title: 各言語への移植
 
 ## ACL Go
 
+- [aruaru0/ac-library-go](https://github.com/aruaru0/ac-library-go) ![GitHub stars](https://img.shields.io/github/stars/aruaru0/ac-library-go?style=plastic) - Go版。
 - [monkukui/ac-library-go](https://github.com/monkukui/ac-library-go) ![GitHub stars](https://img.shields.io/github/stars/monkukui/ac-library-go?style=plastic) - Go版。
 - [ktateish/gottani](https://github.com/ktateish/gottani) ![GitHub Repo stars](https://img.shields.io/github/stars/ktateish/gottani?style=plastic) - 回答コードとライブラリを一つのファイルにまとめるツール。
 - [monkukui/gpcg](https://github.com/monkukui/gpcg) ![GitHub stars](https://img.shields.io/github/stars/monkukui/gpcg?style=plastic) - 複数のファイルにまたがるGoのコードを一つにまとめて、提出用のコードを生成するツール。
