@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-10-15
+
+- [#12864](https://github.com/KATO-Hiro/AtCoderClans/pull/12864) - 「[Libraries and Snippets](../../libraries)」の「[Java](../../libraries/java)」ページに、Javaで実装されたライブラリを追加。
+    - [nsubaru11/competitive-programming-java-library](https://github.com/nsubaru11/competitive-programming-java-library) ![GitHub Repo stars](https://img.shields.io/github/stars/nsubaru11/competitive-programming-java-library?style=plastic)
+- [#12863](https://github.com/KATO-Hiro/AtCoderClans/pull/12863) - 「[Libraries and Snippets](../../libraries)」の「[AtCoder Library (ACL)の各言語への移植](../../libraries/porting_of_acl)」ページに、Goで実装されたライブラリを追加。
+    - [aruaru0/ac-library-go](https://github.com/aruaru0/ac-library-go) ![GitHub stars](https://img.shields.io/github/stars/aruaru0/ac-library-go?style=plastic)
+
 ### 2026-10-14
 
 - [#12854](https://github.com/KATO-Hiro/AtCoderClans/pull/12854) - 「[Milestones](../../milestones/green)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
