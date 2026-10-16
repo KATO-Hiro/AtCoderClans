@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-10-16
+
+- [#12866](https://github.com/KATO-Hiro/AtCoderClans/pull/12866) - 「[For Beginners](../../for_beginners)」の「[Q3: コンテストは、いつ開催されていますか?](../../for_beginners/question3)」ページと「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加および説明文を一部修正。
+    - [AtCoder生成AI対策ルール - 20261014版](https://info.atcoder.jp/entry/llm-rules-ja)
+
 ### 2026-10-15
 
 - [#12864](https://github.com/KATO-Hiro/AtCoderClans/pull/12864) - 「[Libraries and Snippets](../../libraries)」の「[Java](../../libraries/java)」ページに、Javaで実装されたライブラリを追加。
