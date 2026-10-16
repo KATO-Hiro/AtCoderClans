@@ -144,6 +144,11 @@
 
 === "記事"
 
+    2026-10-16
+
+    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
+        - [AtCoder生成AI対策ルール - 20261014版](https://info.atcoder.jp/entry/llm-rules-ja)
+
     2026-10-13
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -215,11 +220,6 @@
 
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [Uzawa_Reisa](https://atcoder.jp/users/Uzawa_Reisa)さん - [某星人が3年間戦った戦場へ、いざ参らん。](https://qiita.com/tanekei/items/d3d322e2136a4d9659fc)
-
-    2026-10-02
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [bulebrainbrand](https://atcoder.jp/users/bulebrainbrand)さん - [入緑記事【atcoder】](https://zenn.dev/bule/articles/7af25b3045b201)
 
 === "国内外のコンテストサイト"
 
