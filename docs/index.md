@@ -121,15 +121,6 @@
       <img loading="lazy" src="images/userscript/atcoder_favorite_group_manager.png" alt="atcoder favorite group manager">
     </div>
 
-    2026-10-03
-
-    - 「[問題を解く](user_scripts/solve_problems)」ページ
-        - [AtCoder Question Copier](https://greasyfork.org/ja/scripts/597743-atcoder-question-copier)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_question_copier.png" alt="atcoder question copier">
-    </div>
-
 === "Chrome拡張機能"
 
     2026-10-10
@@ -187,6 +178,12 @@
         - [正直族と噓つき族とランダム族に道を聞く方法](https://www.youtube.com/watch?v=3sutYh31UD8)
 
 === "ライブラリ・スニペット"
+
+    2026-10-17
+
+    - 「[C++](libraries/cpp)」ページ
+        - [blueberry1001/Blueberry-library](https://github.com/blueberry1001/Blueberry-library) ![GitHub stars](https://img.shields.io/github/stars/blueberry1001/Blueberry-library?style=plastic)
+        - [qandori/cp-library](https://github.com/qandori/cp-library) ![GitHub Repo stars](https://img.shields.io/github/stars/qandori/cp-library?style=plastic)
 
     2026-10-15
 
