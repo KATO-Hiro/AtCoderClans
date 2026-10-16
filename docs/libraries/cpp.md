@@ -7,6 +7,7 @@ title: C&#43;&#43;
 - [atcoder/live_library](https://github.com/atcoder/live_library) ![GitHub Repo stars](https://img.shields.io/github/stars/atcoder/live_library?style=plastic) - コンテスト後の解説放送で作成されたライブラリ集。
 - [ayuna-stpyko/Ayuna-Competitive-Programming-Library](https://github.com/ayuna-stpyko/Ayuna-Competitive-Programming-Library) ![GitHub stars](https://img.shields.io/github/stars/ayuna-stpyko/Ayuna-Competitive-Programming-Library?style=plastic) - [Ayuna](https://atcoder.jp/users/Ayuna)さんのライブラリ。
 - [beet-aizu/library](https://beet-aizu.github.io/library/) ![GitHub stars](https://img.shields.io/github/stars/beet-aizu/library?style=plastic) - [beet](https://atcoder.jp/users/beet)さんのライブラリ。
+- [blueberry1001/Blueberry-library](https://github.com/blueberry1001/Blueberry-library) ![GitHub stars](https://img.shields.io/github/stars/blueberry1001/Blueberry-library?style=plastic) - [blueberry1001](https://atcoder.jp/users/blueberry1001)さんのライブラリ。
 - [CP-Algorithms](https://cp-algorithms.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/e-maxx-eng/e-maxx-eng?style=plastic) - E-Maxx Algorithmsの英訳版。
 - [drken1215/algorithm](https://github.com/drken1215/algorithm) ![GitHub stars](https://img.shields.io/github/stars/drken1215/algorithm?style=plastic) - [drken](https://atcoder.jp/users/drken)さんの実装例・ライブラリ。C++23で実装されている。
 - [ei1333/library](https://ei1333.github.io/library/) ![GitHub stars](https://img.shields.io/github/stars/ei1333/library?style=plastic) - [ei13333](https://atcoder.jp/users/ei13333)さんのライブラリ。
