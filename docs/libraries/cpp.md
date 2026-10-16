@@ -29,6 +29,7 @@ title: C&#43;&#43;
 - [noshi91/Library](https://noshi91.github.io/Library/) ![GitHub stars](https://img.shields.io/github/stars/noshi91/Library?style=plastic) - [noshi91](https://atcoder.jp/users/noshi91)さんのライブラリ。[Rust版](https://github.com/noshi91/n91lib_rs)もある。
 - [NyaanNyaan/library](https://github.com/NyaanNyaan/library) ![GitHub stars](https://img.shields.io/github/stars/NyaanNyaan/library?style=plastic) - [Nyaan](https://atcoder.jp/users/Nyaan)さんのライブラリ。
 - [potato167/po167_library](https://github.com/potato167/po167_library) ![GitHub stars](https://img.shields.io/github/stars/potato167/po167_library?style=plastic) - [potato167](https://atcoder.jp/users/potato167)さんのライブラリ。
+- [qandori/cp-library](https://github.com/qandori/cp-library) ![GitHub Repo stars](https://img.shields.io/github/stars/qandori/cp-library?style=plastic) - [qandori](https://github.com/qandori)さんのライブラリ。
 - [rainbou-kpr/library](https://github.com/rainbou-kpr/library) ![GitHub stars](https://img.shields.io/github/stars/rainbou-kpr/library?style=plastic) - [阪大競技プログラミング部「RAINBOU」](https://rainbou.org/)のライブラリ。
 - [seekworser/competitive_library](https://github.com/seekworser/competitive_library) ![GitHub Repo stars](https://img.shields.io/github/stars/seekworser/competitive_library?style=plastic) - [seekworser](https://atcoder.jp/users/seekworser)さんのライブラリ。
 - [sgtlaugh/algovault](https://github.com/sgtlaugh/algovault) ![GitHub Repo stars](https://img.shields.io/github/stars/sgtlaugh/algovault?style=plastic) - sgtlaughさんのライブラリ。一部のアルゴリズムはPythonで実装されている。
