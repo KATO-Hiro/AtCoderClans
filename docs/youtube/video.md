@@ -57,12 +57,13 @@ title: 個別の動画
 ### 数学・パズルに関する問題
 
 - [100サイズの箱は80サイズの箱に入るか？【ゆっくり解説】](https://www.youtube.com/watch?v=8wT7V-Pw6_w) - 直方体の縦・横・高さの合計でサイズを計る場合に、大きい箱が小さい箱に入るかどうかを示している。
-    - [正直族と噓つき族とランダム族に道を聞く方法](https://www.youtube.com/watch?v=3sutYh31UD8) - 指定された条件で、選択したい道を確実に特定できるかどうかを示している。
+    - [面積のいろいろな求め方](https://www.youtube.com/watch?v=lek4PHidodw) - 図形の共通部分の面積を複数の方法で求められることが示されている。
 
     ??? info "関連動画"
 
         - [再生リスト](https://www.youtube.com/@evimalab/playlists)
 
+        - [正直族と噓つき族とランダム族に道を聞く方法](https://www.youtube.com/watch?v=3sutYh31UD8) - 指定された条件で、選択したい道を確実に特定できるかどうかを示している。
         - [素数が無限にあることの1行証明](https://www.youtube.com/watch?v=9WDGq3uMlGk) - 表題の内容な証明した1行の数式を解説している。
         - [本当にどんな多角形も三角形分割できるか？](https://www.youtube.com/watch?v=nyk-U-HGLto) - 任意の多角形が三角形で分割できることを証明している。
         - [ポーカーを手札全公開でやったらどうなる？](https://www.youtube.com/watch?v=ro96ueRIip0) - 表題の条件で、必勝法の有無を考察している。
