@@ -101,6 +101,17 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "Webアプリ・Webサイト"
+
+    2026-10-18
+
+    - 「[問題を解く](web_app/solve_problems)」ページ
+        - [AtCoder問題リンク変換](https://blueberry1001.github.io/#/atcoder-problem-link)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/atcoder_problem_link.png" alt="atcoder problem link">
+    </div>
+
 === "ユーザスクリプト"
 
     2026-10-12
@@ -150,11 +161,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Winter - 学校ランキング (2026年10月5日時点)](https://x.com/atcoder/status/2107041324038082862)
 
-    2026-10-04
-
-    - 「[アルゴリズムを学ぶ](articles/algorithm)」ページ
-        - [アルゴリズムの最先端に挑戦：「四色定理」はどこまでバランスよく塗れるのか？](https://qiita.com/square1001/items/4714dd9e2ddb97c32057)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -171,6 +177,11 @@
         - [AHC入門～見て、考えて、改善するAtCoder Heuristic Contest](https://www.amazon.co.jp/dp/4297160854)
 
 === "動画"
+
+    2026-10-18
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [面積のいろいろな求め方](https://www.youtube.com/watch?v=lek4PHidodw)
 
     2026-10-06
 
