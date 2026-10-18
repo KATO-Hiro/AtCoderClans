@@ -71,6 +71,12 @@ title: 問題を解く
       <img loading="lazy" src="../../images/web_app/atcoder_redirect.png" alt="atcoder editorial problems">
     </div>
 
+- [AtCoder問題リンク変換](https://blueberry1001.github.io/#/atcoder-problem-link) - AtCoder Daily Training (ADT) などの問題URLを、元のコンテストのものに変換できる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/atcoder_problem_link.png" alt="atcoder problem link">
+    </div>
+
 - [Custom Problems](https://custom-problems.vercel.app/) - 問題集の検索・作成・進捗管理ができる。2026年9月時点では、AtCoder・Codeforces・yukicoderの問題に対応している。
 
     <div align="center">
