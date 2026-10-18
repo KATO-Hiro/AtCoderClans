@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-10-18
+
+- [#12879](https://github.com/KATO-Hiro/AtCoderClans/pull/12879) - 「[Web apps and sites](../../web_app)」の「[問題を解く](../../web_app/solve_problems)」ページに、以下のWebサービスを追加。
+    - [AtCoder問題リンク変換](https://blueberry1001.github.io/#/atcoder-problem-link)
+- [#12878](https://github.com/KATO-Hiro/AtCoderClans/pull/12878) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [面積のいろいろな求め方](https://www.youtube.com/watch?v=lek4PHidodw)
+
 ### 2026-10-17
 
 - [#12874](https://github.com/KATO-Hiro/AtCoderClans/pull/12874)、[#12875](https://github.com/KATO-Hiro/AtCoderClans/pull/12875) - 「「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
