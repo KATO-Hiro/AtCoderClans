@@ -161,19 +161,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Winter - 学校ランキング (2026年10月13日時点)](https://x.com/atcoder/status/2109838750448746808)
 
-    2026-10-07
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2026 Winter - 学校ランキング (2026年10月5日時点)](https://x.com/atcoder/status/2107041324038082862)
-
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2026-10-07
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [k1suxu](https://atcoder.jp/users/k1suxu)さん - [はてなブログ](https://k1suxu.hatenablog.com/)
-
 === "書籍"
 
     2026-10-11
@@ -194,6 +181,11 @@
         - [面積のいろいろな求め方](https://www.youtube.com/watch?v=lek4PHidodw)
 
 === "ライブラリ・スニペット"
+
+    2026-10-21
+
+    - 「[複数の言語](libraries/libraries)」ページ
+        - [GitHubに競プロライブラリを保管したい！を叶える備忘録](https://qiita.com/Un_titled/items/a8620f54cf953ad67365)
 
     2026-10-17
 

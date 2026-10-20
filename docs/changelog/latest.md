@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-10-21
+
+- [#12894](https://github.com/KATO-Hiro/AtCoderClans/pull/12894) - 「[Libraries and Snippets](../../libraries)」の「[複数の言語](../../libraries/libraries)」ページに、以下の記事を追加。
+    - [GitHubに競プロライブラリを保管したい！を叶える備忘録](https://qiita.com/Un_titled/items/a8620f54cf953ad67365)
+- [#12893](https://github.com/KATO-Hiro/AtCoderClans/pull/12893) - (破壊的な変更) リンク切れのサービスや記事を「[Archives](../../archived)」ページに移動。
+
 ### 2026-10-20
 
 - [#12890](https://github.com/KATO-Hiro/AtCoderClans/pull/12890) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
