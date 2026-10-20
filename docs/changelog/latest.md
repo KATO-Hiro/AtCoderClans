@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-10-20
+
+- [#12890](https://github.com/KATO-Hiro/AtCoderClans/pull/12890) - 「[Articles, Blogs, Books and Videos](../../media)」の「[YouTube - 個別の動画](../../youtube/video)」ページに、以下の動画を追加。
+    - [No.001 オンサイトコンテストのススメ](https://www.youtube.com/watch?v=fwAMove2tvo)
+
 ### 2026-10-19
 
 - [#12887](https://github.com/KATO-Hiro/AtCoderClans/pull/12887) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
