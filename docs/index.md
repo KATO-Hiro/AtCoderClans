@@ -183,15 +183,15 @@
 
 === "動画"
 
+    2026-10-20
+
+    - 「[YouTube - 個別の動画](youtube/video)」ページ
+        - [No.001 オンサイトコンテストのススメ](https://www.youtube.com/watch?v=fwAMove2tvo)
+
     2026-10-18
 
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [面積のいろいろな求め方](https://www.youtube.com/watch?v=lek4PHidodw)
-
-    2026-10-06
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [正直族と噓つき族とランダム族に道を聞く方法](https://www.youtube.com/watch?v=3sutYh31UD8)
 
 === "ライブラリ・スニペット"
 
@@ -228,11 +228,6 @@
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [Hysella](https://atcoder.jp/users/Hysella)さん - [可読性に乏しい入緑記事](https://qiita.com/Hysella/items/30e991df269677f2982c)
         - [satomshr](https://atcoder.jp/users/satomshr?contestType=heuristic)さん - [【色変記事】AtCoder (Heuristic) で緑になりました](https://qiita.com/satomshr/items/18046a6431bc49c8f224)
-
-    2026-10-05
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [Uzawa_Reisa](https://atcoder.jp/users/Uzawa_Reisa)さん - [某星人が3年間戦った戦場へ、いざ参らん。](https://qiita.com/tanekei/items/d3d322e2136a4d9659fc)
 
 === "国内外のコンテストサイト"
 
