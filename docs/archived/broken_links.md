@@ -470,6 +470,9 @@ title: リンク切れ
 
 ### レーティング1200〜1599(水色)
 
+- [【色変】AtCoder水色になりました！ - Den3-芝浦工業大学電子計算機研究会](http://den3.net/activity_diary/2021/10/31/5072/) - [Kyo_s_s](https://atcoder.jp/users/Kyo_s_s)さんが、2021年10月30日に達成。
+    - 確認した日: 2026/10/21
+
 - [AtCoderで水色になったよっていう報告](https://note.com/lyu_lu/n/n5812f3988dd6) - lyuluさんが、2020年5月31日に達成。
     - 確認した日: 2026/09/16
 
