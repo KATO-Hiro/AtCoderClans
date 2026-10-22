@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-10-22
+
+- [#12899](https://github.com/KATO-Hiro/AtCoderClans/pull/12899) - 「[Home](../..)」ページに、以下の記事を掲載。
+    - [今後の長期 AtCoder Heuristic Contest（AHC）の開催形式について](https://atcoder.jp/posts/long-ahc-divisions-2026)
+
 ### 2026-10-21
 
 - [#12894](https://github.com/KATO-Hiro/AtCoderClans/pull/12894) - 「[Libraries and Snippets](../../libraries)」の「[複数の言語](../../libraries/libraries)」ページに、以下の記事を追加。

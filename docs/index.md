@@ -102,6 +102,12 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
+=== "ホーム"
+
+    2026-10-22
+
+    - [今後の長期 AtCoder Heuristic Contest（AHC）の開催形式について](https://atcoder.jp/posts/long-ahc-divisions-2026)
+
 === "Webアプリ・Webサイト"
 
     2026-10-18
@@ -202,16 +208,6 @@
     - 「[Java](libraries/java)」ページ
         - [nsubaru11/competitive-programming-java-library](https://github.com/nsubaru11/competitive-programming-java-library) ![GitHub Repo stars](https://img.shields.io/github/stars/nsubaru11/competitive-programming-java-library?style=plastic)
 
-    2026-10-08
-
-    - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
-        - [kzrnm/Competitive.IO](https://github.com/kzrnm/Competitive.IO) - ![GitHub Repo stars](https://img.shields.io/github/stars/kzrnm/Competitive.IO?style=plastic)
-
-    2026-10-07
-
-    - 「[ライブラリチェッカー](libraries/library_checker)」ページ
-        - [competitive-verifier](https://github.com/competitive-verifier/competitive-verifier) - ![GitHub stars](https://img.shields.io/github/stars/competitive-verifier/competitive-verifier?style=plastic)
-
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
@@ -245,10 +241,6 @@
     2026-10-10
 
     - AtCoder HashTag Setter
-
-    2026-10-07
-
-    - Online Judge Verification Helper
 
 ## AtCoder公式グッズを購入する
 
