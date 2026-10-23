@@ -189,6 +189,12 @@
 
 === "ライブラリ・スニペット"
 
+    2026-10-23
+
+    - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
+        - [toyboot4e/bundler-hs](https://github.com/toyboot4e/bundler-hs) ![GitHub stars](https://img.shields.io/github/stars/toyboot4e/bundler-hs?style=plastic)
+            - [bundler-hs で自作ライブラリを qualified import する！](https://zenn.dev/toyboot4e/articles/bundler-hs-released)
+
     2026-10-21
 
     - 「[複数の言語](libraries/libraries)」ページ
@@ -217,17 +223,6 @@
     - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
         - [Hysella](https://atcoder.jp/users/Hysella)さん - [可読性に乏しい入緑記事](https://qiita.com/Hysella/items/30e991df269677f2982c)
         - [satomshr](https://atcoder.jp/users/satomshr?contestType=heuristic)さん - [【色変記事】AtCoder (Heuristic) で緑になりました](https://qiita.com/satomshr/items/18046a6431bc49c8f224)
-
-=== "国内外のコンテストサイト"
-
-    2026-10-09
-
-    - 「[LeetCode](related_contest_sites/leetcode)」ページ
-        - [Leetgo](https://github.com/j178/leetgo) ![GitHub Repo stars](https://img.shields.io/github/stars/j178/leetgo?style=plastic)
-
-    <div align="center">
-      <img loading="lazy" src="images/related_contest_sites/leetcode/leetgo.gif" alt="leetgo">
-    </div>
 
 === "アーカイブス"
 

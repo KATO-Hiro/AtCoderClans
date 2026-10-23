@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-10-23
+
+- [#12904](https://github.com/KATO-Hiro/AtCoderClans/pull/12904) - 「[Libraries and Snippets](../../libraries)」の「[AtCoder Library (ACL)の各言語への移植](../../libraries/porting_of_acl)」ページに、Haskellで実装されたライブラリを追加。
+    - [toyboot4e/bundler-hs](https://github.com/toyboot4e/bundler-hs) ![GitHub stars](https://img.shields.io/github/stars/toyboot4e/bundler-hs?style=plastic)
+        - [bundler-hs で自作ライブラリを qualified import する！](https://zenn.dev/toyboot4e/articles/bundler-hs-released)
+
 ### 2026-10-22
 
 - [#12899](https://github.com/KATO-Hiro/AtCoderClans/pull/12899) - 「[Home](../..)」ページに、以下の記事を掲載。
