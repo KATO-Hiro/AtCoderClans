@@ -45,6 +45,8 @@ title: 各言語への移植
 ## ACL Haskell
 
 - [toyboot4e/ac-library-hs](https://github.com/toyboot4e/ac-library-hs) - ![GitHub stars](https://img.shields.io/github/stars/toyboot4e/ac-library-hs?style=plastic) - Haskell版。
+- [toyboot4e/bundler-hs](https://github.com/toyboot4e/bundler-hs) ![GitHub stars](https://img.shields.io/github/stars/toyboot4e/bundler-hs?style=plastic) - 複数のファイルにまたがるHaskellのコードを一つにまとめて、提出用のコードを生成するツール。
+    - [bundler-hs で自作ライブラリを qualified import する！](https://zenn.dev/toyboot4e/articles/bundler-hs-released)
 
 ## ACL Java
 
