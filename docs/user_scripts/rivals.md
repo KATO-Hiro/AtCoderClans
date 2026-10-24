@@ -28,6 +28,12 @@ title: ライバルを探す・競う
       <img loading = "lazy" src="../../images/userscript/ac_iconner.png" alt="ac iconner">
     </div>
 
+- [AtCoder Nickname](https://greasyfork.org/ja/scripts/599815-atcoder-nickname) - ユーザー名に、自分だけが見えるニックネームを付けられる。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_nickname.png" alt="atcoder nickname">
+    </div>
+
 ## お気に入りユーザを登録・確認
 
 ### お気に入りをより使いやすく
