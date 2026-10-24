@@ -121,6 +121,14 @@
 
 === "ユーザスクリプト"
 
+    2026-10-24
+
+    - 「[ライバルを探す・競う](user_scripts/rivals)」ページ
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_nickname.png" alt="atcoder nickname">
+    </div>
+
     2026-10-12
 
     - 「[ネタスクリプト](user_scripts/jokes)」ページ
@@ -128,27 +136,6 @@
 
     <div align="center">
       <img loading="lazy" src="images/userscript/atcoder_ippon_judge_frames.png" alt="atcoder ippon judge frames">
-    </div>
-
-    2026-10-10
-
-    - 「[ライバルを探す・競う](user_scripts/rivals)」ページ
-        - [AtCoder Favorite Group Manager](https://greasyfork.org/ja/scripts/583889-atcoder-favorite-group-manager)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_favorite_group_manager.png" alt="atcoder favorite group manager">
-    </div>
-
-=== "Chrome拡張機能"
-
-    2026-10-10
-
-    - 「[Webページをより見やすく](chrome_extensions/improve_ui)」ページ
-        - [AtCoder Contest Kit](https://chromewebstore.google.com/detail/atcoder-contest-kit/eabggolgldjmbeafgjbiokdanmjnlbml)
-            - [作者による紹介記事](https://note.com/tunnel_developer/n/n8d4dde067c65)
-
-    <div align="center">
-      <img loading="lazy" src="images/chrome_extension/atcoder_contest_kit.png" alt="atcoder contest kit">
     </div>
 
 === "記事"
@@ -232,10 +219,6 @@
 
     - kenkoooo/cargo-concat
     - shino16/cargo-auto-bundle
-
-    2026-10-10
-
-    - AtCoder HashTag Setter
 
 ## AtCoder公式グッズを購入する
 
