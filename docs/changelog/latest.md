@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-10-24
+
+- [#12907](https://github.com/KATO-Hiro/AtCoderClans/pull/12907) - 「[Scripts](../../scripts)」の「[ライバルを探す・競う](../../user_scripts/rivals)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Nickname](https://greasyfork.org/ja/scripts/599815-atcoder-nickname)
+
 ### 2026-10-23
 
 - [#12904](https://github.com/KATO-Hiro/AtCoderClans/pull/12904) - 「[Libraries and Snippets](../../libraries)」の「[AtCoder Library (ACL)の各言語への移植](../../libraries/porting_of_acl)」ページに、Haskellで実装されたライブラリを追加。
