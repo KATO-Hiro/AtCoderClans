@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-10-25
+
+- [#12911](https://github.com/KATO-Hiro/AtCoderClans/pull/12911) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[haruharufff](https://atcoder.jp/users/haruharufff)さんの[記事](https://haruharu-fff.hatenablog.jp/entry/2026/10/24/120000)を追加。
+
 ### 2026-10-24
 
 - [#12907](https://github.com/KATO-Hiro/AtCoderClans/pull/12907) - 「[Scripts](../../scripts)」の「[ライバルを探す・競う](../../user_scripts/rivals)」ページに、以下のユーザスクリプトを追加。

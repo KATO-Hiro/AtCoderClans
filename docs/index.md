@@ -155,13 +155,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Winter - 学校ランキング (2026年10月13日時点)](https://x.com/atcoder/status/2109838750448746808)
 
-=== "書籍"
-
-    2026-10-11
-
-    - 「[書籍](books)」ページ
-        - [AHC入門～見て、考えて、改善するAtCoder Heuristic Contest](https://www.amazon.co.jp/dp/4297160854)
-
 === "動画"
 
     2026-10-20
@@ -204,6 +197,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-10-25
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [haruharufff](https://atcoder.jp/users/haruharufff)さん - [AtCoder 青色になりました - haruharu_fffのブログ](https://haruharu-fff.hatenablog.jp/entry/2026/10/24/120000)
 
     2026-10-14
 
