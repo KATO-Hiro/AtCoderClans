@@ -4,6 +4,7 @@ title: レーティング1600〜1999(青色)
 
 ## 2026年
 
+- [AtCoder 青色になりました - haruharu_fffのブログ](https://haruharu-fff.hatenablog.jp/entry/2026/10/24/120000) - [haruharufff](https://atcoder.jp/users/haruharufff)さんが、2026年10月17日に達成。
 - [Atcoder入青したので振り返る](https://qiita.com/54b4ch4/items/c62cf9cca6b5a05519c4) - [sabacha](https://atcoder.jp/users/sabacha)さんが、2026年7月9日に公開。
 - [AtCoder入青しました](https://qiita.com/tehom_math/items/2c2d0b919376d8c10650) - [Tehom](https://atcoder.jp/users/Tehom)さんが、2026年6月27日に公開。
 - [【色変記事】青色コーダーになりました！！！](https://qiita.com/tau0529/items/69141c0ccae8d9c3737f) - [tau0529](https://atcoder.jp/users/tau0529)さんが、2026年5月29日に公開。
