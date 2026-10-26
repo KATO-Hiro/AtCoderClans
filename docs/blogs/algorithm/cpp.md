@@ -169,6 +169,7 @@ title: C&#43;&#43;
 |Luzhiled|[はてなブログ](https://luzhiled.hatenablog.com/)||
 |lX57|[はてなブログ](https://logk.hateblo.jp/)||
 |lynmisakura|[はてなブログ](https://andoreiji11.hatenadiary.jp/)||
+|mackerel38|[Qiita](https://qiita.com/poe4294967296)||
 |mayoko|[はてなブログ](https://mayokoex.hatenablog.com/)|2019年12月以降、新規の記事を確認できず。|
 |maze1230|[はてなブログ](https://pazzle1230.hatenablog.com/)||
 |merom686|[はてなブログ](https://merom686.hatenablog.com/)||
