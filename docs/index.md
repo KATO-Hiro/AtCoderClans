@@ -140,6 +140,11 @@
 
 === "記事"
 
+    2026-10-26
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AtCoder Heuristic Contest 073の復習](https://kaede2020.hatenablog.com/entry/2026/10/25/214638)
+
     2026-10-19
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -154,6 +159,14 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Winter - 学校ランキング (2026年10月13日時点)](https://x.com/atcoder/status/2109838750448746808)
+
+=== "ブログ"
+    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2026-10-26
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [mackerel38](https://atcoder.jp/users/mackerel38)さん - [Qiita](https://qiita.com/poe4294967296)
 
 === "動画"
 
