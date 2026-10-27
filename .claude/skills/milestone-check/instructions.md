@@ -46,8 +46,16 @@ Confirm each crossing via the user's small history JSON (`old -> new` for the co
 https://atcoder.jp/users/{username}/history/json
 ```
 
+For Heuristic contests (`ahc...`), append `?contestType=heuristic` — without it the endpoint
+returns only the Algorithm history, so the AHC entry is missing (often the whole response is `[]`):
+
+```
+https://atcoder.jp/users/{username}/history/json?contestType=heuristic
+```
+
 Fetch with WebFetch (small page, not truncated) or python3. A non-existent handle returns `[]` —
-use this to catch typos / wrong case before concluding a user is missing.
+use this to catch typos / wrong case before concluding a user is missing (for AHC, only after
+retrying with `?contestType=heuristic`).
 
 Etiquette: the Step 1 results fetch is a single request (no sleep needed). When iterating per-user
 requests here or in Step 3, keep `sleep 1` between them and avoid firing many in parallel.
@@ -67,6 +75,11 @@ Check the following in order — stop processing a user as soon as a reason to s
    - Not found → continue
 
 2. Check [issue #1185](https://github.com/KATO-Hiro/AtCoderClans/issues/1185)
+   - The user checklist is in the issue **comments**, not the body (the body holds only policy
+     and progress). Search all comments (paginate with `per_page=100&page=N`). Entries may be a
+     bare username or a profile URL such as `- [ ] https://atcoder.jp/users/{username} // note`.
+   - `gh` may be unavailable; fall back to python3 with
+     `https://api.github.com/repos/KATO-Hiro/AtCoderClans/issues/1185/comments`.
    - `- [ ] username` (unchecked) → blog confirmed absent; skip Steps 3–4
    - `- [x] username` (checked) → already listed in Clans; skip entirely
    - Not found → continue to Step 3
