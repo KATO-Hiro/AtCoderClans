@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-10-27
+
+- [#12925](https://github.com/KATO-Hiro/AtCoderClans/pull/12925) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [第13回 Asprova プログラミングコンテスト（AtCoder Heuristic Contest 070）の復習](https://kaede2020.hatenablog.com/entry/2026/10/27/210217)
+
 ### 2026-10-26
 
 - [#12919](https://github.com/KATO-Hiro/AtCoderClans/pull/12919) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
