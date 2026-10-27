@@ -348,6 +348,10 @@ title: リンク切れ
 
 - [ワンランク上に行くプロコン講座](https://www.youtube.com/watch?v=_Je4rukUcqE) - [chokudai](https://twitter.com/chokudai)さんによるトークライブ。競技プログラミングの典型的な問題に対して、上位陣が一瞬で解ける理由と考え方のコツを解説している。
 
+## 生放送・動画配信に関するTips
+
+- [競技プログラミングやCTFの動画配信/生放送でのTips](https://kurenaif.hatenablog.com/entry/2020/11/27/223351) - [kurenaif](https://atcoder.jp/users/kurenaif)さんが、YouTubeの生放送や動画配信の経験から得られたTipsを紹介した記事。
+
 ## ライブラリ・スニペット
 
 ### ACLの使用方法の解説
@@ -390,6 +394,9 @@ title: リンク切れ
 ## 色変記事
 
 ### レーティング400〜799(茶色)
+
+- [AtCoderで茶色になりました](https://sekaishi-beta.com/kunaisn_atcoder_brown/) - [kunaisn](https://atcoder.jp/users/kunaisn)さんが、2023年9月2日に達成。
+    - 確認した日: 2026/10/28
 
 - [AtCoderを3ヶ月やってわかったこと-茶色になるためにはどうすればいいか?](https://note.com/alpha0314alpha/n/n009687717562) - [alpha0314sub](https://atcoder.jp/users/alpha0314sub)さんが、2025年10月13日に公開。
     - 確認した日: 2026/10/07
