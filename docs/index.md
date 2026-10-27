@@ -140,6 +140,11 @@
 
 === "記事"
 
+    2026-10-27
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [第13回 Asprova プログラミングコンテスト（AtCoder Heuristic Contest 070）の復習](https://kaede2020.hatenablog.com/entry/2026/10/27/210217)
+
     2026-10-26
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
