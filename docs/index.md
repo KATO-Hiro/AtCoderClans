@@ -129,16 +129,16 @@
       <img loading="lazy" src="images/userscript/atcoder_nickname.png" alt="atcoder nickname">
     </div>
 
-    2026-10-12
-
-    - 「[ネタスクリプト](user_scripts/jokes)」ページ
-        - [AtCoder IPPON Judge Frames](https://greasyfork.org/ja/scripts/599494-atcoder-ippon-judge-frames)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_ippon_judge_frames.png" alt="atcoder ippon judge frames">
-    </div>
-
 === "記事"
+
+    2026-10-28
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [AHC はじめての実装教材](https://shun-pi-cp.github.io/ahc-hands-on-tutorials/)
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AHC Rating System (ver.3)](https://info.atcoder.jp/entry/ahc_rating_v3_ja)
+        - [AtCoder Junior League 2026 Summer - 学校ランキング 2026年10月26日時点(アルゴリズム部門最終結果)](https://x.com/atcoder/status/2114582201060958249)
 
     2026-10-27
 
@@ -159,11 +159,6 @@
 
     - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
         - [AtCoder生成AI対策ルール - 20261014版](https://info.atcoder.jp/entry/llm-rules-ja)
-
-    2026-10-13
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2026 Winter - 学校ランキング (2026年10月13日時点)](https://x.com/atcoder/status/2109838750448746808)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
@@ -221,20 +216,13 @@
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [haruharufff](https://atcoder.jp/users/haruharufff)さん - [AtCoder 青色になりました - haruharu_fffのブログ](https://haruharu-fff.hatenablog.jp/entry/2026/10/24/120000)
 
-    2026-10-14
-
-    - 「[レーティング800〜1199(緑色)](milestones/green)」ページ
-        - [Hysella](https://atcoder.jp/users/Hysella)さん - [可読性に乏しい入緑記事](https://qiita.com/Hysella/items/30e991df269677f2982c)
-        - [satomshr](https://atcoder.jp/users/satomshr?contestType=heuristic)さん - [【色変記事】AtCoder (Heuristic) で緑になりました](https://qiita.com/satomshr/items/18046a6431bc49c8f224)
-
 === "アーカイブス"
 
     諸事情により事実上開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
 
-    2026-10-12
+    2026-10-28
 
-    - kenkoooo/cargo-concat
-    - shino16/cargo-auto-bundle
+    - AI-virtual-assistant-python
 
 ## AtCoder公式グッズを購入する
 

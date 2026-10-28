@@ -4,6 +4,15 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-10-28
+
+- [#12934](https://github.com/KATO-Hiro/AtCoderClans/pull/12934)、[#12935](https://github.com/KATO-Hiro/AtCoderClans/pull/12935) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下の記事とポストを追加。
+    - [AHC Rating System (ver.3)](https://info.atcoder.jp/entry/ahc_rating_v3_ja)
+    - [AtCoder Junior League 2026 Summer - 学校ランキング 2026年10月26日時点(アルゴリズム部門最終結果)](https://x.com/atcoder/status/2114582201060958249)
+- [#12933](https://github.com/KATO-Hiro/AtCoderClans/pull/12933) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の教材を追加。
+    - [AHC はじめての実装教材](https://shun-pi-cp.github.io/ahc-hands-on-tutorials/)
+- [#12931](https://github.com/KATO-Hiro/AtCoderClans/pull/12931) - (破壊的な変更) リンク切れの記事を「[Archives](../../archived)」ページに移動。
+
 ### 2026-10-27
 
 - [#12925](https://github.com/KATO-Hiro/AtCoderClans/pull/12925) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
