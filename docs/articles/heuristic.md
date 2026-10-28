@@ -72,7 +72,7 @@ title: ヒューリスティック問題を解く
 
 ### 取り組み方(実装)
 
-- [AHC はじめての実装教材](https://shun-pi-cp.github.io/ahc-hands-on-tutorials/) - [AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=AtCoder+Heuristic+Contest)における基本的な考え方と、焼きなまし法・ビーム探索・観測と推定を図解と演習で学ぶことができる。
+- [AHC はじめての実装教材](https://shun-pi-cp.github.io/ahc-hands-on-tutorials/) - [AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=AtCoder+Heuristic+Contest)における基本的な考え方、焼きなまし法・ビーム探索・観測と推定を図解と演習で学ぶことができる。
 - [AHC 典型: 解をたくさん作る](https://iwashi31.hatenablog.com/entry/2023/11/05/234449) - ヒューリスティックコンテストで、貪欲法の次に試すアプローチ方法が紹介されている。
 - [AHC典型解法シリーズ第1弾「モンテカルロ法」](https://qiita.com/thun-c/items/8e7ae0249f1907854763) - [AtCoder Heuristic Contest](https://atcoder.jp/contests/archive?ratedType=4&category=0&keyword=AtCoder+Heuristic+Contest)の解法の分類により、典型的な手法の抽出とその重要性が指摘されている。また、モンテカルロ法と過去問への適用例が紹介されている。
     - [AHC典型解法シリーズ第2弾「焼きなまし法」](https://qiita.com/thun-c/items/ecd438fde4d237b1f7bc) - 典型的な解法をまとめたシリーズの第2弾。コンテストの過去問を例題に、焼きなまし法の適用するときの工夫が解説されている。
