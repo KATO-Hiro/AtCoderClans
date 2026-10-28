@@ -68,12 +68,6 @@ title: ソースコードにバグがないか確認
 
 ## 複数の言語
 
-- [AI-virtual-assistant-python](https://github.com/Saurav-Paul/AI-virtual-assistant-python) ![GitHub Repo stars](https://img.shields.io/github/stars/Saurav-Paul/AI-virtual-assistant-python?style=plastic) - サンプルのテスト、ログイン・コードの提出だけでなく、テンプレートやテストケースの生成などの多くの機能を備えているツール。C++とPythonに対応している。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/cli/ai_virtual_assistant_python.png" alt="ai virtual assistant python">
-    </div>
-
 - [ppdx999/atcoder-cli](https://github.com/ppdx999/atcoder-cli) ![GitHub stars](https://img.shields.io/github/stars/ppdx999/atcoder-cli?style=plastic) - サンプルのダウンロードとテスト、提出（一部手動を含む）ができる。C、C++、Python、Java、Haskell、Go、Rust、Zigに対応。
 
     !!! warning "注意"
