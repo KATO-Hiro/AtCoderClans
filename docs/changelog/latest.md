@@ -6,7 +6,7 @@ title: Change Log
 
 ### 2026-10-30
 
-- [#12943](https://github.com/KATO-Hiro/AtCoderClans/pull/12943) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の教材を追加。
+- [#12943](https://github.com/KATO-Hiro/AtCoderClans/pull/12943) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
     - [【Rails】焼きなまし法で会議室予約アプリに空き時間最適化機能を実装してみた](https://zenn.dev/port_inc/articles/eaf460ff291c97)
 
 ### 2026-10-29
