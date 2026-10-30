@@ -131,6 +131,11 @@
 
 === "記事"
 
+    2026-10-30
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [【Rails】焼きなまし法で会議室予約アプリに空き時間最適化機能を実装してみた](https://zenn.dev/port_inc/articles/eaf460ff291c97)
+
     2026-10-28
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
