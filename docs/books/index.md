@@ -21,7 +21,7 @@ title: 書籍
 - [アルゴリズム的思考力が身につく! プログラミングコンテストAtCoder入門](https://www.amazon.co.jp/dp/404604408X/) - [drken](https://atcoder.jp/users/drken)さんによる書籍の第3弾(通称、AtCodeer本)。記事「[AtCoderに登録したら次にやること ～ これだけ解けば十分闘える！過去問精選10問 ～](https://qiita.com/drken/items/fd4e5e3630d0f5859067)」を単行本化したAtCoderの入門書。C++とPythonの文法、AtCoder Beginner Contest (通称、ABC)のC問題を解くための典型的な知識などが習得できる。
     - [著者の紹介記事](https://drken1215.hatenablog.com/entry/atcodeer) - 書籍のコンセプト・内容・想定読者が紹介されている。
 - [最強最速アルゴリズマー養成講座 プログラミングコンテストTopCoder攻略ガイド](https://www.amazon.co.jp/dp/B00E4FW2TE/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - 通称、チーター本。著者が[AtCoder](https://atcoder.jp/)社長[chokudai](https://twitter.com/chokudai)さんの書籍。
-- [プログラミングコンテスト攻略のためのアルゴリズムとデータ構造](https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E6%94%BB%E7%95%A5%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%A8%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0-%E6%B8%A1%E9%83%A8-%E6%9C%89%E9%9A%86-ebook/dp/B00U5MVXZO/ref=sr_1_3?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0&qid=1589179447&s=digital-text&sr=1-3) - 通称、螺旋本。後述する蟻本と比べると初心者向け。基本的なアルゴリズムが詳しく解説されている。
+- [新版 プログラミングコンテスト攻略のためのアルゴリズムとデータ構造](https://www.amazon.co.jp/dp/B0H3YS9R77/) - 通称、螺旋本。後述する蟻本と比べると初心者向け。基本的なアルゴリズムが詳しく解説されている。
 - [問題解決力を鍛える!アルゴリズムとデータ構造](https://www.amazon.co.jp/dp/4065128447/) - [drken](https://atcoder.jp/users/drken)さんによる書籍(通称、けんちょん本)。後述する蟻本を読み進めるための基礎が学べる。
     - [内容や難易度の詳細](https://drken1215.hatenablog.com/entry/2020/08/10/041137)
     - [書籍に掲載されているソースコードや章末問題の略解](https://github.com/drken1215/book_algorithm_solution)
