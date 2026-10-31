@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-10-31
+
+- [#12947](https://github.com/KATO-Hiro/AtCoderClans/pull/12947) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに掲載している書籍を新版に更新。
+    - [新版 プログラミングコンテスト攻略のためのアルゴリズムとデータ構造](https://www.amazon.co.jp/dp/B0H3YS9R77/)
+
 ### 2026-10-30
 
 - [#12943](https://github.com/KATO-Hiro/AtCoderClans/pull/12943) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。

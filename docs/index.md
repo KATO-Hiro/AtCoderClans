@@ -124,6 +124,7 @@
     2026-10-24
 
     - 「[ライバルを探す・競う](user_scripts/rivals)」ページ
+        - [AtCoder Nickname](https://greasyfork.org/ja/scripts/599815-atcoder-nickname)
 
     <div align="center">
       <img loading="lazy" src="images/userscript/atcoder_nickname.png" alt="atcoder nickname">
@@ -160,11 +161,6 @@
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Winter - 学校ランキング (2026年10月19日時点)](https://x.com/atcoder/status/2112023120819409334)
 
-    2026-10-16
-
-    - 「[コンテストに向けた練習方法を知る](articles/how_to_practice)」ページ
-        - [AtCoder生成AI対策ルール - 20261014版](https://info.atcoder.jp/entry/llm-rules-ja)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -172,6 +168,13 @@
 
     - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
         - [mackerel38](https://atcoder.jp/users/mackerel38)さん - [Qiita](https://qiita.com/poe4294967296)
+
+=== "書籍"
+
+    2026-10-31
+
+    - 「[書籍](books)」ページ
+        - [新版 プログラミングコンテスト攻略のためのアルゴリズムとデータ構造](https://www.amazon.co.jp/dp/B0H3YS9R77/)
 
 === "動画"
 
@@ -197,20 +200,6 @@
 
     - 「[複数の言語](libraries/libraries)」ページ
         - [GitHubに競プロライブラリを保管したい！を叶える備忘録](https://qiita.com/Un_titled/items/a8620f54cf953ad67365)
-
-    2026-10-17
-
-    - 「[C++](libraries/cpp)」ページ
-        - [blueberry1001/Blueberry-library](https://github.com/blueberry1001/Blueberry-library) ![GitHub stars](https://img.shields.io/github/stars/blueberry1001/Blueberry-library?style=plastic)
-        - [qandori/cp-library](https://github.com/qandori/cp-library) ![GitHub Repo stars](https://img.shields.io/github/stars/qandori/cp-library?style=plastic)
-
-    2026-10-15
-
-    - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
-        - [aruaru0/ac-library-go](https://github.com/aruaru0/ac-library-go) ![GitHub stars](https://img.shields.io/github/stars/aruaru0/ac-library-go?style=plastic)
-
-    - 「[Java](libraries/java)」ページ
-        - [nsubaru11/competitive-programming-java-library](https://github.com/nsubaru11/competitive-programming-java-library) ![GitHub Repo stars](https://img.shields.io/github/stars/nsubaru11/competitive-programming-java-library?style=plastic)
 
 === "色変記事"
 
