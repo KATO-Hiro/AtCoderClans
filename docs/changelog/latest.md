@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-11-01
+
+- [#12953](https://github.com/KATO-Hiro/AtCoderClans/pull/12953) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Color Standings - Inline](https://greasyfork.org/ja/scripts/596489-atcoder-color-standings-inline)
+- [#12952](https://github.com/KATO-Hiro/AtCoderClans/pull/12952) - (破壊的な変更) リンク切れのコマンドラインツールを「[Archives](../../archived)」ページに移動。
+
 ### 2026-10-31
 
 - [#12947](https://github.com/KATO-Hiro/AtCoderClans/pull/12947) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに掲載している書籍を新版に更新。

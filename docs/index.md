@@ -108,18 +108,16 @@
 
     - [今後の長期 AtCoder Heuristic Contest（AHC）の開催形式について](https://atcoder.jp/posts/long-ahc-divisions-2026)
 
-=== "Webアプリ・Webサイト"
+=== "ユーザスクリプト"
 
-    2026-10-18
+    2026-11-01
 
-    - 「[問題を解く](web_app/solve_problems)」ページ
-        - [AtCoder問題リンク変換](https://blueberry1001.github.io/#/atcoder-problem-link)
+    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
+        - [AtCoder Color Standings - Inline](https://greasyfork.org/ja/scripts/596489-atcoder-color-standings-inline)
 
     <div align="center">
-      <img loading="lazy" src="images/web_app/atcoder_problem_link.png" alt="atcoder problem link">
+      <img loading="lazy" src="images/userscript/atcoder_color_standings_inline.png" alt="atcoder color standings inline">
     </div>
-
-=== "ユーザスクリプト"
 
     2026-10-24
 
@@ -183,11 +181,6 @@
     - 「[YouTube - 個別の動画](youtube/video)」ページ
         - [No.001 オンサイトコンテストのススメ](https://www.youtube.com/watch?v=fwAMove2tvo)
 
-    2026-10-18
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [面積のいろいろな求め方](https://www.youtube.com/watch?v=lek4PHidodw)
-
 === "ライブラリ・スニペット"
 
     2026-10-23
@@ -213,6 +206,10 @@
 === "アーカイブス"
 
     諸事情により事実上開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
+
+    2026-11-01
+
+    - AtCoder_GitCommit
 
     2026-10-28
 
