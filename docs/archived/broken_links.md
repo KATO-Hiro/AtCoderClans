@@ -391,6 +391,17 @@ title: リンク切れ
 - [universato/compro](https://github.com/universato/compro) ![GitHub stars](https://img.shields.io/github/stars/universato/compro?style=plastic) - [universato](https://atcoder.jp/users/universato)さんのRubyライブラリ。
     - 確認した日: 2022/11/17
 
+## コマンドラインツール
+
+### ソースコードのバックアップ
+
+- [AtCoder_GitCommit](https://github.com/xryuseix/AtCoder_GitCommit) ![GitHub Repo stars](https://img.shields.io/github/stars/xryuseix/AtCoder_GitCommit?style=plastic) - 提出したコードをGitHubに自動でバックアップする。
+    - 確認した日: 2026/11/01
+
+    !!! warning "注意"
+
+        定期的な実行には、Herokuなどのサーバを用意する必要がある。
+
 ## 色変記事
 
 ### レーティング400〜799(茶色)
