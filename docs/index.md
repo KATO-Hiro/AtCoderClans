@@ -130,6 +130,11 @@
 
 === "記事"
 
+    2026-11-03
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2026 Winter - 学校ランキング (2026年11月2日時点)](https://x.com/atcoder/status/2117068078580371954)
+
     2026-10-30
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -154,11 +159,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [AtCoder Heuristic Contest 073の復習](https://kaede2020.hatenablog.com/entry/2026/10/25/214638)
 
-    2026-10-19
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2026 Winter - 学校ランキング (2026年10月19日時点)](https://x.com/atcoder/status/2112023120819409334)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -173,13 +173,6 @@
 
     - 「[書籍](books)」ページ
         - [新版 プログラミングコンテスト攻略のためのアルゴリズムとデータ構造](https://www.amazon.co.jp/dp/B0H3YS9R77/)
-
-=== "動画"
-
-    2026-10-20
-
-    - 「[YouTube - 個別の動画](youtube/video)」ページ
-        - [No.001 オンサイトコンテストのススメ](https://www.youtube.com/watch?v=fwAMove2tvo)
 
 === "ライブラリ・スニペット"
 
