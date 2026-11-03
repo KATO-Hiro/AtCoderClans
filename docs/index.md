@@ -110,6 +110,15 @@
 
 === "ユーザスクリプト"
 
+    2026-11-03
+
+    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
+        - [AHC v3 Division Performance Predictor](https://greasyfork.org/ja/scripts/603439-ahc-v3-division-performance-predictor)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/ahc_v3_division_performance_predictor.png" alt="ahc v3 division performance predictor">
+    </div>
+
     2026-11-01
 
     - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
@@ -181,11 +190,6 @@
     - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
         - [toyboot4e/bundler-hs](https://github.com/toyboot4e/bundler-hs) ![GitHub stars](https://img.shields.io/github/stars/toyboot4e/bundler-hs?style=plastic)
             - [bundler-hs で自作ライブラリを qualified import する！](https://zenn.dev/toyboot4e/articles/bundler-hs-released)
-
-    2026-10-21
-
-    - 「[複数の言語](libraries/libraries)」ページ
-        - [GitHubに競プロライブラリを保管したい！を叶える備忘録](https://qiita.com/Un_titled/items/a8620f54cf953ad67365)
 
 === "色変記事"
 
