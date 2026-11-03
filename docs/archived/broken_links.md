@@ -223,6 +223,8 @@ title: リンク切れ
 
 ### コードを書くための環境構築を行う
 
+- [AtcoderをGoで解答する環境をDevcontainerで作った話](https://horikawa.dev/p/atcoder-go-devcontainer/) - Goの実行環境の構築方法が紹介されている記事。各種コマンドの実行やテストツールの自動化もできる。
+    - 確認した日: 2026/11/04
 - [AtCoder用C++開発環境 (Mac編)](https://blog.spiralray.net/cp/devenv-cpp) - 動作環境は、macOS Catalina。C++17(デバッグ:Clang、テスト実行・提出: G++)のコンパイル・実行環境を[Visual Studio Code](https://code.visualstudio.com/)と、拡張機能を使って構築する方法が紹介されている。サンプルケースの実行や提出もできる。
     - 確認した日: 2024/02/22
 - [競プロ環境構築 Ubuntu on Win10 #1 共通編](https://oucrc.net/articles/e6vkrz4uqtt/) - Windows Subsystem for Linux (WSL2)を利用した実行環境の構築方法が紹介されている。テキストエディタや便利なツールの導入・使用方法も解説されている。[#2 C/C++編](https://oucrc.net/articles/o2ql0oomqfd/)で紹介されているC++のコンパイラと[AtCoder Library](https://github.com/atcoder/ac-library)の導入方法も併せて参照されたい。
@@ -540,6 +542,9 @@ title: リンク切れ
     - 確認した日: 2022/02/03
 
 ### レーティング1600〜1999(青色)
+
+- [Atcoderで青色になりました - ぬるからの雑記帳](https://nullkara.jp/2021/02/28/atcoder_toblue/) - [nullkara_](https://atcoder.jp/users/nullkara_)さんが、2021年2月27日に達成。
+    - 確認した日: 2026/11/04
 
 - [AtCoder青になるまでやったこと・やらなかったこと](https://qiita.com/bo9chan/items/f04a92b48a7d7e5c327a) - [bo9chan](https://atcoder.jp/users/bo9chan)さんが、2023年5月22日に公開。
     - 確認した日: 2026/05/04

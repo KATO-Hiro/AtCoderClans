@@ -40,10 +40,6 @@ title: コードを書くための環境構築を行う
 - [【GitHubスター100個突破】Pythonのprint()のC++版を本気で作ってみた](https://zenn.dev/sassan/articles/4878e79272ed61) - `vector`や`map`、`set`、`tuple`など、あらゆる変数をプリントできるC++用デバッグライブラリ`cpp-dump`の競プロ環境への導入方法を紹介した記事。
     - [philip82148/cpp-dump](https://github.com/philip82148/cpp-dump) ![GitHub Repo stars](https://img.shields.io/github/stars/philip82148/cpp-dump?style=plastic) - Pythonの`print()`やJavaScriptの`console.log()`のように、あらゆる型の変数をプリントできるデバッグライブラリ。自動インデント機能、色付き出力、豊富なマニピュレータなど、デバッグのための多様な機能が揃っている。
 
-### Go
-
-- [AtcoderをGoで解答する環境をDevcontainerで作った話](https://horikawa.dev/p/atcoder-go-devcontainer/) - Goの実行環境の構築方法が紹介されている記事。各種コマンドの実行やテストツールの自動化もできる。
-
 ### PHP
 
 - [Dockerを使ってAtCoder用のPHPのPHP Unitでテストの自動化とxdebugでデバッグをする環境を構築する](https://qiita.com/yami-yami/items/dde58544c954e00b5c3c) - PHPの実行環境の構築方法が紹介されている記事。テストの自動化、デバッグができる。
