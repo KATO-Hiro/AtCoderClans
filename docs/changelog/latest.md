@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-11-04
+
+- [#12969](https://github.com/KATO-Hiro/AtCoderClans/pull/12969) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。
+    - [AHC v3 Division Performance Predictor](https://greasyfork.org/ja/scripts/603439-ahc-v3-division-performance-predictor)
+- [#12968](https://github.com/KATO-Hiro/AtCoderClans/pull/12968) - (破壊的な変更) リンク切れの記事を「[Archives](../../archived)」ページに移動。
+
 ### 2026-11-03
 
 - [#12962](https://github.com/KATO-Hiro/AtCoderClans/pull/12962) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
