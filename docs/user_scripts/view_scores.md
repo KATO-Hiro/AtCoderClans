@@ -42,6 +42,12 @@ title: コンテストの成績や関連する統計情報を見る
       <img loading="lazy" src="../../images/userscript/ac_predictor_delta.png" alt="ac predictor delta">
     </div>
 
+    - [AHC v3 Division Performance Predictor](https://greasyfork.org/ja/scripts/603439-ahc-v3-division-performance-predictor) - 「順位表」ページで、長期 AtCoder Heuristic Contest（AHC）の推定パフォーマンス値とレーティングの増減を表示する。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/ahc_v3_division_performance_predictor.png" alt="ahc v3 division performance predictor">
+    </div>
+
 - [AtCoder Center Your Standing](https://greasyfork.org/ja/scripts/496241-atcoder-center-your-standing) - 「順位表」ページで、ログインユーザを中心とした結果が最初に表示されるようにする。
 
     <div align="center">
