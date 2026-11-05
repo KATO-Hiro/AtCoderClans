@@ -31,6 +31,7 @@ title: C&#43;&#43;
 - [potato167/po167_library](https://github.com/potato167/po167_library) ![GitHub stars](https://img.shields.io/github/stars/potato167/po167_library?style=plastic) - [potato167](https://atcoder.jp/users/potato167)さんのライブラリ。
 - [qandori/cp-library](https://github.com/qandori/cp-library) ![GitHub Repo stars](https://img.shields.io/github/stars/qandori/cp-library?style=plastic) - [qandori](https://github.com/qandori)さんのライブラリ。
 - [rainbou-kpr/library](https://github.com/rainbou-kpr/library) ![GitHub stars](https://img.shields.io/github/stars/rainbou-kpr/library?style=plastic) - [阪大競技プログラミング部「RAINBOU」](https://rainbou.org/)のライブラリ。
+- [Rieul0406/Un_titled_Library](https://github.com/Rieul0406/Un_titled_Library) ![GitHub Repo stars](https://img.shields.io/github/stars/Rieul0406/Un_titled_Library?style=plastic) - [Un_titled](https://atcoder.jp/users/Un_titled)さんのライブラリ。
 - [seekworser/competitive_library](https://github.com/seekworser/competitive_library) ![GitHub Repo stars](https://img.shields.io/github/stars/seekworser/competitive_library?style=plastic) - [seekworser](https://atcoder.jp/users/seekworser)さんのライブラリ。
 - [sgtlaugh/algovault](https://github.com/sgtlaugh/algovault) ![GitHub Repo stars](https://img.shields.io/github/stars/sgtlaugh/algovault?style=plastic) - sgtlaughさんのライブラリ。一部のアルゴリズムはPythonで実装されている。
 - [sigma425/library](https://github.com/sigma425/library) ![GitHub stars](https://img.shields.io/github/stars/sigma425/library?style=plastic) - [sigma425](https://atcoder.jp/users/sigma425)さんのライブラリ。
