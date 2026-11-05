@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-11-05
+
+- [#12972](https://github.com/KATO-Hiro/AtCoderClans/pull/12972) - 「「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
+    - [Rieul0406/Un_titled_Library](https://github.com/Rieul0406/Un_titled_Library) ![GitHub Repo stars](https://img.shields.io/github/stars/Rieul0406/Un_titled_Library?style=plastic)
+
 ### 2026-11-04
 
 - [#12969](https://github.com/KATO-Hiro/AtCoderClans/pull/12969) - 「[Scripts](../../scripts)」の「[コンテストの成績や関連する統計情報を見る](../../user_scripts/view_scores)」ページに、以下のユーザスクリプトを追加。

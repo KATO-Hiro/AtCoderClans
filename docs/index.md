@@ -185,6 +185,11 @@
 
 === "ライブラリ・スニペット"
 
+    2026-11-05
+
+    - 「[C++](libraries/cpp)」ページ
+        - [Rieul0406/Un_titled_Library](https://github.com/Rieul0406/Un_titled_Library) ![GitHub Repo stars](https://img.shields.io/github/stars/Rieul0406/Un_titled_Library?style=plastic)
+
     2026-10-23
 
     - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
