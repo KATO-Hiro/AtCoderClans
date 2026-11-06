@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-11-06
+
+- [#12976](https://github.com/KATO-Hiro/AtCoderClans/pull/12976) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の記事を追加。
+    - [Pythonで競プロ(AtCoder)を始める人がC精進までにやるべきこと一覧](https://qiita.com/Prrapp/items/ed07ace56f06bfdb676b)
+
 ### 2026-11-05
 
 - [#12972](https://github.com/KATO-Hiro/AtCoderClans/pull/12972) - 「「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページに、C++で実装されたライブラリを追加。
