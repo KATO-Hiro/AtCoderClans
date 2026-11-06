@@ -139,6 +139,11 @@
 
 === "記事"
 
+    2026-11-06
+
+    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
+        - [Pythonで競プロ(AtCoder)を始める人がC精進までにやるべきこと一覧](https://qiita.com/Prrapp/items/ed07ace56f06bfdb676b)
+
     2026-11-03
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
