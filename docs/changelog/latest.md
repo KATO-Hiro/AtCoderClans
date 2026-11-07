@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-11-07
+
+- [#12979](https://github.com/KATO-Hiro/AtCoderClans/pull/12979) - [Home](../..)ページに、本サービスのスポンサー(敬称略、順不同)を掲載。ご支援いただき、ありがとうございます。
+    - [kuuso](https://github.com/kuuso)
+    - [NAVYSHUNTA](https://github.com/NAVYSHUNTA)
+    - [tokugh](https://github.com/tokugh)
+    - [ONPU3](https://github.com/ONPU3)
+
 ### 2026-11-06
 
 - [#12976](https://github.com/KATO-Hiro/AtCoderClans/pull/12976) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の記事を追加。
