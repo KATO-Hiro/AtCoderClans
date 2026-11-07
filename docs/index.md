@@ -263,4 +263,11 @@
 ### 🍨 Ice Cream Supporter
 
 - ia7ck
+- kuuso
+- NAVYSHUNTA
 - tomii9273
+
+### 🙂 Special Supporter
+
+- tokugh
+- ONPU3
