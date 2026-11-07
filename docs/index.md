@@ -102,11 +102,16 @@
 
 直近1〜2週間の更新状況を掲載しています(ベータ版)。
 
-=== "ホーム"
+=== "スポンサー"
 
-    2026-10-22
+    2026-11-07
 
-    - [今後の長期 AtCoder Heuristic Contest（AHC）の開催形式について](https://atcoder.jp/posts/long-ahc-divisions-2026)
+    本サービスのスポンサーを掲載(敬称略、順不同)。ご支援いただき、ありがとうございます。
+
+    - [kuuso](https://github.com/kuuso)
+    - [NAVYSHUNTA](https://github.com/NAVYSHUNTA)
+    - [tokugh](https://github.com/tokugh)
+    - [ONPU3](https://github.com/ONPU3)
 
 === "ユーザスクリプト"
 
@@ -126,15 +131,6 @@
 
     <div align="center">
       <img loading="lazy" src="images/userscript/atcoder_color_standings_inline.png" alt="atcoder color standings inline">
-    </div>
-
-    2026-10-24
-
-    - 「[ライバルを探す・競う](user_scripts/rivals)」ページ
-        - [AtCoder Nickname](https://greasyfork.org/ja/scripts/599815-atcoder-nickname)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_nickname.png" alt="atcoder nickname">
     </div>
 
 === "記事"
@@ -194,12 +190,6 @@
 
     - 「[C++](libraries/cpp)」ページ
         - [Rieul0406/Un_titled_Library](https://github.com/Rieul0406/Un_titled_Library) ![GitHub Repo stars](https://img.shields.io/github/stars/Rieul0406/Un_titled_Library?style=plastic)
-
-    2026-10-23
-
-    - 「[AtCoder Library (ACL)の各言語への移植](libraries/porting_of_acl)」ページ
-        - [toyboot4e/bundler-hs](https://github.com/toyboot4e/bundler-hs) ![GitHub stars](https://img.shields.io/github/stars/toyboot4e/bundler-hs?style=plastic)
-            - [bundler-hs で自作ライブラリを qualified import する！](https://zenn.dev/toyboot4e/articles/bundler-hs-released)
 
 === "色変記事"
 
