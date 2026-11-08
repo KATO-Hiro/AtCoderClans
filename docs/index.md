@@ -135,6 +135,11 @@
 
 === "記事"
 
+    2026-11-08
+
+    - 「[実装テクニックを学ぶ - 複数の言語](articles/implementation/multiple_languages)」ページ
+        - [浮動小数点型の典型撃墜ケース](https://rsk0315.hatenablog.com/entry/2026/11/07/185402)
+
     2026-11-06
 
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
@@ -199,11 +204,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [river0525](https://atcoder.jp/users/river0525)さん - [10か月間レートが停滞した自分が突如黄パフォを出し青コーダーになれた理由](https://qiita.com/river0525/items/b1a996308f0566a01384)
-
-    2026-10-25
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [haruharufff](https://atcoder.jp/users/haruharufff)さん - [AtCoder 青色になりました - haruharu_fffのブログ](https://haruharu-fff.hatenablog.jp/entry/2026/10/24/120000)
 
 === "アーカイブス"
 

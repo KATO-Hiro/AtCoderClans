@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-11-08
+
+- [#12984](https://github.com/KATO-Hiro/AtCoderClans/pull/12984) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - 複数の言語](../../articles/implementation/multiple_languages)」ページに、以下の記事を追加。
+    - [浮動小数点型の典型撃墜ケース](https://rsk0315.hatenablog.com/entry/2026/11/07/185402)
+
 ### 2026-11-07
 
 - [#12979](https://github.com/KATO-Hiro/AtCoderClans/pull/12979) - [Home](../..)ページに、本サービスのスポンサー(敬称略、順不同)を掲載。ご支援いただき、ありがとうございます。
