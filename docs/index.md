@@ -135,6 +135,11 @@
 
 === "記事"
 
+    2026-11-11
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2026 Winter - 学校ランキング (2026年11月10日時点)](https://x.com/atcoder/status/2120021609721528666)
+
     2026-11-10
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
@@ -160,33 +165,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [【Rails】焼きなまし法で会議室予約アプリに空き時間最適化機能を実装してみた](https://zenn.dev/port_inc/articles/eaf460ff291c97)
 
-    2026-10-28
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AHC はじめての実装教材](https://shun-pi-cp.github.io/ahc-hands-on-tutorials/)
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AHC Rating System (ver.3)](https://info.atcoder.jp/entry/ahc_rating_v3_ja)
-        - [AtCoder Junior League 2026 Summer - 学校ランキング 2026年10月26日時点(アルゴリズム部門最終結果)](https://x.com/atcoder/status/2114582201060958249)
-
-    2026-10-27
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [第13回 Asprova プログラミングコンテスト（AtCoder Heuristic Contest 070）の復習](https://kaede2020.hatenablog.com/entry/2026/10/27/210217)
-
-    2026-10-26
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [AtCoder Heuristic Contest 073の復習](https://kaede2020.hatenablog.com/entry/2026/10/25/214638)
-
-=== "ブログ"
-    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
-
-    2026-10-26
-
-    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
-        - [mackerel38](https://atcoder.jp/users/mackerel38)さん - [Qiita](https://qiita.com/poe4294967296)
-
 === "書籍"
 
     2026-10-31
@@ -205,6 +183,11 @@
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
 
+    2026-11-11
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [yoniha](https://atcoder.jp/users/yoniha)さん - [ABC482で入青しました！](https://qiita.com/yoniha/items/c5e23c033bf3e09d0f20)
+
     2026-11-02
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
@@ -214,13 +197,15 @@
 
     諸事情により事実上開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
 
+    2026-11-11
+
+    - Rosetta Problems
+    - Procon Notification
+    - ICPC Replay
+
     2026-11-01
 
     - AtCoder_GitCommit
-
-    2026-10-28
-
-    - AI-virtual-assistant-python
 
 ## AtCoder公式グッズを購入する
 
