@@ -89,8 +89,6 @@ title: 問題を解く
       <img loading="lazy" src="../../images/web_app/next-ac.png" alt="next ac">
     </div>
 
-- [Rosetta Problems](https://rosetta-problems-dev.vercel.app/) - 国内外30以上のオンラインジャッジシステムから有名な問題を一括検索できる。
-
 ## 復習の効果をより高める
 
 - [AtCoder Companions](https://atcoder-companions.kakira.dev/) - 指定された提出(WA・RE・TLE・MLE)に基づいて、類似した誤答と最終的に正解した提出との差分を見やすく表示する。

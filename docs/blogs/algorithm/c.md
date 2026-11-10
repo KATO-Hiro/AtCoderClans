@@ -12,7 +12,7 @@ title: C
 
 |ユーザ名 (敬称略)|ブログ / Qiita|備考|
 |:--:|:--:|:--|
-|kyopro_friends|[はてなブログ](https://kyopro-friends.hatenablog.com/)、[twilog](https://twilog.togetter.com/kyopro_friends)|C++で実装されている回答もある。|
+|kyopro_friends|[はてなブログ](https://kyopro-friends.hatenablog.com/)|C++で実装されている回答もある。|
 |ygussany|[はてなブログ](https://ygussany.hatenablog.com/)||
 
 ## レーティング2000〜2399(黄色)

@@ -84,6 +84,9 @@ title: リンク切れ
 
 ### 復習の効果をより高める
 
+- [Rosetta Problems](https://rosetta-problems-dev.vercel.app/) - 国内外30以上のオンラインジャッジシステムから有名な問題を一括検索できる。
+    - 確認した日: 2026/11/11
+
 - [AtCoder-Ebbing](https://atcoder-ebbing.web.app/) - 任意のユーザのレーティング・回答状況に応じて、復習すると効果が高い問題が出題される。作者による[解説記事](https://qiita.com/numeric_tuba/items/9898e31e2566e7296c5d)もある。
     - 確認した日: 2025/02/02
 
@@ -104,6 +107,16 @@ title: リンク切れ
 
     <div align="center">
       <img loading = "lazy" src="../../images/web_app/atcoder_blogs.jpeg" alt="atcoder blogs">
+    </div>
+
+### コンテストに参加する
+
+- [Procon Notification](https://procon-notification.vercel.app/) - [15以上のコンテストサイト](https://procon-notification.vercel.app/about)を対象として、コンテストの開催状況を確認できる。
+    - [X アカウント](https://x.com/procon_notify) - コンテスト開始30分前に通知してくれる。
+    - 確認した日: 2026/11/11
+
+    <div align="center">
+      <img loading="lazy" src="../../images/web_app/procon_notification.png" alt="procon notification">
     </div>
 
 ### コンテストの成績を見る
@@ -273,6 +286,8 @@ title: リンク切れ
 
 ### 解説ブログ・サイトを見る
 
+- [競技プログラミングをするフレンズ - twilog](https://twilog.togetter.com/kyopro_friends) - [kyopro_friends](https://atcoder.jp/users/kyopro_friends)さんの解説ツイート、ユーザからの質問への回答一覧。主にAtCoder Beginner ContestのC問題以降を対象として、解法のポイントが継続的に更新されている。
+    - 確認した日: 2026/11/11
 - [うさぎ小屋](https://kimiyuki.net/) - [kimiyuki](https://atcoder.jp/users/kimiyuki)さんの解説ブログ。C++で実装されている。
     - 確認した日: 2022/02/17
 
@@ -640,6 +655,13 @@ title: リンク切れ
     </div>
 
 ### ICPC
+
+- [ICPC Replay](https://icpc-replay.vercel.app/) - [AtCoder Replay](https://atcoder-replay.kakira.dev/)のICPC版。2022年以降の国内予選・アジア地区予選を対象として、参加チームのコンテスト開始〜終了までの順位変化を表示する。
+    - 確認した日: 2026/11/11
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/related_contest_sites/icpc/icpc_replay.png" alt="icpc replay">
+    </div>
 
 - [ICPC Japan Problems](https://icpc-japan-problems.irrrrr.cc/) - [ICPC 日本地区](https://icpc.iisf.or.jp/)の本選および[ICPC OB/OG の会](https://jag-icpc.org/)の練習コンテストで出題された問題の一覧(難易度付き)を見ることができる。
     - 確認した日: 2026/03/07
