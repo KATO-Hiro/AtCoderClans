@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-11-10
+
+- [#12992](https://github.com/KATO-Hiro/AtCoderClans/pull/12992) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [HACK TO THE FUTURE 2027 （AtCoder Heuristic Contest 074）参加記](https://kaede2020.hatenablog.com/entry/2026/11/09/190019)
+
 ### 2026-11-08
 
 - [#12984](https://github.com/KATO-Hiro/AtCoderClans/pull/12984) - 「[Articles, Blogs, Books and Videos](../../media)」の「[実装テクニックを学ぶ - 複数の言語](../../articles/implementation/multiple_languages)」ページに、以下の記事を追加。

@@ -135,6 +135,11 @@
 
 === "記事"
 
+    2026-11-10
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [HACK TO THE FUTURE 2027 （AtCoder Heuristic Contest 074）参加記](https://kaede2020.hatenablog.com/entry/2026/11/09/190019)
+
     2026-11-08
 
     - 「[実装テクニックを学ぶ - 複数の言語](articles/implementation/multiple_languages)」ページ
