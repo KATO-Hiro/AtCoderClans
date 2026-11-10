@@ -4,6 +4,14 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-11-11
+
+- [#12999](https://github.com/KATO-Hiro/AtCoderClans/pull/12999) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[yoniha](https://atcoder.jp/users/yoniha)さんの[記事](https://qiita.com/yoniha/items/c5e23c033bf3e09d0f20)を追加。
+- [#12998](https://github.com/KATO-Hiro/AtCoderClans/pull/12998) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
+    - [AtCoder Junior League 2026 Winter - 学校ランキング (2026年11月10日時点)](https://x.com/atcoder/status/2120021609721528666)
+- [#12997](https://github.com/KATO-Hiro/AtCoderClans/pull/12997) - (破壊的な変更) リンク切れのサービスなどを「[Archives](../../archived)」ページに移動。
+
 ### 2026-11-10
 
 - [#12992](https://github.com/KATO-Hiro/AtCoderClans/pull/12992) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
