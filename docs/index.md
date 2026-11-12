@@ -165,6 +165,18 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [【Rails】焼きなまし法で会議室予約アプリに空き時間最適化機能を実装してみた](https://zenn.dev/port_inc/articles/eaf460ff291c97)
 
+=== "ブログ"
+    アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
+
+    2026-11-12
+
+    - 「[ヒューリスティック部門 - C++](blogs/heuristic/cpp)」ページ
+        - [noimi](https://atcoder.jp/users/noimi?contestType=heuristic)さん - [はてなブログ](https://noimi.hatenablog.com/)
+        - [katonyonko](https://atcoder.jp/users/katonyonko?contestType=heuristic)さん - [Qiita](https://qiita.com/katonyonko)
+
+    - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
+        - [otarou](https://atcoder.jp/users/otarou?contestType=heuristic)さん - [Qiita](https://qiita.com/otarou)
+
 === "書籍"
 
     2026-10-31
