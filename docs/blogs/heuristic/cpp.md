@@ -18,6 +18,7 @@ title: C&#43;&#43;
 |MathGorilla|[はてなブログ](https://math-gorilla.hatenablog.com)||
 |mtsd|[はてなブログ](https://mtsd-programming.hatenablog.com/)||
 |nagiss|[はてなブログ](https://nagiss.hateblo.jp/)||
+|noimi|[はてなブログ](https://noimi.hatenablog.com/)||
 |phocom|[Qiita](https://qiita.com/phocom)||
 |saharan|[自作ブログ](https://blog.oimo.io/)||
 |Shun_PI|[Qiita](https://qiita.com/Shun_PI)||
@@ -48,7 +49,6 @@ title: C&#43;&#43;
 |kozima|[はてなブログ](https://lkozima.hatenablog.com/)||
 |milkcoffee|[はてなブログ](https://milkcoffee.hatenablog.jp/)||
 |niuez|[GitHub Pages](https://niuez.github.io/)||
-|noimi|[はてなブログ](https://noimi.hatenablog.com/)||
 |olphe|[はてなブログ](https://olphe.hatenablog.com/)||
 |peroon|[はてなブログ](https://perogram.hateblo.jp/)||
 |physics0523|[はてなブログ](https://physics0523.hatenablog.com/)||
@@ -84,6 +84,7 @@ title: C&#43;&#43;
 |hotpepsi|[Qiita](https://qiita.com/hotpepsi)||
 |itigo|[はてなブログ](https://ichigokunn.hatenablog.com/)||
 |kaede2020|[はてなブログ](https://kaede2020.hatenablog.com/)||
+|katonyonko|[Qiita](https://qiita.com/katonyonko)||
 |kotatsugame|[はてなブログ](https://kotatsugame.hatenablog.com/)||
 |kusano|[はてなブログ](https://kusano-k.hatenablog.com/)、[Qiita](https://qiita.com/kusano_k)||
 |merom686|[はてなブログ](https://merom686.hatenablog.com/)||

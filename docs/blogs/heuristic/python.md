@@ -24,4 +24,5 @@ title: Python
 |ansain|[はてなブログ](https://ansain.hatenablog.com/)||
 |isee|[Qiita](https://qiita.com/isee)|C++で実装されている回答もある。|
 |nishigake|[はてなブログ](https://blog.nishigake.net/posts)|C++で実装されている回答もある。|
+|otarou|[Qiita](https://qiita.com/otarou)||
 |titia|[Blogger](https://titianote.blogspot.com/)||

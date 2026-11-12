@@ -6,7 +6,8 @@ Usage: python3 crossers.py <contest_id>   (e.g. abc464, ahc040)
 Fetches the full results JSON (no WebFetch truncation, no curl — curl is denied by
 project settings; python3 is allowed) and applies, per row:
   Country == "JP", IsRated == true, integer ratings, and old < threshold <= new,
-keeping only the highest threshold crossed.
+keeping only the highest threshold crossed. For divided AHCs, each line also shows the
+division (both divisions are candidates).
 """
 import json
 import sys
@@ -32,15 +33,24 @@ def main() -> int:
     print(f"crossers: {len(crossers)}")
 
     # Highest threshold first, then alphabetical by username (case-insensitive).
-    for username, old_rating, new_rating, threshold in sorted(
+    for username, old_rating, new_rating, threshold, division in sorted(
             crossers, key=lambda row: (-row[3], row[0].lower())):
-        print(f"{username}\t{old_rating}->{new_rating}\tthreshold={threshold}")
+        line = f"{username}\t{old_rating}->{new_rating}\tthreshold={threshold}"
+
+        if division is not None:
+            line += f"\tdivision={division}"
+
+        print(line)
 
     return 0
 
 
 # Checked from highest to lowest; the first one a user crosses is the one reported.
 THRESHOLDS = [3200, 2800, 2400, 2000]
+
+# Long AHCs from ahc074 on run two divisions sharing one Heuristic rating; results/json returns
+# both, tagged by "Division". Undivided contests and unselected participants have Division 0.
+DIVISIONS = {1: "Human Only", 2: "With AI"}
 
 
 def crossed_threshold(old_rating, new_rating):
@@ -53,7 +63,10 @@ def crossed_threshold(old_rating, new_rating):
 
 
 def find_crossers(results):
-    """Yield (username, old_rating, new_rating, threshold) for JP threshold-crossers."""
+    """Yield (username, old_rating, new_rating, threshold, division) for JP threshold-crossers.
+
+    division is "Human Only" / "With AI" for divided AHCs, otherwise None.
+    """
     for entry in results:
         if entry.get("Country") != "JP" or not entry.get("IsRated"):
             continue
@@ -67,7 +80,8 @@ def find_crossers(results):
         threshold = crossed_threshold(old_rating, new_rating)
 
         if threshold is not None:
-            yield (entry["UserScreenName"], old_rating, new_rating, threshold)
+            division = DIVISIONS.get(entry.get("Division"))
+            yield (entry["UserScreenName"], old_rating, new_rating, threshold, division)
 
 
 if __name__ == "__main__":
