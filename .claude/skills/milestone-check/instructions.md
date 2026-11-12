@@ -38,6 +38,18 @@ Do **not** use WebFetch on the results JSON: it truncates to ~200 of 10000+ rows
 summarizer mis-counts. Do **not** use `curl` (denied by project settings); the script uses
 `python3`, which is allowed.
 
+**Divided AHCs (long AHCs from `ahc074` on):** the contest runs a **Human Only** and a
+**With AI** division. Both share one Heuristic rating, so a crossing in either division counts —
+both are candidates.
+
+- `results/json` returns both divisions in one response. Each row has `Division`:
+  `1` = Human Only, `2` = With AI, `0` = no division selected (always unrated) or an undivided
+  contest.
+- `results/human_only` and `results/with_ai` are only filtered views of the same data;
+  `results/human_only/json` and `results/with_ai/json` return 404. Do not fetch them.
+- The script appends `division=Human Only` / `division=With AI` to each line for these contests;
+  the line format is unchanged for undivided contests.
+
 ## Step 1.5: Verify each candidate
 
 Confirm each crossing via the user's small history JSON (`old -> new` for the contest entry):
@@ -55,7 +67,8 @@ https://atcoder.jp/users/{username}/history/json?contestType=heuristic
 
 Fetch with WebFetch (small page, not truncated) or python3. A non-existent handle returns `[]` —
 use this to catch typos / wrong case before concluding a user is missing (for AHC, only after
-retrying with `?contestType=heuristic`).
+retrying with `?contestType=heuristic`). Each history entry also has `Division`, so the division
+from Step 1 can be checked here too.
 
 Etiquette: the Step 1 results fetch is a single request (no sleep needed). When iterating per-user
 requests here or in Step 3, keep `sleep 1` between them and avoid firing many in parallel.
@@ -108,13 +121,20 @@ has no blog. Conclude "Not found" only after the web search also turns up nothin
 
 Skip this step entirely if no blog was found in Step 3.
 
-Fetch: `https://atcoder.jp/contests/{contest_id}/submissions?f.User={username}`
+The contest submissions page (`https://atcoder.jp/contests/{contest_id}/submissions?f.User={username}`)
+redirects to sign-in, so use the AtCoder Problems API with python3 instead:
 
-- Use the most frequently submitted language in this contest.
+```
+https://kenkoooo.com/atcoder/atcoder-api/v3/user/submissions?user={username}&from_second={epoch}
+```
+
+- `{epoch}` is the contest start time in UNIX seconds. One response holds at most 500
+  submissions; if it returns 500, request again from the last `epoch_second + 1`.
+- Keep submissions with `contest_id == {contest_id}` and use the most frequent language.
+  Count compiler variants as one language (e.g. `C++23 (GCC ...)` and `C++23 (Clang ...)` are C++).
 - Tie-break: prefer the language for the hardest problem solved (latest letter, e.g. F > D).
-- WebFetch may return a sign-in page for this URL. If so, fall back to: the language stated in the
-  found blog, then `https://atcoder.jp/users/{username}` (last 10 contests).
-- If zero submissions: check `https://atcoder.jp/users/{username}` (last 10 contests).
+- If zero submissions in this contest: use the submissions from the last 90 days
+  (`from_second` = contest end time − 90 days), then the language stated in the found blog.
 
 ---
 
@@ -145,3 +165,6 @@ Output in the following structure:
 ```
 
 Include all detected users. Use `—` for language when no blog was found.
+
+For divided AHCs, add a `Division` column (`Human Only` / `With AI`) after `Username` in both
+tables, and append the division to each "Listed" line, e.g. `- bar (Human Only, Yellow → Orange, heuristic/cpp.md)`.
