@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-11-13
+
+- [#13009](https://github.com/KATO-Hiro/AtCoderClans/pull/13009) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の記事を追加。
+    - [日本最大のプログラミングコンテストサイト AtCoder 全世界での登録者数が100万人を突破！](https://prtimes.jp/main/html/rd/p/000000067.000028415.html)
+
 ### 2026-11-12
 
 - [#13004](https://github.com/KATO-Hiro/AtCoderClans/pull/13004) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ブログ](../../blogs)」ページにおけるヒューリスティック部門において、最高レーティングが2000〜に到達したユーザのブログを追加。また、一部のユーザについては昇段に伴い、掲載するレーティング帯を変更。
