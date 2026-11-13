@@ -135,6 +135,11 @@
 
 === "記事"
 
+    2026-11-13
+
+    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
+        - [日本最大のプログラミングコンテストサイト AtCoder 全世界での登録者数が100万人を突破！](https://prtimes.jp/main/html/rd/p/000000067.000028415.html)
+
     2026-11-11
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -159,11 +164,6 @@
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
         - [AtCoder Junior League 2026 Winter - 学校ランキング (2026年11月2日時点)](https://x.com/atcoder/status/2117068078580371954)
-
-    2026-10-30
-
-    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
-        - [【Rails】焼きなまし法で会議室予約アプリに空き時間最適化機能を実装してみた](https://zenn.dev/port_inc/articles/eaf460ff291c97)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
