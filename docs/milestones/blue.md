@@ -4,6 +4,7 @@ title: レーティング1600〜1999(青色)
 
 ## 2026年
 
+- [AtCoder：RubyとC++と自作ツールで入青した](https://zenn.dev/mnonamer/articles/atcoder-blue) - [MNoNamer](https://atcoder.jp/users/MNoNamer)さんが、2026年11月14日に達成。
 - [ABC482で入青しました！](https://qiita.com/yoniha/items/c5e23c033bf3e09d0f20) - [yoniha](https://atcoder.jp/users/yoniha)さんが、2026年11月10日に公開。
 - [10か月間レートが停滞した自分が突如黄パフォを出し青コーダーになれた理由](https://qiita.com/river0525/items/b1a996308f0566a01384) - [river0525](https://atcoder.jp/users/river0525)さんが、2026年11月1日に公開。
 - [AtCoder 青色になりました - haruharu_fffのブログ](https://haruharu-fff.hatenablog.jp/entry/2026/10/24/120000) - [haruharufff](https://atcoder.jp/users/haruharufff)さんが、2026年10月17日に達成。
