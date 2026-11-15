@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-11-15
+
+- [#13014](https://github.com/KATO-Hiro/AtCoderClans/pull/13014) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
+    - レーティング1600から1999まで(青色)に[MNoNamer](https://atcoder.jp/users/MNoNamer)さんの[記事](https://zenn.dev/mnonamer/articles/atcoder-blue)を追加。
+
 ### 2026-11-13
 
 - [#13009](https://github.com/KATO-Hiro/AtCoderClans/pull/13009) - 「[Articles, Blogs, Books and Videos](../../media)」の「[入門者・初心者向けの内容](../../articles/introduction)」ページに、以下の記事を追加。
