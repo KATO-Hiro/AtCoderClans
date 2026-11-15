@@ -124,15 +124,6 @@
       <img loading="lazy" src="images/userscript/ahc_v3_division_performance_predictor.png" alt="ahc v3 division performance predictor">
     </div>
 
-    2026-11-01
-
-    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
-        - [AtCoder Color Standings - Inline](https://greasyfork.org/ja/scripts/596489-atcoder-color-standings-inline)
-
-    <div align="center">
-      <img loading="lazy" src="images/userscript/atcoder_color_standings_inline.png" alt="atcoder color standings inline">
-    </div>
-
 === "記事"
 
     2026-11-13
@@ -177,13 +168,6 @@
     - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
         - [otarou](https://atcoder.jp/users/otarou?contestType=heuristic)さん - [Qiita](https://qiita.com/otarou)
 
-=== "書籍"
-
-    2026-10-31
-
-    - 「[書籍](books)」ページ
-        - [新版 プログラミングコンテスト攻略のためのアルゴリズムとデータ構造](https://www.amazon.co.jp/dp/B0H3YS9R77/)
-
 === "ライブラリ・スニペット"
 
     2026-11-05
@@ -194,6 +178,11 @@
 === "色変記事"
 
     色変記事とは、コンテストの参加者が所定のレーティングに到達した喜びをつづった記事(動画も含む)のことです。
+
+    2026-11-15
+
+    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
+        - [MNoNamer](https://atcoder.jp/users/MNoNamer)さん - [AtCoder：RubyとC++と自作ツールで入青した](https://zenn.dev/mnonamer/articles/atcoder-blue)
 
     2026-11-11
 
@@ -214,10 +203,6 @@
     - Rosetta Problems
     - Procon Notification
     - ICPC Replay
-
-    2026-11-01
-
-    - AtCoder_GitCommit
 
 ## AtCoder公式グッズを購入する
 
