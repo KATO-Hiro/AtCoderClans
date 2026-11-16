@@ -4,6 +4,13 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-11-16
+
+- [#13021](https://github.com/KATO-Hiro/AtCoderClans/pull/13021) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
+    - [AtCoder Junior League 2026 Winter - 学校ランキング (2026年11月16日時点)](https://x.com/atcoder/status/2122148237184467453)
+- [#13020](https://github.com/KATO-Hiro/AtCoderClans/pull/13020) - 「[Articles, Blogs, Books and Videos](../../media)」の「[部活・サークル・同好会・オンサイトイベントに参加する](../../articles/club_activities)」ページに、以下の記事を追加。
+    - [「ゆるふわ競技プログラミングオンサイト at FORCIA #9」を開催しました](https://www.forcia.com/blog/003371.html)
+
 ### 2026-11-15
 
 - [#13014](https://github.com/KATO-Hiro/AtCoderClans/pull/13014) - 「[Milestones](../../milestones/blue)」ページに、「レーティングの節目に到達した喜びをつづった記事」を掲載。
