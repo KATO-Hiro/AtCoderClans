@@ -126,6 +126,14 @@
 
 === "記事"
 
+    2026-11-16
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2026 Winter - 学校ランキング (2026年11月16日時点)](https://x.com/atcoder/status/2122148237184467453)
+
+    - 「[部活・サークル・同好会・オンサイトイベントに参加する](articles/club_activities)」ページ
+        - [「ゆるふわ競技プログラミングオンサイト at FORCIA #9」を開催しました](https://www.forcia.com/blog/003371.html)
+
     2026-11-13
 
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
@@ -188,11 +196,6 @@
 
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [yoniha](https://atcoder.jp/users/yoniha)さん - [ABC482で入青しました！](https://qiita.com/yoniha/items/c5e23c033bf3e09d0f20)
-
-    2026-11-02
-
-    - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
-        - [river0525](https://atcoder.jp/users/river0525)さん - [10か月間レートが停滞した自分が突如黄パフォを出し青コーダーになれた理由](https://qiita.com/river0525/items/b1a996308f0566a01384)
 
 === "アーカイブス"
 
