@@ -47,6 +47,7 @@ title: Others
 ## Ruby
 
 - [corvvs/shorthanded](https://github.com/corvvs/shorthanded) ![GitHub stars](https://img.shields.io/github/stars/corvvs/shorthanded?style=plastic) - [Corvvs](https://atcoder.jp/users/Corvvs)さんのライブラリ。
+- [sevenc-nanashi/nanacl](https://github.com/sevenc-nanashi/nanacl) ![GitHub stars](https://img.shields.io/github/stars/sevenc-nanashi/nanacl?style=plastic) - [MNoNamer](https://atcoder.jp/users/MNoNamer)さんのライブラリ。[C++版](https://github.com/sevenc-nanashi/nanacl)もある。
 
 ## Scala
 
