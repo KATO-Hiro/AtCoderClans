@@ -178,6 +178,14 @@
 
 === "ライブラリ・スニペット"
 
+    2026-11-17
+
+    - 「[C++](libraries/cpp)」ページ
+        - [sevenc-nanashi/nanacpp](https://github.com/sevenc-nanashi/nanacpp) ![GitHub stars](https://img.shields.io/github/stars/sevenc-nanashi/nanacpp?style=plastic)
+
+    - 「[Others](libraries/others)」ページ
+        - [sevenc-nanashi/nanacl](https://github.com/sevenc-nanashi/nanacl) ![GitHub stars](https://img.shields.io/github/stars/sevenc-nanashi/nanacl?style=plastic)
+
     2026-11-05
 
     - 「[C++](libraries/cpp)」ページ

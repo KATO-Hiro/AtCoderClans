@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-11-17
+
+- [#13025](https://github.com/KATO-Hiro/AtCoderClans/pull/13025) - 「「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページと「[Others](../../libraries/others)」ページに、C++とRubyで実装されたライブラリを追加。
+    - [sevenc-nanashi/nanacpp](https://github.com/sevenc-nanashi/nanacpp) ![GitHub stars](https://img.shields.io/github/stars/sevenc-nanashi/nanacpp?style=plastic)
+    - [sevenc-nanashi/nanacl](https://github.com/sevenc-nanashi/nanacl) ![GitHub stars](https://img.shields.io/github/stars/sevenc-nanashi/nanacl?style=plastic)
+
 ### 2026-11-16
 
 - [#13021](https://github.com/KATO-Hiro/AtCoderClans/pull/13021) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
