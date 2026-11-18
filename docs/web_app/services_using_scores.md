@@ -52,12 +52,6 @@ title: コンテストの成績に関連するサービス
       <img loading = "lazy" src="../../images/web_app/atcoder_anytime.png" alt="atcoder anytime">
     </div>
 
-- [Rating converter](https://silverfoxxxy.github.io/rating-converter) - [AtCoder](https://atcoder.jp/)のレーティングから、[Codeforces](https://codeforces.com/)のレーティング相当値を知ることができる。
-
-    <div align="center">
-      <img loading = "lazy" src="../../images/web_app/rating_converter.png" alt="rating converter">
-    </div>
-
 - [もすーんバチャ Rating Page](https://mosoon.net/mov_rating/top.html) - [MoSooN](https://atcoder.jp/users/MoSooN)さん主催のバーチャルコンテストの結果に基づいて、レーティングのランキングが集計されている。
 
     <div align="center">

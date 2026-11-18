@@ -143,6 +143,14 @@ title: リンク切れ
 
 ### 仮想的なレーティングを計算
 
+- [Rating converter](https://silverfoxxxy.github.io/rating-converter) - [AtCoder](https://atcoder.jp/)のレーティングから、[Codeforces](https://codeforces.com/)のレーティング相当値を知ることができる。
+    - 確認した日: 2026/11/18
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/web_app/rating_converter.png" alt="rating converter">
+    </div>
+
+
 - [AtCoder Heuristic Rating Estimator](https://3w36zj6.github.io/atcoder-heuristic-rating-estimator/) - AtCoder Heuristic Contest(AHC)で目標とするレーティングに到達するために、次のコンテストで必要となるパフォーマンス値を計算する。利用にあたっては、過去に参加したコンテストのパフォーマンス値の入力が必要。また、作者による[技術解説記事](https://zenn.dev/3w36zj6/articles/5797217ce0f9ee)も公開されている。
     - 確認した日: 2026/07/15
 
