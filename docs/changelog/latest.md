@@ -4,6 +4,10 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-11-18
+
+- [#13030](https://github.com/KATO-Hiro/AtCoderClans/pull/13030) - (破壊的な変更) リンク切れのサービスを「[Archives](../../archived)」ページに移動。
+
 ### 2026-11-17
 
 - [#13025](https://github.com/KATO-Hiro/AtCoderClans/pull/13025) - 「「[Libraries and Snippets](../../libraries)」の「[C++](../../libraries/cpp)」ページと「[Others](../../libraries/others)」ページに、C++とRubyで実装されたライブラリを追加。
