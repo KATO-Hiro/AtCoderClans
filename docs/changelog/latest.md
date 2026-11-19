@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-11-19
+
+- [#13033](https://github.com/KATO-Hiro/AtCoderClans/pull/13033) - [sevenc-nanashi](https://github.com/sevenc-nanashi)さんのプルリクエストにより「[Command line tools](../../cli)」の「[ソースコードにバグがないか確認](../../cli/test_tools)」ページにコマンドラインツールを追加。また「[Scripts](../../scripts)」の「[ライバルを探す・競う](../../user_scripts/rivals)」ページにユーザスクリプトを追加。
+    - [Competitive Programming CLI](https://sevenc7c.com/competitive-programming-cli/ja/) ![GitHub stars](https://img.shields.io/github/stars/sevenc-nanashi/competitive-programming-cli?style=plastic)
+    - [AtCoder Standings Custom Filter](https://github.com/sevenc-nanashi/atcoder_standings_custom_filter)
+
 ### 2026-11-18
 
 - [#13030](https://github.com/KATO-Hiro/AtCoderClans/pull/13030) - (破壊的な変更) リンク切れのサービスを「[Archives](../../archived)」ページに移動。
