@@ -42,6 +42,14 @@ title: ソースコードにバグがないか確認
       <img loading = "lazy" src="../../images/cli/atcoder_tools.gif" alt="atcoder tools">
     </div>
 
+- [Competitive Programming CLI](https://sevenc7c.com/competitive-programming-cli/ja/) ![GitHub stars](https://img.shields.io/github/stars/sevenc-nanashi/competitive-programming-cli?style=plastic) - サンプルケースのダウンロード、テスト、提出、提出結果の確認ができる。
+    - 複数のコンテストサイトで利用可能。詳細は、[一覧](https://sevenc7c.com/competitive-programming-cli/ja/workspaces/index.html)を参照されたい。
+    - 後述するOnline Judge Toolsからの[移行ガイド](https://sevenc7c.com/competitive-programming-cli/ja/cpg-vs-oj/index.html)が用意されている。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/cli/cpg.gif" alt="Competitive Programming CLI (cpg) のデモ">
+    </div>
+
 - [Online Judge API Client](https://github.com/online-judge-tools/api-client) ![GitHub stars](https://img.shields.io/github/stars/online-judge-tools/api-client?style=plastic) - 後述する[Online Judge Tools](https://github.com/online-judge-tools/oj)における`oj` commandのbackendライブラリとして使われている。サンプルケースやコンテスト情報などを出力できる。
 - [Online Judge Tools](https://github.com/online-judge-tools/oj) ![GitHub stars](https://img.shields.io/github/stars/online-judge-tools/oj?style=plastic) - サンプルケースのダウンロード、テスト、提出ができる。
     - [WSL への online-judge-tools (oj) 導入メモ 2025年5月時点](https://qiita.com/hamamu/items/243e2d82fe6316fef6c3) - Windows Subsystem for Linux (WSL)で利用するときに、筆者が遭遇したエラーとトラブルシューティングがまとめられている。
