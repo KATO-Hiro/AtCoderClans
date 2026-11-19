@@ -115,13 +115,13 @@
 
 === "ユーザスクリプト"
 
-    2026-11-03
+    2026-11-19
 
-    - 「[コンテストの成績や関連する統計情報を見る](user_scripts/view_scores)」ページ
-        - [AHC v3 Division Performance Predictor](https://greasyfork.org/ja/scripts/603439-ahc-v3-division-performance-predictor)
+    - 「[ライバルを探す・競う](user_scripts/rivals)」ページ
+        - [AtCoder Standings Custom Filter](https://github.com/sevenc-nanashi/atcoder_standings_custom_filter)
 
     <div align="center">
-      <img loading="lazy" src="images/userscript/ahc_v3_division_performance_predictor.png" alt="ahc v3 division performance predictor">
+      <img loading="lazy" src="images/userscript/atcoder_standings_custom_filter.png" alt="atcoder standings custom filter">
     </div>
 
 === "記事"
@@ -159,11 +159,6 @@
     - 「[入門者・初心者向けの内容](articles/introduction)」ページ
         - [Pythonで競プロ(AtCoder)を始める人がC精進までにやるべきこと一覧](https://qiita.com/Prrapp/items/ed07ace56f06bfdb676b)
 
-    2026-11-03
-
-    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
-        - [AtCoder Junior League 2026 Winter - 学校ランキング (2026年11月2日時点)](https://x.com/atcoder/status/2117068078580371954)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
@@ -186,10 +181,16 @@
     - 「[Others](libraries/others)」ページ
         - [sevenc-nanashi/nanacl](https://github.com/sevenc-nanashi/nanacl) ![GitHub stars](https://img.shields.io/github/stars/sevenc-nanashi/nanacl?style=plastic)
 
-    2026-11-05
+=== "コマンドラインツール"
 
-    - 「[C++](libraries/cpp)」ページ
-        - [Rieul0406/Un_titled_Library](https://github.com/Rieul0406/Un_titled_Library) ![GitHub Repo stars](https://img.shields.io/github/stars/Rieul0406/Un_titled_Library?style=plastic)
+    2026-11-19
+
+    - 「[ソースコードにバグがないか確認](cli/test_tools)」ページ
+        - [Competitive Programming CLI](https://sevenc7c.com/competitive-programming-cli/ja/) ![GitHub stars](https://img.shields.io/github/stars/sevenc-nanashi/competitive-programming-cli?style=plastic)
+
+    <div align="center">
+      <img loading="lazy" src="images/cli/cpg.gif" alt="demo of Competitive Programming CLI (cpg)">
+    </div>
 
 === "色変記事"
 
