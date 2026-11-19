@@ -14,6 +14,12 @@ title: ライバルを探す・競う
 
 ### ユーザ名を指定して検索
 
+- [AtCoder Standings Custom Filter](https://github.com/sevenc-nanashi/atcoder_standings_custom_filter) - 「順位表」ページで、複数のユーザー名を指定してフィルタリングできるボタンを追加する。
+
+    <div align="center">
+      <img loading = "lazy" src="../../images/userscript/atcoder_standings_custom_filter.png" alt="atcoder standings custom filter">
+    </div>
+
 - [AtCoderUserSearchForm](https://greasyfork.org/ja/scripts/382092-atcoderusersearchform) - 「ホーム」ページにユーザ検索のフォームを追加する。日本語版ページのみ有効。
 
     <div align="center">
