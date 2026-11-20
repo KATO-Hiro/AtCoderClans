@@ -6,7 +6,7 @@ title: Change Log
 
 ### 2026-11-20
 
-- [#13036](https://github.com/KATO-Hiro/AtCoderClans/pull/13036) - (破壊的な変更) [#12050](https://github.com/KATO-Hiro/AtCoderClans/pull/12050) で「[Archives](../../archived)」ページに移動したコンテストサイトが再開しているのを確認したため、「[Related Contest Sites](../../related_contest_sites)」の「[BOJ (Baekjoon Online Judge)](../../related_contest_sites/boj)」ページに戻した。
+- [#13038](https://github.com/KATO-Hiro/AtCoderClans/pull/13038) - (破壊的な変更) [#12050](https://github.com/KATO-Hiro/AtCoderClans/pull/12050) で「[Archives](../../archived)」ページに移動したコンテストサイトが再開しているのを確認したため、「[Related Contest Sites](../../related_contest_sites)」の「[BOJ (Baekjoon Online Judge)](../../related_contest_sites/boj)」ページに戻した。
     - [Baekjoon Online Judge](https://www.acmicpc.net/)
     - [solved.ac](https://solved.ac/en)
 
