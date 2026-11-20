@@ -6,6 +6,10 @@ title: Change Log
 
 ### 2026-11-20
 
+- [#13041](https://github.com/KATO-Hiro/AtCoderClans/pull/13041) - (破壊的な変更) [#12997](https://github.com/KATO-Hiro/AtCoderClans/pull/12997) で「[Archives](../../archived)」ページに移動したサービスが新しいドメインで再公開されているのを確認したため、URLを差し替えて元のページに戻した。
+    - [ICPC Replay](https://icpc-replay.pages.dev/)
+    - [Procon Notification](https://procon-notification.pages.dev/)
+    - [Rosetta Problems](https://rosetta-problems-dev.pages.dev/)
 - [#13038](https://github.com/KATO-Hiro/AtCoderClans/pull/13038) - (破壊的な変更) [#12050](https://github.com/KATO-Hiro/AtCoderClans/pull/12050) で「[Archives](../../archived)」ページに移動したコンテストサイトが再開しているのを確認したため、「[Related Contest Sites](../../related_contest_sites)」の「[BOJ (Baekjoon Online Judge)](../../related_contest_sites/boj)」ページに戻した。
     - [Baekjoon Online Judge](https://www.acmicpc.net/)
     - [solved.ac](https://solved.ac/en)

@@ -113,6 +113,27 @@
     - [tokugh](https://github.com/tokugh)
     - [ONPU3](https://github.com/ONPU3)
 
+=== "Webアプリ・Webサイト"
+
+    2026-11-20
+
+    - 「[問題を解く](web_app/solve_problems)」ページ
+        - [Rosetta Problems](https://rosetta-problems-dev.pages.dev/)
+
+    - 「[コンテストに参加する](web_app/participate_in_contests)」ページ
+        - [Procon Notification](https://procon-notification.pages.dev/)
+
+    <div align="center">
+      <img loading="lazy" src="images/web_app/procon_notification.png" alt="procon notification">
+    </div>
+
+=== "ボット"
+
+    2026-11-20
+
+    - 「[Bot](bot)」ページ
+        - [Procon Notification](https://x.com/procon_notify)
+
 === "ユーザスクリプト"
 
     2026-11-19
@@ -214,6 +235,13 @@
         - [Baekjoon Online Judge](https://www.acmicpc.net/)
         - [solved.ac](https://solved.ac/en)
 
+    - 「[ICPC (国際大学対抗プログラミングコンテスト)](related_contest_sites/icpc)」ページ
+        - [ICPC Replay](https://icpc-replay.pages.dev/)
+
+    <div align="center">
+      <img loading = "lazy" src="images/related_contest_sites/icpc/icpc_replay.png" alt="icpc replay">
+    </div>
+
 === "アーカイブス"
 
     諸事情により事実上開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
@@ -221,12 +249,6 @@
     2026-11-18
 
     - Rating converter
-
-    2026-11-11
-
-    - Rosetta Problems
-    - Procon Notification
-    - ICPC Replay
 
 ## AtCoder公式グッズを購入する
 
