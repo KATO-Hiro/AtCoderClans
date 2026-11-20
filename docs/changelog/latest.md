@@ -4,6 +4,12 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-11-20
+
+- [#13036](https://github.com/KATO-Hiro/AtCoderClans/pull/13036) - (破壊的な変更) [#12050](https://github.com/KATO-Hiro/AtCoderClans/pull/12050) で「[Archives](../../archived)」ページに移動したコンテストサイトが再開しているのを確認したため、「[Related Contest Sites](../../related_contest_sites)」の「[BOJ (Baekjoon Online Judge)](../../related_contest_sites/boj)」ページに戻した。
+    - [Baekjoon Online Judge](https://www.acmicpc.net/)
+    - [solved.ac](https://solved.ac/en)
+
 ### 2026-11-19
 
 - [#13033](https://github.com/KATO-Hiro/AtCoderClans/pull/13033) - [sevenc-nanashi](https://github.com/sevenc-nanashi)さんのプルリクエストにより「[Command line tools](../../cli)」の「[ソースコードにバグがないか確認](../../cli/test_tools)」ページにコマンドラインツールを追加。また「[Scripts](../../scripts)」の「[ライバルを探す・競う](../../user_scripts/rivals)」ページにユーザスクリプトを追加。
