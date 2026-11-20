@@ -206,6 +206,14 @@
     - 「[レーティング1600〜1999(青色)](milestones/blue)」ページ
         - [yoniha](https://atcoder.jp/users/yoniha)さん - [ABC482で入青しました！](https://qiita.com/yoniha/items/c5e23c033bf3e09d0f20)
 
+=== "国内外のコンテストサイト"
+
+    2026-11-20
+
+    - 「[BOJ (Baekjoon Online Judge)](related_contest_sites/boj)」ページ
+        - [Baekjoon Online Judge](https://www.acmicpc.net/)
+        - [solved.ac](https://solved.ac/en)
+
 === "アーカイブス"
 
     諸事情により事実上開発・提供が終了した(と思われる)サービス・ツールなどに対して、感謝や敬意を表するため掲載しています。
