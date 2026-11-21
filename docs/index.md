@@ -50,6 +50,8 @@
 
 - [AtCoderInfo](https://info.atcoder.jp/) - [AtCoder](https://atcoder.jp/)の公式ポータルサイトです。コンテストの参加方法や取り組み方、採用担当者向け情報などが公開されています。
 
+- [アルゴリズム部門の admin が引退します](https://atcoder.jp/posts/goodbye_maroonrk_ja) - [maroonrk](https://atcoder.jp/users/maroonrk)さんが2027年1月をもって引退することと、今後のコンテスト運営方針や個人の活動予定について説明しています。
+
 #### 利用規約・プライバシーポリシー
 
 - [AtCoderにおける提出ソースコードのAI事業者向け販売と、それに伴う利用規約・プライバシーポリシー変更についてのお知らせ](https://atcoder.jp/posts/opt-out-notify-jp) - 2026年8月からAI学習用データ販売事業の開始と、これに伴う規約や設定変更（任意）に関するお知らせです。
