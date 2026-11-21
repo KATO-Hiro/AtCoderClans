@@ -193,6 +193,7 @@ title: ヒューリスティック問題を解く
 - [AHC 053 満点解法](https://yosupo.hatenablog.com/entry/2025/09/15/213945) - [yosupo](https://atcoder.jp/users/yosupo)さんが[第12回 Asprova プログラミングコンテスト（AtCoder Heuristic Contest 053）](https://atcoder.jp/contests/ahc053)で全ケース満点を取った解法が紹介されている。
 - [AHC063参加記 (最終4位)](https://zenn.dev/through/articles/d95a7007ea77ce) - [through](https://atcoder.jp/users/through)さんによる[AtCoder Heuristic Contest 063](https://atcoder.jp/contests/ahc063)の参加記。解法の概略、評価関数や遷移の考え方などが紹介されている。
 - [AHC071 解法](https://topcoder-tomerun.hatenablog.jp/entry/2026/09/20/160029) - [tomerun](https://atcoder.jp/users/tomerun?contestType=heuristic)さんが[AtCoder Heuristic Contest 071](https://atcoder.jp/contests/ahc071)の解法を紹介している。
+- [参戦記 ; HACK TO THE FUTURE (AHC074)](https://satomshr.hatenablog.com/entry/2026/11/14/180921) - [satomshr](https://atcoder.jp/users/satomshr?contestType=heuristic)さんによる[HACK TO THE FUTURE 2027 （AtCoder Heuristic Contest 074）](https://atcoder.jp/contests/ahc074)の参加記。
 - [FakePsyho/cpcontests](https://github.com/FakePsyho/cpcontests) ![GitHub Repo stars](https://img.shields.io/github/stars/FakePsyho/cpcontests?style=plastic) - [Psyho](https://atcoder.jp/users/Psyho)さんが参加したコンテストの解答の方針とソースコードがまとめられている。
 
     ---
