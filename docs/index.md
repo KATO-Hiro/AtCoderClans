@@ -147,6 +147,11 @@
 
 === "記事"
 
+    2026-11-21
+
+    - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
+        - [参戦記 ; HACK TO THE FUTURE (AHC074)](https://satomshr.hatenablog.com/entry/2026/11/14/180921)
+
     2026-11-16
 
     - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
@@ -174,11 +179,6 @@
 
     - 「[実装テクニックを学ぶ - 複数の言語](articles/implementation/multiple_languages)」ページ
         - [浮動小数点型の典型撃墜ケース](https://rsk0315.hatenablog.com/entry/2026/11/07/185402)
-
-    2026-11-06
-
-    - 「[入門者・初心者向けの内容](articles/introduction)」ページ
-        - [Pythonで競プロ(AtCoder)を始める人がC精進までにやるべきこと一覧](https://qiita.com/Prrapp/items/ed07ace56f06bfdb676b)
 
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
