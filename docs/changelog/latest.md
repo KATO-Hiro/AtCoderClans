@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-11-22
+
+- [#13048](https://github.com/KATO-Hiro/AtCoderClans/pull/13048) - 「[Home](../..)」ページに、以下の記事を掲載。
+    - [アルゴリズム部門の admin が引退します](https://atcoder.jp/posts/goodbye_maroonrk_ja)
+
 ### 2026-11-21
 
 - [#13045](https://github.com/KATO-Hiro/AtCoderClans/pull/13045) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
