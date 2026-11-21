@@ -177,11 +177,6 @@
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
         - [HACK TO THE FUTURE 2027 （AtCoder Heuristic Contest 074）参加記](https://kaede2020.hatenablog.com/entry/2026/11/09/190019)
 
-    2026-11-08
-
-    - 「[実装テクニックを学ぶ - 複数の言語](articles/implementation/multiple_languages)」ページ
-        - [浮動小数点型の典型撃墜ケース](https://rsk0315.hatenablog.com/entry/2026/11/07/185402)
-
 === "ブログ"
     アルゴリズム部門・ヒューリスティック部門におけるランキング上位の日本人ユーザのブログをまとめています(順不同)。
 
