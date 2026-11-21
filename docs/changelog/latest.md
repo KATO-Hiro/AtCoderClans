@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-11-21
+
+- [#13045](https://github.com/KATO-Hiro/AtCoderClans/pull/13045) - 「[Articles, Blogs, Books and Videos](../../media)」の「[ヒューリスティック問題を解く](../../articles/heuristic)」ページに、以下の記事を追加。
+    - [参戦記 ; HACK TO THE FUTURE (AHC074)](https://satomshr.hatenablog.com/entry/2026/11/14/180921)
+
 ### 2026-11-20
 
 - [#13041](https://github.com/KATO-Hiro/AtCoderClans/pull/13041) - (破壊的な変更) [#12997](https://github.com/KATO-Hiro/AtCoderClans/pull/12997) で「[Archives](../../archived)」ページに移動したサービスが新しいドメインで再公開されているのを確認したため、URLを差し替えて元のページに戻した。
