@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-11-23
+
+- [#13053](https://github.com/KATO-Hiro/AtCoderClans/pull/13053) -「[Home](../..)」ページと「[For Beginners](../../for_beginners)」の「[Q3: コンテストは、いつ開催されていますか?](../../for_beginners/question3)」ページと「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
+    - [AtCoder Grand Contest 参加・録画ルール - 20261121版](https://info.atcoder.jp/entry/agc_proctoring_rules_ja)
+
 ### 2026-11-22
 
 - [#13048](https://github.com/KATO-Hiro/AtCoderClans/pull/13048) - 「[Home](../..)」ページに、以下の記事を掲載。

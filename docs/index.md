@@ -115,6 +115,12 @@
     - [tokugh](https://github.com/tokugh)
     - [ONPU3](https://github.com/ONPU3)
 
+=== "ホーム"
+
+    2026-11-23
+
+    - [AtCoder Grand Contest 参加・録画ルール - 20261121版](https://info.atcoder.jp/entry/agc_proctoring_rules_ja)
+
 === "Webアプリ・Webサイト"
 
     2026-11-20
