@@ -70,7 +70,7 @@
 - [AtCoder生成AI対策ルール - 20261014版](https://info.atcoder.jp/entry/llm-rules-ja) - AtCoder Beginner Contest (通称 ABC)、AtCoder Regular Contest (同 ARC) および AtCoder Grand Contest (同 AGC) のコンテスト開催中を対象として、生成AIの利用における禁止事項が説明されています ([英語版](https://info.atcoder.jp/entry/llm-rules-en))。
     - [生成AIの技術向上に伴うABC,ARC,AGCにおけるルール変更について](https://atcoder.jp/posts/1567) - 2025年10月上旬時点での生成AI対策ルールの概要と、主な変更点がまとめられています。
     - [ARC Div.1 に関する生成AIルール変更について](https://atcoder.jp/posts/1513) - ARC Div.1 も上記ルールの対象となったことが告知されています。
-    - [AGC073でのAI使用について](https://atcoder.jp/posts/1563) - AGC073 で生成AI単独で解答可能な問題が出題されたことや今後の対応について言及されています。
+    - [AtCoder Grand Contest 参加・録画ルール - 20261121版](https://info.atcoder.jp/entry/agc_proctoring_rules_ja) - AGC080 以降、unrated 参加に関する制限やレーティング・GP30ポイントの獲得に必要な録画ルールの厳格化などが告知されています。
     - [AHCにおける生成AIルールの策定について](https://atcoder.jp/posts/1494) - AtCoder Heuristic Contest (通称 AHC) 049以降で適用される生成AI利用ルールのお知らせです ([詳細](https://info.atcoder.jp/entry/ahc-llm-rules-ja))。
         - [今後の長期 AtCoder Heuristic Contest（AHC）の開催形式について](https://atcoder.jp/posts/long-ahc-divisions-2026)
         - [短期AHCにおける生成AI利用ルール変更のお知らせ](https://atcoder.jp/posts/short-ahc-llm-rules-ja)
