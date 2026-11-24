@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-11-24
+
+- [#13059](https://github.com/KATO-Hiro/AtCoderClans/pull/13059) - (破壊的な変更) 「[Change Log](../latest)」ページの2026年10月分を月別のアーカイブに移動。
+    - [October, 2026](../2026_10)
+
 ### 2026-11-23
 
 - [#13053](https://github.com/KATO-Hiro/AtCoderClans/pull/13053) -「[Home](../..)」ページと「[For Beginners](../../for_beginners)」の「[Q3: コンテストは、いつ開催されていますか?](../../for_beginners/question3)」ページと「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに向けた練習方法を知る](../../articles/how_to_practice)」ページに、以下の記事を追加。
