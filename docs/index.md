@@ -155,6 +155,11 @@
 
 === "記事"
 
+    2026-11-25
+
+    - 「[コンテストに関する統計情報を見る](articles/view_scores)」ページ
+        - [AtCoder Junior League 2026 Winter - 学校ランキング (2026年11月24日時点)](https://x.com/atcoder/status/2125038210539716708)
+
     2026-11-21
 
     - 「[ヒューリスティック問題を解く](articles/heuristic)」ページ
