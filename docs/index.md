@@ -144,6 +144,15 @@
 
 === "ユーザスクリプト"
 
+    2026-11-26
+
+    - 「[コンテストに参加する](user_scripts/participate_in_contests)」ページ
+        - [AtCoder Home - 新着は既読でも表示](https://greasyfork.org/ja/scripts/607034-atcoder-home-%E6%96%B0%E7%9D%80%E3%81%AF%E6%97%A2%E8%AA%AD%E3%81%A7%E3%82%82%E8%A1%A8%E7%A4%BA)
+
+    <div align="center">
+      <img loading="lazy" src="images/userscript/atcoder_home_how_also_new_messages_marked_as_read.png" alt="">
+    </div>
+
     2026-11-19
 
     - 「[ライバルを探す・競う](user_scripts/rivals)」ページ
