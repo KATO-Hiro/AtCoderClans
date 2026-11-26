@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-11-26
+
+- [#13067](https://github.com/KATO-Hiro/AtCoderClans/pull/13067) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
+    - [AtCoder Home - 新着は既読でも表示](https://greasyfork.org/ja/scripts/607034-atcoder-home-%E6%96%B0%E7%9D%80%E3%81%AF%E6%97%A2%E8%AA%AD%E3%81%A7%E3%82%82%E8%A1%A8%E7%A4%BA)
+
 ### 2026-11-25
 
 - [#13062](https://github.com/KATO-Hiro/AtCoderClans/pull/13062) - 「[Articles, Blogs, Books and Videos](../../media)」の「[コンテストに関する統計情報を見る](../../articles/view_scores)」ページに、以下のポストを追加。
