@@ -18,6 +18,14 @@ title: コンテストに参加する
       <img loading = "lazy" src="../../images/userscript/atcoder_google_calender.png" alt="atcoder google calender">
     </div>
 
+## AtCoder のお知らせの表示をカスタマイズ
+
+- [AtCoder Home - 新着は既読でも表示](https://greasyfork.org/ja/scripts/607034-atcoder-home-%E6%96%B0%E7%9D%80%E3%81%AF%E6%97%A2%E8%AA%AD%E3%81%A7%E3%82%82%E8%A1%A8%E7%A4%BA) - 「ホーム」ページで、新着は既読でも表示し続けるようにする。
+
+    <div align="center">
+      <img loading="lazy" src="../../images/userscript/atcoder_home_how_also_new_messages_marked_as_read.png" alt="">
+    </div>
+
 ## 直近のAtCoder Beginner Contest (ABC)を閲覧
 
 - [AtCoder-RedirectRecentABC](https://greasyfork.org/ja/scripts/508772-atcoder-redirectrecentabc) - 直近(開催中を含む)のAtCoder Beginner Contest (ABC)を閲覧できるようにする。
