@@ -4,6 +4,11 @@ title: Change Log
 
 本サイトの更新履歴を掲載しています。
 
+### 2026-11-27
+
+- [#13070](https://github.com/KATO-Hiro/AtCoderClans/pull/13070) - 「[Articles, Blogs, Books and Videos](../../media)」の「[書籍](../../books)」ページに、以下の書籍を追加。
+    - [けいぷろ！](https://kakuyomu.jp/works/2912051603150496743)
+
 ### 2026-11-26
 
 - [#13067](https://github.com/KATO-Hiro/AtCoderClans/pull/13067) - 「[Scripts](../../scripts)」の「[コンテストに参加する](../../user_scripts/participate_in_contests)」ページに、以下のユーザスクリプトを追加。
