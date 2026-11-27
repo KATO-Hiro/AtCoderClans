@@ -209,6 +209,13 @@
     - 「[ヒューリスティック部門 - Python](blogs/heuristic/python)」ページ
         - [otarou](https://atcoder.jp/users/otarou?contestType=heuristic)さん - [Qiita](https://qiita.com/otarou)
 
+=== "書籍"
+
+    2026-11-27
+
+    - 「[書籍](books)」ページ
+        - [けいぷろ！](https://kakuyomu.jp/works/2912051603150496743)
+
 === "ライブラリ・スニペット"
 
     2026-11-17
