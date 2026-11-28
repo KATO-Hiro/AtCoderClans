@@ -4,6 +4,7 @@ title: レーティング1200〜1599(水色)
 
 ## 2026年
 
+- [【色変記事】AtCoder初めてから2年で水色になりました](https://qiita.com/monerinngu0/items/0aec4b7ba7762475bfc4) - [monerinngu](https://atcoder.jp/users/monerinngu)さんが、2026年11月21日に達成。
 - [AtCoder を始めて 7 年で水色コーダーになりました！](https://qiita.com/NAVYSHUNTA/items/cbd7a9fe4c57a1327737) - [shunta](https://atcoder.jp/users/shunta)さんが、2026年9月6日に達成。
 - [TypeScriptでAtCoderに挑戦する、ということ【入水記念】](https://zenn.dev/aya_koto/articles/95c9303d6d8573) - [AXT_AyaKoto](https://atcoder.jp/users/AXT_AyaKoto)さんが、2026年8月1日に達成。
 - [【入水記事】ABC467で入水しました！](https://note.com/orangekid1210/n/na83e07931c63) - [orangekid](https://atcoder.jp/users/orangekid)さんが、2026年7月19日に公開。
